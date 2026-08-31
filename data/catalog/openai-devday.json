@@ -1,0 +1,550 @@
+{
+  "slug": "openai-devday",
+  "name": "OpenAI DevDay",
+  "enumerated_at": "2026-08-30T21:46:15+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "count": 18
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "count": 29
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "count": 11
+    }
+  ],
+  "count": 58,
+  "videos": {
+    "-l0OqapibAA": {
+      "video_id": "-l0OqapibAA",
+      "title": "Live Demo Showcase: Tools That 10x Your Codebase",
+      "duration_s": 1805,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "0_sHinA0RV0": {
+      "video_id": "0_sHinA0RV0",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Supabase",
+      "duration_s": 576,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "1HL2YHRj270": {
+      "video_id": "1HL2YHRj270",
+      "title": "Building with Open Models",
+      "duration_s": 1358,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "3KAI__5dUn0": {
+      "video_id": "3KAI__5dUn0",
+      "title": "Context Engineering & Coding Agents with Cursor",
+      "duration_s": 1123,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "44eFf-tRiSg": {
+      "video_id": "44eFf-tRiSg",
+      "title": "Intro to Agent Builder",
+      "duration_s": 330,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "5dzK1pOs1lU": {
+      "video_id": "5dzK1pOs1lU",
+      "title": "AI Frontiers: Chad Nelson (OpenAI DevDay)",
+      "duration_s": 440,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "70ush8Vknx8": {
+      "video_id": "70ush8Vknx8",
+      "title": "Sora, ImageGen, and Codex: The Next Wave of Creative Production",
+      "duration_s": 1355,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "7cKbPLzNYws": {
+      "video_id": "7cKbPLzNYws",
+      "title": "A Conversation with Sam and Jony",
+      "duration_s": 1722,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "Bx6sUDRMx-8": {
+      "video_id": "Bx6sUDRMx-8",
+      "title": "OpenAI DevDay 2024 | Balancing accuracy, latency, and cost at scale",
+      "duration_s": 2016,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "Cj4MU_CJhwU": {
+      "video_id": "Cj4MU_CJhwU",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Dimagi",
+      "duration_s": 641,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "CqWpJFK-hOo": {
+      "video_id": "CqWpJFK-hOo",
+      "title": "OpenAI DevDay 2024 | Tuning powerful small models with distillation",
+      "duration_s": 1850,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "DwGNK1DUFsM": {
+      "video_id": "DwGNK1DUFsM",
+      "title": "AgentKit Demo",
+      "duration_s": 564,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "EDqQtysycT4": {
+      "video_id": "EDqQtysycT4",
+      "title": "Built for SF by SF: AI Solutions Helping Our City Thrive",
+      "duration_s": 1576,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "ER9Hqly28Qw": {
+      "video_id": "ER9Hqly28Qw",
+      "title": "Model Behavior: The Science of AI Style",
+      "duration_s": 1041,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "Gr41tYOzE20": {
+      "video_id": "Gr41tYOzE20",
+      "title": "Shipping with Codex",
+      "duration_s": 1734,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "Hn27upT2m_o": {
+      "video_id": "Hn27upT2m_o",
+      "title": "OpenAI DevDay 2024 | Virtual AMA with Sam Altman, moderated by Harry Stebbings, 20VC",
+      "duration_s": 2864,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "JCh30k5ZXzo": {
+      "video_id": "JCh30k5ZXzo",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Amperity",
+      "duration_s": 512,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "KplSDxYv9xU": {
+      "video_id": "KplSDxYv9xU",
+      "title": "Orchestrating Agents at Scale",
+      "duration_s": 1235,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "Mkf1JA8_RkQ": {
+      "video_id": "Mkf1JA8_RkQ",
+      "title": "OpenAI DevDay 2024 | Fireside chat with Olivier Godement and Mark Chen",
+      "duration_s": 1821,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "NA99SpQ--EA": {
+      "video_id": "NA99SpQ--EA",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Vercel",
+      "duration_s": 649,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "NWoSLK1Z530": {
+      "video_id": "NWoSLK1Z530",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Cosine",
+      "duration_s": 913,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "Nn9IE2FV6fs": {
+      "video_id": "Nn9IE2FV6fs",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Grab",
+      "duration_s": 269,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "QIdUllqmuls": {
+      "video_id": "QIdUllqmuls",
+      "title": "Live from DevDay — the OpenAI Podcast Ep. 7",
+      "duration_s": 3675,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "RNcXWPCaLqg": {
+      "video_id": "RNcXWPCaLqg",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Dust",
+      "duration_s": 726,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "RndBNbHuV4s": {
+      "video_id": "RndBNbHuV4s",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Sana AI",
+      "duration_s": 860,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "TK9MN22q6E0": {
+      "video_id": "TK9MN22q6E0",
+      "title": "Measuring Agents With Interactive Evaluations",
+      "duration_s": 1265,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "TLagLRLr4qc": {
+      "video_id": "TLagLRLr4qc",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Genmab",
+      "duration_s": 537,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "U9mJuUkhUzk": {
+      "video_id": "U9mJuUkhUzk",
+      "title": "OpenAI DevDay: Opening Keynote",
+      "duration_s": 2736,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "VKzlXjVRWNA": {
+      "video_id": "VKzlXjVRWNA",
+      "title": "AI Frontiers: Jesper Hvirring Henriksen (OpenAI DevDay)",
+      "duration_s": 566,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "WrANK9oFfHw": {
+      "video_id": "WrANK9oFfHw",
+      "title": "AMA: Scaling AI Applications into the Enterprise",
+      "duration_s": 1630,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "XGJNo8TpuVA": {
+      "video_id": "XGJNo8TpuVA",
+      "title": "The New Stack and Ops for AI",
+      "duration_s": 2050,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "Xjl2SqqrA4s": {
+      "video_id": "Xjl2SqqrA4s",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Mindtrip",
+      "duration_s": 567,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "YEaKXjHENyQ": {
+      "video_id": "YEaKXjHENyQ",
+      "title": "Evals in Action: From Frontier Research to Production Applications",
+      "duration_s": 1297,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "YXiRbRacTF0": {
+      "video_id": "YXiRbRacTF0",
+      "title": "Research x Product",
+      "duration_s": 1133,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "_Zo_s9klKP0": {
+      "video_id": "_Zo_s9klKP0",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | DataKind",
+      "duration_s": 635,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "aFedOROUXMQ": {
+      "video_id": "aFedOROUXMQ",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Stainless",
+      "duration_s": 323,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "ahnGLM-RC1Y": {
+      "video_id": "ahnGLM-RC1Y",
+      "title": "A Survey of Techniques for Maximizing LLM Performance",
+      "duration_s": 2732,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "auXCQ9-721o": {
+      "video_id": "auXCQ9-721o",
+      "title": "OpenAI DevDay 2024 | Welcome + kickoff",
+      "duration_s": 2227,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "eaS0omKFZhQ": {
+      "video_id": "eaS0omKFZhQ",
+      "title": "OpenAI DevDay 2024 | Fireside chat with Sam Altman and Kevin Weil",
+      "duration_s": 2816,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "g_4Ncmf9CiQ": {
+      "video_id": "g_4Ncmf9CiQ",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Klarna",
+      "duration_s": 754,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "h02ti0Bl6zk": {
+      "video_id": "h02ti0Bl6zk",
+      "title": "OpenAI DevDay: Keynote Recap",
+      "duration_s": 211,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "hS1YqcewH0c": {
+      "video_id": "hS1YqcewH0c",
+      "title": "OpenAI DevDay 2025: Opening Keynote with Sam Altman",
+      "duration_s": 3159,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "iXq50gPo-go": {
+      "video_id": "iXq50gPo-go",
+      "title": "AI Frontiers: Helena Merk (OpenAI DevDay)",
+      "duration_s": 483,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "jogHE6EOfAo": {
+      "video_id": "jogHE6EOfAo",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Altera",
+      "duration_s": 686,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "kE4BkATIl9c": {
+      "video_id": "kE4BkATIl9c",
+      "title": "OpenAI DevDay 2024 | Structured outputs for reliable applications",
+      "duration_s": 2440,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "knHW-p31R0c": {
+      "video_id": "knHW-p31R0c",
+      "title": "The Business of AI",
+      "duration_s": 2602,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "mM8KhTxwPgs": {
+      "video_id": "mM8KhTxwPgs",
+      "title": "OpenAI DevDay 2024 | Multimodal apps with the Realtime API",
+      "duration_s": 1786,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "nKuXMDCtyQI": {
+      "video_id": "nKuXMDCtyQI",
+      "title": "OpenAI on OpenAI: Applying AI to Our Own Workflows",
+      "duration_s": 1585,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "pgF98Xm-xkE": {
+      "video_id": "pgF98Xm-xkE",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | LaunchDarkly",
+      "duration_s": 535,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "pq34V_V5j18": {
+      "video_id": "pq34V_V5j18",
+      "title": "New Products: A Deep Dive",
+      "duration_s": 2676,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "r1R3RDPvPeg": {
+      "video_id": "r1R3RDPvPeg",
+      "title": "Developer State Of The Union",
+      "duration_s": 3213,
+      "channel": "OpenAI",
+      "label": "DevDay 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o"
+    },
+    "rL1vMr1euG8": {
+      "video_id": "rL1vMr1euG8",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Sierra",
+      "duration_s": 592,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "rQqKq8knQvg": {
+      "video_id": "rQqKq8knQvg",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | VEED",
+      "duration_s": 618,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "tUEqVOnxcnw": {
+      "video_id": "tUEqVOnxcnw",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Tortus",
+      "duration_s": 812,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "vlqEwE2wVr4": {
+      "video_id": "vlqEwE2wVr4",
+      "title": "OpenAI DevDay 2024 | OpenAI Research",
+      "duration_s": 542,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "wCJejxhpz-w": {
+      "video_id": "wCJejxhpz-w",
+      "title": "AI Frontiers: Annie Hill (OpenAI DevDay)",
+      "duration_s": 474,
+      "channel": "OpenAI",
+      "label": "DevDay 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz"
+    },
+    "wnsZ7DuqYp0": {
+      "video_id": "wnsZ7DuqYp0",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Swyx",
+      "duration_s": 581,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    },
+    "xZc0YQbIyWE": {
+      "video_id": "xZc0YQbIyWE",
+      "title": "OpenAI DevDay 2024 | Community Spotlight | Parloa",
+      "duration_s": 899,
+      "channel": "OpenAI",
+      "label": "DevDay 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y"
+    }
+  }
+}

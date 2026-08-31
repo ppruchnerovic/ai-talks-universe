@@ -1,0 +1,30 @@
+---
+id: Ufyed7mUyR8
+title: "AWS re:Invent 2025 - Driving Profitable Growth with Generative AI: From Prompt to Product (ISV316)"
+slug: aws-re-invent-2025-driving-profitable-growth-with
+conference: aws-reinvent
+conference_name: "AWS re:Invent"
+category: "Vendor & platform"
+edition: "re:Invent 2025 breakouts"
+year: 2025
+speakers: []
+channel: "AWS Events"
+duration_min: 58
+published_at: null
+video_id: Ufyed7mUyR8
+youtube_url: https://www.youtube.com/watch?v=Ufyed7mUyR8
+tags: []
+transcript: false
+---
+
+# AWS re:Invent 2025 - Driving Profitable Growth with Generative AI: From Prompt to Product (ISV316)
+
+**Speaker not identified**
+
+`AWS re:Invent` · `re:Invent 2025 breakouts` · `2025` · `58 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=Ufyed7mUyR8) · [Conference site](https://aws.amazon.com/events/reinvent)
+
+## Description
+
+*No description published on YouTube.*

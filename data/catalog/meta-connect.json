@@ -1,0 +1,391 @@
+{
+  "slug": "meta-connect",
+  "name": "Meta Connect + LlamaCon",
+  "enumerated_at": "2026-08-30T21:49:07+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP",
+      "label": "Connect 2025",
+      "year": 2025,
+      "count": 32
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "count": 9
+    }
+  ],
+  "count": 41,
+  "videos": {
+    "-m0XywLdSPg": {
+      "video_id": "-m0XywLdSPg",
+      "title": "Tailoring Llama for Your Needs: Fine-Tuning & Evaluation",
+      "duration_s": 534,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "1VUfyfeeURw": {
+      "video_id": "1VUfyfeeURw",
+      "title": "Llamacon 2025 - Keynote + Conversation with Mark Zuckerberg and Ali Ghodsi",
+      "duration_s": 4027,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "3P8lHacmM7Q": {
+      "video_id": "3P8lHacmM7Q",
+      "title": "Llama Best Practices: Fine-tuning Llama Models in the Real World",
+      "duration_s": 533,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "4HyOzQH22zw": {
+      "video_id": "4HyOzQH22zw",
+      "title": "Meta Connect 2025: Developer Keynote",
+      "duration_s": 2037,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "4SiwqKSIt7U": {
+      "video_id": "4SiwqKSIt7U",
+      "title": "Building Worlds: A Comprehensive Overview",
+      "duration_s": 658,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "5tN7TJlp3P0": {
+      "video_id": "5tN7TJlp3P0",
+      "title": "User-Generated Content in Meta Horizon",
+      "duration_s": 321,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "6k4T7XOeFW0": {
+      "video_id": "6k4T7XOeFW0",
+      "title": "The Journey of VR Development",
+      "duration_s": 259,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "AlJ1af9875E": {
+      "video_id": "AlJ1af9875E",
+      "title": "New Protection Tools for Llama Developers",
+      "duration_s": 676,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "BeAPM1MB61k": {
+      "video_id": "BeAPM1MB61k",
+      "title": "Developer Voices: Meta Wearables Device Access Toolkit Spotlight",
+      "duration_s": 409,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "DKPpe-cESkI": {
+      "video_id": "DKPpe-cESkI",
+      "title": "Unpack the Latest Llama 4 Herd",
+      "duration_s": 706,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "DcKoGr0HtL0": {
+      "video_id": "DcKoGr0HtL0",
+      "title": "Demystifying Discovery: Your Visibility Guide for Meta Horizon",
+      "duration_s": 558,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "DogxXqpcowU": {
+      "video_id": "DogxXqpcowU",
+      "title": "Our Paths to VR Development",
+      "duration_s": 645,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "EAZe8wDnAOA": {
+      "video_id": "EAZe8wDnAOA",
+      "title": "Meta Connect 2025 Keynote",
+      "duration_s": 3516,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "Fi6WmxYd5X8": {
+      "video_id": "Fi6WmxYd5X8",
+      "title": "Emerging Technologies and Experiences at Meta",
+      "duration_s": 237,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "GAtzbKsuV2o": {
+      "video_id": "GAtzbKsuV2o",
+      "title": "From Vision to Reality: Creators’ Journeys Building in Worlds",
+      "duration_s": 676,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "Gfw3PcrAYA4": {
+      "video_id": "Gfw3PcrAYA4",
+      "title": "Exploring Meta Spatial SDK",
+      "duration_s": 239,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "Ijpb6gteOrw": {
+      "video_id": "Ijpb6gteOrw",
+      "title": "Your First Steps into Immersive Web Development",
+      "duration_s": 569,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "Lhpwg6MDPOo": {
+      "video_id": "Lhpwg6MDPOo",
+      "title": "Finetune Llama 4 Faster With Unsloth",
+      "duration_s": 166,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "QXiR_GHQ5U0": {
+      "video_id": "QXiR_GHQ5U0",
+      "title": "VR 101: Getting Started with VR",
+      "duration_s": 828,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "RpfTy93M5HY": {
+      "video_id": "RpfTy93M5HY",
+      "title": "How Leidos Boosts Developer Efficiency With Llama and Sourcegraph",
+      "duration_s": 142,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "SSOHkFZ0m1s": {
+      "video_id": "SSOHkFZ0m1s",
+      "title": "Getting Started with Spatial SDK",
+      "duration_s": 590,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "V5wBuMahQx4": {
+      "video_id": "V5wBuMahQx4",
+      "title": "Meta Wearables Device Access Toolkit, Our First Developer Toolkit for AI Glasses",
+      "duration_s": 453,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "V7VGbt55VBE": {
+      "video_id": "V7VGbt55VBE",
+      "title": "VR 102: Beyond the Basics",
+      "duration_s": 578,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "WaJOONFllLc": {
+      "video_id": "WaJOONFllLc",
+      "title": "Llamacon 2025 - Conversation with Mark Zuckerberg and Satya Nadella",
+      "duration_s": 1911,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "XGWpFCuYzV0": {
+      "video_id": "XGWpFCuYzV0",
+      "title": "VR 103: Preparing Your App for the Meta Horizon Store",
+      "duration_s": 803,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "aIB4NZuLfsI": {
+      "video_id": "aIB4NZuLfsI",
+      "title": "Meta Horizon Start: Simulated Minds’ Path From Burnout to Breakout",
+      "duration_s": 813,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "cp6M3AD7KR4": {
+      "video_id": "cp6M3AD7KR4",
+      "title": "Your Android App, Now in VR: Meta Horizon OS Integration",
+      "duration_s": 327,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "e15BAFdCJt0": {
+      "video_id": "e15BAFdCJt0",
+      "title": "What Metamates Are Saying About AI Glasses",
+      "duration_s": 105,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "h9kl1QT_FTM": {
+      "video_id": "h9kl1QT_FTM",
+      "title": "Speed Up Creation with Generative AI Tools that Transform World Building",
+      "duration_s": 567,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "iePzt0XVzvs": {
+      "video_id": "iePzt0XVzvs",
+      "title": "Worlds in Your Pocket: Mobile Creation Unleashed",
+      "duration_s": 437,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "jMIg0Y_kKok": {
+      "video_id": "jMIg0Y_kKok",
+      "title": "The Llama Toolbox: A Collection of Practical Tools and Recipes",
+      "duration_s": 1287,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "kGEg8dgcPyE": {
+      "video_id": "kGEg8dgcPyE",
+      "title": "Build Without Limits: Creative Possibility with Meta Technologies",
+      "duration_s": 565,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "kgUc3WJvOM4": {
+      "video_id": "kgUc3WJvOM4",
+      "title": "Introducing Llama API: A Seamless Way to Revolutionize Your Workflow",
+      "duration_s": 630,
+      "channel": "Meta Developers",
+      "label": "LlamaCon 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-"
+    },
+    "lQDCkAMy0DM": {
+      "video_id": "lQDCkAMy0DM",
+      "title": "Find Your Build Path: How to Create on Meta Horizon and Beyond",
+      "duration_s": 692,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "njJ_VNxn5w8": {
+      "video_id": "njJ_VNxn5w8",
+      "title": "Shaping the Future of Development at Meta",
+      "duration_s": 288,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "o-kHT0EHmt0": {
+      "video_id": "o-kHT0EHmt0",
+      "title": "Spotlight Conversation: The Future of Computing",
+      "duration_s": 2548,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "p496evuZCT8": {
+      "video_id": "p496evuZCT8",
+      "title": "Llama Best Practices: Unlock Rich Insights From Rich Documents",
+      "duration_s": 641,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "w1eFmRhs3ls": {
+      "video_id": "w1eFmRhs3ls",
+      "title": "Scale Your Success with Meta Horizon Creator Program",
+      "duration_s": 513,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "xWiJLZ7EPW8": {
+      "video_id": "xWiJLZ7EPW8",
+      "title": "Building Great Games by Prioritizing Social Comfort",
+      "duration_s": 572,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "xlViEqrQG3s": {
+      "video_id": "xlViEqrQG3s",
+      "title": "Meta Wearables Device Access Toolkit",
+      "duration_s": 598,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    },
+    "zw2xIecFY94": {
+      "video_id": "zw2xIecFY94",
+      "title": "Reimagining Accessibility with Technology",
+      "duration_s": 262,
+      "channel": "Meta Developers",
+      "label": "Connect 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP"
+    }
+  }
+}

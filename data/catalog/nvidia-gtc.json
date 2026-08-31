@@ -1,0 +1,874 @@
+{
+  "slug": "nvidia-gtc",
+  "name": "NVIDIA GTC",
+  "enumerated_at": "2026-08-30T21:48:56+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "label": "GTC 2026",
+      "year": 2026,
+      "count": 32
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa",
+      "label": "GTC 2025",
+      "year": 2025,
+      "count": 35
+    }
+  ],
+  "count": 67,
+  "videos": {
+    "-2nCxItGNvE": {
+      "video_id": "-2nCxItGNvE",
+      "title": "OpenClaw: The ChatGPT Moment for Long-Running, Autonomous Agents",
+      "duration_s": 158,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "A silent revolution in AI is rewriting the rules of computation. Autonomous, self-evolving \"\"claws\"\" like OpenClaw are now being adopted at an unprecedented pace, demonstrating their ability to execute complex, long-running goals indefinitely. These agents write code, manage entire workflows, and access local files, ushering in the new application layer for AI. But with unprecedented self-evolving capability, guardrails are essential to give users control over how agents behave and handle data. Watch to understand this explosive shift and the infrastructure emerging to govern long-running agents more safely.\n\nLearn more about how to run autonomous agents safely: https://www.nvidia.com/nemoclaw\n\n#OpenClaw #NVIDIAGTC #AgenticAI",
+      "published_at": "2026-03-18T15:48:36Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "-HVH4P11eyI": {
+      "video_id": "-HVH4P11eyI",
+      "title": "NVIDIA's Latest Innovations In 3D Gaussian Splatting Explained by @Radiance Fields",
+      "duration_s": 71,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "0Qro2GQc0tQ": {
+      "video_id": "0Qro2GQc0tQ",
+      "title": "From Data Centres to Your Desk | Allen Bourgoyne talks about DGX Spark",
+      "duration_s": 212,
+      "channel": "Scan AI and Enterprise Solutions",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "1QUrzpWgWHQ": {
+      "video_id": "1QUrzpWgWHQ",
+      "title": "Robots Galore on the Show Floor | GTC 2025",
+      "duration_s": 43,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "2XYnhUEeVho": {
+      "video_id": "2XYnhUEeVho",
+      "title": "How NVIDIA Open Models Power Every Industry’s AI",
+      "duration_s": 100,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "AI is not one-size-fits-all—no single model can serve every industry, workload, or research domain. In this video, we explore how NVIDIA open models power one of the world’s largest and most diverse AI ecosystems, spanning language, vision, biology, physics, and autonomous systems.\n\nSee how nearly three million open models and six frontier open model families give developers the building blocks to customize AI for specialized domains. New leaderboard-topping models are launching for every family. And at their core: Nemotron reasoning models.\n\nLearn more about NVIDIA open model families: Nemotron, Cosmos, Alpamayo, Isaac GR00T, BioNeMo, and Earth-2.\n\nRead Press Release: https://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai\n\n#OpenModels #Nemotron #NVIDIAGTC",
+      "published_at": "2026-03-18T15:48:31Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "3C-6STonTLU": {
+      "video_id": "3C-6STonTLU",
+      "title": "Introducing NVIDIA Dynamo: Low-Latency Distributed Inference for Scaling Reasoning LLMs",
+      "duration_s": 5358,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "6o_Wme-FdCU": {
+      "video_id": "6o_Wme-FdCU",
+      "title": "CUDA: New Features and Beyond | NVIDIA GTC 2025",
+      "duration_s": 2645,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "7N38fD4ksnI": {
+      "video_id": "7N38fD4ksnI",
+      "title": "NVIDIA GTC Automotive Special Address",
+      "duration_s": 2601,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Autonomous vehicles (AVs) are emerging as the first mass-deployed physical AI agents, reshaping mobility and driving new demands in AI, safety, and scalable development. This special address explores the industry’s path to Level 4 autonomy and how NVIDIA is helping accelerate it. With the DRIVE Hyperion architecture, manufacturers (OEMs) and AV developers can build scalable, safety-certified autonomy solutions. NVIDIA will present its cloud-to-car platform—spanning training, simulation, and in-vehicle compute—to support developing and validating next-generation drive-policy models. The session will also touch on how agentic AI is poised to transform AVs end to end, from automating data-driven development and validation to enabling more intelligent, adaptive in-car experiences. Gain insights into L4 software architectures, the DRIVE Hyperion platform, and ecosystem collaboration across OEMs, AV developers, mobility providers, and robotaxi companies.",
+      "published_at": "2026-03-25T21:18:49Z",
+      "tags": [
+        "NVIDIA",
+        "autonomous vehicles",
+        "physical ai",
+        "level 4 autonomy",
+        "drive hyperion",
+        "robotaxi"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "7jI0LhPg4XY": {
+      "video_id": "7jI0LhPg4XY",
+      "title": "Interviewing the creators of a robotic hand at #GTC25 | #nvidia #robotics",
+      "duration_s": 34,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "83cyZerHRaA": {
+      "video_id": "83cyZerHRaA",
+      "title": "IBM Reinvents Data Processing With NVIDIA",
+      "duration_s": 95,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "IBM invented the data warehouse. Today, enterprises generate hundreds of zettabytes of data per year. Traditional CPU systems are hitting a performance ceiling. To turn this data into real-time intelligence, modern enterprises are shifting to a GPU-accelerated data processing architecture.\n\nDiscover how Nestlé accelerates terabyte-scale SQL workloads and its global data mart on IBM watsonx.data using SQL engines powered by NVIDIA cuDF on NVIDIA GPUs. See how Nestlé cuts query time, refreshes its data mart, and lowers infrastructure cost—all while powering real-time, AI-ready analytics across its supply chain and operations.\n\nLearn more about how companies around the world are adopting NVIDIA cuDF and cuVS: https://blogs.nvidia.com/blog/gtc-2026-news/#data-processing\n\n #DataProcessing #DataEngineering #NVIDIAGTC",
+      "published_at": "2026-03-18T15:48:22Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "8Mwrfvq-GeY": {
+      "video_id": "8Mwrfvq-GeY",
+      "title": "How Robot Brains Dream and Explore Unseen Worlds",
+      "duration_s": 131,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "8v-EVF8u4OQ": {
+      "video_id": "8v-EVF8u4OQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "details_at": "2026-08-31T15:35:56+00:00",
+      "description": ""
+    },
+    "9XB-LsfpvCU": {
+      "video_id": "9XB-LsfpvCU",
+      "title": "Quantum Computing: Where We Are and Where We’re Headed | NVIDIA GTC 2025 Fireside Chat",
+      "duration_s": 7400,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "AjUUorlK-KU": {
+      "video_id": "AjUUorlK-KU",
+      "title": "Getting Started with Distributed Multi-GPU Libraries for Scalable AI and HPC | NVIDIA GTC 2025",
+      "duration_s": 2486,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "BAhI87RS-DQ": {
+      "video_id": "BAhI87RS-DQ",
+      "title": "AI Literacy at Scale: K-to-Career Access That Delivers Real Student Outcomes",
+      "duration_s": 2404,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "AI literacy has moved from a \"nice-to-have\" to a readiness requirement. The open question is execution: how schools build access that scales, supports educators, and reaches students across different learning paths, geographies, and resources.\n\nThis panel brings together education leaders and practitioners shaping that execution from four angles: classroom and school implementation, learning science and workforce-relevant skill-building, platform-level delivery at scale, and institutional systems that connect education to long-term opportunity.\n\nTogether, the panel will share practical approaches to expand AI literacy and access without turning schools into pilot sites. You'll leave with a clear view of what to teach, how to equip educators, how to deploy tools responsibly, and how to build pathways that connect early literacy to real-world readiness over time.",
+      "published_at": "2026-04-09T16:54:22Z",
+      "tags": [
+        "NVIDIA",
+        "AI Literacy"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "BGV1vZ9lX4s": {
+      "video_id": "BGV1vZ9lX4s",
+      "title": "How NVIDIA AODT Powers Network Digital Twins",
+      "duration_s": 126,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "With NVIDIA Aerial Omniverse Digital Twin, developers design, validate, and iterate systems in simulation, before they enter the real world.\nThe platform is modular, designed for an ecosystem, and is already delivering.\n\nLearn more: https://developer.nvidia.com/blog/5-new-digital-twin-products-developers-can-use-to-build-6g-networks/",
+      "published_at": "2026-03-17T17:15:59Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "BmD22FNOAY4": {
+      "video_id": "BmD22FNOAY4",
+      "title": "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 2025",
+      "duration_s": 3719,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "CYLn56Vc2XA": {
+      "video_id": "CYLn56Vc2XA",
+      "title": "Quantum Computing Reaches an Inflection Point With NVIDIA NVQLink | GTC 2026",
+      "duration_s": 109,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "At GTC, NVIDIA made NVQLink publicly available through a new application programming interface (API) called cudaq-realtime — and shared demonstrations advancing the state-of-the-art in quantum error correction. Hear Nicholas Harrigan, product marketing manager for quantum computing at NVIDIA, explain why quantum processors needs GPU supercomputers.",
+      "published_at": "2026-03-20T20:54:02Z",
+      "tags": [
+        "NVIDIA",
+        "Quantum Computing",
+        "NVQLink",
+        "GTC 2026"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "DIIteghPGx4": {
+      "video_id": "DIIteghPGx4",
+      "title": "Advancing AI and HPC Competency in Higher Education Through Faculty Instructional Enablement",
+      "duration_s": 2210,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "NVIDIA’s developer training programs support faculty teaching students and researchers through downloadable teaching kits, a cloud-based GPU-accelerated platform, and technical certification exams. Instructional content spans foundational topics—deep learning, accelerated computing, and data science—and advanced areas including agentic AI, natural language processing, and generative AI. Online courses and instructor-led workshops with project-based assessments help faculty align coursework with certifications and support students in earning recognized qualifications. We highlight ECPI integrating GPU-accelerated AI into student projects, and Lebanese American University using hands-on, faculty-led workshops to advance applied learning and prepare students for real-world AI applications and industry pathways.",
+      "published_at": "2026-04-07T21:33:28Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIA GTC 2026"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "DUyE4mu0Yhw": {
+      "video_id": "DUyE4mu0Yhw",
+      "title": "How Edison’s Kosmos AI Scientist Does Six Months of Research in One Day with Nemotron",
+      "duration_s": 95,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Scientific research is slowing under the weight of papers, code, and complex data, so Edison Scientific built Kosmos, an AI scientist on NVIDIA that compresses six months of work into a single day. In this video, see how Kosmos uses NVIDIA GPUs and foundation models to read thousands of papers, run large-scale analyses, and turn evidence into new hypotheses across genetics, neuroscience, and drug discovery.\n\nDiscover how NVIDIA Nemotron™ Parse, cuML, and NeMo RL power Kosmos’ literature, analysis, and molecule-design agents—and what this AI stack means for the future of scientific labs.\n\nLearn more: https://developer.nvidia.com/case-studies/scientific-literature-ai-nvidia-nemotron\n\n#AIScientist #AgenticAI #NVIDIAGTC",
+      "published_at": "2026-03-18T01:00:17Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "GmNkYayuaA4": {
+      "video_id": "GmNkYayuaA4",
+      "title": "Getting Started with CUDA and Parallel Programming | NVIDIA GTC 2025 Session",
+      "duration_s": 2509,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "H37l-5PzHCo": {
+      "video_id": "H37l-5PzHCo",
+      "title": "Getting A Portrait Drawn By A Robot At #GTC25 | #nvidia #robotics # #machinelearning",
+      "duration_s": 39,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "HurV6ZUq0RY": {
+      "video_id": "HurV6ZUq0RY",
+      "title": "NVIDIA GTC 2025: Recap for Startups",
+      "duration_s": 461,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "JlQ7QGrjzu0": {
+      "video_id": "JlQ7QGrjzu0",
+      "title": "Interviewing a Robot at #GTC25",
+      "duration_s": 12,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "Kx9Z-NCF8J4": {
+      "video_id": "Kx9Z-NCF8J4",
+      "title": "Accelerate AI and HPC with Math Libraries on NVIDIA Blackwell GPUs | NVIDIA GTC 2025",
+      "duration_s": 2612,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "L1Hm3qq6ebM": {
+      "video_id": "L1Hm3qq6ebM",
+      "title": "Olaf Takes the Stage With Jensen Huang",
+      "duration_s": 60,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Guess who made a special appearance on stage with NVIDIA CEO Jensen Huang at #NVIDIAGTC? Walt Disney Imagineering’s robotic character, ☃️ Olaf, was a delightful surprise at the GTC keynote this afternoon. This duo? What a grand finale. 🎉\n\nNVIDIA and Disney Research are working together to bring this beloved character into the real world using Newton, the open-source physics engine.",
+      "published_at": "2026-03-17T23:12:22Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "L9VAR1Rqt4g": {
+      "video_id": "L9VAR1Rqt4g",
+      "title": "NVIDIA GTC 2026 Keynote Teaser",
+      "duration_s": 30,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Our CEO Jensen Huang returns to the SAP Center stage for the NVIDIA GTC 2026 keynote, and the energy is already building.\n\nAt the heart of GTC is this must-see moment: a deep dive into the breakthroughs in accelerated computing, AI, and transformative technology that will define our industry.\n\nJoin us live on Monday, March 16 at 11 a.m. PDT. ➡️ https://nvda.ws/4sqJ8TJ\n\nIt all starts at #NVIDIAGTC.",
+      "published_at": "2026-03-06T16:37:44Z",
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "GTC",
+        "Keynote",
+        "AI"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "LU5aBUENu8k": {
+      "video_id": "LU5aBUENu8k",
+      "title": "NVIDIA GTC Live Keynote Pregame Teaser",
+      "duration_s": 56,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "As we gear up for what’s next, we’re rolling the highlights. Relive the biggest moments, boldest takes, and behind-the‑scenes energy that made NVIDIA GTC Live pregames a fan favorite.\n\nStay tuned for the 2026 line-up on: hhttps://nvda.ws/3MI8Ljw\n\n🗓️ Monday, March 16 | 8 a.m.–11 a.m. PDT\n\n#NVIDIAGTC",
+      "published_at": "2026-03-13T16:47:34Z",
+      "tags": [
+        "NVIDIA",
+        "GTC",
+        "Jensen Huang"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "M-uRa6SP-QM": {
+      "video_id": "M-uRa6SP-QM",
+      "title": "NVIDIA Foundational Technology Montage I GTC 2026 Edition",
+      "duration_s": 204,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Twenty years after building CUDA, NVIDIA has reinvented computing with a full stack of over a thousand CUDA-X libraries empowering breakthroughs across every field of science and engineering.\n\nThese libraries form the algorithmic foundation of physical AI, spanning simulation, robotics, autonomous systems, and beyond.\n\nLearn more: https://www.nvidia.com/en-us/technologies/cuda-x/",
+      "published_at": "2026-03-18T15:48:45Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "MyNEr7tf-WQ": {
+      "video_id": "MyNEr7tf-WQ",
+      "title": "NVIDIA GTC Studio with Insights from Vertiv",
+      "duration_s": 725,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Scott Armul, Chief Product and Technology Officer at Vertiv, explains how Vertiv meets AI infrastructure demands at scale—delivering the power and cooling systems behind modern data centers and developing the solutions to streamline the design and deployment of next-generation AI factories.",
+      "published_at": "2026-03-30T21:55:20Z",
+      "tags": [
+        "NVIDIA",
+        "Energy",
+        "Energy Efficiency",
+        "AI Infrastructure",
+        "GTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "O-_-CEeFHCM": {
+      "video_id": "O-_-CEeFHCM",
+      "title": "Tokens, the Building Blocks of AI | Official GTC 2026 Keynote Intro",
+      "duration_s": 205,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "This is how intelligence is made. We are entering a new frontier where the AI factory generates tokens—the building blocks of modern intelligence. From autonomous AI agents to breakthroughs in robotics and healthcare, these tokens are reshaping our world. Explore how NVIDIA’s accelerated computing platform and the Vera Rubin architecture are forging new paths for global industry. Together, we take the next great leap into a bright future, built for all mankind. \n\nwww.nvidia.com/gtc/keynote\n\n#AgenticAI, #NVIDIAAI, #NVIDIAGTC",
+      "published_at": "2026-03-18T15:48:18Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "Oyon1QDpU6g": {
+      "video_id": "Oyon1QDpU6g",
+      "title": "An Introduction to Building Humanoid Robots | NVIDIA GTC 2025",
+      "duration_s": 6080,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "RTmSrIFZanc": {
+      "video_id": "RTmSrIFZanc",
+      "title": "NVIDIA GTC Live 2026 Keynote Pregame",
+      "duration_s": 10666,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Tune-in to hear live conversations between the hosts and industry leader panelists as they examine accelerated computing beyond AI, NVIDIA’s role as a full-stack infrastructure company, and the five-layer foundation behind one of the largest infrastructures build-outs in history — and the ecosystem required to deliver it worldwide.\n\nHosts:\nSarah Guo (Conviction)  \nGavin Baker (Atreides Management)  \nAlfred Lin (Sequoia Capital) \n\nCorrespondent:\nTiffany Janzen (TiffinTech)\n\n00:00 Intro\n07:06 Chapter 1: Accelerated Computing’s Moment Has Arrived — w/ Mark Edelstone (Morgan Stanley), Dinesh Nirmal (IBM), Aki Jain (Palantir USG), Anirudh Devgan (Cadence)\n33:46 Interview: Danping Peng (Siemens)\n38:29 Chapter 2: AI Is Essential Infrastructure — w/ Michael Dell (Dell Technologies), Michael Intrator (CoreWeave), Lin Qiao (Fireworks AI), Joe Creed (Caterpillar)\n1:07:16 Interview: Claudia Blanco (GE Vernova)\n1:11:53 Chapter 3: Open Models Power the Ecosystem — w/ Aravind Srinivas (Perplexity AI), Arthur Mensch (Mistral AI), Robin Rombach (Black Forest Labs), Aidan Gomez (Cohere)\n1:13:45 Interview: Alex Atallah (OpenRouter)\n1:31:45 Interview: Tuhin Srivastava (Baseten)\n1:49:56 Chapter 4: The Agentic AI Inflection Point — Vincent Weisser (Prime Intellect), Sam Rodriques (Edison Scientific), Harrison Chase (LangChain), Peter Steinberger (OpenClaw)\n1:52:19 Jensen cameo\n2:17:48 Interview: Bill McDermott (ServiceNow)\n2:22:40 Chapter 5: AI Enters the Physical World — w/ Jacomo Corbo (PhysicsX), Deepak Pathak (Skild AI), Daniel Nadler (OpenEvidence), Raquel Urtasun (Waabi)\n2:50:52 Interview: Alex Kendall (Wayve)",
+      "published_at": "2026-03-16T18:11:23Z",
+      "tags": [
+        "GTC Live",
+        "NVIDIA GTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "Rf3uVq9xlrc": {
+      "video_id": "Rf3uVq9xlrc",
+      "title": "NVIDIA GTC 2025 Highlights",
+      "duration_s": 216,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "SPGn9MZb1a0": {
+      "video_id": "SPGn9MZb1a0",
+      "title": "Jensen Huang’s Keynote Highlights at NVIDIA GTC Washington, D.C.",
+      "duration_s": 133,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "S_k69qXQ9w8": {
+      "video_id": "S_k69qXQ9w8",
+      "title": "NVIDIA DGX Spark: Your Personal AI Supercomputer | NVIDIA GTC 2025 Session",
+      "duration_s": 2288,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "UaGFUtqravQ": {
+      "video_id": "UaGFUtqravQ",
+      "title": "Introducing NVIDIA DGX Spark | GTC 2025 Keynote",
+      "duration_s": 218,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "VHLYXuqja4c": {
+      "video_id": "VHLYXuqja4c",
+      "title": "NVIDIA GTC Live Washington, D.C. Keynote Pregame",
+      "duration_s": 12873,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "WYiBe5HRrnA": {
+      "video_id": "WYiBe5HRrnA",
+      "title": "What time did you get in line for Jensen's #GTC25 keynote? #nvidia",
+      "duration_s": 102,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "ZPC6cfr1RVk": {
+      "video_id": "ZPC6cfr1RVk",
+      "title": "How ServiceNow’s AI Agents Resolve 90% of Tickets Autonomously",
+      "duration_s": 121,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "A new wave of AI has arrived—one that does more than answer questions and actually helps do the work. In this video, see how ServiceNow uses specialized AI agents, each with defined roles, to automate the entire ticket lifecycle. From the moment tickets enter the system, case agents review details, triage agents search knowledge bases and logs, and resolution agents confirm root causes, apply fixes, and update records. When escalation is needed, engineers get fully prepared cases with analysis and recommended actions, so 90% of tickets are resolved autonomously, and experts focus on the hardest problems.\n\nLearn More: https://nvidianews.nvidia.com/news/ai-agents\n\n#AgenticAI #Nemotron #NVIDIAGTC",
+      "published_at": "2026-03-18T15:47:13Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "ZnZumsCZ4pE": {
+      "video_id": "ZnZumsCZ4pE",
+      "title": "NVIDIA DGX Cloud Lepton: Connecting Developers to Global Accelerated Compute",
+      "duration_s": 77,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "_XW6Yu6VBQE": {
+      "video_id": "_XW6Yu6VBQE",
+      "title": "1,001 Ways to Accelerate Python with CUDA Kernels | NVIDIA GTC 2025",
+      "duration_s": 2305,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "_waPvOwL9Z8": {
+      "video_id": "_waPvOwL9Z8",
+      "title": "GTC March 2025 Keynote with NVIDIA CEO Jensen Huang",
+      "duration_s": 7908,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "aDT9bBt9HxM": {
+      "video_id": "aDT9bBt9HxM",
+      "title": "Official Keynote Closing Video | GTC 2026",
+      "duration_s": 236,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Gather around the campfire with Jensen and a cast of robots from the GTC keynote as they sing their way through this year’s biggest announcements. From breakthrough AI to accelerated computing, it’s a lighthearted recap of the innovations shaping the future.\n\n#NVIDIAGTC",
+      "published_at": "2026-03-18T22:45:34Z",
+      "tags": [
+        "NVIDIA"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "beSq5Ohd18k": {
+      "video_id": "beSq5Ohd18k",
+      "title": "Accelerating the Future of Automotive Engineering",
+      "duration_s": 174,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "McLaren Automotive is redefining the limits of performance by integrating AI Physics and agentic AI into their design workflow. By leveraging the Rescale digital engineering platform powered by NVIDIA, McLaren has reduced simulation times from days to minutes.\n\nIn this video, McLaren Chief Programme Officer Christoph Meyer and CIO Alex Park and discuss how they are breaking down fragmented workflows to create a unified data loop. Discover how Rescale agents powered by NVIDIA are:\n- Orchestrating Simulations: Automating pre and post-processing to free engineers for innovation.\n- AI Physics Integration: Delivering real-time parametric optimization for complex carbon composite manufacturing.\n- Data Liquidity: Making decades of engineering data searchable and reusable through cloud-native tools.\n\nFrom the track to the lab, see how the partnership between McLaren, Rescale, and NVIDIA is fueling the next era of industrial digitalization.\n\nLearn more about NVIDIA Industrial Engineering solutions: Computer-Aided Engineering (CAE) Solutions | NVIDIA\n\nExplore Rescale’s Digital Engineering Platform: Rescale Expands Access to NVIDIA GPU-Accelerated Simulation Software and AI via NVIDIA's Cloud Partner Network - Rescale\n\n#NVIDIA #McLaren #AIPhysics #DigitalTwin #AcceleratedComputing #IndustrialDigitalization #IndustrialEngineering",
+      "published_at": "2026-03-16T20:49:42Z",
+      "tags": [
+        "NVIDIA",
+        "McLaren",
+        "AI Physics",
+        "Digital Twin",
+        "Accelerated Computing",
+        "Industrial Digitalization",
+        "Industrial Engineering"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "bxwM1LZV-QY": {
+      "video_id": "bxwM1LZV-QY",
+      "title": "20 Years of CUDA: Honoring the Architects of the Accelerated Age",
+      "duration_s": 98,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "To the creators, the pioneers, and the builders of the future: CUDA was made for you.\n\nSince 2006, six million developers across 200 countries have used CUDA to transform computing. What began as a platform has become the engine of the Accelerated Age.\n\nWith 900+ CUDA-X libraries, you are accelerating science, reshaping industries, and giving machines the power to see, learn, and reason. From drug discovery and physics simulations to the frontiers of quantum computing, your work defines the modern era.\n\nToday, we honor the architects of progress who made 20 years of CUDA possible. For the visionaries pushing the limits of AI and innovation—this is still just the beginning.\n\nWe can’t wait to see what you do next.\n\n#CUDA #NVIDIA #AI #GPUComputing #Innovation #AcceleratedAge #TechHistory",
+      "published_at": "2026-04-14T19:31:08Z",
+      "tags": [
+        "NVIDIA",
+        "CUDA",
+        "CUDA Tile"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "c675KAlmo8k": {
+      "video_id": "c675KAlmo8k",
+      "title": "Advancing AI Reasoning - From Games to Complex Problem Solving | NVIDIA GTC 2025 Session",
+      "duration_s": 2406,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "cxiOhp9BJTs": {
+      "video_id": "cxiOhp9BJTs",
+      "title": "NVIDIA GTC Telecom Special Address: The AI Grid—Intelligently Connecting AI Infrastructure",
+      "duration_s": 2457,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "At NVIDIA GTC 2026, NVIDIA Telecom SVP Ronnie Vasishta delivered the Telecom Special address, exploring how telcos can build a distributed AI grid to power new AI services and applications.\n\nIn this talk, he shares a first look at NVIDIA’s reference architecture, highlights edge AI applications that run best on this grid, and announces partners already on this journey.\n\nLearn more about AI Grids: https://www.nvidia.com/en-us/industries/telecommunications/ai-grid/",
+      "published_at": "2026-03-24T20:18:57Z",
+      "tags": [
+        "NVIDIA",
+        "AI Grid",
+        "Telecommunications"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "eKwpmzvyD68": {
+      "video_id": "eKwpmzvyD68",
+      "title": "NVIDIA's Dedication to Open Source | NVIDIA GTC Washington, D.C. 2025 Keynote",
+      "duration_s": 16,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "eyrDM3A_YFc": {
+      "video_id": "eyrDM3A_YFc",
+      "title": "Frontiers of AI and Computing: A Conversation With Yann LeCun and Bill Dally | NVIDIA GTC 2025",
+      "duration_s": 3195,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "jw_o0xr8MWU": {
+      "video_id": "jw_o0xr8MWU",
+      "title": "NVIDIA GTC Keynote 2026",
+      "duration_s": 8336,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Watch NVIDIA Founder and CEO Jensen Huang’s GTC keynote as he unveils the latest breakthroughs in AI and accelerated computing. See how agentic AI, AI factories, and physical AI are powering the next generation of intelligent systems.\n\n0:00 The Economics of Tokens: Scaling Intelligence via High-Throughput Tokenomics\n3:15 Welcome to GTC 2026\n6:02 20 Years of CUDA\n10:23 GeForce\n13:50 DLSS 5\n16:19 Structured Data is the Ground Truth of AI\n19:45 NVIDIA's Vertical Integration\n20:16 IBM Reinvents Data Processing With NVIDIA\n38:26 CUDA-X\n38:31 NVIDIA Foundational Technology Montage\n43:15 AI Natives\n46:01 Inference Inflection Arrives\n50:43 \"The inflection point for inference has arrived.\"\n52:23 Inference Inflection Drives Strong Growth\n1:00:53 How Nvidia delivers industry’s lowest token cost - 50x perf/watt leads to 35x lower cost\n1:04:50 InferenceMAX King\n1:06:13 NVIDIA is the Global Standard for AI Inference at Scale\n1:06:46 AI Factories are the Industrial Infrastructure of the AI Era\n1:07:56 A Decade of AI Infrastructure Innovation: From NVIDIA DGX-1 to NVIDIA Vera Rubin\n1:11:26 NVIDIA Vera Rubin\n1:13:53 NVIDIA Vera Rubin, NVLink and Groq\n1:15:29 NVIDIA Spectrum-X Switch, Co-Packaged Optics, Vera and NVIDIA BlueField-4\n1:17:38 Rubin Ultra\n1:19:41 Inference Performance and Efficiency Drive Company Results\n1:29:16 Uniting Processors of Extreme Performances\n1:32:52 NVIDIA Groq 3 LPX\n1:33:30 Announcing NVIDIA Launch Partners\n1:35:26 NVIDIA Vera Rubin: 7 Chips – 5 Rack Systems\n1:36:28 NVIDIA Extreme Co-Design Delivering X-Factors Every Year\n1:40:05 NVIDIA DSX AI Factory Platform\n1:42:15 How AI Factories Maximize Tokens, Power, and Profit With NVIDIA DSX\n1:45:40 Space-1 Vera Rubin Module\n1:46:23 NemoClaw for OpenClaw\n1:47:47 OpenClaw: The ChatGPT Moment for Long-Running, Autonomous Agents\n1:57:01 NVIDIA Nemotron and Open Models\n1:57:29 How NVIDIA Open Models Power Every Industry’s AI\n2:01:46 Announcing Global AI Leaders Join NVIDIA Nemotron Coalition to Advance Open Frontier Models\n2:04:43 Announcing NVIDIA NemoClaw Reference OpenClaw\n2:05:22 Physical AI and Robotics\n2:08:33 The Age of Physical AI and Robotics\n2:13:00 Olaf Takes the Stage With Jensen Huang\n2:14:55 Official Keynote Closing Video | GTC 2026",
+      "published_at": "2026-03-16T20:49:08Z",
+      "tags": [
+        "NVIDIA GTC",
+        "Jensen Huang"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "kChwwFb5gMU": {
+      "video_id": "kChwwFb5gMU",
+      "title": "An Introduction to NVIDIA Cosmos World Foundational Models | NVIDIA GTC 2025",
+      "duration_s": 2131,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "kDd24YOeqQQ": {
+      "video_id": "kDd24YOeqQQ",
+      "title": "NVIDIA GTC 2026 Keynote with Jensen Huang Highlights",
+      "duration_s": 282,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Catch up on how CEO Jensen Huang’s keynote lit the fuse on a new era of token-powered, full‑stack AI — from CUDA to Vera Rubin, Feynman and OpenClaw.\n\nFrom the inflection point of inference to agentic AI to the data center, get the highlights of Jensen’s talk and the go deep by watching full replay or GTC sessions on demand.\n\nwww.nvidia.com/gtc/keynote\n\n#NVIDIAGTC #AgenticAI #NVIDIAAI",
+      "published_at": "2026-03-20T23:28:23Z",
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "NVIDIA keynote",
+        "GTC keynote",
+        "AI"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "kVcyBH_V35E": {
+      "video_id": "kVcyBH_V35E",
+      "title": "Closing the Physical AI Data Gap With Simulation and Foundation Models",
+      "duration_s": 243,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Physical AI is the next frontier, but real-world data alone isn’t enough to train robots for the complexity of the physical world.\n\nDevelopers are closing the physical AI data gap using simulation, synthetic data, and large-scale compute. \n\nWith NVIDIA Cosmos™ world foundation models, NVIDIA Isaac™ Lab for robot training and evaluation, Newton for GPU-accelerated differentiable physics, and Isaac GR00T foundation models for robot reasoning and action, teams can train and scale robot policies faster than ever.\n\nRead the press release: https://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world \n\n#PhysicalAI #NVIDIAGTC",
+      "published_at": "2026-03-18T15:48:08Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "kbTWiy9bZ7M": {
+      "video_id": "kbTWiy9bZ7M",
+      "title": "A Decade of AI Infrastructure Innovation: From NVIDIA DGX-1 to NVIDIA Vera Rubin",
+      "duration_s": 229,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Explore the journey from NVIDIA DGX‑1 to the revolutionary NVIDIA Vera Rubin platform, showing how rack‑scale AI supercomputers built with NVIDIA AI Infrastructure are redefining what’s possible in agentic AI.\n\nLearn more about the NVIDIA Vera Rubin Platform: https://www.nvidia.com/en-us/data-center/technologies/rubin/\n\n#GTC2026 #NVIDIAVeraRubin #NVIDIADGX",
+      "published_at": "2026-03-18T15:48:27Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "kg22sYFLD-8": {
+      "video_id": "kg22sYFLD-8",
+      "title": "A New Era for Robotics - The Rise of Humanoids #gtc25 #robotics",
+      "duration_s": 10,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "ksQ85mBbNCk": {
+      "video_id": "ksQ85mBbNCk",
+      "title": "A Deep Dive Into the Latest HPC Software | NVIDIA GTC 2025",
+      "duration_s": 2015,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "kyQtbyR536I": {
+      "video_id": "kyQtbyR536I",
+      "title": "Multi-GPU Communication Libraries for Scaling HPC and AI Workloads | NVIDIA GTC 2025",
+      "duration_s": 2501,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "lBNHFR41GgY": {
+      "video_id": "lBNHFR41GgY",
+      "title": "NVIDIA GTC Studio with Insights from Schneider Electric",
+      "duration_s": 1025,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Pankaj Sharma, Executive Vice President of Software and Services at Schneider Electric, outlines the challenges of scaling AI infrastructure, emphasizing energy as the foundation of the five-layer AI cake. As AI adoption accelerates, he points to growing pressure on power, grid capacity, and sustainable energy—while highlighting the opportunity to use AI to optimize and expand energy systems for the next generation of AI.",
+      "published_at": "2026-03-30T21:55:23Z",
+      "tags": [
+        "NVIDIA",
+        "GTC",
+        "Energy",
+        "Energy Efficiency",
+        "AI infrastructure"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "lQHK61IDFH4": {
+      "video_id": "lQHK61IDFH4",
+      "title": "NVIDIA GTC Washington, D.C. Keynote with CEO Jensen Huang",
+      "duration_s": 6194,
+      "channel": "NVIDIA",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "nPIfu68Qwj4": {
+      "video_id": "nPIfu68Qwj4",
+      "title": "Simplify Multi-GPU Programming with Task-Based Runtimes | NVIDIA GTC 2025",
+      "duration_s": 2256,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "o0J1aGT8_Tc": {
+      "video_id": "o0J1aGT8_Tc",
+      "title": "NVIDIA GTC 2026 Event Teaser",
+      "duration_s": 31,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Explore the next generation of AI at NVIDIA GTC, kicking off with the NVIDIA Live pregame, CEO Jensen Huang’s keynote, expert-led sessions, hands-on demos, exclusive networking opportunities, and more. It all starts here.\n\nDon't miss the premier AI conference, happening March 16–19 in San Jose.\n\nRegister now: https://nvda.ws/3NV0UQ3\n\n#NVIDIAGTC",
+      "published_at": "2026-02-05T19:17:24Z",
+      "tags": [
+        "NVIDIA",
+        "GTC",
+        "AI conference",
+        "Jensen Huang",
+        "GTC 2026"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "qI7Q8ppUsnw": {
+      "video_id": "qI7Q8ppUsnw",
+      "title": "NVIDIA AI Art Gallery at #GTCParis #VivaTech",
+      "duration_s": 28,
+      "channel": "NVIDIA Developer",
+      "label": "GTC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa"
+    },
+    "rsBobT9INP4": {
+      "video_id": "rsBobT9INP4",
+      "title": "How AI Factories Maximize Tokens, Power, and Profit With NVIDIA DSX",
+      "duration_s": 159,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "As global demand for AI infrastructure accelerates, NVIDIA Omniverse™ DSX provides a digital twin blueprint for designing, simulating, and operating AI factories at maximum efficiency. \n\nDSX helps developers optimize token throughput, resilience, and energy use across physical, electrical, thermal, and network systems. By connecting simulation tools, operational data, and dynamic power management through an open ecosystem of partners, DSX enables faster design, virtual commissioning, and intelligent live operations. \n\nOnce deployed, AI agents and real-time orchestration continuously adapt infrastructure performance, turning every watt into higher compute output and revenue.\n\nRead press release: https://nvidianews.nvidia.com/news/nvidia-releases-vera-rubin-dsx-ai-factory-reference-design-and-omniverse-dsx-digital-twin-blueprint-with-broad-industry-support\nTry blueprint: https://build.nvidia.com/nvidia/omniverse-dsx-blueprint-for-ai-factories",
+      "published_at": "2026-03-18T15:48:12Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "uv8va8bIqus": {
+      "video_id": "uv8va8bIqus",
+      "title": "The 50-State Plan: Public-Private Models for AI Infrastructure and University Transformation",
+      "duration_s": 3182,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "As AI becomes the definitive engine of economic and academic growth, the race is on to democratize access to high performance computing across the United States. This panel explores \"The 50-State Plan,\" a strategic roadmap for building robust, statewide AI infrastructure through innovative public-private partnerships. The session brings together visionary tech-industry pioneers, leaders from the National Science Foundation (NSF), and executives from top-tier research universities to discuss the shift from isolated pockets of innovation to unified strategies for university transformation and mission success in the age of AI.\n\nLearn how your organization can participate in this nationwide effort to bridge the digital divide and accelerate the next era of discovery.",
+      "published_at": "2026-04-09T17:30:02Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIA GTC 2026"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "x5rfb9G5EYA": {
+      "video_id": "x5rfb9G5EYA",
+      "title": "NVIDIA GTC 2026 Event Teaser",
+      "duration_s": 16,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Explore the next generation of AI at NVIDIA GTC, kicking off with the NVIDIA Live pregame, CEO Jensen Huang’s keynote, expert-led sessions, hands-on demos, exclusive networking opportunities, and more. It all starts here.\nDon't miss the premier AI conference, happening March 16–19 in San Jose.\n\nRegister now: https://nvda.ws/3NV0UQ3\n\n#NVIDIAGTC",
+      "published_at": "2026-02-05T19:11:38Z",
+      "tags": [
+        "NVIDIA",
+        "GTC",
+        "AI conference",
+        "Jensen Huang",
+        "GTC 2026"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    },
+    "x8lsdIoQfjg": {
+      "video_id": "x8lsdIoQfjg",
+      "title": "Disney Characters Coming to Life at NVIDIA GTC 2026",
+      "duration_s": 16,
+      "channel": "NVIDIA",
+      "label": "GTC 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
+      "description": "Ever wondered how Disney's characters make it from the screen to reality? 🎬\n\nBehind the magic is physical AI:\n- Newton & Kamino: Leveraging the open-source, GPU-accelerated Newton framework and Disney’s Kamino solver for artist-centric reinforcement learning. \n- Expressive Motion: Training motion diffusion models and policies to push robotic characters to perform at the limits of hardware.\n- Believable Autonomy: Utilizing onboard perception for autonomous navigation and unique, engaging guest interactions with authentic character motion.\n\nCome join Moritz Baecher at #NVIDIAGTC to see how physical AI enables Disney to bring characters to life in the real world within months.\n\n Tues, Mar 17 | 9:00 AM PT\nAdd to schedule 🔗 https://nvda.ws/4rOy82t",
+      "published_at": "2026-03-05T19:17:23Z",
+      "tags": [
+        "NVIDIA",
+        "NVIDIAGTC",
+        "Robotics"
+      ],
+      "details_at": "2026-08-31T15:35:56+00:00"
+    }
+  }
+}

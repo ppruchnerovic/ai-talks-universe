@@ -1,0 +1,2186 @@
+{
+  "slug": "google-io",
+  "name": "Google I/O",
+  "enumerated_at": "2026-08-30T21:48:49+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "label": "I/O 2026",
+      "year": 2026,
+      "count": 68
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt",
+      "label": "I/O 2025",
+      "year": 2025,
+      "count": 82
+    }
+  ],
+  "count": 150,
+  "videos": {
+    "07Y9CPuxgvQ": {
+      "video_id": "07Y9CPuxgvQ",
+      "title": "Mastering text input in Compose",
+      "duration_s": 1129,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "10oHjdwUIxo": {
+      "video_id": "10oHjdwUIxo",
+      "title": "Identity, payments, and embeds without third-party cookies",
+      "duration_s": 1348,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "15oPNK1W0Tw": {
+      "video_id": "15oPNK1W0Tw",
+      "title": "Adaptive Android development makes your app shine across devices",
+      "duration_s": 2456,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "16jTqLC66PU": {
+      "video_id": "16jTqLC66PU",
+      "title": "What's new in Firebase",
+      "duration_s": 1935,
+      "channel": "Firebase",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Firebase is evolving into an agent-native platform, empowering developers to build intelligent applications with unprecedented velocity. Learn how to leverage integrations with Google AI Studio and Google Antigravity to vibe-code full-stack apps. Gain confidence to move from prototyping to productionizing AI, and scale your applications securely with Google Cloud infrastructure.\n\nResources: \nCheck out the blog → https://goo.gle/4nzRQOr \nCheck out the playlist link → https://goo.gle/42CSFfI \n\nSpeakers: Seba Gnagnarella, Arthur Thompson\n\nWatch the Firebase sessions from Google I/O 2026 → https://goo.gle/Firebase-at-IO26\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\n\nSubscribe to Firebase → https://goo.gle/Firebase\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Firebase, Cloud",
+      "published_at": "2026-05-21T16:02:03Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "1AD81ZselPk": {
+      "video_id": "1AD81ZselPk",
+      "title": "Supercharge your AI coding workflow with Chrome DevTools for agents",
+      "duration_s": 1555,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Unlock autonomous debugging with Chrome DevTools for agents. Give coding agents like Gemini CLI, Google Antigravity, Cursor and others direct access to your web app's runtime. Learn how the Chrome DevTools MCP server and CLI enable your agent to inspect your website, interact with forms, emulate device features, and run Lighthouse audits, transforming how you identify and fix issues.\n\nResources: \nCheck out the blog about Chrome DevTools for agents → https://goo.gle/42yhaut  \nLearn more about Chrome DevTools for agents → https://goo.gle/4dM6Ep\n\nSpeakers: Matthias Rohmer\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome",
+      "published_at": "2026-05-22T19:10:32Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "1KOO2lqsdaA": {
+      "video_id": "1KOO2lqsdaA",
+      "title": "The latest in Android XR",
+      "duration_s": 1053,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore how the Android XR ecosystem offers a unified platform for augmented and immersive experiences. Learn about the Android XR SDK and the beta Jetpack XR Libraries. Discover new capabilities for AI glasses, expanded ARCore Geospatial features, and tools to accelerate your workflow, and the latest updates to the Android XR Emulator and direct preview, helping you build efficiently across all XR devices.\n\nResources: \nAndroid XR Developer Catalyst Program  →  https://goo.gle/4cRyi4e\nDesign Guidelines & Resources  →  https://goo.gle/4cU6BYw\nAndroid XR Experiments  →  https://goo.gle/4n8y5wV\nAndroid XR Samples  →  https://goo.gle/4wbj8hT\nAndroid XR Developer Documentation  →  https://goo.gle/4etLNsb\n\nSpeakers: Stevan Silva, Yasmine Evjen, Elijah Taylor\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, XR",
+      "published_at": "2026-05-21T23:34:41Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "1ucAu7lTsmM": {
+      "video_id": "1ucAu7lTsmM",
+      "title": "Grow your smart home business with Gemini for Home",
+      "duration_s": 674,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Create intelligent smart home security experiences using Gemini for Home. Learn how to integrate new AI-driven features in the Home APIs, available to service providers integrating the Google Home Premium subscription into their bundles. Plus, explore how our expanded hardware program helps you build devices with Gemini built in that work seamlessly with Gemini for Home features.\n\nResources: \nDeveloper Interest Form → https://goo.gle/4d5rajp\n\nSpeakers: Ryan Weekes, Liz Lee, Mihai Antonescu\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Smart Home",
+      "published_at": "2026-05-21T17:15:33Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "Gemini for Home",
+        "Google Home",
+        "Smart Home",
+        "Home APIs",
+        "Gemini built in",
+        "service providers",
+        "smart home security"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "21tfI9O9RrA": {
+      "video_id": "21tfI9O9RrA",
+      "title": "Discover the latest Google Pay and Google Wallet features",
+      "duration_s": 1230,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "2IAoYnzCTvw": {
+      "video_id": "2IAoYnzCTvw",
+      "title": "Best practices for using web in your Android apps",
+      "duration_s": 774,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "2n41YjR5QfU": {
+      "video_id": "2n41YjR5QfU",
+      "title": "Software engineering at the tipping point",
+      "duration_s": 2379,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn to use systems thinking to understand how developer ecosystems guide the evolution of your software systems. Improve your intuition for the systemic impacts of AI-driven software development and understand how you can better prepare for the exciting changes coming to our industry.\n\nSpeakers: Adam Bender\n\nWatch the Professional Development sessions from Google I/O 2026 → https://goo.gle/professional-developement-IO26 \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Cloud",
+      "published_at": "2026-05-21T17:15:12Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Professional Development;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "3AIme0FZr4g": {
+      "video_id": "3AIme0FZr4g",
+      "title": "Directing the future: craft and creativity in the age of AI",
+      "duration_s": 2408,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Go behind the scenes with filmmaker Doug Liman, his production partners at 30 Ninjas Julina Tatlock and Jed Weintrob, and Google’s Mira Lane as they explore the intersection of cinematic craft and AI. Join them for a look into their latest collaborations and how the world’s leading storytellers are directing these new tools to push the boundaries of filmmaking.\n\nSpeakers: Mira Lane, Doug Liman\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\nWatch the Dialogues sessions from Google I/O 2026 → https://goo.gle/Dialogues-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Design\"",
+      "published_at": "2026-05-21T23:56:45Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "3Wo-iucic7I": {
+      "video_id": "3Wo-iucic7I",
+      "title": "Unlock your organization’s collective brilliance with Agentspace",
+      "duration_s": 878,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "3zXVPU2vKXs": {
+      "video_id": "3zXVPU2vKXs",
+      "title": "Seamless video capture, editing and playback with CameraX and Media3",
+      "duration_s": 1563,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "4TE-KFXvhAk": {
+      "video_id": "4TE-KFXvhAk",
+      "title": "Google's AI stack for developers",
+      "duration_s": 2291,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "4_Sw2jfzOuc": {
+      "video_id": "4_Sw2jfzOuc",
+      "title": "Build native Android experiences for web apps using WebView",
+      "duration_s": 800,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Leverage your existing web investment to deliver a first-class experience that feels native on every Android device. Whether you are adding dynamic web components to a mobile app or scaling a complex web application to foldables, tablets, and Chromebooks, the Android WebView component is a powerful bridge. Learn best practices for using it to integrate with Android's native features, including two-way communication, native file handling, seamless UI integration, and a flexible offline strategy.\n\nResources: \nwebview for web apps - GitHub → https://goo.gle/4tdp47r\n\nSpeakers: Scott Myers, Sasha Lukin\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, ChromeOS, Web",
+      "published_at": "2026-05-21T16:28:30Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "Web",
+        "WebView"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "5HaXfjHtCWo": {
+      "video_id": "5HaXfjHtCWo",
+      "title": "Quantum computing: reading signals from the noise",
+      "duration_s": 1144,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "5MPxzw15ojE": {
+      "video_id": "5MPxzw15ojE",
+      "title": "Turing winner David Patterson: how to give AI a bad carbon footprint",
+      "duration_s": 2071,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "6IsFP3gD28E": {
+      "video_id": "6IsFP3gD28E",
+      "title": "Build next-level UX with Material 3 Expressive",
+      "duration_s": 1343,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "6eTiMIhtnBA": {
+      "video_id": "6eTiMIhtnBA",
+      "title": "Cloud Assist in action",
+      "duration_s": 1797,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "7Tnq4y7T4xs": {
+      "video_id": "7Tnq4y7T4xs",
+      "title": "Finding the perfect Gemini fit on Android",
+      "duration_s": 791,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "7UBmLXP_LKw": {
+      "video_id": "7UBmLXP_LKw",
+      "title": "Match what your AI does with what users want to do",
+      "duration_s": 2154,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Get ready to align your AI capabilities and interactions with your user’s expectations and mental models. Explore concepts from Google’s People + AI Guidebook that can help you translate user intent into tasks for your AI, create explanations that are useful and build trust, and turn errors into opportunities for user control. We’ll deep dive into common challenges and provide recommendations so you can start implementing people-first solutions right away.\n\nResources: \nPeople + AI Guidebook → https://goo.gle/49wODZU\n\nSpeakers: Jani Cortesini\n\nWatch the Professional Development sessions from Google I/O 2026 → https://goo.gle/professional-developement-IO26 \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Design",
+      "published_at": "2026-05-21T17:15:30Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Professional Development;",
+        "ux ai practices",
+        "designing for ai",
+        "ai product framework",
+        "ai software product design",
+        "google pair guidebook",
+        "developer guide for ai ux",
+        "ai mental models",
+        "managing ai errors",
+        "ai for user experience",
+        "AIUX",
+        "AI product",
+        "pair guidebook"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "80qkStdDWXQ": {
+      "video_id": "80qkStdDWXQ",
+      "title": "Build more accessible UIs with Jetpack Compose",
+      "duration_s": 1307,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "83CF7AhozJ8": {
+      "video_id": "83CF7AhozJ8",
+      "title": "Extend your mobile app for AI glasses",
+      "duration_s": 886,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover the workflow for building experiences for AI Glasses. Explore core architectural strategies for expanding existing apps and designing logic for glasses, with and without displays. Learn what’s new in Jetpack Compose Glimmer to build beautiful user interfaces and the latest in Android Studio's inner loop, covering tooling setup and how to validate your app without physical hardware.\n\nResources: \nPublic documentation and guidance for Android XR AI Glasses → https://goo.gle/4w7LbPn  \nPrototype AI Glasses Sample - This sample demonstrates how to use the Gemini Live API for real-time → https://goo.gle/4wdj7tO\nBuild your first AI glasses app with Glimmer & Projected → https://goo.gle/4d2iFFT\nHow to use AI for augmented glasses experiences → https://goo.gle/4dcCMl3\n\nSpeakers: Kathleen Bryan, Louis Pullen-Freilich, Adhithya Ramakumar\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO  #AndroidDevelopers\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, Design, XR",
+      "published_at": "2026-05-21T16:22:57Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "89UusPuz8q4": {
+      "video_id": "89UusPuz8q4",
+      "title": "What’s new in Jetpack Compose",
+      "duration_s": 970,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "8F8RRNYNWe4": {
+      "video_id": "8F8RRNYNWe4",
+      "title": "Build full-stack apps with Google AI Studio, Cloud Run, and Cloud SQL",
+      "duration_s": 542,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Turn ideas into live apps in minutes, without the need for coding. Build and launch full-stack apps with Google AI Studio powered by Cloud SQL for storing data and Cloud Run for deploying the app.\n\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO\n\nSpeakers: Shambhu Hegde, Justin Mahood, Sara Ford\nEvent: Google I/O 2026\nProducts Mentioned: AI/Machine Learning, Cloud",
+      "published_at": "2026-05-21T22:02:10Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Workshop;",
+        "ct:Stack - Cloud;",
+        "Vibe Coding with Google AI Studio",
+        "No-code full stack app development",
+        "Cloud SQL for AI Applications",
+        "database management for no-code apps"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "8PxuWdjESfg": {
+      "video_id": "8PxuWdjESfg",
+      "title": "What's new in Android",
+      "duration_s": 2532,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore what’s new in Android development. Explore new UI breakthroughs with Jetpack Compose, improvements in developer productivity, and how to unlock additional form factors for your app. Learn about Android 17, including performance improvements, new capabilities for media and camera apps, new functionality for desktop and large screened apps, and how we're using agentic automation to empower users to get more done faster.\n\nResources: \nLearn more → https://goo.gle/compose-first\nLearn more → https://goo.gle/r8-analyzer \nUnified call history → https://goo.gle/4fp7YQz \nAndroid X → https://goo.gle/3PJrNrm \nWear → https://goo.gle/4dJTEAS \nAndroid XR SDK  → https://goo.gle/4nxB7uP \nAndroid for Cars overview → https://goo.gle/42WWYmh \nAndroid for Cars Early Access Programs - New Categories Self Nomination → https://goo.gle/CAL-EAP\nAI opn Android → https://goo.gle/42Dx2vC\n\nSpeakers: Nick Butcher, Ash Nohe, Daniel Galpin\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, Mobile, AI/Machine Learning",
+      "published_at": "2026-05-21T16:08:42Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "8iIvAMZ-XYU": {
+      "video_id": "8iIvAMZ-XYU",
+      "title": "The future of Chrome Extensions with Gemini in your browser",
+      "duration_s": 838,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "8rlNdKywldQ": {
+      "video_id": "8rlNdKywldQ",
+      "title": "Building AI agents on Google Cloud",
+      "duration_s": 1585,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "9C20esBUf-Q": {
+      "video_id": "9C20esBUf-Q",
+      "title": "Beyond the keynote with Sundar Pichai",
+      "duration_s": 1902,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Sundar Pichai sits down with Matt Berman, exploring Google’s latest AI innovations and the long-term vision behind today’s I/O announcements.\n\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026",
+      "published_at": "2026-05-21T17:51:02Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "BHqxD9qr6Gw": {
+      "video_id": "BHqxD9qr6Gw",
+      "title": "Performance debugging in DevTools",
+      "duration_s": 656,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "BqQiJ5LSASI": {
+      "video_id": "BqQiJ5LSASI",
+      "title": "Technical benefits of the Google Developer Program",
+      "duration_s": 847,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "CBL6KgCsQNY": {
+      "video_id": "CBL6KgCsQNY",
+      "title": "Agent-first workflows from prompt to production",
+      "duration_s": 2233,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Agentic coding unlocks unprecedented velocity, but speed means nothing if you hit a deployment wall. Discover how to turn agentic coding into a production powerhouse. Explore a complete end-to-end lifecycle to securely deploy, scale, and manage AI-native apps across Google Cloud without leaving your code editor. \n\nResources: \nCodelab → https://goo.gle/4nx2dCg \n\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO\n\nEvent: Google I/O 2026\nSpeakers: Richard Seroter, Christina Lin, Denise Kwan\nProducts Mentioned: AI/Machine Learning, Cloud",
+      "published_at": "2026-05-21T16:00:21Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;",
+        "Agentic Coding",
+        "AI-native Apps",
+        "software engineering velocity",
+        "AI deployment",
+        "Cloud Run",
+        "LLMOps",
+        "Google Cloud Code",
+        "AI productivity tools",
+        "enterprise AI"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "Ch1EwR18Dqc": {
+      "video_id": "Ch1EwR18Dqc",
+      "title": "Supercharge Android media experiences with Jetpack Media3 and CameraX",
+      "duration_s": 1290,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore the end-to-end media pipeline and latest Android APIs that enable next-generation creative experiences. Learn to capture in any scenario, like low-light or fast-moving action, using Jetpack CameraX. Discover how to use Jetpack Media3 Transformer to combine media into multi-asset projects with efficient operations like edit-list trimming and AI-powered effects. Finally, deliver the creation for playback with Jetpack Media3 ExoPlayer, using optimizations like scrubbing mode and preloading.\n\nResources: \nDeveloper Guides → https://goo.gle/4ne8MJV\n\nCode samples:\n- SociaLite → https://goo.gle/4eYwd80\n- Samples catalog → https://goo.gle/4uz76NO\n- Platform samples → https://goo.gle/4uvn0su\n\nJetpack Media3 GitHub → https://goo.gle/4uqb5Mo\nJetpack CameraX Discussion Group → https://goo.gle/49gHehf\n\nSpeakers: Nevin Mital, Kailiang Chen, Bassam Dgheim\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, AI/Machine Learning, Mobile",
+      "published_at": "2026-05-21T23:32:29Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "androidmedia",
+        "androidcamera",
+        "media3",
+        "camerax",
+        "featured"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "CjpZCWYrSxM": {
+      "video_id": "CjpZCWYrSxM",
+      "title": "Practical built-in AI with Gemini Nano in Chrome",
+      "duration_s": 1787,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "EDqgZS8q2rA": {
+      "video_id": "EDqgZS8q2rA",
+      "title": "Android accessibility updates",
+      "duration_s": 1194,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn about the latest Android accessibility features and APIs. Explore updates to features like TalkBack and Voice Access, expanded dark theme, and new product offerings. Discover best practices for developing more accessible app experiences, and understand the accessibility API changes introduced in Android 17.\n\nResources: \nAndroid Accessibility → https://goo.gle/4d8ANhB\nDark theme → https://goo.gle/4tRLcFg\nDeep links → https://goo.gle/42OAlA3\n\nDeveloper Resources:\nBuild accessible apps → https://goo.gle/42cGplT\nScalable content → https://goo.gle/4u4Mehe\nAccessibility Scanner → https://goo.gle/3QPTL54\nGetting started with scanner → https://goo.gle/3QQgMVr\n\nSpeakers: Yvonne Ellefson, Isaac Chai\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n #GoogleIO #Featured #Accessibility #AndroidDevelopers\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Accessibility, Android",
+      "published_at": "2026-05-21T16:20:02Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "EVcahPj2jHM": {
+      "video_id": "EVcahPj2jHM",
+      "title": "Do more with Chrome DevTools and less CTRL + TAB",
+      "duration_s": 852,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "GjvgtwSOCao": {
+      "video_id": "GjvgtwSOCao",
+      "title": "Google I/O '25 Developer Keynote",
+      "duration_s": 4204,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "HKZ9mw6TaCo": {
+      "video_id": "HKZ9mw6TaCo",
+      "title": "Break boundaries with Gemini in Chrome DevTools",
+      "duration_s": 640,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how AI assistance in Chrome DevTools correlates data from sources like DOM elements, computed styles, and performance traces for deep diagnostics. Learn how new visual widgets and a structured walkthrough explain Gemini’s reasoning about your bugs, and explore how to seamlessly transfer investigation results to agentic IDEs like Gemini CLI, Google Antigravity, and Cursor.\n\nResources: \nDevTools documentation → https://goo.gle/4dKnXaC\nDevTools AI assistance documentation → https://goo.gle/4eQRjW0\n\nSpeakers: Matthias Rohmer \n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome",
+      "published_at": "2026-05-21T23:45:27Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "HZvb2t3ZBBg": {
+      "video_id": "HZvb2t3ZBBg",
+      "title": "Google Home APIs, tools, and Gemini capabilities for your apps",
+      "duration_s": 542,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "HbAFGivZ158": {
+      "video_id": "HbAFGivZ158",
+      "title": "Make Material your own",
+      "duration_s": 439,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how to build your own beautiful and premium design language on top of the Material Design system's foundation of usability and functionality.\n\nResources: \nMaterial Design 3  → https://goo.gle/3RJjwnP\nStyles in Compose → https://goo.gle/4eQbfZ4\n\nSpeakers: Bradley Patrie, Liam Spradlin\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Design",
+      "published_at": "2026-05-21T16:29:14Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "HdCc-KezQPk": {
+      "video_id": "HdCc-KezQPk",
+      "title": "Build your website for the agentic era",
+      "duration_s": 2327,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Build websites for an era where AI agents, like Gemini in Chrome, assist users by understanding page context and triggering actions. Learn how to prepare your pages to help agents perform tasks efficiently, and explore APIs like WebMCP that make agent interactions faster and more reliable.\n\nResources: \nCreate AI evaluations → https://goo.gle/4ntM3tu\nWebMCP documentation → https://goo.gle/3RJzFJW\nWebMCP Evals CLI experimental tooling → https://goo.gle/4wnYmvs\nLighthouse GitHub → https://goo.gle/49LgSEf \n\nSpeakers: Kasper Kulikowski\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome",
+      "published_at": "2026-05-22T23:03:58Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "I1uIbGh1dGE": {
+      "video_id": "I1uIbGh1dGE",
+      "title": "What's new in Flutter",
+      "duration_s": 2564,
+      "channel": "Flutter",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore the latest Flutter framework updates, from performance improvements to new features. Dive into Flutter GenUI to discover how to build truly adaptive, AI-generated user experiences on the fly. Learn how these innovations are shaping the future of fast, multi-platform application development.\n\nWatch the Flutter sessions from Google I/O 2026 → https://goo.gle/Flutter-at-IO26\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\n\nSubscribe to Flutter → http://goo.gle/FlutterYT\n\n#GoogleIO\n\nEvent: Google I/O 2026\nSpeakers: Khanh Nguyen, Kate Lovett, Li-Te Cheng\nProducts Mentioned: AI/Machine Learning, Flutter, Mobile",
+      "published_at": "2026-05-21T22:00:34Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;",
+        "Flutter GenUI",
+        "Generative UI",
+        "Adaptive User Experiences",
+        "A2UI (Agent-To-UI) Protocol",
+        "Flutter 4.0",
+        "multi-platform apps",
+        "dynamic UI"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "I2SplqZ85dk": {
+      "video_id": "I2SplqZ85dk",
+      "title": "Go faster and reach further with Chrome Extensions",
+      "duration_s": 1097,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "IaNpcrCSDiI": {
+      "video_id": "IaNpcrCSDiI",
+      "title": "What's new in Android",
+      "duration_s": 2832,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "KXKP2tDPW4Y": {
+      "video_id": "KXKP2tDPW4Y",
+      "title": "What's new in Android development tools",
+      "duration_s": 2363,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "KbTJNK1ALYc": {
+      "video_id": "KbTJNK1ALYc",
+      "title": "Building differentiated apps for Android XR with 3D content",
+      "duration_s": 1141,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "MbkjTNg2rcg": {
+      "video_id": "MbkjTNg2rcg",
+      "title": "What's new in Angular",
+      "duration_s": 1754,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how Angular is evolving to empower developers with new features and AI tools as you forge toward the future of robust web applications. It's an exciting time to be a web developer and the latest Angular updates will make you more productive and deliver better developer ergonomics.\n\nResources: \nWatch more Angular content → https://goo.gle/4uVfw2c \nLearn more about Angular → https://goo.gle/3P9CAuS \nGet Angular Skills → https://goo.gle/4tyHwHD \nGet started with Angular MCP → https://goo.gle/4foegjh \nCheckout Chrome DevTools for Agents → https://goo.gle/42yBgop \nLearn more about Angular + AI → https://goo.gle/3P3iZfS \n\nSpeakers: Mark Thompson\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Angular, Web, Chrome",
+      "published_at": "2026-05-21T22:37:30Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "MmeJSLAnB-M": {
+      "video_id": "MmeJSLAnB-M",
+      "title": "Unlock user productivity with desktop windowing and stylus support",
+      "duration_s": 1186,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "MmxPBgrrn4Q": {
+      "video_id": "MmxPBgrrn4Q",
+      "title": "Build a Transformer with JAX",
+      "duration_s": 1676,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "N4GgGBKnHe4": {
+      "video_id": "N4GgGBKnHe4",
+      "title": "What's new in Android development tools",
+      "duration_s": 2447,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover what's new in Android Studio. Explore demos and features designed to accelerate your workflow across Android APIs, and get a firsthand look at the latest Gemini capabilities for Android app development.\n\nSpeakers: Jamal Eason, Tor Norbye\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, AI/Machine Learning",
+      "published_at": "2026-05-21T22:34:54Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "NYtQuneZMXc": {
+      "video_id": "NYtQuneZMXc",
+      "title": "Science in the age of AI",
+      "duration_s": 2766,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "O0UjId1VoRU": {
+      "video_id": "O0UjId1VoRU",
+      "title": "How to write really good Flutter code",
+      "duration_s": 916,
+      "channel": "Flutter",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore the principles of writing high-quality, maintainable Flutter code, and how tooling like Widget Previews, DevTools, MCP server and Skills make it easier than ever to write high-quality code. \n\nResources: \nFlutter Evals Docs → https://goo.gle/4uvFN6X\nFlutter Evals GitHub → https://goo.gle/4uvnlLM\nFlutter Skills GitHub → https://goo.gle/4uPSdXB\nFlutter Docs - Create with AI → https://goo.gle/42hY23B\n\nWatch the Flutter sessions from Google I/O 2026 → https://goo.gle/Flutter-at-IO26\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\n\nSubscribe to Flutter → http://goo.gle/FlutterYT\n\n#GoogleIO\n\nSpeakers: Mariam Hasnany, Eric Windmill, John Ryan\nEvent: Google I/O 2026\nProducts Mentioned: Cloud, Flutter, Mobile",
+      "published_at": "2026-05-21T19:00:23Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;",
+        "Flutter best practices 2026",
+        "Flutter clean architecture",
+        "maintainable flutter code",
+        "Flutter widget previews",
+        "Flutter devtools tutorial",
+        "Flutter Model Context Protocol (MCP) server",
+        "AI Agent Skills for Flutter",
+        "Flutter debugging tools",
+        "Flutter agentic workflow"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "OdrOmc_RX8A": {
+      "video_id": "OdrOmc_RX8A",
+      "title": "Build agents with Gemini API",
+      "duration_s": 2293,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Demystify agent development and discover the fastest path from prompt to production agent with the Gemini Interactions API. Learn about the full spectrum of agent development with Gemini models, to real time agents, to live-coding your own Agent.\n\nSpeakers: Philipp Schmid, Thor Schaeff\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Web\"",
+      "published_at": "2026-05-21T23:52:17Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Stack - AI;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "OosLbRBM9dA": {
+      "video_id": "OosLbRBM9dA",
+      "title": "Engage users on Google TV with excellent TV apps",
+      "duration_s": 1312,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "POUqfDBtRbg": {
+      "video_id": "POUqfDBtRbg",
+      "title": "What's new in Google Play",
+      "duration_s": 2282,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "ROFC-dQ421A": {
+      "video_id": "ROFC-dQ421A",
+      "title": "Unlocking ML Performance on TPUs and GPUs",
+      "duration_s": 820,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "R_gqv8PwM78": {
+      "video_id": "R_gqv8PwM78",
+      "title": "What's new in Firebase",
+      "duration_s": 1695,
+      "channel": "Firebase",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "SSe1VmVrtw0": {
+      "video_id": "SSe1VmVrtw0",
+      "title": "What's new in Google AI",
+      "duration_s": 1824,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore Google's end-to-end AI stack. Learn about the latest model capabilities across multimodal, media generation, and robotics, and how to leverage them using Google’s infrastructure. Whether you are building intelligent agents, utilizing new vibe-coding tools, or tuning and serving open-source models, gain a clear understanding of the tools needed to build next-generation AI apps.\n\nSpeakers: Paige Bailey, Ammaar Reshi, Josh Gordon\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-23T00:45:21Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "STMN5N-bDko": {
+      "video_id": "STMN5N-bDko",
+      "title": "Under the hood with Google AI",
+      "duration_s": 2604,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "T41OD37tI54": {
+      "video_id": "T41OD37tI54",
+      "title": "Maximizing ROI on Google Play",
+      "duration_s": 1264,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "TUtKGTeFWjQ": {
+      "video_id": "TUtKGTeFWjQ",
+      "title": "Build next-generation UIs with the HTML-in-Canvas API",
+      "duration_s": 980,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn how the HTML-in-Canvas API lets you draw HTML elements directly into a canvas while maintaining semantic information like accessibility and interactivity. then explore how to manipulate textures to create dynamic effects that still feel like interactive websites. We will cover the extensive capabilities of this API, review demonstrations of potential use cases, and understand the initial setup process.\n\nResources: \nhttps://goo.gle/HIC-how-to \nhttps://goo.gle/HIC-threejs \nhttps://goo.gle/HIC-threejs-example \nhttps://goo.gle/HIC-playcanvas \nhttps://goo.gle/HIC-playcanvas-example \nhttps://goo.gle/HIC-playcanvas-shoe \nhttps://goo.gle/HIC-explainer \nhttps://goo.gle/HIC-MWG \nhttps://goo.gle/HIC-samples \nhttps://goo.gle/awesome-HIC \nhttps://goo.gle/hic-central\n\nSpeakers: Thomas Nattestad\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome, Design",
+      "published_at": "2026-05-21T16:35:02Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;",
+        "Web UI",
+        "html",
+        "canvas",
+        "modern design",
+        "HTML in Canvas",
+        "WebGPU",
+        "WebGL",
+        "HTML",
+        "DOM",
+        "Three.JS",
+        "playcanvas",
+        "Interactive 3D web",
+        "accessibility"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "U8Nb68XsVY4": {
+      "video_id": "U8Nb68XsVY4",
+      "title": "Enhance your Android app with Gemini Pro and Flash, and Imagen",
+      "duration_s": 1049,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "UcXWY057YuQ": {
+      "video_id": "UcXWY057YuQ",
+      "title": "Web animations today and tomorrow",
+      "duration_s": 1163,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "Uh-7YX8tkxI": {
+      "video_id": "Uh-7YX8tkxI",
+      "title": "Demis Hassabis on the frontiers of AI",
+      "duration_s": 1791,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "V8WPpDx8PWg": {
+      "video_id": "V8WPpDx8PWg",
+      "title": "Design and build desktop-class Android experiences",
+      "duration_s": 796,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "The ecosystem of Android devices is rapidly growing. Explore the essential quality and design guidelines to ensure your applications deliver a polished, productive experience on connected displays, Chromebooks and other desktop setups. Discover the latest tools, APIs, and best practices to build desktop-class experiences with optimized layouts, enhanced input support, and powerful window management capabilities.\n\nSpeakers: Francesco Romano, Josh Hale, Jason Yan\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, ChromeOS, Design",
+      "published_at": "2026-05-21T16:27:54Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "VJllI3jMEb4": {
+      "video_id": "VJllI3jMEb4",
+      "title": "Darren Aronofsky and Demis Hassabis on storytelling in the age of AI",
+      "duration_s": 2564,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "VTCIStB6y8s": {
+      "video_id": "VTCIStB6y8s",
+      "title": "What's new in web UI",
+      "duration_s": 2936,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "VTYx7Ex-0bA": {
+      "video_id": "VTYx7Ex-0bA",
+      "title": "A fireside chat on the evolution of the developer craft",
+      "duration_s": 2710,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Join leaders from Google developer and AI teams for a candid chat about the human experience of building software today. Move beyond the hype of code generation to discuss how daily creative flows shift when you spend less time on syntax and more time on system architecture. Explore the evolution of the craft, what debugging looks like when your partner is an AI, and discover what the future of your work entails.\n\nSpeakers: Addy Osmani, Richard Seroter, Aja Hammerly, Ciera Jaspan\n\nWatch the Professional Development sessions from Google I/O 2026 → https://goo.gle/professional-developement-IO26 \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Cloud, Web",
+      "published_at": "2026-05-21T17:15:25Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Professional Development;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "VnjgKzAa0ws": {
+      "video_id": "VnjgKzAa0ws",
+      "title": "Build adaptive widgets for cars, phones, watches, and more",
+      "duration_s": 1064,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn how to build glanceable experiences that scale across multiple screens—from the dashboard to the wrist. Discover new widget capabilities, including how to get your modern mobile widget onto Android Auto, with little to no extra code, and how to easily build Wear widgets with Jetpack Glance and RemoteCompose.\n\n\nSpeakers: André Labonté, François Deschênes, John Zoeller\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO  #Featured  #AndroidDevelopers\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, Wear OS",
+      "published_at": "2026-05-21T16:22:24Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "widgets",
+        "androidwidgets",
+        "tiles",
+        "wearwidgets",
+        "remotecompose",
+        "glance",
+        "jetpackglance"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "Wl7QvP2eDbA": {
+      "video_id": "Wl7QvP2eDbA",
+      "title": "Next-gen Android experiences with photorealistic 3D maps",
+      "duration_s": 760,
+      "channel": "Google Maps Platform",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "Wzpz_y_EFPs": {
+      "video_id": "Wzpz_y_EFPs",
+      "title": "Protect your cloud data with Security Command Center",
+      "duration_s": 828,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "XEhd9a9YhSk": {
+      "video_id": "XEhd9a9YhSk",
+      "title": "Deploy Angular and Next.js with Firebase App Hosting",
+      "duration_s": 2330,
+      "channel": "Firebase",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "YCNDg9j0p5o": {
+      "video_id": "YCNDg9j0p5o",
+      "title": "Automate your work and integrate with Google Workspace",
+      "duration_s": 1339,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "YN04nNsg_L4": {
+      "video_id": "YN04nNsg_L4",
+      "title": "Web AI use cases and strategies in the real world",
+      "duration_s": 1601,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "YYMt7Ddzz6Y": {
+      "video_id": "YYMt7Ddzz6Y",
+      "title": "The future is now, with Compose and AI on Android XR",
+      "duration_s": 1222,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "YuMdsHIXatY": {
+      "video_id": "YuMdsHIXatY",
+      "title": "What's new in Chrome",
+      "duration_s": 2523,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover the cutting edge of web development and learn where Chrome is taking the browser in 2026. Explore new capabilities that make the web more capable, reliable, and intelligent.\n\nResources: \n15 updates from Google I/O 2026: Blog Post → https://goo.gle/4dXodTO \nWebMCP → https://goo.gle/4uqYauc \nModern Web Guidance → https://goo.gle/4dWeOf8 \nChrome DevTools for agents → https://goo.gle/4fABEdz \nHTML-in-Canvas → https://goo.gle/3RnDLYj \nPrompt API → https://goo.gle/49b24ii \nBaseline → https://goo.gle/3ReWwgz\n\nSpeakers: Paul Kinlan\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome",
+      "published_at": "2026-05-21T16:32:03Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Chrome PA Keynote;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "Z7zx_sTbFPI": {
+      "video_id": "Z7zx_sTbFPI",
+      "title": "Deploy Android on-device AI with ML Kit GenAI and LiteRT-LM",
+      "duration_s": 1026,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Differentiate your app and elevate your user experience with on-device AI. Learn about different ways to bring on-device AI to your Android apps through ML Kit GenAI APIs for turnkey solutions powered by Gemini Nano and LiteRT-LM for customized use cases with your own models.\n\nResources: \nAICore Developer Preview → https://goo.gle/3QOCdGt\nAutomated Prompt Optimization → https://goo.gle/4dquC9N\nMLKit GenAI APIs → https://goo.gle/mlkit-genai-apis\nSpeech Recognition → https://goo.gle/mlkit-speech-recognition\nPrefix Caching → https://goo.gle/3RnvLGv\nStructured Output → https://goo.gle/mlkit-structured-output\nModel Selection → https://goo.gle/mlkit-model-selection\nRun LLMs on-device with LiteRT-LM → https://goo.gle/42VglvD\nAI Edge Gallery App → https://goo.gle/4tBazdT\nGoogle Hugging Face → https://goo.gle/4tfrvpK\nGemma Cookbook → https://goo.gle/4upOIqh\n\nSpeakers: Caren Chang, Erin Walsh\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Android",
+      "published_at": "2026-05-21T23:36:37Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "ZyFb2geQ-GQ": {
+      "video_id": "ZyFb2geQ-GQ",
+      "title": "Build a modern note-taking app on Android",
+      "duration_s": 1761,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Build a modern, desktop-class note-taking app as users increasingly leverage their Android large screen devices as premium digital notebooks. Explore the Jetpack Ink API and Brush Designer for low latency, expressive drawing, and other Android integrations including the Notes Role, Desktop Windowing, and Multi-instance support, to unlock true user productivity.\n\nResources: \nInk API documentation → https://goo.gle/48GyUap\nSample code GitHub → https://goo.gle/4dffw5Y\nCreate a note-taking app → https://goo.gle/3PnDL9W\nHow to support connected displays → https://goo.gle/4d2MkyH\n\nSpeakers: Joyce Toh, Chris Assigbe\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, ChromeOS",
+      "published_at": "2026-05-21T16:27:12Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "_98yGqz8_YM": {
+      "video_id": "_98yGqz8_YM",
+      "title": "Build no-code intelligent Agents with AppSheet, Gemini, and Vertex AI",
+      "duration_s": 430,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "_Op9QfXDBuM": {
+      "video_id": "_Op9QfXDBuM",
+      "title": "Create advanced data driven Gemini API apps",
+      "duration_s": 814,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore the latest file handling, data integration, and tooling capabilities within the Gemini API. Build a documentation AI system using the new File Search hosted-RAG system, and discover features for batch processing and automated data extraction. \n\nResources: \nBuild and prototype RAG systems with the Gemini File Search API!\nInstall the Gemini API dev skill → https://goo.gle/4tfq7n2 \nRead the File Search docs → https://goo.gle/4w7WBTb\n\nSpeakers: Mark McDonald\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-21T17:15:42Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Workshop;",
+        "ct:Stack - AI;",
+        "gemini",
+        "gemini-api",
+        "agent-skills",
+        "rag",
+        "agentic-rag",
+        "file-search",
+        "vibe-coding",
+        "antigravity"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "_fb97pel80k": {
+      "video_id": "_fb97pel80k",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "_iuXykdlTkk": {
+      "video_id": "_iuXykdlTkk",
+      "title": "Build intelligent Android apps with Google's AI",
+      "duration_s": 2750,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Create more personalized and agentic app experiences that meet the growing demand for intelligent interactions. Learn how to integrate intelligence directly into your app's workflows using on-device models for privacy and speed, cloud-powered reasoning for complex tasks, and the latest agentic frameworks. Discover insights from real-world partners on where to leverage and deploy these tools today.\n\nChapters:\n0:00 - Introduction to AI on Android\n1:45 - Jetpacker app and Gemini Nano\n5:30 - ML Kit GenAI Prompt API\n14:11 - Cloud models and Firebase AI logic SDK\n17:01 - Grounding techniques\n20:02 - AI features in production\n22:25 - Hybrid inference and routing logic\n26:46 - Automatic chat translation\n30:04 - Connecting with agentic systems\n36:15 - AG-UI and A2UI protocols\n41:28 - On-device agentic systems\n45:21 - Summary and wrap up\n\n\nSpeakers: Jolanda Verhoef, Thomas Ezan\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, AI/Machine Learning, Mobile",
+      "published_at": "2026-05-22T19:09:11Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Stack - Android;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "alVIYAu51V8": {
+      "video_id": "alVIYAu51V8",
+      "title": "Grow your business with Google Play",
+      "duration_s": 803,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how platform updates and enhancements to Play Console make growing your business easier than ever. Learn about new time-savers for managing day-to-day tasks, deeper insights to drive growth, and powerful monetization tools to boost revenue.\n\nSpeakers: Phalene Gowling, Lidia Gaymond\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Google Play",
+      "published_at": "2026-05-21T23:35:38Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "aqmpZocmR8o": {
+      "video_id": "aqmpZocmR8o",
+      "title": "Developer Keynote (Google I/O '26)",
+      "duration_s": 3528,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn about the latest updates to our developer products and platforms.\n\n00:00:00 Introduction\n00:02:18 Building Agents\n00:14:52 Antigravity\n00:26:08 Android\n00:41:52 Chrome \n00:56:41 Closing\n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: \nhttps://youtube.com/watch?v=KPYtmPz5pbU\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\n#GoogleIO \n\n\nEvent: Google I/O 2026",
+      "published_at": "2026-05-19T21:35:37Z",
+      "tags": [
+        "Google",
+        "developers"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "bc4QwDd5jB0": {
+      "video_id": "bc4QwDd5jB0",
+      "title": "Defining the agentic AI era",
+      "duration_s": 2456,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Join Google’s AI leadership to discuss how the rapid acceleration of model capabilities is transforming productivity and access to information in a new era of proactive, agentic AI.\n\nSpeakers: Logan Kilpatrick , Koray Kavukcuoglu, Liz Reid, Josh Woodward, Jeff Dean\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\nWatch the Dialogues sessions from Google I/O 2026 → https://goo.gle/Dialogues-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Design",
+      "published_at": "2026-05-21T23:53:34Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "beYbnNT_02U": {
+      "video_id": "beYbnNT_02U",
+      "title": "What's new in web",
+      "duration_s": 2454,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "bo3i0FzDUYo": {
+      "video_id": "bo3i0FzDUYo",
+      "title": "Unlock modern web capabilities in your AI coding workflows",
+      "duration_s": 2096,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how Chrome is bridging the knowledge gap for AI tools, ensuring your coding agents have up-to-date guidance on what features are available and how to use them properly. Equip them to understand the user and browser support requirements of your project, so you can go beyond one-size-fits-all answers to bespoke solutions tailored to your specific needs.\n\nResources: \nModern Web Guidance → https://goo.gle/4uaZsJt \n\nSpeakers: Philip Walton\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome, AI/Machine Learning",
+      "published_at": "2026-05-21T19:06:03Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "boy-UjB8hpA": {
+      "video_id": "boy-UjB8hpA",
+      "title": "Bring the power of on-device AI to life with Google AI Edge and Gemma",
+      "duration_s": 1898,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Build powerful AI features for your users. Explore Google's product suite to integrate on-device AI across mobile, web, and more to keep data private, latency low, and enable offline capabilities. We'll dive into the Google AI Edge stack, showing you when to drop in ready-made features using MediaPipe Tasks, powerful language models like Gemma, and how to use LiteRT to deploy and accelerate your own custom models across platforms.\n\nResources: \nLearn more about Google AI Edge → https://goo.gle/3RpvDX6 \n\nSpeakers: Erin Walsh, Sachin Kotwani\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Mobile, Web",
+      "published_at": "2026-05-22T19:00:42Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Stack - AI;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "cHNy5mK0jzE": {
+      "video_id": "cHNy5mK0jzE",
+      "title": "Generative AI for data practitioners",
+      "duration_s": 1322,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "ddBxvuH35tI": {
+      "video_id": "ddBxvuH35tI",
+      "title": "Build new features using built-in AI in Chrome",
+      "duration_s": 1660,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Take a journey through a travel blogging app powered by Chrome's built-in AI APIs. Follow along as Gemini Nano transforms unstructured writing into automated workflows. Learn to deploy the Summarizer, Writer, Rewriter, Language Detector, and Translator—all running locally for maximum privacy and zero server costs. Then dive into the Prompt API for structured data tagging with JSON schemas and multimodal alt-text generation to extrapolate these patterns into your own web apps.\n\nResources: \nLearn more → https://goo.gle/4duFxya \nLearn more → https://goo.gle/4degIHN \nLearn more → https://goo.gle/43aWeK2 \n\nSpeakers: Thomas Steiner\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome",
+      "published_at": "2026-05-21T23:46:32Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "dgBLVm2L1P4": {
+      "video_id": "dgBLVm2L1P4",
+      "title": "A new era of discovery: AI and the frontiers of science with Demis Hassabis",
+      "duration_s": 2568,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "We are at an incredibly exciting and consequential moment for AI. Join Google DeepMind co-founder and CEO Demis Hassabis for a conversation about how AI is helping to solve some of the most complex problems in science, and why we are on the cusp of a new golden age of discovery and exploration.\n\nSpeakers: Mike Allen, Demis Hassabis\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\nWatch the Dialogues sessions from Google I/O 2026 → https://goo.gle/Dialogues-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Design",
+      "published_at": "2026-05-21T23:55:48Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "e-wlF3cmJms": {
+      "video_id": "e-wlF3cmJms",
+      "title": "Build custom design systems with Jetpack Compose's new Styles API",
+      "duration_s": 2178,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Unlock and standardize building your own custom design systems with the new Styles API in Jetpack Compose. The Styles API not only introduces the ability to overwrite properties at a theme level, but also brings with it some nice performance advantages over Modifiers. Discover how Material is going to adopt Styles, create some fun animations with the Style API, and how to combine Styles to build up your own design system with a theme that adapts to different device sizes.\n\nResources: \nLearn more → https://goo.gle/compose-styles-skill \nStyles in compose → https://goo.gle/4uM1647 \nQuery information for adaptive layouts with mediaQuery →https://goo.gle/4nv0u0B    \n\nSpeakers: Rebecca Franks, Meghan Mehta, Chuck Jazdzewski\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, Design",
+      "published_at": "2026-05-21T23:41:30Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Stack - Android;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "e7gFaim6vLs": {
+      "video_id": "e7gFaim6vLs",
+      "title": "Building agents with real-world reasoning",
+      "duration_s": 652,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Production agents for travel, logistics, and consumer apps demand rigorous real-world reasoning. Learn how to build grounded, production-ready agents using Gemini 3, Maps Grounding Lite, and Google Maps Platform. Explore how to connect LLMs to physical-world logic and understand real-world use cases to turn agentic concepts into scalable production solutions.\n\nResources: \nGoogle Maps Platform Overview → https://goo.gle/4dMxrCb\nGoogle Maps Samples on GitHub → https://goo.gle/4eM6f7L\nMaps Grounding Lite → https://goo.gle/3Rp3LCr\nGoogle GenAI Python SDK (GitHub) → https://goo.gle/3PFu3jr\nGeocoding API Documentation → https://goo.gle/4uxVjzL\nMaps JavaScript API - Map3D Documentation → https://goo.gle/497aZRD\nVis.gl React Google Maps Library → https://goo.gle/4nQMVc5\n\nSpeakers: Caio Moreira, Ken Nevarez\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Location/Maps, Web",
+      "published_at": "2026-05-21T17:15:38Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "eIeJmYdYMQo": {
+      "video_id": "eIeJmYdYMQo",
+      "title": "What's new in Angular",
+      "duration_s": 2462,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "erRPuV1EQ_c": {
+      "video_id": "erRPuV1EQ_c",
+      "title": "Develop and integrate AI agents with Google Workspace",
+      "duration_s": 760,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Extend your AI agent's capabilities into Google Docs, Google Chat, and Gmail. Explore the Google Workspace developer platform and discover how to build agents that act as a seamless bridge between your custom application and the Google Workspace ecosystem.\n\nResources: \nGoogle AI → https://goo.gle/49RGf7r\nGoogle Workspace → https://goo.gle/4wwH0fZ\nGoogle Workspace MCP servers → https://goo.gle/3PsNBaG\nCodelab - Gemini Enterprise Agent Platform → https://goo.gle/4wyTTGr\nCodelab - Gemini Enterprise app → https://goo.gle/4wziBpY\n\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO\n\nEvent: Google I/O 2026\nSpeakers: Pierrick Voulet\nProducts Mentioned: AI/Machine Learning, Cloud",
+      "published_at": "2026-05-21T18:59:51Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;",
+        "Enterprise agentic workflows",
+        "Google Docs agent API",
+        "Gmail Agent API",
+        "Google Agent AI integration",
+        "A2A Protocol",
+        "Agent Development Kit (ADK)",
+        "Google Workspace developer platform"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "fKY6qYxytLI": {
+      "video_id": "fKY6qYxytLI",
+      "title": "Android accessibility updates",
+      "duration_s": 1202,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "fOXJR5qLq54": {
+      "video_id": "fOXJR5qLq54",
+      "title": "Engineering memory-performant Android apps",
+      "duration_s": 1403,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn about critical tools like R8 for code shrinking and best practices for bitmap optimization to slash native memory usage. We’ll also explore how to use the new ProfilingManager triggers for identifying OOMs and memory anomalies in the wild.\n\nResources: \nEnable App optimization → https://goo.gle/4f4sZQl\nHow to add keep rules → https://goo.gle/4nclKIh\nBest practices on keep rules → https://goo.gle/3PplkBI\nOptimization for library authors → https://goo.gle/4nhrcK2\nR8 Configuration analyzer → https://goo.gle/4nbIEiI\nAgent skills → https://goo.gle/4tlJvPA\nProfilingManager → https://goo.gle/3Rfh6NR \nProfilingManager Triggers → https://goo.gle/4nKAsXa \nOverview on how to optimize memory on Android → https://goo.gle/3PBe2ec \nOverview of memory management → https://goo.gle/4nIe0xG \nAndroid 17 App Memory Limits → https://goo.gle/43jvveu\n\nSpeakers: Alice Yuan, Ajesh Pai, Fung Lam\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android",
+      "published_at": "2026-05-21T16:30:43Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "flwULzNYRac": {
+      "video_id": "flwULzNYRac",
+      "title": "How Flutter makes the most of your platforms",
+      "duration_s": 911,
+      "channel": "Flutter",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "fwLiTPtPHjw": {
+      "video_id": "fwLiTPtPHjw",
+      "title": "What’s new in Google Play",
+      "duration_s": 1577,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn about the latest tools and updates on Google Play, all designed to help you grow your business.\n\nChapters:\n00:00 Intro\n01:17 Evolving business model with more choice\n05:55 Expanding your reach on & off the store \n17:26 Scaling your business with less complexity\n\nResources: \nRead the blog → https://goo.gle/play-io26\nFeatures to power your growth on Google Play → https://goo.gle/google-play-console\nPlay Console updates to scale your business → https://goo.gle/grow-your-business-io26\n\nSpeakers: Diego Dayan, Kelly Jorrie, Paul Feng\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Google Play",
+      "published_at": "2026-05-21T19:05:13Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "g2qrMnvvL6E": {
+      "video_id": "g2qrMnvvL6E",
+      "title": "Elevate the Chrome Extensions developer experience",
+      "duration_s": 857,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn about the latest updates that streamline the Chrome Web Store Developer Dashboard and improve the overall developer experience. Also discover how to leverage the latest tooling to make building Chrome Extensions easier than ever.\n\nResources: \nLearn about the browser namespace → https://goo.gle/extensions-browser-namespace\nLearn about guidance for building Chrome Extensions → https://goo.gle/extensions-skill\nLearn more about AI Coding Workflows → https://goo.gle/4dE19Im\nLearn more about Chrome DevTools MCP servers → https://goo.gle/4tO89bK\n\nSpeakers: Kevin Bay, Oliver Dunk\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome, AI/Machine Learning",
+      "published_at": "2026-05-21T23:43:37Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "gATa_9Dogz4": {
+      "video_id": "gATa_9Dogz4",
+      "title": "Train your JAX models using model.fit(...) in Keras 3",
+      "duration_s": 1170,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "gHHjDRDNUNU": {
+      "video_id": "gHHjDRDNUNU",
+      "title": "Accelerate your development with the Gemini API",
+      "duration_s": 2776,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "gP5Y-ct6QXI": {
+      "video_id": "gP5Y-ct6QXI",
+      "title": "Get started with Kotlin Multiplatform",
+      "duration_s": 1042,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "gstgT0WRoiE": {
+      "video_id": "gstgT0WRoiE",
+      "title": "5 practical Gemini API uses for developers",
+      "duration_s": 882,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "ihR8hL_Hmec": {
+      "video_id": "ihR8hL_Hmec",
+      "title": "Android notifications and Live Updates",
+      "duration_s": 816,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "j0k8qizH0KY": {
+      "video_id": "j0k8qizH0KY",
+      "title": "Build adaptive layouts with Navigation 3",
+      "duration_s": 853,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Simplify your app's architecture with the latest changes in Jetpack Navigation 3 1.1. Discover how to use its state-driven back stack and the new scene decorator API to natively support multi-pane, adaptive layouts across all window sizes.\n\nResources: \nNav3 Code Recipes → https://goo.gle/48JXUgX\nNav3 Issue Tracker → https://goo.gle/4thLZOY\n\nSpeakers: Ben Sagmoe, Clara Fok\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android\"",
+      "published_at": "2026-05-21T23:37:55Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "jaaSKZMnUW8": {
+      "video_id": "jaaSKZMnUW8",
+      "title": "Reshaping user authentication and identity verification",
+      "duration_s": 1314,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "jn3iypY-cN4": {
+      "video_id": "jn3iypY-cN4",
+      "title": "Physical AI: the new era of robotics",
+      "duration_s": 2280,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Join scientific leaders from Google DeepMind and Boston Dynamics as they unpack the seismic leap in embodied AI. This session will examine how machines are moving beyond scripted automation to possess the general-purpose AI and reasoning required to navigate our physical reality.\n\nSpeakers: Jacklyn Dallas, Kanishka Rao, Alberto Rodriguez\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\nWatch the Dialogues sessions from Google I/O 2026 → https://goo.gle/Dialogues-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Design",
+      "published_at": "2026-05-21T23:56:16Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "jnUUo7xso_0": {
+      "video_id": "jnUUo7xso_0",
+      "title": "Waymo: AI in the physical world powering the future of driving",
+      "duration_s": 1816,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "jrr8gRI1GaY": {
+      "video_id": "jrr8gRI1GaY",
+      "title": "Reduce toil and boost productivity with AI agents across the SDLC",
+      "duration_s": 1000,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "juy9nrcTBck": {
+      "video_id": "juy9nrcTBck",
+      "title": "What is JAX?",
+      "duration_s": 990,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "kCXQce1dtNE": {
+      "video_id": "kCXQce1dtNE",
+      "title": "Power the future of robotics with Gemini",
+      "duration_s": 1085,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how Google’s multimodal AI bridges the cloud and physical worlds. Explore how the latest Gemini models utilize advanced spatial awareness to help robots perceive complex environments. Learn about the Live API's capabilities for natural, low-latency human-robot interaction, and explore the essential ecosystem for simulation, safety, and action models.\n\nResources: \nGemini Robotics code samples → https://goo.gle/3PnFTOX\nGemini Robotics overview docs → https://goo.gle/4tmD52H\nGemini Live API overview → https://goo.gle/4tjVLjz\nMuJoCo website → https://goo.gle/42ghv4U \nAI Studio Bundled Robotics → https://goo.gle/4tfdR68 \n\nSpeakers: Paul Ruiz\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-21T17:15:46Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "kj80m-umOxs": {
+      "video_id": "kj80m-umOxs",
+      "title": "What's new in Go",
+      "duration_s": 1241,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "l4lneZYtjQg": {
+      "video_id": "l4lneZYtjQg",
+      "title": "What's new in Go",
+      "duration_s": 880,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Go is “boring” in the best way: stable, reliable, and built for scale. Explore what's new in Go 1.25 and 1.26, including the Green Tea garbage collector, native vectorized instructions, and the code-modernizers behind the “go fix” command. Whether your focus is developing AI agents or traditional microservices, discover how Go continues to deliver industry-leading advancements that make it the best choice for your mission-critical, high-performance applications.\n\nResources: \nGo website → https://goo.gle/4ulzTWq\nGo 1.25 is released - blog → https://goo.gle/4wzLwKJ\nGo 1.26 is released - blog → https://goo.gle/3RJPujR\nUsing go fix to modernize Go code → https://goo.gle/4fotQeL\n//go:fix inline and the source-level inliner → https://goo.gle/3PlrzGU\nAllocating on the Stack → https://goo.gle/4wyU3O3\n\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO\n\nEvent: Google I/O 2026\nSpeakers: Marc Dougherty, Cameron Balahan\nProducts Mentioned: AI/Machine Learning, Cloud, Go",
+      "published_at": "2026-05-22T16:15:49Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Cloud PA Keynote;",
+        "ct:Stack - Cloud;",
+        "Go 1.26",
+        "Go 1.25",
+        "Golang performance 2026",
+        "Green Tea Garbage Collector",
+        "Go Fix Modernizers",
+        "native vectorized instructions",
+        "archsimd package",
+        "Green Tea GC benchmarks",
+        "GO SIMD optimization",
+        "goroutine leak detection",
+        "low latency microservices",
+        "Go 1.26 release notes",
+        "Memory management in Go"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "mP9QESmEDls": {
+      "video_id": "mP9QESmEDls",
+      "title": "Gemini Nano on Android: Building with on-device gen AI",
+      "duration_s": 930,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "nC418kwKyLM": {
+      "video_id": "nC418kwKyLM",
+      "title": "Scale AI with Google's TPU software stack",
+      "duration_s": 2272,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Unlock massive AI scale with a deep dive into Google's open-source software ecosystem. Explore high-performance tools designed to optimize the model lifecycle: pre-training with MaxText, post-training with Tunix, and inference with vLLM. Discover how to leverage these innovations alongside JAX and PyTorch, accelerated by infrastructure like Google TPUs, to build a state-of-the-art toolkit for next-generation AI.\n\nSpeakers: Josh Gordon, Girija Sathyamurthy, Rob Mulla\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-21T23:51:01Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "nC7TrzUYvig": {
+      "video_id": "nC7TrzUYvig",
+      "title": "Vibe design to build incredible web UI",
+      "duration_s": 1003,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Learn how to ship web UIs faster by collapsing design and build into one Vibe Design workflow. Vibe Design is all about leading with aesthetic instead of syntax. Learn how to use Stitch and Chrome DevTools MCP servers to translate ideas directly into code with agentic workflows.\n\nResources: \nStitch Beta - Design at the speed of AI → https://goo.gle/4nbHNyw\nDesign.md Google Labs code samples → https://goo.gle/4d8Xwdk\n\nSpeakers: Dion Almaer, David East\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome, Design",
+      "published_at": "2026-05-21T16:33:23Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;",
+        "Stitch",
+        "Dev Tools",
+        "MCP",
+        "DESIGN.md"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "nZhkjSFB6UA": {
+      "video_id": "nZhkjSFB6UA",
+      "title": "Build AI agents grounded with your data using Firebase Data Connect",
+      "duration_s": 1105,
+      "channel": "Firebase",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "nq55ERaUQpw": {
+      "video_id": "nq55ERaUQpw",
+      "title": "Build agent-native apps with Firebase and Google AI",
+      "duration_s": 648,
+      "channel": "Firebase",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Transform prototypes into production-ready apps with agent-native development, leveraging deep integrations with Firebase, Google AI Studio, and Google Antigravity. Learn how Firebase empowers coding agents to handle the toughest parts of building a robust backend, including provisioning databases, implementing user authentication, managing security, and deploying apps without manual configuration.\n\nResources: \nAI Studio apps gallery: where you can take a sample app and remix it to make it your own → https://goo.gle/4d8217M\n\nFirebase Agent Skills: where you can install on an IDE of choice → https://goo.gle/42gVK4W\n\nWatch the Firebase sessions from Google I/O 2026 → https://goo.gle/Firebase-at-IO26\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\n\nSubscribe to Firebase → https://goo.gle/Firebase\n\n#GoogleIO\n\nSpeakers: Kara Yu, Sam Phillips\nEvent: Google I/O 2026\nProducts Mentioned: Firebase, Cloud, AI/Machine Learning",
+      "published_at": "2026-05-21T19:00:24Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;",
+        "Agent-Native",
+        "Google Antigravity Tutorial",
+        "Firebase for AI Agents",
+        "production-ready AI apps",
+        "Google AI Studio",
+        "App Development 2026"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "nrakQhg_lf8": {
+      "video_id": "nrakQhg_lf8",
+      "title": "Google I/O '25 Developer Keynote - Audio Described",
+      "duration_s": 4203,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "o2wkYzu5u50": {
+      "video_id": "o2wkYzu5u50",
+      "title": "What's new in Chrome",
+      "duration_s": 2519,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "o7Bv4r08FBM": {
+      "video_id": "o7Bv4r08FBM",
+      "title": "What's new in the Gemmaverse",
+      "duration_s": 2437,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "o8NiE3XMPrM": {
+      "video_id": "o8NiE3XMPrM",
+      "title": "Google I/O '25 Keynote",
+      "duration_s": 6917,
+      "channel": "Google",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "oUtiZbrehrw": {
+      "video_id": "oUtiZbrehrw",
+      "title": "What's new in the Gemma open model family",
+      "duration_s": 2875,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Build AI applications with the Gemma family of open models' state-of-the-art tools. Uncover the newest additions to the family and dive into the practical tools that make them usable at scale. Explore an end-to-end pipeline from model discovery to deployment. Discover how to experiment with Gemma using your favorite tools, and learn best practices for deploying directly to users across cloud, desktop, and mobile.\n\nSpeakers: Ian Ballantyne, Gus Martins, Olivier Lacombe\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Android, Cloud",
+      "published_at": "2026-05-22T17:59:28Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "orudZzP8vUc": {
+      "video_id": "orudZzP8vUc",
+      "title": "Build next-gen AI experiences with Google AI Studio and Google Antigravity",
+      "duration_s": 2533,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Scaling vibe-coded prototypes into production requires a new class of tools. Explore the transition from rapid exploration in Google AI Studio to autonomous development using Google Antigravity, Google’s agent-first IDE. Learn to speed-run ideas in AI Studio, export code, and deploy agents to handle heavy lifting like planning architecture, writing multi-file features, and performing end-to-end browser testing.\n\nSpeakers: Joana Carrasqueira, Anshul Ramachandran\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-21T22:41:09Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - AI PA Keynote;",
+        "ct:Stack - AI;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "prVc7FamKsU": {
+      "video_id": "prVc7FamKsU",
+      "title": "The latest from Google Pay and Google Wallet",
+      "duration_s": 1124,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover the evolution of Google Pay and Wallet in the age of agentic AI. Learn about new tools and capabilities that offer greater flexibility and ROI, while providing a frictionless user experience. Discover API updates, expanded Digital ID global coverage, and new digital receipt support.\n\nResources: \nGoogle Wallet developer documentation → https://goo.gle/io-26-wallet\nJetpack Credential Manager → https://goo.gle/io-26-jetpack\nW3C Digital Credentials API → https://goo.gle/io-26-w3c-dc-api\nGoogle Pay & Wallet Developer MCP Server → https://goo.gle/3R3RRxG\nLife cycle notifications for Merchant Initiated Transactions → https://goo.gle/pay-mit-lcm\nCross device transaction confirmation → https://goo.gle/pay-x-device\n\nSpeakers: Edson Yanaga, Kushagra Patel, Gokmen Goksel\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Google Pay and Wallet",
+      "published_at": "2026-05-21T16:30:14Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;",
+        "Google Pay",
+        "Google Wallet"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "q_Jq4IgYImk": {
+      "video_id": "q_Jq4IgYImk",
+      "title": "Build core skills to thrive as an AI-era developer",
+      "duration_s": 2659,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore the essential skill domains—including core engineering principles and business context—needed to harness the full potential of AI, and unlock massive productivity gains in your daily workflow. Discover how AI is a powerful collaborator that can change and accelerate how you build software. \n\nSpeakers: Nicole Forsgren, Andrew Macvean\n\nWatch the Professional Development sessions from Google I/O 2026 → https://goo.gle/professional-developement-IO26 \n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-21T17:15:17Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Professional Development;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "rjoMZyxncUI": {
+      "video_id": "rjoMZyxncUI",
+      "title": "The ABCs of agent building",
+      "duration_s": 834,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Explore each framework and protocol in the AI agent stack and learn how they fit together within the Google ecosystem. Whether you are building your first agent, or scaling an existing one to production, gain a clear architectural map to navigate the expanding agent ecosystem.\n\nResources: \nDeveloper's Guide to AI Agent Protocols → https://goo.gle/4dnLm09\nADK Tools and Integrations → https://goo.gle/4dgac3u\nGenerative AI Samples and Notebooks → https://goo.gle/4dnN5m9\n\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO\n\nEvent: Google I/O 2026\nSpeakers: Kristopher Overholt\nProducts Mentioned: AI/Machine Learning, Cloud",
+      "published_at": "2026-05-22T19:37:48Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Cloud;",
+        "Google AI Agent stack",
+        "agentic architecture 2026",
+        "Gemini Enterprise Agent platform",
+        "Agent gateway",
+        "A2A Protocol",
+        "Agent-to-Agent",
+        "Model Context Protocol",
+        "MCP",
+        "Google Agent Development Kit",
+        "Agent Studio",
+        "Scaling AI agents to production",
+        "multi-agent orchestration",
+        "AI infrastructure"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "rxKYK3DIzN0": {
+      "video_id": "rxKYK3DIzN0",
+      "title": "AI app development with Firebase, from prototype to production",
+      "duration_s": 1264,
+      "channel": "Firebase",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "sNwaU0w3NS8": {
+      "video_id": "sNwaU0w3NS8",
+      "title": "Behind the lens: AI, creativity, and the future of filmmaking tools",
+      "duration_s": 1338,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "tMUxxCKXz4c": {
+      "video_id": "tMUxxCKXz4c",
+      "title": "Introduction to Imagen, Veo, and Generative Media on Vertex AI",
+      "duration_s": 966,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "thfNTC9x_Ys": {
+      "video_id": "thfNTC9x_Ys",
+      "title": "Adaptive development for the expanding Android ecosystem",
+      "duration_s": 2530,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "With Android 17, the ecosystem has moved to an \"\"Adaptive Everywhere\"\" reality where users move fluidly between phones, cars, living rooms, and immersive environments. Explore why this transition is critical and discover the technical toolkit making it seamless. Dive into Jetpack Compose, the suggested engine for building modern Android UIs across foldables, desktops, cars, TVs, and XR.\n\nResources: \nLearn more → https://goo.gle/4uetGeC \nLearn more → https://goo.gle/4dMCLpe \nLearn more on GitHub →https://goo.gle/4tzxk1L \n\nSpeakers: Diana Wong, Emilie Roberts\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, ChromeOS, XR",
+      "published_at": "2026-05-22T16:10:27Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Android PA Keynote;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "uT7MVcCQ4rw": {
+      "video_id": "uT7MVcCQ4rw",
+      "title": "What's new in Web UI",
+      "duration_s": 2635,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Take a fast-paced tour of the latest UI features landing in browsers today, with a lens on making beautiful web experiences. From updates to interactive capabilities like scroll-triggered animations and scoped view transitions, to the latest in UI components, learn how to build performant interfaces using native CSS and HTML primitives. Discover how to ship better user experiences with less code.\n\nDemos:\n- CodePen Collection with Demos → https://goo.gle/io26-web-ui-codepen-demos\n- HTML-in-Canvas Demos → https://goo.gle/4eM6Qq1\n- View Transitions Demos → https://goo.gle/4wz0dxG\n- Modern Web Guidance → https://goo.gle/modern-web-guidance\n\nArticles and Resources:\n- contrast-color() → https://goo.gle/4derGNv\n- @function → https://goo.gle/42E2HNu\n- Style Queries → https://goo.gle/4nA8SvR\n- meta=text-scale → https://goo.gle/4ugEnxx\n- Element-scoped View Transitions → https://goo.gle/42DlZTi\n- Scroll-triggered Animations → https://goo.gle/4wDZvzo\n- Overscroll Gestures Explainer → https://goo.gle/3PsNV9o\n\nSpeakers: Una Kravets, Bramus Van Damme\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome, Design",
+      "published_at": "2026-05-22T16:11:55Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Chrome PA Keynote;",
+        "ct:Stack - Chrome;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "ud09zuXHst4": {
+      "video_id": "ud09zuXHst4",
+      "title": "New in-car app experiences",
+      "duration_s": 1169,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "uriDDQZWXXw": {
+      "video_id": "uriDDQZWXXw",
+      "title": "Develop faster with AI in Android Studio",
+      "duration_s": 2426,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how Gemini’s new agentic capabilities in Android Studio accelerate your entire development lifecycle across three core pillars: prototyping and feature building, testing and maintenance, and workflow integration and Android Skills.\n\nResources: \nAndroid Studio → https://goo.gle/4uaZYXV \nGitHub → https://goo.gle/42D7vmo \n\nSpeakers: Trevor Johns, Sandhya Mohan, Simona Milanovic\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android, AI/Machine Learning",
+      "published_at": "2026-05-22T23:01:57Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Stack - Android;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "v-6b_wWF96U": {
+      "video_id": "v-6b_wWF96U",
+      "title": "What's your player loyalty score? Engaging players with PGS",
+      "duration_s": 836,
+      "channel": "Android Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "v0RQiNJ9nhw": {
+      "video_id": "v0RQiNJ9nhw",
+      "title": "The future of software development",
+      "duration_s": 2841,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Coding is evolving from writing boilerplate to curating outcomes. Join the leads of Gemini, Google Antigravity, and Google AI Studio for a discussion on the rise of vibe coding and the agentic future of software development. Explore the reality of building with today's most advanced models, dive into the latest capabilities of Google's developer tools, and gain insights on how engineering roles are evolving.\n\nResources: \nTry it out → https://goo.gle/4dLntRv\nRead the docs → https://goo.gle/4uPZg2f\nCoding agent skills → https://goo.gle/3Pogvc0\n\nSpeakers: Logan Kilpatrick , Tulsee Doshi , Varun Mohan, Michael Gerstenhaber\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning",
+      "published_at": "2026-05-22T22:45:30Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Stack - AI;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "v6Rzo5khNE8": {
+      "video_id": "v6Rzo5khNE8",
+      "title": "What's new in Flutter",
+      "duration_s": 2645,
+      "channel": "Flutter",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "vCHU6eUFxdk": {
+      "video_id": "vCHU6eUFxdk",
+      "title": "Make your UI adaptive with Android Studio's AI agent",
+      "duration_s": 2232,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Discover how Android Studio's AI agent can automatically make your UI adaptive so that it supports Android's vast ecosystem of form factors. We'll demonstrate how the agent can migrate a codebase to use Navigation 3 - the foundation of adaptive apps. We'll also explore how it can use an experimental device capability API, plus web-inspired adaptive layouts - FlexBox and Grid - to optimize your UI for desktops, tablets, foldables, and more.\n\nSpeakers: Don Turner, Jose Alcérreca\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Android",
+      "published_at": "2026-05-21T23:40:42Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Stack - Android;",
+        "ct:Event - Technical Session;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "wYSncx9zLIU": {
+      "video_id": "wYSncx9zLIU",
+      "title": "Google I/O '26 Keynote",
+      "duration_s": 6676,
+      "channel": "Google",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "It's time to I/O! Tune in to learn the latest news, announcements, and AI updates from Google. \n\n00:00 Opening\n17:10 Gemini Omni\n24:43 Google Antigravity\n35:13 Gemini Spark\n43:32 Search\n01:07:52 Gemini\n01:23:26 Generative Media \n01:32:47 Intelligent Eyewear \n01:44:28 Closing\n\nTo watch this keynote interpreted in American Sign Language (ASL), please click here: https://youtube.com/watch?v=vw73r_xaeX0\n\n#GoogleIO \n\nSubscribe to our Channel: https://www.youtube.com/google\nFind us on X: https://twitter.com/google\nWatch us on TikTok: https://tiktok.com/@google\nFollow us on Instagram: https://www.instagram.com/google\nJoin us on Facebook: https://www.facebook.com/Google",
+      "published_at": "2026-05-19T19:00:09Z",
+      "tags": [
+        "Google I/O 2026",
+        "AI Innovation",
+        "Gemini 3",
+        "Agentic AI",
+        "Google Keynote",
+        "Live Stream",
+        "Android 17",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Future of Tech",
+        "Google Developers",
+        "Shoreline Amphitheatre",
+        "Gemini API",
+        "Agentic Coding",
+        "Multimodal AI",
+        "Neural Networks",
+        "Deep Learning",
+        "Cloud Computing",
+        "Generative AI",
+        "Robotics",
+        "Smart Home",
+        "Google Assistant",
+        "Tech Trends 2026",
+        "Developer Conference",
+        "Digital Assembly Lines",
+        "Open Models",
+        "Gemma 3",
+        "Tech Event",
+        "Virtual Event",
+        "Innovation"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "w_W2brDZDko": {
+      "video_id": "w_W2brDZDko",
+      "title": "What's new in Google Cloud",
+      "duration_s": 2478,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "wz3kQQubPkc": {
+      "video_id": "wz3kQQubPkc",
+      "title": "Boost productivity with custom solutions on Google Workspace",
+      "duration_s": 707,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "x2zvki_VlRE": {
+      "video_id": "x2zvki_VlRE",
+      "title": "Build full-stack AI apps in minutes with Firebase Studio",
+      "duration_s": 670,
+      "channel": "Firebase",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "xLmJJk1gbuE": {
+      "video_id": "xLmJJk1gbuE",
+      "title": "Small language models with Google AI Edge",
+      "duration_s": 1068,
+      "channel": "Google for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "xo271p-Fl_4": {
+      "video_id": "xo271p-Fl_4",
+      "title": "How to build agentic apps with Flutter and Firebase AI Logic",
+      "duration_s": 1298,
+      "channel": "Flutter",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "xr_zgAv0YoI": {
+      "video_id": "xr_zgAv0YoI",
+      "title": "Client side Web AI agents to build smarter future user experiences",
+      "duration_s": 1063,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt"
+    },
+    "xzMx2khmGJ4": {
+      "video_id": "xzMx2khmGJ4",
+      "title": "Modernize authentication with passkeys, digital credentials, and more",
+      "duration_s": 1289,
+      "channel": "Chrome for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Eliminate password risks and reduce drop-off by implementing phishing-resistant authentication. Learn to build a modern identity flow that balances high security with a seamless user experience using Passkeys, Digital Credentials, Identity Federation, and other modern identity solutions.\n\nResources: \nRecap the session and explore more best practices for modern user authentication → https://goo.gle/io26-web-identity\n\nSpeakers: Natalia Markoborodova, Nina Satragno\n\nWatch the Chrome sessions from Google I/O 2026 → https://goo.gle/Chrome-at-IO2026\n\nSubscribe to Chrome for Developers → https://goo.gle/ChromeDevs\n\n\n#GoogleIO\n\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Web, Chrome, Android",
+      "published_at": "2026-05-21T16:33:56Z",
+      "tags": [
+        "Chrome",
+        "Developers",
+        "Google",
+        "Web",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Chrome;",
+        "Passwordless sign-in",
+        "Modern user authentication",
+        "Passkeys",
+        "Digital Credentials API",
+        "FedCM",
+        "Federated Credential Management"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "yQPnb4gxKRc": {
+      "video_id": "yQPnb4gxKRc",
+      "title": "Building the quantum-AI future with Hartmut Neven and James Manyika",
+      "duration_s": 2428,
+      "channel": "Google for Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Join Hartmut Neven and James Manyika to explore the intersection of quantum computing and AI. Discover how AI is helping to build and operate quantum computers, while quantum unlocks new ways for AI models to train, learn from complex data, and accelerate scientific discovery, making quantum a key part of Google’s innovation strategy.\n\nSpeakers: James Manyika, Hartmut Neven\n\nWatch the AI sessions from Google I/O 2026 → https://goo.gle/AI-at-IO26\nWatch the Dialogues sessions from Google I/O 2026 → https://goo.gle/Dialogues-at-IO26\n\nSubscribe to Google for Developers → https://goo.gle/developers \n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: AI/Machine Learning, Design",
+      "published_at": "2026-05-21T23:54:06Z",
+      "tags": [
+        "Google",
+        "developers",
+        "pr_pr: Google I/O;",
+        "ct:Event - Dialogues;",
+        "ct:Event - AI PA Keynote;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "zRBi6oBtpoo": {
+      "video_id": "zRBi6oBtpoo",
+      "title": "Build beautiful, premium, adaptive apps with Material",
+      "duration_s": 768,
+      "channel": "Android Developers",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Build more beautiful, premium, and adaptive applications with exciting updates to the Material Design system. Discover new Expressive updates to the components, upcoming improvements to customizability, and more.\n\nResources: \nMaterial Guidelines → https://goo.gle/3P70uXM\nFigma Design Kit → https://goo.gle/42jkidv\nCompose APIs → https://goo.gle/4uty7C7\nMigration Guide → https://goo.gle/49sTnQc\nStyles Overview → https://goo.gle/4dquFCv\n\nSpeakers: Naomi Koo, Kendrick Umstattd\n\nWatch the Android sessions from Google I/O 2026 → https://goo.gle/Android-at-IO2026\n\nSubscribe to Android Developers → https://goo.gle/AndroidDevs\n\n#GoogleIO\n\nEvent: Google I/O 2026\n\nProducts Mentioned: Design, Android",
+      "published_at": "2026-05-21T23:39:41Z",
+      "tags": [
+        "Android",
+        "pr_pr: Google I/O;",
+        "ct:Event - Technical Session;",
+        "ct:Stack - Android;"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    },
+    "zuYmRY4X0rg": {
+      "video_id": "zuYmRY4X0rg",
+      "title": "Build an AI agent app with Go ADK, Cloud Run, and Flutter",
+      "duration_s": 1550,
+      "channel": "Google Cloud Tech",
+      "label": "I/O 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej",
+      "description": "Move beyond AI demos by building and deploying an AI agent to Cloud Run with a Flutter frontend. Using Go and the Agent Development Kit (ADK), learn how to define agents, wire up tools, and delegate to sub-agents. Integrate your agent with a Flutter client app to create a production-grade, agent-powered application ready for users on iOS, Android, and the web.\n\nResources: \nGoogle ADK → https://goo.gle/3R8jCFz\nFlutter → https://goo.gle/3R8jDt7\nADK Go → https://goo.gle/4uJKpXc\n\nWatch the Flutter sessions from Google I/O 2026 → https://goo.gle/Flutter-at-IO26\nWatch the cloud sessions from Google I/O 2026 → https://goo.gle/Cloud-at-IO2026\nSubscribe to Google Cloud Tech → https://goo.gle/GoogleCloudTech\n\n#GoogleIO\n\nEvent: Google I/O 2026\nSpeakers: Annie Wang, Marc Dougherty, Khanh Nguyen\nProducts Mentioned: Flutter, Cloud, Go",
+      "published_at": "2026-05-21T22:02:28Z",
+      "tags": [
+        "pr_pr: Google I/O;",
+        "ct:Event - Workshop;",
+        "ct:Stack - Cloud;",
+        "Production AI Agents 2026",
+        "Agent Development Kit (ADK) tutorial",
+        "Deploying AI to Cloud Run",
+        "Multi-Agent Orchestration Go",
+        "AI Tool Calling in Go",
+        "Cloud Run Serverless AI",
+        "Multi-Agent Systems Deployment"
+      ],
+      "details_at": "2026-08-31T15:35:51+00:00"
+    }
+  }
+}

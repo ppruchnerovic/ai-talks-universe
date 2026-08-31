@@ -1,0 +1,3755 @@
+{
+  "slug": "dotai",
+  "name": "dotAI",
+  "enumerated_at": "2026-08-30T21:46:53+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@dotconferences/videos",
+      "label": "dot conferences",
+      "year": null,
+      "count": 400
+    }
+  ],
+  "count": 400,
+  "videos": {
+    "-2oU2aUeYks": {
+      "video_id": "-2oU2aUeYks",
+      "title": "dotScale 2016 - Ted Dunning - IT from First Principles",
+      "duration_s": 1101,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-AQ2sgO0Iu4": {
+      "video_id": "-AQ2sgO0Iu4",
+      "title": "dotAI 2024 - Maxim Zaks - Is Mojo programming language just a hype?",
+      "duration_s": 632,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-MhV_y6TN4M": {
+      "video_id": "-MhV_y6TN4M",
+      "title": "dotJS 2024 - Ben Halpern - Becoming the Multi-armed Bandit",
+      "duration_s": 1242,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-Sve7Em1-lg": {
+      "video_id": "-Sve7Em1-lg",
+      "title": "dotScale 2017 - James Cammarata - Watomation",
+      "duration_s": 786,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-Tb2Gqws_OA": {
+      "video_id": "-Tb2Gqws_OA",
+      "title": "dotAI 2018 - Hagay Lupesko - Model Serving for Deep Learning",
+      "duration_s": 1057,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-Ub4k0NunVU": {
+      "video_id": "-Ub4k0NunVU",
+      "title": "dotSwift 2020 - Tomás Ruiz-López - Functional Networking",
+      "duration_s": 985,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-jEbBkhaRSU": {
+      "video_id": "-jEbBkhaRSU",
+      "title": "dotSwift 2020 - Devlin Duldulao - Sign in with Apple",
+      "duration_s": 233,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "-wYLmsizBc0": {
+      "video_id": "-wYLmsizBc0",
+      "title": "dotGo 2016 - Katrina Owen - The Scandalous Story of the Dreadful Code Written by the Best of Us",
+      "duration_s": 1029,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0AmNvcxVpKk": {
+      "video_id": "0AmNvcxVpKk",
+      "title": "dotSwift 2020 - Donny Wals - The Combine Triad",
+      "duration_s": 1149,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0CXmmJOZ5cE": {
+      "video_id": "0CXmmJOZ5cE",
+      "title": "dotAI 2018 - Vadim Markovtsev - Machine Learning on Source Code",
+      "duration_s": 988,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0RWiX-AfasY": {
+      "video_id": "0RWiX-AfasY",
+      "title": "dotCSS 2019 - Jason Pamental - Dynamic Typographic Systems with Variable Fonts",
+      "duration_s": 1177,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0XQPPnLJrj4": {
+      "video_id": "0XQPPnLJrj4",
+      "title": "dotGo 2019 - Jean de Klerk - Multi-Module Repositories",
+      "duration_s": 883,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0bjq_rfehBc": {
+      "video_id": "0bjq_rfehBc",
+      "title": "dotCSS 2019 - Jérémie Patonnier - SVG & CSS",
+      "duration_s": 232,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0h-Kau4jxeE": {
+      "video_id": "0h-Kau4jxeE",
+      "title": "dotGo 2017 - Mickaël Rémond - Go for Real Time Streaming Architectures",
+      "duration_s": 290,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0mU8VuS0z6g": {
+      "video_id": "0mU8VuS0z6g",
+      "title": "dotAI 2024 - Ori Pekelman - AI deployment strategies: balancing efficiency and environmental impact",
+      "duration_s": 959,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0oY8CnWP5R8": {
+      "video_id": "0oY8CnWP5R8",
+      "title": "dotJS 2019 - Maggie Johnson-Pint - Programming in the 4th Dimension - Making Time Make Sense",
+      "duration_s": 1127,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0qKqVSvB1G0": {
+      "video_id": "0qKqVSvB1G0",
+      "title": "dotGo 2017 - Jaime Silvela - Handling slow requests in your Go web server",
+      "duration_s": 256,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0s8ATQmhQPE": {
+      "video_id": "0s8ATQmhQPE",
+      "title": "dotScale 2018 - Daniel Maher - Serverless, Revealed!",
+      "duration_s": 250,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "0uvDO9FgFsg": {
+      "video_id": "0uvDO9FgFsg",
+      "title": "dotSwift 2016 - Alessandro Ludovici - Creating an animation with CAReplicatorLayer",
+      "duration_s": 229,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "15VslcimV7s": {
+      "video_id": "15VslcimV7s",
+      "title": "dotScale 2016 - Sean Owen - Scaling Learning on Apache Spark",
+      "duration_s": 1000,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1B71SL6Y0kA": {
+      "video_id": "1B71SL6Y0kA",
+      "title": "dotGo 2017 - John Cinnamond - Go Lift",
+      "duration_s": 1061,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1BHHybRnHFE": {
+      "video_id": "1BHHybRnHFE",
+      "title": "dotSwift 2020 - Tobias Due Munk - Prototyping Custom UI in SwiftUI",
+      "duration_s": 1050,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1E_IYl2KIOY": {
+      "video_id": "1E_IYl2KIOY",
+      "title": "dotCSS 2016 - Varya Stepanova - Pattern libraries through trial and error",
+      "duration_s": 1061,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1JSX9ch04eY": {
+      "video_id": "1JSX9ch04eY",
+      "title": "dotScale 2018 - Willy Tarreau - Observability tips with HAProxy",
+      "duration_s": 1058,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1bAXI49PGWg": {
+      "video_id": "1bAXI49PGWg",
+      "title": "A day at dotGo 2019",
+      "duration_s": 82,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1jVPVPxwFWo": {
+      "video_id": "1jVPVPxwFWo",
+      "title": "dotSecurity 2017 - Joseph Bonneau - Verifiable lotteries",
+      "duration_s": 1202,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "1zQWTJ7GtS0": {
+      "video_id": "1zQWTJ7GtS0",
+      "title": "dotGo 2019 - Olivier Wulveryck - ONNX-Go, neural networks made easy",
+      "duration_s": 278,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "2AHU8dQyG6Q": {
+      "video_id": "2AHU8dQyG6Q",
+      "title": "dotJS 2016 - Bertrand Chevrier - WebVim",
+      "duration_s": 272,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "2Dyz8huMfIo": {
+      "video_id": "2Dyz8huMfIo",
+      "title": "dotSecurity 2016 - Diogo Mónica - Secure Software Distribution in an Adversarial World",
+      "duration_s": 1077,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "2TEWlVTPE2k": {
+      "video_id": "2TEWlVTPE2k",
+      "title": "dotSwift 2019 - Charles Parnot - Avoiding the Kitchen Sink Database",
+      "duration_s": 286,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "2kXYUlG1eXA": {
+      "video_id": "2kXYUlG1eXA",
+      "title": "dotJS - Nicolas Grenié - Serverless Microservices in JavaScript",
+      "duration_s": 287,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Filmed at http://2015.dotjs.io on December 7th in Paris. More talks on http://thedotpost.com\n\nNicolas explains how to build and maintain web applications and micro-services in JavaScript running on AWS Lambda with the Serverless framework (formerly known as JAWS).",
+      "published_at": "2016-03-18T16:32:15Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "2mSrgQXdP7E": {
+      "video_id": "2mSrgQXdP7E",
+      "title": "dotAI 2024 - Meryem Arik - Getting LLMs to do what you want: Output controllers",
+      "duration_s": 793,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "33tLSvXgZfA": {
+      "video_id": "33tLSvXgZfA",
+      "title": "A day at dotJS 2015",
+      "duration_s": 73,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "37i1TEYE59g": {
+      "video_id": "37i1TEYE59g",
+      "title": "dotSwift 2018 - Bruno Muniz - Intro to ARKit",
+      "duration_s": 316,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "38NijK7A1l4": {
+      "video_id": "38NijK7A1l4",
+      "title": "dotSwift 2016 - Paul Ardeleanu - The Forgotten Cloud",
+      "duration_s": 261,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "3G_ffcgRLMw": {
+      "video_id": "3G_ffcgRLMw",
+      "title": "dotSwift 2019 - Soroush Khanlou - From Problem to Solution",
+      "duration_s": 996,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "3TC7rOd_WqI": {
+      "video_id": "3TC7rOd_WqI",
+      "title": "dotSwift 2017 - Saul Mora - Dynamic Swift",
+      "duration_s": 258,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "3Um1IIYtnws": {
+      "video_id": "3Um1IIYtnws",
+      "title": "Why most AI agents fail (and how to fix it) - Viktoria Semaan - Databricks",
+      "duration_s": 1114,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Viktoria Semaan?\nViktoria is a strategic AI leader with 15+ years of experience in engineering, cloud technologies, and management consulting.  Previously, she led the development of GenAI prototypes using multi-agent frameworks, RAG, and AI toolchains to help developers adopt new technologies faster. Viktoria holds an MBA from UCLA Anderson and is passionate about empowering the next generation of AI innovators.",
+      "published_at": "2025-11-14T14:16:05Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "3c9Ard9Ffxc": {
+      "video_id": "3c9Ard9Ffxc",
+      "title": "dotCSS 2018 - Elika J. Etemad - i18n: A Brief Primer of Web Internationalization",
+      "duration_s": 1037,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "3z6JhjoG7nA": {
+      "video_id": "3z6JhjoG7nA",
+      "title": "dotCSS 2016 - Tim Carry - dotCSS logo in only one div",
+      "duration_s": 219,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "4lUzKhq3C-M": {
+      "video_id": "4lUzKhq3C-M",
+      "title": "dotJS 2018 - Maël Nison - Revisiting Node modules",
+      "duration_s": 299,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "4qZUT93XPKw": {
+      "video_id": "4qZUT93XPKw",
+      "title": "A day at dotGo 2016",
+      "duration_s": 121,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "52AUlBex_DM": {
+      "video_id": "52AUlBex_DM",
+      "title": "dotGo 2019 - Natalie Pistunovich - TensorFlow and Go",
+      "duration_s": 241,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "53kJldtFkaQ": {
+      "video_id": "53kJldtFkaQ",
+      "title": "Build Scalable Workflows with GenAI - Dataiku - AI Action Summit Tech Track",
+      "duration_s": 868,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Speaker: Aude Colleville, Sales Engineering and Customer Experience Director at Dataiku\nResource: https://www.dataiku.com/product/get-started/\n\ndotAI Tech Track organized by dotConferences at AI Action Summit on February 11 at Station F.",
+      "published_at": "2025-02-13T13:41:43Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "5K9UNg6w2Cg": {
+      "video_id": "5K9UNg6w2Cg",
+      "title": "dotGo 2017 - Daniel Martí - Reducing Go programs",
+      "duration_s": 285,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "5WyrWkDWKjk": {
+      "video_id": "5WyrWkDWKjk",
+      "title": "dotAI 2017 - Arnaud Bergeron - Optimizing for GPUs",
+      "duration_s": 1161,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "5buaPyJ0XeQ": {
+      "video_id": "5buaPyJ0XeQ",
+      "title": "dotGo 2016 - Dave Cheney - Do not fear first class functions",
+      "duration_s": 1135,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "5lrq3vuw-l8": {
+      "video_id": "5lrq3vuw-l8",
+      "title": "dotJS 2025 - Sneak Peek",
+      "duration_s": 28,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "5nIc4OyL7zM": {
+      "video_id": "5nIc4OyL7zM",
+      "title": "Transformers at scale to boost recommender systems - Mirakl at dotAI Tech Track AI Day",
+      "duration_s": 1100,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Speakers: \n-Clément Labrugère, Lead, Data Science at Mirakl\n-Mehdi Elion, Data Scientist at Mirakl\n\nDescription:\nWe will share how we boosted the performances of our ad platform by leveraging short-term user history, reconstructed sessions and a transformer-based architecture learning rich product representations to deliver more relevant sponsored products at marketplace scale.\n\ndotAI Tech Track organized by dotConferences at AI Day on February 10, 2026, at Station F.",
+      "published_at": "2026-02-17T13:58:46Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "5tvHSwFR4-Y": {
+      "video_id": "5tvHSwFR4-Y",
+      "title": "dotCSS 2017 - Adam Detrick - Write Less CSS",
+      "duration_s": 913,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "63Uv_VC7nbY": {
+      "video_id": "63Uv_VC7nbY",
+      "title": "dotCSS 2017 - Laurence Penney - Variable fonts: a million times the possibilities...",
+      "duration_s": 1187,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "6FhGZ50XRz4": {
+      "video_id": "6FhGZ50XRz4",
+      "title": "dotJS 2018 - Sam Wray - WOAH! Is that OffscreenCanvas?",
+      "duration_s": 210,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "6Y5CZ7_tyA4": {
+      "video_id": "6Y5CZ7_tyA4",
+      "title": "dotGo 2019 - Michael McLoughlin - Better x86 Assembly Generation with Go",
+      "duration_s": 1038,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "6pY9Bfwfj2A": {
+      "video_id": "6pY9Bfwfj2A",
+      "title": "dotJS 2017 - Feross Aboukhadijeh - The Most Annoying Website (aka \"The Power of the Web Platform\")",
+      "duration_s": 1789,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "7IOFPqdUArQ": {
+      "video_id": "7IOFPqdUArQ",
+      "title": "dotJS 2018 - Olivier Loverde - Command Query Responsibility Segregation",
+      "duration_s": 264,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "7REVveaTXrY": {
+      "video_id": "7REVveaTXrY",
+      "title": "dotScale 2016 - Oliver Keeble - Planetary Computing at the Large Hadron Collider",
+      "duration_s": 1068,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "7TfBs1-3G2A": {
+      "video_id": "7TfBs1-3G2A",
+      "title": "dotJS - Nicolas Bevacqua - Practical ES6 for the Modern JavaScript Tinkerer",
+      "duration_s": 1016,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Filmed at http://2015.dotjs.io on December 7th in Paris. More talks on http://thedotpost.com\n\nES6 is now a standard. Adoption is increasing across the web and the fear of missing out is invading your senses. Nicolas introduces you to the most practical aspects of ES6, how to use it today in production, what new features are the most useful, and how to migrate away from your ES5 gradually.",
+      "published_at": "2016-03-10T16:52:00Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "7XbyJW47L5U": {
+      "video_id": "7XbyJW47L5U",
+      "title": "dotGo 2017 - Massimiliano Pippi - Embedding Python in Go",
+      "duration_s": 276,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "7iBSc7YRzwU": {
+      "video_id": "7iBSc7YRzwU",
+      "title": "dotJS 2016 - Igor Minar - Keep Your Minds Open",
+      "duration_s": 1355,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "7zXL6YIBv2c": {
+      "video_id": "7zXL6YIBv2c",
+      "title": "Code in the Physical World - Joyce Lin - dotJS 2025",
+      "duration_s": 606,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "80rY626zCfk": {
+      "video_id": "80rY626zCfk",
+      "title": "dotScale 2018 - Paul Dix - At scale, everything is hard",
+      "duration_s": 1334,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "8AvKRFhwOkk": {
+      "video_id": "8AvKRFhwOkk",
+      "title": "dotJS 2016 - Guy Bedford - Unbundling the Future Web Runtime",
+      "duration_s": 986,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "8Q20npCLB7U": {
+      "video_id": "8Q20npCLB7U",
+      "title": "dotJS 2024 - David Flanagan - The Future of Serverless is WebAssembly",
+      "duration_s": 1243,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "8d1PtJBnAEM": {
+      "video_id": "8d1PtJBnAEM",
+      "title": "dotAI 2024 - Stanislas Polu - LLMs reasoning and agentic capabilities over time",
+      "duration_s": 1164,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "8jwGDHHLEpI": {
+      "video_id": "8jwGDHHLEpI",
+      "title": "dotSwift 2017 - Drew McCormack - The Value in Trees",
+      "duration_s": 949,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "8pPrtf1J1Z8": {
+      "video_id": "8pPrtf1J1Z8",
+      "title": "dotScale 2017 - Aish Raj Dahal - Chaos management during a major incident",
+      "duration_s": 906,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "8zfC4xLb6YQ": {
+      "video_id": "8zfC4xLb6YQ",
+      "title": "dotGo 2017 - Pascal Costanza - Go, C++ or Java for DNA sequencing?",
+      "duration_s": 267,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "9BG0Y3C6WqM": {
+      "video_id": "9BG0Y3C6WqM",
+      "title": "dotJS 2016 - Thomas Belin - User Interfaces as Pure Functions of Time",
+      "duration_s": 269,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "9OH45755NKs": {
+      "video_id": "9OH45755NKs",
+      "title": "dotCSS 2018 - Roman Komarov - Not your usual CSS counters",
+      "duration_s": 253,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "9OjcAYsncpw": {
+      "video_id": "9OjcAYsncpw",
+      "title": "The Outer-Loop Era - Stanislas Polu - Dust",
+      "duration_s": 1221,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Stanislas Polu?\n\nStanislas is the co-founder of Dust, a platform that enables enterprises to build and deploy AI agents powered by internal data (Salesforce, GitHub, GSuite) and actions (MCP). Previously, he co-founded TOTEM in 2011, a data analytics company acquired by Stripe in 2014. He then joined OpenAI as a research engineer (2019-2022) on Greg Brockman's team, tackling AI reasoning and co-authoring papers with Ilya Sutskever on formal mathematics and automated theorem proving.",
+      "published_at": "2025-11-14T14:16:04Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "9XTl1d4nwdY": {
+      "video_id": "9XTl1d4nwdY",
+      "title": "dotGo 2016 - Dmitri Shuralyov - Go in the browser",
+      "duration_s": 1041,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "9YkUCxvaLEk": {
+      "video_id": "9YkUCxvaLEk",
+      "title": "dotJS 2017 - Wes Bos - Async + Await",
+      "duration_s": 952,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "9tx-dE8oBTY": {
+      "video_id": "9tx-dE8oBTY",
+      "title": "dotJS 2024 - Malte Ubl - Generative UI: Bring your React Components to AI today!",
+      "duration_s": 1122,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "A-Io9TQqqLY": {
+      "video_id": "A-Io9TQqqLY",
+      "title": "dotJS 2015 - Maxim Salnikov - Getting started with Angular2",
+      "duration_s": 295,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "A4Byyls7zww": {
+      "video_id": "A4Byyls7zww",
+      "title": "dotSwift 2020 - Pavel Zak - Animation juice in SwiftUI",
+      "duration_s": 976,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ABl_fuIl4Lc": {
+      "video_id": "ABl_fuIl4Lc",
+      "title": "dotJS 2024 - Maud Nalpas - Our future without passwords",
+      "duration_s": 380,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "AFUww-Df0C4": {
+      "video_id": "AFUww-Df0C4",
+      "title": "AI needs its Unix moment - Rémi Louf - .txt",
+      "duration_s": 1212,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Rémi Louf?\n\nRémi is the co-founder and CEO of .txt, the only company specializing in structured outputs for large language models. He is also a core developer of the popular open-source library Outlines. He believes the future of AI lies not in complex orchestration frameworks, but in simple, composable primitives that can be combined into sophisticated systems.",
+      "published_at": "2025-11-14T14:16:04Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "ApxLRptKsdE": {
+      "video_id": "ApxLRptKsdE",
+      "title": "dotAI 2024 - Marcin Detyniecki - Can AI design a fairer future?",
+      "duration_s": 800,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "B6iaaCR8XjU": {
+      "video_id": "B6iaaCR8XjU",
+      "title": "AI in Production: How to juggle high stakes and real time - AI Action Summit Tech Track - Mirakl",
+      "duration_s": 728,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Speakers:\n-Remi Takase, Artificial Intelligence Data Science at Mirakl\n-Yannick Lambruschi, Senior Data Engineer at Mirakl\n\nResources:\nhttps://github.com/kserve/kserve\nhttps://www.linkedin.com/in/remi-takase/\nhttps://www.linkedin.com/in/yannicklambruschi/\n\ndotAI Tech Track organized by dotConferences at AI Action Summit on February 11 at Station F.",
+      "published_at": "2025-02-13T13:41:43Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "BRgP2NqvZWU": {
+      "video_id": "BRgP2NqvZWU",
+      "title": "dotJS 2019 - Asim Hussain - JavaScript Saves the World",
+      "duration_s": 1048,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "BU0KBj-G0_0": {
+      "video_id": "BU0KBj-G0_0",
+      "title": "dotCSS 2016 - Sean Goresht - Language translation in CSS",
+      "duration_s": 265,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Be957fSo4WE": {
+      "video_id": "Be957fSo4WE",
+      "title": "dotGo 2017- Diana Ortega - Go and data, can they ever be friends?",
+      "duration_s": 243,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "BiDBclcU_I4": {
+      "video_id": "BiDBclcU_I4",
+      "title": "dotJS 2019 - Sven Sauleau - More WebAssembly in your JavaScript",
+      "duration_s": 862,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "BpBqutfpSPQ": {
+      "video_id": "BpBqutfpSPQ",
+      "title": "dotSwift2016 - Grégoire Lhotellier - Protocol Oriented Programming",
+      "duration_s": 248,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "BvpRBdWwecU": {
+      "video_id": "BvpRBdWwecU",
+      "title": "dotGo 2016 - Lucas Clemente - A QUIC server implementation in Go",
+      "duration_s": 269,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Bx5wgHXBhhE": {
+      "video_id": "Bx5wgHXBhhE",
+      "title": "dotAI 2024 - Sri Satish Ambati - Democratizing AI with Open Source Multi-Agent Systems",
+      "duration_s": 1279,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "CHLzbscw1kE": {
+      "video_id": "CHLzbscw1kE",
+      "title": "dotGo 2016 - Jean-Bernard Jansen - The low-level awesomeness of Go",
+      "duration_s": 215,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "CKzCFI6iNv0": {
+      "video_id": "CKzCFI6iNv0",
+      "title": "dotSwift 2018 - Hugues Bernet-Rollande - End to End Encryption for Mobile Developers",
+      "duration_s": 270,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "CYkpF7COpVY": {
+      "video_id": "CYkpF7COpVY",
+      "title": "dotSwift 2020 - Vincent Pradeilles - Implementing pseudo-keywords through functional programing",
+      "duration_s": 843,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "D2N7zvs-jms": {
+      "video_id": "D2N7zvs-jms",
+      "title": "dotSwift 2019 - Jeff Biggus - Scientific Swift",
+      "duration_s": 1108,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "DEcwa68f-jY": {
+      "video_id": "DEcwa68f-jY",
+      "title": "dotJS 2019 - James Long - CRDTs for Mortals",
+      "duration_s": 1245,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "DtED9d6tL6k": {
+      "video_id": "DtED9d6tL6k",
+      "title": "dotJS 2017 - Mims Wright - Building a puzzle game in React/Redux",
+      "duration_s": 250,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Dx6evGNrUdM": {
+      "video_id": "Dx6evGNrUdM",
+      "title": "dotSecurity 2017 - Zane Lackey - DevOps and Security",
+      "duration_s": 957,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "E18HxqAvP7o": {
+      "video_id": "E18HxqAvP7o",
+      "title": "From terrible to terrific frontend routers - Eduardo San Martin Morote - dotJS 2025",
+      "duration_s": 1168,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "E6ccpH-w09I": {
+      "video_id": "E6ccpH-w09I",
+      "title": "dotCSS 2019 - Fabien Zibi - CSS tests",
+      "duration_s": 265,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "E6t8muepQ-Y": {
+      "video_id": "E6t8muepQ-Y",
+      "title": "dotScale 2016 - Gleb Budman - A Peek Behind The Cloud",
+      "duration_s": 1032,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "EERzGWgkU2o": {
+      "video_id": "EERzGWgkU2o",
+      "title": "dotJS 2018 - Myles Borins - Top-level Awaiting for Godot",
+      "duration_s": 1148,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "EOpj9aZ8Kfo": {
+      "video_id": "EOpj9aZ8Kfo",
+      "title": "dotGo 2017 - Mat Ryer - The Art of Testing",
+      "duration_s": 1173,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ET4kT88JRXs": {
+      "video_id": "ET4kT88JRXs",
+      "title": "dotJS 2018 - Anders Hejlsberg - TypeScript: Static types for JavaScript",
+      "duration_s": 1457,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "EqClcrPVljw": {
+      "video_id": "EqClcrPVljw",
+      "title": "Coding Agents - Katia Gil Guzman - OpenAI",
+      "duration_s": 1230,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Katia Gil Guzman?\n\nKatia is a Developer Experience Engineer at OpenAI, working closely with product teams to support developers building with OpenAI’s technology. She began her journey at OpenAI as a Solutions Architect, partnering with customers across Europe to design and implement AI solutions, and now focuses on empowering developers to build innovative products with OpenAI.",
+      "published_at": "2025-11-14T14:16:05Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "EsanJ7_U89A": {
+      "video_id": "EsanJ7_U89A",
+      "title": "dotSwift 2018 - Brandon Kase - Finally Solving the Expression Problem",
+      "duration_s": 1004,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "F_A4ES3Lew0": {
+      "video_id": "F_A4ES3Lew0",
+      "title": "dotSwift 2018 - Grégoire Lhotellier - How to turn an onion into a snake?",
+      "duration_s": 266,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "FcoecqFUjeU": {
+      "video_id": "FcoecqFUjeU",
+      "title": "dotJS 2016 - Vladimir de Turckheim - NoSQL injections in Node.js: The case of MongoDB",
+      "duration_s": 271,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "G9UZnpOw-OE": {
+      "video_id": "G9UZnpOw-OE",
+      "title": "dotCSS 2017 - Florian Rivoal - Media Queries 4",
+      "duration_s": 1107,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "GA7-OfYSzvA": {
+      "video_id": "GA7-OfYSzvA",
+      "title": "dotJS 2016 - Sam Wray & Tim Pietrusky - {Live:JS}",
+      "duration_s": 1101,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "GUwjlWx7ud8": {
+      "video_id": "GUwjlWx7ud8",
+      "title": "dotSwift 2018 - Ben Scheirman - Buckets of Code",
+      "duration_s": 1085,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "GeqST1LbjeM": {
+      "video_id": "GeqST1LbjeM",
+      "title": "AI Agents for data: get insights, not SQL - Claire Gouze - nao",
+      "duration_s": 535,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Claire Gouze?\n\nClaire Gouze is Co-Founder at nao Labs, the AI-code editor for data teams backed by Y Combinator. Previously, she was Head of Data at sunday, where she built the data stack and team. She also worked as a Data Scientist at BCG, specializing in ML applications for retail, including deep learning for personalization and supply chain optimization. As a freelance consultant, she has advised 15+ companies on data architecture and ML strategy.",
+      "published_at": "2025-11-14T14:16:05Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "Gf-pmc7Mykc": {
+      "video_id": "Gf-pmc7Mykc",
+      "title": "dotAI 2018 - Olivier Wulveryck - Software 2.0, a Babel fish for deep learning?",
+      "duration_s": 287,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "GgsQgpCYdrM": {
+      "video_id": "GgsQgpCYdrM",
+      "title": "dotSwift 2016 - Victor Wang - Build iOS UI in the way of Lego bricks",
+      "duration_s": 253,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Gh1RgYz--wg": {
+      "video_id": "Gh1RgYz--wg",
+      "title": "dotSwift 2016 - TJ Usiyan - Swift [and the] Evolution",
+      "duration_s": 1099,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "GnXmON9rLQw": {
+      "video_id": "GnXmON9rLQw",
+      "title": "dotGo 2019 - Joan López de la Franca Beltran - Dockerization of Go",
+      "duration_s": 211,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "HDnLx3Xp7bg": {
+      "video_id": "HDnLx3Xp7bg",
+      "title": "dotScale 2017 - Clay Smith - Searching for the Server in Serverless",
+      "duration_s": 941,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "HG3FDCegKVc": {
+      "video_id": "HG3FDCegKVc",
+      "title": "dotAI 2017 - Olivier Grisel - Neural Networks for Recommender Systems",
+      "duration_s": 1275,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "HJjZtXVeAuw": {
+      "video_id": "HJjZtXVeAuw",
+      "title": "dotJS - Eric Schoffstall - WebRTC Everywhere",
+      "duration_s": 1048,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Filmed at http://2015.dotjs.io on December 7th in Paris. More talks on http://thedotpost.com\n\nBuilding cross-platform WebRTC is hard: between IE, Safari, iOS, Chrome, and Android you will find yourself in a mess of crazy hacks. Eric talks about his experience deploying a production WebRTC application to every platform, and what he built to solve this problem for good.",
+      "published_at": "2016-03-17T15:42:16Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "Haen-OX3y1M": {
+      "video_id": "Haen-OX3y1M",
+      "title": "Durable Executions for Mortals - Charly Poly - dotJS 2025",
+      "duration_s": 643,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "HoDw-e77cD8": {
+      "video_id": "HoDw-e77cD8",
+      "title": "dotJS 2016 - Rolf Erik Lekang - Enforcing code changes over time",
+      "duration_s": 212,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IPEzwWt4adY": {
+      "video_id": "IPEzwWt4adY",
+      "title": "dotJS 2018 - Tejas Kumar - A Quick Recap on WebAssembly",
+      "duration_s": 242,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IQl1EmR9Hus": {
+      "video_id": "IQl1EmR9Hus",
+      "title": "dotSwift 2018 - Graham Lee - Object-Oriented Programming in Functional Programming in Swift",
+      "duration_s": 1143,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ITMgocguzME": {
+      "video_id": "ITMgocguzME",
+      "title": "dotJS 2017 - Thomas Watson - Getting Data From The Sky",
+      "duration_s": 1123,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IVNh_49Kro8": {
+      "video_id": "IVNh_49Kro8",
+      "title": "Love/Hate: Upgrading to Web2.5 with Local-First - Kyle Simpson - dotJS 2025",
+      "duration_s": 1236,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IgP_c4qkWxM": {
+      "video_id": "IgP_c4qkWxM",
+      "title": "Measuring Coding Agent Readiness: Framework for Enterprise AI Dev – Upsun at dotAI Tech Track AI Day",
+      "duration_s": 740,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Speaker: Guillaume Moigneu, Field CTO at Upsun.\n\nDescription:\nStop comparing model benchmarks. The reason your AI agents can't ship Enterprise-ready code has less to do with the model and more with your codebase and tooling. Flaky tests, missing docs, unreliable builds: humans work around these daily, but agents crash hard. This talk presents spec-driven development and the 8 Pillars of Verification. A framework to measure agent-readiness and a methodology to write specs before prompts. Because without verification, you're not building software, you're generating expensive slop and debt.\n\ndotAI Tech Track organized by dotConferences at AI Day on February 10, 2026, at Station F.",
+      "published_at": "2026-02-17T13:58:46Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "IkWtN8v7EiU": {
+      "video_id": "IkWtN8v7EiU",
+      "title": "dotSwift 2020 - Denis Poifol - Stating the obvious",
+      "duration_s": 258,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IvGNB4bMpHI": {
+      "video_id": "IvGNB4bMpHI",
+      "title": "dotSwift 2016 - Daniel Haight - Xcodeless",
+      "duration_s": 961,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IvhIupbJrKc": {
+      "video_id": "IvhIupbJrKc",
+      "title": "dotCSS 2014 - Estelle Weyl - CSS? WTF!",
+      "duration_s": 1139,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "IxQB14xVas0": {
+      "video_id": "IxQB14xVas0",
+      "title": "dotJS 2019 - Tim Neutkens - What to expect from a modern web framework?",
+      "duration_s": 1267,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "J-QBZxT-byM": {
+      "video_id": "J-QBZxT-byM",
+      "title": "dotCSS 2017 - Ryan Tsao - Compilers in styling web UI",
+      "duration_s": 928,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "J74p5bZf2-k": {
+      "video_id": "J74p5bZf2-k",
+      "title": "dotGo 2017 - Ron Evans - GoCV - Computer Vision Using Go and OpenCV 3",
+      "duration_s": 300,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "J7qpJiJtZ2M": {
+      "video_id": "J7qpJiJtZ2M",
+      "title": "dotAI 2017 - Pierre Gutierrez - Pragmatic Deep Learning for image labelling",
+      "duration_s": 1172,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "JSUj3wbHil8": {
+      "video_id": "JSUj3wbHil8",
+      "title": "dotSwift 2018 - Oscar Falmer - How to make a successful ARKit app?",
+      "duration_s": 217,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "JaYNrmH7Oyg": {
+      "video_id": "JaYNrmH7Oyg",
+      "title": "dotCSS 2016 - Matthias Beitl - Diversity in Style",
+      "duration_s": 227,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "JrlLxljwupM": {
+      "video_id": "JrlLxljwupM",
+      "title": "dotAI 2018 - Charlotte Ledoux - Logistics and data: towards a decision support tool",
+      "duration_s": 272,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "JyocX-G6h8o": {
+      "video_id": "JyocX-G6h8o",
+      "title": "AI and memory: A wall to cross! - Tejas Chopra - Netflix",
+      "duration_s": 474,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Tejas Chopra?\n\nTejas is a Sr Engineer at Netflix working on ML Infrastructure for Personalization. Tejas is also the CoFounder of EnsolAI - an AI platform for thought leadership. He is a 2x TEDx speaker, a British Computer Society Fellow, a Tech 40 under 40, and has spoken at several forums on ML/AI. He has previously worked at Box, Datrium, Samsung, and Apple.",
+      "published_at": "2025-11-14T14:16:05Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "K4oORp42FxA": {
+      "video_id": "K4oORp42FxA",
+      "title": "dotCSS 2016 - Val Head - The Ins and Outs of Easing",
+      "duration_s": 1299,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KDSSraX8SHE": {
+      "video_id": "KDSSraX8SHE",
+      "title": "dotAI 2024 - Romain Huet and Katia Gil Guzman - Building with OpenAI: What's Ahead",
+      "duration_s": 1352,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KIp7lhL7AXg": {
+      "video_id": "KIp7lhL7AXg",
+      "title": "dotJS 2019 - Stefan Judis - Regular expressions my secret love",
+      "duration_s": 291,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KUl3BxcvF-Q": {
+      "video_id": "KUl3BxcvF-Q",
+      "title": "dotSwift 2018 - Sally Shepard - Accessibility: A line of code can be many things",
+      "duration_s": 896,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KUxHINjOcA8": {
+      "video_id": "KUxHINjOcA8",
+      "title": "dotScale 2018 - Jeremy Edberg - The Data of Infrastructures",
+      "duration_s": 1125,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "K_Y9wvGjNKw": {
+      "video_id": "K_Y9wvGjNKw",
+      "title": "dotAI 2024 - Ines Montani - Reality is not an end-to-end prediction problem",
+      "duration_s": 1108,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KaqBmuaOGwg": {
+      "video_id": "KaqBmuaOGwg",
+      "title": "dotCSS 2016 - Kevin Mandeville - Hacking HTML Emails with CSS",
+      "duration_s": 989,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KdX51QJWQTA": {
+      "video_id": "KdX51QJWQTA",
+      "title": "dotGo 2016 - Matthew Holt - Go with ACME",
+      "duration_s": 1048,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "KgaPoEzOGqc": {
+      "video_id": "KgaPoEzOGqc",
+      "title": "dotAI 2024 - Marjolaine Grondin - AI is your personal co-founder",
+      "duration_s": 947,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "LNxVWnGcn4Y": {
+      "video_id": "LNxVWnGcn4Y",
+      "title": "dotJS 2024 - Alex Moulinneuf - Mario Kart 3.js: pushing the limits of JS together",
+      "duration_s": 253,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "LdKjS94ugYI": {
+      "video_id": "LdKjS94ugYI",
+      "title": "dotJS 2017 - Marcy Sutton - Enabling Users in Client-Rendered Applications",
+      "duration_s": 1111,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Lz9yqxoWWjs": {
+      "video_id": "Lz9yqxoWWjs",
+      "title": "Reasoning VLM for Physical AI - Natalia Segal - NVIDIA",
+      "duration_s": 1198,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Natalia Segal?\n\nNatalia Segal is a Senior Technical Solutions Architect at NVIDIA, where she helps developers leverage the company’s AI technology stack.\n\nShe holds a PhD in Natural Language and Speech Processing and has more than ten years of experience in AI application development.",
+      "published_at": "2025-11-14T14:16:05Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "M-hMpK3vCro": {
+      "video_id": "M-hMpK3vCro",
+      "title": "A day at dotSwift 2016",
+      "duration_s": 96,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "M7qMP3C5bkU": {
+      "video_id": "M7qMP3C5bkU",
+      "title": "dotSecurity 2017 - Jim Manico - Secure Software Development Lifecycle",
+      "duration_s": 1197,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "MJVRKmA83LU": {
+      "video_id": "MJVRKmA83LU",
+      "title": "dotCSS 2018 - Natalya Shelburne - CSS at the Intersection",
+      "duration_s": 1086,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "MPkMf7Pbp5c": {
+      "video_id": "MPkMf7Pbp5c",
+      "title": "dotSwift 2019 - Mark Dalrymple - Wh@t is th@t?",
+      "duration_s": 1146,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "MWZrZH9Xz84": {
+      "video_id": "MWZrZH9Xz84",
+      "title": "dotGo 2016 - Sébastien Binet - pygo: Interpreters in Go and for Go",
+      "duration_s": 308,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "MehWVG5Vbu4": {
+      "video_id": "MehWVG5Vbu4",
+      "title": "dotSwift 2015 - Francescu Santoni - 4 Swift tips in 4 minutes",
+      "duration_s": 255,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "MticuuqsMcQ": {
+      "video_id": "MticuuqsMcQ",
+      "title": "dotSwift 2016 - Michael May - The Empathetic Developer",
+      "duration_s": 245,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "N181gp9gouY": {
+      "video_id": "N181gp9gouY",
+      "title": "dotScale 2018 - Matthias Dugué - Git as a continuous manager",
+      "duration_s": 276,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "N7gxfroizbA": {
+      "video_id": "N7gxfroizbA",
+      "title": "dotScale 2018 - Bridget Kromhout - Kubernetes 101",
+      "duration_s": 1200,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "NBcFoZaIvf0": {
+      "video_id": "NBcFoZaIvf0",
+      "title": "dotAI 2018 - Virginie Mathivet - Traps to avoid when working with AI",
+      "duration_s": 917,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "NFeRlR9dOwY": {
+      "video_id": "NFeRlR9dOwY",
+      "title": "dotCSS 2017 - Tim Carry - Building a search engine in CSS",
+      "duration_s": 1003,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "NWNEjC4Y4X4": {
+      "video_id": "NWNEjC4Y4X4",
+      "title": "dotGo 2016 - Simone Carletti - Using Go to Guide API Design Decisions",
+      "duration_s": 249,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "NYnI7-xWH-I": {
+      "video_id": "NYnI7-xWH-I",
+      "title": "dotJS 2017- Sean Larkin - Webpack+WebAssembly: Under the hood",
+      "duration_s": 1191,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "NdHdwrltnrQ": {
+      "video_id": "NdHdwrltnrQ",
+      "title": "dotCSS 2017 - Steffen Reichelt - One Step a Day",
+      "duration_s": 218,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "NjAbXRyj7-s": {
+      "video_id": "NjAbXRyj7-s",
+      "title": "dotCSS 2019 - Hidde de Vries - On the origin of cascades",
+      "duration_s": 1200,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Nu1BpnkPXxo": {
+      "video_id": "Nu1BpnkPXxo",
+      "title": "dotJS 2017 - Kristijan Ristovski - State management in a GraphQL era",
+      "duration_s": 275,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "OUXC3DLY6QU": {
+      "video_id": "OUXC3DLY6QU",
+      "title": "dotSwift 2020 - Cory Benfield - Cryptography in Swift",
+      "duration_s": 1078,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "OgU8d_E1K14": {
+      "video_id": "OgU8d_E1K14",
+      "title": "dotSwift 2018 - Paul Hudson - Elements of Functional Programming",
+      "duration_s": 979,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "OljHz5VaQCg": {
+      "video_id": "OljHz5VaQCg",
+      "title": "dotScale 2017 - Ulf Adams - Build and Test Performance at Scale",
+      "duration_s": 1030,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Oo9BVYX68l8": {
+      "video_id": "Oo9BVYX68l8",
+      "title": "dotJS 2019 - Ziad Bizri - Typing correctly matters",
+      "duration_s": 272,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Or6xjaCUCd4": {
+      "video_id": "Or6xjaCUCd4",
+      "title": "dotSwift 2020 - Kaya Thomas - Swift Techniques for Testing",
+      "duration_s": 816,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "P9DdJb_lqkY": {
+      "video_id": "P9DdJb_lqkY",
+      "title": "Where developers gather together | dotConferences are coming!",
+      "duration_s": 97,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "dotConferences are back! With dotJS: the 3rd of April 2025 : https://www.dotjs.io and dotAI the 6th of November 2025: https://www.dotai.io\n\nLearn more about dotConferences: https://www.dotconferences.com\n\nAbout dotConferences: \ndotConferences is a series of high-level events for developers in Europe. Since 2012, 41 conferences have been organized in Paris, bringing together over 25,000 participants and showcasing the most popular programming languages and technologies such as Javascript, Python, CSS, Artificial Intelligence, Security, and many more.\n\nThe mission of dotConferences is to help developers enhance their skills by inviting technical thought leaders from around the world to speak in the most prestigious venues that cities have to offer.\n\nVideo production: Welcome to the Jungle France.\nCopyright: © dotConferences. All rights reserved.",
+      "published_at": "2024-05-20T07:41:13Z",
+      "tags": [
+        "developers",
+        "software engineers",
+        "tech conference",
+        "tech conferences",
+        "conference in paris",
+        "software engineering",
+        "python",
+        "ai",
+        "artificial intelligence",
+        "javascript",
+        "react",
+        "angular",
+        "css",
+        "js",
+        "programmers",
+        "programming",
+        "code",
+        "coding",
+        "coders",
+        "coder",
+        "paris conference",
+        "tech talks",
+        "talks about software development",
+        "software development",
+        "engineering",
+        "it",
+        "ia",
+        "conférence",
+        "machine learning",
+        "llm",
+        "large language model",
+        "gpt",
+        "chatgpt",
+        "ai conference",
+        "ml conference",
+        "theater",
+        "tech keynote",
+        "technology conference"
+      ],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "PHKLzpt-syI": {
+      "video_id": "PHKLzpt-syI",
+      "title": "dotCSS 2018 - Sara Soueidan - SVG Filters: A Mini Crash Course",
+      "duration_s": 1019,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "PgCziibErvU": {
+      "video_id": "PgCziibErvU",
+      "title": "dotScale 2017 - Pierre Chapuis - A short introduction to Interval Tree Clocks",
+      "duration_s": 277,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "PrhPSUHXWJ4": {
+      "video_id": "PrhPSUHXWJ4",
+      "title": "Prompting is the New Scripting: Meet GenAIScript - Yohan Lasorsa - dotJS 2025",
+      "duration_s": 1237,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "PsCpK1UqC5s": {
+      "video_id": "PsCpK1UqC5s",
+      "title": "The Wind & Waves: The formation of Framework Waves from the Epicenter - Sarah Drasner - dotJS 2025",
+      "duration_s": 1197,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Pz9YeBs_afo": {
+      "video_id": "Pz9YeBs_afo",
+      "title": "dotAI 2024 - Pierre Stock - The future of Edge Agents",
+      "duration_s": 1186,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "QfFwceFo97E": {
+      "video_id": "QfFwceFo97E",
+      "title": "dotGo 2016 - Elias Naur - Make mobile programming fun (again)",
+      "duration_s": 1060,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Qyh_QcgotUY": {
+      "video_id": "Qyh_QcgotUY",
+      "title": "dotJS 2016 - Gonçalo Morais - Binary in JavaScript",
+      "duration_s": 281,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "R50q4NES6Iw": {
+      "video_id": "R50q4NES6Iw",
+      "title": "dotCSS 2019 - Sarah Dayan - In Defense of Utility-First CSS",
+      "duration_s": 1062,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "RLO9MJFi3sI": {
+      "video_id": "RLO9MJFi3sI",
+      "title": "dotScale 2016 - Vasia Kalavri - Demystifying Distributed Graph Processing",
+      "duration_s": 831,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "RZ6MLELGsD8": {
+      "video_id": "RZ6MLELGsD8",
+      "title": "dotJS 2019 - Adam Bradley - Architecting A Component Compiler",
+      "duration_s": 961,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Rlhlc6NaO4w": {
+      "video_id": "Rlhlc6NaO4w",
+      "title": "dotSwift 2019 - Tom Doron - Implementing JSON-RPC with SwiftNIO",
+      "duration_s": 1052,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "SBz54Wt65Fs": {
+      "video_id": "SBz54Wt65Fs",
+      "title": "dotCSS 2016 - Chris Lilley - Web Fonts: Power Up!",
+      "duration_s": 1151,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "SNMZWxi7A_s": {
+      "video_id": "SNMZWxi7A_s",
+      "title": "dotScale 2017 - Neha Narkhede - The Rise of Real-Time",
+      "duration_s": 1058,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "SSZmQ_mEK4I": {
+      "video_id": "SSZmQ_mEK4I",
+      "title": "dotJS 2019 - Jana Beck - Escaping flatland: a romance of data science in the browser",
+      "duration_s": 1083,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "SWWK9e7xUxw": {
+      "video_id": "SWWK9e7xUxw",
+      "title": "dotSwift 2017 - Greg Lhotellier - The Inheritance Curse",
+      "duration_s": 241,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "SeVxmQl9Wmk": {
+      "video_id": "SeVxmQl9Wmk",
+      "title": "dotGo 2019 - Marcel van Lohuizen - Go 2 error values today",
+      "duration_s": 1046,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ShHsshcTOJo": {
+      "video_id": "ShHsshcTOJo",
+      "title": "dotJS 2018 - Sacha Greif - The State of JavaScript 2018",
+      "duration_s": 1101,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "SmsX4dE_k5s": {
+      "video_id": "SmsX4dE_k5s",
+      "title": "dotScale 2017 - Omar Qunsul - Adding Graphs to Redis",
+      "duration_s": 198,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Srb-dmnVbYY": {
+      "video_id": "Srb-dmnVbYY",
+      "title": "dotJS 2018 - Tara Z. Manicsic - HTTP/2 For Me & You",
+      "duration_s": 1109,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "T69msSZdY4o": {
+      "video_id": "T69msSZdY4o",
+      "title": "dotGo 2017 - Marcel van Lohuizen - Rethinking Errors in Go",
+      "duration_s": 313,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "TBrv17QyUE0": {
+      "video_id": "TBrv17QyUE0",
+      "title": "dotGo 2017 - Liz Rice - Debuggers from scratch",
+      "duration_s": 1038,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "TFWTVwgdNPA": {
+      "video_id": "TFWTVwgdNPA",
+      "title": "dotJS 2018 - Jeremias Menichelli - Give me your content, punk!",
+      "duration_s": 254,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "UdZP6JeTCkM": {
+      "video_id": "UdZP6JeTCkM",
+      "title": "dotSwift 2017 - Károly Lőrentey - Optimizing Swift Collections",
+      "duration_s": 1214,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "UdvnuPs6_dk": {
+      "video_id": "UdvnuPs6_dk",
+      "title": "dotCSS 2018 - Aga Naplocha - Breaking the norm with creative CSS",
+      "duration_s": 994,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "UgpLM9gNkqs": {
+      "video_id": "UgpLM9gNkqs",
+      "title": "dotAI 2024 - Neil Zeghidour - Multimodal language models",
+      "duration_s": 1219,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "UldTRcPl0E8": {
+      "video_id": "UldTRcPl0E8",
+      "title": "Optimize AI Energy - Bertrand Charpentier - Pruna AI",
+      "duration_s": 576,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Bertrand Charpentier?\n\nBertrand is the co-founder, President and Chief Scientist Officer at Pruna AI, which makes AI models efficient, sustainable, and accessible.\n\nHe co-created open-source packages including `pruna` package with which he compressed thousands of models and `scikit-network` enabling machine learning for graphs.",
+      "published_at": "2025-11-14T14:16:06Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "UrKUbaCJ938": {
+      "video_id": "UrKUbaCJ938",
+      "title": "dotJS 2017 - Trent Willis - Working Well: The Future of Web Testing",
+      "duration_s": 1159,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "UvgY7WlTd_c": {
+      "video_id": "UvgY7WlTd_c",
+      "title": "dotJS 2018 - Devon Lindsey - Robot Rock",
+      "duration_s": 1016,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "V3nMF1JKuN0": {
+      "video_id": "V3nMF1JKuN0",
+      "title": "dotJS 2018 - Tim Pietrusky - WebUSB for Digital Artists",
+      "duration_s": 261,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "V8bUUTqCrvI": {
+      "video_id": "V8bUUTqCrvI",
+      "title": "dotSwift 2017 - Logan Wright - Representables in Swift",
+      "duration_s": 705,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "VF-Oz19rzVE": {
+      "video_id": "VF-Oz19rzVE",
+      "title": "dotScale 2016 - Mickaël Rémond - Building Scalable Systems: what you can learn from Erlang",
+      "duration_s": 1051,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "VHJxBr0WKGg": {
+      "video_id": "VHJxBr0WKGg",
+      "title": "dotJS 2018 - Felix Rieseberg - JavaScript on the Desktop, Fast and Slow",
+      "duration_s": 1052,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "VcAfASSOAsw": {
+      "video_id": "VcAfASSOAsw",
+      "title": "dotJS 2019 - Kassian Wren - MIDI, communications, and music in JavaScript",
+      "duration_s": 854,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "VchFkzsgXJg": {
+      "video_id": "VchFkzsgXJg",
+      "title": "dotAI 2024 - Audrey Roy Greenfeld - Rethinking AI: Building What Matters, Not Just What's Possible",
+      "duration_s": 565,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Vn_EJoreZfk": {
+      "video_id": "Vn_EJoreZfk",
+      "title": "dotScale 2018 - Yaroslav Tkachenko - Designing Scalable & Extendable Data Pipeline for CoD games",
+      "duration_s": 1091,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Vpzm0a2qU2E": {
+      "video_id": "Vpzm0a2qU2E",
+      "title": "dotAI 2024 - Daniel Phiri - Crossing the multimodal chasm",
+      "duration_s": 502,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "VvOsegaN9Wk": {
+      "video_id": "VvOsegaN9Wk",
+      "title": "dotJS 2017 -Adrian Holovaty - A framework author's case against frameworks",
+      "duration_s": 1070,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Vvhp7tcRT2c": {
+      "video_id": "Vvhp7tcRT2c",
+      "title": "Recreating Windows Media Player Art With Web MIDI API - Vadim Smirnov - dotJS 2025",
+      "duration_s": 624,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "VzV_AVhawBQ": {
+      "video_id": "VzV_AVhawBQ",
+      "title": "A day at dotJS 2016",
+      "duration_s": 99,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "W0R5ueIEJIc": {
+      "video_id": "W0R5ueIEJIc",
+      "title": "dotJS 2017 - Suby Raman - A Brief Intro to GPU Shader Programming in WebGL",
+      "duration_s": 272,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "W1mlVbZ0eZU": {
+      "video_id": "W1mlVbZ0eZU",
+      "title": "dotGo 2017 - Fabio Rapposelli - Managing Package licenses in Go",
+      "duration_s": 280,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WCUnN9naAPk": {
+      "video_id": "WCUnN9naAPk",
+      "title": "dotJS 2019 - Adrià Fontcuberta - The pragmatic front-end tester",
+      "duration_s": 1026,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WG2b1cNlNvU": {
+      "video_id": "WG2b1cNlNvU",
+      "title": "dotAI 2018 - Isabel Schwende - Deep Learning in the Wild",
+      "duration_s": 287,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WLt2B-B3ef0": {
+      "video_id": "WLt2B-B3ef0",
+      "title": "dotAI 2017 - Lian Li - Alpha2048",
+      "duration_s": 1217,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WUmOmDd9GYo": {
+      "video_id": "WUmOmDd9GYo",
+      "title": "A day at dotSwift 2017",
+      "duration_s": 116,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WXJ49O9_Xg8": {
+      "video_id": "WXJ49O9_Xg8",
+      "title": "dotJS 2019 - Vlad Filippov - Into WebAssembly",
+      "duration_s": 1078,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WXV_MZKfnlo": {
+      "video_id": "WXV_MZKfnlo",
+      "title": "dotJS 2024 - Mark Dalgleish - Remixing the Bundler",
+      "duration_s": 1200,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "WpPc8MyYC5k": {
+      "video_id": "WpPc8MyYC5k",
+      "title": "dotJS 2016 - Maxime Thirouin - A static website with React? Really?",
+      "duration_s": 256,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "X-2HxEIz-xE": {
+      "video_id": "X-2HxEIz-xE",
+      "title": "dotSecurity 2016 - Ori Pekelman - Sudon’t or going rootless",
+      "duration_s": 258,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "X3jKLNyKRhg": {
+      "video_id": "X3jKLNyKRhg",
+      "title": "dotAI 2017 - Yufeng Guo - On-device machine learning: TensorFlow on Android",
+      "duration_s": 1122,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "X4d8bavOJ8w": {
+      "video_id": "X4d8bavOJ8w",
+      "title": "dotAI 2018 - Sharada Mohanty - Crowdsourcing Artificial Intelligence for Science: YOU can do a lot!",
+      "duration_s": 1226,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "XDeighXLGbo": {
+      "video_id": "XDeighXLGbo",
+      "title": "dotAI 2025 Aftermovie - The Future of AI, by the Best AI Builders, Live in Paris!",
+      "duration_s": 137,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "XFtYX4kKy-4": {
+      "video_id": "XFtYX4kKy-4",
+      "title": "dotSwift 2019 - Jason Akakpo - There is an extension for that",
+      "duration_s": 223,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "XSbO1igDm_Y": {
+      "video_id": "XSbO1igDm_Y",
+      "title": "dotSwift 2019 - Jan Kaltoun - Marzipan - UIKit on macOS",
+      "duration_s": 275,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "XfzfKtbLgUM": {
+      "video_id": "XfzfKtbLgUM",
+      "title": "dotJS - Etienne Margraff - Easier remote JavaScript debugging with Vorlon.js",
+      "duration_s": 273,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Filmed at http://2015.dotjs.io on December 7th in Paris. More talks on http://thedotpost.com\n\nDebugging JavaScript on mobile devices can be a headache. There are some proprietary tools and old initiatives like WeinRe but they are not easily extensible. Etienne introduces Vorlon.js to help you debug your apps easily!",
+      "published_at": "2016-03-24T14:19:23Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "Xn4mkKCRWT4": {
+      "video_id": "Xn4mkKCRWT4",
+      "title": "dotJS 2016 - Ada Rose Edwards - The realities of doing VR on the Web",
+      "duration_s": 1130,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "XqQJ6-l26QM": {
+      "video_id": "XqQJ6-l26QM",
+      "title": "dotSwift 2020 - Tim Condon - BFFs for Swift",
+      "duration_s": 901,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "XwVkA5ZLleY": {
+      "video_id": "XwVkA5ZLleY",
+      "title": "dotAI 2024 - Grigorij Dudnik - Multi-agent collaboration in practice: make AI code an app for you",
+      "duration_s": 523,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Y0ZfZnN0lB8": {
+      "video_id": "Y0ZfZnN0lB8",
+      "title": "dotGo 2019 - Roberto Clapis - The monsters inside the sync.Locker",
+      "duration_s": 251,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Y0_FMCji3iE": {
+      "video_id": "Y0_FMCji3iE",
+      "title": "dotCSS 2016 - Wenting Zhang - Make CSS your secret super drawing tool",
+      "duration_s": 1012,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "YDBtLliIoWQ": {
+      "video_id": "YDBtLliIoWQ",
+      "title": "A day at dotCSS 2015",
+      "duration_s": 112,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "YRZh01o_UGY": {
+      "video_id": "YRZh01o_UGY",
+      "title": "Using AI with JavaScript: good idea? - Wes Bos - dotJS 2025",
+      "duration_s": 1185,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Ymam3-i4ChE": {
+      "video_id": "Ymam3-i4ChE",
+      "title": "dotJS 2018 - Adam Weeks - Debugging, a step away from the console",
+      "duration_s": 287,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "YostyJRwqVU": {
+      "video_id": "YostyJRwqVU",
+      "title": "dotSecurity 2017 - Philipp Jovanovic - Collective Authorities: Transparency & Decentralized Trust...",
+      "duration_s": 1146,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "Yx6FBsGNOp4": {
+      "video_id": "Yx6FBsGNOp4",
+      "title": "dotGo 2017 - JBD - Go's work stealing scheduler",
+      "duration_s": 836,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZACOc-NwV0c": {
+      "video_id": "ZACOc-NwV0c",
+      "title": "dotGo 2019 - Ellen Körbes - Go For Phallic Object Generation",
+      "duration_s": 1005,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZGxoT37eees": {
+      "video_id": "ZGxoT37eees",
+      "title": "dotJS 2018 - Roy Derks - Boilerplates Are The New Copy-Paste",
+      "duration_s": 271,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZJFMvWHtSAA": {
+      "video_id": "ZJFMvWHtSAA",
+      "title": "dotGo 2019 - James Bowes - Shattered Mirror: An Introduction to Reflect and Unsafe",
+      "duration_s": 1074,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZPpEkRTTH-U": {
+      "video_id": "ZPpEkRTTH-U",
+      "title": "dotJS 2024 - Stoyan Stefanov - Your app crashes my browser",
+      "duration_s": 368,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZShE3toDPIk": {
+      "video_id": "ZShE3toDPIk",
+      "title": "dotSwift 2020 - Guilherme Rambo - MVC: Many View Controllers",
+      "duration_s": 998,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZVL6FeCJdD8": {
+      "video_id": "ZVL6FeCJdD8",
+      "title": "dotJS 2016 - Nolan Lawson - Service Worker and the Appification of the Web",
+      "duration_s": 1022,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZVsDA6GhKOU": {
+      "video_id": "ZVsDA6GhKOU",
+      "title": "dotScale 2016 - Fabien Potencier - Monolith repositories vs many repositories",
+      "duration_s": 323,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZX_oz_O9VNs": {
+      "video_id": "ZX_oz_O9VNs",
+      "title": "dotCSS 2019 - Jean-François Garreau - JS in CSS",
+      "duration_s": 292,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ZskP7cvj3WA": {
+      "video_id": "ZskP7cvj3WA",
+      "title": "dotCSS 2016 - Philip Walton - The Dark Side of Polyfilling CSS",
+      "duration_s": 1366,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_BCiiE31D5M": {
+      "video_id": "_BCiiE31D5M",
+      "title": "dotCSS 2017 - Benjamin De Cock - CSS Grid in Production",
+      "duration_s": 965,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_MKshJLrNIU": {
+      "video_id": "_MKshJLrNIU",
+      "title": "dotJS 2018 - Kashyap Kondamudi - Promises & Composition",
+      "duration_s": 270,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_OnTUIYxGRs": {
+      "video_id": "_OnTUIYxGRs",
+      "title": "Node.js will use all the memory available, and that's OK! - Matteo Collina - dotJS 2025",
+      "duration_s": 1132,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_RQmCUk3SGY": {
+      "video_id": "_RQmCUk3SGY",
+      "title": "dotGo 2016 - Franz Eichhorn - Go machine learning at large scale",
+      "duration_s": 225,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_YK0viplIl4": {
+      "video_id": "_YK0viplIl4",
+      "title": "dotGo 2017 - Sameer Ajmani - Simulating a real-world system in Go",
+      "duration_s": 1090,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_cRckraXzSk": {
+      "video_id": "_cRckraXzSk",
+      "title": "dotJS 2019 - Eduardo San Martin Morote - Modern Routing",
+      "duration_s": 1043,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_hyT5pdEQN4": {
+      "video_id": "_hyT5pdEQN4",
+      "title": "dotScale 2017 - Andrew Shafer - Deep DevOps - Learning to learn",
+      "duration_s": 1076,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_noRkLSQ4nY": {
+      "video_id": "_noRkLSQ4nY",
+      "title": "dotCSS 2017 - Jackie Balzer - Schrödinger's Website",
+      "duration_s": 1016,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_o1kv13E2LA": {
+      "video_id": "_o1kv13E2LA",
+      "title": "dotJS 2018 - Joost Lubach - Asynchronous hamburgers",
+      "duration_s": 287,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "_qzPUlNoC0E": {
+      "video_id": "_qzPUlNoC0E",
+      "title": "dotScale 2016 - Juan Benet - IPFS: Distributed Web Apps",
+      "duration_s": 1181,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "a0m0acpM8II": {
+      "video_id": "a0m0acpM8II",
+      "title": "dotSwift 2018 - Ellen Shapiro - Protocols All The Way Down",
+      "duration_s": 1177,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "a52aHgIu1oY": {
+      "video_id": "a52aHgIu1oY",
+      "title": "AI-Powered Software Development Lifecycle with GitLab Duo - AI Action Summit Tech Track",
+      "duration_s": 667,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Speaker: Salahddine Aberkan, Solutions Architect at GitLab.\n\nResources:\nhttps://gitlab.navattic.com/duo-enterprise\nhttps://about.gitlab.com/sales/\n\ndotAI Tech Track organized by dotConferences at AI Action Summit on February 11 at Station F.",
+      "published_at": "2025-02-14T14:43:54Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "aKAlNFNJuuI": {
+      "video_id": "aKAlNFNJuuI",
+      "title": "A day at dotJS 2017",
+      "duration_s": 118,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "aX3ZABCdC38": {
+      "video_id": "aX3ZABCdC38",
+      "title": "dotJS 2017 - Brendan Eich - A Brief History of JavaScript",
+      "duration_s": 1075,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "a_EYdzGyNWs": {
+      "video_id": "a_EYdzGyNWs",
+      "title": "dotSecurity 2016 - Theo de Raadt - Privilege Separation and Pledge",
+      "duration_s": 892,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ahl4Ft8xuiw": {
+      "video_id": "ahl4Ft8xuiw",
+      "title": "dotAI 2024 - Aftermovie",
+      "duration_s": 164,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ajbxNZc6uTc": {
+      "video_id": "ajbxNZc6uTc",
+      "title": "dotJS 2024 - James Q Quick - Dante’s Inferno of Fullstack Development (A Brief History)",
+      "duration_s": 1244,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "aoBWhCu6Gq0": {
+      "video_id": "aoBWhCu6Gq0",
+      "title": "dotCSS 2017 - Louis Hoebregts - CSS Christmath",
+      "duration_s": 227,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "av5rQNbMKoY": {
+      "video_id": "av5rQNbMKoY",
+      "title": "Supercharge Web Performance with Shared Dictionaries - Antoine Caron - dotJS 2025",
+      "duration_s": 449,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "b8WH2107Uh0": {
+      "video_id": "b8WH2107Uh0",
+      "title": "dotJS 2024 - Eleanor McHugh - Encrypt All Transports",
+      "duration_s": 369,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "bOdfo5SmQc8": {
+      "video_id": "bOdfo5SmQc8",
+      "title": "dotJS 2019 - Evan You - State of Components",
+      "duration_s": 1444,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "bQS46Pgbnvc": {
+      "video_id": "bQS46Pgbnvc",
+      "title": "Clean code in Data Science - Gael Varoquaux - Skrub DataOps, Probabl:",
+      "duration_s": 1188,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Gael Varoquaux?\n\nGaël Varoquaux is a research director working on data science at Inria where he leads the Soda team. Varoquaux's research covers fundamentals of AI, statistical learning, natural language processing, causal inference, as well as applications to health. He also creates technology: he co-funded scikit-learn, one of the reference machine-learning toolboxes, and helped build various central tools for data analysis in Python.",
+      "published_at": "2025-11-14T14:16:04Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "bX9I4BuqJnU": {
+      "video_id": "bX9I4BuqJnU",
+      "title": "dotAI 2018 - Peet Denny - Building Trust through Explainable AI",
+      "duration_s": 970,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "bwA9i6wjfhw": {
+      "video_id": "bwA9i6wjfhw",
+      "title": "dotJS 2019 - Vladimir Agafonkin - Fast by default: algorithmic performance optimization in practice",
+      "duration_s": 1352,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "cMIVV3b63vk": {
+      "video_id": "cMIVV3b63vk",
+      "title": "Algolia & The GenAI UX Revolution: Merging Search and Conversation at dotAI Tech Track AI Day",
+      "duration_s": 974,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Speaker: Xavier Grand, CTO at Algolia\n\nDescription:\nDrawing from 10 years of search evolution, Xavier Grand, CTO at Algolia will explore how conversational AI agents bring new possibilities. Acting as domain experts, they can ask the right questions to unblock users. Through a live demo, you'll see how conversational discovery and traditional search can be blended together. Don't waste time searching, focus on finding.\n\ndotAI Tech Track organized by dotConferences at AI Day on February 10, 2026, at Station F.",
+      "published_at": "2026-02-17T13:58:46Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "ciu1rQjmnIA": {
+      "video_id": "ciu1rQjmnIA",
+      "title": "dotCSS 2019 - Roman Komarov - Utility of Inline Styles",
+      "duration_s": 271,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "cj07Fwzamy0": {
+      "video_id": "cj07Fwzamy0",
+      "title": "dotJS 2018 - Lauren Tan - Learning to Love Type Systems",
+      "duration_s": 1262,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ctNMf_qVXPg": {
+      "video_id": "ctNMf_qVXPg",
+      "title": "dotSwift 2020 - Erica Sadun - Property Wrappers",
+      "duration_s": 1077,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "d0D3d0ZM-rI": {
+      "video_id": "d0D3d0ZM-rI",
+      "title": "dotSecurity 2016 - Scott Helme - Content Security Policy: The application security Swiss Army Knife",
+      "duration_s": 1033,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "d1mPVcbBJl4": {
+      "video_id": "d1mPVcbBJl4",
+      "title": "dotSecurity 2016 - Jean-Baptiste Aviat - Application security from the inside",
+      "duration_s": 290,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "dAM8SPUOXNw": {
+      "video_id": "dAM8SPUOXNw",
+      "title": "dotScale 2018 - Preeti Vaidya - Data Cartography",
+      "duration_s": 1010,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "dFDbzYGnDm8": {
+      "video_id": "dFDbzYGnDm8",
+      "title": "dotSecurity 2017 - Ingrid Epure - Counter-spells and the art of keeping your application safe",
+      "duration_s": 1200,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "dHptnyroFNA": {
+      "video_id": "dHptnyroFNA",
+      "title": "dotJS 2018 - John Papa - Choosing Your JavaScript Framework",
+      "duration_s": 876,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "dPkQD1dczws": {
+      "video_id": "dPkQD1dczws",
+      "title": "dotGo 2019 - Valentin Deleplace - Semaphores",
+      "duration_s": 257,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "dluKlOPPllY": {
+      "video_id": "dluKlOPPllY",
+      "title": "dotSwift 2019 - Lea Marolt Sonnenschein - Making Table Views Great Again!",
+      "duration_s": 1100,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "dovZyy_hG54": {
+      "video_id": "dovZyy_hG54",
+      "title": "dotScale 2016 - Spencer Kimball - Distributed Transactions in CockroachDB",
+      "duration_s": 1252,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "e18uipMmEoo": {
+      "video_id": "e18uipMmEoo",
+      "title": "dotSwift 2018 - Ben Cohen - Extending the Standard Library",
+      "duration_s": 1193,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "e2kCyqAR05c": {
+      "video_id": "e2kCyqAR05c",
+      "title": "dotJS 2017 - Suz Hinton - New Tools for Old Problems",
+      "duration_s": 1144,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "eExr8xIU9k0": {
+      "video_id": "eExr8xIU9k0",
+      "title": "dotSwift 2017 - Michele Titolo - Generics in Theory and Practice",
+      "duration_s": 972,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ePhHFtAOi6A": {
+      "video_id": "ePhHFtAOi6A",
+      "title": "dotSecurity 2017 - Tanja Lange - Post-Quantum Cryptography",
+      "duration_s": 1141,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "eSxXmnmjYZk": {
+      "video_id": "eSxXmnmjYZk",
+      "title": "dotSwift 2019 - Daniel Jalkut - Just Enough Objective-C",
+      "duration_s": 1158,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "eqZqx6lRPe0": {
+      "video_id": "eqZqx6lRPe0",
+      "title": "dotCSS 2018 - David DeSandro - Read color hex codes",
+      "duration_s": 1070,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "f202h-2tecs": {
+      "video_id": "f202h-2tecs",
+      "title": "dotScale 2018 - Enrico Signoretti - Nano-node: Intelligent Hard Drives in Large Storage Infra",
+      "duration_s": 353,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "f9DV0CRopJk": {
+      "video_id": "f9DV0CRopJk",
+      "title": "dotCSS 2018 - Fabien Zibi - Don't write HTML the way George Lucas wrote Star Wars",
+      "duration_s": 168,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "fFXUleBpUCc": {
+      "video_id": "fFXUleBpUCc",
+      "title": "dotJS 2017 - Matthieu Lux - A few things to know about SSR",
+      "duration_s": 247,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "fNUx4jHTaIc": {
+      "video_id": "fNUx4jHTaIc",
+      "title": "dotGo 2016 - Péter Szilágyi - Immutability in Go: Post mortem from a DoS-ed blockchain",
+      "duration_s": 1158,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "fOXHvFfXsI8": {
+      "video_id": "fOXHvFfXsI8",
+      "title": "dotJS 2019 - Charlie Gerard - Exploring the hidden potential of sound data",
+      "duration_s": 1190,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "fb_1cqg8TKc": {
+      "video_id": "fb_1cqg8TKc",
+      "title": "dotJS 2016 - Christophe Porteneuve - Tuning Babel to your runtimes",
+      "duration_s": 1071,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "fcyHqDwGchI": {
+      "video_id": "fcyHqDwGchI",
+      "title": "dotGo 2019 - Ignat Korchagin - Go as a scripting language in Linux",
+      "duration_s": 884,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ffA1VwdGV1E": {
+      "video_id": "ffA1VwdGV1E",
+      "title": "dotJS 2019 - Christian Gill - Modeling your way to consistency",
+      "duration_s": 279,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "g72SAF4KOH0": {
+      "video_id": "g72SAF4KOH0",
+      "title": "dotAI 2018 - Jim Dowling - All AI Roads Lead to Distribution",
+      "duration_s": 1002,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "g92XUzc1OHY": {
+      "video_id": "g92XUzc1OHY",
+      "title": "dotJS 2024 - Lea Verou - API design is UI design",
+      "duration_s": 1562,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "gHCtEjzZ-rY": {
+      "video_id": "gHCtEjzZ-rY",
+      "title": "dotGo 2016 - John Cinnamond - A Look at the Criticism of Go",
+      "duration_s": 269,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "gX4F9wEnlvI": {
+      "video_id": "gX4F9wEnlvI",
+      "title": "dotAI 2024 - Sneak Peek",
+      "duration_s": 22,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "grRH8e46Pso": {
+      "video_id": "grRH8e46Pso",
+      "title": "dotJS 2024 - Minko Gechev - Converging Web Frameworks",
+      "duration_s": 1187,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "h1_nyI3z8gI": {
+      "video_id": "h1_nyI3z8gI",
+      "title": "dotCSS 2019 - Hakim El Hattab - What breaking interfaces taught me about building better interfaces",
+      "duration_s": 1087,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "h4z7VZY34p0": {
+      "video_id": "h4z7VZY34p0",
+      "title": "dotSwift 2018 - Guy Daher - Supporting Objective-C in a Swift codebase",
+      "duration_s": 234,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "hCenHYqE7R4": {
+      "video_id": "hCenHYqE7R4",
+      "title": "dotJS 2019 - Daniel Ehrenberg - TC39: How we work, what we are working on & how you can get involved",
+      "duration_s": 1276,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "hLHITkWb77s": {
+      "video_id": "hLHITkWb77s",
+      "title": "dotAI 2024 - Steeve Morin - ZML: ML framework for Zig",
+      "duration_s": 781,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "hLT8uYsqTWg": {
+      "video_id": "hLT8uYsqTWg",
+      "title": "dotSecurity 2017 - Nick Sullivan - Encryption vs. Inspection",
+      "duration_s": 1002,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "hnTk1dHH7co": {
+      "video_id": "hnTk1dHH7co",
+      "title": "dotSecurity 2017 - Mikko Hypponen - The Digital Battle",
+      "duration_s": 1245,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "hnWnKIZmPyA": {
+      "video_id": "hnWnKIZmPyA",
+      "title": "dotScale 2018 - Lucas Nussbaum - Distributions and package management in the containers era",
+      "duration_s": 1049,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "hqqryo5VQyc": {
+      "video_id": "hqqryo5VQyc",
+      "title": "dotSecurity 2017 - Paul Mockapetris - Names and Security",
+      "duration_s": 1165,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "huwM-amMGnM": {
+      "video_id": "huwM-amMGnM",
+      "title": "dotScale 2016 - Eliot Horowitz - The Case for Cross-Service Joins",
+      "duration_s": 1099,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "iLDldae64xE": {
+      "video_id": "iLDldae64xE",
+      "title": "dotSwift 2019 - Johannes Weiss - High-performance systems in Swift",
+      "duration_s": 1088,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "iPNNMAdOwl0": {
+      "video_id": "iPNNMAdOwl0",
+      "title": "dotCSS 2019 - Aurélien Levy - The double faces of CSS",
+      "duration_s": 976,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ia-wdEdMUIY": {
+      "video_id": "ia-wdEdMUIY",
+      "title": "dotScale 2016 - Benjamin Fernandes - Monitoring 101: How To Monitor at Scale",
+      "duration_s": 264,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "it14NaG5Tg0": {
+      "video_id": "it14NaG5Tg0",
+      "title": "A day at dotScale 2016",
+      "duration_s": 114,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "jEG4Qyo_4Bc": {
+      "video_id": "jEG4Qyo_4Bc",
+      "title": "dotGo 2016 - Damian Gryski - Slices: Performance through cache-friendliness",
+      "duration_s": 999,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "jPfBJo37qm0": {
+      "video_id": "jPfBJo37qm0",
+      "title": "dotScale 2016 - Dan Brown - Convergent Replicated Data Types, Part 2",
+      "duration_s": 312,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "jWaO3rsNZU0": {
+      "video_id": "jWaO3rsNZU0",
+      "title": "dotSwift 2018 - Peter Steinberger - Binary Frameworks in Swift",
+      "duration_s": 303,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "jZbXq5qu55U": {
+      "video_id": "jZbXq5qu55U",
+      "title": "Modern Day Mashups: How AI Agents are Reviving the Programmable Web - Angie Jones - dotJS 2025",
+      "duration_s": 1301,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "jiXnzkAzy30": {
+      "video_id": "jiXnzkAzy30",
+      "title": "dotGo 2019 - Daniel Martí - Optimizing Go code without a blindfold",
+      "duration_s": 837,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "juP9VApKy_I": {
+      "video_id": "juP9VApKy_I",
+      "title": "dotScale 2017 - Adrian Cole - Observability 3 ways: Logging, Metrics & Tracing",
+      "duration_s": 1102,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "k3goK4kgqj0": {
+      "video_id": "k3goK4kgqj0",
+      "title": "dotAI 2024 - Dr Laure Seugé and Arthur Talpaert - More empathy and health data protection in AI",
+      "duration_s": 899,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "kBtDHWrRZ3Q": {
+      "video_id": "kBtDHWrRZ3Q",
+      "title": "dotCSS 2018 - Dan Cederholm - What CSS taught me",
+      "duration_s": 1169,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "k_Hn5G9h5xU": {
+      "video_id": "k_Hn5G9h5xU",
+      "title": "dotAI 2024 - Eliot Andres - Training a foundation image model and deploying it to millions of users",
+      "duration_s": 1202,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ktroVuYEYgs": {
+      "video_id": "ktroVuYEYgs",
+      "title": "dotAI 2018 - Chloé-Agathe Azencott - Using structure to select features in high dimension",
+      "duration_s": 1038,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "kxn35uybdMA": {
+      "video_id": "kxn35uybdMA",
+      "title": "dotSwift 2019 - Vincent Pradeilles - The underestimated power of KeyPaths",
+      "duration_s": 269,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "l3qjQpYBR8c": {
+      "video_id": "l3qjQpYBR8c",
+      "title": "dotJS 2024 - Jessica Sachs - How to test web applications",
+      "duration_s": 1303,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "lIG3S37YWpE": {
+      "video_id": "lIG3S37YWpE",
+      "title": "dotScale 2017 - Eran Chetzroni - Use Multiple Cloud Platforms to Increase Profit",
+      "duration_s": 257,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "lO-UfHASUSE": {
+      "video_id": "lO-UfHASUSE",
+      "title": "dotScale 2018 - Marc Shapiro - Just-Right Consistency",
+      "duration_s": 1041,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "lcyNjgEG9H8": {
+      "video_id": "lcyNjgEG9H8",
+      "title": "dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go",
+      "duration_s": 1056,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "luAqYCd_TC8": {
+      "video_id": "luAqYCd_TC8",
+      "title": "dotCSS 2018 - Mandy Michael - Variable Fonts and the Future of Web Design",
+      "duration_s": 1157,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "m4t7cLFksls": {
+      "video_id": "m4t7cLFksls",
+      "title": "dotJS 2019 - Chris Heilmann - Develop, Debug, Learn?",
+      "duration_s": 1123,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "m8yN9q_EpQ4": {
+      "video_id": "m8yN9q_EpQ4",
+      "title": "dotSwift 2017 - Hugues Bernet-Rollande - IoT and iOS - Lessons Learned",
+      "duration_s": 277,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "mRc5Dz6ymxs": {
+      "video_id": "mRc5Dz6ymxs",
+      "title": "dotCSS 2018 - Hugues Tennier - Make your website accessible for everyone",
+      "duration_s": 271,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "mmqDlbWk_XA": {
+      "video_id": "mmqDlbWk_XA",
+      "title": "dotGo 2016 - Rhys Hiltner - Go's execution tracer",
+      "duration_s": 1000,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "mqYdgTaY03M": {
+      "video_id": "mqYdgTaY03M",
+      "title": "dotCSS 2019 - David Khourshid - Crafting Stateful Styles",
+      "duration_s": 1106,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "mt2v2DX5Tno": {
+      "video_id": "mt2v2DX5Tno",
+      "title": "Coding and ADHD: Where We Excel - Abbey Perini - dotJS 2025",
+      "duration_s": 560,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "n462RhDhbK8": {
+      "video_id": "n462RhDhbK8",
+      "title": "dotAI 2024 - Merve Noyan - Gain full control of your apps with Open-Source AI",
+      "duration_s": 1493,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "n8Of4JBDhQ8": {
+      "video_id": "n8Of4JBDhQ8",
+      "title": "Clarke's third law in action: having fun ES proxies - Christophe Porteneuve - dotJS 2025",
+      "duration_s": 1128,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "nOulIumXoSs": {
+      "video_id": "nOulIumXoSs",
+      "title": "dotJS 2017 - Rafael Silva - Processing Images using the Web Audio API",
+      "duration_s": 254,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "nU_WaPpnlZA": {
+      "video_id": "nU_WaPpnlZA",
+      "title": "dotAI 2024 - Gael Varoquaux - Skrub: Less data wrangling, more machine learning",
+      "duration_s": 1136,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "nfmXdYzMqEI": {
+      "video_id": "nfmXdYzMqEI",
+      "title": "dotAI 2024 - Clara Chappaz - Message from the Secretary of State for AI and Digital Affairs",
+      "duration_s": 669,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "nhmAyZNlECw": {
+      "video_id": "nhmAyZNlECw",
+      "title": "dotGo 2016 - Kelsey Hightower - Self Deploying Go Applications",
+      "duration_s": 1019,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "nocstzp73Fk": {
+      "video_id": "nocstzp73Fk",
+      "title": "dotCSS 2019 - Ire Aderinokun - Writing CSS in the year 3019",
+      "duration_s": 902,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "oER6x5QLZBs": {
+      "video_id": "oER6x5QLZBs",
+      "title": "dotJS 2017 - Stas Vilchik - Make your TypeScript compiler smarter!",
+      "duration_s": 257,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "onE37GZrQaI": {
+      "video_id": "onE37GZrQaI",
+      "title": "dotJS 2019 - Andrew Desmarais - Testing native js web components",
+      "duration_s": 232,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "osVHH7rjpxs": {
+      "video_id": "osVHH7rjpxs",
+      "title": "dotGo 2019 - Johan Brandhorst - Get Going With WebAssembly",
+      "duration_s": 1079,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "pLdpxoT6v8A": {
+      "video_id": "pLdpxoT6v8A",
+      "title": "dotGo 2015 - Verónica López - Beyond the Distributed System",
+      "duration_s": 1013,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "pN_lm6QqHcw": {
+      "video_id": "pN_lm6QqHcw",
+      "title": "dotGo 2019 - Dave Cheney - Constant Time",
+      "duration_s": 1019,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "pRJ1oW1gDFc": {
+      "video_id": "pRJ1oW1gDFc",
+      "title": "dotScale 2017 - Mitchell Hashimoto - Scaling Security",
+      "duration_s": 1109,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "pnFA178yDdc": {
+      "video_id": "pnFA178yDdc",
+      "title": "dotJS 2019 - Bertrand Chevrier - Svelte",
+      "duration_s": 254,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "puXyo1jGQys": {
+      "video_id": "puXyo1jGQys",
+      "title": "dotJS 2019 - Bert Belder - Deno",
+      "duration_s": 1121,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "puh91fohvTA": {
+      "video_id": "puh91fohvTA",
+      "title": "Agents for production engineering - Alex Palcuie - Anthropic",
+      "duration_s": 1379,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Alex Palcuie?\n\nAlex Palcuie is a Member of Technical Staff in Anthropic's AI Reliability Engineering team, focusing on making Claude more reliable through his work on the production inference stack.\n\nPreviously, he spent 8 years at Google as a Staff Site Reliability Engineer on Google Compute Engine, most recently working to accelerate the delivery of AI accelerators to customers.",
+      "published_at": "2025-11-14T14:16:05Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "qAVyDK8SKW4": {
+      "video_id": "qAVyDK8SKW4",
+      "title": "Live coding with Ryan Dahl: Deno and OpenTelemetry - dotJS 2025",
+      "duration_s": 1174,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "qDevZETe8OE": {
+      "video_id": "qDevZETe8OE",
+      "title": "dotJS 2018 - Tobias Ahlin - Adding JavaScript to Minecraft",
+      "duration_s": 1110,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "qHZGxhMMKCQ": {
+      "video_id": "qHZGxhMMKCQ",
+      "title": "dotJS 2016 - Sébastien Chopin - Nuxt.js: Universal Vue.js Applications",
+      "duration_s": 261,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "qNLCTBO3mec": {
+      "video_id": "qNLCTBO3mec",
+      "title": "dotJS 2015 - Christophe Porteneuve - Modern Asynchronous JavaScript",
+      "duration_s": 1493,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "r-1hXDvOoHA": {
+      "video_id": "r-1hXDvOoHA",
+      "title": "dotJS 2018 - Kurt Mackey - Building a JavaScript runtime",
+      "duration_s": 811,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "r4jMunPhwzw": {
+      "video_id": "r4jMunPhwzw",
+      "title": "dotScale 2018 - Mike Freedman - Three heretical opinions about the future of time-series data",
+      "duration_s": 316,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "r4pNEdIt_l4": {
+      "video_id": "r4pNEdIt_l4",
+      "title": "dotJS 2016 - Evan You - Reactivity in Frontend JavaScript Frameworks",
+      "duration_s": 1126,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "r5PLrAoyhv0": {
+      "video_id": "r5PLrAoyhv0",
+      "title": "dotCSS 2018 - Florian Rivoal - Line breaking",
+      "duration_s": 1121,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "rACS3R8mqM0": {
+      "video_id": "rACS3R8mqM0",
+      "title": "dotJS 2019 - Sara Vieira - The complexity in simplicity",
+      "duration_s": 1134,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "rKWHS2cfcAw": {
+      "video_id": "rKWHS2cfcAw",
+      "title": "dotJS 2016 - Zeke Sikelianos - Navigating JavaScript Userland",
+      "duration_s": 1117,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "s1J4T1NW3qo": {
+      "video_id": "s1J4T1NW3qo",
+      "title": "dotCSS 2017 - Jonathan Snook - Container Queries",
+      "duration_s": 1121,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "sCZUNfG0oUI": {
+      "video_id": "sCZUNfG0oUI",
+      "title": "dotGo 2015 - David Crawshaw - Living with C",
+      "duration_s": 901,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "scNCO81ZzvU": {
+      "video_id": "scNCO81ZzvU",
+      "title": "dotJS 2017 - Elena Vilchik - JavaScript: The Bad Parts",
+      "duration_s": 278,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "sgEv92XqdhM": {
+      "video_id": "sgEv92XqdhM",
+      "title": "dotSecurity 2016 - Mike West - Web Platform Security",
+      "duration_s": 1117,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "smqJzCrLwY4": {
+      "video_id": "smqJzCrLwY4",
+      "title": "dotAI 2024 - Armand Joulin - Improving open language models at a practical size",
+      "duration_s": 1073,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ssz02HMEoR0": {
+      "video_id": "ssz02HMEoR0",
+      "title": "dotSwift 2020 - Ishmael Shabazz - Integrating SwiftUI & UI Kit",
+      "duration_s": 842,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "tIQP73mmQ1g": {
+      "video_id": "tIQP73mmQ1g",
+      "title": "A day at dotJS 2018",
+      "duration_s": 118,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "tLyIs_0cUyc": {
+      "video_id": "tLyIs_0cUyc",
+      "title": "dotJS 2016 - Fedor Indutny - Memory Layout of V8's Heap",
+      "duration_s": 1064,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "tQwenFIYzUg": {
+      "video_id": "tQwenFIYzUg",
+      "title": "dotSwift 2017 - Dimitri Dupuis-Latour - “Subclassing Structs”",
+      "duration_s": 278,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "tWBPPDtk_d0": {
+      "video_id": "tWBPPDtk_d0",
+      "title": "dotGo 2019 - Jessica Frazelle - A dive into RISC-V",
+      "duration_s": 1005,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "tekmGLcKLlI": {
+      "video_id": "tekmGLcKLlI",
+      "title": "Aftermovie dotJS 2019",
+      "duration_s": 91,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "tmCLRj6o9XU": {
+      "video_id": "tmCLRj6o9XU",
+      "title": "dotJS 2017 - Tom Dale - Secrets of the DOM Virtual Machine",
+      "duration_s": 1217,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "txVeRpN_870": {
+      "video_id": "txVeRpN_870",
+      "title": "dotJS 2024 - Ben Lesh - Thinking About Your Code: Push vs Pull",
+      "duration_s": 1260,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "uT4hrWkbBxM": {
+      "video_id": "uT4hrWkbBxM",
+      "title": "dotSecurity 2016 - Anne Canteaut - The struggle for secure cryptography",
+      "duration_s": 1032,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ubpB4VQrBeE": {
+      "video_id": "ubpB4VQrBeE",
+      "title": "dotScale 2018 - Julio Faerman - Demonstrating your Architecture",
+      "duration_s": 1055,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ujdg2PwIhVc": {
+      "video_id": "ujdg2PwIhVc",
+      "title": "LLMs as constrained generators - Fabien Potencier - Upsun",
+      "duration_s": 622,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Fabien Potencier?\n\nFabien is currently the Chief Technology Officer of Platform.sh. He discovered the web in 1994, at a time when connecting to the Internet was still associated with the harmful strident sounds of a modem. A passionate serial entrepreneur and developer, Fabien founded Sensio in 1998, Symfony in 2005, SensioLabs in 2012, and Blackfire.io in 2018. He is also the creator of several open source projects like Symfony and Twig.",
+      "published_at": "2025-11-14T14:16:07Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "uyifh6F_7WM": {
+      "video_id": "uyifh6F_7WM",
+      "title": "dotGo 2019 - Bryan Boreham - Go Tune Your Memory",
+      "duration_s": 1132,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vF6mKEttj4Q": {
+      "video_id": "vF6mKEttj4Q",
+      "title": "dotAI 2017 - Laurent Smadja - AI Trends in Intelligent Transport Systems",
+      "duration_s": 1136,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vKbVrsMnhDc": {
+      "video_id": "vKbVrsMnhDc",
+      "title": "dotGo 2019 - Kat Zień - Achieving maintainability with hexagonal architecture",
+      "duration_s": 1109,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vLxX3yZmw5Q": {
+      "video_id": "vLxX3yZmw5Q",
+      "title": "dotGo 2016 - Robert Griesemer - Prototype your design!",
+      "duration_s": 1095,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vTHRHWIacI0": {
+      "video_id": "vTHRHWIacI0",
+      "title": "dotJS 2015 - Mathias Buus - Hyperdrive, a P2P filesharing network",
+      "duration_s": 1100,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vZq09zB0sfU": {
+      "video_id": "vZq09zB0sfU",
+      "title": "dotSwift 2019 - Janina Kutyn - CATransform3D: You don't need to know them",
+      "duration_s": 284,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vwpdcMsccIY": {
+      "video_id": "vwpdcMsccIY",
+      "title": "dotSwift 2017 - Marin Todorov - RxSwift on iOS",
+      "duration_s": 1117,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "vxZpQh6Ymdo": {
+      "video_id": "vxZpQh6Ymdo",
+      "title": "dotAI 2024 - Yann Léger - Serverless inferencing: an infrastructure point of view",
+      "duration_s": 1148,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "wBTGd_dvnO8": {
+      "video_id": "wBTGd_dvnO8",
+      "title": "dotGo 2017 - sam boyer - The Functional Design of Dep",
+      "duration_s": 1159,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "wBv1CFphR5k": {
+      "video_id": "wBv1CFphR5k",
+      "title": "dotScale 2015 - Matthieu Nantern - Leader election with Cassandra",
+      "duration_s": 231,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "wD3zieaV0Yc": {
+      "video_id": "wD3zieaV0Yc",
+      "title": "BAML: a new programming language for AI - Vaibhav Gupta",
+      "duration_s": 1142,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Vaibhav Gupta?\n\nVaibhav is the Founder of Boundary, a Y Combinator startup developing a new programming language (BAML) that makes LLMs both easier and more efficient for developers.\n\nAcross nearly a decade in software engineering, Vaibhav has built predictive pipelines at D. E. Shaw, Google, and Microsoft HoloLens.",
+      "published_at": "2025-11-14T14:16:07Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "wELfUKnZ_mY": {
+      "video_id": "wELfUKnZ_mY",
+      "title": "dotGo 2017 - Laurent Lévêque - Exposing Go code to Android and Python",
+      "duration_s": 319,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "xBMYX7hVZKY": {
+      "video_id": "xBMYX7hVZKY",
+      "title": "dotCSS 2019 - Emily Plummer - CSS, Design Systems & Developer Experience",
+      "duration_s": 939,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "xH_UJL4NeL8": {
+      "video_id": "xH_UJL4NeL8",
+      "title": "Architecting autonomous pipelines - Nnenna Ndukwe - Qodo AI",
+      "duration_s": 669,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Talk presented at dotAI 2025: https://www.dotai.io/\n\nWho is Nnenna Ndukwe?\n\nNnenna is a Principal Developer Advocate focused on strategic AI integration into developer workflows and product features. With experience in software engineering, DevOps, and security, she champions holistic, intelligent systems for the future of engineering.\n\nShe has also built open-source Gen AI tools for engineers building AI-driven applications.",
+      "published_at": "2025-11-14T14:16:11Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "xJghcPs0ibQ": {
+      "video_id": "xJghcPs0ibQ",
+      "title": "dotScale 2017 - Marco Slot - Scaling out (Postgre)SQL",
+      "duration_s": 938,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "xZeuRolzlGY": {
+      "video_id": "xZeuRolzlGY",
+      "title": "dotSwift 2020 - Thomas Ricouard - SwiftUI Data Flow with Redux",
+      "duration_s": 193,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "xasA9EUop_w": {
+      "video_id": "xasA9EUop_w",
+      "title": "dotAI 2017 - Mathias Ortner - Deep learning for Space imagery applications",
+      "duration_s": 1074,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "xwlo3xigknI": {
+      "video_id": "xwlo3xigknI",
+      "title": "dotGo 2017 - Cindy Sridharan - Unmasking netpoll.go",
+      "duration_s": 1057,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "yG-ICt-qKaw": {
+      "video_id": "yG-ICt-qKaw",
+      "title": "dotJS 2024 - Bassel Ghandour - Adding Undo/Redo to Complex Web Apps",
+      "duration_s": 307,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "yJrDllXI8ok": {
+      "video_id": "yJrDllXI8ok",
+      "title": "dotGo 2016 - Javier Provecho Fernández - Building smaller Go binaries",
+      "duration_s": 281,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "yX9JZ8KUO5I": {
+      "video_id": "yX9JZ8KUO5I",
+      "title": "dotAI 2024 - Johannes Dienst - The RAod to intent-driven automation",
+      "duration_s": 473,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "yYkDLyahTV8": {
+      "video_id": "yYkDLyahTV8",
+      "title": "dotJS 2024 - Ruby Jane Cabagnot - Embracing Reactivity: Signals Unveiled in Modern Web Frameworks",
+      "duration_s": 352,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "ybVK7cd3TqQ": {
+      "video_id": "ybVK7cd3TqQ",
+      "title": "dotScale 2018 - David Gageot - Istio, understanding and fixing bugs with a service-mesh",
+      "duration_s": 1164,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "yrzL14tNXDM": {
+      "video_id": "yrzL14tNXDM",
+      "title": "dotSecurity - Jacob Kaplan-Moss - Implementing Multi-factor Authentication",
+      "duration_s": 1034,
+      "channel": "dotconferences",
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos",
+      "description": "Filmed at http://2016.dotsecurity.io on April 22nd in Paris. More talks on http://thedotpost.com\n\nMFA is an incredibly effective security control, but the landscape is complicated and it can be hard to know how to implement MFA. Jacob breaks down the options and provides specific guidance on a couple of implementation options.",
+      "published_at": "2016-06-03T10:15:14Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:20+00:00"
+    },
+    "ywfYMQD6yYk": {
+      "video_id": "ywfYMQD6yYk",
+      "title": "dotAI 2018 - Aurelien Geron - Knowledge Graphs & Deep Learning at YouTube",
+      "duration_s": 1153,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "zDCKZn4-dck": {
+      "video_id": "zDCKZn4-dck",
+      "title": "dotGo 2017 - Bill Kennedy - Behavior Of Channels",
+      "duration_s": 767,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "zTI1HAWDHIg": {
+      "video_id": "zTI1HAWDHIg",
+      "title": "dotScale 2017 - David Mazières - Internet-level consensus is practical",
+      "duration_s": 1155,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    },
+    "zdm_u19MU50": {
+      "video_id": "zdm_u19MU50",
+      "title": "dotAI 2018 - Eliot Andres - Processing 100+ million images per month with deep learning",
+      "duration_s": 257,
+      "channel": null,
+      "label": "dot conferences",
+      "year": null,
+      "source_url": "https://www.youtube.com/@dotconferences/videos"
+    }
+  }
+}

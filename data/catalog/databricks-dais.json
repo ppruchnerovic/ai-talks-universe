@@ -1,0 +1,1795 @@
+{
+  "slug": "databricks-dais",
+  "name": "Databricks Data + AI Summit",
+  "enumerated_at": "2026-08-30T21:49:00+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "count": 35
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "count": 138
+    }
+  ],
+  "count": 173,
+  "videos": {
+    "0WDGu-IPmZM": {
+      "video_id": "0WDGu-IPmZM",
+      "title": "Unlocking agentic data engineering with Lakeflow + Genie",
+      "duration_s": 1063,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Data engineering is a messy process, and the growth of AI apps and agents is adding more complexity. The data that AI needs is stored all over the enterprise. \n\nPreviously, companies had to rely on brittle, expensive pipelines to move this information. But Lakeflow make it easy to turn raw data stored in these systems into insights and action. \n\nAt the 2026 Data + AI Summit, Bilal Aslam, Sr. Director of Product Management at Databricks, shared updates to Lakeflow and introduced Genie ZeroOps, an AI agents for data and AI operations. \n\nLearn more: https://www.databricks.com/blog/introducing-genie-zeroops\n\n00:00 —Data engineering and the \"messy middle\"\n02:21 — Simpliyfing the data stack \n03:18 — Building an open data foundation for AI with Lakeflow\n04:50 — Now available: Lakeflow Designer \n05:40 — Lakeflow Connect's growing ecosystem \n06:18 — Ditching Kafka with Zerobus Ingest \n06:57 — Updates to Lakeflow Jobs \n08:47 — Challenges to using AI in data operations\n12:34 — Introducing Genie ZeroOps with live demo\n17:23 — What Genie ZeroOps means for data engineers \n\nPresenters:\nBilal Aslam, Sr. Director of Product Management, Databricks",
+      "published_at": "2026-06-23T23:29:39Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "0X6kJzX-CgA": {
+      "video_id": "0X6kJzX-CgA",
+      "title": "Building Tool-Calling Agents With Databricks Agent Framework and MCP",
+      "duration_s": 1769,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "0ucBETm6rDE": {
+      "video_id": "0ucBETm6rDE",
+      "title": "Empowering Fundraising With AI: A Journey With Databricks Mosaic AI",
+      "duration_s": 1119,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "11wkIH8ktrc": {
+      "video_id": "11wkIH8ktrc",
+      "title": "Deploying a GenAI Agent using Databricks Mosaic AI, Anthropic, LangGraph, and Amazon Bedrock",
+      "duration_s": 1418,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "19nQxHcWDg0": {
+      "video_id": "19nQxHcWDg0",
+      "title": "LTAP: The first Lake Transactional/Analytical Processing architecture | Demo",
+      "duration_s": 427,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "LTAP unifies OLAP and OLTP on a single copy of data without expensive and time-consuming data engineering work, creating a single source of truth for all operational, analytical, and streaming data. \n\nMore details: https://www.databricks.com/company/newsroom/press-releases/databricks-launches-ltap-first-lake-transactionalanalytical\n\nPresenters:\nHolly Smith, Developer Relations, Databricks",
+      "published_at": "2026-06-23T23:54:25Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "1XL-6bevDlc": {
+      "video_id": "1XL-6bevDlc",
+      "title": "Genie Code for machine learning brings agentic development to ML workflows #databricks",
+      "duration_s": 41,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Mike Del Balso, Databricks Director of Product Management, introduces Genie Code for machine learning – new, extended support for the entire ML lifecycle.\n\nGenie Code is now natively integrated with the complete Databricks ML stack, including feature engineering, model training, serving, and monitoring.",
+      "published_at": "2026-06-22T20:41:34Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "1lZiIWNKD_8": {
+      "video_id": "1lZiIWNKD_8",
+      "title": "Low-Emission Oil & Gas: Engineering the Balance Between Clean and Reliable",
+      "duration_s": 2171,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "1maUiqkel_Q": {
+      "video_id": "1maUiqkel_Q",
+      "title": "Scaling XGBoost With Spark Connect ML on Grace Blackwell",
+      "duration_s": 2173,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "2J3iSuxx4IA": {
+      "video_id": "2J3iSuxx4IA",
+      "title": "Sponsored by: Accenture & Avanade | Enterprise Scaling and Value of Generative AI and Agentic AI",
+      "duration_s": 2891,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "3GhVeYY3Bmo": {
+      "video_id": "3GhVeYY3Bmo",
+      "title": "Defending against a tidal wave of AI attacks with Lakewatch, the agentic security Lakehouse",
+      "duration_s": 1160,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Lakewatch is the agentic SIEM built for machine speed defense.\n\nNow, just about anyone with access to an LLM can put on an attack with a scale and speed that was previously unimaginable. The only way we can defend against this is if security teams and data teams work together. \n\nMeet the scale and speed agentic threats with Lakewatch, the agentic security lakehouse. \n\n00:00 — A tidal wave of agentic attacks \n02:29 — Bringing security and data teams together \n03:53 — The trouble with legacy SIEM sytems\n06:06 — Why existing tools fail in the agentic era \n06:41 — Introducing Lakewatch \n08:24 — Live demo: Lakewatch\n18:11 — How Adobe uses Lakewatch\n\nPresenters:\nAndrew Krioukov, GM of Lakewatch, Databricks",
+      "published_at": "2026-06-24T23:02:05Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "3TKGBYveTIA": {
+      "video_id": "3TKGBYveTIA",
+      "title": "Entity Resolution for the Best Outcomes on Your Data",
+      "duration_s": 2231,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "3Xv0VjYhpCk": {
+      "video_id": "3Xv0VjYhpCk",
+      "title": "Introducing Omnigent: an open meta-harness – Matei Zaharia, Co-founder and CTO, Databricks",
+      "duration_s": 1422,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Introducing Omnigent: A Meta-Harness for AI Agents\n\nOmnigent makes AI agents interoperable, so sessions, policies, and skills stay with users regardless of where the agent or model is running. \n\nLearn more about Omnigent: https://www.databricks.com/blog/introducing-omnigent-meta-harness-combine-control-and-share-your-agents\n\n00:00 — Why the agentic stack needs a new layer \n01:55 — What's an AI agent harness? \n02:40 — The problem with too many harnesses \n03:40 — The interoperablity hurdle\n07:52 — Introducing Omnigent \n10:19 — Composition, collaboration, and control \n12:06 — Matei demos Omnigent \n22:03 — Why open source Omnigent? \n\nPresenters:\nMatei Zaharia, Co-founder and CTO, Databricks",
+      "published_at": "2026-06-24T19:04:58Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "3ovMkLlrjRI": {
+      "video_id": "3ovMkLlrjRI",
+      "title": "Beyond AI Accuracy: Building Trustworthy and Responsible AI Application Through Mosaic AI Framework",
+      "duration_s": 2205,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "4htsRGceTa0": {
+      "video_id": "4htsRGceTa0",
+      "title": "32k people at Databricks Data + AI Summit 2026",
+      "duration_s": 80,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Databricks Data + AI Summit is four days of innovation featuring the latest technologies and strategies for building agents, apps, lakehouse architecture, AI/ML at scale. \n\nJoin thousands of your peers for 800+ sessions, demo packed keynotes and training at the world’s largest data, analytics and AI conference.\n\nAttend to gain practical technical insights and real-world examples of how organizations are driving transformation with data and AI.\n\nIf you missed the conference, catch the sessions on-demand. \nBrowse sessions: https://www.databricks.com/dataaisummit/",
+      "published_at": "2026-06-24T03:50:59Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "59EJQjd2csc": {
+      "video_id": "59EJQjd2csc",
+      "title": "TAO and Reinforcement Learning: Building AI With the Data You Have",
+      "duration_s": 2149,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "5KbP0Mdknws": {
+      "video_id": "5KbP0Mdknws",
+      "title": "The Future of Domain-Specific AI: Building Effective Agents for Specialized Applications",
+      "duration_s": 2310,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "5Knrka-uars": {
+      "video_id": "5Knrka-uars",
+      "title": "Databricks + Panther: advancing the security lakehouse",
+      "duration_s": 277,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Databricks has agreed to acquire Panther, a leading AI SOC platform, to accelerate the security lakehouse.\n\nReynold Xin, Co-founder and Chief Architect of Databricks, and Jack Naglieri, Founder and CEO of Panther, discuss the rise of AI-driven security attacks, which require a new type of agentic SIEM to combat.\n\nLakewatch, an agentic security lakehouse, is designed to defend against increasingly sophisticated agent-driven attackers. Lakewatch unifies security, IT, and business data into a governed lakehouse for agentic detection and response. Adding Panther accelerates Databricks’ security lakehouse vision.",
+      "published_at": "2026-06-25T00:32:10Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "5c0sUNhX2FE": {
+      "video_id": "5c0sUNhX2FE",
+      "title": "Databricks on Databricks: Transforming the Sales Experience using GenAI Agents at Scale",
+      "duration_s": 1985,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "5dIED63mA6Q": {
+      "video_id": "5dIED63mA6Q",
+      "title": "Scaling GenAI Inference From Prototype to Production: Real-World Lessons in Speed & Cost",
+      "duration_s": 1154,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "67Rjht678_g": {
+      "video_id": "67Rjht678_g",
+      "title": "What it takes to scale agents in the enterprise: context, control and choice",
+      "duration_s": 606,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Databricks Co-founder and CEO Ali Ghodsi recaps how the Databricks platform solves the biggest challenges to AI adoption and previewing what's ahead of for Day 2 of Data + AI Summit. \n\nWatch on demand: https://www.databricks.com/dataaisummit \n\nDatabricks product launches from Data + AI Summit 2026:\n• CustomerLake \n• Genie One \n• Genie Agents\n• Genie App Builder\n• Genie ZeroOps\n• Lakehouse//RT\n• LTAP (Transactional/Analytical Processing)\n• OpenSharing SecureConnect\n\nPresenter:\nAli Ghodsi, Co-Founder and CEO, Databricks\n\nConnect with us: Website: https://databricks.com\nConnect with us:\nLinkedIn: https://www.linkedin.com/company/databricks/\nInstagram: https://www.instagram.com/databricksinc/\nX: https://x.com/databricks",
+      "published_at": "2026-06-24T18:49:12Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "6UqyS_t_KVY": {
+      "video_id": "6UqyS_t_KVY",
+      "title": "Beyond the Privacy-Utility Tradeoff: Differential Privacy in Tabular Data Synthesis",
+      "duration_s": 1161,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "6W3BnCgoYVA": {
+      "video_id": "6W3BnCgoYVA",
+      "title": "Introducing Genie One: the AI coworker that understands your data (with demo)",
+      "duration_s": 1339,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Introducing Genie One, the data-smart AI worker. \n\nGenie One goes beyond just answering questions. The newest member of the Genie suite of products, Genie One is an actual agentic co-worker that can produce documents, reports, and artifacts. \n\nIt's powered by Genie Ontology, a new self-improving context layer that extracts information from across all a company's data — inside and outside of Databricks — for trusted answers and actions. Genie One helps marketing, finance, sales, and other teams automate and orchestrate work. \n\nLearn more: https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents\n\n00:00 — Introducing Genie One \n00:42— Why AI agents struggle today \n05:16 —  How the \"agentic loop\" impacts accuracy, cost, and runtime\n07:10 — Introducing Genie Ontology\n09:31 — Benchmarking Genie One against other leading AI cowork agents \n10:21 — Demo of Genie One and Genie Ontology with Elise Georis, Senior Manager, Product Management, Databricks \n17:32 — The shift to proactive AI coworker \n19:08 — Genie One's custom MCP tools, skills, and connectors \n19:51 — How Warner Music Group, General Motors and Foot Locker use Genie\n20:24 — New Genie One availablity on Slack, Teams and mobile devices \n\nPresenters:\nKen Wong, Senior Director, Product Management, Databricks \nElise Georis, Senior Manager, Product Management, Databricks",
+      "published_at": "2026-06-23T23:14:45Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "6YTY3Memhgc": {
+      "video_id": "6YTY3Memhgc",
+      "title": "Retooling Intelligence: Build Scalable, Secure AI Agents for the Enterprise with Databricks + Retool",
+      "duration_s": 1068,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "6YYM9tkIqn8": {
+      "video_id": "6YYM9tkIqn8",
+      "title": "GenAI for SQL & ETL: Build Multimodal AI Workflows at Scale",
+      "duration_s": 2084,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "6o9XtJM1hYw": {
+      "video_id": "6o9XtJM1hYw",
+      "title": "MLOps With Databricks",
+      "duration_s": 901,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "6rglKIqKFhg": {
+      "video_id": "6rglKIqKFhg",
+      "title": "How PepsiCo goes from dashboards to outcomes and deep research with Genie",
+      "duration_s": 449,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "At the 2026 Data + AI Summit, Magesh Bagavathi, Chief Data & AI Officer at PepsiCo, shared how his team is driving AI transformation with Databricks.\n\nBagavathi spoke with Arsalan Tavakoli-Shiraji, Co-founder and SVP, Field Engineering at Databricks, about how his team is working towards agentifying PepsiCo. PepsiCo leveraged Genie for AI-driven procurement initiatives and plans to expand this use case across all parts of the company.",
+      "published_at": "2026-06-23T20:29:04Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "7_d7iyFar2U": {
+      "video_id": "7_d7iyFar2U",
+      "title": "Unlock Agentic AI for Insurance With Deloitte & Databricks",
+      "duration_s": 900,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "7iX5O3n7gN8": {
+      "video_id": "7iX5O3n7gN8",
+      "title": "Patients Are Waiting...Accelerating Healthcare Innovation with Data, AI and Agents",
+      "duration_s": 2447,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "9C-iZqa3ORc": {
+      "video_id": "9C-iZqa3ORc",
+      "title": "Building and Scaling Production AI Systems With Mosaic AI",
+      "duration_s": 2580,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "9D7o0PjlAoM": {
+      "video_id": "9D7o0PjlAoM",
+      "title": "Fueling Efficiency: How Pilot Uses Vector Stores, Data Quality, and GenAI to Deliver Business Value",
+      "duration_s": 927,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "9lu59ZpS5M8": {
+      "video_id": "9lu59ZpS5M8",
+      "title": "The AI Regulation Dilemma: Spur Innovation, or Guardrails? — Where Are We and the Impact of Trump 2",
+      "duration_s": 1642,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "9tMcSyp8Bl8": {
+      "video_id": "9tMcSyp8Bl8",
+      "title": "Traditional ML at Scale: Implementing Classical Techniques With Databricks Mosaic AI",
+      "duration_s": 2461,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Ad2q3GYUYdk": {
+      "video_id": "Ad2q3GYUYdk",
+      "title": "Achieve Your Mission With AI-Driven Decisions",
+      "duration_s": 2543,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Arxio8mNZvQ": {
+      "video_id": "Arxio8mNZvQ",
+      "title": "Lakehouse to Powerhouse: Reckitt's Enterprise AI Transformation Story",
+      "duration_s": 2169,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "C1rEj2VQtwU": {
+      "video_id": "C1rEj2VQtwU",
+      "title": "Agentic machine learning with Genie Code (includes demo)",
+      "duration_s": 1392,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Genie Code now comes with upgraded intelligence for ML engineering and native integrations across every Databricks ML Platform component: feature engineering, model training, serving, and monitoring.\n\nLearn more: https://www.databricks.com/blog/whats-new-ai-platform-agents-ml-engineering-our-deep-learning-platform-and-new-capabilities\n\n00:00 — Mike Del Balso, Director, Product Management, Databricks\n01:12 — The hidden tech debt of ML systems\n03:43 — AI agents are the the only way to automate ML\n04:44 — Agent-ready infrastructure with Databricks \n07:46 — Introducing AI Runtime\n08:55 — Driving the agent loop with context \n09:19 — Introducing Genie Code for ML \n13:29 — The looming AI maintenance burden \n14:26 — Introducing Genie ZeroOps for ML \n15:49 — Justin introduces Amber Roberts, Staff Tech Marketing Engineer, Databricks\n16:08 — Amber demos Genie ZeroOps for ML \n21:47 — Mike wraps up\n\nPresenters:\nMike Del Balso, Director, Product Management, Databricks\nAmber Roberts, Staff Tech Marketing Engineer, Databricks",
+      "published_at": "2026-06-24T22:43:59Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "D62kCKnunb4": {
+      "video_id": "D62kCKnunb4",
+      "title": "Sponsored by: Neo4j | Get Your Data AI-Ready: Knowledge Graphs & GraphRAG for GenAI Success",
+      "duration_s": 943,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "DN-fR7OaOjM": {
+      "video_id": "DN-fR7OaOjM",
+      "title": "Future of Anti-Cheat With Riot Games",
+      "duration_s": 2502,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Dqx1tJ_PsAA": {
+      "video_id": "Dqx1tJ_PsAA",
+      "title": "Harnessing Databricks for Advanced LLM Time-Series Models in Healthcare Forecasting",
+      "duration_s": 693,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "DsU8OsnY2Rg": {
+      "video_id": "DsU8OsnY2Rg",
+      "title": "Sponsored by: LTIMindtree | 4 Strategies to Maximize SAP Data Value with Databricks and AI",
+      "duration_s": 2328,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "EjmPLo28cIo": {
+      "video_id": "EjmPLo28cIo",
+      "title": "Generating Zero-Shot Hard-Case Hallucinations: A Synthetic and Open Data Approach",
+      "duration_s": 1266,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "EpVtBefES6M": {
+      "video_id": "EpVtBefES6M",
+      "title": "Revolutionizing Insurance: How to Drive Growth and Innovation",
+      "duration_s": 2507,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "FHSDGfbzgTU": {
+      "video_id": "FHSDGfbzgTU",
+      "title": "Amplifying Human-to-Human Connection in the Face of Mental Health Crisis Using Agentic AI",
+      "duration_s": 2112,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "FlJuuDkKxBA": {
+      "video_id": "FlJuuDkKxBA",
+      "title": "Sponsored by: Oxylabs | Web Scraping and AI: A Quiet but Critical Partnership",
+      "duration_s": 1181,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "FoueJCuI0sE": {
+      "video_id": "FoueJCuI0sE",
+      "title": "Data Intelligence for Marketing Breakout: Agentic Systems for Bayesian MMM and Consumer Testing",
+      "duration_s": 2263,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "GTkZPo1zba4": {
+      "video_id": "GTkZPo1zba4",
+      "title": "APJ Experience at Data + AI Summit 2026 - Day 1 Recap",
+      "duration_s": 142,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "The APJ Experience at #DataAISummit 2026 was one to remember.\n\n• Nearly 2,000 customers and partners from across APJ\n• 35+ sessions delivered\n• 500+ guests at our Welcome Reception\n• 50+ APJ executive leaders at our Leaders Dinner\n\nA week of conversations, customer and partner recognition, and new connections highlighted the strength of the APJ community and the opportunities ahead.\n\nThank you to our customers, partners, and the entire APJ team for making our first APJ Experience such a memorable one.",
+      "published_at": "2026-06-23T03:35:53Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "GWdBHNQ_qLg": {
+      "video_id": "GWdBHNQ_qLg",
+      "title": "Optimizing EV Charging Experience: Machine Learning for Accurate Charge Time Estimation",
+      "duration_s": 2259,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "GezX9a_9bwI": {
+      "video_id": "GezX9a_9bwI",
+      "title": "How Agent Bricks gives developers choice, context and control (with demo)",
+      "duration_s": 1588,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Explore what's new in Agent Bricks, the enterprise agent platform that gives choice, context, and control so developers can focus on building AI agents, not infrastructure. \n\nPlus, see a live demo of Unity Catalog AI Gateway for governance and cost-control, so you can go from \"tokenmaxxing to valuemaxxing.\"\n\nLearn more about Agent Bricks: https://www.databricks.com/product/artificial-intelligence/agent-bricks \n\n00:00 — Agent Bricks, the enterprise agent platform for developers \n01:11 — How 7-Eleven, Mastercard, and AstraZeneca use Agent Bricks\n01:32 — AI's 99% problem \n02:30 — Developer pain points: choice, context, and control \n03:56 — The Agent Bricks difference \n08:04 — Introducing Agent Memory Services \n09:13 — Introducing Databricks Sandbox\n10:48 — Unity AI Gateway's new capablities \n16:24 — Live demo: Unity AI Gateway\n24:45 — Get started with Agent Bricks\n\nPresenters:\nKasey Uhlenhuth, Director, Product Management, Databricks \nAnkit Mathur, Sr. Staff Software Engineer, Databricks",
+      "published_at": "2026-06-24T19:59:40Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "H-m1pjvBuy8": {
+      "video_id": "H-m1pjvBuy8",
+      "title": "Introducing Omnigent: a meta-harness to combine, control and share your agents #databricks",
+      "duration_s": 128,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Matei Zaharia, Co-founder and CTO at Databricks, announces Omnigent, an open meta-harness that sits as a layer above your agents and makes them interoperable parts of a powerful system.\n\nOmnigent provides a common interface to compose multiple agents, enforce advanced policies, and collaborate in real-time across your team.",
+      "published_at": "2026-06-22T19:10:51Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "H6PWxInirxc": {
+      "video_id": "H6PWxInirxc",
+      "title": "Sponsored by: Tredence | Getting Your Data Foundation Ready for Agentic AI",
+      "duration_s": 1782,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "HmNLgId-RoI": {
+      "video_id": "HmNLgId-RoI",
+      "title": "Self-Improving Agents and Agent Evaluation With Arize & Databricks ML Flow",
+      "duration_s": 1651,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "I1QQ843TLWY": {
+      "video_id": "I1QQ843TLWY",
+      "title": "Kill Bill-ing? Revenge is a Dish Best Served Optimized with GenAI",
+      "duration_s": 1142,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "I6YESMO34oA": {
+      "video_id": "I6YESMO34oA",
+      "title": "Marketing Runs on Your Data: Why IT Holds the Keys to Customer Growth",
+      "duration_s": 1385,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "I9ZtkgYZnOw": {
+      "video_id": "I9ZtkgYZnOw",
+      "title": "Let the LLM Write the Prompts: An Intro to DSPy in Compound AI Pipelines",
+      "duration_s": 1869,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "INJBrNBVhU4": {
+      "video_id": "INJBrNBVhU4",
+      "title": "AI Evaluation from First Principles: You Can't Manage What You Can't Measure",
+      "duration_s": 2325,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "JEbhxe4kDjk": {
+      "video_id": "JEbhxe4kDjk",
+      "title": "AT&T AutoClassify: Unified Multi-Head Binary Classification From Unlabeled Text",
+      "duration_s": 1336,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "JluYAgxoE0k": {
+      "video_id": "JluYAgxoE0k",
+      "title": "Scaling Generative AI: Batch Inference Strategies for Foundation Models",
+      "duration_s": 2170,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "KeO2jBPaqBw": {
+      "video_id": "KeO2jBPaqBw",
+      "title": "Scaling Sales Excellence: How Databricks Uses Its Own Tech to Train GTM Teams",
+      "duration_s": 1239,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Ksc_MaiNqeU": {
+      "video_id": "Ksc_MaiNqeU",
+      "title": "From Pipelines to Agents: Manage Data and AI on One Platform for Maximum ROI",
+      "duration_s": 2196,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "L3_sGJRC674": {
+      "video_id": "L3_sGJRC674",
+      "title": "Lakehouse//RT, the real-time Lakehouse powered by Reyden — Reynold Xin, Co–founder & Chief Architect",
+      "duration_s": 849,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Introducing Lakehouse//RT: The real-time Lakehouse powered by Reyden\n\nLakehouse//RT delivers real-time analytics directly on governed Delta Lake and Apache Iceberg™ data. Underpinned by Reyden, a new compute engine designed for agentic enterprises, Lakehouse//RT lets companies achieve millisecond performance without setting up separate serving systems. \n\nLearn more about Lakehouse//RT: https://www.databricks.com/company/newsroom/press-releases/databricks-launches-lakehousert-bring-real-time-analytics-directly\n\n00:00 — The limitations of legacy data warehouses \n02:07 — Challenges to a building a single database engine \n05:31 — Introducing Reyden with live demo\n08:21 — Reyden's performance compared to competing systems\n11:24 — How Enverus and Meta use Reyden to accelerate query times \n13:00 — Introducing Lakehouse//RT",
+      "published_at": "2026-06-23T23:45:37Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "LWuYTu_cxEU": {
+      "video_id": "LWuYTu_cxEU",
+      "title": "Databricks CustomerLake",
+      "duration_s": 21,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Introducing Databricks CustomerLake, a new Agentic Customer Data Platform (CDP) natively embedded in the Databricks Lakehouse.\n\nBy bringing an AI-native marketing platform directly into the same governed data and AI foundation used by the rest of the business, we equip marketers and data teams with a workforce of agents to deliver the perfect customer experience—a billion times a day.\n\nCustomerLake enables marketing teams to replace rigid, manual workflows with \"infinity campaigns\": Continuous engagement loops fueled by trusted customer context, with an always-on engine that autonomously adapts to the customer at infinite scale.\n\nCustomerLake delivers these capabilities where your data and models already live:\n- Campaign Agents\n- Profile Agents\n- Agentic identity resolution\n- Open partner ecosystem\n- Native integrations and Reverse ETL\n\nAll without silos, duplication, or additional martech complexity.\n\nLearn more about CustomerLake: https://www.databricks.com/blog/introducing-customerlake-agentic-cdp",
+      "published_at": "2026-06-16T13:00:00Z",
+      "tags": [
+        "Databricks",
+        "agentic CDP",
+        "agentic marketing",
+        "customer data platform",
+        "infinity campaigns",
+        "AI-native marketing",
+        "AI for marketing"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "LeR7_WK5l0c": {
+      "video_id": "LeR7_WK5l0c",
+      "title": "Unlocking AI Value: Build AI Agents on SAP Data in Databricks",
+      "duration_s": 2458,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "LlGuO_MyTXU": {
+      "video_id": "LlGuO_MyTXU",
+      "title": "Streamlining DSPy Development: Track, Debug, and Deploy With MLflow",
+      "duration_s": 1318,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "M--lr1Vl8M4": {
+      "video_id": "M--lr1Vl8M4",
+      "title": "Beyond Hype: Scale & Democratize Agentic AI across enterprise to realize business outcomes.",
+      "duration_s": 1342,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "MNkmRtXIp04": {
+      "video_id": "MNkmRtXIp04",
+      "title": "Grounded Reasoning Cup",
+      "duration_s": 624,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "How well do AI agents generalize to unfamiliar, enterprise-style grounded reasoning tasks?\n\nThis is the question that inspired the inaugural Databricks Grounded Reasoning Cup, which brought together 11 academic teams to compete live on OfficeQA Pro V2, a new grounded-reasoning benchmark built from approximately 1,400 U.S. Treasury PDFs spanning more than 200 years. \n\nIn this video, we go behind the scenes to learn what led the Databricks Research team to develop OfficeQA, and watch as AI Agents are evaluated in real time at the Grounded Reasoning Cup. Which teams came out ahead? Watch to find out.\n\nEvaluating AI Agents Live on OfficeQA Pro V2\nInterested in learning more? Check out our blog post & the OfficeQA Pro V2 benchmark on Github\n\nIntroducing OfficeQA Pro V2: A New Benchmark for Enterprise Grounded-Reasoning: \nhttps://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning \n\nOfficeQA Github: https://github.com/databricks/officeqa",
+      "published_at": "2026-08-17T20:15:45Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "M_rlJXln5KE": {
+      "video_id": "M_rlJXln5KE",
+      "title": "Ali Ghodsi, Co-founder and CEO, Databricks kicks off Data + AI Summit 2026",
+      "duration_s": 3475,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Databricks Co-founder and CEO Ali Ghodsi opens Data + AI Summit 2026 and outlines how the Databricks platform solves the biggest challenges to AI adoption: context, cost, governance, and choice.\n\nWatch the full keynote on demand: https://www.databricks.com/dataaisummit \n\nDatabricks product launches from Data + AI Summit 2026:\n• CustomerLake \n• Genie One \n• Genie Agents\n• Genie App Builder\n• Genie ZeroOps\n• Lakehouse//RT\n• LTAP (Transactional/Analytical Processing)\n• OpenSharing SecureConnect\n\nTalk By: Ali Ghodsi, Co-Founder and CEO, Databricks\n\nConnect with us:\nTwitter: https://x.com/databricks\nLinkedIn: https://www.linkedin.com/company/databricks/ \nInstagram: https://www.instagram.com/databricksinc/",
+      "published_at": "2026-06-23T22:22:40Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "MdDlznSyhjk": {
+      "video_id": "MdDlznSyhjk",
+      "title": "High-Throughput ML: Mastering Efficient Model Serving at Enterprise Scale",
+      "duration_s": 1648,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "NLWIzjMruYo": {
+      "video_id": "NLWIzjMruYo",
+      "title": "AI-Driven Drug Discovery: Accelerating Molecular Insights With NVIDIA and Databricks",
+      "duration_s": 1744,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "NPsJAmehxU0": {
+      "video_id": "NPsJAmehxU0",
+      "title": "Accelerate End-to-End Multi-Agents on Databricks and DSPy",
+      "duration_s": 1500,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "NWbfWzi6egI": {
+      "video_id": "NWbfWzi6egI",
+      "title": "Building AI Models of Human Cell: Tahoe Therapeutics on Databricks",
+      "duration_s": 1203,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "NqJIyP9rIW8": {
+      "video_id": "NqJIyP9rIW8",
+      "title": "Inside Lakebase: fully-managed serverless Postgres – Nikita Shamgunov, VP, Engineering, Databricks",
+      "duration_s": 561,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "More software will be built in the next year than throughout the whole history of humanity. And every one of these new systems requires an database designed for AI. \n\nIt's why Databricks built Lakebase, a fully-managed, serverless Postgres database for AI apps and agents. At Data + AI Summit 2026, Nikita Shamgunov, VP, Engineering of Databricks, explained how the team re-architected Postgres and outlined the features that help Lakebase out perform industry rivals, including the first fully-managed cloud disaster recovery.\n\n00:00 — How AI is changing software development \n01:56 — The pros and cons of Postgres \n02:28 — Re-architecting Postgres \n03:45 — The transformative power of Lakebase\n07:27 — Why Lakebase is ready for any workload\n07:44 — The first fully-managed cloud DR\n08:57 — Lakebase momentum",
+      "published_at": "2026-06-24T22:07:19Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "O-UW5e6jxFc": {
+      "video_id": "O-UW5e6jxFc",
+      "title": "Automating Taxonomy Generation With Compound AI on Databricks",
+      "duration_s": 2095,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "OefEyzkW6dM": {
+      "video_id": "OefEyzkW6dM",
+      "title": "From Code Completion to Autonomous Software Engineering Agents",
+      "duration_s": 2473,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "PPpKZe4VvoI": {
+      "video_id": "PPpKZe4VvoI",
+      "title": "Improve AI Training With the First Synthetic Personas Dataset Aligned to Real-World Distributions",
+      "duration_s": 2309,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "PZBUaVxdY0U": {
+      "video_id": "PZBUaVxdY0U",
+      "title": "Creating LLM judges to Measure Domain-Specific Agent Quality",
+      "duration_s": 2011,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "PcvHdLGkbjg": {
+      "video_id": "PcvHdLGkbjg",
+      "title": "Scaling Smarter: Technical Dive Into How Databricks Optimizes Model Serving",
+      "duration_s": 1922,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Po1gXA67wdc": {
+      "video_id": "Po1gXA67wdc",
+      "title": "Introducing CustomerLake – the agentic CDP built in Databricks",
+      "duration_s": 1409,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Introducing CustomerLake: The agentic CDP\n\nCustomerLake brings core CDP capablities together to help marketing and data teams turn customer data into always-on, 1:1 experiences. With CustomerLake, Customer 360, identity resolution, audience building, campaign automation, activation, and personalization are all available in one platform. And with a shared, governed data foundation, marketers can deploy AI agents that help eliminate manual campaign and keep their focus on customers. Learn more about CustomerLake: https://www.databricks.com/blog/introducing-customerlake-agentic-cdp\n\n00:00 — The impact of AI on the customer experience\n02:28 — Why legacy marketing campaigns fall short \n03:51 — The shift to Infitity Campaigns \n06:41 — What's a CDP?\n07:35 — The need for an Agentic CDP \n08:55 — Introducing CustomerLake\n15:53 — Demo: CustomerLake\n21:07 — CustomerLake partners\n\nPresenters:\nTasso Argyros, VP Engineering, Databricks",
+      "published_at": "2026-06-24T22:55:40Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "QRxGPQRhayU": {
+      "video_id": "QRxGPQRhayU",
+      "title": "Agentic Architectures to Create Realistic Conversations: Using GenAI to Teach Empathy in Healthcare",
+      "duration_s": 1785,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "QnK55zH8wQ8": {
+      "video_id": "QnK55zH8wQ8",
+      "title": "Powering AI & Analytics: Innovations in Google Cloud Storage for Data Lakes",
+      "duration_s": 1287,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "QtxsZRUl_Js": {
+      "video_id": "QtxsZRUl_Js",
+      "title": "ServiceNow ‘Walks the Talk’ With Databricks: Revolutionizing Go-To-Market With AI",
+      "duration_s": 1459,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Qu9qKOa7uZA": {
+      "video_id": "Qu9qKOa7uZA",
+      "title": "Moody's AI Screening Agent: Automating Compliance Decisions",
+      "duration_s": 1816,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Qux8E-L1mk8": {
+      "video_id": "Qux8E-L1mk8",
+      "title": "Data + AI Summit Keynote 2026 | Day 1",
+      "duration_s": 10764,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Watch the full keynote from day 1 of Data + AI Summit, the world’s largest data and AI conference. \n\nDatabricks co-founders, product leaders, AI builders, and global business leaders unveil breakthrough product launches and the stories of organizations rewriting what's possible with AI.\n\n\n0:00 Databricks Co-founder & CEO Ali Ghodsi welcomes attendees, customers, partners, and the ecosystem to Data + AI Summit\n7:59 Is AGI here today? \n10:12 AI doesn’t have an intelligence problem, it has a context problem\n11:21 What it takes to get AI to work in the enterprise\n19:29 Open table format unification \n21:58 The agentic data foundation\n31:16 Announcing Unity AI Gateway: multi-AI governance and cost control\n36:45 AI and the context problem\n38:50 Announcing Genie Ontology: a living context graph for your business\n43:16 Announcing Genie One: the data-smart AI coworker\n45:02 Announcing Genie Agents and Genie App Builder: build reusable agents and vibe code business apps\n45:52 Genie Code: automate building data and ML pipelines \n46:33 Genie ZeroOps: automate maintaining data and ML pipelines\n48:27 Omnigent: a meta-harness of AI agents\n49:20 An agent system of record, the future software stack\n54:09 Lakewatch: an agentic SIEM built on the security lakehouse\n55:58 Databricks to acquire Panther, a leading AI SOC platform\n57:05 Announcing CustomerLake: the agentic CDP built on the Lakehouse\n59:36 Genie: the new AI coworker that knows your business\n1:00:59 Genie + context\n1:07:29 How Genie Ontology works\n1:11:20 Demo: Genie One \n1:19:22 Genie One provides full co-work capabilities and is now GA\n1:23:42 Magesh Bagavathi (Global Chief Data and AI Officer, PepsiCo) on AI transformation \n1:31:15 A new era of agentic data engineering with Lakeflow\n1:43:00 Announcing Genie ZeroOps: put data and AI operations on autopilot\n1:57:37 Announcing Reyden: a breakthrough new engine for real-time workloads \n2:06:22 Announcing Lakehouse//RT - real-time performance on a unified lakehouse\n2:09:23 Nikita Shamgunov: Serverless Postgres for apps and agents\n2:18:47 Fed Cohen Freue, EVP of AI & Data Operations at Mastercard, on standardizing on Lakebase\n2:25:15 Greg Brockman, President and Co-Founder, OpenAI & Patrick Wendell Co-Founder and VP of Engineering, Databricks\n2:42:45 Reynold Xin on solving the biggest database engineering challenge: how do we unify transactional and analytical data\n2:47:45 Announcing LTAP: lake transactional/analytical processing architecture\n2:50:01 Demo: Lakebase and LTAP and why you need to combine your transactional and analytical data\n2:57:07  Product announcement recap\n\nSpeakers:\nAli Ghodsi, CEO and Co–Founder, Databricks\nReynold Xin, Co-Founder and Chief Architect, Databricks\nPatrick Wendell, Co-Founder and VP of Engineering, Databricks\nArsalan Tavakoli-Shiraji, Co-founder & SVP of Field Engineering, Databricks\nGreg Brockman, President and Co-Founder, OpenAI\nFed Cohen Freue, EVP, AI & Data Operations, Mastercard\nMagesh Bagavathi, Chief Data & AI Officer, PepsiCo\nNikita Shamgunov, VP, Engineering, Databricks\nKen Wong, Sr. Director, Product Management, Databricks\nBilal Aslam, Sr. Director of Product Management, Databricks\nElise Georis, Senior Manager, Product Management, Databricks\nHolly Smith, DevRel, Databricks",
+      "published_at": "2026-06-16T22:11:32Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "R5vVPGPasb4": {
+      "video_id": "R5vVPGPasb4",
+      "title": "Scaling Real-Time Fraud Detection With Databricks: Lessons From DraftKings",
+      "duration_s": 2016,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "RAEyhC0P2Ic": {
+      "video_id": "RAEyhC0P2Ic",
+      "title": "Evaluation-Driven Development Workflows: Best Practices and Real-World Scenarios",
+      "duration_s": 2504,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "RMZwp1A6cYs": {
+      "video_id": "RMZwp1A6cYs",
+      "title": "Searching for Meaning in the Age of AI",
+      "duration_s": 1124,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "RRpzbN3hV3I": {
+      "video_id": "RRpzbN3hV3I",
+      "title": "Measure What Matters: Quality-Focused Monitoring for Production AI Agents",
+      "duration_s": 2179,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "SaK5qfKN_3Y": {
+      "video_id": "SaK5qfKN_3Y",
+      "title": "Taming Rogue AI Agents with Observability-Driven Evaluation",
+      "duration_s": 2241,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "So1_l1CZN2g": {
+      "video_id": "So1_l1CZN2g",
+      "title": "Scaling Blockchain ML With Databricks: From Graph Analytics to Graph Machine Learning",
+      "duration_s": 1066,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "SwJZoBgm_zg": {
+      "video_id": "SwJZoBgm_zg",
+      "title": "How Skyscanner Runs Real-Time AI at Scale with Databricks",
+      "duration_s": 1939,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "U637m2oXYYs": {
+      "video_id": "U637m2oXYYs",
+      "title": "Comprehensive Guide to MLOps on Databricks",
+      "duration_s": 4584,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "UYiGQXjZRQI": {
+      "video_id": "UYiGQXjZRQI",
+      "title": "Solving Health AI’s Data Problem",
+      "duration_s": 1082,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "V6h5DIl5UyA": {
+      "video_id": "V6h5DIl5UyA",
+      "title": "Sponsored by: Dagster Labs | The Age of AI is Changing Data Engineering for Good",
+      "duration_s": 979,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "VYUVhiBc03Q": {
+      "video_id": "VYUVhiBc03Q",
+      "title": "Bridging Big Data and AI: Empowering PySpark With Lance Format for Multi-Modal AI Data Pipelines",
+      "duration_s": 1135,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "VyL6vBsA13U": {
+      "video_id": "VyL6vBsA13U",
+      "title": "Announcing Genie App Builder: vibe coding that understands your business #databricks",
+      "duration_s": 51,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Justin DeBrabant, Director of Product at Databricks, introduces Genie App Builder for AI-assisted creation with all Databricks context.\n\nGenie App Builder is a purpose-built AI app authoring tool with native awareness of your data assets, Unity Catalog semantics and workspace context. It's part of a Databricks suite of products and capabilities that brings governed app vibe coding to enterprises.",
+      "published_at": "2026-06-22T19:42:21Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "VzkEc1cMoIo": {
+      "video_id": "VzkEc1cMoIo",
+      "title": "Integration with Lakeflow Jobs: How to Orchestrate Snowflake Queries & Slack Alerts",
+      "duration_s": 192,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Discover how to easily connect and orchestrate your data stack across multiple platforms using Databricks Lakeflow Jobs! In this quick demo from the Data and AI Summit, we walk through setting up a Snowflake query task type, passing parameters dynamically, and triggering automated Slack alerts natively within the integration framework.\n\nWhether you manage multiple data warehouses or need bespoke task configurations, Lakeflow Jobs gives you the flexibility to build your own custom end-to-end orchestration workflows.\n\nKey Highlights:\n\n- Creating a Snowflake Query task by hand\n- Adding a downstream Slack notification task\n- Dynamically interpolating parameters between tasks\n- Understanding the new Databricks Integration Framework\n- Checking successful run execution in Snowflake and Slack\n\n#Databricks #Lakeflow #Snowflake #DataEngineering #DataOrchestration #DataAISummit",
+      "published_at": "2026-07-09T13:25:38Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "WDtD8R76M-8": {
+      "video_id": "WDtD8R76M-8",
+      "title": "Achieving AI Success with a Solid Data Foundation",
+      "duration_s": 1750,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "X4aPTGja1Mw": {
+      "video_id": "X4aPTGja1Mw",
+      "title": "Meet Genie: The new AI coworker that knows your business",
+      "duration_s": 89,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Now every team has an agentic coworker that actually works for them. Genie closes the gap between business context and agentic work. It’s fluent in your data and grounded in your business context, with action built in.\n\nIn this video, see Genie at work for a CFO, a CMO, and a CRO — just a few examples showing how Genie can fundamentally change how you work. No more digging through dashboards, validating numbers or waiting on analysts. \n\nThis is more than a productivity boost. It's your organization operating at a level that wasn't possible before.\n\nSee what Genie can do for your team: https://www.databricks.com/genie",
+      "published_at": "2026-06-16T12:59:48Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "XGCQYfCGrYw": {
+      "video_id": "XGCQYfCGrYw",
+      "title": "Evolving Agent Complexity: Building Multi-Agent Systems With Mosaic AI",
+      "duration_s": 1695,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "Xh8Xduwxl60": {
+      "video_id": "Xh8Xduwxl60",
+      "title": "No one needs to care about table formats with Databricks' Ryan Blue, creator of Apache Iceberg",
+      "duration_s": 152,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "At Data + AI Summit 2026, Databricks Co-founder and CEO Ali Ghodsi interviewed Ryan Blue, creator of Apache Iceberg™ and Member of Technical Staff at Databricks, about the end of the data format wars, how Databricks unifies Iceberg and Delta Lake in one platform, and what's ahead in Apache Iceberg. \n\nPresenters:\nAli Ghodsi, Co-Founder and CEO, Databricks\nRyan Blue, creator of Apache Iceberg and Member of Technical Staff at Databricks\n\nWatch hundreds of on-demand sessions on topics from AI agents to data governance:\nhttps://www.databricks.com/dataaisummit",
+      "published_at": "2026-06-23T22:37:56Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "Z6ETyHRo8kM": {
+      "video_id": "Z6ETyHRo8kM",
+      "title": "Next-Gen Data Science: How Posit and Databricks Are Transforming Analytics at Scale",
+      "duration_s": 1167,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ZBPZ3QimzRo": {
+      "video_id": "ZBPZ3QimzRo",
+      "title": "Transforming Title Insurance With Databricks Batch Inference",
+      "duration_s": 2371,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ZJxkujzokhE": {
+      "video_id": "ZJxkujzokhE",
+      "title": "Three Big Unlocks to AI Interoperability with Databricks",
+      "duration_s": 1068,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ZuSYoGc-jr0": {
+      "video_id": "ZuSYoGc-jr0",
+      "title": "Use External Models in Databricks: Connecting to Azure, AWS, Google Cloud, Anthropic and More",
+      "duration_s": 1787,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "_5c9cGkIv2U": {
+      "video_id": "_5c9cGkIv2U",
+      "title": "Sponsored by: Moveworks | Unlocking Full-stack AI Transformation with the Moveworks Platform",
+      "duration_s": 1249,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "_OWgnWNfWkI": {
+      "video_id": "_OWgnWNfWkI",
+      "title": "Intro to the Mosaic AI Platform: Building Data Intelligence Into Your AI Solutions",
+      "duration_s": 4733,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "_mU60HQ1Tjw": {
+      "video_id": "_mU60HQ1Tjw",
+      "title": "Sponsored by: Google Cloud | Building Powerful Agentic Ecosystems with Google Cloud's A2A",
+      "duration_s": 2369,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "_t0hn45RqEE": {
+      "video_id": "_t0hn45RqEE",
+      "title": "Boosting Data Science and AI Productivity With Databricks Notebooks",
+      "duration_s": 2072,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "aNvjm3fwVMI": {
+      "video_id": "aNvjm3fwVMI",
+      "title": "Composing High-Accuracy AI Systems With SLMs and Mini-Agents",
+      "duration_s": 1954,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "aZMX7PPqZA0": {
+      "video_id": "aZMX7PPqZA0",
+      "title": "Sponsored by: Acceldata | Agentic Data Management: Trusted Data for Enterprise AI on Databricks",
+      "duration_s": 1293,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "bB13DIlbRYs": {
+      "video_id": "bB13DIlbRYs",
+      "title": "Gaining Insight From Image Data in Databricks Using Multi-Modal Foundation Model API",
+      "duration_s": 952,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "bBnOiPqDsvg": {
+      "video_id": "bBnOiPqDsvg",
+      "title": "Multi-Agents in Production: How to Orchestrate Effective Agents",
+      "duration_s": 1034,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "bVlQofVfKP4": {
+      "video_id": "bVlQofVfKP4",
+      "title": "LLMOps at Intermountain Health: A Case Study on AI Inventory Agents",
+      "duration_s": 2365,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "bub7eHNFtO8": {
+      "video_id": "bub7eHNFtO8",
+      "title": "Managing Data and AI Security Risks With DASF 2.0 — and a Customer Story",
+      "duration_s": 2440,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "c6w-9fsFVZs": {
+      "video_id": "c6w-9fsFVZs",
+      "title": "Sponsored by: Google Cloud | Unleash the power of Gemini for Databricks",
+      "duration_s": 1174,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "cSt2B5h5Nq8": {
+      "video_id": "cSt2B5h5Nq8",
+      "title": "No Time for the Dad Bod: Automating Life with AI and Databricks",
+      "duration_s": 1042,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "dc8KoEmB3PM": {
+      "video_id": "dc8KoEmB3PM",
+      "title": "Route to Success: Scalable Routing Agents With Databricks and DSPy",
+      "duration_s": 1328,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "dnfV2vmwBeM": {
+      "video_id": "dnfV2vmwBeM",
+      "title": "Petrobras MLOps Transformation With MLflow and Databricks",
+      "duration_s": 1254,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "dtKUxAY2RQg": {
+      "video_id": "dtKUxAY2RQg",
+      "title": "An agentic CDP empowers marketing teams to move from static campaigns to Infinity Campaigns",
+      "duration_s": 44,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Tasso Argyros, VP of Engineering at Databricks, shares how the agentic CDP is built for the AI era and transforming marketing. Now, marketers can execute autonomous, continuous engagement loops that analyze customer signals and adapt to reshape messaging, timing, and channels in real time.\n\nThis new type of engagement is called Infinity Campaigns, which leverage LLMs and agents to achieve always-on 1:1 personalization – for the first time ever.",
+      "published_at": "2026-06-22T22:53:22Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "eKVyRZyhUnM": {
+      "video_id": "eKVyRZyhUnM",
+      "title": "A No-Code ML Forecasting Platform for Retail and CPG Companies",
+      "duration_s": 859,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ebBaLaN8CsI": {
+      "video_id": "ebBaLaN8CsI",
+      "title": "Advanced RAG Overview — Thawing Your Frozen RAG Pipeline",
+      "duration_s": 2248,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "epVLzuYrRWE": {
+      "video_id": "epVLzuYrRWE",
+      "title": "Building Intelligent AI Agents With Claude Models and Databricks Mosaic AI Framework",
+      "duration_s": 2014,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "fYhBbo900HA": {
+      "video_id": "fYhBbo900HA",
+      "title": "Meet Goose, an Open Source AI Agent",
+      "duration_s": 1985,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "fZq0zj1YiSs": {
+      "video_id": "fZq0zj1YiSs",
+      "title": "Best Practices for Building User-Facing AI Systems on Databricks",
+      "duration_s": 2704,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "gdIrpWvPD1M": {
+      "video_id": "gdIrpWvPD1M",
+      "title": "Accelerating Model Development and Fine-Tuning on Databricks with TwelveLabs",
+      "duration_s": 1282,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ggZExQAiwYY": {
+      "video_id": "ggZExQAiwYY",
+      "title": "Revolutionizing Nuclear AI With HiVE and Bertha on Databricks Architecture",
+      "duration_s": 1680,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "grIuzesOwwU": {
+      "video_id": "grIuzesOwwU",
+      "title": "DSPy 3.0 — and DSPy at Databricks",
+      "duration_s": 2432,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "h19vccYpCEY": {
+      "video_id": "h19vccYpCEY",
+      "title": "MLOps That Ships: Accelerating AI Deployment at Vizient",
+      "duration_s": 1793,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "hDFNI7i6J60": {
+      "video_id": "hDFNI7i6J60",
+      "title": "Databricks Product Announcements in 5 Minutes | Data + AI Summit 2026",
+      "duration_s": 306,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Get a quick look at every major product announcement from Data + AI Summit 2026 — from new open source solutions to marketing and security solutions built for the agentic era. \n\nWith the latest innovations across the Databricks Platform, now you have context, control and choice.\n\n00:00 Genie One\n00:43 Genie Ontology\n1:18 Genie App Builder\n1:33 Genie ZeroOps\n1:51 Lakehouse//RT, powered by Reyden\n2:06 Lakebase Disaster Recovery Vector Search\n2:27 LTAP: Lake Transactional/Analytical Processing\n2:59 Lakeflow Designer and Lakeflow Connect\n3:13 Unity AI Gateway\n3:27 Omnigent\n3:45 Agent Bricks, now powered by Omnigent\n4:09 CustomerLake\n4:33 Lakewatch\n\nWatch the full keynote on-demand: https://www.databricks.com/dataaisummit",
+      "published_at": "2026-07-02T05:30:56Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "hJn1gHq5dI8": {
+      "video_id": "hJn1gHq5dI8",
+      "title": "LanceDB: A Complete Search and Analytical Store for Serving Production-scale AI Applications",
+      "duration_s": 1642,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ht3rytrLQwA": {
+      "video_id": "ht3rytrLQwA",
+      "title": "Building Knowledge Agents to Automate Document Workflows",
+      "duration_s": 1979,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "i301QEWJAAs": {
+      "video_id": "i301QEWJAAs",
+      "title": "Sponsored by: Snowplow | Snowplow Signals: Powering Tomorrow’s Customer Experiences on Databricks",
+      "duration_s": 1088,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "iESWCPaLYRc": {
+      "video_id": "iESWCPaLYRc",
+      "title": "Sponsored by: EY | Unlocking Value Through AI at Takeda Pharmaceuticals",
+      "duration_s": 1070,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "j6NFzEGAR5U": {
+      "video_id": "j6NFzEGAR5U",
+      "title": "Defending Revenue With GenAI",
+      "duration_s": 921,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "j6lq6m7j9io": {
+      "video_id": "j6lq6m7j9io",
+      "title": "Sponsored by: Cognizant | How Cognizant Helped RJR Transform Market Intelligence with GenAI",
+      "duration_s": 628,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "jQ4sKmXrrTU": {
+      "video_id": "jQ4sKmXrrTU",
+      "title": "Sponsored by: Lovelytics | From SAP Silos to Supply Chain Superpower: How AI Is Reinventing Planning",
+      "duration_s": 1206,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "juiCQb_iQIY": {
+      "video_id": "juiCQb_iQIY",
+      "title": "Databricks ZeroOps",
+      "duration_s": 197,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "In this live demonstration from the Databricks Data + AI Summit, see how Databricks Genie ZeroOps revolutionizes how data engineering and operations teams manage production pipelines.\n\nInstead of flooding your screen with red lights and endless alerts, Genie ZeroOps introduces a clean, prioritized inbox-style interface. It automatically groups related failures into a single incident, saving data engineers hours of sorting through duplicate noise.\n\nIn this video, you'll see a live walkthrough of:\n\nAutonomous Investigation: How background AI agents immediately diagnose silent data drops and upstream errors before you even log in.\n\nLineage-Driven Blast Radius: How the system traces Unity Catalog data lineage forward and backward to accurately identify the exact root cause (fan_interactions table) and mark downstream business impacts as critical.\n\nRisk-Free Sandboxed Testing: Watch Genie ZeroOps automatically spin up an isolated sandbox using a zero-copy shallow clone of production data to safely deploy, test, and verify the exact code fix.\n\nOne-Click Pull Requests: Transition seamlessly into your standard software development lifecycle (SDLC) by generating a verified PR with a single click.",
+      "published_at": "2026-06-24T14:13:46Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "kJbSfLVEQAE": {
+      "video_id": "kJbSfLVEQAE",
+      "title": "Cracking Complex Documents with Databricks Mosaic AI",
+      "duration_s": 921,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "kKo0ipt8yKc": {
+      "video_id": "kKo0ipt8yKc",
+      "title": "From Days to Minutes - AI Transforms Audit at KPMG",
+      "duration_s": 2053,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "kXabXMvCoNQ": {
+      "video_id": "kXabXMvCoNQ",
+      "title": "Databricks Grounded Reasoning Cup 2026",
+      "duration_s": 640,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "How well do AI agents generalize to unfamiliar, enterprise-style grounded reasoning tasks?\n\nThis is the question that inspired the inaugural Databricks Grounded Reasoning Cup, which brought together 11 academic teams to compete live on OfficeQA Pro V2, a new grounded-reasoning benchmark built from approximately 1,400 U.S. Treasury PDFs spanning more than 200 years. \n\nIn this video we go behind the scenes to learn what led the Databricks Research team to develop OfficeQA, and watch as AI Agents are evaluated in real time at the Grounded Reasoning Cup. Which teams came out ahead? Watch to find out.\n\nEvaluating AI Agents Live on OfficeQA Pro V2\nInterested in learning more? Check out our blog post & the OfficeQA Pro V2 benchmark on Github\n\nIntroducing OfficeQA Pro V2: A New Benchmark for Enterprise Grounded-Reasoning: \nhttps://www.databricks.com/blog/introducing-officeqa-pro-v2-new-benchmark-enterprise-grounded-reasoning\n\nOfficeQA Github: https://github.com/databricks/officeqa",
+      "published_at": "2026-08-07T23:56:41Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "ktEOSiw9I3U": {
+      "video_id": "ktEOSiw9I3U",
+      "title": "Sponsored by: Qubika | Agentic AI In Finance: How To Build Agents Using Databricks And LangGraph",
+      "duration_s": 1218,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "lfipvOEB4Sc": {
+      "video_id": "lfipvOEB4Sc",
+      "title": "Sponsored by: Infosys | AI-Driven Growth: Expedite Potential of Agentic AI and Drive Beyond Customer",
+      "duration_s": 2082,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "luYch_JaR5g": {
+      "video_id": "luYch_JaR5g",
+      "title": "Advancing AI in Cybersecurity with Databricks & Deloitte: Data Management & Analytics",
+      "duration_s": 2178,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "n6383JK0nvY": {
+      "video_id": "n6383JK0nvY",
+      "title": "What's new in Unity AI Gateway: multi-AI governance and cost control #databricks",
+      "duration_s": 64,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Kasey Uhlenhuth, Director of Product Management at Databricks, shared the latest updates in Unity AI Gateway, Databrick's governance solution for AI assets, models, agents, LLM endpoints, MCP servers, Skills, and coding agents.\n\nNow you can create a centralized inventory of all your AI assets with the agent registry in Unity AI Gateway. Register external agents, agents built on Databricks, MCPs, and Skills to create a comprehensive system of record.",
+      "published_at": "2026-06-22T19:31:40Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "olYZI0jLT24": {
+      "video_id": "olYZI0jLT24",
+      "title": "Generative AI Merchant Matching",
+      "duration_s": 1213,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "oxrg6kbLXEI": {
+      "video_id": "oxrg6kbLXEI",
+      "title": "Sponsored by: Lovelytics | Predict and Mitigate Asset Risk: Unlock Geospatial Analytics with GenAI",
+      "duration_s": 1654,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "p6fx_Hwlto8": {
+      "video_id": "p6fx_Hwlto8",
+      "title": "Smart Vehicles, Secure Data: Recreating Vehicle Environments for Privacy-Preserving Machine Learning",
+      "duration_s": 1887,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "pQMeeQ_jGY0": {
+      "video_id": "pQMeeQ_jGY0",
+      "title": "Simplifying Training and GenAI Finetuning Using Serverless GPU Compute",
+      "duration_s": 1755,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "pUKvTs6Eg4k": {
+      "video_id": "pUKvTs6Eg4k",
+      "title": "Beyond Simple RAG:Unlocking Quality, Scale and Cost-Efficient Retrieval With Mosaic AI Vector Search",
+      "duration_s": 2249,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "pWPYVDSROvE": {
+      "video_id": "pWPYVDSROvE",
+      "title": "Practical AI Solutions: From Customer Care to Supply Chain Excellence",
+      "duration_s": 2197,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "pvm8HqEt7J0": {
+      "video_id": "pvm8HqEt7J0",
+      "title": "Learn How the Virtue Foundation Saves Lives by Optimizing Health Care Delivery Across the Globe",
+      "duration_s": 909,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "pxoIBVQSFP0": {
+      "video_id": "pxoIBVQSFP0",
+      "title": "Securing Capital Markets: AI-Powered Risk Management for Resilience",
+      "duration_s": 2505,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "r3V_VPbhyso": {
+      "video_id": "r3V_VPbhyso",
+      "title": "Supercharge Your Apps with Llama 4: Essential Tools and Techniques for Developers",
+      "duration_s": 2291,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "rrNMeIgF2pc": {
+      "video_id": "rrNMeIgF2pc",
+      "title": "Lakehouse//RT",
+      "duration_s": 15,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Introducing Lakehouse//RT: Real-Time Performance on a Unified Lakehouse.\n\nDatabricks’ new real-time data warehouse delivers millisecond responsiveness directly on your lakehouse, without separate systems or data movement.\n\nLakehouse//RT, Databricks’ new real-time data warehouse is designed for operational analytics, BI and app serving, and observability workloads. Lakehouse//RT is powered by Reyden, a breakthrough new engine for real-time workloads that require immediate responsiveness at high concurrency.",
+      "published_at": "2026-06-17T18:58:49Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "s1YvjFpRaWE": {
+      "video_id": "s1YvjFpRaWE",
+      "title": "Sponsored by: Hightouch | Unleashing AI at PetSmart: Using AI Decisioning Agents to Drive Revenue",
+      "duration_s": 2172,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "sUeMzTQzo5U": {
+      "video_id": "sUeMzTQzo5U",
+      "title": "Empowering the Warfighter With AI",
+      "duration_s": 2354,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "scupt4mzGIs": {
+      "video_id": "scupt4mzGIs",
+      "title": "RecSys, Topic Modeling and Agents: Bridging the GenAI-Traditional ML Divide",
+      "duration_s": 2037,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "sn9My5Pj0mE": {
+      "video_id": "sn9My5Pj0mE",
+      "title": "Data + AI Summit Keynote 2026 | Day 2",
+      "duration_s": 9981,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "Watch the full keynote from day 2 of Data + AI Summit, which brought together 30,000+ data professionals across data engineering, scientists, analysts, architects, and business leaders. \n\nThe speakers covered new open source innovations, major updates to the Databricks Platform, and marketing and security solutions built for the agentic era.\n\n0:00 Databricks CEO and Co-founder Ali Ghodsi on how context + AI unlocks enterprise agents that work\n3:21 Product updates and innovations you’ll explore in this keynote\n11:11 The AI harness problem: anyone can build their own agent harness, making interoperability hard\n18:56 Why we built Omnigent, an open meta-harness, and how it works\n23:20 Demo: Omnigent OSS\n33:05 Why we open sourced Omnigent\n34:44 What’s new in Databricks Free Edition\n36:11 Engineers get stuck building infrastructure, and Agent Bricks solves this problem\n40:28 Agent Bricks provides choice across models, agents, and harnesses\n42:11 Agent Bricks solves the context problem\n44:23 Announcing Agent Memory Services, powered by Lakebase\n45:18 Announcing Databricks Sandbox: VMs for secure code execution\n46:51 New capabilities in Unity AI Gateway: centralized governance, security, and cost controls over agents, models, and tools\n52:37 Demo: from toxenmaxxing to valuemaxxing with Unity AI Gateway\n1:09:16 Governed access data is the biggest roadblock to production for AI apps\n1:13:04 How Databricks Apps brings app vibe coding in the enterprise\n1:16:35 The prototype to product gap with vibe coded apps\n1:17:53 What’s new in Databricks Apps \n1:21:11 Demo: Building an app with Genie App Builder\n1:28:01 Virtue Foundation powers healthcare with Genie\n1:29:22 The only way to automate ML is with agents \n1:37:07 Announcing AI Runtime: Serverless GPU compute for enterprise deep learning\n1:38:13 Announcing Genie Code for ML: an agent for production ML engineering\n1:42:43 Announcing Genie ZeroOps for ML: an agent that runs your ML systems\n1:45:22 Demo: Genie ZeroOps for ML\n1:51:01 Agentic ML engineering is here\n1:52:48 AI is changing how people buy\n1:57:12 Infinity Campaigns, a new approach to marketing campaigns, powered by the agentic CDP\n2:01:33 Announcing CustomerLake: an agentic CDP to power the perfect customer experience – a billion times a day\n2:08:53 Demo: CustomerLake Campaign Agents for always-on engagement\n2:16:25 Agents are fundamentally changing security\n2:22:29 Lakewatch: fight every security threat with agents\n2:24:43 Demo: Lakewatch, an open agentic security lakehouse\n2:35:45 Databricks x Panther\n2:40:36 The Agentic Data Foundation",
+      "published_at": "2026-06-18T02:52:24Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "tCiQLSCXrwA": {
+      "video_id": "tCiQLSCXrwA",
+      "title": "Learn to Program Not Write Prompts with DSPy",
+      "duration_s": 855,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "tb2l481hreY": {
+      "video_id": "tb2l481hreY",
+      "title": "Real-Time Botnet Defense at CVS: AI-Driven Detection and Mitigation on Databricks",
+      "duration_s": 2049,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "tlEmxrqKGlE": {
+      "video_id": "tlEmxrqKGlE",
+      "title": "Sponsored by: Snorkel AI | Evaluating and Improving Performance of Agentic Systems",
+      "duration_s": 1144,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "tqNrT7GcqjE": {
+      "video_id": "tqNrT7GcqjE",
+      "title": "Data + AI Summit Opening Video | Day 1",
+      "duration_s": 99,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "",
+      "published_at": "2026-06-23T20:53:00Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "uKs_lnBcH3M": {
+      "video_id": "uKs_lnBcH3M",
+      "title": "How Anthropic Transforms Financial Services Teams With GenAI",
+      "duration_s": 851,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "u_8XORbJYcI": {
+      "video_id": "u_8XORbJYcI",
+      "title": "Scaling Demand Forecasting at Nikon: Automating Camera Accessories Sales Planning with Databricks",
+      "duration_s": 1931,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "uevHJA4byAk": {
+      "video_id": "uevHJA4byAk",
+      "title": "Optimize Cost and User Value Through Model Routing AI Agent",
+      "duration_s": 2196,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "ujPoL6hxEyA": {
+      "video_id": "ujPoL6hxEyA",
+      "title": "Building AI Models In Health Care Using Semi-Synthetic Data",
+      "duration_s": 2383,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "w8y_CGo1KQU": {
+      "video_id": "w8y_CGo1KQU",
+      "title": "Agent Bricks: Building Multi-Agent Systems for Structured and Unstructured Information",
+      "duration_s": 2196,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "wymv9RPFh3o": {
+      "video_id": "wymv9RPFh3o",
+      "title": "Autonomous AI Agents in AI Infrastructure",
+      "duration_s": 1121,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "x_16hchSFXY": {
+      "video_id": "x_16hchSFXY",
+      "title": "Taming the LLM Wild West: Unified Governance with Mosaic AI Gateway",
+      "duration_s": 2296,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "xkbu_ix1nWU": {
+      "video_id": "xkbu_ix1nWU",
+      "title": "Solving AI development bottlenecks with Databricks App (with demo)",
+      "duration_s": 1207,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "With 1 billion new applications projected to be built by 2028, many by business users, companies need a platform that can support the needs of professional and citizen developers. Databricks Apps makes it easy to go from protoype to production. \n\nLearn more about Databricks Apps: https://www.databricks.com/product/databricks-apps \n\n00:00 — Data is the new AI bottleneck \n01:00 — Databricks Apps momentum \n02:06 — What customers are building with Databricks Apps \n03:52 — Making it easy: governance, host, build\n06:40 — AI and the rise of citizen developers \n08:40 — Unlocking the next wave of builders \n09:10 — Introducing App Spaces\n10:10 — Introducing Micro Apps\n11:13 — Introducing Genie App Builder\n12:00 — Justin demos updates to Databricks Apps\n18:43 — What the Virtue Foundation is building with Databricks\n\nPresenters:\nJustin DeBrabant, Director of Product, Databricks",
+      "published_at": "2026-06-24T22:03:01Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "xo22suWDRhg": {
+      "video_id": "xo22suWDRhg",
+      "title": "ReguBIM AI – Transforming BIM, Engineering, and Code Compliance with Generative AI",
+      "duration_s": 356,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "zQoAGeXfYbw": {
+      "video_id": "zQoAGeXfYbw",
+      "title": "Responsible AI at Scale: Balancing Democratization and Regulation in the Financial Sector",
+      "duration_s": 2355,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "zV2fq6I8EYY": {
+      "video_id": "zV2fq6I8EYY",
+      "title": "APJ Experience at Data + AI Summit 2026 - Day 2 Recap",
+      "duration_s": 156,
+      "channel": "Databricks",
+      "label": "DAIS 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd",
+      "description": "What stood out most from the Day 2 keynote at #DataAISummit?\n\nFor Nick Eayrs, VP Field Engineering, APJ, and Simon Davies, SVP & GM, APJ, it was the focus on democratising AI by putting it in the hands of every engineer, every business user, and every organisation ready to make AI real, not just aspirational.\n\nWatch as they share their key takeaways from the keynote and hear directly from customers about what they're most excited about following Data + AI Summit.",
+      "published_at": "2026-06-23T03:35:57Z",
+      "tags": [
+        "Databricks"
+      ],
+      "details_at": "2026-08-31T15:35:48+00:00"
+    },
+    "zZk7g0Zc_fU": {
+      "video_id": "zZk7g0Zc_fU",
+      "title": "Intelligent Document Processing: Building AI, BI, and Analytics Systems on Unstructured Data",
+      "duration_s": 2369,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    },
+    "zn5WvgZcdMA": {
+      "video_id": "zn5WvgZcdMA",
+      "title": "Generating Laughter: Testing and Evaluating the Success of LLMs for Comedy",
+      "duration_s": 996,
+      "channel": "Databricks",
+      "label": "DAIS 2025 AI track",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1"
+    }
+  }
+}

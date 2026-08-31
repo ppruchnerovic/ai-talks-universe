@@ -1,0 +1,30 @@
+---
+id: u1nuS5MUFfc
+title: "How To Build a GenAI-Augmented Software Organization • Marko Klemetti & Kris Jenkins • GOTO 2025"
+slug: how-to-build-a-genai-augmented-software-organization-marko
+conference: goto
+conference_name: "GOTO Conferences"
+category: "Software dev with AI tracks"
+edition: "GOTO"
+year: 2025
+speakers: []
+channel: null
+duration_min: 47
+published_at: null
+video_id: u1nuS5MUFfc
+youtube_url: https://www.youtube.com/watch?v=u1nuS5MUFfc
+tags: []
+transcript: false
+---
+
+# How To Build a GenAI-Augmented Software Organization • Marko Klemetti & Kris Jenkins • GOTO 2025
+
+**Speaker not identified**
+
+`GOTO Conferences` · `GOTO` · `2025` · `47 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=u1nuS5MUFfc) · [Conference site](https://gotopia.tech/)
+
+## Description
+
+*No description published on YouTube.*

@@ -1,0 +1,84 @@
+name: Refresh the catalogue
+
+# Re-enumerates every playlist and channel in conferences.json and rebuilds the
+# indexes. Transcripts are deliberately NOT fetched here: YouTube meters the
+# caption endpoint per egress IP and blocks GitHub's ranges outright, so
+# fetch_transcripts.py has to run on a real machine.
+#
+# Enumeration from a runner may be refused too. That is safe rather than
+# destructive: sync_catalog.py keeps a source's cached videos when the source
+# comes back empty, so a fully blocked run produces no diff and no commit.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * 1"        # Mondays, 04:17 UTC
+  push:
+    branches: [main]
+    paths:
+      - "conferences.json"
+      - "tools/**"
+      - ".github/workflows/kb-refresh.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kb-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install yt-dlp
+        run: pip install --quiet yt-dlp
+
+      - name: Check the registry against the curated list
+        working-directory: tools
+        run: python3 check_registry.py
+
+      - name: Re-enumerate and rebuild
+        working-directory: tools
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python3 sync_catalog.py --refresh
+          # Descriptions and publish dates, but only where a key is configured:
+          # the yt-dlp fallback is a full extraction per video and would both
+          # take hours and get the runner blocked.
+          if [ -n "$YOUTUBE_API_KEY" ]; then
+            python3 enrich.py --limit 4000
+            python3 sync_catalog.py
+          fi
+          python3 build_index.py
+
+      - name: Commit if anything changed
+        id: commit
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Refresh the AI talk catalogue"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # The push above does NOT start `Deploy GitHub Pages`: GitHub suppresses
+      # workflow triggers from pushes made with the default GITHUB_TOKEN, to
+      # avoid recursive runs. Mirror to gh-pages here instead, which is all
+      # pages.yml does anyway — and updating gh-pages *does* publish, because
+      # GitHub's built-in Pages build is not a repository workflow.
+      - name: Publish the refreshed data
+        if: steps.commit.outputs.changed == 'true'
+        run: git push origin HEAD:gh-pages --force

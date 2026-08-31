@@ -1,0 +1,269 @@
+# AI Conferences & Recorded Talks
+
+Curated list of leading AI conferences with a practical focus (software development, AI engineering, AI adoption, security), with links to their sites and the YouTube channels/playlists where recorded talks are published — for later transcript extraction.
+
+Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on YouTube · **⚠️ partial** = keynotes/subset on YouTube, rest gated · **❌ gated** = not usable for open transcript extraction.
+
+## Already watching
+
+### AI Engineer (World's Fair / Summit)
+- Site: https://www.ai.engineer/
+- YouTube: https://www.youtube.com/@aiDotEngineer/videos
+- The flagship practitioner conference for AI engineers (agents, LLM apps, MCP). ✅ free — full talks from all tracks.
+
+### AI Dev (DeepLearning.AI)
+- Site: https://ai-dev.deeplearning.ai/
+- YouTube: https://www.youtube.com/@Deeplearningai/search?query=AI%20Dev%2026%20x
+- DeepLearning.AI's developer conference. ✅ free.
+
+### QCon AI
+- Site: https://ai.qconferences.com/
+- YouTube: https://www.youtube.com/infoq
+- InfoQ/QCon's enterprise production-AI conference. ⚠️ partial — fresh recordings go to the paid Video Pass first; a free subset drips onto the InfoQ channel and https://www.infoq.com/presentations/ (with transcripts) over subsequent months.
+
+### WeAreDevelopers
+- Site: https://www.wearedevelopers.com/en
+- YouTube: https://www.youtube.com/@_wearedevs/videos
+- Europe's largest developer congress (Berlin), heavy AI programming. ✅ free.
+
+### AI DevCon (Tessl)
+- Site: https://tessl.io/devcon/
+- YouTube: https://www.youtube.com/@tessl-ai
+- Tessl's conference on AI-native software development. ✅ free.
+
+## AI engineering & agents (top picks)
+
+### LangChain Interrupt
+- Site: https://interrupt.langchain.com/
+- YouTube: https://www.youtube.com/@LangChain — [Interrupt 2026](https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR) · [Interrupt 2025](https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy)
+- LangChain's agent conference — production AI agents at Apple, Cisco, LinkedIn, Toyota. ✅ free (also at interrupt.langchain.com/recordings, no signup).
+
+### Anthropic — Code with Claude
+- Site: https://claude.com/code-with-claude
+- YouTube: https://www.youtube.com/@claude — [2026 SF](https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR) · [2026 London](https://www.youtube.com/playlist?list=PLmWCw1CzcFilPJdvw6scjHjbBripZWFps) · [2026 Japan](https://www.youtube.com/playlist?list=PLmWCw1CzcFinrtcyN6EMIp6KqrDj8sxD7) · [2025 (on @anthropic-ai)](https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi)
+- Anthropic's developer conference — Claude, Claude Code, MCP, agent building. ✅ free (workshops not published).
+
+### OpenAI DevDay
+- Site: https://devday.openai.com/
+- YouTube: https://www.youtube.com/@OpenAI — [DevDay 2025](https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o) · [2024](https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y) · [2023](https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz)
+- OpenAI's annual developer conference (next: Sep 29, 2026). ✅ free — keynotes + breakouts.
+
+### MLOps World | GenAI Summit + Toronto Machine Learning Summit (TMLS)
+- Sites: https://mlopsworld.com/ · https://www.torontomachinelearning.com/
+- YouTube: https://www.youtube.com/@tmls-ai — [MLOps World 2025 sessions (66 videos)](https://www.youtube.com/playlist?list=PLlcxuf1qTrwDJjGqDG0XuCzCeTEaEZ-uo)
+- Practitioner events on production LLMs, RAG, agents, MLOps; one channel covers both. ✅ free — full sessions.
+
+### Ray Summit (Anyscale)
+- Site: https://www.anyscale.com/ray-summit/2026
+- YouTube: https://www.youtube.com/@anyscale — [Ray Summit 2025 keynotes](https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6)
+- Distributed AI infra, LLM serving, vLLM/Ray ecosystem. ✅ free.
+
+### PyTorch Conference
+- Site: https://events.linuxfoundation.org/pytorch-conference-north-america/
+- YouTube: https://www.youtube.com/@PyTorch — [PyTorch Conference 2025 (117 videos)](https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q)
+- PyTorch Foundation's annual NA + Europe conference: open-source AI engineering, vLLM, LLM infra, agents. ✅ free.
+
+### PyData
+- Site: https://pydata.org/
+- YouTube: https://www.youtube.com/@PyDataTV — [PyData Global 2025 (84 videos)](https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF) + per-city playlists
+- NumFOCUS-run global series on practical Python ML/LLM tooling. ✅ free — one of the largest practical ML talk archives.
+
+### The AI Conference
+- Site: https://aiconference.com/
+- YouTube: https://www.youtube.com/@aiconference
+- Annual SF builder conference with LLM, agentic AI, and infra tracks. ✅ free.
+
+### dotAI
+- Site: https://www.dotai.io/
+- YouTube: https://www.youtube.com/@dotconferences
+- Curated single-track European conference (Paris) of 20-minute talks for engineers building AI. ✅ free.
+
+### Weights & Biases — Fully Connected
+- Site: https://wandb.ai/ (event: fullyconnected.com)
+- YouTube: https://www.youtube.com/@WeightsBiases — [Fully Connected Tokyo 2025](https://www.youtube.com/playlist?list=PLD80i8An1OEEh-4vRV5PF6MgN7OYRB7v4)
+- Practitioner series (SF/Tokyo/London) on LLM evaluation, agents, MLOps. ✅ free.
+
+### Applied Machine Learning Days (AMLD)
+- Site: https://appliedmldays.org/
+- YouTube: https://www.youtube.com/c/AppliedMachineLearningDays (now branded "AMLD Intelligence Summit")
+- EPFL Lausanne (Feb); Europe's largest applied-ML event, applied-research/industry mix. ✅ free.
+
+## Software dev conferences with strong AI tracks
+
+### GOTO Conferences
+- Site: https://gotopia.tech/
+- YouTube: https://www.youtube.com/@GOTO-/videos
+- Multi-city software engineering series with growing AI/LLM content. ✅ free — released ~daily over the year after each event.
+
+### NDC Conferences
+- Site: https://ndcconferences.com/
+- YouTube: https://www.youtube.com/@NDC/videos
+- Year-round dev conference series (Oslo, London, Copenhagen, Sydney…); heavy practical AI/LLM/Copilot content. ✅ free — batch-uploaded ~a month after each event.
+
+### Devoxx
+- Site: https://devoxx.com/ (flagship: https://devoxx.be/)
+- YouTube: https://www.youtube.com/@DevoxxForever/videos
+- Community-run dev conference family; Belgium publishes all ~200 talks during/right after conference week. ✅ free. (France/UK/Poland editions use separate channels.)
+
+### InfoQ Dev Summit / QCon
+- Sites: https://devsummit.infoq.com/ · https://qconferences.com/
+- YouTube: https://www.youtube.com/@infoq/videos
+- Senior-engineer conferences, now very AI-engineering-dense (agents, RAG, context engineering). ⚠️ partial — free versions drip out over months; not every talk guaranteed.
+
+### KubeCon + CloudNativeCon (AI day / AI inference & agentic tracks)
+- Site: https://www.cncf.io/kubecon-cloudnativecon-events/
+- YouTube: https://www.youtube.com/@cncf — [KubeCon EU 2026 (411 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL) · [Cloud Native AI + Kubeflow Day 2026](https://www.youtube.com/playlist?list=PLj6h78yzYM2PnalRBhPCbxEm_rup1b3X0)
+- Production AI infra — GPU scheduling, inference, agentic workloads on Kubernetes. ✅ free — all keynotes + breakouts shortly after each event.
+
+### GitHub Universe
+- Site: https://githubuniverse.com/
+- YouTube: https://www.youtube.com/@GitHub — [Universe 2025](https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC) · [Universe 2024](https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P)
+- The key event for AI-assisted development (Copilot, agentic coding). ⚠️ partial — keynotes + curated sessions on YouTube; full breakout catalog via the (free) registration portal.
+
+## AI security
+
+### CAMLIS — Conference on Applied Machine Learning in Information Security
+- Site: https://www.camlis.org/
+- YouTube: https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos
+- The premier practitioner conference at the ML/infosec intersection — AI red teaming, LLM attacks, ML for detection. ✅ free.
+
+### DEF CON AI Village
+- Site: https://aivillage.org/
+- YouTube: https://www.youtube.com/@aivillage/videos + DEF CON playlists at https://www.youtube.com/@DEFCONConference/playlists (e.g. [DEF CON 27 AI Village](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ)); archive: https://media.defcon.org/
+- Hands-on AI hacking/red-teaming community at DEF CON. ✅ free — but recent years' AI Village talks are mixed into the main DEF CON per-year playlists rather than a dedicated one.
+
+### OWASP GenAI Security Project (LLM Top 10 / Agentic AI Security Summits)
+- Site: https://genai.owasp.org/ (events: https://genai.owasp.org/events/)
+- YouTube: https://www.youtube.com/@GenAISecurityProject/videos
+- Ongoing community talks and summit recordings on LLM/agentic app security. ✅ free.
+
+### SANS AI Cybersecurity Summit
+- Site: https://www.sans.org/cyber-security-summit/
+- YouTube (SANS Institute channel): [2025 playlist](https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F) · [2026 playlist](https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh)
+- Annual summit on AI in cyber defense and securing AI systems. ✅ free — full talks.
+
+### Black Hat (AI Summit & AI briefings)
+- Site: https://www.blackhat.com/
+- YouTube: https://www.youtube.com/@BlackHatOfficialYT/videos
+- Flagship industry security conference; AI Summit since 2024 plus many AI/LLM briefings. ⚠️ partial — briefings hit YouTube free but with a ~6–12 month delay.
+
+### OWASP Global AppSec
+- Site: https://owasp.org/events/
+- YouTube: https://www.youtube.com/@OWASPGLOBAL — e.g. [Global AppSec DC 2025](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K) · [Global AppSec EU 2025](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc)
+- Appsec conference with a growing share of LLM/AI-security talks. ✅ free (posted months after each event).
+
+### BSides Las Vegas (Ground Truth track)
+- Site: https://bsideslv.org/
+- YouTube: https://www.youtube.com/@BsidesLVorg/videos
+- Community conference; the Ground Truth track is dedicated to ML/data science in security, plus LLM/MCP/agent content. ✅ free.
+
+### IEEE SaTML — Secure and Trustworthy Machine Learning
+- Site: https://satml.org/
+- YouTube: [SaTML 2024](https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV) · [SaTML 2023](https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp)
+- Top peer-reviewed venue for adversarial ML, privacy, and trustworthy ML (academic). ✅ free for 2023/2024; newer years unconfirmed.
+
+### USENIX Security Symposium
+- Site: https://www.usenix.org/conference/usenixsecurity26
+- YouTube: https://www.youtube.com/@UsenixOrg/videos
+- Top academic security conference; substantial adversarial-ML and LLM-security track, fully open access. ✅ free.
+
+### RSAC Conference
+- Site: https://www.rsaconference.com/
+- YouTube: https://www.youtube.com/@OneRSAC
+- World's largest security conference with a big AI security track. ⚠️ partial — keynotes/highlights on YouTube; most breakouts in the registration-gated site library.
+
+## Big vendor & platform events (AI adoption at scale)
+
+### Microsoft Build
+- Site: https://build.microsoft.com/
+- YouTube: https://www.youtube.com/@MicrosoftDeveloper — [Build 2026 (224 videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU) · [Build 2025 (274 videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj)
+- Hundreds of Copilot/agents/Azure AI breakout sessions. ✅ free — excellent for transcripts.
+
+### AWS re:Invent
+- Site: https://aws.amazon.com/events/reinvent
+- YouTube: https://www.youtube.com/@AWSEventsChannel — [re:Invent 2025 breakouts (585 videos)](https://www.youtube.com/playlist?list=PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet)
+- Massive Bedrock/GenAI/agents breakout volume. ✅ free — best volume of the vendor giants.
+
+### Google I/O
+- Site: https://io.google/
+- YouTube: https://www.youtube.com/@GoogleDevelopers — [I/O 2026 all sessions (68 videos)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej) · [I/O 2025 all sessions (82 videos)](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt)
+- Gemini/AI, Android, Web. ✅ free — complete session catalog.
+
+### Google Cloud Next
+- Site: https://cloud.withgoogle.com/next/
+- YouTube: https://www.youtube.com/@googlecloudtech — [Next 2026 sessions (47 videos)](https://www.youtube.com/playlist?list=PLIivdWyY5sqLZY4WH03ns4Pt2B8VzE1fq)
+- Enterprise cloud + AI. ⚠️ partial — keynotes + ~50 curated sessions on YouTube; full catalog in the free session library on the site.
+
+### NVIDIA GTC
+- Site: https://www.nvidia.com/gtc/
+- YouTube: https://www.youtube.com/@NVIDIA/videos — [GTC 2026 (32 videos)](https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT) · [GTC 2025](https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa)
+- Flagship AI/accelerated-computing conference. ⚠️ partial — keynote + ~30 curated talks on YouTube; full catalog (thousands of sessions) on [NVIDIA On-Demand](https://www.nvidia.com/en-us/on-demand/) behind free registration.
+
+### Databricks Data + AI Summit
+- Site: https://www.databricks.com/dataaisummit
+- YouTube: https://www.youtube.com/@Databricks — [DAIS 2026 (35 videos)](https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd); breakouts on https://www.youtube.com/@Databricks-Events — [2025 AI track](https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1)
+- Lakehouse + agentic AI platforms, 800+ sessions. ✅ free — keynotes + many breakouts across two channels; full catalog on the site behind free login.
+
+### Snowflake Summit
+- Site: https://www.snowflake.com/en/summit/
+- YouTube: [@snowflakedevelopers Summit 2025 (75 videos)](https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf) · [@SnowflakeInc Summit 2026](https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH)
+- AI Data Cloud conference. ⚠️ partial — dev sessions on YouTube; most breakouts gated behind a registration form.
+
+### Meta Connect (+ LlamaCon)
+- Site: https://www.meta.com/connect/
+- YouTube: https://www.youtube.com/@MetaDevelopers — [Connect 2025 (32 videos)](https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP) · [LlamaCon 2025](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-)
+- Meta's AR/VR/AI developer conference. ✅ free.
+
+### Apple WWDC
+- Site: https://developer.apple.com/wwdc
+- YouTube: https://www.youtube.com/@AppleDeveloper — [WWDC25 sessions](https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM)
+- Apple Intelligence, on-device ML. ✅ free — and developer.apple.com hosts official written transcripts (ideal for extraction).
+
+### Salesforce Dreamforce
+- Site: https://www.salesforce.com/dreamforce/
+- YouTube: https://www.youtube.com/@Salesforce — [Dreamforce 2025 keynotes](https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM)
+- AI/Agentforce-heavy enterprise conference. ⚠️ partial — keynotes on YouTube; 500+ breakouts on Salesforce+ (free account required).
+
+## Broader industry & business AI
+
+### Web Summit
+- Site: https://websummit.com
+- YouTube: https://www.youtube.com/@WebSummit/videos
+- Massive general-tech conference (Lisbon + Rio/Doha/Vancouver) with heavy AI programming. ✅ free — individual talks/panels posted.
+
+### Slush
+- Site: https://slush.org
+- YouTube: https://www.youtube.com/@slush (per-stage yearly playlists)
+- Startup/VC conference (Helsinki) with substantial AI content. ✅ free — all stage talks.
+
+### SXSW (AI track)
+- Site: https://www.sxsw.com
+- YouTube: https://www.youtube.com/@sxsw — [2025 keynotes & featured sessions](https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX)
+- Annual Austin festival with a dedicated AI track. ⚠️ partial — keynotes/featured on YouTube; most AI-track breakouts audio-only on schedule.sxsw.com.
+
+### TEDAI Vienna
+- Site: https://tedai-vienna.ted.com (hub: https://conferences.ted.com/ted-ai)
+- YouTube: https://www.youtube.com/@tedxvienna — [2025 playlist](https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ)
+- TED's annual AI conference (SF edition discontinued after Oct 2025). ⚠️ partial — panels free on YouTube; mainstage TED talks only selectively on TED.com.
+
+### Cerebral Valley AI Summit
+- Site: https://www.cerebralvalley.com
+- YouTube (Newcomer's channel): https://www.youtube.com/@newcomerpod — [summit playlist](https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV)
+- Invite-only SF summit; on-stage interviews with AI founders/CEOs. ✅ free.
+
+## Academic research conferences (not on YouTube)
+
+- **NeurIPS** — https://neurips.cc — free recordings via the virtual site (e.g. https://neurips.cc/virtual/2025, SlidesLive, free account, ~1 month post-event).
+- **ICML** — https://icml.cc — free recordings at https://icml.cc/virtual/2025 (1,600+ talks via SlidesLive).
+- **ICLR** — https://iclr.cc — free recordings at https://iclr.cc/virtual/2025.
+
+Research-oriented rather than practitioner-focused; recordings are on SlidesLive, so a YouTube transcript pipeline won't work for these.
+
+## Checked but weak sources (skip for transcript pipeline)
+
+- **HumanX** — https://www.humanx.co — ❌ gated: full recordings in attendee app / behind lead-capture form; YouTube has promos only.
+- **World Summit AI** — https://worldsummit.ai — ❌ full talks were posted through ~2023 ([2021 playlist](https://www.youtube.com/playlist?list=PL86bY2GqrAEFVhIAliVwnVhezTQkGRiVE)); 2024+ editions have only interviews/promos.
+- **Ai4** — https://ai4.io/ — ❌ YouTube channel (https://www.youtube.com/@Ai4) stale since Aug 2024; newer sessions registration-gated.
+- **ODSC** — https://odsc.com/ — ⚠️ curated free subset on https://www.youtube.com/@ODSCAI; complete catalog on the paid Ai+ platform.
+- **MLconf** — https://mlconf.com/ — ❌ appears dormant (last event Mar 2025, newest videos from 2022).
+- **AI Security Summit (Snyk)** — https://aisecuritysummit.com/ — ⚠️ videos linked individually from https://aisecuritysummit.com/videos; no single owned playlist found.

@@ -1,0 +1,1051 @@
+{
+  "slug": "apple-wwdc",
+  "name": "Apple WWDC",
+  "enumerated_at": "2026-08-30T21:49:10+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM",
+      "label": "WWDC25",
+      "year": 2025,
+      "count": 116
+    }
+  ],
+  "count": 115,
+  "videos": {
+    "-aMFBj-kwdU": {
+      "video_id": "-aMFBj-kwdU",
+      "title": "WWDC25: Explore prompt design & safety for on-device foundation models | Apple",
+      "duration_s": 1331,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "-eR9RTwEzGM": {
+      "video_id": "-eR9RTwEzGM",
+      "title": "WWDC25: What’s new in SF Symbols 7 | Apple",
+      "duration_s": 1372,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "0aaan-dQN0g": {
+      "video_id": "0aaan-dQN0g",
+      "title": "WWDC25: Finish tasks in the background | Apple",
+      "duration_s": 1119,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "0m6dimDDj8M": {
+      "video_id": "0m6dimDDj8M",
+      "title": "WWDC25: Bring advanced speech-to-text to your app with SpeechAnalyzer | Apple",
+      "duration_s": 1147,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "1YmmuwM8-O4": {
+      "video_id": "1YmmuwM8-O4",
+      "title": "WWDC25: Explore new advances in App Intents | Apple",
+      "duration_s": 1609,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "1yuF7tTk6To": {
+      "video_id": "1yuF7tTk6To",
+      "title": "WWDC25: Optimize home electricity usage with EnergyKit | Apple",
+      "duration_s": 928,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "3Cjnw-LIFTE": {
+      "video_id": "3Cjnw-LIFTE",
+      "title": "WWDC25: Explore spatial accessory input on visionOS | Apple",
+      "duration_s": 1064,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "3MugGCtm26A": {
+      "video_id": "3MugGCtm26A",
+      "title": "WWDC25: Build a SwiftUI app with the new design | Apple",
+      "duration_s": 1337,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "3b1ecu-Jobk": {
+      "video_id": "3b1ecu-Jobk",
+      "title": "WWDC25: Optimize SwiftUI performance with Instruments | Apple",
+      "duration_s": 2136,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "3wzUNua-JKg": {
+      "video_id": "3wzUNua-JKg",
+      "title": "WWDC25: What’s new in Xcode 26 | Apple",
+      "duration_s": 2217,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "41T0PEPZyHQ": {
+      "video_id": "41T0PEPZyHQ",
+      "title": "WWDC25: What’s new in App Store Connect | Apple",
+      "duration_s": 1551,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "4dJE4HjNOL4": {
+      "video_id": "4dJE4HjNOL4",
+      "title": "WWDC25: Learn more about Declarative Web Push | Apple",
+      "duration_s": 1168,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "4usD1hP1nYY": {
+      "video_id": "4usD1hP1nYY",
+      "title": "WWDC25: Create icons with Icon Composer | Apple",
+      "duration_s": 873,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "5XR9ZoDsghc": {
+      "video_id": "5XR9ZoDsghc",
+      "title": "WWDC25: Engage players with the Apple Games app | Apple",
+      "duration_s": 1276,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "6Wgg7DIY29E": {
+      "video_id": "6Wgg7DIY29E",
+      "title": "WWDC25: Deep dive into the Foundation Models framework | Apple",
+      "duration_s": 1532,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "6rVbxAnBiok": {
+      "video_id": "6rVbxAnBiok",
+      "title": "WWDC25: What’s new in Wallet | Apple",
+      "duration_s": 1235,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "81bsjbTN88g": {
+      "video_id": "81bsjbTN88g",
+      "title": "WWDC25: What’s new in visionOS 26 | Apple",
+      "duration_s": 2327,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "8IdpyCv7TRM": {
+      "video_id": "8IdpyCv7TRM",
+      "title": "WWDC25: Optimize your monetization with App Analytics | Apple",
+      "duration_s": 950,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "9mJ-mqiyhVU": {
+      "video_id": "9mJ-mqiyhVU",
+      "title": "WWDC25: Use structured concurrency with Network framework | Apple",
+      "duration_s": 1270,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "A31vmupv1eo": {
+      "video_id": "A31vmupv1eo",
+      "title": "WWDC25: Meet PaperKit | Apple",
+      "duration_s": 731,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "AAAk9j_qS1g": {
+      "video_id": "AAAk9j_qS1g",
+      "title": "WWDC25: Enhance your app’s audio recording capabilities | Apple",
+      "duration_s": 1159,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "AP2kex2cGJI": {
+      "video_id": "AP2kex2cGJI",
+      "title": "WWDC25: Design interactive snippets | Apple",
+      "duration_s": 448,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "B5dxw_j52PI": {
+      "video_id": "B5dxw_j52PI",
+      "title": "WWDC25: Get to know the ManagedApp Framework | Apple",
+      "duration_s": 1490,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "BiOQZWY6K8s": {
+      "video_id": "BiOQZWY6K8s",
+      "title": "WWDC25: What’s new in RealityKit | Apple",
+      "duration_s": 1569,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Bvn69U0NkjU": {
+      "video_id": "Bvn69U0NkjU",
+      "title": "WWDC25: Learn about Apple Immersive Video technologies | Apple",
+      "duration_s": 890,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "CR4Y4dTiV4g": {
+      "video_id": "CR4Y4dTiV4g",
+      "title": "WWDC25: Meet the HealthKit Medications API | Apple",
+      "duration_s": 1514,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "DS2ildqCrB0": {
+      "video_id": "DS2ildqCrB0",
+      "title": "WWDC25: Get to know the new design system | Apple",
+      "duration_s": 1095,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "EbRvY6j8d7g": {
+      "video_id": "EbRvY6j8d7g",
+      "title": "WWDC25: Enhance your app with machine-learning-based video effects | Apple",
+      "duration_s": 1018,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "FcVffRKGlns": {
+      "video_id": "FcVffRKGlns",
+      "title": "WWDC25: What’s new in BNNS Graph | Apple",
+      "duration_s": 1426,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "FyP9zLKD3PA": {
+      "video_id": "FyP9zLKD3PA",
+      "title": "WWDC25: Make your Mac app more accessible to everyone | Apple",
+      "duration_s": 740,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "GPQK-Qq66eM": {
+      "video_id": "GPQK-Qq66eM",
+      "title": "WWDC25: Enhance child safety with PermissionKit | Apple",
+      "duration_s": 698,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "GnBykJCoCEM": {
+      "video_id": "GnBykJCoCEM",
+      "title": "WWDC25: Get to know App Intents | Apple",
+      "duration_s": 1477,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "H-GCNsXdKzM": {
+      "video_id": "H-GCNsXdKzM",
+      "title": "WWDC25: Read documents using the Vision framework | Apple",
+      "duration_s": 1222,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Hh2TOTpzlHM": {
+      "video_id": "Hh2TOTpzlHM",
+      "title": "WWDC25: Explore video experiences for visionOS | Apple",
+      "duration_s": 1552,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "IrGYUq1mklk": {
+      "video_id": "IrGYUq1mklk",
+      "title": "WWDC25: Meet Liquid Glass | Apple",
+      "duration_s": 1173,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "JvQtvbhtXmo": {
+      "video_id": "JvQtvbhtXmo",
+      "title": "WWDC25: Meet Containerization | Apple",
+      "duration_s": 753,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "KUvb7pm1b3U": {
+      "video_id": "KUvb7pm1b3U",
+      "title": "WWDC25: Meet WebKit for SwiftUI | Apple",
+      "duration_s": 1320,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "KhmQDkefpVM": {
+      "video_id": "KhmQDkefpVM",
+      "title": "WWDC25: What’s new for the spatial web | Apple",
+      "duration_s": 1770,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "L0JQgZucb0c": {
+      "video_id": "L0JQgZucb0c",
+      "title": "WWDC25: Supercharge device connectivity with Wi-Fi Aware | Apple",
+      "duration_s": 1424,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "LhBcLbt0jqg": {
+      "video_id": "LhBcLbt0jqg",
+      "title": "WWDC25: Code-along: Cook up a rich text experience in SwiftUI with AttributedString | Apple",
+      "duration_s": 2111,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "LphymtcR67o": {
+      "video_id": "LphymtcR67o",
+      "title": "WWDC25: Filter and tunnel network traffic with NetworkExtension | Apple",
+      "duration_s": 1692,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "LtWMxxL4nsw": {
+      "video_id": "LtWMxxL4nsw",
+      "title": "WWDC25: What’s new in StoreKit and In-App Purchase | Apple",
+      "duration_s": 1209,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "LzBZjwEY9as": {
+      "video_id": "LzBZjwEY9as",
+      "title": "WWDC25: Improve memory usage and performance with Swift | Apple",
+      "duration_s": 1892,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "M3jpgZrB1uo": {
+      "video_id": "M3jpgZrB1uo",
+      "title": "WWDC25: Discover Apple-Hosted Background Assets | Apple",
+      "duration_s": 1506,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "MAD_BKetdFs": {
+      "video_id": "MAD_BKetdFs",
+      "title": "WWDC25: Level up your games | Apple",
+      "duration_s": 1390,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "NesT0MSTox8": {
+      "video_id": "NesT0MSTox8",
+      "title": "WWDC25: Bring Swift Charts to the third dimension | Apple",
+      "duration_s": 677,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "OR0C6V6lp1k": {
+      "video_id": "OR0C6V6lp1k",
+      "title": "WWDC25: SwiftData: Dive into inheritance and schema migration | Apple",
+      "duration_s": 1149,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "PrqyX42sgno": {
+      "video_id": "PrqyX42sgno",
+      "title": "WWDC25: What’s new in Apple Pay | Apple",
+      "duration_s": 1259,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Pvf8OLnAUGI": {
+      "video_id": "Pvf8OLnAUGI",
+      "title": "WWDC25: What’s new in Swift | Apple",
+      "duration_s": 2291,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "QSHO-GUGidA": {
+      "video_id": "QSHO-GUGidA",
+      "title": "WWDC25: Explore Swift and Java interoperability | Apple",
+      "duration_s": 1282,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "QYUFSEcwx4U": {
+      "video_id": "QYUFSEcwx4U",
+      "title": "WWDC25: Elevate the design of your iPad app | Apple",
+      "duration_s": 920,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "R3EgtCX1r-E": {
+      "video_id": "R3EgtCX1r-E",
+      "title": "WWDC25: Verify identity documents on the web | Apple",
+      "duration_s": 1964,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "RELnRZmb02c": {
+      "video_id": "RELnRZmb02c",
+      "title": "WWDC25: Optimize your custom environments for visionOS | Apple",
+      "duration_s": 1967,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "RcHcdGoAJTo": {
+      "video_id": "RcHcdGoAJTo",
+      "title": "WWDC25: What’s new in AdAttributionKit | Apple",
+      "duration_s": 1421,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "TI-XF0M8Ge0": {
+      "video_id": "TI-XF0M8Ge0",
+      "title": "WWDC25: Record, replay, and review: UI automation with Xcode | Apple",
+      "duration_s": 1482,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Tl7V0FvL384": {
+      "video_id": "Tl7V0FvL384",
+      "title": "WWDC25: Automate your development process with the App Store Connect API | Apple",
+      "duration_s": 999,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Ttxz8bVvX3s": {
+      "video_id": "Ttxz8bVvX3s",
+      "title": "WWDC25: Explore concurrency in SwiftUI | Apple",
+      "duration_s": 1496,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "UbzOBg8fsxo": {
+      "video_id": "UbzOBg8fsxo",
+      "title": "WWDC25: Get started with MLX for Apple silicon | Apple",
+      "duration_s": 1169,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Un6mgU-JyPw": {
+      "video_id": "Un6mgU-JyPw",
+      "title": "WWDC25: Design hover interactions for visionOS | Apple",
+      "duration_s": 850,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "UoFK7uY9MnY": {
+      "video_id": "UoFK7uY9MnY",
+      "title": "WWDC25: Code-along: Elevate an app with Swift concurrency | Apple",
+      "duration_s": 1977,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "VqTn9NgiE1s": {
+      "video_id": "VqTn9NgiE1s",
+      "title": "WWDC25: Build an AppKit app with the new design | Apple",
+      "duration_s": 1349,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "VtenPKrvPOU": {
+      "video_id": "VtenPKrvPOU",
+      "title": "WWDC25: Better together: SwiftUI and RealityKit | Apple",
+      "duration_s": 1825,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "WBmR7vObFw4": {
+      "video_id": "WBmR7vObFw4",
+      "title": "WWDC25: Make your UIKit app more flexible | Apple",
+      "duration_s": 1003,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "XFRw--lqftg": {
+      "video_id": "XFRw--lqftg",
+      "title": "WWDC25: Get ahead with quantum-secure cryptography | Apple",
+      "duration_s": 1210,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "XRDEnbdnIOY": {
+      "video_id": "XRDEnbdnIOY",
+      "title": "WWDC25: Develop for Shortcuts and Spotlight with App Intents | Apple",
+      "duration_s": 1136,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Xkz8gdFOF1o": {
+      "video_id": "Xkz8gdFOF1o",
+      "title": "WWDC25: Set the scene with SwiftUI in visionOS | Apple",
+      "duration_s": 1491,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "XsaB-BEjfio": {
+      "video_id": "XsaB-BEjfio",
+      "title": "WWDC25: Share visionOS experiences with nearby people | Apple",
+      "duration_s": 1386,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "XuX66Oljro0": {
+      "video_id": "XuX66Oljro0",
+      "title": "WWDC25: Code-along: Bring on-device AI to your app using the Foundation Models framework | Apple",
+      "duration_s": 1832,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "YC1tQ9Qql9I": {
+      "video_id": "YC1tQ9Qql9I",
+      "title": "WWDC25: What’s new in Apple device management and identity | Apple",
+      "duration_s": 1184,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "Z1N4ar9nfR4": {
+      "video_id": "Z1N4ar9nfR4",
+      "title": "WWDC25: Dive into App Store server APIs for In-App Purchase | Apple",
+      "duration_s": 1367,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "ZPg3Eel6n20": {
+      "video_id": "ZPg3Eel6n20",
+      "title": "WWDC25: Bring your SceneKit project to RealityKit | Apple",
+      "duration_s": 1662,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "ZUj3SaPZXDk": {
+      "video_id": "ZUj3SaPZXDk",
+      "title": "WWDC25: Capture cinematic video in your app | Apple",
+      "duration_s": 1108,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "_4zE0kV-qFw": {
+      "video_id": "_4zE0kV-qFw",
+      "title": "WWDC25: What’s new in widgets | Apple",
+      "duration_s": 1469,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "aAy-2nSy-Gc": {
+      "video_id": "aAy-2nSy-Gc",
+      "title": "WWDC25: What’s new in watchOS 26 | Apple",
+      "duration_s": 1256,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "bcKO4LZF3UY": {
+      "video_id": "bcKO4LZF3UY",
+      "title": "WWDC25: Create a seamless multiview playback experience | Apple",
+      "duration_s": 1174,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "cETgTtu6atM": {
+      "video_id": "cETgTtu6atM",
+      "title": "WWDC25: What’s new in SwiftUI | Apple",
+      "duration_s": 1557,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "dGcqqA3Sl-o": {
+      "video_id": "dGcqqA3Sl-o",
+      "title": "WWDC25: Design foundations from idea to interface | Apple",
+      "duration_s": 1146,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "dcfrrz9iCEE": {
+      "video_id": "dcfrrz9iCEE",
+      "title": "WWDC25: Code-along: Explore localization with Xcode | Apple",
+      "duration_s": 1293,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "eMFs-eapRJI": {
+      "video_id": "eMFs-eapRJI",
+      "title": "WWDC25: Support immersive video playback in visionOS apps | Apple",
+      "duration_s": 1532,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "ev2xZYzupD0": {
+      "video_id": "ev2xZYzupD0",
+      "title": "WWDC25: Combine Metal 4 machine learning and graphics | Apple",
+      "duration_s": 1781,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "fFPq_4_LCqo": {
+      "video_id": "fFPq_4_LCqo",
+      "title": "WWDC25: Safely mix C, C++, and Swift | Apple",
+      "duration_s": 1932,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "hibm7g_jC9s": {
+      "video_id": "hibm7g_jC9s",
+      "title": "WWDC25: Enhance your app’s multilingual experience | Apple",
+      "duration_s": 1238,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "hmWUjEORePM": {
+      "video_id": "hmWUjEORePM",
+      "title": "WWDC25: Meet SwiftUI spatial layout | Apple",
+      "duration_s": 1222,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "iJuN91nfyA0": {
+      "video_id": "iJuN91nfyA0",
+      "title": "WWDC25: Explore enhancements to your spatial business app | Apple",
+      "duration_s": 1537,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "iaafpzDJHS8": {
+      "video_id": "iaafpzDJHS8",
+      "title": "WWDC25: Make a big impact with small writing changes | Apple",
+      "duration_s": 962,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "ieX4Sbfpz0s": {
+      "video_id": "ieX4Sbfpz0s",
+      "title": "WWDC25: Enhancing your camera experience with capture controls | Apple",
+      "duration_s": 1160,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "kMjkUavPXyE": {
+      "video_id": "kMjkUavPXyE",
+      "title": "WWDC25: Go further with MapKit | Apple",
+      "duration_s": 1272,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "l-9tYm0U998": {
+      "video_id": "l-9tYm0U998",
+      "title": "WWDC25: Say hello to the new look of app icons | Apple",
+      "duration_s": 715,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "li0TMRDzyU8": {
+      "video_id": "li0TMRDzyU8",
+      "title": "WWDC25: Optimize CPU performance with Instruments | Apple",
+      "duration_s": 1979,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "mJMvFyBvZEk": {
+      "video_id": "mJMvFyBvZEk",
+      "title": "WWDC25: Meet the Foundation Models framework | Apple",
+      "duration_s": 1404,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "mV68bUYVSL0": {
+      "video_id": "mV68bUYVSL0",
+      "title": "WWDC25: What’s new in passkeys | Apple",
+      "duration_s": 1322,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "pD43DI-VA20": {
+      "video_id": "pD43DI-VA20",
+      "title": "WWDC25: Principles of inclusive app design | Apple",
+      "duration_s": 1270,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "p_NLUPC1EM0": {
+      "video_id": "p_NLUPC1EM0",
+      "title": "WWDC25: Customize your app for Assistive Access | Apple",
+      "duration_s": 937,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "r4GlApHWWZ8": {
+      "video_id": "r4GlApHWWZ8",
+      "title": "WWDC25: What’s new in Metal rendering for immersive apps | Apple",
+      "duration_s": 1480,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "r6LyKY07lsM": {
+      "video_id": "r6LyKY07lsM",
+      "title": "WWDC25: What’s new in Safari and WebKit | Apple",
+      "duration_s": 2827,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "rPp7HZFNXnM": {
+      "video_id": "rPp7HZFNXnM",
+      "title": "WWDC25: Unlock GPU computing with WebGPU | Apple",
+      "duration_s": 1313,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "rs7hP913ypo": {
+      "video_id": "rs7hP913ypo",
+      "title": "WWDC25: What’s new in UIKit | Apple",
+      "duration_s": 1563,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "sH4ka44WTBs": {
+      "video_id": "sH4ka44WTBs",
+      "title": "WWDC25: Dive deeper into Writing Tools | Apple",
+      "duration_s": 1074,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "sRzXt0w_Q-Y": {
+      "video_id": "sRzXt0w_Q-Y",
+      "title": "WWDC25: Go further with Metal 4 games | Apple",
+      "duration_s": 1607,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "sTr9RgI7gK0": {
+      "video_id": "sTr9RgI7gK0",
+      "title": "WWDC25: Learn about the Apple Projected Media Profile | Apple",
+      "duration_s": 1171,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "ss6aR5d9ogI": {
+      "video_id": "ss6aR5d9ogI",
+      "title": "WWDC25: Get started with Game Center | Apple",
+      "duration_s": 1777,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "t18z64iecZM": {
+      "video_id": "t18z64iecZM",
+      "title": "WWDC25: Discover Metal 4 | Apple",
+      "duration_s": 1446,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "t86tPExCAqc": {
+      "video_id": "t86tPExCAqc",
+      "title": "WWDC25: Wake up to the AlarmKit API | Apple",
+      "duration_s": 1107,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "tn2Hvw7eCsw": {
+      "video_id": "tn2Hvw7eCsw",
+      "title": "WWDC25: Explore large language models on Apple silicon with MLX | Apple",
+      "duration_s": 1209,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "u2rYp8AMuSg": {
+      "video_id": "u2rYp8AMuSg",
+      "title": "WWDC25: Embracing Swift concurrency | Apple",
+      "duration_s": 1681,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "uYBzcVClCe0": {
+      "video_id": "uYBzcVClCe0",
+      "title": "WWDC25: Integrate privacy into your development process | Apple",
+      "duration_s": 1542,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "uhMo6IEcR1w": {
+      "video_id": "uhMo6IEcR1w",
+      "title": "WWDC25: Build a UIKit app with the new design | Apple",
+      "duration_s": 1553,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "vSp_osjBiuU": {
+      "video_id": "vSp_osjBiuU",
+      "title": "WWDC25: Turbocharge your app for CarPlay | Apple",
+      "duration_s": 1329,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "vccG9jw83I4": {
+      "video_id": "vccG9jw83I4",
+      "title": "WWDC25: Profile and optimize power usage in your app | Apple",
+      "duration_s": 1183,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "veKJCSDvoZU": {
+      "video_id": "veKJCSDvoZU",
+      "title": "WWDC25: Deliver age-appropriate experiences in your app | Apple",
+      "duration_s": 817,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "wRuZBpU530s": {
+      "video_id": "wRuZBpU530s",
+      "title": "WWDC25: Explore Metal 4 games | Apple",
+      "duration_s": 1942,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "wa62EVj38vY": {
+      "video_id": "wa62EVj38vY",
+      "title": "WWDC25: Track workouts with HealthKit on iOS and iPadOS | Apple",
+      "duration_s": 684,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "wfTU7O7bJSU": {
+      "video_id": "wfTU7O7bJSU",
+      "title": "WWDC25: Evaluate your app for Accessibility Nutrition Labels | Apple",
+      "duration_s": 1448,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "wzQlws_Hxfw": {
+      "video_id": "wzQlws_Hxfw",
+      "title": "WWDC25: Discover machine learning & AI frameworks on Apple platforms | Apple",
+      "duration_s": 1168,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    },
+    "xV7iIXyOOzg": {
+      "video_id": "xV7iIXyOOzg",
+      "title": "WWDC25: Design widgets for visionOS | Apple",
+      "duration_s": 1264,
+      "channel": "Apple Developer",
+      "label": "WWDC25",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM"
+    }
+  }
+}

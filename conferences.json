@@ -1,0 +1,682 @@
+{
+  "version": 1,
+  "note": "Machine-readable mirror of ai-conferences.md. That file is the human curation and explains why each source is here; this one is what tools/sync_catalog.py reads. Keep them in sync — tools/check_registry.py compares them.",
+  "fields": {
+    "scope": "'all' keeps every session (the conference is entirely about AI); 'ai' keeps only sessions whose title/description/tags match atu.AI_RE (general conferences with AI tracks).",
+    "priority": "1 = fetch transcripts first. The caption endpoint is metered per IP, so the corpus is far bigger than any one sitting can transcribe; this is the rationing order.",
+    "sources[].first": "Only page N entries deep into a channel before filtering. Channels list newest first, so this is a recency cap.",
+    "sources[].year": "Set when a playlist is one edition, so the year filter works without per-video dates."
+  },
+  "conferences": [
+    {
+      "slug": "ai-engineer",
+      "name": "AI Engineer",
+      "category": "AI engineering & agents",
+      "site": "https://www.ai.engineer/",
+      "availability": "free",
+      "blurb": "The flagship practitioner conference for AI engineers (agents, LLM apps, MCP).",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@aiDotEngineer/videos", "label": "AI Engineer", "first": 900}
+      ]
+    },
+    {
+      "slug": "ai-dev-deeplearning",
+      "name": "AI Dev (DeepLearning.AI)",
+      "category": "AI engineering & agents",
+      "site": "https://ai-dev.deeplearning.ai/",
+      "availability": "free",
+      "blurb": "DeepLearning.AI's developer conference.",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "match": "AI Dev",
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@Deeplearningai/videos", "label": "DeepLearning.AI", "first": 400}
+      ]
+    },
+    {
+      "slug": "qcon-infoq",
+      "name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "site": "https://qconferences.com/",
+      "availability": "partial",
+      "blurb": "InfoQ's senior-engineer conferences, including QCon AI. Fresh recordings go to the paid Video Pass first; a free subset drips onto YouTube over months.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 600,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@infoq/videos", "label": "InfoQ", "first": 500}
+      ]
+    },
+    {
+      "slug": "wearedevelopers",
+      "name": "WeAreDevelopers World Congress",
+      "category": "Software dev with AI tracks",
+      "site": "https://www.wearedevelopers.com/en",
+      "availability": "free",
+      "blurb": "Europe's largest developer congress (Berlin), heavy AI programming.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@_wearedevs/videos", "label": "WeAreDevelopers", "first": 700}
+      ]
+    },
+    {
+      "slug": "ai-devcon-tessl",
+      "name": "AI DevCon (Tessl)",
+      "category": "AI engineering & agents",
+      "site": "https://tessl.io/devcon/",
+      "availability": "free",
+      "blurb": "Tessl's conference on AI-native software development.",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@tessl-ai/videos", "label": "Tessl", "first": 300}
+      ]
+    },
+    {
+      "slug": "langchain-interrupt",
+      "name": "LangChain Interrupt",
+      "category": "AI engineering & agents",
+      "site": "https://interrupt.langchain.com/",
+      "availability": "free",
+      "blurb": "LangChain's agent conference — production AI agents at Apple, Cisco, LinkedIn, Toyota.",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae2uJrYpdMZz_HbFfCfYIlVR", "label": "Interrupt 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLfaIDFEXuae3LIv3FbwVmqxw-s_WqP8iy", "label": "Interrupt 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "code-with-claude",
+      "name": "Code with Claude (Anthropic)",
+      "category": "AI engineering & agents",
+      "site": "https://claude.com/code-with-claude",
+      "availability": "free",
+      "blurb": "Anthropic's developer conference — Claude, Claude Code, MCP, agent building.",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLmWCw1CzcFim2obQ-w3ohbULOfwp5lApR", "label": "2026 San Francisco", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLmWCw1CzcFilPJdvw6scjHjbBripZWFps", "label": "2026 London", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLmWCw1CzcFinrtcyN6EMIp6KqrDj8sxD7", "label": "2026 Japan", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLf2m23nhTg1P5BsOHUOXyQz5RhfUSSVUi", "label": "2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "openai-devday",
+      "name": "OpenAI DevDay",
+      "category": "AI engineering & agents",
+      "site": "https://devday.openai.com/",
+      "availability": "free",
+      "blurb": "OpenAI's annual developer conference — keynotes and breakouts.",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o", "label": "DevDay 2025", "year": 2025},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y", "label": "DevDay 2024", "year": 2024},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz", "label": "DevDay 2023", "year": 2023}
+      ]
+    },
+    {
+      "slug": "mlops-world-tmls",
+      "name": "MLOps World / Toronto Machine Learning Summit",
+      "category": "AI engineering & agents",
+      "site": "https://mlopsworld.com/",
+      "availability": "free",
+      "blurb": "Practitioner events on production LLMs, RAG, agents and MLOps; one channel covers both.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@tmls-ai/videos", "label": "MLOps World / TMLS", "first": 700}
+      ]
+    },
+    {
+      "slug": "ray-summit",
+      "name": "Ray Summit (Anyscale)",
+      "category": "AI engineering & agents",
+      "site": "https://www.anyscale.com/ray-summit/2026",
+      "availability": "free",
+      "blurb": "Distributed AI infrastructure, LLM serving, the vLLM/Ray ecosystem.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "match": "Ray Summit|RaySummit",
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLzTswPQNepXnD-PksryocyeOPdK6CyZw6", "label": "Ray Summit 2025 keynotes", "year": 2025},
+        {"type": "channel", "url": "https://www.youtube.com/@anyscale/videos", "label": "Anyscale", "first": 400}
+      ]
+    },
+    {
+      "slug": "pytorch-conference",
+      "name": "PyTorch Conference",
+      "category": "AI engineering & agents",
+      "site": "https://events.linuxfoundation.org/pytorch-conference-north-america/",
+      "availability": "free",
+      "blurb": "PyTorch Foundation's annual NA + Europe conference: open-source AI engineering, vLLM, LLM infra, agents.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q", "label": "PyTorch Conference 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "pydata",
+      "name": "PyData",
+      "category": "AI engineering & agents",
+      "site": "https://pydata.org/",
+      "availability": "free",
+      "blurb": "NumFOCUS-run global series on practical Python ML/LLM tooling — one of the largest practical ML talk archives.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 600,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLGVZCDnMOq0qmerwB1eITnr5AfYRGm0DF", "label": "PyData Global 2025", "year": 2025},
+        {"type": "channel", "url": "https://www.youtube.com/@PyDataTV/videos", "label": "PyData", "first": 600}
+      ]
+    },
+    {
+      "slug": "the-ai-conference",
+      "name": "The AI Conference",
+      "category": "AI engineering & agents",
+      "site": "https://aiconference.com/",
+      "availability": "free",
+      "blurb": "Annual SF builder conference with LLM, agentic AI and infra tracks.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@aiconference/videos", "label": "The AI Conference", "first": 400}
+      ]
+    },
+    {
+      "slug": "dotai",
+      "name": "dotAI",
+      "category": "AI engineering & agents",
+      "site": "https://www.dotai.io/",
+      "availability": "free",
+      "blurb": "Curated single-track European conference (Paris) of 20-minute talks for engineers building AI.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "match": "dotAI",
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@dotconferences/videos", "label": "dot conferences", "first": 400}
+      ]
+    },
+    {
+      "slug": "fully-connected-wandb",
+      "name": "Fully Connected (Weights & Biases)",
+      "category": "AI engineering & agents",
+      "site": "https://fullyconnected.com/",
+      "availability": "free",
+      "blurb": "Practitioner series (SF/Tokyo/London) on LLM evaluation, agents and MLOps.",
+      "scope": "all",
+      "priority": 3,
+      "min_duration": 300,
+      "match": "Fully Connected",
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLD80i8An1OEEh-4vRV5PF6MgN7OYRB7v4", "label": "Fully Connected Tokyo 2025", "year": 2025},
+        {"type": "channel", "url": "https://www.youtube.com/@WeightsBiases/videos", "label": "Weights & Biases", "first": 300}
+      ]
+    },
+    {
+      "slug": "amld",
+      "name": "Applied Machine Learning Days",
+      "category": "AI engineering & agents",
+      "site": "https://appliedmldays.org/",
+      "availability": "free",
+      "blurb": "EPFL Lausanne (Feb); Europe's largest applied-ML event, an applied-research/industry mix.",
+      "scope": "all",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/c/AppliedMachineLearningDays/videos", "label": "AMLD", "first": 400}
+      ]
+    },
+    {
+      "slug": "goto",
+      "name": "GOTO Conferences",
+      "category": "Software dev with AI tracks",
+      "site": "https://gotopia.tech/",
+      "availability": "free",
+      "blurb": "Multi-city software engineering series with growing AI/LLM content, released ~daily over the year after each event.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 600,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@GOTO-/videos", "label": "GOTO", "first": 800}
+      ]
+    },
+    {
+      "slug": "ndc",
+      "name": "NDC Conferences",
+      "category": "Software dev with AI tracks",
+      "site": "https://ndcconferences.com/",
+      "availability": "free",
+      "blurb": "Year-round dev conference series (Oslo, London, Copenhagen, Sydney…); heavy practical AI/LLM/Copilot content.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 900,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@NDC/videos", "label": "NDC", "first": 800}
+      ]
+    },
+    {
+      "slug": "devoxx",
+      "name": "Devoxx",
+      "category": "Software dev with AI tracks",
+      "site": "https://devoxx.com/",
+      "availability": "free",
+      "blurb": "Community-run dev conference family; Belgium publishes all ~200 talks during conference week.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 900,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@DevoxxForever/videos", "label": "Devoxx", "first": 800}
+      ]
+    },
+    {
+      "slug": "kubecon",
+      "name": "KubeCon + CloudNativeCon",
+      "category": "Software dev with AI tracks",
+      "site": "https://www.cncf.io/kubecon-cloudnativecon-events/",
+      "availability": "free",
+      "blurb": "Production AI infra — GPU scheduling, inference and agentic workloads on Kubernetes.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL", "label": "KubeCon EU 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLj6h78yzYM2PnalRBhPCbxEm_rup1b3X0", "label": "Cloud Native AI + Kubeflow Day 2026", "year": 2026}
+      ]
+    },
+    {
+      "slug": "github-universe",
+      "name": "GitHub Universe",
+      "category": "Software dev with AI tracks",
+      "site": "https://githubuniverse.com/",
+      "availability": "partial",
+      "blurb": "The key event for AI-assisted development (Copilot, agentic coding). Keynotes + curated sessions on YouTube.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC", "label": "Universe 2025", "year": 2025},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P", "label": "Universe 2024", "year": 2024}
+      ]
+    },
+    {
+      "slug": "camlis",
+      "name": "CAMLIS",
+      "category": "AI security",
+      "site": "https://www.camlis.org/",
+      "availability": "free",
+      "blurb": "The premier practitioner conference at the ML/infosec intersection — AI red teaming, LLM attacks, ML for detection.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos", "label": "CAMLIS", "first": 400}
+      ]
+    },
+    {
+      "slug": "defcon-ai-village",
+      "name": "DEF CON AI Village",
+      "category": "AI security",
+      "site": "https://aivillage.org/",
+      "availability": "free",
+      "blurb": "Hands-on AI hacking and red-teaming community at DEF CON.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@aivillage/videos", "label": "AI Village", "first": 400},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ", "label": "DEF CON 27 AI Village", "year": 2019}
+      ]
+    },
+    {
+      "slug": "owasp-genai",
+      "name": "OWASP GenAI Security Project",
+      "category": "AI security",
+      "site": "https://genai.owasp.org/",
+      "availability": "free",
+      "blurb": "Community talks and summit recordings on LLM/agentic application security (LLM Top 10, Agentic AI Security).",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@GenAISecurityProject/videos", "label": "OWASP GenAI Security", "first": 400}
+      ]
+    },
+    {
+      "slug": "sans-ai-summit",
+      "name": "SANS AI Cybersecurity Summit",
+      "category": "AI security",
+      "site": "https://www.sans.org/cyber-security-summit/",
+      "availability": "free",
+      "blurb": "Annual summit on AI in cyber defence and securing AI systems.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh", "label": "AI Cybersecurity Summit 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F", "label": "AI Cybersecurity Summit 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "black-hat",
+      "name": "Black Hat",
+      "category": "AI security",
+      "site": "https://www.blackhat.com/",
+      "availability": "partial",
+      "blurb": "Flagship industry security conference; AI Summit since 2024 plus many AI/LLM briefings. Briefings reach YouTube ~6-12 months late.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@BlackHatOfficialYT/videos", "label": "Black Hat", "first": 600}
+      ]
+    },
+    {
+      "slug": "owasp-global-appsec",
+      "name": "OWASP Global AppSec",
+      "category": "AI security",
+      "site": "https://owasp.org/events/",
+      "availability": "free",
+      "blurb": "Appsec conference with a growing share of LLM/AI-security talks.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K", "label": "Global AppSec DC 2025", "year": 2025},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc", "label": "Global AppSec EU 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "bsides-lv",
+      "name": "BSides Las Vegas",
+      "category": "AI security",
+      "site": "https://bsideslv.org/",
+      "availability": "free",
+      "blurb": "Community conference; the Ground Truth track is dedicated to ML/data science in security, plus LLM/MCP/agent content.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@BsidesLVorg/videos", "label": "BSides Las Vegas", "first": 600}
+      ]
+    },
+    {
+      "slug": "satml",
+      "name": "IEEE SaTML",
+      "category": "AI security",
+      "site": "https://satml.org/",
+      "availability": "free",
+      "blurb": "Peer-reviewed venue for adversarial ML, privacy and trustworthy ML (academic).",
+      "scope": "all",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV", "label": "SaTML 2024", "year": 2024},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp", "label": "SaTML 2023", "year": 2023}
+      ]
+    },
+    {
+      "slug": "usenix-security",
+      "name": "USENIX Security Symposium",
+      "category": "AI security",
+      "site": "https://www.usenix.org/conference/usenixsecurity26",
+      "availability": "free",
+      "blurb": "Top academic security conference with a substantial adversarial-ML and LLM-security track, fully open access.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "match": "USENIX Security",
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@UsenixOrg/videos", "label": "USENIX Security", "first": 800}
+      ]
+    },
+    {
+      "slug": "rsac",
+      "name": "RSAC Conference",
+      "category": "AI security",
+      "site": "https://www.rsaconference.com/",
+      "availability": "partial",
+      "blurb": "World's largest security conference with a big AI security track. Keynotes and highlights on YouTube; most breakouts gated.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@OneRSAC/videos", "label": "RSAC", "first": 400}
+      ]
+    },
+    {
+      "slug": "microsoft-build",
+      "name": "Microsoft Build",
+      "category": "Vendor & platform",
+      "site": "https://build.microsoft.com/",
+      "availability": "free",
+      "blurb": "Hundreds of Copilot/agents/Azure AI breakout sessions.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU", "label": "Build 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj", "label": "Build 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "aws-reinvent",
+      "name": "AWS re:Invent",
+      "category": "Vendor & platform",
+      "site": "https://aws.amazon.com/events/reinvent",
+      "availability": "free",
+      "blurb": "Massive Bedrock/GenAI/agents breakout volume — the best volume of the vendor giants.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 900,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL2yQDdvlhXf9gdFFBcDPUHAJS7kkIkIet", "label": "re:Invent 2025 breakouts", "year": 2025}
+      ]
+    },
+    {
+      "slug": "google-io",
+      "name": "Google I/O",
+      "category": "Vendor & platform",
+      "site": "https://io.google/",
+      "availability": "free",
+      "blurb": "Gemini/AI, Android and Web — the complete session catalogue.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ6IFQouiKfM169TVOKx6Ej", "label": "I/O 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIL4mCDJICu2vLPNw-zdcGAt", "label": "I/O 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "google-cloud-next",
+      "name": "Google Cloud Next",
+      "category": "Vendor & platform",
+      "site": "https://cloud.withgoogle.com/next/",
+      "availability": "partial",
+      "blurb": "Enterprise cloud + AI. Keynotes and ~50 curated sessions on YouTube; the full catalogue is on the site.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLIivdWyY5sqLZY4WH03ns4Pt2B8VzE1fq", "label": "Next 2026", "year": 2026}
+      ]
+    },
+    {
+      "slug": "nvidia-gtc",
+      "name": "NVIDIA GTC",
+      "category": "Vendor & platform",
+      "site": "https://www.nvidia.com/gtc/",
+      "availability": "partial",
+      "blurb": "Flagship AI/accelerated-computing conference. Keynote + ~30 curated talks on YouTube; the rest is on NVIDIA On-Demand.",
+      "scope": "all",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT", "label": "GTC 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL5B692fm6--tCLg1NBPpsFGsIXOGbpVUa", "label": "GTC 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "databricks-dais",
+      "name": "Databricks Data + AI Summit",
+      "category": "Vendor & platform",
+      "site": "https://www.databricks.com/dataaisummit",
+      "availability": "free",
+      "blurb": "Lakehouse and agentic AI platforms; keynotes and many breakouts across two channels.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLTPXxbhUt-YV2itez3KGq_6FY1xgl8NKd", "label": "DAIS 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLdcsMc3thIRw3qMnFcsaDAbi9zgwKIWQ1", "label": "DAIS 2025 AI track", "year": 2025}
+      ]
+    },
+    {
+      "slug": "snowflake-summit",
+      "name": "Snowflake Summit",
+      "category": "Vendor & platform",
+      "site": "https://www.snowflake.com/en/summit/",
+      "availability": "partial",
+      "blurb": "AI Data Cloud conference. Dev sessions on YouTube; most breakouts behind a registration form.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH", "label": "Summit 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf", "label": "Summit 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "meta-connect",
+      "name": "Meta Connect + LlamaCon",
+      "category": "Vendor & platform",
+      "site": "https://www.meta.com/connect/",
+      "availability": "free",
+      "blurb": "Meta's AR/VR/AI developer conference, plus the Llama developer event.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS2cONiFVhtdKWEsyNkF6uUP", "label": "Connect 2025", "year": 2025},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLb0IAmt7-GS3JHFIJ0mQVsPJeDawImtf-", "label": "LlamaCon 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "apple-wwdc",
+      "name": "Apple WWDC",
+      "category": "Vendor & platform",
+      "site": "https://developer.apple.com/wwdc",
+      "availability": "free",
+      "blurb": "Apple Intelligence and on-device ML. developer.apple.com also hosts official written transcripts.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLjODKV8YBFHZKEn1wsUCL1n-q7tzysEBM", "label": "WWDC25", "year": 2025}
+      ]
+    },
+    {
+      "slug": "dreamforce",
+      "name": "Salesforce Dreamforce",
+      "category": "Vendor & platform",
+      "site": "https://www.salesforce.com/dreamforce/",
+      "availability": "partial",
+      "blurb": "AI/Agentforce-heavy enterprise conference. Keynotes on YouTube; 500+ breakouts on Salesforce+.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM", "label": "Dreamforce 2025 keynotes", "year": 2025}
+      ]
+    },
+    {
+      "slug": "web-summit",
+      "name": "Web Summit",
+      "category": "Industry & business",
+      "site": "https://websummit.com",
+      "availability": "free",
+      "blurb": "Massive general-tech conference (Lisbon + Rio/Doha/Vancouver) with heavy AI programming.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 480,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@WebSummit/videos", "label": "Web Summit", "first": 600}
+      ]
+    },
+    {
+      "slug": "slush",
+      "name": "Slush",
+      "category": "Industry & business",
+      "site": "https://slush.org",
+      "availability": "free",
+      "blurb": "Startup/VC conference (Helsinki) with substantial AI content.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 480,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/@slush/videos", "label": "Slush", "first": 400}
+      ]
+    },
+    {
+      "slug": "sxsw",
+      "name": "SXSW",
+      "category": "Industry & business",
+      "site": "https://www.sxsw.com",
+      "availability": "partial",
+      "blurb": "Austin festival with a dedicated AI track. Keynotes and featured sessions on YouTube; most breakouts are audio-only on the schedule site.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 600,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX", "label": "SXSW 2025 keynotes & featured", "year": 2025}
+      ]
+    },
+    {
+      "slug": "tedai-vienna",
+      "name": "TEDAI Vienna",
+      "category": "Industry & business",
+      "site": "https://tedai-vienna.ted.com",
+      "availability": "partial",
+      "blurb": "TED's annual AI conference. Panels free on YouTube; mainstage talks only selectively on TED.com.",
+      "scope": "all",
+      "priority": 3,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ", "label": "TEDAI Vienna 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "cerebral-valley",
+      "name": "Cerebral Valley AI Summit",
+      "category": "Industry & business",
+      "site": "https://www.cerebralvalley.com",
+      "availability": "free",
+      "blurb": "Invite-only SF summit; on-stage interviews with AI founders and CEOs.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV", "label": "Cerebral Valley AI Summit", "year": null}
+      ]
+    }
+  ]
+}

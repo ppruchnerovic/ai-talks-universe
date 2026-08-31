@@ -1,0 +1,274 @@
+{
+  "slug": "owasp-global-appsec",
+  "name": "OWASP Global AppSec",
+  "enumerated_at": "2026-08-30T21:48:08+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "count": 24
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc",
+      "label": "Global AppSec EU 2025",
+      "year": 2025,
+      "count": 4
+    }
+  ],
+  "count": 28,
+  "videos": {
+    "-KXnyvxF5Z8": {
+      "video_id": "-KXnyvxF5Z8",
+      "title": "How Latest Browser Security Features Eliminate Bug Classes",
+      "duration_s": 2554,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "1NA95XxW4_U": {
+      "video_id": "1NA95XxW4_U",
+      "title": "Ultimate Build Power, Itty Bitty Security Controls - OWASP's New Top 10 for Citizen Developer Risk",
+      "duration_s": 1596,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "2QQTbtFV-Kc": {
+      "video_id": "2QQTbtFV-Kc",
+      "title": "Keynote: Outside the Ivory Tower: Connecting Practice and Science - Dr. Kate Labunets",
+      "duration_s": 3329,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec EU 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+    },
+    "2lWJtdS8Wlo": {
+      "video_id": "2lWJtdS8Wlo",
+      "title": "OWASP Nettacker Project",
+      "duration_s": 1947,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "3YLmAgA6o7c": {
+      "video_id": "3YLmAgA6o7c",
+      "title": "How to Embed Privacy Threat Modeling in Agile Sprint Rituals Without Slowing Teams Down",
+      "duration_s": 2536,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "6KllX1F590o": {
+      "video_id": "6KllX1F590o",
+      "title": "Indirect Prompt Injection: Architectural Testing Approaches for Real World AI/ML Systems",
+      "duration_s": 2458,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "AJTxH00ia4w": {
+      "video_id": "AJTxH00ia4w",
+      "title": "Privacy by Design: What Are Engineers Supposed to Do With That?",
+      "duration_s": 1643,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "C4L5hPYl1Os": {
+      "video_id": "C4L5hPYl1Os",
+      "title": "Keynote by Daniel Miessler: The Future of AppSec Is Continuous Context",
+      "duration_s": 2759,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "CZdSGKoi90Y": {
+      "video_id": "CZdSGKoi90Y",
+      "title": "Keynote: Nemo Resideo: Managing Application Security Through Rapid Change - Sarah-Jane Madden",
+      "duration_s": 3025,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec EU 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+    },
+    "CsKqu9eob1w": {
+      "video_id": "CsKqu9eob1w",
+      "title": "Attacking AI",
+      "duration_s": 2858,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "Fe_C8qGFTvI": {
+      "video_id": "Fe_C8qGFTvI",
+      "title": "OWASP Global AppSec EU 2025 Closing Ceremony",
+      "duration_s": 1787,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec EU 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+    },
+    "HY7N8pAoIDM": {
+      "video_id": "HY7N8pAoIDM",
+      "title": "OWASP VXDF: Is that really vulnerable? Show me the VXDF!",
+      "duration_s": 1657,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "NedQMuX-ZnY": {
+      "video_id": "NedQMuX-ZnY",
+      "title": "Benchmarking Scanner Blind Spots: How Runtime Context Uncovers Hidden Vulns",
+      "duration_s": 2869,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "OImAVe14WUQ": {
+      "video_id": "OImAVe14WUQ",
+      "title": "Your RPA is Mine: Complete Takeover of RPA Ecosystems",
+      "duration_s": 2339,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "St1CrNS6OuM": {
+      "video_id": "St1CrNS6OuM",
+      "title": "The SCA Balancing Act",
+      "duration_s": 2451,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "THSfJIlPGPk": {
+      "video_id": "THSfJIlPGPk",
+      "title": "Keynote by Adam Shostack: Stop Trying to \"Manage Risk\"",
+      "duration_s": 3739,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "Vcg_DjYtQig": {
+      "video_id": "Vcg_DjYtQig",
+      "title": "OWASP AIVSS Project: What it is, why we need it and how we are doing it",
+      "duration_s": 1812,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "WkC2ZvjZFQw": {
+      "video_id": "WkC2ZvjZFQw",
+      "title": "Lost in Translation: Exploiting Unicode Normalization",
+      "duration_s": 2801,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "_IePZxgYLAI": {
+      "video_id": "_IePZxgYLAI",
+      "title": "OWASP Global AppSec EU 2025 Barcelona",
+      "duration_s": 57,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec EU 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8uwnHl-vyoUiKXcUbMElDc"
+    },
+    "auf7Fj26Tf8": {
+      "video_id": "auf7Fj26Tf8",
+      "title": "From Maturity to Mastery: Accelerating Software Security with OWASP SAMM",
+      "duration_s": 1677,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "jm3ZcgDr6i8": {
+      "video_id": "jm3ZcgDr6i8",
+      "title": "Peeling Back the Plastic: Finding 0-Days in IoT Devices",
+      "duration_s": 2851,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "l7wk5JJVSxg": {
+      "video_id": "l7wk5JJVSxg",
+      "title": "Two Paths to Security Upskilling: Startup and Enterprise",
+      "duration_s": 2649,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "qLKi_L5Mgf4": {
+      "video_id": "qLKi_L5Mgf4",
+      "title": "Security Champions at Scale: Transforming Security Culture by Aligning Incentives and Gamification",
+      "duration_s": 2616,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "rZJxDBNArS4": {
+      "video_id": "rZJxDBNArS4",
+      "title": "Beyond the Checklist: Building an AppSec Culture That Engineers Don’t Dread",
+      "duration_s": 1915,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "szeG5_a6zVU": {
+      "video_id": "szeG5_a6zVU",
+      "title": "How to Defend Your PKI Estate: Lessons Learned from Eight Years of CAA and Certificate Transparency",
+      "duration_s": 2804,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "wI8ml8WqmQc": {
+      "video_id": "wI8ml8WqmQc",
+      "title": "Plugins Gone Rogue: Attacking Developer Environments",
+      "duration_s": 2509,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "yGOXewm3DsA": {
+      "video_id": "yGOXewm3DsA",
+      "title": "OWASP Top 10 Annoucement",
+      "duration_s": 2708,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    },
+    "zVhdf3KjJ_4": {
+      "video_id": "zVhdf3KjJ_4",
+      "title": "From Soft Skills to Hard Data: Measuring the Impact of Culture and Security Champions",
+      "duration_s": 2774,
+      "channel": "OWASP Foundation",
+      "label": "Global AppSec DC 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLpr-xdpM8wG8MryXHpJ_KqCuJMplXB5-K"
+    }
+  }
+}

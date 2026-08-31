@@ -1,0 +1,53 @@
+---
+id: ZbBYL-kAoY0
+title: "The weekly developer show: Design Systems, Variable Fonts & Web Typography Demystified"
+slug: the-weekly-developer-show-design-systems-variable-fonts-web
+conference: wearedevelopers
+conference_name: "WeAreDevelopers World Congress"
+category: "Software dev with AI tracks"
+edition: "WeAreDevelopers"
+year: 2025
+speakers: []
+channel: "WeAreDevelopers"
+duration_min: 71
+published_at: 2025-05-09T12:27:02Z
+video_id: ZbBYL-kAoY0
+youtube_url: https://www.youtube.com/watch?v=ZbBYL-kAoY0
+tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "typography", "web design", "responsive design", "variable fonts", "CSS grid", "design systems", "accessibility", "frontend development", "Jason Pamental", "Beyond Tellerrand"]
+transcript: false
+---
+
+# The weekly developer show: Design Systems, Variable Fonts & Web Typography Demystified
+
+**Speaker not identified**
+
+`WeAreDevelopers World Congress` · `WeAreDevelopers` · `2025` · `71 min`
+
+`#conference` `#congress` `#Europe` `#tech` `#technology` `#IT` `#people` `#code` `#future` `#coding` `#programming` `#programmer` `#software` `#engineer` `#developer` `#developing` `#WeAreDevs` `#WeAreDevelopers` `#wearedevelopers` `#wearedevs` `#wearedeveloperslive` `#tech talks` `#typography` `#web design` `#responsive design` `#variable fonts` `#CSS grid` `#design systems` `#accessibility` `#frontend development` `#Jason Pamental` `#Beyond Tellerrand`
+
+[Watch the recording](https://www.youtube.com/watch?v=ZbBYL-kAoY0) · [Conference site](https://www.wearedevelopers.com/en)
+
+## Description
+
+Join us for this spontaneous yet deep-dive conversation with typography expert Jason Pamental, recorded live from Düsseldorf after the Beyond Tellerrand conference. With both guests rocking red beards and decades of experience, we explore responsive web typography, variable fonts, accessibility, performance trade-offs, and why Helvetica might not be your best choice. Whether you're a frontend dev, UX designer, or just curious about the invisible power of good type, this episode will leave you rethinking how you treat text on the web.
+
+00:07 Introduction
+01:14 Expert Guest
+03:21 Typography Challenges
+05:26 Variable Fonts
+08:13 AI & Creativity
+12:04 Design Trends
+17:18 CSS Tools
+22:35 Font Hosting
+25:38 Designer Insights
+41:33 Conclusion
+------------
+Welcome to WeAreDevelopers, the premier developer community in Europe! This is your one-stop destination for the latest tech insights, tutorials, and career advice to elevate your developer career.
+
+Stay updated with our weekly newsletter, Dev Digest, featuring the most recent tech trends, career guidance, and original content crafted by developers, for developers.
+
+Interested in advancing your career? Browse through our job board featuring over 300,000 jobs. Unlock exclusive job opportunities by creating your free developer profile at https://www.wearedevelopers.com
+
+Don't miss out on the annual highlight of every developer's calendar - the WeAreDevelopers World Congress. Network with 15,000 peers and learn from over 500 speakers.
+Secure your spot at https://www.wearedevelopers.com/world-congress and save 10% with the code "wearedevs_yt"
+------------

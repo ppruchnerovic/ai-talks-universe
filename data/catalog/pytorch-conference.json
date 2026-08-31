@@ -1,0 +1,1069 @@
+{
+  "slug": "pytorch-conference",
+  "name": "PyTorch Conference",
+  "enumerated_at": "2026-08-30T21:46:33+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "count": 117
+    }
+  ],
+  "count": 117,
+  "videos": {
+    "1IQxX2R2rzI": {
+      "video_id": "1IQxX2R2rzI",
+      "title": "Sponsored Session: Lightning Talk: Per-iteration PyTorch Visibility... - Shruti Verma & Yi-Ting Wu",
+      "duration_s": 686,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "1wV1ESbGrVQ": {
+      "video_id": "1wV1ESbGrVQ",
+      "title": "Blazing Fast GenAI Inference With Torch.compile - Richard Zou, Meta",
+      "duration_s": 1363,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "2QZ8Xd1rhXI": {
+      "video_id": "2QZ8Xd1rhXI",
+      "title": "Keynote Panel: Hardwares & Accelerators - D Patel, S Zhou, P Salanki, N Perumbeti, M Saroufim",
+      "duration_s": 1786,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "2TyulEkOMyU": {
+      "video_id": "2TyulEkOMyU",
+      "title": "Scaling Inference of O(10K)-length Sequence Recommendation Models Using... - S. Joshi & K. Rajesh",
+      "duration_s": 1526,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "2W0_oPJtHok": {
+      "video_id": "2W0_oPJtHok",
+      "title": "Keynote: Welcome Back - Matt White, with Special Guest Joe Spisak, Meta",
+      "duration_s": 478,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "2xcvgyO4F_o": {
+      "video_id": "2xcvgyO4F_o",
+      "title": "Lightning Talk: Flex Attention for Inference - Boyuan Feng & Driss Guessous, Meta",
+      "duration_s": 642,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "41SJlmrjpYk": {
+      "video_id": "41SJlmrjpYk",
+      "title": "Lightning Talk: Dynamic Shape Recompilations - Bob Ren, Meta",
+      "duration_s": 548,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "5MC-P33ng1k": {
+      "video_id": "5MC-P33ng1k",
+      "title": "Optimizing Long-Tail and MoE Challenges in Reinforcement Learning with SGLang - Chenyang Zhao, UCLA",
+      "duration_s": 1708,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "5ar9zi6VumI": {
+      "video_id": "5ar9zi6VumI",
+      "title": "Maximizing Luck in Reinforcement Learning - Daniel Han, Unsloth",
+      "duration_s": 1105,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "5vfcTjosGLg": {
+      "video_id": "5vfcTjosGLg",
+      "title": "PyTorch Symmetric Memory: A New Programming Paradigm for Distributed AI - Ke Wen & Chien-Chin Huang",
+      "duration_s": 1633,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "5vmbRVXBvVM": {
+      "video_id": "5vmbRVXBvVM",
+      "title": "Lightning Talk: Vllm-triton-backend: How To Get State-of-the-art Performance on... - B. Ringlein",
+      "duration_s": 567,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "6le9sNvBa1k": {
+      "video_id": "6le9sNvBa1k",
+      "title": "AI On-board of Satellites, Towards Autonomous Scientific Instruments - Vit Ruzicka, NASA",
+      "duration_s": 1787,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "6qU802syw8U": {
+      "video_id": "6qU802syw8U",
+      "title": "Sponsored Session: Lightning Talk: PyTorch and Democratization of AI Accelerators - Hong-Seok Kim",
+      "duration_s": 671,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "769v67Gj-yU": {
+      "video_id": "769v67Gj-yU",
+      "title": "Sponsored Session: Everything Everywhere all at Once: vLLM...- Brittany Rockwell & Shireen Kheradpey",
+      "duration_s": 1576,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "87T-irSjXfE": {
+      "video_id": "87T-irSjXfE",
+      "title": "Scaling KV Caches for LLMs: How LMCache + NIXL Handle Network and Storage...- J. Jiang & M. Khazraee",
+      "duration_s": 1972,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "8mXp_wcQYng": {
+      "video_id": "8mXp_wcQYng",
+      "title": "The Building Blocks of Agentic Al - Joe Spisak, Product Director, Meta Superintelligence Labs",
+      "duration_s": 377,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "8wdH9EZcZQM": {
+      "video_id": "8wdH9EZcZQM",
+      "title": "Designing and Building Custom Reinforcement Learning Environments for Fine-tuning LLMs - N. Bantilan",
+      "duration_s": 1493,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "9_v-HBLHfFk": {
+      "video_id": "9_v-HBLHfFk",
+      "title": "Sponsor Session: Low-Precision Inference without Quality Loss... - Pankaj Gupta & Philip Kiely",
+      "duration_s": 1570,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "A51vytMF06s": {
+      "video_id": "A51vytMF06s",
+      "title": "Sponsored Session: Accelerating GenAI Inference: From AWS Deep Learning... - P. Nguyen & A. Zhao",
+      "duration_s": 1481,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "ACxHFY_zUb8": {
+      "video_id": "ACxHFY_zUb8",
+      "title": "Keynote: Welcome & Opening Remarks - Matt White, Executive Director, PyTorch Foundation",
+      "duration_s": 1013,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "AXFD-spjgjs": {
+      "video_id": "AXFD-spjgjs",
+      "title": "Keynote: Marin: An Open Lab for Frontier AI - Percy Liang, Together",
+      "duration_s": 951,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "B-BXSRwAVdE": {
+      "video_id": "B-BXSRwAVdE",
+      "title": "Sponsored Session: PyTorch Distributed and Fault Tolerance - Tristan Rice, Meta",
+      "duration_s": 1447,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "B-NKBmwMvAs": {
+      "video_id": "B-NKBmwMvAs",
+      "title": "Transformers: Standardizing Model Definitions Across the PyTorch Ecosystem - L. Debut & A. Zucker",
+      "duration_s": 1511,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "B7U05Y4YcJg": {
+      "video_id": "B7U05Y4YcJg",
+      "title": "Keynote: Ray: A Distributed Compute Engine for AI - Robert Nishihara & Ion Stoica",
+      "duration_s": 872,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "BH4c7QrGB7E": {
+      "video_id": "BH4c7QrGB7E",
+      "title": "Lightning Talk: Hardware-Aware Python Packages ~ PyTorch and... - Jonathan Dekhtiar & Eli Uriegas",
+      "duration_s": 670,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "BW-Ht-5IxgM": {
+      "video_id": "BW-Ht-5IxgM",
+      "title": "Helion: A High-level DSL for Kernel Authoring - Jason Ansel, Meta",
+      "duration_s": 1650,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "C8dnNnva3uE": {
+      "video_id": "C8dnNnva3uE",
+      "title": "Controllable Generation of Synthetic Video Data With Human Motion - Vaclav Knapp",
+      "duration_s": 1063,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "DJxIc2HDiG8": {
+      "video_id": "DJxIc2HDiG8",
+      "title": "Sponsored Session: Amazingly Fast and Incredibly Scalable Inference... - Harry Kim & Laikh Tewari",
+      "duration_s": 1579,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "D_Y5-SGy838": {
+      "video_id": "D_Y5-SGy838",
+      "title": "Keynote: An OPEN Path to Super Intelligence - Eric Xing",
+      "duration_s": 1032,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Drnt6rkeA9c": {
+      "video_id": "Drnt6rkeA9c",
+      "title": "Lightning Talk: Model Checkpoint Compression With OpenZL - Nick Terrell & Teja Rao, Meta",
+      "duration_s": 542,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "DvFmVYA8nmA": {
+      "video_id": "DvFmVYA8nmA",
+      "title": "Unlocking Performance: Harnessing LLMs To Streamline GPU Kernel Development in... - Jiannan Wang",
+      "duration_s": 1194,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "EflwqcbRYYs": {
+      "video_id": "EflwqcbRYYs",
+      "title": "Keynote: Building the Open Agent Ecosystem Together: Introducing OpenEnv- Joe Spisak, Lysandre Debut",
+      "duration_s": 535,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "EoePOh9bTKs": {
+      "video_id": "EoePOh9bTKs",
+      "title": "Enabling Lightweight, High-Performance FSDP With NVIDIA GPU - J. Chang CN, C. Ye, X. Chen & S. Lym",
+      "duration_s": 1752,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Fvm2XYHH6Rw": {
+      "video_id": "Fvm2XYHH6Rw",
+      "title": "Sponsored Session: Empowering AI Everywhere: Democratizing PyTorch with Intel... - F. Zhao & E. Wang",
+      "duration_s": 1588,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "H-slZ-dfAjo": {
+      "video_id": "H-slZ-dfAjo",
+      "title": "Fault Tolerance Training at Pinterest - Chia-Wei Chen & Karthik Anantha Padmanabhan, Pinterest",
+      "duration_s": 1689,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "HNdEmnvMvGE": {
+      "video_id": "HNdEmnvMvGE",
+      "title": "Lightning Talk: A Stable Limited LibTorch ABI? How?! (and Why?) - Jane Xu, Meta",
+      "duration_s": 736,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "H_sCdQkp6jo": {
+      "video_id": "H_sCdQkp6jo",
+      "title": "DeepSpeed: Efficient Training Scalability for Deep Learning - Tunji Ruwase, Snowflake",
+      "duration_s": 1541,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "I4olDc6MmP8": {
+      "video_id": "I4olDc6MmP8",
+      "title": "Coding with AI - Chip Huyen, Tep Studio",
+      "duration_s": 1582,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "IJPKA-l0N7Y": {
+      "video_id": "IJPKA-l0N7Y",
+      "title": "Keynote Panel Discussion: Signal vs. Noise: Betting on AI’s Next Wave",
+      "duration_s": 2027,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "IMwmmw92fWs": {
+      "video_id": "IMwmmw92fWs",
+      "title": "Lightning Talk: But How Do You Autograd Through Your Simulator? Making a... - R. Dagli & S. Lamba",
+      "duration_s": 633,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "JEM-tA3XDjc": {
+      "video_id": "JEM-tA3XDjc",
+      "title": "An Open Source Post-Training Stack: Kubernetes + Ray + PyTorch + vLLM - Robert Nishihara, Anyscale",
+      "duration_s": 1390,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "JMbZBI0ypzc": {
+      "video_id": "JMbZBI0ypzc",
+      "title": "Lightning Talk: Unlock the Future of Generative AI: TorchTitan's Latest... - Tianyu Liu & Jiani Wang",
+      "duration_s": 682,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "JQYP2l8x6oQ": {
+      "video_id": "JQYP2l8x6oQ",
+      "title": "Keynote: vLLM & Deepspeed Updates - Simon Mo & Tunji Ruwase",
+      "duration_s": 591,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "KhRdtntTp-I": {
+      "video_id": "KhRdtntTp-I",
+      "title": "Sponsored Session: Arctic Inference: Breaking the Speed-Cost Tradeoff in LLM Serving - Aurick Qiao",
+      "duration_s": 1698,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "L4l2rrcLBRI": {
+      "video_id": "L4l2rrcLBRI",
+      "title": "Keynote Panel Discussion: Agentic AI - A. Dhinakaran, J. Liu, A. Jones, S. Colvin & B. Lorica",
+      "duration_s": 1659,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "LmpXU8UwREA": {
+      "video_id": "LmpXU8UwREA",
+      "title": "How Modern PyTorch Supercharges Multimodal Training and Inference at Luma AI - Thomas Neff, Luma AI",
+      "duration_s": 1505,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Nf2uSrdAW8U": {
+      "video_id": "Nf2uSrdAW8U",
+      "title": "Keynote: Welcome Back to Day 2 - Matt White, Executive Director, PyTorch Foundation",
+      "duration_s": 65,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "O51dr8WeUfY": {
+      "video_id": "O51dr8WeUfY",
+      "title": "Sponsored Session: Distributed Training in PyTorch: Zero to Hero - Corey Lowman, Lambda Labs",
+      "duration_s": 1479,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Olpz0imjPEE": {
+      "video_id": "Olpz0imjPEE",
+      "title": "Addressing the Challenges of Public Web Data - Greg Lindahl, Common Crawl",
+      "duration_s": 2430,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "PBnYxM8MXew": {
+      "video_id": "PBnYxM8MXew",
+      "title": "Rethinking the Transformer: Toward Native Multimodal Architectures - Bowen Peng, Nous Research",
+      "duration_s": 1540,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "QLDpiOOyyrE": {
+      "video_id": "QLDpiOOyyrE",
+      "title": "Kimi K2 and Our Contributions to Open Source - Yuxin Wu, Moonshot AI",
+      "duration_s": 1570,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "QlrGr-D4vTg": {
+      "video_id": "QlrGr-D4vTg",
+      "title": "Mapping the Open Model Landscape in 2025 - Nathan Lambert, Ai2",
+      "duration_s": 2058,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "R2NXTHrsFwU": {
+      "video_id": "R2NXTHrsFwU",
+      "title": "Efficient MoE Pre-training at Scale on AMD GPUs With TorchTitan -Liz Li & Yanyuan Qin, Matthias Reso",
+      "duration_s": 1538,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "RyFqJ82g4Yc": {
+      "video_id": "RyFqJ82g4Yc",
+      "title": "Sponsor Keynote: Build AI Anywhere with ROCm™ Software: AMD and PyTorch Bring... - Anush Elangovan",
+      "duration_s": 325,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "S35GNcO8mhk": {
+      "video_id": "S35GNcO8mhk",
+      "title": "Sponsored Session: Lightning Talk: PyTorch in Production: Boosting LLM Training and... - F. Hua",
+      "duration_s": 474,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "SeBoia7jcnI": {
+      "video_id": "SeBoia7jcnI",
+      "title": "“Many-model” Time Series Forecasting: Scaling PyTorch Training Across 1000s...- V. Sridhar & S. Chen",
+      "duration_s": 1540,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "SewGbEAx548": {
+      "video_id": "SewGbEAx548",
+      "title": "Generating State-of-the-Art GEMMs for Heterogeneous Hardware with... - Michael Lazos & Henry Tsang",
+      "duration_s": 1694,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "T3nA1nAaLss": {
+      "video_id": "T3nA1nAaLss",
+      "title": "Sponsored Session: Powering PyTorch: Decentralized Training for an Energy-Hungry Future - Greg Osuri",
+      "duration_s": 1383,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Tv71-g75OgU": {
+      "video_id": "Tv71-g75OgU",
+      "title": "vLLM: Easy, Fast, and Cheap LLM Serving for Everyone - Simon Mo, vLLM",
+      "duration_s": 1487,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "U4w8X8ycoY8": {
+      "video_id": "U4w8X8ycoY8",
+      "title": "Verl: A Flexible and Efficient RL Framework for LLMs - Hongpeng Guo & Ziheng Jiang, ByteDance Seed",
+      "duration_s": 1501,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "UEdGJGz8Eyg": {
+      "video_id": "UEdGJGz8Eyg",
+      "title": "The Future Is Tiled: Using CuTile & TileIR To Write Portable, High-performance GPU...- Jared Roesch",
+      "duration_s": 1673,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Up0EfrudTSQ": {
+      "video_id": "Up0EfrudTSQ",
+      "title": "mxfp8, mxfp4, nvfp4 formats and applications in PyTorch - Vasily Kuznetsov & Driss Guessous, Meta",
+      "duration_s": 1516,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "UwHjxYwdVdA": {
+      "video_id": "UwHjxYwdVdA",
+      "title": "The OpenMDW License Agreement: Simple, Permissive Terms for AI Model Materials - Steve Winslow",
+      "duration_s": 1250,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "VfERNHVmL4o": {
+      "video_id": "VfERNHVmL4o",
+      "title": "Sponsored Session: Lightning Talk: Build and Deploy AI Flows with an Agent Factory - Arjun Upadhyay",
+      "duration_s": 522,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "VmFcwjpt8vE": {
+      "video_id": "VmFcwjpt8vE",
+      "title": "Lightning Talk: In-Cluster Distributed Checkpointing: Optimizing Training... - G. Kroiz & S. Mishra",
+      "duration_s": 615,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Vnv5OalptH4": {
+      "video_id": "Vnv5OalptH4",
+      "title": "Sponsored Session: Building the Next Generation of Open Source AI Tooling - Travis Oliphant",
+      "duration_s": 1541,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "WkOs1dqSwRM": {
+      "video_id": "WkOs1dqSwRM",
+      "title": "Lightning Talk: FTorch: A Library To Couple PyTorch ML Models With Fortran Climate Models - M Archer",
+      "duration_s": 710,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "X2YbbDmCsOI": {
+      "video_id": "X2YbbDmCsOI",
+      "title": "Beyond TorchScript: The Future of C++ Inference in PyTorch - Sherlock Huang, Meta",
+      "duration_s": 1594,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "XdORM2pkyH8": {
+      "video_id": "XdORM2pkyH8",
+      "title": "Keynote: PyTorch Technical Deep Dive - Alban Desmaison, Peng Wu, Mark Saroufim & Edward Yang, Meta",
+      "duration_s": 2591,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "Ylp1Pt1nvEU": {
+      "video_id": "Ylp1Pt1nvEU",
+      "title": "Enabling VLLM V1 on AMD GPUs With Triton - Thomas Parnell, IBM Research & Aleksandr Malyshev, AMD",
+      "duration_s": 1344,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "aCseXqvTZtU": {
+      "video_id": "aCseXqvTZtU",
+      "title": "Thunder: Distribute and Optimize Your PyTorch Models With Zero... - Luca Antiga & Thomas Viehmann",
+      "duration_s": 1568,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "aoZwgbedQo4": {
+      "video_id": "aoZwgbedQo4",
+      "title": "Multi-Accelerator PyTorch Serving With NxD Inference and vLLM - Yahav Biran & Liangfu Chen, Amazon",
+      "duration_s": 1760,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "bc7x6cmMB8Q": {
+      "video_id": "bc7x6cmMB8Q",
+      "title": "Lightning Talk: Improved GEMM and SDPA Performance on ROCm With Composable Kernel - Andres Lugo, AMD",
+      "duration_s": 626,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "cuL3vER4QTU": {
+      "video_id": "cuL3vER4QTU",
+      "title": "Sponsored Session: Lightning Talk: Accelerated Software for a Post-Moore World - Jay Dawani",
+      "duration_s": 650,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "e3zKBo73CdA": {
+      "video_id": "e3zKBo73CdA",
+      "title": "Keynote: Closing Remarks - Matt White, Executive Director, PyTorch Foundation",
+      "duration_s": 356,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "ebklfF5XVs8": {
+      "video_id": "ebklfF5XVs8",
+      "title": "No GPU Left Behind: Scaling Online LLM Training With... - Mert Toslali & Yu Chin Fabian Lim",
+      "duration_s": 1127,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "fNxpOEctMwA": {
+      "video_id": "fNxpOEctMwA",
+      "title": "Keynote: Contributor Awards",
+      "duration_s": 565,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "fxvR3K5CV_A": {
+      "video_id": "fxvR3K5CV_A",
+      "title": "Lightning Talk: FlexCP: FlexAttention for Long Sequence Training... - Xilun Wu & Chien-Chin Huang",
+      "duration_s": 642,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "g98nnUiv7eA": {
+      "video_id": "g98nnUiv7eA",
+      "title": "Keynote: Towards Building Safe and Secure Agentic AI - Dawn Song, UC Berkeley",
+      "duration_s": 1118,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "gjPQ8J38SSw": {
+      "video_id": "gjPQ8J38SSw",
+      "title": "Breaking Heterogeneity Barriers: Unified Cloud-to-Robot AI System SW Stack for... - Yonghua Lin",
+      "duration_s": 1792,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "gkhc_nWaEYA": {
+      "video_id": "gkhc_nWaEYA",
+      "title": "Behind Every AI SBOM Lies a Minefield: Here's How to Not Step... - Matthew Crawford & Jimmy Ahlberg",
+      "duration_s": 1417,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "h6LjH6Jkaf0": {
+      "video_id": "h6LjH6Jkaf0",
+      "title": "PyTorch APIs for High Performance MoE Training and Inference - D. Vega-Myhre; Ke Wen & N. Gimelshein",
+      "duration_s": 1516,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "jNIareeaVTI": {
+      "video_id": "jNIareeaVTI",
+      "title": "Keynote: Foundations for AI+Science - Animashree (Anima) Anandkumar",
+      "duration_s": 1175,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "jgf-dGXJQk8": {
+      "video_id": "jgf-dGXJQk8",
+      "title": "Sponsored Session: Lightning Talk: Improving Drug Discovery with Machine Learning... - Simon Axelrod",
+      "duration_s": 646,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "kKUSK6995IA": {
+      "video_id": "kKUSK6995IA",
+      "title": "Bridging the Gap: Embedded Deployment of PyTorch Deep Learning Models in Complex Engineered Systems",
+      "duration_s": 1576,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "lH1QD7p8vjE": {
+      "video_id": "lH1QD7p8vjE",
+      "title": "Lightning Talk: What's New in Torch.onnx - Maanav Dalal & Justin Chu, Microsoft",
+      "duration_s": 688,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "lHq4Tl5lhjA": {
+      "video_id": "lHq4Tl5lhjA",
+      "title": "Keynote: The Physical Turing Test: Solving General Purpose Robotics - Jim Fan, NVIDIA",
+      "duration_s": 1120,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "m3N3csT0XCw": {
+      "video_id": "m3N3csT0XCw",
+      "title": "Sponsored Keynote: Unlocking AI at Scale for PyTorch Developers - Jeff Gehlhaar",
+      "duration_s": 482,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "mHC08Gf_xnc": {
+      "video_id": "mHC08Gf_xnc",
+      "title": "Sponsored Session: Lightning Talk: Accelerating Experimentation... - Niall Lyons & Luca Antiga",
+      "duration_s": 676,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "mfXIe_S53vA": {
+      "video_id": "mfXIe_S53vA",
+      "title": "Serving PyTorch LLMs at Scale: Disaggregated Inference With Kubernetes and Llm-d - M. Ayoub & C. Liu",
+      "duration_s": 1606,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "mket48-xpSk": {
+      "video_id": "mket48-xpSk",
+      "title": "Mojo + PyTorch: A Simpler, Faster Path To Custom Kernels - Spenser Bauman, Modular",
+      "duration_s": 1526,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "mzHed-fKHx8": {
+      "video_id": "mzHed-fKHx8",
+      "title": "Lightning Talk: Accelerating PyTorch FSDP Via Overlapping Collectives With In... - Nariaki Tateiwa",
+      "duration_s": 853,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "nDl6Aj9aPAI": {
+      "video_id": "nDl6Aj9aPAI",
+      "title": "The Building Blocks of Today’s and Tomorrow’s Language Models - Sebastian Raschka, RAIR Lab",
+      "duration_s": 2964,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "o1Ftb3gpeDs": {
+      "video_id": "o1Ftb3gpeDs",
+      "title": "Our Journey With TorchTitan - Linsong Chu & Garrett Goon, IBM Research",
+      "duration_s": 1780,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "oiAK4f3_o_0": {
+      "video_id": "oiAK4f3_o_0",
+      "title": "PyTorch-Native Stack for Agents - Allen Wang & Davide Testuggine, Meta",
+      "duration_s": 1596,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "rTi0z32i8XE": {
+      "video_id": "rTi0z32i8XE",
+      "title": "Lightning Talk: Challenges and Standardization in PyTorch Ecosystem... - Zesheng Zong & Ashok Emani",
+      "duration_s": 803,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "rX1ar5lcZy4": {
+      "video_id": "rX1ar5lcZy4",
+      "title": "Monarch: A Distributed Execution Engine for PyTorch - Colin Taylor & Zachary DeVito, Meta",
+      "duration_s": 1453,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "sdrJB_uJ6xo": {
+      "video_id": "sdrJB_uJ6xo",
+      "title": "Sponsored Session: Architecting AI: Efficient Models, Everywhere - Sharbani Roy, Arm",
+      "duration_s": 1200,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "toirKRTLgJA": {
+      "video_id": "toirKRTLgJA",
+      "title": "ExecuTorch 1.0: General Availability Status for Mobile and Embedded...- Mergen Nachin & Cemal Bilgin",
+      "duration_s": 1486,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "txxSXeBwp18": {
+      "video_id": "txxSXeBwp18",
+      "title": "Lifecycle of a Parameter - Philip Bontrager, Meta",
+      "duration_s": 1507,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "u5074_0k0UU": {
+      "video_id": "u5074_0k0UU",
+      "title": "From Model To Trust: Building Upon Tamper-proof ML Metadata Records - Mihai Maruseac, Google",
+      "duration_s": 1493,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "uM5yXhb60hw": {
+      "video_id": "uM5yXhb60hw",
+      "title": "Deploying GenAI for Audio Generation on Mobile CPUs With ExecuTorch - Gian Marco Iodice, Arm",
+      "duration_s": 1641,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "ujAURT7YG2g": {
+      "video_id": "ujAURT7YG2g",
+      "title": "Keynote: Robot Foundation Models - Sergey Levine",
+      "duration_s": 937,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "uolCS_94c4A": {
+      "video_id": "uolCS_94c4A",
+      "title": "Keynote: Olmo-Thinking: Training a Fully Open Reasoning Model - Nathan Lambert",
+      "duration_s": 926,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "vBLDv_bzgo8": {
+      "video_id": "vBLDv_bzgo8",
+      "title": "Sponsored Session: Lightning Talk: Efficient Inference Serving with Kubernetes Gateway... - Lin Sun",
+      "duration_s": 846,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "vX8i_ffDG9g": {
+      "video_id": "vX8i_ffDG9g",
+      "title": "Sponsored Session: Lightning Talk: Optimizing Model Inference with PyTorch 2.0 - Devansh Ghatak",
+      "duration_s": 675,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "v_z5BqWi0aI": {
+      "video_id": "v_z5BqWi0aI",
+      "title": "Sponsored Session: Beyond the Node: Scaling Inference with Cluster-Wide KVCache... - Alon Yariv",
+      "duration_s": 1124,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "w-A77TVr2fs": {
+      "video_id": "w-A77TVr2fs",
+      "title": "Keynote: Jeremy Howard, Founding Researcher at fast.ai in Conversation with Anna Tong, Forbes",
+      "duration_s": 1227,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "wDNfcv_fbWs": {
+      "video_id": "wDNfcv_fbWs",
+      "title": "Open Source Model Performance Optimization With SGLang - Yineng Zhang, Together AI",
+      "duration_s": 1485,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "wzgaGdcrPW0": {
+      "video_id": "wzgaGdcrPW0",
+      "title": "Keynote: Enabling PyTorch’s Thousand Ops for Software First Silicon Design - Andrew Ling",
+      "duration_s": 753,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "x4BvgEzZjsI": {
+      "video_id": "x4BvgEzZjsI",
+      "title": "Sponsored Session: Fine Tune Your AI Toolbox with GitHub Copilot, Azure AI Foundry... - Sarah Kaiser",
+      "duration_s": 1372,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "xWjXsP1E5mQ": {
+      "video_id": "xWjXsP1E5mQ",
+      "title": "Keynote: Recognizing the PyTorch Foundation CICD Infrastructure Community - Eli Uriegas",
+      "duration_s": 231,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "xYgP-vjFDi4": {
+      "video_id": "xYgP-vjFDi4",
+      "title": "Sponsored Keynote: From Transactions to Transformers: Hardware Built for... - Christian Jacobi",
+      "duration_s": 298,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "yUvAGaAROm4": {
+      "video_id": "yUvAGaAROm4",
+      "title": "Leveraging PyTorch for Generative AI in Distributed Edge Clouds - Tina Tsou",
+      "duration_s": 1480,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "yoJfYiodlos": {
+      "video_id": "yoJfYiodlos",
+      "title": "PyTorch Conference 2025 Recap",
+      "duration_s": 104,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "yoWC2gRxylU": {
+      "video_id": "yoWC2gRxylU",
+      "title": "Lightning Talk: KernelBot: The World's First Competitive GPU Programming Platform - Mark Saroufim",
+      "duration_s": 776,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    },
+    "zvoi3rRc6VI": {
+      "video_id": "zvoi3rRc6VI",
+      "title": "SPDX: Tackling System Risk in Modern Supply Chains - Kate Stewart & Gary O'Neall",
+      "duration_s": 1680,
+      "channel": "PyTorch",
+      "label": "PyTorch Conference 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL_lsbAsL_o2BUUxo6coMBFwQE31U4Eb2q"
+    }
+  }
+}

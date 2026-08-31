@@ -1,0 +1,30 @@
+---
+id: qc0T6Ya04vY
+title: "Fabio Lipreri & Gabriele Orlandi - Model Context Protocol | PyData Amsterdam 2025"
+slug: fabio-lipreri-gabriele-orlandi-model-context-protocol
+conference: pydata
+conference_name: "PyData"
+category: "AI engineering & agents"
+edition: "PyData"
+year: 2025
+speakers: []
+channel: null
+duration_min: 52
+published_at: null
+video_id: qc0T6Ya04vY
+youtube_url: https://www.youtube.com/watch?v=qc0T6Ya04vY
+tags: []
+transcript: false
+---
+
+# Fabio Lipreri & Gabriele Orlandi - Model Context Protocol | PyData Amsterdam 2025
+
+**Speaker not identified**
+
+`PyData` · `PyData` · `2025` · `52 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=qc0T6Ya04vY) · [Conference site](https://pydata.org/)
+
+## Description
+
+*No description published on YouTube.*

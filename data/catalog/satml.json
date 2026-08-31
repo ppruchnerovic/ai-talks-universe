@@ -1,0 +1,832 @@
+{
+  "slug": "satml",
+  "name": "IEEE SaTML",
+  "enumerated_at": "2026-08-30T21:48:18+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "count": 43
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "count": 47
+    }
+  ],
+  "count": 90,
+  "videos": {
+    "-t0a_FIEu2o": {
+      "video_id": "-t0a_FIEu2o",
+      "title": "SaTML 2023 - Gorka Abad - Sniper Backdoor: Single Client Targeted Backdoor Attack in FL",
+      "duration_s": 771,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "02uOzSHw8Ug": {
+      "video_id": "02uOzSHw8Ug",
+      "title": "SaTML 2023 - Wu and Tagomori - Toward Certified Robustness Against Real-World Distribution Shift",
+      "duration_s": 1102,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "1MnPh7eg5u0": {
+      "video_id": "1MnPh7eg5u0",
+      "title": "SaTML 2023 - Hartmann - Distribution inference risks: Identifying and mitigating sources of leakage",
+      "duration_s": 1055,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "1cZYfGHmPeQ": {
+      "video_id": "1cZYfGHmPeQ",
+      "title": "SaTML 2024 - Chulin Xie - Improving Private-Vertical FL by Efficient Communication with ADMM",
+      "duration_s": 792,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "236Pk_FE7jg": {
+      "video_id": "236Pk_FE7jg",
+      "title": "SaTML 2024 - Wenxin Ding - Towards Scalable and Robust Model Versioning",
+      "duration_s": 798,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "2UY85XlJcHY": {
+      "video_id": "2UY85XlJcHY",
+      "title": "SaTML 2023 - Edoardo Debenedetti - A Light Recipe to Train Robust Vision Transformers",
+      "duration_s": 850,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "2XBeGyOYzrE": {
+      "video_id": "2XBeGyOYzrE",
+      "title": "SaTML 2024 - Edoardo Debenedetti - Evading Black-box Classifiers Without Breaking Eggs",
+      "duration_s": 767,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "2_hzpV2g2R4": {
+      "video_id": "2_hzpV2g2R4",
+      "title": "SaTML 2023 - Hojjat Aghakhani - VENOMAVE: Targeted Poisoning Against Speech Recognition",
+      "duration_s": 851,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "2qWfWRdCvtY": {
+      "video_id": "2qWfWRdCvtY",
+      "title": "SaTML 2024 - Zhangheng Li - Shake to Leak: Amplifying the Generative Privacy Risk through Finetuning",
+      "duration_s": 1074,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "3rDlV7B39W4": {
+      "video_id": "3rDlV7B39W4",
+      "title": "SaTML 2024 - Ajith Suresh - ScionFL: Efficient and Robust Secure Quantized Aggregation",
+      "duration_s": 1247,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "40ZsbtfDVIk": {
+      "video_id": "40ZsbtfDVIk",
+      "title": "SaTML 2023 - Juba Ziani - Optimal Data Acquisition with Privacy-Aware Agents",
+      "duration_s": 863,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "5LZ8X9CZ9QE": {
+      "video_id": "5LZ8X9CZ9QE",
+      "title": "SaTML 2023 - James Bailey - Backdoor Attacks on Time Series: A Generative Approach",
+      "duration_s": 927,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "5YSnp9Er8Q8": {
+      "video_id": "5YSnp9Er8Q8",
+      "title": "SaTML 2024 - Tatsuki Koga - Differentially Private Multi-Site Treatment Effect Estimation",
+      "duration_s": 901,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "6X76sL0p3uA": {
+      "video_id": "6X76sL0p3uA",
+      "title": "SaTML 2023 - Kawakami - Validity Perspec on Evaluating Justified Use of Data-driven Decision-making",
+      "duration_s": 1057,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "7NiwaA52OJc": {
+      "video_id": "7NiwaA52OJc",
+      "title": "SaTML 2024 - Ashutosh Kumar Nirala - Fast Certification Using Incremental Randomized Smoothing",
+      "duration_s": 782,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "7UIwQdIjTu4": {
+      "video_id": "7UIwQdIjTu4",
+      "title": "SaTML 2023 - Florian Jaeckle - Neural Lower Bounds For Verification",
+      "duration_s": 777,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "81CkBA-ZGr4": {
+      "video_id": "81CkBA-ZGr4",
+      "title": "SaTML 2024 - Julien Ferry - Probabilistic Dataset Reconstruction from Interpretable Models",
+      "duration_s": 938,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "9bMVTpUB2WY": {
+      "video_id": "9bMVTpUB2WY",
+      "title": "SaTML 2023 - Guy Heller - Can Stochastic Grad Langevin Dynamics Provide Differential Privacy for DL?",
+      "duration_s": 850,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "9cTZPmqFz9k": {
+      "video_id": "9cTZPmqFz9k",
+      "title": "SaTML 2023 - Patrick Altmeyer - Endogenous Macrodynamics in Algorithic Recourse",
+      "duration_s": 860,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "9lqd2UINW-E": {
+      "video_id": "9lqd2UINW-E",
+      "title": "SaTML 2023 - Gautam Kamath - An Introduction to Differential Privacy",
+      "duration_s": 3570,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "9qz_fkHcCbI": {
+      "video_id": "9qz_fkHcCbI",
+      "title": "SaTML 2023 - Korbinian Koch - Machine Unlearning with SISA Comes at the Expense of Minority Classes",
+      "duration_s": 714,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "ARHI9163kXc": {
+      "video_id": "ARHI9163kXc",
+      "title": "SaTML 2023 - Anshuman Suri - Dissecting Distribution Inference",
+      "duration_s": 750,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "BoOHKJn2DRg": {
+      "video_id": "BoOHKJn2DRg",
+      "title": "SaTML 2023 - Kamalika Chaudhuri - Data Redaction from Pre-trained GANs",
+      "duration_s": 950,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "CacuArdL0w8": {
+      "video_id": "CacuArdL0w8",
+      "title": "SaTML 2023 - Stephen Casper - SoK: Toward Transparent AI: Interpreting the Inner Structures of DNNs",
+      "duration_s": 1091,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "Cek2bxF2RcI": {
+      "video_id": "Cek2bxF2RcI",
+      "title": "SaTML 2024 - Stephen Casper - CNN Interpretability Competition",
+      "duration_s": 2496,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "CgMl3ah6u8I": {
+      "video_id": "CgMl3ah6u8I",
+      "title": "SaTML 2023 - Nicolas Papernot - Opening Remarks",
+      "duration_s": 941,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "CrIn0we1Hvc": {
+      "video_id": "CrIn0we1Hvc",
+      "title": "SaTML 2023 - Sayanton Dibbo - Model Inversion Attack with Least Information",
+      "duration_s": 907,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "DJYmnaltynk": {
+      "video_id": "DJYmnaltynk",
+      "title": "SaTML 2023 - Sanjay Kariyappa - ExPLoit: Extracting Private Labels in Split Learning",
+      "duration_s": 847,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "Ee9QQDRPWds": {
+      "video_id": "Ee9QQDRPWds",
+      "title": "SaTML 2024 - Nishtha Madaan - Counterfactual Generation via Structured Diffusion",
+      "duration_s": 738,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "GHXQtR9JUIA": {
+      "video_id": "GHXQtR9JUIA",
+      "title": "SaTML 2023 - Minseon Kim - Rethinking the Entropy of Instance in Adversarial Training",
+      "duration_s": 503,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "GS3nK6RE_5c": {
+      "video_id": "GS3nK6RE_5c",
+      "title": "SaTML 2024 - Patrick Vossler - Conventional Fairness Metrics With Probabilistic Protected Features",
+      "duration_s": 700,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "GrPQ-qst5tc": {
+      "video_id": "GrPQ-qst5tc",
+      "title": "SaTML 2023 - Harsh Chaudhari - SafeNet: The Unreasonable Effectiveness of Ensembles in Private CL",
+      "duration_s": 878,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "HNPHNT0I5CI": {
+      "video_id": "HNPHNT0I5CI",
+      "title": "SaTML 2024 - Hiroya Kato - EdgePruner: Poisoned Edge Pruning in Graph Contrastive Learning",
+      "duration_s": 918,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "IMdnvljdBhA": {
+      "video_id": "IMdnvljdBhA",
+      "title": "SaTML 2023 - Mintong Kang - FaShapley Based Model Pruning Towards Certifiably Robust DNNs",
+      "duration_s": 751,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "IPs7BSNmy5A": {
+      "video_id": "IPs7BSNmy5A",
+      "title": "SaTML 2023 - Carlini & Jagielski - Improving train data extraction attacks on large language models",
+      "duration_s": 3483,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "IhoTb87gqHM": {
+      "video_id": "IhoTb87gqHM",
+      "title": "SaTML 2024 - Deborah Raji - Keynote - Audits and Accountability in the Age of 'AI'",
+      "duration_s": 3634,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "JodINm7redQ": {
+      "video_id": "JodINm7redQ",
+      "title": "SaTML 2024 - Edoardo Debenedetti & Daniel Paleka - Large Language Models Capture-the-Flag",
+      "duration_s": 3243,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "LKeI0v2H4ak": {
+      "video_id": "LKeI0v2H4ak",
+      "title": "SaTML 2024 - Ruinan Jin - Backdoor Attack on Un-paired Medical Image-Text Pretrained Models",
+      "duration_s": 780,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "LUrWRZ8ouTU": {
+      "video_id": "LUrWRZ8ouTU",
+      "title": "SaTML 2024 - Francesco Pinto - PILLAR: How to make semi-private learning more effective",
+      "duration_s": 727,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "MFRJ9zV3PUg": {
+      "video_id": "MFRJ9zV3PUg",
+      "title": "SaTML 2023 - Kenfack - Learning Fair Representations thr. Uniformly Distributed Sensitive Attributes",
+      "duration_s": 1083,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "MpkKEm8pHNs": {
+      "video_id": "MpkKEm8pHNs",
+      "title": "SaTML 2023 - Krishna Acharya - Wealth Dynamics Over Generations: Analysis and Interventions",
+      "duration_s": 788,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "OgYhvCMCp3s": {
+      "video_id": "OgYhvCMCp3s",
+      "title": "SaTML 2024 - Judy Hanwen Shen - SoK: Unifying Corroborative and Contributive Attributions in LLMs",
+      "duration_s": 816,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "P7XT4TWLzJw": {
+      "video_id": "P7XT4TWLzJw",
+      "title": "SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through AGI",
+      "duration_s": 2910,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "PAW7gEjVQx8": {
+      "video_id": "PAW7gEjVQx8",
+      "title": "SaTML 2024 - Yiwei Lu - Indiscriminate Data Poisoning Attacks on Pre-trained Feature Extractors",
+      "duration_s": 989,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "PQy0oH87F8Q": {
+      "video_id": "PQy0oH87F8Q",
+      "title": "SaTML 2023 - Nicolas Papernot - Closing Remarks",
+      "duration_s": 123,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "RPogAw8V6wI": {
+      "video_id": "RPogAw8V6wI",
+      "title": "SaTML 2024 - Yves-Alexandre de Montjoye - Tutorial - Detecting the use of copyright content by LLMs",
+      "duration_s": 2143,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "RtY0sYaZ0_w": {
+      "video_id": "RtY0sYaZ0_w",
+      "title": "SaTML 2023 - Yingyan Zeng - ModelPred: A Framework for Predicting Trained Model from Training Data",
+      "duration_s": 869,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "T5Yh3Sj4hFU": {
+      "video_id": "T5Yh3Sj4hFU",
+      "title": "SaTML 2024 - Lea Schönherr - CodeLMSec: Finding Security Vulnerabilities in Black-Box Code LMs",
+      "duration_s": 837,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "U-9pk4AUqAs": {
+      "video_id": "U-9pk4AUqAs",
+      "title": "SaTML 2024 - Carmela Troncoso & Nicolas Papernot - Closing Remarks",
+      "duration_s": 248,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "U48NlHZ82k8": {
+      "video_id": "U48NlHZ82k8",
+      "title": "SaTML 2024 - Lukas Fluri - Evaluating Superhuman Models with Consistency Checks",
+      "duration_s": 913,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "VmX1gEEbskY": {
+      "video_id": "VmX1gEEbskY",
+      "title": "SaTML 2024 - Amol Khanna - SoK: Differentially Private Linear Models For High Dimensional Data",
+      "duration_s": 834,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "WB5l2IZSPxM": {
+      "video_id": "WB5l2IZSPxM",
+      "title": "SaTML 2023 - Reza Nasirigerdeh - Kernel Normalized Convolutional Networks for Privacy-Preserving ML",
+      "duration_s": 1019,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "WEsX_X1Z__0": {
+      "video_id": "WEsX_X1Z__0",
+      "title": "SaTML 2024 - Francesco Croce - Prompt-Agnostic Evasion Attacks on Segmentation Models",
+      "duration_s": 1286,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "Wu-PNhk_ipc": {
+      "video_id": "Wu-PNhk_ipc",
+      "title": "SaTML 2024 - Achraf Azize - Concentrated Differential Privacy for Bandits",
+      "duration_s": 724,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "Y07_Imi7o20": {
+      "video_id": "Y07_Imi7o20",
+      "title": "SaTML 2024 - Somesh Jha - Keynote - Watermarking (The State of the Union)",
+      "duration_s": 2863,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "bKZUxkHUxAs": {
+      "video_id": "bKZUxkHUxAs",
+      "title": "SaTML 2023 - Arif - Reprogrammable-FL: Improving Utility-Priv Tradeoff in FL via Model Reprogramming",
+      "duration_s": 1073,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "c4moy8i-K7I": {
+      "video_id": "c4moy8i-K7I",
+      "title": "SaTML 2024 - Augustin Godinot - Under manipulations, are there AI models harder to audit?",
+      "duration_s": 861,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "cGk9X4UmXuU": {
+      "video_id": "cGk9X4UmXuU",
+      "title": "SaTML 2024 - Kamala Varma - Understanding and Mitigating the Causes of Inference Slowdown for LMs",
+      "duration_s": 922,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "d-f-elaiIt8": {
+      "video_id": "d-f-elaiIt8",
+      "title": "SaTML 2023 - Keith Manville and Deepesh Chaudhari - Model Attribution Challenge",
+      "duration_s": 3654,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "deaapyAYYbQ": {
+      "video_id": "deaapyAYYbQ",
+      "title": "SaTML 2023 - Katharina Beckh - SoK: Harnessing Prior Knowledge for Explainable Machine Learning",
+      "duration_s": 645,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "dnOnVZDlkl4": {
+      "video_id": "dnOnVZDlkl4",
+      "title": "SaTML 2023 - Nandakumar - PolyKervNets: Activation-free Neural Networks For Private Interference",
+      "duration_s": 1108,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "feUkMhkfJ7I": {
+      "video_id": "feUkMhkfJ7I",
+      "title": "SaTML 2024 - Zhifeng Kong - Data Redaction from Conditional Generative Models",
+      "duration_s": 959,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "g3voIynD8DU": {
+      "video_id": "g3voIynD8DU",
+      "title": "SaTML 2024 - Javier Rando - Find the Trojan: Universal Backdoor Detection in Aligned LLMs",
+      "duration_s": 1524,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "hD9h7PxTLFc": {
+      "video_id": "hD9h7PxTLFc",
+      "title": "SaTML 2023 - Xiaojun Xu - EDoG: Adversarial Edge Detection For Graph Neural Networks (virtual)",
+      "duration_s": 943,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "hDz3xWAEV_o": {
+      "video_id": "hDz3xWAEV_o",
+      "title": "SaTML 2023 - Giovanni Apruzzese - Real Attackers Don’t Compute Gradients",
+      "duration_s": 903,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "hhNB-Ud_WhM": {
+      "video_id": "hhNB-Ud_WhM",
+      "title": "SaTML 2024 - Sheila McIlraith - Tutorial - (Formal) Languages Help AI agents Learn and Reason",
+      "duration_s": 2854,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "hzD8qFxGEOQ": {
+      "video_id": "hzD8qFxGEOQ",
+      "title": "SaTML 2023 - Teresa Datta - Position: Tensions Between the Proxies of Human Values in AI",
+      "duration_s": 808,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "j3uoYEYRYf4": {
+      "video_id": "j3uoYEYRYf4",
+      "title": "SaTML 2024 - Quentin Le Roux - Black-Box Defense against DNN Backdoors with Rare Event Simulation",
+      "duration_s": 798,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "jDO2mpyfL7I": {
+      "video_id": "jDO2mpyfL7I",
+      "title": "SaTML 2024 - Carmela Troncoso and Nicolas Papernot - Opening Remarks",
+      "duration_s": 1325,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "jm4pfAP_hPs": {
+      "video_id": "jm4pfAP_hPs",
+      "title": "SaTML 2023 - Zico Kolter - Robustness in Machine Learning: A Five-Year Retrospective",
+      "duration_s": 3711,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "kb7NIRRMBrE": {
+      "video_id": "kb7NIRRMBrE",
+      "title": "SaTML 2023 - Sanghyun Hong - Publishing Efficient On-device Models Increases Adversarial Vuln.",
+      "duration_s": 771,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "lA0cDKLaTgI": {
+      "video_id": "lA0cDKLaTgI",
+      "title": "SaTML 2024 - Eleanor Clifford - Backdoors in compiled neural networks",
+      "duration_s": 715,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "lLqtqRFUHao": {
+      "video_id": "lLqtqRFUHao",
+      "title": "SaTML 2023 - Lorenzo Cazzaro - Explainable Global Fairness Verification of Tree-Based Classifiers",
+      "duration_s": 931,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "m-LbgnE3ojo": {
+      "video_id": "m-LbgnE3ojo",
+      "title": "SaTML 2023 - Liu - Towards Transferable Unrestricted Adversarial Examples with Minimum Changes",
+      "duration_s": 733,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "nIFQyxBMOVM": {
+      "video_id": "nIFQyxBMOVM",
+      "title": "SaTML 2024- Audra McMillan - Differentially Private Heavy Hitter Detection using Federated Analytics",
+      "duration_s": 955,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "o8IVA2iEc90": {
+      "video_id": "o8IVA2iEc90",
+      "title": "SaTML 2023 - Yao Qin - What Are Effective Labels for Augmented Data?",
+      "duration_s": 957,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "pQCCcCHvPsk": {
+      "video_id": "pQCCcCHvPsk",
+      "title": "SaTML 2023 - Ari Karchmer - Theoretical Limits of Provable Security Against Model Extraction",
+      "duration_s": 772,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "q30gKxOBPCE": {
+      "video_id": "q30gKxOBPCE",
+      "title": "SaTML 2024 - Andrew Geng - Model Reprogramming Outperforms Fine-tuning on OOD in Text-Image Encoders",
+      "duration_s": 842,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "qJvnOse3Btc": {
+      "video_id": "qJvnOse3Btc",
+      "title": "SaTML 2024 - Shengyuan Hu - Fair Federated Learning via Bounded Group Loss",
+      "duration_s": 1007,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "qL_wxIGFcik": {
+      "video_id": "qL_wxIGFcik",
+      "title": "SaTML 2023 - J. Zhang - CARE: Certifiably Robust Learning with Reasoning via Variational Inference",
+      "duration_s": 865,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "qtBzSdQP_Bg": {
+      "video_id": "qtBzSdQP_Bg",
+      "title": "SaTML 2023 - Zayd Hammoudeh - Reducing Certified Regression to Certified Classification",
+      "duration_s": 831,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "rTi1cJSJOe8": {
+      "video_id": "rTi1cJSJOe8",
+      "title": "SaTML 2024 - Chenxi Yang - Certifiably Robust RL through Model-Based Abstract Interpretation",
+      "duration_s": 729,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "uCAf-WockFM": {
+      "video_id": "uCAf-WockFM",
+      "title": "SaTML 2024 - Chris Leckie - Shattering the Illusion of Unexploitable Data using Diffusion Models",
+      "duration_s": 1120,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "uDvofIQUWR4": {
+      "video_id": "uDvofIQUWR4",
+      "title": "SaTML 2023 - Julien Ferry - Exploiting Fairness to Enhance Sensitive Attributes Reconstruction",
+      "duration_s": 790,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "uPH1xIiGZ4o": {
+      "video_id": "uPH1xIiGZ4o",
+      "title": "SaTML 2023 - Jacob Steinhardt - Aligning ML Systems with Human Intent",
+      "duration_s": 3429,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "ui4HMGe3aUs": {
+      "video_id": "ui4HMGe3aUs",
+      "title": "SaTML 2024 - Anshuman Suri - SoK: Pitfalls in Evaluating Black-Box Attacks",
+      "duration_s": 616,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "vMjsNmJ0RpY": {
+      "video_id": "vMjsNmJ0RpY",
+      "title": "SaTML 2024 - Joseph Near - OLYMPIA: A Simulation Framework for Evaluating Secure Aggregation",
+      "duration_s": 919,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "vqcQjdUcOaU": {
+      "video_id": "vqcQjdUcOaU",
+      "title": "SaTML 2024 - Shuai Tang - Improved Differentially Private Regression via Gradient Boosting",
+      "duration_s": 912,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    },
+    "wdu_xfmUsSY": {
+      "video_id": "wdu_xfmUsSY",
+      "title": "SaTML 2023 - Washington Garcia - Less is More: Dimension Reduction Finds On-Manifold Adversarial Ex",
+      "duration_s": 870,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2023",
+      "year": 2023,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq7MklvBGk31GeceuDB4Ofmp"
+    },
+    "yVDatyu9i5g": {
+      "video_id": "yVDatyu9i5g",
+      "title": "SaTML 2024 - Ryan Steed - SoK: AI Auditing: The Broken Bus on the Road to AI Accountability",
+      "duration_s": 895,
+      "channel": "Nicolas Papernot",
+      "label": "SaTML 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PLFG9vaKTeJq62wZPv6tPW23q-xYJxixMV"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# Only fetch_transcripts.py needs third-party packages. sync_catalog.py,
+# enrich.py, build_index.py and query.py run on the standard library — plus
+# yt-dlp on PATH, which enumerates the playlists.
+youtube-transcript-api>=1.0
+
+# Second exact-timing route, and the enumerator sync_catalog.py shells out to.
+# Reaches the caption track through a different Innertube client, so it
+# sometimes works when the API route is refused.
+yt-dlp>=2025.1.1

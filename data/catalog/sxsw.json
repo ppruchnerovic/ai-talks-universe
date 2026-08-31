@@ -1,0 +1,736 @@
+{
+  "slug": "sxsw",
+  "name": "SXSW",
+  "enumerated_at": "2026-08-30T21:49:28+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "count": 80
+    }
+  ],
+  "count": 80,
+  "videos": {
+    "-LQ6f_VIG2o": {
+      "video_id": "-LQ6f_VIG2o",
+      "title": "ILM Shares Secrets of Future Immersive Storytelling | SXSW LIVE",
+      "duration_s": 3569,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "2M77fWU3qBA": {
+      "video_id": "2M77fWU3qBA",
+      "title": "Fireside Chat with Arm CEO Rene Haas",
+      "duration_s": 3356,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "3vefsVC316Q": {
+      "video_id": "3vefsVC316Q",
+      "title": "A Conversation with Paul Feig",
+      "duration_s": 3530,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "4G7dpz8NDJw": {
+      "video_id": "4G7dpz8NDJw",
+      "title": "Lars Ulrich & Zane Lowe | SXSW LIVE",
+      "duration_s": 3525,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "4qUVsidV15k": {
+      "video_id": "4qUVsidV15k",
+      "title": "The Future of Music: Building a Superfan-Centric Business",
+      "duration_s": 3392,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "5dt5ZlcRVLU": {
+      "video_id": "5dt5ZlcRVLU",
+      "title": "A Conversation with Issa Rae | SXSW LIVE",
+      "duration_s": 3635,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "66I_jo7HuXc": {
+      "video_id": "66I_jo7HuXc",
+      "title": "Yellowjackets: Into the Wild of Season 3",
+      "duration_s": 3231,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "6KNm3XTkkhc": {
+      "video_id": "6KNm3XTkkhc",
+      "title": "The Happiness Lab Podcast: Live Taping with Dr. Laurie Santos",
+      "duration_s": 3307,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "6O1rzh8ytLU": {
+      "video_id": "6O1rzh8ytLU",
+      "title": "Ben Stiller Talks \"Severance\" with Eddy Cue",
+      "duration_s": 2579,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "74H_S8XOkww": {
+      "video_id": "74H_S8XOkww",
+      "title": "Why Solana Is Fueling the Future of Web3",
+      "duration_s": 3679,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "8lOLHjUdEXk": {
+      "video_id": "8lOLHjUdEXk",
+      "title": "Mapping Music Tech Money, From Seed to Exit",
+      "duration_s": 3597,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "91I7AGby93Q": {
+      "video_id": "91I7AGby93Q",
+      "title": "Rebooting AI from the Ground Up",
+      "duration_s": 3525,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "9qdhumHSuQQ": {
+      "video_id": "9qdhumHSuQQ",
+      "title": "Arlan Hamilton of Backstage Capital",
+      "duration_s": 3647,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "AyH7zoP-JOg": {
+      "video_id": "AyH7zoP-JOg",
+      "title": "The State of Personal Online Security and Confidentiality | SXSW LIVE",
+      "duration_s": 3577,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "B7OwcXCE5Rg": {
+      "video_id": "B7OwcXCE5Rg",
+      "title": "Bluesky's CEO on the Future of Social Media | SXSW LIVE",
+      "duration_s": 3388,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "FR0TD2Jqv6I": {
+      "video_id": "FR0TD2Jqv6I",
+      "title": "Learn to Love Your Tricky Brain and Unlock Your Greatest Leadership Gifts",
+      "duration_s": 3635,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Flzol-uo8UM": {
+      "video_id": "Flzol-uo8UM",
+      "title": "How Big Tech is Redefining the Future of Energy and AI",
+      "duration_s": 3684,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Fsg9ZXqpWFg": {
+      "video_id": "Fsg9ZXqpWFg",
+      "title": "The Missing Key to Living Longer, Healthier, and Happier | SXSW LIVE",
+      "duration_s": 3519,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "GcY1ySWlG0E": {
+      "video_id": "GcY1ySWlG0E",
+      "title": "Changemaking: How to Transition How We Live Now for a Better Future, Better Planet",
+      "duration_s": 3338,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Han9C8EEIs4": {
+      "video_id": "Han9C8EEIs4",
+      "title": "The Future Without Disease: Shaping the Next Era of Science",
+      "duration_s": 3527,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "I3IM8iZb26E": {
+      "video_id": "I3IM8iZb26E",
+      "title": "How Carbon Removal Is Preparing to Go Mainstream",
+      "duration_s": 3657,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "JC7fKZdbEH0": {
+      "video_id": "JC7fKZdbEH0",
+      "title": "“Me Time With You” with Kyle MacLachlan",
+      "duration_s": 3289,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "JQI0kmgH7LQ": {
+      "video_id": "JQI0kmgH7LQ",
+      "title": "Level Up. The 2025 State of Play on Games, Tech, and Media",
+      "duration_s": 3573,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Ja-MTe1VkfM": {
+      "video_id": "Ja-MTe1VkfM",
+      "title": "Unlock Your Creative Problem Solving Super Powers with Gen AI",
+      "duration_s": 3695,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "JqxR6voN_AQ": {
+      "video_id": "JqxR6voN_AQ",
+      "title": "How Technology Is Building Cities of the Future",
+      "duration_s": 3418,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "JuAY2_iEAnE": {
+      "video_id": "JuAY2_iEAnE",
+      "title": "The Future of Action Filmmaking with Robert Rodriguez",
+      "duration_s": 3193,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "KiNBcnUZhf8": {
+      "video_id": "KiNBcnUZhf8",
+      "title": "Healing Through Writing: A Book Talk with Astronaut Amanda Nguyen",
+      "duration_s": 3615,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "KwicOVok5ho": {
+      "video_id": "KwicOVok5ho",
+      "title": "Fostering Connection- Bumble’s AI-Powered Vision for Love",
+      "duration_s": 2399,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "M610GCdrYZ8": {
+      "video_id": "M610GCdrYZ8",
+      "title": "Mac Miller's Balloonerism: The Film Based on the Album",
+      "duration_s": 3302,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "NJX8DkV6CIQ": {
+      "video_id": "NJX8DkV6CIQ",
+      "title": "Fans Over Ticket Fees: Touring as a Band in the Age of Secondary Market Greed",
+      "duration_s": 3361,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "O3C3HK13hTY": {
+      "video_id": "O3C3HK13hTY",
+      "title": "Keith Lee Shares His Tips on How to Grow Your Audience | SXSW LIVE",
+      "duration_s": 3711,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "OGa0FhsmlK4": {
+      "video_id": "OGa0FhsmlK4",
+      "title": "A Conversation with Marc Maron | SXSW LIVE",
+      "duration_s": 3584,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "OHAauxNNESE": {
+      "video_id": "OHAauxNNESE",
+      "title": "Meet NEON: The Award-Winning Indie Studio | SXSW LIVE",
+      "duration_s": 3845,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Ohg-1Hf1lCU": {
+      "video_id": "Ohg-1Hf1lCU",
+      "title": "The Art and Science of Organic Trendbuilding for Climate Initiatives",
+      "duration_s": 3606,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "PgoDTWDeI4c": {
+      "video_id": "PgoDTWDeI4c",
+      "title": "Nadia Murad’s Fight for Human Rights and Justice",
+      "duration_s": 3585,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "PrJOQeaiZwc": {
+      "video_id": "PrJOQeaiZwc",
+      "title": "Mid-Century Modern Jewel Box: The History and Future of the Eames House",
+      "duration_s": 3494,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "QZrR1rc5NAA": {
+      "video_id": "QZrR1rc5NAA",
+      "title": "AI, Music & Creativity in the Imagination Age with Holly Herndon",
+      "duration_s": 3011,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "RD2rYKBvc5A": {
+      "video_id": "RD2rYKBvc5A",
+      "title": "10 Myths Busted: The Real Impact of AI and Emerging Tech",
+      "duration_s": 3596,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "SybvLk8SCo8": {
+      "video_id": "SybvLk8SCo8",
+      "title": "Breaking Barriers by Turning Prisoners into Firefighters | SXSW LIVE",
+      "duration_s": 3691,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "TD8Y--hqDFI": {
+      "video_id": "TD8Y--hqDFI",
+      "title": "Quantum Computing—The What, Why, and When",
+      "duration_s": 3403,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "TXEg9m1tK4U": {
+      "video_id": "TXEg9m1tK4U",
+      "title": "Johanna Faries Claiming the Future of Entertainment with Conan O'Brien | SXSW LIVE",
+      "duration_s": 3601,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "VWo3lodBfLU": {
+      "video_id": "VWo3lodBfLU",
+      "title": "Qualcomm Cristiano Amon: AI is the new UI - Transforming Your Everyday | SXSW LIVE",
+      "duration_s": 3596,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "WzqoukQoAos": {
+      "video_id": "WzqoukQoAos",
+      "title": "Speaking Truth to Crypto Power",
+      "duration_s": 3616,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "XLp-6vJnpjg": {
+      "video_id": "XLp-6vJnpjg",
+      "title": "The People’s Bid: Reclaiming a Voice, Choice, & Stake in the Future of the Internet | SXSW LIVE",
+      "duration_s": 3543,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "YfVO2SstTLI": {
+      "video_id": "YfVO2SstTLI",
+      "title": "7 Non-Obvious Secrets Of Understanding PeopleTo Predict the Future",
+      "duration_s": 2998,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Z1SYby4RBFk": {
+      "video_id": "Z1SYby4RBFk",
+      "title": "John Fogerty in Conversation with Tom Morello",
+      "duration_s": 3799,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "Zu8iDI7S75s": {
+      "video_id": "Zu8iDI7S75s",
+      "title": "A Conversation with Taylor Tomlinson | SXSW 2025",
+      "duration_s": 3417,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "_59oXuQKDJ4": {
+      "video_id": "_59oXuQKDJ4",
+      "title": "The Secrets of Success Behind Partiful: The App That Transformed Digital Party Planning",
+      "duration_s": 3748,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "_kVaiqWVqwA": {
+      "video_id": "_kVaiqWVqwA",
+      "title": "Reproductive Freedom: Good for Workers, Good for Business",
+      "duration_s": 3325,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "a-khNQBVym8": {
+      "video_id": "a-khNQBVym8",
+      "title": "The State of Film & TV Streaming Metrics in 2025",
+      "duration_s": 3300,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "clZiDNRB4EY": {
+      "video_id": "clZiDNRB4EY",
+      "title": "The State of IRL to Online: Where Social Media Will Take Us Next",
+      "duration_s": 3711,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "f1_6R2rCUFY": {
+      "video_id": "f1_6R2rCUFY",
+      "title": "Kesha, ALOK, & More on Fighting Loneliness in Our Digital World",
+      "duration_s": 3328,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "fw53okzy0R4": {
+      "video_id": "fw53okzy0R4",
+      "title": "Rare Beauty's CMO on Brand and Community Building",
+      "duration_s": 2558,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "hWeVAX1LwII": {
+      "video_id": "hWeVAX1LwII",
+      "title": "The 2025 Design in Tech Report: How AI Will Turn Designers into \"Autodesigners\"",
+      "duration_s": 3308,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "htKWD1msT5A": {
+      "video_id": "htKWD1msT5A",
+      "title": "Behind the Indie Music Labels Who Are Achieving Long-Term Success",
+      "duration_s": 3520,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "iO2FGNnJ_Mk": {
+      "video_id": "iO2FGNnJ_Mk",
+      "title": "How Gen Z is Rebuilding Social Media from the Ground Up",
+      "duration_s": 3560,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "iu_wg6gfhVE": {
+      "video_id": "iu_wg6gfhVE",
+      "title": "The Great Rethinking: How to Navigate the Future of Work",
+      "duration_s": 3581,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "j1Da-rmks9A": {
+      "video_id": "j1Da-rmks9A",
+      "title": "Rep. Ayanna Pressley on the State of Reproductive Freedom | SXSW LIVE",
+      "duration_s": 3445,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "kInm5xD3RYo": {
+      "video_id": "kInm5xD3RYo",
+      "title": "The State of the Music Business in 2025",
+      "duration_s": 3612,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "krSy6fI0SBU": {
+      "video_id": "krSy6fI0SBU",
+      "title": "Hideo Kojima on DEATH STRANDING 2: ON THE BEACH | SXSW LIVE",
+      "duration_s": 2763,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "lPYb9bu68dg": {
+      "video_id": "lPYb9bu68dg",
+      "title": "Visual Healing: Fantastic Fungi's Louie Schwartzberg",
+      "duration_s": 995,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "lfJE56XPEic": {
+      "video_id": "lfJE56XPEic",
+      "title": "Kevin Bacon: A Career Retrospective From Footloose to The Bondsman",
+      "duration_s": 3272,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "mLKsMZ37VNk": {
+      "video_id": "mLKsMZ37VNk",
+      "title": "Pattern Breakers: Why Some Start-ups Change the Future",
+      "duration_s": 3653,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "o7qVCcUdXPs": {
+      "video_id": "o7qVCcUdXPs",
+      "title": "These Are the Next People Going to the Moon: Artemis II | SXSW LIVE",
+      "duration_s": 3430,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "oLU_CVmxbPw": {
+      "video_id": "oLU_CVmxbPw",
+      "title": "Everything You Need to Know About Holographic Technology",
+      "duration_s": 3478,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "oT33_MrqyHo": {
+      "video_id": "oT33_MrqyHo",
+      "title": "Amy Webb Launches 2025 Emerging Tech Trend Report | SXSW LIVE",
+      "duration_s": 4148,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "p79gZTZD4Xk": {
+      "video_id": "p79gZTZD4Xk",
+      "title": "The Company Trying to Clone Woolly Mammoths on Saving Existing Species | SXSW LIVE",
+      "duration_s": 3700,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "q6SjHZHE81s": {
+      "video_id": "q6SjHZHE81s",
+      "title": "Futurist Shows What Actual AI-Powered Company Looks Like | SXSW LIVE",
+      "duration_s": 3907,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "rdRi-PMQwVw": {
+      "video_id": "rdRi-PMQwVw",
+      "title": "The Dawn of Physical AI",
+      "duration_s": 3630,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "sf2gRlb7bkc": {
+      "video_id": "sf2gRlb7bkc",
+      "title": "Spill the Tea: A Strategic Guide to Office Gossip with Amy Gallo",
+      "duration_s": 2978,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "srQwyArPnP8": {
+      "video_id": "srQwyArPnP8",
+      "title": "10 Key Breakthrough Technologies of 2025",
+      "duration_s": 3234,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "uZr3vWmqP7A": {
+      "video_id": "uZr3vWmqP7A",
+      "title": "The Future of World-Building at Disney | SXSW LIVE",
+      "duration_s": 2492,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "vSFrlsSfB0Y": {
+      "video_id": "vSFrlsSfB0Y",
+      "title": "AI's Evolving Role in the Media Industry | SXSW LIVE",
+      "duration_s": 3081,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "vjLYIVh6Dwc": {
+      "video_id": "vjLYIVh6Dwc",
+      "title": "'The Last of Us' Cast Talks About Season 2 with Show Creators | SXSW LIVE",
+      "duration_s": 3599,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "vkJfCMycJRk": {
+      "video_id": "vkJfCMycJRk",
+      "title": "50% of Small Businesses Fail, Don't Be One of Them: Mark Cuban | SXSW LIVE",
+      "duration_s": 3501,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "vuIs-uLAsVo": {
+      "video_id": "vuIs-uLAsVo",
+      "title": "Don't Die with Bryan Johnson | SXSW LIVE",
+      "duration_s": 3307,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "wGNuTdIQ-nk": {
+      "video_id": "wGNuTdIQ-nk",
+      "title": "IBM's Arvind Krishna on the Future of AI and Quantum Computing | SXSW LIVE",
+      "duration_s": 2720,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "wd6mho8V6qQ": {
+      "video_id": "wd6mho8V6qQ",
+      "title": "How to Make a Funny Comedy Show",
+      "duration_s": 3702,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "xWL4Y23gYRk": {
+      "video_id": "xWL4Y23gYRk",
+      "title": "AI’s Agentic Near Future",
+      "duration_s": 3552,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    },
+    "y9WPp-g0LBs": {
+      "video_id": "y9WPp-g0LBs",
+      "title": "Weirding the Digital: An Invocation with Douglas Rushkoff",
+      "duration_s": 3421,
+      "channel": "SXSW",
+      "label": "SXSW 2025 keynotes & featured",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLXs_3rGeYdInegaGGlB6g6_DU3NZK0sgX"
+    }
+  }
+}

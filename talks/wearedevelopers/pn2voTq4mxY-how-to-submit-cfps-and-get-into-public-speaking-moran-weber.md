@@ -1,0 +1,35 @@
+---
+id: pn2voTq4mxY
+title: "How to Submit CFPs and Get into Public Speaking - Moran Weber"
+slug: how-to-submit-cfps-and-get-into-public-speaking-moran-weber
+conference: wearedevelopers
+conference_name: "WeAreDevelopers World Congress"
+category: "Software dev with AI tracks"
+edition: "WeAreDevelopers"
+year: 2026
+speakers: ["Moran Weber"]
+channel: "WeAreDevelopers"
+duration_min: 51
+published_at: 2026-07-23T10:43:04Z
+video_id: pn2voTq4mxY
+youtube_url: https://www.youtube.com/watch?v=pn2voTq4mxY
+tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+transcript: false
+---
+
+# How to Submit CFPs and Get into Public Speaking - Moran Weber
+
+**Moran Weber**
+
+`WeAreDevelopers World Congress` · `WeAreDevelopers` · `2026` · `51 min`
+
+`#conference` `#congress` `#Europe` `#tech` `#technology` `#IT` `#people` `#code` `#future` `#coding` `#programming` `#programmer` `#software` `#engineer` `#developer` `#developing` `#WeAreDevs` `#WeAreDevelopers` `#wearedevelopers` `#wearedevs` `#wearedeveloperslive` `#tech talks`
+
+[Watch the recording](https://www.youtube.com/watch?v=pn2voTq4mxY) · [Conference site](https://www.wearedevelopers.com/en)
+
+## Description
+
+On this episode of Coffee with Developers we sit down with Women on Stage CEO Moran Weber to hear her insights into how developers can build confidence with public speaking, and how to nail a CFP.
+
+WeAreDevelopers is the global platform for developers and AI professionals to grow, connect, and lead in the age of AI. Millions of professionals use our year-round platform to build skills, explore thousands of hours of expert content, find career opportunities, and engage with a community that shares knowledge at scale. Companies partner with us to reach developers authentically, strengthening their employer brand, engaging top talent, and showcasing their products to a global network. Our flagship events in Europe, North America, and India bring together the world’s leading engineers, tech leaders, and companies. Together, we are driving the innovations that define the next era of technology.
+Head to worldcongress.dev to secure 10% with the code "wearedevs_yt"

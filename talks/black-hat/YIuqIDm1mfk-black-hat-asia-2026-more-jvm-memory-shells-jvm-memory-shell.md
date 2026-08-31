@@ -1,0 +1,40 @@
+---
+id: YIuqIDm1mfk
+title: "Black Hat Asia 2026 | More JVM Memory Shells: JVM Memory Shell Auto Searching Program"
+slug: black-hat-asia-2026-more-jvm-memory-shells-jvm-memory-shell
+conference: black-hat
+conference_name: "Black Hat"
+category: "AI security"
+edition: "Black Hat"
+year: 2026
+speakers: []
+channel: "Black Hat"
+duration_min: 28
+published_at: 2026-08-23T13:30:07Z
+video_id: YIuqIDm1mfk
+youtube_url: https://www.youtube.com/watch?v=YIuqIDm1mfk
+tags: []
+transcript: false
+---
+
+# Black Hat Asia 2026 | More JVM Memory Shells: JVM Memory Shell Auto Searching Program
+
+**Speaker not identified**
+
+`Black Hat` · `Black Hat` · `2026` · `28 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=YIuqIDm1mfk) · [Conference site](https://www.blackhat.com/)
+
+## Description
+
+A Java memory shell is a fileless backdoor that resides entirely in JVM memory, leaving no trace on disk. Attackers exploit code execution vulnerabilities—such as ScriptEngine injection or deserialization flaws—to use Java reflection to replace legitimate objects in web frameworks with malicious classes. Once implanted, specially crafted HTTP requests (mimicking normal traffic) trigger arbitrary command execution within the JVM, with results exfiltrated via standard HTTP responses. This stealthy technique blends seamlessly into legitimate traffic and bypasses firewalls that only allow ports 80/443, rendering traditional reverse shells ineffective.
+
+Over the past eight years, common variants have included Tomcat Filter, Tomcat Listener, and Spring Controller memory shells—all dynamically injected at runtime. However, the discovery of new types has largely stalled in recent years, relying almost exclusively on manual source code audits.
+
+We have developed an automated framework for discovering Java memory shells, integrating SAST (Static Application Security Testing), Java Agent–based hooking, JVM runtime memory introspection, and AIpowered PoC generation and validation capabilities. This framework dramatically accelerates the discovery of novel memory shells: in a very short time, it expanded the number of known Spring memory shell variants from just 2 to 9. Moreover, it is adaptable to any Java web framework for uncovering new memory shell techniques, significantly enhancing the efficiency of Java memory shell research and surpassing years of manual efforts.
+
+Litong Wan  |  Cyber Security Engineer, Alibaba Holding - Risk & Security Dept
+Fanghai Yu  |  Independent Security Researcher,
+Yang Jing  |  Cyber Security Engineer, Alibaba Holding - Risk & Security Dept
+Dongyan Zhang  |  Senior Security Engineer, Alibaba Holding - Risk & Security Dept
+Huan Zeng  |  Senior Security Engineer, Alibaba Holding - Risk & Security Dept

@@ -1,0 +1,115 @@
+{
+  "slug": "tedai-vienna",
+  "name": "TEDAI Vienna",
+  "enumerated_at": "2026-08-30T21:49:30+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "count": 11
+    }
+  ],
+  "count": 11,
+  "videos": {
+    "4B60GjHMQ5E": {
+      "video_id": "4B60GjHMQ5E",
+      "title": "TEDAI 2025 - Opening Gala",
+      "duration_s": 48,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "6Eh8cU_rdGw": {
+      "video_id": "6Eh8cU_rdGw",
+      "title": "TEDAI Vienna Panel - Inside Intercom's Strategic Reinvention as an AI-First Company",
+      "duration_s": 4947,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "8OY-kza9huw": {
+      "video_id": "8OY-kza9huw",
+      "title": "TEDAI Vienna 2025 Highlights",
+      "duration_s": 253,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "GmuFbB4IJSg": {
+      "video_id": "GmuFbB4IJSg",
+      "title": "TEDAI 2025 - TED Talks Day",
+      "duration_s": 89,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "NSeXXyQlBAM": {
+      "video_id": "NSeXXyQlBAM",
+      "title": "TEDAI 2025",
+      "duration_s": 12,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "N_kZ62-3MvU": {
+      "video_id": "N_kZ62-3MvU",
+      "title": "TEDAI Vienna Panel - How do you lead as AI advances?",
+      "duration_s": 4470,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "TDxZ73jYybI": {
+      "video_id": "TDxZ73jYybI",
+      "title": "TEDAI 2025 - Discovery Day",
+      "duration_s": 62,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "URLltASJKBI": {
+      "video_id": "URLltASJKBI",
+      "title": "TEDAI Vienna Panel - The Future Will Be Simulated: Inside the New Frontier of Industrial AI",
+      "duration_s": 5411,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "XK7A2z_lZKQ": {
+      "video_id": "XK7A2z_lZKQ",
+      "title": "TEDAI Vienna Panel - How to successfully roll out agentic frameworks across organisations",
+      "duration_s": 5172,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "YBw7IrZBoAM": {
+      "video_id": "YBw7IrZBoAM",
+      "title": "TEDAI Vienna Panel - Protecting human intent in a space of generative AI sameness & infinite outputs",
+      "duration_s": 4380,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    },
+    "eNQysSvBQgk": {
+      "video_id": "eNQysSvBQgk",
+      "title": "TEDAI Vienna Panel - What Actually Is the Good Life We Want to Create With AI?",
+      "duration_s": 4353,
+      "channel": "TEDAI Vienna",
+      "label": "TEDAI Vienna 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL8yrjrxWR4NPkB0xXzC8PaXXtZ_A61hqZ"
+    }
+  }
+}

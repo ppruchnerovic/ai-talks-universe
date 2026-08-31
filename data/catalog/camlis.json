@@ -1,0 +1,1606 @@
+{
+  "slug": "camlis",
+  "name": "CAMLIS",
+  "enumerated_at": "2026-08-30T21:47:48+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "label": "CAMLIS",
+      "year": null,
+      "count": 119
+    }
+  ],
+  "count": 119,
+  "videos": {
+    "-p2il-V-0fk": {
+      "video_id": "-p2il-V-0fk",
+      "title": "On Evaluating Adversarial Robustness",
+      "duration_s": 3032,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Nicholas Carlini\nOn Evaluating Adversarial Robustness (abstract: https://www.camlis.org/2019/keynotes/carlini)",
+      "published_at": "2019-11-13T15:04:40Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "0QJgmIeUzA4": {
+      "video_id": "0QJgmIeUzA4",
+      "title": "Exploring Backdoor Poisoning Attacks Against Malware Classifiers",
+      "duration_s": 1743,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Giorgio Serveri\nExploring Backdoor Poisoning Attacks Against Malware Classifiers (abstract: https://www.camlis.org/2019/talks/severi)",
+      "published_at": "2019-11-13T14:52:23Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "1cg8nKjjyp0": {
+      "video_id": "1cg8nKjjyp0",
+      "title": "Small Effect Sizes in Malware Detection? Make Harder Train:Test Splits!",
+      "duration_s": 1465,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Tirth Patel, Fred Lu, Edward Raff, Charles Nicholas, Cynthia Matuszek and James Holt",
+      "published_at": "2023-11-18T21:04:15Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "1np-YB9oBjY": {
+      "video_id": "1np-YB9oBjY",
+      "title": "Anticipatory Cyber Defense via Predictive Analytics, Machines Learning and Simulation",
+      "duration_s": 1775,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Shanchieh (Jay) Yang, Rochester Institute of Technology\nAnticipatory Cyber Defense via Predictive Analytics, Machines Learning and Simulation (slides: https://www.camlis.org/shanchieh-jay-yang/)\n\nCyberattacks on enterprise networks have moved into an era where both attackers and security analysts utilize complex strategies to confuse and mislead one another. Critical attacks often take multitudes of reconnaissance, exploitations, and obfuscation techniques to achieve the goal of cyber espionage and/or sabotage. The discovery and detection of new exploits, though needing continuous efforts, is no longer sufficient. Imagine a system that automatically extracts the ways the attackers use various techniques to penetrate a network and generates empirical models that can be used for in-depth analysis or even predict next attack actions. What if we can simulate synthetic attack scenarios based on characteristics of the network and adversary behaviors? Will publicly available information on the Internet be viable to forecast cyberattacks before they take place? This talk will discuss advances that enable anticipatory cyber defense and open research questions. Specifically, this talk will present a suite of research prototypes: ASSERT integrates Bayesian-based learning with clustering validity index to generate and refine attack models based on observed malicious activities; CASCADES employs contextual models to reflect how the attackers gradually accumulate his/her knowledge of the network with various preferences and behavior traits; CAPTURE overcomes limitations of imbalanced, insufficient, and insignificant data to forecast cyberattacks before they happen using unconventional signals in the public domain. These ongoing research will provide anticipatory capability for proactive cyber defense.",
+      "published_at": "2018-11-12T23:38:10Z",
+      "tags": [
+        "camlis",
+        "camlis2018",
+        "bonware"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "1tB7lALJ3ew": {
+      "video_id": "1tB7lALJ3ew",
+      "title": "A feature presentation: semi-supervised learning of file representations",
+      "duration_s": 1649,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Hyrum Anderson, Endgame\nA feature presentation: semi-supervised learning of file representations (slides: https://www.camlis.org/hyrum-anderson/)\n\nMuch of the success of machine learning malware classifiers depends on a meaningful representation of file features. In fact, unlike applications such as machine vision and machine translation in which “featureless” end-to-end deep learning achieves state of the art performance, static malware machine learning is still dominated by hand-crafted features wherein specific discriminative domain knowledge can be codified manually that is not inferred automatically via end-to-end deep learning. However, recent advances in end-to-end deep learning for malware classification offer ever-improving success rates, the hope of parser-less file classification, and glimpses of discovering truly malicious or benign content in a file byte sequence. In either case, representation is key.\n \n This talk considers the following problem setup. One wishes to learn a feature representation from both labeled and abundantly unlabeled Windows portable executable (PE) files (although the techniques presented are broadly applicable to other formats). It is desirable that the features not only enable classification performance approaching that of fully discriminative networks, but also encapsulate semantically meaningful file characteristics by which one can measure file similarity to functionally similar malware samples, for example.\n \n I will present and compare several novel and yet-unpublished approaches to semi-supervised learning of PE file representations. First, I present unsupervised learning of file features from raw bytes by solving a file chunk reordering problem, akin to solving a jigsaw puzzle (previously applied to images). I will demonstrate how this promising approach, however, is not able to learn desired invariances. Next, I present a semi-supervised deep learning approach that explicitly learns meaningful invariances and leverages a novel neural architecture I call a softmax forest for performing a self-taught learning task for binary files, and show how this approach is superior to commonly used metric learning frameworks. Finally, I compare these to an unsupervised feature representation approach I term a variational equivalence encoder (VEE) that uses variational principles to learn invariances. This latter framework can be viewed as modification of a standard variational auto-encoder (VAE). I'll compare these approaches to the baseline EMBER model for classification and EMBER features for similarity search.",
+      "published_at": "2018-11-16T17:06:24Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "2z_8kZVdN-o": {
+      "video_id": "2z_8kZVdN-o",
+      "title": "Network Security Modelling with Distributional Data (CAMLIS 2022)",
+      "duration_s": 1170,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "2zveQ0eS1Bo": {
+      "video_id": "2zveQ0eS1Bo",
+      "title": "Defending Large Language Models Against Attacks With Residual Stream Activation Analysis",
+      "duration_s": 1413,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Amelia Kawasaki, Andrew Davis, and Houssam Abbas",
+      "published_at": "2024-11-16T03:17:44Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "3MNaT7ktMLA": {
+      "video_id": "3MNaT7ktMLA",
+      "title": "Proxy in a Haystack: Uncovering and Classifying MFA Bypass Phishing Attacks in Large Scale Authenti",
+      "duration_s": 1457,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Becca Lynch and Lauren Saue-Fletcher",
+      "published_at": "2023-11-18T21:05:45Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "4cLz5YyatnI": {
+      "video_id": "4cLz5YyatnI",
+      "title": "Playing Cat and Mouse with the Attacker: Frequent Item Set Mining in the Registry (CAMLIS 2022)",
+      "duration_s": 1206,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "50nfQ0Odz_E": {
+      "video_id": "50nfQ0Odz_E",
+      "title": "ShadowLogic: Hidden Backdoors in Any Whitebox LLM",
+      "duration_s": 1496,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Amelia Kawasaki\n\nAuthor(s): Amelia Kawasaki; Kasimir Schulz; Leo Ring\n\nAbstract: This paper unveils ShadowLogic, a method for injecting hidden backdoors into white-box LLMs by modifying theircomputational graphs. These backdoors are activated by a secret trigger phrase, allowing the model to generate uncensored responses and exposing a new class of graph-level vulnerabilities.",
+      "published_at": "2025-11-13T15:54:02Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "6INFR2AVWU0": {
+      "video_id": "6INFR2AVWU0",
+      "title": "Activation Analysis of a Byte-based Deep Neural Network for Malware Classification",
+      "duration_s": 1807,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Scott Coull, FireEye\nActivation Analysis of a Byte-based Deep Neural Network for Malware Classification (slides: https://www.camlis.org/scott-coull/)\n\nTo effectively protect users from the latest malware threats, detection mechanisms must be capable of adapting as quickly as the threats themselves. Traditional machine learning-based antivirus (i.e., next-gen AV) solutions provide this capability by generalizing from previous examples of malware, but often require laborious development of hand-engineered features by domain experts to gain a true advantage. Moreover, these features are often specific to each type of executable file (e.g., Portable Executable, Mach-O, ELF, etc.), further compounding the amount of overhead required. Recently, however, a series of deep neural network models have been proposed that operate directly on the raw bytes of executable files to detect malware - effectively learning the feature representations directly from the data with no information about its syntax or semantics.\n \n With the success of these approaches, an obvious question arises: what exactly are these neural networks learning? In this talk, we seek to answer this question by providing a deep and broad analysis of activations in a byte-based deep neural network classifier. Unlike previous work, we expand our analysis beyond simply looking at the location of the activation to understand the basic features that are learned and their connection to the semantics of the executable as a reverse engineer would understand them. Furthermore, we perform this analysis using a dataset that is significantly larger than any other considered in the literature to date - containing more than 15M distinct goodware and malware executables.\n \n Our experiments include an examination of (1) the general trends in activation locations that separate goodware from malware, (2) analysis of the byte embedding space and low-level feature detectors, and (3) end-to-end activation analysis using the SHapley Additive exPlanations (SHAP) framework. Where possible, we bridge the gap between raw-byte activations and the semantics of the executable through automated parsing and disassembly of the activation locations in an effort to obtain human-understandable explanations for the model's predictions. We exploit this capability to perform a unique bi-directional validation process between a reverse engineer and the model, whereby the reverse engineer and model score each other's areas of interest within the executable.\n \n Overall, the results of these analyses provide novel insight into many aspects of why byte-based malware classifiers work as well as they do. More importantly, they help shape our evolving understanding of the resilience of deep neural network architectures to adversarial examples, as well as the development of new hand-engineered features. Finally, the tools developed here represent an initial step toward providing analysts with the necessary context for understanding malware predictions made by deep learning models.",
+      "published_at": "2018-11-16T17:30:26Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "6P7tD7CWWZA": {
+      "video_id": "6P7tD7CWWZA",
+      "title": "Protecting Users: When Security and Privacy Collide",
+      "duration_s": 2077,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Aleatha Parker-Wood\nProtecting Users: When Security and Privacy Collide (abstract: https://www.camlis.org/2019/keynotes/parker-wood)",
+      "published_at": "2019-11-12T22:40:15Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "6xAZ6NYFq64": {
+      "video_id": "6xAZ6NYFq64",
+      "title": "AdapterSwap: Continuous Training of LLMs with Data Removal and Access-Control Guarantees",
+      "duration_s": 1751,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, William Fleshman",
+      "published_at": "2024-11-16T03:32:02Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "7mj0ns8SILU": {
+      "video_id": "7mj0ns8SILU",
+      "title": "Building a Multi-Tenant Machine Learning Workflow Orchestration Platform (CAMLIS 2022)",
+      "duration_s": 1032,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "8uxDMu7iMPo": {
+      "video_id": "8uxDMu7iMPo",
+      "title": "Playing Defense: Benchmarking Cybersecurity Capabilities of Large Language Models",
+      "duration_s": 1691,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Adarsh Kyadige, Salma Taoufiq, Younghoo Lee, Tamas Voros and Konstantin Berlin",
+      "published_at": "2023-11-18T21:47:07Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "947Zn0iZctw": {
+      "video_id": "947Zn0iZctw",
+      "title": "Half-Day Vulnerabilities: A Study of the First Days of CVE Entries (CAMLIS 2022)",
+      "duration_s": 1298,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "9cyBf2xN6-o": {
+      "video_id": "9cyBf2xN6-o",
+      "title": "Graph-Based User-Entity Behavior Analytics for Enterprise Insider Threat Detection",
+      "duration_s": 1607,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Grant Gelven and Shannon Strum",
+      "published_at": "2023-11-19T03:02:56Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Bl1h4jvmCL0": {
+      "video_id": "Bl1h4jvmCL0",
+      "title": "Keynote: PE Binary Classification Pitfalls (CAMLIS 2022)",
+      "duration_s": 2305,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "CUCj-I0t9aY": {
+      "video_id": "CUCj-I0t9aY",
+      "title": "Keynote Panel",
+      "duration_s": 1728,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Ram Shankar Siva Kumar, and Hyrum Anderson",
+      "published_at": "2024-11-16T03:38:25Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "CXYZWplLIFE": {
+      "video_id": "CXYZWplLIFE",
+      "title": "LLM Backdoor Activations Stick Together",
+      "duration_s": 1240,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Tamás Vörös, Ben Gelman, Sean Bergeron, and Adarsh Kyadige",
+      "published_at": "2024-11-16T03:14:20Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "CYaTtFUKzXY": {
+      "video_id": "CYaTtFUKzXY",
+      "title": "Adaptive by Design: Contextual Reinforcement Learning for Mission-Ready Cyber Defence",
+      "duration_s": 1464,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Jake Thomas\n\nAuthor(s): Jake Thomas; Pranay Shah\n\nThis paper introduces a framework for applying Contextual Reinforcement Learning (cRL) to cyber defense, where agents dynamically incorporate contextual signals (like mission objectives or threat assessments) to modulate their policies in real-time without retraining.",
+      "published_at": "2025-11-13T15:58:36Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "CpnEkjNEnhc": {
+      "video_id": "CpnEkjNEnhc",
+      "title": "LLM Agents for Vulnerability Identification and Verification of CVEs",
+      "duration_s": 1918,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Rodrigo Bersa, Tadesse Zemicheal, Shawn Davis, and Hsin Chen",
+      "published_at": "2024-11-16T01:45:31Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "ESJ6mNhdYFI": {
+      "video_id": "ESJ6mNhdYFI",
+      "title": "Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsupervised and Supervised Appro",
+      "duration_s": 1071,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Zefang Liu and John Buford",
+      "published_at": "2023-11-18T21:42:03Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "FXbdANtUE_k": {
+      "video_id": "FXbdANtUE_k",
+      "title": "ProblemChild: Discovering Anomalous Patterns based on Parent-Child Process Relationships",
+      "duration_s": 1782,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Bobby Filar\nProblemChild: Discovering Anomalous Patterns based on Parent-Child Process Relationships (abstract: https://www.camlis.org/2019/talks/filar)",
+      "published_at": "2019-11-12T22:47:35Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "FydHODLpzyk": {
+      "video_id": "FydHODLpzyk",
+      "title": "Attack Surfaces in Computer Use Agents: A Practical Taxonomy",
+      "duration_s": 1974,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Daniel Jones\n\nAuthor(s): Daniel Jones; Giorgio Severi; Martin Pouliot; Gary Lopez; Joris de Gruyter; Santiago Zanella-Beguelin; Justin Song; Blake Bullwinkel; Pamela Cortez; Amanda Minnich",
+      "published_at": "2025-11-14T08:23:47Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "G2b8c5tMQZk": {
+      "video_id": "G2b8c5tMQZk",
+      "title": "Automated in-memory malware/rootkit detection via binary analysis and machine learning",
+      "duration_s": 1626,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Malachi Jones, PhD, MITRE\nAutomated in-memory malware/rootkit detection via binary analysis and machine learning (slides: https://www.camlis.org/malachi-jones/)\n\nA prominent technique for detecting sophisticated malware consists of monitoring the execution behavior of each binary to identify anomalies and/or malicious intent. Hooking and emulation are two primary mechanisms that are employed to facilitate the monitoring. Although these behavioral monitoring mechanisms are a substantial improvement over classic signature detection, skilled malware authors have developed reliable techniques to defeat them. As an example, sophisticated malware can exploit hooking implementations by either utilizing alternative (e.g. lower level) unhooked API or by removing the hooks at run-time to evade monitoring. In addition, the malware can also perform checks to detect if it is executing in an emulator/VM and modify its behavior accordingly.\n \n In this talk, we will demonstrate an approach for pairing Memory Forensics with Binary Analysis and Machine Learning to analyze the behavior of binaries on a set of hosts to detect advanced persistent threats (APT)s that may evade detection by hooking and traditional emulation. In particular, we will discuss how an approximate clustering algorithm with linear run-time performance can be leveraged to identify outliers (i.e. potential APTs) among sets of clustered memory artifacts (i.e. processes, shared libraries, drivers, and kernel modules). Note that these memory artifacts are collected from live, networked hosts and clustered real-time in a scalable manner. We will also discuss and demonstrate how dynamic binary analysis can be leveraged with Machine Learning techniques to differentiate between benign anomalous code and malware to improve detection accuracy.",
+      "published_at": "2018-11-16T17:51:01Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "GpTQyaFRwVY": {
+      "video_id": "GpTQyaFRwVY",
+      "title": "Is F1 Score Suboptimal for Cybersecurity Models? Introducing Cscore",
+      "duration_s": 1695,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Manish Marwah, Asad Narayanan, Stephan Jou, Martin Arlitt, and Maria Pospelova",
+      "published_at": "2024-11-16T02:19:54Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "HFoYt10I8o4": {
+      "video_id": "HFoYt10I8o4",
+      "title": "Do You Know What Your ML Is Doing?",
+      "duration_s": 2666,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Maya Guypta, Google\nDo You Know What Your ML Is Doing? (slides: https://www.camlis.org/maya-gupta/)\n\nHow can we better control and understand how our machine-learned models are behaving for all inputs?  We'll discuss two strategies: shape constraints, which regularize functions to capture our prior semantic knowledge, and rate constraints, which let us impose policy goals like fairness and low-churn training on our models. We'll cover ideas, mathematical principles, and open source Tensor Flow code, with pointers to published papers and code for more details.",
+      "published_at": "2018-11-16T17:39:31Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "HSKY8zQYzFI": {
+      "video_id": "HSKY8zQYzFI",
+      "title": "Importing Phantoms: Measuring LLM Package Hallucination Vulnerabilities",
+      "duration_s": 1572,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Arjun Krishna\n\nAuthor(s): Erick Galinkin, Leon Derczynski, Jeffrey Martin",
+      "published_at": "2025-11-14T08:26:10Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "IBKrKTeiNjI": {
+      "video_id": "IBKrKTeiNjI",
+      "title": "Some Mistakes are More Mistaken Than Others: Using Cost-Matrix Clustering to Address Misclassificati",
+      "duration_s": 1796,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Cody Wild, Sophos\nSome Mistakes are More Mistaken Than Others: Using Cost-Matrix Clustering to Address Misclassification Cost Asymmetries in Website Content Classification (slides: https://www.camlis.org/cody-wild/)\n\nWebsite content classification has several salient characteristics as a machine learning problem, but perhaps the most salient is that it is a multi-class classification problem with nonuniform and asymmetric misclassification costs. Misclassifying a news site as a business site is a much less serious error than misclassifying a pornographic site as children’s entertainment, and we would like our model’s training objective to reflect that. However, because categorical cross-entropy loss - the standard for neural network models - works by simply increasing the log-probability of the true class, rather than directly penalizing incorrect classes, it offers no straightforward mathematical way to incorporate misclassification costs as loss weights .\n \n This talk will review existing methodology for incorporating misclassification costs into models, and also propose a novel approach called CCAL: Cost Cluster Auxiliary Losses. This method clusters output classes into groups of mutually low misclassification cost, and then trains the model using the cross-entropy loss on the fully granular category classes, as well as cross-entropy loss against the courser group labels, at multiple levels of granularity. The intuition behind CCAL is that these auxiliary losses implicitly give the model information about which mistakes are worse than others by giving some positive gradient weight to misclassifications that are still in the same supercluster, and do so in a way that is easier to tune because all auxiliary losses are in the form of cross-entropy, rather a poorly scaled mix of linear and cross-entropy losses, as in Resheff et al’s bilinear approach. The talk will conclude by discussing cost structures where one would expect CCAL to perform well or poorly, and examine whether it can be effectively used as a form of curriculum learning.",
+      "published_at": "2018-11-16T17:40:55Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "IeBDjcCo1sw": {
+      "video_id": "IeBDjcCo1sw",
+      "title": "Towards a Trustworthy and Resilient Machine Learning Classifier - a Case Study of Ransomware Behavio",
+      "duration_s": 1604,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Evan C Yang\nTowards a Trustworthy and Resilient Machine Learning Classifier - a Case Study of Ransomware Behavior Detector (abstract: https://www.camlis.org/2019/talks/yang)",
+      "published_at": "2019-11-13T14:53:21Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "IjOCEQlZ4Ds": {
+      "video_id": "IjOCEQlZ4Ds",
+      "title": "Social Attack Surfaces: Emerging Cybersecurity Threats in Open Source Collaboration",
+      "duration_s": 1218,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Christopher Honaker\n\nAuthor(s): Christopher Honaker\n\nAbstract: This research examines social interactions in open-source code repositories using a biased BERTopic model to identify emerging cybersecurity threats (e.g., the XZ Utils backdoor) by prioritizing negative sentiment and cybersecurity keywords.",
+      "published_at": "2025-11-14T07:20:58Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "KnV8Y97YKmU": {
+      "video_id": "KnV8Y97YKmU",
+      "title": "PyRIT: A Framework for Security Risk Identification and Red Teaming in Generative AI Systems",
+      "duration_s": 1233,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Gary Lopez Munoz, Amanda Minnich, Roman Lutz, Richard Lundeen, Raja Sekhar Rao Dheekonda, Nina Chikanov, Bolor-Erdene Jagdagdorj, Martin Pouliot, Shiven Chawla, Whitney Maxwell, Blake Bullwinkel, Katherine Pratt, Joris de Gruyter, Charlotte Siska, Pete Bryan, Tori Westerhoff, Chang Kawaguchi, Christian Seifert, Ram Shankar Siva Kumar, and Yonatan Zunger",
+      "published_at": "2024-11-16T01:10:35Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "L8XaTPDFOYE": {
+      "video_id": "L8XaTPDFOYE",
+      "title": "Scalable Infrastructure for Malware Labeling and Analysis",
+      "duration_s": 1947,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Konstantin Berlin\nScalable Infrastructure for Malware Labeling and Analysis (abstract: https://www.camlis.org/2019/talks/berlin)",
+      "published_at": "2019-11-13T14:57:13Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "MDfD83ZNt4E": {
+      "video_id": "MDfD83ZNt4E",
+      "title": "ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls",
+      "duration_s": 1465,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Sanket Badhe\n\nAuthor(s): Sanket Badhe",
+      "published_at": "2025-11-14T08:24:18Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "MIR2RJZjAOg": {
+      "video_id": "MIR2RJZjAOg",
+      "title": "Using Lexical Features for Malicious URL Detection- A Machine Learning Approach",
+      "duration_s": 1150,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Apoorva Joshi\nUsing Lexical Features for Malicious URL Detection- A Machine Learning Approach (abstract: https://www.camlis.org/2019/talks/joshi)",
+      "published_at": "2019-11-14T14:45:58Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Mp2VZyUUSEo": {
+      "video_id": "Mp2VZyUUSEo",
+      "title": "LLM Prompt Injection: Attacks and Defenses",
+      "duration_s": 1320,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Gary Lopez Munoz",
+      "published_at": "2023-11-18T21:46:43Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "MsZmnUO5lkY": {
+      "video_id": "MsZmnUO5lkY",
+      "title": "EMBER Improvements",
+      "duration_s": 1641,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Phil Roth\nEMBER Improvements (abstract: https://www.camlis.org/2019/talks/roth)",
+      "published_at": "2019-11-14T14:45:45Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Mu7LBOZcE3k": {
+      "video_id": "Mu7LBOZcE3k",
+      "title": "Adversarial ML Attacks on Financial Reporting via Maximum Violated Multi-Objective Attack",
+      "duration_s": 1881,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Edward Raff\n\nAuthor(s): Edward Raff; Karen Kukla; Michel Benaroch; Joseph Comprix\n\nAbstract: This work explores Adversarial Machine Learning (AML) attacks on financial reporting, demonstrating how bad actors can manipulate financial statements to inflate earnings and reduce fraud scores simultaneously, highlighting a critical information security vulnerability in financial systems.",
+      "published_at": "2025-11-14T07:28:27Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "NAYFN1Vl09s": {
+      "video_id": "NAYFN1Vl09s",
+      "title": "Model Leeching: An Extraction Attack Targeting LLMs",
+      "duration_s": 1689,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Lewis Birch, William Hackett, Stefan Trawicki, Neeraj Suri and Peter Garraghan",
+      "published_at": "2023-11-18T21:42:15Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "NEuSP4Va4zI": {
+      "video_id": "NEuSP4Va4zI",
+      "title": "Detecting Homoglyph Domains with Character Image LSTMs (CAMLIS 2022)",
+      "duration_s": 1004,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "NJG6REGwr24": {
+      "video_id": "NJG6REGwr24",
+      "title": "Minimizing Compute Costs: When When Should We Run More Expensive Malware Analysis? (CAMLIS 2022)",
+      "duration_s": 1323,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "N_xCmzj39cM": {
+      "video_id": "N_xCmzj39cM",
+      "title": "An Agent-Based Framework for Adversarial Simulation and Blue Teaming",
+      "duration_s": 1556,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Gary Lopez Munoz\n\nAuthor(s): Gary Lopez Munoz; Mauricio Velazco; Manuel MelŽndez",
+      "published_at": "2025-11-14T08:24:55Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "OC-M2VGPoyQ": {
+      "video_id": "OC-M2VGPoyQ",
+      "title": "Let’s Make it Personal: Customizing Threat Intelligence with Metric Learning",
+      "duration_s": 1539,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Christopher Galbraith",
+      "published_at": "2024-11-16T02:49:52Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "OIo4FwQzUJs": {
+      "video_id": "OIo4FwQzUJs",
+      "title": "Keynote - Acting to Ensure AI Benefits Cyber Defense in a Decade of Technological Surprise",
+      "duration_s": 4079,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Joshua Saxe",
+      "published_at": "2024-11-16T02:43:59Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Oq7C9hbQhII": {
+      "video_id": "Oq7C9hbQhII",
+      "title": "Enhancing Exfiltration Path Analysis Using Reinforcement Learning",
+      "duration_s": 1549,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Cheng Wang, Riddam Rishu, Akshay Kakkar, Abdul Rahman, Christopher Redino, Dhruv Nandakumar, Tyler Cody, Ryan Clark, Dan Radke and Edward Bowen",
+      "published_at": "2023-11-18T21:35:15Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "PhuBTJwFnaw": {
+      "video_id": "PhuBTJwFnaw",
+      "title": "Improving Accuracy and Consistency in Real-World Cybersecurity AI Systems via Test-Time Compute",
+      "duration_s": 1593,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker:  Ashley Song\n\nAuthor(s): Ashley Song; Hsin Chen; Shawn Davis; Dhruv Nandakumar \n\nAbstract: This study evaluates Test-Time Compute for improving the accuracy and consistency of real-world cybersecurity agentic systems, specifically a container vulnerability analysis agent and a server alert triage agent.",
+      "published_at": "2025-11-14T07:12:28Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Pj8yTn6CF2Y": {
+      "video_id": "Pj8yTn6CF2Y",
+      "title": "Reason. Search. Retrieve. Repeat. Iterative Retrieval for Automating Vulnerable Code Discovery",
+      "duration_s": 1684,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Supriti Vijay\n\nAuthor(s): Supriti Vijay; Aman Priyanshu\n\nAbstract: This paper presents a multi-turn retrieval architecture for automating vulnerable code discovery, where models iteratively generate and refine search queries. It introduces a reinforcement learning environment and dataset for training such strategies.",
+      "published_at": "2025-11-14T07:19:57Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Q15Os0P1Td8": {
+      "video_id": "Q15Os0P1Td8",
+      "title": "SQL Driven Infrastructure for Cybersecurity ML Operations",
+      "duration_s": 1554,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Konstantin Berlin",
+      "published_at": "2023-11-18T21:02:57Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "RBu2WXbD684": {
+      "video_id": "RBu2WXbD684",
+      "title": "Using Anomaly Detection on User Demographic Distributions to Identify Fake Account Bursts",
+      "duration_s": 1763,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Frances Zlotnick, GitHub\nUsing Anomaly Detection on User Demographic Distributions to Identify Fake Account Bursts (slides: https://www.camlis.org/frances-zlotnick/)\n\nMass generation of fake accounts for malicious purposes is a problem that faces many online platforms. Identifying and removing such accounts is an increasingly high priority for security and integrity teams in commercial, governmental, and other contexts, as prevalent misrepresentation on a platform degrades user trust, injects uncertainty into performance and business metrics, and presents opportunities for serious security incidents. Malicious users generating such accounts often go to great lengths to make such accounts appear legitimate, by adding plausible names, photos scraped from other websites, and other details to fake account profiles.\n \n This habit presents an opportunity for automated detection. Names—to a greater or lesser extent depending on cultural context and language—encode demographic attributes such as gender, the distribution of which can be monitored among legitimate users. Bad actors rarely have sufficient knowledge of a platform's user base to accurately mimic these expected distributions. Sharp departures from known distributions can be used to identify bursts of fake account generation for closer inspection. We present empirical examples using data from our work detecting malicious users.\n \n While potentially useful, use of such methodology sits within a minefield of technical and, most importantly, ethical challenges. We discuss a number of these, including the challenges of detecting gender across cultural contexts, and the inherent dangers of using gender-related features to identify potential bad actors. Particularly in contexts where women are already severely underrepresented, false-positives among this cohort might have the effect of further discouraging participation, running counter to goals of increasing diversity, inclusion, and belonging.",
+      "published_at": "2018-11-16T17:44:44Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "SErLrmaUl6o": {
+      "video_id": "SErLrmaUl6o",
+      "title": "An Explainable Framework for Predicting Vulnerability Threat Using Topic and Threat Modeling",
+      "duration_s": 1109,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Francois Labreche and Serge-Oliver Paquette",
+      "published_at": "2022-11-30T03:22:23Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "S_ACATA6cO8": {
+      "video_id": "S_ACATA6cO8",
+      "title": "Defending Against Indirect Prompt Injection Attacks With Spotlighting",
+      "duration_s": 1576,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Keegan Hines",
+      "published_at": "2024-11-16T02:48:33Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "TMtUo5pp1Mg": {
+      "video_id": "TMtUo5pp1Mg",
+      "title": "Compilation as a Defense: Enhancing DL Model Attack Robustness via Tensor Optimization",
+      "duration_s": 1415,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Stefan Trawicki, William Hackett, Lewis Birch, Neeraj Suri and Peter Garraghan",
+      "published_at": "2023-11-18T21:37:22Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "TldJW5H4vmg": {
+      "video_id": "TldJW5H4vmg",
+      "title": "Razing to the Ground Machine Learning Phishing Webpage Detectors with Query Efficient Adversarial HT",
+      "duration_s": 1551,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Biagio Montaruli, Luca Demetrio, Maura Pintor, Luca Compagna, Davide Balzarotti and Battista Biggio",
+      "published_at": "2023-11-18T21:39:46Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Tpsu9xpsIvs": {
+      "video_id": "Tpsu9xpsIvs",
+      "title": "DIP-ECOD: Improving Anomaly Detection in Multimodal Distributions",
+      "duration_s": 1265,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Kaixi Yang, Paul Miller, and Jesus Martinez del Rincon",
+      "published_at": "2024-11-16T01:56:41Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "U791dysQQPY": {
+      "video_id": "U791dysQQPY",
+      "title": "Keynote: Lessons Learned in Red Teaming AI Systems in High-Stakes Environments (CAMLIS 2022)",
+      "duration_s": 2208,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "UlEc9HNgqjE": {
+      "video_id": "UlEc9HNgqjE",
+      "title": "Measure Twice, Quarantine Once: A Tale of Malware Labeling over Time",
+      "duration_s": 1660,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, David Krisiloff, FireEye\nMeasure Twice, Quarantine Once: A Tale of Malware Labeling over Time (slides: https://www.camlis.org/david-krisiloff/)\n\nCybersecurity utilizes crowdsourcing for a variety of tasks from spam detection to security bug bounties. For anti-virus, VirusTotal provides a crowdsourcing platform that aggregates results from more than 70 antivirus (AV) scanners making it a tempting source of labels to train machine learning based AV. However, VirusTotal has multiple unique features compared to other crowdsourcing models. Unlike most crowdsourced data, AV scanners reliably improve over time. New AV engine versions incorporate new malware signatures that, on average, improve detection performance. Furthermore VirusTotal detections are public, producing a feedback loop where AV scanners can learn from other AV scanners. VirusTotal runs each AV engine against every new file submitted. In addition, VirusTotal also allows users to rescan an old file with the latest AV engines, but limits the number of files that can be rescanned per day. This environment raises a variety of questions. How do we assign malware labels from noisy VirusTotal reports? When should a file be rescanned to take advantage of AV updates? How should rescans be prioritized?\n \n Using a set of historical VirusTotal reports, we examine the temporal dynamics of virus detections and discuss a variety of models for producing labels from the reports. Changes in AV detections over time are generally predictable using machine learning models. This makes it possible to anticipate which files are mostly likely to change their labels over time, regardless of the function used to combine the crowdsourced detections into labels. We present optimal strategies for rescanning files on VirusTotal to build improved data sets. Ultimately, our models produce more accurate labels faster than passively waiting for AV vendors on VirusTotal to come to a consensus.",
+      "published_at": "2018-11-16T17:33:14Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "Usv9kEwi93c": {
+      "video_id": "Usv9kEwi93c",
+      "title": "Serverless Data Processing Architecture for Binary Analysis",
+      "duration_s": 1297,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Kyle Gwinnup, CarbonBlack\nServerless Data Processing Architecture for Binary Analysis (slides: https://www.camlis.org/kyle-gwinnup/)\n\nBuilding a file processing pipeline can sometimes be a requirement of many data scientists. However, this ever expanding role of a data scientist doesn’t have to take a large part of our time. Serverless architectures, as many large tech companies are developing, provide just the solution data scientist are looking for. At CarbonBlack Threat Research, we were able to quickly stand up a scalable system for our binary analysis needs. This system enabled us to focus more on the data and thinking of features rather than the maintenance and configuration of systems and services. This talk will walk through, with code examples, how we were able to build a scalable serverless system using AWS to build a feature rich dataset for various types of file analysis.\n \n Three main topics will be covered:\n Cloud design patterns for ingesting and pre processing binaries to prepare for analysis,\n deploying serverless docker containers for custom analysis, and finally,\n how data is stored and accessed.\n \n As part of our analysis step, a description of the modular approach we took to feature extraction which allows our researchers to pose questions about binaries and quickly extract features from the corpus or sample set. Additionally, some tips when developing these types of system.",
+      "published_at": "2018-11-16T17:20:46Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:14+00:00"
+    },
+    "VIxBxR7G6Ys": {
+      "video_id": "VIxBxR7G6Ys",
+      "title": "Applications of Graph Integration to Function Comparison and Malware Classification",
+      "duration_s": 1866,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Michael Slawinski\nApplications of Graph Integration to Function Comparison and Malware Classification (abstract: https://www.camlis.org/2019/talks/slawinsky)",
+      "published_at": "2019-11-12T22:50:35Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "W9iYTO9vEbA": {
+      "video_id": "W9iYTO9vEbA",
+      "title": "Bonware to the Rescue: the Future Autonomous Cyber Defense Agents | Dr Alexander Kott | CAMLIS 2018",
+      "duration_s": 2681,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "WZKJYZMdq5w": {
+      "video_id": "WZKJYZMdq5w",
+      "title": "Labeling Red: Harvesting Labeled Data from Adversary Simulations",
+      "duration_s": 1964,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Brian Genz, Northwestern Mutual\nLabeling Red: Harvesting Labeled Data from Adversary Simulations (slides: https://www.camlis.org/brian-genz/)\n\nAttackers have a seemingly endless arsenal of tools and techniques at their disposal, while defenders must continuously strive to improve detection capabilities across the full spectrum of possible attack vectors. The MITRE ATT&CK Framework provides a useful collection of attacker tactics and techniques that enables a threat-focused approach to detection.\n \n This talk will highlight methodologies and key lessons learned from an internal adversary simulation at a Fortune 100 company that evolved into a series of data science experiments designed to improve threat detection.\n \n In 2017, we performed basic Exploratory Data Analysis (EDA) while working to improve detection engineering activities around post-exploitation attack techniques during adversary simulation exercises. We paused to ask the question, “Isn’t this labeled data we’re generating? The red team just performed this attack, and we can positively identify the observations that resulted from that attack technique.”\n \n Could we move beyond clustering, we wondered, and into the realm of supervised learning? We had to consider whether we were introducing any biases based on the methodology used in selecting and executing the attack techniques. We were also curious as to whether the inherent attacker tradecraft principle of stealth might translate into imbalanced classes in the data, and to what extent.\n \n We defined what we wanted to model: “Post-compromise attacker activity.” We focused on an initial technique: “DNS Exfiltration.” We defined the goal as, “Incorporate labeled attack data in training a model to classify DNS requests as ‘malicious’ or ‘benign.’\n \n What started as a few questions and resulting brainstorming sessions eventually grew into a security data science practice supporting detection engineering, Digital Forensics and Incident Response (DFIR), Threat Hunting, and Threat Intelligence at the Fortune 100 company. This talk will step through the key aspects of the problem-solving approach used, with an emphasis on model selection and feature engineering.",
+      "published_at": "2018-11-16T17:30:00Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "XQ_ebRuWsqo": {
+      "video_id": "XQ_ebRuWsqo",
+      "title": "Inferring Model Families from Deployed Black Boxes",
+      "duration_s": 1736,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Rebecca Bilbro, ByteCubed\nInferring Model Families from Deployed Black Boxes (slides: https://www.camlis.org/rebecca-bilbro/)\n\nWhile data privacy challenges long predate current trends in machine-learning-as-a-service (MLAAS) offerings, predictive APIs do expose significant new attack vectors. To provide users with tailored recommendations, these applications often expose endpoints either to dynamic models or to pre-trained model artifacts, which learn patterns from data to surface insights. Problems arise when training data are collected, stored, and modeled in ways that jeopardize privacy. Even when user data is not exposed directly, private information can often be inferred using a technique called model inversion. In this talk, I discuss current research in black box model inversion and present a machine learning approach to discovering the model families of deployed black box models using only their decision topologies.",
+      "published_at": "2018-11-16T17:16:06Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "XiNjyM4zeNw": {
+      "video_id": "XiNjyM4zeNw",
+      "title": "End-to-End Framework using LLMs for Technique Identification and Threat-Actor Attribution",
+      "duration_s": 1774,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Kyla Guru, Robert Moss, and Mykel Kochenderfer",
+      "published_at": "2024-11-16T01:36:30Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "Y7E24V74AeE": {
+      "video_id": "Y7E24V74AeE",
+      "title": "Keynote - What Does It Mean for Agentic AI to Preserve Privacy? Mapping the New Data Sinks and Leaks",
+      "duration_s": 3776,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS2025 - Keynote\n\nSpeaker: Niloofar Mireshghallah, Incoming Assistant Professor, Carnegie Mellon University (EPP & LTI)/Research Scientist, FAIR\n\nAbstract: GenAI is no longer confined to chat interfaces—it has evolved into autonomous agents that move data through tools, APIs, and multiple modalities, creating new \"data sinks\" where information quietly accumulates and new leak paths where it slips across contexts. In this talk, we begin by examining the sensitive data that users and professionals share with these systems, establishing the context of what's at stake. We then dissect current privacy and data risks that go beyond traditional verbatim memorization, analyzing policies from frontier labs and various industries that reveal deceptive practices and surprising gaps in consent mechanisms. We demonstrate how new features like persistent memories, automated workflows, and deep inference capabilities enable unprecedented surveillance and profiling of users. Despite these challenges, we present an optimistic path forward through practical approaches including data minimization, intentional friction in data collection, and computational offloading strategies that limit what models need to store. As these technologies become more broadly adopted, we acknowledge emerging threat surfaces—from behavioral manipulation through character training to context stealing and persuasion attacks. We conclude by exploring how these privacy risks will manifest in future systems like long-horizon agents, ambient AI, and robotics workflows, discussing the need for distributed training approaches, trusted execution environments, and new frameworks to navigate the evolving economics of data in agentic AI systems.",
+      "published_at": "2025-11-03T19:57:20Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "YNDwPAQZW0U": {
+      "video_id": "YNDwPAQZW0U",
+      "title": "Learning to Rank Relevant Malware Strings Using Weak Supervision",
+      "duration_s": 1616,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Philip Tully\nLearning to Rank Relevant Malware Strings Using Weak Supervision (abstract: https://www.camlis.org/2019/talks/tully)",
+      "published_at": "2019-11-14T14:43:01Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "ZmutSk8jLv8": {
+      "video_id": "ZmutSk8jLv8",
+      "title": "Estimating uncertainty for binary classifiers",
+      "duration_s": 1856,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Richard Harang, Sophos\nEstimating uncertainty for binary classifiers (slides: https://www.camlis.org/richard-harang/)\n\nIn practical applications of binary classification, knowing the uncertainty of the prediction can be almost as important as knowing the most likely prediction. In the case of responses given in a 0-1 range, the distance from one extreme or the other is often taken as a proxy for the certainty (or uncertainty) of the classification. While for the specific case of the binary cross-entropy loss under rarely-obtained conditions this estimate of uncertainty is correct in the narrowly defined sense that it asymptotically attains the posterior conditional probability of the label being in the ‘positive’ class, the general approach of using the output score of the classifier does not typically yield a faithful estimate of uncertainty in the above sense. Furthermore, in the finite-data case, and especially with complex modern classifiers that apply complex transformation, partitions, or both to the input space, the score itself is subject to a significant degree of uncertainty that is frequently difficult to characterize precisely. Thus, even if we accept the score as a proxy for uncertainty, we may be uncertain about how accurate this measurement of uncertainty is!\n In simpler classifiers, direct estimation of this uncertainty can be performed by examining the support of a test point within the training data. However in many areas of security data science, the size of the input space to classifiers can be quite large and so the curse of dimensionality can make it difficult to identify the support of an example within the training data. Even when this difficulty can be overcome, the complex relationships between these inputs that most modern classifiers can learn and exploit to obtain their high performance means that areas of high or low support in the input space may not be so well (or poorly) supported within the transformed space within which the classifier is effectively making its prediction. Variational methods have been proposed to estimate uncertainty in deep neural networks regularized via dropout, however this comes at a significant computational cost. Finally, multi-half-space classifiers for deep neural networks have been proposed that attempt to learn the density of the training data as represented by the final layer of the network; while this approach incurs a relatively modest computational burden, we find empirically that the better a given network does at separating the data in the final pre-classification layer, the worse this method performs at estimating the training data’s distribution.\n In this talk, we examine this problem from the perspective of Bayesian approximation, and show how using deep neural networks as approximating functions for parameters of a hierarchical Bayesian model can lead to uncertainty estimates for models that are robust, do not fail when the model is “too good”, require comparatively little additional computation to obtain, and can in most cases be directly converted into a maximum a posteriori estimate ‘score’ for the network.",
+      "published_at": "2018-11-16T17:48:15Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "_6eTXEDA5i8": {
+      "video_id": "_6eTXEDA5i8",
+      "title": "Curl: Private LLMs through Wavelet-Encoded Look-Up Tables",
+      "duration_s": 1189,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Dimitris Mouris, Manuel dos Santos, Mehmet Ugurbil, Stanislaw Jarecki, José Reis, Shubho Sengupta, and Miguel de Vega",
+      "published_at": "2024-11-16T03:13:25Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "_DlCrm7WDcI": {
+      "video_id": "_DlCrm7WDcI",
+      "title": "Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in Visual Language Models",
+      "duration_s": 1183,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Jake Thomas\n\nAuthor(s): Jake Thomas; Damian Ruck; Gabriel Downer; Sean Craven\n\nAbstract: This research presents Text2VLM, a novel pipeline that adapts text-only datasets into multimodal formats to evaluate the resilience of Visual Language Models (VLMs) against typographic prompt injection attacks. It highlights the increased susceptibility of VLMs when visual inputs are introduced.",
+      "published_at": "2025-11-14T07:06:54Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "_RZDUcbrEwI": {
+      "video_id": "_RZDUcbrEwI",
+      "title": "Adaptive Experimental Design for Intrusion Data Collection",
+      "duration_s": 1559,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Kate Highnam, Zach Hanif, Ellie Van Vogt, Sonali Parbhoo, Sergio Maffeis and Nicholas R. Jennings",
+      "published_at": "2023-11-18T21:06:20Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "_UAlYumHLQQ": {
+      "video_id": "_UAlYumHLQQ",
+      "title": "Keynote - Security Issues in Generative AI",
+      "duration_s": 4262,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Tom Goldstein",
+      "published_at": "2023-11-18T21:15:34Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "_eRR_8lSjzI": {
+      "video_id": "_eRR_8lSjzI",
+      "title": "Mitigating Adversarial Attacks against Machine Learning for Static Analysis",
+      "duration_s": 1600,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, David Elkind\nMitigating Adversarial Attacks against Machine Learning for Static Analysis (abstract: https://www.camlis.org/2019/talks/elkind)",
+      "published_at": "2019-11-13T14:56:32Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "c5T2AWuPPPU": {
+      "video_id": "c5T2AWuPPPU",
+      "title": "An Effective Framework for Malware Detection and Classification using Feature Prioritization",
+      "duration_s": 1183,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Nahid Farhady Ghalaty, Accenture Cybersecurity Tech Labs\nAn Effective Framework for Malware Detection and Classification using Feature Prioritization (slides: https://www.camlis.org/nahid-farhady-ghalaty/)\n\nNowadays, signature based malware detection is widely used in commercial anti-viruses. However, this method fails to detect zero-day specific type of malware. Therefore, anti-virus engines are now moving towards finding the shared features and similar behaviors of malware families in order to be able to detect new ones as well and therefore moving towards using Machine Learning techniques. These techniques have focused on static features for a while, however, to be able to classify the malware, the malware engineers need to go through an extensive process of dynamic analysis which entails executing the malware in a sandbox and exploiting the features. In this research, we propose an end to end framework for malware detection and classification using machine learning techniques. In this framework, we use DNN models to detect the malware vs. benign files as well as proposing an uncertainty score for the classification part. Using the uncertainty score, we build another classifier that considers more static features to be able to categorize the files with higher accuracy. The purpose of building two models is to accelerate the process using small set of features and a more extensive set of features including the important strings, functions and import headers. In the next step, we propose a classification model that divided the malware into cyber crime and cyber espionage based on the entropy. Each of these categories then can be classified into up to 10 sub categories using more dynamic analysis. Since there are more than 100 dynamic features and extracting those features can be cumbersome, we also built a model to be able to prioritize those features. We use the PCA (Principal Component Analysis) technique to prioritize the dynamic features to be explored for each sub category as well. Using this method will accelerate the labeling and classification part for the malware engineers which will result in recognizing quarantine techniques much faster in the process. Our research proposes the top 5 dynamic features for each subcategory of malware to be analyzed. To expose our model to several types of malware, we have partnered internally with iDefense, a threat intelligence company, which owns a database of 270M malware binaries. The differentiating factor of this work compared to the previous literature is the type of malware that we include in our training and testing dataset on top of simple feature selection to accelerate the detection process. Using the proposed DNN model and only 6 static features, we are able to gain the FNR of less than 1% with the TPR of over 96%. The prioritization and feature selection effort has shown that the accuracy of malware classification can be boosted using the appropriate features for each subcategory.",
+      "published_at": "2018-11-16T17:30:29Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "cqPdJV6MyL8": {
+      "video_id": "cqPdJV6MyL8",
+      "title": "Webshell Detection Case Study (CAMLIS 2022)",
+      "duration_s": 1369,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "cqqUzsXIdPg": {
+      "video_id": "cqqUzsXIdPg",
+      "title": "LLM Salting: From Rainbow Tables to Jailbreaks",
+      "duration_s": 1491,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Tamás Vörös\n\nAuthor(s): Tamás Vörös; Adarsh Kyadige\n\nAbstract: This work proposes LLM salting, a lightweight defense mechanism that rotates the internal refusal direction of LLMs, rendering previously effective jailbreak prompts (like GCG) ineffective without degrading model utility.",
+      "published_at": "2025-11-13T15:56:31Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "cwIjkGOBqYI": {
+      "video_id": "cwIjkGOBqYI",
+      "title": "Red Teaming AI Red Teaming",
+      "duration_s": 1547,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Subhabrata Majumdar\n\nAuthor(s): Subhabrata Majumdar; Brian Pendleton; Abhishek Gupta",
+      "published_at": "2025-11-14T08:26:42Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "d5SGeQbvG4o": {
+      "video_id": "d5SGeQbvG4o",
+      "title": "FASER: Binary Code Similarity Search through the use of Intermediate Representations",
+      "duration_s": 1437,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Josh Collyer, Tim Watson and Iain Phillips",
+      "published_at": "2023-11-18T21:01:29Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "e85OIn9V6gM": {
+      "video_id": "e85OIn9V6gM",
+      "title": "Improved Multi-Stage Classification for Information Security Applications",
+      "duration_s": 1717,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Lindsey Lack, Gigamon\nImproved Multi-Stage Classification for Information Security Applications (slides: https://www.camlis.org/lindsey-lack/)\n\nDefensive monitoring systems have an insatiable demand for ever-better telemetry, as evidenced by the normalization of host-based systems, comprehensive logging platforms, and orchestration frameworks. These demands put pressure on constrained resources, which can result in monitoring architectures that are distributed or segmented in order to reduce the work on the front-end (or edge) and satisfy the conflicting demands of breadth and depth.\n \n For illustration, picture a malware detection system that does some initial limited triage before deciding whether to send the file on for more comprehensive analysis. The overall system has an efficacy that is measured by both the triage and the later stages, and it has potential additional costs associated with transfer to a centralized site and back-end processing.\n \n Traditional examples of machine learning present problems in a simplistic and pristine way that assumes full knowledge of inputs and outputs, analogous to physics problems that don't account for friction or air resistance. In reality, there are often complexities and trade-offs in an implementation's design. The topic of sequential or multi-stage classification has been addressed in machine learning literature, though examples have mainly been applied to synthetic and canonical data sets with a particular focus on medical diagnosis. Previous work has shown that optimizing for the whole system delivers distinct improvements over naive or myopic approaches.\n \n This talk illustrates the application of optimizing multi-stage classification techniques to security data sets and describes attempts to improve multi-stage classifiers in three ways:\n 1) Previous work has relied on heuristic measures of confidence in order to make reject decisions. Especially with complex models, these heuristic measures can be suspect. This research looks into the use of Bayesian methods to achieve better estimates of confidence that can be used even in complex models.\n 2) Like most modeling, there is an assumption that training distributions are sufficiently similar to those found at test. With the very large data sets and shifting distributions frequently seen in security domains, these assurances can be difficult to provide. For complex models, out-of-distribution samples can act as \"natural\" adversarial samples. Additionally, out-of-distribution samples can have an especially deleterious effect on multi-stage processes due to the multiplied costs. This research investigates ways to make sequential classification systems resistant to costly out-of-distribution samples.\n 3) Initial stages in multi-stage classification systems are especially sensitive to performance considerations. This research looks at the feasibility of combining multiple functions into a single (multi-output neural network) model to streamline performance.",
+      "published_at": "2018-11-16T17:53:47Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "eYAZ3BTUq6c": {
+      "video_id": "eYAZ3BTUq6c",
+      "title": "Trying to Make Meterpreter into an Adversarial Example",
+      "duration_s": 1696,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Andy Applebaum\nTrying to Make Meterpreter into an Adversarial Example (abstract: https://www.camlis.org/2019/talks/applebaum)",
+      "published_at": "2019-11-13T14:48:38Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "eZCmnUYmcMc": {
+      "video_id": "eZCmnUYmcMc",
+      "title": "Keynote - The New Geopolitics of Technology",
+      "duration_s": 4016,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS2025 - Keynote\n\nSpeaker: Nathaniel Fick, CEO/Investor/U.S. Ambassador/Marine/Author\n\nAbstract: After building the cybersecurity software company Endgame, Nate Fick served from 2022-2025 as the inaugural U.S. Ambassador for Cyberspace & Digital Policy at the Department of State, leading American diplomacy around the world on technology issues including cybersecurity, digital infrastructure, digital regulatory policy, and emerging technologies. From Kyiv to Beijing, and from Brussels to Delhi, he was on the frontlines of the competition to shape the 21st century -- a competition increasingly decided by key technologies. His keynote shares lessons relevant to citizens, investors, and company-builders alike.",
+      "published_at": "2025-11-03T20:46:02Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "fGfAnJq1fgM": {
+      "video_id": "fGfAnJq1fgM",
+      "title": "Efficient Malware Analysis Using Metric Embeddings (CAMLIS 2022)",
+      "duration_s": 1165,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "gO3Q7fCoOdU": {
+      "video_id": "gO3Q7fCoOdU",
+      "title": "OmnibusCyber: a schema-ready strongly typed database to model all cyber security objects",
+      "duration_s": 881,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Paolo Di Prodi",
+      "published_at": "2022-11-30T03:36:27Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "hNqLSRB0SM4": {
+      "video_id": "hNqLSRB0SM4",
+      "title": "Worm2Vec: Embedding Malicious Code for Efficient Clustering & Classification",
+      "duration_s": 1736,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Bayan Bruss, Capital One\nWorm2Vec: Embedding Malicious Code for Efficient Clustering & Classification (slides: https://www.camlis.org/c-bayan-bruss/)\n\nEvery day, a large number of new specimens of malware are detected worldwide. Often these specimens are variants on existing malware or combinations of older functionality. This creates a need to identify if a piece of malware is similar to existing malware and what functionality is known about the new sample.  At the same time, the scale and latency requirements leave little room for full reverse engineering of each sample. Current static methods like signature matching have limited efficacy and are easily bypassed with small changes to the source code. As a result there is a need for a solution that is fast, scalable, can compare observed malware binaries in a way that is robust to small changes and obfuscation tactics. We propose the use of a neural embedding model which learns representations of opcodes and operands in disassembled binaries based on their usage patterns across a large corpus of binaries. In this model each line of a function is treated as a combination of opcodes & operands each drawn from an embedding space. Lines that appear near one another within a function are assumed to be contextually relevant to one another.  The model then seeks to determine lines of embedded opcodes and operands that are contextually relevant from those that are not, learning the best representation of these codes to do so.  Once trained, these learned embeddings can be used to efficiently generate a statistical representation of an unseen binary allowing for clustering and classification. This unsupervised method avoids problems with highly heterogenous or scarce labeled data. It allows for clustering of malware based on functionality in a way that is not affected by small changes in the code. Initial results also indicate that these embeddings can be used to facilitate training of classifiers where labeled data is available.",
+      "published_at": "2018-11-16T17:23:25Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "hSFWFRfvmbY": {
+      "video_id": "hSFWFRfvmbY",
+      "title": "Datasets for the Everyman",
+      "duration_s": 1563,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Ryan Kovar, Splunk\nDatasets for the Everyman (slides: https://www.camlis.org/ryan-kovar/)\n\nSecurity data can be surprisingly hard to come by when you don't have users generating it for you. So we made or found datasets and then hosted them for the community. This talk will discuss the \"Splunk dataset project\" and how it can be used by data scientists (new and experienced) to try machine learning hypotheses across a variety of different datasets in a curated environment. From the Endgame Ember malware dataset to Windows Event Logs, the Splunk Datasets Project attempts to give researchers and newbies a place to try new ML techniques using tools like Splunk's Machine Learning Toolkit (MLTK) which is a bundled version of various ML libraries like numpy, scipy, pandas, scikit-learn, and statsmodels.",
+      "published_at": "2018-11-16T17:23:14Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "hZbNHZKUqQg": {
+      "video_id": "hZbNHZKUqQg",
+      "title": "Threat Detection on Kubernetes Logs Using GNN Embeddings",
+      "duration_s": 1631,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Arjun Chakraborty",
+      "published_at": "2023-11-18T20:58:12Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "i59PtruGd1o": {
+      "video_id": "i59PtruGd1o",
+      "title": "Inroads in Autonomous Network Defence using Explained Reinforcement Learning (CAMLIS 2022)",
+      "duration_s": 1159,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "iPKpxlZblBM": {
+      "video_id": "iPKpxlZblBM",
+      "title": "TreeHuggr: Discovering where tree-based classifiers are vulnerable to adversarial attack",
+      "duration_s": 1630,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Bobby Filar, Endgame\nTreeHuggr: Discovering where tree-based classifiers are vulnerable to adversarial attack (slides: https://www.camlis.org/bobby-filar/)\n\nTree-based classifiers like gradient-boosted decision trees (GBDTs) and random forests provide state-of-the-art performance in many information security tasks such as malware detection. Even while adversarial methods for evading deep learning classifiers abound,little research has been carried out against attacking tree-based classifiers due to models being non-differentiable, which significantly increases the cost of attacks. Research has shown attack transferability may be successful at evading tree-based classifiers, but those techniques do little to illuminate where models are brittle or weak.\n \n We present TreeHuggr, an algorithm designed to analyze split points of each tree in an ensemble classifier to learn where a model might be most susceptible to an evasion attack. By determining where in the feature space there exists insufficient or conflicting evidence for a class label or where a decision boundary is wrinkled, we can not only better understand the attack space, but we can also more intuitively understand a model’s blind spots and increase interpretability. The key differentiator of TreeHuggr is a focus on the where the model is most susceptible, not in how to evade, given a starting point (a common tactic in adversarial examples).\n \n This talk will provide an example-driven demonstration of TreeHuggr against the open-source EMBER dataset and malware model. We hope that TreeHuggr will highlight the potential defensive uses of adversarial research against tree-based classifiers and yield more insights into model interpretability and attack susceptibility.",
+      "published_at": "2018-11-16T17:49:42Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "ip5CRL8G0Go": {
+      "video_id": "ip5CRL8G0Go",
+      "title": "Structure and Semantics-Aware Malware Classification with Vision Transformers",
+      "duration_s": 1704,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, David Krisiloff, and Scott Coull",
+      "published_at": "2024-11-16T02:10:23Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "jv9n9ugfE3U": {
+      "video_id": "jv9n9ugfE3U",
+      "title": "Cybersecurity and Infrastructure Security Agency (CISA)",
+      "duration_s": 3120,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Lisa Einstein",
+      "published_at": "2024-11-15T19:53:18Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "kWIKEdIzXNY": {
+      "video_id": "kWIKEdIzXNY",
+      "title": "Multi-Agent Reinforcement Learning for Maritime Operational Technology Cyber Security",
+      "duration_s": 1525,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Alec Wilson, Ryan Menzies, David Foster, Marco Casassa Mont, Neela Morarji, Esin Turkbeyler and Lisa Gralewski",
+      "published_at": "2023-11-18T21:37:00Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "l8x_DYCHVio": {
+      "video_id": "l8x_DYCHVio",
+      "title": "Temporal Attack Detection in Multimodal Cyber-Physical Systems with Sticky HDP-HMM (CAMLIS 2022)",
+      "duration_s": 699,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "mbGXCNihUnw": {
+      "video_id": "mbGXCNihUnw",
+      "title": "Don’t you forget NLP: prompt injection using repeated sequences in ChatGPT",
+      "duration_s": 1594,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Mark Breitenbach, Adrian Wood, Win Suen and Po-Ning Tseng",
+      "published_at": "2023-11-18T21:47:56Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "nFrpJ3tDoJE": {
+      "video_id": "nFrpJ3tDoJE",
+      "title": "Keynote - Lessons for AI Security Preparedness",
+      "duration_s": 4078,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Shawn Richardson",
+      "published_at": "2023-11-18T21:07:55Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "nQPLIl4mDpg": {
+      "video_id": "nQPLIl4mDpg",
+      "title": "MADAR: Efficient Continual Learning for Malware Analysis with Diversity-Aware Replay",
+      "duration_s": 1541,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Mohammad Saidur Rahman\n\nAuthor(s): Mohammad Saidur Rahman; Scott Coull; Qi Yu; Matthew Wright \n\nAbstract: This study proposes MADAR, a Continual Learning (CL) framework for malware classification, which addresses catastrophic forgetting by incorporating diversity-aware replay. It demonstrates improved detection accuracy for both Windows and Android malware datasets.",
+      "published_at": "2025-11-14T07:15:02Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "oAttV-5rFsI": {
+      "video_id": "oAttV-5rFsI",
+      "title": "Accelerating AI red teaming operations with the Python Risk Identification Tool (PyRIT)",
+      "duration_s": 1618,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Nina Chikanov\n\nAuthor(s): Nina Chikanov",
+      "published_at": "2025-11-14T08:23:48Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "oSTkXPK4pUA": {
+      "video_id": "oSTkXPK4pUA",
+      "title": "MalDICT: Benchmark Datasets on Malware Behaviors, Platforms, Exploitation, and Packers",
+      "duration_s": 1523,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Robert Joyce, Edward Raff, Charles Nicholas and James Holt",
+      "published_at": "2023-11-18T21:08:07Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "ods-4cg8w1o": {
+      "video_id": "ods-4cg8w1o",
+      "title": "Learning to Embed Byte Sequences with Convolutional Autoencoders (CAMLIS 2022)",
+      "duration_s": 1250,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "p4AQDQjaOQg": {
+      "video_id": "p4AQDQjaOQg",
+      "title": "Heterogenous Graph Embedding for Malicious Azure Sign-in Detection (CAMLIS 2022)",
+      "duration_s": 1021,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "p7Q45X31hJI": {
+      "video_id": "p7Q45X31hJI",
+      "title": "Web content filtering through knowledge distillation of Large Language Models",
+      "duration_s": 1230,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2023, Tamas Voros",
+      "published_at": "2023-11-18T21:38:04Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "q1axkVsm0_c": {
+      "video_id": "q1axkVsm0_c",
+      "title": "Describing Malware via Tagging",
+      "duration_s": 1873,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Felipe Ducau\nDescribing Malware via Tagging (abstract: https://www.camlis.org/2019/talks/ducau)",
+      "published_at": "2019-11-12T22:43:04Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "qk4ZvtFuyhc": {
+      "video_id": "qk4ZvtFuyhc",
+      "title": "Keys to the Digital Castle: Detecting Malicious MDA Device Enrollment at Scale (CAMLIS 2022)",
+      "duration_s": 523,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "s-1PbX9Rq2E": {
+      "video_id": "s-1PbX9Rq2E",
+      "title": "Next Generation Process Emulation with Binee",
+      "duration_s": 1749,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Jared Nishikawa\nNext Generation Process Emulation with Binee (abstract: https://www.camlis.org/2019/talks/nishikawa)",
+      "published_at": "2019-11-14T14:46:51Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "s3exsQI9feI": {
+      "video_id": "s3exsQI9feI",
+      "title": "What is the Shape of an Executable?",
+      "duration_s": 1286,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Erick Galinkin\nWhat is the Shape of an Executable? (abstract: https://www.camlis.org/2019/talks/galinkin)",
+      "published_at": "2019-11-12T22:47:52Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "s9l13s2unaM": {
+      "video_id": "s9l13s2unaM",
+      "title": "Point process modeling of temporal patterns in user authentication behavior",
+      "duration_s": 1827,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Bronwyn Woods, Duo Security\nPoint process modeling of temporal patterns in user authentication behavior (slides: https://www.camlis.org/bronwyn-woods/)\n\nStrong authentication is a lynchpin of the zero trust security model, and user and entity behavior analytics (UEBA) aids in establishing or refuting trust in authentication requests. Identifying suspicious activity is often the end goal, but many UEBA systems start with anomaly detection relative to models of expected user behavior. This behavior is statistically complex, and a failure to capture that complexity leads to errors in anomaly detection and threat identification.\n \n We focus specifically on modeling users’ authentication activity, which shows extremely strong temporal cycles as well as complex dependencies between sequences of authentications. Many anomaly detection techniques treat events as independent, ignoring these dependencies. We incorporate temporal dependence using point process models, which also provide statistical groundwork for formally evaluating how well our models capture the structure of normal activity.\n \n Point processes are a broad class of models that can describe discrete points (or events) distributed across some mathematical space, such as time. They have undergone decades, or perhaps centuries, of statistical development. Recently, point processes have been used in fields such as neuroscience, seismology, and finance to model discrete, temporally dependent events in increasingly large and complex datasets. The methodology for applying these models to modern datasets is an area of active statistical research, but there is a large body of knowledge that we can already apply directly to the security domain.\n \n In this talk, I will outline the mathematical foundations of inhomogeneous Poisson point process models, and their application to user authentication data. I will highlight the strengths of these models in accounting for temporal patterns and dependencies, as well as the computational and methodological challenges in applying them to production scale multi-dimensional datasets. Attendees will learn enough about this approach to explore its applicability to other types of event sequence data in security.",
+      "published_at": "2018-11-16T17:43:47Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "sD8JRruGMxQ": {
+      "video_id": "sD8JRruGMxQ",
+      "title": "RIG-RAG: A GraphRAG Inspired Approach to Agentic Cloud Infrastructure",
+      "duration_s": 1709,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker:  Benji Lilley\n\nAuthor(s): Benji Lilley; Brian Mitchell; Spiros Mancoridis\n\nAbstract: This paper introduces Relational Inference GraphRAG (RIG-RAG), an LLM-assisted pipeline that transforms cloud configuration data into a security-enriched knowledge graph to support natural-language reasoning about deployed infrastructure. This enhances agentic capabilities for cloud security operations.",
+      "published_at": "2025-11-14T07:10:13Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "sGRd8Yc-3T0": {
+      "video_id": "sGRd8Yc-3T0",
+      "title": "Interpretation of Threat Prediction Model for SOC Analysts",
+      "duration_s": 1712,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Awalin Nabila SOPAN, FireEye\nInterpretation of Threat Prediction Model for SOC Analysts (slides: https://www.camlis.org/awalin-nabila-sopan/)\n\nIn a security operations center or SOC, security analysts detect and triage time sensitive security alerts. One big challenge they face is the amount of false positive alerts from various data sources. Use of machine learning models to classify such alerts can reduce their workload; but for such mission-critical tasks we cannot solely depend on the ML, especially since there are always new types of attacks. To aid the analysts, we developed a system that classifies an alert into Malicious or Benign; and presents them the prediction along with an explanation. In this work, we demonstrate an ongoing effort to explain the machine learning model’s alert classification to SOC analysts using a model explanation visualization. While a human in the loop approach can help improve a model, most published work has focused on interpreting and visualizing the model features for data scientists; we focused on the analysts who triage alerts based on the alert data and the model’s prediction. Hence, we created a visualization of a model prediction to help analysts without overwhelming them.\n \n Our analysts use a web based platform to investigate alerts triggered by some signature or indicator of compromise. They can view the raw data of the alert and pivot around various features before reaching the final decision (whether the alert is malicious or a benign one). Our UI component shows the analysts what our underlying machine learning model thinks of the alert and ‘Why’. It has three components:\n 1. The classification made by the model along with the prediction score.\n 2. The decision path: what features of the current alert are used by the model\n 3. The main features from al alerts used by the model.\n If an alert is classified as malicious with high confidence, analysts can verify that by looking at the features presented in the UI and compare it with overall data set (the visualization of the data distribution for each matched condition). If they disagree with the model’s decision they can comment explaining the reason; the data scientists use that feedback to improve the model for future alerts and determine outliers. Thus the analysts can provide insight regarding the model without getting into the mathematical details. To keep the model explainable, we used a random forest model which uses a number of decision trees, and the features presented to the analysts are only the ones that are human.\n \n We have received positive feedback and improvement suggestions from the SOC-analysts and threat researchers at our company. The prediction score gives them confidence in classifying the alert, and in the efficacy of new signatures. One public example can be seen here: https://twitter.com/danielhbohannon/status/956187804375142401’\n \n This application is enabling our security analysts to get insight of how a machine learning model is making its prediction for alerts. To summarize, our main contributions are:\n 1. The visualization enabled analysts to get an overall picture of the entire dataset\n 2. Analysts can focus their attention to critical alerts\n 3. Analysts can add confidence to their decision, or perhaps question their logic if the model disagrees",
+      "published_at": "2018-11-16T17:37:58Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "sV7pGLYmwdQ": {
+      "video_id": "sV7pGLYmwdQ",
+      "title": "PEVuln: A Benchmark Dataset for Using Machine Learning to Detect Vulnerabilities in PE Malware",
+      "duration_s": 898,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Nathan Ross, Oluwafemi Olukoya, Jesus Martinez del Rincon, and Domhnall Carlin",
+      "published_at": "2024-11-16T02:05:19Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "slEgvv5JlMU": {
+      "video_id": "slEgvv5JlMU",
+      "title": "Towards Autonomous Cyber-Defence: Using Co-Operative Decision Making for Cybersecurity",
+      "duration_s": 1567,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Madeline Cheah, Jack Stone, Samuel Bailey, Peter Haubrick, David Rimmer, Matt Lacey, and Mark Dorn",
+      "published_at": "2024-11-16T01:26:51Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "uJFlUIdvs4Q": {
+      "video_id": "uJFlUIdvs4Q",
+      "title": "Evaluating Risk-Based Authentication Effectiveness in Production 2FA Systems",
+      "duration_s": 1351,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Steven Leung\n\nAuthor(s): Steven Leung\n\nAbstract: This study provides the first large-scale empirical evaluation of Risk-Based Authentication (RBA) effectiveness in production two-factor authentication (2FA) systems against real-world opportunistic, targeted, and advanced attacks. It demonstrates how heuristic and anomaly detection methods improve security while maintaining user experience.",
+      "published_at": "2025-11-14T08:05:43Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "vJtfB5FMnHc": {
+      "video_id": "vJtfB5FMnHc",
+      "title": "ARNIE: Hasta La Vector, Baby! Towards Better Encoding and Vectorization of Cyber Artifacts",
+      "duration_s": 1576,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2022, Matthew Berninger",
+      "published_at": "2022-11-30T03:01:25Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "vVtzvPsy4dY": {
+      "video_id": "vVtzvPsy4dY",
+      "title": "BlackIce: A Containerized Red Teaming Toolkit for AI Security Testing",
+      "duration_s": 1463,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Caelin Kaplan \n\nAuthor(s): Alexander Warnecke; Caelin Kaplan",
+      "published_at": "2025-11-14T08:26:06Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "w6MUiZzu2AI": {
+      "video_id": "w6MUiZzu2AI",
+      "title": "Applying Deep Graph Representation Learning to the Malware Graph",
+      "duration_s": 1939,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Bayan Bruss\nApplying Deep Graph Representation Learning to the Malware Graph (abstract: https://www.camlis.org/2019/talks/bruss)",
+      "published_at": "2019-11-12T22:51:19Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "wptjlWATr-w": {
+      "video_id": "wptjlWATr-w",
+      "title": "Enhancing 2FA with IP-based geolocation without blocking all your users (CAMLIS 2022)",
+      "duration_s": 702,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    },
+    "yZosg1fYFYk": {
+      "video_id": "yZosg1fYFYk",
+      "title": "An Information Security Approach to Feature Engineering",
+      "duration_s": 910,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Brian Murphy\nAn Information Security Approach to Feature Engineering (abstract: https://www.camlis.org/2019/talks/murphy)",
+      "published_at": "2019-11-14T14:43:15Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "zMdHGY53VEw": {
+      "video_id": "zMdHGY53VEw",
+      "title": "APTinder: An optimized approach for finding that perfect APT match",
+      "duration_s": 1716,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2018, Matthew Berninger, FireEye\nAPTinder: An optimized approach for finding that perfect APT match (slides: https://www.camlis.org/matthew-berninger/)\n\nAPTinder: An optimized approach for finding that perfect APT match\n \n \n It is the job of the SOC and IR team to collect, classify, and report malicious cyber activity. Knowing \"who\" is behind an attack can help an Incident Response team anticipate the adversary’s next move, or understand what the attackers' end goal may be. In order to be useful, this attribution need not always be tied to geography. Simply knowing \"this backdoor is used by group X, who also tends to use Y method of lateral movement\" can be enough context to help an IR team optimize their investigation. Knowing where group X lives, or what language they speak, may not always be knowable, or necessary.\n \n But how are these groups of activity built over time? How do we \"know\" that certain activities are related or similar? How confident do we need to be to “merge” highly similar groups? There is no universal answer key in the industry for these questions, so we are left with the experience and reasoning of intel analysts. A quick survey around the cyber intelligence industry reveals a tangled web of associations, multiple naming conventions, and overlaps between established “groups”. Rather than depending on instinct and intuition, we sought to find a way to provide intel analysts with simple, objective information to assist in making these grouping decisions.\n \n Viewed from a pure data science perspective, this cyber intelligence problem begins to look very similar to a clustering and topic modeling problem. By creating 'documents' from a corpus of intelligence knowledge, we vectorized each body of activity, and then explored different similarity metrics to build a distance matrix. From there, we performed clustering and topic modeling to show interesting dynamics in the global cyber threat intelligence space.\n \n We built the initial proof of concept with data collected from over a decade of incident response and intelligence activities. Using features such as tools, infrastructure, timing, and targeting, we were able to calculate objective similarity between hundreds of adversary groups. We directly expose this distance metric, along with context, to intel analysts as they make intelligence assessments. Comparing our model’s output with their intuition has helped to challenge assumptions, expose data modeling gaps, and highlight associations between previously unknown groups.\n \n Further challenges to this approach include the proper modeling of cyber threat information, normalization, and variations in confidence. Additionally, correctly adjusting for time is a key area of improvement, given the rapid changes to the cyber threat environment. Even if these are solved, there will always be information in the cyber intelligence space which eludes a formal data model. However, exposing the objective similarities - or dissimilarities - of groups of activity can help illuminate gaps, provide leads, and challenge biases. We have found this approach to be a useful tool in our quest to map and model the many (and multiplying) cyber adversaries around the globe.",
+      "published_at": "2018-11-16T17:11:34Z",
+      "tags": [
+        "camlis",
+        "camlis2018"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "zOM_3yegTTQ": {
+      "video_id": "zOM_3yegTTQ",
+      "title": "Towards a Generalisable Cyber Defence Agent for Real-World Computer Networks\"",
+      "duration_s": 1096,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker:  Tim Dudman\n\nAuthor(s): Tim Dudman\n\nAbstract: This work proposes Topological Extensions for Reinforcement Learning Agents (TERLA) to provide generalizability for cyber defense agents in networks of differing topology and size without the need for retraining. It evaluates performance in realistic simulation environments.",
+      "published_at": "2025-11-14T06:59:22Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "zPfaiwyDF9M": {
+      "video_id": "zPfaiwyDF9M",
+      "title": "Hamm-Grams: Mining Common Regular Expressions via Locality Sensitive Hashing",
+      "duration_s": 1152,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2024, Derek Everett, Edward Raff, and James Holt",
+      "published_at": "2024-11-16T02:55:38Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "z_OYcwZ6Ffg": {
+      "video_id": "z_OYcwZ6Ffg",
+      "title": "A Framework for Adaptive Multi-Turn Jailbreak Attacks on Large Language Models",
+      "duration_s": 1768,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "Speaker: Javad Rafiei Asl\n\nAuthor(s):  Javad Rafiei Asl; Sidhant Narula; Mohammad Ghasemigol; Eduardo Blanco ; Daniel Takabi \n\nAbstract: This paper introduces HarmNet, a modular framework designed to systematically construct, refine, and execute multi-turn jailbreak queries against LLMs, demonstrating significantly higher attack success rates compared to prior methods.",
+      "published_at": "2025-11-12T23:53:50Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "zkBdd3eiVrE": {
+      "video_id": "zkBdd3eiVrE",
+      "title": "TweetSeeker: Extracting Adversary Methods from the Twitterverse",
+      "duration_s": 1834,
+      "channel": "CAMLIS",
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos",
+      "description": "CAMLIS 2019, Matthew Berninger\nTweetSeeker: Extracting Adversary Methods from the Twitterverse (abstract: https://www.camlis.org/2019/talks/berninger)",
+      "published_at": "2019-11-14T14:48:51Z",
+      "tags": [
+        "camlis",
+        "camlis2019"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "zz7bEUiX82Y": {
+      "video_id": "zz7bEUiX82Y",
+      "title": "Firenze: Model Evaluation Using Weak Signals (CAMLIS 2022)",
+      "duration_s": 1199,
+      "channel": null,
+      "label": "CAMLIS",
+      "year": null,
+      "source_url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos"
+    }
+  }
+}

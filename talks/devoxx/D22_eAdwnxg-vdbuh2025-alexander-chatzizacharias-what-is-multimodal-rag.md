@@ -1,0 +1,30 @@
+---
+id: D22_eAdwnxg
+title: "[VDBUH2025] Alexander Chatzizacharias - What is multimodal RAG, and can we build a village with it?"
+slug: vdbuh2025-alexander-chatzizacharias-what-is-multimodal-rag
+conference: devoxx
+conference_name: "Devoxx"
+category: "Software dev with AI tracks"
+edition: "Devoxx"
+year: 2025
+speakers: []
+channel: null
+duration_min: 40
+published_at: null
+video_id: D22_eAdwnxg
+youtube_url: https://www.youtube.com/watch?v=D22_eAdwnxg
+tags: []
+transcript: false
+---
+
+# [VDBUH2025] Alexander Chatzizacharias - What is multimodal RAG, and can we build a village with it?
+
+**Speaker not identified**
+
+`Devoxx` · `Devoxx` · `2025` · `40 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=D22_eAdwnxg) · [Conference site](https://devoxx.com/)
+
+## Description
+
+*No description published on YouTube.*

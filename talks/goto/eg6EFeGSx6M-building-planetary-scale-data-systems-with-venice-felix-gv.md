@@ -1,0 +1,70 @@
+---
+id: eg6EFeGSx6M
+title: "Building Planetary-Scale Data Systems with Venice • Felix GV & Olimpiu Pop • GOTO 2026"
+slug: building-planetary-scale-data-systems-with-venice-felix-gv
+conference: goto
+conference_name: "GOTO Conferences"
+category: "Software dev with AI tracks"
+edition: "GOTO"
+year: 2026
+speakers: []
+channel: "GOTO Conferences"
+duration_min: 28
+published_at: 2026-01-26T13:01:15Z
+video_id: eg6EFeGSx6M
+youtube_url: https://www.youtube.com/watch?v=eg6EFeGSx6M
+tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Felix GV", "Olimpiu Pop", "VeniceDB", "RocksDB", "DuckDB", "Apache Kafka", "Apache Pinot", "Apache Zookeeper", "Apache Helix", "Data Flow", "Chaos Engineering", "Data Systems", "Apache Iceberg", "CAP Theorem", "Microservices", "Distributed Systems"]
+transcript: false
+---
+
+# Building Planetary-Scale Data Systems with Venice • Felix GV & Olimpiu Pop • GOTO 2026
+
+**Speaker not identified**
+
+`GOTO Conferences` · `GOTO` · `2026` · `28 min`
+
+`#GOTO` `#GOTOcon` `#GOTO Conference` `#GOTO (Software Conference)` `#Videos for Developers` `#Computer Science` `#Programming` `#Software Engineering` `#GOTOpia` `#Tech` `#Software Development` `#Tech Channel` `#Tech Conference` `#Today in Tech` `#GOTO Unscripted` `#Felix GV` `#Olimpiu Pop` `#VeniceDB` `#RocksDB` `#DuckDB` `#Apache Kafka` `#Apache Pinot` `#Apache Zookeeper` `#Apache Helix` `#Data Flow` `#Chaos Engineering` `#Data Systems` `#Apache Iceberg` `#CAP Theorem` `#Microservices` `#Distributed Systems`
+
+[Watch the recording](https://www.youtube.com/watch?v=eg6EFeGSx6M) · [Conference site](https://gotopia.tech/)
+
+## Description
+
+This interview was recorded for GOTO Unscripted. #GOTOcon #GOTOunscripted
+
+Félix GV - Current Interests: Multi-Planetary Databases, Data Sovereignty & Lifelogging @felixgv @VeniceDB
+Olimpiu Pop - Technologist & Tech Journalist
+
+RESOURCES
+Félix
+
+Olimpiu
+
+Links
+
+DESCRIPTION
+Félix GV, a former engineer at LinkedIn and architect of the Venice database system, discusses the complexity of building planetary-scale data systems. He explains Venice's unbundled architecture where each component—from Kafka-based pub/sub to RocksDB-powered servers—operates as an independent distributed system. Félix details their rigorous chaos engineering practices, including regular load tests that push data centers beyond normal capacity to ensure reliability.
+
+The discussion covers fundamental distributed systems concepts like the CAP theorem and the trade-offs between consistency and availability in multi-region deployments. He also explains why Venice, as a derived data system, deliberately sacrifices strong consistency for high throughput and availability, and concludes by discussing their experimental integration of DuckDB for SQL-based analytics and data exploration capabilities.
+
+TIMECODES
+00:00 Intro
+00:55 The architecture of Venice: An unbundled database
+06:09 Multi-region reliability & chaos engineering
+09:54 Data flow: Writing & reading in Venice
+15:15 Understanding the CAP Theorem
+22:34 Integrating DuckDB: Adding SQL capabilities
+27:31 Outro
+
+RECOMMENDED BOOKS
+Kasun Indrasiri & Danesh Kuruppu • gRPC: Up and Running • https://amzn.to/3sBGBJJ
+Tomer Shiran, Jason Hughes & Alex Merced • Apache Iceberg: The Definitive Guide • https://amzn.to/488Z30k
+William Smith • Arrow Flight Protocols and Practices • https://amzn.to/4o2Q2fd
+Adi Polak • Scaling Machine Learning with Spark • https://amzn.to/3N9vx1H
+Mark Needham, Michael Hunger & Michael Simons • DuckDB in Action • https://amzn.to/45QwSli
+Simon Aubury & Ned Letcher • Getting Started with DuckDB • https://amzn.to/3VPk4q
+
+CHANNEL MEMBERSHIP BONUS
+Join this channel to get early access to videos & other perks:
+
+Looking for a unique learning experience?
+Attend the next GOTO conference near you! Get your ticket at https://gotopia.tech

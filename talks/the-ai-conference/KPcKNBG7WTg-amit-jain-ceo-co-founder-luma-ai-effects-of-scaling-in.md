@@ -1,0 +1,44 @@
+---
+id: KPcKNBG7WTg
+title: "Amit Jain, CEO & Co-Founder, Luma AI: Effects of Scaling in World Model Training"
+slug: amit-jain-ceo-co-founder-luma-ai-effects-of-scaling-in
+conference: the-ai-conference
+conference_name: "The AI Conference"
+category: "AI engineering & agents"
+edition: "The AI Conference"
+year: 2025
+speakers: []
+channel: "The AI Conference™"
+duration_min: 25
+published_at: 2025-06-30T20:06:02Z
+video_id: KPcKNBG7WTg
+youtube_url: https://www.youtube.com/watch?v=KPcKNBG7WTg
+tags: []
+transcript: false
+---
+
+# Amit Jain, CEO & Co-Founder, Luma AI: Effects of Scaling in World Model Training
+
+**Speaker not identified**
+
+`The AI Conference` · `The AI Conference` · `2025` · `25 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=KPcKNBG7WTg) · [Conference site](https://aiconference.com/)
+
+## Description
+
+Amit Jain, CEO & Co-Founder, Luma AI
+
+Effects of scaling in world model training
+
+The bitter lesson teaches us that simple techniques at scale are the most effective. This has been proven with LLMs and has similarly shown true in video models, where scale has unlocked truly emergent behaviors in 3D and is showing early glimpses of the future of multimodal intelligence.
+
+We’ll discuss the approach to, and findings of training Dream Machine, Luma’s SOTA video generation model.
+
+🎟️ Tickets: https://aiconference.com/
+🛎️ Remember to hit the bell icon to stay notified!
+
+Follow The AI Conference
+
+© The AI Conference 2025
+Video Recorded at The AI Conference. Copyright, The AI Conference, All Rights Reserved

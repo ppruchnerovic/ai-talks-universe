@@ -1,0 +1,934 @@
+{
+  "slug": "dreamforce",
+  "name": "Salesforce Dreamforce",
+  "enumerated_at": "2026-08-30T21:49:12+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "count": 102
+    }
+  ],
+  "count": 102,
+  "videos": {
+    "0-bCKVLxNW4": {
+      "video_id": "0-bCKVLxNW4",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "12QD6GCIl9k": {
+      "video_id": "12QD6GCIl9k",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "1YKq4ViuAbo": {
+      "video_id": "1YKq4ViuAbo",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "2GPv8AlL0G8": {
+      "video_id": "2GPv8AlL0G8",
+      "title": "Humanoid Robots and AI: Driving the New Industrial Future | Dreamforce 2025",
+      "duration_s": 2552,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "2TUiIi2Hk-M": {
+      "video_id": "2TUiIi2Hk-M",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "32bLTmjfRIc": {
+      "video_id": "32bLTmjfRIc",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "39PIo5JkkBQ": {
+      "video_id": "39PIo5JkkBQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "3NmvlQ0oqUI": {
+      "video_id": "3NmvlQ0oqUI",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "3bhmrDS6rpc": {
+      "video_id": "3bhmrDS6rpc",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "3p7uk4lPj58": {
+      "video_id": "3p7uk4lPj58",
+      "title": "Agentic Service, Limitless Growth | Financial Services Keynote, Dreamforce 2025",
+      "duration_s": 2498,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "4VbBMun-wss": {
+      "video_id": "4VbBMun-wss",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "4zelXbe1YjY": {
+      "video_id": "4zelXbe1YjY",
+      "title": "Reinvent Employee Experiences & ITSM | Agentforce IT Service, Dreamforce 2025 Keynote",
+      "duration_s": 2775,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "5-F0yVWomCg": {
+      "video_id": "5-F0yVWomCg",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "5kpBzqMSO1U": {
+      "video_id": "5kpBzqMSO1U",
+      "title": "Unlock Audience Value with AI | Media and Entertainment Keynote, Dreamforce 2025",
+      "duration_s": 3384,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "62BbupeGoOo": {
+      "video_id": "62BbupeGoOo",
+      "title": "Agentic Enterprise Excellence | Manufacturing Keynote, Dreamforce 2025",
+      "duration_s": 3162,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "6UwF2PLmowc": {
+      "video_id": "6UwF2PLmowc",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "8ws62lDiQac": {
+      "video_id": "8ws62lDiQac",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "9PCO1eBu_wU": {
+      "video_id": "9PCO1eBu_wU",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "9SlATKrwzfQ": {
+      "video_id": "9SlATKrwzfQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "A-zQ6eXN46c": {
+      "video_id": "A-zQ6eXN46c",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "AKppZCx-A4c": {
+      "video_id": "AKppZCx-A4c",
+      "title": "True to the Core | Dreamforce 2025",
+      "duration_s": 3929,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "BFqgzPazQe0": {
+      "video_id": "BFqgzPazQe0",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "By0Pqe-9ZKA": {
+      "video_id": "By0Pqe-9ZKA",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "CKr8vpCoN3Y": {
+      "video_id": "CKr8vpCoN3Y",
+      "title": "Marketing That Sparks a Conversation: AI Agents at the Agentforce Marketing Dreamforce 2025 Keynote",
+      "duration_s": 3092,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "CMj3TNRw4gI": {
+      "video_id": "CMj3TNRw4gI",
+      "title": "Proactive Customer Experiences with Service AI Agents | Agentforce Service, Dreamforce 2025 Keynote",
+      "duration_s": 2908,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "ChZfhHfh7FY": {
+      "video_id": "ChZfhHfh7FY",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Dn67nCjwHpY": {
+      "video_id": "Dn67nCjwHpY",
+      "title": "Moving the Needle with Agentforce | Life Sciences Keynote, Dreamforce 2025",
+      "duration_s": 2816,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "DznDP7fngvs": {
+      "video_id": "DznDP7fngvs",
+      "title": "Build Your Agentic Enterprise | Customer Success Keynote, Dreamforce 2025",
+      "duration_s": 2355,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Etfqrd35OVI": {
+      "video_id": "Etfqrd35OVI",
+      "title": "Drive Revenue Growth with Agentforce Revenue Management | Dreamforce 2025 Keynote",
+      "duration_s": 2908,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "FIHx29x8lsg": {
+      "video_id": "FIHx29x8lsg",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Gce2DhADtK4": {
+      "video_id": "Gce2DhADtK4",
+      "title": "Dreamforce Main Keynote 2025",
+      "duration_s": 4870,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Gi2g_pnXuEs": {
+      "video_id": "Gi2g_pnXuEs",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "HVYPagxrnqg": {
+      "video_id": "HVYPagxrnqg",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "HfMawBuPghk": {
+      "video_id": "HfMawBuPghk",
+      "title": "Build Unbreakable Loyalty with Agentic Retail | Retail Keynote, Dreamforce 2025",
+      "duration_s": 2836,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "IHtffhDsxuU": {
+      "video_id": "IHtffhDsxuU",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Is9TB6xSh9U": {
+      "video_id": "Is9TB6xSh9U",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "J-zoX5pds9Q": {
+      "video_id": "J-zoX5pds9Q",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "J2k4voIMix8": {
+      "video_id": "J2k4voIMix8",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "JXbffqhy63g": {
+      "video_id": "JXbffqhy63g",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "LjR3S-iz0XA": {
+      "video_id": "LjR3S-iz0XA",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "NYiDLTOrcoE": {
+      "video_id": "NYiDLTOrcoE",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "NgcgHA-3fUI": {
+      "video_id": "NgcgHA-3fUI",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "OEbds48baUo": {
+      "video_id": "OEbds48baUo",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "OXHYIKBgOhE": {
+      "video_id": "OXHYIKBgOhE",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Od8gLdLljWg": {
+      "video_id": "Od8gLdLljWg",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "PtyOBahZ4GM": {
+      "video_id": "PtyOBahZ4GM",
+      "title": "Reimagining Work for the Agentic Enterprise | Slack Keynote, Dreamforce 2025",
+      "duration_s": 2998,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "QpRHZWoXgxQ": {
+      "video_id": "QpRHZWoXgxQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "S4f-GECXhqM": {
+      "video_id": "S4f-GECXhqM",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "SOgAuBbJXq8": {
+      "video_id": "SOgAuBbJXq8",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "SZLhdfcMpJE": {
+      "video_id": "SZLhdfcMpJE",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "SasAaT0LVxc": {
+      "video_id": "SasAaT0LVxc",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "T5EKo89_oq0": {
+      "video_id": "T5EKo89_oq0",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "V0eTMzfLMi8": {
+      "video_id": "V0eTMzfLMi8",
+      "title": "Powering Decisions, Driving Actions | Tableau Keynote, Dreamforce 2025",
+      "duration_s": 2912,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "X-l2qjxfGiU": {
+      "video_id": "X-l2qjxfGiU",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "X2vp37DRM4w": {
+      "video_id": "X2vp37DRM4w",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "X6GcDihB9vE": {
+      "video_id": "X6GcDihB9vE",
+      "title": "Grow Faster with Data and AI Agents | SMB & Startup Keynote, Dreamforce 2025",
+      "duration_s": 2947,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "Xiwk5B6TB7s": {
+      "video_id": "Xiwk5B6TB7s",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "YFJyxJ8z-uU": {
+      "video_id": "YFJyxJ8z-uU",
+      "title": "Building an Agentic Enterprise: The Dreamforce 2025 Keynote in Under 6 Minutes",
+      "duration_s": 351,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "YxwmV6pKET0": {
+      "video_id": "YxwmV6pKET0",
+      "title": "Healthcare That Moves at the Speed of Life | Health Keynote, Dreamforce 2025",
+      "duration_s": 3034,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "ZR6YEL5k7CY": {
+      "video_id": "ZR6YEL5k7CY",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "_kfWAOkpa18": {
+      "video_id": "_kfWAOkpa18",
+      "title": "Demo: Elevating the Seller Experience | Salesforce",
+      "duration_s": 282,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "_sbnba8ttUA": {
+      "video_id": "_sbnba8ttUA",
+      "title": "Build and Govern the Agentic Enterprise | IT Keynote, Dreamforce 2025",
+      "duration_s": 3140,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "aJ5VwkalpUo": {
+      "video_id": "aJ5VwkalpUo",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "bnUGURZggzQ": {
+      "video_id": "bnUGURZggzQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "brQH2CCxbSE": {
+      "video_id": "brQH2CCxbSE",
+      "title": "A Conversation with Sundar Pichai and Marc Benioff | Dreamforce 2025",
+      "duration_s": 2744,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "c0UprY-N9uo": {
+      "video_id": "c0UprY-N9uo",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "dUZvCpqbbfQ": {
+      "video_id": "dUZvCpqbbfQ",
+      "title": "Drive Growth with Agentforce Commerce | Commerce Keynote, Dreamforce 2025",
+      "duration_s": 3073,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "dc1tYh3KBCM": {
+      "video_id": "dc1tYh3KBCM",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "e2his_103lU": {
+      "video_id": "e2his_103lU",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "e3w3KVwVMM0": {
+      "video_id": "e3w3KVwVMM0",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "f4_EdNs0DYc": {
+      "video_id": "f4_EdNs0DYc",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "gZCHFK6HrGc": {
+      "video_id": "gZCHFK6HrGc",
+      "title": "5 Agentic Lessons | Salesforce-on-Salesforce Keynote, Dreamforce 2025",
+      "duration_s": 3115,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "h6iDwiff96U": {
+      "video_id": "h6iDwiff96U",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "hd0IGo8JE2s": {
+      "video_id": "hd0IGo8JE2s",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "hu6UdVVxesE": {
+      "video_id": "hu6UdVVxesE",
+      "title": "Launch the Agentic Government | Public Sector Keynote, Dreamforce 2025",
+      "duration_s": 2873,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "i0u7qxgJNlI": {
+      "video_id": "i0u7qxgJNlI",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "ive7oTE-vrg": {
+      "video_id": "ive7oTE-vrg",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "k1J9u6hUSaM": {
+      "video_id": "k1J9u6hUSaM",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "krLfHWfAhGA": {
+      "video_id": "krLfHWfAhGA",
+      "title": "Developer Keynote | Dreamforce 2025",
+      "duration_s": 3228,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "m9P-jp-ZSJQ": {
+      "video_id": "m9P-jp-ZSJQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "n6J5X5xxal4": {
+      "video_id": "n6J5X5xxal4",
+      "title": "Activate Trusted Data Everywhere | Data Cloud Keynote, Dreamforce 2025",
+      "duration_s": 3172,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "nZXpyr61IMw": {
+      "video_id": "nZXpyr61IMw",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "oIZj-Akp7Fo": {
+      "video_id": "oIZj-Akp7Fo",
+      "title": "Admins Power the Agentic Enterprise | Admin Keynote, Dreamforce 2025",
+      "duration_s": 2888,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "oueQd73JHUA": {
+      "video_id": "oueQd73JHUA",
+      "title": "Become an Agentic Enterprise | Agentforce Keynote, Dreamforce 2025",
+      "duration_s": 3078,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "ouj969lrytM": {
+      "video_id": "ouj969lrytM",
+      "title": "MuleSoft Dreamforce 2025 Keynote: Building the Agentic Enterprise",
+      "duration_s": 3093,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "rL6go9Q2_OA": {
+      "video_id": "rL6go9Q2_OA",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "rR5Z7cO0slk": {
+      "video_id": "rR5Z7cO0slk",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "r_u4S6k08u4": {
+      "video_id": "r_u4S6k08u4",
+      "title": "Your Path to Growth Is Humans and AI Sales Agents | Sales Keynote, Dreamforce 2025",
+      "duration_s": 2929,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "rghGNzPSXIQ": {
+      "video_id": "rghGNzPSXIQ",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "t_EKrJPYtjk": {
+      "video_id": "t_EKrJPYtjk",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "ty6waJj8O7k": {
+      "video_id": "ty6waJj8O7k",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "umBWVC0wNAg": {
+      "video_id": "umBWVC0wNAg",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "w4X0-04fEuE": {
+      "video_id": "w4X0-04fEuE",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "wB6PyZZzFwc": {
+      "video_id": "wB6PyZZzFwc",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "wKGsIdlH8rI": {
+      "video_id": "wKGsIdlH8rI",
+      "title": "Asymbl Customer Interview | Dreamforce 2025",
+      "duration_s": 208,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "wUOjTR1511M": {
+      "video_id": "wUOjTR1511M",
+      "title": "A Conversation with Dario Amodei and Marc Benioff | Dreamforce 2025",
+      "duration_s": 2316,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "xrs_UBBQ_DU": {
+      "video_id": "xrs_UBBQ_DU",
+      "title": "Agentforce for Sales: Your Secret to Smarter Selling | Dreamforce 2025",
+      "duration_s": 672,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "xuP-TdhoLTk": {
+      "video_id": "xuP-TdhoLTk",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "y1lg9rwTQgk": {
+      "video_id": "y1lg9rwTQgk",
+      "title": "Agentic Field Service Management | Agentforce Field Service Keynote, Dreamforce 2025",
+      "duration_s": 2833,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "yzv3GixZL6g": {
+      "video_id": "yzv3GixZL6g",
+      "title": "A Conversation with Marc Benioff and David Sacks | Dreamforce 2025",
+      "duration_s": 2713,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "zNk9Epg9TJI": {
+      "video_id": "zNk9Epg9TJI",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    },
+    "zwd8B1HLpyw": {
+      "video_id": "zwd8B1HLpyw",
+      "title": "Scale Impact in the Agentic Era | Nonprofit Keynote, Dreamforce 2025",
+      "duration_s": 3157,
+      "channel": "Salesforce",
+      "label": "Dreamforce 2025 keynotes",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM"
+    }
+  }
+}

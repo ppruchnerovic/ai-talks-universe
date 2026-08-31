@@ -1,0 +1,607 @@
+{
+  "slug": "github-universe",
+  "name": "GitHub Universe",
+  "enumerated_at": "2026-08-30T21:47:45+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC",
+      "label": "Universe 2025",
+      "year": 2025,
+      "count": 17
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P",
+      "label": "Universe 2024",
+      "year": 2024,
+      "count": 54
+    }
+  ],
+  "count": 65,
+  "videos": {
+    "-GHeJhgR_IM": {
+      "video_id": "-GHeJhgR_IM",
+      "title": "Mastering Cluster Security: Essential Upgrade Strategies",
+      "duration_s": 41,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "-buwvYd2v2Y": {
+      "video_id": "-buwvYd2v2Y",
+      "title": "How these software developers got their start in programming",
+      "duration_s": 111,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "0jEzUhU8bLc": {
+      "video_id": "0jEzUhU8bLc",
+      "title": "Your codebase, your rules: Customizing Copilot with context engineering",
+      "duration_s": 971,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "0oDH-0ulbMo": {
+      "video_id": "0oDH-0ulbMo",
+      "title": "Thriving through change: A decade of engineering evolution at Spotify",
+      "duration_s": 2032,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "0rk_hQF7rHo": {
+      "video_id": "0rk_hQF7rHo",
+      "title": "GitHub Universe 2024: 150+ speakers, 100+ sessions, endless possibilities",
+      "duration_s": 30,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "2p1D29zJdBI": {
+      "video_id": "2p1D29zJdBI",
+      "title": "5 ways to automate everyday workflows with GitHub Actions",
+      "duration_s": 920,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "30OpmbWL1t8": {
+      "video_id": "30OpmbWL1t8",
+      "title": "#HappyCoding! Build intelligent apps with Visual Studio Code, GitHub, and Azure",
+      "duration_s": 2469,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "4hXe7WBFzwo": {
+      "video_id": "4hXe7WBFzwo",
+      "title": "Found means fixed: Addressing security debt at scale",
+      "duration_s": 2037,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "5ov2NYBdGSw": {
+      "video_id": "5ov2NYBdGSw",
+      "title": "GitHub Universe 2024 - Day 1 (Live Replay)",
+      "duration_s": 30542,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "6Opo7AJIEwk": {
+      "video_id": "6Opo7AJIEwk",
+      "title": "GitHub Universe 2024 Day 1 Recap",
+      "duration_s": 81,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "7YEi5SoVzNQ": {
+      "video_id": "7YEi5SoVzNQ",
+      "title": "Empowering business leaders to scale innovation in the age of AI",
+      "duration_s": 2217,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "82jciNezDMY": {
+      "video_id": "82jciNezDMY",
+      "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+      "duration_s": 880,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "8rkA5vWUE4Y": {
+      "video_id": "8rkA5vWUE4Y",
+      "title": "Building agentic systems with VS Code extensibility and GitHub Copilot at Uber",
+      "duration_s": 2151,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "951OQEn4SN0": {
+      "video_id": "951OQEn4SN0",
+      "title": "GitHub Universe 2024 - Day 2 (Live Replay)",
+      "duration_s": 23458,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "BpQBOTXgPRA": {
+      "video_id": "BpQBOTXgPRA",
+      "title": "Embracing AI: How It Elevates the Developer Community",
+      "duration_s": 53,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "DQqyzesgDfg": {
+      "video_id": "DQqyzesgDfg",
+      "title": "GitHub's AI-native future is here. Join us as we share phase 2! #githubuniverse Opening Keynote",
+      "duration_s": 28,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "Dmchc0dCOa4": {
+      "video_id": "Dmchc0dCOa4",
+      "title": "Gear up for GitHub Universe 2024: a celebration of code and community",
+      "duration_s": 94,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "EgHIQKkRPDc": {
+      "video_id": "EgHIQKkRPDc",
+      "title": "Intelligent apps: The future of user experience | GitHub",
+      "duration_s": 80,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "FWsAQpP6_kw": {
+      "video_id": "FWsAQpP6_kw",
+      "title": "From metrics to impact: Turn GitHub Copilot data into business value",
+      "duration_s": 1507,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "Gg4Widve_mA": {
+      "video_id": "Gg4Widve_mA",
+      "title": "Why AI is now a developer's best friend",
+      "duration_s": 53,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "GhnCiV23PQE": {
+      "video_id": "GhnCiV23PQE",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "HJddnaBy6YU": {
+      "video_id": "HJddnaBy6YU",
+      "title": "\"You have to be here\": a look inside GitHub Universe 2025",
+      "duration_s": 94,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "IUjXuTrJuPw": {
+      "video_id": "IUjXuTrJuPw",
+      "title": "An inside look at how GitHub uses LLMs, fine-tuning, and prompt engineering in GitHub Copilot",
+      "duration_s": 1202,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "IeLqnlfB7VE": {
+      "video_id": "IeLqnlfB7VE",
+      "title": "How AI empowers developer creativity",
+      "duration_s": 48,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "LafpndhNC_E": {
+      "video_id": "LafpndhNC_E",
+      "title": "Tackling your tech debt with Copilot coding agent",
+      "duration_s": 769,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "LwqUp4Dc1mQ": {
+      "video_id": "LwqUp4Dc1mQ",
+      "title": "Extending AI Agents: A live demo of the GitHub MCP Server",
+      "duration_s": 908,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "MqBBEgpYh0Y": {
+      "video_id": "MqBBEgpYh0Y",
+      "title": "Using your repository for RAG: Learnings from GitHub Copilot Chat",
+      "duration_s": 1354,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "OtOZlBSgRk4": {
+      "video_id": "OtOZlBSgRk4",
+      "title": "AI's human touch: Embracing diverse abilities",
+      "duration_s": 56,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "P6Va0_KILi4": {
+      "video_id": "P6Va0_KILi4",
+      "title": "GitHub Universe 2025 opening keynote",
+      "duration_s": 3606,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "Ptach9Ouzj8": {
+      "video_id": "Ptach9Ouzj8",
+      "title": "Scaling code quality in the age of AI",
+      "duration_s": 1406,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "PvdptUZ3XeU": {
+      "video_id": "PvdptUZ3XeU",
+      "title": "How to vibe code responsibly (with a little help from MCPs)",
+      "duration_s": 862,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "QKkhS-yUF_g": {
+      "video_id": "QKkhS-yUF_g",
+      "title": "How to measure the effectiveness of GitHub Copilot",
+      "duration_s": 1549,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "Sylft2zTQ48": {
+      "video_id": "Sylft2zTQ48",
+      "title": "Dungeons and deployments: The clusters of chaos",
+      "duration_s": 2001,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "V-sdNfETPYQ": {
+      "video_id": "V-sdNfETPYQ",
+      "title": "GitHub Next | Exploring Continuous AI",
+      "duration_s": 1657,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "ZQ4WwRyo5pc": {
+      "video_id": "ZQ4WwRyo5pc",
+      "title": "Multi file editing magic with AI-native Copilot! (Cassidy Williams) #githubuniverse Opening Keynote",
+      "duration_s": 56,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "_KqdBb-iOAQ": {
+      "video_id": "_KqdBb-iOAQ",
+      "title": "GitHub Universe Day 2 Keynote",
+      "duration_s": 3305,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "agQdYgEbWhA": {
+      "video_id": "agQdYgEbWhA",
+      "title": "How GitHub Strengthens Security Teamwork & Culture",
+      "duration_s": 52,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "cQjizetTyPs": {
+      "video_id": "cQjizetTyPs",
+      "title": "Hack Club and GitHub set sail with High Seas program (By Acon Lin)",
+      "duration_s": 53,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "dFNrunK1az8": {
+      "video_id": "dFNrunK1az8",
+      "title": "The AI-native developer experience | GitHub Universe 2024",
+      "duration_s": 2084,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "dSbv-1KGu2U": {
+      "video_id": "dSbv-1KGu2U",
+      "title": "Live demo: GitHub Copilot in Visual Studio Code",
+      "duration_s": 387,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "dSf8QOjazrQ": {
+      "video_id": "dSf8QOjazrQ",
+      "title": "GitHub Universe 2024 opening keynote: delivering phase two of AI code generation",
+      "duration_s": 2997,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "e1kdkKDXmiM": {
+      "video_id": "e1kdkKDXmiM",
+      "title": "GitHub Copilot: Leading the AI revolution in software development",
+      "duration_s": 2558,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "eig5tJUl688": {
+      "video_id": "eig5tJUl688",
+      "title": "Securely building GitHub on GitHub",
+      "duration_s": 2443,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "f3Yrms9r_n4": {
+      "video_id": "f3Yrms9r_n4",
+      "title": "How GitHub Next took Copilot Workspace from concept to code",
+      "duration_s": 2239,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "fBy6XUsYya8": {
+      "video_id": "fBy6XUsYya8",
+      "title": "From product manager to CEO - startup secrets from Dani Grant, founder of Jam",
+      "duration_s": 637,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "hBBUkpqguRc": {
+      "video_id": "hBBUkpqguRc",
+      "title": "Preventing Code Leaks: GitHub's Secret Scanning Success",
+      "duration_s": 37,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "hKgTC6d11w4": {
+      "video_id": "hKgTC6d11w4",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "hPS6x9Y5oqI": {
+      "video_id": "hPS6x9Y5oqI",
+      "title": "Stepping into GitHub Universe 2024 👟 | GitHub",
+      "duration_s": 15,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "nSwj2Ma0pnk": {
+      "video_id": "nSwj2Ma0pnk",
+      "title": "GitHub Universe 2025 Day 1 Announcements",
+      "duration_s": 641,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "nX0fF_7neg0": {
+      "video_id": "nX0fF_7neg0",
+      "title": "How to become a speaker at GitHub Universe 2024",
+      "duration_s": 85,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "oESJX0QMFU4": {
+      "video_id": "oESJX0QMFU4",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "ob-TOPfQmbk": {
+      "video_id": "ob-TOPfQmbk",
+      "title": "Build apps & agents that scale with VS Code, GitHub Copilot, and Agent Framework",
+      "duration_s": 1871,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "pr025bvJt-o": {
+      "video_id": "pr025bvJt-o",
+      "title": "Introducing the next chapter for GitHub Enterprise",
+      "duration_s": 1768,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "q1IxyisKcZI": {
+      "video_id": "q1IxyisKcZI",
+      "title": "Dream it in the morning, build it in the afternoon: Collapsing the distance from idea to impact",
+      "duration_s": 2434,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "rQKiQ2O0sPs": {
+      "video_id": "rQKiQ2O0sPs",
+      "title": "GitHub Universe Day 2 Recap",
+      "duration_s": 86,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "rSDU4PMLBTo": {
+      "video_id": "rSDU4PMLBTo",
+      "title": "The hidden risks of manual certificate management | GitHub",
+      "duration_s": 44,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "rhSir1KB2M0": {
+      "video_id": "rhSir1KB2M0",
+      "title": "Accelerating cloud-to-edge development flows with GitHub Copilot and GitHub Actions",
+      "duration_s": 1911,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "ugc7yNHNX1Y": {
+      "video_id": "ugc7yNHNX1Y",
+      "title": "Gear up for GitHub Universe 2024: a celebration of code and community - Audio Descriptive Version",
+      "duration_s": 221,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "uh9A4LvuGHM": {
+      "video_id": "uh9A4LvuGHM",
+      "title": "GitHub Universe 2024 Day 2 Keynote: Building 1 billion developers",
+      "duration_s": 2876,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "vfbQoFxUfqo": {
+      "video_id": "vfbQoFxUfqo",
+      "title": "Copilot Workspace: 4 tips to supercharge your AI coding",
+      "duration_s": 58,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "w2WRT2eXISU": {
+      "video_id": "w2WRT2eXISU",
+      "title": "CVS Health's journey from legacy tools to seamless developer experience | GitHub",
+      "duration_s": 1361,
+      "channel": "GitHub",
+      "label": "Universe 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC"
+    },
+    "w82LvHz94jA": {
+      "video_id": "w82LvHz94jA",
+      "title": "GitHub Universe 2024: Stepping into style with custom sneakers",
+      "duration_s": 60,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "wGmCYMiIoUc": {
+      "video_id": "wGmCYMiIoUc",
+      "title": "How GitHub Copilot helped SAP reimagine the developer experience",
+      "duration_s": 2201,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "yZtzZXBYAek": {
+      "video_id": "yZtzZXBYAek",
+      "title": "Unlocking AI at scale: Crafting a compliant and high-impact AI strategy",
+      "duration_s": 2348,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    },
+    "z7sN6Slu0IM": {
+      "video_id": "z7sN6Slu0IM",
+      "title": "Let’s hack a #GitHubUniverse badge!",
+      "duration_s": 59,
+      "channel": "GitHub",
+      "label": "Universe 2024",
+      "year": 2024,
+      "source_url": "https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P"
+    }
+  }
+}

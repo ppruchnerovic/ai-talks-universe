@@ -1,0 +1,13 @@
+# Derived index — rebuilt in seconds by tools/build_index.py, and it would
+# otherwise churn several MB of binary into every commit.
+data/talks.db
+
+tools/__pycache__/
+
+# Playwright and its browsers, pulled in only to run the UI tests. The whole
+# repo is published to GitHub Pages, so this would otherwise be served too.
+tools/uitest/node_modules/
+
+# Virtualenv for the fetcher's dependencies, on distros where pip refuses to
+# install into the system Python. Same publishing reason as above.
+tools/.venv/

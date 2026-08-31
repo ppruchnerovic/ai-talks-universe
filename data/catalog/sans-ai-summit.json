@@ -1,0 +1,927 @@
+{
+  "slug": "sans-ai-summit",
+  "name": "SANS AI Cybersecurity Summit",
+  "enumerated_at": "2026-08-30T21:47:56+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "count": 30
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "count": 30
+    }
+  ],
+  "count": 60,
+  "videos": {
+    "-C2zhpvjLU8": {
+      "video_id": "-C2zhpvjLU8",
+      "title": "Lightning Talk: AI Isn’t the Risk — We Are",
+      "duration_s": 319,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "AI Isn’t the Risk. We Are, and That’s Where Security Must Change\n\n🎙️ Teri Green, Vice President of Technology, Elevate Energy\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nSecurity teams keep calling AI “high risk,” but that label isn’t a finding, it’s a feeling. The real failure mode in AI incidents isn’t the model; it’s the human trust decision around it. As GenAI features move from chat to connected workflows, touching sensitive data, triggering actions, retaining prompts and outputs, and relying on unverified sources, traditional controls alone don’t answer the question that matters most: what happens when AI is confidently wrong? In this lightning talk, Teri Green introduces T.E.S.T.™ (Touch, Execute, Store, Trust), a practical standard for reviewing AI systems without slowing innovation. Attendees will leave with a repeatable set of questions to threat model the workflow (not the model), make risk visible early, and define what “secure enough to ship” means.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T19:15:09Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "-qsO3BcWAPk": {
+      "video_id": "-qsO3BcWAPk",
+      "title": "Lightning Talk: Bridging Geek–Wonk Divide in AI Risk",
+      "duration_s": 345,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Bridging the Geek—Wonk Divide: A Practical Guide to AI and Third-Party Risk Management Program\n\n🎙️ Josh Snavely, Attorney and Practice Group Leader, McAfee & Taft\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nAs AI risk and technology use grows, so does the knowledge gap among and between business stakeholders. In addition and as most organizations deploy AI-based systems and tools through partners and vendors, third-party risk programs must evolve beyond static processes and questionnaires. This presentation outlines an integrated and practical approach for these stakeholders, including lawyers, risk leaders and technology teams, to jointly govern and understand AI risk.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T19:25:49Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "1oArF1HDIXM": {
+      "video_id": "1oArF1HDIXM",
+      "title": "Keynote: Every Doorknob, All At Once: AI Cyber Lessons",
+      "duration_s": 1445,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: Every Doorknob, All At Once: Reflecting on Six Lessons for the AI-Era Cyber Contest\n\n🎙️ Anne Neuberger, Senior Advisor at a16z\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nWhat can cybersecurity teams learn from the fast-evolving world of AI? This keynote explores key lessons shaping the AI-era cyber landscape — from how attackers and defenders are adapting to what it takes to stay resilient as the pace of change accelerates.\n\nWalk away with practical insights and big-picture thinking on how to navigate emerging risks, rethink strategy, and prepare for what’s next in AI-driven cybersecurity.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T17:54:57Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "3Br2xJZR3mI": {
+      "video_id": "3Br2xJZR3mI",
+      "title": "Keynote: Cramhole, LaFleur: Indirect Prompt Injection",
+      "duration_s": 1477,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: Cram it up your Cramhole, LaFleur: Understanding and Managing Indirect Prompt Injection\n\n🎙️ Diana Kelley, CISO at Noma Security\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nIndirect prompt injection is not just another vulnerability to patch. It is a structural reality of how large language models operate. This session explores how the context window, or \"\"cram hole,\"\" contributes to the success of prompt injection exploits and why that reality fundamentally reshapes how we must think about trust, control, and data boundaries in AI systems.\n\nAttendees will learn how system instructions, user inputs, retrieved content, and tool outputs blend into a single token stream. The model does not see trust levels or privilege boundaries. Because models cannot reliably distinguish between authoritative instructions and malicious content, and because nondeterminism makes simple refusal strategies brittle, relying on embedded guardrails alone is insufficient.\n\nBy reframing indirect prompt injection as an architectural risk management challenge, this session shifts the focus from patching to design. Participants will leave with practical guidance on designing resilient AI systems that assume compromise, limit blast radius, and build layered controls that reduce harm even when injection attempts succeed.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T18:43:40Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "3EqW5y-VXog": {
+      "video_id": "3EqW5y-VXog",
+      "title": "3 Keys to Weather the Autonomous Attack Storm",
+      "duration_s": 367,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Dancing Between Raindrops: 3 Keys to Weather the Autonomous Attack Storm\n\n🎙️ Chis Cochran, Field CISO and Vice President, SANS Institute\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nAs AI-driven threats move from theoretical whitepapers to machine-speed reality, the traditional defensive perimeter is beginning to look like an umbrella in a hurricane. For most organizations, the instinct is to hunker down or build thicker walls, but those who survive the next era of cyber warfare won’t do it through brute force alone.\n\nDrawing on insights from hundreds of candid conversations with global security leaders and deep-dive research into adversarial AI, this lightning talk cuts through the noise. We will move past the \"AI vs. AI\" buzzwords to explore the psychological and structural shifts required to stay dry when the clouds finally burst.\n\nIn five minutes, we’ll distill the three essential keys to a resilient defense:\n1. Why resisting the inevitable is the fastest way to fail.\n2. The \"boring\" foundational work that becomes a superpower at machine speed.\n3. The meta-skill every defender must master to keep pace with a shifting horizon.\nLeave the bunkers behind. It’s time to learn how to move between the drops.\"\"\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-07T11:50:47Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "3IzrwkZ71Bw": {
+      "video_id": "3IzrwkZ71Bw",
+      "title": "Lightning Talk: Why AI for ICS Needs IT/OT Integration",
+      "duration_s": 297,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "The Blind Spot That Almost Killed Us: Why AI for ICS Needs IT/OT Integration\n\n🎙️ Harry Thomas, CTO & Co-Founder, Frenos\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nProblem: OT-only monitoring left threat hunters blind to how adversaries actually reached critical substations during a red team engagement.\nApproach: Deployed AI attack path simulation against a digital twin. Mid-exercise, integrated enterprise IT data after discovering the visibility gap.\nResult: AI predicted the exact six-stage attack chain days before the red team exploited it. 50+ viable paths identified within hours. Threat hunters got a map instead of guessing.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:30:12Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "3u3cECUbPu4": {
+      "video_id": "3u3cECUbPu4",
+      "title": "Lightning Talk: AI as the Attack: Weaponizing APIs",
+      "duration_s": 348,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "When AI Becomes the Attack: How Threat Actors Weaponize AI APIs to Hide Their Tracks\n\n🎙️ Bryant Pickford, Security Specialist Solutions Architect, AWS\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nProblem → risk → action structure:\n\nProblem: Threat actors exploit AI APIs to generate overwhelming traffic that appears legitimate\n\nRisk: Traditional defenses can't distinguish between legitimate AI crawlers and weaponized ones\n\nAction: A 3-step detection framework attendees can implement immediately\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T18:54:39Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "597i8Sa0Kro": {
+      "video_id": "597i8Sa0Kro",
+      "title": "Fireside Chat with Day 1 Keynote Speakers",
+      "duration_s": 2735,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Fireside Chat with the Keynote Speakers\n\nModerator:\n🎙️ Rob T. Lee, Fellow; Chief AI Officer and Chief of Research at SANS Institute\n\nPanelists:\n🎙️ Jacob Klein, Head of Threat Intelligence at Anthropic\n🎙️ Anne Neuberger, Senior Advisor at a16z\n🎙️ Bruce Schneier, Fellow and Lecturer at University of Toronto\n\nIn this Day 1 fireside chat, keynote speakers come together to unpack key themes and emerging patterns across AI-driven cybersecurity. Building on their talks, the discussion explores evolving attack methodologies, defensive strategies, and the operational realities of integrating AI into security workflows.\n\nGain deeper perspective on the trends shaping the threat landscape—and what they mean for practitioners moving forward. what’s next in AI-driven cybersecurity.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-07T12:09:30Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "5hLGJoXv5Fc": {
+      "video_id": "5hLGJoXv5Fc",
+      "title": "Lightning Talk: MCP Under Attack: Securing Control Plane",
+      "duration_s": 372,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "MCP Under Attack: Securing the New Trusted Control Plane\n\n🎙️ Yevhen Pervushyn, Founder & Security Researcher, Red Asgard\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nProblem: AI agents are standardizing \"\"\"\"USB-like\"\"\"\" access to enterprise data via unauthenticated MCP servers.\nSolution: A red-team methodology for \"\"\"\"Context Manipulation\"\"\"\" that treats AI intent as a trusted input to privileged systems.\nNext: Why the future of AI security is about control-flow integrity, not just content filtering.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:34:45Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "617lrzEtGu4": {
+      "video_id": "617lrzEtGu4",
+      "title": "AI in the Crosshairs: Exploring Novel Attacks on AWS AI as a Service",
+      "duration_s": 1464,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "6MwlVekLp9I": {
+      "video_id": "6MwlVekLp9I",
+      "title": "Lightning Talk: GenAI-Washing, Agents & Security Trade-off",
+      "duration_s": 354,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Are We AI’ing Much? GenAI-Washing, Specialized Agents, and the Security Trade-off\n\n🎙️ Ferhat Dikbiyik, Ph.D., CTIA, Chief Research & Intelligence Officer (CRIO), Black Kite\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nThe tech industry is currently in the grip of a \"\"\"\"GenAI-washing\"\"\"\" epidemic, mirroring the early days of the mobile app boom. But at 100x the scale and velocity. As organizations rush to integrate \"\"\"\"AI for everything,\"\"\"\" we are pivoting away from the dream (or nightmare) of a single super-intelligence toward a fragmented ecosystem of specialized AI agents. But at what cost?\nThis talk pulls back the curtain on the \"\"\"\"AI Arms Race,\"\"\"\" examining why the pressure to innovate is causing a systemic disregard for security consequences. We will debunk the myths of AI use in the wild, contrasting the surprisingly low-tech reality of current ransomware groups with the sophisticated, \"\"\"\"golden plate\"\"\"\" information delivery systems being built by nation-state APTs. Attendees will walk away with a critical framework for evaluating whether AI integration is a genuine force multiplier or just a dangerous addition to the attack surface.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:11:41Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "7HIARNTqOAI": {
+      "video_id": "7HIARNTqOAI",
+      "title": "The AI Security Gap: Addressing the Unique Vulnerabilities of GenAI-Based Applications",
+      "duration_s": 1199,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "9W9bvvvbLbg": {
+      "video_id": "9W9bvvvbLbg",
+      "title": "The Human Element in AI: Why People Still Matter in a Machine-Led Era",
+      "duration_s": 1193,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "9wgsGPA_NhA": {
+      "video_id": "9wgsGPA_NhA",
+      "title": "Lightning Talk: AI-Assisted Threat Hunting That Remembers",
+      "duration_s": 342,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Designing AI-Assisted Threat Hunting That Remembers\n\n🎙️ Sydney Marrone, Head of Threat Hunting, Nebulock\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nThreat hunting teams struggle to reuse prior investigations, which leads to repeated setup work, inconsistent results, and limited benefit from AI tools that lack durable context. Early attempts to add AI often fail because hunts are unstructured, state lives in scattered notes, and models have nothing reliable to reason over.\n\nThis talk presents a CLI-first approach to threat hunting that captures hypotheses, assumptions, and outcomes as structured artifacts and uses that data to support AI-assisted recall and reasoning. Instead of prompting chatbots, teams integrated AI into the hunting workflow itself, allowing it to reference past hunts, surface related investigations, and suggest next steps while analysts remained in control.\n\nAfter adopting this approach, teams reduced hunt restart time, improved analyst handoffs, and increased reuse of prior investigations. AI moved from a novelty to a practical assistant, with measurable gains in speed and consistency and clear lessons learned around integration pain, workflow changes, and where AI did not help.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:13:28Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "Apn27gAoutE": {
+      "video_id": "Apn27gAoutE",
+      "title": "SANS360 Talks | AI-Driven Phishing Attacks",
+      "duration_s": 342,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "B9edzrY5fnU": {
+      "video_id": "B9edzrY5fnU",
+      "title": "Lightning Talk: When Humans Stop Thinking: Agentic AI",
+      "duration_s": 341,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "When Humans Stop Thinking: The First Undetected Failure Mode of Agentic AI\n\n🎙️ Allen Westley, Director Cyber Intelligence, L3Harris Technologies\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nAI didn’t fail — human judgment drifted. As reliance on AI systems grows, decision-making authority can quietly shift from recommendation to execution without clear ownership or oversight. This talk explores how control erodes even when systems appear to function correctly, and why defining roles, approvals, and accountability is critical in agentic environments.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T18:52:24Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "D-C9yL-l40s": {
+      "video_id": "D-C9yL-l40s",
+      "title": "SANS360 Talks | The Next Plague-How Al is Revolutionizing Malware Development",
+      "duration_s": 374,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "Dv8_n_LS-C0": {
+      "video_id": "Dv8_n_LS-C0",
+      "title": "SANS360 Talks | 5 Tips for Using GenAl in DFIR",
+      "duration_s": 366,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "E_RspX2kcJU": {
+      "video_id": "E_RspX2kcJU",
+      "title": "Keynote: Operationalizing AI for Cyber Superiority",
+      "duration_s": 1233,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: Beyond the Hype: Operationalizing AI for Tactical Cyber Superiority\n\n🎙️ Brigadier General Reid J. Novotny, Chief AI Officer & DoW Cyber Force Generation Lead, U.S. Cyber Command\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nBrig General Novotny addresses how USCYBERCOM is leveraging advanced AI capabilities to enhance defensive and offensive cyber operations, whiles addressing critical gaps in threat detection and adoption barriers, to stay ahead of adversary AI exploitation. Brig Gen Novotny will outline strategies for resilient AI integration in military cyber workflows, emphasizing partnerships, to counter evolving threats from state actors like the PRC. \n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T18:00:27Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "Fboj9EC7aa4": {
+      "video_id": "Fboj9EC7aa4",
+      "title": "Keynote: Claw and Order: Protecting Your Shell",
+      "duration_s": 1557,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: Claw and Order: Protecting Your Shell from Bottom Dwellers\n\n🎙️ Sounil Yu, Co-founder and Chief AI Safety Officer at Knostic\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nThe rise of OpenClaw hints at the pent-up demand for a truly useful personal AI assistant. Despite all our efforts to create layered security boundaries and implore adherence to principles like Zero Trust, it seems like all that was thrown out the window as millions rushed to install OpenClaw and experience an AI personal assistant that actually does things for you.\n\nWhat can we learn from this that will help us not just design better security but actually have people use it when the next AI innovation arrives at our doorstep?\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T17:59:08Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "FzfEZ9nHKpE": {
+      "video_id": "FzfEZ9nHKpE",
+      "title": "Keynote: SIFT: Find Evil! Defensive AI Orchestration",
+      "duration_s": 1335,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: SIFT: Find Evil! Meeting AI Threat Speed with Defensive AI Orchestration\n\n🎙️ Rob T. Lee, Fellow; Chief AI Officer and Chief of Research at SANS Institute\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nAI attack workflows run 47 times faster than human operators. Your adversary already has agentic AI. The question is whether defenders do too.\nRob T. Lee wired Claude Code into the SIFT Workstation via Model Context Protocol. Two words typed. Fourteen minutes later: a complete C drive forensic analysis, timeline generation, memory analysis, malware sweeps, all via natural language. What normally takes defenders three days to do.\n\nThis session covers what 40+ hours of testing actually produced:\n• How Claude Code integrates with SIFT via MCP for timeline generation, memory analysis, and malware sweeps\n• What “Find Evil!” produces end to end — and where it still needs a human analyst\n• Why matching AI speed with AI speed is no longer optional\n\nThe velocity gap between AI offense and human defense is already operational, and closing it requires defenders to build with the same architecture that the adversary has already demonstrated works: an orchestration layer, tool integration, and autonomous execution.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T18:51:08Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "HIJ9zT1cDWc": {
+      "video_id": "HIJ9zT1cDWc",
+      "title": "How the Coalition for Secure AI Prepares Defenders",
+      "duration_s": 363,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "How the Coalition for Secure AI (CoSAI) prepares defenders for AI (and how you can contribute)\n\n🎙️ Jason Garman, Principal Security Solutions Architect, AWS\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nThe Coalition for Secure AI (CoSAI) brings together industry and security experts to improve how AI systems are built and deployed. This talk outlines CoSAI’s focus areas, including software supply chain security for AI, secure design patterns, and guidance for applying security best practices across the AI lifecycle.\n\nLearn how these efforts translate into real-world collaboration—and how practitioners can contribute to advancing secure AI development.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-07T11:49:32Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "HWR6cE_hynM": {
+      "video_id": "HWR6cE_hynM",
+      "title": "Keynote: The Boring Seams",
+      "duration_s": 1419,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: The Boring Seams\n\n🎙️ Julie Davila, Vice President of Product Security at GitLab\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nThe industry is fixated on the model. Jailbreaking it, guarding it, aligning it. But the most consequential AI security vulnerabilities aren't in the AI. They reside in the orchestration layer: serialization boundaries, state management, credential stores, and trust boundaries between agents. Old bug classes, new topology.\n\nJulie Davila (VP of Product Security, GitLab) opens with a confession: her own team found two critical RCEs in GitLab's AI agent platform, one before and one after general availability. Neither was caused by prompt injection. Both lived in the plumbing. From there, she traces the same structural pattern across LangChain, MCP tooling, and cross-platform agent integrations, and borrows an idea from early twentieth-century mathematics to explain why this class of failure keeps showing up, why most security teams haven't threat-modeled the layer that produces it, and what to do about it on Monday.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T18:47:58Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "HwaWWVL6uHc": {
+      "video_id": "HwaWWVL6uHc",
+      "title": "SANS360 Talks | Breaking the Black Box- Why Testing generative Al is Full Spectrum",
+      "duration_s": 318,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "I7e8NpxFoxo": {
+      "video_id": "I7e8NpxFoxo",
+      "title": "Building an AI Pen-Testing Assistant",
+      "duration_s": 724,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "IusaU1hbSEY": {
+      "video_id": "IusaU1hbSEY",
+      "title": "SANS360 Talks | SCADE Detecting Hidden Threats in Data Centers",
+      "duration_s": 362,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "NrkJLbn3dDE": {
+      "video_id": "NrkJLbn3dDE",
+      "title": "The Five Must-Haves of an AI Governance Framework",
+      "duration_s": 1724,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "OmoghpxtnhA": {
+      "video_id": "OmoghpxtnhA",
+      "title": "AI Security Controls Guidelines Release",
+      "duration_s": 1234,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "QIUHetsI3LA": {
+      "video_id": "QIUHetsI3LA",
+      "title": "Lightning Talk: Operationalizing AIBOMs in AI Supply Chains",
+      "duration_s": 370,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Operationalizing AIBOMs: Policy-Gating Models & Datasets in AI Supply Chains\n\n🎙️ Dr. Ugur Koc, SR. AI R&D Engineer, Manifest\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nAI supply chains ship unvetted models and datasets because VM tooling can’t see inside them. Risks aren’t just CVEs: dataset poisoning, integrity loss, misuse/misalignment, and license issues. With no NVD for AI artifacts, we operationalize AIBOMs as the missing substrate—structured metadata for provenance, lineage, licensing, and revisions—plus policy-as-code CI/CD gates, PSIRT integration, and offline caching of Hugging Face artifacts.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T19:08:54Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "R3sTtDV31Tc": {
+      "video_id": "R3sTtDV31Tc",
+      "title": "Influence Operations with AI and Cyber-Enabled Ops",
+      "duration_s": 783,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "R49Cv7pJ2KA": {
+      "video_id": "R49Cv7pJ2KA",
+      "title": "Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for Security and Resilience",
+      "duration_s": 1656,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "R5gg3KvoEMY": {
+      "video_id": "R5gg3KvoEMY",
+      "title": "Securing the Grid: AI’s Promise for Cyber Resilience in Power Systems",
+      "duration_s": 1943,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "RBqQssM_Suo": {
+      "video_id": "RBqQssM_Suo",
+      "title": "Using LLMs, Embeddings, and Similarity to Assist DFIR Analysis",
+      "duration_s": 1914,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "SvD8GBcXBbk": {
+      "video_id": "SvD8GBcXBbk",
+      "title": "SANS360 Talks | Evolving Zero Trust: Harnessing the Power of Al",
+      "duration_s": 326,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "TeSJZUJSojM": {
+      "video_id": "TeSJZUJSojM",
+      "title": "SANS360 Talks | Are you a J.E.D.I? Advancing Responsible Use of Al in the Universe",
+      "duration_s": 355,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "Ti1oWMBlNVc": {
+      "video_id": "Ti1oWMBlNVc",
+      "title": "Keynote: Integrous AI",
+      "duration_s": 1472,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: Integrous AI\n\n🎙️ Bruce Schneier, Fellow and Lecturer at University of Toronto\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nIn computer security, the CIA Triad represented the three security properties systems should have: confidentiality, integrity, and availability. Of the three, integrity has been the most elusive; and, in an AI-powered internet-of-things world, the most important. \n\nThis talk explores all the facets of integrity: data, processing, storage, and contextual. Web 1.0 was all about availability; Web 2.0 about privacy. If we are ever going to build the distributed, decentralized, intelligent web of tomorrow - and trust these systems to take complex on our behalf - we are going to need to solve integrity.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T17:55:59Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "UlArgam4Tbs": {
+      "video_id": "UlArgam4Tbs",
+      "title": "Fireside Chat with Day 2 Keynote Speakers",
+      "duration_s": 3371,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Fireside Chat with the Keynote Speakers\n\nModerator:\n🎙️ Sam Sabin, Cybersecurity Reporter, Axios\n\nPanelists:\n🎙️ Julie Davila, Vice President of Product Security at GitLab\n🎙️ Diana Kelley, CISO at Noma Security\n🎙️ Sounil Yu, Co-founder and Chief AI Safety Officer at Knostic\n📍 Presented at SANS AI Cybersecurity Summit 2026\nIn this Day 2 fireside chat, keynote speakers come together to unpack key themes and emerging patterns across AI-driven cybersecurity. Building on their talks, the discussion explores evolving attack methodologies, defensive strategies, and the operational realities of integrating AI into security workflows.\n\nGain deeper perspective on the trends shaping the threat landscape—and what they mean for practitioners moving forward.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T18:46:26Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "XXCiEkUxqiE": {
+      "video_id": "XXCiEkUxqiE",
+      "title": "Lightning Talk: Predictive AI Shrinks Takedown Cycles",
+      "duration_s": 349,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Predictive AI Shrinks Brand Takedown Cycles: Weeks of Manual Triage to less than 7 Minutes, $12M ROI\n\n🎙️ Andre Piazza, Cybersecurity Strategist, BeforeAI\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nPredictive AI signals collapse weeks of brand triage and takedowns into minutes, automated. In this lightning talk, Andre Piazza, Cybersecurity Strategist at BeforeAI, explores how predictive models can dramatically accelerate brand protection workflows by reducing manual analysis and response time.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:33:45Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "ZZ3kWfN9yYw": {
+      "video_id": "ZZ3kWfN9yYw",
+      "title": "SANS360 Talks | Dancing with Al: Navigating the Cybersecurity Choreography",
+      "duration_s": 367,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "aUfRHxeA15I": {
+      "video_id": "aUfRHxeA15I",
+      "title": "Hacker’s Perspective: Realistic AI Attack Scenarios",
+      "duration_s": 1920,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "cPot7qUHiMg": {
+      "video_id": "cPot7qUHiMg",
+      "title": "Fireside Chat with Kate Marshall and Helen Oakley",
+      "duration_s": 1600,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "eINZcEFP23g": {
+      "video_id": "eINZcEFP23g",
+      "title": "Keynote | What to Expect When You’re Expecting Your GenAI Baby",
+      "duration_s": 1795,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "eXXZEvBrWEk": {
+      "video_id": "eXXZEvBrWEk",
+      "title": "Lightning Talk: AI Security Reality Check: Do the Basics",
+      "duration_s": 377,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "AI Security Reality Check: Stop Chasing Shiny Threats, Do the Basics\n\n🎙️ Daniel Bardenstein, CEO & Co-Founder, Manifest\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nSecurity teams are racing to prevent prompt and agent exploits while the biggest exposure is unmanaged AI: unknown tools, no owners, unverified provenance and data rights, over-privileged agents, and no audit trail. Our research shows CISOs are already facing AI-driven legal issues (privacy, IP, contracts, liability). This talk delivers an operational baseline: inventory, risk tiering, minimum controls, and metrics, plus what broke in real governance workflows.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:31:05Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "e_63FES654w": {
+      "video_id": "e_63FES654w",
+      "title": "Lightning Talk: AI In The SOC Without Losing The Plot",
+      "duration_s": 357,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "AI In The SOC Without Losing The Plot\n\n🎙️ Charles Everette, CISO,City of Fort Lauderdale; vCISO Advisor, Mimic Cyber Solutions\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nAI in the SOC promised speed, but often added noise and new queues. I’ll show how we treated it as an experiment, picked three SOC workflows, measured impact, and kept only what cut alert handling time and analyst rework. You leave with a repeatable way to test AI in your own SOC without losing control.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:04:55Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "fPODoqvx-3s": {
+      "video_id": "fPODoqvx-3s",
+      "title": "Keynote: Not a Forecast: AI-Enabled Cyber, 12 Months On",
+      "duration_s": 1149,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Keynote: This Is Not a Forecast: AI-Enabled Cyber, Twelve Months On\n\n🎙️ Jacob Klein, Head of Threat Intelligence at Anthropic\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nA year ago, AI-assisted cyber operations were mostly a trouble-shooting story, threat actors trouble-shooting tasks faster. That's no longer the picture. Drawing on Anthropic's threat intelligence from nearly 600 banned actors over twelve months and going deep on a few cases studies, this talk walks through what's actually changed: low-skilled operators clearing technical bars they couldn't before, small teams punching at what before would be considered APT weight, and the first documented cyberattack executed with AI doing 80–90% of the tactical work while humans largely supervise.\n\n#AISummit #AIInCybersecurity #AICyberAttacks #AI #ThreatIntel #Cybersecurity",
+      "published_at": "2026-04-21T17:32:19Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training",
+        "AI",
+        "AI Cybersecurity",
+        "Threat Intel",
+        "Threat Intelligence",
+        "Anthropic"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "fZ0JLGA_s48": {
+      "video_id": "fZ0JLGA_s48",
+      "title": "SANS360 Talks | GenAl risks to your business and strategies to avoid common pitfalls",
+      "duration_s": 342,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "gk6t9tPRm38": {
+      "video_id": "gk6t9tPRm38",
+      "title": "Fireside Chat with Sounil Yu and Rob Lee",
+      "duration_s": 1716,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "iWnYSdj9rxE": {
+      "video_id": "iWnYSdj9rxE",
+      "title": "AI Security Made Easy",
+      "duration_s": 1831,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "jJ_2AxqCVHA": {
+      "video_id": "jJ_2AxqCVHA",
+      "title": "Watching the Watchers: Safeguards and Security for Artificial Intelligence Systems",
+      "duration_s": 1058,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "jl3oO43NPlc": {
+      "video_id": "jl3oO43NPlc",
+      "title": "SANS360 Talks | Change the Game: Build an Al Powered SOC",
+      "duration_s": 357,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "qW02tbK9t0A": {
+      "video_id": "qW02tbK9t0A",
+      "title": "Data to Defense: Generative AI and RAG Powering Real-Time Threat Response",
+      "duration_s": 1112,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "tEbnRWULeZ8": {
+      "video_id": "tEbnRWULeZ8",
+      "title": "Lightning Talk: AI Turned Workflow into a Security Boundary",
+      "duration_s": 367,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "AI Turned an Engineering Workflow into a Security Boundary\n\n🎙️ Marissa Morales-Rodriguez, Ph.D., Founder & Technology Security Strategist, STEMPRISE\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nEngineering design quality review for power systems did not require cybersecurity controls. That changed when AI was introduced to accelerate review timeline to meet business demands. The AI tool introduced new cyber risks, including potential exposure of sensitive grid data, loss of security visibility, and untraceable decision influence that existing controls did not address. This lightning talk shows how, in less than 120 days, governance was structured before design and enforced in deployment by integrating security frameworks to constrain AI use, protect data, restore decision traceability, accountability, security visibility, and manage risk without disrupting engineering delivery.\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T19:10:49Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "tj8uU4mpkVA": {
+      "video_id": "tj8uU4mpkVA",
+      "title": "Lightning Talk: From AI Risk to Governance with NIST RMF",
+      "duration_s": 317,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "From AI Risk to AI Responsibility: Operationalizing AI Governance with NIST AI RMF\n\n🎙️ Kellep Charles, Cybersecurity Department Chair, Capitol Technology University\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nNo current GenAI model is secure by default without continuous adversarial testing. This talk explores how to move from recognizing AI risk to establishing true AI responsibility by operationalizing governance with the NIST AI Risk Management Framework (AI RMF).\n\n➡️ Explore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits\n\n➡️ Explore SANS AI resources, including research, expert insights, training, and more: https://go.sans.org/AI-Cybersecurity",
+      "published_at": "2026-05-04T19:24:49Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "ts_MFz9NAmQ": {
+      "video_id": "ts_MFz9NAmQ",
+      "title": "Lightning Talk: What Got Us Here Will Get Us There",
+      "duration_s": 355,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Lightning Talk: What Got Us Here Will Get Us There\n\n🎙️ Chris Hughes, VP, Security Strategy Zenity\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nDecades-old security approaches built on reactive, risk-averse practices are breaking down in the age of AI. As attack timelines compress from years to hours, traditional “bolt-on” defenses struggle to keep pace. This talk examines why legacy models fail under machine-speed conditions and what that shift means for modern defense.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:32:06Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "u1AKlZJq-zY": {
+      "video_id": "u1AKlZJq-zY",
+      "title": "Lightning Talk: Detection Engineering with AI & Deception",
+      "duration_s": 363,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "Vibe Detection Engineering: Accelerating Defense with Compound AI & Deception\n\n🎙️ Ismael Valenzuela, Author & Senior Instructor, SANS\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nDetection engineering is evolving with the use of compound AI and deception techniques to accelerate defense. By combining adversary-informed approaches with automated workflows, teams can shorten detection cycles and improve response at scale. This talk explores how integrating AI-driven detection with deception strategies helps validate signals and keep pace with attacker behavior.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:29:07Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "u_-Dhw9W4w4": {
+      "video_id": "u_-Dhw9W4w4",
+      "title": "Unlocking Cyber Insights with AI: Using ML and LLMs for Next-Gen Analysis",
+      "duration_s": 1705,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "ujgGyY5Sjk8": {
+      "video_id": "ujgGyY5Sjk8",
+      "title": "Defending AI Models: Strategies for Securing AI Implementations Against Emerging Threats",
+      "duration_s": 1229,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "v5O9czdvHbo": {
+      "video_id": "v5O9czdvHbo",
+      "title": "Lightning Talk: AI vs. AI: They're Already Inside",
+      "duration_s": 371,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "AI vs. AI: They're Already Inside\n\n🎙️ Zakery Stufflebeam, Director of IT Security, Spartan Cyber Consulting LLC\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nThe problem is the DPRK IT scam is filling applications and hindering IT teams. With AI on the uprising in the scam we used the AI methods against them to track them and remove them from the environment. This removed over 10 insiders that had access to sensitive information before they were able to identify and exfiltrate. This saved the company millions in possible losses.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:16:50Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    },
+    "xWDx2758SpI": {
+      "video_id": "xWDx2758SpI",
+      "title": "The Dark Side of AI: Developing Unsecure Applications in Minutes!",
+      "duration_s": 1876,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6Bscw43BFiPMw9G9TdTKq2F"
+    },
+    "zHEb-t0Xe-w": {
+      "video_id": "zHEb-t0Xe-w",
+      "title": "Lightning Talk: The Third Operator",
+      "duration_s": 302,
+      "channel": "SANS Institute",
+      "label": "AI Cybersecurity Summit 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLtgaAEEmVe6AWHpSUtDRQnNzJ_2tuv1Hh",
+      "description": "The Third Operator\n\n🎙️ Yotam Perkal, Director, Security Research, Pluto Security\n📍 Presented at SANS AI Cybersecurity Summit 2026\n\nModern phishing campaigns can run end-to-end with no human operator—defenders need to adapt. This talk explores how automation and AI are reshaping phishing operations, enabling scalable, low-cost attacks that are harder to detect and disrupt.\n\nExplore upcoming SANS Summits to continue learning from leading voices in cybersecurity: https://go.sans.org/summits",
+      "published_at": "2026-05-04T19:23:49Z",
+      "tags": [
+        "sans institute",
+        "information security",
+        "cyber security",
+        "cybersecurity",
+        "information security training",
+        "cybersecurity training",
+        "cyber security training"
+      ],
+      "details_at": "2026-08-31T15:35:35+00:00"
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "slug": "defcon-ai-village",
+  "name": "DEF CON AI Village",
+  "enumerated_at": "2026-08-30T21:47:51+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/@aivillage/videos",
+      "label": "AI Village",
+      "year": null,
+      "count": 16
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "count": 22
+    }
+  ],
+  "count": 38,
+  "videos": {
+    "-i28TAglM04": {
+      "video_id": "-i28TAglM04",
+      "title": "Dr Ethan Rudd - Loss Is More Improving Malware Detectors - DEF CON 27 AI Village",
+      "duration_s": 2455,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "0NaFrxpSq7A": {
+      "video_id": "0NaFrxpSq7A",
+      "title": "Jesus Solano - Behavioral Biometrics and Context Analytics - DEF CON 27 AI Village",
+      "duration_s": 1901,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "0u-KkEKMjo8": {
+      "video_id": "0u-KkEKMjo8",
+      "title": "Ryan Kovar - Datasciencery by the Splunk Field - DEF CON 27 AI Village",
+      "duration_s": 1759,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "30dEO7zp7jE": {
+      "video_id": "30dEO7zp7jE",
+      "title": "Faults in our Pi Stars: Security Issues and Challenges in Deep Reinforcement Learning",
+      "duration_s": 3457,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Author: Vahid\n\n\n\nSince the inception of Deep Reinforcement Learning (DRL) algorithms, there has been a growing interest in both research and industrial communities in the promising potentials of this paradigm. The list of current and envisioned applications of deep RL ranges from autonomous navigation and robotics to control applications in the critical infrastructure, air traffic control, defense technologies, and cybersecurity. While the landscape of opportunities and the advantages of deep RL algorithms are justifiably vast, the security risks and issues in such algorithms remain largely unexplored. To facilitate and motivate further research on these critical challenges, we present a foundational treatment of the security problem in DRL. We formulate the security requirements of DRL, and provide a high-level threat model through the classification and identification of vulnerabilities, attack vectors, and adversarial capabilities. Furthermore, we present a review of current literature on security of deep RL from both offensive and defensive perspectives. Lastly, we enumerate critical research venues and open problems in mitigation and prevention of intentional attacks against deep RL as a roadmap for further research in this area.",
+      "published_at": "2020-08-09T21:29:25Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "4EbDWUZmgTM": {
+      "video_id": "4EbDWUZmgTM",
+      "title": "Lauren Putvin - Exploratory Data Analysis Why and How in Python - DEF CON 27 AI Village",
+      "duration_s": 2010,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "6HWa8CuiuOA": {
+      "video_id": "6HWa8CuiuOA",
+      "title": "Robustness of client-side scanning for illegal content detection on E2EE platforms",
+      "duration_s": 1201,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Speaker: Shubham Jain",
+      "published_at": "2021-08-23T16:26:36Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "7-sMBqPV3XU": {
+      "video_id": "7-sMBqPV3XU",
+      "title": "DEFCON34: A Fireside chat with Bruce Schneier",
+      "duration_s": 3625,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Thanks again to Bruce Schneier for swinging by the AI Village to chat with both our staff and guests during DEFCON34.  \n\nThis talk was recorded on Saturday, August 8th, 2026, at the LVCC.\n\n0:00 Intro\n0:40 Host Questions\n28:40 Encourage People to get into Public Interest Tech\n31:05 AI Math Solving and Cyber Security\n33:55 What do you think about Alignment Research?\n36:38 How do we hold AI accountable?\n38:28 How do we deal with legislators who don't understand tech?\n40:23 What problems do you think the industry is underestimating?\n42:27 What do you do if strategy is useless?\n44:10 Democratization of LLMs\n45:45 What should Policy do?\n48:34 AI Privacy vs Collective Good\n53:14 Advice to the DoD\n59:50 Closing Comments",
+      "published_at": "2026-08-22T16:00:28Z",
+      "tags": [
+        "defcon",
+        "defcon34",
+        "AI Village",
+        "AI Safety"
+      ],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "7mVe0ROoehw": {
+      "video_id": "7mVe0ROoehw",
+      "title": "Baby's First 100 MLSec Words",
+      "duration_s": 1786,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Author: Erick Galinkin\n\n\n\nAdversarial example, Deepfake, model inversion, model theft, data poisoning - these are just some of the terms that are thrown around casually in machine learning security but often do not register for security practitioners. As models get deployed more broadly across industry, it is incumbent upon security professionals on both red and blue teams, as well as artificial intelligence researchers who want to protect their systems, to be familiar with these terms and techniques. In this talk, we survey the landscape of threats, reference proofs of concept, discuss possible mitigation strategies, and call for more interdisciplinary research between machine learning and security.",
+      "published_at": "2020-08-08T04:21:07Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "7uHR-BSRMQQ": {
+      "video_id": "7uHR-BSRMQQ",
+      "title": "Siwei Lyu - Seeing is deceiving The rise of AI synthesized fake media - DEF CON 27 AI Village",
+      "duration_s": 2298,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "7zswHvHR9cA": {
+      "video_id": "7zswHvHR9cA",
+      "title": "DEFCON 2020 AI Ethics Panel",
+      "duration_s": 5844,
+      "channel": null,
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos"
+    },
+    "AXeV8vctadI": {
+      "video_id": "AXeV8vctadI",
+      "title": "SECRETS ARE LIES, SHARING IS CARING, PRIVACY IS THEFT",
+      "duration_s": 1237,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "SECRETS ARE LIES, SHARING IS CARING, PRIVACY IS THEFT A Dive into Privacy Preserving Machine Learning\n\nAuthor: Nahid Farhady\n\nMachine Learning is considered a strong tool for many sensitive applications. As a result, security of ML is also an important factor. In this workshop, we cover an overview of several adversarial attacks and defences. As a result, the model developer is able to identify points of vulnerability in the model and apply an appropriate defense technique.",
+      "published_at": "2020-08-08T16:57:54Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "BUYMh1edqdg": {
+      "video_id": "BUYMh1edqdg",
+      "title": "Laurin Weissinger - Regulating AI and Algorithms Lessons - DEF CON 27 AI Village",
+      "duration_s": 1419,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "BlS-inTxnp8": {
+      "video_id": "BlS-inTxnp8",
+      "title": "Anna Skelton - Analyzing the Effects of Deepfakes on Market Manipulation - DEF CON 27 AI Village",
+      "duration_s": 1837,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "Et05sD1vKqo": {
+      "video_id": "Et05sD1vKqo",
+      "title": "Spectrum: An End-to-End Framework for ML-based Threat Monitoring and Detection",
+      "duration_s": 1434,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Author: Nahid Farhady, Vincent Pham\n\nMachine Learning is gaining popularity in the area of cyber security with the growth of connected network devices that leads to an increase in the amount of data being handled for security monitoring. This paper proposes a framework that facilitates security monitoring on different entities at large scale, the so- called Spectrum. We address the production issues and challenges of Spectrum.",
+      "published_at": "2020-08-08T04:40:18Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "K40_Z84JGjY": {
+      "video_id": "K40_Z84JGjY",
+      "title": "Kenya Yoshimura - Clairvoyance concurrent lip reading for smart masses - DEF CON 27 AI Village",
+      "duration_s": 1441,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "KLwdzLiJywI": {
+      "video_id": "KLwdzLiJywI",
+      "title": "Twitter Algorithmic Bias Bug Bounty Challenge Results",
+      "duration_s": 3938,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "",
+      "published_at": "2021-08-09T17:55:54Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "NHSYYwr7gX0": {
+      "video_id": "NHSYYwr7gX0",
+      "title": "Bob Lord - Misinformation Keynote - DEF CON 27 AI Village",
+      "duration_s": 1617,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "RkdEbXFw49s": {
+      "video_id": "RkdEbXFw49s",
+      "title": "Roei Amit - How to Get over your malicious extensions using deep learning -DEF CON 27 AI Village",
+      "duration_s": 1437,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "TYVLH1tLIDY": {
+      "video_id": "TYVLH1tLIDY",
+      "title": "Rand Waltzman - Disinformation Its the Thought that Counts - DEF CON 27 AI Village",
+      "duration_s": 2777,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "ULC9pzTx2s8": {
+      "video_id": "ULC9pzTx2s8",
+      "title": "Twitter Algorithmic Bias Bug Bounty Challenge Announcement",
+      "duration_s": 996,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "",
+      "published_at": "2021-08-09T17:55:59Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "XOBUeyzop5E": {
+      "video_id": "XOBUeyzop5E",
+      "title": "Jason Mancuso - Machine Learnings Privacy Problem - DEF CON 27 AI Village",
+      "duration_s": 2555,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "Y0ge6-MgnFM": {
+      "video_id": "Y0ge6-MgnFM",
+      "title": "Hacking with Skynet - How AI is Empowering Adversaries",
+      "duration_s": 2933,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Author: Gavin Klondike\n\nIt's no question that modern advances in AI and Deep Learning technologies have allowed organizations to greatly scale their defensive capabilities. Between detecting evolving threats, automating discovery, fighting dynamic attacks, and even freeing up time for IT professionals; AI-fueled automation has been a boon for system defenders. But before we get too comfortable, we need to remember that there is another side to this fight.\n\nIn this talk, we'll take a look at how AI technologies are enhancing adversarial capabilities and how challenges in defensive machine learning are opening up new attack surfaces.",
+      "published_at": "2020-08-08T04:38:27Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "YVv512UJjaY": {
+      "video_id": "YVv512UJjaY",
+      "title": "AI Village Organizers - Opening Remarks - DEF CON 27 AI Village",
+      "duration_s": 58,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "YkI60nOGlEc": {
+      "video_id": "YkI60nOGlEc",
+      "title": "ML Security Evasion Competition 2020 -",
+      "duration_s": 1292,
+      "channel": null,
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos"
+    },
+    "Yt3AW46145A": {
+      "video_id": "Yt3AW46145A",
+      "title": "Yisroel Mirsky - Automated Injection and Removal of Medical Evidence in CT - DEF CON 27 AI Village",
+      "duration_s": 1521,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "b-lkYtprgVw": {
+      "video_id": "b-lkYtprgVw",
+      "title": "Richard Harang - A Tutorial on Hacking Facial Recognition Systems - DEF CON 27 AI Village",
+      "duration_s": 2012,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "exbstC2Myqg": {
+      "video_id": "exbstC2Myqg",
+      "title": "Jon Hawes - A buyers guide to the market promise of automagic AI - DEF CON 27 AI Village",
+      "duration_s": 2656,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "g3Gv0mjlQEU": {
+      "video_id": "g3Gv0mjlQEU",
+      "title": "Detecting hand-crafted social engineering emails with a bleeding-edge neural language model",
+      "duration_s": 2964,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Authors: Younghoo Lee and Joshua Saxe\n\n\n\nSocial engineering attacks leveraging hand-crafted emails are on the rise, and are causing at least $12.5 billion dollars in damage per year. Custom authored and often incorporating background research on their targets, they pose a significant challenge for traditional signature and ML detection technologies, as an individual targeted email may not share word sequences or word choices with previously seen attacks, and may appear different in only subtle ways from benign messages.\nTo attack this problem, we've built a neural network model that's been trained on billions of words of benign text so as to \"learn\" a sophisticated representation of the syntax and semantics of natural language.  This allows the network to pick up on the subtleties of email topic, tone, and style.  We then compress and fine-tune the network to detect phishing attacks in a \"generic\" way, based on these abstract semantics, such that our detector accurately detects new, targeted phishing attacks, achieving an 85% detection rate on custom-authored attacks at a 0.1% false positive rate.\nIn our presentation, we'll walk through the research path we followed to create our detection system, including the baseline methods we tried, the procedure by which we collect millions of training examples, and the architectural decisions we made in creating our system. Then we'll walk through actual emails we detected.  Finally, we'll demonstrate that our detector is resilient to randomly introduced changes in word choice, word ordering, message length, and other permutations.  We believe our work demonstrates that recent breakthroughs in neural language modeling will have a dramatic effect on our community's ability to protect users from natural-language based social engineering attacks.",
+      "published_at": "2020-08-09T21:07:19Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "hocPv10Uoro": {
+      "video_id": "hocPv10Uoro",
+      "title": "Calculating Drift, Fast with Goko",
+      "duration_s": 1961,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Author: Sven Cattell \n\n \nNormally concept or dataset drift is unquantifiable in practice. The only ways to calculate it are with optimal transport techniques that take O(n^4). The proxies some ML practitioners use are unreliable when applied to security. This talk presents a way to calculate a concept drift number that takes O(log n). It is faster than most inference, so can be put inline in an ML pipeline. Also, as the structure used to calculate the drift is so cheap we can apply it per-user as an extremely effective defense against attacks.\n\n\n\n Repo: https://github.com/elastic/goko",
+      "published_at": "2020-08-08T04:21:03Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "iBiioJIwPBg": {
+      "video_id": "iBiioJIwPBg",
+      "title": "Walter Scheirer - Backdooring Convolutional Neural Networks - DEF CON 27 AI Village",
+      "duration_s": 1392,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "kzsVFQnOas8": {
+      "video_id": "kzsVFQnOas8",
+      "title": "Potential Pitfalls Protecting Patient Privacy",
+      "duration_s": 1655,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Speaker: Brian Martin",
+      "published_at": "2021-08-23T16:27:03Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "nj0pwxqWDr4": {
+      "video_id": "nj0pwxqWDr4",
+      "title": "Angelo Oliveira - Fighting Malware with Deep Learning video - DEF CON 27 AI Village",
+      "duration_s": 1637,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "oMZLugScH8M": {
+      "video_id": "oMZLugScH8M",
+      "title": "Tal Leibovich - From Noisy Distorted data sets to excellent prediction model - DEF CON 27 AI Village",
+      "duration_s": 2820,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "pNsMz0zWZi0": {
+      "video_id": "pNsMz0zWZi0",
+      "title": "Hyrum Anderson - Competitions in Infosec ML - DEF CON 27 AI Village",
+      "duration_s": 760,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "s-Y25x9bkyg": {
+      "video_id": "s-Y25x9bkyg",
+      "title": "Samantha Cole - Deep Fakes Panel - DEF CON 27 AI Village",
+      "duration_s": 3451,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "sjkIWubV-rU": {
+      "video_id": "sjkIWubV-rU",
+      "title": "Stasis in AI Ethics",
+      "duration_s": 1834,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "Speaker: Abhishek Gupta",
+      "published_at": "2021-08-23T16:13:03Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    },
+    "yudsZy37qFI": {
+      "video_id": "yudsZy37qFI",
+      "title": "Barton Rhodes - Securing your kubeflow clusters - DEF CON 27 AI Village",
+      "duration_s": 1911,
+      "channel": "DEFCONConference",
+      "label": "DEF CON 27 AI Village",
+      "year": 2019,
+      "source_url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ"
+    },
+    "zSeXDcnAe0s": {
+      "video_id": "zSeXDcnAe0s",
+      "title": "Project Domino: Citizen data science against COVID misinformation",
+      "duration_s": 1666,
+      "channel": "aivillage",
+      "label": "AI Village",
+      "year": null,
+      "source_url": "https://www.youtube.com/@aivillage/videos",
+      "description": "With elected US leadership now openly promoting medical misinformation and conspiracy theories, over 150,000 Americans have died from COVID-related causes. Behind the scenes, misinformation groups are successfully amplifying their social media campaigns by cooperating with one another, national political parties, and digital media monopolies. This talk shares the perspective from Project Domino, an effort to power anti-misinformation interventions by taking an open citizen science approach. First, we will provide a security analytics view of the operations by misinformers, including how they collaborate. Second, we discuss technical and systemic gaps that misinformers are exploiting, and where open source citizen science fits in. Finally, we share some of the enabling technologies for open misinformation data science (DIY tech around Jupyter, StreamLit, RAPIDS, Graphistry, …) and emerging relevant data methods (BERT/FAISS, UMAP, GPU graph analytics, …). As a result, we have been able to help misinformation researchers and reporters tackle higher scales and get better results. Surprisingly, we are optimistic as we layer on tools for use by regular citizens, leaders of at-risk communities, and other organizations.\n\nPresented at AI Village @ DEF CON 28, safemode \n10am Saturday August 8th, 2020",
+      "published_at": "2020-08-08T17:29:26Z",
+      "tags": [],
+      "details_at": "2026-08-31T15:35:15+00:00"
+    }
+  }
+}
