@@ -142,7 +142,9 @@ CI merge:
 with YouTube tags, **2,525 with a transcript**. **491,282 passages**, up from
 197,099; `data/talks.db` 161.6 MB, `search-meta.json` 5.8 MB (unmoved — it
 carries descriptions, not transcripts, and the 6 MB trigger still stands),
-`data/tindex/` **34.2 MB** over 27 shards carrying 40,927 terms. Of the 2,520
+`data/tindex/` **34.2 MB** over **670 shards** carrying 40,927 terms — the
+same postings as before, split two characters deep instead of one, so the
+largest shard is 1.5 MB rather than 4.0 MB. Of the 2,520
 talks in the 2026 scope, **2,493 have a transcript, 27 have no captions, and
 none are pending**.
 
@@ -496,6 +498,23 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   many sessions is prolific, not a brand — so seeded names skip both passes.
   Speaker coverage went from 2,591 to 2,947 on 357 talks, because every one of
   them has a name the heuristics would mostly have missed.
+
+- **The transcript index is sharded two characters deep, and `shard_key()` in
+  `build_index.py` must agree exactly with `shardKeyOf()` in `index.html`.**
+  There is no shard-*count* knob: the key is the term's prefix, so the depth is
+  the count. One character meant every term starting with "s" shared a 4.0 MB
+  file that was downloaded whole to answer one query; two gives 670 shards, a
+  1.5 MB worst case and a 1 KB median, for the same 34.2 MB total — this buys
+  query cost, not repo size. The constraint that sets the depth is that terms
+  sharing a prefix must share a shard, because the browser resolves "agent" ->
+  "agentic" by scanning the keys of the one shard it fetched. Two is the
+  deepest split that keeps that for free, since both tokenizers drop terms
+  shorter than two characters and the shortest possible query term is
+  therefore exactly a whole key. Going deeper needs the browser to fetch every
+  shard matching a short prefix, which is a real change rather than a constant.
+  A disagreement between the two functions is **silent**: the browser asks for
+  a shard the manifest does not list, gets nothing, and transcript search
+  quietly degrades to metadata-only hits.
 
 - **The egress lease is about spending an IP's allowance, not about being
   polite.** So a route that egresses from somebody else's IP takes no lease and

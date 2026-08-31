@@ -9,8 +9,9 @@ Two independent indexes from the same corpus:
 
   data/search-meta.json  Every talk's metadata + description, compact keys.
   data/tindex/*.json     Small enough for a browser to load up front. The
-  data/tindex/_manifest  transcript inverted index is sharded by first letter
-                         and fetched lazily, so the site needs no backend.
+  data/tindex/_manifest  transcript inverted index is sharded by the first two
+                         letters of a term and fetched lazily, so the site
+                         needs no backend.
 
     python3 build_index.py
 """
@@ -154,13 +155,33 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
 
 # --- browser index -----------------------------------------------------------
 
-def shard_key(term: str) -> str:
-    c = term[0]
-    if c.isalpha():
+def shard_char(c: str) -> str:
+    """One character of a shard name. Must agree exactly with index.html.
+
+    The two implementations are the same three lines in two languages, and a
+    disagreement is silent: the browser asks for a shard the manifest does not
+    list, finds nothing, and transcript search quietly returns metadata hits
+    only. TOKEN_RE starts every term with [a-z0-9], so only the second
+    character ever reaches the fallback — "c++" and "c#" both shard as "c_".
+    """
+    if "a" <= c <= "z":
         return c
-    if c.isdigit():
+    if "0" <= c <= "9":
         return "0"
     return "_"
+
+
+def shard_key(term: str) -> str:
+    """Two characters, because one letter put every "s" term in a 4 MB file.
+
+    Terms that share a prefix have to share a shard: the browser resolves
+    "agent" -> "agentic" by scanning the keys of the one shard it fetched, so
+    splitting a prefix across shards would silently stop matching rather than
+    fail. Two characters is the deepest split that keeps that guarantee for
+    free, since tokenize() drops anything shorter than two characters and the
+    shortest possible query term is therefore exactly a whole key.
+    """
+    return shard_char(term[0]) + shard_char(term[1])
 
 
 B36 = "0123456789abcdefghijklmnopqrstuvwxyz"

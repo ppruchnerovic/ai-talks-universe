@@ -292,10 +292,15 @@ function fillFilters() {
     .forEach(v => $('#f-year').add(new Option(v, v)));
 }
 
-const shardKeyOf = term => {
-  const c = term[0];
-  return /[a-z]/.test(c) ? c : (/[0-9]/.test(c) ? '0' : '_');
-};
+// Two characters, and it must agree exactly with shard_key() in
+// build_index.py — a disagreement is silent, since asking for a shard the
+// manifest does not list just drops the transcript layer. One character per
+// shard meant every term starting with "s" shared a 4 MB file that was
+// downloaded whole to answer one query. tokenize() drops terms shorter than
+// two characters, so the second one is always there.
+const shardChar = c =>
+  (c >= 'a' && c <= 'z') ? c : ((c >= '0' && c <= '9') ? '0' : '_');
+const shardKeyOf = term => shardChar(term[0]) + shardChar(term[1]);
 
 async function loadShards(terms) {
   if (!MANIFEST) return;
