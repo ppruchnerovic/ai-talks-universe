@@ -197,7 +197,7 @@ export lives in `~/.bash_profile` it will not reach a non-login shell — put it
 in `~/.bashrc`, or source it explicitly.
 
 `videos.list` bills one unit per call and takes 50 video ids at a time, so the
-corpus costs about 140 units and `--all` over the full 15,154-video catalogue
+corpus costs about 140 units and `--all` over the full 15,157-video catalogue
 about 296 — 3% of a day's allowance, which is why a re-enrichment is never the
 thing to ration. Without a key it is a full yt-dlp extraction per video —
 roughly an hour for the corpus at two workers, and it draws on the same IP
@@ -255,7 +255,8 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,516 of the 7,336 talks are 2026 —
+`--min-year 2026` keeps only those years — 2,520 of the 7,351 talks are 2026,
+and all but the 27 with no captions to fetch now have a transcript —
 and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. Nothing is removed from the corpus by
 this: it is a selection filter, and `query.py --year` still reads every year.
@@ -311,6 +312,27 @@ credits a minute to transcribe audio. Talks over 20 minutes come back as a job
 the fetcher polls — which here is most of them, since it takes the longest
 talks first.
 
+**Once `--probe` says the IP is spent, ask for `--source supadata` by name.**
+`--source exact` will still get there, but it pays a refused
+`youtube-transcript-api` call and a yt-dlp subprocess on every talk before it
+does, and it holds the egress lease while it happens. Naming the route skips
+both, and because that route egresses from somebody else's IPs there is no
+allowance to ration and nothing to lease — so `--workers` becomes real
+parallelism rather than a queue behind a single identity:
+
+```bash
+python3 fetch_transcripts.py --source supadata --min-year 2026 --workers 32
+```
+
+Measured on this corpus, same key, same network: **3 talks a minute at
+`--source exact` with the default pacing, against ~250 a minute at
+`--source supadata --workers 32`** — 1,249 talks in under six minutes rather
+than the better part of a day. Nothing about the far end changed; what changed
+is that 32 requests are in flight instead of one. There is no published rate
+limit, so a 429 is backed off and retried rather than being fatal, and the run
+finds the ceiling by itself: raise `--workers` until 429s start appearing in
+the log. At 32 there were none.
+
 Measured on the free trial: **95 talks requested, 95 returned**, all with exact
 timings, no misses, and most of them long enough to go through the polling
 path — 96 of the 100 free credits for 95 transcripts. Nothing was charged for a
@@ -325,7 +347,7 @@ allowance that refills over hours, not work.
 |---|---|---|
 | one home connection | yes | ~20-25 a sitting, then hours |
 | `--proxy-file` with N residential IPs | yes | ~N × 25 a sitting |
-| `SUPADATA_API_KEY` | yes | one credit a talk at any length, and 95 of 95 on a measured batch — so as many as you buy |
+| `SUPADATA_API_KEY` | yes | one credit a talk at any length, and 95 of 95 on a measured batch — so as many as you buy, at ~250 a minute with `--workers 32` |
 | `kome.ai` (the default fallback) | **no** — estimated | unmetered, but deep links land near a quote, not on it |
 
 What does *not* help, and was measured rather than assumed: slowing the run

@@ -16,6 +16,7 @@ import contextlib
 import io
 import json
 import sys
+import threading
 import time
 import types
 import urllib.error
@@ -274,6 +275,24 @@ serve([("mode=native", http(500)), ("mode=native", http(503)),
 segs, _ = F.fetch_supadata("V","K")
 check("retries 5xx", segs == [{"start":0.0,"duration":1.0,"text":"x"}], segs)
 
+print("\n-- supadata: 429 is backed off and retried, not fatal --")
+F._supadata_off.clear()
+serve([("mode=native", http(429)), ("mode=native", http(429)),
+       ("mode=native", Resp(200, {"lang":"en","content":[{"text":"x","offset":0,"duration":1000}]}))])
+segs, _ = F.fetch_supadata("V", "K")
+check("429 retried then succeeds", segs == [{"start":0.0,"duration":1.0,"text":"x"}], segs)
+check("429 does not retire the route", not F._supadata_off)
+
+print("\n-- supadata: a 429 that outlasts the retries is a block, never a miss --")
+F._supadata_off.clear()
+serve([("mode=native", http(429))] * 4)
+try:
+    F.fetch_supadata("V", "K")
+    check("persistent 429 raises", False)
+except Exception as e:
+    check("persistent 429 is a block", F.is_block(e), f"{type(e).__name__}: {e}")
+check("persistent 429 leaves the route on", not F._supadata_off)
+
 print("\n-- supadata: 404 is a per-video miss, route stays on --")
 serve([("mode=native", http(404, b'{"error":"video-not-found"}'))])
 try: F.fetch_supadata("V","K")
@@ -346,6 +365,38 @@ ok4, fail4, blocked4 = F.run_parallel(pool4, todo, m4, ARGS, "KEY")
 check("supadata carries the round past a spent pool", ok4 == len(todo), ok4)
 check("not treated as a blocked round", blocked4 is False)
 check("spent() knows supadata is a way out", not F.spent(pool4, ARGS, "KEY") and F.spent(pool4, ARGS, None))
+
+print("\n-- an off-IP source leases nothing, so --workers is real --")
+# The pool exists to stop two workers spending one IP's allowance at once. A
+# supadata-only run spends somebody else's, so leasing would pin every worker
+# to the single direct identity — which is how a 1,391-talk run came to be
+# strictly serial. This is the check that it no longer is.
+SUPA_ARGS = types.SimpleNamespace(source="supadata", min_delay=9, max_delay=9,
+                                  proxy_cooldown=45, workers=4, limit=None)
+leased, inflight, peak = [], [0], [0]
+lock = threading.Lock()
+
+def fetch_off_ip(eg, vid, source, key):
+    leased.append(eg)
+    with lock:
+        inflight[0] += 1
+        peak[0] = max(peak[0], inflight[0])
+    _REAL_SLEEP(0.05)          # real, so overlap is observable
+    with lock:
+        inflight[0] -= 1
+    return [{"start":0.0,"duration":1.0,"text":"hi"}], "en", True, "exact", "supa"
+
+F.fetch_one = fetch_off_ip
+pool5 = F.Pool([None], cooldown_min=45); m5 = {}
+ok5, fail5, blocked5 = F.run_parallel(pool5, todo, m5, SUPA_ARGS, "KEY")
+check("every talk fetched off-IP", ok5 == len(todo) and not m5, (ok5, m5))
+check("no identity was ever leased", all(e is None for e in leased), leased[:3])
+check("workers ran concurrently", peak[0] > 1, peak[0])
+check("min-delay does not pace an off-IP route", not F.uses_our_ip("supadata"))
+# An idle pool must not read as "still has options": with no key there is
+# nothing left, and the round has to end rather than spin.
+check("spent() ignores an idle pool off-IP",
+      F.spent(pool5, SUPA_ARGS, None) and not F.spent(pool5, SUPA_ARGS, "KEY"))
 
 
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else

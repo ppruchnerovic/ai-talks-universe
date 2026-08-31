@@ -11,3 +11,6 @@ tools/uitest/node_modules/
 # Virtualenv for the fetcher's dependencies, on distros where pip refuses to
 # install into the system Python. Same publishing reason as above.
 tools/.venv/
+
+# run logs from local collection runs — scratch, not artifacts
+logs/

@@ -23,5 +23,115 @@
     "conference": "code-with-claude",
     "reason": "LookupError",
     "detail": "supadata: no timed transcript for this video"
+  },
+  "izk2gYKpSSs": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "9-ajpf1wTRQ": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "0kZC1o4ttAQ": {
+    "conference": "qcon-infoq",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "N9D_Z1n13DU": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "ZzT8ogST12c": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "TlTW0XLsTaY": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "6umhKTgThpc": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "OhNJBORfRqc": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "F__BXqWjAdM": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "0HgiW6w688k": {
+    "conference": "goto",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"This video requires channel membership to access.\",\"documentationUrl\":\"https://docs.supadata.ai/errors/for"
+  },
+  "fR-wgFYY9-Q": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "t4mdfemRgp0": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "YOxsU2HBjaI": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "vvGtdY8VQz4": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "Rcfhh-V7x2U": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "PGJp2nsEl_I": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "5yzQ6wjv-Xo": {
+    "conference": "the-ai-conference",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "4yeO-165LRc": {
+    "conference": "rsac",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "GezX9a_9bwI": {
+    "conference": "databricks-dais",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "Wmn7uPLFXm8": {
+    "conference": "amld",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "P-rIeI6ynuM": {
+    "conference": "kubecon",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "8v-EVF8u4OQ": {
+    "conference": "nvidia-gtc",
+    "reason": "LookupError",
+    "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"Video is restricted (age-restricted or members-only)\",\"documentationUrl\":\"https://docs.supadata.ai/errors/"
   }
 }
