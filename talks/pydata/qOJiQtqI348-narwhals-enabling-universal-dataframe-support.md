@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Marco Gorelli"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2025-11-23T14:33:57Z
 video_id: qOJiQtqI348

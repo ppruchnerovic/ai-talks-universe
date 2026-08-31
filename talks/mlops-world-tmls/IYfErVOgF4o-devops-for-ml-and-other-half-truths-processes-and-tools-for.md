@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2021
 speakers: []
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 44
 published_at: 2021-05-07T16:00:14Z
 video_id: IYfErVOgF4o

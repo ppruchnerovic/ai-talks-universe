@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Markus Schmitt"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 33
 published_at: 2022-04-27T11:59:23Z
 video_id: y6bfc-qx9g0

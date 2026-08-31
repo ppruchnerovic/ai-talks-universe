@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Mark Melnykowycz"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2024-05-13T11:49:50Z
 video_id: dqpeRIEGkRQ

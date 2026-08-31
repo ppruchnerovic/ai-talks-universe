@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Claudia Peñaloza", "Continental Tires"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 25
 published_at: 2025-10-24T23:00:19Z
 video_id: sjtN-NQoyoQ

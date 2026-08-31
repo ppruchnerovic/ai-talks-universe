@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Urs Hölzle"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2022-05-02T07:19:53Z
 video_id: gAKG1n1u_aI

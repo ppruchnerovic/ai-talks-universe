@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: []
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 26
 published_at: 2018-06-28T09:10:54Z
 video_id: iPfMatOgRBg

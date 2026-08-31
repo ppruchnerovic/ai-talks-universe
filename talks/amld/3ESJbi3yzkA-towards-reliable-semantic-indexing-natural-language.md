@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Towards Reliable Semantic Indexing", "Maud Ehrmann"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 27
 published_at: 2024-05-15T08:52:32Z
 video_id: 3ESJbi3yzkA

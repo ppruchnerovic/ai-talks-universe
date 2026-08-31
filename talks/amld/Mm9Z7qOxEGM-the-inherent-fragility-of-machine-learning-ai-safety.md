@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Nirupam Gupta"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2024-05-15T13:28:49Z
 video_id: Mm9Z7qOxEGM

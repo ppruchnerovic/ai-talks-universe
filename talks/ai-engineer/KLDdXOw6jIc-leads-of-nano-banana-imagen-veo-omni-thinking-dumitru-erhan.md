@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Leads of Nano Banana", "Dumitru Erhan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 57
 published_at: 2026-08-30T14:00:06Z
 video_id: KLDdXOw6jIc

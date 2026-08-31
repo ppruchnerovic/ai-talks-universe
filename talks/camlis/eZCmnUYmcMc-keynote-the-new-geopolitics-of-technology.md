@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Nathaniel Fick"]
-channel: "CAMLIS"
+channel: null
 duration_min: 67
 published_at: 2025-11-03T20:46:02Z
 video_id: eZCmnUYmcMc

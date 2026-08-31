@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Cramer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-03T16:00:06Z
 video_id: FCi4jT86gSw

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Mytton"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-30T17:30:06Z
 video_id: Gi4V8viBGYQ

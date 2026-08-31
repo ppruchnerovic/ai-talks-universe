@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Alejandro Jesús Castañeira Rodriguez"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2024-05-15T07:28:15Z
 video_id: g0-dhBrndGc

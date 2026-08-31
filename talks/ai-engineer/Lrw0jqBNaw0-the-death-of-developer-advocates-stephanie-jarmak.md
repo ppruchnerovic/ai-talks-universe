@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephanie Jarmak"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-08-26T17:00:32Z
 video_id: Lrw0jqBNaw0

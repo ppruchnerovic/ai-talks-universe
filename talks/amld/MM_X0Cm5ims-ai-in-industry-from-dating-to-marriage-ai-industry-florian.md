@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Florian Roessler"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2022-04-26T15:00:39Z
 video_id: MM_X0Cm5ims

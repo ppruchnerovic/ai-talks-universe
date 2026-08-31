@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Baruch Sadogursky"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 48
 published_at: 2025-07-01T13:00:41Z
 video_id: IROQbZJt54s

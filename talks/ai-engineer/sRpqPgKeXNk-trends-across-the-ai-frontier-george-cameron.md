@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["George Cameron"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-08T16:00:06Z
 video_id: sRpqPgKeXNk

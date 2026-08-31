@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ahmad Osman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-21T02:28:29Z
 video_id: XV2oYi7kojc

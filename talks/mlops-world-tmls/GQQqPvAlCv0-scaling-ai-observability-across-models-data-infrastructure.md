@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["George Miranda"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 32
 published_at: 2025-09-29T19:08:16Z
 video_id: GQQqPvAlCv0

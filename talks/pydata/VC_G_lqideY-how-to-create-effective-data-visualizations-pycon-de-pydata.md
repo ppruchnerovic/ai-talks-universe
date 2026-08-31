@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Dominik Haitz"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:20:47Z
 video_id: VC_G_lqideY

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sachin Kumar"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2026-07-08T08:05:21Z
 video_id: IQkVMvXQKLY

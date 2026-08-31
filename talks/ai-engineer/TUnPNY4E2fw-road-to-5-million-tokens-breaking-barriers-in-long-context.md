@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Max Ryabinin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-06-08T17:00:21Z
 video_id: TUnPNY4E2fw

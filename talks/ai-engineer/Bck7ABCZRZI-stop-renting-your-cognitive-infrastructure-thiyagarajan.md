@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thiyagarajan Maruthavanan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 8
 published_at: 2026-07-18T18:15:06Z
 video_id: Bck7ABCZRZI

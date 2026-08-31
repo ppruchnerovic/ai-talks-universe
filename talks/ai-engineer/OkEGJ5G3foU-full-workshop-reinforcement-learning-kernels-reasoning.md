@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Daniel Han"]
-channel: "AI Engineer"
+channel: null
 duration_min: 162
 published_at: 2025-07-19T00:00:00Z
 video_id: OkEGJ5G3foU

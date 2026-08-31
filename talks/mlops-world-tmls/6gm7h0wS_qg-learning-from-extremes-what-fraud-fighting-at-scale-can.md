@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Greg Kuhlmann"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 29
 published_at: 2024-05-15T18:17:45Z
 video_id: 6gm7h0wS_qg

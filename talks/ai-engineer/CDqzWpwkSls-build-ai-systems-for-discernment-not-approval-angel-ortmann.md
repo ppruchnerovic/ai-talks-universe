@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Angel Ortmann Lee"]
-channel: "AI Engineer"
+channel: null
 duration_min: 26
 published_at: 2026-07-07T00:00:00Z
 video_id: CDqzWpwkSls

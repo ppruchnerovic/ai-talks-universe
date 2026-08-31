@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ramesh Raskar"]
-channel: "AI Engineer"
+channel: null
 duration_min: 12
 published_at: 2026-07-12T14:00:07Z
 video_id: sum9DgexFRQ

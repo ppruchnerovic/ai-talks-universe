@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yusuf Olokoba"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-11-24T00:00:00Z
 video_id: q2nHsJVy4FE

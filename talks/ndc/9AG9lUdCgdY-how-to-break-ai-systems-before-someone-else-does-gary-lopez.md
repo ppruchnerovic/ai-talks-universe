@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Gary Lopez"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 37
 published_at: 2026-07-28T11:30:27Z
 video_id: 9AG9lUdCgdY

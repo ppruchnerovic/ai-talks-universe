@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Cedric Clyburn"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-06-15T15:50:55Z
 video_id: C7LiRwI9nKE

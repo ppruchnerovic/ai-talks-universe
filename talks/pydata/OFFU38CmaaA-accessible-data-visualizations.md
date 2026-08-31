@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Maris Nieuwenhuis"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2025-11-23T14:33:51Z
 video_id: OFFU38CmaaA

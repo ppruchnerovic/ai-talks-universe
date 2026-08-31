@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Manjunath Janardhan"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-01-09T17:54:05Z
 video_id: 7fZXytFTmsE

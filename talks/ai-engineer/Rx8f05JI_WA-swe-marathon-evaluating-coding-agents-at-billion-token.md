@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rishi Desai"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-07-07T03:45:51Z
 video_id: Rx8f05JI_WA

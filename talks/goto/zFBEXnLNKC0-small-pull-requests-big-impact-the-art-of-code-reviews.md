@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
 speakers: ["Small Pull Requests"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 43
 published_at: 2025-07-18T12:38:38Z
 video_id: zFBEXnLNKC0

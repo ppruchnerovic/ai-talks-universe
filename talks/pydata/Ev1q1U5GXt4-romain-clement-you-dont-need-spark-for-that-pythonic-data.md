@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Romain Clement"]
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2025-12-16T15:17:45Z
 video_id: Ev1q1U5GXt4

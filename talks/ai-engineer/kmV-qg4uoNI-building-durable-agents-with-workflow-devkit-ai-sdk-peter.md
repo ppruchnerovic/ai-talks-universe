@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Wielander"]
-channel: "AI Engineer"
+channel: null
 duration_min: 70
 published_at: 2026-01-06T00:00:00Z
 video_id: kmV-qg4uoNI

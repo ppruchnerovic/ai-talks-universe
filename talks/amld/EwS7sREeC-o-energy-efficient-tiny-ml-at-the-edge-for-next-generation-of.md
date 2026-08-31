@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Michele Magno"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 43
 published_at: 2022-04-26T08:45:29Z
 video_id: EwS7sREeC-o

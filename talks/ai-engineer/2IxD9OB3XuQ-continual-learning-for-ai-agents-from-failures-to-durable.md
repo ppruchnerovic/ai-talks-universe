@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Soheil Feizi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-07-05T00:00:00Z
 video_id: 2IxD9OB3XuQ

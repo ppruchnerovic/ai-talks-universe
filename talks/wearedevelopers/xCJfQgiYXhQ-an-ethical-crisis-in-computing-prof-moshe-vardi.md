@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Prof. Moshe Vardi"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 48
 published_at: 2018-12-21T09:21:04Z
 video_id: xCJfQgiYXhQ

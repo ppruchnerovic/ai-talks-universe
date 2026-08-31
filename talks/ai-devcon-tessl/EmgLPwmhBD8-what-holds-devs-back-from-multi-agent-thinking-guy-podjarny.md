@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Guy Podjarny"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 33
 published_at: 2025-11-26T14:00:33Z
 video_id: EmgLPwmhBD8

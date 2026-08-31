@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Nikolai Semiachkin"]
-channel: "PyData"
+channel: null
 duration_min: 59
 published_at: 2025-12-17T08:40:50Z
 video_id: BUBSXf72yPw

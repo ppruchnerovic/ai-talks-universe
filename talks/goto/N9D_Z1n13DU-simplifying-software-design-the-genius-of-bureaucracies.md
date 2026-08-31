@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
 speakers: ["Alistair Cockburn"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 46
 published_at: 2026-08-10T15:39:56Z
 video_id: N9D_Z1n13DU

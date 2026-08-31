@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ian Butler"]
-channel: "AI Engineer"
+channel: null
 duration_min: 8
 published_at: 2025-08-03T04:32:57Z
 video_id: g03m-WFEu1U

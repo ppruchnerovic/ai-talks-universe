@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Sadegh Aliakbarian"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2022-04-20T08:56:17Z
 video_id: ZgkJ_TD_CRI

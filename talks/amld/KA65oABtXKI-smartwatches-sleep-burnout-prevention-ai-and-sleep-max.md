@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Max Grossenbacher"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2024-05-13T11:49:30Z
 video_id: KA65oABtXKI

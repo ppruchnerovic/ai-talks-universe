@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Matthias Orlowski", "Tim Tenckhoff"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2025-11-23T14:33:57Z
 video_id: uv1_qe_oKkA

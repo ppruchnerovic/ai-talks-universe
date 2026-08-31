@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Davit Ghazaryan"]
-channel: "PyData"
+channel: null
 duration_min: 71
 published_at: 2026-04-13T13:33:40Z
 video_id: 5carh9XBnsY

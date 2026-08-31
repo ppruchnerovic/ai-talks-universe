@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: ["Tanveer Mittal"]
-channel: "DeepLearningAI"
+channel: null
 duration_min: 32
 published_at: 2025-12-05T20:53:16Z
 video_id: 8tg8z-Fi0MU

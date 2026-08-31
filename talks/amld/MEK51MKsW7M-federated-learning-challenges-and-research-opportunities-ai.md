@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Mathieu Andreux"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2022-04-27T07:45:10Z
 video_id: MEK51MKsW7M

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["James Moss"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 33
 published_at: 2026-07-15T07:36:52Z
 video_id: 6VRKZQ3pmoU

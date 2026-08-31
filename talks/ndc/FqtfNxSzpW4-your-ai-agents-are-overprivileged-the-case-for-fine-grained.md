@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Ashish Jha"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2025-10-30T15:20:53Z
 video_id: FqtfNxSzpW4

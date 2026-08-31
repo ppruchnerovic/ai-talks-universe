@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["John Hanke"]
-channel: "Slush"
+channel: null
 duration_min: 30
 published_at: 2025-11-30T02:00:33Z
 video_id: Ovs1HO2s_8g

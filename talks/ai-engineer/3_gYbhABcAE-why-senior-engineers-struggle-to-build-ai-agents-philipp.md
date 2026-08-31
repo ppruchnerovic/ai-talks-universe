@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Philipp Schmid"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-05-30T14:00:06Z
 video_id: 3_gYbhABcAE

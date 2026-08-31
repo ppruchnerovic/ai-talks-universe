@@ -5,10 +5,10 @@ slug: usenix-security-25-dp-brem-differentially-private-and
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "AI security"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 16
 published_at: 2025-10-30T20:00:23Z
 video_id: GGyojPmyDaw
@@ -21,7 +21,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `16 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `16 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Yaseen Esmaeelpour"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2025-11-23T14:33:55Z
 video_id: moEOrrtd93c

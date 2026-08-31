@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "The AI Conference"
 year: 2025
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 34
 published_at: 2025-08-19T03:30:09Z
 video_id: L-1LQ_NXVM0

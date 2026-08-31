@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Legacy Over Exit", "Jarek Kutylowski"]
-channel: "Slush"
+channel: null
 duration_min: 21
 published_at: 2025-11-28T13:13:01Z
 video_id: iEHe8HZhNJk

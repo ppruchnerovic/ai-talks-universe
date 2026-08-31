@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2023
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 27
 published_at: 2023-11-18T20:58:12Z
 video_id: hZbNHZKUqQg

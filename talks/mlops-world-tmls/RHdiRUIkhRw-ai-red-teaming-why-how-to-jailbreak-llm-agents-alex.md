@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Alex Combessie"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 11
 published_at: 2025-10-30T00:50:28Z
 video_id: RHdiRUIkhRw

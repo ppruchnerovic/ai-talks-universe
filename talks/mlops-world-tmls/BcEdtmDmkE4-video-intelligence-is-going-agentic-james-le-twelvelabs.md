@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["James Le"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 30
 published_at: 2025-09-29T18:59:08Z
 video_id: BcEdtmDmkE4

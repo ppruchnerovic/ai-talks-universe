@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Gabriel Krummenacher"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2022-04-26T14:29:30Z
 video_id: czK9uTy57-k

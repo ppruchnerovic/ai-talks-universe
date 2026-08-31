@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Olivier Leplus"]
-channel: "AI Engineer"
+channel: null
 duration_min: 53
 published_at: 2026-04-10T00:00:00Z
 video_id: XZ0boOjtbNo

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Bernhard Schäfer", "Nicolas Renkamp"]
-channel: "PyData"
+channel: null
 duration_min: 45
 published_at: 2026-08-04T22:20:17Z
 video_id: qzTcTtxO-AE

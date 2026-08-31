@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Securing Agentic Apps"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 35
 published_at: 2026-01-21T03:22:12Z
 video_id: npHi2irl44k

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Neguine Rezaii"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 44
 published_at: 2022-05-02T07:21:56Z
 video_id: YwVXAWdIUIk

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Laurie Voss"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 17
 published_at: 2026-08-06T11:53:52Z
 video_id: SEWjPjUAMow

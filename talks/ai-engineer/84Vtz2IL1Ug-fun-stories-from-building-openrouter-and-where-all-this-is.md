@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alex Atallah"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-06-25T00:00:00Z
 video_id: 84Vtz2IL1Ug

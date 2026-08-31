@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Gui Ferreira"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2026-07-01T13:39:02Z
 video_id: zaDbZt40kRg

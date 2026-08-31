@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Susie Xi Rao"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 7
 published_at: 2022-04-20T10:00:44Z
 video_id: oHGxcG5Uo7Y

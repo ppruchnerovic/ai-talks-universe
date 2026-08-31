@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nik Caryotakis"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-04-18T16:00:06Z
 video_id: 2p2ErKRELHM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Benedikt Blumenstiel"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2024-05-13T13:10:49Z
 video_id: QdLMTkyBZJk

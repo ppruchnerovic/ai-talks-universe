@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Inspiring Young People", "Cassandra Chin"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 34
 published_at: 2025-12-05T09:09:56Z
 video_id: BSEweFcbh5U

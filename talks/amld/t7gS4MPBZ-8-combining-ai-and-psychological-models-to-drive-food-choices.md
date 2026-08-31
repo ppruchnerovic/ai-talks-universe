@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Patrizia Catellani"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2024-05-15T11:33:14Z
 video_id: t7gS4MPBZ-8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kushan Raj"]
-channel: "AI Engineer"
+channel: null
 duration_min: 4
 published_at: 2026-06-28T00:00:00Z
 video_id: JnubYCYunk8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Valeria Zuccoli"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2025-11-21T16:25:27Z
 video_id: jsdoamnlgpI

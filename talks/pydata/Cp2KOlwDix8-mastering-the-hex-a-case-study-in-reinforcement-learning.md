@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Simon Hedrich"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-25T18:20:17Z
 video_id: Cp2KOlwDix8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Evelina Trutnevyte"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 33
 published_at: 2022-05-02T08:09:47Z
 video_id: l2WELUoyqds

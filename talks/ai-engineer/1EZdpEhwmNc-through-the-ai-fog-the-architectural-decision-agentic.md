@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Manoj Nair"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-07-20T17:17:54Z
 video_id: 1EZdpEhwmNc

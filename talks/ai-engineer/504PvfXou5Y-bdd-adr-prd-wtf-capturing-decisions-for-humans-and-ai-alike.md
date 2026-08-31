@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michal Cichra"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-06-03T00:00:00Z
 video_id: 504PvfXou5Y

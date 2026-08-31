@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Mathias Humbert"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2024-05-15T12:52:22Z
 video_id: nCk3_sL6S8c

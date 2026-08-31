@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kwindla Kramer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-07T23:53:33Z
 video_id: LZuWZRze3MU

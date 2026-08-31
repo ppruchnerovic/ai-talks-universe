@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Maxime Labonne"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-04-29T00:00:00Z
 video_id: fLUtUkqYHnQ

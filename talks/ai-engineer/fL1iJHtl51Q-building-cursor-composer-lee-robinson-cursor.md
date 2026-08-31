@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Building Cursor Composer", "Lee Robinson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-12-02T00:00:00Z
 video_id: fL1iJHtl51Q

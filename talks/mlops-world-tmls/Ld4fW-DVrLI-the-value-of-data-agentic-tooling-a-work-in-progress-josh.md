@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Josh Goldstein", "Solutions Architect"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 17
 published_at: 2025-09-29T19:41:05Z
 video_id: Ld4fW-DVrLI

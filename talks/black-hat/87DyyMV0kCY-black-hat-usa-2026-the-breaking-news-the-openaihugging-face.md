@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2026
 speakers: ["Michael Dalton"]
-channel: "Black Hat"
+channel: null
 duration_min: 37
 published_at: 2026-08-06T20:12:32Z
 video_id: 87DyyMV0kCY

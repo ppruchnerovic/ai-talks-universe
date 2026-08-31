@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2020
 speakers: ["Ocean Protocol"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 44
 published_at: 2020-03-12T14:54:24Z
 video_id: ZChSzOEE7Nk

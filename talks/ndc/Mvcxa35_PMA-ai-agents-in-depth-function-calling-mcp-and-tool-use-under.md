@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Function Calling", "Alan Smith"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2026-07-01T14:29:34Z
 video_id: Mvcxa35_PMA

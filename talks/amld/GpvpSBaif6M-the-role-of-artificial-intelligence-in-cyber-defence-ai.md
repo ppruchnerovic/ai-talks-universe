@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Vincent Lenders"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 38
 published_at: 2022-05-03T11:59:16Z
 video_id: GpvpSBaif6M

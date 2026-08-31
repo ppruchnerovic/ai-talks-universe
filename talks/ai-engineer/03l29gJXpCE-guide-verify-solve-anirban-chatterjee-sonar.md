@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anirban Chatterjee"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-08-09T17:45:13Z
 video_id: 03l29gJXpCE

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: ["Prompt Hardener"]
-channel: "BSidesLV"
+channel: null
 duration_min: 26
 published_at: 2025-12-08T00:38:42Z
 video_id: LPSSzknt2fg

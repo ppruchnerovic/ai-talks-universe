@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nupur Sharma"]
-channel: "AI Engineer"
+channel: null
 duration_min: 26
 published_at: 2026-06-08T15:00:17Z
 video_id: EcqMYoIV57A

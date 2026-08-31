@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Agathe Chevalier"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2022-04-20T08:55:08Z
 video_id: LHKSNr6a53E

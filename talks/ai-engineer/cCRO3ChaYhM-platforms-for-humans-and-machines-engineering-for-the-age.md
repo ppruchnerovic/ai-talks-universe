@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Juan Herreros Elorza"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-04-08T09:30:06Z
 video_id: cCRO3ChaYhM

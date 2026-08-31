@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
 speakers: []
-channel: "Devoxx"
+channel: null
 duration_min: 18
 published_at: 2025-11-20T10:29:19Z
 video_id: vuNTPe-Upak

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ido Pesok"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-08-06T00:00:00Z
 video_id: L8OoYeDI_ls

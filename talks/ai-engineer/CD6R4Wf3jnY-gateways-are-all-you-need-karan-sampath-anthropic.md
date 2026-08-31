@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Karan Sampath"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-04-27T00:00:00Z
 video_id: CD6R4Wf3jnY

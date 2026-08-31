@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Jake Thomas"]
-channel: "CAMLIS"
+channel: null
 duration_min: 20
 published_at: 2025-11-14T07:06:54Z
 video_id: _DlCrm7WDcI

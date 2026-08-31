@@ -8,8 +8,8 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ivan Leo"]
-channel: "AI Engineer"
-duration_min: 81
+channel: null
+duration_min: 82
 published_at: 2025-12-30T00:00:00Z
 video_id: xz0-brt56L8
 youtube_url: https://www.youtube.com/watch?v=xz0-brt56L8
@@ -21,7 +21,7 @@ transcript: true
 
 **Ivan Leo**
 
-`AI Engineer` · `AI Engineer` · `2025` · `81 min`
+`AI Engineer` · `AI Engineer` · `2025` · `82 min`
 
 [Watch the recording](https://www.youtube.com/watch?v=xz0-brt56L8) · [Conference site](https://www.ai.engineer/)
 

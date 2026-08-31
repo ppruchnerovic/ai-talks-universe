@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Max Welling"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2022-04-26T14:20:07Z
 video_id: 9HZvuG1dq-k

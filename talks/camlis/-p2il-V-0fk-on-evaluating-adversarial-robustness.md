@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2019
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 51
 published_at: 2019-11-13T15:04:40Z
 video_id: -p2il-V-0fk

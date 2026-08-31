@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Applying Intuition", "Qasar Younis"]
-channel: "Slush"
+channel: null
 duration_min: 24
 published_at: 2025-11-26T15:01:28Z
 video_id: lNskqTUtgus

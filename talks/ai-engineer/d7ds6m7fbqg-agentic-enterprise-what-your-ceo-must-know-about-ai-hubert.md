@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Agentic Enterprise", "Hubert Misztela"]
-channel: "AI Engineer"
+channel: null
 duration_min: 28
 published_at: 2025-06-03T00:00:00Z
 video_id: d7ds6m7fbqg

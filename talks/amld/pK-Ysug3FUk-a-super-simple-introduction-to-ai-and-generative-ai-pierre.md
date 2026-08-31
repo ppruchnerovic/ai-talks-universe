@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Pierre Vandergheynst"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 25
 published_at: 2023-10-05T16:20:12Z
 video_id: pK-Ysug3FUk

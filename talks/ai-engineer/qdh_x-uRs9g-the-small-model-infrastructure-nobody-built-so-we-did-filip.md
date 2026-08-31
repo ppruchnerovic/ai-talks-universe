@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Filip Makraduli"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-05-05T17:00:06Z
 video_id: qdh_x-uRs9g

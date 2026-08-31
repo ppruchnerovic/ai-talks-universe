@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2025
 speakers: ["Bertrand Charpentier"]
-channel: "dotconferences"
+channel: null
 duration_min: 10
 published_at: 2025-11-14T14:16:06Z
 video_id: UldTRcPl0E8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Harald Nezbeda"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-25T18:20:05Z
 video_id: PEJakKxVh1c

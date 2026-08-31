@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Maria Gorinova"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 5
 published_at: 2025-12-14T14:01:50Z
 video_id: nx5_7Cptvpc

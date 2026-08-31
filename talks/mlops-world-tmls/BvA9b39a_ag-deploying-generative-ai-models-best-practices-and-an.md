@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Anouk Dutrée"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 58
 published_at: 2023-11-10T17:21:46Z
 video_id: BvA9b39a_ag

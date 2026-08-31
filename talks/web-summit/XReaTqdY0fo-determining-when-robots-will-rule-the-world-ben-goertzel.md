@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2018
 speakers: ["Ben Goertzel"]
-channel: "Web Summit"
+channel: null
 duration_min: 19
 published_at: 2018-11-08T14:02:29Z
 video_id: XReaTqdY0fo

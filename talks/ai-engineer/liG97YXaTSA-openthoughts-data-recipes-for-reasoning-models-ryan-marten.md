@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ryan Marten"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-19T21:10:30Z
 video_id: liG97YXaTSA

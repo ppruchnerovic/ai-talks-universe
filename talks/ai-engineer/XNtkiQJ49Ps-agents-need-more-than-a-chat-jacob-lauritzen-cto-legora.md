@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jacob Lauritzen"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2026-04-22T00:00:00Z
 video_id: XNtkiQJ49Ps

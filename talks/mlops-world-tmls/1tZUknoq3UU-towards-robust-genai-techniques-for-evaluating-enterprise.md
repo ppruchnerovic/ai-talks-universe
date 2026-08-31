@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Dhruv Singh"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 45
 published_at: 2024-05-16T13:02:25Z
 video_id: 1tZUknoq3UU

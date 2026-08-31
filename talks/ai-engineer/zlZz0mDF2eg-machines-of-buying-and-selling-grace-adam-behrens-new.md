@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Adam Behrens"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-23T15:51:11Z
 video_id: zlZz0mDF2eg

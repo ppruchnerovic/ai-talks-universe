@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Todd Fisher"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-18T15:30:23Z
 video_id: E_Txocq-Lrw

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Shaaf Syed"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 27
 published_at: 2025-09-11T08:56:50Z
 video_id: UCZdqrS3gZk

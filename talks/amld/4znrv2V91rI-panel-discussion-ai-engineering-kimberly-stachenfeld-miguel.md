@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Kimberly Stachenfeld"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2022-04-26T08:28:07Z
 video_id: 4znrv2V91rI

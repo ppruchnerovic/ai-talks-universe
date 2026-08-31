@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Adam Hill"]
-channel: "PyData"
+channel: null
 duration_min: 38
 published_at: 2026-06-15T15:54:12Z
 video_id: caJusFmHqAM

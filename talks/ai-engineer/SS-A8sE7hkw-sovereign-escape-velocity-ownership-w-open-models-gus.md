@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gus Martins"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-06-10T15:00:06Z
 video_id: SS-A8sE7hkw

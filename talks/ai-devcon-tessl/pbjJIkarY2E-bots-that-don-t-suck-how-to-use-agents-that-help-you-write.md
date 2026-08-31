@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Amir Shevat"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 22
 published_at: 2025-10-01T16:52:39Z
 video_id: pbjJIkarY2E

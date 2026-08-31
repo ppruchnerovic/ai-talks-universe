@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vasant Kearney"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-19T16:30:32Z
 video_id: UyyOoJmuATU

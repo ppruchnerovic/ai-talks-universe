@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2018
 speakers: ["Azeem Azhar"]
-channel: "Web Summit"
+channel: null
 duration_min: 24
 published_at: 2018-11-15T12:13:58Z
 video_id: -iOX9nUxwuU

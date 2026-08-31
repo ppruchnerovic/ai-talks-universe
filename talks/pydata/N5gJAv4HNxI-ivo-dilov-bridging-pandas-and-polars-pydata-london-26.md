@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Ivo Dilov"]
-channel: "PyData"
+channel: null
 duration_min: 34
 published_at: 2026-06-15T15:52:27Z
 video_id: N5gJAv4HNxI

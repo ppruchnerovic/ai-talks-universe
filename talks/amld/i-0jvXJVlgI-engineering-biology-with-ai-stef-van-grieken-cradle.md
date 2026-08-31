@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2026
 speakers: ["Stef van Grieken"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2026-02-13T10:14:58Z
 video_id: i-0jvXJVlgI

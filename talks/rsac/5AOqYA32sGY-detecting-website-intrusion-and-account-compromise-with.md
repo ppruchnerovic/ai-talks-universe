@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Robin Franklin Guha"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 39
 published_at: 2024-06-10T21:16:36Z
 video_id: 5AOqYA32sGY

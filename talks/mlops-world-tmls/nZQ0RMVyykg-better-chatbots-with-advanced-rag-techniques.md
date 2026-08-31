@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Zain Hasan"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 49
 published_at: 2024-05-16T14:13:37Z
 video_id: nZQ0RMVyykg

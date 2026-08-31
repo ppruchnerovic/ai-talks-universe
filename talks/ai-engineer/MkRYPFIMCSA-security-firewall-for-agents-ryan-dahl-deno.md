@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ryan Dahl"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-17T18:30:06Z
 video_id: MkRYPFIMCSA

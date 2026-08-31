@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Max Schrems"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2022-05-02T08:29:29Z
 video_id: zFIpSuEgfHw

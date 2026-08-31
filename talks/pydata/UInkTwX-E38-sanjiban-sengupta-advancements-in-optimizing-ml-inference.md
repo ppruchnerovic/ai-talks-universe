@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Sanjiban Sengupta"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2025-11-21T16:26:38Z
 video_id: UInkTwX-E38

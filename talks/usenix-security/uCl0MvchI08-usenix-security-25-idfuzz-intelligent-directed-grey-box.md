@@ -5,10 +5,10 @@ slug: usenix-security-25-idfuzz-intelligent-directed-grey-box
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "AI security"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 11
 published_at: 2025-10-30T20:02:11Z
 video_id: uCl0MvchI08
@@ -21,7 +21,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `11 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `11 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

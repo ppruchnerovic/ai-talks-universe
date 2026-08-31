@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["James Lowe"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-28T19:53:56Z
 video_id: xzJdSi2Tsqw

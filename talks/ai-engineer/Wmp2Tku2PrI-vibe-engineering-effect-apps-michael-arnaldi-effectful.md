@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michael Arnaldi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 103
 published_at: 2026-05-07T15:00:06Z
 video_id: Wmp2Tku2PrI

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Mike Swift"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 46
 published_at: 2026-08-06T11:38:11Z
 video_id: 3OIV_ySrDGw

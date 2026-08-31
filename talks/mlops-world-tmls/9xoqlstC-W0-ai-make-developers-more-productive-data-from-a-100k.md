@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Yegor Denisov"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 29
 published_at: 2025-10-23T05:09:20Z
 video_id: 9xoqlstC-W0

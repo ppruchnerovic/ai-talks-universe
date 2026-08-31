@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Diego Perino"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2022-04-28T15:15:55Z
 video_id: T4FgK3Wh99Q

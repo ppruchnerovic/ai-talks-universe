@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: []
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-04-11T16:30:26Z
 video_id: 0vBKv9yAQi4

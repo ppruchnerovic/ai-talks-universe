@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Kenneth Atz"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2024-05-15T07:50:59Z
 video_id: IEzJAupe-h4

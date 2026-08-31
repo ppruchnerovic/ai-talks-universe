@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kwindla Hultman Kramer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2025-07-31T18:56:34Z
 video_id: IA4lZjh9sTs

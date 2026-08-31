@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Pavel Klushin", "Head of Solutions Architecture"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 33
 published_at: 2023-08-18T01:36:05Z
 video_id: Yta6V4LjTrM

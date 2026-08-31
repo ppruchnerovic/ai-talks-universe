@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2018
 speakers: []
-channel: "CAMLIS"
+channel: null
 duration_min: 22
 published_at: 2018-11-16T17:20:46Z
 video_id: Usv9kEwi93c

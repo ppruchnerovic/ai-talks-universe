@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Pratik Verma"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 29
 published_at: 2025-10-20T02:14:29Z
 video_id: 3Tvm_ttc27s

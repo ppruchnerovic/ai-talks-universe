@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["David Wengier"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 54
 published_at: 2025-06-03T09:15:00Z
 video_id: Buxmr0juFoo

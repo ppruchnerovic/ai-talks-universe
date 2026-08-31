@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Diego Carpentero"]
-channel: "AI Engineer"
+channel: null
 duration_min: 44
 published_at: 2026-04-16T00:00:00Z
 video_id: YZHPEkfy2kc

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Carlos Sanchez"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-29T00:00:00Z
 video_id: jebp4V0vh30

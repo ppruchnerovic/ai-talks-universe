@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Niels Bantilan"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 27
 published_at: 2023-05-29T05:19:19Z
 video_id: RGrwb-W5FDk

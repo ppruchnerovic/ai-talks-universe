@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Neubauer"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-08-04T22:21:58Z
 video_id: NxxXpmXa3ws

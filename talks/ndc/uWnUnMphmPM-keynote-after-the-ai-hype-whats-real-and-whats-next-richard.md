@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["What’s Real", "Richard Campbell"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 50
 published_at: 2026-06-18T11:05:54Z
 video_id: uWnUnMphmPM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Amplify Partners"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-21T00:00:00Z
 video_id: RGe6EjucbzI

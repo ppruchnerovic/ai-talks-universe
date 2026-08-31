@@ -8,7 +8,7 @@ category: "AI security"
 edition: "AI Village"
 year: 2021
 speakers: []
-channel: "aivillage"
+channel: null
 duration_min: 17
 published_at: 2021-08-09T17:55:59Z
 video_id: ULC9pzTx2s8

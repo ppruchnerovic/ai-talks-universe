@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["Frank Kim"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 110
 published_at: 2025-09-23T15:50:41Z
 video_id: H5cGTZffmW0

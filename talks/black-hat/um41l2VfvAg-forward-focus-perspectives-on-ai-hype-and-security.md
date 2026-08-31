@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2024
 speakers: ["Nathan Hamiel", "Rich Harang", "Ram Shankar Siva Kumar"]
-channel: "Black Hat"
+channel: null
 duration_min: 39
 published_at: 2024-03-05T17:16:23Z
 video_id: um41l2VfvAg

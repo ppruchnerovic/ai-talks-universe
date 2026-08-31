@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Lee Faus"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 58
 published_at: 2025-11-28T09:40:30Z
 video_id: sF9pt99HQJ8

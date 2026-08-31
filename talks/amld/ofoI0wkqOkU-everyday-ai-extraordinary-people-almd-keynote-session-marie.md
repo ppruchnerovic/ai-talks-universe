@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Marie Vollmar"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 5
 published_at: 2022-04-22T14:43:58Z
 video_id: ofoI0wkqOkU

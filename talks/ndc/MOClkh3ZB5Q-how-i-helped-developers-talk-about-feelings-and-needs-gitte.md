@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Gitte Klitgaard"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 54
 published_at: 2026-08-05T13:17:43Z
 video_id: MOClkh3ZB5Q

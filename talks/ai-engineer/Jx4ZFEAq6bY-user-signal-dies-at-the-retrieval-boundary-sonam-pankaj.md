@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sonam Pankaj"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-06-28T17:00:20Z
 video_id: Jx4ZFEAq6bY

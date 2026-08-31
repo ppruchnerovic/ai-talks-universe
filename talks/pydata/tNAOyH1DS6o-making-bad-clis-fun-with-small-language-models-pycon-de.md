@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Moritz Bauer"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-08-04T22:20:49Z
 video_id: tNAOyH1DS6o

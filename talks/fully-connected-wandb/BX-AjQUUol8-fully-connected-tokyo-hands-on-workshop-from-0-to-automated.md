@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Weights & Biases"
 year: 2026
 speakers: []
-channel: "Weights & Biases"
+channel: null
 duration_min: 159
 published_at: 2026-01-23T12:00:31Z
 video_id: BX-AjQUUol8

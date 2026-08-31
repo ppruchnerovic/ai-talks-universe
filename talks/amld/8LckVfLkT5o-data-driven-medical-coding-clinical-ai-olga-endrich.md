@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Olga Endrich"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 13
 published_at: 2024-05-15T11:19:20Z
 video_id: 8LckVfLkT5o

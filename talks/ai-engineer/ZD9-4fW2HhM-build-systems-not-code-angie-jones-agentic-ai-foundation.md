@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Angie Jones"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-06-25T00:00:00Z
 video_id: ZD9-4fW2HhM

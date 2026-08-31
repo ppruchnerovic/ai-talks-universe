@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Cedric Vidal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 114
 published_at: 2025-06-27T00:00:00Z
 video_id: N4vCBM5YbN0

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Barry Stahl"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 57
 published_at: 2026-03-09T14:40:03Z
 video_id: q0G-foCIKX4

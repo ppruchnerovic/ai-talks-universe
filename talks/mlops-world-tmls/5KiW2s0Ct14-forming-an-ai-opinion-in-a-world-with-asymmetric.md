@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Denys Linkov"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 40
 published_at: 2025-10-20T22:42:22Z
 video_id: 5KiW2s0Ct14

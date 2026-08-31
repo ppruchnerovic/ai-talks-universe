@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Spitz"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-05-15T00:00:00Z
 video_id: VMemhtlsoNk

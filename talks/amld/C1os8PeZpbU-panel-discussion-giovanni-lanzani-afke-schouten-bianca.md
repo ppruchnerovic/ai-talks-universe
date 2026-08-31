@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Giovanni Lanzani"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 43
 published_at: 2022-04-27T12:04:09Z
 video_id: C1os8PeZpbU

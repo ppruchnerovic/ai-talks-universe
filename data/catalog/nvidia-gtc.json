@@ -1,7 +1,7 @@
 {
   "slug": "nvidia-gtc",
   "name": "NVIDIA GTC",
-  "enumerated_at": "2026-08-30T21:48:56+00:00",
+  "enumerated_at": "2026-08-31T16:25:05+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
@@ -157,8 +157,8 @@
       "label": "GTC 2026",
       "year": 2026,
       "source_url": "https://www.youtube.com/playlist?list=PLZHnYvH1qtOYKcOvqqLtmfpLntjXc4LqT",
-      "details_at": "2026-08-31T15:35:56+00:00",
-      "description": ""
+      "description": "",
+      "details_at": "2026-08-31T15:35:56+00:00"
     },
     "9XB-LsfpvCU": {
       "video_id": "9XB-LsfpvCU",

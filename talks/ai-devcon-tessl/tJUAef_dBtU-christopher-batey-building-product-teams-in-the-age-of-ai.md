@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Christopher Batey"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-07-05T07:52:15Z
 video_id: tJUAef_dBtU

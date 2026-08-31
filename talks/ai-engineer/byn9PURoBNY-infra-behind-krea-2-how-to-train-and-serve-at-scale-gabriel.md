@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gabriel Jorge Menezes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-18T17:00:05Z
 video_id: byn9PURoBNY

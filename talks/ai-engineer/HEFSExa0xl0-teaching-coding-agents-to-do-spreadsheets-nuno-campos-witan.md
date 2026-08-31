@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nuno Campos"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-07-08T09:03:25Z
 video_id: HEFSExa0xl0

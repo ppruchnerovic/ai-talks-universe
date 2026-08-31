@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Pranav Reddy Danda"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-07-15T23:16:39Z
 video_id: 3vh4UA4FOrU

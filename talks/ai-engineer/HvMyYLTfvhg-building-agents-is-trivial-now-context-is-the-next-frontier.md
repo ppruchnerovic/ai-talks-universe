@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jeff Ng"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-08-21T00:00:00Z
 video_id: HvMyYLTfvhg

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Daniel Stenberg"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 48
 published_at: 2026-01-30T08:58:21Z
 video_id: Vp8K12oLs6A

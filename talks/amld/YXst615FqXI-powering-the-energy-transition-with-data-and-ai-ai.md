@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Mihir Sarkar"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 36
 published_at: 2022-04-26T14:38:00Z
 video_id: YXst615FqXI

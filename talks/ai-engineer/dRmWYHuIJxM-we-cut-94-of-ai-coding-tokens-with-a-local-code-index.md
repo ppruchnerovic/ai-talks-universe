@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rajkumar Sakthivel"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2026-06-28T22:30:29Z
 video_id: dRmWYHuIJxM

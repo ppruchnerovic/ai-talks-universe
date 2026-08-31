@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2020
 speakers: ["Cassie Kozyrkov"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 45
 published_at: 2020-03-12T09:54:41Z
 video_id: y6_Lc29tL6s

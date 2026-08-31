@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Luke Marsden"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-06T06:43:51Z
 video_id: PsEnuv3S5I0

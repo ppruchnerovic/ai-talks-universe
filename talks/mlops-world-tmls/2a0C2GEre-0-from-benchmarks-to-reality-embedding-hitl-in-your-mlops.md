@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Micaela Kaplan"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 20
 published_at: 2025-10-20T22:03:42Z
 video_id: 2a0C2GEre-0

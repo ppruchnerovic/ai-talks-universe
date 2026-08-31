@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sonny Merla"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-04-10T11:30:06Z
 video_id: VXfRt_H-V08

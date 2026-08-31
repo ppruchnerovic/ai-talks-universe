@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Cheuk Ting Ho"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2026-06-15T15:55:38Z
 video_id: IC1mtUXdXdI

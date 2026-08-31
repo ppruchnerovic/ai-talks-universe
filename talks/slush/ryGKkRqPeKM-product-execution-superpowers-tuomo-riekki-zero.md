@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Product Execution Superpowers", "Tuomo Riekki"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-11-28T22:01:04Z
 video_id: ryGKkRqPeKM

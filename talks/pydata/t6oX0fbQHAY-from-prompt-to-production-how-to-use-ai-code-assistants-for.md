@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Serhii Sokolenko"]
-channel: "PyData"
+channel: null
 duration_min: 49
 published_at: 2026-08-04T22:21:39Z
 video_id: t6oX0fbQHAY

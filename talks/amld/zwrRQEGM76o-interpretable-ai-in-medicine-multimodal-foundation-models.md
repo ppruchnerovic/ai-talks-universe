@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Mauricio Reyes"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2024-06-06T13:43:12Z
 video_id: zwrRQEGM76o

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Artificial General Intelligence"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 44
 published_at: 2018-07-04T16:08:31Z
 video_id: W-3W-s_Yw-8

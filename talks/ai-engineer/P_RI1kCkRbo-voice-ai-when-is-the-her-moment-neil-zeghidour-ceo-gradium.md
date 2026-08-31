@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Neil Zeghidour"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-09T15:00:06Z
 video_id: P_RI1kCkRbo

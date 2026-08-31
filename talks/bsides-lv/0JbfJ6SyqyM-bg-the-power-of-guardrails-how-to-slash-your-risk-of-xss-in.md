@@ -8,7 +8,7 @@ category: "AI security"
 edition: "BSides Las Vegas"
 year: 2021
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 51
 published_at: 2021-08-13T00:46:35Z
 video_id: 0JbfJ6SyqyM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eric Simons"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-15T00:00:00Z
 video_id: s8RM8uYxkoY

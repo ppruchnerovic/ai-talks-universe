@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kyle Corbitt"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-19T21:12:06Z
 video_id: gEDl9C8s_-4

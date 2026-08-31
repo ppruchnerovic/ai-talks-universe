@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chris Parsons"]
-channel: "AI Engineer"
+channel: null
 duration_min: 108
 published_at: 2026-05-04T14:00:17Z
 video_id: 2TLXsxkz0zI

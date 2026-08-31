@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Cian Clarke"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 54
 published_at: 2025-12-23T14:00:36Z
 video_id: WpH3g3kjFus

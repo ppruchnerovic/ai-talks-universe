@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
 speakers: ["James Phoenix"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 54
 published_at: 2025-08-01T12:42:36Z
 video_id: P7NHrTYzf1I

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Agentic Goal Hijack"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 9
 published_at: 2026-01-21T06:44:51Z
 video_id: 49tji8u2wM4

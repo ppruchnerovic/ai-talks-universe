@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Patrick Debois"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-04T07:21:01Z
 video_id: 9u6xvcNJaxc

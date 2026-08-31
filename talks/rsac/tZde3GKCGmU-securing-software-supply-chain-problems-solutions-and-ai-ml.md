@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Viswanath Chirravuri"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 45
 published_at: 2024-06-10T21:14:04Z
 video_id: tZde3GKCGmU

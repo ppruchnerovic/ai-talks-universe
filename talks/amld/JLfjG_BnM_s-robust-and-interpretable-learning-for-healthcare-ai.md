@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Dorina Thanou"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 27
 published_at: 2022-05-11T10:30:00Z
 video_id: JLfjG_BnM_s

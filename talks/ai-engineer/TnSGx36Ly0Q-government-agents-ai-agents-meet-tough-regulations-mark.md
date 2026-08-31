@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Myshatyn"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-12-06T00:00:00Z
 video_id: TnSGx36Ly0Q

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Boyan Mihaylov"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 43
 published_at: 2026-08-07T06:31:33Z
 video_id: FlAJJr7LfU8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Phipps"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-22T21:30:31Z
 video_id: jt1Pbr_n6oU

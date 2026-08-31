@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2026
 speakers: ["Guillaume Moigneu"]
-channel: "dotconferences"
+channel: null
 duration_min: 12
 published_at: 2026-02-17T13:58:46Z
 video_id: IgP_c4qkWxM

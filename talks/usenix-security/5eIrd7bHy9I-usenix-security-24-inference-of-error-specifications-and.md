@@ -5,10 +5,10 @@ slug: usenix-security-24-inference-of-error-specifications-and
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "AI security"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2026
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 11
 published_at: 2026-06-02T20:54:10Z
 video_id: 5eIrd7bHy9I
@@ -21,7 +21,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2026` · `11 min`
+`USENIX Security Symposium` · `USENIX Security` · `2026` · `11 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

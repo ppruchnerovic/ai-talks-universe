@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Stephen Whitworth"]
-channel: "Slush"
+channel: null
 duration_min: 28
 published_at: 2025-11-28T22:00:57Z
 video_id: eGnisIc4kIY

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2025
 speakers: []
-channel: "Web Summit"
+channel: null
 duration_min: 18
 published_at: 2025-02-07T17:00:35Z
 video_id: S1C3dB6H-WY

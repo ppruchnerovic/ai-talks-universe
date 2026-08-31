@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Suraj Subramanian"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 98
 published_at: 2023-08-18T01:36:05Z
 video_id: QVu-JnfXlRc

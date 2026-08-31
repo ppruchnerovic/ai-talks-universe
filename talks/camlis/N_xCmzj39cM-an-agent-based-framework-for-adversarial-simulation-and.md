@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Gary Lopez Munoz"]
-channel: "CAMLIS"
+channel: null
 duration_min: 26
 published_at: 2025-11-14T08:24:55Z
 video_id: N_xCmzj39cM

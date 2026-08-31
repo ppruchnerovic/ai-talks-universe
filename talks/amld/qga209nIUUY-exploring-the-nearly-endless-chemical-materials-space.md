@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2026
 speakers: ["Phillippe Schwaller"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2026-02-13T09:00:27Z
 video_id: qga209nIUUY

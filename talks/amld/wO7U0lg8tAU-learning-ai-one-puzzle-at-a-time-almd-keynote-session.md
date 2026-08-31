@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Sharada Mohanty"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2022-05-02T12:53:37Z
 video_id: wO7U0lg8tAU

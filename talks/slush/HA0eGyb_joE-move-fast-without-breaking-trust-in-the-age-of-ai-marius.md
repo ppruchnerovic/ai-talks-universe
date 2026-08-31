@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Marius Hobbhahn"]
-channel: "Slush"
+channel: null
 duration_min: 30
 published_at: 2025-11-28T09:39:48Z
 video_id: HA0eGyb_joE

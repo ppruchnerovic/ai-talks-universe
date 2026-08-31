@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Gostev"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-04-24T14:30:06Z
 video_id: R7A8rX-09Zw

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Jan Kislinger"]
-channel: "PyData"
+channel: null
 duration_min: 41
 published_at: 2026-01-08T18:05:25Z
 video_id: ES7GsF_1Y_I

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brian Scanlan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-05-15T13:00:06Z
 video_id: 4_VQBbs2iQA

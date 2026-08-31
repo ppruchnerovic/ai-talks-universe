@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Peter Sarlin"]
-channel: "Slush"
+channel: null
 duration_min: 24
 published_at: 2025-11-28T22:01:06Z
 video_id: uGDeqlA4mrg

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kenny Workman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-31T20:00:35Z
 video_id: 3ZMUiFaQ3qg

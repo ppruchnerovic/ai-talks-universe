@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["J. Wolfgang Goerlich", "Oakland County"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 57
 published_at: 2025-05-08T17:06:41Z
 video_id: IisxwCmHS9I

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Claude Fable"]
-channel: "AI Engineer"
+channel: null
 duration_min: 52
 published_at: 2026-07-15T00:00:00Z
 video_id: uU5Gv2h8-9g

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stephen Chin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 4
 published_at: 2025-07-22T19:45:05Z
 video_id: ypyvj_56sBU

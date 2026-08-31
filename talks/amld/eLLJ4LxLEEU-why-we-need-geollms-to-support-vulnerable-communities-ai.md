@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Maaz Sheikh"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 8
 published_at: 2024-05-13T13:12:40Z
 video_id: eLLJ4LxLEEU

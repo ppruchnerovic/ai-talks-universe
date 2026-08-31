@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dippu Singh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-04-08T00:00:00Z
 video_id: IEF842ZEU5A

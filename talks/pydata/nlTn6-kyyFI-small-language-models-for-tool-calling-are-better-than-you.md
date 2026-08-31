@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Gabi Kadlecova"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-08-04T22:20:26Z
 video_id: nlTn6-kyyFI

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["James Eastham"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2026-02-05T11:04:56Z
 video_id: EDwtofkScdI

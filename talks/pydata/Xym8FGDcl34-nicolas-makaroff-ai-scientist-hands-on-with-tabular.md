@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Nicolas Makaroff"]
-channel: "PyData"
+channel: null
 duration_min: 88
 published_at: 2026-06-19T15:48:46Z
 video_id: Xym8FGDcl34

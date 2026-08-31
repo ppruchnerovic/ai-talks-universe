@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kshetrajna Raghavan", "Ricardo Tejedor", "Senior Taxonomist"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 33
 published_at: 2025-11-20T08:06:35Z
 video_id: S6Q-79F1_Uw

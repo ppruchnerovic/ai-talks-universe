@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Chris Kucharczyk"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2025-11-21T16:26:03Z
 video_id: k8HCCZ7FNOE

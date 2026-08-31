@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Maximillian Piras"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-07-21T19:12:09Z
 video_id: BZtD0yYAgCQ

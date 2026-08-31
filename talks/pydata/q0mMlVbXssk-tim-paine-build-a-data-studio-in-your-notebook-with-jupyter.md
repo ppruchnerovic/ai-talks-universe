@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Tim Paine"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2025-11-21T16:25:53Z
 video_id: q0mMlVbXssk

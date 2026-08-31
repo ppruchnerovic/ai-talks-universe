@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Phil Nash"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 50
 published_at: 2026-07-06T11:27:43Z
 video_id: 2r47_vCEkyo

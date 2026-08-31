@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Shirsha Chaudhuri"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-04-23T16:00:05Z
 video_id: xq9sz5MksVI

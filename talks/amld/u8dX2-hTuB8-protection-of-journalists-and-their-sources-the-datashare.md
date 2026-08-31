@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Wouter Lueks"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2022-04-22T14:39:57Z
 video_id: u8dX2-hTuB8

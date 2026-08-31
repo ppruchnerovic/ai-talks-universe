@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Oskari Saarenmaa"]
-channel: "Slush"
+channel: null
 duration_min: 31
 published_at: 2025-12-01T06:30:50Z
 video_id: qk6wvkomSc0

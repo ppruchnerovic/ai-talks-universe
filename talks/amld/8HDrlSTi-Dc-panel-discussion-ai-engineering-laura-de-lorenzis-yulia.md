@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Laura De Lorenzis"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2022-04-22T15:05:30Z
 video_id: 8HDrlSTi-Dc

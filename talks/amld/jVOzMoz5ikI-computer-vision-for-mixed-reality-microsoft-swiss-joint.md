@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Marc Pollefeys"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 36
 published_at: 2022-05-12T11:48:57Z
 video_id: jVOzMoz5ikI

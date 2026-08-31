@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Abhishek Bhardwaj"]
-channel: "AI Engineer"
+channel: null
 duration_min: 45
 published_at: 2026-07-13T00:00:00Z
 video_id: OqM67QG_Ikk

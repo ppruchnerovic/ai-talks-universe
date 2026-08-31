@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Clare Liguori"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-28T00:00:00Z
 video_id: pqlWNihgdjI

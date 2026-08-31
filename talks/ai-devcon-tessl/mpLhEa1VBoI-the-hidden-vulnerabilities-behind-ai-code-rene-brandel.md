@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["René Brandel"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 61
 published_at: 2025-11-18T14:01:33Z
 video_id: mpLhEa1VBoI

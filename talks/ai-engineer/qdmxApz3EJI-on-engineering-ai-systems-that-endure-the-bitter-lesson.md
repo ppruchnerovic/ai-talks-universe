@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Omar Khattab"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-08-06T16:15:49Z
 video_id: qdmxApz3EJI

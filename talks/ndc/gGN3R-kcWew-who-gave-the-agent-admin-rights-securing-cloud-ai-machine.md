@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Bodhisattva Das"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-05-06T11:34:14Z
 video_id: gGN3R-kcWew

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Jeremy Watson"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2024-05-13T12:34:56Z
 video_id: 7QPLMTrTQZg

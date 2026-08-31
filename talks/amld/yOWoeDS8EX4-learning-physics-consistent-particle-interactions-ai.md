@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Zhichao Han"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 7
 published_at: 2022-05-02T08:19:25Z
 video_id: yOWoeDS8EX4

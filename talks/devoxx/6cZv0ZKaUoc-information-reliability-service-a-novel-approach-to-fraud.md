@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
 speakers: ["Information Reliability Service"]
-channel: "Devoxx"
+channel: null
 duration_min: 36
 published_at: 2025-01-20T19:58:28Z
 video_id: 6cZv0ZKaUoc

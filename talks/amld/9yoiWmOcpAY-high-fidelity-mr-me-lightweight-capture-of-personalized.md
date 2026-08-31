@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Chen Guo"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2022-05-02T08:07:21Z
 video_id: 9yoiWmOcpAY

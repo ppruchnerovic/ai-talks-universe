@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Stefan Reitmann"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 28
 published_at: 2022-04-22T14:24:32Z
 video_id: 6G_wFYpHrew

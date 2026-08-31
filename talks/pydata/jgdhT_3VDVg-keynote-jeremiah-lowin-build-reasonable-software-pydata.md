@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Keynote- Jeremiah Lowin"]
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2026-06-15T15:55:08Z
 video_id: jgdhT_3VDVg

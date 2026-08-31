@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Austen Wallis"]
-channel: "PyData"
+channel: null
 duration_min: 37
 published_at: 2026-06-15T15:52:18Z
 video_id: Ln0MptWOjSc

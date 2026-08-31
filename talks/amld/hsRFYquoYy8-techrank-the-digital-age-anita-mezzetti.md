@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Anita Mezzetti"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 10
 published_at: 2024-05-15T12:52:12Z
 video_id: hsRFYquoYy8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Diane Lin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 26
 published_at: 2026-07-20T06:25:22Z
 video_id: wEc9aG7cRQc

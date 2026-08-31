@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Rumman Chowdhury", "Artificial Intelligence", "Humane Intelligence"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 23
 published_at: 2024-06-10T21:13:56Z
 video_id: 1vN8Hz-WmHs

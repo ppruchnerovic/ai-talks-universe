@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Allie Howe"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2025-06-16T20:29:50Z
 video_id: n6wHJDqlS1I

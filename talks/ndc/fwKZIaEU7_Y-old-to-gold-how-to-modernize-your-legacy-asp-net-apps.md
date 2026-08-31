@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Jonathan J Tower"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2025-06-10T08:04:54Z
 video_id: fwKZIaEU7_Y

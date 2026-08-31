@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Edward Grefenstette"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 31
 published_at: 2023-10-05T16:18:24Z
 video_id: JZO4XiHhkJI

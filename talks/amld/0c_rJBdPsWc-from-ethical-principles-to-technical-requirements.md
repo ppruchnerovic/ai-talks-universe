@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Mattia Ferrini"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 28
 published_at: 2024-05-15T11:58:26Z
 video_id: 0c_rJBdPsWc

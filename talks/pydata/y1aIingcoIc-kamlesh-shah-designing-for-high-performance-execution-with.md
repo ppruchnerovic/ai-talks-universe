@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Kamlesh Shah"]
-channel: "PyData"
+channel: null
 duration_min: 39
 published_at: 2026-06-15T15:55:10Z
 video_id: y1aIingcoIc

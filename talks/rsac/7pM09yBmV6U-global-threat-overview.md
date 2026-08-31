@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Alex Stamos", "Chief Trust Officer"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 50
 published_at: 2024-06-10T21:13:56Z
 video_id: 7pM09yBmV6U

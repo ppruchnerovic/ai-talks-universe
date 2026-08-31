@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Photovoltaic Power Generation Nowcasting", "Emanuele Giovanni Carlo Ogliari"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2022-04-20T08:53:14Z
 video_id: 2TiczVOmy3w

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kent C Dodds"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-06-03T07:00:07Z
 video_id: EyZiAp0pelw

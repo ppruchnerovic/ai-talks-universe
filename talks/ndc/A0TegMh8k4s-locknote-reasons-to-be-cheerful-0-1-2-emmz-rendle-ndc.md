@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Emmz Rendle"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 57
 published_at: 2026-08-12T06:54:37Z
 video_id: A0TegMh8k4s

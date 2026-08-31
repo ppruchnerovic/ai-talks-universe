@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Everett Berry"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-26T00:00:00Z
 video_id: UhCY231d0FQ

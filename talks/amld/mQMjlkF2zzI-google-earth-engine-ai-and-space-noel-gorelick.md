@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Google Earth Engine", "Noel Gorelick"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2024-05-15T12:59:08Z
 video_id: mQMjlkF2zzI

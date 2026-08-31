@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brandon Waselnuk"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-26T13:00:06Z
 video_id: BiG2ssibKGc

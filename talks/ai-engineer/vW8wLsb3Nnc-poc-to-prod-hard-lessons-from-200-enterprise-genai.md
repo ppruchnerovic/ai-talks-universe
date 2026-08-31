@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Randall Hunt"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-23T15:50:56Z
 video_id: vW8wLsb3Nnc

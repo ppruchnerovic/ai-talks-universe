@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2025
 speakers: ["Aude Colleville"]
-channel: "dotconferences"
+channel: null
 duration_min: 14
 published_at: 2025-02-13T13:41:43Z
 video_id: 53kJldtFkaQ

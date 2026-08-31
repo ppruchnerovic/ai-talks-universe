@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anna Marie Benzon"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2026-06-29T00:30:05Z
 video_id: LrGCT7G_rU8

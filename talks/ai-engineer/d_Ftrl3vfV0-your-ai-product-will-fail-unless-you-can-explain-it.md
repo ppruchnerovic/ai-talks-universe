@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Veronica Hylak"]
-channel: "AI Engineer"
+channel: null
 duration_min: 6
 published_at: 2026-07-05T03:10:50Z
 video_id: d_Ftrl3vfV0

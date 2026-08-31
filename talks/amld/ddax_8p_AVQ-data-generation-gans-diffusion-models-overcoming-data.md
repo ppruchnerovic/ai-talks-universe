@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Matteo Matteucci"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2024-05-15T06:59:55Z
 video_id: ddax_8p_AVQ

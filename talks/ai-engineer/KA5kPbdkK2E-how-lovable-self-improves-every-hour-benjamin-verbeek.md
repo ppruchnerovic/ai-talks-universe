@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benjamin Verbeek"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-06-02T16:00:33Z
 video_id: KA5kPbdkK2E

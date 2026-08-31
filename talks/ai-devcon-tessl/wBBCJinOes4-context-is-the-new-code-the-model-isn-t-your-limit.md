@@ -1,14 +1,14 @@
 ---
 id: wBBCJinOes4
-title: "Lamis Mukta on Context Engineering at Anthropic"
-slug: lamis-mukta-on-context-engineering-at-anthropic
+title: "Context Is the New Code: The Model Isn't Your Limit"
+slug: context-is-the-new-code-the-model-isn-t-your-limit
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 10
 published_at: 2026-08-24T13:30:23Z
 video_id: wBBCJinOes4
@@ -17,7 +17,7 @@ tags: []
 transcript: false
 ---
 
-# Lamis Mukta on Context Engineering at Anthropic
+# Context Is the New Code: The Model Isn't Your Limit
 
 **Speaker not identified**
 

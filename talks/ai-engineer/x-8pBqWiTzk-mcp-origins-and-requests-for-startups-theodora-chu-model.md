@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Theodora Chu"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-06-18T22:55:21Z
 video_id: x-8pBqWiTzk

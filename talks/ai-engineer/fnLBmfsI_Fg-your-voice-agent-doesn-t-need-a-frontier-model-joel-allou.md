@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: []
-channel: "AI Engineer"
+channel: null
 duration_min: 6
 published_at: 2026-07-20T06:25:15Z
 video_id: fnLBmfsI_Fg

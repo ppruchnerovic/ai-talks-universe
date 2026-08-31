@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Matt Crooks"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-06-15T15:55:08Z
 video_id: kl-5FWCrDTs

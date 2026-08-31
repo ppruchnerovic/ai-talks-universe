@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Samuel Messing"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 52
 published_at: 2025-09-30T13:01:32Z
 video_id: jCVvVVXcxbQ

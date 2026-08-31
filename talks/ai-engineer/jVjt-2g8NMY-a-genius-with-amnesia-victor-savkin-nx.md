@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Victor Savkin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-06-26T00:00:00Z
 video_id: jVjt-2g8NMY

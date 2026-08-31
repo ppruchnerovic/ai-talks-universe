@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tariq Shaukat"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-07-20T15:00:06Z
 video_id: VrpEyglYgeU

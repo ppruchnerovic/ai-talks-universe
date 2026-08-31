@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Dalila Salamani"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2022-04-21T14:36:20Z
 video_id: 9euB1jeksl0

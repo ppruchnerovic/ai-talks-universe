@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Guillaume Vernade"]
-channel: "AI Engineer"
+channel: null
 duration_min: 77
 published_at: 2026-05-18T15:00:06Z
 video_id: BcWFc3H7Khg

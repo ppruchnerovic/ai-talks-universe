@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Radoslava Svihrová"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2024-05-13T11:54:57Z
 video_id: tbZE01me4r0

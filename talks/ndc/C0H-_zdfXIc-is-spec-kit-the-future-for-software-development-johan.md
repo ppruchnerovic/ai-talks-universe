@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Johan Smarius"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-07-06T09:01:30Z
 video_id: C0H-_zdfXIc

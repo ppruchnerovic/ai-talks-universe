@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Shaun Smith", "Connecting Context"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 29
 published_at: 2026-06-26T07:43:50Z
 video_id: nfwNjmZSKMY

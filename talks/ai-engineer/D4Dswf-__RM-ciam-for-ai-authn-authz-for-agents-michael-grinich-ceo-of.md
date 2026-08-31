@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michael Grinich"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-21T00:00:00Z
 video_id: D4Dswf-__RM

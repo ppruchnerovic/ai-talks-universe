@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Itay Ben Haim"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 80
 published_at: 2023-05-29T05:19:19Z
 video_id: 8xYJfB8v-es

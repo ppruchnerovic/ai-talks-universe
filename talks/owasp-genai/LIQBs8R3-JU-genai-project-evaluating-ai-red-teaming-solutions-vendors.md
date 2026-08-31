@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Jason Ross"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 14
 published_at: 2026-07-20T00:08:33Z
 video_id: LIQBs8R3-JU

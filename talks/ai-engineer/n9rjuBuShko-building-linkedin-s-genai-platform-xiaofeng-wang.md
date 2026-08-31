@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Xiaofeng Wang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-04-16T00:00:00Z
 video_id: n9rjuBuShko

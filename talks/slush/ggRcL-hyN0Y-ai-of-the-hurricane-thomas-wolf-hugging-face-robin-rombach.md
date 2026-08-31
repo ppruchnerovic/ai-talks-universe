@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Thomas Wolf"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-11-26T15:11:15Z
 video_id: ggRcL-hyN0Y

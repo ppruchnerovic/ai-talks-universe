@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Gabriel Hubert"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-11-26T15:16:12Z
 video_id: 8CMmQ-KLG-c

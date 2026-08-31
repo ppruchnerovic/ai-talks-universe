@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kyle Jaejun Lee"]
-channel: "AI Engineer"
+channel: null
 duration_min: 9
 published_at: 2026-07-08T08:05:32Z
 video_id: 4kYl2_mqmnQ

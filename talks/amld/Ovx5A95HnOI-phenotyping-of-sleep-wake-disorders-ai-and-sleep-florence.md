@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Florence Aellen"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2024-05-13T11:27:56Z
 video_id: Ovx5A95HnOI

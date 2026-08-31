@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2025
 speakers: ["Behind Closed Doors"]
-channel: "Black Hat"
+channel: null
 duration_min: 42
 published_at: 2025-09-09T16:57:29Z
 video_id: 0NCnjx5wuns

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Federica Gerace"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 28
 published_at: 2024-05-24T08:10:39Z
 video_id: aPu02vqcvbw

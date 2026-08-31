@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Franz Wöllert"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2026-08-04T22:21:45Z
 video_id: qujnorOvVA4

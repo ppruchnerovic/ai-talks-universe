@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Davide Marzorati"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2024-05-13T11:50:08Z
 video_id: 611n_b0Iwuo

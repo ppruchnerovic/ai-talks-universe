@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aparna Dhinakaran"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-10T00:00:00Z
 video_id: Qvp9vw4jJQ8

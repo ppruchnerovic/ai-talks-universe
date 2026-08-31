@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Julia Usher"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 8
 published_at: 2024-05-13T12:34:38Z
 video_id: xj2VCL3V4GM

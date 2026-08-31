@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Bernardo Fichera"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2024-05-13T14:51:47Z
 video_id: YECGMkVO-1Q

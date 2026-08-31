@@ -8,7 +8,7 @@ category: "AI security"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: ["My Terrible Roommates"]
-channel: "BSidesLV"
+channel: null
 duration_min: 17
 published_at: 2024-09-04T22:15:16Z
 video_id: U-bK-WFJk_c

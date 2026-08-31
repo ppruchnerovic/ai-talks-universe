@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Marianna Rapsomaniki"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2022-04-20T08:12:26Z
 video_id: XlxYC6-ry2U

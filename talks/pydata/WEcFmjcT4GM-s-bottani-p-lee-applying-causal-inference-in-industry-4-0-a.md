@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: []
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2025-11-21T16:26:36Z
 video_id: WEcFmjcT4GM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Suman Debnath"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-27T10:44:12Z
 video_id: Q3NreEAdKMc

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Richard Campbell"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 52
 published_at: 2026-02-09T14:29:10Z
 video_id: 65TGxZ9yHT0

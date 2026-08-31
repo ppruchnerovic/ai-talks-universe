@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Marcin Pietrzyk"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2022-04-22T14:45:48Z
 video_id: jNcH3gFzrHY

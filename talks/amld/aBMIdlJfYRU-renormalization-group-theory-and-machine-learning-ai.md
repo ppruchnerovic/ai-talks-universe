@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Giulio Biroli"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 42
 published_at: 2022-04-20T09:57:38Z
 video_id: aBMIdlJfYRU

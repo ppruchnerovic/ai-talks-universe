@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Pedram Hayati"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 41
 published_at: 2026-05-26T15:00:22Z
 video_id: 1tcir8BPP3M

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 19
 published_at: 2026-01-13T00:49:13Z
 video_id: _C1TMbZ7y_I

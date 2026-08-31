@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Tim Dudman"]
-channel: "CAMLIS"
+channel: null
 duration_min: 18
 published_at: 2025-11-14T06:59:22Z
 video_id: zOM_3yegTTQ

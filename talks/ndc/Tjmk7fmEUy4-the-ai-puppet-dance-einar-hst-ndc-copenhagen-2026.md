@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Einar Høst"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 57
 published_at: 2026-08-05T11:56:56Z
 video_id: Tjmk7fmEUy4

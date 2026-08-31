@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Dorian Guzman"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2022-05-23T08:33:19Z
 video_id: -xl5a9eSmx0

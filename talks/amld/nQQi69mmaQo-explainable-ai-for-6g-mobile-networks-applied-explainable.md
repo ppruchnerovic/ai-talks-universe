@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Claudio Fiandrino"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 27
 published_at: 2024-05-13T14:30:02Z
 video_id: nQQi69mmaQo

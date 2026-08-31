@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2025
 speakers: ["Jacob Torrey", "Marco Slaviero"]
-channel: "Black Hat"
+channel: null
 duration_min: 41
 published_at: 2025-04-25T16:49:46Z
 video_id: Brd-p6N0alI

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Operating Across Markets", "Marina Farthouat"]
-channel: "Slush"
+channel: null
 duration_min: 20
 published_at: 2025-11-28T13:43:43Z
 video_id: JguTdW8Oaao

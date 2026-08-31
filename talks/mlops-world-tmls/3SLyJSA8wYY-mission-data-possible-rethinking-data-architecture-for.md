@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Jörg Schad"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 32
 published_at: 2025-09-29T19:56:42Z
 video_id: 3SLyJSA8wYY

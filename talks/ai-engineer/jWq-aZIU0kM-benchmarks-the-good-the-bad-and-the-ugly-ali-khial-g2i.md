@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ali Khial"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-07-31T00:00:00Z
 video_id: jWq-aZIU0kM

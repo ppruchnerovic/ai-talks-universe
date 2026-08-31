@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Patrick Debois"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 31
 published_at: 2026-07-08T08:49:33Z
 video_id: I9RWrW32QEw

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["David Cramer"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 49
 published_at: 2025-08-12T13:00:31Z
 video_id: CjokRM4u3lY

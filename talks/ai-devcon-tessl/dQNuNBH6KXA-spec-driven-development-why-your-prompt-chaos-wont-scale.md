@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Macey Baker"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 16
 published_at: 2025-10-02T01:43:42Z
 video_id: dQNuNBH6KXA

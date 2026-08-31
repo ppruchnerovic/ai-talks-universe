@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Mike Woodward"]
-channel: "PyData"
+channel: null
 duration_min: 51
 published_at: 2026-03-05T03:22:36Z
 video_id: TI2g1w1BpWM

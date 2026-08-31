@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Denise Kutnick"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 21
 published_at: 2025-10-23T03:29:57Z
 video_id: oka0cGVDp8o

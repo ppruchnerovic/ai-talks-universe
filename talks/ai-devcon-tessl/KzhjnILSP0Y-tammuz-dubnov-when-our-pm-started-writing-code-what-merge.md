@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Tammuz Dubnov"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 27
 published_at: 2026-07-26T06:59:23Z
 video_id: KzhjnILSP0Y

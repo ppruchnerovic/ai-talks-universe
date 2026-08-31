@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Manu Goyal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 6
 published_at: 2025-06-27T10:51:45Z
 video_id: jJ45Yz1lJao

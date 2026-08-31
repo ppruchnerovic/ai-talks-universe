@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Prerit Munjal"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2026-02-24T13:00:52Z
 video_id: Fu4AWZd2XnI

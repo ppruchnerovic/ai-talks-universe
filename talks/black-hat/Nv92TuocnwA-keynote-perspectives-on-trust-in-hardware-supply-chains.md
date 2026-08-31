@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2025
 speakers: ["Bunnie Studios"]
-channel: "Black Hat"
+channel: null
 duration_min: 55
 published_at: 2025-09-25T18:02:15Z
 video_id: Nv92TuocnwA

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Dagmar Monett"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 39
 published_at: 2022-06-13T15:01:20Z
 video_id: Zn2oc24sIPI

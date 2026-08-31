@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Alex Gavrilescu"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 6
 published_at: 2025-10-19T13:36:49Z
 video_id: ABTOLOGJ6Oo

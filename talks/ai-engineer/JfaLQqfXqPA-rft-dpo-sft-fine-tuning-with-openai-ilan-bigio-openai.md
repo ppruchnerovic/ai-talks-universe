@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ilan Bigio"]
-channel: "AI Engineer"
+channel: null
 duration_min: 106
 published_at: 2025-06-23T16:00:06Z
 video_id: JfaLQqfXqPA

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Angie Jones"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 23
 published_at: 2025-09-09T09:43:59Z
 video_id: dRRp4mX8v1s

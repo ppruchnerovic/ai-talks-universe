@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Don Syme"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 65
 published_at: 2026-08-18T12:00:03Z
 video_id: quVzmAb9oqs

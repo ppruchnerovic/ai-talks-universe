@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
 speakers: ["Bret Fisher"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 42
 published_at: 2026-08-13T14:02:40Z
 video_id: TlTW0XLsTaY

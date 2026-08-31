@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
 speakers: ["Martin Stefanko"]
-channel: "Devoxx"
+channel: null
 duration_min: 45
 published_at: 2025-03-31T21:13:12Z
 video_id: VY72hHut3YE

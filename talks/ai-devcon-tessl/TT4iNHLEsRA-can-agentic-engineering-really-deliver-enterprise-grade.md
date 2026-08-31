@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Reuven Cohen"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 62
 published_at: 2025-09-23T13:01:00Z
 video_id: TT4iNHLEsRA

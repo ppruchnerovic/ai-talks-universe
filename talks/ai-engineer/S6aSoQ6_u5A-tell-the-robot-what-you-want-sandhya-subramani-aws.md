@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sandhya Subramani"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-29T18:30:17Z
 video_id: S6aSoQ6_u5A

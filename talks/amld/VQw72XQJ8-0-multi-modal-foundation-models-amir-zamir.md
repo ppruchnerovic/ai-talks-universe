@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Amir Zamir"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 28
 published_at: 2023-10-05T16:17:57Z
 video_id: VQw72XQJ8-0

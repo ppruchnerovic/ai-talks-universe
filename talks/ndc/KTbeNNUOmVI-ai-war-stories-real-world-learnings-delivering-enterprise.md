@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Adam Stephenson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2025-06-03T09:00:34Z
 video_id: KTbeNNUOmVI

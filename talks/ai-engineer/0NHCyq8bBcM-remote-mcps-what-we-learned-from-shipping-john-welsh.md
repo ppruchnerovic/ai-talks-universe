@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["John Welsh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-06-19T16:52:25Z
 video_id: 0NHCyq8bBcM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Flavien Solt"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2022-08-16T07:00:13Z
 video_id: obE4PIorDgY

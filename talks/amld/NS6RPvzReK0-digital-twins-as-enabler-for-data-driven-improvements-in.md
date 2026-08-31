@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Ali Baaj"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 25
 published_at: 2022-05-02T08:12:21Z
 video_id: NS6RPvzReK0

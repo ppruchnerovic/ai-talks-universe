@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2025
 speakers: ["Salahddine Aberkan"]
-channel: "dotconferences"
+channel: null
 duration_min: 11
 published_at: 2025-02-14T14:43:54Z
 video_id: a52aHgIu1oY

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Deeptech Commercialization", "Moritz von der Linden"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2025-11-28T13:27:49Z
 video_id: hv5aJJbNv5I

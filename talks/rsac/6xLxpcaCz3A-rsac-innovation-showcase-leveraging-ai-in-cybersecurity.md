@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["Sid Trivedi", "Foundation Capital"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 43
 published_at: 2025-02-26T22:57:31Z
 video_id: 6xLxpcaCz3A

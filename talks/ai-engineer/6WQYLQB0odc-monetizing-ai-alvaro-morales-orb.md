@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alvaro Morales"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-23T19:45:06Z
 video_id: 6WQYLQB0odc

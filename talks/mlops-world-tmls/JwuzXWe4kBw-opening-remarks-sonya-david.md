@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Sonya David"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 8
 published_at: 2023-08-18T01:36:56Z
 video_id: JwuzXWe4kBw

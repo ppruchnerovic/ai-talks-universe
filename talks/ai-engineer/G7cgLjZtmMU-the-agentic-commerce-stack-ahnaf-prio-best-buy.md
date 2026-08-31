@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ahnaf Prio"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-27T15:00:34Z
 video_id: G7cgLjZtmMU

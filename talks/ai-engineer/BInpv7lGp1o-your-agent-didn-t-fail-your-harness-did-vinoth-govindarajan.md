@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vinoth Govindarajan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-29T16:00:06Z
 video_id: BInpv7lGp1o

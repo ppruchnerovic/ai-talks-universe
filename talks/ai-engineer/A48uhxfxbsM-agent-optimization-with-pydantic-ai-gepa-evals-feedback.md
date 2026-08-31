@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Samuel Colvin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 81
 published_at: 2026-05-07T00:00:00Z
 video_id: A48uhxfxbsM

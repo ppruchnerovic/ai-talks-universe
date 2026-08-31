@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Cal Henderson"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-11-28T22:00:52Z
 video_id: lHknA0Pww8M

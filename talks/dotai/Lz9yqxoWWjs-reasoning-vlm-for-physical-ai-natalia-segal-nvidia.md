@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2025
 speakers: ["Natalia Segal"]
-channel: "dotconferences"
+channel: null
 duration_min: 20
 published_at: 2025-11-14T14:16:05Z
 video_id: Lz9yqxoWWjs

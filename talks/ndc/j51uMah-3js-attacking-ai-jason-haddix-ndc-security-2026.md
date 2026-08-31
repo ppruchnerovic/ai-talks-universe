@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Jason Haddix"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-03-26T14:10:04Z
 video_id: j51uMah-3js

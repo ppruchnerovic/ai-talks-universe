@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Mohamed Amine Jebari"]
-channel: "PyData"
+channel: null
 duration_min: 25
 published_at: 2026-08-04T22:20:38Z
 video_id: 9lExGn-JLFg

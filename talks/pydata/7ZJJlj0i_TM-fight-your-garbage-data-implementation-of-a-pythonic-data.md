@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Rostislaw Krassow", "Joshua Finger"]
-channel: "PyData"
+channel: null
 duration_min: 44
 published_at: 2026-08-04T22:21:28Z
 video_id: 7ZJJlj0i_TM

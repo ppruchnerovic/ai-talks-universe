@@ -8,7 +8,7 @@ category: "AI security"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Comparing Function Embeddings", "Rob Brandon"]
-channel: "BSidesLV"
+channel: null
 duration_min: 29
 published_at: 2019-10-19T17:41:59Z
 video_id: QXMpkmi9ybk

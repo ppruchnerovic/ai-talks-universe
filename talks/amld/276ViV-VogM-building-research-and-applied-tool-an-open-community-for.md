@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Thomas Wolf"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2022-04-29T08:05:50Z
 video_id: 276ViV-VogM

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Elias Torres"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2025-11-26T15:17:58Z
 video_id: dWG8e21Cr1E

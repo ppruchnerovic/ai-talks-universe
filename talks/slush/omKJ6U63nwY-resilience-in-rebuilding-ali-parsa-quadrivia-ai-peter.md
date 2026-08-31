@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Ali Parsa"]
-channel: "Slush"
+channel: null
 duration_min: 30
 published_at: 2025-11-26T15:14:13Z
 video_id: omKJ6U63nwY

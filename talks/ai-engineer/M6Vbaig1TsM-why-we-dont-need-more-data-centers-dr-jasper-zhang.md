@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dr. Jasper Zhang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-08-01T15:00:06Z
 video_id: M6Vbaig1TsM

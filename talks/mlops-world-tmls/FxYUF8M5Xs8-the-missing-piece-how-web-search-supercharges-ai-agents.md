@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Noah Nefsky", "Forward Deployed Engineer"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 6
 published_at: 2025-10-29T20:51:15Z
 video_id: FxYUF8M5Xs8

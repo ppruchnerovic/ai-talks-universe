@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Bissell"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2025-07-27T15:30:06Z
 video_id: 6AVMHZPjpTQ

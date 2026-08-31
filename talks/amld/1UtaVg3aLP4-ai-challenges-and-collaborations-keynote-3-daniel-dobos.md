@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Daniel Dobos"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 28
 published_at: 2024-05-13T13:59:08Z
 video_id: 1UtaVg3aLP4

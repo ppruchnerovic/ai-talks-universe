@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Jakob Uszkoreit"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2022-04-20T08:21:21Z
 video_id: -OpFg_A20eU

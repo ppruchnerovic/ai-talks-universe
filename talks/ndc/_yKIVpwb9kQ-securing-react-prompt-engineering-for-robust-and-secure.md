@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Jim Manico"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 60
 published_at: 2025-03-20T14:43:39Z
 video_id: _yKIVpwb9kQ

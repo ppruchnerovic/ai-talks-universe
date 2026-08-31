@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Emmanuel Guilherme Junior"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 38
 published_at: 2026-07-19T23:48:59Z
 video_id: SgqBYyafSzA

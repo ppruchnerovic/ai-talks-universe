@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Douwe Kiela"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-04-10T19:47:37Z
 video_id: kPL-6-9MVyA

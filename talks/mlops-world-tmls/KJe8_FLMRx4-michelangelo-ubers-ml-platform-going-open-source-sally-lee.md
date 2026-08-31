@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sally Lee", "Sr. Staff Engineer", "Eric Wang"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 32
 published_at: 2025-10-23T01:48:52Z
 video_id: KJe8_FLMRx4

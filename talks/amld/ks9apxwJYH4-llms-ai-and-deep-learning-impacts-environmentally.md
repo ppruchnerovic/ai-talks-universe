@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Clément Morand"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 26
 published_at: 2024-05-15T09:12:12Z
 video_id: ks9apxwJYH4

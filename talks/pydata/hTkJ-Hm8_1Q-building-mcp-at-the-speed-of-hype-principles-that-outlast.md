@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Rahkakavee Baskaran", "Friederike Bauer"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-08-04T22:20:40Z
 video_id: hTkJ-Hm8_1Q

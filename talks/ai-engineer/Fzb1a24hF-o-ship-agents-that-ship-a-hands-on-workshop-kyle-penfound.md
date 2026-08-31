@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kyle Penfound"]
-channel: "AI Engineer"
+channel: null
 duration_min: 81
 published_at: 2025-07-27T22:30:06Z
 video_id: Fzb1a24hF-o

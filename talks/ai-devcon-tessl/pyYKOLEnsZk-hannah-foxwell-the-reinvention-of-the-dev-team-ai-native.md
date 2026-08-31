@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Hannah Foxwell"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 35
 published_at: 2026-07-09T03:56:59Z
 video_id: pyYKOLEnsZk

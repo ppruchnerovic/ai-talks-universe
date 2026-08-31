@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Remy Guercio"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2026-06-01T15:00:31Z
 video_id: BM2JX9hqsVQ

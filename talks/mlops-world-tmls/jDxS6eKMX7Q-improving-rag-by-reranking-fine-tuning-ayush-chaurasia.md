@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Ayush Chaurasia"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 21
 published_at: 2025-09-29T19:48:41Z
 video_id: jDxS6eKMX7Q

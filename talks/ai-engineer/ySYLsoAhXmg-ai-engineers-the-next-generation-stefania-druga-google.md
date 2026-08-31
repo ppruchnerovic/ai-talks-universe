@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stefania Druga"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2025-04-13T00:00:00Z
 video_id: ySYLsoAhXmg

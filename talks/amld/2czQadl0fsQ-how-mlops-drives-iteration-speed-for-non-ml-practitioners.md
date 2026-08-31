@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Niels Uitterdijk"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2022-04-20T08:52:23Z
 video_id: 2czQadl0fsQ

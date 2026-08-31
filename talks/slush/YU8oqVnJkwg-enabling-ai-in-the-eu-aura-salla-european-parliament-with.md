@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Aura Salla"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-11-28T17:21:59Z
 video_id: YU8oqVnJkwg

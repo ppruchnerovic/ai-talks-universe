@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Yu Su"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-12T16:00:08Z
 video_id: I6aiEf3aEFQ

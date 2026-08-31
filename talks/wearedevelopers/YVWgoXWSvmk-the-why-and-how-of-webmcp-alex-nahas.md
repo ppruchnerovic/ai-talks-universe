@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Alex Nahas"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 53
 published_at: 2026-02-27T10:53:07Z
 video_id: YVWgoXWSvmk

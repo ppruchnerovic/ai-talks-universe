@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Anyscale"
 year: 2023
 speakers: []
-channel: "Anyscale"
+channel: null
 duration_min: 34
 published_at: 2023-02-09T01:55:01Z
 video_id: zjRPu-ykHHI

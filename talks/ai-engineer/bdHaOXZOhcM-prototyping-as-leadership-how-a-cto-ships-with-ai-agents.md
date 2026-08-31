@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hursh Agrawal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-08-20T14:00:21Z
 video_id: bdHaOXZOhcM

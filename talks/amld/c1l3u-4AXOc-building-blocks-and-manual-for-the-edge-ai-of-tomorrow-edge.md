@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Niko Vuokko"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 46
 published_at: 2022-04-26T08:44:05Z
 video_id: c1l3u-4AXOc

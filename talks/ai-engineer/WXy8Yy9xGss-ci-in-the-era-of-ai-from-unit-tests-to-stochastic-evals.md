@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nathan Sobo"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-06-27T00:00:00Z
 video_id: WXy8Yy9xGss

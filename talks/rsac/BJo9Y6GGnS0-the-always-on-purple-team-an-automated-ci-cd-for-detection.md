@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Stephen Sims", "Offensive Operations Curriculum Lead"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 49
 published_at: 2024-06-10T21:15:23Z
 video_id: BJo9Y6GGnS0

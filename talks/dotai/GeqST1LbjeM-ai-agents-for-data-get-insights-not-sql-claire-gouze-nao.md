@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2025
 speakers: ["Claire Gouze"]
-channel: "dotconferences"
+channel: null
 duration_min: 9
 published_at: 2025-11-14T14:16:05Z
 video_id: GeqST1LbjeM

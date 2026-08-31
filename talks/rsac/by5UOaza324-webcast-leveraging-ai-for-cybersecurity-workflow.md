@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["Gideon Aina", "Senior Lead Engineer"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 54
 published_at: 2025-08-05T16:33:02Z
 video_id: by5UOaza324

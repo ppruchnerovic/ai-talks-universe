@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Patrick Schwab"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2022-04-22T15:07:59Z
 video_id: zD8iMBoFncI

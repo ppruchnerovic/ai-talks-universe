@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
 speakers: ["Bootstrapping Microservices"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 40
 published_at: 2024-10-25T09:37:34Z
 video_id: 06M1ahM3g5A

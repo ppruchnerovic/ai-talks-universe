@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Nicolas Perez Gonzalez"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2022-05-03T11:57:33Z
 video_id: 1EpWbxe_LRM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Soon Hoe Lim"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 7
 published_at: 2022-04-22T14:30:33Z
 video_id: p147ueuniKI

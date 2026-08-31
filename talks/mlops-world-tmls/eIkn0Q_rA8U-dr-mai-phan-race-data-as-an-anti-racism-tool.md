@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2021
 speakers: ["Dr. Mai Phan"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 63
 published_at: 2021-05-26T16:00:18Z
 video_id: eIkn0Q_rA8U

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Uri Rolls"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-24T05:19:15Z
 video_id: O-CBZ3JtRvo

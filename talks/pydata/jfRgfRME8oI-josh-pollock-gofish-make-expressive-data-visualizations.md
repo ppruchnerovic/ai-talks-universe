@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Josh Pollock"]
-channel: "PyData"
+channel: null
 duration_min: 50
 published_at: 2026-04-06T05:46:18Z
 video_id: jfRgfRME8oI

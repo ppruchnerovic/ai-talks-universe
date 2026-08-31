@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eric Hou"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-24T15:01:06Z
 video_id: Zniw5c9_jx8

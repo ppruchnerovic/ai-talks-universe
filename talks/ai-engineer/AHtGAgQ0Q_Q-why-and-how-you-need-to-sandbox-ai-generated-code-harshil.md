@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Harshil Agrawal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 38
 published_at: 2026-04-08T08:30:06Z
 video_id: AHtGAgQ0Q_Q

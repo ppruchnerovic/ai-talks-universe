@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Johannes Schleiss"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 13
 published_at: 2024-06-18T11:16:39Z
 video_id: s_gQUFIzprE

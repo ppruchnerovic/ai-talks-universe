@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Alain Vaucher"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2022-04-20T08:18:32Z
 video_id: Q3_zmbLIfAI

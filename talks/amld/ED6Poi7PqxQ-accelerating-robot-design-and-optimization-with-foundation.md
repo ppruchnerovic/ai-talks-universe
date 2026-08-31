@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Josie Hughes"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 24
 published_at: 2023-10-05T16:18:20Z
 video_id: ED6Poi7PqxQ

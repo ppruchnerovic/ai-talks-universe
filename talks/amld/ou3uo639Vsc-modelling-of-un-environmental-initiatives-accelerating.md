@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Anne Sietsma"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 28
 published_at: 2024-05-13T08:17:25Z
 video_id: ou3uo639Vsc

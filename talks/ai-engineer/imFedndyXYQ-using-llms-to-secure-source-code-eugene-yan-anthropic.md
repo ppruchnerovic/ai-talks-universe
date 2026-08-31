@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eugene Yan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-07-17T21:27:20Z
 video_id: imFedndyXYQ

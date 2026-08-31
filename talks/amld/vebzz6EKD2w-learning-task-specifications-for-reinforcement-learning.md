@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["David Lindner"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 24
 published_at: 2022-05-02T14:29:43Z
 video_id: vebzz6EKD2w

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Scott Wu"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-07-25T00:00:00Z
 video_id: MI83buT_23o

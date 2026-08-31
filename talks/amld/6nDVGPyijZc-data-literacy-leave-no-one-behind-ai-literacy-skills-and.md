@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Diego Kuonen"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2024-05-15T12:20:29Z
 video_id: 6nDVGPyijZc

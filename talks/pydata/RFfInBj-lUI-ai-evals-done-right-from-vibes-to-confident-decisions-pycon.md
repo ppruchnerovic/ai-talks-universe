@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Martin Seeler"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-04T22:21:18Z
 video_id: RFfInBj-lUI

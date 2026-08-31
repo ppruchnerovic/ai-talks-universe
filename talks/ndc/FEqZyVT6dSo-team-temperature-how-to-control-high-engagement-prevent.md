@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: []
-channel: "NDC Conferences"
+channel: null
 duration_min: 29
 published_at: 2025-04-25T19:36:45Z
 video_id: FEqZyVT6dSo

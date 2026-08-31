@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jaspreet Singh"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-23T15:51:31Z
 video_id: _zl_zimMRak

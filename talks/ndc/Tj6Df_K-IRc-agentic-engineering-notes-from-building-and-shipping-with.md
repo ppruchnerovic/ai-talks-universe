@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Mats Oustad"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-07-01T13:52:59Z
 video_id: Tj6Df_K-IRc

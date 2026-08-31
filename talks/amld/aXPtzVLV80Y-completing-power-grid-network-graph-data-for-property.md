@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Jeffrey R. Bohn"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 35
 published_at: 2022-05-02T08:21:30Z
 video_id: aXPtzVLV80Y

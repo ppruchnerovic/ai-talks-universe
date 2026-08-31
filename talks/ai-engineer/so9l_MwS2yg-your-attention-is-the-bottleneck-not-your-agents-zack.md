@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zack Proser"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-06-11T14:00:06Z
 video_id: so9l_MwS2yg

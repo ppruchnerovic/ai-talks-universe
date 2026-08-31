@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raphael Kalandadze"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-05T03:15:05Z
 video_id: kZsf_Sfm7RU

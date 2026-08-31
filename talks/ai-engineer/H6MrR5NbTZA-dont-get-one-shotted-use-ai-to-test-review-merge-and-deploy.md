@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tomas Reimers"]
-channel: "AI Engineer"
+channel: null
 duration_min: 6
 published_at: 2025-06-27T00:00:00Z
 video_id: H6MrR5NbTZA

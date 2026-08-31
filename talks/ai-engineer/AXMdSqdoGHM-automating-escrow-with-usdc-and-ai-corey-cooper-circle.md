@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Corey Cooper"]
-channel: "AI Engineer"
+channel: null
 duration_min: 58
 published_at: 2025-07-14T00:00:00Z
 video_id: AXMdSqdoGHM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Nikunj Bajaj"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 31
 published_at: 2024-05-15T18:17:48Z
 video_id: TBGRFoNOlrs

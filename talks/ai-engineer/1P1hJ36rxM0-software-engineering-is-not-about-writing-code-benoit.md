@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benoit Schillings"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-17T00:00:00Z
 video_id: 1P1hJ36rxM0

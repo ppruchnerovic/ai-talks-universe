@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Margaritha Groenendijk"]
-channel: "PyData"
+channel: null
 duration_min: 44
 published_at: 2026-06-15T15:55:08Z
 video_id: ghcE1nG_3JM

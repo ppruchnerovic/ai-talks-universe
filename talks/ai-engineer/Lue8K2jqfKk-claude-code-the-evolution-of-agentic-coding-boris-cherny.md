@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Boris Cherny"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-04T00:00:00Z
 video_id: Lue8K2jqfKk

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Niv Hertz"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 47
 published_at: 2023-11-10T17:22:02Z
 video_id: hTNqD0wi98o

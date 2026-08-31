@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Olive Song"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-12-13T17:15:06Z
 video_id: lY1iFbDPRlw
