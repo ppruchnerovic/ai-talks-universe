@@ -62,7 +62,8 @@
       "priority": 2,
       "min_duration": 300,
       "sources": [
-        {"type": "channel", "url": "https://www.youtube.com/@_wearedevs/videos", "label": "WeAreDevelopers", "first": 700}
+        {"type": "channel", "url": "https://www.youtube.com/@_wearedevs/videos", "label": "WeAreDevelopers", "first": 700},
+        {"type": "videos", "seed": "wearedevelopers-wwc26.json", "url": "https://app.wearedevelopers.com/events/16", "label": "World Congress 2026", "year": 2026, "scope": "all", "min_duration": 0}
       ]
     },
     {

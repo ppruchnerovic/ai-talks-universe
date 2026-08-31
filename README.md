@@ -4,7 +4,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences �
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**6,979 talks from 46 conferences.** The curated list of which conferences and
+**7,336 talks from 46 conferences.** The curated list of which conferences and
 why is [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror,
 which the pipeline actually reads, is [`conferences.json`](conferences.json).
 
@@ -23,10 +23,21 @@ built in two stages that cost very different things.
 | **Enumerate** (`sync_catalog.py --refresh`) | cheap, one page request per 100 videos | video id, title, duration, channel |
 | **Enrich** (`enrich.py`) | 1 API unit per 50 videos, or ~1.4s per video without a key | description, publish date, YouTube tags |
 | **Transcribe** (`fetch_transcripts.py`) | one Supadata credit per talk, or metered per IP on the free routes | every word spoken, with timings |
+| **Import** (`import_kb.py`) | free, offline | a conference YouTube will not list, from an agenda that already knows it |
 
 Each stage caches to disk and is resumable, and the corpus is re-derived from
 those caches offline. That separation is the point: enumeration can be redone
 weekly for nothing, while transcripts accumulate over months.
+
+Enumeration has one blind spot, and it is not a small one: a recording that is
+**unlisted** is on YouTube but on no channel page and no playlist, so no amount
+of paging finds it. The WeAreDevelopers World Congress publishes 358 talks that
+way — enumeration of its channel found exactly one of them. What knows those
+video ids is the congress's own agenda, so for such a conference the registry
+carries a source of `"type": "videos"` that reads a file in `data/seeds/`
+instead of a URL. `import_kb.py` writes one from a corpus built against an
+agenda API, together with the transcripts that corpus already had, and
+everything downstream then treats those talks like any other.
 
 ### What survives into the corpus
 
@@ -34,11 +45,15 @@ A conference registered with `"scope": "all"` contributes everything it
 publishes. One registered `"scope": "ai"` — NDC, GOTO, KubeCon, re:Invent,
 Black Hat and the other general conferences with AI tracks — contributes only
 the sessions whose title, description or tags match the AI vocabulary in
-`tools/atu.py`. Without that, an *AI* talks corpus would be four fifths
+`tools/atu.py`. A single source can override its conference: the
+WeAreDevelopers World Congress seed carries `"scope": "all"`, because a
+curated agenda is a programme rather than a channel's uploads, and its
+security, testing and platform sessions are worth having whether or not they
+say "AI". Without that, an *AI* talks corpus would be four fifths
 Kubernetes networking and iOS layout. Each conference also carries a minimum
 duration, which drops the stings, trailers and sponsor spots channels mix in.
 
-Of 14,797 videos enumerated, 6,979 survive. `sync_catalog.py` prints exactly
+Of 15,154 videos enumerated, 7,336 survive. `sync_catalog.py` prints exactly
 what each conference dropped and why.
 
 ## Layout
@@ -51,6 +66,7 @@ what each conference dropped and why.
 │   ├── talks.json                 canonical corpus — the source of truth
 │   ├── talks.csv                  same thing for spreadsheets
 │   ├── catalog/<conf>.json        raw enumeration + collected details, per conference
+│   ├── seeds/<name>.json          talks enumeration cannot see, listed outright
 │   ├── transcripts/<video_id>.json  exact caption timings, one file per talk
 │   ├── talks.db                   SQLite + FTS5, used by query.py (gitignored)
 │   ├── search-meta.json           compact metadata the browser loads up front
@@ -61,6 +77,7 @@ what each conference dropped and why.
     ├── sync_catalog.py            registry -> talks.json + csv + markdown
     ├── enrich.py                  descriptions, dates and tags
     ├── fetch_transcripts.py       YouTube captions -> transcripts/   (run locally)
+    ├── import_kb.py               another corpus -> seeds/ + transcripts/ (offline)
     ├── build_index.py             everything -> talks.db + browser index
     ├── query.py                   ranked search from the terminal
     ├── check_registry.py          conferences.json vs ai-conferences.md
@@ -147,6 +164,18 @@ more than their conference, and a channel for a dedicated conference channel.
 `"first": N` caps how deep a channel listing is paged; channels list newest
 first, so it is a recency cap.
 
+If the recordings are unlisted, no source URL will reach them. Register a seed
+instead — `{"type": "videos", "seed": "<file>.json", "url": ..., "label": ...,
+"year": ...}` — and put the ids in `data/seeds/<file>.json`. Reading a seed is
+reading a file, so `sync_catalog.py` folds it in on every run, `--refresh` or
+not, and a seed's own abstracts, speakers and tags win over what enrichment
+would collect: they come from the programme, not from a channel description.
+`import_kb.py` writes the seed for a conference whose agenda was already
+harvested elsewhere. A source may also carry its own `scope`, `min_duration`,
+`match` or `exclude`, overriding the conference's — which is how one
+conference contributes its whole congress programme through a seed while its
+channel listing still contributes only the AI talks.
+
 ### Descriptions, dates and tags
 
 `enrich.py` prefers the YouTube Data API and falls back to yt-dlp:
@@ -167,7 +196,7 @@ export lives in `~/.bash_profile` it will not reach a non-login shell — put it
 in `~/.bashrc`, or source it explicitly.
 
 `videos.list` bills one unit per call and takes 50 video ids at a time, so the
-corpus costs about 140 units and `--all` over the full 14,797-video catalogue
+corpus costs about 140 units and `--all` over the full 15,154-video catalogue
 about 296 — 3% of a day's allowance, which is why a re-enrichment is never the
 thing to ration. Without a key it is a full yt-dlp extraction per video —
 roughly an hour for the corpus at two workers, and it draws on the same IP
@@ -225,7 +254,7 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,159 of the 6,979 talks are 2026 —
+`--min-year 2026` keeps only those years — 2,516 of the 7,336 talks are 2026 —
 and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. Nothing is removed from the corpus by
 this: it is a selection filter, and `query.py --year` still reads every year.

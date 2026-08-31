@@ -24,7 +24,9 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 ### WeAreDevelopers
 - Site: https://www.wearedevelopers.com/en
 - YouTube: https://www.youtube.com/@_wearedevs/videos
+- Agenda: https://app.wearedevelopers.com/events/16 (World Congress 2026, seeded — see below)
 - Europe's largest developer congress (Berlin), heavy AI programming. ✅ free.
+- The World Congress recordings are on that channel but **not on its `/videos` tab**, so enumeration cannot reach them: exactly 1 of the 358 congress talks turned up in the 700 videos it lists. Their ids come from the congress agenda API instead, via the corpus at `../presentations/kb`, and are registered as a `"videos"` source reading `data/seeds/wearedevelopers-wwc26.json`. `import_kb.py` writes that seed; nothing about it touches the network. That source carries `"scope": "all"`, so the whole congress programme is kept — the security, testing, reliability and platform sessions included — while the channel listing above stays filtered to AI talks.
 
 ### AI DevCon (Tessl)
 - Site: https://tessl.io/devcon/

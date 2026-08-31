@@ -18,5 +18,10 @@
     "conference": "code-with-claude",
     "reason": "LookupError",
     "detail": "yt-dlp: [info] There are no subtitles for the requested languages"
+  },
+  "OFDm3T7pVlc": {
+    "conference": "code-with-claude",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
   }
 }

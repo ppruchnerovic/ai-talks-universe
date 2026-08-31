@@ -11,6 +11,11 @@ So this script does the same job in two stages:
      data/catalog/<slug>.json, which is also where enrich.py writes the
      descriptions and publish dates it collects.
 
+     A source of type "videos" is enumerated from a file in data/seeds/ instead
+     — for a conference whose recordings exist on YouTube but are not listed on
+     any channel or playlist, so no amount of paging will find them. That costs
+     no network at all, so it is folded in on every run, --refresh or not.
+
   2. DERIVE. Filters (duration, title regex, and for general conferences the
      AI-relevance test) turn the raw catalogue into the corpus:
 
@@ -106,6 +111,102 @@ def enumerate_source(src: dict, timeout: int = 600) -> list[dict]:
     return out
 
 
+SEEDS = atu.DATA / "seeds"
+
+# The keys a seed may carry beyond what a flat listing has. They come from a
+# conference's own agenda rather than from YouTube, which is the point of a
+# seed: descriptions written by the programme committee, the speakers stated
+# rather than guessed from the title, and the session's own page.
+SEED_FIELDS = ("description", "speakers", "tags", "published_at", "session_page")
+
+
+def enumerate_seed(src: dict, conf: dict) -> list[dict]:
+    """Read one seed file — a source that is a list of video ids, not a listing.
+
+    Unlisted recordings are invisible to enumeration however deep it pages, so
+    for those the registry points at a file instead of a URL. import_kb.py
+    writes it; this reads it, and the merge below is the same one every other
+    source gets, so the two kinds of source compose.
+    """
+    path = SEEDS / src["seed"]
+    if not path.exists():
+        print(f"    ! seed not found: {path.relative_to(atu.ROOT)}")
+        return []
+    with path.open(encoding="utf-8") as f:
+        seed = json.load(f)
+    out = []
+    for r in seed.get("videos", []):
+        vid = r.get("video_id")
+        if not vid or len(vid) != 11:
+            continue
+        rec = {
+            "video_id": vid,
+            "title": " ".join((r.get("title") or "").split()),
+            "duration_s": r.get("duration_s"),
+            "channel": r.get("channel") or seed.get("channel"),
+            "label": r.get("label") or src.get("label") or seed.get("label"),
+            "year": r.get("year") or src.get("year") or seed.get("year"),
+            "source_url": src["url"],
+            # A seed is already a details fetch, done better: enrich.py skips
+            # anything stamped, so the agenda abstract is not later overwritten
+            # with the channel boilerplate YouTube carries under these talks.
+            "details_at": seed.get("generated_at"),
+        }
+        for k in SEED_FIELDS:
+            if r.get(k):
+                rec[k] = r[k]
+        out.append(rec)
+    return out
+
+
+def merge_source(videos: dict, src: dict, found: list[dict]) -> None:
+    """Fold one source's listing into the cached catalogue, in place.
+
+    Everything this source used to hold that it no longer lists is gone —
+    unlisted, deleted or moved. Other sources' videos are untouched. What a
+    previous run collected about a video that is still listed survives, so
+    enrichment is not undone by a re-enumeration; a seed's own fields win over
+    it, because there the agenda is the better source and not a guess.
+    """
+    ids = {f["video_id"] for f in found}
+    for vid, v in list(videos.items()):
+        if v.get("source_url") == src["url"] and vid not in ids:
+            del videos[vid]
+    for f in found:
+        prev = videos.get(f["video_id"], {})
+        carried = {k: prev[k] for k in ("description", "published_at", "tags", "details_at")
+                   if k in prev and k not in f}
+        videos[f["video_id"]] = {**f, **carried}
+
+
+def sync_seeds(reg: dict) -> None:
+    """Fold every "videos" source into its catalogue. Offline, so unconditional.
+
+    Written only when something changed, which keeps a plain rebuild
+    byte-identical and keeps a sync that runs alongside a transcript fetch from
+    touching files nobody asked it to.
+    """
+    for conf in reg["conferences"]:
+        seeds = [s for s in conf["sources"] if s.get("type") == "videos"]
+        if not seeds:
+            continue
+        cat = atu.load_catalog(conf["slug"])
+        before = json.dumps(cat, ensure_ascii=False, sort_keys=True)
+        videos = cat.setdefault("videos", {})
+        meta = [m for m in cat.get("sources", [])
+                if m.get("url") not in {s["url"] for s in seeds}]
+        for src in seeds:
+            found = enumerate_seed(src, conf)
+            merge_source(videos, src, found)
+            meta.append({"url": src["url"], "label": src.get("label"),
+                         "year": src.get("year"), "count": len(found), "type": "videos"})
+        cat.update({"slug": conf["slug"], "name": conf["name"], "sources": meta,
+                    "count": len(videos), "videos": dict(sorted(videos.items()))})
+        if json.dumps(cat, ensure_ascii=False, sort_keys=True) != before:
+            atu.write_json(atu.catalog_path(conf["slug"]), cat)
+            print(f"  seeded {conf['slug']}: {cat['count']} videos cached")
+
+
 def refresh_conference(conf: dict, pace: float) -> dict:
     """Re-enumerate every source and merge into the cached catalogue.
 
@@ -119,6 +220,8 @@ def refresh_conference(conf: dict, pace: float) -> dict:
     sources_meta = []
 
     for src in conf["sources"]:
+        if src.get("type") == "videos":
+            continue                      # offline, and folded in by sync_seeds
         time.sleep(random.uniform(0, pace))
         found = enumerate_source(src)
         print(f"    {len(found):>4}  {src.get('label') or src['url']}")
@@ -127,16 +230,7 @@ def refresh_conference(conf: dict, pace: float) -> dict:
             sources_meta.append({"url": src["url"], "label": src.get("label"),
                                  "year": src.get("year"), "count": kept, "stale": True})
             continue
-        # Everything this source used to hold that it no longer lists is gone —
-        # unlisted, deleted or moved. Other sources' videos are untouched.
-        for vid, v in list(videos.items()):
-            if v.get("source_url") == src["url"] and vid not in {f["video_id"] for f in found}:
-                del videos[vid]
-        for f in found:
-            prev = videos.get(f["video_id"], {})
-            videos[f["video_id"]] = {**f, **{k: prev[k] for k in
-                                             ("description", "published_at", "tags", "details_at")
-                                             if k in prev}}
+        merge_source(videos, src, found)
         sources_meta.append({"url": src["url"], "label": src.get("label"),
                              "year": src.get("year"), "count": len(found)})
 
@@ -277,16 +371,29 @@ def clean_description(desc: str | None) -> str:
     return re.sub(r"\n{3,}", "\n\n", out).strip()
 
 
-def keep_video(v: dict, conf: dict, ai_filter: bool) -> tuple[bool, str]:
+def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None) -> tuple[bool, str]:
+    """Filter one video. A source may override any of the conference's rules.
+
+    The rules exist because a channel listing is a mixed bag — a general
+    conference's AI sessions buried in its other four fifths, and stings,
+    trailers and sponsor spots mixed in with the talks. A curated source is not
+    that: every record in a seed is a session someone put on a programme, so
+    `wearedevelopers`' World Congress seed carries `"scope": "all"` and keeps
+    its five-minute lightning talks, while the same conference's channel
+    listing keeps the AI filter it has always had.
+    """
+    def rule(key):
+        return src.get(key, conf.get(key)) if src else conf.get(key)
+
     d = v.get("duration_s")
-    if conf.get("min_duration") and d is not None and d < conf["min_duration"]:
+    if rule("min_duration") and d is not None and d < rule("min_duration"):
         return False, "short"
     hay = f"{v.get('title','')}\n{v.get('description','') or ''}"
-    if conf.get("match") and not re.search(conf["match"], hay, re.I):
+    if rule("match") and not re.search(rule("match"), hay, re.I):
         return False, "match"
-    if conf.get("exclude") and re.search(conf["exclude"], v.get("title", ""), re.I):
+    if rule("exclude") and re.search(rule("exclude"), v.get("title", ""), re.I):
         return False, "exclude"
-    if ai_filter and conf.get("scope") == "ai":
+    if ai_filter and rule("scope") == "ai":
         if not atu.looks_ai(v.get("title"), v.get("description"), " ".join(v.get("tags") or [])):
             return False, "not-ai"
     return True, ""
@@ -304,9 +411,10 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool) -> tuple[list[dict]
         drop = collections.Counter()
         blocked = blocked_words(conf)
         candidates = []
+        by_url = {s["url"]: s for s in conf["sources"]}
 
         for vid, v in cat.get("videos", {}).items():
-            ok, why = keep_video(v, conf, ai_filter)
+            ok, why = keep_video(v, conf, ai_filter, by_url.get(v.get("source_url")))
             if not ok:
                 drop[why] += 1
                 continue
@@ -328,9 +436,18 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool) -> tuple[list[dict]
         # *word* that shows up across a tenth of its candidate names is a topic
         # label, because real names do not share vocabulary.
         raw = {}
+        stated = {}          # video_id -> names the source states outright
         counts = collections.Counter()
         word_counts = collections.Counter()
         for vid, v in candidates:
+            # A seeded talk carries its agenda's own speaker list. Guessing over
+            # that would be strictly worse, and the two filters below exist only
+            # to make guesses safe — a real name that happens to appear on ten
+            # talks is a prolific speaker, not a brand.
+            if v.get("speakers"):
+                stated[vid] = [n for n in v["speakers"] if n]
+                raw[vid] = []
+                continue
             names = speakers_from_description(v.get("description"), blocked) \
                 or speakers_from_title(v.get("title", ""), blocked)
             raw[vid] = names
@@ -345,7 +462,7 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool) -> tuple[list[dict]
         overused |= {n for n in counts if any(w.lower() in hot for w in n.split())}
 
         for vid, v in candidates:
-            names = [n for n in raw[vid] if n not in overused]
+            names = stated.get(vid) or [n for n in raw[vid] if n not in overused]
             desc = clean_description(v.get("description"))
             talks.append({
                 "id": vid,
@@ -540,6 +657,9 @@ def main() -> None:
             cat = refresh_conference(conf, args.pace)
             print(f"    = {cat['count']} videos cached")
         print()
+
+    # Seeds are read from disk, so they cost nothing and are always current.
+    sync_seeds(reg)
 
     # The corpus is always derived from every conference, even when only one was
     # refreshed — otherwise a targeted refresh would publish a corpus of one.

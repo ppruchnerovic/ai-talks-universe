@@ -15,19 +15,20 @@ new here is the catalogue layer, because there is no agenda API.
 
 | Piece | State |
 |---|---|
-| Registry (`conferences.json`) | Done. 46 conferences, 67 sources, mirrored from `ai-conferences.md`; `check_registry.py` passes. |
-| Enumeration (`sync_catalog.py`) | Done. 14,797 videos cached in `data/catalog/`, 6,979 surviving talks. |
+| Registry (`conferences.json`) | Done. 46 conferences, 68 sources — 67 YouTube listings and one `"type": "videos"` seed — mirrored from `ai-conferences.md`; `check_registry.py` passes. |
+| Enumeration (`sync_catalog.py`) | Done. 15,154 videos cached in `data/catalog/`, 7,336 surviving talks. 14,797 of them enumerated from YouTube, 357 seeded — see *The WeAreDevelopers import*. |
 | Enrichment (`enrich.py`) | Done for the 2026 scope. **9,598 videos via the Data API**, in one run. See *What the collection runs actually got*. |
-| Per-talk markdown | Done. 6,979 files, regenerated from `talks.json` on every sync. |
+| Per-talk markdown | Done. 7,336 files, regenerated from `talks.json` on every sync. |
 | Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. |
 | CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. |
 | Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
-| Browser UI tests (`tools/uitest/`) | **156 checks over 9 suites, 5 failing, none skipped.** The failures are fixtures the bigger corpus outgrew, not the UI — see *Next steps*. |
+| Browser UI tests (`tools/uitest/`) | **170 checks over 9 suites, 2 failing, none skipped** (re-run after the priority-1 rebuild). Both failures are fixtures the bigger corpus outgrew, not the UI — see *Next steps*. |
 | Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. 64 offline checks over the pool, the routes, the year selection and the supadata error classes. |
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
-| Transcripts | **182 of 6,979**, from 184 files in `data/transcripts/`; 4 videos are recorded as having no captions. Exact timings throughout: ai-engineer 93, ai-devcon-tessl 66, ai-dev-deeplearning 12, code-with-claude 10, langchain-interrupt 1. Still the long pole, but no longer IP-bound — see *The quota*. |
+| Transcripts | **1,156 of 7,336**, all exact timings. ai-engineer 540, wearedevelopers 358 (complete), ai-devcon-tessl 130, code-with-claude 55, ai-dev-deeplearning 50, langchain-interrupt 23. The 2026 priority-1 backlog is **cleared**; 1,387 priority 2/3 talks remain — see *Next steps*. Still the long pole, but no longer IP-bound — see *The quota*. |
+| Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
 | Workflows | Written, never run: `pages.yml` (mirror to gh-pages) and `kb-refresh.yml` (weekly re-enumerate). |
-| Published site | **Not set up yet.** Nothing has been committed or pushed. |
+| Published site | **Not set up yet.** The corpus is committed on `main` and `origin` is configured, but nothing has been pushed and Pages is not enabled. |
 
 ## What the collection runs actually got
 
@@ -40,6 +41,7 @@ connection:
 | `enrich.py` (yt-dlp route, no API key) | **369 of 5,816**, then refused. |
 | `sync_catalog.py` + `build_index.py` | Clean. |
 | `fetch_transcripts.py --source supadata --min-year 2026 --priority 1 --limit 95` | **95 fetched, 0 missed**, every one exact. 96 of the 100 free credits, including the `--probe`. |
+| `fetch_transcripts.py --source supadata --min-year 2026 --priority 1` (Pro) | **614 fetched, 1 missed** of 615 selected, every one exact. No block, no credit error. This cleared the 2026 priority-1 backlog. |
 
 Then a `YOUTUBE_API_KEY` turned up, and
 `enrich.py --all --min-year 2026 --include-unknown-year` did in one run what the
@@ -65,14 +67,72 @@ under `mode=native`. That settled it and **Supadata Pro is now bought** — $17 
 month, 3,000 credits. Supadata is the primary route for this corpus from here;
 the free per-IP routes are the fallback.
 
-The corpus grew with it: **69,665 passages, up from 41,233**. `data/talks.db` is
-45.5 MB, `search-meta.json` 5.4 MB, `data/tindex/` 4.2 MB over 27 shards
-carrying 13,841 terms from 184 transcripts.
+The corpus grew with it: **69,665 passages, up from 41,233**. At that point
+`data/talks.db` was 45.5 MB, `search-meta.json` 5.4 MB and `data/tindex/` 4.2 MB
+over 27 shards carrying 13,841 terms from 184 transcripts.
 
-Coverage as it stands: 5,138 descriptions, 6,977 of 6,979 with a year, 2,591
-with a speaker, 3,185 with YouTube tags, 182 with a transcript. Of the 2,159
-talks in the 2026 scope, **151 have a transcript and 2,004 are pending** — 616
-priority 1, 849 priority 2, 539 priority 3.
+Coverage as it stands, after the priority-1 extraction below: 5,492
+descriptions, 7,334 of 7,336 with a year, 2,947 with a speaker, 3,540 with
+YouTube tags, **1,156 with a transcript**. 197,099 passages; `data/talks.db`
+81.1 MB, `search-meta.json` 5.7 MB (the 6 MB trigger still stands),
+`data/tindex/` 13.7 MB over 27 shards carrying 24,261 terms. Of the 2,516 talks
+in the 2026 scope, **1,124 have a transcript and 1,387 are pending** — 0
+priority 1, 848 priority 2, 539 priority 3.
+
+## The WeAreDevelopers import
+
+The corpus this repo was ported from — `../presentations/kb` — holds the 358
+recorded talks of WeAreDevelopers World Congress 2026, each with an exact-timing
+transcript, harvested from the congress agenda API. None of it was here. The
+check that settled why: of those 358 video ids, **1** appears anywhere in the
+14,797 videos enumeration had found, and that one turned up because it was also
+posted normally.
+
+The recordings are on `@_wearedevs`, but not on its `/videos` tab. Unlisted
+videos are reachable by link and by nothing else, so this was never a paging cap
+(`first: 700`) or the AI filter — no depth of enumeration would have found them.
+What knew the ids was the agenda, and the agenda had already been harvested.
+
+So `import_kb.py` reads that corpus and writes two things, with no network at
+all: `data/seeds/wearedevelopers-wwc26.json`, and one transcript per talk
+re-keyed from the kb's own talk id to the YouTube video id. The registry gains a
+source of `"type": "videos"` pointing at the seed, and `sync_catalog.py` folds
+seeds in on **every** run rather than only under `--refresh`, because reading a
+seed is reading a file in the repo.
+
+What it added: **7,336 talks, up from 6,979** — the whole congress, all 358,
+each with abstract, stated speakers, agenda tags and an exact transcript, which
+no other conference here can say. Passages went to **172,376**, and at that
+point `data/talks.db` was 74.5 MB, `search-meta.json` 5.7 MB and
+`data/tindex/` 11.8 MB over 27 shards.
+
+The first pass let the conference's own filters run over the seed and took 242
+of the 358 — 110 dropped as not-AI, 6 as too short. That was reverted on the
+call that the dropped ones are worth having: they are the congress's security,
+testing, reliability and platform sessions, which is exactly the material an AI
+engineer needs and which happens not to say "AI" in the abstract. The six short
+ones are real lightning talks, 2 to 5 minutes, not stings.
+
+Five decisions inside it, none of them free:
+
+- **The seed overrides the conference's filters, rather than the conference
+  changing scope.** Flipping `wearedevelopers` to `"scope": "all"` would also
+  have admitted ~450 unrelated uploads from its channel listing, which spans
+  2018 to 2026 and is not a programme. So `keep_video` now resolves `scope`,
+  `min_duration`, `match` and `exclude` from the source first and the
+  conference second, and only the seed carries the override.
+- **`published_at` is when the talk was *given*.** The agenda knows the session
+  start; it does not know when the video was uploaded. Everywhere else in the
+  corpus that field is a YouTube upload time, so this is the one place the two
+  are not the same thing.
+- **The seed's fields beat enrichment.** Its records are stamped `details_at`,
+  so `enrich.py` skips them and the programme committee's abstract is not later
+  overwritten with the channel boilerplate YouTube carries under these talks.
+  `--refetch` still forces it.
+- **Duration is the last caption cue, not the slot.** The agenda's
+  `duration_min` is the scheduled slot, rounded to 15 minutes and including
+  changeover. It survives the seed's `min_duration: 0`, since a duration is
+  read on every card and deep-linked against, not only filtered on.
 
 **This IP is still flagged for captions.** `fetch_transcripts.py --probe` will
 tell you when it has recovered; it takes hours, and switching networks buys a
@@ -86,30 +146,30 @@ skipped, and those cost quota units rather than a sitting.
 
 ## Next steps, in order
 
-1. **Commit and push.** Nothing is committed yet. Then enable GitHub Pages on
-   the `gh-pages` branch; `pages.yml` mirrors `main` into it on every push.
-2. **Fix the five UI checks the corpus outgrew.** None of them is a UI
-   regression — rebuilding the index at the old 1,200-character clip fails the
-   same five. `moments` picks a title word from a transcribed talk and expects
-   that talk in its own result set; the word it picked is "agent", which
-   thousands of talks now answer, so the card is nowhere near the first page —
-   the fixture needs a word that is still distinctive at 6,979 talks. `controls`
-   needs one description short enough not to overflow the clamp to prove its
-   negative case, and the Data API's descriptions are uniformly long. `ranking`
-   asserts 4 of the CLI's top 10 land in the web's top 40 and now gets 0 for
-   "kubernetes" and "multi agent" and 1 for "inference": at this size there are
-   far more than 40 good title matches, so two correct rankings can disagree
-   completely. Both were re-read by hand and both are still good, which is the
-   argument for changing what the check measures rather than the ranking.
+1. **Push, then enable GitHub Pages** on the `gh-pages` branch; `pages.yml`
+   mirrors `main` into it on every push. The corpus is committed on `main`; the
+   remote and the Pages setup are what is left.
+2. **Fix the two UI checks the corpus outgrew.** Neither is a UI regression —
+   rebuilding the index at the old 1,200-character clip fails the same ones, and
+   each drifts with the corpus rather than with the code. `controls` needs one
+   description short enough not to overflow the clamp to prove its negative
+   case, and now finds **0 of 180** untruncated: the Data API's descriptions are
+   uniformly long. `ranking` asserts 4 of the CLI's top 10 land in the web's top
+   40; only **"inference"** still fails, at 1 of 10. Which queries fail moves as
+   the corpus grows, and that is the point — at this size a common term has
+   hundreds of good title matches, so 40 is too narrow a window and two correct
+   rankings can disagree completely. The rankings were re-read by hand and are
+   good, which is the argument for changing what the check measures rather than
+   the ranking. `moments` and `multi agent` have each stopped failing on their
+   own as the corpus grew, which is the same instability, not a fix.
 3. **Re-run the UI tests** after any collection run: `cd tools/uitest && node run.js`.
    They degrade to `SKIP` rather than failing when a fixture has not been
    collected yet, so a green run on a thin corpus is weaker evidence than a
    green run on a full one — read the skip count, not just the failures.
-4. **Run the 2026 extraction.** 2,004 talks in the 2026 scope still have no
-   transcript (616 of them priority 1). Supadata Pro is bought, so this is no
-   longer a grind against an allowance — 3,000 credits a month covers the whole
-   backlog with about a thousand to spare, and the measured rate is one credit
-   per talk. It is deliberately left for its own session; see *Handoff*.
+4. **Finish the 2026 extraction.** Priority 1 is done — 614 fetched, 1 miss,
+   0 left. **1,387 talks remain: 848 priority 2, 539 priority 3.** At one credit
+   each that is well inside the 3,000-a-month Pro allowance, of which ~709 have
+   been spent this month. See *Handoff*.
 5. Re-check the conferences that came back thin: `owasp-global-appsec` (2
    talks), `tedai-vienna` (6), `apple-wwdc` (7), `meta-connect` (9). Some are
    genuinely small playlists; some may need a better source or a looser filter.
@@ -121,12 +181,12 @@ skipped, and those cost quota units rather than a sitting.
 
 ## Handoff — running the 2026 extraction
 
-Everything below is set up; the run itself is the only thing left.
+Priority 1 is already fetched. What is left is priority 2 and 3 — 1,387 talks.
 
 ```bash
 cd tools
-.venv/bin/python fetch_transcripts.py --source supadata --min-year 2026
-.venv/bin/python fetch_transcripts.py --source supadata --min-year 2026 --priority 1   # the 616 practitioner talks first
+.venv/bin/python fetch_transcripts.py --source supadata --min-year 2026 --priority 2
+.venv/bin/python fetch_transcripts.py --source supadata --min-year 2026 --priority 3
 .venv/bin/python sync_catalog.py && .venv/bin/python build_index.py
 ```
 
@@ -142,8 +202,12 @@ cd tools
 - **`sync_catalog.py` then `build_index.py` afterwards**, in that order:
   the first inlines the new transcripts into the markdown, the second rebuilds
   `talks.db` and the browser index. Neither touches the network.
-- **No need to ration inside the month.** 3,000 credits against 2,004 pending
-  talks at one credit each leaves ~1,000 spare.
+- **Do not skip the rebuild.** The priority-1 run finished 39 minutes after the
+  last `build_index.py`, so 276 fetched transcripts sat on disk invisible to the
+  browser, the CLI and the markdown until the pair was re-run. A transcript that
+  is not indexed is a credit spent for nothing.
+- **No need to ration inside the month.** 3,000 credits against 1,387 pending
+  talks at one credit each, with ~709 already spent, leaves ~900 spare.
 
 ## The quota — read this before a transcript run
 
@@ -226,9 +290,14 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   block usually lists both a channel and the playlists on it and the registry
   deliberately takes only one of the two.
 
-- **The AI filter is a property of the conference, not of the corpus.** A
-  dedicated AI conference contributes everything (`scope: "all"`); a general one
-  contributes only what matches `atu.AI_RE` (`scope: "ai"`). The regex allows a
+- **The AI filter is a property of the source, then of the conference — never
+  of the corpus.** A dedicated AI conference contributes everything
+  (`scope: "all"`); a general one contributes only what matches `atu.AI_RE`
+  (`scope: "ai"`); and a single source may override its conference, which is
+  how the WeAreDevelopers World Congress seed contributes all 358 sessions
+  while the same conference's channel listing still contributes only its AI
+  talks. The distinction that matters is not the topic but the provenance: a
+  curated agenda is a programme, a channel listing is uploads. The regex allows a
   trailing hyphen but not a leading one, so "AI-native" and "ML-powered" match
   while "chai-latte" and "html-first" do not. That asymmetry is load-bearing;
   the first version rejected "The AI-native SDLC".
@@ -262,6 +331,22 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   not share vocabulary. Both filters are applied per conference. Coverage was
   32% from titles alone and 37% once the descriptions arrived, since many
   channels write "Speaker: …" in the description.
+
+- **A seed is a source, not a hand-edit of the catalogue.** Videos could have
+  been written straight into `data/catalog/<conf>.json`, and would even have
+  survived a refresh, since deletion is per source URL. They would not have
+  survived a reader: nothing in the registry would say where 358 videos came
+  from, and a fresh clone could not re-derive them. `"type": "videos"` puts the
+  provenance where every other source's provenance is, and costs one merge path
+  that both kinds of source share.
+
+- **Stated speakers bypass the two-pass name filter.** The filter exists because
+  a title is all most of this corpus has, and it works by assuming a name seen
+  across a tenth of a conference is a brand. An agenda that names its speakers
+  outright breaks that assumption in the right direction — a real speaker with
+  many sessions is prolific, not a brand — so seeded names skip both passes.
+  Speaker coverage went from 2,591 to 2,947 on 357 talks, because every one of
+  them has a name the heuristics would mostly have missed.
 
 - **Collection is scoped to 2026; the corpus is not.** `enrich.py` and
   `fetch_transcripts.py` both take `--year` / `--min-year` /
@@ -326,8 +411,10 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   The extrapolation held: at 5,816 talks the file was 1.6 MB with no
   descriptions and 2.0 MB with 369 of them, and enrichment took it to 7.3 MB at
   6,979 talks with 5,138 — past the 6 MB line that was set as the trigger, so
-  the clip halved and it came back to 5.4 MB. Description coverage is still only
-  74%, so this will need looking at again; the 6 MB trigger stands.
+  the clip halved and it came back to 5.4 MB. It is **5.7 MB** now at 7,336
+  talks with 5,492 descriptions, so it is creeping back towards the line.
+  Description coverage is still only 75%, so this will need looking at again;
+  the 6 MB trigger stands.
   GitHub Pages gzips; the local test server does not, which is why
   `suite-navigation` allows 8 seconds for a cold load.
 
@@ -350,7 +437,7 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
 
 ## Numbers to refresh when the corpus changes
 
-`README.md` states 6,979 talks / 46 conferences / 14,797 enumerated, and how
+`README.md` states 7,336 talks / 46 conferences / 15,154 enumerated, and how
 many of them are 2026; this file states transcript, description, year, tag and
 speaker coverage, the per-conference transcript split, the 2026 pending backlog
 and its priority breakdown, the passage count, and the sizes of `talks.db`,
