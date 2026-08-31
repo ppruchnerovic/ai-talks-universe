@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Greg Brockman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 41
 published_at: 2025-08-10T00:00:00Z
 video_id: avWhreBUYF0

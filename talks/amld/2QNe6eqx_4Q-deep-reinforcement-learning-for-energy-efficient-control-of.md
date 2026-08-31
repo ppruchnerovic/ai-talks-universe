@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Andrea Pozzi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2022-04-22T15:10:12Z
 video_id: 2QNe6eqx_4Q

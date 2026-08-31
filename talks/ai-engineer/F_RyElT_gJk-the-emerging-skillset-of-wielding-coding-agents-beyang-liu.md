@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Beyang Liu"]
-channel: "AI Engineer"
+channel: null
 duration_min: 35
 published_at: 2025-06-30T22:54:36Z
 video_id: F_RyElT_gJk

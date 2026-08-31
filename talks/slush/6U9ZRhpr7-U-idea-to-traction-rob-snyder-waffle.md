@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Rob Snyder"]
-channel: "Slush"
+channel: null
 duration_min: 23
 published_at: 2025-11-26T14:46:47Z
 video_id: 6U9ZRhpr7-U

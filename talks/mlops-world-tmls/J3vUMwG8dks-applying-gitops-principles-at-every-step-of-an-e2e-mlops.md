@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Tibor Mach"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 87
 published_at: 2023-11-10T17:21:43Z
 video_id: J3vUMwG8dks

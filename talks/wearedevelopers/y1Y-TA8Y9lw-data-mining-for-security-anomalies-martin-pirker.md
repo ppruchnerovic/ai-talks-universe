@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Martin Pirker"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 34
 published_at: 2018-12-21T09:17:03Z
 video_id: y1Y-TA8Y9lw

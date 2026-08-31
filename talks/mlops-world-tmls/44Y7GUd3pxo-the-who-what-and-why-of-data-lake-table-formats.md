@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Alex Merced"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 48
 published_at: 2024-05-16T13:34:01Z
 video_id: 44Y7GUd3pxo

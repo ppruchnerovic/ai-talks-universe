@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Saoud Rizwan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-08-07T23:26:51Z
 video_id: CoEIs6Xm8m8

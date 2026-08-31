@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Akshay Mittal"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 26
 published_at: 2025-10-24T23:00:38Z
 video_id: 1ruNoMCpt80

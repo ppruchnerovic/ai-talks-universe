@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alejandro Vidal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2026-07-13T17:56:55Z
 video_id: O3FEoMYvUf8

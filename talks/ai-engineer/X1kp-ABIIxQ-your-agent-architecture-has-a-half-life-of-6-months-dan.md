@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Farrelly"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-07-21T03:14:22Z
 video_id: X1kp-ABIIxQ

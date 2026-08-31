@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Nnenna Ndukwe"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 24
 published_at: 2025-11-27T22:11:26Z
 video_id: VfUTkoYWsPQ

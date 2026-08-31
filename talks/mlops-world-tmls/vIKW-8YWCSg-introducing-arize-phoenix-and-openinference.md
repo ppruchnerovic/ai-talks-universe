@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Mikyo King", "Head of Open Source", "Founding Engineer"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 43
 published_at: 2024-05-16T12:56:45Z
 video_id: vIKW-8YWCSg

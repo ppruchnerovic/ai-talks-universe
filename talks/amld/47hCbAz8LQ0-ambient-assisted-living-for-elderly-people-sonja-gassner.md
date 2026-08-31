@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Sonja Gassner"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2022-04-22T15:36:28Z
 video_id: 47hCbAz8LQ0

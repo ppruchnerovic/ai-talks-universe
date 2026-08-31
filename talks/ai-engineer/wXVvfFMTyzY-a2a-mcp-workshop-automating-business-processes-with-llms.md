@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Damien Murphy"]
-channel: "AI Engineer"
+channel: null
 duration_min: 83
 published_at: 2025-07-26T00:00:00Z
 video_id: wXVvfFMTyzY

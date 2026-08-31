@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Simon F. Nørrelykke"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2022-04-22T15:20:05Z
 video_id: s1_IBMLFJQ8

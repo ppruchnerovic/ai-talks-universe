@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Aimilios Tsouvelekakis"]
-channel: "PyData"
+channel: null
 duration_min: 37
 published_at: 2026-08-04T22:20:44Z
 video_id: Jho624IrxpM

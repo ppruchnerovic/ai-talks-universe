@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["David Boyne"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 52
 published_at: 2025-10-30T15:01:25Z
 video_id: 6E0_Zsj88Gw

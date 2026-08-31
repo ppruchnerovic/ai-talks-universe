@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Lesley Wilton"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2024-05-15T12:33:02Z
 video_id: 9RLcC6Lflzk

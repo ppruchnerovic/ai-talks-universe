@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "The AI Conference"
 year: 2023
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 23
 published_at: 2023-10-31T16:51:24Z
 video_id: lHwkhFCS2DY

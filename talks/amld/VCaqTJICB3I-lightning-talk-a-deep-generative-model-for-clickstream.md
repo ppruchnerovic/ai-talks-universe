@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Yilmazcan Özyurt"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 10
 published_at: 2022-04-20T09:02:59Z
 video_id: VCaqTJICB3I

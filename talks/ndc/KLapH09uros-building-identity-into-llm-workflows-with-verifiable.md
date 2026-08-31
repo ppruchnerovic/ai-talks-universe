@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Ben Dechrai"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 62
 published_at: 2026-02-10T09:42:05Z
 video_id: KLapH09uros

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Fei Xia"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 35
 published_at: 2023-10-05T16:19:34Z
 video_id: OeKqlXigemQ

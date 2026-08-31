@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Or Itzary"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 45
 published_at: 2023-08-18T01:36:05Z
 video_id: giNPl2Uo0xc

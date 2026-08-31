@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Theodor René Carlsen"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 16
 published_at: 2026-08-12T06:38:25Z
 video_id: HUDIxO-F63E

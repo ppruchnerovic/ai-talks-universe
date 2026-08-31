@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Raiza Martin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2025-07-28T00:00:00Z
 video_id: yG5d5UaGz1M

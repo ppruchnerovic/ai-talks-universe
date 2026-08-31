@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Advitya Gemawat"]
-channel: "PyData"
+channel: null
 duration_min: 32
 published_at: 2026-07-30T17:07:35Z
 video_id: zgUJqwZXS1Q

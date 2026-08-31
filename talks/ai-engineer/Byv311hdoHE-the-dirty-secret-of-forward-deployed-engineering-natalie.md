@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Natalie Meurer"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-28T18:00:18Z
 video_id: Byv311hdoHE

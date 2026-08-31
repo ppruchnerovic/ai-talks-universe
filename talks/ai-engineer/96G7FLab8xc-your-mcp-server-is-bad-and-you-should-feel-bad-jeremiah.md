@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jeremiah Lowin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 55
 published_at: 2026-01-12T18:00:06Z
 video_id: 96G7FLab8xc

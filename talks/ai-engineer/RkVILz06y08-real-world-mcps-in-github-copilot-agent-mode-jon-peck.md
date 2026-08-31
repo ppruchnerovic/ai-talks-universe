@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jon Peck"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-07-19T07:00:21Z
 video_id: RkVILz06y08

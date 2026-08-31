@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Krieger"]
-channel: "AI Engineer"
+channel: null
 duration_min: 26
 published_at: 2026-08-27T16:00:06Z
 video_id: qqrk7CtkuIw

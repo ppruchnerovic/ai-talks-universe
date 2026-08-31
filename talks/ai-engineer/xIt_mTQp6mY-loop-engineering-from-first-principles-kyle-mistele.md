@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kyle Mistele"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-25T20:41:40Z
 video_id: xIt_mTQp6mY

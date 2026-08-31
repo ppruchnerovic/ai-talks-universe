@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Arjun Desai"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-06-27T10:46:13Z
 video_id: knH3fmGAteQ

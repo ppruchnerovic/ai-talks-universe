@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Brian Douglas"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-07-24T08:19:31Z
 video_id: o-IunU6b1t8

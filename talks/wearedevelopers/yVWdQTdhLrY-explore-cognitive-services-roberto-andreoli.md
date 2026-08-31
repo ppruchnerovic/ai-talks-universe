@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Explore Cognitive Services", "Roberto Andreoli"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 35
 published_at: 2018-12-21T09:17:03Z
 video_id: yVWdQTdhLrY

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Mattia Cenedese"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 5
 published_at: 2022-04-26T08:38:54Z
 video_id: CJ7gPAPAnh0

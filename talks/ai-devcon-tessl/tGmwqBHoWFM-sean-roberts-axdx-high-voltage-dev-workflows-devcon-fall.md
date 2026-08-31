@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Sean Roberts"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 28
 published_at: 2025-11-21T00:57:27Z
 video_id: tGmwqBHoWFM

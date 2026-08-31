@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dat Ngo"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-06-07T18:00:06Z
 video_id: JsCCrBF7F1g

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: []
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2023-10-05T16:17:46Z
 video_id: 5aEwYiE6Tak

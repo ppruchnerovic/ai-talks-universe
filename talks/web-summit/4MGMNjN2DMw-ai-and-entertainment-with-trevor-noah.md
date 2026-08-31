@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2024
 speakers: []
-channel: "Web Summit"
+channel: null
 duration_min: 36
 published_at: 2024-08-16T08:00:03Z
 video_id: 4MGMNjN2DMw

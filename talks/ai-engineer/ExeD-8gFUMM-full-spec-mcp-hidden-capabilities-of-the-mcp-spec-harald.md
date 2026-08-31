@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Harald Kirschner"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-07-18T00:00:00Z
 video_id: ExeD-8gFUMM

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Gaël Pegliasco"]
-channel: "PyData"
+channel: null
 duration_min: 54
 published_at: 2026-08-04T22:20:57Z
 video_id: FsJM7TGwc-A

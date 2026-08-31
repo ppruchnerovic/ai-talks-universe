@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
 speakers: ["Mike Amundsen"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 36
 published_at: 2026-08-25T14:56:32Z
 video_id: OhNJBORfRqc

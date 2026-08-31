@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Brian John"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-11-24T20:16:36Z
 video_id: 5eJqXtevlXg

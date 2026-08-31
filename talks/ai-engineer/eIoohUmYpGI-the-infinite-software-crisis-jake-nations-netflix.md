@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jake Nations"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-12-20T17:00:06Z
 video_id: eIoohUmYpGI

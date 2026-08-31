@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Ivan Puddu"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2022-05-06T12:16:30Z
 video_id: mooseyAkvl8

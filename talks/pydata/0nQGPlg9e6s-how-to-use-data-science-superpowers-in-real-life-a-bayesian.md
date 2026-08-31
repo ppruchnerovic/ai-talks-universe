@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Tim Lenzen"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2025-10-28T19:07:09Z
 video_id: 0nQGPlg9e6s

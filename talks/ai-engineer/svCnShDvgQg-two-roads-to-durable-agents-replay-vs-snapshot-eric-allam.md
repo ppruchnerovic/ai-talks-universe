@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eric Allam"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-05-10T20:00:06Z
 video_id: svCnShDvgQg

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kathryn Grayson Nanz"]
-channel: "AI Engineer"
+channel: null
 duration_min: 36
 published_at: 2026-07-18T20:30:06Z
 video_id: L3RuP_q8Bwc

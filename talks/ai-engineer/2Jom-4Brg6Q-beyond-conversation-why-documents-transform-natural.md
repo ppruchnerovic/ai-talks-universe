@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Filip Kozera"]
-channel: "AI Engineer"
+channel: null
 duration_min: 11
 published_at: 2025-06-10T00:00:00Z
 video_id: 2Jom-4Brg6Q

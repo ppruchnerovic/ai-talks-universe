@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Weights & Biases"
 year: 2025
 speakers: []
-channel: "Weights & Biases"
+channel: null
 duration_min: 16
 published_at: 2025-12-04T22:33:00Z
 video_id: Dc1y_pulshw

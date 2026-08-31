@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Itamar Friedman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2025-12-11T21:58:59Z
 video_id: rgjF5o2Qjsc

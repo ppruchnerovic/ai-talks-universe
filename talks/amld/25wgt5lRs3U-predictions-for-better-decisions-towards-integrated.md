@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Emma Frejinger"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 65
 published_at: 2022-04-20T08:45:02Z
 video_id: 25wgt5lRs3U

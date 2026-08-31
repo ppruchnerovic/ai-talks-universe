@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Ramshanker Krishnan"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 32
 published_at: 2018-12-21T09:17:04Z
 video_id: yNiGh6yX2IU

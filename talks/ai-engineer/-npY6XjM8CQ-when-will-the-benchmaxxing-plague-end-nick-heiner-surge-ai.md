@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Heiner"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-02T16:30:06Z
 video_id: -npY6XjM8CQ

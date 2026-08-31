@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
 speakers: ["Nathen Harvey"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-08-18T15:09:05Z
 video_id: izk2gYKpSSs

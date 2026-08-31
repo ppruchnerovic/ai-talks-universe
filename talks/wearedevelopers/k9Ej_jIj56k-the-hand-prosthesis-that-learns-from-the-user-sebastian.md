@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Sebastian Amsüss"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 34
 published_at: 2018-12-21T09:17:04Z
 video_id: k9Ej_jIj56k

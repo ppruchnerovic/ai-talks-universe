@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Frédéric Barthelet"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-06-15T14:00:06Z
 video_id: c-2eEv2ou7Y

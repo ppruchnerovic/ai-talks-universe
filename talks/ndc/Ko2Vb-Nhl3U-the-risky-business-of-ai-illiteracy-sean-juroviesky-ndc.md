@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Sean Juroviesky"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 52
 published_at: 2026-03-24T10:24:55Z
 video_id: Ko2Vb-Nhl3U

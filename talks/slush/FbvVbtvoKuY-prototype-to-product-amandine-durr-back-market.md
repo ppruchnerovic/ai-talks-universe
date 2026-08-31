@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Amandine Durr"]
-channel: "Slush"
+channel: null
 duration_min: 24
 published_at: 2025-11-28T22:00:14Z
 video_id: FbvVbtvoKuY

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Angela Fan"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2023-10-05T16:17:50Z
 video_id: NvTSfdeAbnU

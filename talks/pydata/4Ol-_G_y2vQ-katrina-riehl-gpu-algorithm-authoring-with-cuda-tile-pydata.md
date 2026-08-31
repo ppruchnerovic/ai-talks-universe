@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Katrina Riehl"]
-channel: "PyData"
+channel: null
 duration_min: 86
 published_at: 2026-06-15T15:50:28Z
 video_id: 4Ol-_G_y2vQ

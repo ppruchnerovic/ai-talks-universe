@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Yaniv Aknin"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 43
 published_at: 2025-12-16T15:30:31Z
 video_id: WjMy0JFTQZ0

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raymond Feng"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-31T22:30:06Z
 video_id: k35LeKZEhiE

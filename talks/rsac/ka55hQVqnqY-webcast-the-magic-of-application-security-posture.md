@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Vandana Verma Sehgal"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 52
 published_at: 2024-08-22T18:03:05Z
 video_id: ka55hQVqnqY

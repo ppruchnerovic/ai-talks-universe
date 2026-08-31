@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Logan Kilpatrick"]
-channel: "AI Engineer"
+channel: null
 duration_min: 12
 published_at: 2025-07-10T00:00:00Z
 video_id: wE1ZCmCLP5g

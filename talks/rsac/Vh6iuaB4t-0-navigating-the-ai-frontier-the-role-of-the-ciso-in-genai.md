@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["James Christiansen"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 48
 published_at: 2024-06-10T21:15:24Z
 video_id: Vh6iuaB4t-0

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2025
 speakers: ["Maricopa County"]
-channel: "Black Hat"
+channel: null
 duration_min: 40
 published_at: 2025-02-13T20:57:13Z
 video_id: o1NG6Pecewg

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Sabria Lagoun"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 30
 published_at: 2018-12-21T09:21:04Z
 video_id: _sWXsAmDEP8

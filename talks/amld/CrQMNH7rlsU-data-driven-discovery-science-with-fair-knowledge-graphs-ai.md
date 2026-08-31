@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Michel Dumontier"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 21
 published_at: 2022-04-29T07:58:52Z
 video_id: CrQMNH7rlsU

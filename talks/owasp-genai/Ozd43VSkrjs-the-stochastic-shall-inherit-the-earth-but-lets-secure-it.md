@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Steve Wilson", "Product Officer"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 24
 published_at: 2026-01-13T00:49:27Z
 video_id: Ozd43VSkrjs

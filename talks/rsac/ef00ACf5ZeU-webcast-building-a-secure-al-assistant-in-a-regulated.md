@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["Kyler Middleton"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 52
 published_at: 2025-09-22T20:07:14Z
 video_id: ef00ACf5ZeU

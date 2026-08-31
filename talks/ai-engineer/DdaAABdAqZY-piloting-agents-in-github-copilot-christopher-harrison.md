@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Christopher Harrison"]
-channel: "AI Engineer"
+channel: null
 duration_min: 59
 published_at: 2025-07-26T07:00:13Z
 video_id: DdaAABdAqZY

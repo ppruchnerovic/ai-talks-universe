@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sebastian Fox"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-22T17:00:32Z
 video_id: yqF6XhzbWBk

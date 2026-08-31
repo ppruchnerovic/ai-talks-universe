@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Theo Browne"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-07-08T00:00:00Z
 video_id: xUnRQ9vLXxo

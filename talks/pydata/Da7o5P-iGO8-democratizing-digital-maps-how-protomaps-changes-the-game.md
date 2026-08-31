@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Veit Schiele"]
-channel: "PyData"
+channel: null
 duration_min: 27
 published_at: 2025-11-23T14:33:49Z
 video_id: Da7o5P-iGO8

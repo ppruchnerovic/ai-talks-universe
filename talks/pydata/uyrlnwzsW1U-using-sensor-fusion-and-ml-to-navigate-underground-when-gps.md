@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Étienne Tremblay"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-08-04T22:21:11Z
 video_id: uyrlnwzsW1U

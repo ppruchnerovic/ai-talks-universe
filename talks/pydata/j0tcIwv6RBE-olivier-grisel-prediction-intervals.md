@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Olivier Grisel"]
-channel: "PyData"
+channel: null
 duration_min: 34
 published_at: 2025-11-21T16:25:33Z
 video_id: j0tcIwv6RBE

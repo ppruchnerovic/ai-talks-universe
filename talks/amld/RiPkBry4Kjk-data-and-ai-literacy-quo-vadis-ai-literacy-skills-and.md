@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Quo Vadis"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 44
 published_at: 2024-05-15T14:51:52Z
 video_id: RiPkBry4Kjk

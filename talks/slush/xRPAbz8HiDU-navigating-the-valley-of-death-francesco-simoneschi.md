@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Francesco Simoneschi"]
-channel: "Slush"
+channel: null
 duration_min: 28
 published_at: 2025-11-26T14:39:11Z
 video_id: xRPAbz8HiDU

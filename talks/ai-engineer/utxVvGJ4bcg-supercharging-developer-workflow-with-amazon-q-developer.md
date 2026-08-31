@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Vikash Agrawal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2025-06-10T17:30:11Z
 video_id: utxVvGJ4bcg

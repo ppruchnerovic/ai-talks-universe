@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Cynthia Liem"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 31
 published_at: 2024-05-15T07:28:53Z
 video_id: ghGiie3z0mg

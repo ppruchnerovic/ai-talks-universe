@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cormac Brick"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-05-20T00:00:00Z
 video_id: -TiET_K-E_g

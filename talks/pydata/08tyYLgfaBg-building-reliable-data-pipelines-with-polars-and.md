@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Oliver Borchert", "Andreas Albert"]
-channel: "PyData"
+channel: null
 duration_min: 88
 published_at: 2026-08-04T22:20:51Z
 video_id: 08tyYLgfaBg

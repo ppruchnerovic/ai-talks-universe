@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Bain"]
-channel: "AI Engineer"
+channel: null
 duration_min: 51
 published_at: 2025-06-27T09:51:20Z
 video_id: gsedOXz8FX4

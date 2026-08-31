@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Nils Haase", "Andreas Wurl"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-08-25T18:20:11Z
 video_id: YPY0lY6tDvM

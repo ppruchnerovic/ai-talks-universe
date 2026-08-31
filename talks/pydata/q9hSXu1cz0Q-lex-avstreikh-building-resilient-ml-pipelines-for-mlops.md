@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Lex Avstreikh", "Building Resilient"]
-channel: "PyData"
+channel: null
 duration_min: 33
 published_at: 2025-11-21T16:26:19Z
 video_id: q9hSXu1cz0Q

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Jason Koo"]
-channel: "The AI Conference™"
+channel: null
 duration_min: 13
 published_at: 2025-09-23T19:16:44Z
 video_id: in-bbFGQz2U

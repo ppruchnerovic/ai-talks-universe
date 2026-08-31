@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Marco Vene"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2025-11-23T14:33:57Z
 video_id: wmZeI7xrYg4

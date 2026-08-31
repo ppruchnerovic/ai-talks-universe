@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Alice Guerini"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2022-04-22T15:34:10Z
 video_id: BTAU4WdIzQk

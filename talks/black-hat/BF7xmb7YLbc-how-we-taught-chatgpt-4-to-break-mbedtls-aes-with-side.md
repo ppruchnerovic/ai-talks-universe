@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2024
 speakers: ["Witold Waligóra"]
-channel: "Black Hat"
+channel: null
 duration_min: 39
 published_at: 2024-03-22T16:57:03Z
 video_id: BF7xmb7YLbc

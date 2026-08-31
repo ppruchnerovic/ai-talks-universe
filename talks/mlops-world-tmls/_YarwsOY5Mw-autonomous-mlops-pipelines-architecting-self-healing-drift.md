@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Kamal Singh Bisht", "Discover Financial Services"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 30
 published_at: 2025-10-20T22:45:18Z
 video_id: _YarwsOY5Mw

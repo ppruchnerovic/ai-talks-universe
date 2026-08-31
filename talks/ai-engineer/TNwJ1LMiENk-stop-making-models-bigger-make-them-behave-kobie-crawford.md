@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kobie Crawford"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-06-10T17:00:25Z
 video_id: TNwJ1LMiENk

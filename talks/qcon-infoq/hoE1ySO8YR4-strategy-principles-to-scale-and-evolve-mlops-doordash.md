@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "InfoQ"
 year: 2023
 speakers: []
-channel: "InfoQ"
+channel: null
 duration_min: 42
 published_at: 2023-12-07T06:36:16Z
 video_id: hoE1ySO8YR4

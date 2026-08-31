@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Li Zheng"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2024-05-13T14:53:11Z
 video_id: -S0f-VX_G4Q

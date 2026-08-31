@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Angelos Perivolaropoulos"]
-channel: "AI Engineer"
+channel: null
 duration_min: 81
 published_at: 2026-05-04T18:30:06Z
 video_id: UsB70Tf5zcE

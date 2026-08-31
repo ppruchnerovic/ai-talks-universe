@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sunny Rekhi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-07-28T17:00:35Z
 video_id: 7wu2hsRfvV0

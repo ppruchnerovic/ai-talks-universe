@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
 speakers: ["Maarten Vandeperre"]
-channel: "Devoxx"
+channel: null
 duration_min: 48
 published_at: 2026-03-30T17:50:41Z
 video_id: zzyYPuMaMGc

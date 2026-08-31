@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Akif Cakir"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-04T22:21:27Z
 video_id: dDHQKv8D70E

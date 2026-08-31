@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ray Myers"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2025-06-10T17:30:11Z
 video_id: 5s6Q-y42ZZA

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Taylor"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-11T00:00:00Z
 video_id: xg1zNlzw7Jk

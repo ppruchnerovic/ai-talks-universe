@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Jakob Heiss"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 10
 published_at: 2024-05-13T12:13:14Z
 video_id: 6HI9Vi4L1Jo

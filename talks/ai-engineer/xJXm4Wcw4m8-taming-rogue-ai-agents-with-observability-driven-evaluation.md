@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jim Bennett"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-06-27T10:27:15Z
 video_id: xJXm4Wcw4m8

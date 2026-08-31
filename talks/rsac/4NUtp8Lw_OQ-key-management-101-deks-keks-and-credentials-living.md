@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Karen Reinhardt", "Principal Engineer", "Cryptographic Services"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 51
 published_at: 2024-06-10T21:16:36Z
 video_id: 4NUtp8Lw_OQ

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Rajiv Shah", "Chief Evangelist"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 24
 published_at: 2025-09-29T19:12:54Z
 video_id: RYZeTrNjE7E

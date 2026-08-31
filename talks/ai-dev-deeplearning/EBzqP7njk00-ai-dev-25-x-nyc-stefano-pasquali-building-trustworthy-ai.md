@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []
-channel: "DeepLearningAI"
+channel: null
 duration_min: 24
 published_at: 2025-12-05T20:43:27Z
 video_id: EBzqP7njk00

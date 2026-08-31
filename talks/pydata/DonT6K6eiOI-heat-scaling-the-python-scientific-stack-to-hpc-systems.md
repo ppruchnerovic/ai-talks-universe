@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Claudia Comito", "Thomas Saupe"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:21:05Z
 video_id: DonT6K6eiOI

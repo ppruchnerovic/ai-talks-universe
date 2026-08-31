@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eashan Sinha"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-06-27T09:32:38Z
 video_id: W_5tzQY-hVs

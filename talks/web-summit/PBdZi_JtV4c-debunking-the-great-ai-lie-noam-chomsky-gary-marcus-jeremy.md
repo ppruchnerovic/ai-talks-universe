@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2022
 speakers: ["Noam Chomsky"]
-channel: "Web Summit"
+channel: null
 duration_min: 32
 published_at: 2022-11-14T15:26:14Z
 video_id: PBdZi_JtV4c

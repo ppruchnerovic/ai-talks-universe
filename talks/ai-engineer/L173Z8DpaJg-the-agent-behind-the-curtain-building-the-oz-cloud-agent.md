@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Safia Abdalla"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-08-22T17:30:13Z
 video_id: L173Z8DpaJg

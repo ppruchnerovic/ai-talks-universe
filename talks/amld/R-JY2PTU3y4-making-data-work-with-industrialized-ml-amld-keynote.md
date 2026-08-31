@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Laure Willemin"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2022-04-26T14:14:08Z
 video_id: R-JY2PTU3y4

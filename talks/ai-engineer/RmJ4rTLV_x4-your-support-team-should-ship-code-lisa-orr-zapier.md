@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lisa Orr"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-12-16T17:00:06Z
 video_id: RmJ4rTLV_x4

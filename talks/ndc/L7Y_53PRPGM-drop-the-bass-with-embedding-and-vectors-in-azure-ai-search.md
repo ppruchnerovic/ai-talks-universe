@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Alan Smith"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 63
 published_at: 2026-01-28T16:40:27Z
 video_id: L7Y_53PRPGM

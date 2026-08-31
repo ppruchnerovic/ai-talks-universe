@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Dylan Beattie"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 64
 published_at: 2026-06-22T08:31:32Z
 video_id: xunx7VvlOgs

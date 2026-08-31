@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Loïc Lannelongue"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 38
 published_at: 2024-05-15T09:11:47Z
 video_id: PMu483_5f1c

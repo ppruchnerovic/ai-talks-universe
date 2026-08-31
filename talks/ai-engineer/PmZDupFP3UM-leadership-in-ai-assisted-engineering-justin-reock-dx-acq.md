@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Justin Reock"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-12-19T18:14:31Z
 video_id: PmZDupFP3UM

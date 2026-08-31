@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Human Brain Tissue", "Huitian Yu"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2022-04-26T08:37:14Z
 video_id: EWC2Cva2B2Y

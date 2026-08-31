@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 11
 published_at: 2025-09-11T20:41:52Z
 video_id: oHaF-RCUiec

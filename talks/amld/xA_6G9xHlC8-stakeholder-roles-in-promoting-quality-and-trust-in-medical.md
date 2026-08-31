@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Nicholson Price"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2022-04-29T07:49:02Z
 video_id: xA_6G9xHlC8

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Julian Arnold"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2022-04-22T15:31:28Z
 video_id: ETl5475TwhA

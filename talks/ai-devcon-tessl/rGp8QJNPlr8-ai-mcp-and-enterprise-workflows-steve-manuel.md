@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Steve Manuel"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 7
 published_at: 2025-10-10T13:01:45Z
 video_id: rGp8QJNPlr8

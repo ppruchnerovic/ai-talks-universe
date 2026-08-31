@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Simon Hefti"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2022-04-20T08:26:46Z
 video_id: -d-fCKdEX0I

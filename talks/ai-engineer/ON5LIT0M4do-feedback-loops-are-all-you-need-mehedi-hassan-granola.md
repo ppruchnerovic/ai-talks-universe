@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mehedi Hassan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 10
 published_at: 2026-05-10T00:00:00Z
 video_id: ON5LIT0M4do

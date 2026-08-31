@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Pawel Kampczyk"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2024-05-13T09:40:48Z
 video_id: ZVajB6I6AW8

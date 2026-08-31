@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Jeffrey Kim"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 45
 published_at: 2024-05-16T15:45:50Z
 video_id: b2WR9p1yS7Y

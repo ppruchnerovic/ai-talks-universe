@@ -8,7 +8,7 @@ category: "AI security"
 edition: "BSides Las Vegas"
 year: 2022
 speakers: []
-channel: "BSidesLV"
+channel: null
 duration_min: 57
 published_at: 2022-09-04T20:30:21Z
 video_id: iRG3jOwHIl4

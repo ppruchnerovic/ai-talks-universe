@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Maxime Darçot"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 24
 published_at: 2022-04-20T08:57:10Z
 video_id: dwQOcTODrpA

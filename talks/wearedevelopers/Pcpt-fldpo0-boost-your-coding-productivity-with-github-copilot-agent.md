@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 29
 published_at: 2025-09-10T11:19:37Z
 video_id: Pcpt-fldpo0

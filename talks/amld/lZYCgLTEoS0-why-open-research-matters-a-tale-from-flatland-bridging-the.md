@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Erik Nygren"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2024-05-13T12:34:25Z
 video_id: lZYCgLTEoS0

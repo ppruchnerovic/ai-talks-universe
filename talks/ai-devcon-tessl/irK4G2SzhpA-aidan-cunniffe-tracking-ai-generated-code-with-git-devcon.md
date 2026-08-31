@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Aidan Cunniffe"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 20
 published_at: 2025-11-27T15:50:11Z
 video_id: irK4G2SzhpA

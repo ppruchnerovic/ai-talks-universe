@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Detecting Greenwashing Signals", "Susie Xi Rao"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 8
 published_at: 2024-06-17T11:38:41Z
 video_id: -eNfRtGqU4o

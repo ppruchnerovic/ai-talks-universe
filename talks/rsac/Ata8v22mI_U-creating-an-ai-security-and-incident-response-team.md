@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Threat Analysis"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 46
 published_at: 2024-06-10T21:15:23Z
 video_id: Ata8v22mI_U

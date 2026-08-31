@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Divakar Kumar"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-07-30T00:00:06Z
 video_id: o6U_2vd967Y

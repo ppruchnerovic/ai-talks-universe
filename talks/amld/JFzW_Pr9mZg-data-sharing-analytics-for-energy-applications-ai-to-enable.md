@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Pierre Pinson"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2024-05-13T09:28:44Z
 video_id: JFzW_Pr9mZg

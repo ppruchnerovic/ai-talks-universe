@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Val Bercovici"]
-channel: "AI Engineer"
+channel: null
 duration_min: 24
 published_at: 2025-11-24T00:00:00Z
 video_id: NTBX-wxUhHs

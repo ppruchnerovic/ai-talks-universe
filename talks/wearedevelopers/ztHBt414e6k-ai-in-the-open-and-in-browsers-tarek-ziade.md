@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Tarek Ziadé"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 54
 published_at: 2026-01-16T08:57:46Z
 video_id: ztHBt414e6k

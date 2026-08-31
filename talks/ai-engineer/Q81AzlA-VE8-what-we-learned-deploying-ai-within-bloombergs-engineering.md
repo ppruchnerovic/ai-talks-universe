@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lei Zhang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-12-16T15:00:07Z
 video_id: Q81AzlA-VE8

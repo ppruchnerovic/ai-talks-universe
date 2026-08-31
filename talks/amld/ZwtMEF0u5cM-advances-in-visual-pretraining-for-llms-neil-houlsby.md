@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Neil Houlsby"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2023-10-05T16:19:27Z
 video_id: ZwtMEF0u5cM

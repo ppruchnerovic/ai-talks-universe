@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephen Batifol"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2026-05-08T00:00:00Z
 video_id: x8Yb4RidLgM

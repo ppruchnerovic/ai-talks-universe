@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Jan Oberhauser"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-11-27T09:45:08Z
 video_id: hrl4XskEHwo

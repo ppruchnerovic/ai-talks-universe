@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Venkat Subramaniam"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 59
 published_at: 2026-06-24T13:43:07Z
 video_id: VX4qE02JcF8

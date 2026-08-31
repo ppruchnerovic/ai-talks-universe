@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Carly Richmond"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 62
 published_at: 2026-01-29T17:16:21Z
 video_id: PKZXaQ6TD6k

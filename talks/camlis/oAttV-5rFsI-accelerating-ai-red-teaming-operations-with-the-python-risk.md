@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Nina Chikanov"]
-channel: "CAMLIS"
+channel: null
 duration_min: 27
 published_at: 2025-11-14T08:23:48Z
 video_id: oAttV-5rFsI

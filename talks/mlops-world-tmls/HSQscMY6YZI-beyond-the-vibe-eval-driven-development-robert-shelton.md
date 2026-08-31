@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Robert Shelton"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 5
 published_at: 2025-10-29T19:58:04Z
 video_id: HSQscMY6YZI

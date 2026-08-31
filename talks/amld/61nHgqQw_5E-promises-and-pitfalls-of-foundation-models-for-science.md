@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Payel Das"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 36
 published_at: 2023-10-05T16:20:40Z
 video_id: 61nHgqQw_5E

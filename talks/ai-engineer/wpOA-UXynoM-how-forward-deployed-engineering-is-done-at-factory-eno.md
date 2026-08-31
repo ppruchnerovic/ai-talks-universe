@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eno Reyes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2026-07-28T22:00:06Z
 video_id: wpOA-UXynoM

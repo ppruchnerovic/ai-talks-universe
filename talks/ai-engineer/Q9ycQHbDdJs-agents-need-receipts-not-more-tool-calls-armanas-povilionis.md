@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Armanas Povilionis"]
-channel: "AI Engineer"
+channel: null
 duration_min: 10
 published_at: 2026-07-20T00:00:00Z
 video_id: Q9ycQHbDdJs

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Alexey Milovidov"]
-channel: "Slush"
+channel: null
 duration_min: 25
 published_at: 2025-11-29T08:00:21Z
 video_id: H4gGLTBaSac

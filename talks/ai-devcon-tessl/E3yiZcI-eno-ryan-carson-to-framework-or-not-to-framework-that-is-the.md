@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Ryan Carson"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 12
 published_at: 2025-11-21T01:44:50Z
 video_id: E3yiZcI-eno

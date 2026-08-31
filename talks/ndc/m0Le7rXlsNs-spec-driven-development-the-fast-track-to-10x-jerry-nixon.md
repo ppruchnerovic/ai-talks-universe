@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Jerry Nixon"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 73
 published_at: 2026-05-29T15:00:23Z
 video_id: m0Le7rXlsNs

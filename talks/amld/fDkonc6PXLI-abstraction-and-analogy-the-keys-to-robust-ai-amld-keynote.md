@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Melanie Mitchell"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2022-04-26T08:42:09Z
 video_id: fDkonc6PXLI

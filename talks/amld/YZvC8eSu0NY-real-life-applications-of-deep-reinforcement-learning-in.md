@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["William Heurdier"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2022-04-22T15:24:22Z
 video_id: YZvC8eSu0NY

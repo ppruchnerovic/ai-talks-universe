@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Agentic Red Team Challenges"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 32
 published_at: 2026-01-21T06:45:26Z
 video_id: jntPmJ9mLpY

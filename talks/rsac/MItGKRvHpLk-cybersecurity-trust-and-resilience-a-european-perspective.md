@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2026
 speakers: ["Lynn Doan", "Managing Editor", "Bloomberg News"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 50
 published_at: 2026-03-24T18:57:14Z
 video_id: MItGKRvHpLk

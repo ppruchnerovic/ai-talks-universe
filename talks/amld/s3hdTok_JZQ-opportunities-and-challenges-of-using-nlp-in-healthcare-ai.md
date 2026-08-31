@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Elif Ozkirimli"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2022-05-12T09:58:31Z
 video_id: s3hdTok_JZQ

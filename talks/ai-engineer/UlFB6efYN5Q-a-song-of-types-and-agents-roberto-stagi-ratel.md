@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Roberto Stagi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2026-07-12T00:00:00Z
 video_id: UlFB6efYN5Q

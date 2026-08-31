@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Justin Kitagawa"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 53
 published_at: 2026-02-06T10:38:57Z
 video_id: bSirTbyT2Zw

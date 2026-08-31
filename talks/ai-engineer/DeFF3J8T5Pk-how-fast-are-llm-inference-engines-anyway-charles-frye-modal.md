@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Charles Frye"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-06-27T10:01:25Z
 video_id: DeFF3J8T5Pk

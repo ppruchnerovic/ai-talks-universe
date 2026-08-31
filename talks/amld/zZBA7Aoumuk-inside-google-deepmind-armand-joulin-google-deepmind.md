@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2026
 speakers: ["Armand Joulin"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2026-02-13T10:17:01Z
 video_id: zZBA7Aoumuk

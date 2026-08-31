@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Tiago Mendes Santos"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 20
 published_at: 2022-04-22T14:56:52Z
 video_id: euM7f7edK4s

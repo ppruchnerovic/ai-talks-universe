@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Òscar Celma"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 34
 published_at: 2018-12-21T09:17:04Z
 video_id: 6sB0E82p0DM

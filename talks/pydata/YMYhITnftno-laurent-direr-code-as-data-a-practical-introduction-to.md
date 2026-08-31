@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Laurent Direr"]
-channel: "PyData"
+channel: null
 duration_min: 32
 published_at: 2025-11-21T16:25:50Z
 video_id: YMYhITnftno

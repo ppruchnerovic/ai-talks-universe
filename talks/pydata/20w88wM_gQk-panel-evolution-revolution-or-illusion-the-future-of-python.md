@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Neubauer", "Markus Klein", "Asya Melnik", "Serhii Sokolenko", "Ines Montani"]
-channel: "PyData"
+channel: null
 duration_min: 56
 published_at: 2026-08-04T22:21:53Z
 video_id: 20w88wM_gQk

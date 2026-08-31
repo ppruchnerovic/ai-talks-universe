@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Claudio Pinhanez"]
-channel: "PyData"
+channel: null
 duration_min: 76
 published_at: 2025-12-17T12:26:26Z
 video_id: lRY8jedtSPQ

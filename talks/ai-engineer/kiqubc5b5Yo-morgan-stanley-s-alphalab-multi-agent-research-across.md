@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brendan Rappazzo"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-29T17:06:26Z
 video_id: kiqubc5b5Yo

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Josh Long"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 43
 published_at: 2025-05-27T13:02:40Z
 video_id: xa-jd8zrF2U

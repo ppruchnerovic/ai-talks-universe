@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["James Zou"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-25T00:00:00Z
 video_id: mMNkdYnIVC4

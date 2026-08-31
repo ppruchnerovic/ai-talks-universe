@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hamza Tahir"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-07-18T07:00:06Z
 video_id: bZISsg7H7DA

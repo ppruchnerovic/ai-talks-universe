@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Ophelie Bleu"]
-channel: "PyData"
+channel: null
 duration_min: 25
 published_at: 2026-06-15T15:54:08Z
 video_id: Z8VVDCei91w

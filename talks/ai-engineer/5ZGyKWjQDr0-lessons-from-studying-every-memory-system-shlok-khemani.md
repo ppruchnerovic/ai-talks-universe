@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shlok Khemani"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-08-12T18:30:06Z
 video_id: 5ZGyKWjQDr0

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Valentin Tablan"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 37
 published_at: 2022-05-02T07:22:11Z
 video_id: byYow2YYE5w

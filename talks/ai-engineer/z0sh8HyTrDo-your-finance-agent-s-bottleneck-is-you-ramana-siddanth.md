@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ramana Siddanth Emani"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2026-07-30T03:00:06Z
 video_id: z0sh8HyTrDo

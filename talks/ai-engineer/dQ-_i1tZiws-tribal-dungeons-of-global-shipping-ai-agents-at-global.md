@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dmitry Buykin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 12
 published_at: 2026-08-29T17:30:21Z
 video_id: dQ-_i1tZiws

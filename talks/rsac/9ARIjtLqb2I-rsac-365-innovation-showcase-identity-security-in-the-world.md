@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Jenny Brock", "Sr. Manager Innovation Programs"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 54
 published_at: 2024-11-26T17:40:28Z
 video_id: 9ARIjtLqb2I

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Shivam Bharuka"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 37
 published_at: 2023-08-18T01:34:36Z
 video_id: YSxOESfYAk8

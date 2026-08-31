@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Luke Harries"]
-channel: "AI Engineer"
+channel: null
 duration_min: 8
 published_at: 2026-05-09T00:00:00Z
 video_id: DCZZ3AJKzuc

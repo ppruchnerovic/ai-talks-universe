@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Phil Nash"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 28
 published_at: 2026-06-23T12:11:07Z
 video_id: _Pq9ZJIyTWk

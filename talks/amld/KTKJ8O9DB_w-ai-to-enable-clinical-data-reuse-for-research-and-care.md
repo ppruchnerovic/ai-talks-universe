@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Stéphane Meystre"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 26
 published_at: 2024-05-15T11:20:33Z
 video_id: KTKJ8O9DB_w

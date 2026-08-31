@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Alex Shershebnev"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 44
 published_at: 2026-02-03T09:44:49Z
 video_id: 1zdRwjRpXj4

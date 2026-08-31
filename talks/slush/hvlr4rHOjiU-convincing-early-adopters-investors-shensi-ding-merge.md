@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Shensi Ding"]
-channel: "Slush"
+channel: null
 duration_min: 10
 published_at: 2025-11-28T22:00:50Z
 video_id: hvlr4rHOjiU

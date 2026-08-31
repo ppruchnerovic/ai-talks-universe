@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Priscila Andre de Oliveira"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-05-27T17:00:06Z
 video_id: li0SaBt9RDM

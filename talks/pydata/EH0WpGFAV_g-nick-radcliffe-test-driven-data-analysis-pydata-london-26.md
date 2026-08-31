@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Nick Radcliffe"]
-channel: "PyData"
+channel: null
 duration_min: 91
 published_at: 2026-06-15T15:51:54Z
 video_id: EH0WpGFAV_g

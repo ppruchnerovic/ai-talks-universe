@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Sergey Vlasov"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 14
 published_at: 2026-07-20T00:46:36Z
 video_id: 0U0U_qsDnpY

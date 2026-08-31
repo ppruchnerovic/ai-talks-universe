@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
 speakers: []
-channel: "Devoxx"
+channel: null
 duration_min: 20
 published_at: 2026-04-01T08:05:33Z
 video_id: SbgE1UM25zg

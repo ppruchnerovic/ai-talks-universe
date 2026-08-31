@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Samuel Humeau"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-05-09T17:00:07Z
 video_id: 3jGAU2sbAyY

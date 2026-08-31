@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["William Clemens"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2022-05-04T14:30:21Z
 video_id: g8jwE7ZHfrY

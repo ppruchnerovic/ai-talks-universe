@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Udi Menkes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-29T20:00:06Z
 video_id: Owb8g3yDyzo

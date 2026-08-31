@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Joe Fioti"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2025-06-03T22:22:26Z
 video_id: 0uj9lMI-sIo

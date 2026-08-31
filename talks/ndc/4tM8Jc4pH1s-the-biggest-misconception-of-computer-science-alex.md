@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Alex Dathskovsky"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 43
 published_at: 2026-07-23T10:00:25Z
 video_id: 4tM8Jc4pH1s

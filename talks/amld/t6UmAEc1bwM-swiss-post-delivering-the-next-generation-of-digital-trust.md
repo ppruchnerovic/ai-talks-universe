@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Swiss Post", "Laetitia Henriot Arsever"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 9
 published_at: 2022-05-02T14:31:25Z
 video_id: t6UmAEc1bwM

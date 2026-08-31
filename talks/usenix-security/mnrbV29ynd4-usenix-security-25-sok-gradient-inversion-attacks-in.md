@@ -5,10 +5,10 @@ slug: usenix-security-25-sok-gradient-inversion-attacks-in
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "AI security"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 17
 published_at: 2025-10-30T20:02:12Z
 video_id: mnrbV29ynd4
@@ -21,7 +21,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `17 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `17 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

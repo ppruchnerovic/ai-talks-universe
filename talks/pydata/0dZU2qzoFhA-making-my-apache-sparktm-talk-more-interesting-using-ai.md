@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Celeste Horgan"]
-channel: "PyData"
+channel: null
 duration_min: 24
 published_at: 2026-08-04T22:21:06Z
 video_id: 0dZU2qzoFhA

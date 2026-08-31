@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Laforge"]
-channel: "Devoxx"
+channel: null
 duration_min: 46
 published_at: 2025-03-31T20:39:45Z
 video_id: 5fxO-5GrkOc

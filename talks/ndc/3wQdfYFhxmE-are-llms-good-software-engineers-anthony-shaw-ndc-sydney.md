@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Anthony Shaw"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2026-05-21T11:00:27Z
 video_id: 3wQdfYFhxmE

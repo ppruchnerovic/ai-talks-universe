@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: []
-channel: "AI Native Dev"
+channel: null
 duration_min: 37
 published_at: 2026-07-24T14:00:17Z
 video_id: xR-BiPz45-4

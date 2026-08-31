@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tun Shwe"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-04-08T07:31:01Z
 video_id: BurJvbqFr4c

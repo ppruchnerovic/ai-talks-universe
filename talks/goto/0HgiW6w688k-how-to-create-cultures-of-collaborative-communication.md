@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
 speakers: ["Jessie Shternshus"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 31
 published_at: 2026-08-10T09:15:33Z
 video_id: 0HgiW6w688k

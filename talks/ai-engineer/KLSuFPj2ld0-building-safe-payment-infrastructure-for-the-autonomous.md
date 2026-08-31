@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steve Kaliski"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-06-06T00:00:00Z
 video_id: KLSuFPj2ld0

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Malcolm Harkins", "Trust Officer", "Hidden Layer"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 56
 published_at: 2024-10-16T18:07:18Z
 video_id: S8WpaFxTtlQ

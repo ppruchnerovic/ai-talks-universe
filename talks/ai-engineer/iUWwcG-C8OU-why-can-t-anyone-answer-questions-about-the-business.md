@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Garrett Galow"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-06-11T18:00:06Z
 video_id: iUWwcG-C8OU

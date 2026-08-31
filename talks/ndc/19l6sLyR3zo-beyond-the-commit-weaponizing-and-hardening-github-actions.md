@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Niek Palm"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2026-03-26T12:38:58Z
 video_id: 19l6sLyR3zo

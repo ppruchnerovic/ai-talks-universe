@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Rémi Flamary"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2025-11-21T16:25:31Z
 video_id: dA0aJvZk7jg

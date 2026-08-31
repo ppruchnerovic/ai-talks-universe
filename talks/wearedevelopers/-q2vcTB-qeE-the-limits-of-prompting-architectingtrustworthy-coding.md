@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Nimrod Kor"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 24
 published_at: 2025-09-11T12:48:11Z
 video_id: -q2vcTB-qeE

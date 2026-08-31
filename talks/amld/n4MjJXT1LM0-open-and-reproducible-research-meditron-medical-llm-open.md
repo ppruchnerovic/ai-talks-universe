@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Martin Jaggi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 19
 published_at: 2024-05-07T09:21:05Z
 video_id: n4MjJXT1LM0

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Automated Driving"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 45
 published_at: 2018-06-21T12:52:24Z
 video_id: qBYpv7PJIRA

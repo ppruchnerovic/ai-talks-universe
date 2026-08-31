@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jonas Templestein"]
-channel: "AI Engineer"
+channel: null
 duration_min: 64
 published_at: 2026-05-14T14:00:06Z
 video_id: vi-2nasppAg

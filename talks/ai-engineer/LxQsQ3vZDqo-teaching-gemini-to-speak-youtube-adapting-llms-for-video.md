@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Devansh Tandon"]
-channel: "AI Engineer"
+channel: null
 duration_min: 23
 published_at: 2025-07-16T18:01:50Z
 video_id: LxQsQ3vZDqo

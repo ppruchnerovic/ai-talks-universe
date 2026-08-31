@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Olivier Michielin"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2022-04-29T07:51:09Z
 video_id: luQ2gn-dXZw

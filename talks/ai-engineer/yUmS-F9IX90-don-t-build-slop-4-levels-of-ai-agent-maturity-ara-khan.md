@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Don't Build Slop", "Ara Khan"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-19T00:00:00Z
 video_id: yUmS-F9IX90

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Supply Chain Attacks"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 27
 published_at: 2026-07-19T23:37:32Z
 video_id: NnGGYV0DwFI

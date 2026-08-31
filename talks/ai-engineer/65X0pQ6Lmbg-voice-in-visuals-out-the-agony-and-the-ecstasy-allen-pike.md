@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Voice In", "Allen Pike"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2026-06-28T23:30:33Z
 video_id: 65X0pQ6Lmbg

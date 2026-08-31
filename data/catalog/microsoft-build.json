@@ -1,13 +1,13 @@
 {
   "slug": "microsoft-build",
   "name": "Microsoft Build",
-  "enumerated_at": "2026-08-30T21:48:41+00:00",
+  "enumerated_at": "2026-08-31T20:19:59+00:00",
   "sources": [
     {
       "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
       "label": "Build 2026",
       "year": 2026,
-      "count": 224
+      "count": 225
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj",
@@ -16,7 +16,7 @@
       "count": 274
     }
   ],
-  "count": 498,
+  "count": 499,
   "videos": {
     "-3OjBT6f_Yw": {
       "video_id": "-3OjBT6f_Yw",
@@ -1497,8 +1497,8 @@
       "label": "Build 2026",
       "year": 2026,
       "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
-      "details_at": "2026-08-31T15:35:54+00:00",
-      "description": ""
+      "description": "",
+      "details_at": "2026-08-31T15:35:54+00:00"
     },
     "8QBDaRbur70": {
       "video_id": "8QBDaRbur70",
@@ -4769,6 +4769,15 @@
       ],
       "details_at": "2026-08-31T15:35:55+00:00"
     },
+    "Ta2OiBQjj7o": {
+      "video_id": "Ta2OiBQjj7o",
+      "title": "",
+      "duration_s": null,
+      "channel": null,
+      "label": "Build 2026",
+      "year": 2026,
+      "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU"
+    },
     "TaPAlEkBSVQ": {
       "video_id": "TaPAlEkBSVQ",
       "title": "Unleash developer potential with AI and Dev Box | BRK127",
@@ -6833,8 +6842,8 @@
       "label": "Build 2026",
       "year": 2026,
       "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
-      "details_at": "2026-08-31T15:35:56+00:00",
-      "description": ""
+      "description": "",
+      "details_at": "2026-08-31T15:35:56+00:00"
     },
     "jVyhNmi3TWc": {
       "video_id": "jVyhNmi3TWc",

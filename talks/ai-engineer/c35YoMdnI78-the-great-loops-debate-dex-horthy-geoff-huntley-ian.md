@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dex Horthy"]
-channel: "AI Engineer"
+channel: null
 duration_min: 60
 published_at: 2026-07-17T21:00:06Z
 video_id: c35YoMdnI78

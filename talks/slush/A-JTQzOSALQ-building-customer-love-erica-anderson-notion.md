@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2024
 speakers: ["Building Customer Love", "Erica Anderson"]
-channel: "Slush"
+channel: null
 duration_min: 30
 published_at: 2024-11-29T12:33:36Z
 video_id: A-JTQzOSALQ

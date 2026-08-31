@@ -8,7 +8,7 @@ category: "AI security"
 edition: "AI Village"
 year: 2021
 speakers: ["Abhishek Gupta"]
-channel: "aivillage"
+channel: null
 duration_min: 31
 published_at: 2021-08-23T16:13:03Z
 video_id: sjkIWubV-rU

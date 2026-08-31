@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Jeyashree Krishnan", "Catarina Filipe"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-25T18:20:07Z
 video_id: QkBtqERDlpg

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2018
 speakers: []
-channel: "Web Summit"
+channel: null
 duration_min: 8
 published_at: 2018-11-21T15:35:42Z
 video_id: SiT0lphPXpI

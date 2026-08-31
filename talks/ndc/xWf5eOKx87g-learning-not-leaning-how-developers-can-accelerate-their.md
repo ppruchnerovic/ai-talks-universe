@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Emma Burstow"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-02-11T13:15:26Z
 video_id: xWf5eOKx87g

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Samy Bengio"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2022-04-21T14:59:10Z
 video_id: lCSdC8b0MrY

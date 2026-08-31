@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Robert Koch"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 56
 published_at: 2026-05-26T10:00:37Z
 video_id: _vaIfRXXiIY

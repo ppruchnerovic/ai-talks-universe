@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Carlos Ciller"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2022-04-21T14:39:52Z
 video_id: uxizfA3QKjg

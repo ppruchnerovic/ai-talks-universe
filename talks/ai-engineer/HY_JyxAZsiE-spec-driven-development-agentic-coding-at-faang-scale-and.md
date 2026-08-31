@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Al Harris"]
-channel: "AI Engineer"
+channel: null
 duration_min: 64
 published_at: 2026-01-09T15:15:06Z
 video_id: HY_JyxAZsiE

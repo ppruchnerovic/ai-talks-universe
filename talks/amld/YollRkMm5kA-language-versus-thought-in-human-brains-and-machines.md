@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
 speakers: ["Evelina Federenko"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 26
 published_at: 2023-10-05T16:18:01Z
 video_id: YollRkMm5kA

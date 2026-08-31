@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Özge Çinko"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-06-15T15:54:11Z
 video_id: _S_af9C9z2Q

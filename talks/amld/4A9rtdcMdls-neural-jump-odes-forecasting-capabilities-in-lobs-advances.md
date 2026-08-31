@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Florian Krach"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 12
 published_at: 2024-05-13T12:13:04Z
 video_id: 4A9rtdcMdls

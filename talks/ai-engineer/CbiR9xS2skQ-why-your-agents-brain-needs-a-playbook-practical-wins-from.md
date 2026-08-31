@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jesús Barrasa"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-27T09:53:52Z
 video_id: CbiR9xS2skQ

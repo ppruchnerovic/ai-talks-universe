@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
 speakers: ["Nico Martin"]
-channel: "Devoxx"
+channel: null
 duration_min: 43
 published_at: 2025-03-31T20:40:59Z
 video_id: qek5U_wo308

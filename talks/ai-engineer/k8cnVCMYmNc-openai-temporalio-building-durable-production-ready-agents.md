@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cornelia Davis"]
-channel: "AI Engineer"
+channel: null
 duration_min: 78
 published_at: 2026-01-12T19:30:06Z
 video_id: k8cnVCMYmNc

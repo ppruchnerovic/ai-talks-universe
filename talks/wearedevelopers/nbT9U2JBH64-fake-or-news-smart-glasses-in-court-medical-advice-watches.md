@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Jason Torres"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 8
 published_at: 2026-08-28T15:34:18Z
 video_id: nbT9U2JBH64

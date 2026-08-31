@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Ville Tuulos"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 123
 published_at: 2023-11-10T17:21:50Z
 video_id: o_AwhzInKAE

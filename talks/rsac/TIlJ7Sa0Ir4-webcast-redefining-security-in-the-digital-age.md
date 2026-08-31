@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["Jabez Abraham"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 61
 published_at: 2025-10-03T15:09:31Z
 video_id: TIlJ7Sa0Ir4

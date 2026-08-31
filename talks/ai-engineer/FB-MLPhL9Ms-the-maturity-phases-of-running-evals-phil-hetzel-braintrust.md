@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Hetzel"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-27T13:00:06Z
 video_id: FB-MLPhL9Ms

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
 speakers: []
-channel: "GOTO Conferences"
+channel: null
 duration_min: 47
 published_at: 2025-04-11T09:26:52Z
 video_id: jsnCcdSkKkY

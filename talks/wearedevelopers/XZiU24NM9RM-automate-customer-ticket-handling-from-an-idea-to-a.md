@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Lukas Kölbl"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 32
 published_at: 2018-12-21T09:21:03Z
 video_id: XZiU24NM9RM

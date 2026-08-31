@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Sergiy Dybskiy"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-08-13T10:34:07Z
 video_id: 1wZRxVD1lqc

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Hui Ben"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 29
 published_at: 2022-04-27T15:03:35Z
 video_id: Uqopne6GwOE

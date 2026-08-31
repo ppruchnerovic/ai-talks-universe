@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2025
 speakers: ["Harvard Law School"]
-channel: "Black Hat"
+channel: null
 duration_min: 40
 published_at: 2025-02-12T19:08:45Z
 video_id: cu-3Ul3VA48

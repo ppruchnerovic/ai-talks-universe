@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Will Velida"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 51
 published_at: 2026-05-21T15:00:01Z
 video_id: v7t7xTveiWQ

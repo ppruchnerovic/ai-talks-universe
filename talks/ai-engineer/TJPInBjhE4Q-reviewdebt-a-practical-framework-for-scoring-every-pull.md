@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sachin Gupta"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-07-12T12:15:38Z
 video_id: TJPInBjhE4Q

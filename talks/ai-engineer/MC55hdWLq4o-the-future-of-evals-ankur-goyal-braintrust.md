@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ankur Goyal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 5
 published_at: 2025-08-09T15:12:25Z
 video_id: MC55hdWLq4o

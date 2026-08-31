@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Breno Brito"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-01-09T17:54:39Z
 video_id: 01yeO-1RUcg

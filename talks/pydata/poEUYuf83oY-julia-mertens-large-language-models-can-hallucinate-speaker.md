@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Julia Mertens"]
-channel: "PyData"
+channel: null
 duration_min: 47
 published_at: 2026-05-05T12:44:12Z
 video_id: poEUYuf83oY

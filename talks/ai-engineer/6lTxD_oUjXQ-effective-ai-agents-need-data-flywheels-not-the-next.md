@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sylendran Arunagiri"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-06-03T00:00:00Z
 video_id: 6lTxD_oUjXQ

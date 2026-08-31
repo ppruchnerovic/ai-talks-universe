@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Samuel Colvin"]
-channel: "PyData"
+channel: null
 duration_min: 42
 published_at: 2026-06-06T08:48:56Z
 video_id: 41NimccrfP8

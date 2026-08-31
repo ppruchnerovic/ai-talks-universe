@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Invisible Users", "Alex Liss"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2025-06-03T22:22:26Z
 video_id: 8D_VdU6DBhI

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Vaibhav Gupta"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 100
 published_at: 2025-10-24T23:01:15Z
 video_id: FA1IA2P4AXg

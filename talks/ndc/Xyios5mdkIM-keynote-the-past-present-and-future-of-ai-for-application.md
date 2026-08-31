@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Steve Sanderson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 59
 published_at: 2025-05-13T14:15:04Z
 video_id: Xyios5mdkIM

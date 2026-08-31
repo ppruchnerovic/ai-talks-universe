@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Lenka Zdeborová"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 9
 published_at: 2022-04-20T08:25:22Z
 video_id: mHbrMYg5KiY

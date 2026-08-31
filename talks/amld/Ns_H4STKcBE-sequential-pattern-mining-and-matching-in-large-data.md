@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Olaf Schleusing"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 5
 published_at: 2024-05-15T13:12:28Z
 video_id: Ns_H4STKcBE

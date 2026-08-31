@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Ines Montani"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:20:24Z
 video_id: 4u1hp0LiB-k

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sam Bhagwat"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-08-01T00:00:00Z
 video_id: 8SUJEqQNClw

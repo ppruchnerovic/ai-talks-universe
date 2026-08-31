@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Holger Fröhlich"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 24
 published_at: 2022-04-29T08:00:34Z
 video_id: 8Kidi6bV9x0

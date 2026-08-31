@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Victoria Almazova"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 61
 published_at: 2025-03-27T14:32:36Z
 video_id: CaZbsbKnOho

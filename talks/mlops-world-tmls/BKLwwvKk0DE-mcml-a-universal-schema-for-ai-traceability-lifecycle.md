@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Lanre Ogunkunle", "Alex Olaniyan", "Project Manager"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 26
 published_at: 2025-10-20T22:01:44Z
 video_id: BKLwwvKk0DE

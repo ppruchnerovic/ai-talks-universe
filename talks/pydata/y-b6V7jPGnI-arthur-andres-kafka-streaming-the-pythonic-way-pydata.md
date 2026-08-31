@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Arthur Andres- Kafka Streaming"]
-channel: "PyData"
+channel: null
 duration_min: 36
 published_at: 2026-06-15T15:55:11Z
 video_id: y-b6V7jPGnI

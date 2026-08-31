@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jack Cable"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-12T22:00:09Z
 video_id: 7JgIS42mz7U

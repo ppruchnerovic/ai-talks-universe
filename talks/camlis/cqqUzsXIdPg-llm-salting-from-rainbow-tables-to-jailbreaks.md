@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Tamás Vörös"]
-channel: "CAMLIS"
+channel: null
 duration_min: 25
 published_at: 2025-11-13T15:56:31Z
 video_id: cqqUzsXIdPg

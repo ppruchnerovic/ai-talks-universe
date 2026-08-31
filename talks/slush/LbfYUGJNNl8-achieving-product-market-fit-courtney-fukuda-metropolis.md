@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Achieving Product Market Fit", "Courtney Fukuda"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2025-11-28T22:00:24Z
 video_id: LbfYUGJNNl8

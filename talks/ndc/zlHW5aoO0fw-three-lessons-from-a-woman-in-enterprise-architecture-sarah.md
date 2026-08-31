@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Sarah Wimberley"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 47
 published_at: 2026-08-13T11:32:12Z
 video_id: zlHW5aoO0fw

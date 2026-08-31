@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2026
 speakers: ["Andy Yen"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2026-02-13T11:22:21Z
 video_id: 2_3dlq8g030

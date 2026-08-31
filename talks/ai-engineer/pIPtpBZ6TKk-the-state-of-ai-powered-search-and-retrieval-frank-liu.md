@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Frank Liu"]
-channel: "AI Engineer"
+channel: null
 duration_min: 13
 published_at: 2025-06-27T09:57:57Z
 video_id: pIPtpBZ6TKk

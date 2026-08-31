@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Justin Smith"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-08-09T00:00:00Z
 video_id: vSx5IULvBns

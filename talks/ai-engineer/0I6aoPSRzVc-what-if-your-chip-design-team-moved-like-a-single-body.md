@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Abduallah Mohamed"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-22T15:00:25Z
 video_id: 0I6aoPSRzVc

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
 speakers: ["Architecture Modernization"]
-channel: "GOTO Conferences"
+channel: null
 duration_min: 41
 published_at: 2024-09-27T09:29:49Z
 video_id: j4FPDxTFo2k

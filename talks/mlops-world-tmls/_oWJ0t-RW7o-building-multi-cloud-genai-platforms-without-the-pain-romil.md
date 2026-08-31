@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Romil Bhardwaj"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 26
 published_at: 2025-10-24T23:00:30Z
 video_id: _oWJ0t-RW7o

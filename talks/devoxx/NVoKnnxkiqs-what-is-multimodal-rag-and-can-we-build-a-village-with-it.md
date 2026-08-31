@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alexander Chatzizacharias"]
-channel: "Devoxx"
+channel: null
 duration_min: 43
 published_at: 2025-10-02T12:31:23Z
 video_id: NVoKnnxkiqs

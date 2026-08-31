@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Oleh Kostromin", "Iryna Kondrashchenko"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2026-08-04T22:20:34Z
 video_id: 1_r3GqS7GK8

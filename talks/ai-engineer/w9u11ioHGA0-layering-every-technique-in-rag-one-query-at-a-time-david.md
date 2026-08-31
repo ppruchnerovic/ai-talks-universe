@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Karam"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-07-29T14:30:06Z
 video_id: w9u11ioHGA0

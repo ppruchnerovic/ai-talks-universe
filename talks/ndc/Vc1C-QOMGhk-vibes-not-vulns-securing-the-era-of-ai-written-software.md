@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Mackenzie Jackson"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 23
 published_at: 2026-08-05T11:21:24Z
 video_id: Vc1C-QOMGhk

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Denys Linkov"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-08-08T00:00:00Z
 video_id: 7vn4WpqNpck

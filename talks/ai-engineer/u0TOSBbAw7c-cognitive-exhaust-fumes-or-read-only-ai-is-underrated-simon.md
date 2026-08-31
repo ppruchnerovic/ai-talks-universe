@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cognitive Exhaust Fumes"]
-channel: "AI Engineer"
+channel: null
 duration_min: 12
 published_at: 2026-04-08T00:00:00Z
 video_id: u0TOSBbAw7c

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Forrest Brazeal"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-06-27T10:46:59Z
 video_id: 6NIr_cYPglk

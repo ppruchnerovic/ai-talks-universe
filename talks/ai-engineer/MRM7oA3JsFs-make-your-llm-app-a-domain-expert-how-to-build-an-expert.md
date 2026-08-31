@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Christopher Lovejoy"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-28T19:55:45Z
 video_id: MRM7oA3JsFs

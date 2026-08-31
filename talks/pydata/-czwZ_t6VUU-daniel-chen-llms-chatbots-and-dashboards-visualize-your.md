@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Daniel Chen"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-01-09T17:55:01Z
 video_id: -czwZ_t6VUU

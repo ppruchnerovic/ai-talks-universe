@@ -5,10 +5,10 @@ slug: usenix-security-25-enabling-low-cost-secure-computing-on
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "AI security"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 20
 published_at: 2025-10-30T19:58:10Z
 video_id: CIBLGD2frew
@@ -21,7 +21,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `20 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `20 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

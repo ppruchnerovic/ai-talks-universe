@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yuxuan Zhang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2025-11-22T15:00:06Z
 video_id: m6MF1OR_9kM

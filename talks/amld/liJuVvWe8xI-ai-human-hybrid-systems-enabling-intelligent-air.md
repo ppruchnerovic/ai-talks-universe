@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Sameer Alam"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 32
 published_at: 2022-04-26T08:19:53Z
 video_id: liJuVvWe8xI

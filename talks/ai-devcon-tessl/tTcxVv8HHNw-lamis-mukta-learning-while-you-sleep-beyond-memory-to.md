@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Lamis Mukta"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 32
 published_at: 2026-06-22T07:07:18Z
 video_id: tTcxVv8HHNw

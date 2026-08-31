@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Antonio Pérez Velasco"]
-channel: "PyData"
+channel: null
 duration_min: 82
 published_at: 2026-05-07T15:23:05Z
 video_id: 1COW_2L9ofo

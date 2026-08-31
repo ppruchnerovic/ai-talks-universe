@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michael Richman"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-05-24T16:00:06Z
 video_id: W-SX_srBa3Y

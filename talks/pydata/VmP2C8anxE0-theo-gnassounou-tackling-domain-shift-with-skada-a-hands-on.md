@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Théo Gnassounou"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2025-11-21T16:25:09Z
 video_id: VmP2C8anxE0

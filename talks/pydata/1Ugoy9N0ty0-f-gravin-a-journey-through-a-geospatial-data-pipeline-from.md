@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["F Gravin"]
-channel: "PyData"
+channel: null
 duration_min: 25
 published_at: 2025-11-21T16:26:46Z
 video_id: 1Ugoy9N0ty0

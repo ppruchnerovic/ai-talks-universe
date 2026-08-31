@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ari Heljakka"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2025-06-03T22:22:28Z
 video_id: RVN9HWKmkNU

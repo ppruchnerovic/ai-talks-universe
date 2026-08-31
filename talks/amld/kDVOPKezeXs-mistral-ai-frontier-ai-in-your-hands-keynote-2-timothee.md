@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Timothée Lacroix"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 24
 published_at: 2024-05-07T09:28:17Z
 video_id: kDVOPKezeXs

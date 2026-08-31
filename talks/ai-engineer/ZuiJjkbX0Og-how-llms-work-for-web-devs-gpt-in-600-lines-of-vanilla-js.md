@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ishan Anand"]
-channel: "AI Engineer"
+channel: null
 duration_min: 102
 published_at: 2025-07-13T17:30:06Z
 video_id: ZuiJjkbX0Og

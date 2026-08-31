@@ -5,10 +5,10 @@ slug: usenix-security-25-enigma-track-fighting-fire-with-venom
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
 category: "AI security"
-edition: "USENIX"
+edition: "USENIX Security"
 year: 2025
 speakers: []
-channel: "USENIX"
+channel: null
 duration_min: 23
 published_at: 2025-10-16T21:25:02Z
 video_id: yS4IfaGOl4A
@@ -21,7 +21,7 @@ transcript: false
 
 **Speaker not identified**
 
-`USENIX Security Symposium` · `USENIX` · `2025` · `23 min`
+`USENIX Security Symposium` · `USENIX Security` · `2025` · `23 min`
 
 `#usenix` `#technology` `#conference` `#open access`
 

@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Annu Nieminen"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2025-11-26T15:21:35Z
 video_id: K_ACPjm51ao

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Florian Tramèr"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 22
 published_at: 2024-05-15T13:28:36Z
 video_id: r6_Hmx2YP7g

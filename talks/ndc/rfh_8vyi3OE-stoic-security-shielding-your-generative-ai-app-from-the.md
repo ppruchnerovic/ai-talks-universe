@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Jeff Watkins"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2026-02-03T10:16:29Z
 video_id: rfh_8vyi3OE

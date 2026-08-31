@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Manuel Odendahl"]
-channel: "AI Engineer"
+channel: null
 duration_min: 29
 published_at: 2025-06-10T17:30:11Z
 video_id: J3oJqan2Gv8

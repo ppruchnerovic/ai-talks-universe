@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Hassan El Mghari"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-07-15T17:02:33Z
 video_id: gcseUQJ6Gbg

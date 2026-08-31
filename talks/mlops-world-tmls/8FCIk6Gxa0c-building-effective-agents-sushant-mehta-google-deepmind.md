@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sushant Mehta"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 36
 published_at: 2025-10-20T22:49:07Z
 video_id: 8FCIk6Gxa0c

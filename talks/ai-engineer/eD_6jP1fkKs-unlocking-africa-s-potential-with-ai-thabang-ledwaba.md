@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Thabang Ledwaba"]
-channel: "AI Engineer"
+channel: null
 duration_min: 26
 published_at: 2025-06-03T07:00:37Z
 video_id: eD_6jP1fkKs

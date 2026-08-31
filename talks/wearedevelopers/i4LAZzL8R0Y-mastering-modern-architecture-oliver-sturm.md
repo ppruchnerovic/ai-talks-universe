@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Mastering Modern Architecture", "Oliver Sturm"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 39
 published_at: 2026-03-06T11:21:48Z
 video_id: i4LAZzL8R0Y

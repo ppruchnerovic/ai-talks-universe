@@ -8,7 +8,7 @@ category: "AI security"
 edition: "AI Village"
 year: 2020
 speakers: []
-channel: "aivillage"
+channel: null
 duration_min: 24
 published_at: 2020-08-08T04:40:18Z
 video_id: Et05sD1vKqo

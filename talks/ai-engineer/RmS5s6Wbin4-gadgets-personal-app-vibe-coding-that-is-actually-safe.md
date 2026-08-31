@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kenton Varda"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-08-05T00:00:00Z
 video_id: RmS5s6Wbin4

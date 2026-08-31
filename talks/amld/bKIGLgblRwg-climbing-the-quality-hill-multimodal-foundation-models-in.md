@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Fabian Roth"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 23
 published_at: 2024-06-06T13:36:05Z
 video_id: bKIGLgblRwg

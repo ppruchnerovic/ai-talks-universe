@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Paola Bianchi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2022-05-02T08:05:20Z
 video_id: j4ntq7fMGL8

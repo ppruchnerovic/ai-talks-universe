@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Bill Maxwell"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 74
 published_at: 2025-11-27T15:56:00Z
 video_id: 97VGKZcZn84

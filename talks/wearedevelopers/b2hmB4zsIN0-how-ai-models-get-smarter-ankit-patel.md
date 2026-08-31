@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ankit Patel"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 29
 published_at: 2025-09-16T09:15:00Z
 video_id: b2hmB4zsIN0

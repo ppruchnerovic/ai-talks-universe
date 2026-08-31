@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Heather Downing"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 52
 published_at: 2026-02-27T05:25:13Z
 video_id: NI6sTgOlK74

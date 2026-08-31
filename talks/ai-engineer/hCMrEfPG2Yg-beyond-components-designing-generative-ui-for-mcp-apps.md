@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ruben Casas"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-06-03T00:00:00Z
 video_id: hCMrEfPG2Yg

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dr. Tom Shapland"]
-channel: "AI Engineer"
+channel: null
 duration_min: 27
 published_at: 2025-07-31T16:00:06Z
 video_id: 1v9zBiZKlIY

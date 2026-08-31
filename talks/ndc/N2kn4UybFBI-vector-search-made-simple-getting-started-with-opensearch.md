@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Dotan Horovits"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 55
 published_at: 2026-02-26T18:14:09Z
 video_id: N2kn4UybFBI

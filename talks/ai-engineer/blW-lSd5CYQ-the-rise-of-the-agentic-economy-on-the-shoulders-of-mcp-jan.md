@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jan Curn"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-18T18:59:57Z
 video_id: blW-lSd5CYQ

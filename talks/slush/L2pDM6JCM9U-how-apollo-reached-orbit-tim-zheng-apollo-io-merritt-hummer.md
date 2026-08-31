@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Tim Zheng"]
-channel: "Slush"
+channel: null
 duration_min: 20
 published_at: 2025-11-30T10:00:35Z
 video_id: L2pDM6JCM9U

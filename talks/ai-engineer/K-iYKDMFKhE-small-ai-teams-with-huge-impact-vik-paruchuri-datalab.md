@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Vik Paruchuri"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-07-15T17:05:01Z
 video_id: K-iYKDMFKhE

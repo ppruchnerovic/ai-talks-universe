@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hanna Lichtenberg"]
-channel: "AI Engineer"
+channel: null
 duration_min: 14
 published_at: 2026-07-07T23:31:57Z
 video_id: 1IdzkRVmWAA

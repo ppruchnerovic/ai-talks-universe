@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Gunnar Grosch"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 45
 published_at: 2025-10-17T09:48:44Z
 video_id: yVXh-0lIc8o

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "InfoQ"
 year: 2024
 speakers: ["Architecture Does Not Emerge"]
-channel: "InfoQ"
+channel: null
 duration_min: 51
 published_at: 2024-10-03T14:16:17Z
 video_id: ONRnZk0ZKsA

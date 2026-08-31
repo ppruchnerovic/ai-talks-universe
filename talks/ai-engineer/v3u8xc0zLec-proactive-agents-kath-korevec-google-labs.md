@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kath Korevec"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-12-13T04:44:20Z
 video_id: v3u8xc0zLec

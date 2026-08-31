@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Georges Kariniotakis"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 34
 published_at: 2024-05-13T09:29:13Z
 video_id: kaWAAcZDWwI

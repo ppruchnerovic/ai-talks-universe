@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Pablo Salvador Lopez"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 23
 published_at: 2025-10-23T04:41:44Z
 video_id: 2O4sZtcFk00

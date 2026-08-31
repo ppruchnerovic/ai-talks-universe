@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Sebastiano Papini"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 8
 published_at: 2024-05-13T13:12:26Z
 video_id: 6S0oL2XnYBs

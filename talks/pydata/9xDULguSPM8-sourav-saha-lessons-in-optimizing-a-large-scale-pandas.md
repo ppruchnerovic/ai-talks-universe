@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Sourav Saha"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-01-09T17:50:09Z
 video_id: 9xDULguSPM8

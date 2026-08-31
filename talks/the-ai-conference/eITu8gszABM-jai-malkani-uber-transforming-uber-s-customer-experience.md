@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "The AI Conference"
 year: 2026
 speakers: []
-channel: "The AI Conference™"
+channel: null
 duration_min: 22
 published_at: 2026-04-24T19:20:17Z
 video_id: eITu8gszABM

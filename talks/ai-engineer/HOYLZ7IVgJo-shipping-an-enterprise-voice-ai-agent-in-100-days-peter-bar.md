@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Peter Bar"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2025-07-18T16:00:06Z
 video_id: HOYLZ7IVgJo

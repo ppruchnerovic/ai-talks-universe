@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
 speakers: ["Emma Burrows"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 27
 published_at: 2026-07-03T07:22:37Z
 video_id: M6Nhl4zR0uk

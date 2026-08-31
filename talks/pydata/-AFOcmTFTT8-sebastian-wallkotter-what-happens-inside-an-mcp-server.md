@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Sebastian Wallkötter"]
-channel: "PyData"
+channel: null
 duration_min: 50
 published_at: 2025-10-15T01:42:36Z
 video_id: -AFOcmTFTT8

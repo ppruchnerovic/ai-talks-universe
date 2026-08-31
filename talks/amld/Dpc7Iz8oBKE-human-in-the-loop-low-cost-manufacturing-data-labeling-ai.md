@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Walid Daboubi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 17
 published_at: 2022-05-30T08:07:43Z
 video_id: Dpc7Iz8oBKE

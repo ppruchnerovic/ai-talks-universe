@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Sam Liu"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 38
 published_at: 2026-08-24T12:01:27Z
 video_id: 1ZdY6vaU60s

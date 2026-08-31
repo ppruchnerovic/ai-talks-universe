@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Derek Ashmore"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 102
 published_at: 2025-11-27T16:17:35Z
 video_id: cRAB2kkvh-4

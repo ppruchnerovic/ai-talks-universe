@@ -8,7 +8,7 @@ category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Ihor Sasovets"]
-channel: "OWASP GenAI Security Project"
+channel: null
 duration_min: 34
 published_at: 2026-07-20T00:35:19Z
 video_id: lXK4oGjYWgs

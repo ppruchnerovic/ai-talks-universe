@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2026
 speakers: ["Remote Server"]
-channel: "Black Hat"
+channel: null
 duration_min: 31
 published_at: 2026-08-20T14:45:16Z
 video_id: wYcG_6SS788

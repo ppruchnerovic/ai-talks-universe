@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Vinay Sharma"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 6
 published_at: 2024-06-03T13:31:45Z
 video_id: n0ZX_ZfWPGg

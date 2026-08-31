@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Ken Obata"]
-channel: "PyData"
+channel: null
 duration_min: 35
 published_at: 2026-06-15T15:52:07Z
 video_id: LkBvaesVeYo

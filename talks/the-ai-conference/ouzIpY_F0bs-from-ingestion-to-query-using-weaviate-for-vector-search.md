@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Adam Chan"]
-channel: "The AI Conference™"
+channel: null
 duration_min: 29
 published_at: 2025-09-23T19:24:07Z
 video_id: ouzIpY_F0bs

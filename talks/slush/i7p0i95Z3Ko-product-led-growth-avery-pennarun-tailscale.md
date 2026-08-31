@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Product-led Growth", "Avery Pennarun"]
-channel: "Slush"
+channel: null
 duration_min: 27
 published_at: 2025-11-28T13:49:48Z
 video_id: i7p0i95Z3Ko

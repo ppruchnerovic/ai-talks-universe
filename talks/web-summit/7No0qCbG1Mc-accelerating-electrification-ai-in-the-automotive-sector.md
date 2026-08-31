@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2018
 speakers: ["Mate Rimac"]
-channel: "Web Summit"
+channel: null
 duration_min: 15
 published_at: 2018-11-07T17:20:55Z
 video_id: 7No0qCbG1Mc

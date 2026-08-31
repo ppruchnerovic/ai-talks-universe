@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Mirano Tuk", "Filip Bacic"]
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:22:05Z
 video_id: t0ZWNh-UXDs

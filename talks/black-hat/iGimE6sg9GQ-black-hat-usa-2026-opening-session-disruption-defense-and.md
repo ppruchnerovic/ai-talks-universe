@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2026
 speakers: []
-channel: "Black Hat"
+channel: null
 duration_min: 23
 published_at: 2026-08-06T20:46:25Z
 video_id: iGimE6sg9GQ

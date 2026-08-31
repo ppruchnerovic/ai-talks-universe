@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: []
-channel: "AI Engineer"
+channel: null
 duration_min: 82
 published_at: 2026-01-14T15:03:01Z
 video_id: VSdV-AdSlis

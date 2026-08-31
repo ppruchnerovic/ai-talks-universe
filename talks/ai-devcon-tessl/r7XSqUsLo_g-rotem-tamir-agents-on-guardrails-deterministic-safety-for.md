@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Rotem Tamir"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 21
 published_at: 2025-11-27T22:01:21Z
 video_id: r7XSqUsLo_g

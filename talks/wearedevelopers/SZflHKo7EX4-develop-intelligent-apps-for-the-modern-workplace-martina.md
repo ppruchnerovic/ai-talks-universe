@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Martina Grom"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 32
 published_at: 2018-12-21T09:17:04Z
 video_id: SZflHKo7EX4

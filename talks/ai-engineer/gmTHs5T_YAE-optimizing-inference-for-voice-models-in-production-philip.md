@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philip Kiely"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2025-07-01T07:00:06Z
 video_id: gmTHs5T_YAE

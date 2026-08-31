@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Adélaïde Kissi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 10
 published_at: 2024-05-15T13:03:05Z
 video_id: jrhKS9INv-8

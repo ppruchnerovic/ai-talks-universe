@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: []
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 37
 published_at: 2025-11-20T18:36:26Z
 video_id: BC8y69TpIbk

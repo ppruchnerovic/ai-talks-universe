@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Jacomo Corbo"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-12-01T08:03:51Z
 video_id: xqapB1bR8SM

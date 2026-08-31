@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Corey Gallon"]
-channel: "AI Engineer"
+channel: null
 duration_min: 22
 published_at: 2026-08-14T15:30:00Z
 video_id: 26RtyAm9y_Q

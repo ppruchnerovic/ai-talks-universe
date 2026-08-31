@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2021
 speakers: ["Rich Caruana"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 51
 published_at: 2021-05-18T16:00:19Z
 video_id: gqTWHmChmII

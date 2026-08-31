@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Suzanne Vergnolle"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 91
 published_at: 2022-04-22T14:34:32Z
 video_id: gljTUXB6Tv4

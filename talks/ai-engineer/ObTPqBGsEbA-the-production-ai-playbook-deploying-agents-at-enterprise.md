@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sandipan Bhaumik"]
-channel: "AI Engineer"
+channel: null
 duration_min: 37
 published_at: 2026-06-18T13:00:06Z
 video_id: ObTPqBGsEbA

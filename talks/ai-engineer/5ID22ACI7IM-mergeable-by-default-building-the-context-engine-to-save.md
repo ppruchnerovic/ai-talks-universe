@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Werry"]
-channel: "AI Engineer"
+channel: null
 duration_min: 101
 published_at: 2026-05-03T16:00:06Z
 video_id: 5ID22ACI7IM

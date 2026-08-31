@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Mohammad Hossein Moradi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 8
 published_at: 2022-04-22T14:27:09Z
 video_id: Iht9Tf5xpiU

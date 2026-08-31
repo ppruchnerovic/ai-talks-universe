@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
 speakers: ["Marie Sacksick"]
-channel: "PyData"
+channel: null
 duration_min: 28
 published_at: 2025-11-21T16:26:13Z
 video_id: PeiqL3--3gc

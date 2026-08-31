@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Imen Grida Ben Yahia"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2024-05-15T07:19:00Z
 video_id: d_QedAlcMok

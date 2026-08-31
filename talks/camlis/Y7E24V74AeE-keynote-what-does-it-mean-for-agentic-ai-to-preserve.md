@@ -8,7 +8,7 @@ category: "AI security"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Niloofar Mireshghallah", "Incoming Assistant Professor"]
-channel: "CAMLIS"
+channel: null
 duration_min: 63
 published_at: 2025-11-03T19:57:20Z
 video_id: Y7E24V74AeE

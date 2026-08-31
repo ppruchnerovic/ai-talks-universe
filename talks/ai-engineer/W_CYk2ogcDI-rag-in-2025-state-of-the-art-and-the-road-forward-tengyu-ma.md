@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tengyu Ma"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2025-06-27T00:00:00Z
 video_id: W_CYk2ogcDI

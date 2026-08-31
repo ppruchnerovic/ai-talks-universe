@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Steinberger"]
-channel: "AI Engineer"
+channel: null
 duration_min: 44
 published_at: 2026-04-17T15:30:06Z
 video_id: zgNvts_2TUE

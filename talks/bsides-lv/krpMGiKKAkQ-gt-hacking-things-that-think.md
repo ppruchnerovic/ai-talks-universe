@@ -8,7 +8,7 @@ category: "AI security"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: ["Hacking Things That Think"]
-channel: "BSidesLV"
+channel: null
 duration_min: 37
 published_at: 2024-09-04T22:15:19Z
 video_id: krpMGiKKAkQ

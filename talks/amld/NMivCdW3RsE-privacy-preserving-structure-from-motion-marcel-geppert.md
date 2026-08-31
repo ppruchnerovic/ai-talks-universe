@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Marcel Geppert"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 18
 published_at: 2022-05-04T07:27:38Z
 video_id: NMivCdW3RsE

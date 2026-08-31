@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Travis Frisinger"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2025-06-03T22:22:29Z
 video_id: u825uxb7LnA

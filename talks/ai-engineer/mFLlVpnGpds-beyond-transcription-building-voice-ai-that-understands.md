@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hervé Bredin"]
-channel: "AI Engineer"
+channel: null
 duration_min: 25
 published_at: 2026-06-05T00:00:00Z
 video_id: mFLlVpnGpds

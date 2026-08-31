@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Omphile Matheolane"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 40
 published_at: 2026-03-09T14:23:12Z
 video_id: Y0StDD1kC7I

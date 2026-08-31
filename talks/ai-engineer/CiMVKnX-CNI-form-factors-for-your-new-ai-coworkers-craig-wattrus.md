@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Craig Wattrus"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2025-08-22T00:00:00Z
 video_id: CiMVKnX-CNI

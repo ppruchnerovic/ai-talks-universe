@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Ara Yeroyan"]
-channel: "PyData"
+channel: null
 duration_min: 63
 published_at: 2026-07-06T12:17:22Z
 video_id: 4Q0eE8H6djI

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Leanora Horne"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 59
 published_at: 2026-05-27T10:00:13Z
 video_id: QEUseCP6zPI

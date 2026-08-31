@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Jon Mccoy"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 35
 published_at: 2026-05-04T13:55:38Z
 video_id: 9sEbUpS4eTY

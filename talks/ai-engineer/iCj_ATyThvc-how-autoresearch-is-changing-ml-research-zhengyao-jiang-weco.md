@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zhengyao Jiang"]
-channel: "AI Engineer"
+channel: null
 duration_min: 16
 published_at: 2026-07-16T18:08:16Z
 video_id: iCj_ATyThvc

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Dr. Irena Bojarovska"]
-channel: "PyData"
+channel: null
 duration_min: 31
 published_at: 2026-08-04T22:21:10Z
 video_id: vS8WREuJ3-M

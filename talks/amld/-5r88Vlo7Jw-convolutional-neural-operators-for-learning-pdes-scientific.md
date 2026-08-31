@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Bogdan Raonic"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 5
 published_at: 2024-05-13T14:52:45Z
 video_id: -5r88Vlo7Jw

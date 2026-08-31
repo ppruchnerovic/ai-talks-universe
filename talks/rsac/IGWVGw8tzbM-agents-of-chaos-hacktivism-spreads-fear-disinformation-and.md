@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Alexander Leslie", "Associate Threat Intelligence Analyst"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 47
 published_at: 2024-06-10T21:16:37Z
 video_id: IGWVGw8tzbM

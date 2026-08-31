@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Touradj Ebrahimi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 14
 published_at: 2022-04-20T08:46:43Z
 video_id: oqOs1QTzZj8

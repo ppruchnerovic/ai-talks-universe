@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Charles Herrin"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 51
 published_at: 2024-06-10T21:12:27Z
 video_id: cqibqsgVypA

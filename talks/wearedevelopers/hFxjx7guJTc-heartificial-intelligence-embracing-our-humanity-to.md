@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2019
 speakers: ["Heartificial Intelligence", "John C. Havens"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 29
 published_at: 2019-07-11T09:23:23Z
 video_id: hFxjx7guJTc

@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Diana Kelley"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 50
 published_at: 2024-06-10T21:15:27Z
 video_id: byWL54oyDgI

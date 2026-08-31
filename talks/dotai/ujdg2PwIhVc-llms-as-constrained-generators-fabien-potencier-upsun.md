@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2025
 speakers: ["Fabien Potencier"]
-channel: "dotconferences"
+channel: null
 duration_min: 10
 published_at: 2025-11-14T14:16:07Z
 video_id: ujdg2PwIhVc

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Carter Abdallah"]
-channel: "AI Engineer"
+channel: null
 duration_min: 43
 published_at: 2026-08-07T02:00:06Z
 video_id: FWMJQDH3iK0

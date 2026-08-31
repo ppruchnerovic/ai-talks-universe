@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Daniele Contessi"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 15
 published_at: 2022-04-20T09:05:27Z
 video_id: zoXPQRThGPs

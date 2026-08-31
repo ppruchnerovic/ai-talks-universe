@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Alex Sherstinsky"]
-channel: "Toronto Machine Learning Society (TMLS)"
+channel: null
 duration_min: 42
 published_at: 2024-05-16T14:07:22Z
 video_id: QynsWvex1zE

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dominik Tornow"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2026-06-29T01:00:36Z
 video_id: DqtmZE6Hl0g

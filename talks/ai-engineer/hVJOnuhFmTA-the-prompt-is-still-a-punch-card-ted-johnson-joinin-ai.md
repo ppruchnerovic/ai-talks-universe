@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ted Johnson"]
-channel: "AI Engineer"
+channel: null
 duration_min: 20
 published_at: 2026-07-02T16:25:19Z
 video_id: hVJOnuhFmTA

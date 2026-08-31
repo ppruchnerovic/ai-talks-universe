@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vincent Koc"]
-channel: "AI Engineer"
+channel: null
 duration_min: 15
 published_at: 2026-05-12T16:00:06Z
 video_id: 4VhbYlfC7Gs

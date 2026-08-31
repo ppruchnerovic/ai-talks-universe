@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Bjornn"]
-channel: "AI Engineer"
+channel: null
 duration_min: 17
 published_at: 2026-08-20T16:00:22Z
 video_id: 4loPnxvWWhg

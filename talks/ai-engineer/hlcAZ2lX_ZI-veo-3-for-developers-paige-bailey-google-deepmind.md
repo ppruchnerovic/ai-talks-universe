@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Paige Bailey"]
-channel: "AI Engineer"
+channel: null
 duration_min: 21
 published_at: 2025-06-21T20:30:06Z
 video_id: hlcAZ2lX_ZI

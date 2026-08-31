@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Liran Tal"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 24
 published_at: 2025-11-27T16:21:32Z
 video_id: McB4Sth3_Ss

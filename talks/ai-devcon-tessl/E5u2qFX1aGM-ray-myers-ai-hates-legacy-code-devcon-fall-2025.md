@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Ray Myers"]
-channel: "AI Native Dev"
+channel: null
 duration_min: 24
 published_at: 2025-11-27T22:05:07Z
 video_id: E5u2qFX1aGM

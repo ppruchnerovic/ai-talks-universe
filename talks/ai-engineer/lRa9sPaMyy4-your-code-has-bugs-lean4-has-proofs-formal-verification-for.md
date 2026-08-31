@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Varun Pant"]
-channel: "AI Engineer"
+channel: null
 duration_min: 10
 published_at: 2026-08-28T18:00:17Z
 video_id: lRa9sPaMyy4

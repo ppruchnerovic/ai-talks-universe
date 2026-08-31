@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["David Mitchell", "Senior Product Manager"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 50
 published_at: 2024-08-14T17:41:58Z
 video_id: rwAlGl7X_z4

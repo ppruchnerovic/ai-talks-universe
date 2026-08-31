@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Robert Hogg"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 48
 published_at: 2026-02-03T13:58:55Z
 video_id: gjEHaZzHWnM

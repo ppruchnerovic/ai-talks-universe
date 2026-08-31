@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Will Brown"]
-channel: "AI Engineer"
+channel: null
 duration_min: 18
 published_at: 2025-12-09T15:53:42Z
 video_id: _IzZWeuTx7I

@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Jeanne Fleury"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 11
 published_at: 2022-05-02T14:25:30Z
 video_id: tVGb614G_04

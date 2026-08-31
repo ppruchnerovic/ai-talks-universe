@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Simona Toader"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 58
 published_at: 2026-05-08T09:25:02Z
 video_id: nKKNrgGuU8M

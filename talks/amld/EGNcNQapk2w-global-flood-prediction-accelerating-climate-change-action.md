@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
 speakers: ["Global Flood Prediction", "Cynthia Zeng"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 16
 published_at: 2024-06-17T08:54:22Z
 video_id: EGNcNQapk2w

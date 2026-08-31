@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2024
 speakers: ["Sandy Dunn", "Adjunct Professor", "Boise State"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 94
 published_at: 2024-09-24T00:21:43Z
 video_id: 1XzHgKRcrmA

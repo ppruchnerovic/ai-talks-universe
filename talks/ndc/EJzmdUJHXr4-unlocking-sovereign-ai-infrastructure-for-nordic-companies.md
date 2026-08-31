@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Joachim Jacobsen"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 29
 published_at: 2026-07-01T07:04:59Z
 video_id: EJzmdUJHXr4

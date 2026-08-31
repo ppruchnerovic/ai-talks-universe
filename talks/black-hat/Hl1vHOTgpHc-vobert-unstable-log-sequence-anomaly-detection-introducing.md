@@ -8,7 +8,7 @@ category: "AI security"
 edition: "Black Hat"
 year: 2024
 speakers: ["Eduardo Barbaro", "Daan Hofman", "Anna Lukina", "Yury Zhauniarovich"]
-channel: "Black Hat"
+channel: null
 duration_min: 41
 published_at: 2024-03-25T17:04:03Z
 video_id: Hl1vHOTgpHc

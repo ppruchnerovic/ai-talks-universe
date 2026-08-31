@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Christensen"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-05-17T15:30:06Z
 video_id: YNJvm7t3yq8

@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2018
 speakers: ["Exploring Voice User Interfaces"]
-channel: "WeAreDevelopers"
+channel: null
 duration_min: 41
 published_at: 2018-07-04T15:54:41Z
 video_id: lSp-Q1T6IGY

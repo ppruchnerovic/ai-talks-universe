@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
 speakers: ["Matthijs van der Veer"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 57
 published_at: 2026-01-19T10:06:05Z
 video_id: 4vX2NJgKc14

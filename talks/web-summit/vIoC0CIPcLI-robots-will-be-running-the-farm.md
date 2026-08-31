@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Web Summit"
 year: 2022
 speakers: []
-channel: "Web Summit"
+channel: null
 duration_min: 20
 published_at: 2022-11-22T10:57:12Z
 video_id: vIoC0CIPcLI

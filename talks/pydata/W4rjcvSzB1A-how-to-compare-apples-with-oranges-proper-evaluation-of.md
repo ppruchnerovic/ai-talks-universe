@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: ["Stefan Birr", "Mones Raslan"]
-channel: "PyData"
+channel: null
 duration_min: 29
 published_at: 2026-08-04T22:21:42Z
 video_id: W4rjcvSzB1A

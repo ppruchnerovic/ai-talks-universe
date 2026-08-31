@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Pietro Dirix"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 13
 published_at: 2022-04-22T15:18:16Z
 video_id: ROJtSs61SNM

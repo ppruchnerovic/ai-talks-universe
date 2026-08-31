@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sai Krishna Rallabandi"]
-channel: "AI Engineer"
+channel: null
 duration_min: 19
 published_at: 2026-07-29T22:58:19Z
 video_id: s67bE2Ur3bY

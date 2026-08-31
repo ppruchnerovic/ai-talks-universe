@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "AMLD"
 year: 2022
 speakers: ["Henrik Skaug Sætra"]
-channel: "AMLD Intelligence Summit"
+channel: null
 duration_min: 30
 published_at: 2022-04-26T08:48:08Z
 video_id: -pPGA6zYvYg

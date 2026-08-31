@@ -8,7 +8,7 @@ category: "AI security"
 edition: "RSAC"
 year: 2025
 speakers: ["Derek Melber", "Strategic Advisor", "Enterprise Identity"]
-channel: "RSAC Cybersecurity"
+channel: null
 duration_min: 55
 published_at: 2025-10-21T15:09:03Z
 video_id: h2PB5UQCgd4

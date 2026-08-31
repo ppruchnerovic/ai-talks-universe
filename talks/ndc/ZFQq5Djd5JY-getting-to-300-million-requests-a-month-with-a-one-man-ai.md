@@ -8,7 +8,7 @@ category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2025
 speakers: ["Rob Frelow"]
-channel: "NDC Conferences"
+channel: null
 duration_min: 54
 published_at: 2025-03-31T09:52:55Z
 video_id: ZFQq5Djd5JY

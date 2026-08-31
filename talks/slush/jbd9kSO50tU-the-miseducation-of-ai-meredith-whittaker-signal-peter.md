@@ -8,7 +8,7 @@ category: "Industry & business"
 edition: "Slush"
 year: 2025
 speakers: ["Meredith Whittaker"]
-channel: "Slush"
+channel: null
 duration_min: 26
 published_at: 2025-11-28T08:56:49Z
 video_id: jbd9kSO50tU

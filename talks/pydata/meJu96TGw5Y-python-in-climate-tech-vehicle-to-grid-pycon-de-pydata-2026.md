@@ -8,7 +8,7 @@ category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
 speakers: []
-channel: "PyData"
+channel: null
 duration_min: 30
 published_at: 2026-08-04T22:21:32Z
 video_id: meJu96TGw5Y
