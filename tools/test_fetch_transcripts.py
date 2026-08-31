@@ -260,14 +260,38 @@ serve([("mode=native", Resp(200, {"content":"plain text","lang":"en"}))])
 try: F.fetch_supadata("V","K"); check("string content refused", False)
 except LookupError: check("string content refused", True)
 
-print("\n-- supadata: 402 retires the route for the rest of the run --")
+print("\n-- supadata: 402 retires the route, and is never a fact about the video --")
 F._supadata_off.clear()
 serve([("mode=native", http(402))])
-try: F.fetch_supadata("V","K")
-except LookupError as e: check("402 message", "out of credits" in str(e), str(e))
+try:
+    F.fetch_supadata("V","K")
+    check("402 raises", False)
+except Exception as e:
+    check("402 message", "out of credits" in str(e), str(e))
+    # The whole point of the class: run_parallel/run_serial ask
+    # about_the_video() before writing _misses.json, and "your account is out
+    # of credits" is a fact about the account. As a LookupError this wrote the
+    # talk in flight to _misses.json as "no captions", permanently.
+    check("402 is an AccountError", isinstance(e, F.AccountError), type(e).__name__)
+    check("402 is not about the video", not F.about_the_video(e), type(e).__name__)
+    check("402 is not an IP block either", not F.is_block(e), type(e).__name__)
 check("402 retires route", bool(F._supadata_off) and not F.off_ip_sources("supadata","K"))
 check("kome still counts as off-ip", F.off_ip_sources("auto", None))
 F._supadata_off.clear()
+
+print("\n-- supadata: 401 is the same class of refusal as 402 --")
+serve([("mode=native", http(401))])
+try:
+    F.fetch_supadata("V","K")
+    check("401 raises", False)
+except Exception as e:
+    check("401 is an AccountError, not a miss",
+          isinstance(e, F.AccountError) and not F.about_the_video(e), type(e).__name__)
+F._supadata_off.clear()
+
+# A 206 or a 404 still is a verdict on the video, and must stay one.
+check("a real miss is still about the video",
+      F.about_the_video(LookupError("no timed transcript for this video")))
 
 print("\n-- supadata: 5xx retried, then succeeds --")
 serve([("mode=native", http(500)), ("mode=native", http(503)),
@@ -298,6 +322,58 @@ serve([("mode=native", http(404, b'{"error":"video-not-found"}'))])
 try: F.fetch_supadata("V","K")
 except LookupError as e: check("404 detail surfaced", "404" in str(e) and "video-not-found" in str(e), str(e))
 check("404 does not retire route", not F._supadata_off)
+
+print("\n-- supadata: a run of 5xx is the far end failing, not a video --")
+# Raised bare these were an HTTPError / URLError, which is neither a block nor
+# an AccountError — so about_the_video() waved them into _misses.json and a
+# supadata outage cost a talk each, permanently.
+F._supadata_off.clear()
+serve([("mode=native", http(500))] * 4)
+try:
+    F.fetch_supadata("V","K")
+    check("persistent 5xx raises", False)
+except Exception as e:
+    check("persistent 5xx is transient, not a miss",
+          isinstance(e, F.TransientError) and not F.about_the_video(e), type(e).__name__)
+    check("persistent 5xx is not an IP block", not F.is_block(e), type(e).__name__)
+    check("persistent 5xx says what failed", "HTTPError" in str(e), str(e))
+check("persistent 5xx leaves the route on", not F._supadata_off)
+
+serve([("mode=native", urllib.error.URLError("connection reset"))] * 4)
+try:
+    F.fetch_supadata("V","K")
+    check("persistent timeout raises", False)
+except Exception as e:
+    check("a dropped connection is transient, not a miss",
+          isinstance(e, F.TransientError) and not F.about_the_video(e), type(e).__name__)
+
+print("\n-- supadata: a job that never finishes is retryable, not a miss --")
+# The credit is already spent and the captions may well exist; writing the talk
+# off as having none would lose it and the credit.
+F._supadata_off.clear()
+serve([("mode=native", Resp(202, {"jobId":"j3"}))]
+      + [("transcript/j3", Resp(200, {"status":"active"}))] * 3)
+clock = [1000.0]
+_REAL_TIME = F.time.time
+F.time.time = lambda: clock[0]
+F.time.sleep = lambda s: clock.__setitem__(0, clock[0] + 600)   # 10 min a poll
+try:
+    F.fetch_supadata("V","K")
+    check("stalled job raises", False)
+except Exception as e:
+    check("a stalled job is transient, not a miss",
+          isinstance(e, F.TransientError) and not F.about_the_video(e), type(e).__name__)
+F.time.time, F.time.sleep = _REAL_TIME, lambda s: None
+
+# A job that comes back *failed* is still the video's problem, and stays one.
+F._supadata_off.clear()
+serve([("mode=native", Resp(202, {"jobId":"j4"})),
+       ("transcript/j4", Resp(200, {"status":"failed","error":"no captions"}))])
+try:
+    F.fetch_supadata("V","K")
+    check("failed job still raises", False)
+except Exception as e:
+    check("a failed job is still about the video", F.about_the_video(e), type(e).__name__)
 
 urllib.request.urlopen = _REAL_URLOPEN
 print("\n-- a full round against fake allowances --")
@@ -397,6 +473,58 @@ check("min-delay does not pace an off-IP route", not F.uses_our_ip("supadata"))
 # nothing left, and the round has to end rather than spin.
 check("spent() ignores an idle pool off-IP",
       F.spent(pool5, SUPA_ARGS, None) and not F.spent(pool5, SUPA_ARGS, "KEY"))
+
+print("\n-- the credits running out mid-flight loses no talk --")
+# The failure this pins down: 402 raised LookupError, which run_parallel wrote
+# to _misses.json — the file that means "this video has no captions" and that
+# select() skips forever. _supadata_off only closes the route for talks not yet
+# dispatched, so every request already in flight was poisoned, up to --workers
+# of them. Credits ~ talks, so a run ending mid-batch is the expected case.
+F._supadata_off.clear()
+CREDITS = [4]
+
+def fetch_until_broke(eg, vid, source, key):
+    with lock:
+        left = CREDITS[0]
+        CREDITS[0] -= 1
+    if left <= 0:
+        F._supadata_off.append("out of credits")     # as the real route does
+        raise F.AccountError("supadata: out of credits")
+    return [{"start":0.0,"duration":1.0,"text":"hi"}], "en", True, "exact", "supa"
+
+F.fetch_one = fetch_until_broke
+pool6 = F.Pool([None], cooldown_min=45); m6 = {}
+ok6, fail6, blocked6 = F.run_parallel(pool6, todo, m6, SUPA_ARGS, "KEY")
+check("out of credits is never recorded as a miss", m6 == {}, m6)
+check("no talk counted as failed", fail6 == 0, fail6)
+check("only the paid-for talks came back", ok6 == 4, ok6)
+check("the round stops instead of walking the backlog", blocked6 is True, blocked6)
+check("every unfetched talk stays retryable", len(todo) - ok6 == 26 and not m6, (ok6, m6))
+
+# The serial path has to make the same promise.
+F._supadata_off.clear(); CREDITS[0] = 2
+SERIAL_ARGS = types.SimpleNamespace(**{**vars(SUPA_ARGS), "workers": 1})
+pool7 = F.Pool([None], cooldown_min=45); m7 = {}
+ok7, fail7, blocked7 = F.run_serial(pool7, todo, m7, SERIAL_ARGS, "KEY")
+check("serial records no account refusal as a miss", m7 == {} and fail7 == 0, (m7, fail7))
+check("serial stops when the account refuses", ok7 == 2 and blocked7 is True, (ok7, blocked7))
+F._supadata_off.clear()
+
+# A transient failure ends nothing: the route is still there and may work on
+# the very next talk, so the run carries on and the talk waits for a rerun.
+FLAKY = {"talk-3", "talk-9"}
+
+def fetch_flaky(eg, vid, source, key):
+    if vid in FLAKY:
+        raise F.TransientError("supadata: HTTPError after 4 attempts (500)")
+    return [{"start":0.0,"duration":1.0,"text":"hi"}], "en", True, "exact", "supa"
+
+F.fetch_one = fetch_flaky
+pool8 = F.Pool([None], cooldown_min=45); m8 = {}
+ok8, fail8, blocked8 = F.run_parallel(pool8, todo, m8, SUPA_ARGS, "KEY")
+check("a transient failure is never a miss", m8 == {} and fail8 == 0, (m8, fail8))
+check("the round carries on past it",
+      ok8 == len(todo) - len(FLAKY) and blocked8 is False, (ok8, blocked8))
 
 
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else

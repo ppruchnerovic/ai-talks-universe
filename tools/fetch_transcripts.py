@@ -90,12 +90,42 @@ class BlockedError(Exception):
     """YouTube refused this IP, rather than this video."""
 
 
+class AccountError(Exception):
+    """A route refused the account, rather than this video.
+
+    An empty balance or a bad key is not a fact about the talk, and unlike a
+    block it is not something another identity would answer differently — so
+    it neither benches an egress nor gets cached as a miss.
+    """
+
+
+class TransientError(Exception):
+    """The route broke in a way that will probably work next time.
+
+    A timeout, a run of 5xx, a job that never finished. None of them is a
+    verdict on the video, so the talk goes back in the queue. Unlike a block it
+    benches nothing: what failed was the far end, and our own identities are
+    fine.
+    """
+
+
 def is_block(e: Exception) -> bool:
     """A network verdict, not a fact about the talk — so never cached as a miss."""
     if isinstance(e, BlockedError):
         return True
     name = type(e).__name__
     return any(k in name for k in ("IpBlocked", "TooManyRequests", "RequestBlocked"))
+
+
+def about_the_video(e: Exception) -> bool:
+    """Is this failure a verdict on the talk, and so safe to write to _misses.json?
+
+    That file means "this video has no captions" and `select()` skips every id
+    in it on all later runs, so anything recorded there is lost until someone
+    passes --retry-misses. A refusal aimed at our IP, at our account, or at
+    nobody in particular says nothing about the video and must stay retryable.
+    """
+    return not is_block(e) and not isinstance(e, (AccountError, TransientError))
 
 
 # --- egress identities -------------------------------------------------------
@@ -312,7 +342,13 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
                 if not _supadata_off:
                     print(f"   (supadata: {why} — dropping that route for this run)")
                 _supadata_off.append(why)
-                raise LookupError(f"supadata: {why}")
+                # AccountError, not LookupError: retiring the route is about
+                # the account, and the talk in flight when the balance hit zero
+                # has told us nothing about its captions. As a LookupError it
+                # went to _misses.json as "no captions", permanently, and with
+                # --workers 32 every request in flight at that moment went with
+                # it.
+                raise AccountError(f"supadata: {why}")
             if e.code < 500:
                 detail = " ".join(e.read().decode("utf-8", "replace").split())[:160]
                 raise LookupError(f"supadata: HTTP {e.code} {detail}")
@@ -325,7 +361,12 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
         # not on the video, so the talk goes back in the queue rather than into
         # _misses.json — and the route stays on for everybody else.
         raise BlockedError("supadata: rate limited after 4 attempts")
-    raise last
+    # Four attempts of 5xx, timeouts, dropped connections or unreadable JSON.
+    # Raised bare, these reached the runners as an HTTPError or a URLError,
+    # which about_the_video() would wave through into _misses.json — a supadata
+    # outage would have cost a talk each, permanently.
+    raise TransientError(f"supadata: {type(last).__name__} after 4 attempts "
+                         f"({str(last)[:120]})")
 
 
 def fetch_supadata(video_id: str, key: str) -> tuple[list[dict], str]:
@@ -353,7 +394,10 @@ def fetch_supadata(video_id: str, key: str) -> tuple[list[dict], str]:
                 raise LookupError(f"supadata: job failed "
                                   f"({str(data.get('error'))[:120]})")
             if time.time() > deadline:
-                raise LookupError("supadata: job still running after 15 minutes")
+                # Their queue was slow, which says nothing about the captions —
+                # and the credit is already spent, so the talk must stay
+                # fetchable rather than be written off as having none.
+                raise TransientError("supadata: job still running after 15 minutes")
 
     content = data.get("content")
     if not content or isinstance(content, str):
@@ -626,6 +670,18 @@ BLOCK_ADVICE = (
     "   them up.\n"
 )
 
+ACCOUNT_ADVICE = (
+    "\n!! The off-IP route refused the account ({why}). Stopping so the rest\n"
+    "   stay retryable — nothing here was recorded as a miss.\n"
+    "   Top up the supadata account, or run the free routes with\n"
+    "   --source exact; those spend this machine's IP allowance instead.\n"
+)
+
+
+def stop_advice(e: Exception) -> str:
+    """What to print when a round ends with nothing left to fetch with."""
+    return ACCOUNT_ADVICE.format(why=e) if isinstance(e, AccountError) else BLOCK_ADVICE
+
 
 def attempt(pool: Pool, t: dict, args, key: str | None, tries: int | None = None):
     """One talk, on one leased identity. Returns (words, timing, source).
@@ -872,14 +928,23 @@ def run_parallel(pool, todo, misses, args, key):
                 try:
                     words, timing, source = fut.result()
                 except Exception as e:
-                    if is_block(e):
-                        # Says nothing about this video, so it is neither a miss
-                        # nor an attempt. One identity being benched is normal
-                        # and the run continues; all of them, with nowhere else
-                        # to go, ends the round.
+                    if not about_the_video(e):
+                        # A refusal aimed at our IP or our account says nothing
+                        # about this video, so it is neither a miss nor an
+                        # attempt. One identity being benched is normal and the
+                        # run continues; nothing left to fetch with — every
+                        # identity benched, or the off-IP route retired — ends
+                        # the round.
+                        if not is_block(e):
+                            # A block is normal and is reported once, in
+                            # BLOCK_ADVICE. The other two are rare enough that
+                            # skipping silently would read as a talk that
+                            # somehow never ran.
+                            print(f"[{done}/{len(todo)}] LEFT {type(e).__name__:<24} "
+                                  f"{t['title'][:48]}")
                         if spent(pool, args, key) and not blocked.is_set():
                             blocked.set()
-                            print(BLOCK_ADVICE)
+                            print(stop_advice(e))
                         continue
                     done += 1
                     fail += 1
@@ -911,10 +976,12 @@ def run_serial(pool, todo, misses, args, key):
             print("\ninterrupted — progress is saved, rerun to continue")
             break
         except Exception as e:
-            if is_block(e):
-                print(f"[{i}/{len(todo)}] BLOCKED  {label}")
+            if not about_the_video(e):
+                kind = ("BLOCKED" if is_block(e) else
+                        "REFUSED" if isinstance(e, AccountError) else "LEFT")
+                print(f"[{i}/{len(todo)}] {kind}  {label}")
                 if spent(pool, args, key):
-                    print(BLOCK_ADVICE)
+                    print(stop_advice(e))
                     blocked = True
                     break
                 continue

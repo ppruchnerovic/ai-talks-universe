@@ -265,7 +265,9 @@ this: it is a selection filter, and `query.py --year` still reads every year.
 run when YouTube blocks the IP and resumes where it stopped. A block is **not**
 recorded as a miss, so a plain rerun picks those talks straight back up;
 `data/transcripts/_misses.json` means "this video has no captions", and
-`--retry-misses` forces another attempt.
+`--retry-misses` forces another attempt. Nor is an account refusal — a Supadata
+key with no credits left stops the round and leaves every talk it had in flight
+retryable, since running out of money says nothing about a video.
 
 ### Beating the per-IP quota
 
