@@ -1235,10 +1235,14 @@
       "video_id": "92rLmAlXy9A",
       "title": "Key Trends from 2024: Cell-based Architecture, DORA & SPACE, LLM & SLM, Cloud Databases and Portals",
       "duration_s": 3098,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this year-in-review episode, Daniel Bryant, along with InfoQ podcast hosts Thomas Betts, Shane Hastie, Srini Penchikala, and Renato Losio, reflect on the trends and developments of 2024 across key domains: architecture, culture and methods, AI and data engineering, and cloud and DevOps. The conversation covers the rise of AI as a ubiquitous enabler, the growing focus on green software, platform engineering’s mainstream emergence, and the ongoing challenges of balancing human and technical evolution.\n\nRead a transcript of this interview: https://bit.ly/3VLkNdx\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:Learn and share the changes and innovations in professional software development.\n- Join a community of ex\nperts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2024-12-30T09:36:51Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "944DMOKrrzc": {
       "video_id": "944DMOKrrzc",
@@ -1624,10 +1628,20 @@
       "video_id": "BEmTDfWaJfo",
       "title": "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and Architecture + Data",
       "duration_s": 3640,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this special year-end wrap-up podcast Thomas Betts, Wes Reisz, Shane Hastie, Srini Penchikala, and Daniel Bryant reflect on technology trends in 2023 and discuss what they hope to see in 2024. Topics explored included: the use of AI and LLMs within software delivery, the changing role of technical leadership, and the increasing integration of software architecture and data engineering.\n\nRead a transcript of this interview: https://bit.ly/47CN5tR\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nQCon London (April 8-10, 2024)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 24-25, 2024)\nActionable insights on today’s critical dev priorities.\nhttps://devsummit.infoq.com/ \n\nQCon San Francisco (November 18-22, 2024)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI Podcast\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2024-01-27T11:12:00Z",
+      "tags": [
+        "Data",
+        "AI",
+        "Leadership",
+        "LLM",
+        "Platform Engineering"
+      ],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "BLoPoH_2Pms": {
       "video_id": "BLoPoH_2Pms",
@@ -1787,10 +1801,20 @@
       "video_id": "CKpxd3FBnqo",
       "title": "InfoQ Software Architecture & Design Trends 2023",
       "duration_s": 2380,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff will be discussing the current trends in software architecture and design, as part of the process to create our annual trends report. These reports provide InfoQ readers with a high-level overview of the topics to pay attention to, and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast is a chance to hear our conversation and some stories our expert practitioners have observed.\n\nRead a transcript of this interview: https://bit.ly/3v6eOW0\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nhttps://qconlondon.com/ \nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: https://twitter.com/InfoQ\n- LinkedIn: https://www.linkedin.com/company/infoq\n- Facebook: https://bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: https://www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2023-12-29T05:00:11Z",
+      "tags": [
+        "InfoQ Trends Reports",
+        "Architecture & Design",
+        "ChatGPT",
+        "WebAssembley",
+        "Blockchain"
+      ],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "CVw9ICHMmK8": {
       "video_id": "CVw9ICHMmK8",
@@ -2017,10 +2041,14 @@
       "video_id": "DUTEpuXi-Ps",
       "title": "AI, ML, and Data Engineering InfoQ Trends Report 2025",
       "duration_s": 3183,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ discuss the current trends in the domain of AI, ML and Data Engineering.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year.\n\nInfoQ AI, ML and Data Engineering editorial team met with external guests to discuss the trends in AI and ML areas, and what to watch out for the next 12 months. In addition to the written report and trends graph, this podcast provides a recording of a discussion where expert panelists discuss how innovative AI technologies are disrupting the industry.\n\nRead a transcript of this interview: http://bit.ly/4nRpvlF\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nQCon AI New York 2025 (December 16-17, 2025)\nhttps://ai.qconferences.com/\n\nQCon London 2026 (March 16-19, 2026)\nhttps://qconlondon.com/\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- X: https://x.com/InfoQ?from=@ \n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2025-09-24T09:12:18Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "DXoMtQFPX2I": {
       "video_id": "DXoMtQFPX2I",
@@ -2227,10 +2255,31 @@
       "video_id": "Fc_ECVXGu3Y",
       "title": "InfoQ Architecture and Design Trends in 2025",
       "duration_s": 2101,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Are you a senior software developer, architect, or engineering leader looking to stay ahead in 2025? This InfoQ podcast dives deep into the critical trends shaping Software Architecture, featuring expert insights from InfoQ editors and QCon program committee members: Thomas Betts, Eran Stiller, Daniel Bryant, and Sarah Wells.\n\nTimestamps:\n02:43 AI for software architects - LLMs, RAG, and agentic AI \n15:31 Cell-based architecture for resilience \n19:47 Monzo Bank’s unorthodox backup strategy \n23:20 Privacy engineering and sustainability \n28:00 Commoditization of platform engineering \n34:15 Closing thoughts\n\n🔗 Transcript available on InfoQ:  https://bit.ly/3Y9Gc1g\n\n#softwarearchitecture #ai #resilience #platformengineering\n\n🔔 Subscribe for more expert insights on software architecture and technology trends from InfoQ.\n\n💬What are the biggest architectural challenges you're facing in 2025? Share your thoughts in the comments below! 👇",
+      "published_at": "2025-04-28T11:05:41Z",
+      "tags": [
+        "Software Architecture",
+        "AI",
+        "Resilience",
+        "Platform Engineering",
+        "InfoQ Trends Report",
+        "Cell-Based Architecture",
+        "Sustainable Computing",
+        "InfoQ Trends Report 2025",
+        "AI Architecture",
+        "Edge",
+        "Green Software",
+        "Retrieval-Augmented Generation",
+        "Emerging Technologies",
+        "The InfoQ Podcast",
+        "Large language models",
+        "Data"
+      ],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "Fkk8ttH3sLg": {
       "video_id": "Fkk8ttH3sLg",
@@ -2513,10 +2562,19 @@
       "video_id": "HYsGQzQACDA",
       "title": "InfoQ Culture & Methods Trends in 2023",
       "duration_s": 3423,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this podcast the whole Culture & Methods editorial team plus Rebecca Parsons, CTO of Thoughtworks, explore the trends they see happening in the technology industry in 2023\n\nRead a transcript of this interview: https://bit.ly/41HNCJE\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nhttps://qconlondon.com/ \nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: https://twitter.com/InfoQ\n- LinkedIn: https://www.linkedin.com/company/infoq\n- Facebook: https://bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: https://www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2024-01-02T05:00:06Z",
+      "tags": [
+        "ChatGPT",
+        "culture and methods",
+        "The InfoQ Podcasts",
+        "InfoQ Trends Reports"
+      ],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "HZqBHkUqG3c": {
       "video_id": "HZqBHkUqG3c",
@@ -3758,10 +3816,14 @@
       "video_id": "PSVZVAbdURI",
       "title": "Architecture and Design Trends Report 2024",
       "duration_s": 2617,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "The panel discussion in this episode is one half of the annual InfoQ Architecture and Design Trends Report. The other half is the written report.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers with a high-level overview of the topics to pay attention to this year, and also help the editorial team focus on innovative technologies across all the content on InfoQ.\n\nRead a transcript of this interview: https://www.infoq.com/podcasts/infoq-architecture-trends-2024/\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI https:/www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "published_at": "2024-10-03T14:16:12Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "PVDE5M5pZ_w": {
       "video_id": "PVDE5M5pZ_w",
@@ -3884,10 +3946,27 @@
       "video_id": "QaAvZNQrJ4E",
       "title": "InfoQ Culture & Methods Trends in 2025",
       "duration_s": 4118,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "Are you a senior software developer, architect, or engineering leader navigating the noise around AI? This InfoQ Culture and Methods Trends report 2025, featuring Charity Majors (Honeycomb.io CTO) and industry experts Ben Linders, Rafiq Gemmail, and Craig Smith, cuts through the hype to deliver practical insights on the real impact of AI, the crucial elements of building resilient, high-performing engineering teams, and the evolving landscape of software development.\n\nTimestamps:\n\n01:24 - Introduction\n05:08 - AI Hype and Reality\n11:30 - The AI divide\n14:39 - Impacts on quality\n17:00 - Beyond code generation\n22:52 - Accelerating their advancement of junior engineers\n25:22 - Building high-performing teams\n27:40 - The impact of losing coaching roles\n30:10 - The disparity across organisations\n34:07 - The dangers of monoculture\n37:38 - Measuring waste and productivity\n40:09 - High-performing teams are not afraid of metrics\n41:50 - Observability trends\n46:44 - Fin-Ops: cost is an attribute of systems architecture\n48:58 - Observability overwhelm\n55:08 - Closing thoughts and future directions\n\n#engineeringleadership #InfoQTrendsReport2025 #softwaredevelopment\n\n🔗 Transcript available on InfoQ: https://bit.ly/44dqq9l\n\n🔔 Don't miss out on future insights for tech leaders! Subscribe now for more expert discussions and trend analysis from InfoQ.\n\n💬What are your biggest challenges in leveraging AI effectively within your engineering teams? Share your thoughts in the comments below!👇",
+      "published_at": "2025-05-09T13:13:22Z",
+      "tags": [
+        "Team Collaboration",
+        "Productivity",
+        "Accessibility",
+        "Psychological Safety",
+        "InfoQ Trends Report",
+        "Training",
+        "Observability",
+        "Teamwork",
+        "Engineering Culture Podcast",
+        "InfoQ Trends Report 2025",
+        "Software Development",
+        "Engineering Leadership"
+      ],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "QaP5xl7EA2Y": {
       "video_id": "QaP5xl7EA2Y",
@@ -4383,10 +4462,14 @@
       "video_id": "UAihSoJ8y6A",
       "title": "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and Architecture + Data",
       "duration_s": 3640,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this special year-end wrap-up podcast Thomas Betts, Wes Reisz, Shane Hastie, Srini Penchikala, and Daniel Bryant reflect on technology trends in 2023 and discuss what they hope to see in 2024. Topics explored included: the use of AI and LLMs within software delivery, the changing role of technical leadership, and the increasing integration of software architecture and data engineering.\n\nRead a transcript of this interview: https://bit.ly/47CN5tR\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nhttps://qconlondon.com/\nApril 8-10, 2024\n\nQCon San Francisco\nhttps://qconsf.com/\nNovember 18-22, 2024\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2024-10-03T14:06:40Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "UCgQj1ZlDqk": {
       "video_id": "UCgQj1ZlDqk",
@@ -4757,10 +4840,14 @@
       "video_id": "WhXWl812VJY",
       "title": "InfoQ Software Architecture & Design Trends 2023",
       "duration_s": 2359,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is a repost from March 2023.\n\nIn this episode of the podcast, members of the InfoQ editorial staff will be discussing the current trends in software architecture and design, as part of the process to create our annual trends report. These reports provide InfoQ readers with a high-level overview of the topics to pay attention to, and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast is a chance to hear our conversation and some stories our expert practitioners have observed.\n\nRead a transcript of this interview: https://bit.ly/3v6eOW0\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nqconlondon.com/\nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2024-10-03T13:57:21Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "X-FjRmmFMRI": {
       "video_id": "X-FjRmmFMRI",
@@ -5073,10 +5160,14 @@
       "video_id": "Z0-oGXyRSjA",
       "title": "InfoQ Culture & Methods Trends in 2025",
       "duration_s": 4018,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is the Engineering Culture Podcast, from the people behind InfoQ.com and the QCon conferences.\nThis is the Engineering Culture Trends Report for 2025. Featuring the InfoQ editorial team and special guest Charity Majors, they discuss how AI is transforming software development with dramatic productivity gains alongside quality concerns, emphasize the continued importance of team collaboration, observability, engineering metrics, and mentorship of junior engineers in creating high-performing software teams.\n\nRead a transcript of this interview: https://bit.ly/42F8TWt\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nQCon AI New York 2025 (December 16-17, 2025)\nhttps://ai.qconferences.com/\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2025-05-09T08:25:57Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "Z2c37dD2frA": {
       "video_id": "Z2c37dD2frA",
@@ -5130,10 +5221,14 @@
       "video_id": "ZAXWFuJT5GQ",
       "title": "Cloud and DevOps InfoQ Trends Report 2025",
       "duration_s": 3047,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will discuss current trends in the cloud and DevOps domains as part of our annual trends report creation process. These reports provide InfoQ readers with a high-level overview of key topics to watch and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast offers a chance to hear our raw conversation and the stories shared by our expert practitioners.\n\nRead a transcript of this interview: http://bit.ly/3KBz5us\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nQCon AI New York 2025 (December 16-17, 2025)\nhttps://ai.qconferences.com/\n\nQCon London 2026 (March 16-19, 2026)\nhttps://qconlondon.com/\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- X: https://x.com/InfoQ?from=@ \n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2025-10-22T10:45:22Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "ZI5XU7qY86s": {
       "video_id": "ZI5XU7qY86s",
@@ -5258,10 +5353,14 @@
       "video_id": "_7ahNcXQlbQ",
       "title": "2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems & Platform Products",
       "duration_s": 3312,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this end-of-year panel, the InfoQ podcast hosts reflect on AI’s impact on software delivery, the growing importance of sociotechnical systems, evolving cloud realities, and what 2026 may bring.\n\nRead a transcript of this interview: https://bit.ly/3Lk6SsF\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nQCon London 2026 (March 16-19, 2026)\nQCon London equips senior engineers, architects, and technical leaders with trusted, practical insights to lead the change in software development. Get real-world solutions and leadership strategies from senior software practitioners defining current trends and solving today's toughest software challenges.\nhttps://qconlondon.com/\n\nQCon AI Boston 2026 (June 1-2, 2026)\nLearn how real teams are accelerating the entire software lifecycle with AI.\nhttps://boston.qcon.ai\n\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- X: https://x.com/InfoQ?from=@ \n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-01-06T08:42:36Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "_R83pFpUWyM": {
       "video_id": "_R83pFpUWyM",
@@ -5942,10 +6041,14 @@
       "video_id": "dxUQ3u4nf1M",
       "title": "AI, ML, and Data Engineering Trends in 2024",
       "duration_s": 3217,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will be discussing the current trends in the domain of AI, ML and Data Engineering.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year.\n\nInfoQ AI, ML and Data Engineering editorial team met with external guests to discuss the trends in AI and ML areas, and what to watch out for the next 12 months. This podcast is a recording of this discussion where panelists discuss how the innovative AI technologies are disrupting the industry.\n\nRead a transcript of this podcast panel: https://bit.ly/3LXMcUk \nFind the written report and trends graph on InfoQ: https://bit.ly/3Z8Z5CF \n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "published_at": "2024-08-14T09:33:11Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "e0l-x-KamP8": {
       "video_id": "e0l-x-KamP8",
@@ -6187,10 +6290,14 @@
       "video_id": "f9S_11Qicsk",
       "title": "InfoQ Cloud and DevOps Trends 2023",
       "duration_s": 2577,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is a repost from July 2023.\n\nIn this episode of the podcast, members of the InfoQ editorial staff will be discussing the current trends in software architecture and design, as part of the process to create our annual trends report. These reports provide InfoQ readers with a high-level overview of the topics to pay attention to, and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast is a chance to hear our conversation and some stories our expert practitioners have observed.\n\nRead a transcript of this interview: https://bit.ly/48FuQEH\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nqconlondon.com/\nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2024-10-03T13:57:22Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "fCQKek_J3lQ": {
       "video_id": "fCQKek_J3lQ",
@@ -7297,10 +7404,14 @@
       "video_id": "mXcQ41CTAkc",
       "title": "AI, Rust, and Resilience: Key Software Trends Seen by the QCon San Francisco 2024 Program Committee",
       "duration_s": 2011,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "QCon conferences cover emerging trends in software, and this episode features members of the QCon San Francisco 2024 programming committee discussing those trends selected to be the focus of this year’s QCon San Francisco. This discussion is similar to InfoQ trends reports, with expert practitioners highlighting the technologies and practices that they feel deserve attention.\n\nRead a transcript of this interview: https://bit.ly/3Bk912b \n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "published_at": "2024-10-07T08:28:24Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:13:56+00:00"
     },
     "mYVifhjBacQ": {
       "video_id": "mYVifhjBacQ",
@@ -7344,10 +7455,14 @@
       "video_id": "mduMpkkdhe8",
       "title": "InfoQ Architecture and Design Trends in 2025",
       "duration_s": 2101,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "The panel discussion in this episode is one half of the annual InfoQ Architecture and Design Trends Report. The other half is the written report .\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers with a high-level overview of the topics to pay attention to this year, and also help the editorial team focus on innovative technologies across all the content on InfoQ.\n\nRead a transcript of this interview: https://bit.ly/43WChIH\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nQCon AI NYC 2025 (December 16-17, 2025)\nhttps://ai.qconferences.com/\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2025-04-28T10:15:41Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "mf1EeqkMbdk": {
       "video_id": "mf1EeqkMbdk",
@@ -7636,10 +7751,14 @@
       "video_id": "o9Uuzrl7jkU",
       "title": "Sovereign Clouds, Hyperscalers and European Alternatives: InfoQ Dev Summit Munich 2025 Preview",
       "duration_s": 2465,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this podcast episode, speakers from the upcoming InfoQ Dev Summit Munich 2025 tackle the practical challenges facing European developers caught between regulatory pressures and technological realities. The panel discusses trade-offs between using US cloud providers versus emerging European alternatives, exploring cloud-agnostic architecture strategies, the implications of data sovereignty, and why digital independence doesn't mean technological isolation.\n\nRead a transcript of this interview: https://bit.ly/46vNSQj\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nQCon AI New York 2025 (December 16-17, 2025)\nhttps://ai.qconferences.com/\n\nQCon London 2026 (March 16-19, 2026)\nhttps://qconlondon.com/\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- X: https://x.com/InfoQ?from=@ \n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2025-08-06T08:18:36Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "oJAwpwF8k_U": {
       "video_id": "oJAwpwF8k_U",
@@ -7658,10 +7777,18 @@
       "video_id": "oZmUerUj0u4",
       "title": "InfoQ Cloud and DevOps Trends 2023",
       "duration_s": 2610,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is a repost from July 2023.\n\nIn this episode of the podcast, members of the InfoQ editorial staff will be discussing the current trends in software architecture and design, as part of the process to create our annual trends report. These reports provide InfoQ readers with a high-level overview of the topics to pay attention to, and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast is a chance to hear our conversation and some stories our expert practitioners have observed.\n\nRead a transcript of this interview: https://bit.ly/48FuQEH\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nhttps://qconlondon.com/ \nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: https://twitter.com/InfoQ\n- LinkedIn: https://www.linkedin.com/company/infoq\n- Facebook: https://bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: https://www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2024-01-08T22:01:19Z",
+      "tags": [
+        "Cloud",
+        "DevOps",
+        "InfoQ Trends Report"
+      ],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "o_7CrOVVeoY": {
       "video_id": "o_7CrOVVeoY",
@@ -7786,10 +7913,14 @@
       "video_id": "pLzFUmXht78",
       "title": "Lessons Learned From the CrowdStrike Incident: InfoQ Dev Summit Munich 2024 Preview",
       "duration_s": 1621,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this podcast episode, speakers from the InfoQ Dev Summit Munich 2024 discuss the recent CrowdStrike incident, which triggered widespread outages and highlighted vulnerabilities in cloud infrastructure. The panel shares personal experiences and emphasizes the importance of resilience in IT systems, the implications of cloud dependency, and the lessons learned about risk management and automation in organizations.\n\nRead a transcript of this interview: https://bit.ly/4gbCew8 \n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (Sept 26-27, 2024)\nPractical learnings from senior software practitioners navigating Generative AI, security, modern web applications, and more.\ndevsummit.infoq.com/conference/munich2024\n\nQCon San Francisco (November 18-22, 2024)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nqconsf.com/\n\nQCon London (April 7-9, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nqconlondon.com/\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "published_at": "2024-09-03T10:39:52Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "pT-nyd6o_WY": {
       "video_id": "pT-nyd6o_WY",
@@ -8148,10 +8279,14 @@
       "video_id": "r76UqKbu_Kw",
       "title": "InfoQ Java Trends Report 2023 - Discussing Insights with Mike Redlich",
       "duration_s": 1365,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, Michael Redlich, lead editor of the Java topic at InfoQ, sat down with podcast co-host Daniel Bryant and discussed the recent publication of the InfoQ Java Trends Report. Topics covered included the release of Java 21, the adoption of Java virtual threads, the evolution of the Jakarta EE and Spring projects, and the development of community and ecosystems projects.\n\nRead a transcript of this interview: https://bit.ly/3Reieyy\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nhttps://qconlondon.com/ \nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2024-10-03T13:55:06Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "r9IiQFUjdS4": {
       "video_id": "r9IiQFUjdS4",
@@ -8325,10 +8460,14 @@
       "video_id": "szMiqrcyMDA",
       "title": "InfoQ Java Trends Report 2024 - Discussing Insights with Ixchel Ruiz and Gunnar Morling",
       "duration_s": 3131,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, Ixchel Ruiz, Senior Software Developer at Karakun, and Gunnar Morling, Software Engineer at Decodable, sat down with podcast host Michael Redlich, Lead Editor of the Java topic at InfoQ, and discussed the recent publication of the InfoQ Java Trends Report. Topics covered included: the advantages of the Java six-month release cadence; Project Lilliput and compact object headers; nullability in Java; the impact of Python; and the One Billion Row Challenge. \n\nRead a transcript of this interview: https://bit.ly/3OPIH3E \n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nhttps://www.infoq.com/software-architects-newsletter \n\nUpcoming Events:\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nqconsf.com/\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\n\nThe InfoQ Podcasts: \nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/ \n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture \n- Generally AI: https://www.infoq.com/generally-ai-podcast/ \n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq \n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2024-12-18T08:47:36Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "t-N6aNM5PNs": {
       "video_id": "t-N6aNM5PNs",
@@ -9006,10 +9145,14 @@
       "video_id": "xotiSZPwRNc",
       "title": "The State of Engineering Management in 2024",
       "duration_s": 1399,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "This is the Engineering Culture Podcast, from the people behind InfoQ.com and the QCon conferences.\n\nIn this podcast Shane Hastie, Lead Editor for Culture & Methods spoke to Andrew Lau about the State of Engineering Management Report for 2024.\n\nRead a transcript of this interview: https://bit.ly/4cfxJ0p \n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nhttps://qconlondon.com/ \n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\nhttps://devsummit.infoq.com/conference/munich2025\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nhttps://qconsf.com/ \n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "published_at": "2024-08-23T10:47:57Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "xqauTJ478bw": {
       "video_id": "xqauTJ478bw",
@@ -9248,10 +9391,19 @@
       "video_id": "yr7KgUqdDWE",
       "title": "InfoQ Java Trends Report 2023 - Discussing Insights with Mike Redlich",
       "duration_s": 1365,
-      "channel": null,
+      "channel": "InfoQ",
       "label": "InfoQ",
       "year": null,
-      "source_url": "https://www.youtube.com/@infoq/videos"
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, Michael Redlich, lead editor of the Java topic at InfoQ, sat down with podcast co-host Daniel Bryant and discussed the recent publication of the InfoQ Java Trends Report. Topics covered included the release of Java 21, the adoption of Java virtual threads, the evolution of the Jakarta EE and Spring projects, and the development of community and ecosystems projects.\n\nRead a transcript of this interview: https://bit.ly/3Reieyy\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nhttps://qconlondon.com/ \nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: https://twitter.com/InfoQ\n- LinkedIn: https://www.linkedin.com/company/infoq\n- Facebook: https://bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: https://www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "published_at": "2023-12-27T21:10:30Z",
+      "tags": [
+        "Java",
+        "GraalVM",
+        "OpenJDK",
+        "InfoQ Trends Reports"
+      ],
+      "details_at": "2026-08-31T20:14:23+00:00"
     },
     "yu2Ot3lTNfU": {
       "video_id": "yu2Ot3lTNfU",
@@ -9392,6 +9544,19 @@
         "Availability"
       ],
       "details_at": "2026-08-31T15:35:33+00:00"
+    },
+    "Lm-1O2gIVwg": {
+      "video_id": "Lm-1O2gIVwg",
+      "title": "Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+      "duration_s": 2406,
+      "channel": "InfoQ",
+      "label": "InfoQ",
+      "year": null,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "description": "In this episode, Scott Jenson, a veteran UX designer known for his work on the Macintosh, Google Maps, and Chrome examines the long-term stagnation of desktop operating systems and the limitations of current mobile and cloud-centric models. The conversation shifts toward specialised \"Local-First\" software, exploring how we can move beyond the \"status quo\" of interface design to create more intuitive, powerful, and privacy-conscious computing environments in the advent of the “LLM everywhere” era.\n\nRead a transcript of this interview: https://bit.ly/4gwuQwC\n\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\nhttps://www.infoq.com/software-architects-newsletter\n\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\nhttps://certification.qconferences.com/\n\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\nhttps://qconsf.com/\n\n\nQCon London 2027 (April 13-16, 2027)\nhttps://qconlondon.com/\n\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nLinkedIn: https://www.linkedin.com/company/infoq/\nFacebook: https://www.facebook.com/InfoQdotcom\nInstagram: https://www.instagram.com/infoqdotcom/\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.\nhttps://www.infoq.com/write-for-infoq",
+      "published_at": "2026-08-31T10:17:55Z",
+      "tags": [],
+      "details_at": "2026-08-31T20:14:23+00:00"
     }
   }
 }

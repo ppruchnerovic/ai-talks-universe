@@ -8,12 +8,12 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Shrey Shah"]
-channel: null
+channel: "AI Native Dev"
 duration_min: 108
-published_at: null
+published_at: 2025-11-27T22:08:51Z
 video_id: IZ8FjLGhiQw
 youtube_url: https://www.youtube.com/watch?v=IZ8FjLGhiQw
-tags: []
+tags: ["ainativedev"]
 transcript: true
 ---
 
@@ -23,11 +23,28 @@ transcript: true
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `108 min`
 
+`#ainativedev`
+
 [Watch the recording](https://www.youtube.com/watch?v=IZ8FjLGhiQw) · [Conference site](https://tessl.io/devcon/)
 
 ## Description
 
-*No description published on YouTube.*
+Building with AI is exciting, but ensuring your apps are tested, secure, and efficient is where the real value comes in. In this hands-on session, we’ll dive into how Cursor supercharges the developer workflow for vibe-coded applications, making your process faster, safer, and smarter.
+
+What you’ll learn:
+☑ A quick intro to Cursor & AI-powered development
+☑ How to test AI-built applications with confidence
+☑ Adding security guardrails to protect your codebase
+☑ Creating custom modes to accelerate your workflows
+☑ Building custom commands for repeatable tasks
+☑ We will also cover new cursor features, hot off the Cursor roadmap by the time of the conference
+
+You’ll walk away with practical skills you can immediately apply to your own AI-powered dev workflows.
+
+🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re
+
+🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd
+🔔 Subscribe for weekly episodes on AI-native development
 
 ## Transcript
 

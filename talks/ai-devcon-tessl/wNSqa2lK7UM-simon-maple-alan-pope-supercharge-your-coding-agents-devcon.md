@@ -8,12 +8,12 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: []
-channel: null
+channel: "AI Native Dev"
 duration_min: 116
-published_at: null
+published_at: 2025-11-26T01:51:39Z
 video_id: wNSqa2lK7UM
 youtube_url: https://www.youtube.com/watch?v=wNSqa2lK7UM
-tags: []
+tags: ["ainativedev"]
 transcript: true
 ---
 
@@ -23,11 +23,27 @@ transcript: true
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `116 min`
 
+`#ainativedev`
+
 [Watch the recording](https://www.youtube.com/watch?v=wNSqa2lK7UM) · [Conference site](https://tessl.io/devcon/)
 
 ## Description
 
-*No description published on YouTube.*
+AI agents are moving from copilots to true coding collaborators, but most developers are still flying by feel. Tools like Claude Code, Codex, Cursor, and Gemini CLI are powerful, yet few teams know how to harness them fully. Prompts alone aren’t enough; effective agentic coding requires structure, context, and shared understanding.
+
+In this 2-hour hands-on workshop, we’ll go beyond prompting tricks and explore how collaboratively and effectively use coding agents. You’ll learn how to use specs as context, and provide agent guidance to shape behavior and output, teaching them not only what to build, but how to build it, aligned with you organisation's needs.
+
+We’ll cover techniques for:
+- Using specs and structured guidance to steer agents toward better library use, open source and private alike
+- Integrating team and org policies, coding styles, and conventions directly into agent workflows
+- Managing multi-agent setups and tool integrations for larger, iterative projects
+
+Through hands on examples, you’ll see how to spercharge  your coding agents, turning them into reliable teammates, who understand your stack, your rules, and your goals. If you’ve ever wondered whether your AI agent could be doing more — this session shows you how to make that happen."
+
+🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re
+
+🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd
+🔔 Subscribe for weekly episodes on AI-native development
 
 ## Transcript
 

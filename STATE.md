@@ -16,19 +16,19 @@ new here is the catalogue layer, because there is no agenda API.
 | Piece | State |
 |---|---|
 | Registry (`conferences.json`) | Done. 46 conferences, 68 sources — 67 YouTube listings and one `"type": "videos"` seed — mirrored from `ai-conferences.md`; `check_registry.py` passes. |
-| Enumeration (`sync_catalog.py`) | Done. 15,154 videos cached in `data/catalog/`, 7,336 surviving talks. 14,797 of them enumerated from YouTube, 357 seeded — see *The WeAreDevelopers import*. |
+| Enumeration (`sync_catalog.py`) | Done. 15,157 videos cached in `data/catalog/`, 7,351 surviving talks. 14,800 of them enumerated from YouTube, 357 seeded — see *The WeAreDevelopers import*. |
 | Enrichment (`enrich.py`) | Done for the 2026 scope. **9,598 videos via the Data API**, in one run. See *What the collection runs actually got*. |
-| Per-talk markdown | Done. 7,336 files, regenerated from `talks.json` on every sync. |
+| Per-talk markdown | Done. 7,351 files, regenerated from `talks.json` on every sync. |
 | Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. |
 | CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. |
 | Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
 | Browser UI tests (`tools/uitest/`) | **170 checks over 9 suites, 2 failing, none skipped** (re-run after the priority-1 rebuild). Both failures are fixtures the bigger corpus outgrew, not the UI — see *Next steps*. |
 | Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. 64 offline checks over the pool, the routes, the year selection and the supadata error classes. |
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
-| Transcripts | **1,156 of 7,336**, all exact timings. ai-engineer 540, wearedevelopers 358 (complete), ai-devcon-tessl 130, code-with-claude 55, ai-dev-deeplearning 50, langchain-interrupt 23. The 2026 priority-1 backlog is **cleared**; 1,387 priority 2/3 talks remain — see *Next steps*. Still the long pole, but no longer IP-bound — see *The quota*. |
+| Transcripts | **1,156 of 7,351**, all exact timings. ai-engineer 540, wearedevelopers 358 (complete), ai-devcon-tessl 130, code-with-claude 55, ai-dev-deeplearning 50, langchain-interrupt 23. The 2026 priority-1 backlog is **cleared**; 1,387 priority 2/3 talks remain — see *Next steps*. Still the long pole, but no longer IP-bound — see *The quota*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
-| Workflows | Written, never run: `pages.yml` (mirror to gh-pages) and `kb-refresh.yml` (weekly re-enumerate). |
-| Published site | **Not set up yet.** The corpus is committed on `main` and `origin` is configured, but nothing has been pushed and Pages is not enabled. |
+| Workflows | `kb-refresh.yml` **has run** and its output needed reverting — see *The CI refresh regression*. `pages.yml` (mirror to gh-pages) still never run. |
+| Published site | Pushed to `origin/main`. **Pages not enabled yet** on the `gh-pages` branch — `pages.yml` mirrors `main` into it on every push. |
 
 ## What the collection runs actually got
 
@@ -71,13 +71,13 @@ The corpus grew with it: **69,665 passages, up from 41,233**. At that point
 `data/talks.db` was 45.5 MB, `search-meta.json` 5.4 MB and `data/tindex/` 4.2 MB
 over 27 shards carrying 13,841 terms from 184 transcripts.
 
-Coverage as it stands, after the priority-1 extraction below: 5,492
-descriptions, 7,334 of 7,336 with a year, 2,947 with a speaker, 3,540 with
-YouTube tags, **1,156 with a transcript**. 197,099 passages; `data/talks.db`
-81.1 MB, `search-meta.json` 5.7 MB (the 6 MB trigger still stands),
-`data/tindex/` 13.7 MB over 27 shards carrying 24,261 terms. Of the 2,516 talks
-in the 2026 scope, **1,124 have a transcript and 1,387 are pending** — 0
-priority 1, 848 priority 2, 539 priority 3.
+Coverage as it stands, after the priority-1 extraction below and the CI merge:
+5,557 descriptions, 7,349 of 7,351 with a year, 2,947 with a speaker, 3,587
+with YouTube tags, **1,156 with a transcript**. 197,099 passages;
+`data/talks.db` 81.5 MB, `search-meta.json` 5.8 MB (the 6 MB trigger still
+stands), `data/tindex/` 13.7 MB over 27 shards carrying 24,261 terms. Of the
+2,520 talks in the 2026 scope, **1,124 have a transcript and 1,391 are
+pending** — 2 priority 1, 850 priority 2, 539 priority 3.
 
 ## The WeAreDevelopers import
 
@@ -144,11 +144,56 @@ credits, the per-IP allowance gates nothing, it only decides how much of a batch
 comes back free. The one metadata gap left is the 4,823 videos the year filter
 skipped, and those cost quota units rather than a sitting.
 
+## The CI refresh regression — fix before the next weekly run
+
+`kb-refresh.yml` ran on its schedule and committed `e0cdc09`, "Refresh the AI
+talk catalogue", straight onto `main`. It has to be reverted, and the reason is
+worth knowing before the workflow fires again.
+
+The workflow re-enumerates every source with `sync_catalog.py --refresh` from a
+GitHub runner. YouTube throttles those ranges — which is why the workflow
+deliberately does not attempt transcripts — but enumeration is not exempt, it
+just fails *quietly and partially*. What came back had titles and durations and
+no uploader, so the refresh wrote **`channel: null` over ~4,540 talks**: 5,241
+of its 6,980 records carry a null channel, against 649 of 7,351 here.
+
+**The existing backstops did not catch it.** A source that returns nothing keeps
+its cached videos, and `sync_catalog.py` refuses to write a corpus more than 10%
+smaller without `--allow-shrink`. Both guard the *count*. This run returned a
+plausible number of videos with a field hollowed out, so nothing tripped. A
+field-level guard — refuse to write if a populated field goes null on more than
+some fraction of a conference — is what would have.
+
+The merge (`aaca745`) therefore takes this tree wholesale with `-s ours` rather
+than reconciling field by field. The one thing the CI run genuinely had was
+three videos newly posted since the last enumeration:
+
+| Video | Conference |
+|---|---|
+| `D7_ipDqhtwk` How We Build Effective Agents: Barry Zhang, Anthropic | ai-engineer |
+| `Lm-1O2gIVwg` Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX | qcon-infoq |
+| `F2Ay09T4EHQ` GitHub, Snyk, Docker & Anthropic on Securing AI Agents | ai-devcon-tessl |
+
+Those were copied into `data/catalog/` by hand and re-enriched from the Data
+API, so they arrive with the channel and date the CI records lacked. Enriching
+those three conferences with `--all` also detailed 17 other pending videos, and
+because `qcon-infoq` is `scope: "ai"` and matches on description, the corpus
+went 7,336 → **7,351** rather than 7,339.
+
+Note the catalogues sat at exactly 900 / 500 / 300 videos before the insert:
+those are the `first: N` paging caps, so a channel that keeps publishing pushes
+its oldest enumerated video out of the window rather than growing the file.
+
+**Until the workflow is fixed, do not let it write.** The options are to give it
+`--allow-shrink`-style field guards, to have it open a pull request instead of
+committing to `main`, or to drop `--refresh` from CI and let it only re-derive.
+
 ## Next steps, in order
 
-1. **Push, then enable GitHub Pages** on the `gh-pages` branch; `pages.yml`
-   mirrors `main` into it on every push. The corpus is committed on `main`; the
-   remote and the Pages setup are what is left.
+1. **Enable GitHub Pages** on the `gh-pages` branch. `main` is pushed and
+   `pages.yml` mirrors it into `gh-pages` on every push, but Pages itself has
+   never been switched on, so the published URL in `README.md` does not serve
+   anything yet.
 2. **Fix the two UI checks the corpus outgrew.** Neither is a UI regression —
    rebuilding the index at the old 1,200-character clip fails the same ones, and
    each drifts with the corpus rather than with the code. `controls` needs one
@@ -166,8 +211,9 @@ skipped, and those cost quota units rather than a sitting.
    They degrade to `SKIP` rather than failing when a fixture has not been
    collected yet, so a green run on a thin corpus is weaker evidence than a
    green run on a full one — read the skip count, not just the failures.
-4. **Finish the 2026 extraction.** Priority 1 is done — 614 fetched, 1 miss,
-   0 left. **1,387 talks remain: 848 priority 2, 539 priority 3.** At one credit
+4. **Finish the 2026 extraction.** Priority 1 is essentially done — 614
+   fetched, 1 miss, and only the 2 talks the CI merge added are outstanding.
+   **1,391 talks remain: 2 priority 1, 850 priority 2, 539 priority 3.** At one credit
    each that is well inside the 3,000-a-month Pro allowance, of which ~709 have
    been spent this month. See *Handoff*.
 5. Re-check the conferences that came back thin: `owasp-global-appsec` (2
@@ -206,7 +252,7 @@ cd tools
   last `build_index.py`, so 276 fetched transcripts sat on disk invisible to the
   browser, the CLI and the markdown until the pair was re-run. A transcript that
   is not indexed is a credit spent for nothing.
-- **No need to ration inside the month.** 3,000 credits against 1,387 pending
+- **No need to ration inside the month.** 3,000 credits against 1,391 pending
   talks at one credit each, with ~709 already spent, leaves ~900 spare.
 
 ## The quota — read this before a transcript run
@@ -411,8 +457,8 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   The extrapolation held: at 5,816 talks the file was 1.6 MB with no
   descriptions and 2.0 MB with 369 of them, and enrichment took it to 7.3 MB at
   6,979 talks with 5,138 — past the 6 MB line that was set as the trigger, so
-  the clip halved and it came back to 5.4 MB. It is **5.7 MB** now at 7,336
-  talks with 5,492 descriptions, so it is creeping back towards the line.
+  the clip halved and it came back to 5.4 MB. It is **5.8 MB** now at 7,351
+  talks with 5,557 descriptions, so it is creeping back towards the line.
   Description coverage is still only 75%, so this will need looking at again;
   the 6 MB trigger stands.
   GitHub Pages gzips; the local test server does not, which is why

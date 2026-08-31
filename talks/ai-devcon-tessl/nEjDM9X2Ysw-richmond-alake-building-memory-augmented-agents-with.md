@@ -8,12 +8,12 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Richmond Alake"]
-channel: null
+channel: "AI Native Dev"
 duration_min: 109
-published_at: null
+published_at: 2025-11-26T01:48:46Z
 video_id: nEjDM9X2Ysw
 youtube_url: https://www.youtube.com/watch?v=nEjDM9X2Ysw
-tags: []
+tags: ["ainativedev"]
 transcript: true
 ---
 
@@ -23,11 +23,27 @@ transcript: true
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `109 min`
 
+`#ainativedev`
+
 [Watch the recording](https://www.youtube.com/watch?v=nEjDM9X2Ysw) · [Conference site](https://tessl.io/devcon/)
 
 ## Description
 
-*No description published on YouTube.*
+This workshop will introduce participants to the practice of memory engineering and put the concepts into action. Using the MemoRizz library, attendees will learn how to design and build memory-augmented agents that go beyond simple prompt-and-response to become reliable, believable, and capable systems.
+
+Key aspects we’ll cover include:
+
+Hands-on introduction to memory engineering: how to move from theory to implementation.
+Practical use of memory types: applying short-term, long-term, and shared memory in an agent.
+Deep research use case: building an agent that can manage complex information retrieval and synthesis across multiple interactions.
+Reliability, believability, and capability in practice: showcasing what these qualities look like when agents are backed by memory.
+Evaluation overview: introducing methods and frameworks for measuring agent memory performance, including how to test for precision, recall, and retention over time.
+By the end of the workshop, participants will have both conceptual clarity and hands-on experience in building and evaluating memory-augmented agents.
+
+🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re
+
+🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd
+🔔 Subscribe for weekly episodes on AI-native development
 
 ## Transcript
 

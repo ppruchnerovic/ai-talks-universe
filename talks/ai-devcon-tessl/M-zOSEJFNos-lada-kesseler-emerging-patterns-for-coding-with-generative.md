@@ -8,12 +8,12 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Lada Kesseler"]
-channel: null
+channel: "AI Native Dev"
 duration_min: 119
-published_at: null
+published_at: 2025-11-26T01:52:06Z
 video_id: M-zOSEJFNos
 youtube_url: https://www.youtube.com/watch?v=M-zOSEJFNos
-tags: []
+tags: ["ainativedev"]
 transcript: true
 ---
 
@@ -23,11 +23,25 @@ transcript: true
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `119 min`
 
+`#ainativedev`
+
 [Watch the recording](https://www.youtube.com/watch?v=M-zOSEJFNos) · [Conference site](https://tessl.io/devcon/)
 
 ## Description
 
-*No description published on YouTube.*
+Session resources:
+
+If coding with AI sometimes feels brilliant and sometimes frustrating, you're not alone. This workshop walks you through a map of the patterns that make it more powerful and predictable, from first experiments to advanced techniques.
+
+We'll explore the inherent limitations of Generative AI alongside the new possibilities it creates - examining not just what
+happens, but why it happens. Understanding these underlying dynamics equips you to adapt and combine patterns in powerful ways and come up with your own solutions. Real-world examples will show some of these combinations in action.
+
+You'll leave with techniques that aren't tied to any single LLM or coding agent - practical approaches you can apply immediately, as well as the mental models that keep you effective in this rapidly changing landscape.
+
+🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re
+
+🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd
+🔔 Subscribe for weekly episodes on AI-native development
 
 ## Transcript
 

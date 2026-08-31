@@ -8,12 +8,12 @@ category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
 speakers: ["Derek Ashmore"]
-channel: null
+channel: "AI Native Dev"
 duration_min: 102
-published_at: null
+published_at: 2025-11-27T16:17:35Z
 video_id: cRAB2kkvh-4
 youtube_url: https://www.youtube.com/watch?v=cRAB2kkvh-4
-tags: []
+tags: ["ainativedev"]
 transcript: true
 ---
 
@@ -23,11 +23,28 @@ transcript: true
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `102 min`
 
+`#ainativedev`
+
 [Watch the recording](https://www.youtube.com/watch?v=cRAB2kkvh-4) · [Conference site](https://tessl.io/devcon/)
 
 ## Description
 
-*No description published on YouTube.*
+We'll go on a journey using Claude-Flow, managing a team of Claude-Code agents underneath to do a 12-factor assessment of an open source codebase to assess its ability to be cloud-native. That is, the ability of the application to use cloud features such as dynamic scaling and high-availability. We'll then plan changes needed to resolve cloud-native issues found by the analysis.
+
+Expect a discussion about cloud-native issues found in the cloud-native assessment, as well as migration plan tactics.
+
+Attendees will leave with:
+- Knowledge of how to use Claude-Flow/Code to assess legacy code bases
+- Knowledge of how to use agentic engineering practices to plan significant changes to legacy code bases
+
+If you want to participate, you are welcome. You're also welcome to watch. If you participate, the requirements are:
+- Claude Code Account/Anthropic API Key so that you can use Claude Code
+- GitHub account capable of running GitHub Codespaces
+
+🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re
+
+🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd
+🔔 Subscribe for weekly episodes on AI-native development
 
 ## Transcript
 

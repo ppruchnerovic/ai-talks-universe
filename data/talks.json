@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T19:55:47+00:00",
+  "generated_at": "2026-08-31T20:14:36+00:00",
   "source": "YouTube playlists and channels listed in conferences.json",
   "ai_filter": true,
   "conferences": [
@@ -234,7 +234,7 @@
       "category": "Industry & business"
     }
   ],
-  "count": 7336,
+  "count": 7351,
   "talks": [
     {
       "id": "-CnA2lGfymY",
@@ -22737,6 +22737,30 @@
       "has_details": true
     },
     {
+      "id": "D7_ipDqhtwk",
+      "video_id": "D7_ipDqhtwk",
+      "slug": "how-we-build-effective-agents-barry-zhang-anthropic",
+      "title": "How We Build Effective Agents: Barry Zhang, Anthropic",
+      "description": "Recorded live at the Agent Engineering Session Day from the AI Engineer Summit 2025 in New York. Learn more at https://ai.engineer and purchase tickets to our next event, the AI Engineer World's Fair, in SF June 3 - 5 here: https://ti.to/software-3/ai-engineer-worlds-fair-2025\n\nAbout Barry:\n\nBarry is a member of technical staff on Anthropic's Applied AI team, focusing on developing agentic systems with enterprises and startups. Previously, he was a tech lead on the Monetization genAI team at Meta, where he claimed the inaugural 'AI Engineer' title. He holds degrees in Computer Science and Industrial Engineering from Northwestern",
+      "speakers": [],
+      "conference": "ai-engineer",
+      "conference_name": "AI Engineer",
+      "category": "AI engineering & agents",
+      "edition": "AI Engineer",
+      "year": 2025,
+      "channel": "AI Engineer",
+      "duration_min": 15,
+      "duration_s": 909,
+      "published_at": "2025-04-04T18:46:36Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=D7_ipDqhtwk",
+      "conference_site": "https://www.ai.engineer/",
+      "availability": "free",
+      "priority": 1,
+      "source_url": "https://www.youtube.com/@aiDotEngineer/videos",
+      "has_details": true
+    },
+    {
       "id": "kv-QAuKWllQ",
       "video_id": "kv-QAuKWllQ",
       "slug": "how-we-hacked-yc-spring-2025-batchs-ai-agents-rene-brandel",
@@ -30209,6 +30233,30 @@
       "has_details": true
     },
     {
+      "id": "_7ahNcXQlbQ",
+      "video_id": "_7ahNcXQlbQ",
+      "slug": "2025-key-trends-ai-workflows-architectural-complexity",
+      "title": "2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems & Platform Products",
+      "description": "In this end-of-year panel, the InfoQ podcast hosts reflect on AI’s impact on software delivery, the growing importance of sociotechnical systems, evolving cloud realities, and what 2026 may bring.\n\nRead a transcript of this interview: https://bit.ly/3Lk6SsF\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nQCon London 2026 (March 16-19, 2026)\nQCon London equips senior engineers, architects, and technical leaders with trusted, practical insights to lead the change in software development. Get real-world solutions and leadership strategies from senior software practitioners defining current trends and solving today's toughest software challenges.\n\nQCon AI Boston 2026 (June 1-2, 2026)\nLearn how real teams are accelerating the entire software lifecycle with AI.\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- X: https://x.com/InfoQ?from=@\n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2026,
+      "channel": "InfoQ",
+      "duration_min": 55,
+      "duration_s": 3312,
+      "published_at": "2026-01-06T08:42:36Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=_7ahNcXQlbQ",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
       "id": "KtaJGlCrnP4",
       "video_id": "KtaJGlCrnP4",
       "slug": "90-of-ctos-get-this-wrong-engineering-to-ceo-evolution",
@@ -32225,6 +32273,30 @@
       "has_details": true
     },
     {
+      "id": "Lm-1O2gIVwg",
+      "video_id": "Lm-1O2gIVwg",
+      "slug": "scott-jenson-on-evolving-desktop-os-local-first-agentic-ux",
+      "title": "Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX",
+      "description": "In this episode, Scott Jenson, a veteran UX designer known for his work on the Macintosh, Google Maps, and Chrome examines the long-term stagnation of desktop operating systems and the limitations of current mobile and cloud-centric models. The conversation shifts toward specialised \"Local-First\" software, exploring how we can move beyond the \"status quo\" of interface design to create more intuitive, powerful, and privacy-conscious computing environments in the advent of the “LLM everywhere” era.\n\nRead a transcript of this interview: https://bit.ly/4gwuQwC\n\nNewsletter:\nSubscribe to the Software Architects' Newsletter, a monthly roundup of the patterns and technologies senior practitioners are working through, with the news and lessons from people doing the work:\n\nInfoQ Online Certification Programs:\n5-week online cohorts for senior engineers and architects, built around QCon talks. Programs now cover software architecture, AI engineering, and organizational architecture. Each week you join a four-hour live session with a confidential peer group of practitioners from other companies, apply frameworks from QCon talks to the decisions you're making at work, and earn an InfoQ certification. You leave with new approaches, or confirmation that the calls you're already making are the right ones. Learn more:\n\nUpcoming Events:\nQCon San Francisco 2026 (November 16-20, 2026)\n\nQCon London 2027 (April 13-16, 2027)\n\nThe InfoQ Podcasts:\nWeekly conversations with senior software leaders about how they build systems and teams, including what they'd do differently. Listen to all our podcasts and read interview transcripts:\nThe InfoQ Podcast: https://www.infoq.com/podcasts/\nEngineering Culture Podcast by InfoQ: https://www.infoq.com/podcasts/#engineering_culture\nGenerally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\nMastodon: https://techhub.social/@infoq\nX: https://x.com/InfoQ\nYouTube: https://www.youtube.com/infoq\nBluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ:\nShare what you've learned building software with a community of senior practitioners, and get your work in front of the people who read InfoQ.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2026,
+      "channel": "InfoQ",
+      "duration_min": 40,
+      "duration_s": 2406,
+      "published_at": "2026-08-31T10:17:55Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=Lm-1O2gIVwg",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
       "id": "KA9195tqkTs",
       "video_id": "KA9195tqkTs",
       "slug": "shopify-staff-engineer-why-your-multi-agent-ai-architecture",
@@ -33404,30 +33476,6 @@
       "has_details": true
     },
     {
-      "id": "_7ahNcXQlbQ",
-      "video_id": "_7ahNcXQlbQ",
-      "slug": "2025-key-trends-ai-workflows-architectural-complexity",
-      "title": "2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical Systems & Platform Products",
-      "description": "",
-      "speakers": [],
-      "conference": "qcon-infoq",
-      "conference_name": "QCon / InfoQ Dev Summit",
-      "category": "Software dev with AI tracks",
-      "edition": "InfoQ",
-      "year": 2025,
-      "channel": null,
-      "duration_min": 55,
-      "duration_s": 3312,
-      "published_at": null,
-      "tags": [],
-      "youtube_url": "https://www.youtube.com/watch?v=_7ahNcXQlbQ",
-      "conference_site": "https://qconferences.com/",
-      "availability": "partial",
-      "priority": 2,
-      "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
-    },
-    {
       "id": "a5kmJ_LMSWQ",
       "video_id": "a5kmJ_LMSWQ",
       "slug": "achieving-seamless-integration-through-user-co-design",
@@ -33601,24 +33649,24 @@
       "video_id": "DUTEpuXi-Ps",
       "slug": "ai-ml-and-data-engineering-infoq-trends-report-2025",
       "title": "AI, ML, and Data Engineering InfoQ Trends Report 2025",
-      "description": "",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ discuss the current trends in the domain of AI, ML and Data Engineering.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year.\n\nInfoQ AI, ML and Data Engineering editorial team met with external guests to discuss the trends in AI and ML areas, and what to watch out for the next 12 months. In addition to the written report and trends graph, this podcast provides a recording of a discussion where expert panelists discuss how innovative AI technologies are disrupting the industry.\n\nRead a transcript of this interview: http://bit.ly/4nRpvlF\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nQCon AI New York 2025 (December 16-17, 2025)\n\nQCon London 2026 (March 16-19, 2026)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- X: https://x.com/InfoQ?from=@\n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
       "speakers": [],
       "conference": "qcon-infoq",
       "conference_name": "QCon / InfoQ Dev Summit",
       "category": "Software dev with AI tracks",
       "edition": "InfoQ",
       "year": 2025,
-      "channel": null,
+      "channel": "InfoQ",
       "duration_min": 53,
       "duration_s": 3183,
-      "published_at": null,
+      "published_at": "2025-09-24T09:12:18Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=DUTEpuXi-Ps",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
       "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "ebZefcFaSJY",
@@ -34174,6 +34222,30 @@
       "published_at": "2025-03-21T08:16:55Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=BE02nN5vI2s",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "ZAXWFuJT5GQ",
+      "video_id": "ZAXWFuJT5GQ",
+      "slug": "cloud-and-devops-infoq-trends-report-2025",
+      "title": "Cloud and DevOps InfoQ Trends Report 2025",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will discuss current trends in the cloud and DevOps domains as part of our annual trends report creation process. These reports provide InfoQ readers with a high-level overview of key topics to watch and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast offers a chance to hear our raw conversation and the stories shared by our expert practitioners.\n\nRead a transcript of this interview: http://bit.ly/3KBz5us\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nQCon AI New York 2025 (December 16-17, 2025)\n\nQCon London 2026 (March 16-19, 2026)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- X: https://x.com/InfoQ?from=@\n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2025,
+      "channel": "InfoQ",
+      "duration_min": 51,
+      "duration_s": 3047,
+      "published_at": "2025-10-22T10:45:22Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=ZAXWFuJT5GQ",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
@@ -35341,6 +35413,132 @@
       "has_details": true
     },
     {
+      "id": "Fc_ECVXGu3Y",
+      "video_id": "Fc_ECVXGu3Y",
+      "slug": "infoq-architecture-and-design-trends-in-2025",
+      "title": "InfoQ Architecture and Design Trends in 2025",
+      "description": "Are you a senior software developer, architect, or engineering leader looking to stay ahead in 2025? This InfoQ podcast dives deep into the critical trends shaping Software Architecture, featuring expert insights from InfoQ editors and QCon program committee members: Thomas Betts, Eran Stiller, Daniel Bryant, and Sarah Wells.\n\nTimestamps:\n02:43 AI for software architects - LLMs, RAG, and agentic AI\n15:31 Cell-based architecture for resilience\n19:47 Monzo Bank’s unorthodox backup strategy\n23:20 Privacy engineering and sustainability\n28:00 Commoditization of platform engineering\n34:15 Closing thoughts\n\n🔗 Transcript available on InfoQ:  https://bit.ly/3Y9Gc1g\n\n🔔 Subscribe for more expert insights on software architecture and technology trends from InfoQ.\n\n💬What are the biggest architectural challenges you're facing in 2025? Share your thoughts in the comments below! 👇",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2025,
+      "channel": "InfoQ",
+      "duration_min": 35,
+      "duration_s": 2101,
+      "published_at": "2025-04-28T11:05:41Z",
+      "tags": [
+        "Software Architecture",
+        "AI",
+        "Resilience",
+        "Platform Engineering",
+        "InfoQ Trends Report",
+        "Cell-Based Architecture",
+        "Sustainable Computing",
+        "InfoQ Trends Report 2025",
+        "AI Architecture",
+        "Edge",
+        "Green Software",
+        "Retrieval-Augmented Generation",
+        "Emerging Technologies",
+        "The InfoQ Podcast",
+        "Large language models",
+        "Data"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=Fc_ECVXGu3Y",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "mduMpkkdhe8",
+      "video_id": "mduMpkkdhe8",
+      "slug": "infoq-architecture-and-design-trends-in-2025",
+      "title": "InfoQ Architecture and Design Trends in 2025",
+      "description": "The panel discussion in this episode is one half of the annual InfoQ Architecture and Design Trends Report. The other half is the written report .\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers with a high-level overview of the topics to pay attention to this year, and also help the editorial team focus on innovative technologies across all the content on InfoQ.\n\nRead a transcript of this interview: https://bit.ly/43WChIH\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nQCon AI NYC 2025 (December 16-17, 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2025,
+      "channel": "InfoQ",
+      "duration_min": 35,
+      "duration_s": 2101,
+      "published_at": "2025-04-28T10:15:41Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=mduMpkkdhe8",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "QaAvZNQrJ4E",
+      "video_id": "QaAvZNQrJ4E",
+      "slug": "infoq-culture-methods-trends-in-2025",
+      "title": "InfoQ Culture & Methods Trends in 2025",
+      "description": "Are you a senior software developer, architect, or engineering leader navigating the noise around AI? This InfoQ Culture and Methods Trends report 2025, featuring Charity Majors (Honeycomb.io CTO) and industry experts Ben Linders, Rafiq Gemmail, and Craig Smith, cuts through the hype to deliver practical insights on the real impact of AI, the crucial elements of building resilient, high-performing engineering teams, and the evolving landscape of software development.\n\nTimestamps:\n\n01:24 - Introduction\n05:08 - AI Hype and Reality\n11:30 - The AI divide\n14:39 - Impacts on quality\n17:00 - Beyond code generation\n22:52 - Accelerating their advancement of junior engineers\n25:22 - Building high-performing teams\n27:40 - The impact of losing coaching roles\n30:10 - The disparity across organisations\n34:07 - The dangers of monoculture\n37:38 - Measuring waste and productivity\n40:09 - High-performing teams are not afraid of metrics\n41:50 - Observability trends\n46:44 - Fin-Ops: cost is an attribute of systems architecture\n48:58 - Observability overwhelm\n55:08 - Closing thoughts and future directions\n\n🔗 Transcript available on InfoQ: https://bit.ly/44dqq9l\n\n🔔 Don't miss out on future insights for tech leaders! Subscribe now for more expert discussions and trend analysis from InfoQ.\n\n💬What are your biggest challenges in leveraging AI effectively within your engineering teams? Share your thoughts in the comments below!👇",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2025,
+      "channel": "InfoQ",
+      "duration_min": 69,
+      "duration_s": 4118,
+      "published_at": "2025-05-09T13:13:22Z",
+      "tags": [
+        "Team Collaboration",
+        "Productivity",
+        "Accessibility",
+        "Psychological Safety",
+        "InfoQ Trends Report",
+        "Training",
+        "Observability",
+        "Teamwork",
+        "Engineering Culture Podcast",
+        "InfoQ Trends Report 2025",
+        "Software Development",
+        "Engineering Leadership"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=QaAvZNQrJ4E",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "Z0-oGXyRSjA",
+      "video_id": "Z0-oGXyRSjA",
+      "slug": "infoq-culture-methods-trends-in-2025",
+      "title": "InfoQ Culture & Methods Trends in 2025",
+      "description": "This is the Engineering Culture Podcast, from the people behind InfoQ.com and the QCon conferences.\nThis is the Engineering Culture Trends Report for 2025. Featuring the InfoQ editorial team and special guest Charity Majors, they discuss how AI is transforming software development with dramatic productivity gains alongside quality concerns, emphasize the continued importance of team collaboration, observability, engineering metrics, and mentorship of junior engineers in creating high-performing software teams.\n\nRead a transcript of this interview: https://bit.ly/42F8TWt\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nQCon AI New York 2025 (December 16-17, 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2025,
+      "channel": "InfoQ",
+      "duration_min": 67,
+      "duration_s": 4018,
+      "published_at": "2025-05-09T08:25:57Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=Z0-oGXyRSjA",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
       "id": "RxhuiOVcmks",
       "video_id": "RxhuiOVcmks",
       "slug": "intentional-culture-and-continuous-compensation-an",
@@ -36208,6 +36406,30 @@
       "published_at": "2025-03-24T11:12:07Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=ShANq_IDDbI",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "o9Uuzrl7jkU",
+      "video_id": "o9Uuzrl7jkU",
+      "slug": "sovereign-clouds-hyperscalers-and-european-alternatives",
+      "title": "Sovereign Clouds, Hyperscalers and European Alternatives: InfoQ Dev Summit Munich 2025 Preview",
+      "description": "In this podcast episode, speakers from the upcoming InfoQ Dev Summit Munich 2025 tackle the practical challenges facing European developers caught between regulatory pressures and technological realities. The panel discusses trade-offs between using US cloud providers versus emerging European alternatives, exploring cloud-agnostic architecture strategies, the implications of data sovereignty, and why digital independence doesn't mean technological isolation.\n\nRead a transcript of this interview: https://bit.ly/46vNSQj\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (November 17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nQCon AI New York 2025 (December 16-17, 2025)\n\nQCon London 2026 (March 16-19, 2026)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- X: https://x.com/InfoQ?from=@\n- LinkedIn: https://www.linkedin.com/company/infoq/\n- Facebook: https://www.facebook.com/InfoQdotcom#\n- Instagram: https://www.instagram.com/infoqdotcom/?hl=en\n- Youtube: https://www.youtube.com/infoq\n- Bluesky: https://bsky.app/profile/infoq.com\n\nWrite for InfoQ: Learn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2025,
+      "channel": "InfoQ",
+      "duration_min": 41,
+      "duration_s": 2465,
+      "published_at": "2025-08-06T08:18:36Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=o9Uuzrl7jkU",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
@@ -37162,6 +37384,60 @@
       "has_details": true
     },
     {
+      "id": "BEmTDfWaJfo",
+      "video_id": "BEmTDfWaJfo",
+      "slug": "2023-year-in-review-ai-llms-tech-leadership-platform",
+      "title": "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and Architecture + Data",
+      "description": "In this special year-end wrap-up podcast Thomas Betts, Wes Reisz, Shane Hastie, Srini Penchikala, and Daniel Bryant reflect on technology trends in 2023 and discuss what they hope to see in 2024. Topics explored included: the use of AI and LLMs within software delivery, the changing role of technical leadership, and the increasing integration of software architecture and data engineering.\n\nRead a transcript of this interview: https://bit.ly/47CN5tR\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nQCon London (April 8-10, 2024)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 24-25, 2024)\nActionable insights on today’s critical dev priorities.\n\nQCon San Francisco (November 18-22, 2024)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI Podcast\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 61,
+      "duration_s": 3640,
+      "published_at": "2024-01-27T11:12:00Z",
+      "tags": [
+        "Data",
+        "AI",
+        "Leadership",
+        "LLM",
+        "Platform Engineering"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=BEmTDfWaJfo",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "UAihSoJ8y6A",
+      "video_id": "UAihSoJ8y6A",
+      "slug": "2023-year-in-review-ai-llms-tech-leadership-platform",
+      "title": "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and Architecture + Data",
+      "description": "In this special year-end wrap-up podcast Thomas Betts, Wes Reisz, Shane Hastie, Srini Penchikala, and Daniel Bryant reflect on technology trends in 2023 and discuss what they hope to see in 2024. Topics explored included: the use of AI and LLMs within software delivery, the changing role of technical leadership, and the increasing integration of software architecture and data engineering.\n\nRead a transcript of this interview: https://bit.ly/47CN5tR\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nApril 8-10, 2024\n\nQCon San Francisco\nNovember 18-22, 2024\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 61,
+      "duration_s": 3640,
+      "published_at": "2024-10-03T14:06:40Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=UAihSoJ8y6A",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
       "id": "d2oGjWxUQDI",
       "video_id": "d2oGjWxUQDI",
       "slug": "a-primer-on-ai-for-architects-with-anthony-alford",
@@ -37221,48 +37497,48 @@
       "video_id": "dxUQ3u4nf1M",
       "slug": "ai-ml-and-data-engineering-trends-in-2024",
       "title": "AI, ML, and Data Engineering Trends in 2024",
-      "description": "",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff and friends of InfoQ will be discussing the current trends in the domain of AI, ML and Data Engineering.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers and listeners with a high-level overview of the topics to pay attention to this year.\n\nInfoQ AI, ML and Data Engineering editorial team met with external guests to discuss the trends in AI and ML areas, and what to watch out for the next 12 months. This podcast is a recording of this discussion where panelists discuss how the innovative AI technologies are disrupting the industry.\n\nRead a transcript of this podcast panel: https://bit.ly/3LXMcUk\nFind the written report and trends graph on InfoQ: https://bit.ly/3Z8Z5CF\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
       "speakers": [],
       "conference": "qcon-infoq",
       "conference_name": "QCon / InfoQ Dev Summit",
       "category": "Software dev with AI tracks",
       "edition": "InfoQ",
       "year": 2024,
-      "channel": null,
+      "channel": "InfoQ",
       "duration_min": 54,
       "duration_s": 3217,
-      "published_at": null,
+      "published_at": "2024-08-14T09:33:11Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=dxUQ3u4nf1M",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
       "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "mXcQ41CTAkc",
       "video_id": "mXcQ41CTAkc",
       "slug": "ai-rust-and-resilience-key-software-trends-seen-by-the-qcon",
       "title": "AI, Rust, and Resilience: Key Software Trends Seen by the QCon San Francisco 2024 Program Committee",
-      "description": "",
+      "description": "QCon conferences cover emerging trends in software, and this episode features members of the QCon San Francisco 2024 programming committee discussing those trends selected to be the focus of this year’s QCon San Francisco. This discussion is similar to InfoQ trends reports, with expert practitioners highlighting the technologies and practices that they feel deserve attention.\n\nRead a transcript of this interview: https://bit.ly/3Bk912b\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
       "speakers": [],
       "conference": "qcon-infoq",
       "conference_name": "QCon / InfoQ Dev Summit",
       "category": "Software dev with AI tracks",
       "edition": "InfoQ",
       "year": 2024,
-      "channel": null,
+      "channel": "InfoQ",
       "duration_min": 34,
       "duration_s": 2011,
-      "published_at": null,
+      "published_at": "2024-10-07T08:28:24Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=mXcQ41CTAkc",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
       "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "T04txhFtcvo",
@@ -37332,6 +37608,30 @@
         "Transcript"
       ],
       "youtube_url": "https://www.youtube.com/watch?v=67uxiGfCWzY",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "PSVZVAbdURI",
+      "video_id": "PSVZVAbdURI",
+      "slug": "architecture-and-design-trends-report-2024",
+      "title": "Architecture and Design Trends Report 2024",
+      "description": "The panel discussion in this episode is one half of the annual InfoQ Architecture and Design Trends Report. The other half is the written report.\n\nOne of the regular features of InfoQ are the trends reports, which each focus on a different aspect of software development. These reports provide the InfoQ readers with a high-level overview of the topics to pay attention to this year, and also help the editorial team focus on innovative technologies across all the content on InfoQ.\n\nRead a transcript of this interview: https://www.infoq.com/podcasts/infoq-architecture-trends-2024/\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI https:/www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 44,
+      "duration_s": 2617,
+      "published_at": "2024-10-03T14:16:12Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=PSVZVAbdURI",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
@@ -38462,6 +38762,59 @@
       "has_details": true
     },
     {
+      "id": "HYsGQzQACDA",
+      "video_id": "HYsGQzQACDA",
+      "slug": "infoq-culture-methods-trends-in-2023",
+      "title": "InfoQ Culture & Methods Trends in 2023",
+      "description": "In this podcast the whole Culture & Methods editorial team plus Rebecca Parsons, CTO of Thoughtworks, explore the trends they see happening in the technology industry in 2023\n\nRead a transcript of this interview: https://bit.ly/41HNCJE\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: https://twitter.com/InfoQ\n- LinkedIn: https://www.linkedin.com/company/infoq\n- Facebook: https://bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: https://www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 57,
+      "duration_s": 3423,
+      "published_at": "2024-01-02T05:00:06Z",
+      "tags": [
+        "ChatGPT",
+        "culture and methods",
+        "The InfoQ Podcasts",
+        "InfoQ Trends Reports"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=HYsGQzQACDA",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "szMiqrcyMDA",
+      "video_id": "szMiqrcyMDA",
+      "slug": "infoq-java-trends-report-2024-discussing-insights-with",
+      "title": "InfoQ Java Trends Report 2024 - Discussing Insights with Ixchel Ruiz and Gunnar Morling",
+      "description": "In this episode, Ixchel Ruiz, Senior Software Developer at Karakun, and Gunnar Morling, Software Engineer at Decodable, sat down with podcast host Michael Redlich, Lead Editor of the Java topic at InfoQ, and discussed the recent publication of the InfoQ Java Trends Report. Topics covered included: the advantages of the Java six-month release cadence; Project Lilliput and compact object headers; nullability in Java; the impact of Python; and the One Billion Row Challenge.\n\nRead a transcript of this interview: https://bit.ly/3OPIH3E\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nqconsf.com/\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 52,
+      "duration_s": 3131,
+      "published_at": "2024-12-18T08:47:36Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=szMiqrcyMDA",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
       "id": "NE2Aj_xvSw8",
       "video_id": "NE2Aj_xvSw8",
       "slug": "justin-sheehy-on-being-a-responsible-developer-in-the-age",
@@ -38490,24 +38843,24 @@
       "video_id": "92rLmAlXy9A",
       "slug": "key-trends-from-2024-cell-based-architecture-dora-space-llm",
       "title": "Key Trends from 2024: Cell-based Architecture, DORA & SPACE, LLM & SLM, Cloud Databases and Portals",
-      "description": "",
+      "description": "In this year-in-review episode, Daniel Bryant, along with InfoQ podcast hosts Thomas Betts, Shane Hastie, Srini Penchikala, and Renato Losio, reflect on the trends and developments of 2024 across key domains: architecture, culture and methods, AI and data engineering, and cloud and DevOps. The conversation covers the rise of AI as a ubiquitous enabler, the growing focus on green software, platform engineering’s mainstream emergence, and the ongoing challenges of balancing human and technical evolution.\n\nRead a transcript of this interview: https://bit.ly/3VLkNdx\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast https://www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ https://www.infoq.com/podcasts/#engineering_culture\n- Generally AI: https://www.infoq.com/generally-ai-podcast/\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:Learn and share the changes and innovations in professional software development.\n- Join a community of ex\nperts.\n- Increase your visibility.\n- Grow your career.",
       "speakers": [],
       "conference": "qcon-infoq",
       "conference_name": "QCon / InfoQ Dev Summit",
       "category": "Software dev with AI tracks",
       "edition": "InfoQ",
       "year": 2024,
-      "channel": null,
+      "channel": "InfoQ",
       "duration_min": 52,
       "duration_s": 3098,
-      "published_at": null,
+      "published_at": "2024-12-30T09:36:51Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=92rLmAlXy9A",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
       "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "TKL2n-Sxu3g",
@@ -38536,6 +38889,30 @@
         "Transcript"
       ],
       "youtube_url": "https://www.youtube.com/watch?v=TKL2n-Sxu3g",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "pLzFUmXht78",
+      "video_id": "pLzFUmXht78",
+      "slug": "lessons-learned-from-the-crowdstrike-incident-infoq-dev",
+      "title": "Lessons Learned From the CrowdStrike Incident: InfoQ Dev Summit Munich 2024 Preview",
+      "description": "In this podcast episode, speakers from the InfoQ Dev Summit Munich 2024 discuss the recent CrowdStrike incident, which triggered widespread outages and highlighted vulnerabilities in cloud infrastructure. The panel shares personal experiences and emphasizes the importance of resilience in IT systems, the implications of cloud dependency, and the lessons learned about risk management and automation in organizations.\n\nRead a transcript of this interview: https://bit.ly/4gbCew8\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nInfoQ Dev Summit Munich (Sept 26-27, 2024)\nPractical learnings from senior software practitioners navigating Generative AI, security, modern web applications, and more.\ndevsummit.infoq.com/conference/munich2024\n\nQCon San Francisco (November 18-22, 2024)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\nqconsf.com/\n\nQCon London (April 7-9, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\nqconlondon.com/\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 27,
+      "duration_s": 1621,
+      "published_at": "2024-09-03T10:39:52Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=pLzFUmXht78",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
@@ -39411,6 +39788,30 @@
       "has_details": true
     },
     {
+      "id": "xotiSZPwRNc",
+      "video_id": "xotiSZPwRNc",
+      "slug": "the-state-of-engineering-management-in-2024",
+      "title": "The State of Engineering Management in 2024",
+      "description": "This is the Engineering Culture Podcast, from the people behind InfoQ.com and the QCon conferences.\n\nIn this podcast Shane Hastie, Lead Editor for Culture & Methods spoke to Andrew Lau about the State of Engineering Management Report for 2024.\n\nRead a transcript of this interview: https://bit.ly/4cfxJ0p\n\nSubscribe to the Software Architects’ Newsletter for your monthly guide to the essential news and experience from industry peers on emerging patterns and technologies:\nwww.infoq.com/software-architects-newsletter\n\nUpcoming Events:\n\nQCon London (April 7-10, 2025)\nDiscover new ideas and insights from senior practitioners driving change and innovation in software development.\n\nInfoQ Dev Summit Boston (June 9-10, 2025)\nActionable insights on today’s critical dev priorities.\ndevsummit.infoq.com/conference/boston2025\n\nInfoQ Dev Summit Munich (October 15-16, 2025)\nEssential insights on critical software development priorities.\n\nQCon San Francisco 2025 (17-21, 2025)\nGet practical inspiration and best practices on emerging software trends directly from senior software developers at early adopter companies.\n\nInfoQ Dev Summit New York (Save the date - December 2025)\n\nThe InfoQ Podcasts:\nWeekly inspiration to drive innovation and build great teams from senior software leaders. Listen to all our podcasts and read interview transcripts:\n\n- The InfoQ Podcast www.infoq.com/podcasts/\n- Engineering Culture Podcast by InfoQ www.infoq.com/podcasts/#engineering_culture\n- Generally AI\n\nFollow InfoQ:\n- Mastodon: techhub.social/@infoq\n- Twitter: twitter.com/InfoQ\n- LinkedIn: www.linkedin.com/company/infoq\n- Facebook: bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: www.youtube.com/infoq\n\nWrite for InfoQ:\nLearn and share the changes and innovations in professional software development.\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2024,
+      "channel": "InfoQ",
+      "duration_min": 23,
+      "duration_s": 1399,
+      "published_at": "2024-08-23T10:47:57Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=xotiSZPwRNc",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
       "id": "mU25tteVjII",
       "video_id": "mU25tteVjII",
       "slug": "trends-in-engineering-leadership-observability-agile",
@@ -39638,54 +40039,6 @@
       "has_details": true
     },
     {
-      "id": "BEmTDfWaJfo",
-      "video_id": "BEmTDfWaJfo",
-      "slug": "2023-year-in-review-ai-llms-tech-leadership-platform",
-      "title": "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and Architecture + Data",
-      "description": "",
-      "speakers": [],
-      "conference": "qcon-infoq",
-      "conference_name": "QCon / InfoQ Dev Summit",
-      "category": "Software dev with AI tracks",
-      "edition": "InfoQ",
-      "year": 2023,
-      "channel": null,
-      "duration_min": 61,
-      "duration_s": 3640,
-      "published_at": null,
-      "tags": [],
-      "youtube_url": "https://www.youtube.com/watch?v=BEmTDfWaJfo",
-      "conference_site": "https://qconferences.com/",
-      "availability": "partial",
-      "priority": 2,
-      "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
-    },
-    {
-      "id": "UAihSoJ8y6A",
-      "video_id": "UAihSoJ8y6A",
-      "slug": "2023-year-in-review-ai-llms-tech-leadership-platform",
-      "title": "2023 Year in Review: AI/LLMs, Tech Leadership, Platform Engineering, and Architecture + Data",
-      "description": "",
-      "speakers": [],
-      "conference": "qcon-infoq",
-      "conference_name": "QCon / InfoQ Dev Summit",
-      "category": "Software dev with AI tracks",
-      "edition": "InfoQ",
-      "year": 2023,
-      "channel": null,
-      "duration_min": 61,
-      "duration_s": 3640,
-      "published_at": null,
-      "tags": [],
-      "youtube_url": "https://www.youtube.com/watch?v=UAihSoJ8y6A",
-      "conference_site": "https://qconferences.com/",
-      "availability": "partial",
-      "priority": 2,
-      "source_url": "https://www.youtube.com/@infoq/videos",
-      "has_details": false
-    },
-    {
       "id": "iyH8GPXzBpk",
       "video_id": "iyH8GPXzBpk",
       "slug": "back-to-basics-scalable-portable-ml-in-pure-sql",
@@ -39746,6 +40099,36 @@
         "Transcript"
       ],
       "youtube_url": "https://www.youtube.com/watch?v=M6Z-RpEdaN4",
+      "conference_site": "https://qconferences.com/",
+      "availability": "partial",
+      "priority": 2,
+      "source_url": "https://www.youtube.com/@infoq/videos",
+      "has_details": true
+    },
+    {
+      "id": "CKpxd3FBnqo",
+      "video_id": "CKpxd3FBnqo",
+      "slug": "infoq-software-architecture-design-trends-2023",
+      "title": "InfoQ Software Architecture & Design Trends 2023",
+      "description": "In this episode of the podcast, members of the InfoQ editorial staff will be discussing the current trends in software architecture and design, as part of the process to create our annual trends report. These reports provide InfoQ readers with a high-level overview of the topics to pay attention to, and also help the editorial team focus on innovative technologies. In addition to the report and the trends graph available on InfoQ.com, this podcast is a chance to hear our conversation and some stories our expert practitioners have observed.\n\nRead a transcript of this interview: https://bit.ly/3v6eOW0\n\nSubscribe to the Software Architects’ Newsletter [monthly]: www.infoq.com/software-architect…mpaign=architectnl\n\nUpcoming Events:\n\nQCon London\nApril 8-10, 2024\n\nFollow InfoQ:\n- Mastodon: https://techhub.social/@infoq\n- Twitter: https://twitter.com/InfoQ\n- LinkedIn: https://www.linkedin.com/company/infoq\n- Facebook: https://bit.ly/2jmlyG8\n- Instagram: @infoqdotcom\n- Youtube: https://www.youtube.com/infoq\n\nWrite for InfoQ\n- Join a community of experts.\n- Increase your visibility.\n- Grow your career.\nwww.infoq.com/write-for-infoq/?u…aign=writeforinfoq",
+      "speakers": [],
+      "conference": "qcon-infoq",
+      "conference_name": "QCon / InfoQ Dev Summit",
+      "category": "Software dev with AI tracks",
+      "edition": "InfoQ",
+      "year": 2023,
+      "channel": "InfoQ",
+      "duration_min": 40,
+      "duration_s": 2380,
+      "published_at": "2023-12-29T05:00:11Z",
+      "tags": [
+        "InfoQ Trends Reports",
+        "Architecture & Design",
+        "ChatGPT",
+        "WebAssembley",
+        "Blockchain"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=CKpxd3FBnqo",
       "conference_site": "https://qconferences.com/",
       "availability": "partial",
       "priority": 2,
@@ -64924,6 +65307,34 @@
       "has_details": true
     },
     {
+      "id": "13EDVjfWKJM",
+      "video_id": "13EDVjfWKJM",
+      "slug": "cian-clarke-from-vibe-coding-to-spec-driven-development",
+      "title": "Cian Clarke - From Vibe Coding to Spec-Driven Development | DevCon Fall 2025",
+      "description": "At Nearform, we see Spec-Driven Development (SDD) as the blueprint for progressive delivery in the AI-native era.\n\nBy applying a SDD methodology on some real customer projects, we’ve accelerated delivery with leaner teams & tested the limits of this methodology along the way.\n\nIn this talk, I’ll share why SDD excites us far more than \"vibe coding\" ever did.\n\nI'll show:\n- How we've found it to deliver greater predictability, completeness, and context-aware outputs, with examples of vibe coding shortcomings that SDD has solved for\n- How codifying the traditional roles of a software team as agentic roles produces more reliable, repeatable results, with examples of how an explicit QA step + context window overcomes many traditional under-completeness reporting challenges\n- How we leverage multiple human-in-the-loop drivers of agents coordinate on a single project using git\n- How we make SDD fit into the enterprise development cycle through use of MCP connectivity, giving more transparency into the work of agents\n\nWe'll also share some of the warts:\n- The types of projects this new development paradigm proved not yet ready to tackle\n- Challenges we've seen to adoption across teams & how to nurture a culture where AI native development isn't a threat\n\nAttendees will leave with concrete learnings testing the bounds of what's possible with spec driven development on larger enterprise projects.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
+      "speakers": [
+        "Cian Clarke"
+      ],
+      "conference": "ai-devcon-tessl",
+      "conference_name": "AI DevCon (Tessl)",
+      "category": "AI engineering & agents",
+      "edition": "Tessl",
+      "year": 2026,
+      "channel": "AI Native Dev",
+      "duration_min": 25,
+      "duration_s": 1498,
+      "published_at": "2026-01-12T12:43:16Z",
+      "tags": [
+        "ainativedev"
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=13EDVjfWKJM",
+      "conference_site": "https://tessl.io/devcon/",
+      "availability": "free",
+      "priority": 1,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "has_details": true
+    },
+    {
       "id": "aI5-oKjfgo4",
       "video_id": "aI5-oKjfgo4",
       "slug": "cisco-principal-engineer-s-fix-for-ai-code-security",
@@ -65431,6 +65842,30 @@
       "published_at": "2026-02-08T16:25:29Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=b4cTFgUphtM",
+      "conference_site": "https://tessl.io/devcon/",
+      "availability": "free",
+      "priority": 1,
+      "source_url": "https://www.youtube.com/@tessl-ai/videos",
+      "has_details": true
+    },
+    {
+      "id": "F2Ay09T4EHQ",
+      "video_id": "F2Ay09T4EHQ",
+      "slug": "github-snyk-docker-anthropic-on-securing-ai-agents",
+      "title": "GitHub, Snyk, Docker & Anthropic on Securing AI Agents",
+      "description": "Join us in November for AI DevCon NYC 2026. Buy your ticket now, with 15% off using code YT15:\n\nHarness engineering has a security problem: the skills, tools and memory we hand coding agents arrive with no permissions, no sandboxing and no controls at all. Four talks from AI DevCon London on what that actually costs.\n\nJoseph Katsioloudes (GitHub Security Lab) opens with the gap the industry is trying to close — roughly one application security specialist for every hundred developers — and argues the answer isn't shifting left, it's starting left. Liran Tal (Snyk) scanned around 4,000 published agent skills and found about 1 in 7 carried malware, suspicious downloads or credential harvesting, in a file format with nowhere to declare a permission. Oleg Šelajev (Docker) demos an agent refusing a dangerous skill, then complying once the same instruction is rewritten as Python, wrapped in a module and the context is cleared. And Lamis Mukta (Anthropic) closes on the unglamorous engineering that makes agent memory safe in production: versioning, so a poisoned memory can be rolled back, and a hash check, so two agents can't overwrite each other.\n\nWhat we cover:\n– Why one security specialist per 100 developers is the gap AI could close\n– What a scan of 4,000 published agent skills actually turned up\n– Why a SKILL.md file has nowhere to declare permissions or sandboxing\n– How clearing the context talks an agent past its own refusal\n– The guardrails an agent harness needs before memory reaches production\n\nChapters:\n00:00:00 - Introduction\n00:00:35 - Joseph Katsioloudes, GitHub Security Lab: AI and code security\n00:01:47 - One security specialist for every 100 developers\n00:02:38 - Why \"shift left\" should be \"start left\"\n00:02:59 - Liran Tal, Snyk: what's inside 4,000 published skills\n00:04:12 - 1 in 7 skills had something wrong with it\n00:05:16 - Oleg Šelajev, Docker: getting an agent to run what it refused\n00:06:56 - Clearing the context, and the agent complies\n00:07:31 - Lamis Mukta, Anthropic: keeping agent memory safe\n00:09:09 - Concurrency, and stopping two agents overwriting each other\n\nBuild your software factory, one workflow at a time, with Tessl:\n\n🔔 Subscribe for weekly videos on AI-native development\n\nWhich of these four would keep you up at night? Tell us in the comments.",
+      "speakers": [],
+      "conference": "ai-devcon-tessl",
+      "conference_name": "AI DevCon (Tessl)",
+      "category": "AI engineering & agents",
+      "edition": "Tessl",
+      "year": 2026,
+      "channel": "AI Native Dev",
+      "duration_min": 10,
+      "duration_s": 617,
+      "published_at": "2026-08-31T16:00:25Z",
+      "tags": [],
+      "youtube_url": "https://www.youtube.com/watch?v=F2Ay09T4EHQ",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
@@ -68708,7 +69143,7 @@
       "video_id": "CKqpy8tl1Tg",
       "slug": "adam-larson-evaluating-an-llm-s-ability-to-code-devcon-fall",
       "title": "Adam Larson - Evaluating An LLM's Ability To Code | DevCon Fall 2025",
-      "description": "",
+      "description": "In this talk I want to share the dimensions I like to look at LLM's from, the path I've taken so far at building testing capabilities, and how much more there is to do to continue research in this space.\n\nBenchmarks will come out and show that some new model is the best at coding, but that doesn't always align with real world usage. This was frustrating to me, and led me down a path of trying to build a way to evaluate in a way that would mimic real world usage.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Adam Larson"
       ],
@@ -68717,17 +69152,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 25,
       "duration_s": 1519,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T21:58:14Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=CKqpy8tl1Tg",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "CeN6hWCoriA",
@@ -68992,7 +69429,7 @@
       "video_id": "irK4G2SzhpA",
       "slug": "aidan-cunniffe-tracking-ai-generated-code-with-git-devcon",
       "title": "Aidan Cunniffe - Tracking AI generated code with Git | DevCon Fall 2025",
-      "description": "",
+      "description": "Did an agent write that? Know you can know. Git AI is an open source git extension that tracks every line of AI code that gets added to a repo. You can reset, rebase, reformat, copy/paste, cherry-pick -- Git AI won't lose track. You get accurate AI attribution from your laptop to production.\n\nCome by for a live demo and hear stories about how measuring AI and tracking AI code has helped teams large and small ship better code, faster.\n\nTakeaways\n1. There's an emerging standard for tracking AI code (adopt it!)\n2. The new SBOM is knowing which code is AI and tying incidents back to it.\n3. Saving prompts will make agents smarter. Start today!\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Aidan Cunniffe"
       ],
@@ -69001,48 +69438,52 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 20,
       "duration_s": 1173,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T15:50:11Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=irK4G2SzhpA",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "kos3u63J9NU",
       "video_id": "kos3u63J9NU",
       "slug": "al-harris-evolving-specs-in-kiro-to-deliver-incremental",
       "title": "Al Harris-Evolving specs in Kiro to deliver incremental features faster, safer | DevCon Fall 2025",
-      "description": "",
+      "description": "Learn about how the Kiro team evolved the spec-based dev workflow and artifact structure into a feature which they wanted to use every day. Do you treat specs as point-in-time snapshots of technical decisions, or do you treat them as an ever-syncing reflection of your source code? We've found that by distinguishing technical summaries and designs from requirements, we are better able to iterate on decisions made previously in a safe, reliable manner.\n\nThe team at Kiro went through 7 fundamentally different spec implementations and interfaces internally, and feel we've only just scratched the surface on an experience worth pursuing.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 25,
       "duration_s": 1522,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T00:57:27Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=kos3u63J9NU",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "gCS8k23_G8o",
       "video_id": "gCS8k23_G8o",
       "slug": "alex-gavrilescu-backlog-md-from-zero-to-success-with-ai",
       "title": "Alex Gavrilescu - Backlog md: From zero to success with AI Agents | DevCon Fall 2025",
-      "description": "",
+      "description": "Heard about Claude Code, Cursor, AGENTS.md, or MCP but still hitting walls? This talk takes you from zero to a simple, efficient way to organize work for AI agents. We move from vibe coding slop to a Spec-Driven AI Development loop using Backlog.md, a CLI that keeps tasks as markdown in your repo with clear context and acceptance criteria. Backlog.md was built 99% by AI agents and has 3k+ GitHub stars, proof that the loop works.\n\nI’ll show the flow I used to build Backlog.md, the lessons learned, the DOs and DON’Ts, and how I went from a frustrating 50% task success rate to almost 100% in about a month. We connect instruction load to agent reliability and use that to split work into tasks that land.\n\nWe’ll look at how Agentic Coding changes Agile in practice: which core values stay, what must change, and the new bottlenecks. You leave with a clear way to plan and parallelize work across agents, with tasks sized to what agents can follow, and why tools like Backlog.md mark the start of a new Agile process.\n\nWe finish with an open question for the room: how do we keep humans in the loop in the new AI era?\n\nP.S. You won’t need any prior agent experience.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Alex Gavrilescu"
       ],
@@ -69051,24 +69492,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 25,
       "duration_s": 1529,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:47:41Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=gCS8k23_G8o",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "extI7XvmaGU",
       "video_id": "extI7XvmaGU",
       "slug": "alex-gavrilescu-backlog-md-hands-on-devcon-fall-2025",
       "title": "Alex Gavrilescu - Backlog.md Hands On | DevCon Fall 2025",
-      "description": "",
+      "description": "Backlog.md was built 99% by AI agents, with humans setting vision and reviewing work. In this workshop you learn why specs as markdown in your repo are a game-changer and you practice the simple loop I use. I demo the 3-way review process and the steps that took Backlog.md past 3k GitHub stars.\n\nFirst half: why Backlog.md works out of the box for agents, the CLI and web UI, and my 3-way review process that lets me ship with confidence.\n\nSecond half: you install and init Backlog.md in a new or existing repo, then use your preferred agent to create and implement tasks end to end.\n\nThe 3-way review (what you’ll practice)\n1) Spec review: do the why and the what match with your expectations?\n2) Plan review: agent reads the code, makes a plan. Does it make sense?\n3) Code review: check code, run the app or tests, verify acceptance, close the loop.\n\nRequirements:\n1) A concrete idea that fits in 1 hour (new project or a small feature)\n2) Laptop with Git and Node.js, or pair with someone who has it\n3) An agent with a subscription or ~$10 credits. Good options: Claude Code, Codex CLI, Gemini CLI, Cursor (use what you know). If unsure, check compatibility at https://agents.md/#compatibility\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Alex Gavrilescu"
       ],
@@ -69077,41 +69520,45 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 62,
       "duration_s": 3732,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:51:56Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=extI7XvmaGU",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "4ceQ_nSJFTw",
       "video_id": "4ceQ_nSJFTw",
       "slug": "baruch-sadogursky-viktor-gamov-robocoders-judgment-day",
       "title": "Baruch Sadogursky & Viktor Gamov - RoboCoders Judgment Day | DevCon Fall 2025",
-      "description": "",
+      "description": "Agentic AI Spec-driven tools promise cleaner code, faster development, and fewer late-night debugging sessions. But do they really deliver?\n\nIn this live showdown, we'll complete identical coding tasks, from initial setup to testing and debugging, all live on stage using the tow leading spec-driven development AI tools - Tessl and Kiro.\n\nYou, the audience, decide which tool actually boosts quality and productivity and which just creates more noise than useful code. Bring your skepticism, cast your vote, and expect surprises\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 29,
       "duration_s": 1756,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T16:18:50Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=4ceQ_nSJFTw",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "A7OV2rOIp2Y",
@@ -69168,7 +69615,7 @@
       "video_id": "97VGKZcZn84",
       "slug": "bill-maxwell-building-next-gen-agents-with-mcp-devcon-fall",
       "title": "Bill Maxwell - Building Next Gen Agents with MCP | DevCon Fall 2025",
-      "description": "",
+      "description": "Step into the world of Model Context Protocol (MCP) and learn how to build an interactive AI powered agent powered by a fully functional Chess MCP server. We will work through coding up an MCP server, adding graphical elements with MCP-UI, and play a game of chess against an AI opponent.\n\nBy the end of this workshop, you'll have created a Chess MCP server that:\n\n- Accepts chess moves in algebraic notation\n- Maintains game state across sessions\n- Displays the board in ASCII and graphical format\n- Allows AI agents (and users) to play interactive chess games\n- Provides an interactive chessboard UI with drag-and-drop moves\n\nPrerequisites:\nNode.js 20+ installed\nBasic TypeScript knowledge\nText editor or IDE\nTerminal/command line access\nNanobot installed brew install nanobot-ai/tap/nanobot or download from https://github.com/nanobot-ai/nanobot/releases\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Bill Maxwell"
       ],
@@ -69177,24 +69624,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 74,
       "duration_s": 4440,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T15:56:00Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=97VGKZcZn84",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "7llhZAqZ1Jc",
       "video_id": "7llhZAqZ1Jc",
       "slug": "bill-maxwell-building-with-mcp-how-protocol-primitives",
       "title": "Bill Maxwell - Building with MCP: How Protocol Primitives Shape Dev Experience | DevCon Fall 2025",
-      "description": "",
+      "description": "Model Context Protocol (MCP) has unleashed a wave of innovation in the AI world by bridging large language models (LLMs) with the systems we rely on every day. You may have already used an MCP server to connect your coding agent to library docs, databases, or issue trackers. But what’s happening under the hood?\n\nIn this talk, we’ll dig into the guts of MCP servers and explore the key protocol primitives that make everything click. From tool calls, sampling, prompts, elicitations, and resources, to the subtle design choices that can make or break your developer experience. For example, how a well-implemented MCP server might pause before deleting your database, asking for confirmation instead of firing off a destructive action.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Bill Maxwell"
       ],
@@ -69203,24 +69652,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 23,
       "duration_s": 1368,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:03:10Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=7llhZAqZ1Jc",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "k5IYvORccGo",
       "video_id": "k5IYvORccGo",
       "slug": "brian-douglas-virtual-tool-calling-and-the-future-of",
       "title": "Brian Douglas - Virtual Tool Calling and the Future of Portable AI Toolchains | DevCon Fall 2025",
-      "description": "",
+      "description": "AI coding tools face a fundamental challenge, there's no standard for tool calling across providers and models. Claude uses one schema, OpenAI another, and many models don't support native tool calling at all. This forces developers to maintain provider-specific integrations or limit themselves to a single vendor.\n\nVirtual tool calling solves this by translating tool definitions into structured system messages that any model can understand—effectively simulating native tool support through prompt engineering. Instead of relying on provider-specific function calling APIs, we define tools in the system message and parse model responses for tool invocations. This means a single codebase can work seamlessly across Claude, GPT-5, local models, and everything in between.\n\nBeyond the technical solution, this represents a broader shift in AI developer tools. VS Code locked features behind Copilot, creating a closed ecosystem. We're now seeing the industry move away from these walled gardens and I am excited to show how we can leverage these concepts beyond the IDE. This session covers both the implementation of virtual tool calling and why building in the open matters for the future of AI-native development.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Brian Douglas"
       ],
@@ -69229,17 +69680,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 25,
       "duration_s": 1522,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:04:09Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=k5IYvORccGo",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "WjMy0JFTQZ0",
@@ -69328,7 +69781,7 @@
       "video_id": "a9ciMeRQHEk",
       "slug": "chris-messina-code-as-commodity-how-to-thrive-with-the",
       "title": "Chris Messina - Code As Commodity: How To Thrive With The Medium Of Generative Ai | DevCon Fall 2025",
-      "description": "",
+      "description": "As the cost of producing code approaches zero, previously uneconomic ideas become not only possible but necessary to stand out in a sea of slop. Engineering will remain a vital craft, yet developers must confront the commoditization of what was once their specialty. The savviest will shift from production to articulation and orchestration—combining taste, judgment, and the ability to amplify signal as the noise deafens.\nChris Messina—the product strategist who invented the hashtag, built early developer platforms at Google and Uber, and now coaches AI-native founders on go-to-market and launch strategy—explores how generative models are transforming software from exclusive craft to popular medium.\nAs software becomes disposable, we must rethink what industry we’re in. The future developer looks less like a Big Tech tech bro and more like a chef, record producer, or architect: shaping experiences where taste, culture, and iteration amplify value.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Chris Messina"
       ],
@@ -69337,43 +69790,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 35,
       "duration_s": 2085,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:52:09Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=a9ciMeRQHEk",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
-    },
-    {
-      "id": "13EDVjfWKJM",
-      "video_id": "13EDVjfWKJM",
-      "slug": "cian-clarke-from-vibe-coding-to-spec-driven-development",
-      "title": "Cian Clarke - From Vibe Coding to Spec-Driven Development | DevCon Fall 2025",
-      "description": "",
-      "speakers": [
-        "Cian Clarke"
-      ],
-      "conference": "ai-devcon-tessl",
-      "conference_name": "AI DevCon (Tessl)",
-      "category": "AI engineering & agents",
-      "edition": "Tessl",
-      "year": 2025,
-      "channel": null,
-      "duration_min": 25,
-      "duration_s": 1498,
-      "published_at": null,
-      "tags": [],
-      "youtube_url": "https://www.youtube.com/watch?v=13EDVjfWKJM",
-      "conference_site": "https://tessl.io/devcon/",
-      "availability": "free",
-      "priority": 1,
-      "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "0xUZjRGSUA4",
@@ -69482,7 +69911,7 @@
       "video_id": "cRAB2kkvh-4",
       "slug": "derek-ashmore-ai-powered-application-modernization-using",
       "title": "Derek Ashmore - AI Powered Application Modernization using Claude Flow | DevCon Fall 2025",
-      "description": "",
+      "description": "We'll go on a journey using Claude-Flow, managing a team of Claude-Code agents underneath to do a 12-factor assessment of an open source codebase to assess its ability to be cloud-native. That is, the ability of the application to use cloud features such as dynamic scaling and high-availability. We'll then plan changes needed to resolve cloud-native issues found by the analysis.\n\nExpect a discussion about cloud-native issues found in the cloud-native assessment, as well as migration plan tactics.\n\nAttendees will leave with:\n- Knowledge of how to use Claude-Flow/Code to assess legacy code bases\n- Knowledge of how to use agentic engineering practices to plan significant changes to legacy code bases\n\nIf you want to participate, you are welcome. You're also welcome to watch. If you participate, the requirements are:\n- Claude Code Account/Anthropic API Key so that you can use Claude Code\n- GitHub account capable of running GitHub Codespaces\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Derek Ashmore"
       ],
@@ -69491,24 +69920,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 102,
       "duration_s": 6124,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T16:17:35Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=cRAB2kkvh-4",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "LX_AAUS3MWU",
       "video_id": "LX_AAUS3MWU",
       "slug": "derek-ashmore-ai-powered-application-modernization-devcon",
       "title": "Derek Ashmore - AI-Powered Application Modernization | DevCon Fall 2025",
-      "description": "",
+      "description": "Application modernization projects often stall under the weight of complexity: Do you refactor, re-platform, or replace with SaaS? AI-assisted development can cut through that complexity, turning weeks of manual analysis into hours.\n\nIn this session, I’ll share a real-world exercise where my Claude-Flow swarm of coding agents was used extensively to modernize an existing open-source CRM application. We’ll cover three stages of the journey: (1) assessing the application’s fitness for cloud deployment, (2) using AI to analyze the viability of migrating users to existing SaaS alternatives, and (3) planning the modernization effort with a roadmap that accounts for technical debt, risk, and compliance gaps.\n\nThis is not a theoretical discussion—I’ll show concrete outputs generated by the swarm, how the orchestration handled complex decomposition, and where human judgment was still required. Attendees will walk away with a practical, field-tested framework for applying AI agents to modernization efforts and accelerating the move to cloud-native architectures.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Derek Ashmore"
       ],
@@ -69517,24 +69948,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 26,
       "duration_s": 1587,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T16:20:29Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=LX_AAUS3MWU",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "ZAPxC3SOX_o",
       "video_id": "ZAPxC3SOX_o",
       "slug": "devcon-fall-2025-richmond-alake-memory-engineering-going",
       "title": "DevCon Fall 2025 | Richmond Alake - Memory Engineering: Going Beyond Context Engineering",
-      "description": "",
+      "description": "Large Language Models (LLMs) are powerful, but their limitations become clear in multi-turn interactions: they lose track of context, repeat mistakes, and forget what matters. Lately, developers have relied on context engineering—clever prompt design, retrieval pipelines, and compression—to work around these constraints. But context alone is ephemeral. To build agents that are reliable, believable, and capable, we need to move beyond context and into memory engineering. This talk introduces memory engineering as the natural progression of context engineering, exploring how to design systems where data is intentionally transformed into persistent, structured memory that agents can learn from, recall, and adapt with over time. We’ll walk through the data→memory pipeline, types of agent memory (short-term, long-term, shared), and practical strategies like reflection, consolidation, and managed forgetting. Finally, we extend the conversation with a Context Engineering++ perspective—a holistic view of how memory, context, and attention can be engineered together to enable the next generation of agentic systems. Attendees will leave with a clear framework for evolving from prompt engineering to context engineering to memory engineering, and practical guidance on how to architect agents that don’t just respond, but remember, adapt, and grow.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Richmond Alake"
       ],
@@ -69543,48 +69976,50 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 27,
       "duration_s": 1601,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:48:11Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=ZAPxC3SOX_o",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "oHaF-RCUiec",
       "video_id": "oHaF-RCUiec",
       "slug": "developers-on-the-ground-the-reality-of-ai-development-in",
       "title": "Developers on the Ground: The Reality of AI Development in 2025",
-      "description": "",
+      "description": "We sit down with developers and leaders across the AI ecosystem - ranging from a YC-backed startup CTO to an AI engineering specialist, founding engineers, and cloud experts - to unpack the reality of building in this fast-moving space.\n\nThey share insights on:\n• Why no single tool is enough, and how to blend Gemini, Claude, and others into real workflows\n• The hidden skill of “injecting taste” and human intent that separates great AI outputs from garbage code\n• The trap of chasing every shiny new tool—and how to instead focus on “big beats” that last\n• How to prove AI’s value to non-technical audiences with metrics and proofs of concept\n• Why LangGraph-style visualizations fall short for fault-tolerant, multi-agent systems\n\nAI Native Dev—powered by Tessl and our global dev community—is your go-to for navigating software development in the age of AI. Tune in for conversations with engineers, founders, and open-source innovators on AI, security, and the future of development.\n\nFeaturing :\n- Farhath Razzaque - https://www.linkedin.com/in/farhath-razzaque/?originalSubdomain=uk\n- Joe Hewett - https://www.linkedin.com/in/joehewett/?originalSubdomain=uk\n- Shivang Chaudhary  - https://www.linkedin.com/in/shivang-chaudhary-2235831b5/?originalSubdomain=in\n- Omar Anwar - https://www.linkedin.com/in/omaribraranwar/?originalSubdomain=uk\n- Anton Tcholakov  - https://www.linkedin.com/in/anton-tcholakov/?originalSubdomain=uk\n\n1. Interviewer – https://www.linkedin.com/in/baptiste-fernandez-0a958630/\n2. Tessl - https://www.linkedin.com/company/tesslio/\n3. AI Native Dev - https://www.linkedin.com/showcase/ai-native-dev/",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 11,
       "duration_s": 633,
-      "published_at": null,
+      "published_at": "2025-09-11T20:41:52Z",
       "tags": [],
       "youtube_url": "https://www.youtube.com/watch?v=oHaF-RCUiec",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "YGURXcSIA3U",
       "video_id": "YGURXcSIA3U",
       "slug": "dru-knox-unlocking-agent-beast-mode-with-tessl-devcon-fall",
       "title": "Dru Knox - Unlocking agent beast mode with Tessl | DevCon Fall 2025",
-      "description": "",
+      "description": "AI coding agents are evolving from copilots to true collaborators. In this session, we’ll show how to unlock their full potential using real examples from tools like Claude Code. You’ll see how structured context, specs, and guidance can transform agents into reliable teammates that understand your stack, libraries, and coding style. Through live demos, we’ll explore how to align agents with your workflow, organization, and intent, helping you code faster, smarter, and with more control.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Dru Knox"
       ],
@@ -69593,24 +70028,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 33,
       "duration_s": 1997,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T15:46:47Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=YGURXcSIA3U",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "CrNTH7qGFbo",
       "video_id": "CrNTH7qGFbo",
       "slug": "george-fahmy-devops-agents-that-can-t-delete-your-database",
       "title": "George Fahmy - DevOps Agents That Can't Delete Your Database | DevCon Fall 2025",
-      "description": "",
+      "description": "You've seen AI coding agents deleting databases and wiping codebases. Current solutions like Claude Code's whitelists/blacklists fail because LLMs are versatile, they can do the same destructive thing in 100 different ways.\n\nThis demo demonstrates novel deterministic security guardrails that make agents safe to use in production environments. We'll cover secure secret handling, mTLS for MCP, and introduce Warden, a new deterministic security enforcer that creates boundaries agents cannot cross, regardless of the tools they use.\n\nReal examples from Stakpak's open-source DevOps agent. Your first look at techniques that makes coding agents production-safe, and a reference implementation in Rust.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "George Fahmy"
       ],
@@ -69619,24 +70056,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 22,
       "duration_s": 1305,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T21:59:38Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=CrNTH7qGFbo",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "6OiqNuTZRgM",
       "video_id": "6OiqNuTZRgM",
       "slug": "guy-podjarny-spec-driven-dev-from-single-player-to",
       "title": "Guy Podjarny - Spec Driven Dev From Single Player to Multiplayer to Ecosystem | DevCon Fall 2025",
-      "description": "",
+      "description": "Specs help a human developer drive an agent's behavior. They let you define development practices, inject missing knowledge and capture long term product definitions. This works great for a single developer, but how does it work for a team? How do you collaborate on product specs and the code they generate? How do you produce and distribute corporate knowledge? Going further, what does collaboration across an ecosystem look like?\n\nIn this talk, Guy will explore the present and future of Spec Driven Development, exploring how the forming practices expand and scale to have teams, organizations and the entire ecosystem build together.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Guy Podjarny"
       ],
@@ -69645,17 +70084,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 32,
       "duration_s": 1905,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T00:57:27Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=6OiqNuTZRgM",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "hTfxhXyH8r8",
@@ -69890,55 +70331,59 @@
       "video_id": "JmKubcTagYw",
       "slug": "james-ward-josh-long-hands-on-building-agents-devcon-fall",
       "title": "James Ward & Josh Long - Hands On Building Agents | DevCon Fall 2025",
-      "description": "",
+      "description": "AI is here, but is it working for you? The name of the game is to give these AI models access to our enterprise systems and services and let ‘er rip! But it’s not always easy. We have a friend whose stress level trying to build production-worthy Python AI services was so high that his hairline receded TWELVE INCHES! Or that might have just been natural aging... Either way: he should’ve used Spring AI! Join us, AWS developer advocate James Ward and his trusty sidekick and Spring developer advocate Josh Long, and we’ll look at how to build MCP-enabled, RAG-ready, vibe-free, agentic systems and services in no time at all.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 53,
       "duration_s": 3162,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:07:00Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=JmKubcTagYw",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "2CXr9T1J-Bk",
       "video_id": "2CXr9T1J-Bk",
       "slug": "jonathan-vogel-onur-dogruoz-context-aware-development-in",
       "title": "Jonathan Vogel & Onur Dogruoz - Context Aware Development in Kiro | DevCon Fall 2025",
-      "description": "",
+      "description": "Model Context Protocol (MCP) is transforming how AI agents access and utilize development context. In this live demo, you'll see how Kiro leverages MCP alongside steering files to create context-aware coding agents that understand your development environment.\n\nWe'll demonstrate:\n- MCP in action: How Kiro's AI agents use MCP to external tools in real-time\nSteering files: Creating and evolving steering files that guide AI behavior based on your project's specific patterns, conventions, and architectural decisions\n- Context-aware generation: Watch as agents generate code that respects existing patterns\n\nThis isn't just code completion—it's AI agents that understand your development context and can make intelligent decisions about code generation, refactoring, and feature implementation. You'll leave with practical knowledge of how MCP and steering files can transform your own development workflow with Kiro\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 22,
       "duration_s": 1292,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T15:53:18Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=2CXr9T1J-Bk",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "uLb4F7m2d0c",
       "video_id": "uLb4F7m2d0c",
       "slug": "joseph-katsioloudes-code-security-reinvented-navigating-the",
       "title": "Joseph Katsioloudes - Code Security Reinvented Navigating the era of AI | DevCon Fall 2025",
-      "description": "",
+      "description": "Artificial intelligence (AI) already serves as a copilot in our daily lives, acting as a digital assistant and delivering personalized experiences. Despite progress in many areas, AI has historically fallen short of improving software development practices. This changed with the introduction of AI pair programmers, which distill the collective technical know-how of the world’s developers, and their widespread adoption has been quite telling.\n\nWhile the process of building software has become easier and faster, the question remains: What about more secure? In this session, we’ll demonstrate six practical ways developers can use AI to tap into the world’s security knowledge, showcased through 14 demos in GitHub Copilot. The audience will gain a deep understanding of AI capabilities for security, the pros and cons of security MCP servers, how to make informed decisions for supply chains, and other key practices along with insights drawn from our own lessons as developers striving to ship secure code. Finally, we’ll share a playground repository where attendees can safely experiment with everything demoed.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Joseph Katsioloudes"
       ],
@@ -69947,24 +70392,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 23,
       "duration_s": 1408,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T16:24:50Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=uLb4F7m2d0c",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "crrYnbG1kRE",
       "video_id": "crrYnbG1kRE",
       "slug": "joseph-katsioloudes-shall-we-play-a-game-llm-security-in",
       "title": "Joseph Katsioloudes - Shall We Play A Game? LLM Security in Practice | DevCon Fall 2025",
-      "description": "",
+      "description": "Artificial Intelligence (AI) is no longer a futuristic concept. It's embedded in the systems we use daily. At the core of these innovations are Large Language Models (LLMs). These LLMs can unlock new capabilities but can also introduce novel security challenges due to their non-deterministic behavior and autonomous outputs, causing issues like data leakage and unintended model behavior from attacks such as prompt injection.\n\nThis workshop equips participants with the skills they need to build secure LLM-based applications through interactive, challenge-based exercises that gamify core security concepts. Prepare to level up your understanding of LLM security in a practical and fun way.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Joseph Katsioloudes"
       ],
@@ -69973,48 +70420,52 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 115,
       "duration_s": 6881,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:26:51Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=crrYnbG1kRE",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "eXKQZPzszK8",
       "video_id": "eXKQZPzszK8",
       "slug": "josh-long-james-ward-building-ai-agents-with-spring-mcp",
       "title": "Josh Long & James Ward - Building AI Agents with Spring & MCP | DevCon Fall 2025",
-      "description": "",
+      "description": "AI is here, but is it working for you? The name of the game is to give these AI models access to our enterprise systems and services and let ‘er rip! But it’s not always easy. We have a friend whose stress level trying to build production-worthy Python AI services was so high that his hairline receded TWELVE INCHES! Or that might have just been natural aging... Either way: he should’ve used Spring AI! Join us, AWS developer advocate James Ward and his trusty sidekick and Spring developer advocate Josh Long, and we’ll look at how to build MCP-enabled, RAG-ready, vibe-free, agentic systems and services in no time at all.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 27,
       "duration_s": 1632,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T16:28:28Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=eXKQZPzszK8",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "M-zOSEJFNos",
       "video_id": "M-zOSEJFNos",
       "slug": "lada-kesseler-emerging-patterns-for-coding-with-generative",
       "title": "Lada Kesseler - Emerging Patterns for Coding with Generative AI | DevCon Fall 2025",
-      "description": "",
+      "description": "Session resources:\n\nIf coding with AI sometimes feels brilliant and sometimes frustrating, you're not alone. This workshop walks you through a map of the patterns that make it more powerful and predictable, from first experiments to advanced techniques.\n\nWe'll explore the inherent limitations of Generative AI alongside the new possibilities it creates - examining not just what\nhappens, but why it happens. Understanding these underlying dynamics equips you to adapt and combine patterns in powerful ways and come up with your own solutions. Real-world examples will show some of these combinations in action.\n\nYou'll leave with techniques that aren't tied to any single LLM or coding agent - practical approaches you can apply immediately, as well as the mental models that keep you effective in this rapidly changing landscape.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Lada Kesseler"
       ],
@@ -70023,17 +70474,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 119,
       "duration_s": 7129,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:52:06Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=M-zOSEJFNos",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "hjsO72uf6bE",
@@ -70092,7 +70545,7 @@
       "video_id": "McB4Sth3_Ss",
       "slug": "liran-tal-these-aren-t-the-tools-you-re-looking-for-mcp",
       "title": "Liran Tal - These Aren't the Tools You're Looking For: MCP Security Awakens | DevCon Fall 2025",
-      "description": "",
+      "description": "Everyone adopts MCP Servers. Everyone deploys MCPs. Everyone secures their MCP Servers. Oh, they don’t? Who would’ve thought! Well this talk isn’t about adding authentication to your MCP Server, it’s about inviting you to the deep-end observatory of threats and risks in the MCP ecosystem. MCP Servers introduce new threat vectors and security risks from insecure MCP Servers code, to malicious MCPs harboring tool poisoning attacks and all the way to indirect prompt injection that compromise MCP IDEs and Cursor and AI apps like Claude Desktop.\n\nIn this highly technical session I'll demonstrate active exploitation techniques against MCP deployments: how a single malicious tool description can exfiltrate credentials, and how insecure MCP Servers are exploited by attackers to run arbitrary code. You’ll walk away with a clear understanding of the various moving parts in the MCP security threat landscape so you can better assess your risks and security strategies as well as gain key insights and security best practices for building secure MCP servers that you can apply when adopting and building MCP servers.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Liran Tal"
       ],
@@ -70101,17 +70554,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 24,
       "duration_s": 1432,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T16:21:32Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=McB4Sth3_Ss",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "vO2SM7NZJY8",
@@ -70142,24 +70597,26 @@
       "video_id": "qUo3PKw2xuE",
       "slug": "nathen-harvey-ai-as-an-amplifier-state-of-ai-assisted",
       "title": "Nathen Harvey- AI as an Amplifier: State of AI assisted Software Development | DevCon Fall 2025",
-      "description": "",
+      "description": "AI adoption in software development is nearly universal, but the results are anything but. While the industry has moved beyond simple code completion, the promised productivity gains often get lost in downstream chaos. So, what separates the high-performers from the rest?\n\nDrawing on insights from the 2025 DORA State of AI-assisted Software Development report—a study of nearly 5,000 technology professionals—this session will reveal a critical truth:\n\nAI's primary role is that of an amplifier. It magnifies the strengths of high-performing organizations and the dysfunctions of struggling ones.\n\nIn this talk, we will go beyond the hype and dive deep into the data to uncover:\n\n* Why a \"\"legacy bottleneck\"\" can completely negate AI performance gains, and how loosely coupled architectures are essential for success.\n* How Value Stream Management (VSM) acts as a force multiplier for AI, ensuring that localized productivity gains translate into measurable improvements in team and product performance.\n* The crucial role of high-quality internal platforms, and why 94% of organizations have adopted platform engineering as the foundation for AI success.\n* The surprising human factors at play, including why 30% of developers report little to no trust in AI-generated code, and what the data says about AI's real impact on burnout and developer satisfaction.\n\nYou will leave this session with a clear, data-backed framework for understanding and improving your team's AI adoption strategy. Instead of focusing on just the tools, you'll learn how to identify and address the systemic issues that are holding you back, and how to create an environment where AI can truly amplify your team's success.\n\nSlides can be found here: https://drive.google.com/file/d/1GhdrjbNclFL2-O5yE9wd55VStgAg5yLH/view\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 28,
       "duration_s": 1653,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:49:52Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=qUo3PKw2xuE",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "x4ZLSvVki3I",
@@ -70194,7 +70651,7 @@
       "video_id": "eKYGLPdwgF8",
       "slug": "niels-rogge-state-of-open-source-ai-coding-models-devcon",
       "title": "Niels Rogge - State of Open Source AI Coding Models | DevCon Fall 2025",
-      "description": "",
+      "description": "As a machine learning engineer at Hugging Face, I'm at the front front of what's happening in open-source AI. There are a lot of advancements in open models for coding, such as Qwen3-Coder, GLM-4.5 which is compatible with Claude Code, Hugging Face Inference Providers VSCode integration and more. This talk aims to provide an overview of the landscape of openly available models for coding, explain the different model types and training objectives, how they stack up against closed models and the tooling around it (fine-tuning and inference).\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Niels Rogge"
       ],
@@ -70203,24 +70660,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 25,
       "duration_s": 1524,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:49:58Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=eKYGLPdwgF8",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "VfUTkoYWsPQ",
       "video_id": "VfUTkoYWsPQ",
       "slug": "nnenna-ndukwe-separation-of-agentic-concerns-why-1-ai-can-t",
       "title": "Nnenna Ndukwe - Separation of Agentic Concerns: Why 1 AI Can't Rule Your Codebase | DevCon Fall 2025",
-      "description": "",
+      "description": "The dream of a single all-knowing AI running your entire SDLC is both admirable and widespread. But in reality, specialized agents with distinct responsibilities outperform generalist systems.\n\nThis talk makes the case for using multiple agents across your SDLC: planning, coding, and review agents that enforce code quality without sacrificing long-term velocity.\n\nYou'll learn how to optimize AI-assisted developer workflows with system prompts, MCPs, subagents, and context while avoiding common side effects that degrade quality.\n\nAttendees will leave with practical steps to leverage AI throughout the development lifecycle for delivering safer, smarter, and more reliable software.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Nnenna Ndukwe"
       ],
@@ -70229,17 +70688,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 24,
       "duration_s": 1459,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:11:26Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=VfUTkoYWsPQ",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "yeJMXgvh01U",
@@ -70272,7 +70733,7 @@
       "video_id": "MBbN4-UxKp4",
       "slug": "patrick-smyth-agent-omelets-other-forbidden-techniques",
       "title": "Patrick Smyth - Agent Omelets & Other Forbidden Techniques | DevCon Fall 2025",
-      "description": "",
+      "description": "Slice 'em. Dice 'em. Put 'em in an omelet.\n\nWait, we weren't talking about tomatoes? Well, you can also do a lot of strange things to agents to stretch your token budget, juice agent performance, and get your agents to run longer and more independently. In this talk, we'll learn how to:\n- Tee up agents with agents … agentically!\n- Fork, roll back … even \"shadow clone\" your agents!\n- Have agents edit their own memory … and have them forget they did it!\n- Hot swap frontier model providers … in mid-conversation!\n- Make an agent out of your own interactions with agents … using an agent!\n- Put your agents in a little organization and force them to use Slack … BECAUSE AGENTS!\n\nPlus other forbidden techniques!  :scroll::test_tube:\n\nIn this talk, Patrick will show examples of getting real work done with the above techniques. We'll hear Patrick's hot takes about agent special-casing (not subagents, just agents) and how you should keep the smarts in the model, not in the heuristics. We'll internalize the deep truth that agents are just, like, stateless context, man, and how knowing that can take your agentic workflows to the next level. We might even cook some agents into an omelet!  🍅✨\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Patrick Smyth"
       ],
@@ -70281,24 +70742,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 26,
       "duration_s": 1565,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T15:49:24Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=MBbN4-UxKp4",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "E5u2qFX1aGM",
       "video_id": "E5u2qFX1aGM",
       "slug": "ray-myers-ai-hates-legacy-code-devcon-fall-2025",
       "title": "Ray Myers - AI Hates Legacy Code | DevCon Fall 2025",
-      "description": "",
+      "description": "Session resources: https://github.com/raymyers/Talks/blob/main/Slides/AI%20Hates%20Legacy%20Code%20-%20Ray%20Myers%20-%20November%202025.pdf\n\nAI coding agents feel like magic... right up until they collide with production code. For teams maintaining legacy systems, these agents often hallucinate APIs, run off on tangents, and shatter trust faster than an unreviewed hotfix at 5pm. Ignoring the past won't save us, because new code becomes old!\n\nWe can do better, and we will. In this session we'll go over emerging strategies for improving the accuracy of coding agents on real codebases, benchmarks such as SWE-bench that evaluate our progress, and their limitations. Expect to walk away with actionable techniques and a renewed respect for code that came before us and the challenges ahead.\n\nKey Takeaways\n- Why LLMs have more trouble with existing code\n- What we can do about it\n- How we measure progress\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Ray Myers"
       ],
@@ -70307,17 +70770,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 24,
       "duration_s": 1443,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:05:07Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=E5u2qFX1aGM",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "kLsEKXApABs",
@@ -70352,7 +70817,7 @@
       "video_id": "o_bVqT_5yGM",
       "slug": "rene-brandel-how-we-hacked-yc-spring-2025-batchs-ai-agents",
       "title": "Rene Brandel - How we hacked YC Spring 2025 batch’s AI agents | DevCon Fall 2025",
-      "description": "",
+      "description": "We hacked 7 of the 16 publicly-accessible YC X25 AI agents. This allowed us to leak user data, execute code remotely, and take over databases. All within 30 minutes each. In this session, we'll walk through the common mistakes these companies made and how you can mitigate these security concerns before your agents put your business at risk. In addition, learn how to mitigate from emergent AI threats continuously.\n\nKey Takeaways\n1/ Most common AI agent security issues\n2/ How to address them right now\n3/ what to watch out for\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Rene Brandel"
       ],
@@ -70361,17 +70826,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 23,
       "duration_s": 1367,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:45:36Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=o_bVqT_5yGM",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "fjbeqFnB3LY",
@@ -70404,7 +70871,7 @@
       "video_id": "nEjDM9X2Ysw",
       "slug": "richmond-alake-building-memory-augmented-agents-with",
       "title": "Richmond Alake - Building Memory Augmented Agents with MemoRizz | DevCon Fall 2025",
-      "description": "",
+      "description": "This workshop will introduce participants to the practice of memory engineering and put the concepts into action. Using the MemoRizz library, attendees will learn how to design and build memory-augmented agents that go beyond simple prompt-and-response to become reliable, believable, and capable systems.\n\nKey aspects we’ll cover include:\n\nHands-on introduction to memory engineering: how to move from theory to implementation.\nPractical use of memory types: applying short-term, long-term, and shared memory in an agent.\nDeep research use case: building an agent that can manage complex information retrieval and synthesis across multiple interactions.\nReliability, believability, and capability in practice: showcasing what these qualities look like when agents are backed by memory.\nEvaluation overview: introducing methods and frameworks for measuring agent memory performance, including how to test for precision, recall, and retention over time.\nBy the end of the workshop, participants will have both conceptual clarity and hands-on experience in building and evaluating memory-augmented agents.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Richmond Alake"
       ],
@@ -70413,24 +70880,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 109,
       "duration_s": 6516,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:48:46Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=nEjDM9X2Ysw",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "TwiVYcqWbj0",
       "video_id": "TwiVYcqWbj0",
       "slug": "robert-brennan-managing-fleets-of-coding-agents-with",
       "title": "Robert Brennan - Managing fleets of coding agents with OpenHands | DevCon Fall 2025",
-      "description": "",
+      "description": "We'll use OpenHands--an MIT-licensed agent orchestration platform--to drive a fleet of coding agents on a large real-world task.\n\nOpenHands can be used as a CLI or on the web, and agents can run on your workstation or in the cloud.\n\nWe'll learn how to get more work done in parallel by leveraging cloud-based, asynchronous agents instead of running directly on our own workstations. We'll use OpenHands to monitor agents and drive them forward to build a large codebase from scratch.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Robert Brennan"
       ],
@@ -70439,24 +70908,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 23,
       "duration_s": 1394,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:49:55Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=TwiVYcqWbj0",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "r7XSqUsLo_g",
       "video_id": "r7XSqUsLo_g",
       "slug": "rotem-tamir-agents-on-guardrails-deterministic-safety-for",
       "title": "Rotem Tamir - Agents on GuardRails: Deterministic Safety for Database Operations | DevCon Fall 2025",
-      "description": "",
+      "description": "As AI agents move from writing boilerplate code to performing complex, data-aware tasks, a critical question emerges: How do we prevent a creative but unsupervised AI agent from causing chaos in our databases, where every operation must be precise and predictable? Unchecked, agents pose a dual threat: accidental data corruption through malicious or incorrect Data Manipulation Language (DML) and catastrophic schema changes via unintended Data Definition Language (DDL).\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Rotem Tamir"
       ],
@@ -70465,24 +70936,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 21,
       "duration_s": 1257,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:01:21Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=r7XSqUsLo_g",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "E3yiZcI-eno",
       "video_id": "E3yiZcI-eno",
       "slug": "ryan-carson-to-framework-or-not-to-framework-that-is-the",
       "title": "Ryan Carson - To Framework or Not to Framework? That is the Question | DevCon Fall 2025",
-      "description": "",
+      "description": "To framework or not to framework” explores the tension every developer feels between building everything from scratch and standing on the shoulders of tools, libraries, and frameworks created by others. In a world where the raw APIs of OpenAI, Anthropic, and other LLM providers are just a curl command away, it’s tempting - and even fun - to roll your own abstractions. But as our apps grow, so do the trade-offs: complexity, duplication, maintenance, and the painful rediscovery of known problems. In this talk, we’ll unpack how leveraging frameworks like Mastra, ADK, and others doesn’t make you less of a builder - it makes you faster, more durable, and more focused on what truly matters: delivering value, not reinventing wheels. When the landscape shifts as fast as AI, choosing not to build everything yourself isn’t a shortcut - it’s a strategy.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Ryan Carson"
       ],
@@ -70491,17 +70964,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 12,
       "duration_s": 750,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:44:50Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=E3yiZcI-eno",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "8_oX6JcoV3g",
@@ -70534,7 +71009,7 @@
       "video_id": "tGmwqBHoWFM",
       "slug": "sean-roberts-axdx-high-voltage-dev-workflows-devcon-fall",
       "title": "Sean Roberts - AX⚡️DX High voltage dev workflows | DevCon Fall 2025",
-      "description": "",
+      "description": "Developer Experience (DX) has always been about clarity, speed, and keeping engineers productive. Developers these days are increasingly delegating to AI agents who write, test, and deploy on their behalf. For some, they delegate very little; for others they delegate a lot. That’s where applying skills in Agent Experience (AX) becomes critical.\n\nIf you want strong DX going forward, you can’t ignore AX. The experience you design for agents directly shapes the effectiveness of the developers they support. This talk will explore how to shift from the practices that made DX successful in the past to the new requirements of agent-driven workflows.\n\nWe’ll cover:\n\n-  Who you’re really serving when building tools in an era of AI delegation.\n- Why prioritizing AX ensures your DX remains resilient and future-proof.\n- How to measure and improve your repo/system AX with practical techniques like context tools, shared systems for teams, and measuring AX efficacy.\n- The takeaway: to keep DX strong, you have to focus on AX. It’s not a question of supporting AI or agents in general, it’s a question of supporting the developers that use them.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Sean Roberts"
       ],
@@ -70543,24 +71018,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 28,
       "duration_s": 1702,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T00:57:27Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=tGmwqBHoWFM",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "IZ8FjLGhiQw",
       "video_id": "IZ8FjLGhiQw",
       "slug": "shrey-shah-testing-and-securing-ai-generated-code-with",
       "title": "Shrey Shah - Testing and Securing AI generated code with Cursor | DevCon Fall 2025",
-      "description": "",
+      "description": "Building with AI is exciting, but ensuring your apps are tested, secure, and efficient is where the real value comes in. In this hands-on session, we’ll dive into how Cursor supercharges the developer workflow for vibe-coded applications, making your process faster, safer, and smarter.\n\nWhat you’ll learn:\n☑ A quick intro to Cursor & AI-powered development\n☑ How to test AI-built applications with confidence\n☑ Adding security guardrails to protect your codebase\n☑ Creating custom modes to accelerate your workflows\n☑ Building custom commands for repeatable tasks\n☑ We will also cover new cursor features, hot off the Cursor roadmap by the time of the conference\n\nYou’ll walk away with practical skills you can immediately apply to your own AI-powered dev workflows.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Shrey Shah"
       ],
@@ -70569,65 +71046,71 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 108,
       "duration_s": 6452,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:08:51Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=IZ8FjLGhiQw",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "wNSqa2lK7UM",
       "video_id": "wNSqa2lK7UM",
       "slug": "simon-maple-alan-pope-supercharge-your-coding-agents-devcon",
       "title": "Simon Maple & Alan Pope - Supercharge Your Coding Agents | DevCon Fall 2025",
-      "description": "",
+      "description": "AI agents are moving from copilots to true coding collaborators, but most developers are still flying by feel. Tools like Claude Code, Codex, Cursor, and Gemini CLI are powerful, yet few teams know how to harness them fully. Prompts alone aren’t enough; effective agentic coding requires structure, context, and shared understanding.\n\nIn this 2-hour hands-on workshop, we’ll go beyond prompting tricks and explore how collaboratively and effectively use coding agents. You’ll learn how to use specs as context, and provide agent guidance to shape behavior and output, teaching them not only what to build, but how to build it, aligned with you organisation's needs.\n\nWe’ll cover techniques for:\n- Using specs and structured guidance to steer agents toward better library use, open source and private alike\n- Integrating team and org policies, coding styles, and conventions directly into agent workflows\n- Managing multi-agent setups and tool integrations for larger, iterative projects\n\nThrough hands on examples, you’ll see how to spercharge  your coding agents, turning them into reliable teammates, who understand your stack, your rules, and your goals. If you’ve ever wondered whether your AI agent could be doing more — this session shows you how to make that happen.\"\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 116,
       "duration_s": 6941,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-26T01:51:39Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=wNSqa2lK7UM",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "-aVBe6SlPTw",
       "video_id": "-aVBe6SlPTw",
       "slug": "sneha-tuli-ai-assisted-code-reviews-quality-and-security-at",
       "title": "Sneha Tuli: AI assisted code reviews Quality and Security at Scale | DevCon Fall 2025",
-      "description": "",
+      "description": "Discover how AI is transforming code reviews at scale in this session led by Principal Product Manager Sneha Tuli. Drawing from Microsoft’s real-world journey, you’ll learn how integrating an AI-powered code review assistant into existing developer workflows has accelerated feedback, improved code quality, and fostered a culture of continuous learning. This session stands out by sharing not just technical innovations—like multi-agent orchestration, and custom project guidelines—but also practical lessons on building trust, ensuring safety, and driving adoption across thousands of repositories. Attendees will gain actionable insights into deploying AI responsibly, overcoming challenges such as false positives and context limitations, and preparing for the future where human and AI collaboration sets new standards for software quality and security.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [],
       "conference": "ai-devcon-tessl",
       "conference_name": "AI DevCon (Tessl)",
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 23,
       "duration_s": 1352,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:39:11Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=-aVBe6SlPTw",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "dQNuNBH6KXA",
@@ -70996,7 +71479,7 @@
       "video_id": "hi8KRB0eI6M",
       "slug": "thomas-krier-from-prompts-to-agents-md-what-survives-across",
       "title": "Thomas Krier - From Prompts to AGENTS.md: What Survives Across Thousands of Runs | DevCon Fall 2025",
-      "description": "",
+      "description": "We stress‑test coding agents Claude Code and codex at scale and report the patterns that actually survive. Across thousands of runs on a representative golden set of agentic coding issues, we compare orchestration (single vs. parallel vs. lightweight hierarchy), reasoning styles (ReAct, Reflexion, Self‑Refine, Least‑to‑Most), and context practices (refresh, compaction, dedup). The core move is turning ephemeral prompt tweaks into durable, versioned central and per-component AGENTS.md so improvements persist across repos and projects. We’ll augment this with a GitHub study of AGENTS.md in popular projects (adoption, typical sections, section sizes), then show how we applied the findings to Claude Code and Codex to stabilize outcomes under load. Attendees leave with defaults that improved speed, cost, size, and performance and a template you can adopt immediately.\n\n20‑minute run‑of‑show\n- 2’ Why results drift and why rules beat one‑off prompts\n- 4’ Orchestration ladders and reasoning styles (what held up at scale)\n- 5’ AGENTS.md in practice, central vs. distributed, ordering, decision criteria\n- 5’ Context engineering that sticks and trace‑driven updates\n- 4’ “In the wild” snapshot (GitHub stats) and quickstart templates\n\nTop‑3 takeaways\n1. A reproducible template to convert traces into AGENTS.md rules that survive across runs.\n2. When to use parallel runs vs. light hierarchy and how to stage reflection without ballooning tokens.\n3. Context defaults that reduce cost and latency without cratering quality.\n\nYou can also find Thomas' comments on his presentation in this piece: https://ainativedev.io/news/from-prompts-to-agents-md-what-survives-across-thousands-of-runs\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Thomas Krier"
       ],
@@ -71005,24 +71488,26 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 24,
       "duration_s": 1467,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:19:49Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=hi8KRB0eI6M",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "9UzravDoyP8",
       "video_id": "9UzravDoyP8",
       "slug": "topo-pal-from-concept-to-prototype-devcon-fall-2025",
       "title": "Topo Pal - From Concept to Prototype | DevCon Fall 2025",
-      "description": "",
+      "description": "Generative AI Developer Assist tools are reshaping enterprise software development by enabling faster iteration, improved code quality, and reduced time to market. Our working hypothesis: these tools can accelerate updates to existing codebases, streamline code reviews, enhance test coverage, and support more efficient delivery cycles.\n\nThis session presents a real-world case study that puts this hypothesis into practice. Tasked with building an internal risk analysis tool to support open source consumption governance, a single engineer used GitHub Copilot to deliver a fully functional proof-of-concept in just five days—a task that would traditionally require a full agile team much longer.\n\nIn addition to the case study, the session will cover:\nKey learnings from the development process\nPractical guardrails for responsible and secure adoption\nCurrent limitations and considerations for enterprise integration\nJoin us to explore how Generative AI can be thoughtfully applied to accelerate enterprise development workflows—turning ideas into prototypes with unprecedented speed.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Topo Pal"
       ],
@@ -71031,17 +71516,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 26,
       "duration_s": 1584,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-21T01:45:17Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=9UzravDoyP8",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "CjokRM4u3lY",
@@ -71128,7 +71615,7 @@
       "video_id": "UTqnwO96q4I",
       "slug": "vijay-ramamurthy-productionizing-langchain-agents-with-oso",
       "title": "Vijay Ramamurthy - Productionizing LangChain Agents with Oso | DevCon Fall 2025",
-      "description": "",
+      "description": "🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Vijay Ramamurthy"
       ],
@@ -71137,17 +71624,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 27,
       "duration_s": 1595,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-11-27T22:20:13Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=UTqnwO96q4I",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "e58tAc0yxzQ",
@@ -71496,7 +71985,7 @@
       "video_id": "PNnFai6qUyY",
       "slug": "yang-mou-mixing-ai-coding-in-ides-clis-and-cloud-devcon",
       "title": "Yang Mou - Mixing AI Coding in IDEs, CLIs, and Cloud | DevCon Fall 2025",
-      "description": "",
+      "description": "AI coding tools now span the IDE, CLI, and cloud agents—each offering a different balance of control and autonomy. IDEs give developers fine-grained, line-by-line control. CLI tools share control, collaborating directly through commands and edits. Cloud agents are the closest thing to truly autonomous employees. This talk examines how these different workflows are reshaping software development, the tradeoffs they entail, and how to get the most leverage from each.\n\n🎙️ AI DevCon is back in New York on November 2 to 4! Dev talks on harness engineering, agent enablement, software factories, and scaling AI-native development. Join the sessions online or use code YT15 to book your seat at https://tessl.co/5re\n\n🌐 Try Tessl - we help you build a software factory, one step at a time: https://tessl.co/ddd\n🔔 Subscribe for weekly episodes on AI-native development",
       "speakers": [
         "Yang Mou"
       ],
@@ -71505,17 +71994,19 @@
       "category": "AI engineering & agents",
       "edition": "Tessl",
       "year": 2025,
-      "channel": null,
+      "channel": "AI Native Dev",
       "duration_min": 24,
       "duration_s": 1437,
-      "published_at": null,
-      "tags": [],
+      "published_at": "2025-12-10T20:18:40Z",
+      "tags": [
+        "ainativedev"
+      ],
       "youtube_url": "https://www.youtube.com/watch?v=PNnFai6qUyY",
       "conference_site": "https://tessl.io/devcon/",
       "availability": "free",
       "priority": 1,
       "source_url": "https://www.youtube.com/@tessl-ai/videos",
-      "has_details": false
+      "has_details": true
     },
     {
       "id": "pbjJIkarY2E",

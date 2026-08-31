@@ -4,7 +4,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences â€
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**7,336 talks from 46 conferences.** The curated list of which conferences and
+**7,351 talks from 46 conferences.** The curated list of which conferences and
 why is [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror,
 which the pipeline actually reads, is [`conferences.json`](conferences.json).
 
@@ -53,7 +53,7 @@ say "AI". Without that, an *AI* talks corpus would be four fifths
 Kubernetes networking and iOS layout. Each conference also carries a minimum
 duration, which drops the stings, trailers and sponsor spots channels mix in.
 
-Of 15,154 videos enumerated, 7,336 survive. `sync_catalog.py` prints exactly
+Of 15,157 videos enumerated, 7,351 survive. `sync_catalog.py` prints exactly
 what each conference dropped and why.
 
 ## Layout
