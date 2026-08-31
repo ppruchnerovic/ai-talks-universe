@@ -70,6 +70,10 @@ import atu
 
 KOME_API = "https://kome.ai/api/transcript"
 SUPADATA_API = "https://api.supadata.ai/v1/transcript"
+# Default parallelism for a run that egresses from somebody else's IPs. Their
+# rate limit is not published, so 429 backs off and retries rather than being
+# fatal, and this is a starting point to raise with --workers, not a ceiling.
+OFF_IP_WORKERS = 8
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/131.0.0.0 Safari/537.36")
 
@@ -293,12 +297,18 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
                 body = resp.read().decode("utf-8")
                 return resp.status, (json.loads(body) if body.strip() else {})
         except urllib.error.HTTPError as e:
-            if e.code in (401, 402, 429):
+            if e.code == 429:
+                # The one account-level refusal that waiting *does* fix, and
+                # with several workers on one key it is the expected way to
+                # find the ceiling. Back off and retry; retiring the route on
+                # it would let one busy moment cost the rest of the run.
+                last = e
+                continue
+            if e.code in (401, 402):
                 # Account-level, not IP-level: no other proxy and no amount of
                 # waiting inside this run fixes it, so retire the route rather
                 # than spend a failed request on every remaining talk.
-                why = {401: "bad API key", 402: "out of credits",
-                       429: "rate limited"}[e.code]
+                why = {401: "bad API key", 402: "out of credits"}[e.code]
                 if not _supadata_off:
                     print(f"   (supadata: {why} — dropping that route for this run)")
                 _supadata_off.append(why)
@@ -310,6 +320,11 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
         except (urllib.error.URLError, TimeoutError, ConnectionError,
                 json.JSONDecodeError) as e:
             last = e
+    if isinstance(last, urllib.error.HTTPError) and last.code == 429:
+        # Outlasted the backoff. That is a verdict on how hard we are pushing,
+        # not on the video, so the talk goes back in the queue rather than into
+        # _misses.json — and the route stays on for everybody else.
+        raise BlockedError("supadata: rate limited after 4 attempts")
     raise last
 
 
@@ -491,6 +506,15 @@ def _route_kome(vid: str):
     return segments, lang, True, "estimated"
 
 
+def uses_our_ip(source: str) -> bool:
+    """Could any route this source allows egress from this machine at all?
+
+    `supadata` and `kome` fetch from somebody else's infrastructure, so a run
+    restricted to them has no IP allowance to ration and nothing to lease.
+    """
+    return source in ("auto", "exact", "youtube", "ytdlp")
+
+
 def off_ip_sources(source: str, key: str | None) -> bool:
     """Is any route available that does not spend this machine's IP allowance?"""
     if source in ("auto", "kome"):
@@ -614,9 +638,16 @@ def attempt(pool: Pool, t: dict, args, key: str | None, tries: int | None = None
     # One shot per identity, plus one for the routes that need none. Capped,
     # because a talk that has been refused by eight IPs is better left to the
     # next round than allowed to walk the whole pool.
-    tries = tries or min(len(pool.entries) + 1, 8)
+    #
+    # A source that cannot touch our IP has nothing to lease. The pool exists
+    # so that two workers never spend one IP's allowance at once; supadata
+    # spends somebody else's, so leasing anyway would pin the whole run to the
+    # single direct identity and make --workers a lie. It is also the reason
+    # not to pace: --min-delay meters an allowance this route does not draw on.
+    off_ip_only = not uses_our_ip(args.source)
+    tries = tries or (1 if off_ip_only else min(len(pool.entries) + 1, 8))
     for remaining in range(tries - 1, -1, -1):
-        eg = pool.acquire()         # None once every identity is benched
+        eg = None if off_ip_only else pool.acquire()   # None: every one benched
         try:
             if eg is not None:
                 time.sleep(random.uniform(args.min_delay, args.max_delay))
@@ -745,7 +776,11 @@ def main() -> None:
     pool = build_pool(args)
     key = supadata_key()
     if args.workers is None:
-        args.workers = max(2, min(len(pool.entries), 8))
+        # One worker per identity is right when an IP allowance is the limit.
+        # An off-IP-only run is limited by the far end's rate limit instead, so
+        # the pool size says nothing about how many requests are sensible.
+        args.workers = (OFF_IP_WORKERS if not uses_our_ip(args.source)
+                        else max(2, min(len(pool.entries), 8)))
 
     if args.source == "supadata" and not key:
         sys.exit("--source supadata needs SUPADATA_API_KEY in the environment")
@@ -801,7 +836,14 @@ def main() -> None:
 
 
 def spent(pool: Pool, args, key: str | None) -> bool:
-    """Nothing left to fetch with: every IP benched and no route off them."""
+    """Nothing left to fetch with: every IP benched and no route off them.
+
+    When the source never uses our IP the pool is not evidence of anything —
+    its identities are idle rather than working, so asking whether they are all
+    benched would answer "no" forever and the round would never end.
+    """
+    if not uses_our_ip(args.source):
+        return not off_ip_sources(args.source, key)
     return pool.all_benched() and not off_ip_sources(args.source, key)
 
 
