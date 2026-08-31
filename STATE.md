@@ -27,8 +27,8 @@ new here is the catalogue layer, because there is no agenda API.
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
 | Transcripts | **1,156 of 7,351**, all exact timings. ai-engineer 540, wearedevelopers 358 (complete), ai-devcon-tessl 130, code-with-claude 55, ai-dev-deeplearning 50, langchain-interrupt 23. The 2026 priority-1 backlog is **cleared**; 1,387 priority 2/3 talks remain — see *Next steps*. Still the long pole, but no longer IP-bound — see *The quota*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
-| Workflows | `kb-refresh.yml` **has run** and its output needed reverting — see *The CI refresh regression*. `pages.yml` (mirror to gh-pages) still never run. |
-| Published site | Pushed to `origin/main`. **Pages not enabled yet** on the `gh-pages` branch — `pages.yml` mirrors `main` into it on every push. |
+| Workflows | Both run. `pages.yml` mirrors `main` into `gh-pages` on push, verified live. `kb-refresh.yml` now **opens a pull request** instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
+| Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages`, which `pages.yml` mirrors from `main` on every push. |
 
 ## What the collection runs actually got
 
@@ -184,9 +184,32 @@ Note the catalogues sat at exactly 900 / 500 / 300 videos before the insert:
 those are the `first: N` paging caps, so a channel that keeps publishing pushes
 its oldest enumerated video out of the window rather than growing the file.
 
-**Until the workflow is fixed, do not let it write.** The options are to give it
-`--allow-shrink`-style field guards, to have it open a pull request instead of
-committing to `main`, or to drop `--refresh` from CI and let it only re-derive.
+**Fixed: the workflow now proposes rather than writes.** It commits to
+`automation/kb-refresh` and opens one long-lived pull request against `main`,
+rewritten each week rather than a new PR every Monday. It no longer pushes to
+`gh-pages` either — that was the other half of the damage, since the degraded
+corpus went live before the commit was noticed. Publishing is now a consequence
+of merging: `pages.yml` fires on a push to `main`.
+
+`refresh_report.py` is the thing that makes that gate useful. A 4,600-file diff
+of generated JSON cannot be reviewed by reading it, so the report diffs field
+coverage against the committed corpus and puts the table in the PR body. Past
+the tolerance the PR opens as a **draft**, titled so it is visible in the list
+without opening it. Run against the offending commit it says what a reviewer
+would have needed to see:
+
+| Field | Before | After | Δ |
+|---|---:|---:|---:|
+| `channel` | 6,702 | 1,739 | **-4,963** |
+
+The tolerance is 2% of the corpus per field, non-zero because re-enumeration
+legitimately drops the occasional video whose uploader deleted it, and that
+takes its fields with it. Exit codes are 0 clean, 1 no baseline, 2 regressed.
+
+What is *not* done: the guard is advisory. A reviewer can still merge a draft PR
+after un-drafting it, and `sync_catalog.py` itself will still write hollow
+records to `data/catalog/` on a local `--refresh` from a throttled connection —
+the check is on the derived corpus, not on the cache it comes from.
 
 ## Next steps, in order
 

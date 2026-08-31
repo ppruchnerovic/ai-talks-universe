@@ -81,6 +81,7 @@ what each conference dropped and why.
     ├── build_index.py             everything -> talks.db + browser index
     ├── query.py                   ranked search from the terminal
     ├── check_registry.py          conferences.json vs ai-conferences.md
+    ├── refresh_report.py          field coverage before vs after a refresh
     ├── test_fetch_transcripts.py  offline checks for the quota bookkeeping
     └── uitest/                    browser tests for index.html
 ```
@@ -337,11 +338,30 @@ talks it already has. To redo one, delete its file first. Afterwards rerun
 `sync_catalog.py` (to inline transcripts into the markdown) and
 `build_index.py`, and commit.
 
-The `Refresh the catalogue` workflow keeps the metadata current automatically;
-it deliberately does not attempt transcripts, because YouTube blocks GitHub's IP
-ranges outright. `--source supadata` is the one route that would work from CI,
-since it never touches the runner's IP — it is not wired into the workflow
-because that would spend credits on a schedule.
+The `Refresh the catalogue` workflow re-enumerates weekly and **opens a pull
+request** rather than committing to `main`. It deliberately does not attempt
+transcripts, because YouTube blocks GitHub's IP ranges outright. `--source
+supadata` is the one route that would work from CI, since it never touches the
+runner's IP — it is not wired into the workflow because that would spend
+credits on a schedule.
+
+The review gate exists because enumeration from a runner degrades rather than
+fails: a throttled listing returns titles and durations with no uploader, and
+one scheduled run wrote `channel: null` over ~4,540 talks before anyone saw it.
+The counting backstops — keep the cache when a source returns empty, refuse a
+corpus 10% smaller — both passed it, because the record count was fine and the
+records were hollow. So `refresh_report.py` diffs *field coverage* against the
+committed corpus and puts the table in the PR body:
+
+```bash
+cd tools
+python3 refresh_report.py                 # markdown; exit 2 if a field regressed
+python3 refresh_report.py --tolerance 0.05
+```
+
+A field may lose up to 2% of the corpus before that counts as a regression,
+which leaves room for the occasional video its uploader deleted. Past that the
+PR opens as a draft, titled so the failure is visible in the list.
 
 ## Testing
 
