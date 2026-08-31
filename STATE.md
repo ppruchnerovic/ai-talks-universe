@@ -22,8 +22,8 @@ new here is the catalogue layer, because there is no agenda API.
 | Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. |
 | CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. |
 | Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
-| Browser UI tests (`tools/uitest/`) | **170 checks over 9 suites, 1 failing, none skipped** (re-run after the 2026 extraction). `ranking`'s "inference" failure fixed itself as the transcript corpus grew, which is the instability the check has always had; the one left is a `controls` fixture — see *Next steps*. |
-| Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **71 offline checks** over the pool, the routes, the year selection, the supadata error classes and the off-IP lease rule. |
+| Browser UI tests (`tools/uitest/`) | **170 checks over 9 suites, 2 failing, none skipped** (re-run 2026-08-31). Both failures are in the checks, not the site: a `controls` fixture the corpus outgrew, and a `resilience` check that has been faulting nothing since the resharding — see *Bugs worth fixing*. |
+| Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **94 offline checks** over the pool, the routes, the year selection, the four failure classes and the off-IP lease rule. |
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
 | Transcripts | **2,525 of 7,351**, all exact timings, over 30 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, devoxx 79, owasp-genai 73. **The whole 2026 scope is done**: of 2,520 talks, 2,493 have a transcript, 27 have no captions to fetch, 0 pending. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
@@ -147,6 +147,63 @@ same postings as before, split two characters deep instead of one, so the
 largest shard is 1.5 MB rather than 4.0 MB. Of the 2,520
 talks in the 2026 scope, **2,493 have a transcript, 27 have no captions, and
 none are pending**.
+
+## The 402 that was recorded as "no captions"
+
+Found by testing on 2026-08-31, before it had a chance to fire. STATE.md
+already claimed the property it violated: *"your account is out of credits"
+retires the route for the run and leaves the talk retryable*. It did not.
+
+`_supadata_get` raised `LookupError("supadata: out of credits")` on a 402. Both
+runners ask `is_block(e)` before recording a miss, a `LookupError` is not a
+block, so the talk went into `_misses.json` with `reason: "LookupError"` — the
+file that means *this video has no captions*, which `select()` then skips on
+every later run unless someone passes `--retry-misses`. An empty balance was
+being written down as a permanent fact about a video.
+
+It is not one talk. `_supadata_off` closes the route only for talks not yet
+dispatched, so every request already in flight when the balance hits zero gets
+its own 402 and its own poisoned entry — up to `--workers` of them, which is 32
+at the setting the handoff recommends. Credits ≈ talks and about 1,950 of the
+month's 3,000 are spent, so the next full run is the one that would have hit
+it.
+
+The fix is a third exception class rather than reusing `BlockedError`, and the
+difference matters under `--source exact`: a block benches the leased identity
+and retries the talk on another IP, which is exactly wrong for an account
+refusal — no other IP has a fuller balance, and the identity that was benched
+had done nothing wrong. So `AccountError` is neither a block nor a miss:
+`about_the_video()` is what the runners now ask, `attempt()` still benches only
+on `is_block()`, and a round with nothing left to fetch with ends on
+`ACCOUNT_ADVICE` ("top up, or run the free routes") rather than on the IP-block
+advice, which would have sent the reader to switch networks over a billing
+problem.
+
+Two sibling paths had the same defect and were fixed with it, because the
+question is never "is this a 402" but "does this failure say anything about the
+video":
+
+- **A run of 5xx, a dropped connection or a timeout.** `_supadata_get` ended
+  `raise last`, handing the runners a bare `HTTPError` or `URLError` after four
+  attempts. Neither is a block nor an account refusal, so a supadata outage
+  would have cost one talk per request, permanently.
+- **A job that never finishes.** The 15-minute polling deadline raised
+  `LookupError`. The credit is already spent and the captions may well exist;
+  writing the talk off as having none loses both.
+
+Both now raise `TransientError`, which benches nothing — what failed was the
+far end, not one of our identities — and ends no round: the route may work on
+the very next talk, so the run carries on and the talk waits for a rerun. A job
+that comes back *failed* is still a `LookupError`, because that one is a verdict
+on the video.
+
+Nothing needs repairing in the corpus: all 27 entries in `_misses.json` are
+genuine — 13 no captions, 10 members-only 403s, 4 yt-dlp no-subtitles — and
+none carries a credit, rate-limit or network detail. Twenty-one checks cover
+the three paths, including two full `run_parallel` rounds — one whose fake
+account runs dry mid-flight, which must stop with an empty miss file, and one
+where two talks fail transiently, which must *not* stop and must still leave
+the miss file empty.
 
 ## The WeAreDevelopers import
 
@@ -280,39 +337,158 @@ after un-drafting it, and `sync_catalog.py` itself will still write hollow
 records to `data/catalog/` on a local `--refresh` from a throttled connection —
 the check is on the derived corpus, not on the cache it comes from.
 
+## Bugs worth fixing
+
+Found by a full test pass on 2026-08-31 — the offline fetcher suite, all nine
+browser suites, the CLI, an integrity audit that re-derived the whole browser
+index from `talks.json` plus the transcripts, and a rebuild in a throwaway
+worktree. Ordered by what they cost if left alone. The three
+`_misses.json` ones are fixed and are recorded above; everything here is open.
+
+What that pass found *clean* is worth writing down too, so nobody re-derives
+it: the shard-key invariant holds over all 40,927 terms with the real
+`shardKeyOf()` from `index.html` (0 disagreements, 670 manifest shards = 670 on
+disk, none unlisted or missing); the whole browser index, all 7,351 markdown
+files and every CSV cell reproduce byte-for-byte from `talks.json` plus the
+transcripts; `talks.json`, `talks.csv`, the markdown, `search-meta.json` and
+`talks.db` all agree on 7,351 talks with no duplicates and no orphans; the 48
+underscore-leading ids survive every layer (each reports 2,525, not 2,477); all
+27 `_misses.json` entries are genuine verdicts on their video; the dense `n` is
+`talks.json` position everywhere it appears; every seeded WeAreDevelopers talk
+kept its agenda abstract, speakers and tags; and 180 of 180 sampled transcript
+timestamps land on a caption cue that really does start there. `sync_catalog.py`
+and `build_index.py` make no network call at all — checked under an audit hook
+that raises on `socket.connect`, not merely observed.
+
+**The two silent test failures come first, because a check that cannot fail is
+worse than no check.**
+
+1. **`tools/uitest/suite-resilience.js:22` faults a shard name that no longer
+   exists.** It injects the fault with
+   `/\/data\/tindex\/[a-z0-9_]\.json$/` — one character. Since the index was
+   resharded two characters deep (`6ef1c639`) that pattern matches nothing, so
+   "a broken index shard falls back to metadata-only search" has been passing
+   against an entirely healthy page. `{2}` fixes the pattern. There is a second
+   bug behind it: the baseline `full` count is read from a cold page, where the
+   shard fetch may not have landed, so `L.search()` returning after the spinner
+   clears can measure 152 metadata-only hits against the true 432. That is what
+   made it *fail* in a full run and pass when run alone — the check is both
+   vacuous and flaky, and only the flakiness was visible.
+2. **`tools/uitest/suite-controls.js` — the fixture the corpus outgrew.** Its
+   negative case needs one description short enough not to overflow the clamp
+   and finds **0 of 180**: the empty query sorts newest-first, and those 180 are
+   all Data-API descriptions sitting at the 600-character clip (the shortest is
+   556) while the clamp fits roughly 300. Its sibling check —"the unfold button
+   appears only where the clamp actually hides something" — therefore passes
+   vacuously, `0 wrong of 0`, which is precisely what the failing check exists
+   to report. Not a UI regression: it fails at the old 1,200-character clip too.
+   ~370 talks do have short descriptions; the check has to sample where they
+   are rather than take the newest 180.
+
+**Then the CLI, which is what an agent drives.**
+
+3. **`tools/query.py` `render()` raises an uncaught `BrokenPipeError`** on
+   `query.py rag -n 20 | head -3`, or on quitting `less` early — a traceback on
+   the most natural way to skim results.
+4. **`fts_query()` does not de-duplicate tokens**, and nothing caps query
+   length, so a pasted blob scales super-linearly: `agent` ×50 takes 2.7s,
+   ×100 8.8s, ×200 34s, ×400 over two minutes.
+5. **`-n` accepts a negative** and slices `[:-3]`, so `query.py rag -n -3`
+   returns 509 results instead of erroring.
+
+**Then the corpus, where three records and a handful of transcripts are
+wrong rather than missing.**
+
+6. **Three hollow records** — `8v-EVF8u4OQ` (nvidia-gtc), `TkbXz1___9U` and
+   `VbMZ12OWTfM` (cerebral-valley). Empty title, null duration, null channel,
+   two with no year, yet all three carry `has_details: true`, so `enrich.py`
+   skips them forever and a null duration passes `min_duration` unchallenged.
+   These are the "2 without a year" this file has been quoting, plus one.
+7. **Ten transcripts are labelled `language: "hi"`**, and four are near-empty
+   Devanagari transliterations of English talks — 153 words for a 41-minute
+   session, 185 for a 73-minute one — indexed as though they were the talk. Six
+   transcripts run under 20 words a minute. Deleting the file and refetching is
+   the remedy; `--source supadata` will not re-fetch what is already on disk.
+8. **Two transcripts have non-monotonic segment starts** — `daMEEWVlgY8` (one
+   inversion) and `bJKdXhnw7NU` (six) — so a deep link there can jump backwards.
+9. **One YouTube tag carries a raw carriage return**: talk `-RH4uWmgjCI`, tag
+   `"Kasimir Schulz\r& Kenneth Yeung"`, which splits a line in the rendered
+   markdown.
+
+**Then the things that are only cosmetic until they are not.**
+
+10. **`sync_catalog.py:670` stamps a fresh `generated_at`** into `talks.json` on
+    every run, so the README's "rerunning gives byte-identical output, so a git
+    diff shows exactly what the conferences changed" is off by one guaranteed
+    line and a no-op sync always dirties a 15 MB tracked file. Everything else
+    *is* byte-identical — `talks.csv`, all 7,351 markdown files,
+    `search-meta.json`, all 670 shards, and even the gitignored `talks.db`.
+    Either drop the field or exclude it from the comparison the claim promises.
+11. **`build_index.py` has no argparse**, so `build_index.py --help` silently
+    performs a full 40-second rebuild instead of printing help.
+12. **The 6 MB trigger on `search-meta.json` needs a unit.** The file is
+    6,046,072 bytes: 5.8 MiB by `atu.human_size`, which divides by 1024, and
+    6.05 MB decimal. It has crossed the line in one unit and not the other, and
+    description coverage is still only 75%, so this decides itself soon.
+13. **`query.py` filters are exact and case-sensitive** — `--category "ai
+    security"` and `--conference LangChain-Interrupt` both return `no matches`
+    — and nothing lists the valid slugs or categories. A bare multi-word query
+    also ANDs every token, so a natural-language question
+    (`"how do I evaluate my agent in production"`) returns nothing at all.
+14. **`snippet()` always comes from the description column**, so a talk that
+    matched on its title alone shows an unhighlighted description opener and
+    the output cannot say which layer matched. Related: the candidate pools are
+    capped (`LIMIT 600` metadata, `LIMIT 2000` segments) *before* the [0,1]
+    normalisation, so on very broad queries the scaling is over a truncated set.
+
+**One documentation correction, verified rather than assumed:** this file says
+`query.py postgres` finds the transcript-only talk at rank 4. It is now rank 14
+(*Microsoft Build 2026 Day 1 Opening Keynote*). The claim's substance holds —
+metadata leads, transcript-only hits still surface — but the rank drifted with
+the corpus, and rank 4 today has "Postgres" in its description.
+
 ## Next steps, in order
 
-1. **Enable GitHub Pages** on the `gh-pages` branch. `main` is pushed and
-   `pages.yml` mirrors it into `gh-pages` on every push, but Pages itself has
-   never been switched on, so the published URL in `README.md` does not serve
-   anything yet.
-2. **Fix the one UI check the corpus outgrew.** `controls` needs one
-   description short enough not to overflow the clamp to prove its negative
-   case, and now finds **0 of 180** untruncated: the Data API's descriptions are
-   uniformly long. It is not a UI regression — rebuilding the index at the old
-   1,200-character clip fails it too, and it drifts with the corpus rather than
-   with the code.
-   `ranking` is now green, and that is worth reading as evidence rather than as
-   a fix: it asserts 4 of the CLI's top 10 land in the web's top 40, and
+1. ~~**Enable GitHub Pages** on the `gh-pages` branch.~~ **Done** — the site
+   serves at <https://ppruchnerovic.github.io/ai-talks-universe/>, `gh-pages`
+   matches `main` commit for commit, and a browser run against production loads
+   the catalogue in 777 ms, searches, and deep-links into transcripts from the
+   lazily-fetched shards.
+2. **Work the bug list**, above — the two dead UI checks first.
+   `ranking`, by contrast, is green, and that is worth reading as evidence
+   rather than as a fix: it asserts 4 of the CLI's top 10 land in the web's
+   top 40, and
    **"inference"** was failing at 1 of 10 until the 2026 extraction, after which
    it passes untouched. `moments` and `multi agent` did the same thing earlier.
    Three queries have now started and stopped failing on their own, which says
    the check measures corpus size as much as ranking quality — the rankings were
    re-read by hand each time and were good on both sides of every flip. Changing
-   what it measures is still the right fix; a green run today is not it.
+   what it measures is still the right fix; a green run today is not it. The
+   2026-08-31 margins, for whoever changes it: 10, 10, 10, 8, 8, 8, 6 and 10 of
+   the CLI's top 10 inside the web's top 40, against a threshold of 4. Only
+   "agent evaluation" at 6 is anywhere near it, and "inference" now sits at 8.
 3. **Re-run the UI tests** after any collection run: `cd tools/uitest && node run.js`.
    They degrade to `SKIP` rather than failing when a fixture has not been
    collected yet, so a green run on a thin corpus is weaker evidence than a
-   green run on a full one — read the skip count, not just the failures.
+   green run on a full one — read the skip count, not just the failures. The
+   last full run skipped **nothing**, which is the strongest that evidence has
+   been: every conditional fixture now exists in the corpus.
 4. ~~**Finish the 2026 extraction.**~~ **Done** — 1,227 fetched in under six
    minutes, 0 pending. About 1,950 of the month's 3,000 credits are now spent.
    The next decision here is whether to spend the remainder on pre-2026 talks,
    which is a change of policy rather than a backlog: see *Collection is scoped
    to 2026* before doing it.
-5. Re-check the conferences that came back thin: `owasp-global-appsec` (2
-   talks), `tedai-vienna` (6), `apple-wwdc` (7), `meta-connect` (9). Some are
-   genuinely small playlists; some may need a better source or a looser filter.
-   `fully-connected-wandb` came back at 49 and is off this list.
+5. Re-check the conferences that came back thin — done for three of the four,
+   and only one is a real question. `apple-wwdc` (115 enumerated → 7),
+   `meta-connect` (41 → 9) and `tedai-vienna` (11 → 6, the drops being "Opening
+   Gala", "Highlights" and "TED Talks Day") are the filter working: WWDC is
+   SwiftUI and visionOS, Connect is VR, and the TEDAI playlist really is that
+   small. **`owasp-global-appsec` is the open one**: 28 enumerated, 2 kept, and
+   the 26 dropped are the AppSec programme — threat modelling, unicode
+   normalisation, PKI, security champions. That is the same argument that gave
+   the WeAreDevelopers seed `"scope": "all"`, so it is a curation call rather
+   than a bug: is a security conference's non-AI half worth having in an AI
+   talks corpus? `fully-connected-wandb` came back at 49 and is off this list.
 6. Backfill the pre-2026 descriptions if anything ever wants them: the year
    filter skipped 4,823 videos, which is one `enrich.py --all` without
    `--min-year` and about a hundred quota units. Nothing depends on it — the
@@ -420,7 +596,8 @@ need no network):
   video" is a fact about the video and gets written to `_misses.json`; "your
   account is out of credits" retires the route for the run and leaves the talk
   retryable. Account-level limits are also why 429 there is *not* treated as an
-  IP block: benching an identity would not help.
+  IP block: benching an identity would not help. This property was documented
+  before it was true — see *The 402 that was recorded as "no captions"*.
 
 Hence `--retry-after MINUTES`, which parks the run and resumes; each round
 re-derives its work from disk, so a blocked round costs only time. A block is
@@ -532,7 +709,21 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   empty balance. 429 backs off and retries, then raises `BlockedError` — never
   `LookupError`, because that path writes `_misses.json` and a miss means *this
   video has no captions* forever. 401 and 402 still retire the route for the
-  run.
+  run, and now raise `AccountError` for the same reason 429 raises
+  `BlockedError` — see below.
+
+- **Four kinds of failure, and only one of them is a fact about the video.**
+  `_misses.json` is permanent, so what may be written there is the whole
+  question. A `LookupError` is a verdict on the talk (no captions, 206, 404, a
+  job that came back failed); `BlockedError` is a verdict on our IP, which
+  benches that identity and retries the talk elsewhere; `AccountError` is a
+  verdict on our account, which benches nothing — no other IP has a fuller
+  balance — retires the route and ends the round; `TransientError` is no
+  verdict at all, so it benches nothing and ends nothing, and the talk simply
+  waits for a rerun. `about_the_video()` is the one predicate the two runners
+  ask before writing a miss, which is what makes a new failure class retryable
+  by default instead of silently permanent — the previous arrangement asked
+  `is_block()`, so everything that was not an IP block was cached forever.
 
 - **Collection is scoped to 2026; the corpus is not.** `enrich.py` and
   `fetch_transcripts.py` both take `--year` / `--min-year` /
