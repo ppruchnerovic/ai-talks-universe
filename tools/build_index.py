@@ -13,16 +13,20 @@ Two independent indexes from the same corpus:
                          letters of a term and fetched lazily, so the site
                          needs no backend.
 
-    python3 build_index.py
+    python3 build_index.py             # rebuild both indexes into data/
+    python3 build_index.py --help      # the flags, without rebuilding anything
 """
 
 from __future__ import annotations
 
+import argparse
 import collections
 import json
 import math
+import pathlib
 import shutil
 import sqlite3
+import sys
 
 import atu
 
@@ -82,6 +86,41 @@ PASSAGE_WORDS = 25
 # repetitive (the same channel boilerplate under 400 talks), so the tail is
 # mostly cost.
 META_DESC_CHARS = 600
+
+# What "too big" means for search-meta.json, spelled out so nobody has to
+# measure it again. THE UNIT IS BINARY — mebibytes, 1024-based — and so is
+# atu.human_size(), which now labels its output "MiB" rather than dividing by
+# 1024 while saying "MB". The two conventions differ enough to matter at this
+# size: 6,045,370 bytes is 5.8 MiB but 6.0 decimal MB, i.e. under the line in
+# one unit and over it in the other. atu.decimal_size() is there when a vendor
+# figure needs comparing; this trigger is not a vendor figure.
+#
+# Crossing it is not a failure, it is a prompt: halve META_DESC_CHARS. That is
+# what 1200 -> 600 did last time, taking the file from 7.3 MiB to 5.4 MiB.
+# The run prints where the file stands against this line either way.
+META_SIZE_TRIGGER_BYTES = 6 * 1024 * 1024  # 6 MiB = 6,291,456 bytes
+
+
+def mib(n: int) -> str:
+    """Two-decimal MiB, for the size report's arithmetic against the trigger.
+
+    atu.human_size() agrees on the unit; this one keeps a second decimal so
+    "96% of the trigger" and the margin are legible.
+    """
+    return f"{n / (1024 * 1024):.2f} MiB"
+
+
+def meta_size_report(size: int, desc_chars: int) -> str:
+    trigger = f"{META_SIZE_TRIGGER_BYTES // (1024 * 1024)} MiB trigger"
+    stands = (f"search-meta.json is {mib(size)} ({size:,} bytes), "
+              f"{100 * size / META_SIZE_TRIGGER_BYTES:.0f}% of the {trigger} "
+              f"({META_SIZE_TRIGGER_BYTES:,} bytes)")
+    if size >= META_SIZE_TRIGGER_BYTES:
+        over = size - META_SIZE_TRIGGER_BYTES
+        return (f"{stands} — OVER by {mib(over)} ({over:,} bytes). "
+                f"Halve META_DESC_CHARS (now {desc_chars}) and rebuild.")
+    left = META_SIZE_TRIGGER_BYTES - size
+    return f"{stands} — under by {mib(left)} ({left:,} bytes)."
 
 
 def to_passages(segs: list[dict]) -> list[dict]:
@@ -211,7 +250,7 @@ def encode_positions(seg_ids: list[int]) -> str:
     return ".".join(parts)
 
 
-def build_browser_index(talks: list[dict]) -> dict:
+def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) -> dict:
     meta = []
     postings: dict[str, dict[int, int]] = collections.defaultdict(dict)
     positions: dict[str, dict[int, list[int]]] = collections.defaultdict(dict)
@@ -223,7 +262,7 @@ def build_browser_index(talks: list[dict]) -> dict:
             "i": n,
             "v": t["video_id"],
             "t": t["title"],
-            "d": clip(t["description"], META_DESC_CHARS),
+            "d": clip(t["description"], desc_chars),
             "s": t["speakers"],
             "c": t["conference_name"],
             "cs": t["conference"],
@@ -281,21 +320,75 @@ def build_browser_index(talks: list[dict]) -> dict:
     return {"terms": sum(len(v) for v in shards.values()), "shards": len(shards), "docs": n_docs}
 
 
-def main() -> None:
+def parse_args(argv: list[str]) -> argparse.Namespace:
+    ap = argparse.ArgumentParser(
+        prog="build_index.py",
+        description=__doc__,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    ap.add_argument("-o", "--out", metavar="DIR", type=pathlib.Path,
+                    help="write talks.db, search-meta.json and tindex/ into DIR instead "
+                         "of data/ (the inputs are still read from data/), for building "
+                         "a copy to diff against the committed one")
+    ap.add_argument("-q", "--quiet", action="store_true",
+                    help="print nothing except a search-meta.json that is over its "
+                         "size trigger")
+    ap.add_argument("--desc-chars", type=int, default=META_DESC_CHARS, metavar="N",
+                    help=f"clip descriptions in search-meta.json to N characters "
+                         f"(default: {META_DESC_CHARS}); halving it is the remedy when "
+                         f"the file crosses the {META_SIZE_TRIGGER_BYTES // (1024 * 1024)}"
+                         f" MiB trigger")
+    args = ap.parse_args(argv)
+    if args.desc_chars < 1:
+        ap.error("--desc-chars must be at least 1")
+    return args
+
+
+def redirect_outputs(out: pathlib.Path) -> None:
+    """Point the three generated artefacts somewhere other than data/.
+
+    Only the outputs move: talks.json and the transcripts are still read from
+    the repository, because the point is to rebuild the same corpus elsewhere
+    and compare. Both halves still get built together, which is what keeps the
+    dense `n` meaning the same thing in the database and in the browser index.
+    """
+    atu.TALKS_DB = out / "talks.db"
+    atu.SEARCH_META = out / "search-meta.json"
+    atu.TINDEX = out / "tindex"
+
+
+def main(argv: list[str] | None = None) -> None:
+    """Build both indexes.
+
+    argv defaults to *no arguments* rather than to sys.argv[1:], because
+    query.py imports this module and calls main() to build the index on first
+    use — it must not have its own command line parsed here.
+    """
+    args = parse_args(list(argv or []))
+    if args.out:
+        redirect_outputs(args.out)
+
     talks = atu.load_talks()
     n_tr, n_seg = build_sqlite(talks)
-    stats = build_browser_index(talks)
+    stats = build_browser_index(talks, args.desc_chars)
+    meta_size = atu.SEARCH_META.stat().st_size
+
+    if args.quiet:
+        if meta_size >= META_SIZE_TRIGGER_BYTES:
+            print(meta_size_report(meta_size, args.desc_chars))
+        return
 
     print(f"indexed {len(talks)} talks · {n_tr} with transcripts · {n_seg:,} passages")
     print(f"  data/talks.db          {atu.human_size(atu.TALKS_DB.stat().st_size)}")
-    print(f"  data/search-meta.json  {atu.human_size(atu.SEARCH_META.stat().st_size)}")
+    print(f"  data/search-meta.json  {atu.human_size(meta_size)}")
     if stats["shards"]:
         total = sum(p.stat().st_size for p in atu.TINDEX.glob("*.json"))
         print(f"  data/tindex/           {atu.human_size(total)} in {stats['shards']} shards, "
               f"{stats['terms']:,} terms over {stats['docs']} transcripts")
     else:
         print("  data/tindex/           (empty — no transcripts fetched yet)")
+    print(f"\n{meta_size_report(meta_size, args.desc_chars)}")
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])

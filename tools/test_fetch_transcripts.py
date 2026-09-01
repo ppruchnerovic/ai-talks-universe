@@ -375,7 +375,185 @@ try:
 except Exception as e:
     check("a failed job is still about the video", F.about_the_video(e), type(e).__name__)
 
+print("\n-- language tags: LANGUAGES is a preference, not a gate --")
+# Every route spells a language differently, so anything comparing them has to
+# compare base tags: BCP-47 from youtube-transcript-api, a file suffix from
+# yt-dlp, bare ISO 639-1 from supadata.
+check("regional variant folds to its base", F.base_lang("en-US") == "en", F.base_lang("en-US"))
+check("yt-dlp's -orig suffix folds too", F.base_lang("en-orig") == "en", F.base_lang("en-orig"))
+check("case and padding fold", F.base_lang("  PT_BR ") == "pt", F.base_lang("  PT_BR "))
+check("nothing in, nothing out", F.base_lang(None) == "" and F.base_lang("") == "")
+check("a variant of a wanted language is wanted", F.lang_ok("en-GB") and F.lang_ok("de"))
+check("a language off the list is not", not F.lang_ok("hi") and not F.lang_ok(None))
+# supadata answers "none" for a track it served but could not identify; ten
+# transcripts in this corpus are filed under it. It is not a language code.
+check("an unnameable language becomes 'und'",
+      F.named_lang("none") == F.named_lang("") == F.named_lang(None) == "und",
+      (F.named_lang("none"), F.named_lang("")))
+check("a real code is recorded verbatim",
+      F.named_lang("en-GB") == "en-GB" and F.named_lang(" hi ") == "hi")
+check("preference order survives the fold",
+      F.LANG_RANK["en"] < F.LANG_RANK["de"] < F.LANG_RANK["fr"] < F.LANG_RANK["uk"],
+      F.LANG_RANK)
+
+print("\n-- supadata asks for a language, then checks the answer --")
+# Sending no `lang` at all is how ten English talks acquired Devanagari
+# transcripts that indexed as though they were the talk. Asking is half of it:
+# supadata answers an unavailable language with "the first available language
+# and a list of other available languages" rather than an error, so the answer
+# has to be read.
+F._supadata_off.clear()
+seen = serve([("mode=native", Resp(200, {"lang": "en", "content": [
+    {"text": "hello", "offset": 0, "duration": 1000}]}))])
+segs, lang = F.fetch_supadata("VID", "K")
+check("the request states a language", "lang=en&" in seen[0] or "&lang=en" in seen[0], seen[0])
+check("an English answer costs one credit", len(seen) == 1 and lang == "en", (seen, lang))
+
+# Off-list answer, English on offer: the documented remedy is to re-request
+# against availableLangs, and that is worth the second credit.
+F._supadata_off.clear()
+seen = serve([
+    ("lang=en", Resp(200, {"lang": "hi", "availableLangs": ["hi", "en"],
+                           "content": [{"text": "थैंक यू", "offset": 0, "duration": 1000}]})),
+    ("lang=en", Resp(200, {"lang": "en", "availableLangs": ["hi", "en"],
+                           "content": [{"text": "thank you", "offset": 0, "duration": 1000}]})),
+])
+segs, lang = F.fetch_supadata("VID", "K")
+check("a fallback answer is re-requested against availableLangs", len(seen) == 2, seen)
+check("and the English text is what is kept",
+      lang == "en" and segs[0]["text"] == "thank you", (lang, segs))
+
+# The retry picks by LANGUAGES order, not by the order the video lists.
+F._supadata_off.clear()
+seen = serve([
+    ("lang=en", Resp(200, {"lang": "hi", "availableLangs": ["fr", "de", "hi"],
+                           "content": [{"text": "x", "offset": 0, "duration": 1000}]})),
+    ("lang=de", Resp(200, {"lang": "de",
+                           "content": [{"text": "hallo", "offset": 0, "duration": 1000}]})),
+])
+segs, lang = F.fetch_supadata("VID", "K")
+check("the retry follows LANGUAGES order", lang == "de" and len(seen) == 2, (lang, seen))
+
+# Nothing on the list is on offer. This is the whole point: it is not an error,
+# not a block and above all not a miss — the video has captions.
+F._supadata_off.clear()
+seen = serve([("lang=en", Resp(200, {"lang": "hi", "availableLangs": ["hi", "ta"],
+                                     "content": [{"text": "थैंक यू", "offset": 0,
+                                                  "duration": 1000}]}))])
+segs, lang = F.fetch_supadata("VID", "K")
+check("a foreign-only track is returned, not raised", lang == "hi" and len(segs) == 1, (lang, segs))
+check("and costs no second credit", len(seen) == 1, seen)
+check("a foreign-only track is not an error at all",
+      not F.is_block(LookupError()) and lang == "hi")
+
+# availableLangs missing entirely (older responses) must not crash the check.
+F._supadata_off.clear()
+seen = serve([("lang=en", Resp(200, {"lang": "hi",
+                                     "content": [{"text": "x", "offset": 0,
+                                                  "duration": 1000}]}))])
+segs, lang = F.fetch_supadata("VID", "K")
+check("no availableLangs is survivable", lang == "hi" and len(seen) == 1, (lang, seen))
+F._supadata_off.clear()
+
 urllib.request.urlopen = _REAL_URLOPEN
+
+print("\n-- pick_and_fetch reports the language it actually fetched --")
+
+
+class FakeTranscript:
+    def __init__(self, code, translatable=True, into=("en",)):
+        self.language_code, self.is_translatable = code, translatable
+        self.is_generated, self._into = True, into
+
+    def translate(self, code):
+        if not self.is_translatable or code not in self._into:
+            raise RuntimeError("TranslationLanguageNotAvailable")
+        return FakeTranscript(code, translatable=False)
+
+    def fetch(self):
+        return [{"start": 0.0, "duration": 1.0, "text": "hi"}]
+
+
+class FakeListing(list):
+    def __init__(self, tracks, manual=None, generated=None):
+        super().__init__(tracks)
+        self._manual, self._generated = manual, generated
+
+    def find_manually_created_transcript(self, langs):
+        if self._manual is None:
+            raise RuntimeError("no manual track")
+        return self._manual
+
+    def find_generated_transcript(self, langs):
+        if self._generated is None:
+            raise RuntimeError("no generated track")
+        return self._generated
+
+
+def picked(listing):
+    api = types.SimpleNamespace(list=lambda vid: listing)
+    return F.pick_and_fetch(api, "V")
+
+
+_raw, lang, _g = picked(FakeListing([], manual=FakeTranscript("en-GB", translatable=False)))
+check("a preferred track reports its own code", lang == "en-GB", lang)
+
+_raw, lang, _g = picked(FakeListing([FakeTranscript("hi")]))
+check("a translated track reports the language translated into", lang == "en", lang)
+
+_raw, lang, _g = picked(FakeListing([FakeTranscript("hi", translatable=False)]))
+check("an untranslatable track reports its own language, honestly", lang == "hi", lang)
+
+# The bug in the other direction: TranslationLanguageNotAvailable is neither a
+# block, an account refusal nor a transient, so left to propagate it reaches
+# _misses.json as "this video has no captions" — for a video that has them.
+_raw, lang, _g = picked(FakeListing([FakeTranscript("hi", into=("fr",))]))
+check("a failed translation falls back rather than losing the talk", lang == "hi", lang)
+
+_raw, lang, _g = picked(FakeListing([FakeTranscript("hi", translatable=False),
+                                     FakeTranscript("ta")]))
+check("a translatable track beats an untranslatable one", lang == "en", lang)
+
+try:
+    picked(FakeListing([]))
+    check("no tracks at all is still a miss", False)
+except LookupError as e:
+    check("no tracks at all is still a miss", "no transcript tracks" in str(e), str(e))
+
+print("\n-- save() files a transcript under the language it is in --")
+written = {}
+_REAL_WRITE = F.atu.write_json
+F.atu.write_json = lambda path, obj, compact=False: written.update(obj)
+TALK = {"id": "vid1", "title": "T", "conference": "c"}
+SEG = [{"start": 0.0, "duration": 1.0, "text": "one two three"}]
+
+out = io.StringIO()
+with contextlib.redirect_stdout(out):
+    words = F.save(TALK, SEG, "en-GB", True, "exact", "yt")
+check("the language it was given is the language it records",
+      written["language"] == "en-GB", written.get("language"))
+check("word count is the segments' words", words == 3, words)
+check("an on-list language is saved without comment", out.getvalue() == "", out.getvalue())
+
+out = io.StringIO()
+with contextlib.redirect_stdout(out):
+    F.save(TALK, SEG, "hi", True, "exact", "supa")
+check("a foreign-only track is written, not discarded", written["language"] == "hi",
+      written.get("language"))
+check("a foreign-only track is never silent",
+      "vid1" in out.getvalue() and "hi" in out.getvalue(), out.getvalue())
+
+with contextlib.redirect_stdout(io.StringIO()):
+    F.save(TALK, SEG, "", True, "exact", "supa")
+check("an unknown language is 'und', never guessed as 'en'",
+      written["language"] == "und", written.get("language"))
+
+with contextlib.redirect_stdout(io.StringIO()):
+    F.save(TALK, SEG, "none", True, "exact", "supa")
+check("supadata's 'none' is recorded as 'und' too",
+      written["language"] == "und", written.get("language"))
+F.atu.write_json = _REAL_WRITE
+
 print("\n-- a full round against fake allowances --")
 ARGS = types.SimpleNamespace(source="exact", min_delay=0, max_delay=0,
                              proxy_cooldown=45, workers=4, limit=None)
@@ -525,6 +703,23 @@ ok8, fail8, blocked8 = F.run_parallel(pool8, todo, m8, SUPA_ARGS, "KEY")
 check("a transient failure is never a miss", m8 == {} and fail8 == 0, (m8, fail8))
 check("the round carries on past it",
       ok8 == len(todo) - len(FLAKY) and blocked8 is False, (ok8, blocked8))
+
+print("\n-- a video whose only captions are foreign is fetched, never missed --")
+# _misses.json means "this video has no captions" and select() skips every id
+# in it forever. A Hindi-only track is captions, so writing it there would lose
+# the talk on a false verdict — and a "retry later" would spend a credit on it
+# every run without ever converging, because the track will still be Hindi next
+# month. So it is kept, and kept under its real language.
+saved = []
+F.save = lambda t, segs, lang, gen, timing, source: (saved.append((t["id"], lang)), 100)[1]
+F.fetch_one = lambda eg, vid, source, key: (
+    [{"start": 0.0, "duration": 1.0, "text": "थैंक यू फॉर कमिंग"}], "hi", True, "exact", "supa")
+pool9 = F.Pool([None], cooldown_min=45); m9 = {}
+ok9, fail9, blocked9 = F.run_parallel(pool9, todo, m9, SUPA_ARGS, "KEY")
+check("a foreign-only track is never recorded as a miss", m9 == {} and fail9 == 0, (m9, fail9))
+check("every one of them is fetched", ok9 == len(todo) and blocked9 is False, (ok9, blocked9))
+check("and each is filed under the language it is in",
+      {lg for _, lg in saved} == {"hi"} and len(saved) == len(todo), saved[:3])
 
 
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else

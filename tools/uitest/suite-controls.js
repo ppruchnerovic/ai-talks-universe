@@ -45,9 +45,37 @@ L.suite('controls', async browser => {
   }
 
   // ---------- the unfold appears only where text is truncated ----------
-  if (meta.talks.filter(t => (t.d || '').length > 40).length > 40) {
+  //
+  // Both directions have to be on screen at once: a description long enough to
+  // overflow the four-line clamp, and one short enough not to. An empty query
+  // sorts newest first, and the newest few hundred are all Data-API
+  // descriptions clipped at 600 characters — every one of them overflows a
+  // clamp that fits roughly 300, so the sample used to be "0 wrong of 0" and
+  // the check asserted nothing. The short ones exist, they are just not the
+  // newest, so pick the conference that has the most of them and browse that.
+  const SHORT = 280;   // comfortably inside the clamp at 1280px
+  const short = meta.talks.filter(t => {
+    const d = (t.d || '').trim();
+    return d.length > 0 && d.length <= SHORT;
+  });
+  const long = meta.talks.filter(t => (t.d || '').trim().length > SHORT);
+  if (short.length && long.length) {
+    // Most short descriptions per conference — the filter needs a slug, and a
+    // conference with both kinds gives one sample that exercises both branches.
+    const tally = new Map();
+    for (const t of short) tally.set(t.cs, (tally.get(t.cs) || 0) + 1);
+    const slug = [...tally].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))[0][0];
+
     await L.search(page, '');
-    await page.evaluate(() => { for (let i = 0; i < 8; i++) document.querySelector('#more').click(); });
+    await page.selectOption('#f-conf', slug);
+    await page.waitForTimeout(400);
+    // Show the whole conference, not the first twenty of it.
+    for (let i = 0; i < 40; i++) {
+      const more = page.locator('#more');
+      if (!(await more.isVisible())) break;
+      await more.click();
+      await page.waitForTimeout(120);
+    }
     await page.waitForTimeout(600);
     const abs = await page.evaluate(() => {
       const rows = [...document.querySelectorAll('#results .card')].map(c => {
@@ -55,16 +83,28 @@ L.suite('controls', async browser => {
         if (!p || !b) return null;
         return { overflows: p.scrollHeight > p.clientHeight + 2, visible: b.offsetParent !== null };
       }).filter(Boolean);
-      return { total: rows.length, short: rows.filter(r => !r.overflows).length,
-               wrong: rows.filter(r => !r.overflows && r.visible).length };
+      return { total: rows.length,
+               short: rows.filter(r => !r.overflows).length,
+               long: rows.filter(r => r.overflows).length,
+               wrong: rows.filter(r => !r.overflows && r.visible).length,
+               missing: rows.filter(r => r.overflows && !r.visible).length };
     });
+    // This one first: it is the guard that stops the next check passing as
+    // "0 wrong of 0", which is what it did while the sample held no short
+    // descriptions at all.
+    L.check('the sample really contains untruncated descriptions, so the next check means something',
+      abs.short > 0 && abs.long > 0,
+      `${slug}: ${abs.short} untruncated, ${abs.long} truncated, ${abs.total} cards ` +
+      `(corpus has ${short.length} descriptions of <=${SHORT} chars)`);
     L.check('the unfold button appears only where the clamp actually hides something',
-      abs.wrong === 0, `${abs.wrong} wrong of ${abs.short} untruncated / ${abs.total} cards`);
-    L.check('the corpus contains untruncated descriptions, so that check means something',
-      abs.short > 0, `${abs.short} of ${abs.total}`);
+      abs.wrong === 0 && abs.missing === 0,
+      `${abs.wrong} shown over untruncated text, ${abs.missing} missing over truncated text, ` +
+      `of ${abs.total} cards in ${slug}`);
+    await page.selectOption('#f-conf', '');
+    await page.waitForTimeout(300);
   } else {
     L.skip('the unfold button appears only where text is truncated',
-      'descriptions not collected yet — run enrich.py');
+      `need both kinds of description: ${short.length} of <=${SHORT} chars, ${long.length} longer`);
   }
 
   // ---------- pagination ----------

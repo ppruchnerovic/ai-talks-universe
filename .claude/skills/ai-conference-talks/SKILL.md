@@ -52,10 +52,13 @@ one failure mode that makes this KB worthless.
 ```bash
 cd tools
 python3 query.py "context engineering" -n 12 --json
+python3 query.py --list-conferences        # valid slugs; --list-categories too
 ```
 
 `--json` gives you, per hit: title, speakers, conference, edition, year,
-duration, `youtube_url`, a description snippet, and `moments` — timestamped
+duration, `youtube_url`, `snippet` (from whichever layer matched) with
+`snippet_from` and `matched` naming that layer, the legacy
+`description_snippet`, and `moments` — timestamped
 transcript hits with the exact seconds.
 
 Useful flags: `--conference langchain-interrupt`, `--category "AI security"`,

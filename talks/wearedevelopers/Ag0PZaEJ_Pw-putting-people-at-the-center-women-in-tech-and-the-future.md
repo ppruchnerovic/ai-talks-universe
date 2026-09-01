@@ -13,7 +13,7 @@ duration_min: 36
 published_at: 2025-10-30T15:07:57Z
 video_id: Ag0PZaEJ_Pw
 youtube_url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
-tags: ["5\nwomen in tech", "HR leadership", "tech careers for women", "gender diversity in tech", "STEM education", "mentoring in STEM", "female developers", "team building strategies", "AI in HR", "workplace diversity", "career advancement", "employer branding"]
+tags: ["women in tech", "HR leadership", "tech careers for women", "gender diversity in tech", "STEM education", "mentoring in STEM", "female developers", "team building strategies", "AI in HR", "workplace diversity", "career advancement", "employer branding"]
 transcript: false
 ---
 
@@ -23,8 +23,7 @@ transcript: false
 
 `WeAreDevelopers World Congress` · `WeAreDevelopers` · `2025` · `36 min`
 
-`#5
-women in tech` `#HR leadership` `#tech careers for women` `#gender diversity in tech` `#STEM education` `#mentoring in STEM` `#female developers` `#team building strategies` `#AI in HR` `#workplace diversity` `#career advancement` `#employer branding`
+`#women in tech` `#HR leadership` `#tech careers for women` `#gender diversity in tech` `#STEM education` `#mentoring in STEM` `#female developers` `#team building strategies` `#AI in HR` `#workplace diversity` `#career advancement` `#employer branding`
 
 [Watch the recording](https://www.youtube.com/watch?v=Ag0PZaEJ_Pw) · [Conference site](https://www.wearedevelopers.com/en)
 

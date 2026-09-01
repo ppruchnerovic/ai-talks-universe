@@ -47,7 +47,7 @@ Whether you’re a platform engineer, developer, or tech leader, you’ll leave 
 
 ## Transcript
 
-*159 words · source: supa (hi, exact timings)*
+*159 words · source: yt (hi, exact timings)*
 
 **[0:38](https://www.youtube.com/watch?v=NdGBsn8tRzs&t=38s)** जो नेक्स्ट WhatsApp
 

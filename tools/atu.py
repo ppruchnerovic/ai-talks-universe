@@ -225,8 +225,28 @@ def write_json(path: pathlib.Path, obj, compact: bool = False) -> None:
 
 
 def human_size(n: float) -> str:
-    for unit in ("B", "KB", "MB", "GB"):
-        if n < 1024 or unit == "GB":
+    """A byte count in binary units, labelled in binary units.
+
+    This divides by 1024, so what it produces are kibibytes, mebibytes and
+    gibibytes — and it now says so. It spent a long time dividing by 1024 while
+    printing "KB"/"MB"/"GB", which made every size this repo has ever reported
+    look decimal when it was not. That is not pedantry: `search-meta.json` sits
+    at 6,045,370 bytes, which is *under* the 6 MiB rebuild trigger in
+    build_index.py and *over* 6 MB decimal, so the label alone decided whether
+    the description clip needed halving. Use decimal_size() if you ever want
+    the other convention; do not change the divisor here.
+    """
+    for unit in ("B", "KiB", "MiB", "GiB"):
+        if n < 1024 or unit == "GiB":
             return f"{n:.0f}{unit}" if unit == "B" else f"{n:.1f}{unit}"
         n /= 1024.0
+    return f"{n:.1f}GiB"
+
+
+def decimal_size(n: float) -> str:
+    """The same count in decimal units, for comparing against a vendor figure."""
+    for unit in ("B", "KB", "MB", "GB"):
+        if n < 1000 or unit == "GB":
+            return f"{n:.0f}{unit}" if unit == "B" else f"{n:.1f}{unit}"
+        n /= 1000.0
     return f"{n:.1f}GB"

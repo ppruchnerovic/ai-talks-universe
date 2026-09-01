@@ -45,7 +45,7 @@ What started as autocomplete has become chat assistants, CLI tools, and cloud ag
 
 ## Transcript
 
-*167 words · source: supa (hi, exact timings)*
+*167 words · source: yt (hi, exact timings)*
 
 **[0:20](https://www.youtube.com/watch?v=nKZVd8r89nI&t=20s)** आई वाक समाप्त के लिए से को
 

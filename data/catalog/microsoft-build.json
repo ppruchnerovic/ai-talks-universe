@@ -7,7 +7,7 @@
       "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
       "label": "Build 2026",
       "year": 2026,
-      "count": 224
+      "count": 222
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj",
@@ -16,7 +16,7 @@
       "count": 274
     }
   ],
-  "count": 498,
+  "count": 496,
   "videos": {
     "-3OjBT6f_Yw": {
       "video_id": "-3OjBT6f_Yw",
@@ -1488,17 +1488,6 @@
       "label": "Build 2025",
       "year": 2025,
       "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj"
-    },
-    "8I2n1u-bqDI": {
-      "video_id": "8I2n1u-bqDI",
-      "title": "",
-      "duration_s": null,
-      "channel": null,
-      "label": "Build 2026",
-      "year": 2026,
-      "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
-      "details_at": "2026-08-31T15:35:54+00:00",
-      "description": ""
     },
     "8QBDaRbur70": {
       "video_id": "8QBDaRbur70",
@@ -6824,17 +6813,6 @@
         "msft build 2026"
       ],
       "details_at": "2026-08-31T15:35:56+00:00"
-    },
-    "jDFlfu-Z_Co": {
-      "video_id": "jDFlfu-Z_Co",
-      "title": "",
-      "duration_s": null,
-      "channel": null,
-      "label": "Build 2026",
-      "year": 2026,
-      "source_url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU",
-      "details_at": "2026-08-31T15:35:56+00:00",
-      "description": ""
     },
     "jVyhNmi3TWc": {
       "video_id": "jVyhNmi3TWc",

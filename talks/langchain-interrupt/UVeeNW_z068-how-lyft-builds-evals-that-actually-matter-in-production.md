@@ -13,7 +13,7 @@ duration_min: 17
 published_at: 2026-06-15T12:37:30Z
 video_id: UVeeNW_z068
 youtube_url: https://www.youtube.com/watch?v=UVeeNW_z068
-tags: ["Tags:\nLangChain", "LangSmith", "LangGraph", "AI evals", "LLM evaluation", "AI agents", "production AI", "customer support AI", "offline evaluation", "LLM as judge", "Lyft AI", "agent engineering", "AI observability", "eval framework", "RAG", "AI in production"]
+tags: ["LangChain", "LangSmith", "LangGraph", "AI evals", "LLM evaluation", "AI agents", "production AI", "customer support AI", "offline evaluation", "LLM as judge", "Lyft AI", "agent engineering", "AI observability", "eval framework", "RAG", "AI in production"]
 transcript: true
 ---
 
@@ -23,8 +23,7 @@ transcript: true
 
 `LangChain Interrupt` · `Interrupt 2026` · `2026` · `17 min`
 
-`#Tags:
-LangChain` `#LangSmith` `#LangGraph` `#AI evals` `#LLM evaluation` `#AI agents` `#production AI` `#customer support AI` `#offline evaluation` `#LLM as judge` `#Lyft AI` `#agent engineering` `#AI observability` `#eval framework` `#RAG` `#AI in production`
+`#LangChain` `#LangSmith` `#LangGraph` `#AI evals` `#LLM evaluation` `#AI agents` `#production AI` `#customer support AI` `#offline evaluation` `#LLM as judge` `#Lyft AI` `#agent engineering` `#AI observability` `#eval framework` `#RAG` `#AI in production`
 
 [Watch the recording](https://www.youtube.com/watch?v=UVeeNW_z068) · [Conference site](https://interrupt.langchain.com/)
 

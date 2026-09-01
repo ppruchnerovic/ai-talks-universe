@@ -24,7 +24,9 @@ So this script does the same job in two stages:
        talks/<conf>/<vid>-<slug>.md one readable file per talk
 
 Idempotent: re-running without --refresh rebuilds byte-identical output from
-the cache, so a git diff shows exactly what the conferences changed.
+the cache, so a git diff shows exactly what the conferences changed. That
+includes talks.json's "generated_at", which records when the corpus last
+changed rather than when this run happened — see generated_at().
 
     python3 sync_catalog.py                    # rebuild from cache (offline)
     python3 sync_catalog.py --refresh          # re-enumerate every source
@@ -371,6 +373,31 @@ def clean_description(desc: str | None) -> str:
     return re.sub(r"\n{3,}", "\n\n", out).strip()
 
 
+def clean_tags(tags) -> list[str]:
+    r"""Fold the whitespace inside each tag and drop the empties.
+
+    Titles get this from enumerate_source()/enumerate_seed() and descriptions
+    from clean_description(); tags were the one field copied through verbatim,
+    which is exactly why no title was ever corrupted while three tags were — a
+    raw \r inside a YouTube tag split a line in the rendered markdown, and two
+    others arrived with a newline in them.
+
+    Doing it here, on every derivation, is what makes it self-healing: a
+    hand-edit of data/catalog/ is undone by the next enrich.py run, and this is
+    not. It folds rather than splits on purpose — one tag in, one tag out —
+    because splitting would invent tags ("Tags:", "5") out of a source's
+    formatting accident.
+    """
+    out = []
+    for t in tags or []:
+        if t is None:
+            continue
+        s = " ".join(str(t).split())
+        if s:
+            out.append(s)
+    return out
+
+
 def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None) -> tuple[bool, str]:
     """Filter one video. A source may override any of the conference's rules.
 
@@ -385,9 +412,26 @@ def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None) ->
     def rule(key):
         return src.get(key, conf.get(key)) if src else conf.get(key)
 
+    # A record with no title is a hollow one. When the Data API does not return
+    # a video — private, deleted, region blocked — enrich.py stamps details_at
+    # anyway so it is not re-fetched every run, which leaves a permanent shell:
+    # no title, no duration, no channel, and has_details: true. The playlist
+    # still lists it, so re-enumeration puts it back; only a filter keeps it out
+    # of the corpus for good. Nothing downstream can use it either — the slug,
+    # the markdown filename and every search field are derived from the title.
+    if not str(v.get("title") or "").strip():
+        return False, "untitled"
     d = v.get("duration_s")
-    if rule("min_duration") and d is not None and d < rule("min_duration"):
-        return False, "short"
+    if rule("min_duration") and (d is None or d < rule("min_duration")):
+        # An unknown duration does not pass a minimum-duration rule. The rule is
+        # an assertion the record has to support, and every listing route
+        # (yt-dlp's flat playlist, the Data API) returns a duration, so a record
+        # without one is degraded rather than merely undocumented. Where an
+        # unknown duration would be legitimate — a curated agenda that lists
+        # sessions but not runtimes — the source says so by setting
+        # "min_duration": 0, which switches this whole check off; the
+        # wearedevelopers World Congress seed already does.
+        return False, "short" if d is not None else "no-duration"
     hay = f"{v.get('title','')}\n{v.get('description','') or ''}"
     if rule("match") and not re.search(rule("match"), hay, re.I):
         return False, "match"
@@ -480,7 +524,7 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool) -> tuple[list[dict]
                 "duration_min": round(v["duration_s"] / 60) if v.get("duration_s") else None,
                 "duration_s": v.get("duration_s"),
                 "published_at": v.get("published_at"),
-                "tags": v.get("tags") or [],
+                "tags": clean_tags(v.get("tags")),
                 "youtube_url": atu.WATCH.format(vid=vid),
                 "conference_site": conf["site"],
                 "availability": conf["availability"],
@@ -631,6 +675,38 @@ def check_not_shrinking(n_new: int, allow_shrink: bool) -> None:
         f"If the drop is real, rerun with --allow-shrink.")
 
 
+def generated_at(body: dict) -> str:
+    """When the corpus last *changed*, not when this run happened.
+
+    A rebuild from cache is byte-identical by design — that is the whole point
+    of "a git diff shows exactly what the conferences changed" — and a wall
+    clock in the file was the one line that broke the promise, dirtying a 15 MB
+    tracked file on every no-op run. So the previous stamp is kept verbatim
+    when everything else in talks.json would be written unchanged.
+
+    The comparison runs both sides through the same serializer rather than
+    comparing objects, so a value that is a tuple here and a list on disk does
+    not read as a change. Key order counts: it is what the file will be written
+    in.
+    """
+    now = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat()
+    try:
+        with atu.TALKS_JSON.open(encoding="utf-8") as f:
+            old = json.load(f)
+    except (OSError, ValueError):
+        return now
+    if not isinstance(old, dict):
+        return now
+    previous = old.pop("generated_at", None)
+    if not isinstance(previous, str):
+        return now
+
+    def dumped(o) -> str:
+        return json.dumps(o, ensure_ascii=False, separators=(",", ":"))
+
+    return previous if dumped(old) == dumped(body) else now
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--refresh", action="store_true",
@@ -666,15 +742,16 @@ def main() -> None:
     talks, stats = build_talks(reg, [], not args.no_ai_filter)
     check_not_shrinking(len(talks), args.allow_shrink)
 
-    atu.write_json(atu.TALKS_JSON, {
-        "generated_at": dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat(),
+    body = {
         "source": "YouTube playlists and channels listed in conferences.json",
         "ai_filter": not args.no_ai_filter,
         "conferences": [{"slug": c["slug"], "name": c["name"], "category": c["category"]}
                         for c in reg["conferences"]],
         "count": len(talks),
         "talks": talks,
-    })
+    }
+    stamp = generated_at(body)
+    atu.write_json(atu.TALKS_JSON, {"generated_at": stamp, **body})
 
     atu.TALKS_CSV.parent.mkdir(parents=True, exist_ok=True)
     with atu.TALKS_CSV.open("w", encoding="utf-8", newline="") as f:

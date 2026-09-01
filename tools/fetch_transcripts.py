@@ -43,6 +43,11 @@ data/transcripts/_misses.json means "this video has no captions";
 Re-running will NOT upgrade an estimated transcript to an exact one — it skips
 talks already fetched. Delete the ones you want redone first.
 
+Every route asks for LANGUAGES and takes the best track the video offers. A
+video whose only captions are off that list is still fetched and filed under
+its real language — it has captions, so it is never recorded as a miss — and
+the run says so as it saves.
+
 Output: data/transcripts/<video_id>.json
     {"video_id":"...","title":"...","language":"en","timing":"exact",
      "word_count":4210,"segments":[{"start":12.3,"duration":4.1,"text":"..."}]}
@@ -84,6 +89,49 @@ LANGUAGES = ["en", "en-US", "en-GB", "de", "es", "fr", "pt", "it", "nl", "ja", "
 # Same list for yt-dlp, whose --sub-langs takes patterns. `en.*` catches the
 # auto track YouTube names `en-orig`.
 YTDLP_SUB_LANGS = "en.*,en,de,es,fr,pt,it,nl,ja,pl,uk"
+
+
+def base_lang(code: str | None) -> str:
+    """'en-US' / 'en-orig' / 'EN' -> 'en'. Nothing in, nothing out.
+
+    Every route names languages differently — youtube-transcript-api returns
+    BCP-47 ("en-GB"), yt-dlp names the file after the track ("en-orig"), and
+    supadata takes and returns bare ISO 639-1 ("en") — so anything that
+    compares them has to compare the base tag.
+    """
+    return re.split(r"[-_]", (code or "").strip().lower(), maxsplit=1)[0]
+
+
+# The base tags of LANGUAGES, first occurrence winning, so a comparison against
+# a route's own spelling is a dict lookup rather than a scan.
+LANG_RANK: dict[str, int] = {}
+for _i, _l in enumerate(LANGUAGES):
+    LANG_RANK.setdefault(base_lang(_l), len(LANG_RANK))
+
+
+# What a route says when it cannot name the language. supadata answers "none"
+# for a caption track it served but could not identify — ten transcripts in this
+# corpus are filed that way — and the rest are the usual placeholders. All of
+# them mean the same thing, and "und" is the code that says it.
+UNNAMED_LANGS = {"", "none", "null", "nil", "unknown", "und", "zxx"}
+
+
+def named_lang(code: str | None) -> str:
+    """The language as it should be recorded: verbatim, or 'und' if unnameable."""
+    code = str(code or "").strip()
+    return "und" if code.lower() in UNNAMED_LANGS else code
+
+
+def lang_ok(code: str | None) -> bool:
+    """Is this one of the languages LANGUAGES asks for?
+
+    LANGUAGES is a *preference order for choosing among the tracks a video
+    offers*, not a list of what the corpus may hold. So this decides which
+    track to ask for and which to prefer on a retry — never whether a talk is
+    worth keeping. A video whose only captions are off this list still has
+    captions, and writing it to _misses.json would be a lie; see save().
+    """
+    return base_lang(code) in LANG_RANK
 
 
 class BlockedError(Exception):
@@ -369,15 +417,15 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
                          f"({str(last)[:120]})")
 
 
-def fetch_supadata(video_id: str, key: str) -> tuple[list[dict], str]:
-    """Exact timings from a third party's IPs, so the per-IP quota does not bind.
+def _supadata_once(video_id: str, key: str,
+                   lang: str) -> tuple[list[dict], str, list[str]]:
+    """One transcript request, polled to completion. Costs one credit.
 
-    `mode=native` asks only for captions YouTube already has — one credit, and
-    a video with none comes back 206 rather than being transcribed from audio
-    at two credits a minute. Anything over 20 minutes is handed back as a job
-    to poll, which here is most of the corpus: it fetches longest talks first.
+    Returns the segments, the language the text actually came back in, and the
+    other languages the video offers.
     """
     q = urllib.parse.urlencode({"url": atu.WATCH.format(vid=video_id),
+                                "lang": lang,
                                 "mode": "native"})
     status, data = _supadata_get(f"{SUPADATA_API}?{q}", key)
 
@@ -415,8 +463,46 @@ def fetch_supadata(video_id: str, key: str) -> tuple[list[dict], str]:
                          "text": text})
     if not segments:
         raise LookupError("supadata returned an empty transcript")
-    lang = data.get("lang") or content[0].get("lang") or "en"
-    return segments, lang
+    got = data.get("lang") or content[0].get("lang") or lang
+    available = [str(a) for a in (data.get("availableLangs") or []) if a]
+    return segments, got, available
+
+
+def fetch_supadata(video_id: str, key: str) -> tuple[list[dict], str]:
+    """Exact timings from a third party's IPs, so the per-IP quota does not bind.
+
+    `mode=native` asks only for captions YouTube already has — one credit, and
+    a video with none comes back 206 rather than being transcribed from audio
+    at two credits a minute. Anything over 20 minutes is handed back as a job
+    to poll, which here is most of the corpus: it fetches longest talks first.
+
+    `lang` is the parameter that decides *which* track, and omitting it is how
+    ten English-language talks came back as Devanagari transliterations that
+    then indexed as though they were the talk. Supadata does not fail when the
+    preferred language is absent — it "will return a transcript in the first
+    available language and a list of other available languages" — so asking is
+    only half of it: the answer has to be checked, and `availableLangs` is what
+    the documented remedy re-requests against. That second request costs a
+    second credit, so it is made only when the first answer is off LANGUAGES
+    *and* the video demonstrably offers something on it — never on the happy
+    path, and never more than once.
+    """
+    want = base_lang(LANGUAGES[0])
+    segments, got, available = _supadata_once(video_id, key, want)
+    if lang_ok(got):
+        return segments, got
+
+    alt = min((a for a in available
+               if lang_ok(a) and base_lang(a) != base_lang(got)),
+              key=lambda a: LANG_RANK[base_lang(a)], default=None)
+    if alt is None:
+        # The video's only captions are in a language this corpus does not ask
+        # for. That is not "no captions" and must never be recorded as one —
+        # see save(), which keeps the track and files it under its real
+        # language.
+        return segments, got
+    segments, got, _ = _supadata_once(video_id, key, base_lang(alt))
+    return segments, got
 
 
 # --- route 2: yt-dlp ---------------------------------------------------------
@@ -503,23 +589,48 @@ def build_api(proxy: str | None):
 
 
 def pick_and_fetch(api, video_id: str):
-    """Return (raw segments, language, is_generated). Prefers a manual track."""
+    """Return (raw segments, language, is_generated). Prefers a manual track.
+
+    The language returned is the language of the text that was actually
+    fetched, not of the track it came from. The last-resort branch translates,
+    and reporting the source track's code there would file a talk under a
+    language its transcript is not in — the `language` field is the only record
+    of what a file contains, so it has to be the one thing that cannot drift.
+
+    That branch also has to be careful in the other direction: a video with a
+    track that will not translate into English still has captions, so a failed
+    translation falls back to the untranslated track rather than raising. Left
+    to propagate, `TranslationLanguageNotAvailable` is neither a block, an
+    account refusal nor a transient — so about_the_video() waves it into
+    _misses.json as "this video has no captions", which it demonstrably has.
+    """
     listing = api.list(video_id)
     transcript = None
+    language = None
     try:
         transcript = listing.find_manually_created_transcript(LANGUAGES)
     except Exception:
         try:
             transcript = listing.find_generated_transcript(LANGUAGES)
         except Exception:
-            for t in listing:
-                transcript = t.translate("en") if t.is_translatable else t
-                break
+            # Nothing on the preference list. A track that translates into it
+            # beats one that does not, whatever order the listing is in.
+            tracks = list(listing)
+            want = base_lang(LANGUAGES[0])
+            t = next((t for t in tracks if t.is_translatable),
+                     tracks[0] if tracks else None)
+            if t is not None:
+                transcript, language = t, t.language_code
+                if t.is_translatable:
+                    try:
+                        transcript, language = t.translate(want), want
+                    except Exception:
+                        pass
     if transcript is None:
         raise LookupError("no transcript tracks")
     fetched = transcript.fetch()
     raw = fetched.to_raw_data() if hasattr(fetched, "to_raw_data") else list(fetched)
-    return raw, transcript.language_code, transcript.is_generated
+    return raw, language or transcript.language_code, transcript.is_generated
 
 
 def _route_yta(eg: Egress, vid: str):
@@ -624,6 +735,31 @@ def load_misses() -> dict:
 
 
 def save(t: dict, segments, lang, generated, timing, source) -> int:
+    """Write one transcript, filed under the language it is actually in.
+
+    A track in a language LANGUAGES does not ask for is kept, not discarded and
+    not written to _misses.json. Three reasons, and the first is the only one
+    that has to hold:
+
+      * it would be a lie. _misses.json means "this video has no captions" and
+        select() skips every id in it forever; a video with a Hindi-only track
+        has captions, and cached as a miss it is lost.
+      * "come back later" is a promise nobody can keep. A retryable non-verdict
+        re-selects the talk on every run and spends a credit on it every time,
+        and next month's answer is the same track — it never converges, and the
+        cost is unbounded.
+      * the corpus already holds twelve languages on purpose, so there is no
+        line between "de" and "hi" except the preference list, which is about
+        *which track to ask for*, not about which talks are worth having.
+
+    So the language is recorded as it came back, and an off-list one is said
+    out loud: the field is then the handle for finding these again
+    (`language` not matching ^en over data/transcripts/), which a silently
+    dropped talk would not have.
+    """
+    lang = named_lang(lang)    # "und", never a guessed "en"
+    if not lang_ok(lang):
+        print(f"   ({t['id']}: only a '{lang}' caption track — kept, filed as '{lang}')")
     words = sum(len(s["text"].split()) for s in segments)
     atu.write_json(atu.transcript_path(t["id"]), {
         "video_id": t["id"],
