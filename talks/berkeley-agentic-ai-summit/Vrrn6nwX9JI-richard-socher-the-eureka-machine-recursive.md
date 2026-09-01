@@ -1,0 +1,64 @@
+---
+id: Vrrn6nwX9JI
+title: "Richard Socher - The Eureka Machine: Recursive Superintelligence for Science"
+slug: richard-socher-the-eureka-machine-recursive
+conference: berkeley-agentic-ai-summit
+conference_name: "Berkeley RDI Agentic AI Summit"
+category: "AI engineering & agents"
+edition: "Agentic AI Summit 2026"
+year: 2026
+speakers: ["Richard Socher"]
+channel: "Berkeley RDI"
+duration_min: 12
+published_at: 2026-08-09T23:33:53Z
+video_id: Vrrn6nwX9JI
+youtube_url: https://www.youtube.com/watch?v=Vrrn6nwX9JI
+tags: []
+transcript: true
+---
+
+# Richard Socher - The Eureka Machine: Recursive Superintelligence for Science
+
+**Richard Socher**
+
+`Berkeley RDI Agentic AI Summit` · `Agentic AI Summit 2026` · `2026` · `12 min`
+
+[Watch the recording](https://www.youtube.com/watch?v=Vrrn6nwX9JI) · [Conference site](https://rdi.berkeley.edu/events/agentic-ai-summit)
+
+## Description
+
+*No description published on YouTube.*
+
+## Transcript
+
+*1,880 words · source: supa (en, exact timings)*
+
+**[0:02](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=2s)** RICHARD SOCHER: Hello. Hello. Really excited to be here in Berkeley. And yeah, we'll talk to you a little bit today about what I feel like is my personal version of going to Mars, and that is the Eureka machine. It's the ultimate invention for humanity to automate all future inventions. And to get there and to motivate that, I think we have to get to recursive self-improving superintelligence too along the way. Now, one of the processes we're the most inspired by, which is still, to some degree, underexplored in the AI community broadly, is that of open-ended evolution. And we'll walk in a very quick succession from billions of years of biology to thousands of years
+
+**[0:53](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=53s)** of science to the now weeks' long craziness that is AI. If we start with biological evolution, we can see that it is one of the most inspiring, open-ended processes that we're aware of. And indeed, when you zoom in, you realize that only at the very end of this very, very long billion-plus-year process it led to us inventing our eyes and so on, developing those. And so we want to basically be able to replicate this, but with technology. And if you think about technological evolution, it also was one of the major contributing factors to allowing humanity to thrive, not just in terms of GDP, but also just in terms of sustaining and allowing people
+
+**[1:41](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=101s)** to flourish on this planet. And it mostly came, again, from technology, basic things like hunting and farming to Enlightenment, the Industrial Revolution, and so on. Now, let's zoom in to just the last few hundred years and maybe a few thousand years. Even there, there has been this incredible move that allowed more people to live on this planet because of technology. And what's interesting is that when you zoom out and you think about this, I believe actually that the only perpetual source of growth is technology, as Marc Andreessen said. And in fact, we can go even further and say that there are no material problems that cannot be solved with even more technology. Material, not psychological problems and political and so on.
+
+**[2:29](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=149s)** It's a different beast. But I believe that we need to be able to really accelerate this. And not doing it is actually a bigger danger to not allowing as many people to flourish. And what's really exciting is that in many ways, our generation was too late to explore the Earth, too early to explore the stars, but we were right on time to build superintelligence. And unlike previous technological jumps, this will actually happen, I think, a lot faster because of technologies like recursive self-improving superintelligence. And when you look at some examples of technologies that have moved very quickly, you can actually see that within one lifetime, like in early 1903 or so, no human had ever sustained powered flight. And 60 years later, we landed on the moon.
+
+**[3:20](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=200s)** So within 60 years, within one lifetime, humanity had this massive jump. And now, a lot of acceleration technology is in software, so it's even faster. And so I think our generation will go from no human having been able to interact with an intelligence, an artificial intelligence that's smarter than it, to one that is likely smarter on almost every task than a human. I think that's the goal here. And in the interest of time, I'll switch or move through these fairly quickly. But when you think about technology, there's, obviously, deep theories and connections to science and theory of it. And we think about science. But long story short, we basically can fairly clearly say that more science will lead to more technology, which will
+
+**[4:07](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=247s)** lead to more growth, which will lead to more human flourishing. And that then begs the question, well, how do we accelerate scientific discovery? That is the number one goal for us. And there's a lot of-- there are a lot of good reasons of why we should do it-- to mostly help humanity solve a lot of different problems. Now, this is something I've been thinking about for quite some time. I just finished a book. It'll come out in September called The Eureka Machine. And I believe that AI is the actual unlock for this. And when you think about this full Eureka machine in all of its glory, there will be basically four different pillars. Those pillars are first, the existing knowledge that we have with humanity, mostly now incorporated by LLMs. A lot of people struggle sometimes
+
+**[4:57](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=297s)** with legality and copyrights and companies, infusing all the knowledge from the web into an LLM. But now that they're open-source, they're becoming more and more a resource for humanity, just like the internet had been. So I think that is the first pillar-- existing knowledge that's publicly available. The second pillar is going to have to be grounding it in a lot of scientific measurement data because human eyes are very limited. Human senses are very limited. Obviously, AI, in terms of the upper bound of perceptual intelligence, could be much, much bigger. And that is unlocked largely through scientific measurements. Now, not everything has been measured. And hence, we need a third pillar, which will be simulations.
+
+**[5:44](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=344s)** Everything you can simulate, anything you can essentially verify, AI will, obviously, solve. I personally have never been that surprised that we can beat chess and go and all these other games because you can essentially simulate it, verify it, and, hence, create unlimited amounts of training data. And then of course, there will be some things that we cannot yet simulate either and we eventually have to go and actually do robotic process automation and really automate physical labs. And then on top of these four pillars, you essentially have an agent swarm. And that is what-- that agent swarm, ideally, before you ask it to do physical experiments and so on, you want it to have the equivalent of like 5,000 different PhDs. And so that is essentially our goal at Recursive,
+
+**[6:34](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=394s)** where we want to automate science. And which better science to start than the science of AI itself. And that's where you get recursive self-improvement, where, in a very scientific way, you essentially allow the AI to build a certain sense of self-awareness, of its own shortcomings based on the entire process from pretraining to harness this and everything in between. And I think that is now uniquely possible, especially actually this year, because AI is code and AI can code. And so now that we have been able to accomplish that and accomplish it also for longer time horizons, that allows us to really let AI work on itself. And when you think about the process of science but also AI research, it's essentially three major steps.
+
+**[7:24](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=444s)** It's the ideation, implementation, and validation of ideas. And then it just is now the question, how well can you ideate? How many truly novel ideas can you come up with? Obviously, now, we can implement them better and better. And I think the validation still can take a lot of time. And one thing that we're seeing in a lot of different places now is auto research, which is an incredibly useful milestone, a stepping stone towards true recursive self-improvement, where you ask one AI to improve some other system. That's not true recursive self-improvement. It's just autoresearch. But when we took our RSI system and actually applied it to three different benchmarks that thousands of people have worked on,
+
+**[8:12](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=492s)** often together with their agents and their own human curiosity, we could see that this AI actually outperformed years of prior research across three different benchmarks. One is called NanoChat, very popular autoresearch benchmark, where we were able to reduce the bits per byte significantly within less than two days of asking our system to research this problem. NanoGPT Speedrun is also very useful, trying to create faster and faster training algorithms. And then SOL-ExecBench is a benchmark from NVIDIA that basically evaluates kernels, CUDA kernels, the interface between GPUs and actual AI code. And there, too, we made a significant jump.
+
+**[9:01](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=541s)** And it's interesting because it's not just like tuning hyperparameters. It makes some truly useful inventions, like incorporating hash tables into transformers and other things, like coming up with new types of momentum and so on. And speed is very important. If you want to reduce the intelligence per dollar of your foundational models, then that becomes crucial. And CUDA kernels are a big part of all of these types of algorithms and running them efficiently in very large data centers. And you can imagine that if you spend billions and billions of dollars on these data centers, and then you could improve them by 5% or 10% efficiency, it's a very significant end result for companies. And so as we look into the arc, I think, of human history--
+
+**[9:53](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=593s)** and it sounds a little bit grandiose, but I do really believe that we're living in this moment in time right now. Then I think recursive self-improving superintelligence that automates this kind of scientific discovery is another step function in a sequence of these cumulative S curves. And in many ways, we have only started scratching the surface in AI. I actually tried to define AI in its full complexity. And there is no really good definition. I think ultimately, it boils down to three principal components, which is essentially prediction, which is mathematically equivalent to compression multiplied with actions, multiplied with goals. And from these three principal components, you can eventually essentially evaluate these and then study
+
+**[10:45](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=645s)** these 10 different spaces of intelligence. And just to give you a sense of how far away we are-- and then I'll end the talk-- the visual intelligence, which is the simplest one to think through, is incredibly early. We often think in computer vision in terms of just the electromagnetic frequency spectrum of the human eyes. Human eyes are not that amazing. Mantis shrimp have more amazing eyes. But you could, if you think about the upper bounds of intelligence and how much further AI can go, you can realize that it couldn't just be binocular vision. You can have millions and trillions of sensors. Eventually, you can think about the speed of light cone around all of these sensors and how far apart they could be to still be able to communicate
+
+**[11:33](https://www.youtube.com/watch?v=Vrrn6nwX9JI&t=693s)** to one central intelligence. And you can realize that they can see all the way down to the quantum level of uncertainty there. And that's an upper bound. And they can go all the way up to gravitational waves and then merge all of that, think through many more different layers of abstractions of types of objects and so on. So just to give you a sense, when people think, oh, AI is going to not go that much further, we're literally astronomically far away from the upper bounds across many of the different spaces of intelligence. And that, I think, makes it very exciting and still a very useful area to research. So yeah, if you want to work on those kinds of things, let us know. Thank you. [APPLAUSE]

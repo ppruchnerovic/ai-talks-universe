@@ -113,6 +113,22 @@
       ]
     },
     {
+      "slug": "mcp-dev-summit",
+      "name": "MCP Dev Summit",
+      "category": "AI engineering & agents",
+      "site": "https://events.linuxfoundation.org/mcp-dev-summit-north-america/",
+      "availability": "free",
+      "blurb": "The Model Context Protocol's own conference, run by the Linux Foundation's Agentic AI Foundation — servers, gateways, auth, tool design, agent interop.",
+      "scope": "all",
+      "priority": 1,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLjULwdJUtFdhIBhibLEogtK1XYCNaFyFl", "label": "MCP Dev Summit NA 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLjULwdJUtFdjEl2jZif3XgtTgvNDpJFlO", "label": "MCP Dev Summit Europe 2025", "year": 2025},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG04L", "label": "MCP Developers Summit 2025", "year": 2025}
+      ]
+    },
+    {
       "slug": "openai-devday",
       "name": "OpenAI DevDay",
       "category": "AI engineering & agents",
@@ -202,6 +218,21 @@
       ]
     },
     {
+      "slug": "berkeley-agentic-ai-summit",
+      "name": "Berkeley RDI Agentic AI Summit",
+      "category": "AI engineering & agents",
+      "site": "https://rdi.berkeley.edu/events/agentic-ai-summit",
+      "availability": "free",
+      "blurb": "UC Berkeley RDI summit where agent research meets production practice; the per-talk playlists, not the whole-day stage streams.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLVQ6wYubSX6A", "label": "Agentic AI Summit 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLS01nW3RtgorSROLaDrF1YR34f0A3CnJS", "label": "Agentic AI Summit 2025", "year": 2025}
+      ]
+    },
+    {
       "slug": "dotai",
       "name": "dotAI",
       "category": "AI engineering & agents",
@@ -214,6 +245,20 @@
       "match": "dotAI",
       "sources": [
         {"type": "channel", "url": "https://www.youtube.com/@dotconferences/videos", "label": "dot conferences", "first": 400}
+      ]
+    },
+    {
+      "slug": "ai-council",
+      "name": "AI Council (formerly Data Council)",
+      "category": "AI engineering & agents",
+      "site": "https://www.aicouncil.com/",
+      "availability": "free",
+      "blurb": "Builder-first conference on the AI and data stack, renamed from Data Council in 2026; a decade of technical talks on one channel.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 300,
+      "sources": [
+        {"type": "channel", "url": "https://www.youtube.com/c/DataCouncil/videos", "label": "Data Council / AI Council", "first": 500}
       ]
     },
     {
@@ -301,6 +346,24 @@
       "sources": [
         {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL", "label": "KubeCon EU 2026", "year": 2026},
         {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLj6h78yzYM2PnalRBhPCbxEm_rup1b3X0", "label": "Cloud Native AI + Kubeflow Day 2026", "year": 2026}
+      ]
+    },
+    {
+      "slug": "lf-ai-dev",
+      "name": "AI_dev / Open Source Summit (Linux Foundation)",
+      "category": "Software dev with AI tracks",
+      "site": "https://events.linuxfoundation.org/ai-dev-europe/",
+      "availability": "free",
+      "blurb": "The Linux Foundation's open-source GenAI & ML summit, folded into Open Source Summit for 2026: the AI_dev editions contribute whole, the Open Source Summit listings only their AI sessions.",
+      "scope": "ai",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLbzoR-pLrL6oAsF17rJsdZ0NiKnb2-xD1", "label": "AI_dev Europe 2025", "year": 2025, "scope": "all"},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLbzoR-pLrL6oII-dLqw9vpif0U_kTycj6", "label": "AI_dev Europe 2024", "year": 2024, "scope": "all"},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLbzoR-pLrL6qDStieLBJLajZMcQVgwlxA", "label": "AI.dev 2023", "year": 2023, "scope": "all"},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLbzoR-pLrL6p2URzlq8xlNtBhPspd2xpi", "label": "Open Source Summit + ELC NA 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLbzoR-pLrL6qKwLt8A787ggMLHNivOHve", "label": "Open Source Summit EU 2025", "year": 2025}
       ]
     },
     {
@@ -476,6 +539,21 @@
       "sources": [
         {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU", "label": "Build 2026", "year": 2026},
         {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj", "label": "Build 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "microsoft-ignite",
+      "name": "Microsoft Ignite",
+      "category": "Vendor & platform",
+      "site": "https://ignite.microsoft.com/",
+      "availability": "free",
+      "blurb": "Microsoft’s enterprise event — Copilot, agents, Azure AI and AI-security breakouts, the whole session catalogue on YouTube.",
+      "scope": "ai",
+      "priority": 3,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLQXpv_NQsPIDXiR9PcpggZ34mzko_-12C", "label": "Ignite 2025", "year": 2025},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLQXpv_NQsPID0sNvENCDMADnd1M5aOfv4", "label": "Ignite 2024", "year": 2024}
       ]
     },
     {
@@ -677,6 +755,35 @@
       "min_duration": 300,
       "sources": [
         {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV", "label": "Cerebral Valley AI Summit", "year": null}
+      ]
+    },
+    {
+      "slug": "sequoia-ai-ascent",
+      "name": "Sequoia AI Ascent",
+      "category": "Industry & business",
+      "site": "https://www.sequoiacap.com/",
+      "availability": "free",
+      "blurb": "Invite-only founder and researcher summit; short single-track talks from frontier-lab leaders.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnOkkZThzULo1Ygg7JR6T3MG", "label": "AI Ascent 2026", "year": 2026},
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08", "label": "AI Ascent 2025", "year": 2025}
+      ]
+    },
+    {
+      "slug": "yc-ai-startup-school",
+      "name": "Y Combinator AI Startup School",
+      "category": "Industry & business",
+      "site": "https://events.ycombinator.com/ai-sus",
+      "availability": "free",
+      "blurb": "YC's single-track AI school — Karpathy, Ng, Fei-Fei Li, Altman and others, full talks rather than clips.",
+      "scope": "all",
+      "priority": 2,
+      "min_duration": 240,
+      "sources": [
+        {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi", "label": "AI Startup School 2025", "year": 2025}
       ]
     }
   ]
