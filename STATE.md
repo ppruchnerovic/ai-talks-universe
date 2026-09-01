@@ -20,11 +20,13 @@ new here is the catalogue layer, because there is no agenda API.
 | Enrichment (`enrich.py`) | Done for the 2026 scope. **9,598 videos via the Data API**, in one run. See *What the collection runs actually got*. |
 | Per-talk markdown | Done. 8,822 files, regenerated from `talks.json` on every sync. |
 | Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. |
-| CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. |
+| CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. `--brief` and `--ids` were added for the skill — see *Making the skill affordable*. |
+| Excerpting (`excerpt.py`) | Done, 2026-09-01. Windowed passages instead of whole transcripts; **100% of the passages `query.py` ranks survive, on 17% of the words**. See *Making the skill affordable*. |
 | Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
 | Browser UI tests (`tools/uitest/`) | **172 checks over 9 suites, 0 failing, none skipped** (2026-09-01). Both previously-failing checks were faults in the checks rather than the site and are fixed; each was proven to fail under mutation — see *The bug list, worked*. |
+| Excerpt tests (`tools/test_excerpt.py`) | Done. **14 offline checks** over window selection and merging — no corpus, no network, 0.1s. |
 | Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **128 offline checks** over the pool, the routes, the year selection, the four failure classes, the off-IP lease rule and the caption-language selection. |
-| Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
+| Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. Rewritten 2026-09-01 around a retrieval ladder that costs ~17k tokens a question instead of ~150k — see *Making the skill affordable*. |
 | Transcripts | **2,946 of 8,822**, all exact timings, over 35 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete**: of its 2,942 talks, 2,914 have a transcript and 28 have no captions, so nothing is pending. `I1GvlW1H4WI` entered the scope when the year-from-title fallback was fixed and was fetched for one credit — see *The pre-2023 cut*. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
 | Workflows | Both run. `pages.yml` mirrors `main` into `gh-pages` on push, verified live. `kb-refresh.yml` now **opens a pull request** instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
@@ -794,6 +796,78 @@ reported **1 selected**, which is the check that the selection was what this fil
 predicted, and came back exact at 5,495 words for one credit. Passages
 547,925 -> 548,120, `_misses.json` unchanged at 29.
 
+## Making the skill affordable — 2026-09-01
+
+One sentence to the `ai-conference-talks` skill cost about **150,000 tokens**.
+Measured rather than guessed, the money was all in one instruction. The skill
+said *"for the talks that matter, read the full record: `cat
+talks/ai-engineer/*-context-engineering-*.md`"*, and a model follows that
+literally. Those files inline the whole transcript: of the 2,942 that have one,
+the mean file is **33 KB — about 8,500 tokens — and the longest is 420 KB**.
+Eight of them is 58,000 tokens before the model has thought about anything, and
+the skill also said to *"run several queries with different vocabulary … union
+the results"*, at ~6,000 tokens of `--json` each.
+
+Three changes, in descending order of what they were worth.
+
+**`excerpt.py` — read the passages, not the talk.** It takes video ids and a
+`-q`, and prints the metadata, the description, the **opening** — where a
+speaker states what they are about to argue, which is what makes a passage
+lifted from minute 34 attributable — and a window of continuous speech either
+side of each passage that matched, merged where those overlap, deep-linked to
+the second. It closes with `934 of 3,219 words (29%)`, so a thin excerpt is
+visible as one rather than being mistaken for the talk. Passage ranking is the
+same `bm25(segments_fts)` that ranked the talk in `query.py`, restricted to the
+one talk, so what you read is what put the talk in the results.
+
+Measured over eight topics and 45 talks: **138 of 138 search-ranked moments
+land inside the excerpt, on 17.0% of the words** (48,069 of 283,190). The
+whole-file recipe and the excerpt recipe were run against the same eight ids
+for the same question: **58k tokens against 17k, a 70% cut, with nothing the
+search had ranked left behind.**
+
+**`query.py --brief`.** The skill's step 1 is *choosing* talks, and the fields
+that help you read a result are not the fields that help you choose one. So
+`--brief` drops the channel, the tags, the publication timestamp, the edition
+and the second snippet of the same description, and drops four transcript
+moments per hit to two. In text mode a 12-hit result set goes from **15 KB to
+5 KB**; in `--json` from 25 KB to 10 KB. Default `--json` is byte-identical to
+before, which is what `suite-ranking.js` compares against.
+
+**`query.py --ids`,** so reading the hits is a pipe rather than eight ids
+retyped: `query.py "…" --ids | xargs python3 excerpt.py -q "…"`.
+
+And one instruction change with no code behind it: cover the vocabulary
+**inside one query** — `'evals OR guardrails OR "human in the loop"'` — rather
+than by running five and unioning them by hand. FTS5 already ranks the union,
+and a talk hitting several of the terms rises by itself; five overlapping
+result sets are paid for five times.
+
+### Two bugs found while building it
+
+* **The budget, which is why `-n` is not a count.** The first version merged
+  every window around every hit. On a talk that says the query word every other
+  minute, six windows each grow to meet their neighbours and the merge returns
+  one span covering the talk — the excerpt *was* the transcript, 8,500 tokens
+  where 1,500 was asked for, and nothing in the output said so. `-n` is now a
+  budget of *n* windows' worth of speech, spent best-ranked hit first, and
+  `test_excerpt.py` holds that shape: a hit every 30 seconds through a
+  40-minute talk must not come back as more than the budget.
+
+* **Video ids beginning with a hyphen.** `-stDHMwbBRw` is a talk here, and
+  argparse reads it as an unknown option and refuses the run — which is exactly
+  what `query.py --ids | xargs excerpt.py` produces as soon as one of the hits
+  starts with a hyphen. Ids are now lifted out of `argv` before argparse sees
+  it, matched on the real shape of a YouTube id.
+
+There is also a correctness fix that the token work only exposed: the excerpt
+query needs the same **relaxation** `query.py` does. A segment is ~25 words, so
+the strict `"eval" AND "driven" AND "development"` that ranks *talks* correctly
+matches no single segment, and the first version fell through its "no hits"
+branch to printing the whole transcript. It now retries the OR, and a query
+that genuinely matches nothing in a talk returns the opening and says so — the
+one thing it must never do is silently cost a full read.
+
 ## Next steps, in order
 
 1. ~~**Enable GitHub Pages** on the `gh-pages` branch.~~ **Done** — the site
@@ -1294,8 +1368,18 @@ under-reports by 48. This has now caught two separate sessions.
 
 ## Not done
 
-- **No semantic/vector search.** BM25 plus an agent reading the top hits has
-  covered the query patterns so far. If "find talks that mean X without saying
+- **Retrieval is a ladder, and the skill states what a question should cost.**
+  `query.py --brief` chooses talks, `excerpt.py` reads the passages, the
+  markdown file is for the record rather than for a quote. This is written down
+  as a budget — "one search and a handful of excerpts, on the order of 15k
+  tokens, not 150k" — because a model given "read the matching talks" reads
+  them whole, and there is no signal in a 33 KB file that says it was 8,500
+  tokens to learn one paragraph. The cost of a wrong instruction here is not a
+  wrong answer; it is a right answer at ten times the price, which nothing in
+  the output makes visible.
+
+- **No semantic/vector search.** BM25 plus an agent reading the ranked passages
+  has covered the query patterns so far. If "find talks that mean X without saying
   X" becomes a real need, embeddings over the transcript passages are the next
   step — the chunking in `segments` is already the right granularity.
 - **No cross-conference deduplication of the same talk.** A speaker who gives

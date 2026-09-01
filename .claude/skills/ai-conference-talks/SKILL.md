@@ -26,18 +26,18 @@ data/talks.json                    canonical records, one per talk
 data/transcripts/<video_id>.json   timestamped transcript segments, when fetched
 data/talks.db                      SQLite FTS5 index — the thing you actually query
 talks/<conference>/<video_id>-<slug>.md   one readable file per talk
-tools/query.py                     ranked search over both layers
+tools/query.py                     ranked search — which talks answer this
+tools/excerpt.py                   the passages of a talk that answer it
 ```
 
 ## Know what the corpus is before you trust it
 
 Two properties change how you should answer, and both are visible in the data:
 
-* **Transcript coverage is partial and grows slowly.** YouTube meters caption
-  downloads per IP, so only a fraction of the corpus has a transcript. A talk
-  without one is a *title and a description* — enough to recommend it, not
-  enough to state what the speaker argued. `has_transcript` says which is which,
-  and `query.py` marks transcript-bearing hits with `· transcript`.
+* **Transcript coverage is partial** — 2,942 of the 8,822 talks. A talk without
+  one is a *title and a description*: enough to recommend it, not enough to
+  state what the speaker argued. `has_transcript` says which is which, and
+  `query.py` marks transcript-bearing hits with `· transcript`.
 * **Descriptions are YouTube descriptions**, not conference abstracts. They are
   written by the channel, often promotional, and sometimes empty.
 
@@ -47,44 +47,74 @@ Two properties change how you should answer, and both are visible in the data:
 know what was said at these events, and inventing a speaker's position is the
 one failure mode that makes this KB worthless.
 
-### 1. Retrieve
+Retrieval is three widening steps, and most questions are answered by the first
+two. **Never `cat` a talk markdown file to find out what a speaker said.**
+Those files inline the whole transcript — 8,500 tokens on average, 26,000 for a
+long workshop — and reading a handful of them is what turns a one-sentence
+question into a six-figure token bill. `excerpt.py` gives you the parts of the
+same transcript that bear on the question, with the same deep links, for a
+tenth of that.
+
+### 1. Find the talks — one search, not five
 
 ```bash
 cd tools
-python3 query.py "context engineering" -n 12 --json
+python3 query.py "context engineering" -n 15 --brief
 python3 query.py --list-conferences        # valid slugs; --list-categories too
 ```
 
-`--json` gives you, per hit: title, speakers, conference, edition, year,
-duration, `youtube_url`, `snippet` (from whichever layer matched) with
-`snippet_from` and `matched` naming that layer, the legacy
-`description_snippet`, and `moments` — timestamped
-transcript hits with the exact seconds.
+`--brief` prints one block per hit — title, speakers, conference, year,
+duration, whether it has a transcript, which layer matched, the description
+snippet, the URL. That is what you need in order to *choose*, at about a fifth
+of the bytes of `--json`. Reach for `--json --brief` when you are going to
+compute something from the results, and for full `--json` — tags, channel,
+publication date, four transcript moments per hit — only when the question is
+about those fields.
 
-Useful flags: `--conference langchain-interrupt`, `--category "AI security"`,
-`--year 2026`, `-n 25`, `--no-moments`. FTS5 syntax works: `"exact phrase"`,
-`OR`, `NOT`, `prefix*`.
-
-For a broad question, **run several queries with different vocabulary** rather
-than one. People say the same thing many ways — for agent reliability try
-`evals`, `guardrails`, `observability agents`, `failure modes`, `human in the
-loop`, `agent testing`. Union the results.
-
-To compare conferences or years, run the same query with different
-`--conference` / `--year` values rather than eyeballing one ranked list.
-
-### 2. Read the strong hits
-
-`query.py` ranks and snippets; it does not give you the argument. For the talks
-that matter, read the full record:
+People say the same thing many ways, so cover the vocabulary **inside one
+query** rather than by running five:
 
 ```bash
-cat talks/ai-engineer/*-context-engineering-*.md
+python3 query.py 'evals OR guardrails OR "human in the loop" OR "failure modes"' -n 20 --brief
 ```
 
-When a talk has a transcript, the markdown contains it, chunked into ~45s
-paragraphs each carrying a deep link into the video. That is where a speaker's
-actual position lives.
+FTS5 ranks the union, so a talk that hits several of those terms rises to the
+top by itself — and you pay for one result set instead of five overlapping
+ones. Run a second, narrower query only when the first comes back thin, or
+misses a vocabulary you can see is missing.
+
+Useful flags: `--conference langchain-interrupt`, `--category "AI security"`,
+`--year 2026`, `-n 25`, `--ids`. To compare conferences or years, re-run with
+different `--conference` / `--year` rather than eyeballing one ranked list.
+
+### 2. Read what those talks actually say
+
+`query.py` ranks and snippets; it does not give you the argument. `excerpt.py`
+does, for as many talks at once as you like:
+
+```bash
+python3 excerpt.py O72p-rBb2bA 5ID22ACI7IM -q "eval driven development"
+python3 query.py "agent memory" -n 6 --ids | xargs python3 excerpt.py -q "agent memory"
+```
+
+It prints each talk's metadata, its description, its **opening** — where a
+speaker states what they are about to argue — and a window of continuous
+speech around each passage that matched, deep-linked to the second. It closes
+with how much of the transcript you have seen, so a thin excerpt is visible as
+one.
+
+Give `-q` the same topic you searched for; the passages are ranked by the same
+bm25 that ranked the talk. Then:
+
+* `-n 3` when you are triaging many talks; `-n 10 --window 90` when one talk is
+  the answer and you need the argument in full.
+* `--full` for the whole transcript. Justified when the user asks about one
+  named talk end to end; never as the default, and never for several talks at
+  once.
+* `--json` when you need the passages as data.
+
+Reading the markdown file directly is for when you want the record itself — its
+frontmatter, its tags — not for finding a quote.
 
 ### 3. Synthesize
 
@@ -101,6 +131,14 @@ For "what do people think about X" questions, structure the answer around
   `https://www.youtube.com/watch?v=<video_id>&t=<seconds>s`.
 - Say plainly when the corpus is thin: if only two talks touch the topic, or if
   none of the matching talks has a transcript, that is part of the answer.
+
+### What a question should cost
+
+A one-sentence question is one search and a handful of excerpts — on the order
+of 15k tokens, not 150k. Past that you are almost certainly reading transcript
+you did not need. Widen deliberately instead: another `-q` against the talks
+you already have is cheaper, and likelier to be relevant, than another talk
+read end to end.
 
 ### Fetching what is missing
 
