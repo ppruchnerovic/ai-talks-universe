@@ -451,7 +451,7 @@ python3 fetch_transcripts.py --proxy-file ~/proxies.txt --priority 1 --source ex
 
 `--probe` reports one line per identity, so a dead or unauthenticated proxy is
 visible before it costs a round. Credentials are redacted from every line the
-script prints. Workers default to one per identity (max 8), and an identity is
+script prints. Workers default to one per identity (at least 2, at most 8), and an identity is
 only ever used by one worker at a time — two parallel requests down the same IP
 spend that IP's allowance twice as fast for no extra throughput. Residential
 IPs work; datacenter ranges are blocked hardest, so a cheap datacenter pool

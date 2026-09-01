@@ -40,6 +40,17 @@ def check(name, cond, extra=""):
         FAILS.append(name)
 
 
+print("\n-- enrich.py: what counts as a block --")
+import enrich as EN
+def enrich_marks(err):
+    return any(m.lower() in err.lower() for m in EN.BLOCK_MARKERS)
+check("a bot wall is a block", enrich_marks("ERROR: Sign in to confirm you're not a bot"))
+check("a 429 is a block", enrich_marks("ERROR: HTTP Error 429: Too Many Requests"))
+check("a geo-restricted video is not a block",
+      not enrich_marks("ERROR: Video unavailable. The uploader has not made this video available "
+                       "in your country — blocked in your country"))
+check("a video about robots is not a block", not enrich_marks("ERROR: chatbot video is private"))
+
 print("\n-- proxy parsing and redaction --")
 check("url passthrough", F.normalise_proxy("http://a:b@h:1") == "http://a:b@h:1")
 check("host:port", F.normalise_proxy("1.2.3.4:8080") == "http://1.2.3.4:8080")
@@ -72,12 +83,16 @@ print("\n-- selection: the year filter --")
 # is worth a metered fetch. A talk with no year yet is the interesting case:
 # excluding it by default is what keeps --min-year honest here, and including it
 # on demand is what makes the same flags usable on enrich.py.
-CORPUS = [{"id": f"v{y}", "title": str(y), "conference": "x", "priority": 1,
+# Eleven-character ids, because select() now refuses anything that is not a
+# YouTube id — an InfoQ-only talk has no video to fetch a caption track from.
+CORPUS = [{"id": f"v{y}aaaaaa", "title": str(y), "conference": "x", "priority": 1,
            "duration_min": 30, "duration_s": 1800, "year": y}
           for y in (2024, 2025, 2026)]
-CORPUS.append({"id": "vnone", "title": "undated", "conference": "x", "priority": 1,
+CORPUS.append({"id": "vnoneaaaaaa", "title": "undated", "conference": "x", "priority": 1,
                "duration_min": 30, "duration_s": 1800, "year": None})
-ALL = ["v2024", "v2025", "v2026", "vnone"]
+CORPUS.append({"id": "iq-a-talk-only-on-infoq", "title": "infoq", "conference": "x", "priority": 1,
+               "duration_min": 30, "duration_s": 1800, "year": 2026})
+ALL = ["v2024aaaaaa", "v2025aaaaaa", "v2026aaaaaa", "vnoneaaaaaa"]
 
 
 def sel(**kw):
@@ -88,20 +103,22 @@ def sel(**kw):
 
 
 check("no year flags selects everything", sel() == ALL, sel())
-check("--year takes that year only", sel(year=[2026]) == ["v2026"], sel(year=[2026]))
-check("--year repeated is a set", sel(year=[2024, 2026]) == ["v2024", "v2026"],
+check("--year takes that year only", sel(year=[2026]) == ["v2026aaaaaa"], sel(year=[2026]))
+check("--year repeated is a set", sel(year=[2024, 2026]) == ["v2024aaaaaa", "v2026aaaaaa"],
       sel(year=[2024, 2026]))
-check("--min-year takes that year onwards", sel(min_year=2025) == ["v2025", "v2026"],
+check("--min-year takes that year onwards", sel(min_year=2025) == ["v2025aaaaaa", "v2026aaaaaa"],
       sel(min_year=2025))
-check("unknown year is excluded by default", sel(min_year=2026) == ["v2026"],
+check("unknown year is excluded by default", sel(min_year=2026) == ["v2026aaaaaa"],
       sel(min_year=2026))
 check("--include-unknown-year keeps it",
-      sel(min_year=2026, include_unknown_year=True) == ["v2026", "vnone"],
+      sel(min_year=2026, include_unknown_year=True) == ["v2026aaaaaa", "vnoneaaaaaa"],
       sel(min_year=2026, include_unknown_year=True))
 check("--include-unknown-year alone widens nothing",
       sel(include_unknown_year=True) == ALL, sel(include_unknown_year=True))
 check("year filter does not disturb the priority/duration sort",
       sel(min_year=2024) == ALL[:3], sel(min_year=2024))
+check("an InfoQ-only talk is never selected for a YouTube fetch",
+      not any(i.startswith("iq-") for i in sel()), sel())
 
 ap = argparse.ArgumentParser(prog="t")
 F.atu.add_year_args(ap)
@@ -191,6 +208,24 @@ try:
     F.fetch_one(eg, "v", "exact", "KEY"); check("exact never returns kome", False)
 except Exception:
     check("exact never returns kome", "kome" not in calls, calls)
+
+# 10. our IP blocked, then supadata says "no captions": the verdict wins, and
+# the block rides along so the identity is still benched.
+calls.clear(); patch(yta=fake("yt", BLOCK), supa=fake("supa", MISS))
+try:
+    F.fetch_one(eg, "v", "exact", "KEY"); check("verdict after block raises", False)
+except Exception as e:
+    check("an off-IP verdict beats an earlier block",
+          isinstance(e, LookupError) and F.about_the_video(e), type(e).__name__)
+    check("and carries the block along for benching",
+          F.is_block(getattr(e, "egress_blocked", None)), getattr(e, "egress_blocked", None))
+# ...but a same-IP verdict after a block is still the block: the yt-dlp
+# "no captions" came through an identity that was refused a moment earlier.
+calls.clear(); patch(yta=fake("yt", BLOCK), ytdlp=fake("ytdlp", MISS))
+try:
+    F.fetch_one(eg, "v", "exact", None); check("same-IP verdict after block raises", False)
+except Exception as e:
+    check("a block is not overridden by a same-IP route", F.is_block(e), type(e).__name__)
 
 print("\n-- supadata: response shapes and error classes --")
 class Resp:
@@ -307,15 +342,98 @@ segs, _ = F.fetch_supadata("V", "K")
 check("429 retried then succeeds", segs == [{"start":0.0,"duration":1.0,"text":"x"}], segs)
 check("429 does not retire the route", not F._supadata_off)
 
-print("\n-- supadata: a 429 that outlasts the retries is a block, never a miss --")
+print("\n-- supadata: a 429 that outlasts the retries is transient — never a miss, never a bench --")
+# A BlockedError benches the identity the request went through, and a supadata
+# request goes through supadata's IPs: raised as a block, a busy moment on
+# their side benched this machine's own IP for 45 minutes.
 F._supadata_off.clear()
 serve([("mode=native", http(429))] * 4)
 try:
     F.fetch_supadata("V", "K")
     check("persistent 429 raises", False)
 except Exception as e:
-    check("persistent 429 is a block", F.is_block(e), f"{type(e).__name__}: {e}")
+    check("persistent 429 is RateLimited, a TransientError",
+          isinstance(e, F.RateLimited) and isinstance(e, F.TransientError), type(e).__name__)
+    check("persistent 429 is not an IP block", not F.is_block(e), type(e).__name__)
+    check("persistent 429 is not about the video", not F.about_the_video(e), type(e).__name__)
 check("persistent 429 leaves the route on", not F._supadata_off)
+
+print("\n-- supadata: Retry-After is honoured, and the 429 is printed --")
+slept = []
+F.time.sleep = lambda n: slept.append(n)
+out = io.StringIO()
+with contextlib.redirect_stdout(out):
+    serve([("mode=native", urllib.error.HTTPError("u", 429, "err", {"Retry-After": "7"}, io.BytesIO(b""))),
+           ("mode=native", Resp(200, {"lang":"en","content":[{"text":"x","offset":0,"duration":1000}]}))])
+    F.fetch_supadata("V", "K")
+check("Retry-After's seconds are slept", 7 in slept, slept)
+check("the 429 is visible in the log", "429" in out.getvalue(), out.getvalue())
+check("a Retry-After beyond the cap is capped",
+      F.retry_after_seconds(urllib.error.HTTPError("u", 429, "e", {"Retry-After": "3600"}, None))
+      == F.MAX_RETRY_AFTER)
+check("an HTTP-date Retry-After falls back to the backoff",
+      F.retry_after_seconds(urllib.error.HTTPError("u", 429, "e", {"Retry-After": "Wed, 21 Oct"}, None)) == 0)
+F.time.sleep = lambda n: None
+
+print("\n-- yt-dlp: the network failing is not the video failing --")
+# Every one of these used to be a LookupError — or, for the timeout, a bare
+# SubprocessError — and about_the_video() waved all of them into _misses.json.
+import subprocess as _sp
+
+class FakeProc:
+    def __init__(self, stderr): self.stderr, self.stdout, self.returncode = stderr, "", 1
+
+def ytdlp_with(stderr=None, exc=None):
+    saved = _sp.run
+    def fake_run(cmd, **kw):
+        if exc: raise exc
+        return FakeProc(stderr)
+    _sp.run = fake_run
+    F.ytdlp_binary = lambda: "/bin/true"
+    try:
+        F.fetch_ytdlp("VID")
+        return None
+    except Exception as e:
+        return e
+    finally:
+        _sp.run = saved
+
+e = ytdlp_with(exc=_sp.TimeoutExpired("yt-dlp", 300))
+check("a yt-dlp timeout is transient", isinstance(e, F.TransientError), type(e).__name__)
+e = ytdlp_with("ERROR: Unable to download webpage: <urlopen error [Errno -3] Temporary failure in name resolution>")
+check("a DNS failure is transient", isinstance(e, F.TransientError), f"{type(e).__name__}: {e}")
+e = ytdlp_with("ERROR: Unable to download webpage: Tunnel connection failed: 407 Proxy Authentication Required")
+check("a dead proxy is transient", isinstance(e, F.TransientError), f"{type(e).__name__}: {e}")
+e = ytdlp_with("ERROR: [youtube] VID: Sign in to confirm you're not a bot.")
+check("a bot wall is still a block", F.is_block(e), f"{type(e).__name__}: {e}")
+e = ytdlp_with("ERROR: [youtube] VID: Video unavailable. This video is private")
+check("a private video is still a verdict on the video",
+      isinstance(e, LookupError) and F.about_the_video(e), f"{type(e).__name__}: {e}")
+e = ytdlp_with("")
+check("no caption file at all is still a verdict", isinstance(e, LookupError), type(e).__name__)
+
+print("\n-- kome: an outage is not a verdict on the video --")
+def kome_with(*outs):
+    script = list(outs)
+    def fake(req, timeout=None):
+        out = script.pop(0)
+        if isinstance(out, Exception): raise out
+        return out
+    urllib.request.urlopen = fake
+    try:
+        F.fetch_kome("VID"); return None
+    except Exception as e:
+        return e
+
+e = kome_with(*[urllib.error.URLError("[Errno -3] Temporary failure in name resolution")] * 4)
+check("four failed connections are transient", isinstance(e, F.TransientError), f"{type(e).__name__}: {e}")
+e = kome_with(*[http(503)] * 4)
+check("a run of 5xx is transient", isinstance(e, F.TransientError), f"{type(e).__name__}: {e}")
+e = kome_with(http(404))
+check("a 404 is a verdict on the video", isinstance(e, LookupError) and F.about_the_video(e),
+      f"{type(e).__name__}: {e}")
+e = kome_with(http(500), Resp(200, {"transcript": "hello there", "length": "1m 0s"}))
+check("one 5xx is retried", e is None, e)
 
 print("\n-- supadata: 404 is a per-video miss, route stays on --")
 serve([("mode=native", http(404, b'{"error":"video-not-found"}'))])
@@ -619,6 +737,20 @@ ok4, fail4, blocked4 = F.run_parallel(pool4, todo, m4, ARGS, "KEY")
 check("supadata carries the round past a spent pool", ok4 == len(todo), ok4)
 check("not treated as a blocked round", blocked4 is False)
 check("spent() knows supadata is a way out", not F.spent(pool4, ARGS, "KEY") and F.spent(pool4, ARGS, None))
+
+print("\n-- a verdict that rode along with a block still benches the identity --")
+def fetch_verdict_after_block(eg, vid, source, key):
+    if eg is None:
+        raise F.BlockedError("no egress")
+    e = LookupError("supadata: no timed transcript for this video")
+    e.egress_blocked = F.BlockedError("429 from " + eg.label)
+    raise e
+F.fetch_one = fetch_verdict_after_block
+pool4b = F.Pool(["http://a:1"], cooldown_min=45); m4b = {}
+ARGS.workers = 1
+ok4b, fail4b, blocked4b = F.run_serial(pool4b, [todo[0]], m4b, ARGS, "KEY")
+check("the talk is recorded as the miss supadata said it was", set(m4b) == {todo[0]["id"]}, m4b)
+check("and the identity the block came through is benched", pool4b.all_benched())
 
 print("\n-- an off-IP source leases nothing, so --workers is real --")
 # The pool exists to stop two workers spending one IP's allowance at once. A

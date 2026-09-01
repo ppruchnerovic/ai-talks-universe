@@ -434,6 +434,7 @@ def redirect_outputs(out: pathlib.Path) -> None:
     and compare. Both halves still get built together, which is what keeps the
     dense `n` meaning the same thing in the database and in the browser index.
     """
+    out.mkdir(parents=True, exist_ok=True)
     atu.TALKS_DB = out / "talks.db"
     atu.SEARCH_META = out / "search-meta.json"
     atu.TINDEX = out / "tindex"
