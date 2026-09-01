@@ -4,7 +4,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences �
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**9,325 talks from 53 conferences.** The curated list of which conferences and
+**8,822 talks from 53 conferences.** The curated list of which conferences and
 why is [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror,
 which the pipeline actually reads, is [`conferences.json`](conferences.json).
 
@@ -53,8 +53,21 @@ say "AI". Without that, an *AI* talks corpus would be four fifths
 Kubernetes networking and iOS layout. Each conference also carries a minimum
 duration, which drops the stings, trailers and sponsor spots channels mix in.
 
-Of 17,677 videos enumerated, 9,325 survive. `sync_catalog.py` prints exactly
-what each conference dropped and why.
+There is a year floor as well, registry-wide: **the corpus starts at 2023**.
+Before that this is a different subject — the modern-LLM vocabulary appears in
+3-9% of the 2015-22 talks against 30% of 2023's, and nothing older than 2023 was
+ever worth a transcript credit, so none has one. What that leaves out is applied
+ML and data engineering: AMLD 2022, Data Council before it renamed itself, MLOps
+World 2021, Web Summit pitch heats. **CAMLIS, DEF CON AI Village and BSides Las
+Vegas override it** with `"min_year": null` and keep their whole back catalogue,
+because adversarial ML was the same subject before the vocabulary changed and 36
+of DEF CON AI Village's 37 talks are 2019-21. A talk whose year is not yet known
+passes the floor — enrichment is what resolves a year — and enumeration caches
+every year regardless, so the floor is a re-derivation away from being moved:
+`sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
+
+Of 17,677 videos enumerated, 8,822 survive. `sync_catalog.py` prints exactly
+what each conference dropped and why, the year floor included.
 
 ## Layout
 
@@ -158,12 +171,26 @@ conferences changed. That holds literally, including `talks.json`'s
 `generated_at`, which advances only when the corpus actually changes rather than
 on every run. `build_index.py --help` lists its flags without rebuilding.
 
+A transcript is indexed as content only if it says something. A file below ten
+words a minute, over a talk of five minutes or more, is an ASR failure rather
+than a transcript — four here are YouTube mis-reading English audio as Hindi and
+then giving up, at 2.5 to 3.7 words a minute against a corpus median of 164 —
+and those are left out of both indexes, out of the transcript counts and out of
+the "Find this in the talk" link. The file itself is kept, since deleting it
+would only make the fetcher re-select the talk and buy the same bytes again, and
+the run prints every id it held back with the rate that did it. Separately, a
+transcript in a script the tokeniser cannot read is measured by its word count
+rather than by its token count, so that the handful of Latin brand names inside
+a Devanagari or Japanese transcript do not rank as though they were the whole
+talk.
+
 ### Fetching what has no transcript yet
 
 Nothing is pending. The seven conferences added on 2026-09-01 brought in 422
 talks without transcripts, and all 422 were fetched the same day — 420 returned
-captions, 2 had none. When a refresh brings new talks in, this is the run, and
-it takes about five minutes:
+captions, 2 had none; the one talk the year-fallback fix later moved into 2026
+was fetched the same way, for one credit. When a refresh brings new talks in,
+this is the run, and it takes about five minutes:
 
 ```bash
 cd tools
@@ -292,11 +319,13 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,941 of the 9,325 talks are 2026,
-of which 2,913 have a transcript and 28 have no captions, so none is waiting on
+`--min-year 2026` keeps only those years — 2,942 of the 8,822 talks are 2026,
+of which 2,914 have a transcript and 28 have no captions, so none is waiting on
 a fetch — and a talk whose year is not known yet is left out unless
-`--include-unknown-year` says otherwise. Nothing is removed from the corpus by
-this: it is a selection filter, and `query.py --year` still reads every year.
+`--include-unknown-year` says otherwise. This is a selection filter and removes
+nothing: `query.py --year` reads every year the corpus has. What the corpus
+*has* is a separate decision, made once in the registry — see the year floor
+above.
 
 `--source exact` refuses to fall back to estimates; `--retry-after` parks the
 run when YouTube blocks the IP and resumes where it stopped. A block is **not**
