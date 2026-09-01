@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: B-NKBmwMvAs
+url: https://www.youtube.com/watch?v=B-NKBmwMvAs
 youtube_url: https://www.youtube.com/watch?v=B-NKBmwMvAs
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 29
 published_at: 2026-03-16T13:01:33Z
 video_id: p-R7Doigqzc
+url: https://www.youtube.com/watch?v=p-R7Doigqzc
 youtube_url: https://www.youtube.com/watch?v=p-R7Doigqzc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Jodie Burchell", "Michelle Frost", "AI", "ML", "AI Ethics", "Ethical AI", "Data Science", "Machine Ethics", "LLM", "Large Language Model", "Artificial General Intelligence", "AGI"]
 transcript: true

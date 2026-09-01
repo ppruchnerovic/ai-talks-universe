@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 46
 published_at: 2025-11-17T21:00:47Z
 video_id: gUsOixBy438
+url: https://www.youtube.com/watch?v=gUsOixBy438
 youtube_url: https://www.youtube.com/watch?v=gUsOixBy438
 tags: ["AI podcast", "Anthropic", "ElevenLabs", "AI slop", "AI brainrot", "Cerebral Valley AI Summit", "agentic AI", "voice AI", "AI truth-seeking", "artificial intelligence", "tech interview", "Max Child", "MongoDB", "Mike Krieger", "Mati Stunashevsky", "vertical AI", "celebrity voice cloning", "AI authenticity", "machine learning", "future of AI", "industry trends", "innovation", "italian brainrot"]
 transcript: false

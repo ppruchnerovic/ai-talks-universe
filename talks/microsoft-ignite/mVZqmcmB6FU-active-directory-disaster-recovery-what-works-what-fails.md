@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T15:05:04Z
 video_id: mVZqmcmB6FU
+url: https://www.youtube.com/watch?v=mVZqmcmB6FU
 youtube_url: https://www.youtube.com/watch?v=mVZqmcmB6FU
 tags: ["Active directory disaster recovery: What works what fails | ODSP1472", "Craig Birch", "English (US)", "Modernize SecOps with a unified platform", "ODSP1472", "ODSP1472_v1", "Protect cloud AI platform and apps", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

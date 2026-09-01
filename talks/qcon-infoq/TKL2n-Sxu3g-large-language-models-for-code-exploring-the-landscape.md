@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2024-07-04T04:46:34Z
 video_id: TKL2n-Sxu3g
+url: https://www.youtube.com/watch?v=TKL2n-Sxu3g
 youtube_url: https://www.youtube.com/watch?v=TKL2n-Sxu3g
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LLMs", "Large Language Models", "InfoQ", "QCon London", "Transcript"]
 transcript: false

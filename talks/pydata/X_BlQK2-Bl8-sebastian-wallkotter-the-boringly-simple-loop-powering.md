@@ -12,6 +12,7 @@ channel: null
 duration_min: 39
 published_at: null
 video_id: X_BlQK2-Bl8
+url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 youtube_url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 tags: []
 transcript: false

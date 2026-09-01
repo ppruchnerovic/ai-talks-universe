@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 17
 published_at: 2025-10-30T20:03:05Z
 video_id: XKnubeU14Vg
+url: https://www.youtube.com/watch?v=XKnubeU14Vg
 youtube_url: https://www.youtube.com/watch?v=XKnubeU14Vg
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

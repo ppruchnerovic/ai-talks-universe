@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-27T13:19:34Z
 video_id: euA4x_7WiOI
+url: https://www.youtube.com/watch?v=euA4x_7WiOI
 youtube_url: https://www.youtube.com/watch?v=euA4x_7WiOI
 tags: ["BRK356", "Breakout", "Dan Gartner", "English (US)", "How Gaming companies are using Azure & AI to ship complex games | BRK356", "Jon Kefaloukos", "Other", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

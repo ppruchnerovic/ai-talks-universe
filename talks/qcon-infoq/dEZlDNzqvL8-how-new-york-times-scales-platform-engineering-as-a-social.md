@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 52
 published_at: 2026-01-19T08:14:22Z
 video_id: dEZlDNzqvL8
+url: https://www.youtube.com/watch?v=dEZlDNzqvL8
 youtube_url: https://www.youtube.com/watch?v=dEZlDNzqvL8
 tags: ["DevOps", "InfoQ Dev Summit", "Platform Engineering", "The New York Times", "Case Study", "Sociotehnical Systems", "Leadership", "Culture", "InfoQ", "Transcript", "Artificial Intelligence", "QCon", "Software Architecture", "SRE"]
 transcript: true

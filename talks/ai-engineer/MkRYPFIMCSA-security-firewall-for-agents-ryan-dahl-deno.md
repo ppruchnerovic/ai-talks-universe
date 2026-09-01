@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-08-17T18:30:06Z
 video_id: MkRYPFIMCSA
+url: https://www.youtube.com/watch?v=MkRYPFIMCSA
 youtube_url: https://www.youtube.com/watch?v=MkRYPFIMCSA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

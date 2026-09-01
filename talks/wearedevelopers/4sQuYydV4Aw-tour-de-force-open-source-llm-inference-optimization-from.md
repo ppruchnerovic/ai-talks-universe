@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T12:10:00+00:00
 video_id: 4sQuYydV4Aw
+url: https://www.youtube.com/watch?v=4sQuYydV4Aw
 youtube_url: https://www.youtube.com/watch?v=4sQuYydV4Aw
 tags: ["AI Engineering", "Azure", "Generative AI (GenAI)", "Infrastructure", "LLMOps", "Python", "Software Architecture"]
 transcript: true

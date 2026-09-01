@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T09:30:00+00:00
 video_id: M74vomMsLRQ
+url: https://www.youtube.com/watch?v=M74vomMsLRQ
 youtube_url: https://www.youtube.com/watch?v=M74vomMsLRQ
 tags: ["Developer Experience", "AI Coding Assistants", "APIs", "Agents", "Automation", "Developer Experience (DevEx)", "Generative AI (GenAI)", "Governance", "Microservices", "Test-Driven Development (TDD)"]
 transcript: true

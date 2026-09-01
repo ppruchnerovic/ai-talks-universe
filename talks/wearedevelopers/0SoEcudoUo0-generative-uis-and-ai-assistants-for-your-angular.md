@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T11:30:00+00:00
 video_id: 0SoEcudoUo0
+url: https://www.youtube.com/watch?v=0SoEcudoUo0
 youtube_url: https://www.youtube.com/watch?v=0SoEcudoUo0
 tags: ["Frontend, Web & Mobile", "Angular"]
 transcript: true

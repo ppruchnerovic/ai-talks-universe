@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-04T13:20:33Z
 video_id: NjC_P9Sy3gU
+url: https://www.youtube.com/watch?v=NjC_P9Sy3gU
 youtube_url: https://www.youtube.com/watch?v=NjC_P9Sy3gU
 tags: ["Community", "DEM368", "Data Science & Machine Learning with Microsoft Fabric | DEM368", "MVP", "Prashant G Bhoyar", "Working with Models", "build", "build 2026", "c9ea1330-003f-4964-8ae8-28490b0d3eb2_M9Z7-DEM368-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

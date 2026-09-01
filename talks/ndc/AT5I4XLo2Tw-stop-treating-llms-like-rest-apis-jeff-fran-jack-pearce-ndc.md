@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 42
 published_at: 2026-03-09T10:49:29Z
 video_id: AT5I4XLo2Tw
+url: https://www.youtube.com/watch?v=AT5I4XLo2Tw
 youtube_url: https://www.youtube.com/watch?v=AT5I4XLo2Tw
 tags: ["AI", "Architecture", "Cloud", "LLM", "GPU", "API", "NVIDIA", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "Great Britain", "UK", "United Kingdom", "Jeff Fran", "Jack Pearce"]
 transcript: true

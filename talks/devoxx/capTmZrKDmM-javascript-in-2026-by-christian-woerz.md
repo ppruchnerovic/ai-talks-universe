@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 43
 published_at: 2026-04-01T08:08:14Z
 video_id: capTmZrKDmM
+url: https://www.youtube.com/watch?v=capTmZrKDmM
 youtube_url: https://www.youtube.com/watch?v=capTmZrKDmM
 tags: []
 transcript: true

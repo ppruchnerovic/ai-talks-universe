@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 51
 published_at: null
 video_id: sx-DLGXv49g
+url: https://www.youtube.com/watch?v=sx-DLGXv49g
 youtube_url: https://www.youtube.com/watch?v=sx-DLGXv49g
 tags: []
 transcript: false

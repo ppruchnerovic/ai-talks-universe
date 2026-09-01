@@ -12,6 +12,7 @@ channel: "Anthropic"
 duration_min: 27
 published_at: null
 video_id: 8gTpgWru0Wg
+url: https://www.youtube.com/watch?v=8gTpgWru0Wg
 youtube_url: https://www.youtube.com/watch?v=8gTpgWru0Wg
 tags: []
 transcript: false

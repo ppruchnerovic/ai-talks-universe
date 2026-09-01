@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T14:30:33Z
 video_id: GWbqmv2e3bU
+url: https://www.youtube.com/watch?v=GWbqmv2e3bU
 youtube_url: https://www.youtube.com/watch?v=GWbqmv2e3bU
 tags: ["English (US)", "Enterprise storage for Azure VMware solution: Simplify scale and save | ODSP1490", "Husam Hilal", "Innovate with Azure AI apps and agents", "Kyle Grossmiller", "ODSP1490", "ODSP1490_v1", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

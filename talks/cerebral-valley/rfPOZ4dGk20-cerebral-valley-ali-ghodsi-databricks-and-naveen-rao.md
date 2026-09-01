@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 21
 published_at: 2023-11-20T19:30:05Z
 video_id: rfPOZ4dGk20
+url: https://www.youtube.com/watch?v=rfPOZ4dGk20
 youtube_url: https://www.youtube.com/watch?v=rfPOZ4dGk20
 tags: []
 transcript: false

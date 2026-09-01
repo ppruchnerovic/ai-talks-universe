@@ -12,6 +12,7 @@ channel: "Visual Studio Code"
 duration_min: 47
 published_at: 2026-06-04T16:08:49Z
 video_id: n-ifKF4tn-4
+url: https://www.youtube.com/watch?v=n-ifKF4tn-4
 youtube_url: https://www.youtube.com/watch?v=n-ifKF4tn-4
 tags: ["BRK201", "BRK201_v1", "Burke Holland", "Christian Reddington", "DevTools", "Developer", "GitHub", "GitHub Copilot", "GitHub Copilot CLI", "Harald Kirschner", "Julia Kasper", "Kent Dodds", "Multi-agent patterns in VS Code you won't learn from docs | BRK201", "Pierce Boggan", "VS Code", "Visual Studio Code", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

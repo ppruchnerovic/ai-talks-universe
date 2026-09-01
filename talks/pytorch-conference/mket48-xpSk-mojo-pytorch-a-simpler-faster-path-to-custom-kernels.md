@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: mket48-xpSk
+url: https://www.youtube.com/watch?v=mket48-xpSk
 youtube_url: https://www.youtube.com/watch?v=mket48-xpSk
 tags: []
 transcript: false

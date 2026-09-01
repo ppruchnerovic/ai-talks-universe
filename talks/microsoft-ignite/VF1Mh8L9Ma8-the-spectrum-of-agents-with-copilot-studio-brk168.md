@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-26T07:32:00Z
 video_id: VF1Mh8L9Ma8
+url: https://www.youtube.com/watch?v=VF1Mh8L9Ma8
 youtube_url: https://www.youtube.com/watch?v=VF1Mh8L9Ma8
 tags: ["BRK168", "Breakout", "Business Applications", "Business Applications-Curated", "English (US)", "Jack Rowbotham", "Jonathan Beck", "Technical", "The spectrum of agents with Copilot Studio | BRK168", "Thomas Abel", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

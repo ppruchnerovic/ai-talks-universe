@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T14:36:39Z
 video_id: krjZfLqP4ZI
+url: https://www.youtube.com/watch?v=krjZfLqP4ZI
 youtube_url: https://www.youtube.com/watch?v=krjZfLqP4ZI
 tags: ["5fb75754-620d-4b79-aa2d-ffb53c549286_Segment", "Aniket Deshpande", "English (US)", "Gaurica Chacko", "Innovate with Azure AI apps and agents", "Jonathan Hobgood", "Microsoft AI Cloud Partner Program", "PBRK1770", "Partner Business", "Prasad Satyavolu", "Reinventing Manufacturing with Digital Twin | PBRK1770", "Technical", "Todd Mersch", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

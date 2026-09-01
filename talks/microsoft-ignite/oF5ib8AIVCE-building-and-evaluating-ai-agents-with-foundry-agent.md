@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 9
 published_at: 2025-11-19T08:14:43Z
 video_id: oF5ib8AIVCE
+url: https://www.youtube.com/watch?v=oF5ib8AIVCE
 youtube_url: https://www.youtube.com/watch?v=oF5ib8AIVCE
 tags: ["Building and evaluating AI agents with Foundry Agent Service | ODSP1411", "English (US)", "Innovate with Azure AI apps and agents", "Katherin Madche", "ODSP1411", "ODSP1411_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

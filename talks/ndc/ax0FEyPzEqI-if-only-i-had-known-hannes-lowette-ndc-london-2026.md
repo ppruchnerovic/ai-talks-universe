@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 48
 published_at: 2026-03-03T11:54:29Z
 video_id: ax0FEyPzEqI
+url: https://www.youtube.com/watch?v=ax0FEyPzEqI
 youtube_url: https://www.youtube.com/watch?v=ax0FEyPzEqI
 tags: ["Work skills", "Ethics", "People", "Soft Skills", "NDC", "Conferences", "2026", "Live", "Fun", "London", "AI", "Hannes Lowette"]
 transcript: true

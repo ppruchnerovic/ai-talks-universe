@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-27T09:13:22Z
 video_id: fiiPXwFy6Mo
+url: https://www.youtube.com/watch?v=fiiPXwFy6Mo
 youtube_url: https://www.youtube.com/watch?v=fiiPXwFy6Mo
 tags: ["AI", "Azure Arc", "Azure Monitor", "BRK221", "Breakout", "Cloud Management", "Copilot", "English (US)", "Future of Cloud - New generation of compute & apps with AI and quantum | BRK221", "Gorka Madariaga", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "John Link", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

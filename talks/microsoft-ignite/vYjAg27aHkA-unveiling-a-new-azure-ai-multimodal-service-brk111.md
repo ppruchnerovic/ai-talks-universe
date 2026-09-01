@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-25T12:12:58Z
 video_id: vYjAg27aHkA
+url: https://www.youtube.com/watch?v=vYjAg27aHkA
 youtube_url: https://www.youtube.com/watch?v=vYjAg27aHkA
 tags: ["AI", "Advanced (300)", "BRK111", "Breakout", "Call centers", "English (US)", "Evan Kahan", "Marco Casalaina", "Selena Cameron", "Software Company", "Speech", "Technical", "Translation", "Unveiling a new Azure AI multimodal service | BRK111", "Version v1", "Vinod Kurpad", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "multimodal", "postcallanalytics"]
 transcript: false

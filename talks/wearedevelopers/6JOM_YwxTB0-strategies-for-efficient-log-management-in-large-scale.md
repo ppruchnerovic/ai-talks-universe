@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T13:30:00+00:00
 video_id: 6JOM_YwxTB0
+url: https://www.youtube.com/watch?v=6JOM_YwxTB0
 youtube_url: https://www.youtube.com/watch?v=6JOM_YwxTB0
 tags: ["DevOps", "Data", "DevOps", "Observability", "Site Reliability Engineering (SRE)"]
 transcript: true

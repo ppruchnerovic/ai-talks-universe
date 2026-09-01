@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T13:30:00+00:00
 video_id: 4okkSoARikg
+url: https://www.youtube.com/watch?v=4okkSoARikg
 youtube_url: https://www.youtube.com/watch?v=4okkSoARikg
 tags: ["AI Agents", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "AI Standards", "Cross-Platform", "Developer Experience (DevEx)", "FinTech"]
 transcript: true

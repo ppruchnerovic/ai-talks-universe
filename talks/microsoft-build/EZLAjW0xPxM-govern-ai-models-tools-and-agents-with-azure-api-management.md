@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 39
 published_at: 2026-06-03T12:41:57Z
 video_id: EZLAjW0xPxM
+url: https://www.youtube.com/watch?v=EZLAjW0xPxM
 youtube_url: https://www.youtube.com/watch?v=EZLAjW0xPxM
 tags: ["API", "Agents & Apps", "Anish Tallapureddy", "Azure", "Govern AI models tools and agents with Azure API Management | OD831", "Governance", "Guardrails", "Mike Budzynski", "OD831", "OD831_v1", "Production Systems", "Security", "Tracing", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

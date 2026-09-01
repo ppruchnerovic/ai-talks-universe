@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 27
 published_at: 2025-11-20T14:38:07Z
 video_id: KZn3daSglfA
+url: https://www.youtube.com/watch?v=KZn3daSglfA
 youtube_url: https://www.youtube.com/watch?v=KZn3daSglfA
 tags: ["Alina Fu", "BRK279", "Copilot and agents at work", "English (US)", "Prompting Power: Enhancing Productivity with Microsoft 365 Copilot | BRK279", "Technical", "Tiffany Ellis", "e5982eb4-1fe0-4213-b897-6c41532b0eec_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

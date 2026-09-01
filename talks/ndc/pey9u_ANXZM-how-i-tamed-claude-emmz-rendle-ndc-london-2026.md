@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 66
 published_at: 2026-02-09T14:07:49Z
 video_id: pey9u_ANXZM
+url: https://www.youtube.com/watch?v=pey9u_ANXZM
 youtube_url: https://www.youtube.com/watch?v=pey9u_ANXZM
 tags: ["LLM", "Machin Learning", "ML", "AI", "Architecture", "Cross-Platform", "Claude", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Emmz Rendle"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "OpenAI"
 duration_min: 5
 published_at: null
 video_id: aFedOROUXMQ
+url: https://www.youtube.com/watch?v=aFedOROUXMQ
 youtube_url: https://www.youtube.com/watch?v=aFedOROUXMQ
 tags: []
 transcript: false

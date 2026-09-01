@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 39
 published_at: null
 video_id: zZk7g0Zc_fU
+url: https://www.youtube.com/watch?v=zZk7g0Zc_fU
 youtube_url: https://www.youtube.com/watch?v=zZk7g0Zc_fU
 tags: []
 transcript: false

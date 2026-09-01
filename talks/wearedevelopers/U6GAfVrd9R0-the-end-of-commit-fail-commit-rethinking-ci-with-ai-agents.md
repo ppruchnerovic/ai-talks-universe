@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T12:20:00+00:00
 video_id: U6GAfVrd9R0
+url: https://www.youtube.com/watch?v=U6GAfVrd9R0
 youtube_url: https://www.youtube.com/watch?v=U6GAfVrd9R0
 tags: ["DevOps", "Automation", "CI/CD", "DevOps", "GitHub Actions", "Site Reliability Engineering (SRE)"]
 transcript: true

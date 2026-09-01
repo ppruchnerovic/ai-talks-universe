@@ -12,6 +12,7 @@ channel: null
 duration_min: 50
 published_at: null
 video_id: bFTPSq3l-lE
+url: https://www.youtube.com/watch?v=bFTPSq3l-lE
 youtube_url: https://www.youtube.com/watch?v=bFTPSq3l-lE
 tags: []
 transcript: false

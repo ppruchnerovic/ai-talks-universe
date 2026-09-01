@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T14:20:00+00:00
 video_id: NBgqwL-1qnU
+url: https://www.youtube.com/watch?v=NBgqwL-1qnU
 youtube_url: https://www.youtube.com/watch?v=NBgqwL-1qnU
 tags: ["Developer Experience", "AI Coding Assistants", "Docker"]
 transcript: true

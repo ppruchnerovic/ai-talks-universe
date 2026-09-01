@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-25T15:56:22Z
 video_id: doiLwoNGZ6M
+url: https://www.youtube.com/watch?v=doiLwoNGZ6M
 youtube_url: https://www.youtube.com/watch?v=doiLwoNGZ6M
 tags: ["Agentic business applications", "Agentic business applications:Dynamics 365", "Alpana Bajaj", "April Delsing", "English (US)", "Microsoft AI Cloud Partner Program", "PBRK360", "Partner Business", "Technical", "Transform contact center into a growth engine with agentic CX | PBRK360", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

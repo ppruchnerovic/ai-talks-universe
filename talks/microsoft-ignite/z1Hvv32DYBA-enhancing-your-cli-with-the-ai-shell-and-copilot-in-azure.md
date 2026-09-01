@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T13:24:51Z
 video_id: z1Hvv32DYBA
+url: https://www.youtube.com/watch?v=z1Hvv32DYBA
 youtube_url: https://www.youtube.com/watch?v=z1Hvv32DYBA
 tags: ["Advanced (300)", "BRK396", "Breakout", "Damien Caro", "English (US)", "Enhancing your CLI with the AI Shell and Copilot in Azure | BRK396", "Infrastructure", "Steven Bucher", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

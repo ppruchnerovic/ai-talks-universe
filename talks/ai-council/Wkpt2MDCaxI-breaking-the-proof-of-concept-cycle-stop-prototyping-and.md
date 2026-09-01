@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2026-06-16T18:45:26Z
 video_id: Wkpt2MDCaxI
+url: https://www.youtube.com/watch?v=Wkpt2MDCaxI
 youtube_url: https://www.youtube.com/watch?v=Wkpt2MDCaxI
 tags: ["AI"]
 transcript: true

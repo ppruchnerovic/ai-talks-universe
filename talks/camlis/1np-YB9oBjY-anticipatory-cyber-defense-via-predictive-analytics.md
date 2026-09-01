@@ -12,6 +12,7 @@ channel: "CAMLIS"
 duration_min: 30
 published_at: 2018-11-12T23:38:10Z
 video_id: 1np-YB9oBjY
+url: https://www.youtube.com/watch?v=1np-YB9oBjY
 youtube_url: https://www.youtube.com/watch?v=1np-YB9oBjY
 tags: ["camlis", "camlis2018", "bonware"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-03-04T16:44:30Z
 video_id: zlGkhvhE-KQ
+url: https://www.youtube.com/watch?v=zlGkhvhE-KQ
 youtube_url: https://www.youtube.com/watch?v=zlGkhvhE-KQ
 tags: ["OpAMP", "DevOps", "Architecture", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "UK", "Great Britain"]
 transcript: true

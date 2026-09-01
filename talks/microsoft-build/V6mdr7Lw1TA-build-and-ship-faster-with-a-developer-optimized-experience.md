@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 42
 published_at: 2026-06-03T08:30:56Z
 video_id: V6mdr7Lw1TA
+url: https://www.youtube.com/watch?v=V6mdr7Lw1TA
 youtube_url: https://www.youtube.com/watch?v=V6mdr7Lw1TA
 tags: ["C#", "C++", "Python"]
 transcript: true

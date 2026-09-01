@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 48
 published_at: 2023-05-11T19:00:50Z
 video_id: jvRXPkym1WE
+url: https://www.youtube.com/watch?v=jvRXPkym1WE
 youtube_url: https://www.youtube.com/watch?v=jvRXPkym1WE
 tags: ["MLOps", "cybersecurity", "model testing", "data quality"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-05-21T15:00:01Z
 video_id: v7t7xTveiWQ
+url: https://www.youtube.com/watch?v=v7t7xTveiWQ
 youtube_url: https://www.youtube.com/watch?v=v7t7xTveiWQ
 tags: ["AI", "Ethics", "Fun", "NDC", "Conferences", "2026", "Live", "Sydney", "Australia", "Will Velida"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-21T12:51:47Z
 video_id: QF3AmEpEabc
+url: https://www.youtube.com/watch?v=QF3AmEpEabc
 youtube_url: https://www.youtube.com/watch?v=QF3AmEpEabc
 tags: ["Brian Vecci", "English (US)", "Protect cloud AI platform and apps", "STUDIOSP62", "STUDIOSP62_v3", "Secure the modern enterprise with Varonis and Microsoft in action | STUDIOSP62", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

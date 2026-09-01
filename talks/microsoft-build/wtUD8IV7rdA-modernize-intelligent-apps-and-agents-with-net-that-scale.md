@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 49
 published_at: 2026-06-03T14:23:27Z
 video_id: wtUD8IV7rdA
+url: https://www.youtube.com/watch?v=wtUD8IV7rdA
 youtube_url: https://www.youtube.com/watch?v=wtUD8IV7rdA
 tags: ["Andrew Westgarth", "Gaurav Seth", "Modernize intelligent apps and agents with .NET that scale as you grow | OD801", "OD801", "OD801_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

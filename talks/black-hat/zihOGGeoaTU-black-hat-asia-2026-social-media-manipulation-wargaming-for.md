@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 31
 published_at: 2026-08-27T20:00:37Z
 video_id: zihOGGeoaTU
+url: https://www.youtube.com/watch?v=zihOGGeoaTU
 youtube_url: https://www.youtube.com/watch?v=zihOGGeoaTU
 tags: []
 transcript: true

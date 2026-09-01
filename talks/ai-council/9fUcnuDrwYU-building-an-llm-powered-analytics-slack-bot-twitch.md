@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 33
 published_at: 2025-05-29T07:38:42Z
 video_id: 9fUcnuDrwYU
+url: https://www.youtube.com/watch?v=9fUcnuDrwYU
 youtube_url: https://www.youtube.com/watch?v=9fUcnuDrwYU
 tags: ["Twitch", "Slack bot tutorial", "AI automation", "ChatGPT", "artificial intelligence", "machine learning", "analytics bot", "Python tutorial", "AWS services", "SQL query generation", "chat summarization", "account lookups", "data operations", "streaming analytics", "real time data", "chatbot development", "conversational AI", "natural language processing", "automated reporting", "business intelligence", "workflow automation", "integration platforms"]
 transcript: false

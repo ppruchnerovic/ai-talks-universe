@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T07:38:00Z
 video_id: oSKV_c2ddWA
+url: https://www.youtube.com/watch?v=oSKV_c2ddWA
 youtube_url: https://www.youtube.com/watch?v=oSKV_c2ddWA
 tags: ["AGI", "artificial general intelligence", "ChatGPT", "artificial intelligence", "machine learning", "AI future", "compound AI systems", "AI agents", "multi LLM orchestration", "AI support engineer", "human performance", "Python tutorial", "AI alignment", "AI safety", "superintelligence", "cognitive architecture", "reasoning systems", "planning systems", "learning systems", "adaptation", "generalization", "transfer learning", "meta learning", "continual learning"]
 transcript: false

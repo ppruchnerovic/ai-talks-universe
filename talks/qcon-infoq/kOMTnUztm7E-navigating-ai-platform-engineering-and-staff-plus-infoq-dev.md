@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 43
 published_at: 2024-04-17T15:59:19Z
 video_id: kOMTnUztm7E
+url: https://www.youtube.com/watch?v=kOMTnUztm7E
 youtube_url: https://www.youtube.com/watch?v=kOMTnUztm7E
 tags: ["Software Architecture", "Software Development", "Software Engineering", "InfoQ", "InfoQ DevSummit", "InfoQ DevSummit Boston"]
 transcript: false

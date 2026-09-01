@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 28
 published_at: null
 video_id: SewGbEAx548
+url: https://www.youtube.com/watch?v=SewGbEAx548
 youtube_url: https://www.youtube.com/watch?v=SewGbEAx548
 tags: []
 transcript: false

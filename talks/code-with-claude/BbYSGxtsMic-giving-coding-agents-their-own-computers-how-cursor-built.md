@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 15
 published_at: 2026-05-08T18:49:58Z
 video_id: BbYSGxtsMic
+url: https://www.youtube.com/watch?v=BbYSGxtsMic
 youtube_url: https://www.youtube.com/watch?v=BbYSGxtsMic
 tags: []
 transcript: true

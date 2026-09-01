@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 42
 published_at: 2025-02-21T18:16:56Z
 video_id: LIYZemVCgiM
+url: https://www.youtube.com/watch?v=LIYZemVCgiM
 youtube_url: https://www.youtube.com/watch?v=LIYZemVCgiM
 tags: []
 transcript: false

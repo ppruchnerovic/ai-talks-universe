@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 19
 published_at: 2024-11-20T13:42:02Z
 video_id: cahe6Wyu0Ss
+url: https://www.youtube.com/watch?v=cahe6Wyu0Ss
 youtube_url: https://www.youtube.com/watch?v=cahe6Wyu0Ss
 tags: ["AI", "Data Security", "English (US)", "Intermediate (200)", "Kunal Anand", "ODFP942", "Pre-recorded", "Securing and delivering AI workloads in Azure with F5 | ODFP942", "Security", "Technical", "Threat intelligence", "Version v1", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

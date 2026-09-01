@@ -12,6 +12,7 @@ channel: "DEFCONConference"
 duration_min: 46
 published_at: null
 video_id: TYVLH1tLIDY
+url: https://www.youtube.com/watch?v=TYVLH1tLIDY
 youtube_url: https://www.youtube.com/watch?v=TYVLH1tLIDY
 tags: []
 transcript: false

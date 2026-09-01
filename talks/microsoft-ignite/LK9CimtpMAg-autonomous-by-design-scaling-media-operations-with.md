@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T12:01:49Z
 video_id: LK9CimtpMAg
+url: https://www.youtube.com/watch?v=LK9CimtpMAg
 youtube_url: https://www.youtube.com/watch?v=LK9CimtpMAg
 tags: ["Autonomous by Design: Scaling Media Operations with Microsoft AI | BRK379", "BRK379", "BRK379_v1", "Copilot and agents at work", "English (US)", "Erik Ramberg", "Media and Entertainment", "Ronnie Yates", "Simon Crownshaw", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

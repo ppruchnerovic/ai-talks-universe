@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-26T07:35:15Z
 video_id: 3cNVpk8Q8gU
+url: https://www.youtube.com/watch?v=3cNVpk8Q8gU
 youtube_url: https://www.youtube.com/watch?v=3cNVpk8Q8gU
 tags: ["Advanced (300)", "Austin Laugesen", "BRK174", "Breakout", "Business Applications", "Deep Dive: Create monitor and optimize enterprise apps with Power Apps | BRK174", "English (US)", "Marc Schweigert", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

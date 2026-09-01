@@ -12,6 +12,7 @@ channel: "Anthropic"
 duration_min: 23
 published_at: null
 video_id: Ac4LiuoJT20
+url: https://www.youtube.com/watch?v=Ac4LiuoJT20
 youtube_url: https://www.youtube.com/watch?v=Ac4LiuoJT20
 tags: []
 transcript: false

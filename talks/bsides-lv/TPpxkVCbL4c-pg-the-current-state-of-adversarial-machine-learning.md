@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 22
 published_at: 2018-09-20T18:27:38Z
 video_id: TPpxkVCbL4c
+url: https://www.youtube.com/watch?v=TPpxkVCbL4c
 youtube_url: https://www.youtube.com/watch?v=TPpxkVCbL4c
 tags: ["bslv", "bslv2018", "bsideslv", "bsideslv2018", "pg", "proving ground"]
 transcript: false

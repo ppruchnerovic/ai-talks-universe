@@ -12,6 +12,7 @@ channel: "Chrome for Developers"
 duration_min: 39
 published_at: 2026-05-22T23:03:58Z
 video_id: HdCc-KezQPk
+url: https://www.youtube.com/watch?v=HdCc-KezQPk
 youtube_url: https://www.youtube.com/watch?v=HdCc-KezQPk
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
 transcript: true

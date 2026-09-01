@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-10T14:20:00+00:00
 video_id: 5WuxrjBcUhA
+url: https://www.youtube.com/watch?v=5WuxrjBcUhA
 youtube_url: https://www.youtube.com/watch?v=5WuxrjBcUhA
 tags: ["Cloud & AI Infrastructure", "AI Models", "ArgoCD", "Best Practices", "Docker", "GitOps", "Helm", "InfluxDB", "Infrastructure", "Infrastructure as Code (IaC)", "Multi-Cloud"]
 transcript: true

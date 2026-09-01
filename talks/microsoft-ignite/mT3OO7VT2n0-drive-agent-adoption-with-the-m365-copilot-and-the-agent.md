@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-25T15:50:32Z
 video_id: mT3OO7VT2n0
+url: https://www.youtube.com/watch?v=mT3OO7VT2n0
 youtube_url: https://www.youtube.com/watch?v=mT3OO7VT2n0
 tags: ["BRK311", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Microsoft 365 Copilot", "Drive agent adoption with the M365 Copilot and the Agent Store | BRK311", "English (US)", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Siffat Hingorani", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

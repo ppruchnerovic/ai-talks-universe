@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 16
 published_at: 2025-08-05T11:33:13Z
 video_id: wSoxaXeuZ1Y
+url: https://www.youtube.com/watch?v=wSoxaXeuZ1Y
 youtube_url: https://www.youtube.com/watch?v=wSoxaXeuZ1Y
 tags: ["Agile", "People", "AI", "Machine Learning", "Security", "Fun", "GenAI", "IoT", "NDC", "Conferences", "2025", "Live", "Oslo", "Norway", "Lightning Talks", "Mackenzie Jackson"]
 transcript: false

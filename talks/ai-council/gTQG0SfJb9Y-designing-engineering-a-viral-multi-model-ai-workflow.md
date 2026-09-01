@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 37
 published_at: 2025-05-29T07:36:17Z
 video_id: gTQG0SfJb9Y
+url: https://www.youtube.com/watch?v=gTQG0SfJb9Y
 youtube_url: https://www.youtube.com/watch?v=gTQG0SfJb9Y
 tags: ["LinkedIn", "viral AI", "multi model AI", "ChatGPT", "artificial intelligence", "machine learning", "AI engineering", "OpenAI", "Anthropic", "Google AI", "25 step workflow", "300000 users", "trillion tokens", "cost optimization", "Python tutorial", "social media analytics", "professional networking", "content recommendation", "personalization", "feed algorithms", "engagement optimization", "viral content analysis", "network effects", "user behavior analysis"]
 transcript: false

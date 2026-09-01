@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 33
 published_at: 2023-05-11T18:58:49Z
 video_id: 3jJ1GhGkLY0
+url: https://www.youtube.com/watch?v=3jJ1GhGkLY0
 youtube_url: https://www.youtube.com/watch?v=3jJ1GhGkLY0
 tags: ["data infrastructure", "data engineering", "cloud systems", "rust", "docker", "kubernetes"]
 transcript: false

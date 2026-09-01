@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 11
 published_at: 2023-05-11T21:24:26Z
 video_id: 6mWMJnfKoCw
+url: https://www.youtube.com/watch?v=6mWMJnfKoCw
 youtube_url: https://www.youtube.com/watch?v=6mWMJnfKoCw
 tags: ["DevOps", "data teams", "data observability", "analytics"]
 transcript: false

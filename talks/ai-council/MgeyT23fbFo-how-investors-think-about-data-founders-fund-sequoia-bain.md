@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 33
 published_at: 2023-05-11T18:59:51Z
 video_id: MgeyT23fbFo
+url: https://www.youtube.com/watch?v=MgeyT23fbFo
 youtube_url: https://www.youtube.com/watch?v=MgeyT23fbFo
 tags: ["venture capital", "startups", "Sequoia", "founders fund", "Bain Capital Ventures", "data platforms", "AI"]
 transcript: false

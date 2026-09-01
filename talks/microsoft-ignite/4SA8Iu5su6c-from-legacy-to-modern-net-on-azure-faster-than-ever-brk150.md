@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T10:37:23Z
 video_id: 4SA8Iu5su6c
+url: https://www.youtube.com/watch?v=4SA8Iu5su6c
 youtube_url: https://www.youtube.com/watch?v=4SA8Iu5su6c
 tags: ["BRK150", "BRK150_v2", "English (US)", "From legacy to modern .NET on Azure faster than ever | BRK150", "Gaurav Seth", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Jon Galloway", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure App Service", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

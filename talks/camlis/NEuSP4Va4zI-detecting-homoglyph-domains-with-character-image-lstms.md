@@ -12,6 +12,7 @@ channel: null
 duration_min: 17
 published_at: null
 video_id: NEuSP4Va4zI
+url: https://www.youtube.com/watch?v=NEuSP4Va4zI
 youtube_url: https://www.youtube.com/watch?v=NEuSP4Va4zI
 tags: []
 transcript: false

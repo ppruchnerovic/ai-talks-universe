@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2026-03-09T07:07:26Z
 video_id: kYFMp2giTpg
+url: https://www.youtube.com/watch?v=kYFMp2giTpg
 youtube_url: https://www.youtube.com/watch?v=kYFMp2giTpg
 tags: ["Software Architecture", "Architecture as Code", "API", "Common Architecture Language Model", "CALM", "QCon London", "InfoQ", "Transcript", "Platforms", "Security", "API Management", "Platform Engineering", "Java", "Kubernetes"]
 transcript: true

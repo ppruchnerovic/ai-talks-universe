@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 26
 published_at: 2024-04-22T22:40:01Z
 video_id: r3DC_gjFCSA
+url: https://www.youtube.com/watch?v=r3DC_gjFCSA
 youtube_url: https://www.youtube.com/watch?v=r3DC_gjFCSA
 tags: []
 transcript: false

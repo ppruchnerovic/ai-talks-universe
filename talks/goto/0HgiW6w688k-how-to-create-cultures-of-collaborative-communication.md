@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 31
 published_at: 2026-08-10T09:15:33Z
 video_id: 0HgiW6w688k
+url: https://www.youtube.com/watch?v=0HgiW6w688k
 youtube_url: https://www.youtube.com/watch?v=0HgiW6w688k
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Jessie Shternshus", "Collaborative Communication", "Curiosity", "Collaboration", "Communication", "Cultures", "Company Culture", "Improv Effect"]
 transcript: false

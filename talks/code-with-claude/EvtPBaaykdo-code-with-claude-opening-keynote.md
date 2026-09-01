@@ -12,6 +12,7 @@ channel: "Anthropic"
 duration_min: 100
 published_at: null
 video_id: EvtPBaaykdo
+url: https://www.youtube.com/watch?v=EvtPBaaykdo
 youtube_url: https://www.youtube.com/watch?v=EvtPBaaykdo
 tags: []
 transcript: true

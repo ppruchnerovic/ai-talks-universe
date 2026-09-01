@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 26
 published_at: 2023-05-11T18:59:24Z
 video_id: Xhg070uGXuE
+url: https://www.youtube.com/watch?v=Xhg070uGXuE
 youtube_url: https://www.youtube.com/watch?v=Xhg070uGXuE
 tags: ["natural language interface", "search", "generative AI"]
 transcript: false

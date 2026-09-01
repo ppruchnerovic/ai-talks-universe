@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 13
 published_at: 2026-06-18T22:16:13Z
 video_id: H_1bo-vM1vc
+url: https://www.youtube.com/watch?v=H_1bo-vM1vc
 youtube_url: https://www.youtube.com/watch?v=H_1bo-vM1vc
 tags: ["AI"]
 transcript: true

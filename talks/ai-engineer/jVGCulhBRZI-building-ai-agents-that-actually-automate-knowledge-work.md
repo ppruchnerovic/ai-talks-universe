@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-06-24T00:00:00Z
 video_id: jVGCulhBRZI
+url: https://www.youtube.com/watch?v=jVGCulhBRZI
 youtube_url: https://www.youtube.com/watch?v=jVGCulhBRZI
 tags: []
 transcript: false

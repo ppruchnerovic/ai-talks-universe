@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 30
 published_at: 2026-07-27T08:58:47Z
 video_id: ooaSTz6zL4w
+url: https://www.youtube.com/watch?v=ooaSTz6zL4w
 youtube_url: https://www.youtube.com/watch?v=ooaSTz6zL4w
 tags: ["AI", "Machine Learning", "ML", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Clarissa Rodrigues"]
 transcript: true

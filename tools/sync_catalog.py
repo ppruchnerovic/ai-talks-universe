@@ -162,6 +162,77 @@ def enumerate_seed(src: dict, conf: dict) -> list[dict]:
     return out
 
 
+INFOQ_CACHE = atu.DATA / "infoq"
+
+# The keys infoq.py resolves that a YouTube listing has no way to know: the
+# edition a talk was given at (not the month InfoQ got round to posting it),
+# the speakers as InfoQ names them, and the abstract as its programme wrote it.
+INFOQ_FIELDS = ("description", "speakers", "published_at", "page_url", "video_url")
+
+
+def enumerate_infoq(src: dict) -> list[dict]:
+    """Read what infoq.py cached — the presentations YouTube never listed.
+
+    A source of type "infoq" is not a listing this script can page: the pages
+    are on infoq.com, they carry transcripts, and fetching them is metered by a
+    crawl delay, so infoq.py owns that stage the way enrich.py and
+    fetch_transcripts.py own theirs. This is the offline half, folded in on
+    every run like a seed.
+
+    Talks infoq.py matched to a video already in the catalogue are *not* here.
+    Those keep their YouTube id and were written straight onto their existing
+    record, so a merged talk stays one talk with one watchable video — emitting
+    them again is exactly the duplicate this route exists to avoid.
+    """
+    out = []
+    for path in sorted(INFOQ_CACHE.glob("*.json")):
+        with path.open(encoding="utf-8") as f:
+            ed = json.load(f)
+        for r in ed.get("talks", {}).values():
+            if r.get("matched_youtube") or not r.get("id") or not r.get("title"):
+                continue
+            rec = {
+                "video_id": r["id"],
+                "title": " ".join(r["title"].split()),
+                "duration_s": r.get("duration_s"),
+                "channel": "InfoQ",
+                "label": ed.get("name") or r.get("edition_name"),
+                "year": ed.get("year") or r.get("year"),
+                "source_url": src["url"],
+                # The page fetch already collected everything enrich.py would go
+                # looking for, and from a better source than the channel.
+                "details_at": r.get("fetched_at") or ed.get("fetched_at"),
+            }
+            for k in INFOQ_FIELDS:
+                if r.get(k):
+                    rec[k] = r[k]
+            out.append(rec)
+    return out
+
+
+def sync_infoq(reg: dict) -> None:
+    """Fold every "infoq" source into its catalogue. Offline, so unconditional."""
+    for conf in reg["conferences"]:
+        srcs = [s for s in conf["sources"] if s.get("type") == "infoq"]
+        if not srcs:
+            continue
+        cat = atu.load_catalog(conf["slug"])
+        before = json.dumps(cat, ensure_ascii=False, sort_keys=True)
+        videos = cat.setdefault("videos", {})
+        meta = [m for m in cat.get("sources", [])
+                if m.get("url") not in {s["url"] for s in srcs}]
+        for src in srcs:
+            found = enumerate_infoq(src)
+            merge_source(videos, src, found)
+            meta.append({"url": src["url"], "label": src.get("label"),
+                         "year": src.get("year"), "count": len(found), "type": "infoq"})
+        cat.update({"slug": conf["slug"], "name": conf["name"], "sources": meta,
+                    "count": len(videos), "videos": dict(sorted(videos.items()))})
+        if json.dumps(cat, ensure_ascii=False, sort_keys=True) != before:
+            atu.write_json(atu.catalog_path(conf["slug"]), cat)
+            print(f"  infoq {conf['slug']}: {cat['count']} videos cached")
+
+
 def merge_source(videos: dict, src: dict, found: list[dict]) -> None:
     """Fold one source's listing into the cached catalogue, in place.
 
@@ -223,8 +294,8 @@ def refresh_conference(conf: dict, pace: float) -> dict:
     sources_meta = []
 
     for src in conf["sources"]:
-        if src.get("type") == "videos":
-            continue                      # offline, and folded in by sync_seeds
+        if src.get("type") in ("videos", "infoq"):
+            continue                      # offline; sync_seeds/sync_infoq fold these in
         time.sleep(random.uniform(0, pace))
         found = enumerate_source(src)
         print(f"    {len(found):>4}  {src.get('label') or src['url']}")
@@ -486,9 +557,20 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool,
         blocked = blocked_words(conf)
         candidates = []
         by_url = {s["url"]: s for s in conf["sources"]}
+        infoq_src = next((s for s in conf["sources"] if s.get("type") == "infoq"), None)
 
         for vid, v in cat.get("videos", {}).items():
-            ok, why = keep_video(v, conf, ai_filter, by_url.get(v.get("source_url")), floor)
+            # A record's rules come from the source that listed it — except
+            # where a better source has since claimed the same talk. `infoq_at`
+            # means infoq.py found this video on InfoQ's own programme and
+            # merged its transcript in, and a talk on the programme is governed
+            # by the programme's rules however it was first enumerated.
+            # Without this, one QCon London 2025 session is kept and the
+            # session in the next room is dropped, purely because one of them
+            # also happened to reach the YouTube channel.
+            src = infoq_src if (v.get("infoq_at") and infoq_src) \
+                else by_url.get(v.get("source_url"))
+            ok, why = keep_video(v, conf, ai_filter, src, floor)
             if not ok:
                 drop[why] += 1
                 continue
@@ -555,7 +637,14 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool,
                 "duration_s": v.get("duration_s"),
                 "published_at": v.get("published_at"),
                 "tags": clean_tags(v.get("tags")),
-                "youtube_url": atu.WATCH.format(vid=vid),
+                # Not every record is a YouTube one any more. `url` is the
+                # canonical link — the video where there is a video, the talk's
+                # own page where InfoQ is all there is — and `youtube_url` says
+                # only what it claims to, so a reader that wants to build
+                # `&t=`, an embed or a thumbnail can tell whether it may.
+                "youtube_url": atu.WATCH.format(vid=vid) if atu.is_youtube_id(vid) else None,
+                "url": atu.watch_url(vid, v.get("page_url")),
+                "page_url": v.get("page_url"),
                 "conference_site": conf["site"],
                 "availability": conf["availability"],
                 "priority": conf["priority"],
@@ -589,6 +678,7 @@ channel: {channel_q}
 duration_min: {duration_min}
 published_at: {published_at}
 video_id: {video_id}
+url: {url}
 youtube_url: {youtube_url}
 tags: {tags_json}
 transcript: {has_transcript}
@@ -600,7 +690,7 @@ transcript: {has_transcript}
 
 `{conference_name}` · `{edition}`{year_bit} · `{duration}`{tag_line}
 
-[Watch the recording]({youtube_url}) · [Conference site]({conference_site})
+[{watch_label}]({url}) · [Conference site]({conference_site})
 
 ## Description
 
@@ -620,24 +710,29 @@ def transcript_block(t: dict) -> str:
     lines.append(
         f"*{tr.get('word_count', 0):,} words · source: {tr.get('source', 'youtube')} "
         f"({tr.get('language', 'en')}, {tr.get('timing', 'exact')} timings)*\n")
-    # ~45s paragraphs, each deep-linking back into the video.
+    # ~45s paragraphs, each deep-linking back into the video where the video
+    # accepts a timestamp. An InfoQ-only talk has a page rather than a
+    # watch URL, and `?t=` means nothing to it, so those keep the timestamp as
+    # plain text: still a position in the talk, just not a link that lies.
+    yt = t["youtube_url"]
     bucket, bucket_start = [], None
     for seg in tr["segments"]:
         if bucket_start is None:
             bucket_start = seg["start"]
         bucket.append(seg["text"])
         if seg["start"] - bucket_start >= 45:
-            lines.append(_para(bucket, bucket_start, t["video_id"]))
+            lines.append(_para(bucket, bucket_start, yt))
             bucket, bucket_start = [], None
     if bucket:
-        lines.append(_para(bucket, bucket_start or 0, t["video_id"]))
+        lines.append(_para(bucket, bucket_start or 0, yt))
     return "\n".join(lines)
 
 
-def _para(texts: list[str], start: float, vid: str) -> str:
+def _para(texts: list[str], start: float, youtube_url: str | None) -> str:
     body = " ".join(" ".join(texts).split())
     ts = f"{int(start) // 60:d}:{int(start) % 60:02d}"
-    return f"**[{ts}](https://www.youtube.com/watch?v={vid}&t={int(start)}s)** {body}\n"
+    stamp = f"[{ts}]({youtube_url}&t={int(start)}s)" if youtube_url else ts
+    return f"**{stamp}** {body}\n"
 
 
 def render_md(t: dict) -> str:
@@ -662,7 +757,9 @@ def render_md(t: dict) -> str:
         duration_min=t["duration_min"] if t["duration_min"] else "null",
         published_at=t["published_at"] or "null",
         video_id=t["video_id"],
-        youtube_url=t["youtube_url"],
+        url=t["url"] or "",
+        watch_label="Watch the recording" if t["url"] else "No recording link",
+        youtube_url=t["youtube_url"] or "null",
         conference_site=t["conference_site"],
         tags_json=json.dumps(t["tags"], ensure_ascii=False),
         tag_line=("\n\n" + " ".join(f"`#{x}`" for x in t["tags"])) if t["tags"] else "",
@@ -673,7 +770,7 @@ def render_md(t: dict) -> str:
 
 
 CSV_FIELDS = ["id", "title", "conference", "conference_name", "category", "edition", "year",
-              "speakers", "channel", "duration_min", "published_at", "youtube_url", "description"]
+              "speakers", "channel", "duration_min", "published_at", "url", "description"]
 
 
 def csv_row(t: dict) -> dict:
@@ -767,8 +864,10 @@ def main() -> None:
             print(f"    = {cat['count']} videos cached")
         print()
 
-    # Seeds are read from disk, so they cost nothing and are always current.
+    # Seeds and the InfoQ cache are read from disk, so they cost nothing and are
+    # always current.
     sync_seeds(reg)
+    sync_infoq(reg)
 
     # The corpus is always derived from every conference, even when only one was
     # refreshed — otherwise a targeted refresh would publish a corpus of one.
@@ -777,7 +876,8 @@ def main() -> None:
     check_not_shrinking(len(talks), args.allow_shrink)
 
     body = {
-        "source": "YouTube playlists and channels listed in conferences.json",
+        "source": "YouTube playlists and channels listed in conferences.json, "
+                  "plus InfoQ's own presentation pages",
         "ai_filter": not args.no_ai_filter,
         "min_year": floor,
         "conferences": [{"slug": c["slug"], "name": c["name"], "category": c["category"]}

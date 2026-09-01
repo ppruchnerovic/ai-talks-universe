@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 15
 published_at: 2025-07-01T07:00:06Z
 video_id: gmTHs5T_YAE
+url: https://www.youtube.com/watch?v=gmTHs5T_YAE
 youtube_url: https://www.youtube.com/watch?v=gmTHs5T_YAE
 tags: []
 transcript: false

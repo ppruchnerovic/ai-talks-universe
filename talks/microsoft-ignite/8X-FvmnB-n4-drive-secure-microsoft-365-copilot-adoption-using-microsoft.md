@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T07:36:38Z
 video_id: 8X-FvmnB-n4
+url: https://www.youtube.com/watch?v=8X-FvmnB-n4
 youtube_url: https://www.youtube.com/watch?v=8X-FvmnB-n4
 tags: ["BRK257", "Drive secure Microsoft 365 Copilot adoption using Microsoft Purview | BRK257", "English (US)", "Erica Toelle", "Nadia Fortini", "Secure your data", "Technical", "f5n1", "fd440d6c-7c03-4de3-b7a2-70cc5f228c69_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

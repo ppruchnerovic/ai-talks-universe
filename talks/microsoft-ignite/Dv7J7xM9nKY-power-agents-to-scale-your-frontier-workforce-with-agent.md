@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-20T16:39:52Z
 video_id: Dv7J7xM9nKY
+url: https://www.youtube.com/watch?v=Dv7J7xM9nKY
 youtube_url: https://www.youtube.com/watch?v=Dv7J7xM9nKY
 tags: ["9ca709e2-4059-40bb-9b03-34dad753bc1e_Segment", "BRK298", "Caroline Stanford", "Copilot and agents at work", "English (US)", "Power agents to scale your frontier workforce with Agent 365 | BRK298", "Ray Smith", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

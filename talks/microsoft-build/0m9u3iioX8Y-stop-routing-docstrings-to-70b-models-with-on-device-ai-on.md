@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 42
 published_at: 2026-06-11T08:12:50Z
 video_id: 0m9u3iioX8Y
+url: https://www.youtube.com/watch?v=0m9u3iioX8Y
 youtube_url: https://www.youtube.com/watch?v=0m9u3iioX8Y
 tags: [".NET", "AI", "Alberto Martinez", "BRKSP90", "BRKSP90_v1", "DevTools", "Developer", "Developer Frameworks", "Foundry Agents", "Foundry Local", "GitHub", "Local AI", "Stop routing docstrings to 70B models with on-device AI on Snapdragon | BRKSP90", "Windows", "Windows Development", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

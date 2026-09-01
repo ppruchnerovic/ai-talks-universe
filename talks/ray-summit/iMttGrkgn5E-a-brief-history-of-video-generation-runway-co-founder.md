@@ -12,6 +12,7 @@ channel: null
 duration_min: 21
 published_at: null
 video_id: iMttGrkgn5E
+url: https://www.youtube.com/watch?v=iMttGrkgn5E
 youtube_url: https://www.youtube.com/watch?v=iMttGrkgn5E
 tags: []
 transcript: false

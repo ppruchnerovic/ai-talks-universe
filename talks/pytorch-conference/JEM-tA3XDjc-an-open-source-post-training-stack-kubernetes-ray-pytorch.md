@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 23
 published_at: null
 video_id: JEM-tA3XDjc
+url: https://www.youtube.com/watch?v=JEM-tA3XDjc
 youtube_url: https://www.youtube.com/watch?v=JEM-tA3XDjc
 tags: []
 transcript: false

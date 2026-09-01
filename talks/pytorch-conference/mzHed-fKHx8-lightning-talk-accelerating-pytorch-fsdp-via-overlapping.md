@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 14
 published_at: null
 video_id: mzHed-fKHx8
+url: https://www.youtube.com/watch?v=mzHed-fKHx8
 youtube_url: https://www.youtube.com/watch?v=mzHed-fKHx8
 tags: []
 transcript: false

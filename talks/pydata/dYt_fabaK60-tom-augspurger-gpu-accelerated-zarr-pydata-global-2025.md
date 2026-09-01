@@ -12,6 +12,7 @@ channel: null
 duration_min: 26
 published_at: null
 video_id: dYt_fabaK60
+url: https://www.youtube.com/watch?v=dYt_fabaK60
 youtube_url: https://www.youtube.com/watch?v=dYt_fabaK60
 tags: []
 transcript: false

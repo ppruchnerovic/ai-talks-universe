@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 41
 published_at: 2026-05-11T08:11:00Z
 video_id: uhYwsbcOaBQ
+url: https://www.youtube.com/watch?v=uhYwsbcOaBQ
 youtube_url: https://www.youtube.com/watch?v=uhYwsbcOaBQ
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Artificial Intelligence", "AI", "AI Copilot", "Developer Productivity", "AI Agents", "AI Development", "Cursor", "Claude Code"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-09T12:50:00+00:00
 video_id: gAjwsmSvtIM
+url: https://www.youtube.com/watch?v=gAjwsmSvtIM
 youtube_url: https://www.youtube.com/watch?v=gAjwsmSvtIM
 tags: ["AI Engineering", "AI Models", "Large Language Models (LLMs)", "Small Language Models (SLMs)", "Software Architecture", "System Design"]
 transcript: true

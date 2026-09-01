@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 38
 published_at: 2025-09-05T19:41:15Z
 video_id: H860RHMx6xo
+url: https://www.youtube.com/watch?v=H860RHMx6xo
 youtube_url: https://www.youtube.com/watch?v=H860RHMx6xo
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 54
 published_at: null
 video_id: cPru70ADRg8
+url: https://www.youtube.com/watch?v=cPru70ADRg8
 youtube_url: https://www.youtube.com/watch?v=cPru70ADRg8
 tags: []
 transcript: false

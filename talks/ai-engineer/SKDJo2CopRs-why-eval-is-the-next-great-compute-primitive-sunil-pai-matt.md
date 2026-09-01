@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 25
 published_at: 2026-06-08T13:00:13Z
 video_id: SKDJo2CopRs
+url: https://www.youtube.com/watch?v=SKDJo2CopRs
 youtube_url: https://www.youtube.com/watch?v=SKDJo2CopRs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

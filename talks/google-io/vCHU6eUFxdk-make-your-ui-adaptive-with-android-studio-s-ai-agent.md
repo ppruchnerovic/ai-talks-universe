@@ -12,6 +12,7 @@ channel: "Android Developers"
 duration_min: 37
 published_at: 2026-05-21T23:40:42Z
 video_id: vCHU6eUFxdk
+url: https://www.youtube.com/watch?v=vCHU6eUFxdk
 youtube_url: https://www.youtube.com/watch?v=vCHU6eUFxdk
 tags: ["Android", "pr_pr: Google I/O;", "ct:Stack - Android;", "ct:Event - Technical Session;"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T07:14:51Z
 video_id: NcrMVachthU
+url: https://www.youtube.com/watch?v=NcrMVachthU
 youtube_url: https://www.youtube.com/watch?v=NcrMVachthU
 tags: ["4575c3cb-cce1-4ce8-b73c-70f00eaa7d4e_Segment", "Armando Duran", "BRK375", "Chris Burchett", "Drive Growth Profitability and Resilience with Agentic Supply Chains | BRK375", "English (US)", "Manufacturing and Mobility", "Signature pass", "Technical", "Unify your data platform", "Yury Gomez", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

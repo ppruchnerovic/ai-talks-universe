@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 11
 published_at: null
 video_id: JMbZBI0ypzc
+url: https://www.youtube.com/watch?v=JMbZBI0ypzc
 youtube_url: https://www.youtube.com/watch?v=JMbZBI0ypzc
 tags: []
 transcript: false

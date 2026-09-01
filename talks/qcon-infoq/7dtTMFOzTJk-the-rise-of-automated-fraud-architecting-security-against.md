@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2026-05-21T09:25:48Z
 video_id: 7dtTMFOzTJk
+url: https://www.youtube.com/watch?v=7dtTMFOzTJk
 youtube_url: https://www.youtube.com/watch?v=7dtTMFOzTJk
 tags: ["Deepfake", "Disinformation", "AI", "Artificial Intelligence", "Generative AI", "QCon AI", "InfoQ", "Transcript", "Best Practices", "Cyber Security", "Zero Trust"]
 transcript: true

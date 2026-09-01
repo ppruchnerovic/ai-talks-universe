@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 36
 published_at: 2023-08-18T01:37:38Z
 video_id: 0V_mGK-cWVI
+url: https://www.youtube.com/watch?v=0V_mGK-cWVI
 youtube_url: https://www.youtube.com/watch?v=0V_mGK-cWVI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "HoloClean and Kamino: Structured Learning for Private Data Generation", "HoloClean", "Kamino", "Private Data Generation", "Structured Learning", "sensitive data", "private data", "probabilistic database models"]
 transcript: false

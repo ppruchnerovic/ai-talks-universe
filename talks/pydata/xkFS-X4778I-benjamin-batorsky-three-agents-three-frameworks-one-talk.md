@@ -12,6 +12,7 @@ channel: null
 duration_min: 41
 published_at: null
 video_id: xkFS-X4778I
+url: https://www.youtube.com/watch?v=xkFS-X4778I
 youtube_url: https://www.youtube.com/watch?v=xkFS-X4778I
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 11
 published_at: 2026-05-21T17:15:33Z
 video_id: 1ucAu7lTsmM
+url: https://www.youtube.com/watch?v=1ucAu7lTsmM
 youtube_url: https://www.youtube.com/watch?v=1ucAu7lTsmM
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "Gemini for Home", "Google Home", "Smart Home", "Home APIs", "Gemini built in", "service providers", "smart home security"]
 transcript: true

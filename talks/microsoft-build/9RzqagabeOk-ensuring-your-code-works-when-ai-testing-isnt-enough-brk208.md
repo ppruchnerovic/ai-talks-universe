@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-04T11:00:24Z
 video_id: 9RzqagabeOk
+url: https://www.youtube.com/watch?v=9RzqagabeOk
 youtube_url: https://www.youtube.com/watch?v=9RzqagabeOk
 tags: ["Agents", "App Mod", "BRK208", "DevTools", "Developer", "Ensuring your code works when AI testing isn’t enough | BRK208", "GitHub", "GitHub Copilot", "GitHub Copilot CLI", "OSS", "Simon Willison", "build", "build 2026", "f3ef9971-9c7e-4883-acdc-d4c2bd4ca732_M9Z7-BRK208-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

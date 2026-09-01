@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 13
 published_at: null
 video_id: kp-xVh4pmss
+url: https://www.youtube.com/watch?v=kp-xVh4pmss
 youtube_url: https://www.youtube.com/watch?v=kp-xVh4pmss
 tags: []
 transcript: false

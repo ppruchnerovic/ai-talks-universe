@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T07:14:22Z
 video_id: zzrfs9bpgO0
+url: https://www.youtube.com/watch?v=zzrfs9bpgO0
 youtube_url: https://www.youtube.com/watch?v=zzrfs9bpgO0
 tags: ["A guide to building tomorrows AI Solutions | BRK132", "AI", "BRK132", "Breakout", "Daniel Laskewitz", "David Smith", "English (US)", "Henk Boelman", "Intermediate (200)", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

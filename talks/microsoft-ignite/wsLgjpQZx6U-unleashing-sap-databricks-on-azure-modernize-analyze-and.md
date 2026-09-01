@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-19T14:03:01Z
 video_id: wsLgjpQZx6U
+url: https://www.youtube.com/watch?v=wsLgjpQZx6U
 youtube_url: https://www.youtube.com/watch?v=wsLgjpQZx6U
 tags: ["5276145b-e80e-487f-bce9-fbf26c648893_Segment", "Anavi Nahar", "BRK136", "English (US)", "Shanku Niyogi", "Technical", "Unify your data platform", "Unify your data platform:Azure Databricks", "Unify your data platform:SAP on Azure", "Unleashing SAP Databricks on Azure: Modernize analyze and innovate | BRK136", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

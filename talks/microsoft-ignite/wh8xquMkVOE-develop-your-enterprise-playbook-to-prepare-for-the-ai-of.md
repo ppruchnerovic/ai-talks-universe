@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T10:52:21Z
 video_id: wh8xquMkVOE
+url: https://www.youtube.com/watch?v=wh8xquMkVOE
 youtube_url: https://www.youtube.com/watch?v=wh8xquMkVOE
 tags: ["25074910-144c-4c99-aacd-2dce72a270cb_Segment", "BRKSP486", "Brian Madden", "Copilot and agents at work", "Develop your enterprise playbook to prepare for the AI of tomorrow | BRKSP486", "English (US)", "Financial Services", "Marco Casalaina", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

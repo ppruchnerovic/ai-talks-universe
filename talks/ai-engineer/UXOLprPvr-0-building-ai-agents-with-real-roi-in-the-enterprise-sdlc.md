@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2025-04-08T00:00:00Z
 video_id: UXOLprPvr-0
+url: https://www.youtube.com/watch?v=UXOLprPvr-0
 youtube_url: https://www.youtube.com/watch?v=UXOLprPvr-0
 tags: []
 transcript: false

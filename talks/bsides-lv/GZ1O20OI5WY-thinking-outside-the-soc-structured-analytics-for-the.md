@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 41
 published_at: 2025-12-08T00:38:42Z
 video_id: GZ1O20OI5WY
+url: https://www.youtube.com/watch?v=GZ1O20OI5WY
 youtube_url: https://www.youtube.com/watch?v=GZ1O20OI5WY
 tags: []
 transcript: false

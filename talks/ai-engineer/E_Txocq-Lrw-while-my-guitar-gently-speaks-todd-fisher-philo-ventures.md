@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-08-18T15:30:23Z
 video_id: E_Txocq-Lrw
+url: https://www.youtube.com/watch?v=E_Txocq-Lrw
 youtube_url: https://www.youtube.com/watch?v=E_Txocq-Lrw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

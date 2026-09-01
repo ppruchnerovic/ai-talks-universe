@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T15:01:51Z
 video_id: 8iyBUPQyG8A
+url: https://www.youtube.com/watch?v=8iyBUPQyG8A
 youtube_url: https://www.youtube.com/watch?v=8iyBUPQyG8A
 tags: ["AI", "Automation", "BRKFP373", "Breakout", "English (US)", "Foundational (100)", "Leon Harris", "Optimize Azure cloud operations with end-to-end IT automation | BRKFP373", "Philip Alfano", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

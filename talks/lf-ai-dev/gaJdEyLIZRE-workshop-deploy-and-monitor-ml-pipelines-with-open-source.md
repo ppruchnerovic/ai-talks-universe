@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 45
 published_at: 2024-06-27T14:40:37Z
 video_id: gaJdEyLIZRE
+url: https://www.youtube.com/watch?v=gaJdEyLIZRE
 youtube_url: https://www.youtube.com/watch?v=gaJdEyLIZRE
 tags: []
 transcript: false

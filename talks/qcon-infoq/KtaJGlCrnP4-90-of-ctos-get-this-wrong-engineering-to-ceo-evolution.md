@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 34
 published_at: 2026-06-29T07:54:45Z
 video_id: KtaJGlCrnP4
+url: https://www.youtube.com/watch?v=KtaJGlCrnP4
 youtube_url: https://www.youtube.com/watch?v=KtaJGlCrnP4
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Culture", "Agile", "Best Practices", "Startup", "Engineering Leadership", "CTO", "CEO"]
 transcript: true

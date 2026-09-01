@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:22:26Z
 video_id: N2RaJApWfPQ
+url: https://www.youtube.com/watch?v=N2RaJApWfPQ
 youtube_url: https://www.youtube.com/watch?v=N2RaJApWfPQ
 tags: ["3db3fb76-af58-4f49-8120-db08ea71f860_Segment", "BRK282", "Copilot and agents at work", "Don't gatekeep AI: Empower secure scalable innovations for Frontline | BRK282", "English (US)", "Jeremy Carlson", "Technical", "Vishal Anil", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

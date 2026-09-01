@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 34
 published_at: 2024-11-22T08:32:16Z
 video_id: AU5bzGQ_gEo
+url: https://www.youtube.com/watch?v=AU5bzGQ_gEo
 youtube_url: https://www.youtube.com/watch?v=AU5bzGQ_gEo
 tags: ["BRK337", "Breakout", "English (US)", "Foundational (100)", "Grow your business with Microsoft AI Cloud Partner Program | BRK337", "Julie Sanford", "Partner Business", "Partner Program", "Steve Thomas", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

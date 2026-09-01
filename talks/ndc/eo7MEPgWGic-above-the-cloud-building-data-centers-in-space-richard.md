@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2026-06-19T11:14:37Z
 video_id: eo7MEPgWGic
+url: https://www.youtube.com/watch?v=eo7MEPgWGic
 youtube_url: https://www.youtube.com/watch?v=eo7MEPgWGic
 tags: ["AI", "Cloud", "Data", "Space", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Richard Campbell"]
 transcript: true

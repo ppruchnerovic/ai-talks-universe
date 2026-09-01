@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T14:42:58Z
 video_id: QeBnv7z4_n8
+url: https://www.youtube.com/watch?v=QeBnv7z4_n8
 youtube_url: https://www.youtube.com/watch?v=QeBnv7z4_n8
 tags: ["Copilot and agents at work", "Education", "English (US)", "Gauthier Renard", "Hybrid meetings with ClickShare Hub | ODSP1512", "ODSP1512", "ODSP1512_v1", "Oliver Van Camp", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

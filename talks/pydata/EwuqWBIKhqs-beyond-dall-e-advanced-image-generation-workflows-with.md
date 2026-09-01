@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 28
 published_at: 2025-10-05T11:02:23Z
 video_id: EwuqWBIKhqs
+url: https://www.youtube.com/watch?v=EwuqWBIKhqs
 youtube_url: https://www.youtube.com/watch?v=EwuqWBIKhqs
 tags: ["API integration", "ComfyUI", "Conference", "ControlNet", "LoRA models", "Programming", "PyConDE", "PyData", "Python", "Segment Anything Model", "Stable Diffusion", "Tech Talk", "computer vision", "generative AI", "image inpainting", "latent space manipulation", "node-based interfaces", "style transfer"]
 transcript: false

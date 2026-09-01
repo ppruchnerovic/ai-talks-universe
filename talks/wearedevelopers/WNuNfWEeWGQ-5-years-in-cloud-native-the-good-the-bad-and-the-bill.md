@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 15
 published_at: 2026-07-09T12:50:00+00:00
 video_id: WNuNfWEeWGQ
+url: https://www.youtube.com/watch?v=WNuNfWEeWGQ
 youtube_url: https://www.youtube.com/watch?v=WNuNfWEeWGQ
 tags: ["Cloud & AI Infrastructure", "Cloud Security", "DevOps", "Google Cloud (GCP)", "Infrastructure", "Microservices", "MongoDB", "Performance", "Security"]
 transcript: true

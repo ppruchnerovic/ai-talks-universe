@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 31
 published_at: 2025-01-31T18:27:58Z
 video_id: hcOmt9pHvao
+url: https://www.youtube.com/watch?v=hcOmt9pHvao
 youtube_url: https://www.youtube.com/watch?v=hcOmt9pHvao
 tags: []
 transcript: false

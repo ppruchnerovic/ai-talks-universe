@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 29
 published_at: 2026-05-21T12:56:44Z
 video_id: zenIB7XLZxQ
+url: https://www.youtube.com/watch?v=zenIB7XLZxQ
 youtube_url: https://www.youtube.com/watch?v=zenIB7XLZxQ
 tags: []
 transcript: true

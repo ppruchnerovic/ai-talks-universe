@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T14:49:27Z
 video_id: hBpbKMEOVEw
+url: https://www.youtube.com/watch?v=hBpbKMEOVEw
 youtube_url: https://www.youtube.com/watch?v=hBpbKMEOVEw
 tags: ["AI agents in Microsoft Foundry ship fast scale fearlessly | BRK189", "BRK189", "BRK189_v1", "David Feldman", "Elijah Straight", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Mark Oost", "Technical", "Tina Schuman", "Yina Arenas", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

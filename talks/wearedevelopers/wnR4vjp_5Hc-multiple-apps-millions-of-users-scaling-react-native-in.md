@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T12:20:00+00:00
 video_id: wnR4vjp_5Hc
+url: https://www.youtube.com/watch?v=wnR4vjp_5Hc
 youtube_url: https://www.youtube.com/watch?v=wnR4vjp_5Hc
 tags: ["Frontend, Web & Mobile", "Android", "Cross-Platform", "iOS", "React Native"]
 transcript: true

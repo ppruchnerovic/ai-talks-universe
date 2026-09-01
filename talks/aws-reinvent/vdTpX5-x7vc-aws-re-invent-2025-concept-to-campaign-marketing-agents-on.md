@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 58
 published_at: null
 video_id: vdTpX5-x7vc
+url: https://www.youtube.com/watch?v=vdTpX5-x7vc
 youtube_url: https://www.youtube.com/watch?v=vdTpX5-x7vc
 tags: []
 transcript: false

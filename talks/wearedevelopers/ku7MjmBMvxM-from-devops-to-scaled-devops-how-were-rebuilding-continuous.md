@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 23
 published_at: 2026-07-09T08:50:00+00:00
 video_id: ku7MjmBMvxM
+url: https://www.youtube.com/watch?v=ku7MjmBMvxM
 youtube_url: https://www.youtube.com/watch?v=ku7MjmBMvxM
 tags: ["DevOps", "Automation", "CI/CD", "DevOps", "Scaling"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T09:00:00+00:00
 video_id: X1BRFTbq6Xk
+url: https://www.youtube.com/watch?v=X1BRFTbq6Xk
 youtube_url: https://www.youtube.com/watch?v=X1BRFTbq6Xk
 tags: ["Quality & Reliability", "Agentic AI", "Automation Testing", "Generative AI (GenAI)", "Large Language Models (LLMs)", "Playwright", "Quality Assurance (QA)"]
 transcript: true

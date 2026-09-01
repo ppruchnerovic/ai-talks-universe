@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 120
 published_at: 2023-08-18T01:38:50Z
 video_id: 01f3i8H93hw
+url: https://www.youtube.com/watch?v=01f3i8H93hw
 youtube_url: https://www.youtube.com/watch?v=01f3i8H93hw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Taking Aim at Bias in AI", "Taking Aim at Bias in AI", "ai", "Bias in AI"]
 transcript: false

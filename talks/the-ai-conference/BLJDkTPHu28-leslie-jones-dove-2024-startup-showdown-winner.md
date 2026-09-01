@@ -12,6 +12,7 @@ channel: null
 duration_min: 4
 published_at: null
 video_id: BLJDkTPHu28
+url: https://www.youtube.com/watch?v=BLJDkTPHu28
 youtube_url: https://www.youtube.com/watch?v=BLJDkTPHu28
 tags: []
 transcript: false

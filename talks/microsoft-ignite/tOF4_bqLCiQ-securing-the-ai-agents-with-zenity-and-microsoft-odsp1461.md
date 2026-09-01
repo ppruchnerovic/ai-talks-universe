@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T12:41:34Z
 video_id: tOF4_bqLCiQ
+url: https://www.youtube.com/watch?v=tOF4_bqLCiQ
 youtube_url: https://www.youtube.com/watch?v=tOF4_bqLCiQ
 tags: ["English (US)", "Innovate with low-code AI and agents", "ODSP1461", "ODSP1461_v1", "Protect cloud AI platform and apps", "Securing the AI Agents with Zenity and Microsoft | ODSP1461", "Shaun Van Staden", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

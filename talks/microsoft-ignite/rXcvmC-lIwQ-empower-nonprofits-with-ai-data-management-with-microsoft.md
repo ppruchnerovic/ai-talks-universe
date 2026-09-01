@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T09:44:40Z
 video_id: rXcvmC-lIwQ
+url: https://www.youtube.com/watch?v=rXcvmC-lIwQ
 youtube_url: https://www.youtube.com/watch?v=rXcvmC-lIwQ
 tags: ["AI", "Azure OpenAI Service", "BRK252", "Breakout", "Clark Osborne", "Empower Nonprofits with AI: Data Management with Microsoft Fabric | BRK252", "English (US)", "Industry", "Industry-Curated", "Intermediate (200)", "Mark Ghazai", "Microsoft Copilot", "Microsoft Fabric", "Sean Riordan", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

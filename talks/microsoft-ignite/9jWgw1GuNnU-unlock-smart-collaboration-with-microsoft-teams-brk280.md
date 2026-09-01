@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-21T10:13:53Z
 video_id: 9jWgw1GuNnU
+url: https://www.youtube.com/watch?v=9jWgw1GuNnU
 youtube_url: https://www.youtube.com/watch?v=9jWgw1GuNnU
 tags: ["AI", "Admin Copilot", "BRK280", "Breakout", "Copilot for M365", "Devices", "English (US)", "Ilya Bukshteyn", "Intermediate (200)", "Microsoft Places", "Microsoft Teams", "Modern Work", "Modern Work-Curated", "Pete Daderko", "Technical", "Unlock smart collaboration with Microsoft Teams | BRK280", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

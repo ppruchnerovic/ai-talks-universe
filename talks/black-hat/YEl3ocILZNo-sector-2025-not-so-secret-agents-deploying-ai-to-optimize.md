@@ -12,6 +12,7 @@ channel: null
 duration_min: 51
 published_at: null
 video_id: YEl3ocILZNo
+url: https://www.youtube.com/watch?v=YEl3ocILZNo
 youtube_url: https://www.youtube.com/watch?v=YEl3ocILZNo
 tags: []
 transcript: false

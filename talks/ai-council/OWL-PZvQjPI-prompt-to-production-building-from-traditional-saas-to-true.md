@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 38
 published_at: 2026-06-16T18:45:08Z
 video_id: OWL-PZvQjPI
+url: https://www.youtube.com/watch?v=OWL-PZvQjPI
 youtube_url: https://www.youtube.com/watch?v=OWL-PZvQjPI
 tags: ["AI"]
 transcript: true

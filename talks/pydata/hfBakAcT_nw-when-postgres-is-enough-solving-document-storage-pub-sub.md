@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:55Z
 video_id: hfBakAcT_nw
+url: https://www.youtube.com/watch?v=hfBakAcT_nw
 youtube_url: https://www.youtube.com/watch?v=hfBakAcT_nw
 tags: ["Conference", "JSONB", "LISTEN NOTIFY", "PostgreSQL", "PyConDE", "PyData", "Python", "SQL", "Tech Talk", "conference talk", "database architecture", "distributed queues", "document storage", "infrastructure", "pragmatic engineering", "pub/sub", "software engineering", "system design", "vector database"]
 transcript: false

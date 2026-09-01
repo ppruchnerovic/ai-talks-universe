@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 33
 published_at: 2026-05-21T15:27:11Z
 video_id: okSgumIGLBY
+url: https://www.youtube.com/watch?v=okSgumIGLBY
 youtube_url: https://www.youtube.com/watch?v=okSgumIGLBY
 tags: []
 transcript: true

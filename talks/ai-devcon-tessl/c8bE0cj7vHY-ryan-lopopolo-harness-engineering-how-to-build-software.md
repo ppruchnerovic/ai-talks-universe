@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 30
 published_at: 2026-06-19T07:32:20Z
 video_id: c8bE0cj7vHY
+url: https://www.youtube.com/watch?v=c8bE0cj7vHY
 youtube_url: https://www.youtube.com/watch?v=c8bE0cj7vHY
 tags: ["AI DevCon London 2026", "AI Development", "AI Production Challenges", "AI agent challenges", "AI coding workflows", "AI development frameworks", "AI-Native Development", "AIDevCon", "Agent-Based Development", "Coding Agents", "High-Quality Agent Work", "ainativedev", "autonomy in AI coding", "designing for agent execution", "what is Harness Engineering"]
 transcript: true

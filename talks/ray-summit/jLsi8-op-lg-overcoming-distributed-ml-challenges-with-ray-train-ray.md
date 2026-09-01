@@ -12,6 +12,7 @@ channel: null
 duration_min: 33
 published_at: null
 video_id: jLsi8-op-lg
+url: https://www.youtube.com/watch?v=jLsi8-op-lg
 youtube_url: https://www.youtube.com/watch?v=jLsi8-op-lg
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 49
 published_at: 2025-05-29T14:06:05Z
 video_id: 8A4RO3ruKfU
+url: https://www.youtube.com/watch?v=8A4RO3ruKfU
 youtube_url: https://www.youtube.com/watch?v=8A4RO3ruKfU
 tags: ["time series database", "InfluxDB tutorial", "real time data", "ChatGPT", "artificial intelligence", "machine learning", "Rust programming tutorial", "Apache Arrow", "object storage", "IoT data", "monitoring", "observability", "columnar database", "Python tutorial", "time series analysis", "metrics collection", "sensor data", "telemetry", "performance monitoring", "application monitoring", "infrastructure monitoring", "log analysis", "anomaly detection", "alerting"]
 transcript: false

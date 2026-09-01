@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-07-23T00:00:00Z
 video_id: CB-4NKDYnRs
+url: https://www.youtube.com/watch?v=CB-4NKDYnRs
 youtube_url: https://www.youtube.com/watch?v=CB-4NKDYnRs
 tags: []
 transcript: false

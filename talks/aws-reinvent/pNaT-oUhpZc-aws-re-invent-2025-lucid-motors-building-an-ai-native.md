@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 57
 published_at: null
 video_id: pNaT-oUhpZc
+url: https://www.youtube.com/watch?v=pNaT-oUhpZc
 youtube_url: https://www.youtube.com/watch?v=pNaT-oUhpZc
 tags: []
 transcript: false

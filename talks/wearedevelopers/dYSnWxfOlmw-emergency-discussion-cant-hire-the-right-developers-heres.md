@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 54
 published_at: 2025-10-29T09:25:08Z
 video_id: dYSnWxfOlmw
+url: https://www.youtube.com/watch?v=dYSnWxfOlmw
 youtube_url: https://www.youtube.com/watch?v=dYSnWxfOlmw
 tags: ["hiring", "recruiting", "tech talent", "tech professionals", "developers", "recruitment", "talent acquisition", "perks", "salary transparency", "growth", "job openings", "job opportunities", "passive candidates", "skills-based hiring"]
 transcript: false

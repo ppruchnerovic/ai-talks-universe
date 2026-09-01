@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 34
 published_at: 2023-05-11T18:57:15Z
 video_id: zmmJgwc3oPI
+url: https://www.youtube.com/watch?v=zmmJgwc3oPI
 youtube_url: https://www.youtube.com/watch?v=zmmJgwc3oPI
 tags: ["programming language", "Data Engineering", "SQL", "query language", "open source"]
 transcript: false

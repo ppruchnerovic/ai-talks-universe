@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 24
 published_at: 2025-07-08T07:54:45Z
 video_id: D4Us--bvFQo
+url: https://www.youtube.com/watch?v=D4Us--bvFQo
 youtube_url: https://www.youtube.com/watch?v=D4Us--bvFQo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false

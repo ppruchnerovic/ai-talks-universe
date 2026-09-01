@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-19T15:07:07Z
 video_id: GjgmoN_m3T4
+url: https://www.youtube.com/watch?v=GjgmoN_m3T4
 youtube_url: https://www.youtube.com/watch?v=GjgmoN_m3T4
 tags: ["CTERA in action: Building the data fabric of global enterprises | ODSP1436", "English (US)", "Kyle Edsall", "Migrate and modernize your estate", "ODSP1436", "ODSP1436_v1", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

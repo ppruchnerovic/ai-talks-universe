@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:49Z
 video_id: 8UvPctThPQg
+url: https://www.youtube.com/watch?v=8UvPctThPQg
 youtube_url: https://www.youtube.com/watch?v=8UvPctThPQg
 tags: ["AI agents", "AI frameworks", "AI orchestration", "Conference", "Haystack", "LLM engineering", "PyConDE", "PyData", "Python", "Tech Talk", "agent architecture", "agentic systems", "deepset", "developer tools", "enterprise AI", "machine learning", "observability", "production AI", "software engineering"]
 transcript: false

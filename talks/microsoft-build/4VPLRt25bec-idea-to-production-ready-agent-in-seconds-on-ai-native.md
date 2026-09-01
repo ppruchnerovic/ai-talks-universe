@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-04T13:01:04Z
 video_id: 4VPLRt25bec
+url: https://www.youtube.com/watch?v=4VPLRt25bec
 youtube_url: https://www.youtube.com/watch?v=4VPLRt25bec
 tags: ["8508448f-e225-4efd-b0ae-f89c2c2b91b5_M9Z7-BRK221-1", "App Mod", "BRK221", "CP&D", "Devanshi Joshi", "Gopi Prashanth", "Idea to production-ready agent in seconds on AI-native runtime | BRK221", "Reserve", "Simon Jakesch", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

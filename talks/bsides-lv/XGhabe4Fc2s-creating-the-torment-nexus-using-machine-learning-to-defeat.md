@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 13
 published_at: 2025-12-08T00:38:44Z
 video_id: XGhabe4Fc2s
+url: https://www.youtube.com/watch?v=XGhabe4Fc2s
 youtube_url: https://www.youtube.com/watch?v=XGhabe4Fc2s
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 35
 published_at: 2026-02-16T12:09:56Z
 video_id: Gp9K9voChbM
+url: https://www.youtube.com/watch?v=Gp9K9voChbM
 youtube_url: https://www.youtube.com/watch?v=Gp9K9voChbM
 tags: ["Software Architecture", "Kafka", "Microservices", "JPMorgan", "LegacyMigration", "The InfoQ Podcast", "Observability", "Event Driven Architecture"]
 transcript: true

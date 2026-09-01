@@ -19,7 +19,12 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 ### QCon AI
 - Site: https://ai.qconferences.com/
 - YouTube: https://www.youtube.com/infoq
-- InfoQ/QCon's enterprise production-AI conference. ⚠️ partial — fresh recordings go to the paid Video Pass first; a free subset drips onto the InfoQ channel and https://www.infoq.com/presentations/ (with transcripts) over subsequent months.
+- Presentations: https://www.infoq.com/presentations/ (registered as an `"infoq"` source — see below)
+- InfoQ/QCon's enterprise production-AI conference. ⚠️ partial — fresh recordings go to the paid Video Pass first; a free subset drips onto the InfoQ channel and https://www.infoq.com/presentations/ over subsequent months.
+- InfoQ is the one conference here that publishes its own programme, and its pages carry a **full hand-edited transcript in the HTML**, free to an anonymous client. That is worth its own route: the YouTube side of this conference had 353 talks and 108 transcripts, each bought with a Supadata credit, where the 229 taken from infoq.com cost nothing but the crawl delay. `infoq.py` fetches them; `robots.txt` allows `/presentations/` and asks for `Crawl-delay: 3`, which is the pace it keeps.
+- **The year comes from the edition, not the publish date.** InfoQ drips a conference's recordings out for a year afterwards, so `datePublished` is when the video went up rather than when the talk was given — of ten presentations posted in 2026, nine were recorded at QCon San Francisco 2025, QCon London 2025 or QCon AI New York 2025. So enumeration walks `/<edition>/presentations/` (`qcon-london-2026`, `qcon-ai-boston-2026`, `infoq-live-june-2026` …) and each talk takes the year of the edition that listed it.
+- **A talk on both InfoQ and YouTube stays one talk.** `infoq.py` matches on title against the channel listing and, on a hit, writes the transcript and the better metadata — a real abstract, the speakers stated rather than guessed off the title, the edition — onto the record that is already there, keeping its YouTube id so the video stays watchable and its transcript stays upgradable to exact timings. Only a presentation YouTube never listed becomes a new record, under an `iq-` id whose link is its InfoQ page.
+- That source carries `"scope": "all"`: like the WeAreDevelopers seed, a curated conference programme is not a channel's uploads, and every page under it is a session someone put on a QCon or Dev Summit track. The channel listing above keeps its AI filter.
 
 ### WeAreDevelopers
 - Site: https://www.wearedevelopers.com/en

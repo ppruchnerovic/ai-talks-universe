@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 33
 published_at: 2026-06-12T16:31:50Z
 video_id: 50ZODW1SNOU
+url: https://www.youtube.com/watch?v=50ZODW1SNOU
 youtube_url: https://www.youtube.com/watch?v=50ZODW1SNOU
 tags: ["Azure Storage for AI workloads​ | OD870", "Cloud Platform & Data", "OD870", "OD870_v3", "Saloni Sonpal", "Saurabh Sensharma", "Vishnu Charan TJ", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

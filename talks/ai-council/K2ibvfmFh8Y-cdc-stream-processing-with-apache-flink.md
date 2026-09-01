@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 34
 published_at: 2023-05-11T18:58:45Z
 video_id: K2ibvfmFh8Y
+url: https://www.youtube.com/watch?v=K2ibvfmFh8Y
 youtube_url: https://www.youtube.com/watch?v=K2ibvfmFh8Y
 tags: ["Apache Kafka", "SQL", "data streaming", "cdc"]
 transcript: false

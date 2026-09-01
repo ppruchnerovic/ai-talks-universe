@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 30
 published_at: 2026-06-25T06:27:16Z
 video_id: 78KQVxMTAQ4
+url: https://www.youtube.com/watch?v=78KQVxMTAQ4
 youtube_url: https://www.youtube.com/watch?v=78KQVxMTAQ4
 tags: ["AI DevCon London 2026", "AI Native DevCon London 2026", "AI data handling", "Cisco AI strategy", "agent architectures", "ainativedev", "balancing model costs", "context pipelines", "enterprise AI", "evaluable AI", "installable skills", "skills everywhere", "skills management", "using skills for enterprise AI", "what is context management"]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 28
 published_at: null
 video_id: Mg08QTBILWU
+url: https://www.youtube.com/watch?v=Mg08QTBILWU
 youtube_url: https://www.youtube.com/watch?v=Mg08QTBILWU
 tags: []
 transcript: false

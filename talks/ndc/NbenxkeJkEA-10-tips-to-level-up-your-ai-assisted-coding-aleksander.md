@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-02-25T12:20:35Z
 video_id: NbenxkeJkEA
+url: https://www.youtube.com/watch?v=NbenxkeJkEA
 youtube_url: https://www.youtube.com/watch?v=NbenxkeJkEA
 tags: ["AI", "NDC", "London", "2026", "Live", "Fun", "UK", "England", "Great Britain", "United Kingdom", "Aleksander Stensby"]
 transcript: true

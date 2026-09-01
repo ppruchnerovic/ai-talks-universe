@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 36
 published_at: 2023-05-11T18:57:49Z
 video_id: FLtqcrJ7Vws
+url: https://www.youtube.com/watch?v=FLtqcrJ7Vws
 youtube_url: https://www.youtube.com/watch?v=FLtqcrJ7Vws
 tags: ["data cleaning", "open source", "lakefs", "machine learning"]
 transcript: false

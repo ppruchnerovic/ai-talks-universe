@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2023-05-11T18:58:25Z
 video_id: 2z32ci97FBo
+url: https://www.youtube.com/watch?v=2z32ci97FBo
 youtube_url: https://www.youtube.com/watch?v=2z32ci97FBo
 tags: ["AI", "NLP", "computer vision", "data products"]
 transcript: false

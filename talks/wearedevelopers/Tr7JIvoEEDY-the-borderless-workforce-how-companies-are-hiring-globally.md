@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 36
 published_at: 2026-05-07T07:00:00Z
 video_id: Tr7JIvoEEDY
+url: https://www.youtube.com/watch?v=Tr7JIvoEEDY
 youtube_url: https://www.youtube.com/watch?v=Tr7JIvoEEDY
 tags: ["hiring", "recruiting", "recruitment", "talent", "HR", "people", "culture", "transformation", "work", "global", "organizations", "companies", "workforce", "AI", "remote work", "hybrid workplace", "teams"]
 transcript: true

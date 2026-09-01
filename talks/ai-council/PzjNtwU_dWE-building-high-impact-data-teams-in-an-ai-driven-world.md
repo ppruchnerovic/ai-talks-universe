@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-28T23:43:01Z
 video_id: PzjNtwU_dWE
+url: https://www.youtube.com/watch?v=PzjNtwU_dWE
 youtube_url: https://www.youtube.com/watch?v=PzjNtwU_dWE
 tags: ["team building", "data teams", "AI leadership", "ChatGPT", "artificial intelligence", "machine learning", "data strategy", "organizational design", "AI driven teams", "data leadership", "team management", "data culture", "Python tutorial", "talent acquisition", "skill development", "team dynamics", "leadership development", "performance management", "organizational behavior", "culture transformation", "change leadership"]
 transcript: false

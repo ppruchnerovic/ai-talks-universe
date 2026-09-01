@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:19:39Z
 video_id: ni4CZDbe15U
+url: https://www.youtube.com/watch?v=ni4CZDbe15U
 youtube_url: https://www.youtube.com/watch?v=ni4CZDbe15U
 tags: ["Anna Hoffman", "BRK220", "BRK220_v1", "English (US)", "Idris Motiwala", "Jeff Shood", "SQL database in Fabric: The unified database for AI apps and analytics | BRK220", "Technical", "Unify your data platform", "Unify your data platform:Azure SQL", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

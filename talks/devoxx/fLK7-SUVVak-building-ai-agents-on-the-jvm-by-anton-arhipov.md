@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 46
 published_at: 2026-04-08T22:10:25Z
 video_id: fLK7-SUVVak
+url: https://www.youtube.com/watch?v=fLK7-SUVVak
 youtube_url: https://www.youtube.com/watch?v=fLK7-SUVVak
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 42
 published_at: 2023-05-18T15:17:05Z
 video_id: mhBNDolRfPk
+url: https://www.youtube.com/watch?v=mhBNDolRfPk
 youtube_url: https://www.youtube.com/watch?v=mhBNDolRfPk
 tags: ["schema issues", "data streaming", "data engineering", "product"]
 transcript: false

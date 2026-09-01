@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 23
 published_at: 2023-05-11T19:00:14Z
 video_id: iF_FIBfO3hA
+url: https://www.youtube.com/watch?v=iF_FIBfO3hA
 youtube_url: https://www.youtube.com/watch?v=iF_FIBfO3hA
 tags: ["data platforms", "data culture"]
 transcript: false

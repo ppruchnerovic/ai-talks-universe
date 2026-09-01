@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 53
 published_at: 2026-07-06T09:44:57Z
 video_id: 0kZC1o4ttAQ
+url: https://www.youtube.com/watch?v=0kZC1o4ttAQ
 youtube_url: https://www.youtube.com/watch?v=0kZC1o4ttAQ
 tags: ["QCon AI", "InfoQ", "Transcript", "Context Engineering", "Prompt Engineering", "Software Architecture", "Stateful AI", "Apache Flink", "Apache Kafka", "Distributed Systems", "AI Agents"]
 transcript: false

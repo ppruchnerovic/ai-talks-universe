@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-26T21:27:24Z
 video_id: MWid8VX6PZ4
+url: https://www.youtube.com/watch?v=MWid8VX6PZ4
 youtube_url: https://www.youtube.com/watch?v=MWid8VX6PZ4
 tags: ["Azure AI Infra updates to power frontier and enterprise workloads | BRK179", "BRK179", "English (US)", "Migrate and modernize your estate", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-04T13:56:51Z
 video_id: il8JKKLAtuA
+url: https://www.youtube.com/watch?v=il8JKKLAtuA
 youtube_url: https://www.youtube.com/watch?v=il8JKKLAtuA
 tags: ["LIVE109", "LIVE109_v1", "Scott Guthrie", "Seth Juarez", "What’s real ready and next for developers with Scott Guthrie | LIVE109", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

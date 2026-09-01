@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 32
 published_at: 2023-05-11T19:00:42Z
 video_id: F2tP0gVTNaw
+url: https://www.youtube.com/watch?v=F2tP0gVTNaw
 youtube_url: https://www.youtube.com/watch?v=F2tP0gVTNaw
 tags: ["data science", "synthetic data", "algorithms"]
 transcript: false

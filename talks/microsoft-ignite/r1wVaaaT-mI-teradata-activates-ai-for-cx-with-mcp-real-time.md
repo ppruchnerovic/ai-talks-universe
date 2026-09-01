@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-19T14:56:12Z
 video_id: r1wVaaaT-mI
+url: https://www.youtube.com/watch?v=r1wVaaaT-mI
 youtube_url: https://www.youtube.com/watch?v=r1wVaaaT-mI
 tags: ["English (US)", "ODSP1503", "ODSP1503_v1", "Technical", "Teradata activates AI for CX with MCP: Real-time intelligence engine | ODSP1503", "Vidhan Bhonsle", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

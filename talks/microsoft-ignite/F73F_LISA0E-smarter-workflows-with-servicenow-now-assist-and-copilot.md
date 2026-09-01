@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 19
 published_at: 2024-11-20T14:16:49Z
 video_id: F73F_LISA0E
+url: https://www.youtube.com/watch?v=F73F_LISA0E
 youtube_url: https://www.youtube.com/watch?v=F73F_LISA0E
 tags: ["AI", "Automation", "Copilot", "Copilot for M365", "Copilot workflows", "Developer", "Enterprise work management", "Intermediate (200)", "Microsoft 365", "Microsoft 365 Apps", "Microsoft Copilot", "ODFP974", "Pre-recorded", "Smarter workflows with ServiceNow Now Assist and Copilot integration | ODFP974", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

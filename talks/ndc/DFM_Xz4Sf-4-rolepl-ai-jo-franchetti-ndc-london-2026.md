@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-03-05T09:41:03Z
 video_id: DFM_Xz4Sf-4
+url: https://www.youtube.com/watch?v=DFM_Xz4Sf-4
 youtube_url: https://www.youtube.com/watch?v=DFM_Xz4Sf-4
 tags: ["AI", "Gaming", "JavaScript", "Jo Franchetti", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "Great Britain", "United Kingdom", "UK"]
 transcript: true

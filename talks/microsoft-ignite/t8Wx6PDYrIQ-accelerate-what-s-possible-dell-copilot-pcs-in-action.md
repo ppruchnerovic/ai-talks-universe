@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T11:16:01Z
 video_id: t8Wx6PDYrIQ
+url: https://www.youtube.com/watch?v=t8Wx6PDYrIQ
 youtube_url: https://www.youtube.com/watch?v=t8Wx6PDYrIQ
 tags: ["Accelerate what's possible: Dell Copilot+ PCs in action | BRKSP461", "BRKSP461", "Copilot and agents at work", "English (US)", "Isaac Pinon", "Media and Entertainment", "Technical", "dfb08fd2-0eb1-470d-b34f-9b1d46d85df5_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

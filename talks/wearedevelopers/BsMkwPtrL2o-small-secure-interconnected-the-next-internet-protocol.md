@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T10:50:00+00:00
 video_id: BsMkwPtrL2o
+url: https://www.youtube.com/watch?v=BsMkwPtrL2o
 youtube_url: https://www.youtube.com/watch?v=BsMkwPtrL2o
 tags: ["Cloud & AI Infrastructure", "Cloud Security", "DevOps", "Infrastructure"]
 transcript: true

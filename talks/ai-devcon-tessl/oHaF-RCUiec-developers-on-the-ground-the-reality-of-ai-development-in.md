@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 11
 published_at: 2025-09-11T20:41:52Z
 video_id: oHaF-RCUiec
+url: https://www.youtube.com/watch?v=oHaF-RCUiec
 youtube_url: https://www.youtube.com/watch?v=oHaF-RCUiec
 tags: []
 transcript: false

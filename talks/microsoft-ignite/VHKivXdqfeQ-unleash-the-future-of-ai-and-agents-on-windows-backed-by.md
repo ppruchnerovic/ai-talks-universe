@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T11:17:21Z
 video_id: VHKivXdqfeQ
+url: https://www.youtube.com/watch?v=VHKivXdqfeQ
 youtube_url: https://www.youtube.com/watch?v=VHKivXdqfeQ
 tags: ["BRK333", "BRK333_v1", "Donald Thompson", "English (US)", "Sasha Sproch", "Scale with cloud and AI endpoints", "Technical", "Unleash the future of AI and agents on Windows backed by security | BRK333", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

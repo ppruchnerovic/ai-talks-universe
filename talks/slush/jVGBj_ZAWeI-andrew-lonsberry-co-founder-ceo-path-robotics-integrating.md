@@ -12,6 +12,7 @@ channel: null
 duration_min: 26
 published_at: null
 video_id: jVGBj_ZAWeI
+url: https://www.youtube.com/watch?v=jVGBj_ZAWeI
 youtube_url: https://www.youtube.com/watch?v=jVGBj_ZAWeI
 tags: []
 transcript: false

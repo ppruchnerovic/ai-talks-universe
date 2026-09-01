@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 11
 published_at: 2026-07-22T17:00:38Z
 video_id: VGN22pPpb-8
+url: https://www.youtube.com/watch?v=VGN22pPpb-8
 youtube_url: https://www.youtube.com/watch?v=VGN22pPpb-8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

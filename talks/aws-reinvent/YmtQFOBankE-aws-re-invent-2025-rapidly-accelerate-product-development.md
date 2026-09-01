@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 55
 published_at: null
 video_id: YmtQFOBankE
+url: https://www.youtube.com/watch?v=YmtQFOBankE
 youtube_url: https://www.youtube.com/watch?v=YmtQFOBankE
 tags: []
 transcript: false

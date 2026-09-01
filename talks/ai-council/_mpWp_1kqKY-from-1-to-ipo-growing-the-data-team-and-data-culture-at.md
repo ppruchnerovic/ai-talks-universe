@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 34
 published_at: 2023-05-11T18:59:15Z
 video_id: _mpWp_1kqKY
+url: https://www.youtube.com/watch?v=_mpWp_1kqKY
 youtube_url: https://www.youtube.com/watch?v=_mpWp_1kqKY
 tags: ["data teams", "team culture", "data culture"]
 transcript: false

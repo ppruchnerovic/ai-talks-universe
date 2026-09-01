@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T09:30:00+00:00
 video_id: _t4ChjPQ3js
+url: https://www.youtube.com/watch?v=_t4ChjPQ3js
 youtube_url: https://www.youtube.com/watch?v=_t4ChjPQ3js
 tags: ["Talent Strategy"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 32
 published_at: 2026-06-03T18:23:10Z
 video_id: Oh3MaO-Z-4w
+url: https://www.youtube.com/watch?v=Oh3MaO-Z-4w
 youtube_url: https://www.youtube.com/watch?v=Oh3MaO-Z-4w
 tags: []
 transcript: true

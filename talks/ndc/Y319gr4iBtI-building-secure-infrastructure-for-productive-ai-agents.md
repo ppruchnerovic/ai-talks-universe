@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 63
 published_at: 2026-03-03T10:14:41Z
 video_id: Y319gr4iBtI
+url: https://www.youtube.com/watch?v=Y319gr4iBtI
 youtube_url: https://www.youtube.com/watch?v=Y319gr4iBtI
 tags: ["AI", "Cloud", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "Great Britain", "United Kingdom", "UK", "Eric Paulsen"]
 transcript: true

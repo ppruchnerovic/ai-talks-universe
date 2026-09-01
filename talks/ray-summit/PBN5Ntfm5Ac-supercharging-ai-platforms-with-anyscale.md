@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 21
 published_at: 2024-10-17T20:27:22Z
 video_id: PBN5Ntfm5Ac
+url: https://www.youtube.com/watch?v=PBN5Ntfm5Ac
 youtube_url: https://www.youtube.com/watch?v=PBN5Ntfm5Ac
 tags: []
 transcript: false

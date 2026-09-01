@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T08:50:00+00:00
 video_id: TC9r4UmlYnk
+url: https://www.youtube.com/watch?v=TC9r4UmlYnk
 youtube_url: https://www.youtube.com/watch?v=TC9r4UmlYnk
 tags: ["Engineering Leadership", "AI Models", "DORA Metrics", "Generative AI (GenAI)", "Metrics", "Product Strategy", "Productivity"]
 transcript: true

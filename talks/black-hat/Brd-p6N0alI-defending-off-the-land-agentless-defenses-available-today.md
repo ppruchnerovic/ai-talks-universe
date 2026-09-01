@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 41
 published_at: 2025-04-25T16:49:46Z
 video_id: Brd-p6N0alI
+url: https://www.youtube.com/watch?v=Brd-p6N0alI
 youtube_url: https://www.youtube.com/watch?v=Brd-p6N0alI
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 132
 published_at: null
 video_id: _waPvOwL9Z8
+url: https://www.youtube.com/watch?v=_waPvOwL9Z8
 youtube_url: https://www.youtube.com/watch?v=_waPvOwL9Z8
 tags: []
 transcript: false

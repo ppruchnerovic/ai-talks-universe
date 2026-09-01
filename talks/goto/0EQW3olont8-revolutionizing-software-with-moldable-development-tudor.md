@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 40
 published_at: 2025-04-25T09:53:18Z
 video_id: 0EQW3olont8
+url: https://www.youtube.com/watch?v=0EQW3olont8
 youtube_url: https://www.youtube.com/watch?v=0EQW3olont8
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false

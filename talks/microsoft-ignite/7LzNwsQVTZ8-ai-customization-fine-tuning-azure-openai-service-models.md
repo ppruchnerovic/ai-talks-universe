@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:03:17Z
 video_id: 7LzNwsQVTZ8
+url: https://www.youtube.com/watch?v=7LzNwsQVTZ8
 youtube_url: https://www.youtube.com/watch?v=7LzNwsQVTZ8
 tags: ["AI", "AI customization: Fine-tuning Azure OpenAI Service models | BRK101", "Advanced (300)", "Ami Patel", "Anish Shah", "Azure OpenAI", "AzureOpenAI", "BRK101", "Breakout", "English (US)", "FineTuning", "GenAI", "GenerativeAI", "Software Company", "Steve Sweetman", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

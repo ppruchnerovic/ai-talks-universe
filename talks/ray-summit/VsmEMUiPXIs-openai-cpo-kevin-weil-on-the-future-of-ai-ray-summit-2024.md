@@ -12,6 +12,7 @@ channel: null
 duration_min: 36
 published_at: null
 video_id: VsmEMUiPXIs
+url: https://www.youtube.com/watch?v=VsmEMUiPXIs
 youtube_url: https://www.youtube.com/watch?v=VsmEMUiPXIs
 tags: []
 transcript: false

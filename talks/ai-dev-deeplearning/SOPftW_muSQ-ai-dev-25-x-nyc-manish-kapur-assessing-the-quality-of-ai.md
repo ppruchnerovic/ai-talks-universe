@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 27
 published_at: 2025-12-05T14:49:55Z
 video_id: SOPftW_muSQ
+url: https://www.youtube.com/watch?v=SOPftW_muSQ
 youtube_url: https://www.youtube.com/watch?v=SOPftW_muSQ
 tags: []
 transcript: false

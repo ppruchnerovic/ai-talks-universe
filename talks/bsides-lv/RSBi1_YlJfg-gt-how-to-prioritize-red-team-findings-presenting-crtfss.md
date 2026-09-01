@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 19
 published_at: 2023-10-25T21:49:28Z
 video_id: RSBi1_YlJfg
+url: https://www.youtube.com/watch?v=RSBi1_YlJfg
 youtube_url: https://www.youtube.com/watch?v=RSBi1_YlJfg
 tags: ["bslv2023-GT-2023-UDG97C", "bslv", "bsideslv", "ground truth", "gt", "bsides las vegas", "bsides las vegas 2023", "UDG97C"]
 transcript: false

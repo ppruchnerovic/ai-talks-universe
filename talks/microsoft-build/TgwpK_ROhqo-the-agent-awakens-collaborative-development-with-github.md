@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 51
 published_at: null
 video_id: TgwpK_ROhqo
+url: https://www.youtube.com/watch?v=TgwpK_ROhqo
 youtube_url: https://www.youtube.com/watch?v=TgwpK_ROhqo
 tags: []
 transcript: false

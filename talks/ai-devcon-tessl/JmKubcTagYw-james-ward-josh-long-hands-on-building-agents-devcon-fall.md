@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 53
 published_at: 2025-11-27T22:07:00Z
 video_id: JmKubcTagYw
+url: https://www.youtube.com/watch?v=JmKubcTagYw
 youtube_url: https://www.youtube.com/watch?v=JmKubcTagYw
 tags: ["ainativedev"]
 transcript: false

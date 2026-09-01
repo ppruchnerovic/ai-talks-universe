@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 29
 published_at: 2026-07-13T09:28:53Z
 video_id: 5SKh-FmjX7U
+url: https://www.youtube.com/watch?v=5SKh-FmjX7U
 youtube_url: https://www.youtube.com/watch?v=5SKh-FmjX7U
 tags: ["AI in brownfield environments", "AI in software engineering", "AI native engineering", "AI strategies for codebases", "AI-driven coding", "AI-driven software development", "NearForm", "ainativedev", "brownfield codebases", "evolving legacy code", "how to reduce technical debt", "legacy system modernization", "legacy systems transformation", "software development", "technical debt reduction"]
 transcript: true

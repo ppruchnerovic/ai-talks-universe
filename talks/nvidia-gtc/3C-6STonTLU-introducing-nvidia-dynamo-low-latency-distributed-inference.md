@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 89
 published_at: null
 video_id: 3C-6STonTLU
+url: https://www.youtube.com/watch?v=3C-6STonTLU
 youtube_url: https://www.youtube.com/watch?v=3C-6STonTLU
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 25
 published_at: 2026-02-23T13:01:17Z
 video_id: jB-OCXeEtrE
+url: https://www.youtube.com/watch?v=jB-OCXeEtrE
 youtube_url: https://www.youtube.com/watch?v=jB-OCXeEtrE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Nick Selby", "Sarah Wells", "Governance", "AI Governance", "Risk of AI", "Threat Modeling", "Infosec", "Reducing Risk", "Data Processing"]
 transcript: true

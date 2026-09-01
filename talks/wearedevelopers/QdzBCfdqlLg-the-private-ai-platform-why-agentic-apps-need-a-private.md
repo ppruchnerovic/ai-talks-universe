@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T14:50:00+00:00
 video_id: QdzBCfdqlLg
+url: https://www.youtube.com/watch?v=QdzBCfdqlLg
 youtube_url: https://www.youtube.com/watch?v=QdzBCfdqlLg
 tags: ["Cloud & AI Infrastructure", "AI Coding Assistants", "Generative AI (GenAI)", "Internal Platforms", "Multi-Cloud"]
 transcript: true

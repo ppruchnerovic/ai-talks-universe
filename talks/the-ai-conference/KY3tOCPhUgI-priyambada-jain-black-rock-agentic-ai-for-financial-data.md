@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 24
 published_at: 2026-08-26T21:39:56Z
 video_id: KY3tOCPhUgI
+url: https://www.youtube.com/watch?v=KY3tOCPhUgI
 youtube_url: https://www.youtube.com/watch?v=KY3tOCPhUgI
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 45
 published_at: 2025-12-23T07:12:30Z
 video_id: vDaBew1khj4
+url: https://www.youtube.com/watch?v=vDaBew1khj4
 youtube_url: https://www.youtube.com/watch?v=vDaBew1khj4
 tags: ["future", "hr", "people", "culture", "talent acquisition", "leadership", "human resources", "recruiting"]
 transcript: false

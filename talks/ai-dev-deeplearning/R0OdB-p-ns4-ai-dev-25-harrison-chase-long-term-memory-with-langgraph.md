@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 92
 published_at: 2025-03-27T18:07:43Z
 video_id: R0OdB-p-ns4
+url: https://www.youtube.com/watch?v=R0OdB-p-ns4
 youtube_url: https://www.youtube.com/watch?v=R0OdB-p-ns4
 tags: []
 transcript: true

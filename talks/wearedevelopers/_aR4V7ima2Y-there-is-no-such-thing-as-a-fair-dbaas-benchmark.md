@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-10T11:40:00+00:00
 video_id: _aR4V7ima2Y
+url: https://www.youtube.com/watch?v=_aR4V7ima2Y
 youtube_url: https://www.youtube.com/watch?v=_aR4V7ima2Y
 tags: ["Data & Databases", "Cassandra", "MongoDB", "Multi-Cloud", "Performance", "PostgreSQL"]
 transcript: true

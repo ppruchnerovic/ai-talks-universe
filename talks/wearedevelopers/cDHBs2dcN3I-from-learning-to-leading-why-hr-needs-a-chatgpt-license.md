@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 42
 published_at: 2025-06-27T07:19:00Z
 video_id: cDHBs2dcN3I
+url: https://www.youtube.com/watch?v=cDHBs2dcN3I
 youtube_url: https://www.youtube.com/watch?v=cDHBs2dcN3I
 tags: ["WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "chatgpt", "ai", "automation", "hr", "innovation", "regulation", "disruption", "adoption", "change", "leadership"]
 transcript: false

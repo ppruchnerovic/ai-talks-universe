@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 43
 published_at: 2026-06-04T12:02:52Z
 video_id: nZM5PkjzSKo
+url: https://www.youtube.com/watch?v=nZM5PkjzSKo
 youtube_url: https://www.youtube.com/watch?v=nZM5PkjzSKo
 tags: ["API", "Agents", "BRK242", "Developer", "Governance", "Joe Filcik", "MCP", "Maria Naggaga", "Microsoft Foundry", "Ronak Chokshi", "Turn your agents into action: Connect tools APIs and documents | BRK242", "build", "build 2026", "e70ca1c3-f52b-4bcb-bc80-6e6afc4f5537_M9Z7-BRK242-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

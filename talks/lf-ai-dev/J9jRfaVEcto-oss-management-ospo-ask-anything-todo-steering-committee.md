@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 46
 published_at: 2025-09-05T19:43:19Z
 video_id: J9jRfaVEcto
+url: https://www.youtube.com/watch?v=J9jRfaVEcto
 youtube_url: https://www.youtube.com/watch?v=J9jRfaVEcto
 tags: []
 transcript: false

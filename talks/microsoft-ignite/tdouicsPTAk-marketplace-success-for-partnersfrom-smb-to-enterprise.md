@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T13:01:21Z
 video_id: tdouicsPTAk
+url: https://www.youtube.com/watch?v=tdouicsPTAk
 youtube_url: https://www.youtube.com/watch?v=tdouicsPTAk
 tags: ["9c5125d5-375e-481d-9f93-f5fa2908f1e6_Segment", "English (US)", "Jason Graefe", "Marketplace success for partners—from SMB to enterprise | PBRK424", "Mason McCoy", "Microsoft AI Cloud Partner Program", "PBRK424", "Partner Business", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

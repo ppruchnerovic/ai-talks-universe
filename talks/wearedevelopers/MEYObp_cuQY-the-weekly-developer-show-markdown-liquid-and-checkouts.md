@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 56
 published_at: 2026-02-27T10:15:28Z
 video_id: MEYObp_cuQY
+url: https://www.youtube.com/watch?v=MEYObp_cuQY
 youtube_url: https://www.youtube.com/watch?v=MEYObp_cuQY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: true

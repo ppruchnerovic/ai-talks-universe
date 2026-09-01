@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 45
 published_at: 2026-01-28T17:26:54Z
 video_id: gCKO72VZqb4
+url: https://www.youtube.com/watch?v=gCKO72VZqb4
 youtube_url: https://www.youtube.com/watch?v=gCKO72VZqb4
 tags: ["AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T10:20:00+00:00
 video_id: 4P35bvzLcI8
+url: https://www.youtube.com/watch?v=4P35bvzLcI8
 youtube_url: https://www.youtube.com/watch?v=4P35bvzLcI8
 tags: ["Engineering Leadership", "Analytics", "Communication", "Performance", "Scaling"]
 transcript: true

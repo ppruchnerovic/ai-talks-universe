@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 43
 published_at: 2026-07-23T10:00:25Z
 video_id: 4tM8Jc4pH1s
+url: https://www.youtube.com/watch?v=4tM8Jc4pH1s
 youtube_url: https://www.youtube.com/watch?v=4tM8Jc4pH1s
 tags: ["Concurrency", "C++", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Alex Dathskovsky"]
 transcript: true

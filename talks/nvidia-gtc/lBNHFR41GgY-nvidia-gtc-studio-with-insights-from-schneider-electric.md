@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 17
 published_at: 2026-03-30T21:55:23Z
 video_id: lBNHFR41GgY
+url: https://www.youtube.com/watch?v=lBNHFR41GgY
 youtube_url: https://www.youtube.com/watch?v=lBNHFR41GgY
 tags: ["NVIDIA", "GTC", "Energy", "Energy Efficiency", "AI infrastructure"]
 transcript: true

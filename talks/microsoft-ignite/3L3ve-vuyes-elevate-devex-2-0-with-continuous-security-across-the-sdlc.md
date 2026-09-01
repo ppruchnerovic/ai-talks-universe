@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-19T12:22:05Z
 video_id: 3L3ve-vuyes
+url: https://www.youtube.com/watch?v=3L3ve-vuyes
 youtube_url: https://www.youtube.com/watch?v=3L3ve-vuyes
 tags: ["Colin Bell", "Elevate DevEx 2.0 with continuous security across the SDLC | ODSP1446", "English (US)", "Modernize SecOps with a unified platform", "ODSP1446", "ODSP1446_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

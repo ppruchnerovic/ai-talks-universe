@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T11:00:29Z
 video_id: GzQhZR2Gmec
+url: https://www.youtube.com/watch?v=GzQhZR2Gmec
 youtube_url: https://www.youtube.com/watch?v=GzQhZR2Gmec
 tags: ["BRK322", "English (US)", "Innovate with low-code AI and agents", "Ryan Cunningham", "Technical", "The future of Power Platform: AI-powered and enterprise-grade | BRK322", "d27ea017-de61-488f-8ace-e954d35ce299_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

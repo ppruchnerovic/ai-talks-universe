@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 29
 published_at: 2025-10-28T19:07:09Z
 video_id: 0nQGPlg9e6s
+url: https://www.youtube.com/watch?v=0nQGPlg9e6s
 youtube_url: https://www.youtube.com/watch?v=0nQGPlg9e6s
 tags: ["Bayesian inference", "Conference", "PyConDE", "PyData", "PyMC", "Python", "Tech Talk", "cloud certification", "data collection", "data science methodology", "decision-making", "prior assumptions", "probability distributions", "real-life applications", "statistical modeling", "uncertainty quantification"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-24T11:57:55Z
 video_id: Bg-OfUzwVdo
+url: https://www.youtube.com/watch?v=Bg-OfUzwVdo
 youtube_url: https://www.youtube.com/watch?v=Bg-OfUzwVdo
 tags: ["425746ae-65a0-4c27-b006-157d2300b965_Segment", "BRK218", "Building Sustainable Software with Agentic DevOps on GitHub | BRK218", "English (US)", "Innovate with Azure AI apps and agents", "Martin Woodward", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

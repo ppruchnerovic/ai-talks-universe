@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-05-26T10:26:03Z
 video_id: q26-3exWpso
+url: https://www.youtube.com/watch?v=q26-3exWpso
 youtube_url: https://www.youtube.com/watch?v=q26-3exWpso
 tags: ["AI", "Machine Learning", "Tools", "API", "Whatsapp", "Twilio", "OpenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Australia", "Norway", "Michelle “MishManners” Duke"]
 transcript: true

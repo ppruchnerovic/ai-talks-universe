@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T13:14:33Z
 video_id: CBikiOmtL7I
+url: https://www.youtube.com/watch?v=CBikiOmtL7I
 youtube_url: https://www.youtube.com/watch?v=CBikiOmtL7I
 tags: ["36fd9279-0fde-4a31-899f-ea555b655c79_Segment", "Accelerate Growth through Partner Incentives | PBRK416", "Adrian Buxton", "English (US)", "Meera Venkatesh", "Microsoft AI Cloud Partner Program", "PBRK416", "Partner Business", "Uriel Rootshtain", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

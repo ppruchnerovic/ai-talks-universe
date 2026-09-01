@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-05-20T00:00:00Z
 video_id: -TiET_K-E_g
+url: https://www.youtube.com/watch?v=-TiET_K-E_g
 youtube_url: https://www.youtube.com/watch?v=-TiET_K-E_g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

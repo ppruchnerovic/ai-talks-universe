@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T14:50:00+00:00
 video_id: yuOoyrIB_gk
+url: https://www.youtube.com/watch?v=yuOoyrIB_gk
 youtube_url: https://www.youtube.com/watch?v=yuOoyrIB_gk
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Models", "AI Standards", "LLMOps", "Web Standards"]
 transcript: true

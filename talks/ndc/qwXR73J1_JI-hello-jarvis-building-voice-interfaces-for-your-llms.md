@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 49
 published_at: 2026-03-09T12:24:03Z
 video_id: qwXR73J1_JI
+url: https://www.youtube.com/watch?v=qwXR73J1_JI
 youtube_url: https://www.youtube.com/watch?v=qwXR73J1_JI
 tags: ["AI", "UI", "UX", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "Great Britain", "United Kingdom", "Nathaniel Okenwa"]
 transcript: true

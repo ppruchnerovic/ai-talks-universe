@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T11:30:00+00:00
 video_id: edHCwb1cUgo
+url: https://www.youtube.com/watch?v=edHCwb1cUgo
 youtube_url: https://www.youtube.com/watch?v=edHCwb1cUgo
 tags: ["AI Engineering", "AI Models", "AI Standards", "Generative AI (GenAI)", "Networking", "Tokenomics"]
 transcript: true

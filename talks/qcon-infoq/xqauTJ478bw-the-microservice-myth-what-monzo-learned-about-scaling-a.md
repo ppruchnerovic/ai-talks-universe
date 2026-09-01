@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2025-09-17T07:31:21Z
 video_id: xqauTJ478bw
+url: https://www.youtube.com/watch?v=xqauTJ478bw
 youtube_url: https://www.youtube.com/watch?v=xqauTJ478bw
 tags: ["Software Architecture", "Microservices", "Engineering Leadership", "Sociotechnical Architecture", "Platform Engineering", "Careers"]
 transcript: false

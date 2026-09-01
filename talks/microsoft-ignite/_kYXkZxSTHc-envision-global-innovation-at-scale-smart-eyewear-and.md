@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 31
 published_at: 2025-11-24T12:47:53Z
 video_id: _kYXkZxSTHc
+url: https://www.youtube.com/watch?v=_kYXkZxSTHc
 youtube_url: https://www.youtube.com/watch?v=_kYXkZxSTHc
 tags: ["6cbe7b5c-de34-48b8-b87b-ae3c8d502fb2_Segment", "Alfredo Patron", "BRKSP491", "English (US)", "Envision global innovation at scale: Smart eyewear and connected retail | BRKSP491", "John Luna", "Retail and Consumer Goods", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

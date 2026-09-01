@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 53
 published_at: 2025-10-09T05:35:14Z
 video_id: Bgsln75ogMU
+url: https://www.youtube.com/watch?v=Bgsln75ogMU
 youtube_url: https://www.youtube.com/watch?v=Bgsln75ogMU
 tags: []
 transcript: false

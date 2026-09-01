@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-24T14:34:52Z
 video_id: 0dcenkOeKi4
+url: https://www.youtube.com/watch?v=0dcenkOeKi4
 youtube_url: https://www.youtube.com/watch?v=0dcenkOeKi4
 tags: ["(Awaiting demo guidance from Microsoft) | STUDIOSP78", "English (US)", "STUDIOSP78", "STUDIOSP78_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

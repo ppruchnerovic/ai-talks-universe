@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 26
 published_at: null
 video_id: fX3SJ-fAPDY
+url: https://www.youtube.com/watch?v=fX3SJ-fAPDY
 youtube_url: https://www.youtube.com/watch?v=fX3SJ-fAPDY
 tags: []
 transcript: false

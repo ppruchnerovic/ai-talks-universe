@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 12
 published_at: 2025-05-29T13:36:03Z
 video_id: viHRWx5n-T0
+url: https://www.youtube.com/watch?v=viHRWx5n-T0
 youtube_url: https://www.youtube.com/watch?v=viHRWx5n-T0
 tags: ["startup", "search API", "vector database", "ChatGPT", "artificial intelligence", "machine learning", "unified search", "search technology", "vector search", "search platform", "dense sparse vector", "text search", "Python tutorial", "API development", "developer tools", "search infrastructure", "machine learning infrastructure", "semantic search", "similarity search", "recommendation engines", "personalization", "enterprise search"]
 transcript: false

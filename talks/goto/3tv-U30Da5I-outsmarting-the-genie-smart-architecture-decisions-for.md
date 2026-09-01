@@ -12,6 +12,7 @@ channel: null
 duration_min: 47
 published_at: null
 video_id: 3tv-U30Da5I
+url: https://www.youtube.com/watch?v=3tv-U30Da5I
 youtube_url: https://www.youtube.com/watch?v=3tv-U30Da5I
 tags: []
 transcript: false

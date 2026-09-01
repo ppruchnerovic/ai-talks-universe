@@ -12,6 +12,7 @@ channel: "OpenAI"
 duration_min: 8
 published_at: null
 video_id: iXq50gPo-go
+url: https://www.youtube.com/watch?v=iXq50gPo-go
 youtube_url: https://www.youtube.com/watch?v=iXq50gPo-go
 tags: []
 transcript: false

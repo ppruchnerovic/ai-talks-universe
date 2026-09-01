@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-27T13:02:22Z
 video_id: 1RvvzpI1EyU
+url: https://www.youtube.com/watch?v=1RvvzpI1EyU
 youtube_url: https://www.youtube.com/watch?v=1RvvzpI1EyU
 tags: ["AI", "BRK328", "Breakout", "Data Security", "English (US)", "Intermediate (200)", "Making Zero Trust Real: Top 10 Security Controls you can implement now | BRK328", "Mark Simos", "Murugiah Souppaya", "Security", "Security-Curated", "Technical", "Ulf Larsson", "Version v4", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

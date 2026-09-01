@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T00:18:10Z
 video_id: I-2VvU60tPY
+url: https://www.youtube.com/watch?v=I-2VvU60tPY
 youtube_url: https://www.youtube.com/watch?v=I-2VvU60tPY
 tags: ["document processing", "AI automation", "workflow automation", "ChatGPT", "artificial intelligence", "machine learning", "productivity", "intelligent agents", "business automation", "PDFs", "contracts", "compliance reports", "unstructured data", "Python tutorial", "optical character recognition", "OCR", "document understanding", "natural language processing", "information extraction", "document classification", "automated workflows", "intelligent document processing"]
 transcript: false

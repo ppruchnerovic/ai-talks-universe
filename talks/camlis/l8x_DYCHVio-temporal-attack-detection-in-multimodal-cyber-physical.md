@@ -12,6 +12,7 @@ channel: null
 duration_min: 12
 published_at: null
 video_id: l8x_DYCHVio
+url: https://www.youtube.com/watch?v=l8x_DYCHVio
 youtube_url: https://www.youtube.com/watch?v=l8x_DYCHVio
 tags: []
 transcript: false

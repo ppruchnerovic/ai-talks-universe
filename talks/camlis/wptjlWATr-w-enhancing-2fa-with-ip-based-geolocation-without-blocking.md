@@ -12,6 +12,7 @@ channel: null
 duration_min: 12
 published_at: null
 video_id: wptjlWATr-w
+url: https://www.youtube.com/watch?v=wptjlWATr-w
 youtube_url: https://www.youtube.com/watch?v=wptjlWATr-w
 tags: []
 transcript: false

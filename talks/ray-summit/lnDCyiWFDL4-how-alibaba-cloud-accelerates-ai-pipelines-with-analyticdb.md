@@ -12,6 +12,7 @@ channel: null
 duration_min: 34
 published_at: null
 video_id: lnDCyiWFDL4
+url: https://www.youtube.com/watch?v=lnDCyiWFDL4
 youtube_url: https://www.youtube.com/watch?v=lnDCyiWFDL4
 tags: []
 transcript: false

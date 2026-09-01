@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 65
 published_at: 2025-11-23T14:33:53Z
 video_id: f2WMnIFP2MI
+url: https://www.youtube.com/watch?v=f2WMnIFP2MI
 youtube_url: https://www.youtube.com/watch?v=f2WMnIFP2MI
 tags: ["AI ethics", "AI-generated code", "Conference", "PyConDE", "PyData", "PyData Berlin", "PyLadies", "Python", "Python Software Foundation", "Tech Talk", "care work", "feminist technology", "open source sustainability", "software maintenance", "sustainable development", "tech culture", "tech inequality", "tech labor"]
 transcript: false

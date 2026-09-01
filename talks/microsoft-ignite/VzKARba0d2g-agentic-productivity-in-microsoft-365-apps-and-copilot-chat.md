@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T06:49:33Z
 video_id: VzKARba0d2g
+url: https://www.youtube.com/watch?v=VzKARba0d2g
 youtube_url: https://www.youtube.com/watch?v=VzKARba0d2g
 tags: ["Agentic productivity in Microsoft 365 apps and Copilot Chat | BRK277", "BRK277", "BRK277_v1", "Copilot and agents at work", "English (US)", "Technical", "Trevor O'Brien", "Vani Soff", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "dotconferences"
 duration_min: 10
 published_at: 2025-11-14T14:16:06Z
 video_id: UldTRcPl0E8
+url: https://www.youtube.com/watch?v=UldTRcPl0E8
 youtube_url: https://www.youtube.com/watch?v=UldTRcPl0E8
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T13:40:00+00:00
 video_id: LWDsAlMNLac
+url: https://www.youtube.com/watch?v=LWDsAlMNLac
 youtube_url: https://www.youtube.com/watch?v=LWDsAlMNLac
 tags: ["Security & Privacy"]
 transcript: true

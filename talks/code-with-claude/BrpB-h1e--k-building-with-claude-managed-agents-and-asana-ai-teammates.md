@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 25
 published_at: 2026-05-08T18:50:14Z
 video_id: BrpB-h1e--k
+url: https://www.youtube.com/watch?v=BrpB-h1e--k
 youtube_url: https://www.youtube.com/watch?v=BrpB-h1e--k
 tags: []
 transcript: true

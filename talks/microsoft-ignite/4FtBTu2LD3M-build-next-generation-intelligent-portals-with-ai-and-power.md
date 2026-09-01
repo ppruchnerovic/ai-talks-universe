@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T12:46:16Z
 video_id: 4FtBTu2LD3M
+url: https://www.youtube.com/watch?v=4FtBTu2LD3M
 youtube_url: https://www.youtube.com/watch?v=4FtBTu2LD3M
 tags: ["BRK179", "Breakout", "Build Next-Generation Intelligent Portals with AI and Power Pages | BRK179", "Business Applications", "English (US)", "Intermediate (200)", "Justin Graham", "Rahul Dey", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "CAMLIS"
 duration_min: 21
 published_at: 2024-11-16T03:14:20Z
 video_id: CXYZWplLIFE
+url: https://www.youtube.com/watch?v=CXYZWplLIFE
 youtube_url: https://www.youtube.com/watch?v=CXYZWplLIFE
 tags: []
 transcript: false

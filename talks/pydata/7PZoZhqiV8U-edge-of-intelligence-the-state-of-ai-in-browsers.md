@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:49Z
 video_id: 7PZoZhqiV8U
+url: https://www.youtube.com/watch?v=7PZoZhqiV8U
 youtube_url: https://www.youtube.com/watch?v=7PZoZhqiV8U
 tags: ["Conference", "Hugging Face", "JavaScript AI", "ONNX", "PyConDE", "PyData", "Python", "Python conference", "Tech Talk", "TensorFlow.js", "Transformers.js", "WebAI", "WebAssembly", "WebGPU", "browser AI", "client-side ML", "edge AI", "machine learning", "privacy AI", "web development"]
 transcript: false

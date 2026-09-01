@@ -12,6 +12,7 @@ channel: null
 duration_min: 27
 published_at: null
 video_id: gHmHnrIJPPI
+url: https://www.youtube.com/watch?v=gHmHnrIJPPI
 youtube_url: https://www.youtube.com/watch?v=gHmHnrIJPPI
 tags: []
 transcript: false

@@ -241,7 +241,7 @@ def add_details(con, q: str, ranked: list[dict]) -> None:
     indexed column can be asked, which is what tells us what actually matched.
     """
     cols = ("id title speakers conference conference_name category edition year channel tags "
-            "duration_min published_at youtube_url has_transcript").split()
+            "duration_min published_at url youtube_url has_transcript").split()
     for h in ranked:
         row = con.execute(f"SELECT {','.join(cols)} FROM talks WHERE n=?", (h["n"],)).fetchone()
         h.update(dict(zip(cols, row)))
@@ -389,8 +389,12 @@ def render(hits: list[dict], show_moments: bool) -> None:
         if show_moments and h["moments"]:
             for m in h["moments"]:
                 print(f"   {CYAN}{fmt_ts(m['start'])}{OFF} {clean_snip(m['text'])}")
-                print(f"        {h['youtube_url']}&t={int(m['start'])}s")
-        print(f"   {h['youtube_url']}")
+                # `&t=` is a YouTube parameter. An InfoQ presentation page
+                # ignores it, so that hit gets the page and the timestamp above
+                # it rather than a link that pretends to seek.
+                if h["youtube_url"]:
+                    print(f"        {h['youtube_url']}&t={int(m['start'])}s")
+        print(f"   {h['url'] or h['youtube_url'] or ''}")
 
 
 # What --brief keeps. The rest of the record is one lookup away by id, and a
@@ -398,7 +402,7 @@ def render(hits: list[dict], show_moments: bool) -> None:
 # tags, the publication timestamp or a second snippet of the same description
 # — on a 12-hit result set those fields are most of the bytes and none of the
 # decision.
-BRIEF = ("id title speakers conference year duration_min youtube_url "
+BRIEF = ("id title speakers conference year duration_min url "
          "has_transcript score snippet snippet_from matched").split()
 
 # Moments shown per hit under --brief. One passage says whether the talk is

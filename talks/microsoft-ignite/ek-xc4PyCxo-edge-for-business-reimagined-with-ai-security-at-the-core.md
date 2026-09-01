@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 28
 published_at: 2025-11-20T07:23:25Z
 video_id: ek-xc4PyCxo
+url: https://www.youtube.com/watch?v=ek-xc4PyCxo
 youtube_url: https://www.youtube.com/watch?v=ek-xc4PyCxo
 tags: ["13477f05-8e10-4b18-8389-019056b92fc8_Segment", "BRK336", "Edge for Business: reimagined with AI security at the core | BRK336", "English (US)", "Lindsay Kubasik", "Scale with cloud and AI endpoints", "Sean Lyndersay", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

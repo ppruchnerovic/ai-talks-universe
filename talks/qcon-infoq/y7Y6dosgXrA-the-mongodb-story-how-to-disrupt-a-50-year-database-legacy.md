@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2026-04-16T11:16:04Z
 video_id: y7Y6dosgXrA
+url: https://www.youtube.com/watch?v=y7Y6dosgXrA
 youtube_url: https://www.youtube.com/watch?v=y7Y6dosgXrA
 tags: ["Open Source", "MongoDB", "Distributed Document Oriented Database", "QCon San Francisco", "InfoQ", "Transcript", "NoSQL", "Database", "Database Design"]
 transcript: true

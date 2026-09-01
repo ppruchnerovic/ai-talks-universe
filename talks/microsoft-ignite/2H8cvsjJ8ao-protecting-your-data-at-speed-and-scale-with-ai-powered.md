@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-24T05:10:08Z
 video_id: 2H8cvsjJ8ao
+url: https://www.youtube.com/watch?v=2H8cvsjJ8ao
 youtube_url: https://www.youtube.com/watch?v=2H8cvsjJ8ao
 tags: ["0e1cd1bd-f2c4-417c-af06-e89062f1815e_Segment", "Arun Kumar", "BRK254", "English (US)", "Paige Johnson", "Protecting your data at speed and scale with AI-powered data security | BRK254", "Secure your data", "Tanay Baldua", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-02T07:00:00Z
 video_id: Mtq3RclyBw4
+url: https://www.youtube.com/watch?v=Mtq3RclyBw4
 youtube_url: https://www.youtube.com/watch?v=Mtq3RclyBw4
 tags: ["gut feeling", "tech", "hiring", "recruiting", "recruitment", "AI", "remote", "workforce", "people and culture", "HR", "people"]
 transcript: true

@@ -1,0 +1,32 @@
+{
+  "edition": "infoq-live-april-2025",
+  "name": "InfoQ Live - April 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:45:29+00:00",
+  "count": 1,
+  "talks": {
+    "llm-ai-agents": {
+      "slug": "llm-ai-agents",
+      "page_url": "https://www.infoq.com/presentations/llm-ai-agents/",
+      "has_transcript": true,
+      "title": "AI Agents & LLMs: Scaling the Next Wave of Automation",
+      "description": "The panelists demystify AI agents and LLMs. They define agentic AI, detail architectural components, and share real-world use cases and limitations. The panel explores how AI transforms the SDLC, addresses concerns about accuracy and bias, and discusses the Model Context Protocol (MCP) and future predictions for AI's impact.\n\nGovind Kamtamneni is Technical Director, App Innovation Global Black Belt, Microsoft Hien Luu - Sr. Engineering Manager @Zoox & Author of MLOps with Ray. Karthik Ramgopal - Distinguished Engineer & Tech Lead of the Product Engineering Team @LinkedIn. Moderated by: Srini Penchikala - InfoQ Editor.",
+      "speakers": [
+        "Govind Kamtamneni",
+        "Hien Luu",
+        "Karthik Ramgopal",
+        "Srini Penchikala"
+      ],
+      "duration_s": 3768,
+      "published_at": "2025-07-09T14:25:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-aiagentsllms.mp4",
+      "id": "iq-llm-ai-agents",
+      "matched_youtube": false,
+      "edition": "infoq-live-april-2025",
+      "edition_name": "InfoQ Live - April 2025",
+      "year": 2025,
+      "transcript_words": 8299,
+      "fetched_at": "2026-09-01T21:45:29+00:00"
+    }
+  }
+}

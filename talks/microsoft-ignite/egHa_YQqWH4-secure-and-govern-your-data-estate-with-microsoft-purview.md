@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 51
 published_at: 2024-11-27T13:00:09Z
 video_id: egHa_YQqWH4
+url: https://www.youtube.com/watch?v=egHa_YQqWH4
 youtube_url: https://www.youtube.com/watch?v=egHa_YQqWH4
 tags: ["AI", "BRK317", "Breakout", "Data Security", "English (US)", "Foundational (100)", "Herain Oberoi", "Joanne Marone", "Microsoft Priva", "Microsoft Purview", "Rudra Mitra", "Secure and govern your data estate with Microsoft Purview | BRK317", "Security", "Shilpa Ranganathan", "Talhah Mir", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

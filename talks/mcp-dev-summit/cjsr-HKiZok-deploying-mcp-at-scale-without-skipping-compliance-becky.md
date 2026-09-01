@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 24
 published_at: 2026-04-13T23:18:15Z
 video_id: cjsr-HKiZok
+url: https://www.youtube.com/watch?v=cjsr-HKiZok
 youtube_url: https://www.youtube.com/watch?v=cjsr-HKiZok
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 23
 published_at: 2025-11-20T17:05:21Z
 video_id: v6GKH_JoGDw
+url: https://www.youtube.com/watch?v=v6GKH_JoGDw
 youtube_url: https://www.youtube.com/watch?v=v6GKH_JoGDw
 tags: ["BRK213", "BRK213_v1", "Elizabeth Beals", "English (US)", "Innovate with Azure AI apps and agents", "Maximilian Kaczynski", "Microsoft Marketplace: Your trusted source for cloud and AI solutions | BRK213", "Technical", "Will Kearl", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T14:18:19Z
 video_id: PddVfEw4puk
+url: https://www.youtube.com/watch?v=PddVfEw4puk
 youtube_url: https://www.youtube.com/watch?v=PddVfEw4puk
 tags: ["AI", "Copilot", "Copilot for M365", "Custom copilot(s)", "Developer", "Expert (400)", "Harness AI innovation to power a collaborative journey | ODFP977", "Kyle Aruda", "Microsoft Copilot", "Microsoft Teams", "ODFP977", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

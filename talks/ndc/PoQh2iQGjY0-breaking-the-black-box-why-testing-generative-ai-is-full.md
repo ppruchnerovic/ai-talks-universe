@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-05-07T10:40:59Z
 video_id: PoQh2iQGjY0
+url: https://www.youtube.com/watch?v=PoQh2iQGjY0
 youtube_url: https://www.youtube.com/watch?v=PoQh2iQGjY0
 tags: ["Hacking", "AI", "ML", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Jason Ross"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T14:10:00+00:00
 video_id: TaxjojT2jDU
+url: https://www.youtube.com/watch?v=TaxjojT2jDU
 youtube_url: https://www.youtube.com/watch?v=TaxjojT2jDU
 tags: ["Emerging Technologies"]
 transcript: true

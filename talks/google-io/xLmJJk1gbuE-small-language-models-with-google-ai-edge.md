@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 18
 published_at: null
 video_id: xLmJJk1gbuE
+url: https://www.youtube.com/watch?v=xLmJJk1gbuE
 youtube_url: https://www.youtube.com/watch?v=xLmJJk1gbuE
 tags: []
 transcript: false

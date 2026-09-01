@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2026-06-29T11:37:13Z
 video_id: p8M8--12h1Y
+url: https://www.youtube.com/watch?v=p8M8--12h1Y
 youtube_url: https://www.youtube.com/watch?v=p8M8--12h1Y
 tags: ["AI", "AI Assisted Development", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Hallstein Brøtan"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 52
 published_at: null
 video_id: e-xMRE7S_2o
+url: https://www.youtube.com/watch?v=e-xMRE7S_2o
 youtube_url: https://www.youtube.com/watch?v=e-xMRE7S_2o
 tags: []
 transcript: false

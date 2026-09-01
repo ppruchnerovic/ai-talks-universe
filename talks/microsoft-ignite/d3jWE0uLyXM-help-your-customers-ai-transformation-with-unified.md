@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 28
 published_at: 2024-11-21T15:18:52Z
 video_id: d3jWE0uLyXM
+url: https://www.youtube.com/watch?v=d3jWE0uLyXM
 youtube_url: https://www.youtube.com/watch?v=d3jWE0uLyXM
 tags: ["AI", "Ashley Asdourian", "BRK210", "Breakout", "Data", "Data governance", "Data-Curated", "English (US)", "Help your customers’ AI transformation with unified analytics | BRK210", "Intermediate (200)", "Partner Business", "Solution Area", "Version v1", "Wangui McKelvey", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

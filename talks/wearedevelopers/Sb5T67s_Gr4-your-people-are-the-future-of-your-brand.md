@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-10T07:40:00+00:00
 video_id: Sb5T67s_Gr4
+url: https://www.youtube.com/watch?v=Sb5T67s_Gr4
 youtube_url: https://www.youtube.com/watch?v=Sb5T67s_Gr4
 tags: ["People & Culture", "Advocacy", "Marketing", "People & Culture"]
 transcript: true

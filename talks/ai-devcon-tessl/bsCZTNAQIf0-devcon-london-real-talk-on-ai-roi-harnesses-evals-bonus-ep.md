@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 24
 published_at: 2026-06-23T12:00:35Z
 video_id: bsCZTNAQIf0
+url: https://www.youtube.com/watch?v=bsCZTNAQIf0
 youtube_url: https://www.youtube.com/watch?v=bsCZTNAQIf0
 tags: ["AI Native DevCon", "AI Native DevCon London 2026", "AI ROI", "AI development", "AutonomyAI", "AutonomyAI production process", "NearForm", "agentic coding", "ainativedev", "change management", "evals", "harness engineering", "how NearForm reduced backlog", "importance of evals in AI", "real AI ROI strategies"]
 transcript: true

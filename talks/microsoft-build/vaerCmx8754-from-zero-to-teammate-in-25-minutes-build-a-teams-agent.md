@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T11:00:43Z
 video_id: vaerCmx8754
+url: https://www.youtube.com/watch?v=vaerCmx8754
 youtube_url: https://www.youtube.com/watch?v=vaerCmx8754
 tags: ["901bde6f-0064-4018-891f-4b8fbaba8d71_M9Z7-DEM332-1", "Aamir Jawaid", "Agents", "DEM332", "Developer", "Enterprise", "From zero to teammate in 25 minutes: Build a Teams agent live | DEM332", "Skills", "Umang Sehgal", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

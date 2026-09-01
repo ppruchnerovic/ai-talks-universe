@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 50
 published_at: 2025-10-31T08:09:12Z
 video_id: cAySivJyn3k
+url: https://www.youtube.com/watch?v=cAySivJyn3k
 youtube_url: https://www.youtube.com/watch?v=cAySivJyn3k
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "SciChart interview", "Coffee with Developers", "web charting performance", "WebAssembly charts", "real time data visualization", "scientific charts", "custom chart library", "JavaScript charts", "high performance charting", "industrial monitoring charts", "WPF charts", "multi chart dashboards", "browser performance optimization"]
 transcript: false

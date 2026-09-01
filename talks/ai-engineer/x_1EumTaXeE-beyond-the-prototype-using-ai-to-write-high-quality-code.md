@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-07-25T00:00:00Z
 video_id: x_1EumTaXeE
+url: https://www.youtube.com/watch?v=x_1EumTaXeE
 youtube_url: https://www.youtube.com/watch?v=x_1EumTaXeE
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 32
 published_at: 2026-07-20T00:28:46Z
 video_id: ORmjSu48PMk
+url: https://www.youtube.com/watch?v=ORmjSu48PMk
 youtube_url: https://www.youtube.com/watch?v=ORmjSu48PMk
 tags: []
 transcript: true

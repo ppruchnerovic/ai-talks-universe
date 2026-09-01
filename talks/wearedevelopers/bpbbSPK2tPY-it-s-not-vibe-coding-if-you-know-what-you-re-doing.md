@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T12:50:00+00:00
 video_id: bpbbSPK2tPY
+url: https://www.youtube.com/watch?v=bpbbSPK2tPY
 youtube_url: https://www.youtube.com/watch?v=bpbbSPK2tPY
 tags: ["Developer Experience", "AI Coding Assistants", "Anthropic", "Node.js", "SQL"]
 transcript: true

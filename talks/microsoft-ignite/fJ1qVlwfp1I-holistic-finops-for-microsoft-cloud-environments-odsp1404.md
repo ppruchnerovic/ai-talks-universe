@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T15:21:41Z
 video_id: fJ1qVlwfp1I
+url: https://www.youtube.com/watch?v=fJ1qVlwfp1I
 youtube_url: https://www.youtube.com/watch?v=fJ1qVlwfp1I
 tags: ["Alexander Gahrmann", "English (US)", "Holistic FinOps for Microsoft Cloud environments | ODSP1404", "ODSP1404", "ODSP1404_v1", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-16T07:10:25Z
 video_id: AHIY1XccX_E
+url: https://www.youtube.com/watch?v=AHIY1XccX_E
 youtube_url: https://www.youtube.com/watch?v=AHIY1XccX_E
 tags: ["AI DevCon", "AI agents", "Davide Eynard Mozilla AI", "Mozilla.ai", "Peter Wilson Mozilla AI", "Stack Overflow for agents", "agentic coding", "ainativedev", "context engineering", "cq", "importance of context in AI", "knowledge sharing", "open source AI", "token optimization", "what is cq by Mozilla.ai"]
 transcript: true

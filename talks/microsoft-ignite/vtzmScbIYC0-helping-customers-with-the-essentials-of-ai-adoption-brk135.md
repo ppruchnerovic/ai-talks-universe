@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 32
 published_at: 2024-11-25T12:30:43Z
 video_id: vtzmScbIYC0
+url: https://www.youtube.com/watch?v=vtzmScbIYC0
 youtube_url: https://www.youtube.com/watch?v=vtzmScbIYC0
 tags: ["AI", "AI-Curated", "BRK135", "Breakout", "Copilot", "Cyril Belikoff", "David Seda", "English (US)", "Helping customers with the essentials of AI adoption | BRK135", "Intermediate (200)", "Partner Business", "Responsible AI", "Solution Area", "Version v2", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

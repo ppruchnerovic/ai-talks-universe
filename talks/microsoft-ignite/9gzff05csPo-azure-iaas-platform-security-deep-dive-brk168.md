@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T11:04:54Z
 video_id: 9gzff05csPo
+url: https://www.youtube.com/watch?v=9gzff05csPo
 youtube_url: https://www.youtube.com/watch?v=9gzff05csPo
 tags: ["Azure IaaS platform security deep dive | BRK168", "BRK168", "English (US)", "Mario Lopez", "Migrate and modernize your estate", "Technical", "Vikas Bhatia", "e16c08d7-244a-4c6c-ad07-ad8d12dffc61_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

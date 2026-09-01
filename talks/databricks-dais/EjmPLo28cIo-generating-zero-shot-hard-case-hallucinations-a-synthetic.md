@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 21
 published_at: null
 video_id: EjmPLo28cIo
+url: https://www.youtube.com/watch?v=EjmPLo28cIo
 youtube_url: https://www.youtube.com/watch?v=EjmPLo28cIo
 tags: []
 transcript: false

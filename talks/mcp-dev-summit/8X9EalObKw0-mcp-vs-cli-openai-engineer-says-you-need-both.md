@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 14
 published_at: 2026-05-01T22:00:06Z
 video_id: 8X9EalObKw0
+url: https://www.youtube.com/watch?v=8X9EalObKw0
 youtube_url: https://www.youtube.com/watch?v=8X9EalObKw0
 tags: []
 transcript: true

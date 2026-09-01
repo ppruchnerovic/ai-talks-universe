@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 46
 published_at: 2026-04-01T08:05:46Z
 video_id: rV7MIxFKSDI
+url: https://www.youtube.com/watch?v=rV7MIxFKSDI
 youtube_url: https://www.youtube.com/watch?v=rV7MIxFKSDI
 tags: []
 transcript: true

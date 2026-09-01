@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T00:08:37Z
 video_id: bd6Zf_IzUl0
+url: https://www.youtube.com/watch?v=bd6Zf_IzUl0
 youtube_url: https://www.youtube.com/watch?v=bd6Zf_IzUl0
 tags: ["embedded partnerships", "AI implementation", "data teams", "ChatGPT", "artificial intelligence", "machine learning", "business alignment", "AI adoption", "data strategy", "enterprise AI", "organizational change", "Python tutorial", "stakeholder engagement", "cross functional collaboration", "business partnerships", "technical partnerships", "vendor relationships", "integration strategies", "change management", "project management", "strategic alliances"]
 transcript: false

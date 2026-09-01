@@ -12,6 +12,7 @@ channel: "SXSW"
 duration_min: 62
 published_at: null
 video_id: Ja-MTe1VkfM
+url: https://www.youtube.com/watch?v=Ja-MTe1VkfM
 youtube_url: https://www.youtube.com/watch?v=Ja-MTe1VkfM
 tags: []
 transcript: false

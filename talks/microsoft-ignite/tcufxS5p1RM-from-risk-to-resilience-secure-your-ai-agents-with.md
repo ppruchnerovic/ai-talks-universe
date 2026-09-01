@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T14:59:32Z
 video_id: tcufxS5p1RM
+url: https://www.youtube.com/watch?v=tcufxS5p1RM
 youtube_url: https://www.youtube.com/watch?v=tcufxS5p1RM
 tags: ["Asaf Nakash", "BRK264", "English (US)", "From Risk to Resilience: Secure your AI Agents with Microsoft Defender | BRK264", "Moran Gutman", "Protect cloud AI platform and apps", "Ramya Chitrakar", "Technical", "f5n1", "f8fb8405-72a0-40c2-b09b-62a4c1c4b88f_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

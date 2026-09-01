@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 41
 published_at: 2026-05-26T15:00:22Z
 video_id: 1tcir8BPP3M
+url: https://www.youtube.com/watch?v=1tcir8BPP3M
 youtube_url: https://www.youtube.com/watch?v=1tcir8BPP3M
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Pedram Hayati"]
 transcript: true

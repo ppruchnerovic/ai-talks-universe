@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: 6OuAus_cOoo
+url: https://www.youtube.com/watch?v=6OuAus_cOoo
 youtube_url: https://www.youtube.com/watch?v=6OuAus_cOoo
 tags: []
 transcript: false

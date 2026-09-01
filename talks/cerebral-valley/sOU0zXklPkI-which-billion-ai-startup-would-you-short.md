@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 49
 published_at: 2025-11-25T18:00:59Z
 video_id: sOU0zXklPkI
+url: https://www.youtube.com/watch?v=sOU0zXklPkI
 youtube_url: https://www.youtube.com/watch?v=sOU0zXklPkI
 tags: ["Newcomer Podcast", "Cerebral Valley AI Summit", "AI summit", "AI bubble", "AI startups", "AI valuations", "AI downturn", "AI crash", "Perplexity AI", "OpenAI", "Anthropic", "AI founders", "VC predictions", "tech investing", "startup survey", "AI industry analysis", "billion dollar startups", "AI hype cycle", "agentic AI", "Max Child", "James Wilsterman", "Nvidia", "The Big Short"]
 transcript: false

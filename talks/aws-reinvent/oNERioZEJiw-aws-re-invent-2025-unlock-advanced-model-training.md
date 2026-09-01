@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 30
 published_at: null
 video_id: oNERioZEJiw
+url: https://www.youtube.com/watch?v=oNERioZEJiw
 youtube_url: https://www.youtube.com/watch?v=oNERioZEJiw
 tags: []
 transcript: false

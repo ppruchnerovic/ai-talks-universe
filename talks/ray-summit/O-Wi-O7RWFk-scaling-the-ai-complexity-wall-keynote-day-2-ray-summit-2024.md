@@ -12,6 +12,7 @@ channel: null
 duration_min: 5
 published_at: null
 video_id: O-Wi-O7RWFk
+url: https://www.youtube.com/watch?v=O-Wi-O7RWFk
 youtube_url: https://www.youtube.com/watch?v=O-Wi-O7RWFk
 tags: []
 transcript: false

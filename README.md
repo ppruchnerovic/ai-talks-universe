@@ -24,6 +24,7 @@ built in two stages that cost very different things.
 | **Enrich** (`enrich.py`) | 1 API unit per 50 videos, or ~1.4s per video without a key | description, publish date, YouTube tags |
 | **Transcribe** (`fetch_transcripts.py`) | one Supadata credit per talk, or metered per IP on the free routes | every word spoken, with timings |
 | **Import** (`import_kb.py`) | free, offline | a conference YouTube will not list, from an agenda that already knows it |
+| **InfoQ** (`infoq.py`) | free, one page request per talk at robots.txt's 3s | metadata *and* the full transcript, from the conference's own pages |
 
 Each stage caches to disk and is resumable, and the corpus is re-derived from
 those caches offline. That separation is the point: enumeration can be redone
@@ -38,6 +39,62 @@ carries a source of `"type": "videos"` that reads a file in `data/seeds/`
 instead of a URL. `import_kb.py` writes one from a corpus built against an
 agenda API, together with the transcripts that corpus already had, and
 everything downstream then treats those talks like any other.
+
+### The one conference that publishes its own programme
+
+Everything above treats YouTube as the only machine-readable programme these
+conferences have, which is true of fifty-two of them. InfoQ is the exception:
+QCon and the InfoQ Dev Summits put their recordings on
+[infoq.com/presentations](https://www.infoq.com/presentations/), and every one
+of those pages carries a **full hand-edited transcript in the HTML** — free, to
+an anonymous client, no key and no JavaScript. `robots.txt` allows the path and
+asks for `Crawl-delay: 3`, which is the pace `infoq.py` keeps.
+
+That is worth its own route for a reason the table above makes plain: a
+transcript is the expensive column. The YouTube side of this same conference
+had 353 talks and 108 transcripts between them, every one of those bought with
+a Supadata credit. The 229 taken from infoq.com cost nothing but the crawl
+delay.
+
+Two things make this route more than a cheaper `fetch_transcripts.py`.
+
+**The year comes from the edition, not the publish date.** InfoQ drips a
+conference's recordings out for a year afterwards, so `datePublished` is when
+the video went up rather than when the talk was given. Of ten presentations
+posted during 2026, nine were recorded at QCon San Francisco 2025, QCon London
+2025 or QCon AI New York 2025 — dating this corpus by publication would have
+filed all nine under the wrong year. So enumeration walks the per-edition
+listings instead (`/qcon-london-2026/presentations/`,
+`/qcon-ai-boston-2026/presentations/`, …) and each talk takes the year of the
+edition that listed it, which is a fact about the programme rather than about
+InfoQ's publishing queue.
+
+**A talk on both InfoQ and YouTube stays one talk.** `infoq.py` matches on
+title against the catalogue already built from the channel, and on a hit it
+writes the transcript and the better metadata — a real abstract instead of
+channel boilerplate, the speakers stated instead of guessed off the title, the
+edition — straight onto the record that is already there. That record keeps its
+YouTube id, so the video stays watchable and its transcript stays upgradable to
+exact timings later. Only a presentation YouTube never listed becomes a new
+record, under an `iq-` id whose link is its InfoQ page.
+
+In practice the two surfaces overlap far less than expected: 7 of the 229
+presentations matched a video the channel had already given us, and none at all
+of the 22 from the 2026 editions did. InfoQ.com is mostly *additive* here, not
+duplicative — which is the argument for reading it.
+
+InfoQ's transcripts are prose, with no caption timings. Starts are interpolated
+from word position across the runtime — the same treatment the kome.ai route
+already gets, sharing one implementation in `atu.segment_plain_text` — and
+marked `"timing": "estimated"` so nothing downstream presents them as exact.
+That is what lets every reader (the markdown deep links, `query.py`'s moments,
+the browser index) work on these unchanged.
+
+Because not every record is a YouTube one any more, a talk now carries both a
+`url` — the canonical link, the video where there is a video and the talk's own
+page where InfoQ is all there is — and a `youtube_url` that is `null` unless
+there really is one. Anything building a `&t=` deep link, an embed or a
+thumbnail has to ask for the latter.
 
 ### What survives into the corpus
 

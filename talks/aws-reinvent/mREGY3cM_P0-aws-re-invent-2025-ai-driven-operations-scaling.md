@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 52
 published_at: null
 video_id: mREGY3cM_P0
+url: https://www.youtube.com/watch?v=mREGY3cM_P0
 youtube_url: https://www.youtube.com/watch?v=mREGY3cM_P0
 tags: []
 transcript: false

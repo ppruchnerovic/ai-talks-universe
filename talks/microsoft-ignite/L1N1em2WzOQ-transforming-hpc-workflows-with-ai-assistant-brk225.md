@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 25
 published_at: 2024-11-27T09:16:29Z
 video_id: L1N1em2WzOQ
+url: https://www.youtube.com/watch?v=L1N1em2WzOQ
 youtube_url: https://www.youtube.com/watch?v=L1N1em2WzOQ
 tags: ["Annie Zhou", "BRK225", "Breakout", "Diego V", "English (US)", "Infrastructure", "Intermediate (200)", "Technical", "Transforming HPC workflows with AI assistant | BRK225", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:10:53Z
 video_id: I737W7Pgsws
+url: https://www.youtube.com/watch?v=I737W7Pgsws
 youtube_url: https://www.youtube.com/watch?v=I737W7Pgsws
 tags: ["BRKSP469", "Christoph Ruehle", "Copilot and agents at work", "English (US)", "Retail and Consumer Goods", "Technical", "Unlock new business value with SAP and Microsoft with connected AI | BRKSP469", "Walter Sun", "ac5643fa-aa96-447b-b495-8d78440b6b70_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

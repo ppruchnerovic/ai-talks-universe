@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T11:30:00+00:00
 video_id: NhD0DwBoGGc
+url: https://www.youtube.com/watch?v=NhD0DwBoGGc
 youtube_url: https://www.youtube.com/watch?v=NhD0DwBoGGc
 tags: ["AI Agents", "Agentic AI", "Infrastructure", "Innovation", "Multi-Agent Systems", "Scaling"]
 transcript: true

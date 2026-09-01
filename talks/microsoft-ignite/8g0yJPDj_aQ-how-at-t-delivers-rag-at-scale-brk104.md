@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-25T12:04:34Z
 video_id: 8g0yJPDj_aQ
+url: https://www.youtube.com/watch?v=8g0yJPDj_aQ
 youtube_url: https://www.youtube.com/watch?v=8g0yJPDj_aQ
 tags: ["AI", "AI for business operations", "AI scalability", "AI workload management", "AT&T", "Ask AT&T platform", "Azure AI Search", "Azure OpenAI Service", "BRK104", "Breakout", "GenerativeAI", "How AT&T delivers RAG at scale | BRK104", "Humanresources(HR)", "Retrieval augmented generation (RAG)", "Taskautomation", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

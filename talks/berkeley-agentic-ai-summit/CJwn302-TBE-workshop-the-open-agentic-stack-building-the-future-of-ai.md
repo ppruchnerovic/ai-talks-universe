@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 55
 published_at: 2026-08-11T19:33:43Z
 video_id: CJwn302-TBE
+url: https://www.youtube.com/watch?v=CJwn302-TBE
 youtube_url: https://www.youtube.com/watch?v=CJwn302-TBE
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 59
 published_at: 2026-03-23T13:01:45Z
 video_id: zOP_Dtwo1gs
+url: https://www.youtube.com/watch?v=zOP_Dtwo1gs
 youtube_url: https://www.youtube.com/watch?v=zOP_Dtwo1gs
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Charles Humble", "Hannah Foxwell", "Kubernetes", "Edge Computing", "k8s", "Orchestration", "Containers", "Container Orchestration", "Cloud Native"]
 transcript: true

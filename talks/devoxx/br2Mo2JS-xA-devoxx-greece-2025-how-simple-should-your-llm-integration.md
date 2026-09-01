@@ -12,6 +12,7 @@ channel: null
 duration_min: 40
 published_at: null
 video_id: br2Mo2JS-xA
+url: https://www.youtube.com/watch?v=br2Mo2JS-xA
 youtube_url: https://www.youtube.com/watch?v=br2Mo2JS-xA
 tags: []
 transcript: false

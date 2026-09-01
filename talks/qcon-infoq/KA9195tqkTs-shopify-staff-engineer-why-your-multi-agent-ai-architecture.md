@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 35
 published_at: 2026-06-11T05:08:41Z
 video_id: KA9195tqkTs
+url: https://www.youtube.com/watch?v=KA9195tqkTs
 youtube_url: https://www.youtube.com/watch?v=KA9195tqkTs
 tags: ["InfoQ", "Transcript", "QCon AI New York", "QCon AI", "Multi-Agent Systems", "Shopify", "Case Study", "Artificial Intelligence", "AI Agents", "Generative AI"]
 transcript: true

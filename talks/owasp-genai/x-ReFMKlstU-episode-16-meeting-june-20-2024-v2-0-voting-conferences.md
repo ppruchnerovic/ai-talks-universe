@@ -12,6 +12,7 @@ channel: null
 duration_min: 41
 published_at: null
 video_id: x-ReFMKlstU
+url: https://www.youtube.com/watch?v=x-ReFMKlstU
 youtube_url: https://www.youtube.com/watch?v=x-ReFMKlstU
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 36
 published_at: 2025-09-03T16:12:56Z
 video_id: VdzduFZi-GI
+url: https://www.youtube.com/watch?v=VdzduFZi-GI
 youtube_url: https://www.youtube.com/watch?v=VdzduFZi-GI
 tags: []
 transcript: false

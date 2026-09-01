@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T00:17:25Z
 video_id: fdVeNXdI8Ro
+url: https://www.youtube.com/watch?v=fdVeNXdI8Ro
 youtube_url: https://www.youtube.com/watch?v=fdVeNXdI8Ro
 tags: ["agentic RAG", "enterprise AI", "ChatGPT", "artificial intelligence", "machine learning", "RAG", "AI accuracy", "AI hallucinations", "enterprise AI applications", "AI reliability", "context aware AI assistants", "Python tutorial", "intelligent agents", "autonomous systems", "decision making systems", "workflow automation", "knowledge management", "information retrieval", "contextual understanding", "multi step reasoning", "goal oriented AI"]
 transcript: false

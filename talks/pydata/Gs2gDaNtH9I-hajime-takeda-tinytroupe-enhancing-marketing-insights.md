@@ -12,6 +12,7 @@ channel: null
 duration_min: 30
 published_at: null
 video_id: Gs2gDaNtH9I
+url: https://www.youtube.com/watch?v=Gs2gDaNtH9I
 youtube_url: https://www.youtube.com/watch?v=Gs2gDaNtH9I
 tags: []
 transcript: false

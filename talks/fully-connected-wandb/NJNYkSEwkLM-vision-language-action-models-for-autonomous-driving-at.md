@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 19
 published_at: 2024-07-03T11:07:32Z
 video_id: NJNYkSEwkLM
+url: https://www.youtube.com/watch?v=NJNYkSEwkLM
 youtube_url: https://www.youtube.com/watch?v=NJNYkSEwkLM
 tags: []
 transcript: false

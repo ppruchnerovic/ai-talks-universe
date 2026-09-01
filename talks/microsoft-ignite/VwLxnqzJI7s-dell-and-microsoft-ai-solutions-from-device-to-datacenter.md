@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-21T10:32:52Z
 video_id: VwLxnqzJI7s
+url: https://www.youtube.com/watch?v=VwLxnqzJI7s
 youtube_url: https://www.youtube.com/watch?v=VwLxnqzJI7s
 tags: ["AI", "BRKFP372", "Breakout", "Copilot+ PCs", "Data Security", "Dell and Microsoft AI solutions from device to datacenter and cloud | BRKFP372", "Deployment", "English (US)", "Foundational (100)", "Jonathan Siegal", "Mark Linton", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

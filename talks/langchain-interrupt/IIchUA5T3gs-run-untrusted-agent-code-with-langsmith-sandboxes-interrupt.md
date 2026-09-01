@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 10
 published_at: 2026-06-01T14:45:54Z
 video_id: IIchUA5T3gs
+url: https://www.youtube.com/watch?v=IIchUA5T3gs
 youtube_url: https://www.youtube.com/watch?v=IIchUA5T3gs
 tags: ["LangSmith", "LangChain", "AI agents", "sandboxing", "agent security", "code execution", "LLM agents", "agentic AI", "prompt injection", "container security", "AI infrastructure", "coding agents", "Claude Code", "agent observability", "LangSmith tutorial", "AI developer tools", "agent sandbox", "safe code execution", "multi-agent systems", "AI ops"]
 transcript: true

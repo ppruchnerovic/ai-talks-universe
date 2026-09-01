@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2026-02-24T13:00:52Z
 video_id: Fu4AWZd2XnI
+url: https://www.youtube.com/watch?v=Fu4AWZd2XnI
 youtube_url: https://www.youtube.com/watch?v=Fu4AWZd2XnI
 tags: ["AI", "Cloud", "DevOps", "Tools", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "United Kingdom", "Great Britain", "England", "Prerit Munjal"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 9
 published_at: null
 video_id: Drnt6rkeA9c
+url: https://www.youtube.com/watch?v=Drnt6rkeA9c
 youtube_url: https://www.youtube.com/watch?v=Drnt6rkeA9c
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T13:00:00+00:00
 video_id: e5vqHo_9XzA
+url: https://www.youtube.com/watch?v=e5vqHo_9XzA
 youtube_url: https://www.youtube.com/watch?v=e5vqHo_9XzA
 tags: ["Cloud & AI Infrastructure", "Best Practices", "DevOps", "Linux"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T14:48:17Z
 video_id: I_qgDCp1pm0
+url: https://www.youtube.com/watch?v=I_qgDCp1pm0
 youtube_url: https://www.youtube.com/watch?v=I_qgDCp1pm0
 tags: ["AI", "Anna Cook", "BRK355", "Breakout", "Copilot", "Diversity and Inclusion", "English (US)", "Foundational (100)", "Harnessing Copilots to Empower Accessibility in the Workplace | BRK355", "Hiren Shukla", "Other", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

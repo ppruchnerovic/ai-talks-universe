@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 26
 published_at: 2025-11-23T14:33:49Z
 video_id: 25Fp4TrMy6g
+url: https://www.youtube.com/watch?v=25Fp4TrMy6g
 youtube_url: https://www.youtube.com/watch?v=25Fp4TrMy6g
 tags: ["Berlin", "CCC", "Conference", "PostgreSQL", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk", "TypeScript", "carsharing", "data scraping", "fleet optimization", "geospatial analysis", "machine learning", "mobility systems", "predictive modeling", "transportation analytics", "urban data science", "urban mobility"]
 transcript: false

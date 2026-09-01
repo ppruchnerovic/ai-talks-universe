@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 37
 published_at: null
 video_id: Ksc_MaiNqeU
+url: https://www.youtube.com/watch?v=Ksc_MaiNqeU
 youtube_url: https://www.youtube.com/watch?v=Ksc_MaiNqeU
 tags: []
 transcript: false

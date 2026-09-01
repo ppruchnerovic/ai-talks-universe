@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 40
 published_at: 2026-01-15T08:38:30Z
 video_id: NhBULvX8BvE
+url: https://www.youtube.com/watch?v=NhBULvX8BvE
 youtube_url: https://www.youtube.com/watch?v=NhBULvX8BvE
 tags: ["retention", "talent attraction", "employer branding", "mindset", "hr", "people", "recruiting", "career development", "branding", "employer", "people strategy", "branding strategy"]
 transcript: true

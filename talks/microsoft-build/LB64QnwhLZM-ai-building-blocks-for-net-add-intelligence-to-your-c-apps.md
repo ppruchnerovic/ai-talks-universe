@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-03T14:52:23Z
 video_id: LB64QnwhLZM
+url: https://www.youtube.com/watch?v=LB64QnwhLZM
 youtube_url: https://www.youtube.com/watch?v=LB64QnwhLZM
 tags: ["C#"]
 transcript: true

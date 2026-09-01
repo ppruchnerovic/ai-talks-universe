@@ -12,6 +12,7 @@ channel: "Nicolas Papernot"
 duration_min: 12
 published_at: null
 video_id: ARHI9163kXc
+url: https://www.youtube.com/watch?v=ARHI9163kXc
 youtube_url: https://www.youtube.com/watch?v=ARHI9163kXc
 tags: []
 transcript: false

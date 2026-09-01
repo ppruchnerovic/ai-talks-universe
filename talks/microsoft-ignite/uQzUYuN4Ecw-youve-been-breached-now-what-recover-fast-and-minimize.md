@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:10:17Z
 video_id: uQzUYuN4Ecw
+url: https://www.youtube.com/watch?v=uQzUYuN4Ecw
 youtube_url: https://www.youtube.com/watch?v=uQzUYuN4Ecw
 tags: ["BRKFP376", "Breakout", "Copilot for Security", "Data Security", "Data governance", "English (US)", "Exposure management", "Microsoft Defender XDR", "Microsoft Entra", "Microsoft Purview", "Microsoft Sentinel", "Security", "You’ve been breached now what? Recover fast and minimize impact | BRKFP376", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 52
 published_at: 2024-11-20T13:06:24Z
 video_id: CUb5clrMSLc
+url: https://www.youtube.com/watch?v=CUb5clrMSLc
 youtube_url: https://www.youtube.com/watch?v=CUb5clrMSLc
 tags: ["Andy Beatman", "Azure OpenAI Service for Start Ups and Digital-First Companies | OD839", "English (US)", "Infrastructure", "Mike Murchison", "OD839", "Pre-recorded", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

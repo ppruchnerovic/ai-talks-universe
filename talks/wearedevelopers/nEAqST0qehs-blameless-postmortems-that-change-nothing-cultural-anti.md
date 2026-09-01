@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T07:40:00+00:00
 video_id: nEAqST0qehs
+url: https://www.youtube.com/watch?v=nEAqST0qehs
 youtube_url: https://www.youtube.com/watch?v=nEAqST0qehs
 tags: ["Engineering Leadership", "DevOps", "Reliability", "Site Reliability Engineering (SRE)"]
 transcript: true

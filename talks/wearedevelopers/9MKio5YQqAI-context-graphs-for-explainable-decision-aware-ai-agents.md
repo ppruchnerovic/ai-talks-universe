@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 23
 published_at: 2026-07-10T13:00:00+00:00
 video_id: 9MKio5YQqAI
+url: https://www.youtube.com/watch?v=9MKio5YQqAI
 youtube_url: https://www.youtube.com/watch?v=9MKio5YQqAI
 tags: ["AI Agents", "Databases", "Multi-Agent Systems", "Neo4j"]
 transcript: true

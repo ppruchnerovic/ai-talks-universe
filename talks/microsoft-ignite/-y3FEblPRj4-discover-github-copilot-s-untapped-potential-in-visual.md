@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:34:26Z
 video_id: -y3FEblPRj4
+url: https://www.youtube.com/watch?v=-y3FEblPRj4
 youtube_url: https://www.youtube.com/watch?v=-y3FEblPRj4
 tags: [".NET", "Apps", "Apps-Curated", "BRK141", "Breakout", "Dalia Abo Sheasha", "Discover GitHub Copilot's untapped potential in Visual Studio | BRK141", "English (US)", "Github copilot", "Intermediate (200)", "Jessie Houghton", "Scott Hanselman", "Technical", "Version v1", "VisualStudio", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 60
 published_at: 2025-11-13T10:26:16Z
 video_id: FiHga2ezzok
+url: https://www.youtube.com/watch?v=FiHga2ezzok
 youtube_url: https://www.youtube.com/watch?v=FiHga2ezzok
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: false

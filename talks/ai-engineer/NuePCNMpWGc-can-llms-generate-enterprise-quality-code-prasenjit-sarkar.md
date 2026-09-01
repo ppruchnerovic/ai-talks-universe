@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 15
 published_at: 2026-05-31T00:00:00Z
 video_id: NuePCNMpWGc
+url: https://www.youtube.com/watch?v=NuePCNMpWGc
 youtube_url: https://www.youtube.com/watch?v=NuePCNMpWGc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

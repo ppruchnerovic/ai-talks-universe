@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-06-11T00:00:00Z
 video_id: uFPAtKIN-FQ
+url: https://www.youtube.com/watch?v=uFPAtKIN-FQ
 youtube_url: https://www.youtube.com/watch?v=uFPAtKIN-FQ
 tags: []
 transcript: false

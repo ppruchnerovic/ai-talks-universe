@@ -12,6 +12,7 @@ channel: "Y Combinator"
 duration_min: 44
 published_at: 2025-07-01T14:00:13Z
 video_id: _PioN-CpOP0
+url: https://www.youtube.com/watch?v=_PioN-CpOP0
 youtube_url: https://www.youtube.com/watch?v=_PioN-CpOP0
 tags: ["YC", "Y Combinator"]
 transcript: false

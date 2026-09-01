@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 29
 published_at: 2026-08-25T18:20:11Z
 video_id: YPY0lY6tDvM
+url: https://www.youtube.com/watch?v=YPY0lY6tDvM
 youtube_url: https://www.youtube.com/watch?v=YPY0lY6tDvM
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Visual Studio Code"
 duration_min: 13
 published_at: 2026-06-05T13:30:31Z
 video_id: ZDYphmbJUJw
+url: https://www.youtube.com/watch?v=ZDYphmbJUJw
 youtube_url: https://www.youtube.com/watch?v=ZDYphmbJUJw
 tags: ["Burke Holland", "Designing VS Code’s UX for the Agentic Era | LIVE156", "Joanna Oikawa", "LIVE156", "LIVE156_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 25
 published_at: null
 video_id: TAPwymT9zCU
+url: https://www.youtube.com/watch?v=TAPwymT9zCU
 youtube_url: https://www.youtube.com/watch?v=TAPwymT9zCU
 tags: []
 transcript: false

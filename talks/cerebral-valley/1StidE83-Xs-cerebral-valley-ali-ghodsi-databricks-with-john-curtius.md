@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 21
 published_at: 2023-04-08T12:00:01Z
 video_id: 1StidE83-Xs
+url: https://www.youtube.com/watch?v=1StidE83-Xs
 youtube_url: https://www.youtube.com/watch?v=1StidE83-Xs
 tags: []
 transcript: false

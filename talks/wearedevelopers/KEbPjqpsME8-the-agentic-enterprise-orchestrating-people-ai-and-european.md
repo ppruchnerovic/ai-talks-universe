@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T11:00:00+00:00
 video_id: KEbPjqpsME8
+url: https://www.youtube.com/watch?v=KEbPjqpsME8
 youtube_url: https://www.youtube.com/watch?v=KEbPjqpsME8
 tags: ["Strategy & Innovation", "Advocacy", "AI Standards", "Containers", "Digital Transformation", "Internal Platforms", "Neo4j", "Site Reliability Engineering (SRE)", "Software Architecture"]
 transcript: true

@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-february-2026",
+  "name": "InfoQ Live - February 2026",
+  "year": 2026,
+  "fetched_at": "2026-09-01T21:25:40+00:00",
+  "count": 1,
+  "talks": {
+    "devops-modernization-ai-agents": {
+      "slug": "devops-modernization-ai-agents",
+      "page_url": "https://www.infoq.com/presentations/devops-modernization-ai-agents/",
+      "has_transcript": true,
+      "title": "DevOps Modernization: AI Agents, Intelligent Observability and Automation",
+      "description": "The panelists share how AI is redefining DevOps and SRE practices by moving teams beyond reactive monitoring toward predictive, automated delivery and operations. They discuss integrating AI agents into CI/CD pipelines and feature management to enable intelligent rollouts and machine-speed remediation.\n\nOlalekan Elesin is Engineering Director @HRS Group & AWS Machine Learning Hero. Patrick Debois is AI Product Engineer and AI Native Dev Advisor. Mallika Rao is Engineering Leader @Netflix. Martin Reynolds is Field CTO @Harness. Renato Losio is InfoQ Editor.",
+      "speakers": [
+        "Olalekan Elesin",
+        "Patrick Debois",
+        "Mallika Rao",
+        "Martin Reynolds",
+        "Renato Losio"
+      ],
+      "duration_s": 3694,
+      "published_at": "2026-02-19T13:08:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-feb-devopsmodernization.mp4",
+      "id": "iq-devops-modernization-ai-agents",
+      "matched_youtube": false,
+      "edition": "infoq-live-february-2026",
+      "edition_name": "InfoQ Live - February 2026",
+      "year": 2026,
+      "transcript_words": 8376,
+      "fetched_at": "2026-09-01T21:25:40+00:00"
+    }
+  }
+}

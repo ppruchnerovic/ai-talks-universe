@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 39
 published_at: 2023-08-18T01:38:26Z
 video_id: wBo59ck-74A
+url: https://www.youtube.com/watch?v=wBo59ck-74A
 youtube_url: https://www.youtube.com/watch?v=wBo59ck-74A
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "Is Your ML Model Trustworthy?", "mlops community", "ml model"]
 transcript: false

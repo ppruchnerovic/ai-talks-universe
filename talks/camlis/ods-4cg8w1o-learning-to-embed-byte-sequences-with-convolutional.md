@@ -12,6 +12,7 @@ channel: null
 duration_min: 21
 published_at: null
 video_id: ods-4cg8w1o
+url: https://www.youtube.com/watch?v=ods-4cg8w1o
 youtube_url: https://www.youtube.com/watch?v=ods-4cg8w1o
 tags: []
 transcript: false

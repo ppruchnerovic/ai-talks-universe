@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T07:35:42Z
 video_id: JiW9rX1CBZs
+url: https://www.youtube.com/watch?v=JiW9rX1CBZs
 youtube_url: https://www.youtube.com/watch?v=JiW9rX1CBZs
 tags: ["GraphRAG", "RAG tutorial", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "vector database", "retrieval augmented generation", "semantic search", "AI applications", "open source", "OpenTelemetry", "OpenInference", "Python tutorial", "graph neural networks", "entity linking", "relationship extraction", "knowledge base construction", "semantic understanding", "contextual retrieval", "multi hop reasoning", "graph embeddings"]
 transcript: false

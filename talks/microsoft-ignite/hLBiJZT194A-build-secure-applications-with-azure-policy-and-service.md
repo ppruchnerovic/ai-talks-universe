@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T10:19:24Z
 video_id: hLBiJZT194A
+url: https://www.youtube.com/watch?v=hLBiJZT194A
 youtube_url: https://www.youtube.com/watch?v=hLBiJZT194A
 tags: ["BRK169", "Build secure applications with Azure Policy and Service Groups | BRK169", "English (US)", "Jodi Boone", "Kemley Nieva", "Migrate and modernize your estate", "Technical", "cca237f9-fe5b-4090-a6a6-78e1215669d6_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

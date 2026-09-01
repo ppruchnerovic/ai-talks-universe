@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-20T15:58:08Z
 video_id: 9RwCgcYL-PQ
+url: https://www.youtube.com/watch?v=9RwCgcYL-PQ
 youtube_url: https://www.youtube.com/watch?v=9RwCgcYL-PQ
 tags: ["BRK129", "English (US)", "Georgios Theologou", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Managed Redis", "Mark Weitzel", "Shruti Pathak", "Simon Brown", "Smarter AI Agents with Azure Managed Redis | BRK129", "Technical", "Unify your data platform", "ca8cf2c5-1af2-4a5c-bc33-2dda632a1fe4_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

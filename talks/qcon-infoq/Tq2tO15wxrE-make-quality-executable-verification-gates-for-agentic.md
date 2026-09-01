@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2026-06-24T09:00:30Z
 video_id: Tq2tO15wxrE
+url: https://www.youtube.com/watch?v=Tq2tO15wxrE
 youtube_url: https://www.youtube.com/watch?v=Tq2tO15wxrE
 tags: ["Agentic Engineering", "Code Quality", "Code Review", "AI Engineering", "Developer Productivity", "DevOps", "SDLC", "Generative AI"]
 transcript: true

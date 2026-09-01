@@ -12,6 +12,7 @@ channel: "DEFCONConference"
 duration_min: 29
 published_at: null
 video_id: 0u-KkEKMjo8
+url: https://www.youtube.com/watch?v=0u-KkEKMjo8
 youtube_url: https://www.youtube.com/watch?v=0u-KkEKMjo8
 tags: []
 transcript: false

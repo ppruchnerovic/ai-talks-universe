@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-26T07:37:23Z
 video_id: BN4hzRMSlEQ
+url: https://www.youtube.com/watch?v=BN4hzRMSlEQ
 youtube_url: https://www.youtube.com/watch?v=BN4hzRMSlEQ
 tags: ["Advanced (300)", "BRK181", "Breakout", "Business Applications", "Business Applications-Curated", "English (US)", "Get the most of your enterprise knowledge with Copilot Studio | BRK181", "Julie Koesmarno", "Mike Walker", "Rakesh Krishnan", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

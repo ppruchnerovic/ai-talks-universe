@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 17
 published_at: 2026-08-19T00:00:00Z
 video_id: yoONZwV2smc
+url: https://www.youtube.com/watch?v=yoONZwV2smc
 youtube_url: https://www.youtube.com/watch?v=yoONZwV2smc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 20
 published_at: 2026-07-09T11:30:00+00:00
 video_id: 6NC9laD5OHY
+url: https://www.youtube.com/watch?v=6NC9laD5OHY
 youtube_url: https://www.youtube.com/watch?v=6NC9laD5OHY
 tags: ["Frontend, Web & Mobile", "APIs", "TypeScript"]
 transcript: true

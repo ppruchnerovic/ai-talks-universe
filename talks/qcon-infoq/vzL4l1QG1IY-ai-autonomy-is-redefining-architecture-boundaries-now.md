@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 52
 published_at: 2026-03-04T09:27:09Z
 video_id: vzL4l1QG1IY
+url: https://www.youtube.com/watch?v=vzL4l1QG1IY
 youtube_url: https://www.youtube.com/watch?v=vzL4l1QG1IY
 tags: ["Architecture", "AI systems", "Generative AI", "The InfoQ Podcast", "AI"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 51
 published_at: 2023-10-25T21:49:28Z
 video_id: P941-MzxDMw
+url: https://www.youtube.com/watch?v=P941-MzxDMw
 youtube_url: https://www.youtube.com/watch?v=P941-MzxDMw
 tags: []
 transcript: false

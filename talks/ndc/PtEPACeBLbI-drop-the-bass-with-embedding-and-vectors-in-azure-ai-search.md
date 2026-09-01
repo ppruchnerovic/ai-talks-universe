@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-02-10T14:37:39Z
 video_id: PtEPACeBLbI
+url: https://www.youtube.com/watch?v=PtEPACeBLbI
 youtube_url: https://www.youtube.com/watch?v=PtEPACeBLbI
 tags: ["AI", "Fun", "Azure", "NDC", "Conferences", "2026", "Live", "London", "UK", "United Kingdom", "England", "Alan Smith"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:08:09Z
 video_id: QJbGNL8HUIU
+url: https://www.youtube.com/watch?v=QJbGNL8HUIU
 youtube_url: https://www.youtube.com/watch?v=QJbGNL8HUIU
 tags: ["AI search", "Advanced (300)", "BRK216", "Breakout", "Building AI applications that leverage your data in object storage | BRK216", "English (US)", "GenAI", "Infrastructure", "Saurabh Sensharma", "Technical", "Vamshidhar Kommineni", "Version v3", "ignite", "ignite 2024", "knowledgeretrieval", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "vectorsearch"]
 transcript: false

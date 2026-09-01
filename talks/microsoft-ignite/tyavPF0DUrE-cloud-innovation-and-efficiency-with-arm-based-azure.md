@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 17
 published_at: 2025-11-19T15:00:33Z
 video_id: tyavPF0DUrE
+url: https://www.youtube.com/watch?v=tyavPF0DUrE
 youtube_url: https://www.youtube.com/watch?v=tyavPF0DUrE
 tags: ["Cloud innovation and efficiency with Arm-based Azure Cobalt100 VMs | ODSP1431", "English (US)", "Manufacturing and Mobility", "Microsoft AI Cloud Partner Program", "ODSP1431", "ODSP1431_v1", "Sameer Nori", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

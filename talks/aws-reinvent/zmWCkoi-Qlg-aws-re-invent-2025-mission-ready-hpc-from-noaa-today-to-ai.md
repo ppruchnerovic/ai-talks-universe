@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 55
 published_at: null
 video_id: zmWCkoi-Qlg
+url: https://www.youtube.com/watch?v=zmWCkoi-Qlg
 youtube_url: https://www.youtube.com/watch?v=zmWCkoi-Qlg
 tags: []
 transcript: false

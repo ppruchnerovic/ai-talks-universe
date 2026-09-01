@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T10:58:26Z
 video_id: w9CXxGHi2HA
+url: https://www.youtube.com/watch?v=w9CXxGHi2HA
 youtube_url: https://www.youtube.com/watch?v=w9CXxGHi2HA
 tags: ["Azure", "Developer Frameworks", "Discover govern and scale Azure resources with HashiCorp Terraform | ODSP901", "Kerim Satirli", "ODSP901", "ODSP901_v2", "Scaling", "Terraform", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 34
 published_at: null
 video_id: PvwPSvCCMTg
+url: https://www.youtube.com/watch?v=PvwPSvCCMTg
 youtube_url: https://www.youtube.com/watch?v=PvwPSvCCMTg
 tags: []
 transcript: false

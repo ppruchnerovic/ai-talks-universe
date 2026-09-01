@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 30
 published_at: 2026-06-17T22:34:53Z
 video_id: AhKFNkgl760
+url: https://www.youtube.com/watch?v=AhKFNkgl760
 youtube_url: https://www.youtube.com/watch?v=AhKFNkgl760
 tags: ["AI"]
 transcript: true

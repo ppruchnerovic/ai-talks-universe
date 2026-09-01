@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 16
 published_at: 2025-10-30T20:02:11Z
 video_id: t2KwwMn-OXw
+url: https://www.youtube.com/watch?v=t2KwwMn-OXw
 youtube_url: https://www.youtube.com/watch?v=t2KwwMn-OXw
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2025-03-27T14:32:36Z
 video_id: CaZbsbKnOho
+url: https://www.youtube.com/watch?v=CaZbsbKnOho
 youtube_url: https://www.youtube.com/watch?v=CaZbsbKnOho
 tags: ["AI", "Security", "Cybersecurity", "Security Operations Centers", "Microsoft Security Copilot", "SOC", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Victoria Almazova"]
 transcript: false

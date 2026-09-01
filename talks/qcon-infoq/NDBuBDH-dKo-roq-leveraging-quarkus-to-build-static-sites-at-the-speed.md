@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 21
 published_at: 2026-05-04T10:15:22Z
 video_id: NDBuBDH-dKo
+url: https://www.youtube.com/watch?v=NDBuBDH-dKo
 youtube_url: https://www.youtube.com/watch?v=NDBuBDH-dKo
 tags: []
 transcript: true

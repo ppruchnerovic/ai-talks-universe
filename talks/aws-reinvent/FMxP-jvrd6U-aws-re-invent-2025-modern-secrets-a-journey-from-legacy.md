@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 49
 published_at: null
 video_id: FMxP-jvrd6U
+url: https://www.youtube.com/watch?v=FMxP-jvrd6U
 youtube_url: https://www.youtube.com/watch?v=FMxP-jvrd6U
 tags: []
 transcript: false

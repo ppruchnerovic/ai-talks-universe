@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 48
 published_at: 2026-08-28T15:33:10Z
 video_id: G4CnddiaktA
+url: https://www.youtube.com/watch?v=G4CnddiaktA
 youtube_url: https://www.youtube.com/watch?v=G4CnddiaktA
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: true

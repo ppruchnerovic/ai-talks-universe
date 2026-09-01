@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 12
 published_at: 2025-05-29T00:32:24Z
 video_id: WgZA1FHSuLA
+url: https://www.youtube.com/watch?v=WgZA1FHSuLA
 youtube_url: https://www.youtube.com/watch?v=WgZA1FHSuLA
 tags: ["Neo4j", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "AI agents", "open source", "graph database", "GraphRAG", "semantic web", "knowledge representation", "Microsoft", "Amazon", "Google", "Python tutorial", "graph algorithms", "graph neural networks", "connected data", "relationship analysis", "network analysis", "social networks", "recommendation engines", "fraud detection", "master data management", "data lineage"]
 transcript: false

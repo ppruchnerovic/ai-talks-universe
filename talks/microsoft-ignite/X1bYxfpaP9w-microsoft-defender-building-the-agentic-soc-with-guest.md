@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T14:57:25Z
 video_id: X1bYxfpaP9w
+url: https://www.youtube.com/watch?v=X1bYxfpaP9w
 youtube_url: https://www.youtube.com/watch?v=X1bYxfpaP9w
 tags: ["Allie Mellen", "BRK241", "BRK241_v1", "Corina Feuerstein", "English (US)", "Microsoft Defender: Building the agentic SOC with guest Allie Mellen | BRK241", "Modernize SecOps with a unified platform", "Rob Lefferts", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2024-02-19T11:16:16Z
 video_id: QVQPhOHBWBk
+url: https://www.youtube.com/watch?v=QVQPhOHBWBk
 youtube_url: https://www.youtube.com/watch?v=QVQPhOHBWBk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Serverless", "Software Architecture", "Cloud Computing", "Data", "FaaS", "InfoQ", "QCon", "Transcript"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 82
 published_at: 2025-11-23T14:33:53Z
 video_id: aK_rFcKW4mY
+url: https://www.youtube.com/watch?v=aK_rFcKW4mY
 youtube_url: https://www.youtube.com/watch?v=aK_rFcKW4mY
 tags: ["AI agents", "Conference", "LangChain", "LangGraph", "LangSmith", "NL2SQL", "PostgreSQL", "PyConDE", "PyData", "Python", "RAG", "SQL generation", "SciPy", "Tech Talk", "database automation", "machine learning", "natural language to SQL", "production AI", "tutorial"]
 transcript: false

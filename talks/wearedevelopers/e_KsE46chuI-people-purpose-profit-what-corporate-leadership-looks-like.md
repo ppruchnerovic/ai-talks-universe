@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 40
 published_at: 2026-05-30T22:00:00Z
 video_id: e_KsE46chuI
+url: https://www.youtube.com/watch?v=e_KsE46chuI
 youtube_url: https://www.youtube.com/watch?v=e_KsE46chuI
 tags: ["leadership", "ai", "transformation", "artificial intelligence", "people", "culture", "HR"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 55
 published_at: null
 video_id: HJEDoPRnZDA
+url: https://www.youtube.com/watch?v=HJEDoPRnZDA
 youtube_url: https://www.youtube.com/watch?v=HJEDoPRnZDA
 tags: []
 transcript: false

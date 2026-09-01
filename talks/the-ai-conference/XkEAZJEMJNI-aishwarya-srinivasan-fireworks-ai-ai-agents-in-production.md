@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 27
 published_at: 2026-05-06T21:04:41Z
 video_id: XkEAZJEMJNI
+url: https://www.youtube.com/watch?v=XkEAZJEMJNI
 youtube_url: https://www.youtube.com/watch?v=XkEAZJEMJNI
 tags: []
 transcript: true

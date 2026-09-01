@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2026-05-21T10:00:10Z
 video_id: wZxwqr-W1Jw
+url: https://www.youtube.com/watch?v=wZxwqr-W1Jw
 youtube_url: https://www.youtube.com/watch?v=wZxwqr-W1Jw
 tags: ["AI", "MCP", "Claude", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Aleksander Stensby"]
 transcript: true

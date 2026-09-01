@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-07-02T18:22:57Z
 video_id: mJ-7v30gfiU
+url: https://www.youtube.com/watch?v=mJ-7v30gfiU
 youtube_url: https://www.youtube.com/watch?v=mJ-7v30gfiU
 tags: ["Azure", "Microsoft", "Tech", "Technology", "Dev", "Development", "Cloud Computing"]
 transcript: true

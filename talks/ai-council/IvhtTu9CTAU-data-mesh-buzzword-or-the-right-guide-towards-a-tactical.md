@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-28T23:39:02Z
 video_id: IvhtTu9CTAU
+url: https://www.youtube.com/watch?v=IvhtTu9CTAU
 youtube_url: https://www.youtube.com/watch?v=IvhtTu9CTAU
 tags: ["data mesh", "event data quality", "ChatGPT", "artificial intelligence", "machine learning", "data architecture", "data quality", "event tracking", "data organization", "Python tutorial", "decentralized data", "domain ownership", "data products", "federated governance", "self serve data platform", "data as a product", "domain driven design", "microservices architecture", "event sourcing", "streaming data", "data contracts"]
 transcript: false

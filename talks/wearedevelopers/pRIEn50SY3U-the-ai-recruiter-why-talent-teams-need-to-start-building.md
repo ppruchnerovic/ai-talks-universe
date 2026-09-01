@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 39
 published_at: 2026-06-04T07:00:00Z
 video_id: pRIEn50SY3U
+url: https://www.youtube.com/watch?v=pRIEn50SY3U
 youtube_url: https://www.youtube.com/watch?v=pRIEn50SY3U
 tags: ["AI", "recruiting", "hiring", "automation", "building tools", "vibe coding", "recruitment", "ai agents", "agentic ai", "tool", "coding", "HR", "people", "transformation"]
 transcript: true

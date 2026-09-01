@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 25
 published_at: 2024-07-02T08:45:03Z
 video_id: iJkHjHkPY0I
+url: https://www.youtube.com/watch?v=iJkHjHkPY0I
 youtube_url: https://www.youtube.com/watch?v=iJkHjHkPY0I
 tags: []
 transcript: false

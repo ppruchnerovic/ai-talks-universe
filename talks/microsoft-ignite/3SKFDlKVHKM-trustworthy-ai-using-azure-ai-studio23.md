@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 6
 published_at: 2024-11-25T22:58:07Z
 video_id: 3SKFDlKVHKM
+url: https://www.youtube.com/watch?v=3SKFDlKVHKM
 youtube_url: https://www.youtube.com/watch?v=3SKFDlKVHKM
 tags: ["English (US)", "Sarah Bird", "Seth Juarez", "Studio", "Studio23", "Trustworthy AI using Azure AI | Studio23", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

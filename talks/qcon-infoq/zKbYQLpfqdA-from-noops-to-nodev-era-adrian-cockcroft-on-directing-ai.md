@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2026-04-23T05:29:23Z
 video_id: zKbYQLpfqdA
+url: https://www.youtube.com/watch?v=zKbYQLpfqdA
 youtube_url: https://www.youtube.com/watch?v=zKbYQLpfqdA
 tags: ["InfoQ", "Transcript", "QCon San Francisco", "Artificial Intelligence", "AI Agents", "Software Architecture", "Generative AI", "Engineering Leadership", "Cloud Native", "DevOps"]
 transcript: true

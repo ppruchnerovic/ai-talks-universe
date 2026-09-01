@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:41:43Z
 video_id: 7FpeYx0f1ck
+url: https://www.youtube.com/watch?v=7FpeYx0f1ck
 youtube_url: https://www.youtube.com/watch?v=7FpeYx0f1ck
 tags: ["BRK251", "Data security and governance in the age of AI with Microsoft Purview | BRK251", "English (US)", "Nick O'Keefe", "Rohan Kumar", "Rudra Mitra", "Secure your data", "Technical", "f28523e2-658c-4ead-9792-0deaee99be83_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

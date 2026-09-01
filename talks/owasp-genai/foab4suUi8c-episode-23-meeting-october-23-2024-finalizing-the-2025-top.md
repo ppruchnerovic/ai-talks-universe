@@ -12,6 +12,7 @@ channel: null
 duration_min: 17
 published_at: null
 video_id: foab4suUi8c
+url: https://www.youtube.com/watch?v=foab4suUi8c
 youtube_url: https://www.youtube.com/watch?v=foab4suUi8c
 tags: []
 transcript: false

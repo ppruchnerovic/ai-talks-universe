@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-26T07:24:39Z
 video_id: rSmqwjBroZI
+url: https://www.youtube.com/watch?v=rSmqwjBroZI
 youtube_url: https://www.youtube.com/watch?v=rSmqwjBroZI
 tags: ["AI", "Advanced (300)", "Apps", "Azure AI", "BRK154", "Breakout", "Choose the right AI app use case for your business | BRK154", "Decision Maker", "English (US)", "Mark Albrecht", "Naga Surendran", "Nathaniel Ceres", "Ryan Culligan", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

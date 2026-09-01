@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 16
 published_at: 2025-05-29T00:45:49Z
 video_id: PfZZ1qkfTsU
+url: https://www.youtube.com/watch?v=PfZZ1qkfTsU
 youtube_url: https://www.youtube.com/watch?v=PfZZ1qkfTsU
 tags: ["healthcare data", "FHIR", "HL7", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "medical data", "HIPAA", "health informatics", "medical informatics", "healthcare IT", "X12", "CCDA", "TMSIS", "payers", "providers", "Python", "electronic health records", "clinical data", "patient data", "healthcare analytics", "population health", "quality measures", "outcomes research", "clinical decision support", "predictive analytics"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 53
 published_at: 2025-10-10T05:09:25Z
 video_id: dVy-lengAhY
+url: https://www.youtube.com/watch?v=dVy-lengAhY
 youtube_url: https://www.youtube.com/watch?v=dVy-lengAhY
 tags: []
 transcript: false

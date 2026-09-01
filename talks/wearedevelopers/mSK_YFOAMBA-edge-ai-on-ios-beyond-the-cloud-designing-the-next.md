@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T08:20:00+00:00
 video_id: mSK_YFOAMBA
+url: https://www.youtube.com/watch?v=mSK_YFOAMBA
 youtube_url: https://www.youtube.com/watch?v=mSK_YFOAMBA
 tags: ["Frontend, Web & Mobile", "Edge AI", "iOS"]
 transcript: true

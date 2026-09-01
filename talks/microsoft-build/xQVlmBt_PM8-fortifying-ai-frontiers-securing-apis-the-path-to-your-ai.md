@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 14
 published_at: null
 video_id: xQVlmBt_PM8
+url: https://www.youtube.com/watch?v=xQVlmBt_PM8
 youtube_url: https://www.youtube.com/watch?v=xQVlmBt_PM8
 tags: []
 transcript: false

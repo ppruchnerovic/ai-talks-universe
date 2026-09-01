@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T07:00:00+00:00
 video_id: 4l-PnH0UUrY
+url: https://www.youtube.com/watch?v=4l-PnH0UUrY
 youtube_url: https://www.youtube.com/watch?v=4l-PnH0UUrY
 tags: ["Quality & Reliability", "AI Models", "Quality Assurance (QA)", "Testing"]
 transcript: true

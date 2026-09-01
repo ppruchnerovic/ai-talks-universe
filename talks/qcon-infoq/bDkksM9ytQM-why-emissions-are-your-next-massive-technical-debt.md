@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 43
 published_at: 2026-03-16T07:57:26Z
 video_id: bDkksM9ytQM
+url: https://www.youtube.com/watch?v=bDkksM9ytQM
 youtube_url: https://www.youtube.com/watch?v=bDkksM9ytQM
 tags: ["Software Development", "QCon London", "InfoQ", "Transcript", "Green IT", "FinOps", "Green Software", "Sustainable Computing", "Software Architecture", "Sustainability In Tech", "Engineering Leadership"]
 transcript: true

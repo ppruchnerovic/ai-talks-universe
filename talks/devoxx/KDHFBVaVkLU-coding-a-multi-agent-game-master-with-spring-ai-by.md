@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 43
 published_at: 2026-04-01T08:05:27Z
 video_id: KDHFBVaVkLU
+url: https://www.youtube.com/watch?v=KDHFBVaVkLU
 youtube_url: https://www.youtube.com/watch?v=KDHFBVaVkLU
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 13
 published_at: 2026-07-14T16:30:15Z
 video_id: HopnPmgHUis
+url: https://www.youtube.com/watch?v=HopnPmgHUis
 youtube_url: https://www.youtube.com/watch?v=HopnPmgHUis
 tags: []
 transcript: true

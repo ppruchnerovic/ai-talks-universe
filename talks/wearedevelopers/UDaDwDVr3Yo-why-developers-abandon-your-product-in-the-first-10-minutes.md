@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T07:40:00+00:00
 video_id: UDaDwDVr3Yo
+url: https://www.youtube.com/watch?v=UDaDwDVr3Yo
 youtube_url: https://www.youtube.com/watch?v=UDaDwDVr3Yo
 tags: ["Strategy & Innovation", "Advocacy", "Marketing", "Product Strategy"]
 transcript: true

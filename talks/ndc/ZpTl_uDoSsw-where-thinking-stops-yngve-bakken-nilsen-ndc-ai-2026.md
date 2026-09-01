@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 39
 published_at: 2026-06-30T07:46:41Z
 video_id: ZpTl_uDoSsw
+url: https://www.youtube.com/watch?v=ZpTl_uDoSsw
 youtube_url: https://www.youtube.com/watch?v=ZpTl_uDoSsw
 tags: ["AI-Assisted Development", "AI Fundamentals", "AI", "NDC", "Conferences", "2026", "Live", "fun", "Oslo", "Norway", "Yngve Bakken Nilsen"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 37
 published_at: null
 video_id: wGmCYMiIoUc
+url: https://www.youtube.com/watch?v=wGmCYMiIoUc
 youtube_url: https://www.youtube.com/watch?v=wGmCYMiIoUc
 tags: []
 transcript: false

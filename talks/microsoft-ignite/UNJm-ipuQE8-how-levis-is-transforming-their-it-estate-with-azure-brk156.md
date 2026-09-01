@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T12:08:40Z
 video_id: UNJm-ipuQE8
+url: https://www.youtube.com/watch?v=UNJm-ipuQE8
 youtube_url: https://www.youtube.com/watch?v=UNJm-ipuQE8
 tags: ["BRK156", "English (US)", "How Levi’s is transforming their IT estate with Azure | BRK156", "Maria Bledsoe", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Kubernetes Service (AKS)", "Migrate and modernize your estate:Azure SQL", "Migrate and modernize your estate:Windows Server", "Shawn Harris", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

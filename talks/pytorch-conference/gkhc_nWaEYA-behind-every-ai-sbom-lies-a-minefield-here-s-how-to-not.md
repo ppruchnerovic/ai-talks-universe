@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 24
 published_at: null
 video_id: gkhc_nWaEYA
+url: https://www.youtube.com/watch?v=gkhc_nWaEYA
 youtube_url: https://www.youtube.com/watch?v=gkhc_nWaEYA
 tags: []
 transcript: false

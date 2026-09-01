@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 27
 published_at: 2025-04-04T16:49:09Z
 video_id: c6e5-SxAn0w
+url: https://www.youtube.com/watch?v=c6e5-SxAn0w
 youtube_url: https://www.youtube.com/watch?v=c6e5-SxAn0w
 tags: ["ai security", "genai security", "podcast", "jailbreaks", "data poisoning", "retrieval-augmented generation", "AI", "OWASP"]
 transcript: false

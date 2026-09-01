@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 31
 published_at: 2023-08-18T01:37:38Z
 video_id: 6C2MFasPJDM
+url: https://www.youtube.com/watch?v=6C2MFasPJDM
 youtube_url: https://www.youtube.com/watch?v=6C2MFasPJDM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Marius: Machine Learning over Billion-Edge Graphs 10x faster and 5x cheaper", "Machine Learning over Billion-Edge Graphs", "Machine Learning Engineer", "Billion-Edge Graphs", "maximizes resource utilization of the entire memory hierarchy", "computer science", "engineering", "innovation"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 19
 published_at: 2025-11-21T12:29:26Z
 video_id: nW0CJfGBTSI
+url: https://www.youtube.com/watch?v=nW0CJfGBTSI
 youtube_url: https://www.youtube.com/watch?v=nW0CJfGBTSI
 tags: ["Azure AI Foundry: The enterprise AI agent factory | STUDIO39", "English (US)", "Jay Parikh", "Other", "STUDIO39", "STUDIO39_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

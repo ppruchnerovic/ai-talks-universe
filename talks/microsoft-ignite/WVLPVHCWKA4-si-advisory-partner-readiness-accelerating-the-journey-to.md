@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-20T11:34:01Z
 video_id: WVLPVHCWKA4
+url: https://www.youtube.com/watch?v=WVLPVHCWKA4
 youtube_url: https://www.youtube.com/watch?v=WVLPVHCWKA4
 tags: ["2681a49a-1e45-4743-9f35-62777f335d42_Segment", "English (US)", "Justin Slade", "Maisa Penha", "Microsoft AI Cloud Partner Program", "PBRK419", "Partner Business", "SI & Advisory Partner Readiness: Accelerating the Journey to Frontier | PBRK419", "Stephen Boyle", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

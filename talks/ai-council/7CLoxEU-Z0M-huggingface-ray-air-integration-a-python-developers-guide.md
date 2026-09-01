@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 24
 published_at: 2023-05-11T18:57:58Z
 video_id: 7CLoxEU-Z0M
+url: https://www.youtube.com/watch?v=7CLoxEU-Z0M
 youtube_url: https://www.youtube.com/watch?v=7CLoxEU-Z0M
 tags: ["Python", "opensource", "machine learning", "Ray", "AI"]
 transcript: false

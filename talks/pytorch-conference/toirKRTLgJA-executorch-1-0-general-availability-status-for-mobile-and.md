@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: toirKRTLgJA
+url: https://www.youtube.com/watch?v=toirKRTLgJA
 youtube_url: https://www.youtube.com/watch?v=toirKRTLgJA
 tags: []
 transcript: false

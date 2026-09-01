@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T08:17:17Z
 video_id: xSioblHhYL8
+url: https://www.youtube.com/watch?v=xSioblHhYL8
 youtube_url: https://www.youtube.com/watch?v=xSioblHhYL8
 tags: ["BRK122", "English (US)", "Innovate with Azure AI apps and agents", "Jon Galloway", "Technical", "Visual Studio 2026 is fast modern and AI-powered | BRK122", "f231dc5e-5dfe-4119-9556-1431fe0e25fd_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

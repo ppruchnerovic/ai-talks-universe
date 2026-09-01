@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 39
 published_at: 2024-04-19T05:00:22Z
 video_id: kHrTPzyVo3k
+url: https://www.youtube.com/watch?v=kHrTPzyVo3k
 youtube_url: https://www.youtube.com/watch?v=kHrTPzyVo3k
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 37
 published_at: 2024-10-21T16:31:47Z
 video_id: jv58Cpr6SAs
+url: https://www.youtube.com/watch?v=jv58Cpr6SAs
 youtube_url: https://www.youtube.com/watch?v=jv58Cpr6SAs
 tags: []
 transcript: false

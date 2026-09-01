@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2025-04-08T08:42:25Z
 video_id: mqSNNJ3C4JQ
+url: https://www.youtube.com/watch?v=mqSNNJ3C4JQ
 youtube_url: https://www.youtube.com/watch?v=mqSNNJ3C4JQ
 tags: ["Feature Platform", "ML", "Machine Learning", "MLOps", "Software Architecture", "AI", "Artificial Intelligence", "Scalability", "Performance", "Low Latency", "Apache Flink", "InfoQ", "QCon London", "Transcript"]
 transcript: false

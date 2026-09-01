@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 13
 published_at: 2023-05-11T18:58:17Z
 video_id: Fsam4PJ8z-k
+url: https://www.youtube.com/watch?v=Fsam4PJ8z-k
 youtube_url: https://www.youtube.com/watch?v=Fsam4PJ8z-k
 tags: ["data governance", "data streaming"]
 transcript: false

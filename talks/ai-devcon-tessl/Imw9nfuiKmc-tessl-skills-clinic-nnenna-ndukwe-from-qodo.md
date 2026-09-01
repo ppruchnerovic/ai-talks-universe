@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 17
 published_at: 2026-07-22T12:15:45Z
 video_id: Imw9nfuiKmc
+url: https://www.youtube.com/watch?v=Imw9nfuiKmc
 youtube_url: https://www.youtube.com/watch?v=Imw9nfuiKmc
 tags: ["AI code review", "AI code review tools", "AI-generated skills", "Anthropic best practices", "Automated skill review", "Coding agents", "Developer relations", "PR Resolver", "Qodo", "Qodo PR Resolver", "Tessl skills", "ainativedev", "how to improve AI skills", "how to use Tessl skill review", "what is Qodo PR Resolver"]
 transcript: true

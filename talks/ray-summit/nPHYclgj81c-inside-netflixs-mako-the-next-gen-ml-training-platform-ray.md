@@ -12,6 +12,7 @@ channel: null
 duration_min: 33
 published_at: null
 video_id: nPHYclgj81c
+url: https://www.youtube.com/watch?v=nPHYclgj81c
 youtube_url: https://www.youtube.com/watch?v=nPHYclgj81c
 tags: []
 transcript: false

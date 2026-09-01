@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-24T13:18:43Z
 video_id: uRDHLQFgXrY
+url: https://www.youtube.com/watch?v=uRDHLQFgXrY
 youtube_url: https://www.youtube.com/watch?v=uRDHLQFgXrY
 tags: ["86e843d5-4685-40a2-8429-92eb2d3e1bda_Segment", "English (US)", "Frontier Partners: Delivering agents to accelerate Industrial AI | PBRK389", "Howard Heppelmann", "Manufacturing and Mobility", "Microsoft AI Cloud Partner Program", "Other", "PBRK389", "Partner Business", "Prateek Kathpal", "Ward Lawrence", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

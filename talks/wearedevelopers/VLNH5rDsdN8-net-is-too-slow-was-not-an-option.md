@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T15:30:00+00:00
 video_id: VLNH5rDsdN8
+url: https://www.youtube.com/watch?v=VLNH5rDsdN8
 youtube_url: https://www.youtube.com/watch?v=VLNH5rDsdN8
 tags: ["Languages & Runtimes", "C#", "Distributed Systems", "Performance", "Scaling", "Software Architecture", "SQL", "Streaming", "System Design", "Threat Modelling"]
 transcript: true

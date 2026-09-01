@@ -12,6 +12,7 @@ channel: "Android Developers"
 duration_min: 42
 published_at: 2026-05-21T16:08:42Z
 video_id: 8PxuWdjESfg
+url: https://www.youtube.com/watch?v=8PxuWdjESfg
 youtube_url: https://www.youtube.com/watch?v=8PxuWdjESfg
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Android PA Keynote;", "ct:Stack - Android;"]
 transcript: true

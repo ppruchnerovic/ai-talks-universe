@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T13:28:16Z
 video_id: S6JHew4W3Ik
+url: https://www.youtube.com/watch?v=S6JHew4W3Ik
 youtube_url: https://www.youtube.com/watch?v=S6JHew4W3Ik
 tags: ["Copilot Control System updates | STUDIO37", "English (US)", "Jeremy Chapman", "Other", "STUDIO37", "STUDIO37_v1", "Shilpi Sinha", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

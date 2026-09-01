@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2025-03-03T10:10:46Z
 video_id: dtMdOBwFock
+url: https://www.youtube.com/watch?v=dtMdOBwFock
 youtube_url: https://www.youtube.com/watch?v=dtMdOBwFock
 tags: ["Machine Learning", "Artificial Intelligence", "ML Projects", "Data Science", "MLOps", "ML Project Failure", "ML Project Lifecycle", "A/B Testing", "AI Adoption", "Generative AI", "Large Language Models", "Responsable AI", "AI Ethics", "InfoQ", "QCon San Francisco"]
 transcript: false

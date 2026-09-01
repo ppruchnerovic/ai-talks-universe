@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T08:10:00+00:00
 video_id: jSkoyN7s3fY
+url: https://www.youtube.com/watch?v=jSkoyN7s3fY
 youtube_url: https://www.youtube.com/watch?v=jSkoyN7s3fY
 tags: ["AI Engineering", "AI Models", "Embeddings", "Fine-Tuning", "Retrieval-Augmented Generation (RAG)"]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 172
 published_at: null
 video_id: TaXhaA76bfA
+url: https://www.youtube.com/watch?v=TaXhaA76bfA
 youtube_url: https://www.youtube.com/watch?v=TaXhaA76bfA
 tags: []
 transcript: false

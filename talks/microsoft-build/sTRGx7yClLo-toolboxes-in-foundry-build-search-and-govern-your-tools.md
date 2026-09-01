@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-05T15:22:46Z
 video_id: sTRGx7yClLo
+url: https://www.youtube.com/watch?v=sTRGx7yClLo
 youtube_url: https://www.youtube.com/watch?v=sTRGx7yClLo
 tags: ["Atul Aggarwal", "LIVE163", "LIVE163_v1", "Seth Juarez", "Toolboxes in Foundry: Build Search and Govern Your Tools | LIVE163", "Zhuoqun Li", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

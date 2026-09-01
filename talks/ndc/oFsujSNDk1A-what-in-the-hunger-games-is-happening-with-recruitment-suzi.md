@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 50
 published_at: 2026-02-11T09:45:13Z
 video_id: oFsujSNDk1A
+url: https://www.youtube.com/watch?v=oFsujSNDk1A
 youtube_url: https://www.youtube.com/watch?v=oFsujSNDk1A
 tags: ["People", "Agile", "Ethics", "Fun", "Soft Skills", "NDC", "Conferences", "2026", "Live", "London", "UK", "England", "United Kingdom", "Suzi Edwards-Alexander"]
 transcript: true

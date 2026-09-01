@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 48
 published_at: null
 video_id: SrB-LIAIx5I
+url: https://www.youtube.com/watch?v=SrB-LIAIx5I
 youtube_url: https://www.youtube.com/watch?v=SrB-LIAIx5I
 tags: []
 transcript: false

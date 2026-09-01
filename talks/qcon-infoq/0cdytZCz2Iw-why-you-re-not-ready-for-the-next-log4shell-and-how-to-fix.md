@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 52
 published_at: 2026-04-27T05:30:00Z
 video_id: 0cdytZCz2Iw
+url: https://www.youtube.com/watch?v=0cdytZCz2Iw
 youtube_url: https://www.youtube.com/watch?v=0cdytZCz2Iw
 tags: ["InfoQ DevSummit", "QCon", "InfoQ", "Transcripts", "Cyber Security", "Log4shell", "Software Bill of Materials (SBOM)", "DevSecOps", "software supply chain", "Software Architecture", "Security", "Supply Chain Attack"]
 transcript: true

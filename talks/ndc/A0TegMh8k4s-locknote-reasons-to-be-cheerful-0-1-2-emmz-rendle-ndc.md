@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-08-12T06:54:37Z
 video_id: A0TegMh8k4s
+url: https://www.youtube.com/watch?v=A0TegMh8k4s
 youtube_url: https://www.youtube.com/watch?v=A0TegMh8k4s
 tags: ["AI", "AR", "Ethics", "People", "Fun", "NDC", "Conferences", "2026", "Live", "Copenhagen", "Denmark"]
 transcript: true

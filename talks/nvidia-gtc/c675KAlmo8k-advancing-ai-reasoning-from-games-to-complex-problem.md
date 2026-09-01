@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 40
 published_at: null
 video_id: c675KAlmo8k
+url: https://www.youtube.com/watch?v=c675KAlmo8k
 youtube_url: https://www.youtube.com/watch?v=c675KAlmo8k
 tags: []
 transcript: false

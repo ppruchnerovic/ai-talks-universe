@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 29
 published_at: 2023-02-09T03:03:36Z
 video_id: WWSr-Xu7Dp4
+url: https://www.youtube.com/watch?v=WWSr-Xu7Dp4
 youtube_url: https://www.youtube.com/watch?v=WWSr-Xu7Dp4
 tags: []
 transcript: false

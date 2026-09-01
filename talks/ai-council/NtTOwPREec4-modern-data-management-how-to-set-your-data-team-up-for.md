@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 16
 published_at: 2023-05-11T14:39:27Z
 video_id: NtTOwPREec4
+url: https://www.youtube.com/watch?v=NtTOwPREec4
 youtube_url: https://www.youtube.com/watch?v=NtTOwPREec4
 tags: ["data discovery", "change management", "data management", "data teams"]
 transcript: false

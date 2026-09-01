@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 29
 published_at: 2026-06-03T13:02:41Z
 video_id: o5wYeUtWGnw
+url: https://www.youtube.com/watch?v=o5wYeUtWGnw
 youtube_url: https://www.youtube.com/watch?v=o5wYeUtWGnw
 tags: ["CP&D", "Data", "Kim Manis", "Microsoft Fabric", "OD816", "OD816_v1", "Securing scaling and sustaining your data estate in Microsoft Fabric | OD816", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

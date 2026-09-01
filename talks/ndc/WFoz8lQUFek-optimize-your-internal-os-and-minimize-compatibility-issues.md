@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2025-11-25T14:28:32Z
 video_id: WFoz8lQUFek
+url: https://www.youtube.com/watch?v=WFoz8lQUFek
 youtube_url: https://www.youtube.com/watch?v=WFoz8lQUFek
 tags: ["People", "Soft Skills", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Alice Meredith"]
 transcript: false

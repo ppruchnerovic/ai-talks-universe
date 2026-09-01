@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 54
 published_at: 2026-02-25T11:11:35Z
 video_id: L1w6wBxhpgE
+url: https://www.youtube.com/watch?v=L1w6wBxhpgE
 youtube_url: https://www.youtube.com/watch?v=L1w6wBxhpgE
 tags: ["AI", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Great Britain", "Steve Sanderson"]
 transcript: true

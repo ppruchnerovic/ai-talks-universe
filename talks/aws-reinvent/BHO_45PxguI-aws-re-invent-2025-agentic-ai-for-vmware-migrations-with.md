@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 59
 published_at: null
 video_id: BHO_45PxguI
+url: https://www.youtube.com/watch?v=BHO_45PxguI
 youtube_url: https://www.youtube.com/watch?v=BHO_45PxguI
 tags: []
 transcript: false

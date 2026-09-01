@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T12:50:00+00:00
 video_id: pS07-h1XQ4k
+url: https://www.youtube.com/watch?v=pS07-h1XQ4k
 youtube_url: https://www.youtube.com/watch?v=pS07-h1XQ4k
 tags: ["DevOps", "Caching", "CI/CD", "Containers", "DevOps", "Docker", "GitHub Actions", "Go", "NPM", "Varnish", "Web Performance"]
 transcript: true

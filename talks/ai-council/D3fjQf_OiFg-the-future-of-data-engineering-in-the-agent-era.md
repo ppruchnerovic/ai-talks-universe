@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 47
 published_at: 2025-05-29T15:19:07Z
 video_id: D3fjQf_OiFg
+url: https://www.youtube.com/watch?v=D3fjQf_OiFg
 youtube_url: https://www.youtube.com/watch?v=D3fjQf_OiFg
 tags: ["data engineering tutorial", "AI agents", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "vector databases", "graph RAG", "real time data", "semantic layers", "foundation models", "agent memory", "Python tutorial", "next generation data engineering", "intelligent data systems", "automated data pipelines", "self healing systems", "adaptive systems", "cognitive computing", "autonomous systems", "intelligent automation", "graph neural networks", "entity resolution"]
 transcript: false

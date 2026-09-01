@@ -12,6 +12,7 @@ channel: "CAMLIS"
 duration_min: 26
 published_at: 2023-11-18T21:35:15Z
 video_id: Oq7C9hbQhII
+url: https://www.youtube.com/watch?v=Oq7C9hbQhII
 youtube_url: https://www.youtube.com/watch?v=Oq7C9hbQhII
 tags: []
 transcript: false

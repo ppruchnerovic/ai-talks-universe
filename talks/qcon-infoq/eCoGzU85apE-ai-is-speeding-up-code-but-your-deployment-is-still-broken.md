@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 38
 published_at: 2026-04-07T13:00:01Z
 video_id: eCoGzU85apE
+url: https://www.youtube.com/watch?v=eCoGzU85apE
 youtube_url: https://www.youtube.com/watch?v=eCoGzU85apE
 tags: ["DevEx", "Developer Experience", "Best Practices", "InfoQ", "QCon San Francisco", "Transcript", "Agile", "Software Architecture", "DevOps", "DORA Metrics", "GenAI", "Engineering Leadership"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 32
 published_at: 2025-09-09T18:26:40Z
 video_id: CJi98HNPnKI
+url: https://www.youtube.com/watch?v=CJi98HNPnKI
 youtube_url: https://www.youtube.com/watch?v=CJi98HNPnKI
 tags: []
 transcript: false

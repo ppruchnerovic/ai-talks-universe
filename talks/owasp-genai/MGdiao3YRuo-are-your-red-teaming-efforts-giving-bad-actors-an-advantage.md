@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 17
 published_at: 2025-05-23T21:40:19Z
 video_id: MGdiao3YRuo
+url: https://www.youtube.com/watch?v=MGdiao3YRuo
 youtube_url: https://www.youtube.com/watch?v=MGdiao3YRuo
 tags: ["owasp", "genai", "security", "project", "ai exchange", "red teaming", "generative ai", "bad actors", "advantage", "efforts", "giving"]
 transcript: false

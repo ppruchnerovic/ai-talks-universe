@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T07:40:00+00:00
 video_id: KTlgZX-fAB0
+url: https://www.youtube.com/watch?v=KTlgZX-fAB0
 youtube_url: https://www.youtube.com/watch?v=KTlgZX-fAB0
 tags: ["Developer Experience", "Documentation"]
 transcript: true

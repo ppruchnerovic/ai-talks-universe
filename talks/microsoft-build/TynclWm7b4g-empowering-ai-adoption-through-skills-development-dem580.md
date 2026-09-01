@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 16
 published_at: null
 video_id: TynclWm7b4g
+url: https://www.youtube.com/watch?v=TynclWm7b4g
 youtube_url: https://www.youtube.com/watch?v=TynclWm7b4g
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-05-19T00:00:00Z
 video_id: yUmS-F9IX90
+url: https://www.youtube.com/watch?v=yUmS-F9IX90
 youtube_url: https://www.youtube.com/watch?v=yUmS-F9IX90
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

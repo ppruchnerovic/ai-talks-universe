@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T12:59:22Z
 video_id: fPPc8anlVh8
+url: https://www.youtube.com/watch?v=fPPc8anlVh8
 youtube_url: https://www.youtube.com/watch?v=fPPc8anlVh8
 tags: ["Arvind Mishra", "Arwa Tyebkhan", "BRK1740", "BRK1740_v1", "Copilot and agents at work", "English (US)", "Gaia Carini", "OneDrive: Fueling AI productivity across Microsoft 365 | BRK1740", "Rob Nunez", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

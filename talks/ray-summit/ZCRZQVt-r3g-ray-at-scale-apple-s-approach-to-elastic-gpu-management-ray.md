@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: ZCRZQVt-r3g
+url: https://www.youtube.com/watch?v=ZCRZQVt-r3g
 youtube_url: https://www.youtube.com/watch?v=ZCRZQVt-r3g
 tags: []
 transcript: false

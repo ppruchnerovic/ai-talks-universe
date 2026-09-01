@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2026-06-01T05:42:18Z
 video_id: XqzMDWm95CM
+url: https://www.youtube.com/watch?v=XqzMDWm95CM
 youtube_url: https://www.youtube.com/watch?v=XqzMDWm95CM
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Claude Code", "Software Development Life Cycle", "AI", "Artificial Intelligence", "Software Development", "Anthropic", "AI Coding"]
 transcript: true

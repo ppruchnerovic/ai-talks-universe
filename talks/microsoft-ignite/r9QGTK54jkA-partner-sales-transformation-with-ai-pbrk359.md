@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T13:38:06Z
 video_id: r9QGTK54jkA
+url: https://www.youtube.com/watch?v=r9QGTK54jkA
 youtube_url: https://www.youtube.com/watch?v=r9QGTK54jkA
 tags: ["2b4d575c-a9a8-4464-aa3c-1d621831a3fd_Segment", "Agentic business applications", "Agentic business applications:Dynamics 365", "April Delsing", "English (US)", "Henk-Jan van de Beek", "Julie Strauss", "Marion Rousseau", "Microsoft AI Cloud Partner Program", "PBRK359", "Partner Business", "Partner: Sales transformation with AI | PBRK359", "Pope Trinidad", "Sherry Martin", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

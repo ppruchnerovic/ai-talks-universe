@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 44
 published_at: 2025-12-12T08:13:00Z
 video_id: -L0uv4vsjig
+url: https://www.youtube.com/watch?v=-L0uv4vsjig
 youtube_url: https://www.youtube.com/watch?v=-L0uv4vsjig
 tags: ["rewards", "compensation", "culture", "leadership", "people", "workspace", "salary", "transparency", "remote work", "flexibility", "reward systems", "employee experience", "paychecks", "talent attraction"]
 transcript: false

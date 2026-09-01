@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 36
 published_at: 2023-12-18T18:32:27Z
 video_id: ZhoIUMJke_w
+url: https://www.youtube.com/watch?v=ZhoIUMJke_w
 youtube_url: https://www.youtube.com/watch?v=ZhoIUMJke_w
 tags: []
 transcript: false

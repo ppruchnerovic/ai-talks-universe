@@ -12,6 +12,7 @@ channel: null
 duration_min: 15
 published_at: null
 video_id: TFq_SilOI4Y
+url: https://www.youtube.com/watch?v=TFq_SilOI4Y
 youtube_url: https://www.youtube.com/watch?v=TFq_SilOI4Y
 tags: []
 transcript: false

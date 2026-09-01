@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 62
 published_at: 2026-03-03T09:14:40Z
 video_id: Y5M-8jJ-sTg
+url: https://www.youtube.com/watch?v=Y5M-8jJ-sTg
 youtube_url: https://www.youtube.com/watch?v=Y5M-8jJ-sTg
 tags: ["work", "identity", "leadership", "future of work", "people", "culture", "talent", "cross-generation"]
 transcript: true

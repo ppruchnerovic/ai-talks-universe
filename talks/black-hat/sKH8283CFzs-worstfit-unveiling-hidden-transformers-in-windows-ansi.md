@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 40
 published_at: 2025-05-19T19:23:16Z
 video_id: sKH8283CFzs
+url: https://www.youtube.com/watch?v=sKH8283CFzs
 youtube_url: https://www.youtube.com/watch?v=sKH8283CFzs
 tags: []
 transcript: false

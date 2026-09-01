@@ -12,6 +12,7 @@ channel: "RSAC Cybersecurity"
 duration_min: 19
 published_at: 2026-03-24T00:51:05Z
 video_id: FkArgOq2d1A
+url: https://www.youtube.com/watch?v=FkArgOq2d1A
 youtube_url: https://www.youtube.com/watch?v=FkArgOq2d1A
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: true

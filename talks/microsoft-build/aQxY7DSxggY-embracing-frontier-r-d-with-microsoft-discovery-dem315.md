@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-04T13:54:46Z
 video_id: aQxY7DSxggY
+url: https://www.youtube.com/watch?v=aQxY7DSxggY
 youtube_url: https://www.youtube.com/watch?v=aQxY7DSxggY
 tags: ["AI", "API", "Agents", "Azure", "Azure Kubernetes Service (AKS)", "DEM315", "Embracing frontier R&D with Microsoft Discovery | DEM315", "Foundry Agents", "GitHub Copilot", "John Link", "Microsoft Foundry", "Viktor Veis", "build", "build 2026", "fdbf653e-2bbd-4ef5-bcdc-d3ff526ebd98_M9Z7-DEM315-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

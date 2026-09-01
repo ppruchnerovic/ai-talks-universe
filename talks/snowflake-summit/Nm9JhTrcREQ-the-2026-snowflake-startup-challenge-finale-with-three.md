@@ -12,6 +12,7 @@ channel: "Snowflake Inc."
 duration_min: 60
 published_at: 2026-06-12T23:24:33Z
 video_id: Nm9JhTrcREQ
+url: https://www.youtube.com/watch?v=Nm9JhTrcREQ
 youtube_url: https://www.youtube.com/watch?v=Nm9JhTrcREQ
 tags: ["Snowflake", "Snowflake data warehouse", "Snowflake computing", "Snowflake company", "Snowflake database", "Snowflake cloud", "Data warehouse", "Business software", "Data warehousing", "Cloud storage", "cloud computing", "Data Science", "Data Engineering", "The Data Cloud", "big data", "artificial intelligence", "data scientist", "predictive analytics", "business intelligence", "data economy", "Data driven economy", "Data cloud", "data lake", "Data Warehouse"]
 transcript: true

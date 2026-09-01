@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T07:25:32Z
 video_id: oG2oJP0fpg0
+url: https://www.youtube.com/watch?v=oG2oJP0fpg0
 youtube_url: https://www.youtube.com/watch?v=oG2oJP0fpg0
 tags: ["Adam Wheat", "Adrian Crockett", "BRK366", "Becoming frontier: Accelerating agentic journeys in financial services | BRK366", "English (US)", "Financial Services", "Hemanth Sundararaj", "Innovate with low-code AI and agents", "Jared Lambert", "Signature pass", "Technical", "af8fc1fa-aa85-41d6-9a7e-0f327b3522cf_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

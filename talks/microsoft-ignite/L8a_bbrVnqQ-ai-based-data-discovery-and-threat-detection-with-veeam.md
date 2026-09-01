@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T12:44:52Z
 video_id: L8a_bbrVnqQ
+url: https://www.youtube.com/watch?v=L8a_bbrVnqQ
 youtube_url: https://www.youtube.com/watch?v=L8a_bbrVnqQ
 tags: ["AI-based data discovery and threat detection with Veeam | ODSP1463", "English (US)", "Innovate with Azure AI apps and agents", "ODSP1463", "ODSP1463_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

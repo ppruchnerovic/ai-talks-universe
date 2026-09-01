@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 65
 published_at: 2026-05-07T09:38:44Z
 video_id: O43oqSEJFQI
+url: https://www.youtube.com/watch?v=O43oqSEJFQI
 youtube_url: https://www.youtube.com/watch?v=O43oqSEJFQI
 tags: ["Jannik Hollenbach", "Application Security", "Security", "OWASP", "Björn Kimminich"]
 transcript: true

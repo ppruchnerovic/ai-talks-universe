@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:15:38Z
 video_id: GqbejRipcaA
+url: https://www.youtube.com/watch?v=GqbejRipcaA
 youtube_url: https://www.youtube.com/watch?v=GqbejRipcaA
 tags: ["AI", "Alan Rabinovich", "Amanda Fleming", "Automation", "BRKFP378", "Breakout", "Cosmos Darwin", "English (US)", "Foundational (100)", "Imagine the future of edge computing and prepare for the AI revolution | BRKFP378", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

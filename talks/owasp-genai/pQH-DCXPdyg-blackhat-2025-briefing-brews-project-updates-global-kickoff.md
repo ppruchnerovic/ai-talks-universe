@@ -12,6 +12,7 @@ channel: null
 duration_min: 16
 published_at: null
 video_id: pQH-DCXPdyg
+url: https://www.youtube.com/watch?v=pQH-DCXPdyg
 youtube_url: https://www.youtube.com/watch?v=pQH-DCXPdyg
 tags: []
 transcript: false

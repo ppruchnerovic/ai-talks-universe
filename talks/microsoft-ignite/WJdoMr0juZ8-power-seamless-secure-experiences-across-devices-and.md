@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 5
 published_at: 2025-11-21T12:50:52Z
 video_id: WJdoMr0juZ8
+url: https://www.youtube.com/watch?v=WJdoMr0juZ8
 youtube_url: https://www.youtube.com/watch?v=WJdoMr0juZ8
 tags: ["Dave Mooney", "English (US)", "Power seamless secure experiences across devices and services | STUDIOSP81", "Retail and Consumer Goods", "STUDIOSP81", "STUDIOSP81_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

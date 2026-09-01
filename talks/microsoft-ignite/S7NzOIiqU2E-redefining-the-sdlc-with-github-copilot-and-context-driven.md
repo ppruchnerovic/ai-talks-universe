@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-19T14:51:59Z
 video_id: S7NzOIiqU2E
+url: https://www.youtube.com/watch?v=S7NzOIiqU2E
 youtube_url: https://www.youtube.com/watch?v=S7NzOIiqU2E
 tags: ["Copilot and agents at work", "English (US)", "Financial Services", "Jon Perkins", "ODSP1414", "ODSP1414_v1", "Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

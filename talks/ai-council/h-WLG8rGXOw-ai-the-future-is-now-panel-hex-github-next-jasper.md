@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 47
 published_at: 2023-05-11T19:00:39Z
 video_id: h-WLG8rGXOw
+url: https://www.youtube.com/watch?v=h-WLG8rGXOw
 youtube_url: https://www.youtube.com/watch?v=h-WLG8rGXOw
 tags: ["Artificial intelligence", "AI", "ChatGPT", "github", "data visualization"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 15
 published_at: 2026-06-03T14:28:28Z
 video_id: w8vAY4vK3HQ
+url: https://www.youtube.com/watch?v=w8vAY4vK3HQ
 youtube_url: https://www.youtube.com/watch?v=w8vAY4vK3HQ
 tags: ["AI", "Agents", "Azure", "Create enterprise AI apps at scale with Bolt and Microsoft | ODSP940", "Developer", "Joe Keyes", "ODSP940", "ODSP940_v1", "William Sayer", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

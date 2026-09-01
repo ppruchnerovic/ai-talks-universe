@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 36
 published_at: 2025-10-30T15:07:57Z
 video_id: Ag0PZaEJ_Pw
+url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
 youtube_url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
 tags: ["women in tech", "HR leadership", "tech careers for women", "gender diversity in tech", "STEM education", "mentoring in STEM", "female developers", "team building strategies", "AI in HR", "workplace diversity", "career advancement", "employer branding"]
 transcript: false

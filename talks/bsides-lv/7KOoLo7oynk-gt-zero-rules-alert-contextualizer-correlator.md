@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 54
 published_at: 2024-09-04T22:17:59Z
 video_id: 7KOoLo7oynk
+url: https://www.youtube.com/watch?v=7KOoLo7oynk
 youtube_url: https://www.youtube.com/watch?v=7KOoLo7oynk
 tags: ["CPCZUG"]
 transcript: false

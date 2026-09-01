@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 48
 published_at: null
 video_id: 5JF_SaGroko
+url: https://www.youtube.com/watch?v=5JF_SaGroko
 youtube_url: https://www.youtube.com/watch?v=5JF_SaGroko
 tags: []
 transcript: false

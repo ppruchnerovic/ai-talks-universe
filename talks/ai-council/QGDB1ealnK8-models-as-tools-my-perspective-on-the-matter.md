@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T14:31:55Z
 video_id: QGDB1ealnK8
+url: https://www.youtube.com/watch?v=QGDB1ealnK8
 youtube_url: https://www.youtube.com/watch?v=QGDB1ealnK8
 tags: ["generative AI", "LLM tools", "productivity", "ChatGPT", "artificial intelligence", "machine learning", "AI applications", "practical AI", "AI workflow", "foundation models", "grounded perspective", "day to day AI usage", "AI implementation", "Python tutorial", "automation", "AI productivity tools", "workflow optimization", "task automation", "content generation", "code generation", "document automation", "creative AI", "AI writing", "AI coding", "intelligent assistants", "business automation"]
 transcript: false

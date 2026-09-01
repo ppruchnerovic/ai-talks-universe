@@ -12,6 +12,7 @@ channel: "Sequoia Capital"
 duration_min: 32
 published_at: 2025-05-12T18:35:45Z
 video_id: ctcMA6chfDY
+url: https://www.youtube.com/watch?v=ctcMA6chfDY
 youtube_url: https://www.youtube.com/watch?v=ctcMA6chfDY
 tags: []
 transcript: false

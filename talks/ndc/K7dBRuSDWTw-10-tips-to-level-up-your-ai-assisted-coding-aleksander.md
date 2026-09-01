@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-07-01T14:36:06Z
 video_id: K7dBRuSDWTw
+url: https://www.youtube.com/watch?v=K7dBRuSDWTw
 youtube_url: https://www.youtube.com/watch?v=K7dBRuSDWTw
 tags: ["AI", "Claude", "Code", "Claude Code", "MCP", "GitHub", "Slack", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Aleksander Stensby"]
 transcript: true

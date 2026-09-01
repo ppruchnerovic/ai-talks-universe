@@ -445,7 +445,9 @@ function card(hit, terms) {
   const who = (t.s || []).length
     ? esc(t.s.join(', '))
     : '<span class="co">Speaker not identified</span>';
-  const yt = `https://www.youtube.com/watch?v=${t.v}`;
+  // `l` is present only on the records whose link is not a YouTube watch URL
+  // — InfoQ's own presentation pages, which have no video id to build from.
+  const yt = t.l || `https://www.youtube.com/watch?v=${t.v}`;
   const edition = t.e && t.e !== t.c ? t.e : '';
   const badges = [
     `<button type="button" class="b conf" data-conf="${esc(t.cs)}">${esc(t.c)}</button>`,
@@ -582,8 +584,10 @@ async function showMoments(n, slot, terms) {
       const ctx = segs.slice(Math.max(0, s.i - 1), s.i + 2).map(x => x.text).join(' ');
       const mm = Math.floor(s.start / 60), ss = String(Math.floor(s.start % 60)).padStart(2, '0');
       return `<div class="mo">
-        <a class="ts" href="https://www.youtube.com/watch?v=${talk.v}&t=${Math.floor(s.start)}s"
-           target="_blank" rel="noopener">${mm}:${ss}</a>
+        ${talk.l
+          ? `<span class="ts">${mm}:${ss}</span>`
+          : `<a class="ts" href="https://www.youtube.com/watch?v=${talk.v}&t=${Math.floor(s.start)}s"
+           target="_blank" rel="noopener">${mm}:${ss}</a>`}
         <span>${highlight(ctx, terms)}</span></div>`;
     }).join('') + '</div>';
 }

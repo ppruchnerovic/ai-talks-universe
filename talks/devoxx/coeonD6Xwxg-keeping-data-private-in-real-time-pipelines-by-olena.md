@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 33
 published_at: 2026-03-30T19:00:00Z
 video_id: coeonD6Xwxg
+url: https://www.youtube.com/watch?v=coeonD6Xwxg
 youtube_url: https://www.youtube.com/watch?v=coeonD6Xwxg
 tags: []
 transcript: true

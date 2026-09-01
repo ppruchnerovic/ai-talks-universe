@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 42
 published_at: 2025-05-29T16:09:53Z
 video_id: KvZ8F9-yrU4
+url: https://www.youtube.com/watch?v=KvZ8F9-yrU4
 youtube_url: https://www.youtube.com/watch?v=KvZ8F9-yrU4
 tags: ["artificial intelligence", "machine learning", "data engineering", "AI infrastructure", "enterprise AI", "ChatGPT", "data science", "big data", "modern data stack", "AI development", "data platform", "scalability", "Python", "deep learning", "neural networks", "cloud computing", "tech stack", "AI tools", "database", "MLOps", "AI deployment", "production AI", "AI architecture", "enterprise solutions", "AI strategy", "business intelligence", "data analytics", "AI frameworks", "distributed systems", "microservices", "Kubernetes", "Docker"]
 transcript: false

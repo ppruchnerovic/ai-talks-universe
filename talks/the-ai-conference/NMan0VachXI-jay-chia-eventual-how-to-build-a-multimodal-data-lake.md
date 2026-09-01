@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 20
 published_at: 2026-08-10T17:22:27Z
 video_id: NMan0VachXI
+url: https://www.youtube.com/watch?v=NMan0VachXI
 youtube_url: https://www.youtube.com/watch?v=NMan0VachXI
 tags: []
 transcript: true

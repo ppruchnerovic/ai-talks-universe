@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 37
 published_at: 2026-04-30T07:00:00Z
 video_id: WtgTvg-_Y-k
+url: https://www.youtube.com/watch?v=WtgTvg-_Y-k
 youtube_url: https://www.youtube.com/watch?v=WtgTvg-_Y-k
 tags: ["HR", "people", "culture", "future of work", "AI", "leadership", "transformation"]
 transcript: true

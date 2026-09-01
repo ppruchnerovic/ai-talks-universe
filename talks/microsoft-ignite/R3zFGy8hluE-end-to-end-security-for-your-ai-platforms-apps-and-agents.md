@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T14:35:23Z
 video_id: R3zFGy8hluE
+url: https://www.youtube.com/watch?v=R3zFGy8hluE
 youtube_url: https://www.youtube.com/watch?v=R3zFGy8hluE
 tags: ["BRK267", "BRK267_v1", "End-to-end security for your AI platforms apps and agents | BRK267", "English (US)", "Herain Oberoi", "Lou Adesida", "Neta Haiby", "Protect cloud AI platform and apps", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

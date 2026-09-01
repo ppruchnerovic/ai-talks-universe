@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-24T08:27:45Z
 video_id: WgBC8M3ixt8
+url: https://www.youtube.com/watch?v=WgBC8M3ixt8
 youtube_url: https://www.youtube.com/watch?v=WgBC8M3ixt8
 tags: ["Angel Smith", "BRK369", "Brett Howard", "Copilot and agents at work", "English (US)", "Government", "Michael Makstman", "Real Stories of AI Transformation in Local Government | BRK369", "Technical", "d7059d77-7ea3-431a-b604-520d06e88181_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

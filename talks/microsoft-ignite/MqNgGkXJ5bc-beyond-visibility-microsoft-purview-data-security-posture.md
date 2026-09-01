@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-25T18:09:25Z
 video_id: MqNgGkXJ5bc
+url: https://www.youtube.com/watch?v=MqNgGkXJ5bc
 youtube_url: https://www.youtube.com/watch?v=MqNgGkXJ5bc
 tags: ["23bc1200-a02e-4152-86dc-a1797c15697b_Segment", "BRK253", "Beyond Visibility: Microsoft Purview Data Security Posture Management | BRK253", "English (US)", "Nathalia Borges", "Rudra Mitra", "Secure your data", "Talhah Mir", "Technical", "Yaki Faitelson", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

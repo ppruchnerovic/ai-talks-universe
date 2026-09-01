@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-09T15:30:00+00:00
 video_id: RS4DmYTvHIo
+url: https://www.youtube.com/watch?v=RS4DmYTvHIo
 youtube_url: https://www.youtube.com/watch?v=RS4DmYTvHIo
 tags: ["Frontend, Web & Mobile", "Accessibility", "CI/CD", "Cypress", "Playwright", "Testing", "TypeScript"]
 transcript: true

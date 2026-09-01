@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-07-17T21:27:20Z
 video_id: imFedndyXYQ
+url: https://www.youtube.com/watch?v=imFedndyXYQ
 youtube_url: https://www.youtube.com/watch?v=imFedndyXYQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 147
 published_at: 2023-08-18T01:38:26Z
 video_id: 14zhd2stdZE
+url: https://www.youtube.com/watch?v=14zhd2stdZE
 youtube_url: https://www.youtube.com/watch?v=14zhd2stdZE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Deploying an E2E ML Pipeline with AWS SageMaker - What Amazon didn't tell you", "Deploying an E2E ML Pipeline with AWS SageMaker - What Amazon didn't tell you", "AWS SageMaker"]
 transcript: false

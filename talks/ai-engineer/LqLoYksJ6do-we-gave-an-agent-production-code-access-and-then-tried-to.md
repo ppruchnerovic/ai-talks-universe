@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-07-20T17:17:53Z
 video_id: LqLoYksJ6do
+url: https://www.youtube.com/watch?v=LqLoYksJ6do
 youtube_url: https://www.youtube.com/watch?v=LqLoYksJ6do
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2024-08-08T09:45:01Z
 video_id: D2CRs9kkm0c
+url: https://www.youtube.com/watch?v=D2CRs9kkm0c
 youtube_url: https://www.youtube.com/watch?v=D2CRs9kkm0c
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "RAG", "LLMs", "Retrieval Augmented generation", "Large Language Models", "InfoQ", "QCon San Francisco", "Transcript"]
 transcript: false

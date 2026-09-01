@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T09:00:00+00:00
 video_id: 0S1XgNpPn8g
+url: https://www.youtube.com/watch?v=0S1XgNpPn8g
 youtube_url: https://www.youtube.com/watch?v=0S1XgNpPn8g
 tags: ["Emerging Technologies", "AI Models", "Model Training", "Reinforcement Learning", "Robotics"]
 transcript: true

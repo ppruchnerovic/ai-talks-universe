@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 29
 published_at: 2024-11-21T10:26:43Z
 video_id: uqJlufyKXw4
+url: https://www.youtube.com/watch?v=uqJlufyKXw4
 youtube_url: https://www.youtube.com/watch?v=uqJlufyKXw4
 tags: ["BRKFP367", "Breakout", "Efficiently process complex AI workloads with ND MI300X v5 technology | BRKFP367", "English (US)", "Locky Ainley", "Mahesh Balasubramanian", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

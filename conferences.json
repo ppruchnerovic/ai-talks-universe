@@ -45,12 +45,13 @@
       "category": "Software dev with AI tracks",
       "site": "https://qconferences.com/",
       "availability": "partial",
-      "blurb": "InfoQ's senior-engineer conferences, including QCon AI. Fresh recordings go to the paid Video Pass first; a free subset drips onto YouTube over months.",
+      "blurb": "InfoQ's senior-engineer conferences, including QCon AI. Fresh recordings go to the paid Video Pass first; a free subset drips onto YouTube over months, and onto infoq.com/presentations with a full transcript attached.",
       "scope": "ai",
       "priority": 2,
       "min_duration": 600,
       "sources": [
-        {"type": "channel", "url": "https://www.youtube.com/@infoq/videos", "label": "InfoQ", "first": 500}
+        {"type": "channel", "url": "https://www.youtube.com/@infoq/videos", "label": "InfoQ", "first": 500},
+        {"type": "infoq", "url": "https://www.infoq.com/presentations/", "label": "InfoQ presentations", "scope": "all"}
       ]
     },
     {

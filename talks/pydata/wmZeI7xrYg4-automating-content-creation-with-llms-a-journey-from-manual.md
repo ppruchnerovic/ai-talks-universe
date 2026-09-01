@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 31
 published_at: 2025-11-23T14:33:57Z
 video_id: wmZeI7xrYg4
+url: https://www.youtube.com/watch?v=wmZeI7xrYg4
 youtube_url: https://www.youtube.com/watch?v=wmZeI7xrYg4
 tags: ["A/B testing", "AI production", "Conference", "GPT-4", "GetYourGuide", "LLM", "OpenAI", "PyConDE", "PyData", "Python", "Tech Talk", "content automation", "conversion optimization", "data science", "fine-tuning", "hallucination detection", "machine learning", "prompt engineering", "travel tech"]
 transcript: false

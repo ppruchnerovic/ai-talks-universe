@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 56
 published_at: null
 video_id: d9C-jvrDYYk
+url: https://www.youtube.com/watch?v=d9C-jvrDYYk
 youtube_url: https://www.youtube.com/watch?v=d9C-jvrDYYk
 tags: []
 transcript: false

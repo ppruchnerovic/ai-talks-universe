@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 56
 published_at: 2025-11-19T14:05:23Z
 video_id: GpgIDKJMFug
+url: https://www.youtube.com/watch?v=GpgIDKJMFug
 youtube_url: https://www.youtube.com/watch?v=GpgIDKJMFug
 tags: ["35f2244a-ec7c-4ccd-a312-bd456f9d1cb1_Segment", "Agentic business applications", "Aurelien Pichon", "BRK353", "Deva Rajamohan", "Drive agentic CX with what’s new in Dynamics 365 for sales and service | BRK353", "English (US)", "Karan Nigam", "Partner Business", "Pia Cedendahl", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

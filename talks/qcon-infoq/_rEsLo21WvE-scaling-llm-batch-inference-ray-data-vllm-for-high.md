@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 48
 published_at: 2025-03-07T10:00:47Z
 video_id: _rEsLo21WvE
+url: https://www.youtube.com/watch?v=_rEsLo21WvE
 youtube_url: https://www.youtube.com/watch?v=_rEsLo21WvE
 tags: ["InfoQ", "QCon San Francisco", "Artificial Intelligence", "Large Language Models", "LLMs", "Batch Inference", "Ray Data", "vLLM", "Machine Learning", "Batch Processing", "Generative AI", "RayLLM", "Virtual Large Language Model"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T13:30:00+00:00
 video_id: vd6Hfb9WW_o
+url: https://www.youtube.com/watch?v=vd6Hfb9WW_o
 youtube_url: https://www.youtube.com/watch?v=vd6Hfb9WW_o
 tags: ["Data & Databases", "AI Coding Assistants", "Databases"]
 transcript: true

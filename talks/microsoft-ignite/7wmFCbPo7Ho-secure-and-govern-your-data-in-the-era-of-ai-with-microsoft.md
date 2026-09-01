@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T14:03:27Z
 video_id: 7wmFCbPo7Ho
+url: https://www.youtube.com/watch?v=7wmFCbPo7Ho
 youtube_url: https://www.youtube.com/watch?v=7wmFCbPo7Ho
 tags: ["AI", "BRK327", "Breakout", "Data Security", "English (US)", "Fabric", "Intermediate (200)", "Joanne Marone", "Keith Homiski", "Microsoft Purview", "Secure and govern your data in the era of AI with Microsoft Fabric and Purview | BRK327", "Security", "Sushma Rao", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

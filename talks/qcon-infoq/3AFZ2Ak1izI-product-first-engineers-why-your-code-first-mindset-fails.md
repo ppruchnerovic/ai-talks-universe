@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 27
 published_at: 2025-07-18T10:02:46Z
 video_id: 3AFZ2Ak1izI
+url: https://www.youtube.com/watch?v=3AFZ2Ak1izI
 youtube_url: https://www.youtube.com/watch?v=3AFZ2Ak1izI
 tags: ["engineering culture", "AI", "software development", "teamwork", "teams", "productivity", "AI tools", "developer experience", "career pathways", "leadership"]
 transcript: false

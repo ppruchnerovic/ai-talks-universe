@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2026-08-12T12:57:16Z
 video_id: pJ8YPFlzGOo
+url: https://www.youtube.com/watch?v=pJ8YPFlzGOo
 youtube_url: https://www.youtube.com/watch?v=pJ8YPFlzGOo
 tags: ["cloud", "DevOps", "Platform Engineering", "Multi-cloud", "Resilience", "AI", "FinOps", "Sovereignty", "Cloud architecture", "The InfoQ Podcast", "Trends Report 2026"]
 transcript: true

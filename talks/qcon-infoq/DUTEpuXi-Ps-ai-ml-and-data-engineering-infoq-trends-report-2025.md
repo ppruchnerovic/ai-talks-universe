@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 53
 published_at: 2025-09-24T09:12:18Z
 video_id: DUTEpuXi-Ps
+url: https://www.youtube.com/watch?v=DUTEpuXi-Ps
 youtube_url: https://www.youtube.com/watch?v=DUTEpuXi-Ps
 tags: []
 transcript: false

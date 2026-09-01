@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 41
 published_at: 2024-11-04T08:25:52Z
 video_id: CogYq8oTg6o
+url: https://www.youtube.com/watch?v=CogYq8oTg6o
 youtube_url: https://www.youtube.com/watch?v=CogYq8oTg6o
 tags: ["Software Development", "CPU", "GPU", "Performance", "InfoQ", "QCon London", "Transcript"]
 transcript: false

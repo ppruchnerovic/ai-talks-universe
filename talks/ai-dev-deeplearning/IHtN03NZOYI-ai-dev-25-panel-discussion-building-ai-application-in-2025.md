@@ -12,6 +12,7 @@ channel: null
 duration_min: 32
 published_at: null
 video_id: IHtN03NZOYI
+url: https://www.youtube.com/watch?v=IHtN03NZOYI
 youtube_url: https://www.youtube.com/watch?v=IHtN03NZOYI
 tags: []
 transcript: false

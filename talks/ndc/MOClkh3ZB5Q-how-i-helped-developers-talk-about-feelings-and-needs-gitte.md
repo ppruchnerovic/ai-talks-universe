@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 54
 published_at: 2026-08-05T13:17:43Z
 video_id: MOClkh3ZB5Q
+url: https://www.youtube.com/watch?v=MOClkh3ZB5Q
 youtube_url: https://www.youtube.com/watch?v=MOClkh3ZB5Q
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Glitte Klitgaard"]
 transcript: true

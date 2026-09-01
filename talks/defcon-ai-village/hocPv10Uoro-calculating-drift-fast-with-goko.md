@@ -12,6 +12,7 @@ channel: "aivillage"
 duration_min: 33
 published_at: 2020-08-08T04:21:03Z
 video_id: hocPv10Uoro
+url: https://www.youtube.com/watch?v=hocPv10Uoro
 youtube_url: https://www.youtube.com/watch?v=hocPv10Uoro
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-08-13T10:34:07Z
 video_id: 1wZRxVD1lqc
+url: https://www.youtube.com/watch?v=1wZRxVD1lqc
 youtube_url: https://www.youtube.com/watch?v=1wZRxVD1lqc
 tags: ["Work skills", "Tools", "GenAI", "Soft Skills", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Sergiy Dybskiy"]
 transcript: true

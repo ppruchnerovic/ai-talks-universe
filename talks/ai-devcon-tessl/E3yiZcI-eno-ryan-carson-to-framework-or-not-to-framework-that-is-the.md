@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 12
 published_at: 2025-11-21T01:44:50Z
 video_id: E3yiZcI-eno
+url: https://www.youtube.com/watch?v=E3yiZcI-eno
 youtube_url: https://www.youtube.com/watch?v=E3yiZcI-eno
 tags: ["ainativedev"]
 transcript: false

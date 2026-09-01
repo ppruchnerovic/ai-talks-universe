@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T08:10:00+00:00
 video_id: zrxgMTk6QCw
+url: https://www.youtube.com/watch?v=zrxgMTk6QCw
 youtube_url: https://www.youtube.com/watch?v=zrxgMTk6QCw
 tags: ["DevOps", "DevOps", "Internal Platforms"]
 transcript: true

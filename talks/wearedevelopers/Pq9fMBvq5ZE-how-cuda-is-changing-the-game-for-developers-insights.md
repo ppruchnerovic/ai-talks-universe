@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 38
 published_at: 2025-02-28T09:41:07Z
 video_id: Pq9fMBvq5ZE
+url: https://www.youtube.com/watch?v=Pq9fMBvq5ZE
 youtube_url: https://www.youtube.com/watch?v=Pq9fMBvq5ZE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "CUDA", "Nvidia", "AI Development", "Python in AI", "Quantum Computing", "Coffee with Developers", "Computing Power", "Multi-Core Processing", "Frontend Development", "Machine Learning", "Technology Trends", "Quantum Computing Future", "GPU Architecture", "CUDA Python", "Nvidia GPU"]
 transcript: false

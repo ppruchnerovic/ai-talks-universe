@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T15:16:22Z
 video_id: HozYtNZ7iEo
+url: https://www.youtube.com/watch?v=HozYtNZ7iEo
 youtube_url: https://www.youtube.com/watch?v=HozYtNZ7iEo
 tags: ["BRK290", "Copilot and agents at work", "English (US)", "From Launch to Usage: 7 Ways to accelerate Copilot adoption | BRK290", "Kristin Ginn", "Technical", "a74848f3-608c-43f1-9351-fbdfd0fde786_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

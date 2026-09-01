@@ -12,6 +12,7 @@ channel: "OWASP Foundation"
 duration_min: 48
 published_at: null
 video_id: CsKqu9eob1w
+url: https://www.youtube.com/watch?v=CsKqu9eob1w
 youtube_url: https://www.youtube.com/watch?v=CsKqu9eob1w
 tags: []
 transcript: false

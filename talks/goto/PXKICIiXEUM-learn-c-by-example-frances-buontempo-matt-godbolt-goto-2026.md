@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-02-19T13:00:45Z
 video_id: PXKICIiXEUM
+url: https://www.youtube.com/watch?v=PXKICIiXEUM
 youtube_url: https://www.youtube.com/watch?v=PXKICIiXEUM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Frances Buontempo", "Matt Godbolt", "Learn C++ by Example", "C++", "C++ Programming", "Coroutines", "C++ 26", "Constant Variable", "Compiler", "Modern Cpp", "Cpp", "Almost Always Auto", "Compiler Explorer"]
 transcript: true

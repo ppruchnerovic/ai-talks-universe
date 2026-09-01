@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-21T12:49:52Z
 video_id: xRApEkWYsq4
+url: https://www.youtube.com/watch?v=xRApEkWYsq4
 youtube_url: https://www.youtube.com/watch?v=xRApEkWYsq4
 tags: ["Adrian Rami", "Agentic business applications", "Build your own enterprise app with the C3 Agentic AI Platform | STUDIOSP76", "English (US)", "STUDIOSP76", "STUDIOSP76_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

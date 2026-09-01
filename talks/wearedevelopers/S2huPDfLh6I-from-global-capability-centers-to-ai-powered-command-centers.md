@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T12:10:00+00:00
 video_id: S2huPDfLh6I
+url: https://www.youtube.com/watch?v=S2huPDfLh6I
 youtube_url: https://www.youtube.com/watch?v=S2huPDfLh6I
 tags: ["Strategy & Innovation", "AI Models", "AI Standards", "Business Models", "Digital Transformation", "Entrepreneurship", "Future of Work", "Innovation", "Scaling"]
 transcript: true

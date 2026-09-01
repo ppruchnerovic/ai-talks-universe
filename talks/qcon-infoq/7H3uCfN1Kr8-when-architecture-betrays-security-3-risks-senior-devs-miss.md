@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-04-20T06:57:10Z
 video_id: 7H3uCfN1Kr8
+url: https://www.youtube.com/watch?v=7H3uCfN1Kr8
 youtube_url: https://www.youtube.com/watch?v=7H3uCfN1Kr8
 tags: ["InfoQ", "QCon London", "Transcript", "Software Architecture", "Security", "Software Security", "Cyber Security"]
 transcript: true

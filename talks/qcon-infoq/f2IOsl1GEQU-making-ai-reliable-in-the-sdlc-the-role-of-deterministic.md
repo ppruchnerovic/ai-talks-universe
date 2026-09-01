@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 39
 published_at: 2026-06-24T09:00:34Z
 video_id: f2IOsl1GEQU
+url: https://www.youtube.com/watch?v=f2IOsl1GEQU
 youtube_url: https://www.youtube.com/watch?v=f2IOsl1GEQU
 tags: ["AI Engineering", "Legacy Modernization", "Static Analysis", "Enterprise AI", "Software Architecture", "SDLC", "Tech Debt", "Generative AI"]
 transcript: true

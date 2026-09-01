@@ -12,6 +12,7 @@ channel: null
 duration_min: 53
 published_at: null
 video_id: 1clQUMadypc
+url: https://www.youtube.com/watch?v=1clQUMadypc
 youtube_url: https://www.youtube.com/watch?v=1clQUMadypc
 tags: []
 transcript: false

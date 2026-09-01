@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 32
 published_at: 2024-02-08T22:00:18Z
 video_id: N1BVYjvGlYU
+url: https://www.youtube.com/watch?v=N1BVYjvGlYU
 youtube_url: https://www.youtube.com/watch?v=N1BVYjvGlYU
 tags: ["The InfoQ Podcast", "Database", "Data Augmentation", "Large Language Models"]
 transcript: false

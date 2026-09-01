@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 16
 published_at: 2026-08-17T14:30:37Z
 video_id: u37qkpp5eB8
+url: https://www.youtube.com/watch?v=u37qkpp5eB8
 youtube_url: https://www.youtube.com/watch?v=u37qkpp5eB8
 tags: ["AI coding", "Kikimora", "Kikimora software factory", "Tessl's coding transformation", "agent development", "ainativedev", "automated PRs", "autonomous coding agents", "autonomous software production", "coding agents", "dark factory", "engineering teamwork", "software factory", "trust in automated PRs", "what is a dark factory"]
 transcript: true

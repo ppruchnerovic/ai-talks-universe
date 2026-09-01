@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-24T08:19:31Z
 video_id: o-IunU6b1t8
+url: https://www.youtube.com/watch?v=o-IunU6b1t8
 youtube_url: https://www.youtube.com/watch?v=o-IunU6b1t8
 tags: ["AI training", "DPO", "Flink SQL", "Flink SQL anomaly detection", "Kafka", "Kafka and AI training", "Merkle DAG", "Tapes", "agentic coding", "ainativedev", "building AI training datasets", "how to use Tapes", "self-healing loops", "telemetry proxy", "training AI on code"]
 transcript: true

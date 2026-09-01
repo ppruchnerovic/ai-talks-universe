@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-26T10:13:41Z
 video_id: l2_Dnh1a2IY
+url: https://www.youtube.com/watch?v=l2_Dnh1a2IY
 youtube_url: https://www.youtube.com/watch?v=l2_Dnh1a2IY
 tags: ["Empowering Partners to Navigate the New Security Landscape | PBRK273", "Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK273", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

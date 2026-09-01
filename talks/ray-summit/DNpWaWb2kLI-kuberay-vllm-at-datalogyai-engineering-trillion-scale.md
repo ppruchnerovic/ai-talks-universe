@@ -12,6 +12,7 @@ channel: null
 duration_min: 30
 published_at: null
 video_id: DNpWaWb2kLI
+url: https://www.youtube.com/watch?v=DNpWaWb2kLI
 youtube_url: https://www.youtube.com/watch?v=DNpWaWb2kLI
 tags: []
 transcript: false

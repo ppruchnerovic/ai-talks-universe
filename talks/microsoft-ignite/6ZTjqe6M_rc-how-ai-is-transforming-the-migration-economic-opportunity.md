@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-21T15:23:50Z
 video_id: 6ZTjqe6M_rc
+url: https://www.youtube.com/watch?v=6ZTjqe6M_rc
 youtube_url: https://www.youtube.com/watch?v=6ZTjqe6M_rc
 tags: ["AI", "Adaptive Cloud", "Azure Virtual Desktop", "BRK247", "Breakout", "End of Support (EOS)", "English (US)", "How AI is transforming the migration economic opportunity for partners | BRK247", "Infrastructure", "Infrastructure-Curated", "Microsoft Cloud for Healthcare", "Multicloud security", "Solution Area", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

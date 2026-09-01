@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 58
 published_at: 2026-07-07T12:00:31Z
 video_id: 7Ue0yM4J-B8
+url: https://www.youtube.com/watch?v=7Ue0yM4J-B8
 youtube_url: https://www.youtube.com/watch?v=7Ue0yM4J-B8
 tags: ["AI agents", "AI development", "AI teammates", "Anthropic", "Claude Code", "Claude Code vs Claude Tag", "Claude Tag in Slack", "Simon Maple interview", "agent identities", "agentic coding", "agentic coding explained", "ainativedev", "how does Claude Tag work", "multiplayer AI", "what is Claude Tag"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 60
 published_at: 2025-09-05T19:41:15Z
 video_id: OV-Omgunw-A
+url: https://www.youtube.com/watch?v=OV-Omgunw-A
 youtube_url: https://www.youtube.com/watch?v=OV-Omgunw-A
 tags: []
 transcript: false

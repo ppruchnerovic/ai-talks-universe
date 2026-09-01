@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-24T14:18:56Z
 video_id: oOYANh0FVLo
+url: https://www.youtube.com/watch?v=oOYANh0FVLo
 youtube_url: https://www.youtube.com/watch?v=oOYANh0FVLo
 tags: ["Azure Accelerate in action: Confidently migrate modernize and build faster | STUDIO48", "Cyril Belikoff", "English (US)", "Other", "STUDIO48", "STUDIO48_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

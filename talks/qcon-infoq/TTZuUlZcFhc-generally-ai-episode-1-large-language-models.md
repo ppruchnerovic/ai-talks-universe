@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 34
 published_at: 2024-01-30T07:56:59Z
 video_id: TTZuUlZcFhc
+url: https://www.youtube.com/watch?v=TTZuUlZcFhc
 youtube_url: https://www.youtube.com/watch?v=TTZuUlZcFhc
 tags: ["AI", "Large Language Models", "Security", "OWASP", "InfoQ Podcasts", "Software Development"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-26T18:21:39Z
 video_id: dPuLe0r96uU
+url: https://www.youtube.com/watch?v=dPuLe0r96uU
 youtube_url: https://www.youtube.com/watch?v=dPuLe0r96uU
 tags: ["BRK227", "English (US)", "Premier League’s data-driven fan engagement at scale | BRK227", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

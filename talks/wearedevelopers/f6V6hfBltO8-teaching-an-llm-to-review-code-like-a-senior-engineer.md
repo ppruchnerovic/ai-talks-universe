@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T13:00:00+00:00
 video_id: f6V6hfBltO8
+url: https://www.youtube.com/watch?v=f6V6hfBltO8
 youtube_url: https://www.youtube.com/watch?v=f6V6hfBltO8
 tags: ["Developer Experience", "Code Generation", "Code Reviews", "Large Language Models (LLMs)"]
 transcript: true

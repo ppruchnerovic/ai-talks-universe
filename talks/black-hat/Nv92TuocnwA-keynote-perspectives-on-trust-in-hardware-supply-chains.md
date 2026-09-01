@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 55
 published_at: 2025-09-25T18:02:15Z
 video_id: Nv92TuocnwA
+url: https://www.youtube.com/watch?v=Nv92TuocnwA
 youtube_url: https://www.youtube.com/watch?v=Nv92TuocnwA
 tags: []
 transcript: false

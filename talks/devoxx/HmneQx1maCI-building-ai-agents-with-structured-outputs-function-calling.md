@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 49
 published_at: 2025-10-10T05:10:26Z
 video_id: HmneQx1maCI
+url: https://www.youtube.com/watch?v=HmneQx1maCI
 youtube_url: https://www.youtube.com/watch?v=HmneQx1maCI
 tags: []
 transcript: false

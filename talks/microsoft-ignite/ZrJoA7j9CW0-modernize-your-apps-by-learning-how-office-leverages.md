@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-27T12:45:56Z
 video_id: ZrJoA7j9CW0
+url: https://www.youtube.com/watch?v=ZrJoA7j9CW0
 youtube_url: https://www.youtube.com/watch?v=ZrJoA7j9CW0
 tags: ["AI", "Advanced (300)", "BRK304", "Breakout", "Copilot", "English (US)", "Excel", "Jeffrey Stall", "Khalef Hosany", "Modern Work", "Modernize your apps by learning how Office leverages Windows App SDK | BRK304", "PowerPoint", "Technical", "Version v4", "Windows", "Windows 11", "Windows Developer", "Word", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

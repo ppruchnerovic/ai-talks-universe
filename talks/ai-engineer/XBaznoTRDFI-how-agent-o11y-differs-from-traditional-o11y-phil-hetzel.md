@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-05-28T23:00:06Z
 video_id: XBaznoTRDFI
+url: https://www.youtube.com/watch?v=XBaznoTRDFI
 youtube_url: https://www.youtube.com/watch?v=XBaznoTRDFI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

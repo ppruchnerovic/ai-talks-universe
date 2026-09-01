@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 45
 published_at: null
 video_id: V78DENpa1z8
+url: https://www.youtube.com/watch?v=V78DENpa1z8
 youtube_url: https://www.youtube.com/watch?v=V78DENpa1z8
 tags: []
 transcript: false

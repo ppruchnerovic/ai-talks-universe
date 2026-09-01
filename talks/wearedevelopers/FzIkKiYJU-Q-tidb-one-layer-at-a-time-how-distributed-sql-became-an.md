@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T12:50:00+00:00
 video_id: FzIkKiYJU-Q
+url: https://www.youtube.com/watch?v=FzIkKiYJU-Q
 youtube_url: https://www.youtube.com/watch?v=FzIkKiYJU-Q
 tags: ["Data & Databases", "Agentic AI", "Databases", "Distributed Systems", "Multi-Cloud", "Open Source", "Scaling", "SQL", "Vector Databases"]
 transcript: true

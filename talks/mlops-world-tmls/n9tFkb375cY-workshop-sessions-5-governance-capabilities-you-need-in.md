@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 67
 published_at: 2023-08-18T01:38:26Z
 video_id: n9tFkb375cY
+url: https://www.youtube.com/watch?v=n9tFkb375cY
 youtube_url: https://www.youtube.com/watch?v=n9tFkb375cY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: 5 Governance Capabilities You Need in MLOps", "5 Governance Capabilities"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 62
 published_at: 2026-03-02T08:21:14Z
 video_id: rgUVPMB7sGg
+url: https://www.youtube.com/watch?v=rgUVPMB7sGg
 youtube_url: https://www.youtube.com/watch?v=rgUVPMB7sGg
 tags: ["InfoQ Live", "InfoQ", "Transcript", "Artificial Intelligence", "AI", "DevOps", "AI Agents", "Observability", "Virtual Panel", "Platform Engineering", "Generative AI", "SRE", "Software Architecture"]
 transcript: true

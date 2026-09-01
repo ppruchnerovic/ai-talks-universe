@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2025-12-03T09:01:22Z
 video_id: EOJrKZtKoOQ
+url: https://www.youtube.com/watch?v=EOJrKZtKoOQ
 youtube_url: https://www.youtube.com/watch?v=EOJrKZtKoOQ
 tags: ["#Zero Trust", "#CyberSecurity", "#SoftwareArchitecture", "#Deepfake", "#EngineeringLeadership", "#QCon AI New York 2025", "#The InfoQ Podcast", "#Artificial Intelligenc", "#Security", "#Architecture", "#Generative AI", "#Social Engineering", "#Large Language Models"]
 transcript: false

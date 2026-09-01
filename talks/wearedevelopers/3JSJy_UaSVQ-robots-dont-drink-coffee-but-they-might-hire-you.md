@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 34
 published_at: 2025-09-11T11:16:31Z
 video_id: 3JSJy_UaSVQ
+url: https://www.youtube.com/watch?v=3JSJy_UaSVQ
 youtube_url: https://www.youtube.com/watch?v=3JSJy_UaSVQ
 tags: ["recruiting", "recruitment", "talent acquisition", "HR", "people strategy", "people", "AI", "LLM", "automation", "leadership", "recruiter", "TA", "WeAreDevelopers", "tech"]
 transcript: false

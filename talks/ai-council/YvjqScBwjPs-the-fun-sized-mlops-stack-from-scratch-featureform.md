@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 39
 published_at: 2023-05-11T18:57:04Z
 video_id: YvjqScBwjPs
+url: https://www.youtube.com/watch?v=YvjqScBwjPs
 youtube_url: https://www.youtube.com/watch?v=YvjqScBwjPs
 tags: ["MLOps", "platforms", "data infrastructure", "machine learning"]
 transcript: false

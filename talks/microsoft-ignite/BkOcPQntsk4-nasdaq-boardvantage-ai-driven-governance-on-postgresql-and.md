@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-12-09T18:08:55Z
 video_id: BkOcPQntsk4
+url: https://www.youtube.com/watch?v=BkOcPQntsk4
 youtube_url: https://www.youtube.com/watch?v=BkOcPQntsk4
 tags: ["BRK137", "Innovate with Azure AI apps and agents:Azure PostgreSQL", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Nasdaq Boardvantage: AI-driven governance on PostgreSQL and Microsoft Foundry | BRK137", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

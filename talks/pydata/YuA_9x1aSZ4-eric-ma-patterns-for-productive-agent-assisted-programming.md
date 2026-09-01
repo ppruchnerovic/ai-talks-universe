@@ -12,6 +12,7 @@ channel: null
 duration_min: 52
 published_at: null
 video_id: YuA_9x1aSZ4
+url: https://www.youtube.com/watch?v=YuA_9x1aSZ4
 youtube_url: https://www.youtube.com/watch?v=YuA_9x1aSZ4
 tags: []
 transcript: false

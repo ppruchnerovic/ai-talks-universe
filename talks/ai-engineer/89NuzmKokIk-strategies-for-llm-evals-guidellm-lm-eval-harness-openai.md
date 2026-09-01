@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 32
 published_at: 2025-07-27T16:15:06Z
 video_id: 89NuzmKokIk
+url: https://www.youtube.com/watch?v=89NuzmKokIk
 youtube_url: https://www.youtube.com/watch?v=89NuzmKokIk
 tags: []
 transcript: false

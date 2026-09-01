@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-06-13T09:12:35Z
 video_id: ItTJpQz35CY
+url: https://www.youtube.com/watch?v=ItTJpQz35CY
 youtube_url: https://www.youtube.com/watch?v=ItTJpQz35CY
 tags: ["AI DevCon London", "AI DevCon London 2026", "AI DevOps", "AI Development", "AI and developer collaboration", "AI in DevOps", "AI in deployment", "AI workflows", "Netlify", "ainativedev", "build pipelines", "coding agents", "developer tools", "what is Agent Experience", "why judgment matters with AI"]
 transcript: true

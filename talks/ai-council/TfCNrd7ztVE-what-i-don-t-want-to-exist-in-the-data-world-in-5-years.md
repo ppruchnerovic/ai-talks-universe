@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 12
 published_at: 2023-05-11T22:07:28Z
 video_id: TfCNrd7ztVE
+url: https://www.youtube.com/watch?v=TfCNrd7ztVE
 youtube_url: https://www.youtube.com/watch?v=TfCNrd7ztVE
 tags: ["devtools", "devops", "data products", "data engineers"]
 transcript: false

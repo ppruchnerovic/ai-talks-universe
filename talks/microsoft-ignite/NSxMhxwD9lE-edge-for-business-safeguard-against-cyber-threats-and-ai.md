@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 12
 published_at: 2024-11-21T10:39:33Z
 video_id: NSxMhxwD9lE
+url: https://www.youtube.com/watch?v=NSxMhxwD9lE
 youtube_url: https://www.youtube.com/watch?v=NSxMhxwD9lE
 tags: ["Copilot", "Data Security", "Edge for Business: safeguard against cyber threats and AI risks | OD852", "English (US)", "Enterprise work management", "Lindsay Kubasik", "Microsoft Edge", "Microsoft Edge for Business", "Modern Work", "OD852", "Pre-recorded", "Secure enterprise browser", "Security", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

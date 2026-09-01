@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-04T12:22:48Z
 video_id: VF0M8QwIRIs
+url: https://www.youtube.com/watch?v=VF0M8QwIRIs
 youtube_url: https://www.youtube.com/watch?v=VF0M8QwIRIs
 tags: ["AI Toolkit", "DEM300", "DevTools", "Developer", "Nik Karpinsky", "Supercharged profiling: Finding performance bugs with agents | DEM300", "Visual Studio", "build", "build 2026", "fdb6bddc-1932-46a2-9662-01dc3f87fd64_M9Z7-DEM300-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

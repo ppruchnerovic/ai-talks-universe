@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 23
 published_at: null
 video_id: T3nA1nAaLss
+url: https://www.youtube.com/watch?v=T3nA1nAaLss
 youtube_url: https://www.youtube.com/watch?v=T3nA1nAaLss
 tags: []
 transcript: false

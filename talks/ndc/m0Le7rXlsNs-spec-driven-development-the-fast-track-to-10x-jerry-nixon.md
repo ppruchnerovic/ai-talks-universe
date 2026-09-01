@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 73
 published_at: 2026-05-29T15:00:23Z
 video_id: m0Le7rXlsNs
+url: https://www.youtube.com/watch?v=m0Le7rXlsNs
 youtube_url: https://www.youtube.com/watch?v=m0Le7rXlsNs
 tags: ["AI", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "SSD", "Coding", "Jerry Nixon"]
 transcript: true

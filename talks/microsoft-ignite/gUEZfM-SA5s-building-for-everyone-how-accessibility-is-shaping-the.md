@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-24T14:24:33Z
 video_id: gUEZfM-SA5s
+url: https://www.youtube.com/watch?v=gUEZfM-SA5s
 youtube_url: https://www.youtube.com/watch?v=gUEZfM-SA5s
 tags: ["Building for Everyone: How Accessibility is Shaping the Future of AI | STUDIO46", "English (US)", "Jenny Lay-Flurrie", "Other", "STUDIO46", "STUDIO46_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

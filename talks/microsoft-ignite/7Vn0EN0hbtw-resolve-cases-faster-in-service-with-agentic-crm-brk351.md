@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-24T05:05:20Z
 video_id: 7Vn0EN0hbtw
+url: https://www.youtube.com/watch?v=7Vn0EN0hbtw
 youtube_url: https://www.youtube.com/watch?v=7Vn0EN0hbtw
 tags: ["Agentic business applications", "Alan Ross", "BRK351", "BRK351_v2", "English (US)", "Lidia Daldoss", "Resolve cases faster in service with agentic CRM | BRK351", "Sparsha Chennarayapatna Sundaresh", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

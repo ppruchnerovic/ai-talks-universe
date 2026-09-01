@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 27
 published_at: 2026-06-04T12:47:25Z
 video_id: jAnboPwfCms
+url: https://www.youtube.com/watch?v=jAnboPwfCms
 youtube_url: https://www.youtube.com/watch?v=jAnboPwfCms
 tags: ["3e9502fa-d5ca-49a3-a3bb-69d4be31d73f_M9Z7-DEMSP386-1", "AI", "API", "Adrian Macias", "Agents", "Agents on Windows", "DEMSP386", "Develop faster on Windows with AI playbooks and local agents | DEMSP386", "Developer", "Developer Frameworks", "Developer Technologies", "Windows Developer", "Windows Development", "Windows SDKs", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

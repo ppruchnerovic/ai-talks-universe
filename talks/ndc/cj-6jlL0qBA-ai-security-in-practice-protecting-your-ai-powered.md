@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2026-08-05T13:38:22Z
 video_id: cj-6jlL0qBA
+url: https://www.youtube.com/watch?v=cj-6jlL0qBA
 youtube_url: https://www.youtube.com/watch?v=cj-6jlL0qBA
 tags: ["AI", "Security", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Olivia Liddell"]
 transcript: true

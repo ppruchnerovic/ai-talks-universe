@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2023-05-11T19:00:23Z
 video_id: 7Fx_kfmLInw
+url: https://www.youtube.com/watch?v=7Fx_kfmLInw
 youtube_url: https://www.youtube.com/watch?v=7Fx_kfmLInw
 tags: ["AI Observability", "compliance tools", "AI monitoring", "resonsible AI"]
 transcript: false

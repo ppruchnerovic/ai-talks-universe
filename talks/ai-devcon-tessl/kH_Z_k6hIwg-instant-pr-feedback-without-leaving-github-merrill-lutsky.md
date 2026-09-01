@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 46
 published_at: 2025-10-21T13:01:28Z
 video_id: kH_Z_k6hIwg
+url: https://www.youtube.com/watch?v=kH_Z_k6hIwg
 youtube_url: https://www.youtube.com/watch?v=kH_Z_k6hIwg
 tags: ["ai", "ainativedev", "code", "coding", "github", "native", "pod", "podcast", "tech", "technology", "uk"]
 transcript: false

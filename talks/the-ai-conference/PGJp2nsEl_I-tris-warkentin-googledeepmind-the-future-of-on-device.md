@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 16
 published_at: 2026-03-27T18:41:35Z
 video_id: PGJp2nsEl_I
+url: https://www.youtube.com/watch?v=PGJp2nsEl_I
 youtube_url: https://www.youtube.com/watch?v=PGJp2nsEl_I
 tags: []
 transcript: false

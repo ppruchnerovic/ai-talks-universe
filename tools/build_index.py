@@ -49,7 +49,8 @@ CREATE TABLE talks (
     n INTEGER PRIMARY KEY, id TEXT UNIQUE, title TEXT, description TEXT,
     speakers TEXT, conference TEXT, conference_name TEXT, category TEXT,
     edition TEXT, year INTEGER, channel TEXT, tags TEXT, duration_min INTEGER,
-    published_at TEXT, youtube_url TEXT, availability TEXT, priority INTEGER,
+    published_at TEXT, url TEXT, youtube_url TEXT, page_url TEXT,
+    availability TEXT, priority INTEGER,
     has_transcript INTEGER, transcript_words INTEGER
 );
 CREATE INDEX idx_talks_conf ON talks(conference);
@@ -242,11 +243,11 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
         speakers = ", ".join(t["speakers"])
         tags = ", ".join(t["tags"])
         con.execute(
-            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (n, t["id"], t["title"], t["description"], speakers, t["conference"],
              t["conference_name"], t["category"], t["edition"], t["year"], t["channel"],
-             tags, t["duration_min"], t["published_at"], t["youtube_url"],
-             t["availability"], t["priority"], 1 if text else 0, words),
+             tags, t["duration_min"], t["published_at"], t["url"], t["youtube_url"],
+             t["page_url"], t["availability"], t["priority"], 1 if text else 0, words),
         )
         con.execute(
             "INSERT INTO talks_fts (rowid, title, description, tags, speakers, conference_name)"
@@ -347,6 +348,11 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
             "p": t["published_at"],
             "u": t["conference_site"],
             "w": words,
+            # Only for the talks whose link the browser cannot build from "v":
+            # InfoQ's own pages. Omitted otherwise, because it would repeat
+            # youtube.com/watch?v= on 8,000 records of a file that ships to
+            # every visitor.
+            **({"l": t["url"]} if not t["youtube_url"] and t["url"] else {}),
         })
         if not text:
             continue

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-07-07T09:14:24Z
 video_id: deke8dAsLTI
+url: https://www.youtube.com/watch?v=deke8dAsLTI
 youtube_url: https://www.youtube.com/watch?v=deke8dAsLTI
 tags: ["Architecture", ".NET", "Continuous Delivery", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Aaron Stannard"]
 transcript: true

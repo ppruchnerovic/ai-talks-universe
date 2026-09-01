@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 28
 published_at: 2026-05-01T16:01:08Z
 video_id: eQoDdRCPqNg
+url: https://www.youtube.com/watch?v=eQoDdRCPqNg
 youtube_url: https://www.youtube.com/watch?v=eQoDdRCPqNg
 tags: ["AI agent performance issues", "AI agent testing", "AI benchmarking challenges", "AI evaluation traps", "AI evaluations", "AI research insights", "Agentic coding", "Tessl", "Tessl evaluation process", "ainativedev", "how to evaluate AI agents", "judge bias", "judge bias in AI evaluations", "outcome trap", "scalability in AI"]
 transcript: true

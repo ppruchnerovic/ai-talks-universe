@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-07-07T08:53:17Z
 video_id: RetgcgSVa58
+url: https://www.youtube.com/watch?v=RetgcgSVa58
 youtube_url: https://www.youtube.com/watch?v=RetgcgSVa58
 tags: ["JavaScript", "GenAI", "AI", ".NET", "C#", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Daniel Ward"]
 transcript: true

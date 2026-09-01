@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 47
 published_at: 2025-12-08T00:39:33Z
 video_id: -5-uosSfwyg
+url: https://www.youtube.com/watch?v=-5-uosSfwyg
 youtube_url: https://www.youtube.com/watch?v=-5-uosSfwyg
 tags: []
 transcript: false

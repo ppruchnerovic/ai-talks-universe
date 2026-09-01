@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T13:58:18Z
 video_id: KuYuX0-y34s
+url: https://www.youtube.com/watch?v=KuYuX0-y34s
 youtube_url: https://www.youtube.com/watch?v=KuYuX0-y34s
 tags: ["AI", "Automation", "Building the right data foundations to grow your business with AI | ODFP952", "Copilot", "Copilot for M365", "English (US)", "Intermediate (200)", "Microsoft 365 Apps", "ODFP952", "Pre-recorded", "Responsible AI", "Security", "Technical", "Version v1", "Wiem Sabbagh", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

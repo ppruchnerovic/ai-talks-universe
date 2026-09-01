@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 59
 published_at: 2026-05-19T21:35:37Z
 video_id: aqmpZocmR8o
+url: https://www.youtube.com/watch?v=aqmpZocmR8o
 youtube_url: https://www.youtube.com/watch?v=aqmpZocmR8o
 tags: ["Google", "developers"]
 transcript: true

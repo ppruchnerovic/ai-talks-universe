@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 49
 published_at: 2026-08-13T09:56:48Z
 video_id: P1DAxnR1fzw
+url: https://www.youtube.com/watch?v=P1DAxnR1fzw
 youtube_url: https://www.youtube.com/watch?v=P1DAxnR1fzw
 tags: [".NET", "AI", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "LLM", "Isaac Levin"]
 transcript: true

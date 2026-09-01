@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-05-29T14:00:06Z
 video_id: V-L0INGTEOg
+url: https://www.youtube.com/watch?v=V-L0INGTEOg
 youtube_url: https://www.youtube.com/watch?v=V-L0INGTEOg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

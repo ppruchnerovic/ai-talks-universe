@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2024-12-05T08:36:00Z
 video_id: DgqWzZ_Qkv0
+url: https://www.youtube.com/watch?v=DgqWzZ_Qkv0
 youtube_url: https://www.youtube.com/watch?v=DgqWzZ_Qkv0
 tags: ["people", "WeAreDevelopers", "wearedevelopers", "leadership strategies", "HR professionals", "workplace innovation", "modern workplaces", "Cappuccino with HR", "burnout", "wellbeing", "team red", "team blue", "innovator's dilemma", "disruption", "AI", "diversity", "strategy", "innovation"]
 transcript: false

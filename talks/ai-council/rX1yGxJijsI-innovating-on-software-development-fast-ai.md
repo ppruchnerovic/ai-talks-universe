@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 23
 published_at: 2023-05-11T19:00:55Z
 video_id: rX1yGxJijsI
+url: https://www.youtube.com/watch?v=rX1yGxJijsI
 youtube_url: https://www.youtube.com/watch?v=rX1yGxJijsI
 tags: ["nbev", "open source", "software engineering", "software development"]
 transcript: false

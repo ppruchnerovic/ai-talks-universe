@@ -12,6 +12,7 @@ channel: null
 duration_min: 10
 published_at: null
 video_id: wCqS-MuD23Q
+url: https://www.youtube.com/watch?v=wCqS-MuD23Q
 youtube_url: https://www.youtube.com/watch?v=wCqS-MuD23Q
 tags: []
 transcript: false

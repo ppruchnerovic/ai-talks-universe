@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 29
 published_at: 2025-05-29T07:02:04Z
 video_id: DZkXvdzYlVs
+url: https://www.youtube.com/watch?v=DZkXvdzYlVs
 youtube_url: https://www.youtube.com/watch?v=DZkXvdzYlVs
 tags: ["semantic data modeling", "SQL", "Lego analogy", "ChatGPT", "artificial intelligence", "machine learning", "database design", "data engineering", "data architecture", "analytics", "business intelligence", "data warehousing", "dimensional modeling", "Python tutorial", "conceptual modeling", "logical modeling", "physical modeling", "entity relationship modeling", "data modeling techniques", "normalization", "denormalization", "schema design"]
 transcript: false

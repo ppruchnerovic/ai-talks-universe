@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 16
 published_at: 2025-12-04T22:33:00Z
 video_id: Dc1y_pulshw
+url: https://www.youtube.com/watch?v=Dc1y_pulshw
 youtube_url: https://www.youtube.com/watch?v=Dc1y_pulshw
 tags: []
 transcript: false

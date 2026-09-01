@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 36
 published_at: 2026-05-21T17:15:30Z
 video_id: 7UBmLXP_LKw
+url: https://www.youtube.com/watch?v=7UBmLXP_LKw
 youtube_url: https://www.youtube.com/watch?v=7UBmLXP_LKw
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Professional Development;", "ux ai practices", "designing for ai", "ai product framework", "ai software product design", "google pair guidebook", "developer guide for ai ux", "ai mental models", "managing ai errors", "ai for user experience", "AIUX", "AI product", "pair guidebook"]
 transcript: true

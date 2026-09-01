@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 17
 published_at: 2026-07-10T11:40:00+00:00
 video_id: 3UHE26i_lfM
+url: https://www.youtube.com/watch?v=3UHE26i_lfM
 youtube_url: https://www.youtube.com/watch?v=3UHE26i_lfM
 tags: ["Security & Privacy", "AI Models", "Developer Experience (DevEx)", "Governance", "Internal Platforms"]
 transcript: true

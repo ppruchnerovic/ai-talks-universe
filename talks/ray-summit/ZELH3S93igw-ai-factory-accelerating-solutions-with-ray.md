@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 28
 published_at: 2023-10-12T16:10:47Z
 video_id: ZELH3S93igw
+url: https://www.youtube.com/watch?v=ZELH3S93igw
 youtube_url: https://www.youtube.com/watch?v=ZELH3S93igw
 tags: []
 transcript: false

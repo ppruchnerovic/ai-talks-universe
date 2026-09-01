@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 36
 published_at: 2025-11-24T07:17:15Z
 video_id: SI6P5ljakrw
+url: https://www.youtube.com/watch?v=SI6P5ljakrw
 youtube_url: https://www.youtube.com/watch?v=SI6P5ljakrw
 tags: ["490e7cab-f2b2-40c2-be10-1c92f27c7270_Segment", "BRK384", "English (US)", "Krishnan Jagannathan", "Modernize SecOps with a unified platform", "Rick Lievano", "Securing Private Wireless: From Design to Deployment | BRK384", "Signature pass", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

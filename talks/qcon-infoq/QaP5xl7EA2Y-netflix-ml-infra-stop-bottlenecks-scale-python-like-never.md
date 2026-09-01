@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2025-07-24T09:00:38Z
 video_id: QaP5xl7EA2Y
+url: https://www.youtube.com/watch?v=QaP5xl7EA2Y
 youtube_url: https://www.youtube.com/watch?v=QaP5xl7EA2Y
 tags: ["Case Study", "QCon San Francisco", "Netflix", "Machine Learning", "Python", "Software Architecture", "MLOps", "Transcript"]
 transcript: false

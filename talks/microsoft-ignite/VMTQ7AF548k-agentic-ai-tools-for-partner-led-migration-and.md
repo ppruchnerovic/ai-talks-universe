@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-24T13:21:19Z
 video_id: VMTQ7AF548k
+url: https://www.youtube.com/watch?v=VMTQ7AF548k
 youtube_url: https://www.youtube.com/watch?v=VMTQ7AF548k
 tags: ["9d8f75be-85d3-4480-bf11-a28380908647_Segment", "Agentic AI Tools for Partner-Led Migration and Modernization Success | PBRK151", "English (US)", "Falgun Patel", "Maria Bledsoe", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "Migrate and modernize your estate:Windows Server", "Mike Hulme", "PBRK151", "Partner Business", "Satheesh Sebastian", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

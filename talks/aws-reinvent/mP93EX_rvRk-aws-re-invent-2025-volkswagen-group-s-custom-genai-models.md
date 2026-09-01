@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 53
 published_at: null
 video_id: mP93EX_rvRk
+url: https://www.youtube.com/watch?v=mP93EX_rvRk
 youtube_url: https://www.youtube.com/watch?v=mP93EX_rvRk
 tags: []
 transcript: false

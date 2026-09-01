@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 46
 published_at: 2025-11-11T10:37:48Z
 video_id: LZWWjmbst-M
+url: https://www.youtube.com/watch?v=LZWWjmbst-M
 youtube_url: https://www.youtube.com/watch?v=LZWWjmbst-M
 tags: []
 transcript: false

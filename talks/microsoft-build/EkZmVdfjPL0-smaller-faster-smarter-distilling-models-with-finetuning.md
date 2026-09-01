@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 25
 published_at: 2026-06-04T10:54:06Z
 video_id: EkZmVdfjPL0
+url: https://www.youtube.com/watch?v=EkZmVdfjPL0
 youtube_url: https://www.youtube.com/watch?v=EkZmVdfjPL0
 tags: ["47728171-6ede-46aa-9dd5-63ec9ac0ffbb_M9Z7-DEM322-1", "DEM322", "Smaller faster smarter: Distilling models with fine‑tuning | DEM322", "William Liang", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

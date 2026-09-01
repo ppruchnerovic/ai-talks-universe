@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T07:00:00+00:00
 video_id: qT3XuMm_Aiw
+url: https://www.youtube.com/watch?v=qT3XuMm_Aiw
 youtube_url: https://www.youtube.com/watch?v=qT3XuMm_Aiw
 tags: ["Software Architecture", "AI Coding Assistants", "Agents", "Agentic AI", "Generative AI (GenAI)", "Governance", "Multi-Agent Systems", "Software Architecture"]
 transcript: true

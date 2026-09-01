@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-12-16T15:00:07Z
 video_id: Q81AzlA-VE8
+url: https://www.youtube.com/watch?v=Q81AzlA-VE8
 youtube_url: https://www.youtube.com/watch?v=Q81AzlA-VE8
 tags: []
 transcript: false

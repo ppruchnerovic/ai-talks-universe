@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T10:20:00+00:00
 video_id: nCAEJSD_X2k
+url: https://www.youtube.com/watch?v=nCAEJSD_X2k
 youtube_url: https://www.youtube.com/watch?v=nCAEJSD_X2k
 tags: ["Engineering Leadership", "AI Standards", "Developer Experience (DevEx)", "DORA Metrics", "Metrics", "Productivity"]
 transcript: true

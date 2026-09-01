@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 64
 published_at: 2026-06-22T08:31:32Z
 video_id: xunx7VvlOgs
+url: https://www.youtube.com/watch?v=xunx7VvlOgs
 youtube_url: https://www.youtube.com/watch?v=xunx7VvlOgs
 tags: ["Machine Learning", "AI", "Soft Skills", "Tooling", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "ML", "ChatGPT", "CoPilot"]
 transcript: true

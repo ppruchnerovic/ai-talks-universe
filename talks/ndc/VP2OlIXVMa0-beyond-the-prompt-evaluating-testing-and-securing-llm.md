@@ -12,6 +12,7 @@ channel: null
 duration_min: 48
 published_at: null
 video_id: VP2OlIXVMa0
+url: https://www.youtube.com/watch?v=VP2OlIXVMa0
 youtube_url: https://www.youtube.com/watch?v=VP2OlIXVMa0
 tags: []
 transcript: false

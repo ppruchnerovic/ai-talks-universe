@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 31
 published_at: 2026-05-20T19:27:46Z
 video_id: mhW-XXnDFSU
+url: https://www.youtube.com/watch?v=mhW-XXnDFSU
 youtube_url: https://www.youtube.com/watch?v=mhW-XXnDFSU
 tags: []
 transcript: true

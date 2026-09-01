@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 10
 published_at: 2026-07-10T11:05:00+00:00
 video_id: IYzsiPjS6i4
+url: https://www.youtube.com/watch?v=IYzsiPjS6i4
 youtube_url: https://www.youtube.com/watch?v=IYzsiPjS6i4
 tags: ["Emerging Technologies", "DevOps", "Integration", "NVIDIA", "Quantum", "Systems Programming"]
 transcript: true

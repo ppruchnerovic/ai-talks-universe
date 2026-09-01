@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-12-11T18:06:10Z
 video_id: 5Y0ohd4gKxA
+url: https://www.youtube.com/watch?v=5Y0ohd4gKxA
 youtube_url: https://www.youtube.com/watch?v=5Y0ohd4gKxA
 tags: ["AI", "Automation", "Chris Blaisure", "Custom copilot(s)", "English (US)", "Explore GenAI for customer support with Elastic Support Assistant | ODFP939", "Intermediate (200)", "ODFP939", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

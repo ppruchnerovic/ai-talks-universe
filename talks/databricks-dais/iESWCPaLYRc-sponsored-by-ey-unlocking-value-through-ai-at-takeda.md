@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 18
 published_at: null
 video_id: iESWCPaLYRc
+url: https://www.youtube.com/watch?v=iESWCPaLYRc
 youtube_url: https://www.youtube.com/watch?v=iESWCPaLYRc
 tags: []
 transcript: false

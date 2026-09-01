@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 34
 published_at: 2025-01-31T09:58:44Z
 video_id: YF6Kh00yA4w
+url: https://www.youtube.com/watch?v=YF6Kh00yA4w
 youtube_url: https://www.youtube.com/watch?v=YF6Kh00yA4w
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "Startups", "Tech", "Web Development", "Machine Learning", "Software Development", "AI for Kids", "Ethical AI", "EU Regulations", "Coding", "Tech Entrepreneurs", "AI Storytelling", "Business Growth", "JavaScript", "React Native", "Mobile Apps", "Data Privacy", "Tech Talk", "Developer Podcast"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-03T14:41:10Z
 video_id: z2ppHjPRTjQ
+url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 youtube_url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 tags: [".NET", "C#"]
 transcript: true

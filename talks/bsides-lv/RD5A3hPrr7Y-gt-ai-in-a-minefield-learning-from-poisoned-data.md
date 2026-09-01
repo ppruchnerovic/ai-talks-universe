@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 49
 published_at: 2021-08-13T00:46:35Z
 video_id: RD5A3hPrr7Y
+url: https://www.youtube.com/watch?v=RD5A3hPrr7Y
 youtube_url: https://www.youtube.com/watch?v=RD5A3hPrr7Y
 tags: ["bslv2021-gt-ai_in_a_minefield-1043104"]
 transcript: false

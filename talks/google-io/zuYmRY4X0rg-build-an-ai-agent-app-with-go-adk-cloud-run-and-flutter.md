@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 26
 published_at: 2026-05-21T22:02:28Z
 video_id: zuYmRY4X0rg
+url: https://www.youtube.com/watch?v=zuYmRY4X0rg
 youtube_url: https://www.youtube.com/watch?v=zuYmRY4X0rg
 tags: ["pr_pr: Google I/O;", "ct:Event - Workshop;", "ct:Stack - Cloud;", "Production AI Agents 2026", "Agent Development Kit (ADK) tutorial", "Deploying AI to Cloud Run", "Multi-Agent Orchestration Go", "AI Tool Calling in Go", "Cloud Run Serverless AI", "Multi-Agent Systems Deployment"]
 transcript: true

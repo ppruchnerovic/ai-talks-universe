@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 8
 published_at: 2026-07-10T11:50:00+00:00
 video_id: oYfhnQZH0lc
+url: https://www.youtube.com/watch?v=oYfhnQZH0lc
 youtube_url: https://www.youtube.com/watch?v=oYfhnQZH0lc
 tags: ["Frontend, Web & Mobile", "JavaScript", "React", "TypeScript"]
 transcript: true

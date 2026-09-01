@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T15:55:32Z
 video_id: mFG2hiMsR34
+url: https://www.youtube.com/watch?v=mFG2hiMsR34
 youtube_url: https://www.youtube.com/watch?v=mFG2hiMsR34
 tags: ["BRK117", "Cary Chai", "English (US)", "Fast and flexible inference on open-source AI models at scale | BRK117", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Container Apps", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Mehrdad Abdolghafari", "Sachi Desai", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

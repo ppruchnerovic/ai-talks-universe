@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T20:02:24Z
 video_id: zZ_e9FllzCw
+url: https://www.youtube.com/watch?v=zZ_e9FllzCw
 youtube_url: https://www.youtube.com/watch?v=zZ_e9FllzCw
 tags: ["Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK439", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025", "​Partner acceleration in the EMEA for Small and Medium Businesses | PBRK439"]
 transcript: false

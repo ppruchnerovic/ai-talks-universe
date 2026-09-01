@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 27
 published_at: 2026-05-22T13:52:15Z
 video_id: QIriO1-vHYw
+url: https://www.youtube.com/watch?v=QIriO1-vHYw
 youtube_url: https://www.youtube.com/watch?v=QIriO1-vHYw
 tags: []
 transcript: true

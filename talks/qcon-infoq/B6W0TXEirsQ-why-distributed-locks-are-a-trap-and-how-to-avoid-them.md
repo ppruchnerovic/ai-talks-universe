@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 42
 published_at: 2026-01-26T12:56:01Z
 video_id: B6W0TXEirsQ
+url: https://www.youtube.com/watch?v=B6W0TXEirsQ
 youtube_url: https://www.youtube.com/watch?v=B6W0TXEirsQ
 tags: ["Artificial Intelligence", "Data Engineering", "QCon London", "Case Study", "Database", "Serverless", "Serverless Database", "ArcticDB", "InfoQ", "Transcript", "Database Design", "Cloud Computing", "S3", "Dystributed Systems", "Python"]
 transcript: true

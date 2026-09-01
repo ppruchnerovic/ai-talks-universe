@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T07:40:00+00:00
 video_id: 46uC9n3DfQU
+url: https://www.youtube.com/watch?v=46uC9n3DfQU
 youtube_url: https://www.youtube.com/watch?v=46uC9n3DfQU
 tags: ["Languages & Runtimes", "Agentic AI", "Azure", ".NET", "Performance"]
 transcript: true

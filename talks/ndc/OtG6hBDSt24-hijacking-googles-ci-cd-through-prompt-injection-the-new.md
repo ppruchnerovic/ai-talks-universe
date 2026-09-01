@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 34
 published_at: 2026-03-23T13:54:45Z
 video_id: OtG6hBDSt24
+url: https://www.youtube.com/watch?v=OtG6hBDSt24
 youtube_url: https://www.youtube.com/watch?v=OtG6hBDSt24
 tags: ["Application Security", "Architecture", "DevOps", "Supply Chain", "Testing", "CI/CD", "CI/CD Pipeline", "AI", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Mackenzie Jackson"]
 transcript: true

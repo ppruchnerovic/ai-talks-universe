@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-20T14:11:28Z
 video_id: xRgAPRqelm0
+url: https://www.youtube.com/watch?v=xRgAPRqelm0
 youtube_url: https://www.youtube.com/watch?v=xRgAPRqelm0
 tags: ["AI", "Andy Hayes", "Automation", "Collaborative Work Management", "Developer", "Intermediate (200)", "ODFP965", "Pre-recorded", "Technical", "Unlock efficiency with process intelligence automation & app dev | ODFP965", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 16
 published_at: 2025-10-30T19:58:16Z
 video_id: gORZlaRLYPM
+url: https://www.youtube.com/watch?v=gORZlaRLYPM
 youtube_url: https://www.youtube.com/watch?v=gORZlaRLYPM
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

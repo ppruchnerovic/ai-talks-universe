@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 5
 published_at: 2026-07-09T12:35:00+00:00
 video_id: tQHw3fErD7c
+url: https://www.youtube.com/watch?v=tQHw3fErD7c
 youtube_url: https://www.youtube.com/watch?v=tQHw3fErD7c
 tags: ["Career & Growth", "Business Models", "Collaboration", "Employer Branding", "Entrepreneurship", "Networking", "People & Culture", "Product Strategy", "Product Management"]
 transcript: true

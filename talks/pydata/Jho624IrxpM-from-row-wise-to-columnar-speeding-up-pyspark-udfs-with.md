@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 37
 published_at: 2026-08-04T22:20:44Z
 video_id: Jho624IrxpM
+url: https://www.youtube.com/watch?v=Jho624IrxpM
 youtube_url: https://www.youtube.com/watch?v=Jho624IrxpM
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true

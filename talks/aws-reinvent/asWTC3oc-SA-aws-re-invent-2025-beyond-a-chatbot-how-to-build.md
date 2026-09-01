@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 58
 published_at: null
 video_id: asWTC3oc-SA
+url: https://www.youtube.com/watch?v=asWTC3oc-SA
 youtube_url: https://www.youtube.com/watch?v=asWTC3oc-SA
 tags: []
 transcript: false

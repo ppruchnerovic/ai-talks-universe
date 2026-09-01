@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 48
 published_at: 2025-09-09T09:07:49Z
 video_id: tsYLhFfr1WE
+url: https://www.youtube.com/watch?v=tsYLhFfr1WE
 youtube_url: https://www.youtube.com/watch?v=tsYLhFfr1WE
 tags: ["QCon London", "InfoQ", "Transcript", "Artificial Intelligence", "Software Trends", "Design Thinking", "Product Design", "Engineering Leadership"]
 transcript: false

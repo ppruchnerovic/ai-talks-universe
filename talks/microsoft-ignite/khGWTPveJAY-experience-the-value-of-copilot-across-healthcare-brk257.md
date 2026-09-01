@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-27T09:52:32Z
 video_id: khGWTPveJAY
+url: https://www.youtube.com/watch?v=khGWTPveJAY
 youtube_url: https://www.youtube.com/watch?v=khGWTPveJAY
 tags: ["AI", "Azure", "BRK257", "Breakout", "Copilot", "Custom copilot(s)", "DAX Copilot", "English (US)", "Experience the value of Copilot across healthcare | BRK257", "Healthcare", "Healthcare data", "Healthcare data solutions", "Industry", "Industry-Curated", "Intermediate (200)", "Julie O'Connor", "Responsible AI", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

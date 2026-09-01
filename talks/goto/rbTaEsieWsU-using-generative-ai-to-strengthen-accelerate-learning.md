@@ -12,6 +12,7 @@ channel: null
 duration_min: 49
 published_at: null
 video_id: rbTaEsieWsU
+url: https://www.youtube.com/watch?v=rbTaEsieWsU
 youtube_url: https://www.youtube.com/watch?v=rbTaEsieWsU
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 43
 published_at: null
 video_id: QV6DzoEMSMQ
+url: https://www.youtube.com/watch?v=QV6DzoEMSMQ
 youtube_url: https://www.youtube.com/watch?v=QV6DzoEMSMQ
 tags: []
 transcript: false

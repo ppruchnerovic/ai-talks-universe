@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 40
 published_at: 2025-05-29T13:29:54Z
 video_id: R8eFWd0qjds
+url: https://www.youtube.com/watch?v=R8eFWd0qjds
 youtube_url: https://www.youtube.com/watch?v=R8eFWd0qjds
 tags: ["Apache Impala", "ChatGPT", "artificial intelligence", "machine learning", "Apache Parquet", "open source", "multimodal AI", "data infrastructure", "AI data", "computer vision", "Python tutorial", "declarative interface", "big data analytics", "distributed computing", "SQL on Hadoop", "real time queries", "interactive analytics", "data warehouse", "data lake", "columnar storage", "query optimization", "performance tuning", "cluster computing"]
 transcript: false

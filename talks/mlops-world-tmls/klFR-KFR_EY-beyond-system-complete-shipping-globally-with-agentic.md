@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 11
 published_at: 2026-08-11T13:10:10Z
 video_id: klFR-KFR_EY
+url: https://www.youtube.com/watch?v=klFR-KFR_EY
 youtube_url: https://www.youtube.com/watch?v=klFR-KFR_EY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: true

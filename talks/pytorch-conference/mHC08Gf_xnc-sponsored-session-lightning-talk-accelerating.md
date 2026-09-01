@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 11
 published_at: null
 video_id: mHC08Gf_xnc
+url: https://www.youtube.com/watch?v=mHC08Gf_xnc
 youtube_url: https://www.youtube.com/watch?v=mHC08Gf_xnc
 tags: []
 transcript: false

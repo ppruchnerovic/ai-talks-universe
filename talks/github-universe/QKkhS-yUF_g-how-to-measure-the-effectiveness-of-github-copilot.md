@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 26
 published_at: null
 video_id: QKkhS-yUF_g
+url: https://www.youtube.com/watch?v=QKkhS-yUF_g
 youtube_url: https://www.youtube.com/watch?v=QKkhS-yUF_g
 tags: []
 transcript: false

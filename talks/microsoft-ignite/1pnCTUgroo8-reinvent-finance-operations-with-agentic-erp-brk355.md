@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T10:48:05Z
 video_id: 1pnCTUgroo8
+url: https://www.youtube.com/watch?v=1pnCTUgroo8
 youtube_url: https://www.youtube.com/watch?v=1pnCTUgroo8
 tags: ["8147c606-c98e-4d6d-8bd3-4798e30903b7_Segment", "Agentic business applications", "BRK355", "English (US)", "Georg Glantschnig", "John Bowden", "Reinvent Finance & Operations with Agentic ERP | BRK355", "Sameer Verma", "Sinahi Lopez", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

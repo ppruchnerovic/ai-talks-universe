@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T12:10:15Z
 video_id: 38ZPYhN5N8E
+url: https://www.youtube.com/watch?v=38ZPYhN5N8E
 youtube_url: https://www.youtube.com/watch?v=38ZPYhN5N8E
 tags: ["Agentic AI for creatives with Microsoft Foundry and data | BRK200", "BRK200", "English (US)", "Eva Jennings", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "James Codella", "Marco Casalaina", "Rohani Jotshi", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

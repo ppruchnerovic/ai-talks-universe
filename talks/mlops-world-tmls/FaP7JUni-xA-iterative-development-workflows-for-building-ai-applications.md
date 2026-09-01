@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 40
 published_at: 2023-08-18T01:37:39Z
 video_id: FaP7JUni-xA
+url: https://www.youtube.com/watch?v=FaP7JUni-xA
 youtube_url: https://www.youtube.com/watch?v=FaP7JUni-xA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Iterative development workflows for building AI applications", "Iterative development workflows", "building AI applications", "AI applications", "ai", "workflows"]
 transcript: false

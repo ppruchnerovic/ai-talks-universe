@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 47
 published_at: 2026-03-13T11:41:02Z
 video_id: Hd1mkcg4fps
+url: https://www.youtube.com/watch?v=Hd1mkcg4fps
 youtube_url: https://www.youtube.com/watch?v=Hd1mkcg4fps
 tags: ["AI", "Talent", "Recruiting", "Recruitment", "Talent Acquisition", "Artificial Intelligence", "people", "leadership", "culture"]
 transcript: true

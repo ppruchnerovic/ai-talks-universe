@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 40
 published_at: 2026-06-03T18:24:01Z
 video_id: oiaoHcAuASM
+url: https://www.youtube.com/watch?v=oiaoHcAuASM
 youtube_url: https://www.youtube.com/watch?v=oiaoHcAuASM
 tags: []
 transcript: true

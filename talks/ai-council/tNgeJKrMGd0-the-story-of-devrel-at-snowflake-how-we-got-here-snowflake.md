@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 33
 published_at: 2023-05-11T19:00:26Z
 video_id: tNgeJKrMGd0
+url: https://www.youtube.com/watch?v=tNgeJKrMGd0
 youtube_url: https://www.youtube.com/watch?v=tNgeJKrMGd0
 tags: ["Developer Relations", "snowflake", "DevRel"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 11
 published_at: 2026-07-09T07:15:00+00:00
 video_id: xCOrR5EyL3A
+url: https://www.youtube.com/watch?v=xCOrR5EyL3A
 youtube_url: https://www.youtube.com/watch?v=xCOrR5EyL3A
 tags: ["Experience & Activities"]
 transcript: true

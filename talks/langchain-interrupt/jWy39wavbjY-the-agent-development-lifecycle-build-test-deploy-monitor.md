@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 45
 published_at: 2026-05-19T19:37:45Z
 video_id: jWy39wavbjY
+url: https://www.youtube.com/watch?v=jWy39wavbjY
 youtube_url: https://www.youtube.com/watch?v=jWy39wavbjY
 tags: ["LangChain", "LangSmith", "LangGraph", "AI agents", "agent development", "agentic AI", "LLM", "large language models", "AI engineering", "Interrupt 2026", "Harrison Chase", "Ankush Gola", "DeepAgents", "SmithDB", "LangSmith Engine", "Context Hub", "LLM Gateway", "AI observability", "AI in production", "agent lifecycle", "AI conference", "developer tools", "open source AI", "DeepSeek", "AI keynote 2026"]
 transcript: true

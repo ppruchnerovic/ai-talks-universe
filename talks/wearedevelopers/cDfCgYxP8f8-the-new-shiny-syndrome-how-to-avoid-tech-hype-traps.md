@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T13:30:00+00:00
 video_id: cDfCgYxP8f8
+url: https://www.youtube.com/watch?v=cDfCgYxP8f8
 youtube_url: https://www.youtube.com/watch?v=cDfCgYxP8f8
 tags: ["Engineering Leadership", "APIs", "Caching", "Containers", "Databases", "DevOps", "Infrastructure", "Microservices", "MongoDB", "Multi-Cloud", "NoSQL", "On-Premise", "Performance", "Productivity", "Reliability", "Service Mesh", "Software Architecture", "System Design", "Tooling", "Tracing", "Varnish", "Web Performance"]
 transcript: true

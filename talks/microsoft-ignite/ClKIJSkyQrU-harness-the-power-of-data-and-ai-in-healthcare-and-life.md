@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-27T09:50:59Z
 video_id: ClKIJSkyQrU
+url: https://www.youtube.com/watch?v=ClKIJSkyQrU
 youtube_url: https://www.youtube.com/watch?v=ClKIJSkyQrU
 tags: ["AI", "Azure", "Azure AI Studio", "BRK256", "Copilot", "Copilot workflows", "Custom copilot(s)", "Harness the power of data and AI in healthcare and life sciences | BRK256", "Healthcare", "Healthcare data", "Healthcare data solutions", "Industry", "Industry-Curated", "MicrosoftFabric", "Software Company", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

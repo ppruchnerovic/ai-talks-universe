@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T10:20:00+00:00
 video_id: ALCcK-ub0qo
+url: https://www.youtube.com/watch?v=ALCcK-ub0qo
 youtube_url: https://www.youtube.com/watch?v=ALCcK-ub0qo
 tags: ["Security & Privacy", "Agentic AI", "Internet of Things (IoT)", "Security"]
 transcript: true

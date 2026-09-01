@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 39
 published_at: 2026-04-27T12:00:11Z
 video_id: 6mLYZF97oaU
+url: https://www.youtube.com/watch?v=6mLYZF97oaU
 youtube_url: https://www.youtube.com/watch?v=6mLYZF97oaU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Daniel Terhorst-North", "Gojko Adzic", "Dan North", "Spec-driven", "Spec-driven-design", "AI Teams", "Spec-Driven Development"]
 transcript: true

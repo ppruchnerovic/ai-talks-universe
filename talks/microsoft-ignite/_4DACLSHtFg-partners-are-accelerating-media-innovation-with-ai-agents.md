@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-24T13:29:35Z
 video_id: _4DACLSHtFg
+url: https://www.youtube.com/watch?v=_4DACLSHtFg
 youtube_url: https://www.youtube.com/watch?v=_4DACLSHtFg
 tags: ["53f02de8-5d00-4545-bd9f-19b2275f8bc8_Segment", "Alessandra Antonelli", "English (US)", "Erik Ramberg", "Media and Entertainment", "Microsoft AI Cloud Partner Program", "Other", "PBRK391", "Partner Business", "Partners are Accelerating Media Innovation with AI Agents | PBRK391", "Tanya Khaiyanun", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

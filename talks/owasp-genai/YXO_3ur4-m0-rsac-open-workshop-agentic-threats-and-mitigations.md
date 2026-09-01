@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 12
 published_at: 2026-01-21T03:34:36Z
 video_id: YXO_3ur4-m0
+url: https://www.youtube.com/watch?v=YXO_3ur4-m0
 youtube_url: https://www.youtube.com/watch?v=YXO_3ur4-m0
 tags: []
 transcript: true

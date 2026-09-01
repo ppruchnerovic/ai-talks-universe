@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T14:20:00+00:00
 video_id: 6bAqIO7wGxk
+url: https://www.youtube.com/watch?v=6bAqIO7wGxk
 youtube_url: https://www.youtube.com/watch?v=6bAqIO7wGxk
 tags: ["Security & Privacy", "AI Models", "Deep Learning", "Privacy", "Security"]
 transcript: true

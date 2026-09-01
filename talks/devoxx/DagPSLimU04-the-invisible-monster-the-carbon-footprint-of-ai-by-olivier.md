@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 41
 published_at: 2025-10-08T05:30:33Z
 video_id: DagPSLimU04
+url: https://www.youtube.com/watch?v=DagPSLimU04
 youtube_url: https://www.youtube.com/watch?v=DagPSLimU04
 tags: []
 transcript: false

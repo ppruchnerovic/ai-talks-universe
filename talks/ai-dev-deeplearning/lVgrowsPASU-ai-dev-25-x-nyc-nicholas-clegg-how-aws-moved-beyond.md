@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 29
 published_at: 2025-12-05T14:53:46Z
 video_id: lVgrowsPASU
+url: https://www.youtube.com/watch?v=lVgrowsPASU
 youtube_url: https://www.youtube.com/watch?v=lVgrowsPASU
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T14:58:08Z
 video_id: jH3mTJ9cNDc
+url: https://www.youtube.com/watch?v=jH3mTJ9cNDc
 youtube_url: https://www.youtube.com/watch?v=jH3mTJ9cNDc
 tags: ["AI", "BRKFP371", "Babak Hodjat", "Breakout", "English (US)", "Exploring the future of AI with multi-agent systems and LLMs in action | BRKFP371", "Intermediate (200)", "Marco Casalaina", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

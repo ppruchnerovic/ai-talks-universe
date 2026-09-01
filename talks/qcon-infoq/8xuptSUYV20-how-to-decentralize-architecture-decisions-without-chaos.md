@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-01-15T07:56:58Z
 video_id: 8xuptSUYV20
+url: https://www.youtube.com/watch?v=8xuptSUYV20
 youtube_url: https://www.youtube.com/watch?v=8xuptSUYV20
 tags: ["QCon London", "InfoQ", "Transcript", "Team Topologies", "Domain-Driven Design", "Advice Process", "Architectural Principles", "Context Map", "ADRs", "Architectural Advisory Forum", "Culture", "Agile", "Leadership", "Teamwork"]
 transcript: true

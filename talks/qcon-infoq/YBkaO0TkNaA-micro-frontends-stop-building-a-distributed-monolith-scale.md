@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2025-11-20T07:12:15Z
 video_id: YBkaO0TkNaA
+url: https://www.youtube.com/watch?v=YBkaO0TkNaA
 youtube_url: https://www.youtube.com/watch?v=YBkaO0TkNaA
 tags: ["Software Architecture", "QCon London", "Micro-Frontends", "Monolith", "Platform Team", "Developer Experience", "InfoQ", "Transcript", "Platforms", "Frontend Development"]
 transcript: false

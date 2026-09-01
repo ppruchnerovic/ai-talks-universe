@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-21T14:29:12Z
 video_id: qhEj-1ZolLs
+url: https://www.youtube.com/watch?v=qhEj-1ZolLs
 youtube_url: https://www.youtube.com/watch?v=qhEj-1ZolLs
 tags: ["36cf4a27-af6f-473a-b160-c65ea63f4136_Segment", "BRK339", "English (US)", "Eric Orman", "Mark Douglas", "Roop Kiran Chevuri", "Scale with cloud and AI endpoints", "Technical", "What’s new & what’s next in Azure Virtual Desktop​ | BRK339", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

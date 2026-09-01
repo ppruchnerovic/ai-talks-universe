@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T12:50:00+00:00
 video_id: AVr_6VN1-24
+url: https://www.youtube.com/watch?v=AVr_6VN1-24
 youtube_url: https://www.youtube.com/watch?v=AVr_6VN1-24
 tags: ["DevOps", "Containers", "DevOps", "Docker", "Linux"]
 transcript: true

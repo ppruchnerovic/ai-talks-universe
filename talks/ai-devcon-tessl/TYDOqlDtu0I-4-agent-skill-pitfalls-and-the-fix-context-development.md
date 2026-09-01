@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-05-28T12:15:12Z
 video_id: TYDOqlDtu0I
+url: https://www.youtube.com/watch?v=TYDOqlDtu0I
 youtube_url: https://www.youtube.com/watch?v=TYDOqlDtu0I
 tags: ["AI DevCon", "AI Development", "AI Engineering", "AI agent skill pitfalls", "AI engineering shifts", "Anthropic model performance", "Context Engineering", "Node.js", "Node.js agent skills", "Tessl context management", "ainativedev", "evaluating AI skills", "how to optimize agent skills", "importance of context in AI", "optimizing AI models"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 13
 published_at: 2025-12-09T16:00:03Z
 video_id: 2a_hP_USLBs
+url: https://www.youtube.com/watch?v=2a_hP_USLBs
 youtube_url: https://www.youtube.com/watch?v=2a_hP_USLBs
 tags: []
 transcript: false

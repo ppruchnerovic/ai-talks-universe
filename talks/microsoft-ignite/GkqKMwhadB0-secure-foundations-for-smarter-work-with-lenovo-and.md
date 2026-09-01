@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-24T10:33:11Z
 video_id: GkqKMwhadB0
+url: https://www.youtube.com/watch?v=GkqKMwhadB0
 youtube_url: https://www.youtube.com/watch?v=GkqKMwhadB0
 tags: ["8d5307bc-8299-4703-ab90-9b5ab427bc0e_Segment", "BRKSP463", "English (US)", "Gerald Longoria", "Manufacturing and Mobility", "Scale with cloud and AI endpoints", "Secure foundations for smarter work with Lenovo and Microsoft | BRKSP463", "Secure your data", "Technical", "Tiago Da Costa", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

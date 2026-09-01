@@ -12,6 +12,7 @@ channel: null
 duration_min: 88
 published_at: null
 video_id: rTKt5Wv_HTI
+url: https://www.youtube.com/watch?v=rTKt5Wv_HTI
 youtube_url: https://www.youtube.com/watch?v=rTKt5Wv_HTI
 tags: []
 transcript: false

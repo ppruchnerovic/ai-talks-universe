@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-20T14:23:43Z
 video_id: naeftpE1DcI
+url: https://www.youtube.com/watch?v=naeftpE1DcI
 youtube_url: https://www.youtube.com/watch?v=naeftpE1DcI
 tags: ["BRK342", "David Wells", "English (US)", "Scale with cloud and AI endpoints", "Technical", "Tristan Scott", "Unlock efficiencies with Windows 365 Frontline & Cloud PC devices | BRK342", "f1ea89aa-0933-4227-a44d-4e8b71162e83_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

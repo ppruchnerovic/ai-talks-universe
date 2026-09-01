@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 44
 published_at: 2026-05-11T07:26:19Z
 video_id: Myg3A-AVjyo
+url: https://www.youtube.com/watch?v=Myg3A-AVjyo
 youtube_url: https://www.youtube.com/watch?v=Myg3A-AVjyo
 tags: ["ML", "Application Security", "Cloud Security", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Security", "Oslo", "Norway", "Manfred Bjørlin", "Awar Abdulkarim"]
 transcript: true

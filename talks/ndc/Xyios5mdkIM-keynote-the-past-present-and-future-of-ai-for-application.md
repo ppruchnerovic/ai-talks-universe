@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 59
 published_at: 2025-05-13T14:15:04Z
 video_id: Xyios5mdkIM
+url: https://www.youtube.com/watch?v=Xyios5mdkIM
 youtube_url: https://www.youtube.com/watch?v=Xyios5mdkIM
 tags: ["AI", ".NET", "LLM", "UI", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Steve Sanderson"]
 transcript: false

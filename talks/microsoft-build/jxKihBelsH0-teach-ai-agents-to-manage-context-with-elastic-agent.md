@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-04T13:45:09Z
 video_id: jxKihBelsH0
+url: https://www.youtube.com/watch?v=jxKihBelsH0
 youtube_url: https://www.youtube.com/watch?v=jxKihBelsH0
 tags: ["74755fa7-4099-43f3-98b4-01cb5032629e_M9Z7-DEMSP395-1", "AI", "Agents", "DEMSP395", "Deepti Dheer", "Developer", "Mike Richter", "Teach AI agents to manage context with Elastic Agent Builder | DEMSP395", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

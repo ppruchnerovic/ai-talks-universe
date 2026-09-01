@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 37
 published_at: 2024-10-09T16:43:47Z
 video_id: Rhpqiunpu0c
+url: https://www.youtube.com/watch?v=Rhpqiunpu0c
 youtube_url: https://www.youtube.com/watch?v=Rhpqiunpu0c
 tags: []
 transcript: false

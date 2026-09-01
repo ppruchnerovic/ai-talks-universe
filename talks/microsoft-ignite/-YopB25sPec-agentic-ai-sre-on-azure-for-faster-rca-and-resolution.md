@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 15
 published_at: 2025-11-19T15:13:35Z
 video_id: -YopB25sPec
+url: https://www.youtube.com/watch?v=-YopB25sPec
 youtube_url: https://www.youtube.com/watch?v=-YopB25sPec
 tags: ["Agentic AI SRE on Azure for faster RCA and resolution | ODSP1410", "Copilot and agents at work", "English (US)", "François Martel", "ODSP1410", "ODSP1410_v2", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

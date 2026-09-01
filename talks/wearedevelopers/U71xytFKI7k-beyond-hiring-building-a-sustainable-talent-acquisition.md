@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 47
 published_at: 2026-04-16T06:46:29Z
 video_id: U71xytFKI7k
+url: https://www.youtube.com/watch?v=U71xytFKI7k
 youtube_url: https://www.youtube.com/watch?v=U71xytFKI7k
 tags: ["talent acquisition", "leadership", "people", "deutsche bahn", "recruiting", "retention", "employer branding", "innovation", "hiring"]
 transcript: true

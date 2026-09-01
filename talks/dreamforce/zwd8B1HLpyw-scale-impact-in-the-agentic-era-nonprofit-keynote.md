@@ -12,6 +12,7 @@ channel: "Salesforce"
 duration_min: 53
 published_at: null
 video_id: zwd8B1HLpyw
+url: https://www.youtube.com/watch?v=zwd8B1HLpyw
 youtube_url: https://www.youtube.com/watch?v=zwd8B1HLpyw
 tags: []
 transcript: false

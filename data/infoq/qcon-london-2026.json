@@ -1,0 +1,251 @@
+{
+  "edition": "qcon-london-2026",
+  "name": "QCon London 2026",
+  "year": 2026,
+  "fetched_at": "2026-09-01T21:24:36+00:00",
+  "count": 12,
+  "talks": {
+    "ai-coding-assistants": {
+      "slug": "ai-coding-assistants",
+      "page_url": "https://www.infoq.com/presentations/ai-coding-assistants/",
+      "has_transcript": true,
+      "title": "State of Play: AI Coding Assistants",
+      "description": "Birgitta Böckeler discusses the rapid evolution of AI agents, moving beyond \"vibe coding\" to sophisticated context engineering. She explains how architectural constraints and \"harness engineering\" create the safety nets required for autonomous code generation. She shares vital insights for leaders on balancing speed with maintainability, security risks, and the cost of AI autonomy.\n\nBirgitta Böckeler works at Thoughtworks where she is currently the Global Lead for AI-assisted Software Delivery. She is a software developer, architect and technical leader with about 20 years of experience in technology. Her career in software delivery consulting has given her the opportunity to see many organizations and teams succeed and fail at delivering valuable software.",
+      "speakers": [
+        "Birgitta Böckeler"
+      ],
+      "duration_s": 2521,
+      "published_at": "2026-04-08T08:34:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-aicodingassistants.mp4",
+      "id": "iq-ai-coding-assistants",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 6602,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "architecture-context-engineering": {
+      "slug": "architecture-context-engineering",
+      "page_url": "https://www.infoq.com/presentations/architecture-context-engineering/",
+      "has_transcript": true,
+      "title": "The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering",
+      "description": "Baruch Sadogursky and Patrick Debois discuss why coding agents fail due to bloated context windows and stuffed prompts. They explain practical context engineering fixes, including lazy-loaded skills, versioned context artifacts, externalized memory banks, and LLM-as-a-judge evals. Software architects & engineering leaders will learn how to turn raw markdown files into reliable agentic workflows.\n\nPatrick Debois is a practitioner, researcher, and eternal learner exploring how AI agents are reshaping software development—not just for individuals, but across teams and organizations. Baruch Sadogursky leads DevRel and Context Engineering Management at Tessl AI. He is a Java Champion, Microsoft MVP, and CNCF Ambassador alumnus.",
+      "speakers": [
+        "Patrick Debois",
+        "Baruch Sadogursky"
+      ],
+      "duration_s": 3032,
+      "published_at": "2026-08-14T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-architecturecontexteng.mp4",
+      "id": "iq-architecture-context-engineering",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 6522,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "cheri-memory-safety-compartmentalization": {
+      "slug": "cheri-memory-safety-compartmentalization",
+      "page_url": "https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/",
+      "has_transcript": true,
+      "title": "Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI",
+      "description": "David Chisnall discusses how the CHERI hardware architecture redefines pointer safety to solve isolation and sharing challenges. He explains how CHERI enables spatial and temporal memory safety for C/C++, scales down to microcontrollers with CHERIoT, and replaces costly OS-level RPC mechanisms with lightweight, auditable compartmentalization - all without requiring massive codebase rewrites.\n\nDavid Chisnall is Co-Founder and Director of Systems Architecture at SCI Semiconductor, a company founded to make CHERI processors. He is also a Visiting Researcher at the University of Cambridge. His background spans compilers, operating systems, security, and hardware. He has been an LLVM contributor since 2008 and implemented two language runtimes.",
+      "speakers": [
+        "David Chisnall"
+      ],
+      "duration_s": 3143,
+      "published_at": "2026-08-12T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-compartmentalisation1.mp4",
+      "id": "iq-cheri-memory-safety-compartmentalization",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 7833,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "claude-sre-incidents": {
+      "slug": "claude-sre-incidents",
+      "page_url": "https://www.infoq.com/presentations/claude-sre-incidents/",
+      "has_transcript": true,
+      "title": "Can Claude Fix Itself? Using LLMs for Incident Response",
+      "description": "Anthropic reliability engineer Alex Palcuie shares practical lessons on using LLMs for real-world incident response. He explains where AI acts as a superhuman for observing logs and traces, why it still struggles with causation versus correlation during root-cause analysis, and how engineering leaders can integrate AI into on-call workflows without eroding human expertise.\n\nAlex Palcuie is a Member of Technical Staff in AI Reliability Engineering at Anthropic, where he works on keeping Claude reliable at scale. He has the unenviable task of having to fix Claude without Claude when it goes down.",
+      "speakers": [
+        "Alex Palcuie"
+      ],
+      "duration_s": 2717,
+      "published_at": "2026-08-26T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-llmsincidentresponse1.mp4",
+      "id": "iq-claude-sre-incidents",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 6048,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "cloud-computing-technological-sovereignty-multi-cloud": {
+      "slug": "cloud-computing-technological-sovereignty-multi-cloud",
+      "page_url": "https://www.infoq.com/presentations/cloud-computing-technological-sovereignty-multi-cloud/",
+      "has_transcript": true,
+      "title": "Mitigating Geopolitical Risks with Local-First Software and atproto",
+      "description": "Martin Kleppmann discusses the urgent need for technological sovereignty in modern infrastructure. Exploring the shifting landscape of global tech dependencies, he shares how engineering leaders can leverage multi-cloud architecture, de facto API standardization, the AT Protocol, and local-first development paradigms to reclaim user agency and build highly resilient systems.\n\nMartin Kleppmann is an Associate Professor at the University of Cambridge, working on decentralised systems and cryptographic protocols. He is the author of the best-selling O’Reilly book \"Designing Data-Intensive Applications\".",
+      "speakers": [
+        "Martin Kleppmann"
+      ],
+      "duration_s": 3016,
+      "published_at": "2026-06-08T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-geopoliticalrisks.mp4",
+      "id": "iq-cloud-computing-technological-sovereignty-multi-cloud",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 8190,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "ebpf-ai-gateway-kubernetes-security": {
+      "slug": "ebpf-ai-gateway-kubernetes-security",
+      "page_url": "https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/",
+      "has_transcript": true,
+      "title": "Enchant Your AI and APIs with eBPF Magic 🪄",
+      "description": "Dan Finneran discusses the risks of unowned AI-generated code in production and demonstrates how eBPF can intercept and control AI API traffic in Kubernetes. He explains how kernel-level socket hooks enable transparent prompt filtering, model swapping, token limits, and syscall restrictions to secure AI agents without modifying application source code or restarting containers.\n\nDan Finneran is a Principal Community Advocate at Isovalent at Cisco. His journey to today has included bare-metal, jails, zones, vms and containers where he is currently enjoying the fast-paced ride in the cloud native space. He also created & maintains a popular Open-Source load-balancer for Kubernetes and contributes to upstream Kubernetes.",
+      "speakers": [
+        "Dan Finneran"
+      ],
+      "duration_s": 2994,
+      "published_at": "2026-08-21T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-ebpfmagic.mp4",
+      "id": "iq-ebpf-ai-gateway-kubernetes-security",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 7372,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "local-ai-browser-inference-privacy": {
+      "slug": "local-ai-browser-inference-privacy",
+      "page_url": "https://www.infoq.com/presentations/local-ai-browser-inference-privacy/",
+      "has_transcript": true,
+      "title": "Running AI at the Edge: Running Real Workloads Directly in the Browser",
+      "description": "James Hall discusses the strategic and technical imperative of moving AI workloads from cloud providers to local edge devices. He shares practical approaches using WebGPU, Transformers.js, and DuckDB to achieve near-native performance in JavaScript. Through real-world case studies, he explains how to minimize data privacy risks, optimize browser inference, and build rigorous evaluation suites.\n\nJames Hall is Tech Director and Founder at Parallax, where he leads on AI and software consulting. He is also the creator of jsPDF, one of the more widely used open-source JavaScript libraries, with 40 million monthly downloads.",
+      "speakers": [
+        "James Hall"
+      ],
+      "duration_s": 2948,
+      "published_at": "2026-08-31T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-aiedge.mp4",
+      "id": "iq-local-ai-browser-inference-privacy",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 6583,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "netflix-commerce-architecture-evolution": {
+      "slug": "netflix-commerce-architecture-evolution",
+      "page_url": "https://www.infoq.com/presentations/netflix-commerce-architecture-evolution/",
+      "has_transcript": true,
+      "title": "From DVDs to Global Streaming: How Netflix’s Commerce Architecture Actually Evolved",
+      "description": "Kasia Trapszo discusses how Netflix evolved its commerce platform from a U.S. DVD service into global infrastructure. She explains navigating international payment realities, adapting to strict regulatory mandates, decomposing monolithic architectures along domain boundaries, and re-architecting systems for massive live-event demand - proving great systems survive by continually evolving.\n\nKasia Trapszo is an IC leader at Netflix, where she leads architecture for the company’s commerce platform. Her diverse background spans engineering roles at startups, hands-on work in the banking sector, and building out teams from scratch. She is passionate about technical leadership, empowering engineers to grow their influence, and fostering collaboration across teams.",
+      "speakers": [
+        "Kasia Trapszo"
+      ],
+      "duration_s": 3104,
+      "published_at": "2026-08-28T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-netflixcommercearch.mp4",
+      "id": "iq-netflix-commerce-architecture-evolution",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 7501,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "progressive-collapse-system-resilience": {
+      "slug": "progressive-collapse-system-resilience",
+      "page_url": "https://www.infoq.com/presentations/progressive-collapse-system-resilience/",
+      "has_transcript": true,
+      "title": "Understanding Progressive Collapse: How To Avoid A Cascading Failure",
+      "description": "Sam Newman discusses the concept of progressive collapse in civil engineering and how it applies to distributed systems. Using real-world examples - from the 1968 Ronan Point tower failure to AWS outages - he shares crucial resilience engineering strategies for software leaders. Learn how to strengthen components, isolate failures, and reduce interconnections to prevent catastrophic cascades.\n\nSam Newman is an independent consultant. Focusing primarily on cloud, microservices architecture, and continuous delivery, he works with companies all over the world. He is an experienced conference speaker and author of the O’Reilly books Monolith To Microservices, Building Microservices, and the forthcoming Building Resilient Distributed Systems.",
+      "speakers": [
+        "Sam Newman"
+      ],
+      "duration_s": 2885,
+      "published_at": "2026-08-19T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-progressivecollapse.mp4",
+      "id": "iq-progressive-collapse-system-resilience",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 7950,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "spotify-ai-codebase-migration-agent": {
+      "slug": "spotify-ai-codebase-migration-agent",
+      "page_url": "https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/",
+      "has_transcript": true,
+      "title": "Rewriting All of Spotify's Code Base, All the Time",
+      "description": "Jo Kelly-Fenton and Aleksandar Mitic explain how Spotify created \"Honk,\" an AI coding agent, to handle complex fleet-wide codebase migrations. They share key architectural insights on decoupling CI verification runtimes from AI agents, dealing with automated pull request bottlenecks, and driving aggressive standardization across thousands of engineering repositories.\n\nJo Kelly-Fenton is an engineer at Spotify, working on the development and company-wide adoption of autonomous coding agents. Aleksandar Mitic has been working as a Software Engineer at Spotify for 4 years. His tenure at Spotify has been spent within Platform teams.",
+      "speakers": [
+        "Jo Kelly-Fenton",
+        "Aleksandar Mitic"
+      ],
+      "duration_s": 2651,
+      "published_at": "2026-08-07T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-spotifycodebase.mp4",
+      "id": "iq-spotify-ai-codebase-migration-agent",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 7372,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "tech-hype-cycles-architectural-tradeoffs": {
+      "slug": "tech-hype-cycles-architectural-tradeoffs",
+      "page_url": "https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/",
+      "has_transcript": true,
+      "title": "The Free-Lunch Guide to Idea Circularity",
+      "description": "Holly Cummins discusses why \"nothing is new under the sun\" in tech. She maps historical architectural tradeoffs to modern cloud, microservices, and AI hype cycles. She connects financial debt (post-ZIRP) and technical debt to epistemic and sleep debt, showing engineering leaders how to navigate shifts in assumptions, embrace sustainability, and revive proven engineering disciplines.\n\nHolly Cummins is a Senior Technical Staff Member on the IBM Quarkus team and a Java Champion. Over her career, she has been a full-stack JavaScript developer, a build architect, a client-facing consultant, a JVM performance engineer, and an innovation leader.",
+      "speakers": [
+        "Holly Cummins"
+      ],
+      "duration_s": 2534,
+      "published_at": "2026-07-31T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-ideacircularity.mp4",
+      "id": "iq-tech-hype-cycles-architectural-tradeoffs",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 6204,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    },
+    "yk-meta-tracing-jit-compiler": {
+      "slug": "yk-meta-tracing-jit-compiler",
+      "page_url": "https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/",
+      "has_transcript": true,
+      "title": "Automatically Retrofitting JIT Compilers",
+      "description": "Laurence Tratt discusses yk, an open-source meta-tracing JIT compiler framework. He shares how to automatically speed up C-based language interpreters like Lua and MicroPython with minimal, non-invasive code changes. He explains the inner workings of tracing loops, optimizing compiled traces using developer hints, and managing complex deoptimization back to the interpreter.\n\nLaurence Tratt is the Shopify / Royal Academy of Engineering Research Chair in Language Engineering in the Department of Informatics at King’s College London. His research focuses on improving our ability to develop and use software, with a particular focus on performance: how can we make more software run at the speed that its users need and want?",
+      "speakers": [
+        "Laurence Tratt"
+      ],
+      "duration_s": 2563,
+      "published_at": "2026-08-05T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-mar-jitcompilers.mp4",
+      "id": "iq-yk-meta-tracing-jit-compiler",
+      "matched_youtube": false,
+      "edition": "qcon-london-2026",
+      "edition_name": "QCon London 2026",
+      "year": 2026,
+      "transcript_words": 6792,
+      "fetched_at": "2026-09-01T21:24:36+00:00"
+    }
+  }
+}

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 12
 published_at: 2026-06-05T15:40:52Z
 video_id: zh6fMtL_cSM
+url: https://www.youtube.com/watch?v=zh6fMtL_cSM
 youtube_url: https://www.youtube.com/watch?v=zh6fMtL_cSM
 tags: ["LIVE116", "LIVE116_v1", "Scott Hanselman", "Scott and Mark learn to Vibe Check with Steve Sanderson | LIVE116", "Steve Sanderson", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

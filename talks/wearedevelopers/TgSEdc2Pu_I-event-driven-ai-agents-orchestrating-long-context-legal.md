@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T14:50:00+00:00
 video_id: TgSEdc2Pu_I
+url: https://www.youtube.com/watch?v=TgSEdc2Pu_I
 youtube_url: https://www.youtube.com/watch?v=TgSEdc2Pu_I
 tags: ["AI Agents", "Anthropic", "AWS", "Agents", "Agentic AI", "CDK", "Event-Driven Architecture (EDA)"]
 transcript: true

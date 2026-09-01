@@ -12,6 +12,7 @@ channel: null
 duration_min: 40
 published_at: null
 video_id: DRlruv0c9RA
+url: https://www.youtube.com/watch?v=DRlruv0c9RA
 youtube_url: https://www.youtube.com/watch?v=DRlruv0c9RA
 tags: []
 transcript: false

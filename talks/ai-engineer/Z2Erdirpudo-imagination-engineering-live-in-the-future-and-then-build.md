@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 16
 published_at: 2026-07-16T23:45:06Z
 video_id: Z2Erdirpudo
+url: https://www.youtube.com/watch?v=Z2Erdirpudo
 youtube_url: https://www.youtube.com/watch?v=Z2Erdirpudo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

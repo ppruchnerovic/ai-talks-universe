@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 33
 published_at: 2025-12-10T09:32:03Z
 video_id: Vkp8zQpwDSg
+url: https://www.youtube.com/watch?v=Vkp8zQpwDSg
 youtube_url: https://www.youtube.com/watch?v=Vkp8zQpwDSg
 tags: ["The InfoQ Podcast", "Artificial Intelligence", "Model Context Protocol", "Platform Engineering", "Generative AI", "AI Agents", "Developer Experience", "Large Language Models", "Code Generation", "Multi-Agent Systems", "QCon AI New York 2025"]
 transcript: false

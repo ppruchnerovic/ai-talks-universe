@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T10:26:37Z
 video_id: 6-UKEiqm53c
+url: https://www.youtube.com/watch?v=6-UKEiqm53c
 youtube_url: https://www.youtube.com/watch?v=6-UKEiqm53c
 tags: ["BRK174", "English (US)", "Migrate and modernize your estate", "Natalie Mao", "Running AI on Azure Storage: Fast secure and scalable | BRK174", "Saurabh Sensharma", "Technical", "Vamshi Kommineni", "e6a9ef89-0aad-4a42-adb0-b0441c1f13ca_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

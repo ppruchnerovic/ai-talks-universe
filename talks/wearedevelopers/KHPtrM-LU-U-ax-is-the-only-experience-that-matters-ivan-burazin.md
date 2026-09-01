@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2025-09-16T09:28:22Z
 video_id: KHPtrM-LU-U
+url: https://www.youtube.com/watch?v=KHPtrM-LU-U
 youtube_url: https://www.youtube.com/watch?v=KHPtrM-LU-U
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: false

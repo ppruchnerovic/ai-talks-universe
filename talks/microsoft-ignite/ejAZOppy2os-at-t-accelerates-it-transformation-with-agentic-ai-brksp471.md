@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T10:35:17Z
 video_id: ejAZOppy2os
+url: https://www.youtube.com/watch?v=ejAZOppy2os
 youtube_url: https://www.youtube.com/watch?v=ejAZOppy2os
 tags: ["4d8ea709-63ad-46b5-850c-9ffbfe467241_Segment", "AT&T accelerates IT transformation with agentic AI | BRKSP471", "Agentic business applications", "BRKSP471", "English (US)", "Mark Austin", "Miha Kralj", "Srinivas Jayanti", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

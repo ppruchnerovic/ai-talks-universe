@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 54
 published_at: 2023-10-23T08:50:29Z
 video_id: aWxI02HMox0
+url: https://www.youtube.com/watch?v=aWxI02HMox0
 youtube_url: https://www.youtube.com/watch?v=aWxI02HMox0
 tags: ["Software Development", "Software Architecture", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Java", "Ethics", "InfoQ", "QCon London", "Transcript"]
 transcript: false

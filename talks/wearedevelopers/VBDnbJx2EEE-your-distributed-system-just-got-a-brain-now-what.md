@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 14
 published_at: 2026-07-09T08:40:00+00:00
 video_id: VBDnbJx2EEE
+url: https://www.youtube.com/watch?v=VBDnbJx2EEE
 youtube_url: https://www.youtube.com/watch?v=VBDnbJx2EEE
 tags: ["Software Architecture", "AI Standards", "Cross-Platform", "Distributed Systems", "Large Language Models (LLMs)", "Microservices", "Scaling", "System Design"]
 transcript: true

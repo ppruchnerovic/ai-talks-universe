@@ -1,0 +1,149 @@
+{
+  "edition": "qcon-ai-boston-2026",
+  "name": "QCon AI Boston 2026",
+  "year": 2026,
+  "fetched_at": "2026-09-01T21:23:35+00:00",
+  "count": 7,
+  "talks": {
+    "ai-agentic-recommendations-semantic-ids": {
+      "slug": "ai-agentic-recommendations-semantic-ids",
+      "page_url": "https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/",
+      "has_transcript": true,
+      "title": "From Models to Agents: Building Context-Aware Consumer AI at Scale at DoorDash",
+      "description": "Sudeep Das shares how DoorDash shifts from legacy one-shot predictions to an agentic recommendation platform. He discusses leveraging language-native consumer memory, RQ-VAE semantic IDs for catalog representation, and grounded search to dramatically boost relevance and conversion metrics.\n\nSudeep Das currently serves as Head of Machine Learning & AI for New Business Verticals at DoorDash, where he leads personalization, search, catalog intelligence, and decision-making systems across rapidly expanding consumer experiences including grocery, convenience, alcohol, and retail.",
+      "speakers": [
+        "Sudeep Das"
+      ],
+      "duration_s": 3030,
+      "published_at": "2026-08-15T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-modelstoagents.mp4",
+      "id": "iq-ai-agentic-recommendations-semantic-ids",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 7386,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "ai-hardware-tokenomics": {
+      "slug": "ai-hardware-tokenomics",
+      "page_url": "https://www.infoq.com/presentations/ai-hardware-tokenomics/",
+      "has_transcript": true,
+      "title": "From Fab To Token - The State Of The Market",
+      "description": "Jordan Nanos discusses how semiconductor constraints, data center expansion, and networking bottlenecks impact AI software architecture. Drawing from SemiAnalysis research, he shares insights on benchmark performance, GPU scaling, and tokenomics from chip fab to model inference.\n\nJordan Nanos is a Member of Technical Staff at SemiAnalysis and a former Distinguished Technologist at HPE.",
+      "speakers": [
+        "Jordan Nanos"
+      ],
+      "duration_s": 3071,
+      "published_at": "2026-08-18T16:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-fabtotoken.mp4",
+      "id": "iq-ai-hardware-tokenomics",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 7573,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "ai-sdlc-maturity-framework-bottlenecks": {
+      "slug": "ai-sdlc-maturity-framework-bottlenecks",
+      "page_url": "https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/",
+      "has_transcript": true,
+      "title": "The Five Stages of AI Maturity in Engineering Organizations - Where and Why Teams Get Stuck",
+      "description": "Quotient CEO Lizzie Matusov explains why soaring AI spend often fails to improve software delivery. She presents a research-backed AI maturity framework designed to help engineering leaders move beyond vanity metrics like token usage, align organizational AI adoption, and address critical bottlenecks across the software development life cycle to deliver measurable business outcomes.\n\nLizzie Matusov is the co-founder and CEO of Quotient. She also co-authors Research-Driven Engineering Leadership, a newsletter that translates academic research into practical insights for engineering leaders. Before founding Quotient, she worked in engineering roles at Red Hat and Invitae.",
+      "speakers": [
+        "Lizzie Matusov"
+      ],
+      "duration_s": 2334,
+      "published_at": "2026-08-04T16:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-aimaturity.mp4",
+      "id": "iq-ai-sdlc-maturity-framework-bottlenecks",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 6279,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "autonomous-ai-software-development-roblox": {
+      "slug": "autonomous-ai-software-development-roblox",
+      "page_url": "https://www.infoq.com/presentations/autonomous-ai-software-development-roblox/",
+      "has_transcript": true,
+      "title": "Prompt to Prod: Engineering an Autonomous SDLC at Scale",
+      "description": "Andrew Swerdlow shares how Roblox scales autonomous software development from prompt to production. He discusses building robust security sandboxes, extracting institutional knowledge via code review exemplars, updating engineering infrastructure, and redefining productivity metrics around feature velocity and long-running AI turns to achieve trusted, automated deployment at scale.\n\nAndrew Swerdlow is the Sr. Director of Software at Roblox, where he leads Engineering Acceleration (EA) and Core Platforms. In this role, he spearheads the AI-native transformation for a global platform serving tens of millions of daily active users.",
+      "speakers": [
+        "Andrew Swerdlow"
+      ],
+      "duration_s": 2900,
+      "published_at": "2026-08-24T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-prompttoprod.mp4",
+      "id": "iq-autonomous-ai-software-development-roblox",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 8070,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "doordash-llm-ai-moderation-platform": {
+      "slug": "doordash-llm-ai-moderation-platform",
+      "page_url": "https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/",
+      "has_transcript": true,
+      "title": "SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace",
+      "description": "Bruna Pereira explains how DoorDash built a content-agnostic AI moderation platform. She covers replacing costly LLM-only pipelines with a hybrid pattern: using fast internal models to filter obvious cases, LLM multi-axis scoring for nuanced decisions, and no-code workflows with backtesting. Discover how this architectural pattern cut safety incidents while scaling to millions of daily messages.\n\nBruna Pereira is a software engineer at DoorDash with 10+ years of experience in software engineering. She enjoys solving hard problems, working on systems that scale, and learning from building things in production.",
+      "speakers": [
+        "Bruna Pereira"
+      ],
+      "duration_s": 2542,
+      "published_at": "2026-08-22T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-safechat.mp4",
+      "id": "iq-doordash-llm-ai-moderation-platform",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 5419,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "enterprise-data-architecture-ai-agents": {
+      "slug": "enterprise-data-architecture-ai-agents",
+      "page_url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/",
+      "has_transcript": true,
+      "title": "Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models",
+      "description": "Fabiane Nardon shares how TOTVS prepares enterprise data for token-hungry AI agents. She discusses balancing deterministic logic and non-deterministic LLMs across precision, security, and cost. Nardon details using data mesh, low-latency database architectures, semantic ontologies, and dynamic MCP tool selection to optimize context windows and reduce token overhead in transactional systems.\n\nFabiane Nardon is a tech executive with 20+ years architecting large-scale data systems. She currently leads Data Intelligence at TOTVS, enabling LLM and agent-driven products with strong foundations in governance, security, and cost-efficient operation, including token usage optimization and trustworthy retrieval. She is a Java Champion and co-founder of SouJava.",
+      "speakers": [
+        "Fabiane Nardon"
+      ],
+      "duration_s": 3095,
+      "published_at": "2026-08-29T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-mcpsemanticmodels.mp4",
+      "id": "iq-enterprise-data-architecture-ai-agents",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 6029,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    },
+    "openai-performance-engineering-agentic-coding": {
+      "slug": "openai-performance-engineering-agentic-coding",
+      "page_url": "https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/",
+      "has_transcript": true,
+      "title": "Keeping ChatGPT Fast as AI Development Accelerates",
+      "description": "Martin Spier explains how agentic workflows dramatically increase code change volume at OpenAI. He discusses the hidden systemic performance costs of rapid shipping beyond GPUs, and shares how deploying always-on AI agents automates profiling, regression detection, and continuous optimization to maintain product speed and scalability at massive global scale.\n\nMartin Spier leads ChatGPT Performance at OpenAI, where he works on making ChatGPT faster, more reliable, and easier for engineering teams to operate at scale. His work spans AI and cloud infrastructure, performance engineering, observability, reliability, platform engineering, and developer productivity.",
+      "speakers": [
+        "Martin Spier"
+      ],
+      "duration_s": 3014,
+      "published_at": "2026-08-08T09:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-chatgptfast.mp4",
+      "id": "iq-openai-performance-engineering-agentic-coding",
+      "matched_youtube": false,
+      "edition": "qcon-ai-boston-2026",
+      "edition_name": "QCon AI Boston 2026",
+      "year": 2026,
+      "transcript_words": 7012,
+      "fetched_at": "2026-09-01T21:23:35+00:00"
+    }
+  }
+}

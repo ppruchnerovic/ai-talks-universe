@@ -12,6 +12,7 @@ channel: "RSAC Cybersecurity"
 duration_min: 49
 published_at: 2025-06-02T16:49:13Z
 video_id: Tcoqqhmm6_4
+url: https://www.youtube.com/watch?v=Tcoqqhmm6_4
 youtube_url: https://www.youtube.com/watch?v=Tcoqqhmm6_4
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false

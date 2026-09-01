@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 21
 published_at: 2026-03-13T08:20:08Z
 video_id: OlyRNeoh0-Q
+url: https://www.youtube.com/watch?v=OlyRNeoh0-Q
 youtube_url: https://www.youtube.com/watch?v=OlyRNeoh0-Q
 tags: []
 transcript: true

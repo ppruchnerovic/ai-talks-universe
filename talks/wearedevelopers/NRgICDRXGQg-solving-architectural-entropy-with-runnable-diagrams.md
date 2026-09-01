@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T14:10:00+00:00
 video_id: NRgICDRXGQg
+url: https://www.youtube.com/watch?v=NRgICDRXGQg
 youtube_url: https://www.youtube.com/watch?v=NRgICDRXGQg
 tags: ["Software Architecture", "Software Architecture", "System Design"]
 transcript: true

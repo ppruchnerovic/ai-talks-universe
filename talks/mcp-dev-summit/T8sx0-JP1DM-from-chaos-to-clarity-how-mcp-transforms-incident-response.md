@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 23
 published_at: 2026-04-13T23:17:09Z
 video_id: T8sx0-JP1DM
+url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 youtube_url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 tags: []
 transcript: true

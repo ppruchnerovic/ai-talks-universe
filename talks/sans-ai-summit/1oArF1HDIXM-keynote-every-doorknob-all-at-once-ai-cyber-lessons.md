@@ -12,6 +12,7 @@ channel: "SANS Institute"
 duration_min: 24
 published_at: 2026-05-04T17:54:57Z
 video_id: 1oArF1HDIXM
+url: https://www.youtube.com/watch?v=1oArF1HDIXM
 youtube_url: https://www.youtube.com/watch?v=1oArF1HDIXM
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
 transcript: true

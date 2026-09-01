@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 38
 published_at: 2023-12-18T18:32:28Z
 video_id: LGpbKb-_GXY
+url: https://www.youtube.com/watch?v=LGpbKb-_GXY
 youtube_url: https://www.youtube.com/watch?v=LGpbKb-_GXY
 tags: []
 transcript: false

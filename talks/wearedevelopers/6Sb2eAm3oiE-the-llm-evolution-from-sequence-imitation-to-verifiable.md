@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T13:40:00+00:00
 video_id: 6Sb2eAm3oiE
+url: https://www.youtube.com/watch?v=6Sb2eAm3oiE
 youtube_url: https://www.youtube.com/watch?v=6Sb2eAm3oiE
 tags: ["AI Engineering", "AI Models", "Large Language Models (LLMs)", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "Agentic AI"]
 transcript: true

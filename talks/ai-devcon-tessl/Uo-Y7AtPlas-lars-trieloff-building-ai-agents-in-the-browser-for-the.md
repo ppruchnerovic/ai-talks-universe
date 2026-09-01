@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-02T07:06:51Z
 video_id: Uo-Y7AtPlas
+url: https://www.youtube.com/watch?v=Uo-Y7AtPlas
 youtube_url: https://www.youtube.com/watch?v=Uo-Y7AtPlas
 tags: ["AI DevCon 2026", "AI agents", "API integration", "Adobe", "Adobe principal scientist", "Slicky", "UNIX tools", "agent enablement", "agentic tools", "ainativedev", "browser AI", "building AI agents in browser", "cloud-native", "web automation", "web development"]
 transcript: true

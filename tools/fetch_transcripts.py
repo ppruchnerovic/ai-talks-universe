@@ -331,34 +331,9 @@ def fetch_kome(video_id: str) -> tuple[list[dict], str, float]:
         raise LookupError("kome returned a truncated transcript (hasMore)")
 
     total = kome_length_seconds(str(data.get("length") or ""))
-    lines = [" ".join(l.split()) for l in text.splitlines() if l.strip()]
-    if not lines:
-        lines = [" ".join(text.split())]
-    counts = [len(l.split()) for l in lines]
-    n_words = sum(counts) or 1
-
-    segments, buf, buf_words, seen, start_words = [], [], 0, 0, 0
-    for line, c in zip(lines, counts):
-        if not buf:
-            start_words = seen
-        buf.append(line)
-        buf_words += c
-        seen += c
-        if buf_words >= 25:
-            segments.append((start_words, " ".join(buf)))
-            buf, buf_words = [], 0
-    if buf:
-        segments.append((start_words, " ".join(buf)))
-
-    out = []
-    for i, (sw, chunk) in enumerate(segments):
-        start = (sw / n_words) * total if total else float(sw)
-        nxt = segments[i + 1][0] if i + 1 < len(segments) else n_words
-        end = (nxt / n_words) * total if total else float(nxt)
-        out.append({"start": round(start, 2),
-                    "duration": round(max(end - start, 0.5), 2),
-                    "text": chunk})
-    return out, "en", total
+    lines = [l for l in text.splitlines() if l.strip()] or [text]
+    # Shared with infoq.py, the other route whose text arrives without timings.
+    return atu.segment_plain_text(lines, total), "en", total
 
 
 # --- route 3: supadata.ai ----------------------------------------------------

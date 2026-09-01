@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 50
 published_at: null
 video_id: MfaRnbg217g
+url: https://www.youtube.com/watch?v=MfaRnbg217g
 youtube_url: https://www.youtube.com/watch?v=MfaRnbg217g
 tags: []
 transcript: false

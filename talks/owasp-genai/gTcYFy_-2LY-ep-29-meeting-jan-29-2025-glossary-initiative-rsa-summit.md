@@ -12,6 +12,7 @@ channel: null
 duration_min: 57
 published_at: null
 video_id: gTcYFy_-2LY
+url: https://www.youtube.com/watch?v=gTcYFy_-2LY
 youtube_url: https://www.youtube.com/watch?v=gTcYFy_-2LY
 tags: []
 transcript: false

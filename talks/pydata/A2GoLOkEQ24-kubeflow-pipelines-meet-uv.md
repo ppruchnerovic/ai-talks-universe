@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 28
 published_at: 2025-11-23T14:33:49Z
 video_id: A2GoLOkEQ24
+url: https://www.youtube.com/watch?v=A2GoLOkEQ24
 youtube_url: https://www.youtube.com/watch?v=A2GoLOkEQ24
 tags: ["Conference", "DevOps", "Kubeflow", "Kubernetes", "ML pipelines", "MLOps", "PyConDE", "PyData", "Python", "Python packaging", "Tech Talk", "containerization", "data science", "dependency management", "machine learning", "production ML", "pyproject.toml", "uv", "workflow orchestration"]
 transcript: false

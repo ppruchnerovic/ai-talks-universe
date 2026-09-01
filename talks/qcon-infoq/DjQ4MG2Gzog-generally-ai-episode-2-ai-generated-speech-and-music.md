@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 44
 published_at: 2024-02-11T20:16:33Z
 video_id: DjQ4MG2Gzog
+url: https://www.youtube.com/watch?v=DjQ4MG2Gzog
 youtube_url: https://www.youtube.com/watch?v=DjQ4MG2Gzog
 tags: ["AI", "Music", "Generally AI"]
 transcript: false

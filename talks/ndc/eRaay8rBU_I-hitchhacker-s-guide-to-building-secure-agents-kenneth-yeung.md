@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-06-26T12:55:23Z
 video_id: eRaay8rBU_I
+url: https://www.youtube.com/watch?v=eRaay8rBU_I
 youtube_url: https://www.youtube.com/watch?v=eRaay8rBU_I
 tags: ["AI Agents", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz"]
 transcript: true

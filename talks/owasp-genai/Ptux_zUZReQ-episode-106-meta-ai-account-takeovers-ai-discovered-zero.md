@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 23
 published_at: 2026-07-19T23:47:16Z
 video_id: Ptux_zUZReQ
+url: https://www.youtube.com/watch?v=Ptux_zUZReQ
 youtube_url: https://www.youtube.com/watch?v=Ptux_zUZReQ
 tags: []
 transcript: true

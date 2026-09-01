@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-11T08:18:20Z
 video_id: 21bi6p1XMGc
+url: https://www.youtube.com/watch?v=21bi6p1XMGc
 youtube_url: https://www.youtube.com/watch?v=21bi6p1XMGc
 tags: ["Agent 365", "BRK227", "BRK227_v2", "Cloud Platform & Data", "Distributed systems to AI platforms with Mark Russinovich & Ion Stoica | BRK227", "Ion Stoica", "Mark Russinovich", "Next.js", "Post Quantum Cryptography", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

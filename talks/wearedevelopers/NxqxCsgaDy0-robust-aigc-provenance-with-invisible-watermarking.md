@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T08:20:00+00:00
 video_id: NxqxCsgaDy0
+url: https://www.youtube.com/watch?v=NxqxCsgaDy0
 youtube_url: https://www.youtube.com/watch?v=NxqxCsgaDy0
 tags: ["Security & Privacy", "AI Models", "Compliance", "Generative AI (GenAI)", "Regulation", "Safety"]
 transcript: true

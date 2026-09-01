@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 40
 published_at: 2023-12-29T05:00:11Z
 video_id: CKpxd3FBnqo
+url: https://www.youtube.com/watch?v=CKpxd3FBnqo
 youtube_url: https://www.youtube.com/watch?v=CKpxd3FBnqo
 tags: ["InfoQ Trends Reports", "Architecture & Design", "ChatGPT", "WebAssembley", "Blockchain"]
 transcript: false

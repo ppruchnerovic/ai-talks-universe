@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 30
 published_at: 2025-05-29T15:34:38Z
 video_id: ECN57ZB9xRs
+url: https://www.youtube.com/watch?v=ECN57ZB9xRs
 youtube_url: https://www.youtube.com/watch?v=ECN57ZB9xRs
 tags: ["Instacart", "workflow orchestration", "data engineering tutorial", "ChatGPT", "artificial intelligence", "machine learning", "big data", "system design tutorial", "data pipelines", "scalability", "distributed systems", "data platform", "Python", "engineering at scale", "data ops", "Apache Airflow", "task scheduling", "dependency management", "data quality monitoring", "pipeline automation", "microservices architecture", "event driven systems", "real time processing", "batch processing"]
 transcript: false

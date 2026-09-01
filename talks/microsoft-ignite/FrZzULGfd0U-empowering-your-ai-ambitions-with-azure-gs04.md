@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 64
 published_at: 2024-11-27T19:12:26Z
 video_id: FrZzULGfd0U
+url: https://www.youtube.com/watch?v=FrZzULGfd0U
 youtube_url: https://www.youtube.com/watch?v=FrZzULGfd0U
 tags: ["Microsoft", "Microsoft Ignite", "Arun Ulagaratchagan", "Asha Sharma", "Azure", "Bernardo Caldas", "Christine Sarros", "Empowering your AI Ambitions with Azure | GS04", "English (US)", "GS04", "General Session", "Jeremy Winter", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 39
 published_at: 2026-06-16T18:45:36Z
 video_id: HotbjSIgLOM
+url: https://www.youtube.com/watch?v=HotbjSIgLOM
 youtube_url: https://www.youtube.com/watch?v=HotbjSIgLOM
 tags: ["AI"]
 transcript: true

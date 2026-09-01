@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 38
 published_at: 2023-05-11T18:57:38Z
 video_id: u82r_eqUaiI
+url: https://www.youtube.com/watch?v=u82r_eqUaiI
 youtube_url: https://www.youtube.com/watch?v=u82r_eqUaiI
 tags: ["data engineering", "infrastructure", "open source", "Apache Pinot", "elasticsearch"]
 transcript: false

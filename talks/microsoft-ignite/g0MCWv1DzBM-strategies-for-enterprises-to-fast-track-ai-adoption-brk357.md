@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-26T08:40:43Z
 video_id: g0MCWv1DzBM
+url: https://www.youtube.com/watch?v=g0MCWv1DzBM
 youtube_url: https://www.youtube.com/watch?v=g0MCWv1DzBM
 tags: ["AI", "AI Development", "AI framework", "AI implementation", "Adoption", "BRK357", "Breakout", "English (US)", "Gil Perry", "Industry for Partner", "Intermediate (200)", "Other", "Shlomi Avigdor", "Strategies for Enterprises to Fast-Track AI Adoption | BRK357", "Surojit Chatterjee", "Technical", "Tom Davis", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

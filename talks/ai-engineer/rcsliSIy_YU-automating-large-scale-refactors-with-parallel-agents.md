@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 76
 published_at: 2026-01-08T00:00:00Z
 video_id: rcsliSIy_YU
+url: https://www.youtube.com/watch?v=rcsliSIy_YU
 youtube_url: https://www.youtube.com/watch?v=rcsliSIy_YU
 tags: []
 transcript: true

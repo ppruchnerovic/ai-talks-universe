@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 31
 published_at: 2025-11-23T14:33:55Z
 video_id: mCdqcaiWt4Q
+url: https://www.youtube.com/watch?v=mCdqcaiWt4Q
 youtube_url: https://www.youtube.com/watch?v=mCdqcaiWt4Q
 tags: ["BuildKit", "Conference", "DevOps", "Docker", "GPU", "Kubernetes", "MLOps", "PyCon", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk", "Whisper", "container best practices", "containers", "data science", "image optimization", "machine learning"]
 transcript: false

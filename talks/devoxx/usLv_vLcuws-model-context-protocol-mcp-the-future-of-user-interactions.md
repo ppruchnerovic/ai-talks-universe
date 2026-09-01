@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 45
 published_at: 2026-04-01T08:08:17Z
 video_id: usLv_vLcuws
+url: https://www.youtube.com/watch?v=usLv_vLcuws
 youtube_url: https://www.youtube.com/watch?v=usLv_vLcuws
 tags: []
 transcript: true

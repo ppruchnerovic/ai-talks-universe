@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 37
 published_at: 2024-06-27T14:39:45Z
 video_id: hdrpUi4pnew
+url: https://www.youtube.com/watch?v=hdrpUi4pnew
 youtube_url: https://www.youtube.com/watch?v=hdrpUi4pnew
 tags: []
 transcript: false

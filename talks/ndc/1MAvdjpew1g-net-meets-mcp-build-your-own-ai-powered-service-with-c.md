@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2026-02-10T14:32:18Z
 video_id: 1MAvdjpew1g
+url: https://www.youtube.com/watch?v=1MAvdjpew1g
 youtube_url: https://www.youtube.com/watch?v=1MAvdjpew1g
 tags: [".NET", "AI", "Tools", "C#", "ChatGPT", "MCP", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Gerald Versluis"]
 transcript: true

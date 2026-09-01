@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-20T14:25:52Z
 video_id: X1By9wRcFy8
+url: https://www.youtube.com/watch?v=X1By9wRcFy8
 youtube_url: https://www.youtube.com/watch?v=X1By9wRcFy8
 tags: ["88abe109-8fcb-41f4-ab8c-02a9d42288fa_Segment", "BRK275", "Clay Wesener", "Copilot and agents at work", "Copilot and agents at work:Microsoft 365 Apps", "Create apps with M365 Copilot and App Builder | BRK275", "Emma Cooper", "English (US)", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Power Apps", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

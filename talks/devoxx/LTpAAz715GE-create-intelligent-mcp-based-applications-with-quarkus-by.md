@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 39
 published_at: 2026-04-01T08:04:47Z
 video_id: LTpAAz715GE
+url: https://www.youtube.com/watch?v=LTpAAz715GE
 youtube_url: https://www.youtube.com/watch?v=LTpAAz715GE
 tags: []
 transcript: true

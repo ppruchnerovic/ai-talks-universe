@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T07:40:30Z
 video_id: GWV7VXjYeFM
+url: https://www.youtube.com/watch?v=GWV7VXjYeFM
 youtube_url: https://www.youtube.com/watch?v=GWV7VXjYeFM
 tags: ["Alyssa Ofstein", "BRK261", "Build Secure AI Agents: Microsoft’s Stack Your Innovation | BRK261", "English (US)", "Harmony Mabrey", "Neta Haiby", "Protect cloud AI platform and apps", "Technical", "d9424ff3-d29d-4c65-9183-6a97b164e97e_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

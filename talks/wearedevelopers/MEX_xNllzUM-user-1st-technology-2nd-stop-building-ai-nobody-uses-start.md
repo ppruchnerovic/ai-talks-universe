@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-10T13:40:00+00:00
 video_id: MEX_xNllzUM
+url: https://www.youtube.com/watch?v=MEX_xNllzUM
 youtube_url: https://www.youtube.com/watch?v=MEX_xNllzUM
 tags: ["Strategy & Innovation", "Accessibility", "AI Coding Assistants", "Agents", "Agile", "Best Practices", "Business Models", "Collaboration", "Digital Transformation", "Diversity & Inclusion", "E2E Testing", "Entrepreneurship", "Generative AI (GenAI)", "People & Culture", "Product Strategy", "Product Management", "Productivity", "Quality Assurance (QA)", "Soft Skills", "Testing", "UI/UX"]
 transcript: true

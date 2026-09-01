@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T12:32:05Z
 video_id: PXi9bLxAf-s
+url: https://www.youtube.com/watch?v=PXi9bLxAf-s
 youtube_url: https://www.youtube.com/watch?v=PXi9bLxAf-s
 tags: ["Advanced (300)", "Apps", "Azure App Service", "Azure Migrate", "BRK137", "Breakout", "English (US)", "Gaurav Seth", "Ikenna Okeke", "Jibson Mamerto", "Technical", "Unlock AI: Assess your app and data estate for AI-powered innovation | BRK137", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

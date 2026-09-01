@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 41
 published_at: 2026-07-21T00:00:00Z
 video_id: JvKO40CFq-s
+url: https://www.youtube.com/watch?v=JvKO40CFq-s
 youtube_url: https://www.youtube.com/watch?v=JvKO40CFq-s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

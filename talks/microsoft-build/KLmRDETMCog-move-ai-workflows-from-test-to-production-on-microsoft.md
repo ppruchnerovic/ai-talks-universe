@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 15
 published_at: 2026-06-03T10:43:42Z
 video_id: KLmRDETMCog
+url: https://www.youtube.com/watch?v=KLmRDETMCog
 youtube_url: https://www.youtube.com/watch?v=KLmRDETMCog
 tags: ["2d0d8c96-5737-41f7-8a54-7be68b88101f_M9Z7-DEMSP383-1", "AI", "Azure", "DEMSP383", "Microsoft Foundry", "Move AI workflows from test to production on Microsoft Foundry | DEMSP383", "Vignesh Sridhar", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

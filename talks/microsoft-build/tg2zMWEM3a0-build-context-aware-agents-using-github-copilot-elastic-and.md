@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T12:11:37Z
 video_id: tg2zMWEM3a0
+url: https://www.youtube.com/watch?v=tg2zMWEM3a0
 youtube_url: https://www.youtube.com/watch?v=tg2zMWEM3a0
 tags: ["AI", "Agents", "Build context-aware agents using GitHub Copilot Elastic and Azure AI | DEMSP385", "DEMSP385", "Foundry Agents", "GitHub Actions", "GitHub Copilot", "Jeff Vestal", "Microsoft Foundry", "Observability", "Visual Studio Code", "build", "build 2026", "d517366a-a8ce-4b50-9047-aeb5e8309c2b_M9Z7-DEMSP385-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

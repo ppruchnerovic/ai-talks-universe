@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 44
 published_at: 2026-07-13T06:05:06Z
 video_id: Msi4Kbxe1vY
+url: https://www.youtube.com/watch?v=Msi4Kbxe1vY
 youtube_url: https://www.youtube.com/watch?v=Msi4Kbxe1vY
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "DevOps", "Microsoft", "Azure", "Incident Response", "Software Architecture", "System Design", "SRE"]
 transcript: true

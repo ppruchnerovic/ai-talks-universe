@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-20T13:49:12Z
 video_id: tOi3juhLe-I
+url: https://www.youtube.com/watch?v=tOi3juhLe-I
 youtube_url: https://www.youtube.com/watch?v=tOi3juhLe-I
 tags: ["BRK165", "Breakout", "Business Applications", "Business Applications-Curated", "Edwina Fitzmaurice", "English (US)", "Johan Vikström", "Omar Aftab", "Ray Smith", "Technical", "Version v1", "What's new with Copilot Studio and agents | BRK165", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 7
 published_at: 2025-08-19T20:15:46Z
 video_id: V2dluPLCFmc
+url: https://www.youtube.com/watch?v=V2dluPLCFmc
 youtube_url: https://www.youtube.com/watch?v=V2dluPLCFmc
 tags: []
 transcript: false

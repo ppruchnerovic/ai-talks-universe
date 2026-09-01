@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T13:30:00+00:00
 video_id: aDxn2vlipm4
+url: https://www.youtube.com/watch?v=aDxn2vlipm4
 youtube_url: https://www.youtube.com/watch?v=aDxn2vlipm4
 tags: ["AI Engineering", "AI Models", "Agents", "LLMOps", "Multi-Agent Systems"]
 transcript: true

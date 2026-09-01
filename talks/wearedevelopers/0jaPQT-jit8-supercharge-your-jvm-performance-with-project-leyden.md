@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T14:50:00+00:00
 video_id: 0jaPQT-jit8
+url: https://www.youtube.com/watch?v=0jaPQT-jit8
 youtube_url: https://www.youtube.com/watch?v=0jaPQT-jit8
 tags: ["Languages & Runtimes", "Java", "Performance"]
 transcript: true

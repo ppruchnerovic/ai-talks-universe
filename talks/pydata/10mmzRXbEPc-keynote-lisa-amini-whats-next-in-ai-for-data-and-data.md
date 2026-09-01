@@ -12,6 +12,7 @@ channel: null
 duration_min: 45
 published_at: null
 video_id: 10mmzRXbEPc
+url: https://www.youtube.com/watch?v=10mmzRXbEPc
 youtube_url: https://www.youtube.com/watch?v=10mmzRXbEPc
 tags: []
 transcript: false

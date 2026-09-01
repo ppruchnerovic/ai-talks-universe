@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-june-2025",
+  "name": "InfoQ Live - June 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:37:59+00:00",
+  "count": 1,
+  "talks": {
+    "zero-trust-principles": {
+      "slug": "zero-trust-principles",
+      "page_url": "https://www.infoq.com/presentations/zero-trust-principles/",
+      "has_transcript": true,
+      "title": "Designing for Defense: Architecting APIs with Zero Trust Principles",
+      "description": "Renato Losio and a panel of security experts discuss designing for defense and architecting APIs with Zero Trust principles. They explain Zero Trust concepts, address challenges developers face in applying these, and highlight common API vulnerabilities.\n\nNivedita Murthy - Sr. Staff Consultant at Black Duck Zsolt Németh - CEO & Founder at R6 Security Inc; Innovating Adaptive Cloud Defense Solutions Katie Paxton-Fear - Principal Security Reasearch Engineer @Harness Ben Bridts - Principal AWS Technologist @Cloudar Moderated by: Renato Losio, InfoQ Editor",
+      "speakers": [
+        "Nivedita Murthy",
+        "Zsolt Németh",
+        "Katie Paxton-Fear",
+        "Ben Bridts",
+        "Renato Losio"
+      ],
+      "duration_s": 3706,
+      "published_at": "2025-07-16T15:10:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jun-zerotrustprinciples.mp4",
+      "id": "iq-zero-trust-principles",
+      "matched_youtube": false,
+      "edition": "infoq-live-june-2025",
+      "edition_name": "InfoQ Live - June 2025",
+      "year": 2025,
+      "transcript_words": 8488,
+      "fetched_at": "2026-09-01T21:37:59+00:00"
+    }
+  }
+}

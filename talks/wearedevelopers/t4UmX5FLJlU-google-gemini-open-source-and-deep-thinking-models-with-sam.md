@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 50
 published_at: 2025-05-09T11:58:51Z
 video_id: t4UmX5FLJlU
+url: https://www.youtube.com/watch?v=t4UmX5FLJlU
 youtube_url: https://www.youtube.com/watch?v=t4UmX5FLJlU
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "Machine Learning", "Developers", "LLM", "Gemma", "Gemini", "Multimodal AI", "Code Assist", "AI Studio", "Generative AI"]
 transcript: false

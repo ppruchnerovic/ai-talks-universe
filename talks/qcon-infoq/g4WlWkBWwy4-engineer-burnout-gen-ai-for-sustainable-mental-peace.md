@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 28
 published_at: 2025-05-03T05:14:44Z
 video_id: g4WlWkBWwy4
+url: https://www.youtube.com/watch?v=g4WlWkBWwy4
 youtube_url: https://www.youtube.com/watch?v=g4WlWkBWwy4
 tags: ["Engineering Leadership", "Mental Health At Work", "Engineering Culture Podcast", "Generative AI", "Artificial Intelligence", "Software Engineering", "Cognitive Load", "Neurodiversity"]
 transcript: false

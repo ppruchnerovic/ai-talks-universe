@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 20
 published_at: 2024-11-20T14:06:34Z
 video_id: 2HT2LbRWHxQ
+url: https://www.youtube.com/watch?v=2HT2LbRWHxQ
 youtube_url: https://www.youtube.com/watch?v=2HT2LbRWHxQ
 tags: ["AI", "Automation", "Data Security", "Data governance", "David Hrncir", "English (US)", "Fivetran's Managed Data Lake Service | ODFP943", "Foundational (100)", "ODFP943", "Pre-recorded", "Responsible AI", "Technical", "Unlock generative AI excellence", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

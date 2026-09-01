@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T14:10:00+00:00
 video_id: hBdsdDGOk_U
+url: https://www.youtube.com/watch?v=hBdsdDGOk_U
 youtube_url: https://www.youtube.com/watch?v=hBdsdDGOk_U
 tags: ["Data & Databases", "Apache Kafka", "Kotlin", "Software Architecture", "Streaming"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 123
 published_at: null
 video_id: 9XB-LsfpvCU
+url: https://www.youtube.com/watch?v=9XB-LsfpvCU
 youtube_url: https://www.youtube.com/watch?v=9XB-LsfpvCU
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 82
 published_at: 2026-01-14T15:03:01Z
 video_id: VSdV-AdSlis
+url: https://www.youtube.com/watch?v=VSdV-AdSlis
 youtube_url: https://www.youtube.com/watch?v=VSdV-AdSlis
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 23
 published_at: 2025-11-19T14:35:38Z
 video_id: jprZ3TjqlyM
+url: https://www.youtube.com/watch?v=jprZ3TjqlyM
 youtube_url: https://www.youtube.com/watch?v=jprZ3TjqlyM
 tags: ["English (US)", "Migrate and modernize your estate", "ODSP1492", "ODSP1492_v1", "Randy Rouse", "Technical", "Telecommunications", "Think you know Quest? Think again. | ODSP1492", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 16
 published_at: 2026-08-12T06:38:25Z
 video_id: HUDIxO-F63E
+url: https://www.youtube.com/watch?v=HUDIxO-F63E
 youtube_url: https://www.youtube.com/watch?v=HUDIxO-F63E
 tags: ["AI", "Vibe Coding", "Stack Overflow", "Coding", "ChatGPT", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Theodor René Carlsen"]
 transcript: true

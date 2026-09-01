@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 16
 published_at: 2024-11-20T11:16:04Z
 video_id: AwsnuXyXf0Q
+url: https://www.youtube.com/watch?v=AwsnuXyXf0Q
 youtube_url: https://www.youtube.com/watch?v=AwsnuXyXf0Q
 tags: ["Intermediate (200)", "Multicloud security", "ODFP990", "Pre-recorded", "Secure your entire cloud application lifecycle | ODFP990", "Security", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-04T12:34:41Z
 video_id: Nt87zSqfk-o
+url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 youtube_url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 tags: ["C#", "C++"]
 transcript: true

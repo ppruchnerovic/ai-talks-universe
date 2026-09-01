@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T09:00:00+00:00
 video_id: 89BK7xYZHZM
+url: https://www.youtube.com/watch?v=89BK7xYZHZM
 youtube_url: https://www.youtube.com/watch?v=89BK7xYZHZM
 tags: ["Software Architecture", "Communication", "Project Management", "Software Architecture"]
 transcript: true

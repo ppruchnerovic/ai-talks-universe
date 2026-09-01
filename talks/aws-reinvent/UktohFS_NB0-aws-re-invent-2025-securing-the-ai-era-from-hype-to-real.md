@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 51
 published_at: null
 video_id: UktohFS_NB0
+url: https://www.youtube.com/watch?v=UktohFS_NB0
 youtube_url: https://www.youtube.com/watch?v=UktohFS_NB0
 tags: []
 transcript: false

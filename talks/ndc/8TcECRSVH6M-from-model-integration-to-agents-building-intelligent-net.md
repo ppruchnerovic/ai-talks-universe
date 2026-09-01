@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 68
 published_at: 2026-03-02T15:49:54Z
 video_id: 8TcECRSVH6M
+url: https://www.youtube.com/watch?v=8TcECRSVH6M
 youtube_url: https://www.youtube.com/watch?v=8TcECRSVH6M
 tags: ["AI", ".NET", "API", "Azure", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Great Britain", "Gill Cleeren"]
 transcript: true

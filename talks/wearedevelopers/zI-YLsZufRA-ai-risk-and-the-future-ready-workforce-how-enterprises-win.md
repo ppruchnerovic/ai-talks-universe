@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 38
 published_at: 2026-03-19T08:53:22Z
 video_id: zI-YLsZufRA
+url: https://www.youtube.com/watch?v=zI-YLsZufRA
 youtube_url: https://www.youtube.com/watch?v=zI-YLsZufRA
 tags: ["AI", "risk", "future ready workforce", "governance", "leadership", "future of work", "skills", "artificial intelligence", "work", "culture"]
 transcript: true

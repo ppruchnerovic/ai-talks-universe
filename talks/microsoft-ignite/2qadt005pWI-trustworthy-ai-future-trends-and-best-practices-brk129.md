@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:28:20Z
 video_id: 2qadt005pWI
+url: https://www.youtube.com/watch?v=2qadt005pWI
 youtube_url: https://www.youtube.com/watch?v=2qadt005pWI
 tags: ["AI", "AI Governance", "AI Security", "AI-Curated", "Anna Maria Brunnhofer-Pedemonte", "BRK129", "Breakout", "ContentFilters", "English (US)", "Evaluation", "Foundational (100)", "Responsible AI", "Sarah Bird", "Sumit Bhattacharyya", "Technical", "Trustworthy AI: Future trends and best practices | BRK129", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

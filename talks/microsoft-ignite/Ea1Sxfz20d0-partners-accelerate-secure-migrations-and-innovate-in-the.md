@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-25T15:58:47Z
 video_id: Ea1Sxfz20d0
+url: https://www.youtube.com/watch?v=Ea1Sxfz20d0
 youtube_url: https://www.youtube.com/watch?v=Ea1Sxfz20d0
 tags: ["English (US)", "Gabriela Perez Arredondo", "Jonathan Stock", "Microsoft AI Cloud Partner Program", "PBRK271", "Partner Business", "Partners: Accelerate Secure Migrations and Innovate in the Era of AI | PBRK271", "Protect cloud AI platform and apps", "Protect cloud AI platform and apps:MDC", "Protect cloud AI platform and apps:Purview", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

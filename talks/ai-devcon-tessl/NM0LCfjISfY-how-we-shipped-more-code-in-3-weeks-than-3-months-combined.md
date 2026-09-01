@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 34
 published_at: 2026-03-04T16:00:36Z
 video_id: NM0LCfjISfY
+url: https://www.youtube.com/watch?v=NM0LCfjISfY
 youtube_url: https://www.youtube.com/watch?v=NM0LCfjISfY
 tags: ["AI", "AI and software development", "AIAssistant", "Benefits of AI tools in coding", "Claude", "Claude AI assistant in coding", "Coding", "CodingAgents", "Conductor", "Cursor", "DeveloperWorkflow", "Productivity", "SoftwareDevelopment", "What is AI-native development?", "ainativedev"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-07-31T12:02:33Z
 video_id: SsTtp_Nrmn4
+url: https://www.youtube.com/watch?v=SsTtp_Nrmn4
 youtube_url: https://www.youtube.com/watch?v=SsTtp_Nrmn4
 tags: ["AI", "NDC", "Conferences", "Live", "Fun", "Toronto", "Canada", "Kasimir Schulz", "Kenneth Yeung"]
 transcript: true

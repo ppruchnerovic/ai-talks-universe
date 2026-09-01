@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 41
 published_at: 2026-03-24T20:18:57Z
 video_id: cxiOhp9BJTs
+url: https://www.youtube.com/watch?v=cxiOhp9BJTs
 youtube_url: https://www.youtube.com/watch?v=cxiOhp9BJTs
 tags: ["NVIDIA", "AI Grid", "Telecommunications"]
 transcript: true

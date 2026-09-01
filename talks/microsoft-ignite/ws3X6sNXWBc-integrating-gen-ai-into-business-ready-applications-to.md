@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T14:14:37Z
 video_id: ws3X6sNXWBc
+url: https://www.youtube.com/watch?v=ws3X6sNXWBc
 youtube_url: https://www.youtube.com/watch?v=ws3X6sNXWBc
 tags: ["AI", "Advanced (300)", "Andrew Grimes", "English (US)", "Integrating Gen AI into business-ready applications to accelerate ROI | ODFP971", "ODFP971", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

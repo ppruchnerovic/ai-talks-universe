@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T15:22:43Z
 video_id: EXzBRK6rAEs
+url: https://www.youtube.com/watch?v=EXzBRK6rAEs
 youtube_url: https://www.youtube.com/watch?v=EXzBRK6rAEs
 tags: ["90d33c3b-9c4e-496b-a255-e0334b8908e2_Segment", "BRK289", "Copilot and agents at work", "Customized AI that understands your business with Copilot Tuning ​ | BRK289", "English (US)", "Kalyan Ayloo", "Khushboo Aggarwal", "Ranveer Chandra", "Tanaya Yadav", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

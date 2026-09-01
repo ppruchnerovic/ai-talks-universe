@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 21
 published_at: 2026-07-09T08:50:00+00:00
 video_id: 2SmdInEAisM
+url: https://www.youtube.com/watch?v=2SmdInEAisM
 youtube_url: https://www.youtube.com/watch?v=2SmdInEAisM
 tags: ["Developer Experience", "Collaboration", "Communication", "Community", "Diversity & Inclusion", "Open Source", "People & Culture"]
 transcript: true

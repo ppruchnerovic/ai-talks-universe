@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T12:50:00+00:00
 video_id: z2hJm94z_84
+url: https://www.youtube.com/watch?v=z2hJm94z_84
 youtube_url: https://www.youtube.com/watch?v=z2hJm94z_84
 tags: ["Talent Strategy", "Employer Branding", "Future of Work", "HR", "Load Balancing", "Mental Health", "Motivation", "Performance", "Productivity"]
 transcript: true

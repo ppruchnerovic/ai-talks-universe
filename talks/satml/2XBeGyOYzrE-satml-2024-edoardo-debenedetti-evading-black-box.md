@@ -12,6 +12,7 @@ channel: "Nicolas Papernot"
 duration_min: 13
 published_at: null
 video_id: 2XBeGyOYzrE
+url: https://www.youtube.com/watch?v=2XBeGyOYzrE
 youtube_url: https://www.youtube.com/watch?v=2XBeGyOYzrE
 tags: []
 transcript: false

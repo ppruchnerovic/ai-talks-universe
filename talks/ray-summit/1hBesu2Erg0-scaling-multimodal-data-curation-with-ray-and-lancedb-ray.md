@@ -12,6 +12,7 @@ channel: null
 duration_min: 35
 published_at: null
 video_id: 1hBesu2Erg0
+url: https://www.youtube.com/watch?v=1hBesu2Erg0
 youtube_url: https://www.youtube.com/watch?v=1hBesu2Erg0
 tags: []
 transcript: false

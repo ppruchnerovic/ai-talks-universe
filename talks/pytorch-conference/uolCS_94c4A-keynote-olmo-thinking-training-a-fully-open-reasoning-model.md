@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 15
 published_at: null
 video_id: uolCS_94c4A
+url: https://www.youtube.com/watch?v=uolCS_94c4A
 youtube_url: https://www.youtube.com/watch?v=uolCS_94c4A
 tags: []
 transcript: false

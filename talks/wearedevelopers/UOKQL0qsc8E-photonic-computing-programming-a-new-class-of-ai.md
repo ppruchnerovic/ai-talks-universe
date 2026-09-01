@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T07:40:00+00:00
 video_id: UOKQL0qsc8E
+url: https://www.youtube.com/watch?v=UOKQL0qsc8E
 youtube_url: https://www.youtube.com/watch?v=UOKQL0qsc8E
 tags: ["Emerging Technologies", "AI Models", "Integration", "Python"]
 transcript: true

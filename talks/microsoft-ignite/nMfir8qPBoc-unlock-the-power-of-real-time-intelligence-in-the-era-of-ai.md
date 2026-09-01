@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-26T08:27:02Z
 video_id: nMfir8qPBoc
+url: https://www.youtube.com/watch?v=nMfir8qPBoc
 youtube_url: https://www.youtube.com/watch?v=nMfir8qPBoc
 tags: ["AI", "Azure", "BRK199", "Breakout", "Copilot", "Data", "Datainmotion", "English (US)", "Intermediate (200)", "Microsoft Fabric", "Real-timeIntelligence", "Real-timedata", "Streaming", "Technical", "Tessa Kloster", "Unlock the power of Real-Time Intelligence in the era of AI | BRK199", "Yitzhak Kesselman", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

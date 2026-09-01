@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 61
 published_at: 2025-06-13T08:56:07Z
 video_id: 1aJcrkB1iSY
+url: https://www.youtube.com/watch?v=1aJcrkB1iSY
 youtube_url: https://www.youtube.com/watch?v=1aJcrkB1iSY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "Google AI", "Logan Kilpatrick", "Gemini models", "DeepMind", "AI developers", "machine learning", "developer tools", "AI APIs", "multimodal AI", "AI in production"]
 transcript: false

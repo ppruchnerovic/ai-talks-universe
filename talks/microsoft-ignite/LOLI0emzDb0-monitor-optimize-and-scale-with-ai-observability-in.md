@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-20T16:18:44Z
 video_id: LOLI0emzDb0
+url: https://www.youtube.com/watch?v=LOLI0emzDb0
 youtube_url: https://www.youtube.com/watch?v=LOLI0emzDb0
 tags: ["804ef656-b16a-4483-b04f-b6760910d090_Segment", "Abhi Bhatt", "BRK190", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Monitor optimize and scale with AI Observability in Microsoft Foundry | BRK190", "Sam Naghshineh", "Sebastian Kohlmeier", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

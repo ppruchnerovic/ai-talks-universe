@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T12:07:51Z
 video_id: 8ye90oY60Fg
+url: https://www.youtube.com/watch?v=8ye90oY60Fg
 youtube_url: https://www.youtube.com/watch?v=8ye90oY60Fg
 tags: ["BRK432", "BRK432_v1", "English (US)", "Mark Russinovich", "Migrate and modernize your estate", "Scale with cloud and AI endpoints", "Scott & Mark learn to connect the dots | BRK432", "Scott Hanselman", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

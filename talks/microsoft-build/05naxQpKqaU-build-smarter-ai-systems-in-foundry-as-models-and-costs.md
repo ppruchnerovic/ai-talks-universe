@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-03T11:21:45Z
 video_id: 05naxQpKqaU
+url: https://www.youtube.com/watch?v=05naxQpKqaU
 youtube_url: https://www.youtube.com/watch?v=05naxQpKqaU
 tags: ["BRK230", "Build smarter AI systems in Foundry as models and costs evolve | BRK230", "Naomi Moneypenny", "Yina Arenas", "build", "build 2026", "fb5d9581-c0ac-4290-9a9b-1fdcb98d6443_M9Z7-BRK230-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

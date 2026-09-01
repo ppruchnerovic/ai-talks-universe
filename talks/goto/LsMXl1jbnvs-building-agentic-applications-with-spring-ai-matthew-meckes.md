@@ -12,6 +12,7 @@ channel: null
 duration_min: 24
 published_at: null
 video_id: LsMXl1jbnvs
+url: https://www.youtube.com/watch?v=LsMXl1jbnvs
 youtube_url: https://www.youtube.com/watch?v=LsMXl1jbnvs
 tags: []
 transcript: false

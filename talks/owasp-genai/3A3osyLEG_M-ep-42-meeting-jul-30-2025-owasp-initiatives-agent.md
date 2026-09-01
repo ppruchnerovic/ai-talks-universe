@@ -12,6 +12,7 @@ channel: null
 duration_min: 44
 published_at: null
 video_id: 3A3osyLEG_M
+url: https://www.youtube.com/watch?v=3A3osyLEG_M
 youtube_url: https://www.youtube.com/watch?v=3A3osyLEG_M
 tags: []
 transcript: false

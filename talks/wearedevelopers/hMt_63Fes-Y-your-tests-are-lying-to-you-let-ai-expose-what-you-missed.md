@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T08:10:00+00:00
 video_id: hMt_63Fes-Y
+url: https://www.youtube.com/watch?v=hMt_63Fes-Y
 youtube_url: https://www.youtube.com/watch?v=hMt_63Fes-Y
 tags: ["Quality & Reliability", "AI Coding Assistants", "Productivity", "Testing"]
 transcript: true

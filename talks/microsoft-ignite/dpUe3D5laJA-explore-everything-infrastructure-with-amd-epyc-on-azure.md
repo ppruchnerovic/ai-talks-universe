@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 26
 published_at: 2024-11-25T14:51:15Z
 video_id: dpUe3D5laJA
+url: https://www.youtube.com/watch?v=dpUe3D5laJA
 youtube_url: https://www.youtube.com/watch?v=dpUe3D5laJA
 tags: ["BRKFP366", "Breakout", "English (US)", "Explore everything infrastructure with AMD EPYC on Azure | BRKFP366", "Sean Kerr", "Stefanie Lemon", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

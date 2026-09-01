@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T10:25:11Z
 video_id: dXUy9evg1yo
+url: https://www.youtube.com/watch?v=dXUy9evg1yo
 youtube_url: https://www.youtube.com/watch?v=dXUy9evg1yo
 tags: ["AI fine-tuning in Microsoft Foundry to make your agents unstoppable | BRK188", "Alicia Frame", "BRK188", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Omkar More", "Ramachandra Kota", "Technical", "ddc42249-adc0-4966-ac20-b4fc58218a04_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

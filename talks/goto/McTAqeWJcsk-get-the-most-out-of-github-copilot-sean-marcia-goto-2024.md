@@ -12,6 +12,7 @@ channel: null
 duration_min: 37
 published_at: null
 video_id: McTAqeWJcsk
+url: https://www.youtube.com/watch?v=McTAqeWJcsk
 youtube_url: https://www.youtube.com/watch?v=McTAqeWJcsk
 tags: []
 transcript: false

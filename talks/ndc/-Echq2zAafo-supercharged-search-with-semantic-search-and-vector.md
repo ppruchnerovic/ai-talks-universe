@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2026-01-19T11:20:18Z
 video_id: -Echq2zAafo
+url: https://www.youtube.com/watch?v=-Echq2zAafo
 youtube_url: https://www.youtube.com/watch?v=-Echq2zAafo
 tags: [".NET", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Denmark", "Giorgi Dalakishvili"]
 transcript: true

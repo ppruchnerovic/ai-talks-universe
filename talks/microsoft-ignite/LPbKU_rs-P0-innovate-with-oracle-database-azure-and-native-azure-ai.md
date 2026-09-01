@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T11:21:00Z
 video_id: LPbKU_rs-P0
+url: https://www.youtube.com/watch?v=LPbKU_rs-P0
 youtube_url: https://www.youtube.com/watch?v=LPbKU_rs-P0
 tags: ["English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Innovate with Oracle Database@Azure and native Azure AI services | ODSP1416", "Muneer Mirza", "ODSP1416", "ODSP1416_v1", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

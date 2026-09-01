@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 18
 published_at: 2024-09-04T22:15:16Z
 video_id: K5hELUspWq8
+url: https://www.youtube.com/watch?v=K5hELUspWq8
 youtube_url: https://www.youtube.com/watch?v=K5hELUspWq8
 tags: ["ZSLBCG"]
 transcript: false

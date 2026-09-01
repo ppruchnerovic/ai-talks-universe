@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 59
 published_at: 2026-05-27T10:00:13Z
 video_id: QEUseCP6zPI
+url: https://www.youtube.com/watch?v=QEUseCP6zPI
 youtube_url: https://www.youtube.com/watch?v=QEUseCP6zPI
 tags: ["UX", "AI", "Embedded", "IoT", "UI", "3D Modeling", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Leanora Horne"]
 transcript: true

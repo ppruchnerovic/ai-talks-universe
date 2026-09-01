@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 37
 published_at: 2026-07-24T14:00:17Z
 video_id: xR-BiPz45-4
+url: https://www.youtube.com/watch?v=xR-BiPz45-4
 youtube_url: https://www.youtube.com/watch?v=xR-BiPz45-4
 tags: []
 transcript: true

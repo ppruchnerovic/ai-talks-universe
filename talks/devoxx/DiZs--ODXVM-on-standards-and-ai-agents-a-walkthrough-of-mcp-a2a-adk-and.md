@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 167
 published_at: 2025-10-08T05:30:33Z
 video_id: DiZs--ODXVM
+url: https://www.youtube.com/watch?v=DiZs--ODXVM
 youtube_url: https://www.youtube.com/watch?v=DiZs--ODXVM
 tags: []
 transcript: false

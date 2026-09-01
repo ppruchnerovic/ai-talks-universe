@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-05-26T10:00:37Z
 video_id: _vaIfRXXiIY
+url: https://www.youtube.com/watch?v=_vaIfRXXiIY
 youtube_url: https://www.youtube.com/watch?v=_vaIfRXXiIY
 tags: ["AI", "Cloud", "Machine Learning", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Robert Koch"]
 transcript: true

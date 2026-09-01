@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:13:23Z
 video_id: FCiEXvUCLXo
+url: https://www.youtube.com/watch?v=FCiEXvUCLXo
 youtube_url: https://www.youtube.com/watch?v=FCiEXvUCLXo
 tags: ["AI", "Accelerating real-world AI for today and tomorrow | BRKFP377", "BRKFP377", "Breakout", "Brian Rogers", "Copilot + PC", "English (US)", "Foundational (100)", "Jeff Woolsey", "Joe Sack", "NPU", "Nuri Cankaya", "Saurabh Tangri", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

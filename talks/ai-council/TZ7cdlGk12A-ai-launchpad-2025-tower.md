@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 11
 published_at: 2025-05-29T13:41:14Z
 video_id: TZ7cdlGk12A
+url: https://www.youtube.com/watch?v=TZ7cdlGk12A
 youtube_url: https://www.youtube.com/watch?v=TZ7cdlGk12A
 tags: ["startup", "Python frameworks", "ChatGPT", "artificial intelligence", "machine learning", "data platform", "cloud computing", "Apache Iceberg", "data infrastructure", "Python", "entrepreneurship", "startup strategy", "technology stack", "product development", "venture capital", "funding", "market analysis", "competitive analysis", "go to market", "customer acquisition", "growth strategy", "scalability", "business model", "team building"]
 transcript: false

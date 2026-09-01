@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 52
 published_at: 2024-11-22T09:05:30Z
 video_id: ChASrG_zuvM
+url: https://www.youtube.com/watch?v=ChASrG_zuvM
 youtube_url: https://www.youtube.com/watch?v=ChASrG_zuvM
 tags: ["Adam Binnie", "Amanda Whaley", "BRK339", "Breakout", "English (US)", "How Microsoft can help you build and sell differentiated AI apps | BRK339", "Intermediate (200)", "Jason Graefe", "Jeff Zobrist", "Mike Hulme", "Partner Business", "Partner Program", "Software Company", "Version v0", "Yina Arenas", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

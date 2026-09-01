@@ -12,6 +12,7 @@ channel: "RSAC Cybersecurity"
 duration_min: 86
 published_at: 2024-12-20T17:15:34Z
 video_id: LwRJr5WQ1Ek
+url: https://www.youtube.com/watch?v=LwRJr5WQ1Ek
 youtube_url: https://www.youtube.com/watch?v=LwRJr5WQ1Ek
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false

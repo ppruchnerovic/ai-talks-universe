@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T10:21:47Z
 video_id: RbVZNijijpo
+url: https://www.youtube.com/watch?v=RbVZNijijpo
 youtube_url: https://www.youtube.com/watch?v=RbVZNijijpo
 tags: ["59207c4f-8ed1-4aec-829f-fc4740f1d651_Segment", "Accelerate and scale physical AI development with simulation | BRKSP489", "BRKSP489", "English (US)", "Ganesh Sivaraman", "Manufacturing and Mobility", "Microsoft AI Cloud Partner Program", "Technical", "Teresa Conceicao", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

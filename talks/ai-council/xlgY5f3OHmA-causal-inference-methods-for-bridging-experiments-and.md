@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:44:36Z
 video_id: xlgY5f3OHmA
+url: https://www.youtube.com/watch?v=xlgY5f3OHmA
 youtube_url: https://www.youtube.com/watch?v=xlgY5f3OHmA
 tags: ["Roblox", "causal inference", "data science tutorial", "ChatGPT", "artificial intelligence", "machine learning", "statistics", "A B testing tutorial", "analytics", "statistical methods", "business impact", "product analytics", "experimentation", "Python tutorial", "gaming analytics", "user behavior analysis", "engagement metrics", "monetization analytics", "virtual economy", "player segmentation", "retention analysis", "social network analysis", "content recommendation"]
 transcript: false

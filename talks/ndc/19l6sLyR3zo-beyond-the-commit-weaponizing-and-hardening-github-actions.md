@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2026-03-26T12:38:58Z
 video_id: 19l6sLyR3zo
+url: https://www.youtube.com/watch?v=19l6sLyR3zo
 youtube_url: https://www.youtube.com/watch?v=19l6sLyR3zo
 tags: ["DevOps", "SDLC", "Security Tooling", "AI", "CI/CD", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Niek Palm"]
 transcript: true

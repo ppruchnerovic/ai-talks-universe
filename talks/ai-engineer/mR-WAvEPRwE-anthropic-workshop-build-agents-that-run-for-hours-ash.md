@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 76
 published_at: 2026-05-18T00:00:00Z
 video_id: mR-WAvEPRwE
+url: https://www.youtube.com/watch?v=mR-WAvEPRwE
 youtube_url: https://www.youtube.com/watch?v=mR-WAvEPRwE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

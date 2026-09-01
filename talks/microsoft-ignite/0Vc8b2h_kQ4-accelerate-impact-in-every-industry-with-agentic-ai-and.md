@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T11:32:56Z
 video_id: 0Vc8b2h_kQ4
+url: https://www.youtube.com/watch?v=0Vc8b2h_kQ4
 youtube_url: https://www.youtube.com/watch?v=0Vc8b2h_kQ4
 tags: ["Accelerate Impact in Every Industry with Agentic AI and Shared Learnings | BRK386", "BRK386", "BRK386_v1", "English (US)", "Innovate with Azure AI apps and agents", "Jason Gowans", "Kathleen Mitford", "Mark Austin", "Nallan Sriraman", "Oliver Ganschar", "RAJESH RAMACHANDRAN", "Signature pass", "Technical", "X-Industry", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

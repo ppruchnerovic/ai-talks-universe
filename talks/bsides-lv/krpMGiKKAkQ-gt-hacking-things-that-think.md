@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 37
 published_at: 2024-09-04T22:15:19Z
 video_id: krpMGiKKAkQ
+url: https://www.youtube.com/watch?v=krpMGiKKAkQ
 youtube_url: https://www.youtube.com/watch?v=krpMGiKKAkQ
 tags: ["WRFBJB"]
 transcript: false

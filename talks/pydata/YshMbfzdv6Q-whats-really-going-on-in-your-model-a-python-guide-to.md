@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:53Z
 video_id: YshMbfzdv6Q
+url: https://www.youtube.com/watch?v=YshMbfzdv6Q
 youtube_url: https://www.youtube.com/watch?v=YshMbfzdv6Q
 tags: ["AI compliance", "CNN", "Captum", "Conference", "GDPR", "LIME", "PyConDE", "PyData", "PyData Berlin", "PyTorch", "Python", "SHAP", "Tech Talk", "XAI", "deep learning", "explainable AI", "machine learning", "model interpretability", "responsible AI"]
 transcript: false

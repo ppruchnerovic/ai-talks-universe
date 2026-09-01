@@ -12,6 +12,7 @@ channel: null
 duration_min: 61
 published_at: null
 video_id: RLOaFg7XAzM
+url: https://www.youtube.com/watch?v=RLOaFg7XAzM
 youtube_url: https://www.youtube.com/watch?v=RLOaFg7XAzM
 tags: []
 transcript: false

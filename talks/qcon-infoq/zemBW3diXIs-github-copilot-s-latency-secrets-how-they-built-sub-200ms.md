@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2025-04-09T10:51:31Z
 video_id: zemBW3diXIs
+url: https://www.youtube.com/watch?v=zemBW3diXIs
 youtube_url: https://www.youtube.com/watch?v=zemBW3diXIs
 tags: ["GitHub", "GitHub Copilot", "Low Latency", "Software Architecture", "HTTP2", "Large Language Models", "LLMs", "Scalability", "AI", "Artificial Intelligence", "Performance", "InfoQ", "QCon San Francisco", "Transcript", "Availability"]
 transcript: false

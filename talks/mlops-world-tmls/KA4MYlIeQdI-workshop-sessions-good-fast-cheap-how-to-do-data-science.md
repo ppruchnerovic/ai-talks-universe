@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 101
 published_at: 2023-08-18T01:38:26Z
 video_id: KA4MYlIeQdI
+url: https://www.youtube.com/watch?v=KA4MYlIeQdI
 youtube_url: https://www.youtube.com/watch?v=KA4MYlIeQdI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Good", "Fast", "Cheap - How to Do Data Science with Missing Data"]
 transcript: false

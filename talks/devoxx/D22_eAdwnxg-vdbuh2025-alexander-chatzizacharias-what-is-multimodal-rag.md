@@ -12,6 +12,7 @@ channel: null
 duration_min: 40
 published_at: null
 video_id: D22_eAdwnxg
+url: https://www.youtube.com/watch?v=D22_eAdwnxg
 youtube_url: https://www.youtube.com/watch?v=D22_eAdwnxg
 tags: []
 transcript: false

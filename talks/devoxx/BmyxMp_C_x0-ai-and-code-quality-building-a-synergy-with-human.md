@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 34
 published_at: 2024-10-11T10:12:27Z
 video_id: BmyxMp_C_x0
+url: https://www.youtube.com/watch?v=BmyxMp_C_x0
 youtube_url: https://www.youtube.com/watch?v=BmyxMp_C_x0
 tags: []
 transcript: false

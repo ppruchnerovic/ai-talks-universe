@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T07:40:00+00:00
 video_id: 4MGmd8YQR9A
+url: https://www.youtube.com/watch?v=4MGmd8YQR9A
 youtube_url: https://www.youtube.com/watch?v=4MGmd8YQR9A
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "Code Generation", "Generative AI (GenAI)", "iOS", "Objective-C", "Productivity", "Swift", "XCode"]
 transcript: true

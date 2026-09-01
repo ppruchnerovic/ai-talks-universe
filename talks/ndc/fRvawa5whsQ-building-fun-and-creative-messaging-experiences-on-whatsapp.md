@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-06-23T14:01:14Z
 video_id: fRvawa5whsQ
+url: https://www.youtube.com/watch?v=fRvawa5whsQ
 youtube_url: https://www.youtube.com/watch?v=fRvawa5whsQ
 tags: ["AI", "Cloud", "Fun", "API", "OpenAI", "WhatsApp", "NDC", "Conferences", "2026", "Live", "Copenhagen", "Denmark"]
 transcript: true

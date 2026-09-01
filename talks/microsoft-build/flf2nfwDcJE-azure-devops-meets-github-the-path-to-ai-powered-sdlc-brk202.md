@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-04T12:42:12Z
 video_id: flf2nfwDcJE
+url: https://www.youtube.com/watch?v=flf2nfwDcJE
 youtube_url: https://www.youtube.com/watch?v=flf2nfwDcJE
 tags: ["Agentic SDLC", "Azure DevOps", "Azure DevOps meets GitHub the path to AI powered SDLC | BRK202", "BRK202", "Dan Hellem", "Dave Burnison", "Deployment Pipelines", "DevTools", "Developer", "GitHub", "GitHub Actions", "GitHub Advanced Security", "GitHub Copilot", "GitHub Copilot CLI", "GitHub Enterprise", "build", "build 2026", "ce405956-4847-4b45-a5e6-e2fa334f2cfe_M9Z7-BRK202-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

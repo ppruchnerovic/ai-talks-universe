@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 10
 published_at: 2026-07-09T10:25:00+00:00
 video_id: tpzodlvfVGA
+url: https://www.youtube.com/watch?v=tpzodlvfVGA
 youtube_url: https://www.youtube.com/watch?v=tpzodlvfVGA
 tags: ["People & Culture", "Communication", "Soft Skills"]
 transcript: true

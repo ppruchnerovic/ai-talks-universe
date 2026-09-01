@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 20
 published_at: 2025-01-20T19:58:31Z
 video_id: wJHp_MoFumg
+url: https://www.youtube.com/watch?v=wJHp_MoFumg
 youtube_url: https://www.youtube.com/watch?v=wJHp_MoFumg
 tags: []
 transcript: false

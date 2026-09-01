@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T11:00:00+00:00
 video_id: ADcdC7L8VkM
+url: https://www.youtube.com/watch?v=ADcdC7L8VkM
 youtube_url: https://www.youtube.com/watch?v=ADcdC7L8VkM
 tags: ["AI Engineering", "AI Coding Assistants", "AI Standards", "Anthropic", "Agents", "Case Study", "Claude", "Copilot", "DeepSeek", "Developer Experience (DevEx)", "GitHub", "GitLab", "Heroku", "Jira", "OpenAI", "Product Management", "Project Management", "Startups", "VS Code"]
 transcript: true

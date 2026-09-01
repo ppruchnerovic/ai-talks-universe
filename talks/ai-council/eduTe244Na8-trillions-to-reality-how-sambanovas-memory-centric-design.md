@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 36
 published_at: 2025-05-29T15:54:18Z
 video_id: eduTe244Na8
+url: https://www.youtube.com/watch?v=eduTe244Na8
 youtube_url: https://www.youtube.com/watch?v=eduTe244Na8
 tags: ["AI hardware", "GPU", "ChatGPT", "artificial intelligence", "machine learning", "enterprise AI", "AI infrastructure", "high performance computing", "AI acceleration", "neural networks", "deep learning", "memory architecture", "trillion parameter models", "agentic AI", "NVIDIA", "Python", "data science", "CUDA", "TPU", "GPU computing", "parallel computing", "distributed training", "model training", "AI chips", "hardware acceleration", "computing architecture", "system optimization", "performance tuning", "scalable computing"]
 transcript: false

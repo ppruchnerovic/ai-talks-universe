@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-21T10:09:45Z
 video_id: 0Huwi3wQKyA
+url: https://www.youtube.com/watch?v=0Huwi3wQKyA
 youtube_url: https://www.youtube.com/watch?v=0Huwi3wQKyA
 tags: ["Accelerating industry partner growth in the age of AI | BRK266", "BRK266", "Breakout", "English (US)", "Industry", "Industry for Partner", "Industry-Curated", "Intermediate (200)", "Kathie Johnson", "Kathleen Mitford", "Partner Business", "Sandra Notardonato", "Software Company", "Solution Area", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

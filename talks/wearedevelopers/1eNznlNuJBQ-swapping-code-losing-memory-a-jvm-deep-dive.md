@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T13:00:00+00:00
 video_id: 1eNznlNuJBQ
+url: https://www.youtube.com/watch?v=1eNznlNuJBQ
 youtube_url: https://www.youtube.com/watch?v=1eNznlNuJBQ
 tags: ["Languages & Runtimes", "C++", "Java", "JVM"]
 transcript: true

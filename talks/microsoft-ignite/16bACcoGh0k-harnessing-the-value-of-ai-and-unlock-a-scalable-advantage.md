@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:30:40Z
 video_id: 16bACcoGh0k
+url: https://www.youtube.com/watch?v=16bACcoGh0k
 youtube_url: https://www.youtube.com/watch?v=16bACcoGh0k
 tags: ["Antoine Imbert", "English (US)", "Harnessing the value of AI and unlock a scalable advantage | STUDIOSP79", "STUDIOSP79", "STUDIOSP79_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

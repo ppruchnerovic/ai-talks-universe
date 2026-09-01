@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 28
 published_at: null
 video_id: 5MC-P33ng1k
+url: https://www.youtube.com/watch?v=5MC-P33ng1k
 youtube_url: https://www.youtube.com/watch?v=5MC-P33ng1k
 tags: []
 transcript: false

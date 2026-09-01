@@ -12,6 +12,7 @@ channel: null
 duration_min: 32
 published_at: null
 video_id: 5ZLGPRmlekg
+url: https://www.youtube.com/watch?v=5ZLGPRmlekg
 youtube_url: https://www.youtube.com/watch?v=5ZLGPRmlekg
 tags: []
 transcript: false

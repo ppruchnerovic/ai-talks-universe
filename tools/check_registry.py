@@ -77,10 +77,12 @@ def main() -> None:
     in_reg: dict[str, list[str]] = {}
     for c in reg["conferences"]:
         for s in c["sources"]:
-            # A "videos" source is a file in data/seeds/, not a YouTube listing,
-            # so there is no channel or playlist for the markdown to link to.
-            # The prose in the conference's block is where it is documented.
-            if s.get("type") == "videos":
+            # A "videos" source is a file in data/seeds/ and an "infoq" one is
+            # infoq.com's own presentation pages — neither is a YouTube
+            # listing, so there is no channel or playlist for the markdown to
+            # link to. The prose in the conference's block is where they are
+            # documented.
+            if s.get("type") in ("videos", "infoq"):
                 continue
             in_reg.setdefault(key(s["url"]), []).append(c["slug"])
 

@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 32
 published_at: 2026-05-22T19:00:42Z
 video_id: boy-UjB8hpA
+url: https://www.youtube.com/watch?v=boy-UjB8hpA
 youtube_url: https://www.youtube.com/watch?v=boy-UjB8hpA
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Stack - AI;", "ct:Event - Technical Session;"]
 transcript: true

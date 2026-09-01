@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 36
 published_at: 2024-12-09T22:41:51Z
 video_id: KyrRycDZ4A0
+url: https://www.youtube.com/watch?v=KyrRycDZ4A0
 youtube_url: https://www.youtube.com/watch?v=KyrRycDZ4A0
 tags: ["Aaron Hamilton", "Advanced (300)", "Amit Ghodke", "Archana Devi Sunder Rajan", "BRK320", "Breakout", "Carlos Brito", "Copilot", "Data", "English (US)", "Enhance IT expertise and efficiency with Copilot in Microsoft Intune | BRK320", "GenerativeAI", "Microsoft Intune", "Security", "Security-Curated", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

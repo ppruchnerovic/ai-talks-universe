@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 22
 published_at: 2024-07-02T10:00:28Z
 video_id: X1-46O03ltI
+url: https://www.youtube.com/watch?v=X1-46O03ltI
 youtube_url: https://www.youtube.com/watch?v=X1-46O03ltI
 tags: []
 transcript: false

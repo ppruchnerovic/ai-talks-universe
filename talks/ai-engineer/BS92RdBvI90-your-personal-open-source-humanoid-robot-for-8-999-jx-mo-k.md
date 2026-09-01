@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-07-02T23:40:32Z
 video_id: BS92RdBvI90
+url: https://www.youtube.com/watch?v=BS92RdBvI90
 youtube_url: https://www.youtube.com/watch?v=BS92RdBvI90
 tags: []
 transcript: false

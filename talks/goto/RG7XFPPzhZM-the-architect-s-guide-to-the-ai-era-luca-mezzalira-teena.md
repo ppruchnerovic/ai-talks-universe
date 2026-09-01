@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 34
 published_at: 2026-06-08T12:00:05Z
 video_id: RG7XFPPzhZM
+url: https://www.youtube.com/watch?v=RG7XFPPzhZM
 youtube_url: https://www.youtube.com/watch?v=RG7XFPPzhZM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Luca Mezzalira", "Teena Idnani", "Software Architecture", "AI", "AI Skills", "Solutions Architect"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 9
 published_at: 2026-05-21T22:02:10Z
 video_id: 8F8RRNYNWe4
+url: https://www.youtube.com/watch?v=8F8RRNYNWe4
 youtube_url: https://www.youtube.com/watch?v=8F8RRNYNWe4
 tags: ["pr_pr: Google I/O;", "ct:Event - Workshop;", "ct:Stack - Cloud;", "Vibe Coding with Google AI Studio", "No-code full stack app development", "Cloud SQL for AI Applications", "database management for no-code apps"]
 transcript: true

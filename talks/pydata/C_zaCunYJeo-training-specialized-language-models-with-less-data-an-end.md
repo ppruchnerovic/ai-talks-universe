@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:49Z
 video_id: C_zaCunYJeo
+url: https://www.youtube.com/watch?v=C_zaCunYJeo
 youtube_url: https://www.youtube.com/watch?v=C_zaCunYJeo
 tags: ["AI deployment", "Conference", "LLM fine-tuning", "Llama models", "NLP", "PII redaction", "PyConDE", "PyData", "Python", "Tech Talk", "conference talk", "data efficiency", "expert agents", "local AI", "machine learning", "model distillation", "privacy-preserving AI", "production ML", "small language models", "synthetic data"]
 transcript: false

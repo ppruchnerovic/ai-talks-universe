@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 24
 published_at: 2026-05-20T14:00:32Z
 video_id: VueeyKcquoA
+url: https://www.youtube.com/watch?v=VueeyKcquoA
 youtube_url: https://www.youtube.com/watch?v=VueeyKcquoA
 tags: []
 transcript: true

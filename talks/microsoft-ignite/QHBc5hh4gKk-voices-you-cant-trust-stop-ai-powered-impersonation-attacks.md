@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T10:53:42Z
 video_id: QHBc5hh4gKk
+url: https://www.youtube.com/watch?v=QHBc5hh4gKk
 youtube_url: https://www.youtube.com/watch?v=QHBc5hh4gKk
 tags: ["BRKSP487", "English (US)", "Financial Services", "Jeremy Nelson", "Protect cloud AI platform and apps", "Technical", "Voices you can’t trust: Stop AI-powered impersonation attacks | BRKSP487", "c3367214-ae5b-410e-bf9b-fd61c2a494f6_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

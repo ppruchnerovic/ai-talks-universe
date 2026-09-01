@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-27T12:32:20Z
 video_id: qDwWoMEJY_E
+url: https://www.youtube.com/watch?v=qDwWoMEJY_E
 youtube_url: https://www.youtube.com/watch?v=qDwWoMEJY_E
 tags: ["AI", "BRK294", "Breakout", "Chauncey Larsen", "Copilot", "Copilot + PC", "Copilot for M365", "Devices", "English (US)", "Intermediate (200)", "Jack Cowett", "Microsoft Copilot", "Modern Work", "Modern Work-Curated", "NPU", "Surface", "Technical", "Unleashing AI productivity with Surface | BRK294", "Version v4", "Windows 11", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

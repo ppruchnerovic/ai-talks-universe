@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 17
 published_at: 2025-11-24T14:27:24Z
 video_id: rjBdWnz0Kdg
+url: https://www.youtube.com/watch?v=rjBdWnz0Kdg
 youtube_url: https://www.youtube.com/watch?v=rjBdWnz0Kdg
 tags: ["Anna Hoffman", "Build secure agentic AI apps with SQL Server 2025 | STUDIO33", "English (US)", "Other", "STUDIO33", "STUDIO33_v1", "Sirjad Parakkat", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

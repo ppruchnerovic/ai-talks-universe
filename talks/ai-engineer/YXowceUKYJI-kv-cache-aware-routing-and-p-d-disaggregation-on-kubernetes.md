@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-08-27T14:00:06Z
 video_id: YXowceUKYJI
+url: https://www.youtube.com/watch?v=YXowceUKYJI
 youtube_url: https://www.youtube.com/watch?v=YXowceUKYJI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

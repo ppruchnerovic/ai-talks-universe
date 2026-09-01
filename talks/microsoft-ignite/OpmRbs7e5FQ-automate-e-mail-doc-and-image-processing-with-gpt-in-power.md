@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T12:44:17Z
 video_id: OpmRbs7e5FQ
+url: https://www.youtube.com/watch?v=OpmRbs7e5FQ
 youtube_url: https://www.youtube.com/watch?v=OpmRbs7e5FQ
 tags: ["Advanced (300)", "Automate e-mail doc and image processing with GPT in Power Automate | BRK176", "BRK176", "Breakout", "Business Applications", "English (US)", "Gwenael Bego", "Maria Remolina Gutierrez", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

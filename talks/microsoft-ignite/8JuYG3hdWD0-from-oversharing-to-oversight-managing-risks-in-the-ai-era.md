@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T12:00:23Z
 video_id: 8JuYG3hdWD0
+url: https://www.youtube.com/watch?v=8JuYG3hdWD0
 youtube_url: https://www.youtube.com/watch?v=8JuYG3hdWD0
 tags: ["BRK293", "BRK293_v2", "Copilot and agents at work", "David Minasyan", "English (US)", "Erica Toelle", "From oversharing to oversight: Managing risks in the AI era ​ | BRK293", "Sophie Ke", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

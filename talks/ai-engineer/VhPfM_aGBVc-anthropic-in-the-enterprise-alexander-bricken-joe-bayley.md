@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2025-04-13T00:00:00Z
 video_id: VhPfM_aGBVc
+url: https://www.youtube.com/watch?v=VhPfM_aGBVc
 youtube_url: https://www.youtube.com/watch?v=VhPfM_aGBVc
 tags: []
 transcript: false

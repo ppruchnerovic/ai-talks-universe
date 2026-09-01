@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 60
 published_at: null
 video_id: Fer2DKJ2jNA
+url: https://www.youtube.com/watch?v=Fer2DKJ2jNA
 youtube_url: https://www.youtube.com/watch?v=Fer2DKJ2jNA
 tags: []
 transcript: false

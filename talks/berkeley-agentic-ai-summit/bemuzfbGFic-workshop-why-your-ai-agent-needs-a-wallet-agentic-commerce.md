@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 50
 published_at: 2026-08-11T05:10:26Z
 video_id: bemuzfbGFic
+url: https://www.youtube.com/watch?v=bemuzfbGFic
 youtube_url: https://www.youtube.com/watch?v=bemuzfbGFic
 tags: []
 transcript: true

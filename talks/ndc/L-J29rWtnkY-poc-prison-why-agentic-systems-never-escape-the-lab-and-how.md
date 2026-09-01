@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-07-07T11:38:02Z
 video_id: L-J29rWtnkY
+url: https://www.youtube.com/watch?v=L-J29rWtnkY
 youtube_url: https://www.youtube.com/watch?v=L-J29rWtnkY
 tags: ["AI", "Architecture", "Cloud", "Continuous Delivery", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Luise Freese"]
 transcript: true

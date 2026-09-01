@@ -12,6 +12,7 @@ channel: "Meta Developers"
 duration_min: 10
 published_at: null
 video_id: kgUc3WJvOM4
+url: https://www.youtube.com/watch?v=kgUc3WJvOM4
 youtube_url: https://www.youtube.com/watch?v=kgUc3WJvOM4
 tags: []
 transcript: false

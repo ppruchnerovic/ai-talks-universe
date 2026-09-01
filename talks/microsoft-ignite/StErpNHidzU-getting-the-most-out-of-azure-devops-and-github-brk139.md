@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:33:14Z
 video_id: StErpNHidzU
+url: https://www.youtube.com/watch?v=StErpNHidzU
 youtube_url: https://www.youtube.com/watch?v=StErpNHidzU
 tags: ["Aaron Hallberg", "Apps", "Apps-Curated", "BRK139", "Breakout", "Dave Burnison", "English (US)", "Getting the most out of Azure DevOps and GitHub | BRK139", "GitHub", "Intermediate (200)", "Software Company", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

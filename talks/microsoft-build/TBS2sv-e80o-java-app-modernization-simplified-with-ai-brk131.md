@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 63
 published_at: null
 video_id: TBS2sv-e80o
+url: https://www.youtube.com/watch?v=TBS2sv-e80o
 youtube_url: https://www.youtube.com/watch?v=TBS2sv-e80o
 tags: []
 transcript: false

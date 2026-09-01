@@ -12,6 +12,7 @@ channel: null
 duration_min: 45
 published_at: null
 video_id: tRL2sRDg_DA
+url: https://www.youtube.com/watch?v=tRL2sRDg_DA
 youtube_url: https://www.youtube.com/watch?v=tRL2sRDg_DA
 tags: []
 transcript: false

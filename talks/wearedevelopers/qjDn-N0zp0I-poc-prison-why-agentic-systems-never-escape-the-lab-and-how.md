@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T11:40:00+00:00
 video_id: qjDn-N0zp0I
+url: https://www.youtube.com/watch?v=qjDn-N0zp0I
 youtube_url: https://www.youtube.com/watch?v=qjDn-N0zp0I
 tags: ["AI Agents", "AI Standards", "Agents", "Agentic AI", "CI/CD", "Generative AI (GenAI)"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Android Developers"
 duration_min: 19
 published_at: 2026-05-21T16:30:14Z
 video_id: prVc7FamKsU
+url: https://www.youtube.com/watch?v=prVc7FamKsU
 youtube_url: https://www.youtube.com/watch?v=prVc7FamKsU
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "Google Pay", "Google Wallet"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 25
 published_at: 2023-05-11T19:00:46Z
 video_id: lotzOJuwxYs
+url: https://www.youtube.com/watch?v=lotzOJuwxYs
 youtube_url: https://www.youtube.com/watch?v=lotzOJuwxYs
 tags: ["Python", "data science", "open source", "algorithms", "datasets", "forecasting"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 17
 published_at: 2025-11-19T08:27:24Z
 video_id: J8esrUr6iDQ
+url: https://www.youtube.com/watch?v=J8esrUr6iDQ
 youtube_url: https://www.youtube.com/watch?v=J8esrUr6iDQ
 tags: ["Ashley Battle", "Cloud desktop and endpoint management modernization | ODSP1488", "English (US)", "Migrate and modernize your estate", "ODSP1488", "ODSP1488_v1", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

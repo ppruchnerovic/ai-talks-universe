@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 47
 published_at: 2025-11-23T14:33:52Z
 video_id: LDP50108ByU
+url: https://www.youtube.com/watch?v=LDP50108ByU
 youtube_url: https://www.youtube.com/watch?v=LDP50108ByU
 tags: ["Conference", "DuckDB", "ETL", "Parquet", "PyCon", "PyConDE", "PyData", "Pydantic", "Python", "TCP streams", "Tech Talk", "async Python", "batch processing", "data architecture", "data engineering", "data pipelines", "data validation", "industrial data", "on-premise"]
 transcript: false

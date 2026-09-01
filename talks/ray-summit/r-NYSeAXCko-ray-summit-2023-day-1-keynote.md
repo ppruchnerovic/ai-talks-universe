@@ -12,6 +12,7 @@ channel: null
 duration_min: 125
 published_at: null
 video_id: r-NYSeAXCko
+url: https://www.youtube.com/watch?v=r-NYSeAXCko
 youtube_url: https://www.youtube.com/watch?v=r-NYSeAXCko
 tags: []
 transcript: false

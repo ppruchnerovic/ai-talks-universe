@@ -12,6 +12,7 @@ channel: "aivillage"
 duration_min: 49
 published_at: 2020-08-09T21:07:19Z
 video_id: g3Gv0mjlQEU
+url: https://www.youtube.com/watch?v=g3Gv0mjlQEU
 youtube_url: https://www.youtube.com/watch?v=g3Gv0mjlQEU
 tags: []
 transcript: false

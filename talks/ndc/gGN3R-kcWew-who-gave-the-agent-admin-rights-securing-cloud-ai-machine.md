@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-05-06T11:34:14Z
 video_id: gGN3R-kcWew
+url: https://www.youtube.com/watch?v=gGN3R-kcWew
 youtube_url: https://www.youtube.com/watch?v=gGN3R-kcWew
 tags: ["ML", "Application Security", "Cloud Security", "DevOps", "Kubernetes", "Platforms", "Programming", "Security Tooling", "SDLC", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Bodhisattva Das"]
 transcript: true

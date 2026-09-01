@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 16
 published_at: 2025-05-29T00:39:22Z
 video_id: hYpl0mVPkbc
+url: https://www.youtube.com/watch?v=hYpl0mVPkbc
 youtube_url: https://www.youtube.com/watch?v=hYpl0mVPkbc
 tags: ["data visualization", "creative coding", "design", "ChatGPT", "artificial intelligence", "machine learning", "data storytelling", "data art", "data culture", "creative processes", "artistic creativity", "data literacy", "collaboration", "Python tutorial", "information design", "visual analytics", "interactive visualization", "dashboard design", "chart design", "color theory", "typography", "user experience design", "accessibility", "responsive design"]
 transcript: false

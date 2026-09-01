@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 13
 published_at: 2023-12-18T18:34:11Z
 video_id: MTonKJaDM48
+url: https://www.youtube.com/watch?v=MTonKJaDM48
 youtube_url: https://www.youtube.com/watch?v=MTonKJaDM48
 tags: []
 transcript: false

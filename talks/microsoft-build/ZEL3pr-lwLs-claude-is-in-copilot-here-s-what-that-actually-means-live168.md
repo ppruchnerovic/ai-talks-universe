@@ -12,6 +12,7 @@ channel: "Visual Studio Code"
 duration_min: 12
 published_at: 2026-06-05T13:43:25Z
 video_id: ZEL3pr-lwLs
+url: https://www.youtube.com/watch?v=ZEL3pr-lwLs
 youtube_url: https://www.youtube.com/watch?v=ZEL3pr-lwLs
 tags: ["Burke Holland", "Claude Is in Copilot. Here's What That Actually Means | LIVE168", "LIVE168", "LIVE168_v1", "Tyler Leonhardt", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

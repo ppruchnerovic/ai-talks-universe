@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2025-10-13T06:18:58Z
 video_id: NRHyMDSTU5A
+url: https://www.youtube.com/watch?v=NRHyMDSTU5A
 youtube_url: https://www.youtube.com/watch?v=NRHyMDSTU5A
 tags: ["LLM Inference", "GenAI", "Model Optimization", "AI", "InfoQ Dev Summit", "LLMs", "Software Architecture", "Generative AI", "Performance", "Scalability", "InfoQ", "Transcript"]
 transcript: false

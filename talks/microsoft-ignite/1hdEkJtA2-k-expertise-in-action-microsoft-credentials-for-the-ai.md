@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-24T14:17:27Z
 video_id: 1hdEkJtA2-k
+url: https://www.youtube.com/watch?v=1hdEkJtA2-k
 youtube_url: https://www.youtube.com/watch?v=1hdEkJtA2-k
 tags: ["Elisa Graceffo", "English (US)", "Expertise in action: Microsoft Credentials for the AI frontier | STUDIO51", "Other", "STUDIO51", "STUDIO51_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

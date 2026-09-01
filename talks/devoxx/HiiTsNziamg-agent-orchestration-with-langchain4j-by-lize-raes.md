@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 15
 published_at: 2025-10-09T05:36:06Z
 video_id: HiiTsNziamg
+url: https://www.youtube.com/watch?v=HiiTsNziamg
 youtube_url: https://www.youtube.com/watch?v=HiiTsNziamg
 tags: []
 transcript: false

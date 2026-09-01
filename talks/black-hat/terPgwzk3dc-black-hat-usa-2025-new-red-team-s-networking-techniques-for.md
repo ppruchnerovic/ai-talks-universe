@@ -12,6 +12,7 @@ channel: null
 duration_min: 38
 published_at: null
 video_id: terPgwzk3dc
+url: https://www.youtube.com/watch?v=terPgwzk3dc
 youtube_url: https://www.youtube.com/watch?v=terPgwzk3dc
 tags: []
 transcript: false

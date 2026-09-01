@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-03T08:28:06Z
 video_id: J0o-Dkt5tnI
+url: https://www.youtube.com/watch?v=J0o-Dkt5tnI
 youtube_url: https://www.youtube.com/watch?v=J0o-Dkt5tnI
 tags: ["AI", "Agents", "Azure", "Build persistent and scalable AI agent memory with TiDB | ODSP918", "Dev Tools", "DevTools", "Developer", "ODSP918", "ODSP918_v2", "Open Ecosystem", "Ravish Patel", "Scaling", "Storage", "Vector Embeddings", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

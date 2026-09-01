@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 42
 published_at: null
 video_id: uRctlPUAL64
+url: https://www.youtube.com/watch?v=uRctlPUAL64
 youtube_url: https://www.youtube.com/watch?v=uRctlPUAL64
 tags: []
 transcript: false

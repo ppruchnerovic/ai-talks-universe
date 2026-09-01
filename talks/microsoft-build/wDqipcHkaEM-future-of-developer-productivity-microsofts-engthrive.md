@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 48
 published_at: 2026-06-04T13:50:12Z
 video_id: wDqipcHkaEM
+url: https://www.youtube.com/watch?v=wDqipcHkaEM
 youtube_url: https://www.youtube.com/watch?v=wDqipcHkaEM
 tags: ["BRK210", "DevTools", "Developer", "Future of Developer Productivity: Microsoft’s EngThrive Framework in Practice | BRK210", "GitHub", "Tim Bozarth", "a10e37be-0b75-4535-8693-b49de03d99ac_M9Z7-BRK210-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

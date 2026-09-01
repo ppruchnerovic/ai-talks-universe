@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:27:04Z
 video_id: JAHevcsT7pQ
+url: https://www.youtube.com/watch?v=JAHevcsT7pQ
 youtube_url: https://www.youtube.com/watch?v=JAHevcsT7pQ
 tags: ["BRK118", "Divya Swarnkar", "English (US)", "Eric Summers", "Innovate with Azure AI apps and agents", "Kent Weare", "Pratik Shinde", "Technical", "The future of integration is here and it's agentic | BRK118", "a9c52d6a-03fe-4657-81fd-ea2c1d9848c0_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

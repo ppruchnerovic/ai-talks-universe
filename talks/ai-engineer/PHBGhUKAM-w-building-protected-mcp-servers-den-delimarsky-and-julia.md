@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-06-20T00:00:00Z
 video_id: PHBGhUKAM-w
+url: https://www.youtube.com/watch?v=PHBGhUKAM-w
 youtube_url: https://www.youtube.com/watch?v=PHBGhUKAM-w
 tags: []
 transcript: false

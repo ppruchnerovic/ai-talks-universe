@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2026-02-05T11:04:56Z
 video_id: EDwtofkScdI
+url: https://www.youtube.com/watch?v=EDwtofkScdI
 youtube_url: https://www.youtube.com/watch?v=EDwtofkScdI
 tags: [".NET", "Architecture", "Cloud", "Microservices", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "James Eastham"]
 transcript: true

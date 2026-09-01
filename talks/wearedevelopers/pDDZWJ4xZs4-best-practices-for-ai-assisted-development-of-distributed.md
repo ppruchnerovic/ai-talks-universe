@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T07:40:00+00:00
 video_id: pDDZWJ4xZs4
+url: https://www.youtube.com/watch?v=pDDZWJ4xZs4
 youtube_url: https://www.youtube.com/watch?v=pDDZWJ4xZs4
 tags: ["Developer Experience", "AI Coding Assistants", "AI Standards", "Claude", "Cursor", "Developer Experience (DevEx)", "Distributed Systems", "Generative AI (GenAI)", "Integration", "Large Language Models (LLMs)", "Microservices", "Software Architecture", "System Design", "Test-Driven Development (TDD)", "VS Code"]
 transcript: true

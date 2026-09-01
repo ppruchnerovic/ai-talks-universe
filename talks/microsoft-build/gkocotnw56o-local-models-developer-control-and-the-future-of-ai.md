@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-04T13:03:05Z
 video_id: gkocotnw56o
+url: https://www.youtube.com/watch?v=gkocotnw56o
 youtube_url: https://www.youtube.com/watch?v=gkocotnw56o
 tags: ["0f29bea1-6955-4ec3-8c51-5a80b47dcf7b_M9Z7-BRK235-1", "Agent Observability", "Azure DevOps", "BRK235", "Local models developer control and the future of AI runtimes | BRK235", "Michael Chiang", "Parth Sareen", "Purview", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

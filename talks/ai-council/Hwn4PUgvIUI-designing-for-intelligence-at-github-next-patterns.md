@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 43
 published_at: 2023-05-11T19:00:03Z
 video_id: Hwn4PUgvIUI
+url: https://www.youtube.com/watch?v=Hwn4PUgvIUI
 youtube_url: https://www.youtube.com/watch?v=Hwn4PUgvIUI
 tags: ["github copilot", "product development", "AI-powered products", "AI", "ghost text"]
 transcript: false

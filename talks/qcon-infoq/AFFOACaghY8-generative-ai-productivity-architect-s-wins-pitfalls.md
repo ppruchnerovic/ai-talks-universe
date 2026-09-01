@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 48
 published_at: 2025-05-12T06:33:30Z
 video_id: AFFOACaghY8
+url: https://www.youtube.com/watch?v=AFFOACaghY8
 youtube_url: https://www.youtube.com/watch?v=AFFOACaghY8
 tags: ["Generative AI", "LLMs", "Software Architecture", "Engineering Leadership", "GenAI", "Large Language Models", "QCon San Francisco", "InfoQ", "Transcript", "Artificial Intelligence", "Case Study", "Productivity"]
 transcript: false

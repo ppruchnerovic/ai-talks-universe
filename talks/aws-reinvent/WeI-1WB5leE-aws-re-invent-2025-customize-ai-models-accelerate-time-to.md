@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 48
 published_at: null
 video_id: WeI-1WB5leE
+url: https://www.youtube.com/watch?v=WeI-1WB5leE
 youtube_url: https://www.youtube.com/watch?v=WeI-1WB5leE
 tags: []
 transcript: false

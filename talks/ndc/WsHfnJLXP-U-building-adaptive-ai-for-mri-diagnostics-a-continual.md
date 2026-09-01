@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 44
 published_at: 2025-07-01T18:45:01Z
 video_id: WsHfnJLXP-U
+url: https://www.youtube.com/watch?v=WsHfnJLXP-U
 youtube_url: https://www.youtube.com/watch?v=WsHfnJLXP-U
 tags: ["AI", "Architecture", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "Melbouren", "Australia", "Agata Chudzińska", "Agata Chudzinska"]
 transcript: false

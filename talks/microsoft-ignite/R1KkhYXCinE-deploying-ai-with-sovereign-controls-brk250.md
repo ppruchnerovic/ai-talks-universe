@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T13:03:39Z
 video_id: R1KkhYXCinE
+url: https://www.youtube.com/watch?v=R1KkhYXCinE
 youtube_url: https://www.youtube.com/watch?v=R1KkhYXCinE
 tags: ["AI", "BRK250", "Breakout", "Data governance", "Deploying AI with Sovereign controls | BRK250", "English (US)", "Industry", "Intermediate (200)", "Miriam Berhane Russom", "Technical", "Valecia Maclin Topping", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 38
 published_at: 2023-05-11T18:56:53Z
 video_id: u8kBJ1B_qbo
+url: https://www.youtube.com/watch?v=u8kBJ1B_qbo
 youtube_url: https://www.youtube.com/watch?v=u8kBJ1B_qbo
 tags: ["Big Data", "Data Engineering", "analytics", "open source", "metadata", "Datahub", "data management"]
 transcript: false

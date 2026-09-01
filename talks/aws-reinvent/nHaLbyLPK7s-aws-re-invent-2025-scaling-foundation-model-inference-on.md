@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 53
 published_at: null
 video_id: nHaLbyLPK7s
+url: https://www.youtube.com/watch?v=nHaLbyLPK7s
 youtube_url: https://www.youtube.com/watch?v=nHaLbyLPK7s
 tags: []
 transcript: false

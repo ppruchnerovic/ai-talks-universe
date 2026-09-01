@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 50
 published_at: 2026-06-03T09:00:08Z
 video_id: _SzOdHMVPnY
+url: https://www.youtube.com/watch?v=_SzOdHMVPnY
 youtube_url: https://www.youtube.com/watch?v=_SzOdHMVPnY
 tags: ["9466a393-4172-4f0a-9849-190dab1b2623_M9Z7-BRK222-1", "Azure Kubernetes Service (AKS)​​", "BRK222", "CP&D", "Lachlan Evenson", "The honest practitioner's take on agentic AI on Kubernetes | BRK222", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

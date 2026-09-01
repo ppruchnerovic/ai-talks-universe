@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 13
 published_at: 2025-05-29T00:38:38Z
 video_id: Ir3jLWvauNk
+url: https://www.youtube.com/watch?v=Ir3jLWvauNk
 youtube_url: https://www.youtube.com/watch?v=Ir3jLWvauNk
 tags: ["chaos engineering", "AI agents", "system reliability", "ChatGPT", "artificial intelligence", "machine learning", "chaos testing", "reliability engineering", "distributed systems", "software testing", "site reliability", "simulation testing", "Python tutorial", "fault tolerance", "resilience testing", "disaster recovery", "business continuity", "failure modes", "error handling", "monitoring", "observability", "incident response", "postmortem analysis"]
 transcript: false

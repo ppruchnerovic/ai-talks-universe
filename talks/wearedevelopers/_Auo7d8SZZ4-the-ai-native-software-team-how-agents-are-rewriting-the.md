@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T10:20:00+00:00
 video_id: _Auo7d8SZZ4
+url: https://www.youtube.com/watch?v=_Auo7d8SZZ4
 youtube_url: https://www.youtube.com/watch?v=_Auo7d8SZZ4
 tags: ["Engineering Leadership", "Agents", "Agentic AI", "Automation", "Code Reviews", "DevOps", "Future of Work", "Large Language Models (LLMs)", "Productivity"]
 transcript: true

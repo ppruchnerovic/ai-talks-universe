@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 23
 published_at: 2026-04-13T14:00:06Z
 video_id: kAVRFYgCPg0
+url: https://www.youtube.com/watch?v=kAVRFYgCPg0
 youtube_url: https://www.youtube.com/watch?v=kAVRFYgCPg0
 tags: ["Model Context Protocol", "Agentic AI", "Claude", "Anthropic", "Context bloat", "David Soria Parra"]
 transcript: true

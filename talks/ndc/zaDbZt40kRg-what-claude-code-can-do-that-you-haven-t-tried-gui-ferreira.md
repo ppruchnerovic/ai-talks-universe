@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2026-07-01T13:39:02Z
 video_id: zaDbZt40kRg
+url: https://www.youtube.com/watch?v=zaDbZt40kRg
 youtube_url: https://www.youtube.com/watch?v=zaDbZt40kRg
 tags: ["AI-Assisted Development", "AI", "Claude", "Code", "NDC", "Conferences", "Live", "Fun", "2026", "Oslo", "Norway", "Claude Code", "Gui Ferreira"]
 transcript: true

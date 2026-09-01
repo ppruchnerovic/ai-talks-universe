@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 44
 published_at: 2026-05-11T07:44:33Z
 video_id: H8cRnw98q8k
+url: https://www.youtube.com/watch?v=H8cRnw98q8k
 youtube_url: https://www.youtube.com/watch?v=H8cRnw98q8k
 tags: ["Application Security", "Cloud Security", "Tjerand Silde", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security"]
 transcript: true

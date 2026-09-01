@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-24T14:21:46Z
 video_id: b5uHJLFQo_E
+url: https://www.youtube.com/watch?v=b5uHJLFQo_E
 youtube_url: https://www.youtube.com/watch?v=b5uHJLFQo_E
 tags: ["English (US)", "Jeremy Chapman", "Microsoft 365 Copilot and agent updates for everyone | STUDIO38", "Other", "STUDIO38", "STUDIO38_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

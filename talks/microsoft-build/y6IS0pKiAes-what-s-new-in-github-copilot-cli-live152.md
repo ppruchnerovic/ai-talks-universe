@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-05T15:34:16Z
 video_id: y6IS0pKiAes
+url: https://www.youtube.com/watch?v=y6IS0pKiAes
 youtube_url: https://www.youtube.com/watch?v=y6IS0pKiAes
 tags: ["Burke Holland", "Evan Boyle", "LIVE152", "LIVE152_v1", "What's new in GitHub Copilot CLI? | LIVE152", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

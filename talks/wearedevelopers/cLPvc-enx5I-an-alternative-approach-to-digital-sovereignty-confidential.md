@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T09:30:00+00:00
 video_id: cLPvc-enx5I
+url: https://www.youtube.com/watch?v=cLPvc-enx5I
 youtube_url: https://www.youtube.com/watch?v=cLPvc-enx5I
 tags: ["Security & Privacy", "Security", "Zero Trust"]
 transcript: true

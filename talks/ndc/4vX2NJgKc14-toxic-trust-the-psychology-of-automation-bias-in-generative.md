@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-01-19T10:06:05Z
 video_id: 4vX2NJgKc14
+url: https://www.youtube.com/watch?v=4vX2NJgKc14
 youtube_url: https://www.youtube.com/watch?v=4vX2NJgKc14
 tags: ["AI", "GenAI", "Ethics", "People", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Denmark", "Matthijs van der Veer"]
 transcript: true

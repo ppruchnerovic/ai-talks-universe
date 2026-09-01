@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-26T07:19:20Z
 video_id: igrq9fIre5E
+url: https://www.youtube.com/watch?v=igrq9fIre5E
 youtube_url: https://www.youtube.com/watch?v=igrq9fIre5E
 tags: ["Application Development", "Apps", "Asir Selvasingh", "BRK147", "Breakout", "Cloud-native", "Containers", "Denver Brittain", "English (US)", "Intermediate (200)", "Java", "Kubernetes", "Modernize and scale enterprise Java applications on Azure | BRK147", "PaaS", "Serverless", "Sonja Gu", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

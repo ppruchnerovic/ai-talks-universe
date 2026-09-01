@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 36
 published_at: 2026-06-04T12:09:08Z
 video_id: QyX2w7Mr-iE
+url: https://www.youtube.com/watch?v=QyX2w7Mr-iE
 youtube_url: https://www.youtube.com/watch?v=QyX2w7Mr-iE
 tags: ["Agent supervision is the new senior engineering skill | BRK244", "Azure", "BRK244", "OSS CI/CD Libraries", "Visual Studio", "build", "build 2026", "c8e844ff-d07c-427f-9168-2a7d84ac4acf_M9Z7-BRK244-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026", "swyx (Shawn Wang)"]
 transcript: true

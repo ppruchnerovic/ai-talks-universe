@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-20T16:42:03Z
 video_id: biO3I2mFvV4
+url: https://www.youtube.com/watch?v=biO3I2mFvV4
 youtube_url: https://www.youtube.com/watch?v=biO3I2mFvV4
 tags: ["881e39f4-7921-487b-b6ad-b0cce5120b80_Segment", "Andrew Westgarth", "BRK102", "English (US)", "Gaurav Seth", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure App Service", "Scott Hunter", "Technical", "Technical deep dive on Managed Instance for App Service | BRK102", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

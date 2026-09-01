@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-21T11:27:10Z
 video_id: DBrfh0vOBxY
+url: https://www.youtube.com/watch?v=DBrfh0vOBxY
 youtube_url: https://www.youtube.com/watch?v=DBrfh0vOBxY
 tags: ["Agents apps and acceleration: Helping software companies grow | BRK214", "BRK214", "BRK214_v1", "Cyril Belikoff", "English (US)", "Innovate with Azure AI apps and agents", "Jonathan Sobel", "Rob Ferguson", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 13
 published_at: 2025-03-10T20:43:38Z
 video_id: HpfRg1MOIpE
+url: https://www.youtube.com/watch?v=HpfRg1MOIpE
 youtube_url: https://www.youtube.com/watch?v=HpfRg1MOIpE
 tags: []
 transcript: false

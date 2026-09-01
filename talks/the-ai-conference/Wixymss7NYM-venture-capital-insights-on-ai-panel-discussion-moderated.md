@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 28
 published_at: 2023-10-31T16:51:24Z
 video_id: Wixymss7NYM
+url: https://www.youtube.com/watch?v=Wixymss7NYM
 youtube_url: https://www.youtube.com/watch?v=Wixymss7NYM
 tags: []
 transcript: false

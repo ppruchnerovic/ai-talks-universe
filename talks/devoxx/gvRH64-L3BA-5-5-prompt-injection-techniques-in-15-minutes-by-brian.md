@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 21
 published_at: 2026-04-09T19:46:42Z
 video_id: gvRH64-L3BA
+url: https://www.youtube.com/watch?v=gvRH64-L3BA
 youtube_url: https://www.youtube.com/watch?v=gvRH64-L3BA
 tags: []
 transcript: true

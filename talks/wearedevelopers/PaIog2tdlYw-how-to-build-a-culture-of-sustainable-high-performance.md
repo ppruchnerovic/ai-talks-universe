@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T12:10:00+00:00
 video_id: PaIog2tdlYw
+url: https://www.youtube.com/watch?v=PaIog2tdlYw
 youtube_url: https://www.youtube.com/watch?v=PaIog2tdlYw
 tags: ["People & Culture", "Best Practices", "Career Development", "Collaboration", "Communication", "Community", "Employer Branding", "Ethics", "Future of Work", "HealthTech", "HR", "Mental Health", "People & Culture", "Performance", "Productivity", "Scaling", "Soft Skills", "Talent & Recruiting", "Team Building"]
 transcript: true

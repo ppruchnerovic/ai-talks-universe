@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-21T12:13:57Z
 video_id: rBRwT0E0jQA
+url: https://www.youtube.com/watch?v=rBRwT0E0jQA
 youtube_url: https://www.youtube.com/watch?v=rBRwT0E0jQA
 tags: ["Alex Simons", "BRK265", "BRK265_v1", "Ehud Itshaki", "English (US)", "Protect cloud AI platform and apps", "Secure access for AI agents with Microsoft Entra | BRK265", "Sharon Sandhu", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

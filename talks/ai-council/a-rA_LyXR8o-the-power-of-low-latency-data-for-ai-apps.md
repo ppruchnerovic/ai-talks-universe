@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 10
 published_at: 2025-05-28T23:51:25Z
 video_id: a-rA_LyXR8o
+url: https://www.youtube.com/watch?v=a-rA_LyXR8o
 youtube_url: https://www.youtube.com/watch?v=a-rA_LyXR8o
 tags: ["low latency", "real time data", "AI applications", "ChatGPT", "artificial intelligence", "machine learning", "performance", "real time analytics", "RAG", "SQL analytics", "AI performance", "streaming data", "data latency", "Python tutorial", "microsecond latency", "nanosecond precision", "high frequency trading", "algorithmic trading", "real time bidding", "gaming", "financial markets", "IoT applications", "edge computing"]
 transcript: false

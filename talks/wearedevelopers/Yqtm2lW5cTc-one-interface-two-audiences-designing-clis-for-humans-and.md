@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T11:40:00+00:00
 video_id: Yqtm2lW5cTc
+url: https://www.youtube.com/watch?v=Yqtm2lW5cTc
 youtube_url: https://www.youtube.com/watch?v=Yqtm2lW5cTc
 tags: ["Agents", "Agentic AI", "Developer Experience (DevEx)", "Multi-Agent Systems", "Observability", "Open Source", "OpenTelemetry"]
 transcript: true

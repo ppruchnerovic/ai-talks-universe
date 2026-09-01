@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T14:10:00+00:00
 video_id: x3PMKPbB-G4
+url: https://www.youtube.com/watch?v=x3PMKPbB-G4
 youtube_url: https://www.youtube.com/watch?v=x3PMKPbB-G4
 tags: ["Frontend, Web & Mobile", "Kotlin Multiplatform"]
 transcript: true

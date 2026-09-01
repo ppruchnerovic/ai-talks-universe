@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 36
 published_at: 2025-06-19T10:09:18Z
 video_id: AXdrdpdtshk
+url: https://www.youtube.com/watch?v=AXdrdpdtshk
 youtube_url: https://www.youtube.com/watch?v=AXdrdpdtshk
 tags: ["tech", "IT", "code", "future", "coding", "programmer", "software", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "tech talks", "sustainability", "cause", "green tech", "climate change", "leadership"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 26
 published_at: 2023-02-09T03:12:51Z
 video_id: xdNIsi19GMs
+url: https://www.youtube.com/watch?v=xdNIsi19GMs
 youtube_url: https://www.youtube.com/watch?v=xdNIsi19GMs
 tags: []
 transcript: false

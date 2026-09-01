@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-07-05T07:52:15Z
 video_id: tJUAef_dBtU
+url: https://www.youtube.com/watch?v=tJUAef_dBtU
 youtube_url: https://www.youtube.com/watch?v=tJUAef_dBtU
 tags: ["AI DevCon 2026", "AI DevCon London 2026", "AI development", "AI-enabled training", "Christopher Batey AI", "Path to Production AI", "ainativedev", "code verification", "continuous delivery", "engineering teams", "how to design workflow for AI", "how to manage AI product teams", "platform engineering", "product teams", "software engineering"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-21T12:42:38Z
 video_id: eelOdgqaDUM
+url: https://www.youtube.com/watch?v=eelOdgqaDUM
 youtube_url: https://www.youtube.com/watch?v=eelOdgqaDUM
 tags: ["Cisco AI Powered Future-Proofed Workplaces | STUDIOSP89", "Copilot and agents at work", "English (US)", "STUDIOSP89", "STUDIOSP89_v1", "Technical", "Tom Richards", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:06:18Z
 video_id: Q_5cHTE1Bxw
+url: https://www.youtube.com/watch?v=Q_5cHTE1Bxw
 youtube_url: https://www.youtube.com/watch?v=Q_5cHTE1Bxw
 tags: ["Adaptive Cloud", "Advanced (300)", "Azure Arc", "BRK215", "Breakout", "English (US)", "Fabric", "Francisco Cabrera", "Infrastructure", "Kubernetes", "Lior Kamrat", "Scale apps and data with Azure Arc Kubernetes and Microsoft Fabric | BRK215", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

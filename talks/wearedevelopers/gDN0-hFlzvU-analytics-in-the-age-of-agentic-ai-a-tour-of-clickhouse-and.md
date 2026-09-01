@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-10T09:00:00+00:00
 video_id: gDN0-hFlzvU
+url: https://www.youtube.com/watch?v=gDN0-hFlzvU
 youtube_url: https://www.youtube.com/watch?v=gDN0-hFlzvU
 tags: ["Data & Databases", "AI Models", "Agentic AI", "Databases"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 35
 published_at: 2023-05-11T18:59:12Z
 video_id: 3zw3PWP46Yc
+url: https://www.youtube.com/watch?v=3zw3PWP46Yc
 youtube_url: https://www.youtube.com/watch?v=3zw3PWP46Yc
 tags: ["streaming database", "product development", "SQL"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 29
 published_at: null
 video_id: 6XjR1wnng6I
+url: https://www.youtube.com/watch?v=6XjR1wnng6I
 youtube_url: https://www.youtube.com/watch?v=6XjR1wnng6I
 tags: []
 transcript: false

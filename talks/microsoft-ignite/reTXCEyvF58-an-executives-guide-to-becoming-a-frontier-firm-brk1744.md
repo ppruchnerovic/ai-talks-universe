@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T12:56:05Z
 video_id: reTXCEyvF58
+url: https://www.youtube.com/watch?v=reTXCEyvF58
 youtube_url: https://www.youtube.com/watch?v=reTXCEyvF58
 tags: ["An Executive’s Guide to Becoming a Frontier Firm | BRK1744", "BRK1744", "Copilot and agents at work", "English (US)", "Katy George", "Matthew Duncan", "Technical", "adfa511f-a10c-45b7-9e59-82e88bc25c16_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

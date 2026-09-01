@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-06-23T04:25:03Z
 video_id: pT-nyd6o_WY
+url: https://www.youtube.com/watch?v=pT-nyd6o_WY
 youtube_url: https://www.youtube.com/watch?v=pT-nyd6o_WY
 tags: ["Artificial Intelligence", "AI Native Engineering", "Meta", "Case Study", "QCon AI New York", "InfoQ", "Transcript", "Software Engineering", "Software Architecture", "Developer Experience"]
 transcript: true

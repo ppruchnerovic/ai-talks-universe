@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2026-05-21T11:00:27Z
 video_id: 3wQdfYFhxmE
+url: https://www.youtube.com/watch?v=3wQdfYFhxmE
 youtube_url: https://www.youtube.com/watch?v=3wQdfYFhxmE
 tags: ["Anthony Shaw", "AI", "Programming Languages", "LLM", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
 transcript: true

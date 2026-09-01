@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T13:00:00+00:00
 video_id: jnVhJKKRpiA
+url: https://www.youtube.com/watch?v=jnVhJKKRpiA
 youtube_url: https://www.youtube.com/watch?v=jnVhJKKRpiA
 tags: ["AI Agents", "Agentic AI", "C", "C++", "CI/CD", "COBOL", "DevSecOps", "Java", "Legacy"]
 transcript: true

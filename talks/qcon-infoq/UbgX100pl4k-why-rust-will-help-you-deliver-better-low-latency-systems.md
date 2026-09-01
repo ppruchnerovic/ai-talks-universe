@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 43
 published_at: 2025-08-25T09:37:06Z
 video_id: UbgX100pl4k
+url: https://www.youtube.com/watch?v=UbgX100pl4k
 youtube_url: https://www.youtube.com/watch?v=UbgX100pl4k
 tags: []
 transcript: false

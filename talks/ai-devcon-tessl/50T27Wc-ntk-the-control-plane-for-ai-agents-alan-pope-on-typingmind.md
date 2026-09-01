@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 6
 published_at: 2025-11-08T14:00:09Z
 video_id: 50T27Wc-ntk
+url: https://www.youtube.com/watch?v=50T27Wc-ntk
 youtube_url: https://www.youtube.com/watch?v=50T27Wc-ntk
 tags: []
 transcript: false

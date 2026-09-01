@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 14
 published_at: 2025-05-29T13:35:16Z
 video_id: oyJziKnpElo
+url: https://www.youtube.com/watch?v=oyJziKnpElo
 youtube_url: https://www.youtube.com/watch?v=oyJziKnpElo
 tags: ["startup", "AI code editor", "analytics engineering", "ChatGPT", "artificial intelligence", "machine learning", "data tools", "SQL editor", "data development", "IDE", "data teams", "context switching", "Python tutorial", "developer tools", "code editor", "integrated development environment", "workflow optimization", "productivity tools", "collaboration tools", "version control integration", "debugging tools", "code completionRetryClaude can make mistakes. Please double-check responses."]
 transcript: false

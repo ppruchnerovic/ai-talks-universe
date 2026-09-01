@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 34
 published_at: 2026-07-10T08:20:00+00:00
 video_id: WjoGKMgEO4c
+url: https://www.youtube.com/watch?v=WjoGKMgEO4c
 youtube_url: https://www.youtube.com/watch?v=WjoGKMgEO4c
 tags: ["Frontend, Web & Mobile", "Node.js", "React", "Web Performance"]
 transcript: true

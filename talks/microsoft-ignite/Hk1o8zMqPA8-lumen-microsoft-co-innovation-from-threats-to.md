@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T08:05:46Z
 video_id: Hk1o8zMqPA8
+url: https://www.youtube.com/watch?v=Hk1o8zMqPA8
 youtube_url: https://www.youtube.com/watch?v=Hk1o8zMqPA8
 tags: ["Ankur Arora", "BRK383", "Craig D’Abreo", "English (US)", "Lumen + Microsoft Co-Innovation: From Threats to Transformation | BRK383", "Secure your data", "Signature pass", "Susmita Nayak", "Technical", "Telecommunications", "ca4a5b6e-13fc-402d-93a3-a9ec61e217a7_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

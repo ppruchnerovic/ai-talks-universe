@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 5
 published_at: 2024-11-20T14:23:06Z
 video_id: D07MHsc2D-A
+url: https://www.youtube.com/watch?v=D07MHsc2D-A
 youtube_url: https://www.youtube.com/watch?v=D07MHsc2D-A
 tags: ["AI", "Bring AI chips to life with Synopsys Cloud | ODFP983", "Cloud Endpoints", "Cloud PC", "Development", "Foundational (100)", "ODFP983", "Pre-recorded", "Security", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

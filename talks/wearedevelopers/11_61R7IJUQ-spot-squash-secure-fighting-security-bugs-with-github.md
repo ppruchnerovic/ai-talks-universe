@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 23
 published_at: 2026-07-09T10:10:00+00:00
 video_id: 11_61R7IJUQ
+url: https://www.youtube.com/watch?v=11_61R7IJUQ
 youtube_url: https://www.youtube.com/watch?v=11_61R7IJUQ
 tags: ["Security & Privacy", "AppSec", "DevSecOps", "GitHub", "Security"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T12:20:00+00:00
 video_id: U_O8c2oVF44
+url: https://www.youtube.com/watch?v=U_O8c2oVF44
 youtube_url: https://www.youtube.com/watch?v=U_O8c2oVF44
 tags: ["Developer Experience", "AI Coding Assistants", "Agents", "Agentic AI", "Code Generation", "Code Reviews", "Developer Experience (DevEx)", "Multi-Agent Systems", "Python", "Tools"]
 transcript: true

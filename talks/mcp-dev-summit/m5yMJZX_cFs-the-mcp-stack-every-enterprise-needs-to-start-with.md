@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 10
 published_at: 2026-04-13T23:19:13Z
 video_id: m5yMJZX_cFs
+url: https://www.youtube.com/watch?v=m5yMJZX_cFs
 youtube_url: https://www.youtube.com/watch?v=m5yMJZX_cFs
 tags: ["Enterprise MCP", "MCP adoption", "MCP"]
 transcript: true

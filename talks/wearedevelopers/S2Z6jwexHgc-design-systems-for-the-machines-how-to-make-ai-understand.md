@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T08:50:00+00:00
 video_id: S2Z6jwexHgc
+url: https://www.youtube.com/watch?v=S2Z6jwexHgc
 youtube_url: https://www.youtube.com/watch?v=S2Z6jwexHgc
 tags: ["Frontend, Web & Mobile", "Accessibility", "AI Models", "Automation", "Design Systems", "Large Language Models (LLMs)", "Productivity"]
 transcript: true

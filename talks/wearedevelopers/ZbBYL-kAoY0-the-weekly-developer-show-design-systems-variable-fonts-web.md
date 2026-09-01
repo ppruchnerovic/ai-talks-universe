@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 71
 published_at: 2025-05-09T12:27:02Z
 video_id: ZbBYL-kAoY0
+url: https://www.youtube.com/watch?v=ZbBYL-kAoY0
 youtube_url: https://www.youtube.com/watch?v=ZbBYL-kAoY0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "typography", "web design", "responsive design", "variable fonts", "CSS grid", "design systems", "accessibility", "frontend development", "Jason Pamental", "Beyond Tellerrand"]
 transcript: false

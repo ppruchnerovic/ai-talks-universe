@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T13:46:31Z
 video_id: ADaPkGbpp7Y
+url: https://www.youtube.com/watch?v=ADaPkGbpp7Y
 youtube_url: https://www.youtube.com/watch?v=ADaPkGbpp7Y
 tags: ["Uber", "A B testing tutorial", "experimentation platform", "ChatGPT", "artificial intelligence", "machine learning", "data science tutorial", "analytics", "experimentation", "statistics", "product analytics", "continuous monitoring", "statistical inference", "Python tutorial", "large scale experimentation", "multi variate testing", "causal inference", "treatment effect estimation", "network effects", "interference", "randomization strategies", "stratification", "matching"]
 transcript: false

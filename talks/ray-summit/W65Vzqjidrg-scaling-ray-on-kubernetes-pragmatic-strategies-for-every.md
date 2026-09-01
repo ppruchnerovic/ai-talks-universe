@@ -12,6 +12,7 @@ channel: null
 duration_min: 30
 published_at: null
 video_id: W65Vzqjidrg
+url: https://www.youtube.com/watch?v=W65Vzqjidrg
 youtube_url: https://www.youtube.com/watch?v=W65Vzqjidrg
 tags: []
 transcript: false

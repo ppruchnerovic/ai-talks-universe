@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 11
 published_at: 2023-05-12T15:02:02Z
 video_id: Ii2S_prglbc
+url: https://www.youtube.com/watch?v=Ii2S_prglbc
 youtube_url: https://www.youtube.com/watch?v=Ii2S_prglbc
 tags: ["stripe", "data correctness", "data inaccuracy", "infrastructure"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T10:20:00+00:00
 video_id: Jk1j--5LiNs
+url: https://www.youtube.com/watch?v=Jk1j--5LiNs
 youtube_url: https://www.youtube.com/watch?v=Jk1j--5LiNs
 tags: ["Strategy & Innovation"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 48
 published_at: 2026-06-02T12:00:05Z
 video_id: GbHfzFcIa0o
+url: https://www.youtube.com/watch?v=GbHfzFcIa0o
 youtube_url: https://www.youtube.com/watch?v=GbHfzFcIa0o
 tags: ["AI adoption in engineering", "AI adoption strategies", "AI agents", "AI code review", "AI coding tools", "AI pull request merge rates", "Jellyfish", "Jellyfish AI research", "Nick Arcolano insights", "agentic coding", "ainativedev", "codebase management", "context engineering", "engineering leadership", "pull request merge rates"]
 transcript: true

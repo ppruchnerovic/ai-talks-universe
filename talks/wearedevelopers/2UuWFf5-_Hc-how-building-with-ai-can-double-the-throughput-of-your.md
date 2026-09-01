@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T09:00:00+00:00
 video_id: 2UuWFf5-_Hc
+url: https://www.youtube.com/watch?v=2UuWFf5-_Hc
 youtube_url: https://www.youtube.com/watch?v=2UuWFf5-_Hc
 tags: ["Developer Experience", "AI Coding Assistants", "Automation Testing", "Claude", "GitHub Actions", "Ruby on Rails"]
 transcript: true

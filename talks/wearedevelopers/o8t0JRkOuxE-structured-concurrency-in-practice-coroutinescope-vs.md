@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T14:20:00+00:00
 video_id: o8t0JRkOuxE
+url: https://www.youtube.com/watch?v=o8t0JRkOuxE
 youtube_url: https://www.youtube.com/watch?v=o8t0JRkOuxE
 tags: ["Languages & Runtimes", "Concurrency", "Java", "Kotlin", "Spring Boot"]
 transcript: true

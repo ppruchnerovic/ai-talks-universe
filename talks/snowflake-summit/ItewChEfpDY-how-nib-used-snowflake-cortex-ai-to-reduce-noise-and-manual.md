@@ -12,6 +12,7 @@ channel: "Snowflake Developers"
 duration_min: 30
 published_at: null
 video_id: ItewChEfpDY
+url: https://www.youtube.com/watch?v=ItewChEfpDY
 youtube_url: https://www.youtube.com/watch?v=ItewChEfpDY
 tags: []
 transcript: false

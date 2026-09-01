@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-12-18T00:00:00Z
 video_id: MGzymaYBiss
+url: https://www.youtube.com/watch?v=MGzymaYBiss
 youtube_url: https://www.youtube.com/watch?v=MGzymaYBiss
 tags: []
 transcript: false

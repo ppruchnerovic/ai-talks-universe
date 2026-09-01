@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T08:15:56Z
 video_id: NrWUl8EYWmw
+url: https://www.youtube.com/watch?v=NrWUl8EYWmw
 youtube_url: https://www.youtube.com/watch?v=NrWUl8EYWmw
 tags: ["BRK216", "English (US)", "From spend to strategy: Drive cost efficiency and elevate Azure ROI | BRK216", "Innovate with Azure AI apps and agents", "Mrunal Patwa", "Rob Kuehfus", "Technical", "e4f84485-14e7-4c3f-96ef-88592f6d376e_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

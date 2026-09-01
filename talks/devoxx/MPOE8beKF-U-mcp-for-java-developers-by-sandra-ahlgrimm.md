@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 42
 published_at: 2025-11-11T10:37:56Z
 video_id: MPOE8beKF-U
+url: https://www.youtube.com/watch?v=MPOE8beKF-U
 youtube_url: https://www.youtube.com/watch?v=MPOE8beKF-U
 tags: []
 transcript: false

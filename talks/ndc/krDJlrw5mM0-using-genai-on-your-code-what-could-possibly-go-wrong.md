@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2025-03-25T09:13:21Z
 video_id: krDJlrw5mM0
+url: https://www.youtube.com/watch?v=krDJlrw5mM0
 youtube_url: https://www.youtube.com/watch?v=krDJlrw5mM0
 tags: ["Artificial Intelligence", "AI", "Machine Learning", "ML", "GenAI", "Security", "Application", "NDC", "conferences", "2025", "Live", "Fun", "Oslo"]
 transcript: false

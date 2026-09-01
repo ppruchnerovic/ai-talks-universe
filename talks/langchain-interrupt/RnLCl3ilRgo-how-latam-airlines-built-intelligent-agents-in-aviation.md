@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 17
 published_at: 2026-06-30T12:42:12Z
 video_id: RnLCl3ilRgo
+url: https://www.youtube.com/watch?v=RnLCl3ilRgo
 youtube_url: https://www.youtube.com/watch?v=RnLCl3ilRgo
 tags: []
 transcript: true

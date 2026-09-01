@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-03T14:25:23Z
 video_id: sf3y8TRcBDI
+url: https://www.youtube.com/watch?v=sf3y8TRcBDI
 youtube_url: https://www.youtube.com/watch?v=sf3y8TRcBDI
 tags: ["Deepthi Chelupati", "OD800", "OD800_v1", "Using autonomous SRE to move from alerts to action | OD800", "Vyom Nagrani", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

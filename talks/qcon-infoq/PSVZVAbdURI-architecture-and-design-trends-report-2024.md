@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 44
 published_at: 2024-10-03T14:16:12Z
 video_id: PSVZVAbdURI
+url: https://www.youtube.com/watch?v=PSVZVAbdURI
 youtube_url: https://www.youtube.com/watch?v=PSVZVAbdURI
 tags: []
 transcript: false

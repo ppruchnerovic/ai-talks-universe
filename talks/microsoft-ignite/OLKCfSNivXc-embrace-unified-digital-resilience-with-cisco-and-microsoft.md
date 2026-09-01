@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-24T10:37:38Z
 video_id: OLKCfSNivXc
+url: https://www.youtube.com/watch?v=OLKCfSNivXc
 youtube_url: https://www.youtube.com/watch?v=OLKCfSNivXc
 tags: ["42518f69-3a2e-4d4a-9078-384075a2334e_Segment", "Anthony Pierce", "BRKSP483", "Embrace unified digital resilience with Cisco and Microsoft | BRKSP483", "English (US)", "Modernize SecOps with a unified platform", "Richard Diver", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

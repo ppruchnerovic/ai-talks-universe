@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 16
 published_at: 2023-05-11T20:27:37Z
 video_id: ZQ4kz-v-LPk
+url: https://www.youtube.com/watch?v=ZQ4kz-v-LPk
 youtube_url: https://www.youtube.com/watch?v=ZQ4kz-v-LPk
 tags: ["data strategy", "data product", "Data Product Management"]
 transcript: false

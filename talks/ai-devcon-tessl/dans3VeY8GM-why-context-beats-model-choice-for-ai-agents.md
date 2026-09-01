@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 30
 published_at: 2026-05-28T10:00:03Z
 video_id: dans3VeY8GM
+url: https://www.youtube.com/watch?v=dans3VeY8GM
 youtube_url: https://www.youtube.com/watch?v=dans3VeY8GM
 tags: ["AI DevCon", "AI Development", "AI skill activation problem", "AIAgents", "AIContext", "AgentPerformance", "ContextManagement", "Goldilocks zone in AI", "Simon explains AI context", "SkillActivation", "ainativedev", "context window management", "scaling AI agent skills", "what is context in AI", "why is context important in AI"]
 transcript: true

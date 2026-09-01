@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T08:50:00+00:00
 video_id: KDb-WcZwaHo
+url: https://www.youtube.com/watch?v=KDb-WcZwaHo
 youtube_url: https://www.youtube.com/watch?v=KDb-WcZwaHo
 tags: ["People & Culture"]
 transcript: true

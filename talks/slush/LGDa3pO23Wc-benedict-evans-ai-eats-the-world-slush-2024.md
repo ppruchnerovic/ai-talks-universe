@@ -12,6 +12,7 @@ channel: null
 duration_min: 32
 published_at: null
 video_id: LGDa3pO23Wc
+url: https://www.youtube.com/watch?v=LGDa3pO23Wc
 youtube_url: https://www.youtube.com/watch?v=LGDa3pO23Wc
 tags: []
 transcript: false

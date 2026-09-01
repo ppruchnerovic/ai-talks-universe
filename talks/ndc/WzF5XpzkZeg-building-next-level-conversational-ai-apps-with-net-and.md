@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2025-06-30T12:45:08Z
 video_id: WzF5XpzkZeg
+url: https://www.youtube.com/watch?v=WzF5XpzkZeg
 youtube_url: https://www.youtube.com/watch?v=WzF5XpzkZeg
 tags: ["AI", ".NET", "Web", "API", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Steven Sanderson", "Steve Sanderson"]
 transcript: false

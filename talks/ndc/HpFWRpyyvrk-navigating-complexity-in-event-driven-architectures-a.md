@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2025-03-27T12:51:50Z
 video_id: HpFWRpyyvrk
+url: https://www.youtube.com/watch?v=HpFWRpyyvrk
 youtube_url: https://www.youtube.com/watch?v=HpFWRpyyvrk
 tags: ["DDD", "Architecture", "Microservices", "Domain Driven Design", "NDC", "Conferences", "2025", "Live", "Fun", "London", "David Boyne"]
 transcript: false

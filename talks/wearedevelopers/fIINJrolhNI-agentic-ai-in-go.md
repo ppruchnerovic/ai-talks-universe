@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T11:00:00+00:00
 video_id: fIINJrolhNI
+url: https://www.youtube.com/watch?v=fIINJrolhNI
 youtube_url: https://www.youtube.com/watch?v=fIINJrolhNI
 tags: ["AI Agents", "Agentic AI", "Go", "Innovation", "Multi-Agent Systems"]
 transcript: true

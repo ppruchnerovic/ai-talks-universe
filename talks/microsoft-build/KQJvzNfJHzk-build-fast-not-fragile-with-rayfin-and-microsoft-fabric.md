@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 34
 published_at: 2026-06-03T12:56:32Z
 video_id: KQJvzNfJHzk
+url: https://www.youtube.com/watch?v=KQJvzNfJHzk
 youtube_url: https://www.youtube.com/watch?v=KQJvzNfJHzk
 tags: ["Build fast not fragile with Rayfin and Microsoft Fabric | OD810", "CP&D", "Data", "Microsoft Fabric", "OD810", "OD810_v2", "Yohan Lasorsa", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

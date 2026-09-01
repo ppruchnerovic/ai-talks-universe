@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 14
 published_at: 2026-05-22T17:21:19Z
 video_id: cnt83ML6-fA
+url: https://www.youtube.com/watch?v=cnt83ML6-fA
 youtube_url: https://www.youtube.com/watch?v=cnt83ML6-fA
 tags: []
 transcript: true

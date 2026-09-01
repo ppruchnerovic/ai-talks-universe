@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-06-15T10:19:06Z
 video_id: KpfnldjO3Iw
+url: https://www.youtube.com/watch?v=KpfnldjO3Iw
 youtube_url: https://www.youtube.com/watch?v=KpfnldjO3Iw
 tags: ["AI Development", "AI Harnesses", "AI Native Development", "AI Tools", "AI development stack layers", "AINativeDev", "Agentic Coding", "Code to Intent", "Context Engineering", "Skills as the new code", "Tessl", "ainativedev", "context in AI development", "importance of harnesses", "why agent skills matter"]
 transcript: true

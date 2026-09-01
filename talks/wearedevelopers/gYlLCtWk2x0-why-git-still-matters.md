@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T11:40:00+00:00
 video_id: gYlLCtWk2x0
+url: https://www.youtube.com/watch?v=gYlLCtWk2x0
 youtube_url: https://www.youtube.com/watch?v=gYlLCtWk2x0
 tags: ["Developer Experience", "GitOps", "Open Source", "Ruby", "Rust"]
 transcript: true

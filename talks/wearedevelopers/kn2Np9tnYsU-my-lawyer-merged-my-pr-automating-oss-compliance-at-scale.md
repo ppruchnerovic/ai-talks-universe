@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T15:30:00+00:00
 video_id: kn2Np9tnYsU
+url: https://www.youtube.com/watch?v=kn2Np9tnYsU
 youtube_url: https://www.youtube.com/watch?v=kn2Np9tnYsU
 tags: ["DevOps", "Automation", "CI/CD", "Compliance", "Developer Experience (DevEx)", "GitHub Actions", "Open Source", "SBOM"]
 transcript: true

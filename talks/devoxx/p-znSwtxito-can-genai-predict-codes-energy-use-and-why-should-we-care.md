@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 16
 published_at: 2026-04-09T21:33:21Z
 video_id: p-znSwtxito
+url: https://www.youtube.com/watch?v=p-znSwtxito
 youtube_url: https://www.youtube.com/watch?v=p-znSwtxito
 tags: []
 transcript: true

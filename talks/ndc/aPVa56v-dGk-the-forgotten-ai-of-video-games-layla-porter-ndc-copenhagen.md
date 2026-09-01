@@ -12,6 +12,7 @@ channel: null
 duration_min: 60
 published_at: null
 video_id: aPVa56v-dGk
+url: https://www.youtube.com/watch?v=aPVa56v-dGk
 youtube_url: https://www.youtube.com/watch?v=aPVa56v-dGk
 tags: []
 transcript: false

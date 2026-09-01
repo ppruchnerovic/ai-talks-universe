@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 51
 published_at: 2023-10-25T21:48:38Z
 video_id: QHywh-C-zTU
+url: https://www.youtube.com/watch?v=QHywh-C-zTU
 youtube_url: https://www.youtube.com/watch?v=QHywh-C-zTU
 tags: []
 transcript: false

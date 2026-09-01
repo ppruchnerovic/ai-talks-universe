@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 41
 published_at: null
 video_id: NRE-gupwRO0
+url: https://www.youtube.com/watch?v=NRE-gupwRO0
 youtube_url: https://www.youtube.com/watch?v=NRE-gupwRO0
 tags: []
 transcript: false

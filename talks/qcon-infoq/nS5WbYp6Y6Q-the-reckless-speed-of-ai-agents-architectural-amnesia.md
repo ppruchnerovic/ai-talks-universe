@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2026-05-25T06:28:04Z
 video_id: nS5WbYp6Y6Q
+url: https://www.youtube.com/watch?v=nS5WbYp6Y6Q
 youtube_url: https://www.youtube.com/watch?v=nS5WbYp6Y6Q
 tags: ["QCon AI", "InfoQ", "Transcript", "Artificial Intelligence", "AI Agents", "SDLC", "Software Development", "Software Architecture"]
 transcript: true

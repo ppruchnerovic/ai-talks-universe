@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-07-29T11:00:23Z
 video_id: OK5xPUuco6o
+url: https://www.youtube.com/watch?v=OK5xPUuco6o
 youtube_url: https://www.youtube.com/watch?v=OK5xPUuco6o
 tags: ["Shivay Lamba", "AI", "Security", "OpenFGA", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
 transcript: true

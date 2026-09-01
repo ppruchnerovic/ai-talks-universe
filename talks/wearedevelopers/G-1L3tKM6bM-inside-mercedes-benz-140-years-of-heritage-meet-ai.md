@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 21
 published_at: 2026-07-09T10:10:00+00:00
 video_id: G-1L3tKM6bM
+url: https://www.youtube.com/watch?v=G-1L3tKM6bM
 youtube_url: https://www.youtube.com/watch?v=G-1L3tKM6bM
 tags: ["AI Standards", "Best Practices", "Developer Experience (DevEx)", "Generative AI (GenAI)", "Innovation"]
 transcript: true

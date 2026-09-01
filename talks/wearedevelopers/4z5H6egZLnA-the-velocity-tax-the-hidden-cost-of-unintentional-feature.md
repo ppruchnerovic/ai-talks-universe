@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T08:50:00+00:00
 video_id: 4z5H6egZLnA
+url: https://www.youtube.com/watch?v=4z5H6egZLnA
 youtube_url: https://www.youtube.com/watch?v=4z5H6egZLnA
 tags: ["Software Architecture", "Clean Code", "Event-Driven Architecture (EDA)", "Microservices", "Software Architecture", "System Design"]
 transcript: true

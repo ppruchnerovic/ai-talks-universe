@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 48
 published_at: 2026-03-05T09:26:02Z
 video_id: b1fgxbKPHco
+url: https://www.youtube.com/watch?v=b1fgxbKPHco
 youtube_url: https://www.youtube.com/watch?v=b1fgxbKPHco
 tags: ["Artificial Intelligence", "InfoQ Dev Summit", "InfoQ", "Transcript", "Software Architecture", "AI Agents", "MCP", "Model Context Protocol", "RAG", "Generative AI", "Software Engineering", "Retrieval-Augmented Generation"]
 transcript: true

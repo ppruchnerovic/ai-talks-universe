@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 20
 published_at: 2025-10-14T16:01:18Z
 video_id: fulofLB7bZk
+url: https://www.youtube.com/watch?v=fulofLB7bZk
 youtube_url: https://www.youtube.com/watch?v=fulofLB7bZk
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
 transcript: false

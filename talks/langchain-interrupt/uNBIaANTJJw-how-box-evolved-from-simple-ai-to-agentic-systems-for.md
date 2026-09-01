@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 10
 published_at: null
 video_id: uNBIaANTJJw
+url: https://www.youtube.com/watch?v=uNBIaANTJJw
 youtube_url: https://www.youtube.com/watch?v=uNBIaANTJJw
 tags: []
 transcript: false

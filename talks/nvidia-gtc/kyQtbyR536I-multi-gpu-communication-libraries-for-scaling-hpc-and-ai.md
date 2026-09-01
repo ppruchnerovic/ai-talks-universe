@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 42
 published_at: null
 video_id: kyQtbyR536I
+url: https://www.youtube.com/watch?v=kyQtbyR536I
 youtube_url: https://www.youtube.com/watch?v=kyQtbyR536I
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Nicolas Papernot"
 duration_min: 61
 published_at: null
 video_id: d-f-elaiIt8
+url: https://www.youtube.com/watch?v=d-f-elaiIt8
 youtube_url: https://www.youtube.com/watch?v=d-f-elaiIt8
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T14:00:35Z
 video_id: 0erUyH7vGZk
+url: https://www.youtube.com/watch?v=0erUyH7vGZk
 youtube_url: https://www.youtube.com/watch?v=0erUyH7vGZk
 tags: ["PostgreSQL tutorial", "MongoDB tutorial", "database comparison", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "NoSQL", "database selection", "database design", "developer tools", "JSON data types", "ACID transactions", "Python tutorial", "relational databases", "document databases", "database architecture", "data modeling", "performance tuning", "indexing", "query optimization", "scaling strategies", "replication", "sharding", "backup recovery"]
 transcript: false

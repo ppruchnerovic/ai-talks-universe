@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 56
 published_at: 2026-02-10T14:01:39Z
 video_id: wueNYL-wNiU
+url: https://www.youtube.com/watch?v=wueNYL-wNiU
 youtube_url: https://www.youtube.com/watch?v=wueNYL-wNiU
 tags: ["ainativedev"]
 transcript: true

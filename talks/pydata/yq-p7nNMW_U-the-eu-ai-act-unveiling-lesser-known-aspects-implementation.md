@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:57Z
 video_id: yq-p7nNMW_U
+url: https://www.youtube.com/watch?v=yq-p7nNMW_U
 youtube_url: https://www.youtube.com/watch?v=yq-p7nNMW_U
 tags: ["AI auditing", "AI ethics", "AI fairness", "AI policy", "AI regulation", "Conference", "EU AI Act", "European AI regulation", "GDPR", "PyConDE", "PyData", "Python", "Tech Talk", "algorithmic accountability", "biometric identification", "high-risk AI systems", "law enforcement AI", "machine learning governance", "regulatory compliance", "tech policy"]
 transcript: false

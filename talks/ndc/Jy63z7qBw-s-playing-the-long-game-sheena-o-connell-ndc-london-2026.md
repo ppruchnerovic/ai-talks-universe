@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 46
 published_at: 2026-02-11T12:59:26Z
 video_id: Jy63z7qBw-s
+url: https://www.youtube.com/watch?v=Jy63z7qBw-s
 youtube_url: https://www.youtube.com/watch?v=Jy63z7qBw-s
 tags: ["AI", "Ethics", "People", "Work skills", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Sheena O'Connell"]
 transcript: true

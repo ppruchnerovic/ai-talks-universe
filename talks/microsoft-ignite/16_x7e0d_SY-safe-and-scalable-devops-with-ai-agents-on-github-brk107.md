@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T00:45:29Z
 video_id: 16_x7e0d_SY
+url: https://www.youtube.com/watch?v=16_x7e0d_SY
 youtube_url: https://www.youtube.com/watch?v=16_x7e0d_SY
 tags: ["BRK107", "BRK107_v1", "Chris Patterson", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Luke Hoban", "Safe and scalable DevOps with AI agents on GitHub | BRK107", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

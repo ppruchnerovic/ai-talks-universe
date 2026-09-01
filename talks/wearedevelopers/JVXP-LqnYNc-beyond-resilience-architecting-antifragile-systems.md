@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T09:30:00+00:00
 video_id: JVXP-LqnYNc
+url: https://www.youtube.com/watch?v=JVXP-LqnYNc
 youtube_url: https://www.youtube.com/watch?v=JVXP-LqnYNc
 tags: ["Software Architecture", "Chaos Engineering", "DevOps", "DevSecOps", "Microservices", "Threat Modelling"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Slush"
 duration_min: 26
 published_at: 2025-11-26T15:15:14Z
 video_id: QnN1pPsoRvE
+url: https://www.youtube.com/watch?v=QnN1pPsoRvE
 youtube_url: https://www.youtube.com/watch?v=QnN1pPsoRvE
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 63
 published_at: 2025-12-29T19:39:06Z
 video_id: Jty4s9-Jb78
+url: https://www.youtube.com/watch?v=Jty4s9-Jb78
 youtube_url: https://www.youtube.com/watch?v=Jty4s9-Jb78
 tags: []
 transcript: false

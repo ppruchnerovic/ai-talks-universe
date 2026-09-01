@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 19
 published_at: 2026-07-09T15:30:00+00:00
 video_id: lnBD6FajaHQ
+url: https://www.youtube.com/watch?v=lnBD6FajaHQ
 youtube_url: https://www.youtube.com/watch?v=lnBD6FajaHQ
 tags: ["Frontend, Web & Mobile", "JavaScript", "React", "TypeScript"]
 transcript: true

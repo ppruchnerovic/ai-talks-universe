@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 40
 published_at: 2025-02-07T18:38:51Z
 video_id: HpQP3lMg3iw
+url: https://www.youtube.com/watch?v=HpQP3lMg3iw
 youtube_url: https://www.youtube.com/watch?v=HpQP3lMg3iw
 tags: []
 transcript: false

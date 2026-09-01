@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2024-02-26T21:02:59Z
 video_id: mDJSH40ufRY
+url: https://www.youtube.com/watch?v=mDJSH40ufRY
 youtube_url: https://www.youtube.com/watch?v=mDJSH40ufRY
 tags: ["AI", "ML"]
 transcript: false

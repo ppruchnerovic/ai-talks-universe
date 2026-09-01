@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 35
 published_at: 2026-07-09T14:10:00+00:00
 video_id: j_gA2D9r_Gc
+url: https://www.youtube.com/watch?v=j_gA2D9r_Gc
 youtube_url: https://www.youtube.com/watch?v=j_gA2D9r_Gc
 tags: ["Strategy & Innovation", "Open Source", "Product Strategy", "Reliability"]
 transcript: true

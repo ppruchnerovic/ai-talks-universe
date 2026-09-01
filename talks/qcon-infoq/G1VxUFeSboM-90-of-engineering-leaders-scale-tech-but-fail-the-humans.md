@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-06-03T03:45:44Z
 video_id: G1VxUFeSboM
+url: https://www.youtube.com/watch?v=G1VxUFeSboM
 youtube_url: https://www.youtube.com/watch?v=G1VxUFeSboM
 tags: ["InfoQ Dev Summit", "InfoQ", "Transcript", "Culture", "Agile", "Scaling", "Scalability", "Teamwork", "Performance", "Software Engineering", "Software Leadership", "Psychological Safety", "Tech Lead"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 36
 published_at: 2026-07-09T07:30:00+00:00
 video_id: ggh3kdcer2U
+url: https://www.youtube.com/watch?v=ggh3kdcer2U
 youtube_url: https://www.youtube.com/watch?v=ggh3kdcer2U
 tags: ["Developer Experience"]
 transcript: true

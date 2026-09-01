@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 39
 published_at: 2026-06-25T16:18:33Z
 video_id: AKGV5wPQdd8
+url: https://www.youtube.com/watch?v=AKGV5wPQdd8
 youtube_url: https://www.youtube.com/watch?v=AKGV5wPQdd8
 tags: []
 transcript: true

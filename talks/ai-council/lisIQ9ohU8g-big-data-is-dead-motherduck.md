@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 26
 published_at: 2023-05-11T18:57:27Z
 video_id: lisIQ9ohU8g
+url: https://www.youtube.com/watch?v=lisIQ9ohU8g
 youtube_url: https://www.youtube.com/watch?v=lisIQ9ohU8g
 tags: ["BigQuery", "Big Data", "Machine Learning", "duckdb", "databases", "data infrastructure"]
 transcript: false

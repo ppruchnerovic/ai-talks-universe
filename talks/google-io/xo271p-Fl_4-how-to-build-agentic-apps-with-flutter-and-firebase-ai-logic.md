@@ -12,6 +12,7 @@ channel: "Flutter"
 duration_min: 22
 published_at: null
 video_id: xo271p-Fl_4
+url: https://www.youtube.com/watch?v=xo271p-Fl_4
 youtube_url: https://www.youtube.com/watch?v=xo271p-Fl_4
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 20
 published_at: 2024-07-01T19:27:48Z
 video_id: UVjeqjijb6s
+url: https://www.youtube.com/watch?v=UVjeqjijb6s
 youtube_url: https://www.youtube.com/watch?v=UVjeqjijb6s
 tags: []
 transcript: false

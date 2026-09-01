@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 18
 published_at: 2025-05-29T00:16:20Z
 video_id: S5upxdqT76Y
+url: https://www.youtube.com/watch?v=S5upxdqT76Y
 youtube_url: https://www.youtube.com/watch?v=S5upxdqT76Y
 tags: ["WASM", "streaming visualization", "ChatGPT", "artificial intelligence", "machine learning", "data visualization", "real time charts", "web development", "local first", "browser analytics", "WebAssembly", "DuckDB", "Python tutorial", "client side computing", "edge computing", "portable applications", "high performance web apps", "streaming data visualization", "interactive dashboards", "real time analytics", "browser based analytics"]
 transcript: false

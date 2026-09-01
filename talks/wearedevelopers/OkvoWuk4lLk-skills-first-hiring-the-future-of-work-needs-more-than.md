@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 35
 published_at: 2025-04-04T12:45:46Z
 video_id: OkvoWuk4lLk
+url: https://www.youtube.com/watch?v=OkvoWuk4lLk
 youtube_url: https://www.youtube.com/watch?v=OkvoWuk4lLk
 tags: ["IT", "people", "future", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "TA", "hiring", "hr", "people and culture", "skills-first hiring", "skill-based hiring", "future of work", "candidates", "skills"]
 transcript: false

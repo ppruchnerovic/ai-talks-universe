@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-25T12:03:39Z
 video_id: E9XSivS59KI
+url: https://www.youtube.com/watch?v=E9XSivS59KI
 youtube_url: https://www.youtube.com/watch?v=E9XSivS59KI
 tags: ["English (US)", "Financial Services", "Nicholas DiCola", "ODSP1434", "ODSP1434_v1", "Platform demo for automating microsegmentation | ODSP1434", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

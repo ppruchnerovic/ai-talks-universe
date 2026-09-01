@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T12:10:00+00:00
 video_id: FKuDNyMVcR8
+url: https://www.youtube.com/watch?v=FKuDNyMVcR8
 youtube_url: https://www.youtube.com/watch?v=FKuDNyMVcR8
 tags: ["Software Architecture", "AI Models", "Agents", "Agentic AI", "Developer Experience (DevEx)", "DevSecOps", "Digital Transformation", "Infrastructure", "Slack", "Vibe Coding"]
 transcript: true

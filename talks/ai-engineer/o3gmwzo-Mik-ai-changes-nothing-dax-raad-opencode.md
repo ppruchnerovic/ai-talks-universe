@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 17
 published_at: 2025-11-23T00:00:00Z
 video_id: o3gmwzo-Mik
+url: https://www.youtube.com/watch?v=o3gmwzo-Mik
 youtube_url: https://www.youtube.com/watch?v=o3gmwzo-Mik
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-25T12:11:19Z
 video_id: U6DmzW-Xf_4
+url: https://www.youtube.com/watch?v=U6DmzW-Xf_4
 youtube_url: https://www.youtube.com/watch?v=U6DmzW-Xf_4
 tags: ["Copilot and agents at work", "Copilot and agents at work:Microsoft 365 Copilot", "Dallas Cullen", "English (US)", "Microsoft AI Cloud Partner Program", "Oliver Berchtold", "PBRK304", "Partner Business", "Partner: Grow a Secure AI Productivity CSP business with Microsoft 365 | PBRK304", "Ryan Argall", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

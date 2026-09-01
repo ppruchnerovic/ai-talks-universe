@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T13:38:56Z
 video_id: bjf_emvhF7k
+url: https://www.youtube.com/watch?v=bjf_emvhF7k
 youtube_url: https://www.youtube.com/watch?v=bjf_emvhF7k
 tags: ["AI", "Administration", "BRK296", "Breakout", "Copilot + PC", "Deployment", "Devices", "English (US)", "Intermediate (200)", "Intune", "Microsoft Copilot", "Microsoft Defender for Endpoint", "Modern Work", "Secure your endpoints with Surface | BRK296", "Security", "Security in Windows", "Surface", "Technical", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

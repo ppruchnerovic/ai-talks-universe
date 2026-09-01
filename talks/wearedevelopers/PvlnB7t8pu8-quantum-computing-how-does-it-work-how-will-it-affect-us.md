@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T11:40:00+00:00
 video_id: PvlnB7t8pu8
+url: https://www.youtube.com/watch?v=PvlnB7t8pu8
 youtube_url: https://www.youtube.com/watch?v=PvlnB7t8pu8
 tags: ["Emerging Technologies", "Cryptography", "Quantum", "Security"]
 transcript: true

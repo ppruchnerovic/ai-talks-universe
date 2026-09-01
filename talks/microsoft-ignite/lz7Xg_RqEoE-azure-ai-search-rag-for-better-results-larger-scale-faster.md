@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:05:48Z
 video_id: lz7Xg_RqEoE
+url: https://www.youtube.com/watch?v=lz7Xg_RqEoE
 youtube_url: https://www.youtube.com/watch?v=lz7Xg_RqEoE
 tags: ["AI", "AI search", "Advanced (300)", "Azure AI Search: RAG for better results larger scale faster answers | BRK105", "BRK105", "Breakout", "English (US)", "GenAI", "Pablo Castro", "Technical", "Version v1", "ignite", "ignite 2024", "knowledgeretrieval", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "vectorsearch"]
 transcript: false

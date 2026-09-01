@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 34
 published_at: null
 video_id: IJPKA-l0N7Y
+url: https://www.youtube.com/watch?v=IJPKA-l0N7Y
 youtube_url: https://www.youtube.com/watch?v=IJPKA-l0N7Y
 tags: []
 transcript: false

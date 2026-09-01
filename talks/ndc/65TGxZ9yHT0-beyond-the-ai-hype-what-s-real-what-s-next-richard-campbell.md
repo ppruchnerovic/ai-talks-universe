@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-02-09T14:29:10Z
 video_id: 65TGxZ9yHT0
+url: https://www.youtube.com/watch?v=65TGxZ9yHT0
 youtube_url: https://www.youtube.com/watch?v=65TGxZ9yHT0
 tags: ["AI", "Ethics", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Richard Campbell"]
 transcript: true

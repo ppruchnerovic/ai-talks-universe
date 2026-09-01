@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 35
 published_at: 2024-11-25T15:03:52Z
 video_id: -G3wPEBM668
+url: https://www.youtube.com/watch?v=-G3wPEBM668
 youtube_url: https://www.youtube.com/watch?v=-G3wPEBM668
 tags: ["AI", "BRKFP375", "Breakout", "Data governance", "Dataverse", "English (US)", "Imagine adopt and succeed with Insight’s AI Design Framework | BRKFP375", "Intermediate (200)", "Meagan Gentry", "Responsible AI", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

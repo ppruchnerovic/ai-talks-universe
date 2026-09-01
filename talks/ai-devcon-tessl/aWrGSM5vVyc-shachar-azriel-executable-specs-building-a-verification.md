@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-06-15T04:30:23Z
 video_id: aWrGSM5vVyc
+url: https://www.youtube.com/watch?v=aWrGSM5vVyc
 youtube_url: https://www.youtube.com/watch?v=aWrGSM5vVyc
 tags: ["AI DevCon 2026", "AI code review", "AI integration", "AIDevCon", "AWS Agent Core", "Building a Verification Layer", "Figma MCP", "Figma MCP integration", "agentic coding", "ainativedev", "context engineering", "how to verify AI code", "spec-driven development", "verification layer", "what is agentic coding"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 28
 published_at: 2025-11-23T14:33:49Z
 video_id: 1fpTYyHOLz4
+url: https://www.youtube.com/watch?v=1fpTYyHOLz4
 youtube_url: https://www.youtube.com/watch?v=1fpTYyHOLz4
 tags: ["Bayesian inference", "Conference", "PyConDE", "PyData", "PyMC Marketing", "Python", "Tech Talk", "business analytics", "causal inference", "consumer choice models", "data science", "discrete choice modeling", "econometrics", "machine learning", "market analysis", "multinomial logit", "nested logit", "product strategy"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 26
 published_at: 2023-04-05T17:55:59Z
 video_id: kps104aklvI
+url: https://www.youtube.com/watch?v=kps104aklvI
 youtube_url: https://www.youtube.com/watch?v=kps104aklvI
 tags: []
 transcript: false

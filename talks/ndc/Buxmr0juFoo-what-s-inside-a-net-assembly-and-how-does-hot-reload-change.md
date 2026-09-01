@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 54
 published_at: 2025-06-03T09:15:00Z
 video_id: Buxmr0juFoo
+url: https://www.youtube.com/watch?v=Buxmr0juFoo
 youtube_url: https://www.youtube.com/watch?v=Buxmr0juFoo
 tags: [".NET", "Programming Languages", "Tools", "Roslyn", "C#", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "David Wengier"]
 transcript: false

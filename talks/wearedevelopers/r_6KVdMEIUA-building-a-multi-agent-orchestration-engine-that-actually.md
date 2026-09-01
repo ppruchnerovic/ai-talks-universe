@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T14:50:00+00:00
 video_id: r_6KVdMEIUA
+url: https://www.youtube.com/watch?v=r_6KVdMEIUA
 youtube_url: https://www.youtube.com/watch?v=r_6KVdMEIUA
 tags: ["AI Agents", "AI Models", "AI Standards", "Agentic AI", "Code Generation", "LangChain", "Multi-Agent Systems"]
 transcript: true

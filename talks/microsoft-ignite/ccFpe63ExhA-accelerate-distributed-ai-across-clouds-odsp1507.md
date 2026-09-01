@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-19T14:29:10Z
 video_id: ccFpe63ExhA
+url: https://www.youtube.com/watch?v=ccFpe63ExhA
 youtube_url: https://www.youtube.com/watch?v=ccFpe63ExhA
 tags: ["Accelerate Distributed AI across Clouds | ODSP1507", "English (US)", "Kevin Egan", "ODSP1507", "ODSP1507_v2", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

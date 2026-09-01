@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 34
 published_at: 2023-08-18T01:37:38Z
 video_id: 3Op9EnySeH4
+url: https://www.youtube.com/watch?v=3Op9EnySeH4
 youtube_url: https://www.youtube.com/watch?v=3Op9EnySeH4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "The Critical Missing Component in the Production ML Stack", "ML Stack", "Critical Missing Component in the Production ML Stack", "ml production"]
 transcript: false

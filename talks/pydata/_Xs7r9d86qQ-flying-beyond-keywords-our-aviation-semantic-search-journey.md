@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:53Z
 video_id: _Xs7r9d86qQ
+url: https://www.youtube.com/watch?v=_Xs7r9d86qQ
 youtube_url: https://www.youtube.com/watch?v=_Xs7r9d86qQ
 tags: ["AWS Lambda", "Conference", "FastAPI", "NLP", "OpenVINO", "Postgres", "PyConDE", "PyData", "Python", "Tech Talk", "aviation", "embeddings", "hybrid search", "machine learning", "pgvector", "reranking", "semantic search", "vector database"]
 transcript: false

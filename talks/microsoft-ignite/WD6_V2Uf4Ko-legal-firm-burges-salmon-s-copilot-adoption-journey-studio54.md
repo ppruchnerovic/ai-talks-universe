@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-25T22:58:09Z
 video_id: WD6_V2Uf4Ko
+url: https://www.youtube.com/watch?v=WD6_V2Uf4Ko
 youtube_url: https://www.youtube.com/watch?v=WD6_V2Uf4Ko
 tags: ["Alice Ratcliffe", "Chris Huntingford", "Dona Sarkar", "Eddie Twemlow", "English (US)", "Legal Firm Burges Salmon's Copilot Adoption Journey | Studio54", "Studio", "Studio54", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

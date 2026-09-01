@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 34
 published_at: 2026-07-10T09:40:00+00:00
 video_id: FP_6JiBHrHE
+url: https://www.youtube.com/watch?v=FP_6JiBHrHE
 youtube_url: https://www.youtube.com/watch?v=FP_6JiBHrHE
 tags: ["Frontend, Web & Mobile", "Generative AI (GenAI)", "Workflows"]
 transcript: true

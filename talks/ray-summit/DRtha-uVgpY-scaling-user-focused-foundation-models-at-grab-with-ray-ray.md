@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: DRtha-uVgpY
+url: https://www.youtube.com/watch?v=DRtha-uVgpY
 youtube_url: https://www.youtube.com/watch?v=DRtha-uVgpY
 tags: []
 transcript: false

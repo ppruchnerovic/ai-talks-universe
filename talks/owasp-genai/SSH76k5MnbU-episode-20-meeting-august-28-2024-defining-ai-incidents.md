@@ -12,6 +12,7 @@ channel: null
 duration_min: 53
 published_at: null
 video_id: SSH76k5MnbU
+url: https://www.youtube.com/watch?v=SSH76k5MnbU
 youtube_url: https://www.youtube.com/watch?v=SSH76k5MnbU
 tags: []
 transcript: false

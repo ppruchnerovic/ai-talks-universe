@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 32
 published_at: 2026-06-17T12:34:20Z
 video_id: OaRhpwz_TGM
+url: https://www.youtube.com/watch?v=OaRhpwz_TGM
 youtube_url: https://www.youtube.com/watch?v=OaRhpwz_TGM
 tags: []
 transcript: true

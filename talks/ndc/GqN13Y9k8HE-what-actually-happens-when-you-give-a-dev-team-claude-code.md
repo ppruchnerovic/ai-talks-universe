@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 44
 published_at: 2026-06-30T07:38:44Z
 video_id: GqN13Y9k8HE
+url: https://www.youtube.com/watch?v=GqN13Y9k8HE
 youtube_url: https://www.youtube.com/watch?v=GqN13Y9k8HE
 tags: ["AI-Assisted Development", "AI", "Code", "Claude", "Claude Code", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Stian Håklev"]
 transcript: true

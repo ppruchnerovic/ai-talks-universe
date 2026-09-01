@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-25T12:56:53Z
 video_id: uMyFmK-oXrQ
+url: https://www.youtube.com/watch?v=uMyFmK-oXrQ
 youtube_url: https://www.youtube.com/watch?v=uMyFmK-oXrQ
 tags: ["BRK212", "Breakout", "Charlie Rohlf", "English (US)", "Infrastructure", "Infrastructure-Curated", "Ingesting processing and delivering NBA’s AI-powered stats features | BRK212", "Intermediate (200)", "Jasmine Greenaway", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

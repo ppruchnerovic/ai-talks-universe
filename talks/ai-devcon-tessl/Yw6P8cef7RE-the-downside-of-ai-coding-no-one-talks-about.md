@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 56
 published_at: 2026-04-14T13:30:43Z
 video_id: Yw6P8cef7RE
+url: https://www.youtube.com/watch?v=Yw6P8cef7RE
 youtube_url: https://www.youtube.com/watch?v=Yw6P8cef7RE
 tags: ["AI Native DevCon", "AI Native DevCon event", "AI coding", "AI coding evolution", "AI integration", "Claude Code", "Claude Code tools", "DevOps", "DevOps in AI", "Meta engineers", "agent enablement", "ainativedev", "context engineering", "how to manage AI agents", "software development lifecycle"]
 transcript: true

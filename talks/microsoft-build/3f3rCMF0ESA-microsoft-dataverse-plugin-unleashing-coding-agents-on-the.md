@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T14:38:23Z
 video_id: 3f3rCMF0ESA
+url: https://www.youtube.com/watch?v=3f3rCMF0ESA
 youtube_url: https://www.youtube.com/watch?v=3f3rCMF0ESA
 tags: ["Agents", "App Developers", "Data", "DevTools", "Developer", "Developer Frameworks", "Developer Languages", "Developer Technologies", "GitHub Copilot", "GitHub Copilot CLI", "Kent Weare", "MCP", "Microsoft Dataverse plugin: unleashing coding agents on the enterprise | OD849", "OD849", "OD849_v3", "Python", "Suyash Kshirsagar", "Visual Studio Code", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

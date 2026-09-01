@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2024-01-01T10:00:17Z
 video_id: SbXFI5IyjL8
+url: https://www.youtube.com/watch?v=SbXFI5IyjL8
 youtube_url: https://www.youtube.com/watch?v=SbXFI5IyjL8
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Data Analysis", "Database", "InfoQ", "QCon", "Transcript"]
 transcript: false

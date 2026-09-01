@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T10:01:10Z
 video_id: BGSn34cfoMg
+url: https://www.youtube.com/watch?v=BGSn34cfoMg
 youtube_url: https://www.youtube.com/watch?v=BGSn34cfoMg
 tags: ["AI", "Ayora Berry", "Azure", "BRK268", "Breakout", "Copilot", "English (US)", "ISV", "Industrials", "Industry", "Industry for Partner", "Industry-Curated", "Intermediate (200)", "Manufacturing", "Mobility", "Partner Business", "SI", "Solution Area", "Unlock industrial AI transformation opportunities and growth | BRK268", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

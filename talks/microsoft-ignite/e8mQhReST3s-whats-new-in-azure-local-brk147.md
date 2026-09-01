@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-24T12:00:15Z
 video_id: e8mQhReST3s
+url: https://www.youtube.com/watch?v=e8mQhReST3s
 youtube_url: https://www.youtube.com/watch?v=e8mQhReST3s
 tags: ["322cf2e4-e830-42c6-be61-2b664325ac1a_Segment", "BRK147", "Dean Paron", "English (US)", "Meena Gowdar", "Migrate and modernize your estate", "Mohamed Khalid", "Technical", "What’s new in Azure Local | BRK147", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

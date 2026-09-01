@@ -12,6 +12,7 @@ channel: null
 duration_min: 23
 published_at: null
 video_id: bOrP_lgCqSs
+url: https://www.youtube.com/watch?v=bOrP_lgCqSs
 youtube_url: https://www.youtube.com/watch?v=bOrP_lgCqSs
 tags: []
 transcript: false

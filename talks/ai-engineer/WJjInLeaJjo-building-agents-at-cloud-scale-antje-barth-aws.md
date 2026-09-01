@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-08-02T00:00:00Z
 video_id: WJjInLeaJjo
+url: https://www.youtube.com/watch?v=WJjInLeaJjo
 youtube_url: https://www.youtube.com/watch?v=WJjInLeaJjo
 tags: []
 transcript: false

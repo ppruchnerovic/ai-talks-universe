@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T12:10:00+00:00
 video_id: XlBwD_pBDp8
+url: https://www.youtube.com/watch?v=XlBwD_pBDp8
 youtube_url: https://www.youtube.com/watch?v=XlBwD_pBDp8
 tags: ["Data & Databases", "AI Coding Assistants", "Analytics", "Data", "Databases", "DuckDB", "Generative AI (GenAI)"]
 transcript: true

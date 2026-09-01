@@ -12,6 +12,7 @@ channel: null
 duration_min: 26
 published_at: null
 video_id: FarU2GM4yRQ
+url: https://www.youtube.com/watch?v=FarU2GM4yRQ
 youtube_url: https://www.youtube.com/watch?v=FarU2GM4yRQ
 tags: []
 transcript: false

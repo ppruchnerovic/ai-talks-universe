@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-22T08:31:07Z
 video_id: q0JuL-tSZMk
+url: https://www.youtube.com/watch?v=q0JuL-tSZMk
 youtube_url: https://www.youtube.com/watch?v=q0JuL-tSZMk
 tags: ["Amanda Minnich", "Amulya Panakam", "Ann Johnson", "BRK330", "Breakout", "English (US)", "Foundational (100)", "Security", "Technical", "The Power of Diversity: Building a stronger workforce in the era of AI | BRK330", "Vasu Jakkal", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

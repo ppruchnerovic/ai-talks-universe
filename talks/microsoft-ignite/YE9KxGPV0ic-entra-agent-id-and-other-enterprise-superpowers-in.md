@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T08:25:11Z
 video_id: YE9KxGPV0ic
+url: https://www.youtube.com/watch?v=YE9KxGPV0ic
 youtube_url: https://www.youtube.com/watch?v=YE9KxGPV0ic
 tags: ["77f3a27f-d8d6-4e72-81a2-f6e5bfc29217_Segment", "Akshaya Annavajhala", "Amanda Foster", "BRK186", "English (US)", "Entra Agent ID and other enterprise superpowers in Microsoft Foundry | BRK186", "Gerald Ertl", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

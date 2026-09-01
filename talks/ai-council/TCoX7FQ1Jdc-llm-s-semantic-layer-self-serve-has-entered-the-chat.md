@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 26
 published_at: 2023-05-11T18:57:20Z
 video_id: TCoX7FQ1Jdc
+url: https://www.youtube.com/watch?v=TCoX7FQ1Jdc
 youtube_url: https://www.youtube.com/watch?v=TCoX7FQ1Jdc
 tags: ["analytics", "data science", "LLM", "semantic layer", "AI"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 22
 published_at: null
 video_id: mej049HSFg4
+url: https://www.youtube.com/watch?v=mej049HSFg4
 youtube_url: https://www.youtube.com/watch?v=mej049HSFg4
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 23
 published_at: null
 video_id: Ptach9Ouzj8
+url: https://www.youtube.com/watch?v=Ptach9Ouzj8
 youtube_url: https://www.youtube.com/watch?v=Ptach9Ouzj8
 tags: []
 transcript: false

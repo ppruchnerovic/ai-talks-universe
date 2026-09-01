@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-08-05T11:56:56Z
 video_id: Tjmk7fmEUy4
+url: https://www.youtube.com/watch?v=Tjmk7fmEUy4
 youtube_url: https://www.youtube.com/watch?v=Tjmk7fmEUy4
 tags: ["AI", "Ethics", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Einar Høst", "Einar Host"]
 transcript: true

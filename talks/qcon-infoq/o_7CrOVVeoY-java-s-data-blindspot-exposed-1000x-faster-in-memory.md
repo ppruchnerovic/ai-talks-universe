@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 54
 published_at: 2025-06-09T09:24:24Z
 video_id: o_7CrOVVeoY
+url: https://www.youtube.com/watch?v=o_7CrOVVeoY
 youtube_url: https://www.youtube.com/watch?v=o_7CrOVVeoY
 tags: ["Java", "Database", "EclipseStore", "AI", "ML", "Data Engineering", "InfoQ Dev Summit", "InfoQ", "Transcript", "Database Design", "In-Memory Databases", "Performance", "Software Architecture"]
 transcript: false

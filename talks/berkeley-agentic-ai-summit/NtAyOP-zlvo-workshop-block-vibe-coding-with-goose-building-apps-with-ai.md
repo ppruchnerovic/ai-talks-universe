@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 51
 published_at: 2025-09-12T20:56:59Z
 video_id: NtAyOP-zlvo
+url: https://www.youtube.com/watch?v=NtAyOP-zlvo
 youtube_url: https://www.youtube.com/watch?v=NtAyOP-zlvo
 tags: []
 transcript: false

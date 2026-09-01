@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T14:50:00+00:00
 video_id: gw35PigLgao
+url: https://www.youtube.com/watch?v=gw35PigLgao
 youtube_url: https://www.youtube.com/watch?v=gw35PigLgao
 tags: ["Languages & Runtimes", "C#", "Clean Code", "Code Generation", ".NET"]
 transcript: true

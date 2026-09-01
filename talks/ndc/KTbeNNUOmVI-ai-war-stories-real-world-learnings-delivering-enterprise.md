@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2025-06-03T09:00:34Z
 video_id: KTbeNNUOmVI
+url: https://www.youtube.com/watch?v=KTbeNNUOmVI
 youtube_url: https://www.youtube.com/watch?v=KTbeNNUOmVI
 tags: ["AI", ".NET", "Architecture", "NDC", "Conferences", "Melbourne", "Australia", "Fun", "Live", "2025", "Adam Stephenson"]
 transcript: false

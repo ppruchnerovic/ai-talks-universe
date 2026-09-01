@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 63
 published_at: 2026-07-06T12:17:22Z
 video_id: 4Q0eE8H6djI
+url: https://www.youtube.com/watch?v=4Q0eE8H6djI
 youtube_url: https://www.youtube.com/watch?v=4Q0eE8H6djI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: true

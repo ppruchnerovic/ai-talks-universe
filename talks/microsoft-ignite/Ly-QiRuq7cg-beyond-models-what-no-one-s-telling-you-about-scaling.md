@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T11:45:08Z
 video_id: Ly-QiRuq7cg
+url: https://www.youtube.com/watch?v=Ly-QiRuq7cg
 youtube_url: https://www.youtube.com/watch?v=Ly-QiRuq7cg
 tags: ["BRK411", "BRK411_v1", "Beyond Models: What No One's Telling you about Scaling Agents | BRK411", "Copilot and agents at work", "English (US)", "Nick Baguley", "Other", "Other:Startups", "Partner Business", "Sharon Zhang", "Technical", "Tom Davis", "Zion Zatlavi", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

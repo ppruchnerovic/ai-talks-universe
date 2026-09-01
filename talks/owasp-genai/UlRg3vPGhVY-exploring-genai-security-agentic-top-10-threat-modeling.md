@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 21
 published_at: 2025-07-31T16:00:50Z
 video_id: UlRg3vPGhVY
+url: https://www.youtube.com/watch?v=UlRg3vPGhVY
 youtube_url: https://www.youtube.com/watch?v=UlRg3vPGhVY
 tags: ["GenAI Security", "Agentic", "Top 10", "OWASP", "Threat Modeling", "Community", "Hackathons", "LLM", "large language model", "AI", "artificial intelligence", "cybersecurity", "exploring"]
 transcript: false

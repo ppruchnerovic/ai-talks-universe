@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 197
 published_at: 2024-11-19T17:21:04Z
 video_id: wb_uWHFJBnA
+url: https://www.youtube.com/watch?v=wb_uWHFJBnA
 youtube_url: https://www.youtube.com/watch?v=wb_uWHFJBnA
 tags: ["Microsoft", "Microsoft Ignite", "#MSIgnite", "AI"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-04T13:06:24Z
 video_id: 0mLL3aS9Wxw
+url: https://www.youtube.com/watch?v=0mLL3aS9Wxw
 youtube_url: https://www.youtube.com/watch?v=0mLL3aS9Wxw
 tags: ["Agents", "Alex Watson", "Ali Golshan", "DEMSP387", "Secure agent workflows in GitHub Copilot with NVIDIA OpenShell | DEMSP387", "b73f26f9-8342-4119-b417-82d0136435b9_M9Z7-DEMSP387-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

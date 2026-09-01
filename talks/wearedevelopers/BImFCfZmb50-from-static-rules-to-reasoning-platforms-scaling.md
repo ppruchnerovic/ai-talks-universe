@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T11:30:00+00:00
 video_id: BImFCfZmb50
+url: https://www.youtube.com/watch?v=BImFCfZmb50
 youtube_url: https://www.youtube.com/watch?v=BImFCfZmb50
 tags: ["DevOps", "Agentic AI", "ArgoCD", "CI/CD", "Internal Platforms"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-04T12:13:06Z
 video_id: ge5PM7pX49k
+url: https://www.youtube.com/watch?v=ge5PM7pX49k
 youtube_url: https://www.youtube.com/watch?v=ge5PM7pX49k
 tags: ["Agentic SDLC", "Agents", "Aspire", "Aspire for agents: Transform how you build and deploy distributed apps | BRK205", "Azure", "BRK205", "David Fowler", "DevTools", "Developer", "Maddy Montaquila", "OSS", "Python", "build", "build 2026", "e19a5e82-a2b2-4e2f-acdf-804ccc5a0f5b_M9Z7-BRK205-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

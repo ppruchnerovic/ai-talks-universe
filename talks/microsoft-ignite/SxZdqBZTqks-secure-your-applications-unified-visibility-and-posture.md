@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T15:20:44Z
 video_id: SxZdqBZTqks
+url: https://www.youtube.com/watch?v=SxZdqBZTqks
 youtube_url: https://www.youtube.com/watch?v=SxZdqBZTqks
 tags: ["0e9f7dcf-18d8-434a-bada-83e0e7d9748c_Segment", "BRK263", "English (US)", "Giulio Astori", "James P Brotsos", "Protect cloud AI platform and apps", "Secure your applications: Unified Visibility and Posture Management | BRK263", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

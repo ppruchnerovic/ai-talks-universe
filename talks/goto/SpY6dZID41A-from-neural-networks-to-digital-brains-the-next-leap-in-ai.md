@@ -12,6 +12,7 @@ channel: null
 duration_min: 24
 published_at: null
 video_id: SpY6dZID41A
+url: https://www.youtube.com/watch?v=SpY6dZID41A
 youtube_url: https://www.youtube.com/watch?v=SpY6dZID41A
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 17
 published_at: 2023-10-25T21:50:17Z
 video_id: kt-gGh5ryks
+url: https://www.youtube.com/watch?v=kt-gGh5ryks
 youtube_url: https://www.youtube.com/watch?v=kt-gGh5ryks
 tags: []
 transcript: false

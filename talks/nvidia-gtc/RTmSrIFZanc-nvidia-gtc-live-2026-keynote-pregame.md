@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 178
 published_at: 2026-03-16T18:11:23Z
 video_id: RTmSrIFZanc
+url: https://www.youtube.com/watch?v=RTmSrIFZanc
 youtube_url: https://www.youtube.com/watch?v=RTmSrIFZanc
 tags: ["GTC Live", "NVIDIA GTC"]
 transcript: true

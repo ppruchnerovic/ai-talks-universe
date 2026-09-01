@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T14:10:00+00:00
 video_id: H1FzwgRkdbg
+url: https://www.youtube.com/watch?v=H1FzwgRkdbg
 youtube_url: https://www.youtube.com/watch?v=H1FzwgRkdbg
 tags: ["People & Culture", "Collaboration", "Community", "People & Culture"]
 transcript: true

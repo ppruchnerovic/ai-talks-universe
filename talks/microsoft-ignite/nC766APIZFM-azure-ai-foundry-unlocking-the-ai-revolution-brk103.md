@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-20T13:39:31Z
 video_id: nC766APIZFM
+url: https://www.youtube.com/watch?v=nC766APIZFM
 youtube_url: https://www.youtube.com/watch?v=nC766APIZFM
 tags: ["AI", "Asha Sharma", "Azure AI Foundry unlocking the AI revolution | BRK103", "BRK103", "Breakout", "English (US)", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

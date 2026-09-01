@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-27T12:06:20Z
 video_id: o3Ywf7GUy2Q
+url: https://www.youtube.com/watch?v=o3Ywf7GUy2Q
 youtube_url: https://www.youtube.com/watch?v=o3Ywf7GUy2Q
 tags: ["BRK278", "Breakout", "Business Applications", "Dynamics 365", "English (US)", "Get ready for the AI era with a modern CRM | BRK278", "Intermediate (200)", "Marty Priest", "Modern Work-Curated", "Nitasha Chopra", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

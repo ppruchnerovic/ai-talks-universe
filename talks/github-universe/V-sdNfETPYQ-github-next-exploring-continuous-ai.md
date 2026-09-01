@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 28
 published_at: null
 video_id: V-sdNfETPYQ
+url: https://www.youtube.com/watch?v=V-sdNfETPYQ
 youtube_url: https://www.youtube.com/watch?v=V-sdNfETPYQ
 tags: []
 transcript: false

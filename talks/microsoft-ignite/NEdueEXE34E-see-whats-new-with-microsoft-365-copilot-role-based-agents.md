@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:39:21Z
 video_id: NEdueEXE34E
+url: https://www.youtube.com/watch?v=NEdueEXE34E
 youtube_url: https://www.youtube.com/watch?v=NEdueEXE34E
 tags: ["AI", "Aaron Bjork", "Adoption", "BRK161", "Breakout", "Business Applications", "Business Applications-Curated", "Copilot", "English (US)", "Jason Pappas", "Karan Nigam", "Responsible AI", "See what’s new with Microsoft 365 Copilot role-based agents | BRK161", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 69
 published_at: 2024-11-21T10:35:28Z
 video_id: a5vk81WU3do
+url: https://www.youtube.com/watch?v=a5vk81WU3do
 youtube_url: https://www.youtube.com/watch?v=a5vk81WU3do
 tags: ["AI", "Copilot", "Driving Growth Together | GS03", "English (US)", "Foundational (100)", "GS03", "General Session", "Joyce Mullen", "Judson Althoff", "Nick Parker", "Nicole Dezen", "Other", "Partner Business", "Prasad Sankaran", "Satya Nadella", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

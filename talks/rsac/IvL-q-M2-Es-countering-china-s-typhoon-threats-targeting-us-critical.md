@@ -12,6 +12,7 @@ channel: "RSAC Cybersecurity"
 duration_min: 52
 published_at: 2025-06-02T16:49:11Z
 video_id: IvL-q-M2-Es
+url: https://www.youtube.com/watch?v=IvL-q-M2-Es
 youtube_url: https://www.youtube.com/watch?v=IvL-q-M2-Es
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false

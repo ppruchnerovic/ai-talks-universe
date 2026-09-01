@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-24T14:32:29Z
 video_id: wsuud07HJLI
+url: https://www.youtube.com/watch?v=wsuud07HJLI
 youtube_url: https://www.youtube.com/watch?v=wsuud07HJLI
 tags: ["English (US)", "STUDIOSP71", "STUDIOSP71_v1", "Technical", "Transform businesses with SAP and Microsoft AI-powered innovations | STUDIOSP71", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

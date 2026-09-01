@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2025-12-18T11:54:38Z
 video_id: MSz0w1YBlB8
+url: https://www.youtube.com/watch?v=MSz0w1YBlB8
 youtube_url: https://www.youtube.com/watch?v=MSz0w1YBlB8
 tags: ["Software Development", "Meta", "Orion Glasses", "AR Glasses", "QCon London", "InfoQ", "Transcript", "Augmented Reality", "Case Study", "AR", "Software Architecture"]
 transcript: false

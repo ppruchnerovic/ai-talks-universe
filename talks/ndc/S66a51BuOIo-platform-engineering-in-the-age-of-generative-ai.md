@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-07-07T09:03:42Z
 video_id: S66a51BuOIo
+url: https://www.youtube.com/watch?v=S66a51BuOIo
 youtube_url: https://www.youtube.com/watch?v=S66a51BuOIo
 tags: ["GenAI", "Architecture", "DevOps", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark"]
 transcript: true

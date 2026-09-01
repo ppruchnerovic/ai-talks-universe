@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T05:01:57Z
 video_id: 0-wWqG2ju10
+url: https://www.youtube.com/watch?v=0-wWqG2ju10
 youtube_url: https://www.youtube.com/watch?v=0-wWqG2ju10
 tags: ["Ashley Haynes-Gaspar", "BRK292", "BRK292_v1", "Colette Stallbaumer", "Copilot and agents at work", "English (US)", "Fireside chat: How customers are unlocking value & growth with Copilot | BRK292", "Greg Ulrich", "Matt Barrington", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

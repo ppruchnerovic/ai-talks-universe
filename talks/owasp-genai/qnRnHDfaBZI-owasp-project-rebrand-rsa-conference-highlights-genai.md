@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 16
 published_at: 2025-04-18T17:39:56Z
 video_id: qnRnHDfaBZI
+url: https://www.youtube.com/watch?v=qnRnHDfaBZI
 youtube_url: https://www.youtube.com/watch?v=qnRnHDfaBZI
 tags: ["genai security", "podcast", "owasp", "project", "rebrand", "rsa conference", "rsac 2025", "generative ai", "ai"]
 transcript: false

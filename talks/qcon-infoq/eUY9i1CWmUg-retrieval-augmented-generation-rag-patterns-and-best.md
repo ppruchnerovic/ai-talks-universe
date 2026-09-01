@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 45
 published_at: 2024-07-09T08:52:51Z
 video_id: eUY9i1CWmUg
+url: https://www.youtube.com/watch?v=eUY9i1CWmUg
 youtube_url: https://www.youtube.com/watch?v=eUY9i1CWmUg
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "RAG", "Retrieval-Augmented Generation", "LLMs", "Large Language Models", "Patterns", "Best Practices", "Software Architecture", "InfoQ", "QCon London", "Transcript"]
 transcript: false

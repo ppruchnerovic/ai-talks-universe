@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 26
 published_at: 2026-07-01T14:20:48Z
 video_id: VUZpQgNaO4s
+url: https://www.youtube.com/watch?v=VUZpQgNaO4s
 youtube_url: https://www.youtube.com/watch?v=VUZpQgNaO4s
 tags: ["Security", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Erlend Oftedal"]
 transcript: true

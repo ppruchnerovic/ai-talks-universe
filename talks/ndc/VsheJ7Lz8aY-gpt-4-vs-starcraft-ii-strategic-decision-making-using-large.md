@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 59
 published_at: 2025-07-16T10:59:54Z
 video_id: VsheJ7Lz8aY
+url: https://www.youtube.com/watch?v=VsheJ7Lz8aY
 youtube_url: https://www.youtube.com/watch?v=VsheJ7Lz8aY
 tags: ["AI", "Fun", "GPT-4", "NDC", "Conferences", "2025", "Live", "Oslo", "Norway", "Alan Smith"]
 transcript: false

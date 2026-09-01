@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 41
 published_at: 2026-01-23T13:33:44Z
 video_id: CeHaypeHhYE
+url: https://www.youtube.com/watch?v=CeHaypeHhYE
 youtube_url: https://www.youtube.com/watch?v=CeHaypeHhYE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: true

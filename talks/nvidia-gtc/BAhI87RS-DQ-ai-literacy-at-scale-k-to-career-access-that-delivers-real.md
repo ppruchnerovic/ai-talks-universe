@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 40
 published_at: 2026-04-09T16:54:22Z
 video_id: BAhI87RS-DQ
+url: https://www.youtube.com/watch?v=BAhI87RS-DQ
 youtube_url: https://www.youtube.com/watch?v=BAhI87RS-DQ
 tags: ["NVIDIA", "AI Literacy"]
 transcript: true

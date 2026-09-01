@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-02-10T09:42:05Z
 video_id: KLapH09uros
+url: https://www.youtube.com/watch?v=KLapH09uros
 youtube_url: https://www.youtube.com/watch?v=KLapH09uros
 tags: ["Security", "AI", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Ben Dechrai"]
 transcript: true

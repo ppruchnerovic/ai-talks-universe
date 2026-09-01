@@ -12,6 +12,7 @@ channel: null
 duration_min: 32
 published_at: null
 video_id: 6CtvLvWncAs
+url: https://www.youtube.com/watch?v=6CtvLvWncAs
 youtube_url: https://www.youtube.com/watch?v=6CtvLvWncAs
 tags: []
 transcript: false

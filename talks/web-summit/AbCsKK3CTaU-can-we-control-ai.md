@@ -12,6 +12,7 @@ channel: "Web Summit"
 duration_min: 19
 published_at: 2024-08-16T08:00:05Z
 video_id: AbCsKK3CTaU
+url: https://www.youtube.com/watch?v=AbCsKK3CTaU
 youtube_url: https://www.youtube.com/watch?v=AbCsKK3CTaU
 tags: ["web summit", "web summit conference lisbon", "web summit paddy", "web summit youtube", "web summit lisboa", "Lisbon", "Lisboa"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 33
 published_at: 2023-12-18T18:31:36Z
 video_id: MCYzYzaWChY
+url: https://www.youtube.com/watch?v=MCYzYzaWChY
 youtube_url: https://www.youtube.com/watch?v=MCYzYzaWChY
 tags: []
 transcript: false

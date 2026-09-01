@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 36
 published_at: 2023-05-11T19:00:19Z
 video_id: oo1uwJ3qHwE
+url: https://www.youtube.com/watch?v=oo1uwJ3qHwE
 youtube_url: https://www.youtube.com/watch?v=oo1uwJ3qHwE
 tags: ["SQL", "metrics", "Apache Calcite", "data management systems"]
 transcript: false

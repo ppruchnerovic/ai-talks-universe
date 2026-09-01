@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T11:12:11Z
 video_id: _hCIMvjCrYg
+url: https://www.youtube.com/watch?v=_hCIMvjCrYg
 youtube_url: https://www.youtube.com/watch?v=_hCIMvjCrYg
 tags: ["BRKSP472", "Brian Vecci", "English (US)", "Protect cloud AI platform and apps", "Realize multi-AI ambitions with a data-first security approach | BRKSP472", "Secure your data", "Technical", "dcc0f960-614d-4541-b7f8-c16e6c189228_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

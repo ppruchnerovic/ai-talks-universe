@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 29
 published_at: 2026-01-13T00:47:40Z
 video_id: HtJK-Jc-xNY
+url: https://www.youtube.com/watch?v=HtJK-Jc-xNY
 youtube_url: https://www.youtube.com/watch?v=HtJK-Jc-xNY
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T13:44:32Z
 video_id: MUC0nVbeLKM
+url: https://www.youtube.com/watch?v=MUC0nVbeLKM
 youtube_url: https://www.youtube.com/watch?v=MUC0nVbeLKM
 tags: ["8f82e13e-bf7c-4f59-aab7-f231f4500a0f_Segment", "Agentic business applications", "Agentic business applications:Dynamics 365", "Ben Vollmer", "English (US)", "Jared Hall", "Jim Bretschneider", "Microsoft AI Cloud Partner Program", "Niels Jensen", "PBRK361", "Partner Business", "Partner: ERP transformation with AI | PBRK361", "Sameer Verma", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

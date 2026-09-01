@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T09:55:34Z
 video_id: F2dmwt8fPfM
+url: https://www.youtube.com/watch?v=F2dmwt8fPfM
 youtube_url: https://www.youtube.com/watch?v=F2dmwt8fPfM
 tags: ["AI", "API", "Agents", "App Integration", "Data", "Jeff Smith", "MCP", "Move from data to intelligence with Oracle MCP and Microsoft IQ | ODSP919", "ODSP919", "ODSP919_v1", "Ram Kakani", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T14:33:14Z
 video_id: f5_vkoHEXAE
+url: https://www.youtube.com/watch?v=f5_vkoHEXAE
 youtube_url: https://www.youtube.com/watch?v=f5_vkoHEXAE
 tags: ["BRK295", "Copilot and agents at work", "Customer panel: Real-world strategies for AI Agent transformation | BRK295", "English (US)", "John Whittaker", "Mona Riemenschneider", "Saurabh Pant", "Sean Alexander", "Srini Raghavan", "Technical", "Tim Holt", "ac007537-9754-41d6-a4c9-bc685b2b435d_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

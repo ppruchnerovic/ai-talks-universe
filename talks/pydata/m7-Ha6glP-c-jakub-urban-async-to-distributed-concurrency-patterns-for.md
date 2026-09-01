@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 34
 published_at: 2025-11-06T07:09:07Z
 video_id: m7-Ha6glP-c
+url: https://www.youtube.com/watch?v=m7-Ha6glP-c
 youtube_url: https://www.youtube.com/watch?v=m7-Ha6glP-c
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 28
 published_at: 2025-11-23T14:33:57Z
 video_id: uv1_qe_oKkA
+url: https://www.youtube.com/watch?v=uv1_qe_oKkA
 youtube_url: https://www.youtube.com/watch?v=uv1_qe_oKkA
 tags: ["Apache Airflow", "Conference", "FastAPI", "GraphQL", "Next.js", "PyConDE", "PyData", "Python", "React", "Tech Talk", "Three.js", "bioinformatics", "browser performance", "cell painting", "conference talk", "data visualization", "drug discovery", "frontend engineering", "high-dimensional data", "performance optimization"]
 transcript: false

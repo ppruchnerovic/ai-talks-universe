@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 29
 published_at: 2026-06-15T15:54:08Z
 video_id: XQLawv8CO-I
+url: https://www.youtube.com/watch?v=XQLawv8CO-I
 youtube_url: https://www.youtube.com/watch?v=XQLawv8CO-I
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: true

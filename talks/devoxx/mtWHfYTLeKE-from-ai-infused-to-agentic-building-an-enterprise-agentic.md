@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-09T04:45:30Z
 video_id: mtWHfYTLeKE
+url: https://www.youtube.com/watch?v=mtWHfYTLeKE
 youtube_url: https://www.youtube.com/watch?v=mtWHfYTLeKE
 tags: []
 transcript: false

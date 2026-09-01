@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T09:40:00+00:00
 video_id: qHmGduzYUyk
+url: https://www.youtube.com/watch?v=qHmGduzYUyk
 youtube_url: https://www.youtube.com/watch?v=qHmGduzYUyk
 tags: ["People & Culture", "Collaboration", "Communication", "Project Management"]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: fG36PSl_sgo
+url: https://www.youtube.com/watch?v=fG36PSl_sgo
 youtube_url: https://www.youtube.com/watch?v=fG36PSl_sgo
 tags: []
 transcript: false

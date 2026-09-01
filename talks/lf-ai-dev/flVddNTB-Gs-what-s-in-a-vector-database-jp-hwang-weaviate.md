@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 39
 published_at: 2024-06-27T14:40:37Z
 video_id: flVddNTB-Gs
+url: https://www.youtube.com/watch?v=flVddNTB-Gs
 youtube_url: https://www.youtube.com/watch?v=flVddNTB-Gs
 tags: []
 transcript: false

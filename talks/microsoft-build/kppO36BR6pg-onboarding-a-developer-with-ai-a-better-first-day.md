@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-04T13:33:19Z
 video_id: kppO36BR6pg
+url: https://www.youtube.com/watch?v=kppO36BR6pg
 youtube_url: https://www.youtube.com/watch?v=kppO36BR6pg
 tags: ["3f96eb60-e022-4ac1-af17-13b71128c648_M9Z7-DEM367-1", "Community", "DEM367", "DevTools", "Developer", "MVP", "Michel Hubert", "Onboarding a Developer with AI: A Better First-Day Experience | DEM367", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

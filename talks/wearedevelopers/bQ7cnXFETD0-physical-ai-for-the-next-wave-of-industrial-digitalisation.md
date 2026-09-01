@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T09:30:00+00:00
 video_id: bQ7cnXFETD0
+url: https://www.youtube.com/watch?v=bQ7cnXFETD0
 youtube_url: https://www.youtube.com/watch?v=bQ7cnXFETD0
 tags: ["AI Engineering", "AI Standards", "Open Source", "OpenAI", "Robotics"]
 transcript: true

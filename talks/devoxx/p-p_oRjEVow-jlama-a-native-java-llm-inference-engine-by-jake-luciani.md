@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 51
 published_at: 2024-10-11T05:08:44Z
 video_id: p-p_oRjEVow
+url: https://www.youtube.com/watch?v=p-p_oRjEVow
 youtube_url: https://www.youtube.com/watch?v=p-p_oRjEVow
 tags: []
 transcript: false

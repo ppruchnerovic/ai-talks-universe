@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 53
 published_at: 2025-06-04T12:00:21Z
 video_id: AovbXg_R3Pw
+url: https://www.youtube.com/watch?v=AovbXg_R3Pw
 youtube_url: https://www.youtube.com/watch?v=AovbXg_R3Pw
 tags: ["AI", "Machine Learning", "People", "Security", "GenAI", "ML", "ChatGPT", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Vanessa Van Beek"]
 transcript: false

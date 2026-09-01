@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T14:09:32Z
 video_id: ZDq1rvB1VcU
+url: https://www.youtube.com/watch?v=ZDq1rvB1VcU
 youtube_url: https://www.youtube.com/watch?v=ZDq1rvB1VcU
 tags: ["Amir Jafari", "BRK1739", "English (US)", "How Fabric Data Agents Are Powering the Next Wave of AI | BRK1739", "Shreyas Canchi Radhakrishna", "Technical", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "a23ec11d-7d90-4360-b504-fc825b0ad98c_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

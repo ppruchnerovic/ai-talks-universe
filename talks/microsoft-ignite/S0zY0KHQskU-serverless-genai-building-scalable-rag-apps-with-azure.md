@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:50:05Z
 video_id: S0zY0KHQskU
+url: https://www.youtube.com/watch?v=S0zY0KHQskU
 youtube_url: https://www.youtube.com/watch?v=S0zY0KHQskU
 tags: ["Advanced (300)", "Azure", "BRK193", "Bhaskar Bhatt", "Breakout", "Data", "Data-Curated", "English (US)", "James Codella", "PhD", "Serverless GenAI: building scalable RAG apps with Azure Cosmos DB | BRK193", "Technical", "Version v0", "Zhe Li", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

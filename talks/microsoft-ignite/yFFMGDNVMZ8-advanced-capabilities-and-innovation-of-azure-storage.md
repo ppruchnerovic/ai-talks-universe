@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-21T08:28:54Z
 video_id: yFFMGDNVMZ8
+url: https://www.youtube.com/watch?v=yFFMGDNVMZ8
 youtube_url: https://www.youtube.com/watch?v=yFFMGDNVMZ8
 tags: ["Advanced capabilities and innovation of Azure Storage solutions | BRK159", "Aung Oo", "BRK159", "English (US)", "Lena Ye", "Migrate and modernize your estate", "Technical", "Yuemin Lu", "aabcb448-21ef-45b1-98de-ff0b72e3601a_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

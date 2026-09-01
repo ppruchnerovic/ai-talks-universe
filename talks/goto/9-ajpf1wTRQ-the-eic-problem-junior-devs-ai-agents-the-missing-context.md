@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 67
 published_at: 2026-08-20T10:01:40Z
 video_id: 9-ajpf1wTRQ
+url: https://www.youtube.com/watch?v=9-ajpf1wTRQ
 youtube_url: https://www.youtube.com/watch?v=9-ajpf1wTRQ
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Scott Hanselman", "Junior Developers", "AI Agents", "Vibe Coding", "Real Talk", "Understanding Systems", "Complex Engineering"]
 transcript: false

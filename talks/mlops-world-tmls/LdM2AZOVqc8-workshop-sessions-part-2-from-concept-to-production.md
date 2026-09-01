@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 208
 published_at: 2023-08-18T01:38:26Z
 video_id: LdM2AZOVqc8
+url: https://www.youtube.com/watch?v=LdM2AZOVqc8
 youtube_url: https://www.youtube.com/watch?v=LdM2AZOVqc8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Template for the Entire ML Journey", "From Concept to Production", "Workshop Sessions: Part 2 From Concept to Production - Template for the Entire ML Journey"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 58
 published_at: null
 video_id: sgrsopf-fzo
+url: https://www.youtube.com/watch?v=sgrsopf-fzo
 youtube_url: https://www.youtube.com/watch?v=sgrsopf-fzo
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 43
 published_at: 2026-03-25T21:18:49Z
 video_id: 7N38fD4ksnI
+url: https://www.youtube.com/watch?v=7N38fD4ksnI
 youtube_url: https://www.youtube.com/watch?v=7N38fD4ksnI
 tags: ["NVIDIA", "autonomous vehicles", "physical ai", "level 4 autonomy", "drive hyperion", "robotaxi"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 41
 published_at: 2026-02-03T11:34:03Z
 video_id: JUeCEyz-dqE
+url: https://www.youtube.com/watch?v=JUeCEyz-dqE
 youtube_url: https://www.youtube.com/watch?v=JUeCEyz-dqE
 tags: ["Application Security", "Experience report", "People", "AI", "ML", "Machine Learning", "Security", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United Kingdom", "Pedram Hayati"]
 transcript: true

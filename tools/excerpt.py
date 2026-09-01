@@ -100,7 +100,8 @@ def connect() -> sqlite3.Connection:
 
 
 COLS = ("n id title speakers conference conference_name category edition year "
-        "duration_min youtube_url description has_transcript transcript_words").split()
+        "duration_min url youtube_url page_url description has_transcript "
+        "transcript_words").split()
 
 
 def find_talk(con, ident: str) -> dict | None:
@@ -213,17 +214,28 @@ def passages(con, talk: dict, parsed, window: float, limit: int,
 
 def render(talk: dict, parts: list[dict], total_words: int, full: bool) -> None:
     vid = talk["id"]
+    # `&t=` only means something to YouTube; an InfoQ-only talk keeps its
+    # timestamps as text rather than as links that cannot seek.
+    yt = talk["youtube_url"]
     print(f"\n## {talk['title']}")
     who = talk["speakers"] or "speaker not recorded"
     edition = talk["edition"] or talk["conference_name"]
     print(f"{who} · {talk['conference_name']} · {edition}"
           + (f" · {talk['year']}" if talk["year"] else "")
           + (f" · {talk['duration_min']} min" if talk["duration_min"] else ""))
-    print(talk["youtube_url"] or atu.WATCH.format(vid=vid))
+    print(talk["url"] or atu.watch_url(vid) or "")
 
     if talk["description"]:
         desc = " ".join(talk["description"].split())
-        print(f"\n_Description (YouTube's, not an abstract):_ {desc[:500]}"
+        # InfoQ's presentation pages carry a real abstract and a speaker bio;
+        # a YouTube description is whatever the channel pasted under the video.
+        # Saying which one this is tells the reader how much to trust it.
+        # A merged talk has both a video and an InfoQ page, and its description
+        # is the InfoQ one — so the page, not the absence of a video, is what
+        # says where these words came from.
+        origin = ("InfoQ's summary and speaker bio" if talk["page_url"]
+                  else "YouTube's, not an abstract")
+        print(f"\n_Description ({origin}):_ {desc[:500]}"
               + ("…" if len(desc) > 500 else ""))
 
     if not talk["has_transcript"]:
@@ -233,8 +245,9 @@ def render(talk: dict, parts: list[dict], total_words: int, full: bool) -> None:
 
     shown = sum(p["words"] for p in parts)
     for p in parts:
-        print(f"\n**[{query.fmt_ts(p['start'])}]"
-              f"(https://www.youtube.com/watch?v={vid}&t={int(p['start'])}s)** {p['text']}")
+        ts = query.fmt_ts(p["start"])
+        stamp = f"[{ts}]({yt}&t={int(p['start'])}s)" if yt else ts
+        print(f"\n**{stamp}** {p['text']}")
     if not full and shown < total_words:
         pct = round(100 * shown / total_words) if total_words else 0
         print(f"\n_{shown} of {total_words} words ({pct}%). "

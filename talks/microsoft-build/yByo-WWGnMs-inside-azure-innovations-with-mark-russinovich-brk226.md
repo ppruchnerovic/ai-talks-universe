@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-11T08:21:18Z
 video_id: yByo-WWGnMs
+url: https://www.youtube.com/watch?v=yByo-WWGnMs
 youtube_url: https://www.youtube.com/watch?v=yByo-WWGnMs
 tags: ["BRK226", "BRK226_v1", "Cloud Platform & Data", "Inside Azure innovations with Mark Russinovich | BRK226", "Mark Russinovich", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

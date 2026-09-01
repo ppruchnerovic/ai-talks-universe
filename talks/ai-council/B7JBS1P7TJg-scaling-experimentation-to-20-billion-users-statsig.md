@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 14
 published_at: 2023-05-11T17:05:09Z
 video_id: B7JBS1P7TJg
+url: https://www.youtube.com/watch?v=B7JBS1P7TJg
 youtube_url: https://www.youtube.com/watch?v=B7JBS1P7TJg
 tags: ["statsig", "scaling", "startup growth"]
 transcript: false

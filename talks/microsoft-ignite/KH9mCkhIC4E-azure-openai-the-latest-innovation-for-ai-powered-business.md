@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-20T13:34:59Z
 video_id: KH9mCkhIC4E
+url: https://www.youtube.com/watch?v=KH9mCkhIC4E
 youtube_url: https://www.youtube.com/watch?v=KH9mCkhIC4E
 tags: ["AI", "AI-Curated", "Azure OpenAI: the latest innovation for AI powered business value | BRK100", "BRK100", "Breakout", "Charlie Rohlf", "English (US)", "Intermediate (200)", "Software Company", "Steve Sweetman", "Technical", "Version v0", "Yina Arenas", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

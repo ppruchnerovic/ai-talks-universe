@@ -12,6 +12,7 @@ channel: null
 duration_min: 60
 published_at: null
 video_id: EZzXG7Z-POE
+url: https://www.youtube.com/watch?v=EZzXG7Z-POE
 youtube_url: https://www.youtube.com/watch?v=EZzXG7Z-POE
 tags: []
 transcript: false

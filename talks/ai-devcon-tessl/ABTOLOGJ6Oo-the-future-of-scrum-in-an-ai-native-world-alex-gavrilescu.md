@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 6
 published_at: 2025-10-19T13:36:49Z
 video_id: ABTOLOGJ6Oo
+url: https://www.youtube.com/watch?v=ABTOLOGJ6Oo
 youtube_url: https://www.youtube.com/watch?v=ABTOLOGJ6Oo
 tags: []
 transcript: false

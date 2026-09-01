@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-21T11:13:59Z
 video_id: YZJCVtt0bwQ
+url: https://www.youtube.com/watch?v=YZJCVtt0bwQ
 youtube_url: https://www.youtube.com/watch?v=YZJCVtt0bwQ
 tags: ["98fcc9ec-a822-4708-963c-54faaf346f29_Segment", "BRK144", "Build modernize and secure AKS workloads with Azure Linux | BRK144", "Dongha Paek", "English (US)", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Kubernetes Service (AKS)", "Sudhanva Huruli", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

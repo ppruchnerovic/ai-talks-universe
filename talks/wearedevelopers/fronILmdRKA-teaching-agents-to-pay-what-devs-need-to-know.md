@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T13:40:00+00:00
 video_id: fronILmdRKA
+url: https://www.youtube.com/watch?v=fronILmdRKA
 youtube_url: https://www.youtube.com/watch?v=fronILmdRKA
 tags: ["AI Agents", "AI Standards", "eCommerce", "Open Source"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-12-03T23:29:50Z
 video_id: ExbYpfAM0x4
+url: https://www.youtube.com/watch?v=ExbYpfAM0x4
 youtube_url: https://www.youtube.com/watch?v=ExbYpfAM0x4
 tags: ["AI", "Automation", "BRK319", "Breakout", "Data Security", "English (US)", "Eugenie Burrage", "Intermediate (200)", "Jason Roszak", "Microsoft Intune", "Security", "Simpler smarter and more secure endpoint management with Intune | BRK319", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2025-09-18T05:19:45Z
 video_id: qezHjW7oryE
+url: https://www.youtube.com/watch?v=qezHjW7oryE
 youtube_url: https://www.youtube.com/watch?v=qezHjW7oryE
 tags: ["Java", "Spring AI", "LLMs", "RAG", "Large Language Models", "Retrieval-Augmented Generation", "AI Agents", "InfoQ", "Transcript", "InfoQ Dev Summit", "Observability", "MCP", "Model Context Protocol", "Software Testing", "Artificial Intelligence", "Software Architecture"]
 transcript: false

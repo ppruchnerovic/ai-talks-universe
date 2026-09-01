@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T12:25:48Z
 video_id: pGfvrUTe8ek
+url: https://www.youtube.com/watch?v=pGfvrUTe8ek
 youtube_url: https://www.youtube.com/watch?v=pGfvrUTe8ek
 tags: ["English (US)", "Other", "STUDIO40", "STUDIO40_v1", "Security in the agentic AI era: built-in built for autonomous defense | STUDIO40", "Vasu Jakkal", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

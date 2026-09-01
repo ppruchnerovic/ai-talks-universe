@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 40
 published_at: null
 video_id: DpbpbVD-Twk
+url: https://www.youtube.com/watch?v=DpbpbVD-Twk
 youtube_url: https://www.youtube.com/watch?v=DpbpbVD-Twk
 tags: []
 transcript: false

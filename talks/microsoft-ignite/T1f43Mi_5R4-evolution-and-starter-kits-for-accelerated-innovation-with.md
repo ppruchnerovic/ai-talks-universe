@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T13:49:21Z
 video_id: T1f43Mi_5R4
+url: https://www.youtube.com/watch?v=T1f43Mi_5R4
 youtube_url: https://www.youtube.com/watch?v=T1f43Mi_5R4
 tags: ["AI", "English (US)", "Evolution and starter kits for accelerated innovation with generative AI | ODFP947", "Intermediate (200)", "ODFP947", "Pre-recorded", "Technical", "Varsha Jain", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

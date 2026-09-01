@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 28
 published_at: 2026-01-09T17:53:07Z
 video_id: JUdW_64cyaw
+url: https://www.youtube.com/watch?v=JUdW_64cyaw
 youtube_url: https://www.youtube.com/watch?v=JUdW_64cyaw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: true

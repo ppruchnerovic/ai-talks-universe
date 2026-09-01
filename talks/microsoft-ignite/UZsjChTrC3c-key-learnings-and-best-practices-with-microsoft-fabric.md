@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T11:53:10Z
 video_id: UZsjChTrC3c
+url: https://www.youtube.com/watch?v=UZsjChTrC3c
 youtube_url: https://www.youtube.com/watch?v=UZsjChTrC3c
 tags: ["English (US)", "Financial Services", "Key learnings and best practices with Microsoft Fabric migrations | ODSP1421", "Migrate and modernize your estate", "ODSP1421", "ODSP1421_v1", "Technical", "Unify your data platform", "Varun Chawla", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 58
 published_at: 2025-03-27T18:33:02Z
 video_id: MohMkvTRjjA
+url: https://www.youtube.com/watch?v=MohMkvTRjjA
 youtube_url: https://www.youtube.com/watch?v=MohMkvTRjjA
 tags: []
 transcript: false

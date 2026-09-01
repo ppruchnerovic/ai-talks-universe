@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-19T08:39:18Z
 video_id: ogDdTHhDZSE
+url: https://www.youtube.com/watch?v=ogDdTHhDZSE
 youtube_url: https://www.youtube.com/watch?v=ogDdTHhDZSE
 tags: ["Ankur Chadda", "Bolster your data security in the AI era with Microsoft and Netskope | ODSP1476", "English (US)", "ODSP1476", "ODSP1476_v2", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

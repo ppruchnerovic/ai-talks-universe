@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 13
 published_at: null
 video_id: LafpndhNC_E
+url: https://www.youtube.com/watch?v=LafpndhNC_E
 youtube_url: https://www.youtube.com/watch?v=LafpndhNC_E
 tags: []
 transcript: false

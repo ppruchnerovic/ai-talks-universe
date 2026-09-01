@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 25
 published_at: 2023-05-11T18:59:58Z
 video_id: nlMn572Dabc
+url: https://www.youtube.com/watch?v=nlMn572Dabc
 youtube_url: https://www.youtube.com/watch?v=nlMn572Dabc
 tags: ["business reviews", "metrics", "KPIs", "analytics"]
 transcript: false

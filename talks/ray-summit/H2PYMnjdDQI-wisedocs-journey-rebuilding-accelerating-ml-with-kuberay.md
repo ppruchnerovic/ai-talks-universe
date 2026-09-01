@@ -12,6 +12,7 @@ channel: null
 duration_min: 21
 published_at: null
 video_id: H2PYMnjdDQI
+url: https://www.youtube.com/watch?v=H2PYMnjdDQI
 youtube_url: https://www.youtube.com/watch?v=H2PYMnjdDQI
 tags: []
 transcript: false

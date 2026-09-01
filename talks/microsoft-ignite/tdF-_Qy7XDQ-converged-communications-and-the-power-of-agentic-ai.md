@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:29:29Z
 video_id: tdF-_Qy7XDQ
+url: https://www.youtube.com/watch?v=tdF-_Qy7XDQ
 youtube_url: https://www.youtube.com/watch?v=tdF-_Qy7XDQ
 tags: ["Charlie Doubek", "Converged communications and the power of agentic AI | STUDIOSP82", "Copilot and agents at work", "English (US)", "Geoff Newman", "Innovate with Azure AI apps and agents", "Manufacturing and Mobility", "STUDIOSP82", "STUDIOSP82_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 14
 published_at: 2025-03-27T16:07:19Z
 video_id: M1-80G0O8hc
+url: https://www.youtube.com/watch?v=M1-80G0O8hc
 youtube_url: https://www.youtube.com/watch?v=M1-80G0O8hc
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 34
 published_at: 2024-11-27T12:26:12Z
 video_id: YnYpdZAfqV4
+url: https://www.youtube.com/watch?v=YnYpdZAfqV4
 youtube_url: https://www.youtube.com/watch?v=YnYpdZAfqV4
 tags: ["BRK292", "Breakout", "Chatbot", "Grow your small business with new tools from Microsoft Teams | BRK292", "Medium-sized businesses", "Microsoft 365", "Microsoft Teams", "Modern Work", "Modern Work-Curated", "Project Management", "SMB", "Small and medium-sized businesses", "Small businesses", "Work management", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 33
 published_at: null
 video_id: YmDAcbz1YSs
+url: https://www.youtube.com/watch?v=YmDAcbz1YSs
 youtube_url: https://www.youtube.com/watch?v=YmDAcbz1YSs
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-25T09:16:26Z
 video_id: libNzUdL9eM
+url: https://www.youtube.com/watch?v=libNzUdL9eM
 youtube_url: https://www.youtube.com/watch?v=libNzUdL9eM
 tags: ["AI Native DevCon June 2026", "AI hype", "AI programming", "AI tools", "AI tools in programming", "Dave Farley insights", "ainativedev", "coding evolution", "future of programming", "natural languages in coding", "natural languages vs programming languages", "programming future", "programming languages", "software development", "what is vibe coding"]
 transcript: true

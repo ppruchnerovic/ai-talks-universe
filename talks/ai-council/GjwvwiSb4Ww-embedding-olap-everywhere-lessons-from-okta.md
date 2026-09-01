@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:27:56Z
 video_id: GjwvwiSb4Ww
+url: https://www.youtube.com/watch?v=GjwvwiSb4Ww
 youtube_url: https://www.youtube.com/watch?v=GjwvwiSb4Ww
 tags: ["Okta", "embedded OLAP", "ChatGPT", "artificial intelligence", "machine learning", "analytics", "business intelligence", "data engineering tutorial", "serverless databases", "data architecture", "real time analytics", "embedded analytics", "Python tutorial", "identity analytics", "security analytics", "access analytics", "user behavior analytics", "authentication metrics", "authorization patterns", "compliance reporting", "audit logs", "risk assessment", "fraud detection"]
 transcript: false

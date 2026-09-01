@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-02-11T09:13:45Z
 video_id: gNu0su2QrNA
+url: https://www.youtube.com/watch?v=gNu0su2QrNA
 youtube_url: https://www.youtube.com/watch?v=gNu0su2QrNA
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Jeff Watkins"]
 transcript: true

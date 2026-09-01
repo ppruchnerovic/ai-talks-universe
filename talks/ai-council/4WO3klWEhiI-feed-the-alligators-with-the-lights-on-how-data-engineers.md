@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 24
 published_at: 2023-05-11T18:57:54Z
 video_id: 4WO3klWEhiI
+url: https://www.youtube.com/watch?v=4WO3klWEhiI
 youtube_url: https://www.youtube.com/watch?v=4WO3klWEhiI
 tags: ["data engineering", "data catalog", "open source", "query logs", "API", "metadata management"]
 transcript: false

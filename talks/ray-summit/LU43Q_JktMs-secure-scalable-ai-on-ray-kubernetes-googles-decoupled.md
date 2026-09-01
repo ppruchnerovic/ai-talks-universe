@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: LU43Q_JktMs
+url: https://www.youtube.com/watch?v=LU43Q_JktMs
 youtube_url: https://www.youtube.com/watch?v=LU43Q_JktMs
 tags: []
 transcript: false

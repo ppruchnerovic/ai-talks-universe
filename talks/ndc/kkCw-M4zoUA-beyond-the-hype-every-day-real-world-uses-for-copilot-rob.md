@@ -12,6 +12,7 @@ channel: null
 duration_min: 59
 published_at: null
 video_id: kkCw-M4zoUA
+url: https://www.youtube.com/watch?v=kkCw-M4zoUA
 youtube_url: https://www.youtube.com/watch?v=kkCw-M4zoUA
 tags: []
 transcript: false

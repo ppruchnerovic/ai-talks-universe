@@ -12,6 +12,7 @@ channel: null
 duration_min: 44
 published_at: null
 video_id: bhxcZaiPsyo
+url: https://www.youtube.com/watch?v=bhxcZaiPsyo
 youtube_url: https://www.youtube.com/watch?v=bhxcZaiPsyo
 tags: []
 transcript: false

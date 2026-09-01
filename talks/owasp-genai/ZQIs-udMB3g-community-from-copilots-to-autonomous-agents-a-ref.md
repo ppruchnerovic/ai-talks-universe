@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 36
 published_at: 2026-07-20T00:38:42Z
 video_id: ZQIs-udMB3g
+url: https://www.youtube.com/watch?v=ZQIs-udMB3g
 youtube_url: https://www.youtube.com/watch?v=ZQIs-udMB3g
 tags: []
 transcript: true

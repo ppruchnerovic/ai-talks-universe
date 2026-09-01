@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2026-03-23T07:36:34Z
 video_id: jA9XLa3ugMU
+url: https://www.youtube.com/watch?v=jA9XLa3ugMU
 youtube_url: https://www.youtube.com/watch?v=jA9XLa3ugMU
 tags: ["AI Native Development", "Artificial Intelligence", "DevOps", "InfoQ Dev Summit", "InfoQ", "Transcript", "Patterns", "Best Practices", "Software Architecture", "Generative AI", "Vibe Coding", "Patrick Debois", "Intent Engineering", "Spec-Driven Development"]
 transcript: true

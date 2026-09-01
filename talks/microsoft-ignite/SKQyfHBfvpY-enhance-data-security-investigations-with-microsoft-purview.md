@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-20T07:50:27Z
 video_id: SKQyfHBfvpY
+url: https://www.youtube.com/watch?v=SKQyfHBfvpY
 youtube_url: https://www.youtube.com/watch?v=SKQyfHBfvpY
 tags: ["69a4861c-6448-4ffe-a5dc-3be240db8945_Segment", "BRK256", "Caroline Lee", "Christophe Fiessinger", "Daniel Gawarecki", "English (US)", "Enhance data security investigations with Microsoft Purview | BRK256", "Katerina Athanasiou", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2025-09-26T11:57:50Z
 video_id: 444R5smOleA
+url: https://www.youtube.com/watch?v=444R5smOleA
 youtube_url: https://www.youtube.com/watch?v=444R5smOleA
 tags: ["hr", "tech", "events", "tech topics", "mental health", "career growth"]
 transcript: false

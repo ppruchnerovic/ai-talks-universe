@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-04T14:55:09Z
 video_id: MGCfkPbRMzU
+url: https://www.youtube.com/watch?v=MGCfkPbRMzU
 youtube_url: https://www.youtube.com/watch?v=MGCfkPbRMzU
 tags: ["AKS", "Azure Kubernetes Service (AKS)", "DEMSP381", "DEMSP381_v1", "Govardhani Babu", "MCP", "Pranay Bakre", "Sameer Nori", "Scale agentic AI cost‑efficiently on Azure with Arm Cobalt VMs | DEMSP381", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T07:24:29Z
 video_id: loYitFrgxe8
+url: https://www.youtube.com/watch?v=loYitFrgxe8
 youtube_url: https://www.youtube.com/watch?v=loYitFrgxe8
 tags: ["agentic systems", "AI agents", "reliable AI", "ChatGPT", "artificial intelligence", "machine learning", "system design", "AI architecture", "robust AI", "system reliability", "non deterministic systems", "robotics", "cybernetics", "biology", "Python tutorial", "autonomous systems", "intelligent agents", "multi agent systems", "agent communication", "coordination", "planning", "decision making", "goal oriented behavior", "adaptive systems"]
 transcript: false
