@@ -93,9 +93,11 @@ what each conference dropped and why, the year floor included.
     ├── import_kb.py               another corpus -> seeds/ + transcripts/ (offline)
     ├── build_index.py             everything -> talks.db + browser index
     ├── query.py                   ranked search from the terminal
+    ├── excerpt.py                 the passages of a talk that answer a question
     ├── check_registry.py          conferences.json vs ai-conferences.md
     ├── refresh_report.py          field coverage before vs after a refresh
     ├── test_fetch_transcripts.py  offline checks for the quota bookkeeping
+    ├── test_excerpt.py            offline checks for the excerpt budget
     └── uitest/                    browser tests for index.html
 ```
 
@@ -144,15 +146,52 @@ still returns ranked results — it says on stderr when it relaxes.
 
 `--conference` and `--category` are case- and separator-insensitive and suggest
 near misses; `--list-conferences` and `--list-categories` print the valid
-values.
+values. `--brief` drops the fields and the extra transcript moments that help
+you *read* a result but not *choose* one, which is about a fifth of the bytes;
+`--ids` prints nothing but the video ids, to pipe into the next command.
+
+### Reading a talk without reading all of it
+
+A talk's markdown file inlines its whole transcript: 33 KB on average, 420 KB
+for the longest workshop. That is the right thing for a human who has decided
+to read one talk, and the wrong thing for anything — an agent, a script, you —
+that wants what a speaker said about *one topic* across a dozen of them.
+
+```bash
+cd tools
+python3 excerpt.py O72p-rBb2bA -q "eval driven development"
+python3 query.py "agent memory" -n 6 --ids | xargs python3 excerpt.py -q "agent memory"
+python3 excerpt.py O72p-rBb2bA --full          # the whole transcript after all
+```
+
+`excerpt.py` prints the talk's metadata, its description, its opening — where
+the thesis nearly always is — and a window of continuous speech around each
+passage that matched, merged where those windows overlap and deep-linked to
+the second. What it leaves out it says: every excerpt ends with how much of the
+transcript you have seen.
+
+`-n` is a budget rather than a count — n windows' worth of speech, which the
+merge may hand back as fewer and wider passages — because counting passages
+bounds nothing. On a talk that says the query word every other minute, six
+windows that each grow to meet their neighbours are the transcript again.
+Measured over eight topics and 45 talks: **100% of the passages `query.py`
+ranked survive into the excerpt, on 17% of the words.**
 
 ### With Claude Code
 
 The `ai-conference-talks` skill (`.claude/skills/`, at the root of this repo,
-so any Claude Code session started here loads it) drives `query.py` and then
-reads the matching talk files — which is what you want for questions like
-*"what do people at different conferences say about agent reliability"*:
-retrieval finds the talks, the model compares the positions.
+so any Claude Code session started here loads it) drives `query.py --brief` and
+then `excerpt.py` — which is what you want for questions like *"what do people
+at different conferences say about agent reliability"*: retrieval finds the
+talks, the excerpts carry what was said, and the model compares the positions.
+
+The two-step matters more here than anywhere else, because a model pays for
+every byte it reads. Answering one question by searching and then reading the
+matching talk files whole costs on the order of 60,000 tokens and rises with
+every talk added to the comparison; the same question through `--brief` and
+`excerpt.py` costs about 17,000 and holds every passage the search ranked. The
+skill says so in as many words, and says what a question should cost, because
+"read the talks" is the instruction a model will otherwise follow literally.
 
 ## Rebuilding
 
@@ -478,6 +517,19 @@ Fake egress allowances and a faked HTTP layer, because what is worth testing in
 every error in it is quiet and expensive. A block recorded as a miss loses a
 talk permanently; an estimate returned under `--source exact` mislabels one; a
 talk dropped because its proxy was benched costs a fetch nobody notices.
+
+### The excerpt budget
+
+```bash
+cd tools && python3 test_excerpt.py               # ~0.1s, no network, no database
+```
+
+Same reason: the failure it prevents is silent and expensive. A query whose
+terms are spread through a long talk once chained every window into one span
+and returned the whole transcript under the name of an excerpt — 8,500 tokens
+where 1,500 was asked for, with nothing in the output saying so. Window
+selection and merging are pure functions of the hit times, so they are tested
+without a corpus.
 
 ### The browser UI
 

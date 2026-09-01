@@ -11,6 +11,7 @@ Two layers are searched and merged:
     python3 query.py "agents in production" --conference langchain-interrupt
     python3 query.py "evals" --year 2026 -n 20
     python3 query.py "mcp" --json          # for scripts and agents
+    python3 query.py "mcp" --json --brief  # the same, at a third of the bytes
     python3 query.py --list-conferences    # what --conference accepts
     python3 query.py --list-categories     # what --category accepts
 
@@ -392,7 +393,20 @@ def render(hits: list[dict], show_moments: bool) -> None:
         print(f"   {h['youtube_url']}")
 
 
-def emit_json(hits: list[dict]) -> None:
+# What --brief keeps. The rest of the record is one lookup away by id, and a
+# reader that is deciding *which* talks to open does not need the channel, the
+# tags, the publication timestamp or a second snippet of the same description
+# — on a 12-hit result set those fields are most of the bytes and none of the
+# decision.
+BRIEF = ("id title speakers conference year duration_min youtube_url "
+         "has_transcript score snippet snippet_from matched").split()
+
+# Moments shown per hit under --brief. One passage says whether the talk is
+# about the query; the fourth says it again.
+BRIEF_MOMENTS = 2
+
+
+def emit_json(hits: list[dict], brief: bool = False) -> None:
     for h in hits:
         for k in ("n", "meta", "seg"):
             h.pop(k, None)
@@ -402,7 +416,12 @@ def emit_json(hits: list[dict]) -> None:
             h[k] = for_json(h[k])
         for m in h["moments"]:
             m["text"] = for_json(m["text"])
-    json.dump(hits, sys.stdout, ensure_ascii=False, indent=2)
+    if brief:
+        hits = [{**{k: h[k] for k in BRIEF if k in h},
+                 "moments": [{"start": m["start"], "text": m["text"]}
+                             for m in h["moments"][:BRIEF_MOMENTS]]}
+                for h in hits]
+    json.dump(hits, sys.stdout, ensure_ascii=False, indent=None if brief else 2)
     print()
 
 
@@ -445,6 +464,10 @@ def main() -> None:
     ap.add_argument("--no-moments", dest="moments", action="store_false",
                     help="hide the timestamped transcript hits")
     ap.add_argument("--json", action="store_true")
+    ap.add_argument("--brief", action="store_true",
+                    help="the fields and passages needed to choose a talk, and no more")
+    ap.add_argument("--ids", action="store_true",
+                    help="print only the video ids, one per line — feeds excerpt.py")
     args = ap.parse_args()
 
     if not atu.TALKS_DB.exists():
@@ -475,10 +498,15 @@ def main() -> None:
              + ", ".join(parsed.relaxed_terms))
         hits = search(con, parsed.relaxed, args.limit, filters)
 
-    if args.json:
-        emit_json(hits)
+    if args.ids:
+        # So that reading the hits is a pipe rather than eight ids retyped:
+        #   query.py "…" --ids | xargs python3 excerpt.py -q "…"
+        for h in hits:
+            print(h["id"])
+    elif args.json:
+        emit_json(hits, args.brief)
     else:
-        render(hits, args.moments)
+        render(hits, args.moments and not args.brief)
 
 
 def run() -> int:
