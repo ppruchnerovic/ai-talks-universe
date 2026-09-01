@@ -1,0 +1,288 @@
+{
+  "slug": "yc-ai-startup-school",
+  "name": "Y Combinator AI Startup School",
+  "enumerated_at": "2026-09-01T10:16:41+00:00",
+  "sources": [
+    {
+      "url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "count": 17
+    }
+  ],
+  "count": 17,
+  "videos": {
+    "-7Qz7tSTfUU": {
+      "video_id": "-7Qz7tSTfUU",
+      "title": "Dylan Field: Scaling Figma and the Future of Design",
+      "duration_s": 2437,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Dylan Field on June 17th, 2025 at AI Startup School in San Francisco.\n\nDylan Field co-founded Figma to bring the design process online and make it multiplayer. From a meme maker built on WebGL to a design platform powering millions, Figma’s journey hit a major milestone with its IPO last week.\n\nIn this conversation, Dylan shares the early challenges of building in the browser, the early risks and pivotal choices that shaped Figma’s growth, the principles that guided its product and community, and how he thinks about building tools that empower creativity at scale.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n01:38 – How Dylan and Evan Started Figma\n02:58 – WebGL: From Games to Tools\n04:10 – Buying Time to Build\n05:48 – Staying Motivated Through Early Exploration\n06:10 – Cold Emails, Early Feedback & First Users\n08:24 – Launch Timing and Lessons on Shipping Early\n10:08 – Culture of Constraints & Creative Problem-Solving\n10:50 – Recognizing Product-Market Pull\n13:32 – Why Design is the Differentiator in the AI Era\n16:34 – Figma’s AI Product Launches & Expanding Beyond Design\n18:56 – The Blurring of Design, Development, and Product\n21:00 – The “MS-DOS Era” of AI Interfaces & Future Surfaces\n23:26 – The Role of Design in AI Research & the Future of Designers\n27:36 – Audience Q&A: AI Tools, Open Source, Principles, and Advice",
+      "published_at": "2025-08-08T14:00:01Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "2Yguz5U-Nic": {
+      "video_id": "2Yguz5U-Nic",
+      "title": "Nobel Laureate John Jumper: AI is Revolutionizing Scientific Discovery",
+      "duration_s": 1647,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "John Jumper on June 16, 2025 at AI Startup School in San Francisco.\n\nJohn Jumper is a physicist-turned-computational biologist who led DeepMind’s AlphaFold team—and earned the 2024 Nobel Prize in Chemistry for solving protein folding, a decades-old scientific challenge. \n\nIn this talk, he shares how a deep learning breakthrough at CASP14 turned into AlphaFold 1 and then AlphaFold 2, delivering atomic accuracy predictions and revolutionizing biology. He explains the scientific puzzle behind protein folding, the key algorithmic breakthroughs, and the impact of making millions of protein structures accessible to researchers worldwide.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 - Personal Background\n01:26 - Transition to Computational Biology\n02:01 - Journey into Machine Learning\n02:59 - Joining Google DeepMind\n03:47 - AlphaFold and Its Impact\n04:54 - The Complexity of Cells and Proteins\n07:44 - Challenges in Protein Structure Determination\n10:28 - Building the AlphaFold AI System\n11:29 - The Importance of Research in AI\n13:28 - AlphaFold's Breakthrough and Public Data\n18:09 - Making AlphaFold Accessible\n21:20 - Real-World Applications and Success Stories\n22:33 - Engineering New Proteins with AlphaFold\n25:23 - Future of AI in Structural Biology",
+      "published_at": "2025-07-15T14:00:19Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "2jOnoTEk-xA": {
+      "video_id": "2jOnoTEk-xA",
+      "title": "Aravind Srinivas: Perplexity's Race to Build Agentic Search",
+      "duration_s": 2593,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Aravind Srinivas on June 16, 2025 at AI Startup School in San Francisco.\n\nAravind Srinivas started Perplexity with one goal: to rethink how we search, browse, and interact with information online. In this conversation, he shares the journey from hacking together a natural-language-to-SQL search tool to building a product used by millions around the world.\n\nHe talks about the big bet on the AI-powered browser, why agents—not just chatbots—are the next step, and how speed, accuracy, and focus help a startup compete against giants. Along the way, he reflects on co-founder dynamics, early technical challenges, and what it takes to keep building when the biggest players in the world are racing alongside you.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:48 - Perplexity's Current Status and Challenges\n01:16 - The Browser Bet\n03:18 - Competition and Market Dynamics\n04:43 - The Importance of Speed and Innovation\n05:51 - Founding Perplexity: The Early Days\n09:18 - Product Evolution and User Experience\n19:44 - Running the Company and Future Outlook\n20:15 - AI Tools in Software Engineering\n20:31 - Adoption and Implementation of AI Coding Tools\n21:11 - Challenges and Benefits of AI in Development\n22:35 - Brand Value and Competition\n23:56 - Network Effects and Integrations\n27:40 - Business Model and Revenue Streams\n29:54 - Advice for Founders\n31:33 - Audience Q&A",
+      "published_at": "2025-07-11T14:37:45Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "5QcCeSsNRks": {
+      "video_id": "5QcCeSsNRks",
+      "title": "François Chollet: How We Get To AGI",
+      "duration_s": 2088,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "François Chollet on June 16, 2025 at AI Startup School in San Francisco.\n\nFrançois Chollet is a leading voice in AI. He's the creator of the Keras library, author of Deep Learning with Python, and the founder of the ARC Prize, a global competition aimed at measuring true general intelligence.\n\nHe's spent years thinking deeply about what intelligence actually is, and why scaling up today’s AI models isn’t enough to reach it.\n\nIn this talk, he walks through the limits of pretraining and memorized skills, and lays out a path toward true general intelligence— AI that can adapt on the fly, reason in new situations, and invent novel solutions. He explains why abstraction and compositionality matter, how ARC became the benchmark for progress, and what his team at a new research lab called Ndea is building next.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 - The Falling Cost of Compute\n00:57 - Deep-Learning’s Scaling Era & Benchmarks\n01:59 - The ARC Benchmark\n03:02 - The 2024 Shift to Test-Time Adaptation\n05:01 - What Is Intelligence?\n07:12 - Why Benchmarks Matter (and Mislead)\n08:57 - ARC 1 Exposes Scaling Limits\n10:58 - ARC 2: Compositional Reasoning Arrives\n12:55 - Humans vs. Models on ARC 2\n14:58 - Previewing ARC 3 & Interactive Agency\n17:00 - Kaleidoscopic Hypothesis and Abstractions\n22:00 - Type 1 vs. Type 2 Abstractions\n26:00 - Discrete Program Search & Inventive AI\n29:00 - Fusing Intuition with Symbolic Reasoning\n32:00 - Building AGI Through Meta-Learning Systems\n33:44 - NDEA: a new AI research lab",
+      "published_at": "2025-07-03T14:00:10Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "AUUZuzVHKdo": {
+      "video_id": "AUUZuzVHKdo",
+      "title": "Satya Nadella: Microsoft's AI Bets, Hyperscaling, Quantum Computing Breakthroughs",
+      "duration_s": 2430,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "A fireside with Satya Nadella on June 17, 2025 at AI Startup School in San Francisco.\n\nSatya Nadella started at Microsoft in 1992 as an engineer. Three decades later, he’s now Chairman & CEO, navigating the company through one of the most profound technological shifts yet: the rise of AI.\n\nIn this conversation, he shares how Microsoft is thinking about this moment— from the infrastructure needed to train frontier models, to the social permission required to use that compute. He draws parallels to the early PC and internet eras, breaks down what makes a great team, and reflects on what he’d build if he were starting his career today.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n01:06 - AI's Role in Microsoft's Strategy\n02:07 - Platform Shifts and Economic Growth\n03:56 - Building the Next Generation of Apps\n07:25 - Energy Consumption and Social Responsibility\n10:46 - Transforming Knowledge Work with AI\n15:38 - The Future of AI and Algorithmic Breakthroughs\n17:47 - AI as a Tool, Not a Replacement\n21:10 - The Role of Design and Software Engineering\n30:45 - Leadership and Teamwork at Microsoft\n36:16 - Quantum Computing and AI\n38:31 - Advice for the Next Generation",
+      "published_at": "2025-06-25T21:00:12Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "DJjZzzPANBY": {
+      "video_id": "DJjZzzPANBY",
+      "title": "Ask These Questions Before Starting An AI Startup",
+      "duration_s": 2436,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Jordan Fisher is the co-founder & CEO of Standard AI and now leads an AI alignment research team at Anthropic. In his talk at AI Startup School on June 17th, 2025, he frames the future of startups through questions rather than answers—asking how founders should navigate a world where AGI may be just a few years away.\n\nHe surfaces the big questions startups should be asking in the age of AGI: Should you even start a company right now? What happens when software becomes commoditized? How do you build trust as teams shrink and AI takes on more responsibility?\n\nChapters:\n0:00 – Why He's More Confused Than Ever\n2:00 – Should You Even Start a Startup?\n5:00 – Planning Beyond the Next Model\n8:00 – Will Software Be Commoditized?\n11:00 – Building AI-Native Teams\n14:00 – Trust, Security, and Agents\n18:00 – Auditing & Guardrails\n21:00 – Alignment & Economic Pressure\n24:00 – Data, Defensibility, and Hard Problems\n28:00 – Neutrality and Control\n32:00 – Changing the World vs. Just Making Money\n36:00 – Build Something People Want (and Need)\n39:00 – Audience Q&A",
+      "published_at": "2025-10-07T14:00:20Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "LCEmiRjPEtQ": {
+      "video_id": "LCEmiRjPEtQ",
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "duration_s": 2372,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Andrej Karpathy's keynote on June 17, 2025 at AI Startup School in San Francisco. Slides provided by Andrej: https://drive.google.com/file/d/1a0h1mkwfmV2PlekxDN8isMrDA5evc4wW/view?usp=sharing\n\nChapters:\n00:00 - Intro\n01:25 - Software evolution: From 1.0 to 3.0\n04:40 - Programming in English: Rise of Software 3.0\n06:10 - LLMs as utilities, fabs, and operating systems\n11:04 - The new LLM OS and historical computing analogies\n14:39 - Psychology of LLMs: People spirits and cognitive quirks\n18:22 - Designing LLM apps with partial autonomy\n23:40 - The importance of human-AI collaboration loops\n26:00 - Lessons from Tesla Autopilot & autonomy sliders\n27:52 - The Iron Man analogy: Augmentation vs. agents\n29:06 - Vibe Coding: Everyone is now a programmer\n33:39 - Building for agents: Future-ready digital infrastructure\n38:14 - Summary: We’re in the 1960s of LLMs — time to build\n\nDrawing on his work at Stanford, OpenAI, and Tesla, Andrej sees a shift underway. Software is changing, again. We’ve entered the era of “Software 3.0,” where natural language becomes the new programming interface and models do the rest.\n\nHe explores what this shift means for developers, users, and the design of software itself— that we're not just using new tools, but building a new kind of computer.\n\nMore content from Andrej: https://www.youtube.com/@AndrejKarpathy\n\nThoughts (From Andrej Karpathy!)\n0:49 - Imo fair to say that software is changing quite fundamentally again. LLMs are a new kind of computer, and you program them *in English*. Hence I think they are well deserving of a major version upgrade in terms of software.\n6:06 - LLMs have properties of utilities, of fabs, and of operating systems → New LLM OS, fabbed by labs, and distributed like utilities (for now). Many historical analogies apply - imo we are computing circa ~1960s.\n14:39 - LLM psychology: LLMs = \"people spirits\", stochastic simulations of people, where the simulator is an autoregressive Transformer. Since they are trained on human data, they have a kind of emergent psychology, and are simultaneously superhuman in some ways, but also fallible in many others. Given this, how do we productively work with them hand in hand?\nSwitching gears to opportunities...\n18:16 - LLMs are \"people spirits\" → can build partially autonomous products.\n29:05 - LLMs are programmed in English → make software highly accessible! (yes, vibe coding)\n33:36 - LLMs are new primary consumer/manipulator of digital information (adding to GUIs/humans and APIs/programs) → Build for agents!\n\nSome of the links:\n- Software 2.0 blog post from 2017 https://karpathy.medium.com/software-2-0-a64152b37c35\n- How LLMs flip the script on technology diffusion https://karpathy.bearblog.dev/power-to-the-people/\n- Vibe coding MenuGen (retrospective) https://karpathy.bearblog.dev/vibe-coding-menugen/\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com",
+      "published_at": "2025-06-19T01:05:19Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "RNJCfif1dPY": {
+      "video_id": "RNJCfif1dPY",
+      "title": "Andrew Ng: Building Faster with AI",
+      "duration_s": 2638,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Andrew Ng on June 17, 2025 at AI Startup School in San Francisco.\n\nAndrew Ng has helped shape some of the most influential movements in modern AI—from online education to deep learning to AI entrepreneurship. \n\nIn this talk, he shares what he’s learning now: why execution speed matters more than ever, how agentic workflows are changing what startups can build, and why concreteness beats vagueness when turning ideas into products. He reflects on the rise of AI coding assistants, the shifting bottlenecks in product development, and why, despite faster software, it’s still human judgment and responsibility that will shape what comes next.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 - Introduction\n00:31 - The Importance of Speed in Startups\n01:13 - Opportunities in the AI Stack\n02:06 - The Rise of Agent AI\n04:52 - Concrete Ideas for Faster Execution\n08:56 - Rapid Prototyping and Engineering\n17:06 - The Role of Product Management\n21:23 - The Value of Understanding AI\n22:33 - Technical Decisions in AI Development\n23:26 - Leveraging Gen AI Tools for Startups\n24:05 - Building with AI Building Blocks\n25:26 - The Importance of Speed in Startups\n26:41 - Addressing AI Hype and Misconceptions\n37:35 - AI in Education: Current Trends and Future Directions\n39:33 - Balancing AI Innovation with Ethical Considerations\n41:27 - Protecting Open Source and the Future of AI",
+      "published_at": "2025-07-10T14:02:05Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "TrXi3naD6Og": {
+      "video_id": "TrXi3naD6Og",
+      "title": "Michael Truell: Building Cursor At 23, Taking On GitHub Copilot & Advice To Engineering Students",
+      "duration_s": 1676,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Michael Truell on June 17th, 2025 at AI Startup School in San Francisco.\n\nAt 24, Michael Truell has already built Cursor into one of the fastest-growing companies in AI coding, hitting $100M ARR in just a year. \n\nIn this fireside chat with YC General Partner Diana Hu, he shares the lessons that came from years of failed projects with his co-founders, why he believes programming is still essential even as AI changes how we code, and how Cursor is taking on GitHub Copilot with the conviction that all of software development will flow through models.\n\nChapters:\n00:38 – PG essays & first code\n02:36 – Games, robots, and hacking ML as a teenager\n06:54 – From Hemisphere to Cursor: first startup attempts\n09:54 – Pivoting hard when nothing was working\n12:04 – Taking on GitHub Copilot\n13:10 – Shipping the first Cursor editor\n15:24 – Early lessons: features, feedback, and VS Code shift\n16:26 – Codex, custom models, and pragmatic bets\n17:58 – Wandering in 2023\n20:00 – Breakthrough: $1M → $100M in a year\n22:46 – Word of mouth and wildfire growth\n25:24 – The future of coding and advice for students",
+      "published_at": "2025-09-03T14:00:50Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "V979Wd1gmTU": {
+      "video_id": "V979Wd1gmTU",
+      "title": "Sam Altman: The Future of OpenAI, ChatGPT's Origins, and Building AI Hardware",
+      "duration_s": 2564,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "A fireside with Sam Altman on June 16, 2025 at AI Startup School in San Francisco.\n\nSam Altman grew up obsessed with technology, broke into the Stanford mainframe as a kid, and dropped out to start his first company before turning 20.\n\nIn this conversation, he traces the path from early startup struggles to building OpenAI—sharing what he’s learned about ambition, the weight of responsibility, and how to keep building when the whole world is watching. He opens up about the hardest moments of his career, the limits of personal productivity, and why, in the end, it's all still about finding people you like working with and doing something that matters.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 – We’re going for AGI\n01:25 – Founding OpenAI Against the Odds\n05:00 – GPT-4o & the Future of Reasoning Models\n07:00 – ChatGPT Memory & the ‘Her’ Vision\n10:00 – GPT-5 & the Vision of a Multimodal Supermodel\n11:00 – Robots at Scale\n15:00 – Don’t Build ChatGPT — Build What’s Missing\n17:00 – Elon’s Harsh Email & Building Conviction\n26:00 – One Person’s Leverage in the Next Decade\n32:00 – AI for Science: Sam’s Personal Bet",
+      "published_at": "2025-06-21T16:01:09Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "_PioN-CpOP0": {
+      "video_id": "_PioN-CpOP0",
+      "title": "Fei-Fei Li: Spatial Intelligence is the Next Frontier in AI",
+      "duration_s": 2662,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "A fireside with Dr. Fei-Fei Li on June 16, 2025 at AI Startup School in San Francisco.\n\nDr. Fei-Fei Li is often called the godmother of AI—and for good reason. Before the world had AI as we know it, she was helping build the foundation.\n\nIn this fireside, she recounts the creation of ImageNet, a project that helped ignite the deep learning revolution by providing the data backbone modern computer vision needed. She walks through the early belief in data-driven methods, the shock of seeing convolutional networks outperform expectations in 2012, and how those breakthroughs led to captioning, storytelling, and ultimately, generative models.\n\nNow, she’s taking on one of AI’s hardest frontiers: spatial intelligence. Fei-Fei shares why modeling the 3D world is essential for AGI—and why it may be even more difficult than language.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:08 - The Origins of ImageNet  \n02:15 - The Dream to Make Machines See\n03:28 - A paradigm shift in AI\n04:42 - The Breakthrough Year: AlexNet and Deep Learning  \n08:00 - Evolving Computer Vision\n12:20 - Building World Labs\n13:00 - The next frontier in AI\n14:20 - Why Spatial Intelligence Is Harder Than Language\n18:40 - Technical Barriers for Vision-Based AI\n20:00 - AI is more than LLMs\n24:19 - Real-World Applications of World Models  \n25:50 - Fei Fei’s Journey\n29:30 - Mentoring some of the legends of AI\n33:00 - Audience Q&A",
+      "published_at": "2025-07-01T14:00:13Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "a8-QsBHoH94": {
+      "video_id": "a8-QsBHoH94",
+      "title": "Chelsea Finn: Building Robots That Can Do Anything",
+      "duration_s": 2693,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Chelsea Finn on June 17th, 2025 at AI Startup School in San Francisco.\n\nFrom MIT through her PhD at Berkeley, where she pioneered meta‑learning methods, and Google Brain, Chelsea Finn has built her career around teaching machines how to learn. Now an Assistant Professor at Stanford and co‑founder of Physical Intelligence, she’s using that foundation to bring learning-driven robotics into messy, real-world environments rather than confined lab setups.\n\nIn this talk, Chelsea traces the evolution of her team’s work—from early experiments on robotic grasping and vision to today’s ambitious efforts at folding laundry, tidying kitchens, and generalizing across tasks—all without hand-crafted code. Instead, they used scalable foundation models and massive datasets, teaching robots physical common sense as they learn by doing. \n\nShe shares stories of the rocky setbacks, the surprises hidden in data, and the moment it all clicked: robots equipped with generalizable physical intelligence can indeed adapt and assist in the unpredictable world around us.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 - General Purpose Robots\n00:11 - Challenges in Robotics Applications\n00:57 - Physical Intelligence: A New Approach\n01:47 - Learning from Language Models\n02:08 - Data Sources for Training Robots\n03:32 - Training with Real-World Data\n04:39 - Initial Successes and Challenges\n09:10 - Breakthrough in Robot Training\n11:03 - Improving Performance\n15:43 - Expanding Capabilities\n17:34 - Robots in Unseen Environments\n25:54 - Handling Open-Ended Prompts\n29:36 - Evaluating Robot Performance\n30:03 - Future Directions and Challenges\n31:27 - Audience Q&A",
+      "published_at": "2025-07-22T14:02:08Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "cFIlta1GkiE": {
+      "video_id": "cFIlta1GkiE",
+      "title": "Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful",
+      "duration_s": 2981,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "A fireside with Elon Musk on June 16, 2025 at AI Startup School in San Francisco.\n\nBefore rockets and robots, Elon Musk was drilling holes through his office floor to borrow internet. In this candid talk, he walks through the early days of Zip2, the Falcon 1 launches that nearly ended SpaceX, and the “miracle” of Tesla surviving 2008. \n\nHe shares the thinking that guided him—building from first principles, doing useful things, and the belief that we’re in the middle of an intelligence big bang.\n\nApply to Y Combinator: https://ycombinator.com/apply\nWork at a startup: https://workatastartup.com\n\nChapters:\n00:00 - Intro\n01:25 - His origin story\n02:00 - Dream to help build the internet\n04:40 - Zip2 and lessons learned\n08:00 - PayPal \n14:30 - Origin of SpaceX\n18:30 - Building rockets from first principles\n23:50 - Lessons in leadership\n27:10 - Building up xAI\n39:00 - Super intelligence and synthetic data\n39:30 - Multi-planetary future\n43:00 - Neuralink, AI safety and the singularity\n48:10 - Message for the Next Generation of Builders",
+      "published_at": "2025-06-19T20:22:24Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "l0h3nAW13ao": {
+      "video_id": "l0h3nAW13ao",
+      "title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+      "duration_s": 2365,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Jake Heller is the co-founder & CEO of Casetext, the AI legal startup behind CoCounsel, which was acquired by Thomson Reuters for $650 million.\n\nIn his talk at AI Startup School on June 17th, 2025, he shared how his team did it—from picking the right idea to building AI products that actually work—and how founders can turn a cool demo into a reliable tool used by real customers.\n\nChapters:\n00:00 — How We Built a $650M AI Company\n01:00 — Picking the Right Idea in the AI Era\n04:45 — Three Types of AI Startups: Assist, Replace, or Do the Unthinkable\n09:25 — How to Build Reliable AI Products (Not Just Demos)\n16:30 — The Importance of Evals and Testing\n24:20 — Why Product Quality Beats Marketing and Hype\n26:00 — How to Price and Sell AI Products\n27:45 — Building Trust with Customers\n29:30 — Product Isn’t Just Pixels, It’s Everything Around It\n33:00 — What Founders Should Really Focus On\n36:00 — Q&A: Picking Markets, Focus, and Defensibility",
+      "published_at": "2025-10-28T14:01:27Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "lWmDiDGsLK4": {
+      "video_id": "lWmDiDGsLK4",
+      "title": "The Future of Software Creation with Replit CEO Amjad Masad",
+      "duration_s": 2522,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Amjad Masad is the co-founder & CEO of Replit, now valued at $3B after a recent $250M Series C. He's spent nearly a decade making programming accessible to all—and with the rise of AI, that vision is closer than ever.\n\nIn this talk from AI Startup School on June 17, 2025, Amjad traces the arc of computing from mainframes to personal computers to a future where AI agents can create software on demand. He explains why the value of traditional software will approach zero, fundamentally reshaping how companies are built and how work gets done.\n\nApply to Y Combinator: https://www.ycombinator.com/apply\nWork at a startup: https://www.ycombinator.com/jobs\n\nChapters:\n00:22 - Evolution of Computing\n01:27 - The Rise of Software Engineering\n02:16 - Replit's Vision: Making Programming Accessible\n02:42 - The Role of AI in Software Development\n04:32 - Challenges and Infrastructure for AI Agents\n05:03 - Building a Scalable and Secure Environment\n06:08 - Future of Software Engineering Agents\n09:25 - Autonomy Levels in AI Agents\n15:56 - Predictions for the Software Market\n18:31 - Impact on Business and Employment\n19:58 - The Role of Generalist Employees\n26:00 - Audience Q&A",
+      "published_at": "2025-09-12T14:01:21Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "p8Jx4qvDoSo": {
+      "video_id": "p8Jx4qvDoSo",
+      "title": "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kaplan",
+      "duration_s": 2448,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "Jared Kaplan on June 16th, 2025 at AI Startup School in San Francisco.\n\nJared Kaplan started out as a theoretical physicist chasing questions about the universe. Then he helped uncover one of AI’s most surprising truths: that intelligence scales in a predictable, almost physical way.\n\nThat insight became foundational to the modern era of large language models—and led him to co-found Anthropic.\n\nIn this talk, he walks through how that discovery reshaped the path to human-level AI, what it means for future models like Claude, and why even the dumbest questions can lead to the biggest breakthroughs. He reflects on memory, oversight, and what’s left to solve as models grow smarter—and longer-horizon tasks come within reach.\n\nApply to Y Combinator: https://ycombinator.com/apply\n\nChapters:\n00:17 - From Physics to AI\n01:41 - Initial Skepticism and Shift to AI\n02:12 - AI Training Phases\n02:32 - Pre-Training\n03:16 - Reinforcement Learning\n04:19 - Scaling Laws in Training\n08:19 - Unlocking AI Capabilities\n11:27 - Organizational Knowledge and Memory\n12:19 - Oversight and Nuanced Tasks\n13:38 - Preparing for the Future\n15:48 - Claude 4 and Beyond\n21:18 - Human-AI Collaboration\n29:50 - Scaling Laws and Compute Efficiency\n35:26 - Audience Q&A",
+      "published_at": "2025-07-29T14:01:52Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    },
+    "uqc_vt95GJg": {
+      "video_id": "uqc_vt95GJg",
+      "title": "Aaron Levie: Why Startups Win In The AI Era",
+      "duration_s": 2428,
+      "channel": "Y Combinator",
+      "label": "AI Startup School 2025",
+      "year": 2025,
+      "source_url": "https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi",
+      "description": "For nearly two decades, Box co-founder and CEO Aaron Levie has been at the frontlines of how technology reshapes work—guiding the company through the rise of mobile, the cloud, and now the age of AI.\n\nIn his fireside with YC General Partner David Lieb at AI Startup School, Aaron reflects on what it means to adapt a company over the long term, the hard lessons of staying relevant across multiple technology waves, and why he believes AI represents the most transformative shift yet.\n\nChapters:\n00:00 – AI hype vs. reality inside companies\n01:00 – Early days: starting Box in 2005\n03:30 – Pivoting from consumer storage to enterprise cloud\n05:45 – Cloud transition lessons vs. AI today\n07:10 – Why unstructured data is AI’s biggest opportunity\n09:05 – Will AI replace jobs or create more work?\n13:15 – Startups vs. incumbents in the AI era\n15:20 – Finding the next “nouns and verbs” for startups\n20:25 – Rethinking SaaS business models for AI agents\n27:05 – Why companies won’t just build everything in-house\n31:15 – Advice to young founders\n35:40 – Fulfillment and meaning of life\n36:40 – Enterprise design and craft in SaaS\n39:00 – Competing with incumbents like Workday",
+      "published_at": "2025-09-16T14:01:35Z",
+      "tags": [
+        "YC",
+        "Y Combinator"
+      ],
+      "details_at": "2026-09-01T10:17:20+00:00"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+---
+id: xp1wC3nx94Q
+title: "The Modern Data Stack Lost the War: Stop Building more DataFrame APIs | OpenAI"
+slug: the-modern-data-stack-lost-the-war-stop-building-more
+conference: ai-council
+conference_name: "AI Council (formerly Data Council)"
+category: "AI engineering & agents"
+edition: "Data Council / AI Council"
+year: 2026
+speakers: []
+channel: "AI Council"
+duration_min: 11
+published_at: 2026-06-18T22:16:13Z
+video_id: xp1wC3nx94Q
+youtube_url: https://www.youtube.com/watch?v=xp1wC3nx94Q
+tags: ["AI"]
+transcript: true
+---
+
+# The Modern Data Stack Lost the War: Stop Building more DataFrame APIs | OpenAI
+
+**Speaker not identified**
+
+`AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `11 min`
+
+`#AI`
+
+[Watch the recording](https://www.youtube.com/watch?v=xp1wC3nx94Q) · [Conference site](https://www.aicouncil.com/)
+
+## Description
+
+[2026 - DAY 3 - LIGHTNING TALK] After more than a decade of limited innovation, the modern data stack is still slow, fragmented, and painfully repetitive. Every new dataframe library promises better ergonomics or performance, yet converges on the same API with the same limitations. The failure isn’t execution or scale, it is ignoring that appearance doesn't matter anymore: Agents and AI-first developers couldn't care less about how an API looks today. In this talk we’ll examine why the dataframe paradigm keeps reproducing itself, why it consistently underdelivers, and why the data stack’s biggest problems were never going to be solved at the API layer first. Princess Leia once put her trust into Obi-Wan Kenobi - what if we did the same with simple Python functions? Could we defeat the evil empire of DataFrame APIs?
+
+SPEAKER:
+Leonhard Spiegelberg - Member of Technical Staff, OpenAI
+
+👉 Sign up for our "No BS" Newsletter to get the latest technical data & AI content: https://aicouncil.com/newsletter
+
+ABOUT AI COUNCIL:
+AI Council brings together the brightest minds in data to share industry knowledge, technical architectures and best practices in building cutting edge data & AI systems and tools.
+
+FIND US:
+X: https://x.com/aicouncilconf
+
+## Transcript
+
+*2,165 words · source: supa (en, exact timings)*
+
+**[0:00](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=0s)** So, yeah, I'm going to talk about basically why you should stop building more data frame APIs. Now, I want to kick us off by kind of looking that actually it's incredibly exciting what's happening right now. We're basically at an all-time high when it comes to working with complex data and having like data accessibility. And we're really hitting like an exponential growth curve right now. So, we used to have our spreadsheet heroes like really working like a graphical user interface. Then in the 2010s, we had like these amazing kind of introductions of like more code. We had like libraries like Pandas really like kind of uh giving rise to this new category of like data engineers and data scientists who really like could like give us like amazing insights about the world. And today like we all have to kind of evolve even more to really become like truly like AI natives, AI engineers, and ML engineers. And we all are kind of really like kind
+
+**[0:46](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=46s)** of need to live this new paradigm of like you type in a prompt and like really generate like insights at unprecedented speeds. So, in my opinion, natural language today as an interface has won. Nearly every major company has, buys, or builds their own data agent. And if you boil it down, it's literally like a prompt. You fill it in some context, you have an agent, and you generate like insights at like unprecedented speed. So, let's uh take a look what it actually means like when you work with data today. So, I kind of here put like a prompt like something very very simple to find out a very very important answer for the universe like adding simply 10 and 32. And usually like if you fit into an agent, there are the typical steps of reasoning and then like a code interpreter tool call is made to kind of produce a verifiable answer and you get an output. And so, when you look at it like the two like foundation labs code tools and this
+
+**[1:35](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=95s)** is all like remote hosted are pretty comparable. They all run in about like 5 seconds and it costs about like 3.7 cents. So, basically let's say you kind of teach like adding two numbers to like a first grader, you should be charging 3.7 cents at this moment because this is what it costs. But there's also like sort of the human approach. We can all like quickly type about like 200 to 350 characters per minute. And so, a simple Python program can be typed up like this in just a few seconds and actually runs on a local machine in like something incredibly fast like 14 milliseconds. So, we really have to ask ourselves, is like adding 10 and 32 and feeding it through like kind of full agent really the best we can do at this moment? And so, currently we're all like focused in this industry on like inference, like token maxing and like a token bottleneck. But, what is actually happening with like the
+
+**[2:22](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=142s)** rest? Because ultimately, when we really truly think about it, agents are only as good as the data they have access to and also the code they can produce and write. So, in this talk I sort of want to make the point of like the case for better tools and that passing all data and context is simply not enough. Tools are a fantastic thing to really get things done cheaper and better. Currently, we mostly have like sandbox-based code tools, but I kind of want to encourage everybody to truly start thinking more about like data-driven code tools. Basically, use a better tool to get the job done. So, this really gives us this amazing opportunity right now to rewrite the existing modern data stack, maybe call it the post-modern stack or like the AI-first stack. And like we really can like kind of rethink everything from
+
+**[3:10](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=190s)** like first principles. And so, usually when you kind of want to do something with AI, data is a good idea and it also really helps to kind of take a look back like historically what we did as humans before. And it turns out data frames are an incredibly abstraction to really like organize data, work well with it together, have high-level operators, give you really this productivity boost in an iterative way over data to generate insights. Data frames are simply amazing. They're like incredibly intelligible, imperative, composable, and perfect for an iterative workflow. I would just sum it up that we as humans really love data frames because we all know that like complex SQL is very hard to reason about. If you ever saw like a SQL query that's like a thousand lines. It's very very hard to understand and having an imperative Python program is much much
+
+**[3:57](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=237s)** much simpler to follow and also verify. So, I kind of have here like a very simple example of like what this would look like. Um, I heard like it's really hard to get like sort of an apartment these days in San Francisco because I mean obviously we're living like in unprecedented AI times. So, you might want to kind of scrape a little bit, build your agent, get some data and like one important question typically is to answer how many bedrooms or bathrooms does a place have. And so, what you do is kind of pick like really your data frame pre-processing framework and like write some code to get this information. There are like many many options out there and it is really like down to what you like, kind of what API style you like. You can use like Pandas as one of like the early ones. You can Polars which has been pitched as like kind of faster and better than Pandas recently. Or you can say like, "Hey, I really want
+
+**[4:45](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=285s)** to know like everything. I want to use like PySpark because it's scalable and you can write it." And you all have like these like different flavors of like APIs, but they all kind of do ultimately pretty much the same thing. So, ultimately it's really up to you as a human to define which API do you like, which API really resonates well with you. And what really happens is that like kind of the core differentiator to pick like option A, let's say Pandas over Polars or PySpark over Polars is API syntax and performance as the core differentiator. But this also means that like now with the emergence of AI basically times really changed. LLMs really eroded the API advantage to say like kind of this API is much more human-friendly or like this API has like kind of this feature. So, really if you want to build a data frame library today, you really have to
+
+**[5:32](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=332s)** think very hard about like one of features. For example, building like a video data frame, a geo data frame, maybe a multi-model data frame. Or you just go like kind of what's currently in vogue and you say like, "Hey, I build a data frame in Rust because let's rewrite everything in Rust, it will be better. So, what you actually want to do in my opinion rather is like you really want to capture the core intent in a very very easy-to-understand way. Like something that pretty much is taught in like every class in a CS 101 where most people now start with like kind of Python as the first language. And you have this amazing concept of like functions that really have this wonderful property that you can actually share them across all these frameworks to really kind of simplify by the code but also enable like people who might not be like Pandas, Polars, or PySpark
+
+**[6:19](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=379s)** experts to work really efficiently with data. And so, I really want to make the case here that functions are actually incredibly powerful. They're easy to understand, composable, and simply one of the best abstractions we have. And the great thing is you create the function once, you share it across the organization, you can verify it, you can run evals over it, you can optimize it, but also everybody can benefit from the knowledge you accumulate in a function. So, in my opinion really higher-level operators coupled with functions are much much better abstraction than custom APIs which are designed mostly to kind of really like bring performance to an existing product. But there is a little bit of a problem. Data frame libraries historically added user-defined functions as an afterthought and favored like framework-specific expressions like
+
+**[7:08](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=428s)** columnar expressions solely for like performance reasons. So, when we take a look at like kind of running a benchmark here, I didn't add like two numbers. I also just didn't extract like bathrooms or bedrooms, but I kind of wrote like a little benchmark of like a bit more of a complex data engineering scenario where kind of a 10 GB CSV file is processed using 12 UDFs on a standard Azure instance. And the interesting point here I want to make is like we have a lot of frameworks. We have PySpark, Pandas, and Polars the most recent versions. And if you run them on a single thread, you get actually vastly different results in terms of performance. And so, a good idea usually is when you run on a single core, we all know we have a multi-core world right now. So let's throw more cores at it. Let's go from 1 to 16. But what you actually see is that like some frameworks kind of scale, like we have like PySpark and Polars, but Pandas still has no like
+
+**[7:55](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=475s)** kind of multi-threading support. Maybe it will be coming up. And also like actually just writing a plain Python program today still outperforms like Pandas and PySpark when it comes to like user-defined functions. So it's time for a rewrite for the AI era. Instead of like kind of really thinking about data frames, we should be thinking more about efficient data-centric tools via powerful query engine on top of user-defined functions. So why should we care? Well, because today it is possible that functions can be fast. If you rewrite everything from scratch with a function-first approach, what you actually can do is you can both outperform single-threaded Python by keeping the same syntax, but moreover, you can even write software that actually stays truly with like cores. So you basically go from something like
+
+**[8:46](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=526s)** 144 seconds down to 26 seconds on a single core, and you can get this down even to 4 seconds end-to-end with like a warm OS cache. So ultimately, functions really have a case to give like an order of magnitude better performance over state-of-the-art data frame libraries. But there is one more thing that you can do with this approach when you actually really focus on functions. And that is like you can use the same existing API and write it on a different engine. So how to do this? Well, the models are really, really powerful. It's incredible like what has been created in the AI industry, and it is evolving at an even faster and faster pace. And so in this experiment, what I did is basically I used the existing API and like a UDF-first engine, and then I spun up like a couple Codex instances, and
+
+**[9:33](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=573s)** basically created a simple eval along, and Codex was able to figure out a complete transpilation layer that used to take in the industry 20 people to build over 2 years. And it is done now in a single day. So, ultimately, focusing on these core abstractions really can give us like something crazy possible AI-enabled a true like kind of front running on the Pareto when it comes to usability, efficiency, and performance. So, my case today in this talk is to really embrace functions. They're like Legos for agents. The perfect building block for succinct coding tools. And ultimately, who doesn't want to make an agent happy? I mean, after all, we all know they're coming after us. Writing code is an agentic superpower. Now, we only have to do one more thing.
+
+**[10:22](https://www.youtube.com/watch?v=xp1wC3nx94Q&t=622s)** We have to give agents the ability to write more expressive code and run it faster with the new stack. And the way to really think about like data-driven code tools is not as a replacement for a foundation model or something competing. No, it's more like a mushroom like in a Super Mario game. It's basically a cost-efficient power-up to get more done and save money. With this, I want to encourage you all to stop building more data frame libraries and start building data-centric code tools for agents. And may the data be with you. Thank you. >> [applause] [music]

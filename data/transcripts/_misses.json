@@ -133,5 +133,15 @@
     "conference": "nvidia-gtc",
     "reason": "LookupError",
     "detail": "supadata: HTTP 403 {\"error\":\"forbidden\",\"message\":\"Forbidden\",\"details\":\"Video is restricted (age-restricted or members-only)\",\"documentationUrl\":\"https://docs.supadata.ai/errors/"
+  },
+  "8eGmT6fZfGk": {
+    "conference": "mcp-dev-summit",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
+  },
+  "wfcGVGZKNoE": {
+    "conference": "lf-ai-dev",
+    "reason": "LookupError",
+    "detail": "supadata: no timed transcript for this video"
   }
 }

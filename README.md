@@ -4,7 +4,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences �
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**7,348 talks from 46 conferences.** The curated list of which conferences and
+**9,325 talks from 53 conferences.** The curated list of which conferences and
 why is [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror,
 which the pipeline actually reads, is [`conferences.json`](conferences.json).
 
@@ -14,7 +14,7 @@ straight to a query.
 
 ## Where the data comes from
 
-There is no agenda API here. Forty-six conferences publish their programmes in
+There is no agenda API here. Fifty-three conferences publish their programmes in
 the only machine-readable place they have in common: YouTube. So the corpus is
 built in two stages that cost very different things.
 
@@ -53,7 +53,7 @@ say "AI". Without that, an *AI* talks corpus would be four fifths
 Kubernetes networking and iOS layout. Each conference also carries a minimum
 duration, which drops the stings, trailers and sponsor spots channels mix in.
 
-Of 15,150 videos enumerated, 7,348 survive. `sync_catalog.py` prints exactly
+Of 17,677 videos enumerated, 9,325 survive. `sync_catalog.py` prints exactly
 what each conference dropped and why.
 
 ## Layout
@@ -158,6 +158,33 @@ conferences changed. That holds literally, including `talks.json`'s
 `generated_at`, which advances only when the corpus actually changes rather than
 on every run. `build_index.py --help` lists its flags without rebuilding.
 
+### Fetching what has no transcript yet
+
+Nothing is pending. The seven conferences added on 2026-09-01 brought in 422
+talks without transcripts, and all 422 were fetched the same day — 420 returned
+captions, 2 had none. When a refresh brings new talks in, this is the run, and
+it takes about five minutes:
+
+```bash
+cd tools
+source ~/.bash_profile               # SUPADATA_API_KEY + YOUTUBE_API_KEY live here;
+                                     # a non-login shell does not read that file
+.venv/bin/python fetch_transcripts.py --probe          # 1 credit; says which route to name
+.venv/bin/python fetch_transcripts.py --source supadata --min-year 2026 --workers 32 \
+  && .venv/bin/python sync_catalog.py \
+  && .venv/bin/python build_index.py
+```
+
+Chain the three, rather than running the fetch alone: a transcript that is not
+folded in and indexed is invisible to the browser, the CLI and the markdown, so
+it is a credit spent for nothing. The selection re-derives itself from disk on
+every run — it takes what has no transcript — so an interrupted run is resumed
+by repeating the same command, and there is no list to keep.
+
+Then confirm the fetch classified its failures correctly and the UI still
+passes, which is what `STATE.md` walks through, and commit `data/`, `talks/` and
+the counts in this file.
+
 ### Adding a conference
 
 Add it to `conferences.json` and to `ai-conferences.md`, then:
@@ -206,8 +233,8 @@ export lives in `~/.bash_profile` it will not reach a non-login shell — put it
 in `~/.bashrc`, or source it explicitly.
 
 `videos.list` bills one unit per call and takes 50 video ids at a time, so the
-corpus costs about 140 units and `--all` over the full 15,150-video catalogue
-about 296 — 3% of a day's allowance, which is why a re-enrichment is never the
+corpus costs about 190 units and `--all` over the full 17,677-video catalogue
+about 354 — 4% of a day's allowance, which is why a re-enrichment is never the
 thing to ration. Without a key it is a full yt-dlp extraction per video —
 roughly an hour for the corpus at two workers, and it draws on the same IP
 reputation the transcript fetch depends on, so do not run it alongside a
@@ -265,9 +292,9 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,519 of the 7,348 talks are 2026,
-and all but the 26 with no captions now have a transcript —
-and a talk whose year is not known yet is left out unless
+`--min-year 2026` keeps only those years — 2,941 of the 9,325 talks are 2026,
+of which 2,913 have a transcript and 28 have no captions, so none is waiting on
+a fetch — and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. Nothing is removed from the corpus by
 this: it is a selection filter, and `query.py --year` still reads every year.
 
@@ -374,7 +401,7 @@ own `availableLangs`. A talk that really has no English track is saved under the
 language it is in, never written to `_misses.json` — that file means *no
 captions*, and a Hindi track is captions.
 
-Ten talks here are like that, and no route can mend them: their single
+Twelve talks here are like that, and no route can mend them: their single
 auto-generated track is YouTube's ASR mis-reading English audio as Hindi, so
 `availableLangs` is `['hi']` and there is nothing else to ask for. Deleting and
 refetching returns the same bytes.

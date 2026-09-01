@@ -50,6 +50,11 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - YouTube: https://www.youtube.com/@OpenAI — [DevDay 2025](https://www.youtube.com/playlist?list=PLOXw6I10VTv8-mTZk0v7oy1Bxfo3D2K5o) · [2024](https://www.youtube.com/playlist?list=PLOXw6I10VTv_o0ZLpFu2IQyQOho1l-v7y) · [2023](https://www.youtube.com/playlist?list=PLOXw6I10VTv-exVCRuRjbT6bqkfO74rWz)
 - OpenAI's annual developer conference (next: Sep 29, 2026). ✅ free — keynotes + breakouts.
 
+### MCP Dev Summit (Agentic AI Foundation)
+- Site: https://events.linuxfoundation.org/mcp-dev-summit-north-america/
+- YouTube: https://www.youtube.com/channel/UCgkApalw5crKXOtr_mqtPQg — [NA 2026](https://www.youtube.com/playlist?list=PLjULwdJUtFdhIBhibLEogtK1XYCNaFyFl) · [Europe 2025](https://www.youtube.com/playlist?list=PLjULwdJUtFdjEl2jZif3XgtTgvNDpJFlO) · [May 2025](https://www.youtube.com/playlist?list=PLjULwdJUtFdigAsQ_GMzcPyXaZOeLG04L)
+- The Model Context Protocol's own conference, now under the Linux Foundation's Agentic AI Foundation — servers, gateways, auth, tool design, agent interop. ✅ free — full sessions. Registered per edition rather than by channel: the same channel also carries "The Context" livestreams and shorts, which are a podcast, not a programme.
+
 ### MLOps World | GenAI Summit + Toronto Machine Learning Summit (TMLS)
 - Sites: https://mlopsworld.com/ · https://www.torontomachinelearning.com/
 - YouTube: https://www.youtube.com/@tmls-ai — [MLOps World 2025 sessions (66 videos)](https://www.youtube.com/playlist?list=PLlcxuf1qTrwDJjGqDG0XuCzCeTEaEZ-uo)
@@ -74,6 +79,16 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - Site: https://aiconference.com/
 - YouTube: https://www.youtube.com/@aiconference
 - Annual SF builder conference with LLM, agentic AI, and infra tracks. ✅ free.
+
+### Berkeley RDI — Agentic AI Summit
+- Site: https://rdi.berkeley.edu/events/agentic-ai-summit
+- YouTube: https://www.youtube.com/@BerkeleyRDI — [2026 talks](https://www.youtube.com/playlist?list=PLVQ6wYubSX6A) · [2025](https://www.youtube.com/playlist?list=PLS01nW3RtgorSROLaDrF1YR34f0A3CnJS)
+- UC Berkeley's summit where agent research meets production practice (Dawn Song's centre; the LLM Agents MOOC lineage). ✅ free. The per-talk playlist is registered, not the parallel [whole-day stage streams](https://www.youtube.com/playlist?list=PLVs8SZOx0kX8), which would enter the corpus as four-hour "talks"; the channel itself is not registered, since most of it is MOOC lectures and blockchain work.
+
+### AI Council (formerly Data Council)
+- Site: https://www.aicouncil.com/
+- YouTube: https://www.youtube.com/c/DataCouncil/videos
+- Builder-first conference on the AI and data stack, renamed from Data Council for the 2026 edition; ten years of technical talks on one channel. ✅ free. Registered `scope: "ai"` with a recency cap — the older Data Council years are data engineering (Kafka, Airflow, warehouses), and only the AI half belongs here.
 
 ### dotAI
 - Site: https://www.dotai.io/
@@ -116,6 +131,11 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - Site: https://www.cncf.io/kubecon-cloudnativecon-events/
 - YouTube: https://www.youtube.com/@cncf — [KubeCon EU 2026 (411 videos)](https://www.youtube.com/playlist?list=PLj6h78yzYM2MXCOWSN9CqqID6OOvF7wxL) · [Cloud Native AI + Kubeflow Day 2026](https://www.youtube.com/playlist?list=PLj6h78yzYM2PnalRBhPCbxEm_rup1b3X0)
 - Production AI infra — GPU scheduling, inference, agentic workloads on Kubernetes. ✅ free — all keynotes + breakouts shortly after each event.
+
+### AI_dev / Open Source Summit (Linux Foundation)
+- Sites: https://events.linuxfoundation.org/ai-dev-europe/ · https://events.linuxfoundation.org/open-source-summit-north-america/
+- YouTube: https://www.youtube.com/channel/UCfX55Sx5hEFjoC3cNs6mCUQ — [AI_dev Europe 2025](https://www.youtube.com/playlist?list=PLbzoR-pLrL6oAsF17rJsdZ0NiKnb2-xD1) · [AI_dev Europe 2024](https://www.youtube.com/playlist?list=PLbzoR-pLrL6oII-dLqw9vpif0U_kTycj6) · [AI.dev 2023](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qDStieLBJLajZMcQVgwlxA) · [OSS + ELC NA 2026](https://www.youtube.com/playlist?list=PLbzoR-pLrL6p2URzlq8xlNtBhPspd2xpi) · [OSS EU 2025](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qKwLt8A787ggMLHNivOHve)
+- Open-source GenAI and ML infrastructure — training, inference, model serving, governance. ✅ free. AI_dev ran standalone through 2025 and is folded into Open Source Summit from 2026, which is why one conference here carries both: the AI_dev playlists override to `scope: "all"` (the whole event is AI), while the Open Source Summit playlists keep the conference's `scope: "ai"` and contribute only their AI sessions.
 
 ### GitHub Universe
 - Site: https://githubuniverse.com/
@@ -180,6 +200,11 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - Site: https://build.microsoft.com/
 - YouTube: https://www.youtube.com/@MicrosoftDeveloper — [Build 2026 (224 videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHicIn65R7Oi_1nFXQr4SbtU) · [Build 2025 (274 videos)](https://www.youtube.com/playlist?list=PLlrxD0HtieHgFYS4DKbJ_xCYNE94ZLJjj)
 - Hundreds of Copilot/agents/Azure AI breakout sessions. ✅ free — excellent for transcripts.
+
+### Microsoft Ignite
+- Site: https://ignite.microsoft.com/
+- YouTube: https://www.youtube.com/@events_msft — [Ignite 2025 (502 videos)](https://www.youtube.com/playlist?list=PLQXpv_NQsPIDXiR9PcpggZ34mzko_-12C) · [Ignite 2024 (377 videos)](https://www.youtube.com/playlist?list=PLQXpv_NQsPID0sNvENCDMADnd1M5aOfv4)
+- Microsoft's enterprise event, the counterpart to Build: Copilot, agents, Azure AI, Fabric and AI security, agentic AI throughout. ✅ free — the full session catalogue, not just keynotes. Registered per edition because the channel carries every Microsoft event, Build included, and conference attribution has to stay right.
 
 ### AWS re:Invent
 - Site: https://aws.amazon.com/events/reinvent
@@ -252,6 +277,16 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - Site: https://www.cerebralvalley.com
 - YouTube (Newcomer's channel): https://www.youtube.com/@newcomerpod — [summit playlist](https://www.youtube.com/playlist?list=PL0Yg1id5olJP-rgqHPQ32fOSgr_xDtJKV)
 - Invite-only SF summit; on-stage interviews with AI founders/CEOs. ✅ free.
+
+### Sequoia AI Ascent
+- Site: https://www.sequoiacap.com/
+- YouTube: [AI Ascent 2026](https://www.youtube.com/playlist?list=PLOhHNjZItNnOkkZThzULo1Ygg7JR6T3MG) · [AI Ascent 2025](https://www.youtube.com/playlist?list=PLOhHNjZItNnMEqGLRWkKjaMcdSJptkR08)
+- Invite-only founder and researcher summit; short single-track talks from frontier-lab leaders (Karpathy, Hassabis, Brockman, Jim Fan). ✅ free — the talks are posted individually. Playlists only: the rest of the Sequoia channel is portfolio and podcast material.
+
+### Y Combinator AI Startup School
+- Site: https://events.ycombinator.com/ai-sus
+- YouTube: https://www.youtube.com/@ycombinator — [AI Startup School](https://www.youtube.com/playlist?list=PLQ-uHSnFig5NPx4adxl97CZb8vU4numwi)
+- YC's single-track AI school for student builders — Karpathy, Ng, Fei-Fei Li, Altman, Musk, Jumper. ✅ free — full talks. Only this playlist is registered; YC's channel is mostly clips, shorts and general Startup School.
 
 ## Academic research conferences (not on YouTube)
 

@@ -85,7 +85,7 @@ PASSAGE_WORDS = 25
 # visitor downloads before typing anything. YouTube descriptions run long and
 # repetitive (the same channel boilerplate under 400 talks), so the tail is
 # mostly cost.
-META_DESC_CHARS = 600
+META_DESC_CHARS = 300
 
 # What "too big" means for search-meta.json, spelled out so nobody has to
 # measure it again. THE UNIT IS BINARY — mebibytes, 1024-based — and so is
@@ -96,7 +96,8 @@ META_DESC_CHARS = 600
 # figure needs comparing; this trigger is not a vendor figure.
 #
 # Crossing it is not a failure, it is a prompt: halve META_DESC_CHARS. That is
-# what 1200 -> 600 did last time, taking the file from 7.3 MiB to 5.4 MiB.
+# what 1200 -> 600 did last time, taking the file from 7.3 MiB to 5.4 MiB, and
+# what 600 -> 300 did when seven new conferences took it to 7.8 MiB.
 # The run prints where the file stands against this line either way.
 META_SIZE_TRIGGER_BYTES = 6 * 1024 * 1024  # 6 MiB = 6,291,456 bytes
 

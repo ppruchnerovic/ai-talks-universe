@@ -79,8 +79,14 @@ SUPADATA_API = "https://api.supadata.ai/v1/transcript"
 # rate limit is not published, so 429 backs off and retries rather than being
 # fatal, and this is a starting point to raise with --workers, not a ceiling.
 OFF_IP_WORKERS = 8
-UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-      "Chrome/131.0.0.0 Safari/537.36")
+# Sent to supadata and kome — both plain HTTP APIs, neither of them YouTube, so
+# there is nothing here a browser string buys. It costs, though: a corporate
+# TLS-inspecting proxy (Zscaler here) reads a Chrome UA on an API call as web
+# browsing and answers with an HTML "Browser Isolation" interstitial at HTTP
+# 200, which arrives as a JSONDecodeError and retires the route. Name the client
+# honestly and the same request is passed through untouched. The YouTube routes
+# do not use this: youtube-transcript-api and yt-dlp bring their own.
+UA = "ai-talks-universe/1.0 (+https://github.com/ppruchnerovic/ai-talks-universe)"
 
 MISSES = atu.TRANSCRIPTS / "_misses.json"
 
@@ -373,6 +379,14 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
         try:
             with urllib.request.urlopen(req, timeout=120) as resp:
                 body = resp.read().decode("utf-8")
+                if body.lstrip()[:9].lower().startswith(("<!doctype", "<html")):
+                    # HTML at HTTP 200 from a JSON API is not supadata
+                    # answering: it is something between here and there
+                    # answering for it. Say so once, rather than retrying an
+                    # interstitial four times and reporting a parse error.
+                    raise TransientError(
+                        "supadata: an intercepting proxy returned HTML, not the "
+                        "API's JSON — see the UA note at the top of this file")
                 return resp.status, (json.loads(body) if body.strip() else {})
         except urllib.error.HTTPError as e:
             if e.code == 429:
