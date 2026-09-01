@@ -5,10 +5,11 @@ name: Refresh the catalogue
 # caption endpoint per egress IP and blocks GitHub's ranges outright, so
 # fetch_transcripts.py has to run on a real machine.
 #
-# This run OPENS A PULL REQUEST; it does not commit to main, and it does not
-# publish. It used to do both. On 2026-08-31 a scheduled run committed straight
-# to main and wrote `channel: null` over ~4,540 talks, then force-pushed the
-# result to gh-pages, so the degraded corpus was live before anyone saw it.
+# This run PUSHES A BRANCH AND REPORTS; it does not commit to main, does not
+# open a pull request, and does not publish. It used to commit and publish. On
+# 2026-08-31 a scheduled run committed straight to main and wrote
+# `channel: null` over ~4,540 talks, then force-pushed the result to gh-pages,
+# so the degraded corpus was live before anyone saw it.
 #
 # The cause is that enumeration from a runner does not fail cleanly. YouTube
 # throttles these ranges, and a throttled listing comes back with titles and
@@ -19,7 +20,10 @@ name: Refresh the catalogue
 #
 # What the weekly run is genuinely good at is spotting newly posted videos, and
 # that survives a review gate. So: refresh, diff the field coverage with
-# refresh_report.py, and put the result in a PR for a human to accept.
+# refresh_report.py, and leave the branch and the table for a human to accept.
+#
+# The gate is the human reading that table, not the pull request object — which
+# is why opening one is no longer attempted. See the last step.
 
 on:
   workflow_dispatch:
@@ -34,7 +38,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: kb-refresh
@@ -108,52 +111,48 @@ jobs:
             2) echo "regressed=true"  >> "$GITHUB_OUTPUT" ;;
             *) echo "refresh_report.py failed ($rc)" >&2; exit "$rc" ;;
           esac
-          cat /tmp/refresh-report.md >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Open or update the pull request
+      # No pull request is opened here, and the permission to open one is not
+      # requested. The built-in GITHUB_TOKEN is refused — `GraphQL: GitHub
+      # Actions is not permitted to create or approve pull requests
+      # (createPullRequest)` — and because that refusal came *after* the push,
+      # every run since the gate was added ended red with the branch pushed and
+      # the coverage table discarded. The branch and the table are the gate; a
+      # PR object never was. So: push, write the table into the run summary,
+      # and leave a compare link for whoever reviews it.
+      - name: Push the branch and report
         if: steps.changed.outputs.changed == 'true'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REGRESSED: ${{ steps.report.outputs.regressed }}
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # One long-lived branch and one open PR, rewritten each week, rather
-          # than a new PR every Monday that nobody closes.
+          # One long-lived branch, rewritten each week, rather than a new one
+          # every Monday that nobody deletes.
           git checkout -B "$BRANCH"
           git add -A
           git commit -m "Refresh the AI talk catalogue"
           git push --force origin "$BRANCH"
 
           if [ "$REGRESSED" = "true" ]; then
-            title="🔴 Catalogue refresh — field coverage regressed"
-            note=$'> [!CAUTION]\n> A field lost more of the corpus than the tolerance allows. That is the\n> signature of a throttled enumeration overwriting good records, not of new\n> information. Read the table before merging.\n\n'
+            heading="## 🔴 Catalogue refresh — field coverage regressed"
+            note=$'> [!CAUTION]\n> A field lost more of the corpus than the tolerance allows. That is the\n> signature of a throttled enumeration overwriting good records, not of new\n> information. Read the table before merging.'
           else
-            title="Catalogue refresh"
-            note=$'> [!NOTE]\n> No field regressed. Merging publishes: `pages.yml` mirrors `main` into\n> `gh-pages` on push.\n\n'
+            heading="## Catalogue refresh"
+            note=$'> [!NOTE]\n> No field regressed. Merging publishes: `pages.yml` mirrors `main` into\n> `gh-pages` on push.'
           fi
 
           {
-            printf '%s' "$note"
+            printf '%s\n\n%s\n\n' "$heading" "$note"
             cat /tmp/refresh-report.md
-            printf '\n---\n\nOpened by `kb-refresh.yml` from [run %s](%s/%s/actions/runs/%s). ' \
-              "$GITHUB_RUN_ID" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$GITHUB_RUN_ID"
-            printf 'This workflow does not commit to `main`.\n'
-          } > /tmp/pr-body.md
+            printf '\nPushed to `%s` — review it at\n%s/%s/compare/main...%s\n' \
+              "$BRANCH" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$BRANCH"
+            printf '\nOpen a pull request from that page if it is worth merging.\n'
+          } >> "$GITHUB_STEP_SUMMARY"
 
-          n=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number // empty')
-          if [ -n "$n" ]; then
-            gh pr edit "$n" --title "$title" --body-file /tmp/pr-body.md
-            echo "Updated PR #$n"
-          else
-            gh pr create --base main --head "$BRANCH" \
-              --title "$title" --body-file /tmp/pr-body.md \
-              $([ "$REGRESSED" = "true" ] && echo --draft)
-          fi
-
-      # Publishing now happens only when the PR is merged: a push to main runs
-      # pages.yml, which mirrors main into gh-pages. Nothing here touches
-      # gh-pages, so a throttled run can no longer put degraded data on the
-      # live site before a human has looked at it.
+      # Publishing happens only when a human merges that branch: a push to main
+      # runs pages.yml, which mirrors main into gh-pages. Nothing here touches
+      # main or gh-pages, so a throttled run cannot put degraded data on the
+      # live site before somebody has looked at it.
