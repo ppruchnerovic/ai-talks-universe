@@ -80,6 +80,40 @@ CREATE VIRTUAL TABLE segments_fts USING fts5(
 # browser reads the raw caption files.
 PASSAGE_WORDS = 25
 
+# A transcript that says almost nothing across a long talk is an ASR failure,
+# not a transcript. Four files here are YouTube's Hindi mis-detection on English
+# audio giving up: 153 to 185 words over 41- to 73-minute talks, 2.5 to 3.7
+# words a minute. The next slowest real transcript in the corpus is 19.9, so
+# this is a gap rather than a tuning parameter — anything from 5 to 19 catches
+# the same four and nothing else. Below MIN_RATED_MINUTES the ratio is noise, so
+# it is not applied; the shortest transcribed talk is 5 minutes at 98 wpm.
+#
+# The file stays on disk. Deleting it would make fetch_transcripts.select()
+# re-pick the talk on every future run and refetch the same bytes forever — the
+# same non-convergence argument that has the fetcher save a foreign-language
+# track rather than treat it as retryable. The file is evidence that we asked
+# and this is what exists; what this floor decides is only whether it is content.
+MIN_WPM = 10
+MIN_RATED_MINUTES = 5
+
+# atu.TOKEN_RE matches [a-z0-9] only, so a Devanagari, Japanese or Arabic
+# transcript tokenises to almost nothing — 20 tokens for 6,084 words. len(toks)
+# then measures the script rather than the document, and BM25's length
+# normalisation reads it as a tiny document in which any stray Latin token (a
+# brand name, a number) is overwhelmingly frequent: one such transcript ranked
+# first of 76 for "netflix" and first of 4 for "jio" on the strength of eight
+# occurrences in what looked like a 20-word talk. Across the transcripts the
+# tokeniser can read, tokens per word runs 0.33 to 0.91 with a median of 0.42;
+# below TOKEN_SHARE_FLOOR the count is not about the talk, so the corpus median
+# is applied to the raw word count instead.
+#
+# Both rankers stay comparable because BM25 uses only dl/avg: this changes
+# nothing for a transcript the tokeniser can read, and it demotes rather than
+# removes the ones it cannot — a talk that really does say "netflix" eight times
+# should still be findable, just not above the talks about Netflix.
+TOKEN_SHARE_FLOOR = 0.25
+TOKENS_PER_WORD = 0.42
+
 # How much of a description reaches the browser's up-front payload. The full
 # text stays in talks.json, the markdown and talks.db; this only caps what every
 # visitor downloads before typing anything. YouTube descriptions run long and
@@ -141,12 +175,50 @@ def to_passages(segs: list[dict]) -> list[dict]:
     return out
 
 
-def transcript_text(vid: str) -> tuple[str, list[dict], int]:
+# Video id -> why its transcript was held back, filled by transcript_text() and
+# printed by main(). A silent dropper in the index is the failure mode this
+# repository keeps getting bitten by — the vacuous UI check, the `channel: null`
+# refresh, the shard regex that matched nothing — so what it did has to be said
+# out loud, the way sync_catalog.py says what each conference dropped and why.
+# Both index halves ask about every talk, hence a dict rather than a list.
+HELD_BACK: dict[str, str] = {}
+
+
+def held_back(words: int, duration_min: int | None) -> str | None:
+    """Why this transcript must not be indexed as content, or None."""
+    if words and duration_min and duration_min >= MIN_RATED_MINUTES:
+        wpm = words / duration_min
+        if wpm < MIN_WPM:
+            return f"{words} words over {duration_min} min = {wpm:.1f} wpm"
+    return None
+
+
+def index_length(toks: list[str], words: int) -> int:
+    """Document length for BM25, in a script the tokeniser may not read."""
+    if words and len(toks) < TOKEN_SHARE_FLOOR * words:
+        return max(len(toks), round(TOKENS_PER_WORD * words))
+    return len(toks)
+
+
+def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int]:
+    """Text, passages and word count — or three empty values.
+
+    The word count is zeroed along with the text, not kept. It is what reaches
+    search-meta.json as `w`, and the browser gates the transcript badge, the
+    has-transcript filter and the "Find this in the talk" link on `w` rather
+    than on any text it holds; returning a live count with no text would leave a
+    deep link into 150 words of fragments.
+    """
     tr = atu.load_transcript(vid)
     if not tr:
         return "", [], 0
     segs = tr.get("segments", [])
-    return " ".join(s["text"] for s in segs), to_passages(segs), tr.get("word_count", 0)
+    words = tr.get("word_count", 0)
+    why = held_back(words, duration_min)
+    if why:
+        HELD_BACK[vid] = why
+        return "", [], 0
+    return " ".join(s["text"] for s in segs), to_passages(segs), words
 
 
 def clip(text: str, n: int) -> str:
@@ -164,7 +236,7 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
     n_tr = 0
     seg_rowid = 0
     for n, t in enumerate(talks, 1):
-        text, segs, words = transcript_text(t["id"])
+        text, segs, words = transcript_text(t["id"], t["duration_min"])
         if text:
             n_tr += 1
         speakers = ", ".join(t["speakers"])
@@ -258,7 +330,7 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
     doc_len: dict[int, int] = {}
 
     for n, t in enumerate(talks, 1):
-        text, segs, words = transcript_text(t["id"])
+        text, segs, words = transcript_text(t["id"], t["duration_min"])
         meta.append({
             "i": n,
             "v": t["video_id"],
@@ -279,7 +351,7 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
         if not text:
             continue
         toks = atu.tokenize(text)
-        doc_len[n] = len(toks)
+        doc_len[n] = index_length(toks, words)
         for term, tf in collections.Counter(toks).items():
             postings[term][n] = tf
         for i, s in enumerate(segs):
@@ -380,6 +452,11 @@ def main(argv: list[str] | None = None) -> None:
         return
 
     print(f"indexed {len(talks)} talks · {n_tr} with transcripts · {n_seg:,} passages")
+    if HELD_BACK:
+        print(f"  {len(HELD_BACK)} transcript(s) held back below the {MIN_WPM} wpm floor "
+              f"— the files are kept, they are just not indexed as content:")
+        for vid in sorted(HELD_BACK):
+            print(f"    {vid}  {HELD_BACK[vid]}")
     print(f"  data/talks.db          {atu.human_size(atu.TALKS_DB.stat().st_size)}")
     print(f"  data/search-meta.json  {atu.human_size(meta_size)}")
     if stats["shards"]:

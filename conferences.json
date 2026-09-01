@@ -1,7 +1,9 @@
 {
   "version": 1,
   "note": "Machine-readable mirror of ai-conferences.md. That file is the human curation and explains why each source is here; this one is what tools/sync_catalog.py reads. Keep them in sync — tools/check_registry.py compares them.",
+  "min_year": 2023,
   "fields": {
+    "min_year": "The corpus floor: a talk known to be older than this is not derived into talks.json. 2023 is where this corpus changes subject — the modern-LLM vocabulary rate is 3-9% for 2015-2022 and 30% for 2023 — and no talk before it has a transcript. A conference or a source may override it, and null means no floor, which is how the security back catalogue is kept. A talk whose year is not known yet passes: the floor is a claim about talks proven old, and enrichment is what resolves a year. Enumeration still caches everything, so raising or lowering this is a re-derivation, not a re-fetch.",
     "scope": "'all' keeps every session (the conference is entirely about AI); 'ai' keeps only sessions whose title/description/tags match atu.AI_RE (general conferences with AI tracks).",
     "priority": "1 = fetch transcripts first. The caption endpoint is metered per IP, so the corpus is far bigger than any one sitting can transcribe; this is the rationing order.",
     "sources[].first": "Only page N entries deep into a channel before filtering. Channels list newest first, so this is a recency cap.",
@@ -391,6 +393,7 @@
       "scope": "all",
       "priority": 2,
       "min_duration": 300,
+      "min_year": null,
       "sources": [
         {"type": "channel", "url": "https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos", "label": "CAMLIS", "first": 400}
       ]
@@ -405,6 +408,7 @@
       "scope": "all",
       "priority": 2,
       "min_duration": 300,
+      "min_year": null,
       "sources": [
         {"type": "channel", "url": "https://www.youtube.com/@aivillage/videos", "label": "AI Village", "first": 400},
         {"type": "playlist", "url": "https://www.youtube.com/playlist?list=PL9fPq3eQfaaBy_EIgmLzo45NLo9o9dAHZ", "label": "DEF CON 27 AI Village", "year": 2019}
@@ -478,6 +482,7 @@
       "scope": "ai",
       "priority": 3,
       "min_duration": 600,
+      "min_year": null,
       "sources": [
         {"type": "channel", "url": "https://www.youtube.com/@BsidesLVorg/videos", "label": "BSides Las Vegas", "first": 600}
       ]

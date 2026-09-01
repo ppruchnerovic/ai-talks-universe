@@ -144,6 +144,16 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 
 ## AI security
 
+The corpus keeps talks from 2023 onwards; **CAMLIS, DEF CON AI Village and
+BSides Las Vegas** are the exception and keep their whole back catalogue
+(`"min_year": null` in `conferences.json`). Elsewhere 2022 and earlier is a different subject —
+applied ML, data engineering, MLOps before LLMs — and reads as noise beside
+what the same conference publishes now. Here it is the same subject: adversarial
+ML, model evasion, data poisoning and deepfakes were being presented years
+before the vocabulary changed, and the work has not been superseded by it. It is
+also most of what these three have — 36 of DEF CON AI Village's 37 talks are
+2019-21, and a flat floor would leave the conference with one.
+
 ### CAMLIS — Conference on Applied Machine Learning in Information Security
 - Site: https://www.camlis.org/
 - YouTube: https://www.youtube.com/channel/UCmIY4lIVsotxeUDRCQb2ZXA/videos

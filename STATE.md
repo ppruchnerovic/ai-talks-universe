@@ -16,16 +16,16 @@ new here is the catalogue layer, because there is no agenda API.
 | Piece | State |
 |---|---|
 | Registry (`conferences.json`) | Done. **53 conferences, 84 sources** — 83 YouTube listings and one `"type": "videos"` seed — mirrored from `ai-conferences.md`; `check_registry.py` passes. Seven conferences added 2026-09-01, see *The seven conferences added on 2026-09-01*. |
-| Enumeration (`sync_catalog.py`) | Done. **17,677 videos** cached in `data/catalog/`, **9,325 surviving talks**. 17,320 of them enumerated from YouTube, 357 seeded — see *The WeAreDevelopers import*. |
+| Enumeration (`sync_catalog.py`) | Done. **17,677 videos** cached in `data/catalog/`, **8,822 surviving talks** — 9,325 before the 2023 year floor, see *The pre-2023 cut*. 8,464 of them enumerated from YouTube, 358 seeded — see *The WeAreDevelopers import*. |
 | Enrichment (`enrich.py`) | Done for the 2026 scope. **9,598 videos via the Data API**, in one run. See *What the collection runs actually got*. |
-| Per-talk markdown | Done. 9,325 files, regenerated from `talks.json` on every sync. |
+| Per-talk markdown | Done. 8,822 files, regenerated from `talks.json` on every sync. |
 | Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. |
 | CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. |
 | Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
 | Browser UI tests (`tools/uitest/`) | **172 checks over 9 suites, 0 failing, none skipped** (2026-09-01). Both previously-failing checks were faults in the checks rather than the site and are fixed; each was proven to fail under mutation — see *The bug list, worked*. |
 | Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **128 offline checks** over the pool, the routes, the year selection, the four failure classes, the off-IP lease rule and the caption-language selection. |
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
-| Transcripts | **2,945 of 9,325**, all exact timings, over 35 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete again**: of its 2,941 talks, 2,913 have a transcript and 28 have no captions, so nothing is pending. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
+| Transcripts | **2,946 of 8,822**, all exact timings, over 35 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete**: of its 2,942 talks, 2,914 have a transcript and 28 have no captions, so nothing is pending. `I1GvlW1H4WI` entered the scope when the year-from-title fallback was fixed and was fetched for one credit — see *The pre-2023 cut*. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
 | Workflows | Both run. `pages.yml` mirrors `main` into `gh-pages` on push, verified live. `kb-refresh.yml` now **opens a pull request** instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
 | Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages`, which `pages.yml` mirrors from `main` on every push. |
@@ -138,20 +138,25 @@ script written during this run did, and reported 2,477 where the corpus had
 
 Coverage as it stands, after the 2026 extraction, the priority-1 run, the CI
 merge, the 2026-09-01 bug pass and the seven conferences added the same day:
-7,313 descriptions, **9,325 of 9,325 with a year**, 3,418 with a speaker, 4,888
-with YouTube tags, **2,945 with a transcript** (12 of them `hi`, which no route
-can improve — see *Bug 7 cannot be fixed by refetching*). **547,954 passages**;
-`data/talks.db` 186.7 MiB, `search-meta.json` **5.79 MiB (6,069,749 bytes), 96%
-of the 6 MiB trigger, after `META_DESC_CHARS` was halved 600 -> 300** — it
+the 2023 floor applied: 6,868 descriptions, **8,822 of 8,822 with a year**,
+3,219 with a speaker, 4,512 with YouTube tags, **2,946 transcript files on disk of which 2,942 are indexed**
+— four are held back by the words-per-minute floor, see *The wpm floor and the
+doc_len it did not fix* (12 of the files are `hi`, which no route can improve —
+see *Bug 7 cannot be fixed by refetching*). **548,120 passages**;
+`data/talks.db` 184.4 MiB, `search-meta.json` **5.43 MiB (5,695,808 bytes), 91%
+of the 6 MiB trigger, after `META_DESC_CHARS` was halved 600 -> 300 and the year
+floor took 503 talks' descriptions out of it** — it
 carries descriptions, not transcripts, so 420 new transcripts did not move it;
-`data/tindex/` **38.4 MiB** over **674 shards** carrying 43,299 terms — split
+`data/tindex/` **38.5 MiB** over **674 shards** carrying 43,303 terms — split
 two characters deep instead of one, so the largest shard is 1.7 MB rather than
-the ~4 MB a one-character split gave. Of the 2,941 talks in the 2026 scope,
-**2,913 have a transcript, 28 have no captions, and none is pending**.
+the ~4 MB a one-character split gave. Of the 2,942 talks in the 2026 scope,
+**2,914 have a transcript file, 2,910 of them indexed, 28 have no captions, and
+none is pending** — the wpm floor is an index-time judgement and `select()`
+reads the disk, so a held-back talk is never re-selected for a fetch.
 
 **The year gap is closed outright.** The "2 without a year" this file quoted for
 weeks were two of the seven hollow records, and they are gone: every one of the
-9,325 talks now has a year — including the 1,977 that arrived on 2026-09-01,
+8,822 talks now has a year — including the 1,977 that arrived on 2026-09-01,
 which were enriched before the sync that kept them.
 
 ## The 402 that was recorded as "no captions"
@@ -461,15 +466,83 @@ a *minute* rather than one a talk — about 66 credits for these ten, against a
 standing decision to use `mode=native` only. That is a policy change, not a bug
 fix, and it is the one thing that would actually work.
 
-Two things worth deciding separately, neither urgent:
+One of the two things this left to decide is now done — the four near-empty
+files are no longer indexed, see the next section, and the claim there that a
+wpm floor would also catch the three degraded `de` ones was wrong. The other
+stands: **nothing distinguishes a foreign transcript in the UI.** The eight
+substantial `hi` files still count toward the transcript total and none can
+answer an English query.
 
-- **The four near-empty files are indexed as though they were the talk** at
-  ~3 wpm. They match nothing in either script and give "Find this in the talk" a
-  deep link into fragments. Dropping transcripts below a words-per-minute floor
-  at index time would handle these and the three degraded `de` ones together,
-  without touching the fetcher or losing the files.
-- **Nothing distinguishes a foreign transcript in the UI.** All twelve count
-  toward "2,945 with a transcript" and none can answer an English query.
+### The wpm floor, and the doc_len it did not fix
+
+Built 2026-09-01, from the previous session's handoff. The floor is in
+`build_index.py`: `MIN_WPM = 10`, applied only when the duration is known and at
+least `MIN_RATED_MINUTES = 5`. It catches exactly four files — `m0Le7rXlsNs`,
+`nKZVd8r89nI`, `NdGBsn8tRzs`, `1tcir8BPP3M`, at 2.5 to 3.7 wpm — and the next
+slowest real transcript is 19.9, so the threshold is a gap rather than a tuning
+parameter: anything from 5 to 19 does the same work. Median is 164.5, p1 98.4.
+The files stay on disk; `select()` reads the disk, so nothing is re-fetched.
+
+Two things about the handoff's plan were wrong, and the second is the larger
+finding.
+
+**Returning empty text is not enough.** The plan was that `has_transcript`
+becomes 0 at `build_index.py`'s `1 if text else 0` and the talk drops out of
+everything. It does not: the browser gates the transcript badge, the
+has-transcript filter and "Find this in the talk" on `w` — `index.html:270`,
+`455`, `480`, `505` — and `w` is `search-meta.json`'s copy of `word_count`,
+which is `transcript_text()`'s **third** return value, not its first. Dropping
+only the text would have left a live word count with no text behind it: the
+deep link into 150 words of fragments intact, and `transcript_words` in SQLite
+disagreeing with `has_transcript` on the same row. All three values are zeroed
+together, and the docstring says why so it is not "simplified" back.
+
+**"Nearly harmless — they match no English query" was false, and the real defect
+is bigger than the floor.** `atu.TOKEN_RE` is `[a-z0-9]…`, so it skips
+Devanagari and keeps the Latin islands. `NdGBsn8tRzs` tokenised to 15 tokens,
+three of them `facebook`, three `whatsapp`, one `instagram`. BM25's length
+normalisation then read a 15-token document in which "facebook" was
+overwhelmingly frequent. Measured in the live UI with Playwright before the fix:
+**5th of 95 for "facebook", 6th of 82 for "whatsapp", 7th of 62 for
+"instagram"**. `query.py` was never affected — FTS5's `unicode61` indexes the
+Devanagari, so its segment lengths are honest. This was browser-only.
+
+A wpm floor cannot fix that, because the worst case is not slow.
+`HotbjSIgLOM` is 6,084 Devanagari words over 39 minutes — **156 wpm**, nowhere
+near any floor — tokenising to 20 tokens, 8 of them `netflix`. It ranked **1st
+of 4 for "jio"** and 18th of 97 for "netflix". Fifteen transcripts have
+`len(tokens) < 25% of word_count`: `hi`x12, `ja`x2, `ar`x1. The floor reached
+four of them.
+
+So `index_length()` sets the BM25 document length: `len(toks)` normally, and
+`round(0.42 × word_count)` when the tokeniser can see less than a quarter of the
+transcript. 0.42 is the corpus median of tokens per word; across the 2,930
+transcripts the tokeniser can read that ratio runs 0.33 to 0.91. **BM25 uses
+only `dl/avg`**, which is why this is safe: nothing changes for a readable
+transcript, `avg_doc_len` moves 2205.74 -> 2215.57 (0.4%), and the unreadable
+ones are demoted rather than removed — a talk that really does say "netflix"
+eight times should still be findable, just not above the talks about Netflix.
+
+Measured after, in the same live UI: the fragment file is absent from all three
+queries, `HotbjSIgLOM` goes 1st -> 3rd for "jio" and 18th -> 19th for "netflix".
+172 UI checks pass with none skipped, including `ranking`, which checks
+agreement with `query.py`; the 128 fetcher checks pass; and `build_index.py`
+into `--out` is still byte-identical to `data/`, so the idempotency claim in
+README holds.
+
+Two things not to redo. The floor deliberately does **not** reach the three
+degraded `de` transcripts (`hbShI0crCOg`, `6NC9laD5OHY`, `RS4DmYTvHIo`) — they
+sit at 51.9, 64.5 and 66.4 wpm, and a threshold above 66 would sweep up the two
+Japanese workshops at 19.9 (complete transcripts; whitespace word-counting on
+Japanese is the artifact) and `GiqyYQdYoIY` at 52.3, the 8.8-hour Code with
+Claude Tokyo livestream with 27,550 real English words. Three false positives
+out of ten drops, two of them the exact mistake the original audit made. Those
+need a different signal — fragment ratio, mean cue length, dictionary hit rate —
+or a hand-maintained deny-list of three ids. And `sync_catalog.py` still writes
+`transcript: true` and inlines the block for all 2,946, because it keys on file
+existence: the markdown is the evidence trail, and the four held-back files are
+still what YouTube returned. That divergence is deliberate; `build_index.py`
+prints the four ids and their rates on every run so it is never silent.
 
 ### Still open, deliberately
 
@@ -636,6 +709,91 @@ misclassified network verdict, the exact thing it exists to catch. The fact is
 in **`detail`**, and the snippet in *Next steps* item 4 now reads that instead.
 Worth renaming the fields, or having the checker assert on `detail`.
 
+## The pre-2023 cut — 2026-09-01
+
+The corpus now starts at 2023. `conferences.json` carries a registry-wide
+`"min_year": 2023`, `sync_catalog.keep_video()` enforces it, and the corpus went
+**9,325 -> 8,822 talks**.
+
+What decided the line, measured rather than assumed: the modern-LLM vocabulary
+(llm/gpt/rag/agent/prompt/inference in title or description) appears in **3% of
+2015-20, 9% of 2021, 4% of 2022 — and 30% of 2023, 53% of 2025, 63% of 2026**.
+2022 -> 2023 is where this corpus changes subject. Nothing older than 2023 has a
+transcript, and none was ever going to get one under *Collection is scoped to
+2026*.
+
+The 503 that went, by conference: `amld` 130, `ai-council` 122,
+`mlops-world-tmls` 85, `wearedevelopers` 82, `web-summit` 53, `dotai` 19, `goto`
+9, `ray-summit` 3 — AMLD 2022, Data Council before it renamed itself after AI,
+MLOps World 2021, Web Summit pitch heats, "Building ASP.NET apps on Google
+Cloud".
+
+**Three conferences override the floor with `"min_year": null`** and keep their
+whole back catalogue: `camlis` (59 pre-2023), `defcon-ai-village` (36) and
+`bsides-lv` (14). Two reasons, and the first is the one that generalises:
+adversarial ML, model evasion, data poisoning and deepfakes are the same subject
+they were before the vocabulary changed, where applied ML in 2021 is not. The
+second is arithmetic — 36 of DEF CON AI Village's 37 talks are 2019-21, so a
+flat floor would have left a registered conference with one talk.
+
+Four things worth not re-deriving:
+
+- **The floor is checked last in `keep_video()`, after the AI filter**, so the
+  `pre-2023` count in the drop report is what the floor actually cost — the
+  talks that would otherwise have been kept. Checked first it reads **1,618**,
+  because it swallows every old video the AI filter was going to reject anyway.
+  Same corpus either way; only the report differs, and the report is the thing
+  a reader uses to decide whether the floor is right.
+- **An unknown year passes the floor**, which is the opposite of the
+  `min_duration` rule directly above it and deliberate. Enrichment is what
+  *resolves* a year, so dropping the undated would hide every talk a fresh
+  enumeration found until the next enrich run — and hide it from
+  `refresh_report.py`, which is what reads the difference. The floor is a claim
+  about talks proven old. There are 0 undated talks today; there were 3,082
+  once, and a `--refresh` makes more.
+- **It bought no transcript bytes, and that was known in advance.** Not one of
+  the 503 had a transcript, so `data/tindex/` is unchanged at 38.4 MiB and the
+  passage count is unchanged at 547,925. What moved is the up-front download:
+  `search-meta.json` **5.79 -> 5.43 MiB, 96% -> 91% of the 6 MiB trigger**, and
+  `talks.db` 186.7 -> 184.3 MiB. If the trigger is crossed a third time, this
+  is not the lever — 2025 and 2026 are 74% of that file.
+- **It is reversible without a fetch.** `data/catalog/` still caches all 17,677
+  videos; the floor is applied at derive time. `sync_catalog.py --no-min-year`
+  rebuilds the 9,325-talk corpus, and moving the line is an offline re-run.
+
+**`refresh_report.py` calls this a regression, once.** Against the pre-cut commit
+it reads -503 on `year`, -469 on `channel`, -445 on `description` and so on, all
+past the 2% tolerance, and says *do not merge as-is*. That is the gate working
+rather than failing: it compares field coverage against the committed corpus and
+cannot tell a deliberate policy cut from a throttled run — which is the whole
+reason it exists, after one scheduled run wrote `channel: null` over ~4,540
+talks. Once the cut is committed the comparison is like for like and the next
+weekly PR is green. Do not widen `--tolerance` to make this one quiet.
+
+### The year fallback was wrong, and the cut would have deleted a 2026 talk
+
+`atu.year_of()` falls back to the first `20[12]\d` in the title, and the
+corpus's only 2015 record was *"Production ML across 2015-2035: A Journey to the
+Past and the Future [PyCon DE & PyData 2026]"* — a 2026 talk filed under 2015 by
+its own subject matter. A cut on `year < 2023` would have deleted it silently.
+
+`atu.year_span_re`/`year_in_text()` now skip a year that *opens* a span, and
+only that one: the closing year is still a year the text states, so "GOTO
+2024-2025" resolves to 2025 rather than to nothing. Measured against the whole
+corpus before changing anything — only **four** records have more than one
+distinct year in their title, and in three of them (all `owasp-genai` meeting
+recordings, "Meeting October 23 2024 Finalizing The 2025 Top 10") the *first*
+match is the right one. A "prefer the last year" rule would have fixed one
+record and broken three. All 14 pre-2018 records got their year this way; every
+record from 2018 on that has a `published_at` agrees with its title year, 0
+disagreements.
+
+That fix is why the cut dropped 503 rather than the 504 predicted, and why the
+2026 scope grew by one to 2,942. That one talk was then fetched: the run
+reported **1 selected**, which is the check that the selection was what this file
+predicted, and came back exact at 5,495 words for one credit. Passages
+547,925 -> 548,120, `_misses.json` unchanged at 29.
+
 ## Next steps, in order
 
 1. ~~**Enable GitHub Pages** on the `gh-pages` branch.~~ **Done** — the site
@@ -667,9 +825,10 @@ Worth renaming the fields, or having the checker assert on `detail`.
    been: every conditional fixture now exists in the corpus.
 4. ~~**Fetch the 422 pending 2026 talks, then rebuild and commit.**~~ **Done**
    on 2026-09-01 — 420 fetched, 2 genuine misses, indexed and verified; see
-   *Closing the 422* for what it cost and what it taught. The 2026 scope is
-   complete again and nothing is pending. The recipe below stands for the next
-   time a refresh brings talks in:
+   *Closing the 422* for what it cost and what it taught. The one talk that
+   later entered the scope — `I1GvlW1H4WI`, from the year-fallback fix in *The
+   pre-2023 cut* — was fetched the same way for one credit. The recipe below
+   stands for the next time a refresh brings talks in:
 
    ```bash
    cd ~/git/ai-talks-universe/tools
@@ -724,12 +883,16 @@ Worth renaming the fields, or having the checker assert on `detail`.
 6. Backfill the pre-2026 descriptions if anything ever wants them: the year
    filter skipped 4,823 videos, which is one `enrich.py --all` without
    `--min-year` and about a hundred quota units. Nothing depends on it — the
-   2026 scope is a selection policy, not a coverage target.
+   2026 scope is a selection policy, not a coverage target. It is a smaller job
+   than it was: 503 of those videos are now below the corpus floor and no longer
+   in `talks.json` at all, though enrichment still reads them from
+   `data/catalog/`, which is what would let the floor move back down.
 
 ## Handoff — running a transcript extraction
 
 **Nothing is pending.** The 422 talks the seven new conferences brought in were
-fetched on 2026-09-01 (*Closing the 422*), and the 2026 scope is complete. The
+fetched on 2026-09-01 (*Closing the 422*), and the one the year-fallback fix
+later moved into the scope went the same way (*The pre-2023 cut*). The
 commands are in *Next steps* item 4 and are the same shape as any future
 selection:
 
@@ -994,13 +1157,17 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   by default instead of silently permanent — the previous arrangement asked
   `is_block()`, so everything that was not an IP block was cached forever.
 
-- **Collection is scoped to 2026; the corpus is not.** `enrich.py` and
-  `fetch_transcripts.py` both take `--year` / `--min-year` /
+- **Collection is scoped to 2026, the corpus to 2023, and enumeration to
+  nothing.** Three lines for three costs, and collapsing them is the mistake.
+  `enrich.py` and `fetch_transcripts.py` both take `--year` / `--min-year` /
   `--include-unknown-year`, and the standing intent is `--min-year 2026`: an
   allowance that refills over hours should not be spent on talks that have gone
-  stale. It filters *selection only* — `sync_catalog.py` still derives every
-  year into `talks.json` and `query.py --year` still reads them, because
-  enumeration costs nothing. On enrichment, add `--include-unknown-year`:
+  stale. That one filters *selection only*. The corpus line is the registry's
+  `"min_year": 2023`, applied once at derive time and overridable per conference
+  — see *The pre-2023 cut*; `query.py --year` still reads every year the corpus
+  has. Enumeration has no line at all: `data/catalog/` caches all 17,677 videos
+  whatever the other two say, because listing is free and it is what makes both
+  of them reversible without a fetch. On enrichment, add `--include-unknown-year`:
   enrichment is what resolves a year, so without it the talks that have none can
   never become known 2026 talks. There were 3,082 of them; the run that carried
   the flag left 2. `year_of()` moved to `atu.py` when the
@@ -1112,7 +1279,7 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
 
 ## Numbers to refresh when the corpus changes
 
-`README.md` states 9,325 talks / 53 conferences / 17,677 enumerated, and how
+`README.md` states 8,822 talks / 53 conferences / 17,677 enumerated, and how
 many of them are 2026 and how many of those are transcribed; this file states
 transcript, description, year, tag and speaker coverage, the per-conference
 transcript split, the 2026 pending backlog, the passage count, the credits

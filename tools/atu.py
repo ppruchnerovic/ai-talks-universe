@@ -140,6 +140,24 @@ def looks_ai(*texts: str | None) -> bool:
 # select on it, which is why this lives here and not in one of them.
 YEAR_RE = re.compile(r"(?<!\d)(20[12]\d)(?!\d)")
 
+# A year that opens a span — "Production ML across 2015-2035", "2019–2024" — is
+# the subject of the talk, not the edition that recorded it. The first match in
+# free text is otherwise the answer, which filed a PyCon DE & PyData 2026 talk
+# under 2015 and left it as the corpus's only 2015 record. Only the opening year
+# is skipped: the closing one is still a year the text states, so "GOTO
+# 2024-2025" resolves to 2025 rather than to nothing.
+YEAR_SPAN_RE = re.compile(r"(?<!\d)20[12]\d\s*[-–—]\s*(?=\d{4}(?!\d))")
+
+
+def year_in_text(text: str | None) -> int | None:
+    if not text:
+        return None
+    spans = {m.start() for m in YEAR_SPAN_RE.finditer(text)}
+    for m in YEAR_RE.finditer(text):
+        if m.start() not in spans:
+            return int(m.group(1))
+    return None
+
 
 def year_of(v: dict) -> int | None:
     if v.get("year"):
@@ -149,9 +167,9 @@ def year_of(v: dict) -> int | None:
         if m:
             return int(m.group(1))
     for field in (v.get("label"), v.get("title")):
-        m = YEAR_RE.search(field or "")
-        if m:
-            return int(m.group(1))
+        y = year_in_text(field)
+        if y:
+            return y
     return None
 
 

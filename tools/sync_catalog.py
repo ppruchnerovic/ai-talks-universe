@@ -16,8 +16,8 @@ So this script does the same job in two stages:
      any channel or playlist, so no amount of paging will find them. That costs
      no network at all, so it is folded in on every run, --refresh or not.
 
-  2. DERIVE. Filters (duration, title regex, and for general conferences the
-     AI-relevance test) turn the raw catalogue into the corpus:
+  2. DERIVE. Filters (duration, year floor, title regex, and for general
+     conferences the AI-relevance test) turn the raw catalogue into the corpus:
 
        data/talks.json              canonical records — the source of truth
        data/talks.csv               spreadsheet view
@@ -32,6 +32,7 @@ changed rather than when this run happened — see generated_at().
     python3 sync_catalog.py --refresh          # re-enumerate every source
     python3 sync_catalog.py --refresh -c dotai -c ai-engineer
     python3 sync_catalog.py --no-ai-filter     # keep non-AI talks too
+    python3 sync_catalog.py --no-min-year      # keep the pre-2023 talks too
 """
 
 from __future__ import annotations
@@ -398,7 +399,8 @@ def clean_tags(tags) -> list[str]:
     return out
 
 
-def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None) -> tuple[bool, str]:
+def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None,
+               floor: int | None = None) -> tuple[bool, str]:
     """Filter one video. A source may override any of the conference's rules.
 
     The rules exist because a channel listing is a mixed bag — a general
@@ -408,9 +410,25 @@ def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None) ->
     `wearedevelopers`' World Congress seed carries `"scope": "all"` and keeps
     its five-minute lightning talks, while the same conference's channel
     listing keeps the AI filter it has always had.
+
+    `floor` is the registry's corpus-wide `min_year`, overridable the same way
+    and by the same argument: a topic filter is a property of the source before
+    it is a property of the corpus. On AI topics 2022 and earlier is a different
+    subject — applied ML and data engineering — but at an AI *security*
+    conference the pre-LLM back catalogue is the same subject, so those three
+    are registered `"min_year": null`.
     """
     def rule(key):
         return src.get(key, conf.get(key)) if src else conf.get(key)
+
+    def year_floor():
+        # Three levels, and `null` has to mean "no floor" rather than "unset",
+        # which is what the security conferences are registered with — so this
+        # asks whether the key is present, not what rule() would return for it.
+        for rules in (src, conf):
+            if rules and "min_year" in rules:
+                return rules["min_year"]
+        return floor
 
     # A record with no title is a hollow one. When the Data API does not return
     # a video — private, deleted, region blocked — enrich.py stamps details_at
@@ -440,10 +458,22 @@ def keep_video(v: dict, conf: dict, ai_filter: bool, src: dict | None = None) ->
     if ai_filter and rule("scope") == "ai":
         if not atu.looks_ai(v.get("title"), v.get("description"), " ".join(v.get("tags") or [])):
             return False, "not-ai"
+    # The corpus floor, checked last so its count in the drop report is what the
+    # floor actually cost — the talks that would otherwise have been kept, not
+    # every old video the AI filter was going to reject anyway (1,618 against
+    # 503 here). Unlike the duration rule above, an *unknown* year passes:
+    # enrichment is what resolves a year, so dropping the undated would hide
+    # every talk a fresh enumeration found until the next enrich run, and hide it
+    # from refresh_report.py, which is what reads the difference. The floor is a
+    # claim about talks proven old, not about talks not yet dated.
+    low, y = year_floor(), atu.year_of(v)
+    if low and y and y < low:
+        return False, f"pre-{low}"
     return True, ""
 
 
-def build_talks(reg: dict, only: list[str], ai_filter: bool) -> tuple[list[dict], dict]:
+def build_talks(reg: dict, only: list[str], ai_filter: bool,
+                floor: int | None) -> tuple[list[dict], dict]:
     confs = [c for c in reg["conferences"] if not only or c["slug"] in only]
     talks: list[dict] = []
     stats: dict[str, collections.Counter] = {}
@@ -458,7 +488,7 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool) -> tuple[list[dict]
         by_url = {s["url"]: s for s in conf["sources"]}
 
         for vid, v in cat.get("videos", {}).items():
-            ok, why = keep_video(v, conf, ai_filter, by_url.get(v.get("source_url")))
+            ok, why = keep_video(v, conf, ai_filter, by_url.get(v.get("source_url")), floor)
             if not ok:
                 drop[why] += 1
                 continue
@@ -715,6 +745,9 @@ def main() -> None:
                     help="limit to these conference slugs (repeatable)")
     ap.add_argument("--no-ai-filter", action="store_true",
                     help='keep non-AI sessions from conferences registered as scope "ai"')
+    ap.add_argument("--no-min-year", action="store_true",
+                    help="ignore the registry's corpus year floor, so a rebuild shows "
+                         "what it is holding back (enumeration cached it either way)")
     ap.add_argument("--allow-shrink", action="store_true")
     ap.add_argument("--pace", type=float, default=1.5, metavar="SECONDS",
                     help="max jittered wait between source enumerations")
@@ -739,12 +772,14 @@ def main() -> None:
 
     # The corpus is always derived from every conference, even when only one was
     # refreshed — otherwise a targeted refresh would publish a corpus of one.
-    talks, stats = build_talks(reg, [], not args.no_ai_filter)
+    floor = None if args.no_min_year else reg.get("min_year")
+    talks, stats = build_talks(reg, [], not args.no_ai_filter, floor)
     check_not_shrinking(len(talks), args.allow_shrink)
 
     body = {
         "source": "YouTube playlists and channels listed in conferences.json",
         "ai_filter": not args.no_ai_filter,
+        "min_year": floor,
         "conferences": [{"slug": c["slug"], "name": c["name"], "category": c["category"]}
                         for c in reg["conferences"]],
         "count": len(talks),
