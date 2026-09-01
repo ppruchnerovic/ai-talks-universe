@@ -14,3 +14,7 @@ tools/.venv/
 
 # run logs from local collection runs — scratch, not artifacts
 logs/
+
+# The assembled site — what pages.yml publishes and the navigation UI suite
+# serves. Built from the tree by tools/assemble_site.sh in seconds.
+_site/
