@@ -184,10 +184,23 @@ def select(reg: dict, args) -> tuple[dict[str, list[str]], int]:
 
 
 def apply_details(cat: dict, vid: str, det: dict) -> None:
+    r"""Fold one video's details into the cached catalogue.
+
+    Both text fields are normalised on the way in rather than taken as they
+    came. A YouTube tag is free text: three in this corpus arrived carrying a
+    raw \r or a newline, and one of them split a line in the rendered markdown
+    once sync_catalog.py copied it through verbatim. sync_catalog.clean_tags()
+    heals that on every derivation for tags already cached; this stops new ones
+    arriving. Descriptions get the line endings squared up for the same reason —
+    clean_description() handles CRLF but a bare CR survives it, and it is the
+    same accident.
+    """
     v = cat["videos"][vid]
-    v["description"] = det.get("description") or ""
+    desc = (det.get("description") or "").replace("\r\n", "\n").replace("\r", "\n")
+    v["description"] = desc
     v["published_at"] = det.get("published_at")
-    v["tags"] = det.get("tags") or []
+    v["tags"] = [s for s in (" ".join(str(t).split())
+                             for t in det.get("tags") or [] if t is not None) if s]
     if det.get("duration_s"):
         v["duration_s"] = det["duration_s"]
     if det.get("channel"):

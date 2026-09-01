@@ -10,24 +10,70 @@ const L = require('./lib');
 L.suite('resilience', async browser => {
   // ---------- a single index shard is unreachable ----------
   {
+    // Shard names come from shardKeyOf() in index.html: two characters, [a-z]
+    // kept as-is, digits folded to "0" and anything else to "_". So "kubernetes"
+    // is served out of data/tindex/ku.json, and the fault pattern has to be two
+    // characters wide. It was one until the index was resharded, after which it
+    // matched nothing and this check ran against a perfectly healthy page.
+    const SHARD_RE = /\/data\/tindex\/[a-z0-9_]{2}\.json$/;    // never _manifest.json
+    const QUERY = 'kubernetes';                                // -> data/tindex/ku.json
+
     const page = await L.newPage(browser);
     await L.boot(page);
     const meta = await L.meta(page);
     const hasTranscripts = meta.talks.some(t => t.w > 0);
-    await L.search(page, 'kubernetes');
-    const full = await L.resultCount(page);
-    await page.close();
 
-    const p2 = await L.newPage(browser);
-    await p2.route(u => /\/data\/tindex\/[a-z0-9_]\.json$/.test(u.pathname),
-      r => r.fulfill({ status: 500, body: 'x' }));
-    await L.boot(p2);
-    await L.search(p2, 'kubernetes');
-    const n = await L.resultCount(p2);
-    L.check('a broken index shard falls back to metadata-only search',
-      n > 0 && n <= full && p2.__errors.length === 0,
-      `${n} hits vs ${full} with the shard` + (hasTranscripts ? '' : ' (no transcripts yet)'));
-    await p2.close();
+    if (!hasTranscripts) {
+      L.skip('a broken index shard falls back to metadata-only search',
+        'no transcripts collected yet — there is no shard to break');
+      await page.close();
+    } else {
+      // The baseline has to be read with the transcript layer actually live.
+      // On a cold page the shard fetch can fail or land late, and the page then
+      // renders metadata-only hits — which is exactly the number the faulted
+      // page is supposed to produce, so the comparison below would compare a
+      // broken page against a broken page and pass. Wait for the shard the
+      // query needs to arrive, and for the render that used it.
+      const shardLanded = page.waitForResponse(
+        r => SHARD_RE.test(new URL(r.url()).pathname) && r.ok(), { timeout: 30000 }
+      ).then(r => new URL(r.url()).pathname).catch(() => null);
+      await L.search(page, QUERY);
+      // search() gives up on a timer, so the render it kicked off may still be
+      // awaiting the shard. The page's own state is out of reach — index.html
+      // runs inside an IIFE — but the status line reports the one thing only a
+      // loaded shard can produce: hits found nowhere but the spoken words.
+      const landed = await shardLanded;
+      const settled = await page.waitForFunction(q => {
+        const s = document.querySelector('#status').textContent;
+        return s.includes(`matching ${q}`) && /found only in the spoken transcript/.test(s);
+      }, QUERY, { timeout: 20000 }).then(() => true).catch(() => false);
+      const full = await L.resultCount(page);
+      const spoken = ((await L.statusText(page)).match(/(\d[\d,]*) found only in the spoken/) || [])[1];
+      L.check('the baseline is measured with the transcript shard actually loaded',
+        landed !== null && settled && Number((spoken || '0').replace(/,/g, '')) > 0,
+        `${landed || 'no shard response'}, ${full} hits, ${spoken || 0} of them transcript-only`);
+      await page.close();
+
+      const p2 = await L.newPage(browser);
+      let faulted = 0;
+      await p2.route(u => SHARD_RE.test(u.pathname),
+        r => { faulted++; return r.fulfill({ status: 500, body: 'x' }); });
+      await L.boot(p2);
+      await L.search(p2, QUERY);
+      const n = await L.resultCount(p2);
+      // Assert the fault was injected at all: a pattern that matches no real
+      // shard name is how this check stopped testing anything in the first
+      // place, and it fails silently rather than loudly.
+      L.check('the shard fault pattern matches a shard that is really requested',
+        faulted > 0, `${faulted} tindex request(s) intercepted`);
+      // Strictly fewer: with the shard served the query also matches talks that
+      // only ever say "kubernetes" out loud, so an equal count means the fault
+      // did nothing.
+      L.check('a broken index shard falls back to metadata-only search',
+        n > 0 && n < full && p2.__errors.length === 0,
+        `${n} hits vs ${full} with the shard`);
+      await p2.close();
+    }
   }
 
   // ---------- no transcript index at all ----------

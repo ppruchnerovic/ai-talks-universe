@@ -13,7 +13,7 @@ duration_min: 49
 published_at: 2026-01-29T09:42:08Z
 video_id: -RH4uWmgjCI
 youtube_url: https://www.youtube.com/watch?v=-RH4uWmgjCI
-tags: ["Security", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz", "Kasimir Schulz\r& Kenneth Yeung"]
+tags: ["Security", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz", "Kasimir Schulz & Kenneth Yeung"]
 transcript: true
 ---
 
@@ -23,7 +23,7 @@ transcript: true
 
 `NDC Conferences` · `NDC` · `2026` · `49 min`
 
-`#Security` `#AI` `#NDC` `#Conferences` `#2025` `#Live` `#Fun` `#Oslo` `#Norway` `#Kenneth Yeung` `#Kasimir Schulz` `#Kasimir Schulz& Kenneth Yeung`
+`#Security` `#AI` `#NDC` `#Conferences` `#2025` `#Live` `#Fun` `#Oslo` `#Norway` `#Kenneth Yeung` `#Kasimir Schulz` `#Kasimir Schulz & Kenneth Yeung`
 
 [Watch the recording](https://www.youtube.com/watch?v=-RH4uWmgjCI) · [Conference site](https://ndcconferences.com/)
 

@@ -45,7 +45,7 @@ More like a revolution than an evolution of software delivery, SDD produces solu
 
 ## Transcript
 
-*185 words · source: supa (hi, exact timings)*
+*185 words · source: yt (hi, exact timings)*
 
 **[0:10](https://www.youtube.com/watch?v=m0Le7rXlsNs&t=10s)** हुआ और भाई
 

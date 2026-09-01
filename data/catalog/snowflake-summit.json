@@ -7,7 +7,7 @@
       "url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH",
       "label": "Summit 2026",
       "year": 2026,
-      "count": 15
+      "count": 13
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf",
@@ -16,7 +16,7 @@
       "count": 75
     }
   ],
-  "count": 90,
+  "count": 88,
   "videos": {
     "1lrQ8r6XxUM": {
       "video_id": "1lrQ8r6XxUM",
@@ -473,17 +473,6 @@
       "year": 2025,
       "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
     },
-    "NFTdHYp9uJo": {
-      "video_id": "NFTdHYp9uJo",
-      "title": "",
-      "duration_s": null,
-      "channel": null,
-      "label": "Summit 2026",
-      "year": 2026,
-      "source_url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH",
-      "details_at": "2026-08-31T15:35:59+00:00",
-      "description": ""
-    },
     "NO-qxVVedMM": {
       "video_id": "NO-qxVVedMM",
       "title": "Legacy To Snowflake: How To Avoid Failing Your Data Warehouse Migration",
@@ -806,17 +795,6 @@
       "label": "Summit 2025",
       "year": 2025,
       "source_url": "https://www.youtube.com/playlist?list=PLavJpcg8cl1Eit8AmQHB3fmhMug2883Nf"
-    },
-    "bkCE6O96IcI": {
-      "video_id": "bkCE6O96IcI",
-      "title": "",
-      "duration_s": null,
-      "channel": null,
-      "label": "Summit 2026",
-      "year": 2026,
-      "source_url": "https://www.youtube.com/playlist?list=PL4IM5KTx_T7gNwtams0rYZ-McLFy0dbIH",
-      "details_at": "2026-08-31T15:35:59+00:00",
-      "description": ""
     },
     "cTK_rEPlY40": {
       "video_id": "cTK_rEPlY40",

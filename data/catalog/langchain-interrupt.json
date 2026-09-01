@@ -550,7 +550,7 @@
       "description": "Nick Ung, ML lead for safety and customer care at Lyft, breaks down how his team built an eval system that actually keeps pace with production AI agents at Interrupt, the agent conference by LangChain.\n\nFrom offline simulation with mocked MCP outputs to LLM-as-judge rubrics tied to real task success criteria, Nick shares the mistakes they made early  and the framework they built to close the loop between evaluation, annotation, and continuous improvement across 270K AI interactions per month.\n\nHow Lyft Builds Evals That Actually Matter in Production | Interrupt 26\n0:00 Introduction and Lyft AI Assist overview\n1:47 AI Assist journey and agent examples\n3:35 Why eval matters at scale\n4:18 Offline eval as a quality gate\n6:03 Building a lightweight simulator\n8:17 LLM as judge and the problem with scalar metrics\n9:52 Task-based rubrics and actionable failure modes\n11:28 Trusting your LLM judge\n12:17 The rude awakening — when offline evals lie\n14:14 How LangSmith manages the eval workflow\n15:46 What's next for AI Assist\n\nExtra resources:\n• Everything we shipped at Interrupt: https://www.langchain.com/blog/interrupt-2026-overview\n• Meet LangSmith Engine: https://www.langchain.com/blog/introducing-langsmith-engine\n• About LangChain: https://www.langchain.com/",
       "published_at": "2026-06-15T12:37:30Z",
       "tags": [
-        "Tags:\nLangChain",
+        "LangChain",
         "LangSmith",
         "LangGraph",
         "AI evals",

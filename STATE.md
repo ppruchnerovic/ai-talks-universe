@@ -15,17 +15,17 @@ new here is the catalogue layer, because there is no agenda API.
 
 | Piece | State |
 |---|---|
-| Registry (`conferences.json`) | Done. 46 conferences, 68 sources — 67 YouTube listings and one `"type": "videos"` seed — mirrored from `ai-conferences.md`; `check_registry.py` passes. |
-| Enumeration (`sync_catalog.py`) | Done. 15,157 videos cached in `data/catalog/`, 7,351 surviving talks. 14,800 of them enumerated from YouTube, 357 seeded — see *The WeAreDevelopers import*. |
+| Registry (`conferences.json`) | Done. 46 conferences, 67 sources — 66 YouTube listings and one `"type": "videos"` seed — mirrored from `ai-conferences.md`; `check_registry.py` passes. |
+| Enumeration (`sync_catalog.py`) | Done. 15,150 videos cached in `data/catalog/`, 7,348 surviving talks. 14,793 of them enumerated from YouTube, 357 seeded — see *The WeAreDevelopers import*. |
 | Enrichment (`enrich.py`) | Done for the 2026 scope. **9,598 videos via the Data API**, in one run. See *What the collection runs actually got*. |
-| Per-talk markdown | Done. 7,351 files, regenerated from `talks.json` on every sync. |
+| Per-talk markdown | Done. 7,348 files, regenerated from `talks.json` on every sync. |
 | Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. |
 | CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. |
 | Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
-| Browser UI tests (`tools/uitest/`) | **170 checks over 9 suites, 2 failing, none skipped** (re-run 2026-08-31). Both failures are in the checks, not the site: a `controls` fixture the corpus outgrew, and a `resilience` check that has been faulting nothing since the resharding — see *Bugs worth fixing*. |
-| Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **94 offline checks** over the pool, the routes, the year selection, the four failure classes and the off-IP lease rule. |
+| Browser UI tests (`tools/uitest/`) | **172 checks over 9 suites, 0 failing, none skipped** (2026-09-01). Both previously-failing checks were faults in the checks rather than the site and are fixed; each was proven to fail under mutation — see *The bug list, worked*. |
+| Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **128 offline checks** over the pool, the routes, the year selection, the four failure classes, the off-IP lease rule and the caption-language selection. |
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. |
-| Transcripts | **2,525 of 7,351**, all exact timings, over 30 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, devoxx 79, owasp-genai 73. **The whole 2026 scope is done**: of 2,520 talks, 2,493 have a transcript, 27 have no captions to fetch, 0 pending. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
+| Transcripts | **2,525 of 7,348**, all exact timings, over 30 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, devoxx 79, owasp-genai 73. **The whole 2026 scope is done**: of 2,519 talks, 2,493 have a transcript, 26 have no captions, 0 pending. Ten are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
 | Workflows | Both run. `pages.yml` mirrors `main` into `gh-pages` on push, verified live. `kb-refresh.yml` now **opens a pull request** instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
 | Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages`, which `pages.yml` mirrors from `main` on every push. |
@@ -134,19 +134,23 @@ underscore**, and `_misses.json` lives beside the transcripts. Any code that
 separates them by filename prefix silently drops 48 talks. Nothing in `tools/`
 does — they all address transcripts by exact video id — but an ad-hoc counting
 script written during this run did, and reported 2,477 where the corpus had
-2,525.
+2,525. It happened again on 2026-09-01 — see *The bug list, worked*.
 
-Coverage as it stands, after the 2026 extraction, the priority-1 run and the
-CI merge:
-5,557 descriptions, 7,349 of 7,351 with a year, 2,947 with a speaker, 3,587
-with YouTube tags, **2,525 with a transcript**. **491,282 passages**, up from
-197,099; `data/talks.db` 161.6 MB, `search-meta.json` 5.8 MB (unmoved — it
-carries descriptions, not transcripts, and the 6 MB trigger still stands),
-`data/tindex/` **34.2 MB** over **670 shards** carrying 40,927 terms — the
-same postings as before, split two characters deep instead of one, so the
-largest shard is 1.5 MB rather than 4.0 MB. Of the 2,520
-talks in the 2026 scope, **2,493 have a transcript, 27 have no captions, and
-none are pending**.
+Coverage as it stands, after the 2026 extraction, the priority-1 run, the CI
+merge and the 2026-09-01 bug pass:
+5,557 descriptions, **7,348 of 7,348 with a year**, 2,947 with a speaker, 3,587
+with YouTube tags, **2,525 with a transcript** (10 of them `hi`, which no route
+can improve — see *Bug 7 cannot be fixed by refetching*). **491,282 passages**;
+`data/talks.db` 161.6 MiB, `search-meta.json` **5.77 MiB (6,045,370 bytes), 96%
+of the 6 MiB trigger** — it carries descriptions, not transcripts;
+`data/tindex/` **34.2 MiB** over **670 shards** carrying 40,927 terms — split
+two characters deep instead of one, so the largest shard is 1.5 MB rather than
+4.0 MB. Of the 2,519 talks in the 2026 scope, **2,489 have a transcript, 26
+have no captions, and none are pending**.
+
+**The year gap is closed outright.** The "2 without a year" this file quoted for
+weeks were two of the seven hollow records, and they are gone: every one of the
+7,348 talks now has a year.
 
 ## The 402 that was recorded as "no captions"
 
@@ -337,115 +341,178 @@ after un-drafting it, and `sync_catalog.py` itself will still write hollow
 records to `data/catalog/` on a local `--refresh` from a throttled connection —
 the check is on the derived corpus, not on the cache it comes from.
 
-## Bugs worth fixing
+## The bug list, worked — 2026-09-01
 
-Found by a full test pass on 2026-08-31 — the offline fetcher suite, all nine
-browser suites, the CLI, an integrity audit that re-derived the whole browser
-index from `talks.json` plus the transcripts, and a rebuild in a throwaway
-worktree. Ordered by what they cost if left alone. The three
-`_misses.json` ones are fixed and are recorded above; everything here is open.
+All fourteen bugs from the 2026-08-31 pass are fixed, in five parallel streams
+partitioned by file so nothing collided. What follows is the outcome, and in
+five places **the audit that found the bug had it wrong** — those corrections
+matter more than the fixes, because they were being quoted as fact.
 
-What that pass found *clean* is worth writing down too, so nobody re-derives
-it: the shard-key invariant holds over all 40,927 terms with the real
-`shardKeyOf()` from `index.html` (0 disagreements, 670 manifest shards = 670 on
-disk, none unlisted or missing); the whole browser index, all 7,351 markdown
-files and every CSV cell reproduce byte-for-byte from `talks.json` plus the
-transcripts; `talks.json`, `talks.csv`, the markdown, `search-meta.json` and
-`talks.db` all agree on 7,351 talks with no duplicates and no orphans; the 48
-underscore-leading ids survive every layer (each reports 2,525, not 2,477); all
-27 `_misses.json` entries are genuine verdicts on their video; the dense `n` is
-`talks.json` position everywhere it appears; every seeded WeAreDevelopers talk
+### Where the original list was wrong
+
+- **The hollow records were seven, not three.** `has_details` is not a catalog
+  field at all — it is derived in `build_talks()` from `details_at`, which is
+  what had to be inspected. Only three reach `talks.json`; the other four sit in
+  `scope: "ai"` conferences and are dropped by the AI filter, having no title or
+  description to match on. All seven are dead videos (one deleted, six private),
+  checked with one GET each against a control.
+- **Clearing `details_at` would have been the wrong repair.** `enrich.py`
+  stamps it on videos the Data API does not return, precisely so private ones
+  are not retried forever. Clearing it buys a re-stamp and wasted quota every
+  run. The seven were removed instead.
+- **The "six transcripts under 20 words a minute" conflated two things.** Two
+  are complete, coherent Japanese transcripts of Japanese-language workshops;
+  the low rate is an artifact of whitespace word-counting on Japanese. They were
+  kept. Only four files were junk. Measured properly, the wpm tail is smooth
+  down to ~90 (demos, Q&A, slow speakers) and then breaks hard.
+- **Sorting the non-monotonic transcripts would have corrupted one of them.**
+  In `daMEEWVlgY8` the file order is the coherent sentence and it is one cue's
+  *start* that is wrong — a zero-length cue hitting `fetch_supadata`'s 0.5s
+  floor. Sorting would have emitted "...corporations and / completely
+  autonomous. / government with almost no human intervention,". `bJKdXhnw7NU` is
+  the interleaved-track case: 15 spliced cues of duration exactly 1.0
+  duplicating their neighbours' words in a different caption style. In both, the
+  segment holding the bad start *is* the damaged one, so the repair was to pull
+  that start back, not to reorder. Reading order preserved; only `start` values
+  changed.
+- **The `pick_and_fetch` language claim was false.** `Transcript.translate()`
+  constructs a new object with the target `language_code`, so it already
+  returned `"en"`. But there was a worse bug in the same three lines that the
+  audit missed: `t.translate("en")` raises `TranslationLanguageNotAvailable`
+  when no English translation exists, which is neither a block, an account
+  refusal nor a transient — so `about_the_video()` waved it straight into
+  `_misses.json` as "this video has no captions", for a video that demonstrably
+  has them.
+
+### The root cause behind bug 7, and why it gated the fix
+
+`fetch_supadata()` sent only `url` and `mode=native`, no `lang`, so Supadata
+chose the track. That is how ten English talks acquired Devanagari transcripts —
+complete-looking, normal word rate, indexed as the talk, containing none of its
+searchable English. Delete-and-refetch was therefore unreliable, which is why
+only the four *empty* ones were deleted and six complete-but-wrong-script files
+were deliberately left in place until the fetcher was fixed.
+
+`lang` alone is not sufficient, and the documented semantics are the reason: the
+API *substitutes* rather than failing — "if the video does not have a transcript
+in the preferred language, the endpoint will return a transcript in the first
+available language and a list of other available languages". So the fetcher asks
+`lang=en`, checks the answer, and re-requests once against `availableLangs` only
+when the first answer is off-list and the video offers something on-list. No
+second credit on the happy path.
+
+**A foreign-only track is saved, honestly labelled — not missed, not retried.**
+`_misses.json` would be a lie and would lose the talk permanently. A retryable
+non-verdict is worse: it re-selects the talk and burns a credit every run, and
+next month the track is still Hindi — it never converges, at unbounded cost.
+`LANGUAGES` is a preference order for choosing among the tracks a video offers,
+not a statement about what the corpus may hold; it already carries twelve
+languages deliberately.
+
+### The four fixes that make bugs self-healing rather than hand-repaired
+
+The data was fixed *and* the code that produced it, so a re-enumeration cannot
+reintroduce any of it:
+
+- `clean_tags()` in `sync_catalog.build_talks()` and the same fold in
+  `enrich.apply_details()` — titles were already whitespace-folded and
+  descriptions already sanitised, which is exactly why no title was corrupted
+  and three tags were. It folds rather than splits on purpose: splitting would
+  *invent* tags out of a source's formatting accident.
+- `keep_video()` now rejects an empty title and treats a null duration as
+  failing `min_duration`. Both independently catch all three hollow records that
+  reached the corpus and fire on nothing else; the private videos are still
+  listed in their playlists, so a refresh *will* re-offer them.
+
+### Bug 7 cannot be fixed by refetching, and the remedy this file recommended was wrong
+
+This was settled on 2026-09-01 by running it. The ten `hi` talks were deleted
+and refetched with `--source exact`, both free routes working. **All ten came
+back `hi` again**, and the four near-empty ones came back byte-for-byte as bad —
+153, 159, 167 and 185 words, at 2.5 to 3.7 words a minute over 41- to
+73-minute talks. It reproduces exactly; it was never a fetch accident.
+
+The reason is upstream of every route this repo has:
+
+```
+youtube_transcript_api.list('1tcir8BPP3M')  ->  hi (generated), not translatable
+supadata mode=native lang=en                ->  lang: hi, availableLangs: ['hi']
+```
+
+**These videos expose exactly one caption track, auto-generated, and YouTube's
+ASR mis-detected English audio as Hindi.** There is no English track to fetch,
+so no route can produce one and `--source supadata` is not a second opinion —
+it reads the same tracks. The six substantial files are complete Devanagari
+*transliterations* of English speech ("थैंक यू फॉर कमिंग" = "thank you for
+coming"); the four short ones are the same ASR failing outright.
+
+The language fix did exactly what it should: it asked for `en`, got `hi`,
+checked `availableLangs`, found nothing on-list, and kept the track honestly
+labelled instead of writing a false `_misses.json` entry. **That is the fix
+working, not failing** — before it, this run would have been ten permanent
+misses on ten videos that demonstrably have captions.
+
+So the ten stay, and the earlier instruction to "delete the file and refetch" is
+struck: it costs a round trip and returns the same bytes. The only route to
+English here is Supadata `mode=generate`, which transcribes audio at two credits
+a *minute* rather than one a talk — about 66 credits for these ten, against a
+standing decision to use `mode=native` only. That is a policy change, not a bug
+fix, and it is the one thing that would actually work.
+
+Two things worth deciding separately, neither urgent:
+
+- **The four near-empty files are indexed as though they were the talk** at
+  ~3 wpm. They match nothing in either script and give "Find this in the talk" a
+  deep link into fragments. Dropping transcripts below a words-per-minute floor
+  at index time would handle these and the three degraded `de` ones together,
+  without touching the fetcher or losing the files.
+- **Nothing distinguishes a foreign transcript in the UI.** All ten count toward
+  "2,525 with a transcript" and none can answer an English query.
+
+### Still open, deliberately
+
+- **35 transcripts are not labelled English** — `hi`x10 (the unfixable ones
+  above), 10 literal `"none"` (English text Supadata could not name, which will
+  refetch cheaply and label properly), `de`x3, `es`x2, `ja`x2, `lt`x2, `no`x2,
+  and one each of `vi`, `ar`, `sv`, `nl`. Most are genuinely those languages and
+  belong in the corpus; the `no` ones are probably real Norwegian, NDC Oslo. The
+  `"none"` ten are the only cheap win in the list.
+- **Three transcripts are English with badly degraded ASR** (`hbShI0crCOg`,
+  `6NC9laD5OHY`, `RS4DmYTvHIo`, labelled `de` in the WeAreDevelopers import) —
+  coherent for a minute, then collapsing into fragments. Real but half-missing.
+- **Route 2 (`yt-dlp`) passes `--sub-langs` limited to `LANGUAGES`**, so a video
+  with only an off-list track writes no caption file and becomes a permanent
+  miss — the same invariant violation as bug 7, on the free route. The only fix
+  is fetching every language on every video, which costs bandwidth on all 7,348.
+  Flagged rather than silently paid for. It bites only on our-IP runs.
+- **`count` drifts by one in three catalogs** (`ai-devcon-tessl` 300/301,
+  `ai-engineer` 900/901, `qcon-infoq` 500/501). Not a code bug: both writers set
+  `count = len(videos)` correctly. It traces to `ec68e00a`, where three videos
+  were copied in by hand without bumping `count`. Only `--refresh` rewrites a
+  non-seeded catalog, so a plain rebuild will not clear it.
+
+### What the pass confirmed clean, so nobody re-derives it
+
+The shard-key invariant holds over all 40,927 terms against the real
+`shardKeyOf()` (0 disagreements, 670 manifest shards = 670 on disk); the browser
+index, every markdown file and every CSV cell reproduce byte-for-byte from
+`talks.json` plus the transcripts; all artifacts agree on the talk count with no
+duplicates or orphans; the 48 underscore-leading ids survive every layer; the
+dense `n` is `talks.json` position everywhere; every seeded WeAreDevelopers talk
 kept its agenda abstract, speakers and tags; and 180 of 180 sampled transcript
-timestamps land on a caption cue that really does start there. `sync_catalog.py`
-and `build_index.py` make no network call at all — checked under an audit hook
-that raises on `socket.connect`, not merely observed.
+timestamps land on a real caption cue. `sync_catalog.py` and `build_index.py`
+make no network call, checked under an audit hook that raises on
+`socket.connect` — as were all the offline suites run in this pass.
 
-**The two silent test failures come first, because a check that cannot fail is
-worse than no check.**
+**The 48-underscore trap bit again during this pass**, exactly as this file
+warns: a prefix-filtered count reported 2,473 transcripts where the corpus has
+2,521. The warning works; the trap is just very easy to fall into.
 
-1. **`tools/uitest/suite-resilience.js:22` faults a shard name that no longer
-   exists.** It injects the fault with
-   `/\/data\/tindex\/[a-z0-9_]\.json$/` — one character. Since the index was
-   resharded two characters deep (`6ef1c639`) that pattern matches nothing, so
-   "a broken index shard falls back to metadata-only search" has been passing
-   against an entirely healthy page. `{2}` fixes the pattern. There is a second
-   bug behind it: the baseline `full` count is read from a cold page, where the
-   shard fetch may not have landed, so `L.search()` returning after the spinner
-   clears can measure 152 metadata-only hits against the true 432. That is what
-   made it *fail* in a full run and pass when run alone — the check is both
-   vacuous and flaky, and only the flakiness was visible.
-2. **`tools/uitest/suite-controls.js` — the fixture the corpus outgrew.** Its
-   negative case needs one description short enough not to overflow the clamp
-   and finds **0 of 180**: the empty query sorts newest-first, and those 180 are
-   all Data-API descriptions sitting at the 600-character clip (the shortest is
-   556) while the clamp fits roughly 300. Its sibling check —"the unfold button
-   appears only where the clamp actually hides something" — therefore passes
-   vacuously, `0 wrong of 0`, which is precisely what the failing check exists
-   to report. Not a UI regression: it fails at the old 1,200-character clip too.
-   ~370 talks do have short descriptions; the check has to sample where they
-   are rather than take the newest 180.
+**Documentation correction, re-verified against the rebuilt corpus:** this file
+said `query.py postgres` finds the transcript-only talk at rank 4. It is rank 14
+(*Microsoft Build 2026 Day 1 Opening Keynote*). The substance holds — metadata
+leads, transcript-only hits still surface — but the rank drifted with the corpus.
 
-**Then the CLI, which is what an agent drives.**
-
-3. **`tools/query.py` `render()` raises an uncaught `BrokenPipeError`** on
-   `query.py rag -n 20 | head -3`, or on quitting `less` early — a traceback on
-   the most natural way to skim results.
-4. **`fts_query()` does not de-duplicate tokens**, and nothing caps query
-   length, so a pasted blob scales super-linearly: `agent` ×50 takes 2.7s,
-   ×100 8.8s, ×200 34s, ×400 over two minutes.
-5. **`-n` accepts a negative** and slices `[:-3]`, so `query.py rag -n -3`
-   returns 509 results instead of erroring.
-
-**Then the corpus, where three records and a handful of transcripts are
-wrong rather than missing.**
-
-6. **Three hollow records** — `8v-EVF8u4OQ` (nvidia-gtc), `TkbXz1___9U` and
-   `VbMZ12OWTfM` (cerebral-valley). Empty title, null duration, null channel,
-   two with no year, yet all three carry `has_details: true`, so `enrich.py`
-   skips them forever and a null duration passes `min_duration` unchallenged.
-   These are the "2 without a year" this file has been quoting, plus one.
-7. **Ten transcripts are labelled `language: "hi"`**, and four are near-empty
-   Devanagari transliterations of English talks — 153 words for a 41-minute
-   session, 185 for a 73-minute one — indexed as though they were the talk. Six
-   transcripts run under 20 words a minute. Deleting the file and refetching is
-   the remedy; `--source supadata` will not re-fetch what is already on disk.
-8. **Two transcripts have non-monotonic segment starts** — `daMEEWVlgY8` (one
-   inversion) and `bJKdXhnw7NU` (six) — so a deep link there can jump backwards.
-9. **One YouTube tag carries a raw carriage return**: talk `-RH4uWmgjCI`, tag
-   `"Kasimir Schulz\r& Kenneth Yeung"`, which splits a line in the rendered
-   markdown.
-
-**Then the things that are only cosmetic until they are not.**
-
-10. **`sync_catalog.py:670` stamps a fresh `generated_at`** into `talks.json` on
-    every run, so the README's "rerunning gives byte-identical output, so a git
-    diff shows exactly what the conferences changed" is off by one guaranteed
-    line and a no-op sync always dirties a 15 MB tracked file. Everything else
-    *is* byte-identical — `talks.csv`, all 7,351 markdown files,
-    `search-meta.json`, all 670 shards, and even the gitignored `talks.db`.
-    Either drop the field or exclude it from the comparison the claim promises.
-11. **`build_index.py` has no argparse**, so `build_index.py --help` silently
-    performs a full 40-second rebuild instead of printing help.
-12. **The 6 MB trigger on `search-meta.json` needs a unit.** The file is
-    6,046,072 bytes: 5.8 MiB by `atu.human_size`, which divides by 1024, and
-    6.05 MB decimal. It has crossed the line in one unit and not the other, and
-    description coverage is still only 75%, so this decides itself soon.
-13. **`query.py` filters are exact and case-sensitive** — `--category "ai
-    security"` and `--conference LangChain-Interrupt` both return `no matches`
-    — and nothing lists the valid slugs or categories. A bare multi-word query
-    also ANDs every token, so a natural-language question
-    (`"how do I evaluate my agent in production"`) returns nothing at all.
-14. **`snippet()` always comes from the description column**, so a talk that
-    matched on its title alone shows an unhighlighted description opener and
-    the output cannot say which layer matched. Related: the candidate pools are
-    capped (`LIMIT 600` metadata, `LIMIT 2000` segments) *before* the [0,1]
-    normalisation, so on very broad queries the scaling is over a truncated set.
-
-**One documentation correction, verified rather than assumed:** this file says
-`query.py postgres` finds the transcript-only talk at rank 4. It is now rank 14
-(*Microsoft Build 2026 Day 1 Opening Keynote*). The claim's substance holds —
-metadata leads, transcript-only hits still surface — but the rank drifted with
-the corpus, and rank 4 today has "Postgres" in its description.
 
 ## Next steps, in order
 
@@ -454,7 +521,10 @@ the corpus, and rank 4 today has "Postgres" in its description.
    matches `main` commit for commit, and a browser run against production loads
    the catalogue in 777 ms, searches, and deep-links into transcripts from the
    lazily-fetched shards.
-2. **Work the bug list**, above — the two dead UI checks first.
+2. ~~**Work the bug list.**~~ **Done** — all fourteen fixed on 2026-09-01, see
+   *The bug list, worked*. What is left from it is deliberate, not forgotten:
+   the ten `hi` transcripts that no route can improve, the `yt-dlp --sub-langs`
+   hole, and the `count` drift that needs a `--refresh`.
    `ranking`, by contrast, is green, and that is worth reading as evidence
    rather than as a fix: it asserts 4 of the CLI's top 10 land in the web's
    top 40, and
@@ -463,8 +533,8 @@ the corpus, and rank 4 today has "Postgres" in its description.
    Three queries have now started and stopped failing on their own, which says
    the check measures corpus size as much as ranking quality — the rankings were
    re-read by hand each time and were good on both sides of every flip. Changing
-   what it measures is still the right fix; a green run today is not it. The
-   2026-08-31 margins, for whoever changes it: 10, 10, 10, 8, 8, 8, 6 and 10 of
+   what it measures is still the right fix; a green run today is not it — this
+   remains the one open test-quality item. The 2026-08-31 margins, for whoever changes it: 10, 10, 10, 8, 8, 8, 6 and 10 of
    the CLI's top 10 inside the web's top 40, against a threshold of 4. Only
    "agent evaluation" at 6 is anywhere near it, and "inference" now sits at 8.
 3. **Re-run the UI tests** after any collection run: `cd tools/uitest && node run.js`.
@@ -474,7 +544,12 @@ the corpus, and rank 4 today has "Postgres" in its description.
    last full run skipped **nothing**, which is the strongest that evidence has
    been: every conditional fixture now exists in the corpus.
 4. ~~**Finish the 2026 extraction.**~~ **Done** — 1,227 fetched in under six
-   minutes, 0 pending. About 1,950 of the month's 3,000 credits are now spent.
+   minutes, 0 pending. The ten `hi` talks were refetched on 2026-09-01 and are
+   as good as they will get from native captions; the open question they leave
+   is a policy one, not a backlog — a words-per-minute floor at index time, and
+   whether `mode=generate` is ever worth 66 credits. About 1,950 of the month's
+   3,000 credits are spent; the 2026-09-01 run cost 2 (a probe and one
+   diagnostic query), the rest of it being free-route.
    The next decision here is whether to spend the remainder on pre-2026 talks,
    which is a change of policy rather than a backlog: see *Collection is scoped
    to 2026* before doing it.
@@ -506,6 +581,30 @@ source ~/.bash_profile                     # see below — this is not optional
 .venv/bin/python fetch_transcripts.py --source supadata --min-year 2026 --workers 32
 .venv/bin/python sync_catalog.py && .venv/bin/python build_index.py
 ```
+
+**The 2026 scope has nothing pending.** The ten `hi` talks were refetched on
+2026-09-01 and came back `hi` again; do not delete and refetch them a third
+time, and see *Bug 7 cannot be fixed by refetching* before deciding they look
+like a backlog. As of that date the probe reports **both free exact routes
+usable** — the residential IP has recovered — so the next selection, whatever
+it is, may well cost nothing.
+
+After any run, **check the languages of what arrived**, since `--source exact`
+is the free-route path and route 2's `--sub-langs` hole is still open:
+
+```bash
+python3 - <<'EOF'
+import json, glob, os
+for f in glob.glob('data/transcripts/*.json'):
+    if f.endswith('_misses.json'): continue
+    L = (json.load(open(f)).get('language') or '')
+    if not L.lower().startswith('en'): print(os.path.basename(f)[:-5], L)
+EOF
+```
+
+A line here is not automatically a problem — the corpus holds Japanese, Spanish
+and German talks that really are in those languages. What it catches is the
+other kind: an English talk whose only caption track is somebody else's ASR.
 
 - **Name `--source supadata` and raise `--workers` whenever `--probe` says the
   IP is spent.** That is the difference between ~3 talks a minute and ~250 —
@@ -758,7 +857,24 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   `1.0 × meta + 0.7 × transcript`, so a talk's own metadata leads and what was
   said on stage is strong corroborating evidence rather than an override.
   Transcript-only hits still surface — `query.py postgres` still finds the talk
-  that only says it out loud, at rank 4.
+  that only says it out loud, at rank 14 (it was rank 4 when this was written;
+  the rank drifted with the corpus, the property did not).
+
+- **A bare query is ANDed, then relaxed; explicit FTS5 syntax never is.** ANDing
+  every token is right for a keyword query and returns nothing at all for a
+  natural-language question, which is how an agent actually asks. So a bare
+  multi-word query falls back to an OR of its content words *only when the AND
+  matches nothing*, and says so on stderr — ranking still puts the talks matching
+  every term, together, on top. Anything the user typed as FTS5 (`"phrase"`,
+  `OR`, `NOT`, `prefix*`) is passed through verbatim and never relaxed, because
+  guessing at explicit syntax is how a search silently stops meaning what it says.
+
+- **Query terms are de-duplicated and capped, and this was a complexity fix.**
+  A pasted blob scaled super-linearly — `agent` x400 took 169 seconds. Bare
+  queries de-duplicate case-insensitively and cap at 32 terms with a warning;
+  explicit syntax is de-duplicated only in a flat chain joined by a single
+  idempotent operator, never across parentheses, `NEAR`, `NOT` or mixed
+  operators. Same query now runs in 0.19s, and the worst case anywhere is 1.5s.
 
 - **The two rankers are compared at the web's top 40, not its top 10.** They
   disagree about ordering by design: `talks.db` tokenises with Porter stemming,
@@ -787,11 +903,21 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
   would otherwise be indexed as if the speaker had said them.
   The extrapolation held: at 5,816 talks the file was 1.6 MB with no
   descriptions and 2.0 MB with 369 of them, and enrichment took it to 7.3 MB at
-  6,979 talks with 5,138 — past the 6 MB line that was set as the trigger, so
-  the clip halved and it came back to 5.4 MB. It is **5.8 MB** now at 7,351
-  talks with 5,557 descriptions, so it is creeping back towards the line.
-  Description coverage is still only 75%, so this will need looking at again;
-  the 6 MB trigger stands.
+  6,979 talks with 5,138 — past the line that was set as the trigger, so
+  the clip halved and it came back to 5.4 MiB. It is **5.77 MiB (6,045,370
+  bytes)** now at 7,348 talks with 5,557 descriptions — 96% of the trigger, and
+  creeping back towards it. Description coverage is still only 75%, so this will
+  need looking at again.
+  **The trigger's unit is binary and now says so in code**:
+  `META_SIZE_TRIGGER_BYTES = 6 * 1024 * 1024` = 6,291,456 bytes. This mattered —
+  the file is *under* 6 MiB but *over* 6 MB decimal, so the ambiguity alone
+  decided whether the clip needed halving. **`atu.human_size()` was fixed to
+  match on 2026-09-01**: it always divided by 1024 while labelling "MB", so
+  every size this repo ever printed looked decimal and was not. It now says
+  `MiB`, and `atu.decimal_size()` exists for comparing against a vendor figure.
+  The divisor did not change, so no recorded number moved — only the labels, and
+  historical "MB" figures in this file are all MiB. `build_index.py` reports
+  where the file stands after each run.
   GitHub Pages gzips; the local test server does not, which is why
   `suite-navigation` allows 8 seconds for a cold load.
 
@@ -814,13 +940,18 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
 
 ## Numbers to refresh when the corpus changes
 
-`README.md` states 7,351 talks / 46 conferences / 15,157 enumerated, and how
+`README.md` states 7,348 talks / 46 conferences / 15,150 enumerated, and how
 many of them are 2026 and how many of those are transcribed; this file states
 transcript, description, year, tag and speaker coverage, the per-conference
 transcript split, the 2026 pending backlog, the passage count, the credits
 spent this month, and the sizes of `talks.db`, `search-meta.json` and
 `tindex/`. `sync_catalog.py` prints the coverage at the
-end of a run and `build_index.py` prints the passage count and the sizes.
+end of a run and `build_index.py` prints the passage count, the sizes and where
+`search-meta.json` stands against its 6 MiB trigger.
+
+Count transcripts by **exact video id**, never by filename prefix: 48 ids begin
+with an underscore and `_misses.json` lives beside them, so a prefix filter
+under-reports by 48. This has now caught two separate sessions.
 
 ## Not done
 

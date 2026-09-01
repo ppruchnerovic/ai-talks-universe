@@ -4,7 +4,7 @@ A searchable knowledge base of recorded talks from the world's AI conferences �
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**7,351 talks from 46 conferences.** The curated list of which conferences and
+**7,348 talks from 46 conferences.** The curated list of which conferences and
 why is [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror,
 which the pipeline actually reads, is [`conferences.json`](conferences.json).
 
@@ -53,7 +53,7 @@ say "AI". Without that, an *AI* talks corpus would be four fifths
 Kubernetes networking and iOS layout. Each conference also carries a minimum
 duration, which drops the stings, trailers and sponsor spots channels mix in.
 
-Of 15,157 videos enumerated, 7,351 survive. `sync_catalog.py` prints exactly
+Of 15,150 videos enumerated, 7,348 survive. `sync_catalog.py` prints exactly
 what each conference dropped and why.
 
 ## Layout
@@ -123,8 +123,15 @@ python3 query.py "evals" --year 2026 --json          # for scripts and agents
 ```
 
 Both the descriptions and the transcripts are searched. Transcript hits carry
-the timestamp, so results deep-link into the video. FTS5 syntax works:
-`"exact phrase"`, `OR`, `NOT`, `prefix*`.
+the timestamp, so results deep-link into the video, and each result says which
+layer matched. FTS5 syntax works: `"exact phrase"`, `OR`, `NOT`, `prefix*`, and
+is always taken literally. A bare multi-word query is ANDed first and relaxed to
+an OR of its terms only if that matches nothing, so a natural-language question
+still returns ranked results — it says on stderr when it relaxes.
+
+`--conference` and `--category` are case- and separator-insensitive and suggest
+near misses; `--list-conferences` and `--list-categories` print the valid
+values.
 
 ### With Claude Code
 
@@ -147,7 +154,9 @@ python3 build_index.py               # rebuild both search indexes
 
 `sync_catalog.py` without `--refresh` and `build_index.py` are idempotent —
 rerunning gives byte-identical output, so a git diff shows exactly what the
-conferences changed.
+conferences changed. That holds literally, including `talks.json`'s
+`generated_at`, which advances only when the corpus actually changes rather than
+on every run. `build_index.py --help` lists its flags without rebuilding.
 
 ### Adding a conference
 
@@ -197,7 +206,7 @@ export lives in `~/.bash_profile` it will not reach a non-login shell — put it
 in `~/.bashrc`, or source it explicitly.
 
 `videos.list` bills one unit per call and takes 50 video ids at a time, so the
-corpus costs about 140 units and `--all` over the full 15,157-video catalogue
+corpus costs about 140 units and `--all` over the full 15,150-video catalogue
 about 296 — 3% of a day's allowance, which is why a re-enrichment is never the
 thing to ration. Without a key it is a full yt-dlp extraction per video —
 roughly an hour for the corpus at two workers, and it draws on the same IP
@@ -217,7 +226,8 @@ dropped before it is ever enriched. Enrich `--all` first, then re-sync.
 do for transcripts, with one twist: enrichment is what *resolves* a year, so a
 year-scoped run wants the third flag or it can only ever re-select talks whose
 year is already known. That mattered when 3,082 talks had no year; the Data
-API run closed it to 2, and it stays true for whatever a fresh enumeration adds.
+API run closed it to 2, and removing the three hollow records closed it to 0. It
+stays true for whatever a fresh enumeration adds.
 
 ```bash
 cd tools && python3 enrich.py --min-year 2026 --include-unknown-year
@@ -255,8 +265,8 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,520 of the 7,351 talks are 2026,
-and all but the 27 with no captions to fetch now have a transcript —
+`--min-year 2026` keeps only those years — 2,519 of the 7,348 talks are 2026,
+and all but the 26 with no captions now have a transcript —
 and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. Nothing is removed from the corpus by
 this: it is a selection filter, and `query.py --year` still reads every year.
@@ -357,6 +367,18 @@ down. `--min-delay`/`--max-delay` and the exponential backoff on retry are
 there to be a good citizen, not to raise the ceiling — the allowance is per IP,
 not per request rate.
 
+Supadata picks a caption track itself unless asked, and asking is not enough on
+its own: given `lang=en` it falls back to whatever the video has rather than
+failing, so the fetcher checks the answer and re-requests against the video's
+own `availableLangs`. A talk that really has no English track is saved under the
+language it is in, never written to `_misses.json` — that file means *no
+captions*, and a Hindi track is captions.
+
+Ten talks here are like that, and no route can mend them: their single
+auto-generated track is YouTube's ASR mis-reading English audio as Hindi, so
+`availableLangs` is `['hi']` and there is nothing else to ask for. Deleting and
+refetching returns the same bytes.
+
 Re-running will not *upgrade* an estimated transcript to an exact one — it skips
 talks it already has. To redo one, delete its file first. Afterwards rerun
 `sync_catalog.py` (to inline transcripts into the markdown) and
@@ -410,7 +432,7 @@ looks exactly like a search with no results.
 ```bash
 cd tools/uitest
 npm install            # playwright + chromium, ignored by git
-node run.js            # 156 checks, about three minutes
+node run.js            # 172 checks, about three minutes
 node run.js search filters      # just those suites
 ```
 

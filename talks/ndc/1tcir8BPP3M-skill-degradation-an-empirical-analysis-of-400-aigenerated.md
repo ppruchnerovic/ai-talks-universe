@@ -50,7 +50,7 @@ This presentation is filled with real-world examples and data from a secure codi
 
 ## Transcript
 
-*153 words · source: supa (hi, exact timings)*
+*153 words · source: yt (hi, exact timings)*
 
 **[0:11](https://www.youtube.com/watch?v=1tcir8BPP3M&t=11s)** दे अंडरस्ट स्टडी
 
