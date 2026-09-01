@@ -167,8 +167,8 @@ def select(reg: dict, args) -> tuple[dict[str, list[str]], int]:
 
     for slug, vid, v in pool:
         c = confs.get(slug)
-        if not c:
-            continue
+        if not c or not atu.is_youtube_id(vid):
+            continue                      # an InfoQ-only record has no video to ask about
         if args.only and slug not in args.only:
             continue
         if args.priority and c["priority"] > args.priority:

@@ -767,6 +767,8 @@ def save(t: dict, segments, lang, generated, timing, source) -> int:
 def select(talks: list[dict], args, misses: dict) -> list[dict]:
     out = []
     for t in talks:
+        if not atu.is_youtube_id(t["id"]):
+            continue                      # an InfoQ-only talk: no video to fetch from
         if args.only and t["conference"] not in args.only:
             continue
         if args.priority and t["priority"] > args.priority:

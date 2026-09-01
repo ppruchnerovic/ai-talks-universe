@@ -530,8 +530,11 @@ def main() -> None:
         total_new += tally["new"]
         total_merged += tally["merged"]
         total_words += tally["words"]
-
-    atu.write_json(atu.catalog_path(CONF), cat)
+        # Written after every edition, not once at the end: a Ctrl-C between
+        # editions used to leave transcripts on disk that the catalogue never
+        # learned about, so the matched YouTube records kept their channel
+        # boilerplate until someone re-ran with --refetch.
+        atu.write_json(atu.catalog_path(CONF), cat)
     print(f"\n{total_merged} merged into existing YouTube records · {total_new} new to InfoQ · "
           f"{total_words:,} transcript words")
     print("Next:  python3 sync_catalog.py && python3 build_index.py")

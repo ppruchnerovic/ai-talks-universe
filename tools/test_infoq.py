@@ -210,5 +210,99 @@ check("and the display name is kept — 'qcon-ai-2025' is 'QCon AI New York 2025
       found[0][1] == "QCon AI Boston 2026", found[0])
 
 
+# --- folding the cache into the catalogue: sync_catalog's half -------------
+#
+# Three ways the fold-in was fragile, each verified in the 2026-09-02 review:
+# a channel refresh stripped what infoq.py had written onto a matched record,
+# a missing cache directory deleted every iq- record, and a talk fetched as
+# iq- that later reached the YouTube channel stayed a permanent duplicate.
+
+import json
+import tempfile
+import pathlib
+import sync_catalog as S
+
+SRC = {"url": "https://www.youtube.com/@InfoQ", "label": "InfoQ channel", "year": None}
+prev = {"video_id": "aaaaaaaaaaa", "title": "Scaling to 100+ - Thiago Ghisi - QCon",
+        "source_url": SRC["url"], "label": "InfoQ channel", "year": None,
+        "description": "InfoQ's abstract", "speakers": ["Thiago Ghisi"],
+        "label": "QCon San Francisco 2025", "year": 2025, "page_url": "https://www.infoq.com/p/x/",
+        "infoq_url": "https://www.infoq.com/p/x/", "infoq_at": "2026-09-01T00:00:00+00:00",
+        "details_at": "2026-09-01T00:00:00+00:00", "published_at": "2026-02-01T00:00:00Z"}
+videos = {"aaaaaaaaaaa": dict(prev)}
+listing = [{"video_id": "aaaaaaaaaaa", "title": "Scaling to 100+ - Thiago Ghisi - QCon",
+            "duration_s": 3000, "channel": "InfoQ", "label": "InfoQ channel", "year": None,
+            "source_url": SRC["url"]}]
+S.merge_source(videos, SRC, listing)
+after = videos["aaaaaaaaaaa"]
+check("a channel refresh keeps the edition infoq.py resolved, not the listing's label",
+      after["label"] == "QCon San Francisco 2025" and after["year"] == 2025, after)
+check("and keeps the speakers, the page and the claim stamp",
+      after["speakers"] == ["Thiago Ghisi"] and after["page_url"] == prev["page_url"]
+      and after["infoq_at"] == prev["infoq_at"] and after["description"] == "InfoQ's abstract",
+      after)
+check("while the listing still refreshes what it is the source for",
+      after["duration_s"] == 3000 and after["channel"] == "InfoQ", after)
+
+plain = {"bbbbbbbbbbb": {"video_id": "bbbbbbbbbbb", "title": "Unclaimed", "source_url": SRC["url"],
+                         "label": "old label", "year": 2024, "description": "enriched"}}
+S.merge_source(plain, SRC, [{"video_id": "bbbbbbbbbbb", "title": "Unclaimed", "label": "new label",
+                             "year": 2025, "source_url": SRC["url"]}])
+check("a record infoq.py never claimed takes the listing's label and year as before",
+      plain["bbbbbbbbbbb"]["label"] == "new label" and plain["bbbbbbbbbbb"]["year"] == 2025
+      and plain["bbbbbbbbbbb"]["description"] == "enriched", plain)
+
+# The stale guard: an empty cache directory keeps what it previously gave.
+with tempfile.TemporaryDirectory() as tmp:
+    saved_cache, saved_catalog = S.INFOQ_CACHE, atu.CATALOG
+    S.INFOQ_CACHE = pathlib.Path(tmp) / "infoq-missing"
+    atu.CATALOG = pathlib.Path(tmp) / "catalog"
+    atu.CATALOG.mkdir()
+    isrc = {"type": "infoq", "url": "https://www.infoq.com/presentations/", "label": "InfoQ"}
+    reg = {"conferences": [{"slug": "qcon-infoq", "name": "QCon", "sources": [isrc]}]}
+    atu.write_json(atu.catalog_path("qcon-infoq"), {"slug": "qcon-infoq", "videos": {
+        "iq-kept-talk": {"video_id": "iq-kept-talk", "title": "Kept", "source_url": isrc["url"]},
+        "ccccccccccc": {"video_id": "ccccccccccc", "title": "Channel", "source_url": SRC["url"]}}})
+    S.sync_infoq(reg)
+    cat = atu.load_catalog("qcon-infoq")
+    check("a missing InfoQ cache keeps the iq- records it previously contributed",
+          "iq-kept-talk" in cat["videos"], sorted(cat["videos"]))
+    check("and marks the source stale rather than counting zero",
+          any(m.get("stale") and m.get("type") == "infoq" for m in cat["sources"]), cat["sources"])
+    S.INFOQ_CACHE, atu.CATALOG = saved_cache, saved_catalog
+
+# Two-way dedupe: an iq- record whose talk has since reached the channel.
+with tempfile.TemporaryDirectory() as tmp:
+    saved_tr = atu.TRANSCRIPTS
+    atu.TRANSCRIPTS = pathlib.Path(tmp)
+    atu.write_json(atu.transcript_path("iq-late-talk"),
+                   {"video_id": "iq-late-talk", "timing": "estimated", "word_count": 2,
+                    "segments": [{"start": 0, "duration": 1, "text": "hello there"}]}, compact=True)
+    vids = {"ddddddddddd": {"video_id": "ddddddddddd", "source_url": SRC["url"],
+                            "title": "A Talk That Reached YouTube Later - Some Speaker - QCon",
+                            "label": "InfoQ channel", "year": None}}
+    found = [{"video_id": "iq-late-talk", "title": "A Talk That Reached YouTube Later",
+              "description": "the abstract", "speakers": ["Some Speaker"], "label": "QCon London 2026",
+              "year": 2026, "page_url": "https://www.infoq.com/presentations/late/",
+              "source_url": isrc["url"], "details_at": "2026-09-02T00:00:00+00:00"},
+             {"video_id": "iq-still-only-infoq", "title": "Nothing Like It On The Channel",
+              "label": "QCon London 2026", "year": 2026, "source_url": isrc["url"]}]
+    kept, claimed = S.claim_for_infoq(vids, found)
+    check("an iq- talk that later reached the channel is folded onto the YouTube record",
+          claimed == 1 and [r["video_id"] for r in kept] == ["iq-still-only-infoq"], kept)
+    yt = vids["ddddddddddd"]
+    check("which then carries the page's abstract, speakers and edition",
+          yt.get("description") == "the abstract" and yt.get("speakers") == ["Some Speaker"]
+          and yt.get("label") == "QCon London 2026" and yt.get("year") == 2026
+          and yt.get("infoq_at"), yt)
+    check("and its transcript, re-keyed to the video id",
+          atu.transcript_path("ddddddddddd").exists()
+          and json.loads(atu.transcript_path("ddddddddddd").read_text())["video_id"] == "ddddddddddd")
+    kept2, claimed2 = S.claim_for_infoq(vids, found)
+    check("running it again changes nothing", claimed2 == 1 and len(kept2) == 1
+          and vids["ddddddddddd"] == yt)
+    atu.TRANSCRIPTS = saved_tr
+
+
 print("\n" + (f"{len(FAILS)} FAILED: {FAILS}" if FAILS else "all checks passed"))
 sys.exit(1 if FAILS else 0)

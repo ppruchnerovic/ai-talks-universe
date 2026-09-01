@@ -169,6 +169,11 @@ INFOQ_CACHE = atu.DATA / "infoq"
 # the speakers as InfoQ names them, and the abstract as its programme wrote it.
 INFOQ_FIELDS = ("description", "speakers", "published_at", "page_url", "video_url")
 
+# What infoq.enrich_existing() writes onto a YouTube record it matched, and
+# what a re-enumeration of the channel must therefore not overwrite.
+INFOQ_CLAIMED = ("description", "speakers", "published_at", "duration_s", "label", "year",
+                 "page_url", "infoq_url", "infoq_at", "details_at")
+
 
 def enumerate_infoq(src: dict) -> list[dict]:
     """Read what infoq.py cached — the presentations YouTube never listed.
@@ -210,8 +215,58 @@ def enumerate_infoq(src: dict) -> list[dict]:
     return out
 
 
+def claim_for_infoq(videos: dict, found: list[dict]) -> tuple[list[dict], int]:
+    """An iq- record whose talk has since reached the YouTube channel is folded
+    onto that video rather than kept beside it.
+
+    infoq.py de-duplicates at fetch time, against the channel as it was that
+    day. InfoQ posts to its channel months after the presentation page goes
+    up, so a talk fetched as `iq-…` can later appear under a YouTube id — and
+    without this it stayed a permanent second record. The match is the same
+    title match infoq.py makes; on a hit the YouTube record gets what the page
+    gave (abstract, speakers, edition, links) and the transcript file, and the
+    iq- record is not emitted. Idempotent: next run finds the video already
+    claimed and the iq- record still absent.
+    """
+    import infoq
+
+    by_key = infoq.catalog_index({"videos": videos})
+    kept, claimed = [], 0
+    for rec in found:
+        vid = infoq.match_existing(infoq.title_key(rec["title"]), by_key)
+        if not vid:
+            kept.append(rec)
+            continue
+        target = videos[vid]
+        changed = False
+        if not target.get("infoq_at"):
+            talk = {"description": rec.get("description", ""), "speakers": rec.get("speakers") or [],
+                    "page_url": rec.get("page_url"), "published_at": rec.get("published_at"),
+                    "duration_s": rec.get("duration_s")}
+            infoq.enrich_existing(target, talk, {"name": rec["label"], "year": rec["year"]},
+                                  rec.get("details_at") or "")
+            changed = True
+        src_tr, dst_tr = atu.transcript_path(rec["video_id"]), atu.transcript_path(vid)
+        if src_tr.exists() and not dst_tr.exists():
+            tr = json.loads(src_tr.read_text(encoding="utf-8"))
+            tr["video_id"] = vid
+            atu.write_json(dst_tr, tr, compact=True)
+            changed = True
+        claimed += 1
+        if changed:
+            print(f"    {rec['video_id']} is now on YouTube as {vid} — folded onto that record")
+    return kept, claimed
+
+
 def sync_infoq(reg: dict) -> None:
-    """Fold every "infoq" source into its catalogue. Offline, so unconditional."""
+    """Fold every "infoq" source into its catalogue. Offline, so unconditional.
+
+    A cache that is missing or empty is treated the way an empty listing is
+    in refresh_conference(): the videos it previously contributed stay, and
+    the source is marked stale. Otherwise a checkout without data/infoq/ — a
+    CI runner, a shallow clone — would silently delete every iq- record,
+    which at 222 talks sits under the 10% shrink guard.
+    """
     for conf in reg["conferences"]:
         srcs = [s for s in conf["sources"] if s.get("type") == "infoq"]
         if not srcs:
@@ -223,6 +278,15 @@ def sync_infoq(reg: dict) -> None:
                 if m.get("url") not in {s["url"] for s in srcs}]
         for src in srcs:
             found = enumerate_infoq(src)
+            if not found:
+                kept = sum(1 for v in videos.values() if v.get("source_url") == src["url"])
+                print(f"  ! infoq cache empty or missing ({INFOQ_CACHE}) "
+                      f"— keeping the {kept} cached videos")
+                meta.append({"url": src["url"], "label": src.get("label"),
+                             "year": src.get("year"), "count": kept, "type": "infoq",
+                             "stale": True})
+                continue
+            found, claimed = claim_for_infoq(videos, found)
             merge_source(videos, src, found)
             meta.append({"url": src["url"], "label": src.get("label"),
                          "year": src.get("year"), "count": len(found), "type": "infoq"})
@@ -250,6 +314,15 @@ def merge_source(videos: dict, src: dict, found: list[dict]) -> None:
         prev = videos.get(f["video_id"], {})
         carried = {k: prev[k] for k in ("description", "published_at", "tags", "details_at")
                    if k in prev and k not in f}
+        if prev.get("infoq_at"):
+            # infoq.py found this video on the programme and wrote the page's
+            # facts onto it. Those beat the listing's — the edition it was
+            # given at over the playlist it sits in, the speakers as stated
+            # over none — so they win even where the listing has a value, or
+            # the first weekly --refresh would strip them and never put them
+            # back: the InfoQ cache says `matched_youtube` and is not
+            # re-applied.
+            carried.update({k: prev[k] for k in INFOQ_CLAIMED if k in prev})
         videos[f["video_id"]] = {**f, **carried}
 
 
@@ -764,7 +837,8 @@ def render_md(t: dict) -> str:
         tags_json=json.dumps(t["tags"], ensure_ascii=False),
         tag_line=("\n\n" + " ".join(f"`#{x}`" for x in t["tags"])) if t["tags"] else "",
         has_transcript=str(atu.transcript_path(t["id"]).exists()).lower(),
-        description=t["description"] or "*No description published on YouTube.*",
+        description=t["description"] or ("*No description published on YouTube.*"
+                                         if t["youtube_url"] else "*No description published.*"),
         transcript_block=transcript_block(t),
     )
 
