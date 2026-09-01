@@ -337,6 +337,63 @@ def human_size(n: float) -> str:
     return f"{n:.1f}GiB"
 
 
+# Bumped whenever build_index.py changes what talks.db holds — a column, a
+# table, the passage shape. Written into the file as PRAGMA user_version, so a
+# database built by an older script is recognised as stale rather than opened
+# and queried: the day `url` was added to `talks`, every search died with
+# "no such column: url" until someone knew to delete the file by hand.
+DB_SCHEMA_VERSION = 4
+
+
+def db_stale() -> str | None:
+    """Why talks.db must be rebuilt before it is queried, or None if it is fine.
+
+    Three reasons, each of which has actually happened: the file is missing
+    (it is derived and gitignored); it was built by a script with a different
+    schema; or the corpus changed under it — talks.json was re-derived, or a
+    transcript was fetched into data/transcripts/ (a new file updates the
+    directory's mtime) — so a query would silently miss the last refresh.
+    """
+    import sqlite3
+
+    if not TALKS_DB.exists():
+        return "no index yet"
+    try:
+        con = sqlite3.connect(f"file:{TALKS_DB}?mode=ro", uri=True)
+        try:
+            version = con.execute("PRAGMA user_version").fetchone()[0]
+        finally:
+            con.close()
+    except sqlite3.Error as e:
+        return f"index unreadable ({e})"
+    if version != DB_SCHEMA_VERSION:
+        return f"index schema v{version}, tools expect v{DB_SCHEMA_VERSION}"
+    built = TALKS_DB.stat().st_mtime
+    for src, what in ((TALKS_JSON, "talks.json"), (TRANSCRIPTS, "data/transcripts/")):
+        if src.exists() and src.stat().st_mtime > built:
+            return f"{what} is newer than the index"
+    return None
+
+
+def connect():
+    """A read-only connection to talks.db, rebuilding it first if it is stale.
+
+    Shared by query.py and excerpt.py so the two cannot drift on what "stale"
+    means. The rebuild takes about half a minute and says so on stderr, where
+    it cannot corrupt --json output.
+    """
+    import sqlite3
+    import sys
+
+    why = db_stale()
+    if why:
+        print(f"rebuilding the search index ({why}) — about 30 s…", file=sys.stderr)
+        import build_index
+
+        build_index.main(["--quiet"])
+    return sqlite3.connect(f"file:{TALKS_DB}?mode=ro", uri=True)
+
+
 def decimal_size(n: float) -> str:
     """The same count in decimal units, for comparing against a vendor figure."""
     for unit in ("B", "KB", "MB", "GB"):

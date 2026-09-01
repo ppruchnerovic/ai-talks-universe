@@ -29,7 +29,7 @@ new here is the catalogue layer, because there is no agenda API.
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. Rewritten 2026-09-01 around a retrieval ladder that costs ~17k tokens a question instead of ~150k — see *Making the skill affordable*. |
 | Transcripts | **2,946 of 8,822**, all exact timings, over 35 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete**: of its 2,942 talks, 2,914 have a transcript and 28 have no captions, so nothing is pending. `I1GvlW1H4WI` entered the scope when the year-from-title fallback was fixed and was fetched for one credit — see *The pre-2023 cut*. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
-| Workflows | Both run. `pages.yml` mirrors `main` into `gh-pages` on push, verified live. `kb-refresh.yml` now **opens a pull request** instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
+| Workflows | Both run. `pages.yml` mirrors `main` into `gh-pages` on push, verified live — **and that is now the problem**: the site is the whole repo at 411 MB and heading for the 1 GB ceiling; see *Review of 2026-09-02*, section B, for the replacement. `kb-refresh.yml` now **opens a pull request** instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
 | Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages`, which `pages.yml` mirrors from `main` on every push. |
 
 ## What the collection runs actually got
@@ -868,6 +868,324 @@ branch to printing the whole transcript. It now retries the OR, and a query
 that genuinely matches nothing in a talk returns the opening and says so — the
 one thing it must never do is silently cost a full read.
 
+## Review of 2026-09-02 — fixes and improvements to make
+
+A read of the whole solution after the InfoQ fetch landed: the search stack
+(`query.py`, `excerpt.py`, `build_index.py`, `atu.py`, `index.html`), the
+skill, the pipeline scripts and the workflows. Every item below was verified
+against the corpus or by reading the line it names, not inferred; the ones
+marked *measured* were run. The offline tests pass, the `ranking` and `search`
+browser suites pass 48 of 48, and CLI latency is not a problem — 0.03-0.2 s for
+a normal query, 0.6 s for a stopword, 30 s for a full index build. What is
+wrong is smaller and sharper than that: three things break the documented
+workflow today, the published site is on a growth curve towards the Pages
+ceiling, and the ranking has a handful of holes that a natural-language
+question falls straight through.
+
+Work them in the order given. The first block is bugs; the second is the site;
+the third and fourth are accuracy; the last is the skill, which should be
+edited only after the tools it describes have changed.
+
+### A. Bugs that break the documented workflow
+
+1. **A stale `talks.db` crashes every query.** `query.py` selects `url` and
+   `youtube_url`, which the DB on disk did not have — every search died with
+   `no such column: url`. `query.py:477` and `excerpt.py` rebuild only when the
+   file is *missing*, never when the schema or `talks.json` is newer, and the
+   README's "delete it any time" is the only remedy. Since the skill's first
+   step is `query.py`, a stale index is either a crash or, worse, an index that
+   quietly lacks the last refresh's talks. Fix: `build_sqlite` sets
+   `PRAGMA user_version = <SCHEMA_VERSION>`; `connect()` in both tools rebuilds
+   when the version differs *or* `TALKS_JSON` is newer than `TALKS_DB`, and
+   says so on stderr. Put `connect()` in `atu.py` so the two tools cannot
+   drift. (The DB was rebuilt by hand during the review; it is gitignored.)
+
+2. **The OR query the skill recommends fails on hyphenated terms.**
+   *Measured:* `gpt-4 OR claude` → `no such column: 4`; `fine-tuning OR rag` →
+   `no such column: tuning`; `c++ OR rust` → `syntax error near "+"`; any comma
+   in an explicit query is a syntax error. `explicit_query` (`query.py:122`)
+   joins bare terms unquoted, and an FTS5 bareword is `[A-Za-z0-9_]` and
+   non-ASCII only. Fix: in `explicit_query`, wrap every term that is not
+   already quoted and not a pure bareword in `"…"`, preserving a trailing `*`
+   (`gpt-4*` → `"gpt-4"*`), and drop bare commas. Add these four strings to a
+   `test_query.py` — there is none, and `parse_query`/`explicit_query` are pure
+   functions that deserve one.
+
+3. **`excerpt.py` cannot open a markdown path for most ids.** `find_talk`
+   (`excerpt.py:110`) takes the text before the *first* hyphen of the file
+   name, so `talks/ai-engineer/O72p-rBb2bA-evals-….md` resolves to `O72p` and
+   reports "not in the corpus" — *measured*. Every id containing a hyphen
+   (about one in six), every id starting with one, and every `iq-` id fails,
+   which is precisely the input the skill's "reading the markdown file directly
+   is for the record" sentence produces. Fix: take the first 11 characters when
+   `atu.is_youtube_id()` accepts them; otherwise try each hyphen-delimited
+   prefix of the name against `talks.id`, longest first.
+
+4. **The InfoQ fold-in is fragile in the working tree.** Three separate
+   things, all found by the pipeline review:
+   - `data/infoq/` is **untracked**, and `sync_infoq` deletes every `iq-`
+     record when the cache directory is empty — which is what
+     `kb-refresh.yml`'s checkout would see. 222 talks would vanish under the
+     10% shrink guard, unflagged. Commit the directory, and make `sync_infoq`
+     keep the cached videos and set `stale: true` when the cache is missing,
+     the way an empty listing already does.
+   - `sync_catalog.py --refresh` strips what `infoq.py` wrote onto a matched
+     YouTube record: `speakers`, `year`, `label`, `page_url`, `infoq_url`,
+     `infoq_at` are not in the `carried` list at `sync_catalog.py:251`, and
+     the cache's `matched_youtube: true` means it is never re-applied. Latent
+     today, fails on the first weekly refresh. Add them to `carried`.
+   - `atu.is_youtube_id()` accepts an `iq-` id of exactly 11 characters
+     (`iq-ai-infra`), which would give it a `youtube.com/watch?v=iq-…` link.
+     Exclude the `iq-` prefix. `fetch_transcripts.select()` and `enrich.py`
+     have no guard either and would send such an id to Supadata or the Data
+     API; add `if not atu.is_youtube_id(t["id"]): continue` to both.
+   - Smaller: `infoq.py` writes the catalog only at the end of `main`, so a
+     Ctrl-C between editions leaves a transcript on disk that the catalog never
+     learns about; write after each edition. Dedupe is one-directional — an
+     `iq-` talk that later appears on the channel becomes a permanent
+     duplicate; drop an `iq-` record whose `title_key` matches a YouTube record
+     in `build_talks`. `excerpt.py:226` labels an InfoQ abstract "YouTube's,
+     not an abstract", and the markdown says "No description published on
+     YouTube" for `iq-` records. The CSV column `youtube_url` → `url` rename is
+     unmentioned in the README.
+
+5. **Transient failures become permanent misses in the fetcher.** A yt-dlp
+   `TimeoutExpired`, a DNS failure, a dead proxy or a kome 5xx is mapped to
+   `LookupError` (`fetch_transcripts.py:538-548`, `:321-324`), which
+   `about_the_video()` does not exempt, so it is written to `_misses.json` and
+   `select()` skips the talk forever. A proxy that dies mid-run records every
+   talk it touched as "no captions". This is the failure class *The 402 that
+   was recorded as "no captions"* was about, still open on two routes. Fix:
+   raise `TransientError` for the subprocess timeout and for network-shaped
+   yt-dlp stderr, and after kome's retry loop. Three related ones:
+   - `--probe` reports a healthy IP as failed once the next unfetched talk is
+     a known no-captions video (`main:972` passes `{}` for misses to
+     `select`). With the 2026 scope complete, `--probe --min-year 2026` now
+     always probes a captionless video. Pass `load_misses()`.
+   - A Supadata "no captions" verdict is overridden by an earlier IP block
+     (`fetch_one:714`, `raise blocked or last`), so the talk is re-selected and
+     re-charged every round. Prefer a non-IP route's `LookupError`.
+   - A Supadata 429 raises `BlockedError` and benches the *local* IP for 45
+     minutes, and 429s are never printed — the README's "raise `--workers`
+     until 429s appear in the log" cannot happen. Give it its own
+     `RateLimited(TransientError)`, log it, honour `Retry-After`.
+   - `enrich.py:114` matches the substring `blocked`, which yt-dlp also prints
+     for one geo-restricted video, and aborts the whole run. Anchor on "Sign in
+     to confirm" / "HTTP Error 429".
+
+6. **Small.** `build_index.py --out DIR` fails unless DIR exists
+   (`redirect_outputs` should `mkdir -p`). `--limit` silently disables
+   `--retry-after`. README says workers default to one per identity; the code
+   says `max(2, …)`.
+
+### B. The published site is the whole repository
+
+`pages.yml` force-pushes `main` to `gh-pages`, so the site is every byte of the
+repo: **411 MB today, 41% of GitHub Pages' 1 GB ceiling**, and 169 MB of it is
+never fetched by the browser — `talks/` markdown (114 MB), `data/catalog/`
+(25 MB), `talks.json` (19 MB), `talks.csv` (11 MB).
+
+The growth curve is the reason to act now rather than later. A transcript is
+~62 KB and covers 3,170 of 9,048 talks; at full coverage that is ~560 MB of
+transcripts plus a proportionally larger `tindex/`, about **850 MB** — too
+close to the wall to leave to the next refresh. The fix is to publish only what
+`index.html` fetches, which is exactly four things: `data/search-meta.json`,
+`data/tindex/`, `data/transcripts/<id>.json`, and itself. That drops the site
+to ~240 MB immediately, and keeps the markdown and the catalogs on `main`
+where they are the readable, diffable artifact.
+
+Replace the single `git push` step with an assembled tree, pushed as one orphan
+commit so `gh-pages` carries no history of its own:
+
+```yaml
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble the site — only what the browser fetches
+        run: |
+          set -euo pipefail
+          rm -rf _site && mkdir -p _site/data
+          cp index.html .nojekyll _site/
+          cp data/search-meta.json _site/data/
+          cp -r data/tindex _site/data/tindex
+          cp -r data/transcripts _site/data/transcripts
+          rm -f _site/data/transcripts/_misses.json    # bookkeeping, not content
+          du -sh _site _site/data/*
+      - name: Publish as a single orphan commit
+        run: |
+          set -euo pipefail
+          cd _site
+          git init -q -b gh-pages
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Publish ${GITHUB_SHA::8}"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Three things to check when it goes in. `index.html` must still fetch nothing
+outside those paths — grep it for `fetch(` and `href="data/`; today it does not.
+The `navigation` UI suite serves the repo root and would not notice a path the
+site lacks, so add one check that runs against an assembled `_site/` rather
+than the checkout. And the `du` line is the size report: read it on every
+deploy, since the `search-meta.json` trigger in `build_index.py` watches the
+up-front payload, not the site.
+
+When transcripts alone approach the ceiling, the next lever is the transcript
+files themselves rather than the site layout: `duration` is unused by the
+browser and `start` carries two decimals it never displays, and stripping both
+at publish time is ~30% of the bytes without touching `data/transcripts/` on
+`main`. That is a `build_index.py --site` step later, not now.
+
+### C. Ranking — where a natural-language question falls through
+
+The rankers are sound on keyword queries; the browser suite says so, and so
+does reading the results. The holes are all at the edges of what a query is.
+
+1. **Stopwords are ANDed into the strict query** (`query.py:158`).
+   *Measured:* "how do you evaluate agents in production" is `"how" AND "do"
+   AND "you" AND "evaluate" AND "agents" AND "in" AND "production"`. The
+   transcript layer contributes nothing — seven words never share a 25-word
+   passage — and the four top hits were metadata-only talks whose descriptions
+   contain "how", "do", "you" and "in", with those words highlighted. The same
+   query as "evaluate agents production" returned four transcript-bearing
+   talks that were plainly better. Fix: build `strict` from the content words,
+   falling back to all words only when every word was a stopword. The
+   `relaxed` form already does this; the strict one should too.
+
+2. **Relaxation is a cliff.** AND-everything jumps to OR-anything only at zero
+   rows, so a question with one wrong word either returns a few accidental
+   matches and never relaxes, or drops to OR and lets a common word win:
+   "what do people say about agent reliability" relaxed to
+   `people OR say OR agent OR reliability` and ranked *Your People Are The
+   Future Of Your Brand* first — *measured*. Two changes, both cheap:
+   - Relax **progressively**: drop the term with the highest document
+     frequency and retry, until one term is left, before going to OR. The
+     `fts5vocab` shadow table (`CREATE VIRTUAL TABLE v USING
+     fts5vocab(talks_fts, 'row')`) gives the frequency in one query per term.
+   - Add a query-time stopword list — `people say said talk talks think
+     discuss mention cover speaker conference` and the question words — that
+     applies only to queries, so the index and the browser are unchanged.
+
+3. **The segment layer should always score the OR form with a co-occurrence
+   bonus**, which is what `index.html`'s `passageFactor` already does and
+   `query.py` does not. Under the strict form, a two-word query gets moments
+   only from passages that say both words; under the relaxed form it gets
+   moments from either and cannot tell. Score segments on the OR form, then
+   multiply a talk's `seg` by `1 + PASSAGE_W · min(1, log1p(together)/log 4)`
+   where `together` counts passages matching every content term — the same
+   constants as the browser, so the two rankers agree by construction rather
+   than by the `ranking` suite's 4-of-10 threshold.
+
+4. **Passages do not overlap** (`build_index.py:161`, `PASSAGE_WORDS = 25`).
+   A phrase or a term pair that straddles a boundary matches neither passage,
+   so `"spec driven development"` and "said together" ranking silently miss a
+   share of hits that depends on where the cut fell. Emit passages at a
+   half-passage stride: roughly double the `segments` table (548k → ~1.1M rows,
+   185 → ~350 MiB for `talks.db`), unchanged `tindex/` if positions keep
+   counting the un-overlapped index. Measure before and after with the eight
+   `ranking` queries.
+
+5. **Estimated timings are not surfaced.** 44 InfoQ transcripts carry
+   `"timing": "estimated"`, and only the markdown says so; `query.py` and
+   `excerpt.py` print those stamps exactly like exact ones, so an answer will
+   cite "at 12:34" for a position interpolated from word count. Add a `timing`
+   column to `talks`, prefix estimated stamps with `~` in both renderers, and
+   put the field in `--json`.
+
+6. **Missing filters.** There is no `--transcript` filter, which the skill's
+   "quote only from transcripts" needs — the browser has one. `--conference`
+   and `--year` take one value; make them repeatable, and add `--min-year` as
+   the fetcher already has it.
+
+### D. Speakers — the field with a 4× weight is 63% empty
+
+*Measured:* 5,603 of 8,822 talks (pre-InfoQ count) had no speaker, and
+`speakers` is weighted 4.0 in `talks_fts` and 4 in the browser, so a query
+that names a person misses most of what that person said. Two fixes recover
+about a quarter of the gap from data already on disk:
+
+| Cause | Talks recoverable | Fix |
+|---|---|---|
+| Descriptions carry a **`𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀:`** heading in Unicode mathematical-bold letters, followed by a `* Name` bullet list — Microsoft Ignite 732, Build 172, AI Council 68, MLOps World 49 | **1,057** | `unicodedata.normalize("NFKC", desc)` before `DESC_SPEAKER_RE` (`sync_catalog.py:345`), and read the bullet lines that follow the heading, not only the same line |
+| Titles of the form `Topic — A & B, Company` or `A and B` — AI Engineer, GOTO, AI Council | **~440** | In `speakers_from_title` (`:377`), split a segment on `&`, `and`, `+` and accept the segment only if **every** part passes `name_like`; a comma still cuts to the part before it. Splitting without the every-part rule produced "Web Scraping" and "Hours of Speech" as speakers — measured, and why the rule is there |
+
+Conferences at 99% missing — Ignite, Build, re:Invent, Devoxx, QCon's YouTube
+side — are the first row plus the `by Name` pattern Devoxx uses in titles.
+After the change, re-run `sync_catalog.py` (offline) and check the
+`speakers` diff by conference before committing; a false positive puts a
+brand into the heaviest-weighted field of every one of its talks.
+
+### E. The browser diverges from the CLI
+
+- **No stemming.** `talks.db` tokenises with `porter unicode61`; the browser
+  index uses `atu.tokenize` as-is. "evaluate" does not find "evaluation" in
+  the browser, "agents" does not find "agent" unless the prefix rule fires,
+  and the prefix rule (`index.html:360`) fires only when the exact key is
+  absent and then takes an arbitrary first twelve keys of the shard. Build
+  `tindex/` from stemmed terms — a Porter implementation is ~120 lines in
+  either language, and there are audited ports of the same algorithm — and
+  stem the query in JS. The `ranking` suite is the regression test.
+- **Descriptions are searched on their first 300 characters only**
+  (`META_DESC_CHARS`, `build_index.py:122`), because the whole text ships in
+  `search-meta.json` and that file is at 91% of its 6 MiB trigger. Move the
+  description *terms* into the sharded index — same postings format, a
+  `metadata` flag on the posting — and keep only the display clip in
+  `search-meta.json`. That widens recall and shrinks the up-front payload at
+  once, and removes the trigger's reason to exist.
+- **No relaxation at all** (`index.html:420`): every term must appear
+  somewhere. A one-word typo is "Nothing matched". Drop the highest-DF term
+  and retry, as in C.2, and say so in the status line.
+- **The single-use term cut** (`build_index.py:378`) drops any term said once
+  in one talk. That is the size trade-off working as designed, but it makes a
+  name spoken once unfindable; if E.2 shrinks the payload, revisit.
+
+### F. The skill, after the tools have changed
+
+Edit `.claude/skills/ai-conference-talks/SKILL.md` last, once A.2, C.5 and C.6
+exist, so it describes tools that do what it says.
+
+- **Hard-coded counts go stale on every fetch** (`SKILL.md:37` says 2,942 of
+  8,822; it is 3,170 of 9,048 now). Add `query.py --stats` — talks,
+  transcripts, conferences, years, per-conference transcript coverage — and
+  tell the skill to run it instead of quoting numbers.
+- **Search with content terms, not the question.** Until C.1 and C.2 land,
+  "what do people say about X" is a worse query than "X"; say so, with the
+  example above. Even after, name the rule.
+- **Hyphenated terms must be quoted inside OR queries** until A.2 lands:
+  `"fine-tuning" OR rag`.
+- **The deep-link template is YouTube-only** (`SKILL.md:131`). Use the `url`
+  field from `--json`; InfoQ pages take no `&t=`; and once C.5 exists, cite a
+  `~` timestamp as approximate, never to the second.
+- **Say what `year` means**: the edition year, not the publish date — InfoQ
+  drips recordings for a year, and the browser's "newest" sort is by
+  `published_at`.
+- **Prefer quotable talks explicitly**: `matched` and `has_transcript` in
+  `--brief` are how; `--transcript` (C.6) is the filter.
+- **`-n` on `excerpt.py` is a budget of speech, not a count**, and a
+  multi-word `-q` falls back to OR inside a talk, so passages rank by the
+  rarest term — say both, so the model does not read `-n 3` as "three
+  quotes".
+- The fetch section is right on flags; add that `--limit` disables
+  `--retry-after`, and that the probe's false negative (A.5) exists until
+  fixed.
+
+### What the review confirmed clean, so nobody re-derives it
+
+`check_registry.py` passes; `test_excerpt.py`, `test_fetch_transcripts.py`,
+`test_infoq.py` pass; the `ranking` and `search` browser suites pass 48/48
+against the rebuilt DB. `sync_catalog.py` without `--refresh` was proven
+byte-idempotent on a copy, `generated_at` included, and the CSV round-trips
+with multi-line descriptions. The committed `search-meta.json` and every
+`tindex/` shard are byte-identical to a fresh build of the committed
+`talks.json`. `import_kb.py`, `refresh_report.py`, `segment_plain_text` and
+`year_in_text` had nothing to report. Every flag the README and the skill
+name exists.
+
 ## Next steps, in order
 
 1. ~~**Enable GitHub Pages** on the `gh-pages` branch.~~ **Done** — the site
@@ -961,6 +1279,10 @@ one thing it must never do is silently cost a full read.
    than it was: 503 of those videos are now below the corpus floor and no longer
    in `talks.json` at all, though enrichment still reads them from
    `data/catalog/`, which is what would let the floor move back down.
+7. **Work the 2026-09-02 review**, in its own order: the three workflow-breaking
+   bugs (A.1-A.3), then the `pages.yml` change (B) before the next push that
+   adds transcripts, then the InfoQ and fetcher fixes, then ranking, speakers
+   and the skill — see *Review of 2026-09-02*.
 
 ## Handoff — running a transcript extraction
 

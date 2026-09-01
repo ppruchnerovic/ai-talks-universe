@@ -119,22 +119,51 @@ def cap(terms: list[str]) -> list[str]:
     return terms
 
 
-def explicit_query(raw: str) -> str:
-    """De-duplicate and cap only where that provably cannot change the result.
+# What FTS5 accepts unquoted: letters, digits, underscore and anything
+# non-ASCII. Everything else in a bare term — the hyphen in `gpt-4`, the plus
+# in `c++`, the apostrophe in `don't` — is read as syntax, and the error it
+# produces ("no such column: 4") names a column nobody typed.
+BAREWORD_RE = re.compile(r"^[\w\u0080-\U0010ffff]+\*?$")
 
-    A flat chain joined by one operator is safe: AND and OR are idempotent, so
-    dropping a repeat is a no-op and truncating leaves a valid expression.
-    Anything with parentheses, NEAR, NOT or a mix of operators — where dropping
-    a term would change what the query asks — is passed through as typed.
+
+def quote_term(term: str) -> str:
+    """A bare term made safe for FTS5, with a trailing `*` kept outside.
+
+    `gpt-4*` becomes `"gpt-4"*`, which is the same prefix query written the way
+    FTS5 can parse it; a single token in quotes means what the bare token
+    means, so this never changes what a query asks — only whether it runs.
+    """
+    if term.startswith('"') or term in OPERATORS or term in ("(", ")", ",") \
+            or BAREWORD_RE.match(term):
+        return term
+    prefix = term.endswith("*")
+    body = term[:-1] if prefix else term
+    return '"' + body.replace('"', '""') + '"' + ("*" if prefix else "")
+
+
+def explicit_query(raw: str) -> str:
+    """Make a typed FTS5 query runnable; de-duplicate and cap where that is safe.
+
+    Every bare term that FTS5 would misread is quoted — see quote_term() — and
+    a stray comma, which is syntax only inside NEAR(), is dropped. Both are
+    meaning-preserving, so they apply to every query.
+
+    De-duplication and the cap apply only to a flat chain joined by one
+    operator: AND and OR are idempotent, so dropping a repeat is a no-op and
+    truncating leaves a valid expression. Anything with parentheses, NEAR, NOT
+    or a mix of operators — where dropping a term would change what the query
+    asks — is passed through with its terms quoted and nothing else touched.
     """
     if raw.count('"') % 2:  # unbalanced: let FTS5 report its own error
         return raw
-    items = SCAN_RE.findall(raw)
+    items = [quote_term(it) for it in SCAN_RE.findall(raw)]
+    if "NEAR" not in items:
+        items = [it for it in items if it != ","]
     if any(it in ("(", ")", ",", "NEAR") for it in items):
-        return raw
+        return " ".join(items)
     ops = {it for it in items if it in OPERATORS}
     if len(ops) > 1 or ops - {"AND", "OR"}:
-        return raw
+        return " ".join(items)
     terms = [it for it in items if it not in OPERATORS]
     if not terms:
         raise SystemExit("empty query")
@@ -474,14 +503,9 @@ def main() -> None:
                     help="print only the video ids, one per line — feeds excerpt.py")
     args = ap.parse_args()
 
-    if not atu.TALKS_DB.exists():
-        # The index is derived and not committed, so build it on first use.
-        print("building the search index (one-off)…", file=sys.stderr)
-        import build_index
-
-        build_index.main()
-
-    con = sqlite3.connect(f"file:{atu.TALKS_DB}?mode=ro", uri=True)
+    # The index is derived and not committed: built on first use, and rebuilt
+    # when the schema or the corpus has moved on — see atu.db_stale().
+    con = atu.connect()
 
     if args.list_conferences or args.list_categories:
         print_facet(con, "conference" if args.list_conferences else "category")

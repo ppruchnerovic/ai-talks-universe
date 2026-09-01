@@ -90,27 +90,47 @@ def die(msg: str) -> int:
     return 1
 
 
-def connect() -> sqlite3.Connection:
-    if not atu.TALKS_DB.exists():
-        print("building the search index (one-off)…", file=sys.stderr)
-        import build_index
-
-        build_index.main()
-    return sqlite3.connect(f"file:{atu.TALKS_DB}?mode=ro", uri=True)
-
-
 COLS = ("n id title speakers conference conference_name category edition year "
         "duration_min url youtube_url page_url description has_transcript "
         "transcript_words").split()
 
 
+def ids_in_filename(name: str) -> list[str]:
+    """The ids a talks/<conf>/<id>-<slug>.md file name could be carrying.
+
+    The id is everything before the slug, and the slug is joined on with a
+    hyphen — the same character one YouTube id in six contains and one in
+    thirty starts with (`O72p-rBb2bA`, `-stDHMwbBRw`), and the one an InfoQ
+    id is made of (`iq-qcon-london-2026-…`). Cutting at the first hyphen was
+    wrong for all three. A YouTube id is exactly the first eleven characters;
+    anything else is tried as every hyphen-delimited prefix, longest first, so
+    the InfoQ slug wins over the shorter prefixes it contains.
+    """
+    if name.endswith(".md"):
+        name = name[:-3]
+    out = []
+    if atu.is_youtube_id(name[:11]):
+        out.append(name[:11])
+    parts = name.split("-")
+    for i in range(len(parts), 0, -1):
+        cand = "-".join(parts[:i])
+        if cand and cand not in out:
+            out.append(cand)
+    return out
+
+
 def find_talk(con, ident: str) -> dict | None:
     """Accept a video id, a YouTube URL, or the id embedded in a markdown path."""
     vid = atu.video_id(ident) or ident.strip()
-    if "/" in vid:  # talks/<conf>/<id>-<slug>.md
-        vid = vid.rsplit("/", 1)[1].split("-")[0]
-    row = con.execute(f"SELECT {','.join(COLS)} FROM talks WHERE id=?", (vid,)).fetchone()
-    return dict(zip(COLS, row)) if row else None
+    candidates = [vid]
+    if "/" in vid or vid.endswith(".md"):  # talks/<conf>/<id>-<slug>.md
+        candidates = ids_in_filename(vid.rsplit("/", 1)[-1])
+    sql = f"SELECT {','.join(COLS)} FROM talks WHERE id=?"
+    for cand in candidates:
+        row = con.execute(sql, (cand,)).fetchone()
+        if row:
+            return dict(zip(COLS, row))
+    return None
 
 
 def spans_for(starts: list[float], window: float, limit: int) -> list[tuple[float, float]]:
@@ -275,7 +295,7 @@ def main() -> int:
     if not args.ids:
         ap.error("at least one video id is required")
 
-    con = connect()
+    con = atu.connect()
     out, missing = [], []
     for ident in args.ids:
         talk = find_talk(con, ident)

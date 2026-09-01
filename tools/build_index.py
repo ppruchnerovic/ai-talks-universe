@@ -260,6 +260,9 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
                         (seg_rowid, n, s["start"], s["text"]))
 
     con.execute("INSERT INTO segments_fts(segments_fts) VALUES('rebuild')")
+    # Stamped last, so a build that died half-way leaves a file atu.db_stale()
+    # reports as v0 rather than one that looks finished.
+    con.execute(f"PRAGMA user_version = {atu.DB_SCHEMA_VERSION}")
     con.commit()
     con.execute("VACUUM")
     con.close()
