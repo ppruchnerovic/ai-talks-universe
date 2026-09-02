@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Asha Sharma"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-20T13:39:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI Foundry unlocking the AI revolution | BRK103
 
-**Speaker not identified**
+**Asha Sharma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

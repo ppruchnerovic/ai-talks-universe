@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Amir Netz", "Eren Orbey"]
 channel: "Microsoft Developer"
 duration_min: 38
 published_at: 2026-06-03T13:13:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Powering the next AI frontier with a unified data platform | OD811
 
-**Speaker not identified**
+**Amir Netz, Eren Orbey**
 
 `Microsoft Build` · `Build 2026` · `2026` · `38 min`
 

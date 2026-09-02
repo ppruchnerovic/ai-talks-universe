@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Facundo Santiago", "Nagkumar Arkalgud"]
 channel: "Microsoft Developer"
 duration_min: 16
 published_at: 2026-06-03T11:23:09Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How Foundry integrates with open-source frameworks and tools | DEM333
 
-**Speaker not identified**
+**Facundo Santiago, Nagkumar Arkalgud**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

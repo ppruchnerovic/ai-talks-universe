@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Craig Birch"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T15:05:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Active directory disaster recovery: What works what fails | ODSP1472
 
-**Speaker not identified**
+**Craig Birch**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Pablo Castro"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:05:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI Search: RAG for better results larger scale faster answers | BRK105
 
-**Speaker not identified**
+**Pablo Castro**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

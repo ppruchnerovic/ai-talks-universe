@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Gentiana Canga", "Paolo Fasano"]
 channel: "The Linux Foundation"
 duration_min: 22
 published_at: 2025-09-09T18:27:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Agents for Multiprovider Cloud Edge Continuum - Gentiana Canga & Paolo Fasano, Adeptic Reply
 
-**Speaker not identified**
+**Gentiana Canga, Paolo Fasano**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `22 min`
 

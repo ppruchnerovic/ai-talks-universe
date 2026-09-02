@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Eleanor Cohen", "Cosmos Darwin", "Jason Tayler"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-26T08:36:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Operate infrastructure across distributed locations with Azure Arc | BRK214
 
-**Speaker not identified**
+**Eleanor Cohen, Cosmos Darwin, Jason Tayler**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

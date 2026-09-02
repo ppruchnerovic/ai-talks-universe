@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lindsay Kubasik", "Sean Lyndersay"]
 channel: "Microsoft Events"
 duration_min: 28
 published_at: 2025-11-20T07:23:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Edge for Business: reimagined with AI security at the core | BRK336
 
-**Speaker not identified**
+**Lindsay Kubasik, Sean Lyndersay**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `28 min`
 

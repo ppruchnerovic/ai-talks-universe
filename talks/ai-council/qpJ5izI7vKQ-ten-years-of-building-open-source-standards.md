@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Julien Le Dem"]
 channel: "AI Council"
 duration_min: 38
 published_at: 2024-04-19T05:00:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ten Years of Building Open Source Standards
 
-**Speaker not identified**
+**Julien Le Dem**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `38 min`
 

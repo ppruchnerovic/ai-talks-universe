@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Andrei Mihai", "Bianca Bulbuc"]
 channel: "Devoxx"
 duration_min: 24
 published_at: 2026-05-13T03:37:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # [VDBUH2026] Andrei Mihai & Bianca Bulbuc - How Agentic AI Empowers Creative Thinking
 
-**Speaker not identified**
+**Andrei Mihai, Bianca Bulbuc**
 
 `Devoxx` · `Devoxx` · `2026` · `24 min`
 

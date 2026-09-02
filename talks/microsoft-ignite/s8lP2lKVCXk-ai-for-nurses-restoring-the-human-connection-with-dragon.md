@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Darren Batara", "Umesh Rustogi"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-20T11:18:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI for nurses: Restoring the human connection with Dragon Copilot | BRK371
 
-**Speaker not identified**
+**Darren Batara, Umesh Rustogi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Cable", "Cassidy Fein", "Nevine Geissa"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-26T00:47:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The future of managing updates on Windows | BRK1741
 
-**Speaker not identified**
+**John Cable, Cassidy Fein, Nevine Geissa**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

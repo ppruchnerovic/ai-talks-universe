@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Scott Orrange", "Mike Tolsma"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T15:01:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Maximize your Microsoft practice to stay ahead of cloud competition | BRKFP374
 
-**Speaker not identified**
+**Scott Orrange, Mike Tolsma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

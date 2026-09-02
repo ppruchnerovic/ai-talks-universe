@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Chintan Agrawal"]
 channel: "AI Engineer"
 duration_min: 33
 published_at: 2026-07-20T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Designing Voice Agents for Real Conversations - Chintan Agrawal & Daniel Wirjo, AWS
 
-**Speaker not identified**
+**Chintan Agrawal**
 
 `AI Engineer` · `AI Engineer` · `2026` · `33 min`
 

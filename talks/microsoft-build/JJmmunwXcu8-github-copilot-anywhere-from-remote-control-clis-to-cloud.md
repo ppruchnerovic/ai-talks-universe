@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ellie Bennett", "Denizhan Yigitbas"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-04T12:10:58Z
@@ -20,7 +20,7 @@ transcript: true
 
 # GitHub Copilot Anywhere: From Remote Control CLIs to Cloud Sandboxes | DEM305
 
-**Speaker not identified**
+**Ellie Bennett, Denizhan Yigitbas**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jared Rhodes"]
 channel: "Microsoft Developer"
 duration_min: 25
 published_at: 2026-06-04T13:39:33Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Beyond REST: .NET Apps That Talk to Hardware | DEM365
 
-**Speaker not identified**
+**Jared Rhodes**
 
 `Microsoft Build` · `Build 2026` · `2026` · `25 min`
 

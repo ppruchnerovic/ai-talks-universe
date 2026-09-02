@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Patty Chow", "Khelan Modi", "Gurvinder Singh"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-20T17:12:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Move fast save more with MongoDB-compatible workloads on DocumentDB | BRK132
 
-**Speaker not identified**
+**Patty Chow, Khelan Modi, Gurvinder Singh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

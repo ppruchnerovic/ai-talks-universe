@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Deepraj Khot"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-19T14:53:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reimagining IT operations with agentic AI with TCS on Microsoft Azure | ODSP1501
 
-**Speaker not identified**
+**Deepraj Khot**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

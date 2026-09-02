@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Bryan Goode", "Dan Lewis", "Aghogho Biakolo", "Kendra Springer"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-24T12:54:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Agents at work: Shaping the future of business | BRK1708
 
-**Speaker not identified**
+**Bryan Goode, Dan Lewis, Aghogho Biakolo, Kendra Springer**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `49 min`
 

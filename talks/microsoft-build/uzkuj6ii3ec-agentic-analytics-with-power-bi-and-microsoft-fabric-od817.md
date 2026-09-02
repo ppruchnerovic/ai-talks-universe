@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Emily Lisa", "Sujata Narayana"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-03T13:30:09Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agentic analytics with Power BI and Microsoft Fabric | OD817
 
-**Speaker not identified**
+**Emily Lisa, Sujata Narayana**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stefanie Lemon", "Max Uritsky"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T08:12:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Powering modern cloud workloads with Azure Compute | BRK172
 
-**Speaker not identified**
+**Stefanie Lemon, Max Uritsky**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

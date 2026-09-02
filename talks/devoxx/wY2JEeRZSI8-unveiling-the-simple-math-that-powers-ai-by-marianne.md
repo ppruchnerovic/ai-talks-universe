@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Marianne Hoornenborg"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2025-10-09T05:36:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unveiling the simple math that powers AI by Marianne Hoornenborg
 
-**Speaker not identified**
+**Marianne Hoornenborg**
 
 `Devoxx` · `Devoxx` · `2025` · `48 min`
 

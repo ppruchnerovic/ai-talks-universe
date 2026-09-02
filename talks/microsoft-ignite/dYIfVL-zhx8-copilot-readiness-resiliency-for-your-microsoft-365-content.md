@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Reetu Kamath", "Sesha Mani", "David Minasyan"]
 channel: "Microsoft Events"
 duration_min: 52
 published_at: 2025-11-21T14:46:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Copilot readiness & resiliency for your Microsoft 365 content | BRK300
 
-**Speaker not identified**
+**Reetu Kamath, Sesha Mani, David Minasyan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `52 min`
 

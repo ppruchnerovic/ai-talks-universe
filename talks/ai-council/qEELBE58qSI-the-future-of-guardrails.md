@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Shreya Rajpal"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2025-05-29T07:21:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Future of Guardrails
 
-**Speaker not identified**
+**Shreya Rajpal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `31 min`
 

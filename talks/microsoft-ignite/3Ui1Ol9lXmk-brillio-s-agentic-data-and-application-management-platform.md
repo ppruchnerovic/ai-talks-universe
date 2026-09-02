@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Muthumari S"]
 channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-19T17:07:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Brillio's Agentic Data and Application Management Platform | ODSP1454
 
-**Speaker not identified**
+**Muthumari S**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `14 min`
 

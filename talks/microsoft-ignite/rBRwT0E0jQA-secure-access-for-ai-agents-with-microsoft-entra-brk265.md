@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alex Simons", "Sharon Sandhu", "Ehud Itshaki"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-21T12:13:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure access for AI agents with Microsoft Entra | BRK265
 
-**Speaker not identified**
+**Alex Simons, Sharon Sandhu, Ehud Itshaki**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

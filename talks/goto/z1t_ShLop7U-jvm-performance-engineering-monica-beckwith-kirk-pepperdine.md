@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Monica Beckwith", "Kirk Pepperdine"]
 channel: "GOTO Conferences"
 duration_min: 51
 published_at: 2025-01-17T10:27:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # JVM Performance Engineering • Monica Beckwith & Kirk Pepperdine
 
-**Speaker not identified**
+**Monica Beckwith, Kirk Pepperdine**
 
 `GOTO Conferences` · `GOTO` · `2025` · `51 min`
 

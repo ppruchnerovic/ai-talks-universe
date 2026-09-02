@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Diego V", "Annie Zhou"]
 channel: "Microsoft Events"
 duration_min: 25
 published_at: 2024-11-27T09:16:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transforming HPC workflows with AI assistant | BRK225
 
-**Speaker not identified**
+**Diego V, Annie Zhou**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `25 min`
 

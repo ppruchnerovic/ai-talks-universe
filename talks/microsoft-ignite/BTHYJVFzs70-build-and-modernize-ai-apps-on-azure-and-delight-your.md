@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Hulme", "Simran Sachar"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:37:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build and modernize AI apps on Azure and delight your customers | BRK157
 
-**Speaker not identified**
+**Mike Hulme, Simran Sachar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Parthasarathy Srinivasan", "Rajya Laxmi Yellajosyula"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T12:07:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build AI Apps with Oracle AI Database@Azure, MCP, and GitHub Copilot | DEMSP382
 
-**Speaker not identified**
+**Parthasarathy Srinivasan, Rajya Laxmi Yellajosyula**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

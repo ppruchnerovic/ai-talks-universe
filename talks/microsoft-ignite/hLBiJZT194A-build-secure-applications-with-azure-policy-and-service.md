@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jodi Boone", "Kemley Nieva"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T10:19:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build secure applications with Azure Policy and Service Groups | BRK169
 
-**Speaker not identified**
+**Jodi Boone, Kemley Nieva**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

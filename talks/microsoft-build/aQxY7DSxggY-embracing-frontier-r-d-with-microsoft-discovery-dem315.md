@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["John Link", "Viktor Veis"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-04T13:54:46Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Embracing frontier R&D with Microsoft Discovery | DEM315
 
-**Speaker not identified**
+**John Link, Viktor Veis**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mark Russinovich"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-24T14:16:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in Azure innovations? | STUDIO41
 
-**Speaker not identified**
+**Mark Russinovich**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

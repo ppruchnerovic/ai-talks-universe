@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sebastian Schroetel"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-24T14:12:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power autonomous IT with TeamViewer AI | STUDIOSP90
 
-**Speaker not identified**
+**Sebastian Schroetel**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

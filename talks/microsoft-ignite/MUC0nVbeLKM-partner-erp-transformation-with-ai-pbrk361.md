@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jim Bretschneider", "Jared Hall", "Niels Jensen", "Sameer Verma", "Ben Vollmer"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T13:44:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: ERP transformation with AI | PBRK361
 
-**Speaker not identified**
+**Jim Bretschneider, Jared Hall, Niels Jensen, Sameer Verma, Ben Vollmer**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

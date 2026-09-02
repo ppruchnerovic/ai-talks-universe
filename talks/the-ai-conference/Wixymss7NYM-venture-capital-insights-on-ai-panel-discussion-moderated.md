@@ -7,7 +7,7 @@ conference_name: "The AI Conference"
 category: "AI engineering & agents"
 edition: "The AI Conference"
 year: 2023
-speakers: []
+speakers: ["Ben Miller"]
 channel: "The AI Conference™"
 duration_min: 28
 published_at: 2023-10-31T16:51:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Venture Capital Insights on AI, Panel Discussion moderated by Ben Miller
 
-**Speaker not identified**
+**Ben Miller**
 
 `The AI Conference` · `The AI Conference` · `2023` · `28 min`
 

@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Jeff Fran", "Jack Pearce"]
 channel: "NDC Conferences"
 duration_min: 42
 published_at: 2026-03-09T10:49:29Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Stop Treating LLMs Like REST APIs - Jeff Fran & Jack Pearce - NDC London 2026
 
-**Speaker not identified**
+**Jeff Fran, Jack Pearce**
 
 `NDC Conferences` · `NDC` · `2026` · `42 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gaia Carini", "Arvind Mishra", "Rob Nunez", "Arwa Tyebkhan"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T12:59:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # OneDrive: Fueling AI productivity across Microsoft 365 | BRK1740
 
-**Speaker not identified**
+**Gaia Carini, Arvind Mishra, Rob Nunez, Arwa Tyebkhan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

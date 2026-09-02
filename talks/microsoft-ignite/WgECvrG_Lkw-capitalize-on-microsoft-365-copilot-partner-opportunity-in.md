@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ananthram Balakrishnan", "Danny Burlage", "Uriel Rootshtain", "Gloria Sanchez", "Ryan Toenies"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-21T10:15:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Capitalize on Microsoft 365 Copilot partner opportunity in Enterprise | BRK299
 
-**Speaker not identified**
+**Ananthram Balakrishnan, Danny Burlage, Uriel Rootshtain, Gloria Sanchez, Ryan Toenies**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

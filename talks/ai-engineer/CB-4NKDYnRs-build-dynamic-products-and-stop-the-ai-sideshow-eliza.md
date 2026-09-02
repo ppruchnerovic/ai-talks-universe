@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: ["Build Dynamic Products", "Eliza Cabrera"]
+speakers: ["Eliza Cabrera"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-07-23T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Dynamic Products, and Stop the AI Sideshow — Eliza Cabrera (Workday) + Jeremy Silva (Freeplay)
 
-**Build Dynamic Products, Eliza Cabrera**
+**Eliza Cabrera**
 
 `AI Engineer` · `AI Engineer` · `2025` · `18 min`
 

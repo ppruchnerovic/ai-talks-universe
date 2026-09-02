@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nuri Cankaya", "Brian Rogers", "Joe Sack", "Saurabh Tangri", "Jeff Woolsey"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:13:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerating real-world AI for today and tomorrow | BRKFP377
 
-**Speaker not identified**
+**Nuri Cankaya, Brian Rogers, Joe Sack, Saurabh Tangri, Jeff Woolsey**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

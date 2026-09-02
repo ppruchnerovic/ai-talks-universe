@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Meena Gowdar", "Mohamed Khalid", "Dean Paron"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-24T12:00:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in Azure Local | BRK147
 
-**Speaker not identified**
+**Meena Gowdar, Mohamed Khalid, Dean Paron**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `49 min`
 

@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Rod Johnson"]
 channel: null
 duration_min: 41
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Practical GenAI: Building a Chatbot Using Spring AI • Rod Johnson • YOW! 2024
 
-**Speaker not identified**
+**Rod Johnson**
 
 `GOTO Conferences` · `GOTO` · `2024` · `41 min`
 

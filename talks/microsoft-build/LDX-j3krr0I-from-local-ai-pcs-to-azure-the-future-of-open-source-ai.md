@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Adrian Macias"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-05T14:23:15Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From local AI PCs to Azure: The future of open-source AI development | LIVESP128
 
-**Speaker not identified**
+**Adrian Macias**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

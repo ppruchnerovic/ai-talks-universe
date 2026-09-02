@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
-speakers: []
+speakers: ["Xiaolin Lin", "Aaron Choo"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 31
 published_at: 2026-04-13T23:36:05Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scaling LLMs at Bloomberg Using Envoy AI Gateway: A Hybrid Cloud Approach - Xiaolin Lin & Aaron Choo
 
-**Speaker not identified**
+**Xiaolin Lin, Aaron Choo**
 
 `KubeCon + CloudNativeCon` · `Cloud Native AI + Kubeflow Day 2026` · `2026` · `31 min`
 

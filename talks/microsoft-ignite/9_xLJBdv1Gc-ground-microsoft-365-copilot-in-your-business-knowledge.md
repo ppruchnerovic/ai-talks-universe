@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Bassani", "Jenn Cockrell"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-25T13:06:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ground Microsoft 365 Copilot in your business knowledge | BRK275
 
-**Speaker not identified**
+**Mike Bassani, Jenn Cockrell**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

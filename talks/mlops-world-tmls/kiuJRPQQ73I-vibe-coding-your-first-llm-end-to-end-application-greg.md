@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: []
+speakers: ["Greg Loughnane", "Chris Alexiuk"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 122
 published_at: 2025-10-23T05:32:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Vibe Coding Your First LLM End-to-End Application | Greg Loughnane & Chris Alexiuk, AI Makerspace
 
-**Speaker not identified**
+**Greg Loughnane, Chris Alexiuk**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `122 min`
 

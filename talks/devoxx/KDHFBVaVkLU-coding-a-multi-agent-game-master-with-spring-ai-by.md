@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Alessandra Pasini", "Arnaud Jean"]
 channel: "Devoxx"
 duration_min: 43
 published_at: 2026-04-01T08:05:27Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Coding a Multi-Agent Game Master with Spring AI by Alessandra Pasini and Arnaud Jean
 
-**Speaker not identified**
+**Alessandra Pasini, Arnaud Jean**
 
 `Devoxx` · `Devoxx` · `2026` · `43 min`
 

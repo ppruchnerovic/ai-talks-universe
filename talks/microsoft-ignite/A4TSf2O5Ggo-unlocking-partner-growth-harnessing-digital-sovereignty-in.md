@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Chris Boar", "Alistair Speirs"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T13:47:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlocking Partner Growth: Harnessing Digital Sovereignty in Europe | PBRK154
 
-**Speaker not identified**
+**Chris Boar, Alistair Speirs**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

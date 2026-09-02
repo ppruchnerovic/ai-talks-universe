@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mark Albrecht", "Nathaniel Ceres", "Ryan Culligan", "Naga Surendran"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-26T07:24:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Choose the right AI app use case for your business | BRK154
 
-**Speaker not identified**
+**Mark Albrecht, Nathaniel Ceres, Ryan Culligan, Naga Surendran**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

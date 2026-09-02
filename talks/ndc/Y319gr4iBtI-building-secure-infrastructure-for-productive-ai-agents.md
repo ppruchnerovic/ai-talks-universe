@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Eric Paulsen", "Jiachen Jiang"]
 channel: "NDC Conferences"
 duration_min: 63
 published_at: 2026-03-03T10:14:41Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Secure Infrastructure for Productive AI Agents - Eric Paulsen & Jiachen Jiang
 
-**Speaker not identified**
+**Eric Paulsen, Jiachen Jiang**
 
 `NDC Conferences` · `NDC` · `2026` · `63 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Amir Netz", "Arun Ulagaratchagan"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-12-03T23:26:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Fabric: what's new and what's next | BRK204
 
-**Speaker not identified**
+**Amir Netz, Arun Ulagaratchagan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

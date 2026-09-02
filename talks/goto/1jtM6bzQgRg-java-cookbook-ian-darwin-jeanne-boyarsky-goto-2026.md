@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: ["Java Cookbook"]
+speakers: ["Java Cookbook", "Ian Darwin", "Jeanne Boyarsky"]
 channel: "GOTO Conferences"
 duration_min: 24
 published_at: 2026-04-16T12:00:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Java Cookbook • Ian Darwin & Jeanne Boyarsky • GOTO 2026
 
-**Java Cookbook**
+**Java Cookbook, Ian Darwin, Jeanne Boyarsky**
 
 `GOTO Conferences` · `GOTO` · `2026` · `24 min`
 

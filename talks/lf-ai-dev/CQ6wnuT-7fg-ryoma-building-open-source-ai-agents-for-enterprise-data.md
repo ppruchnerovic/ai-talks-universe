@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Hao Xu", "Fang Feng"]
 channel: "The Linux Foundation"
 duration_min: 30
 published_at: 2025-09-09T18:27:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ryoma: Building Open Source AI Agents for Enterprise Data Analysis - Hao Xu & Fang Feng
 
-**Speaker not identified**
+**Hao Xu, Fang Feng**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `30 min`
 

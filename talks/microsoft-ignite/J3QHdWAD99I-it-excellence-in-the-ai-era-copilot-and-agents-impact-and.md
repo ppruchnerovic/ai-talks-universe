@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ronil Dhruva", "Shilpi Sinha"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T16:19:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # IT Excellence in the AI era: Copilot and agents, impact and control | BRK294
 
-**Speaker not identified**
+**Ronil Dhruva, Shilpi Sinha**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

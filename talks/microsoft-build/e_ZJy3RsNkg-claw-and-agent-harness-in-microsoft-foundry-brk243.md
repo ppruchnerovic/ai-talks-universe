@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Shawn Henry", "Amanda Foster", "Glenn Condron"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-04T12:53:10Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Claw and agent harness in Microsoft Foundry | BRK243
 
-**Speaker not identified**
+**Shawn Henry, Amanda Foster, Glenn Condron**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

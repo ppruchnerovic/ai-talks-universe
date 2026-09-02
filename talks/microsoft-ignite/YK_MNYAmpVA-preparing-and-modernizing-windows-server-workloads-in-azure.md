@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dan Cuomo", "Jeff Woolsey"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T10:43:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Preparing and modernizing Windows Server workloads in Azure | BRK142
 
-**Speaker not identified**
+**Dan Cuomo, Jeff Woolsey**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

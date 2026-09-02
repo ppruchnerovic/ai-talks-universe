@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Prashant G Bhoyar"]
 channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-04T13:20:33Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Data Science & Machine Learning with Microsoft Fabric | DEM368
 
-**Speaker not identified**
+**Prashant G Bhoyar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `21 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ethan Brown"]
 channel: "AI Council"
 duration_min: 33
 published_at: 2025-05-29T07:38:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building an LLM powered Analytics Slack Bot @ Twitch
 
-**Speaker not identified**
+**Ethan Brown**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `33 min`
 

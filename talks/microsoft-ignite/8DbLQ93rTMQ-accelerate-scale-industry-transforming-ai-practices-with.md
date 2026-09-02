@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Stephen Boyle", "Erica Volini"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-27T13:13:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate & Scale Industry transforming AI Practices with Microsoft | BRK341
 
-**Speaker not identified**
+**Stephen Boyle, Erica Volini**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

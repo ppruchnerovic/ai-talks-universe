@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jeremiah Follis"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-03T13:55:56Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Enable agents for enterprises using Agent 365 SDK | OD840
 
-**Speaker not identified**
+**Jeremiah Follis**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

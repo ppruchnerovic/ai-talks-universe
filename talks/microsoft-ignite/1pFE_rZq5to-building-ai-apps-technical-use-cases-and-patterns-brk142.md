@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dan Gartner", "Devanshi Joshi", "Amanda Whaley"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-21T09:57:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building AI apps: Technical use cases and patterns | BRK142
 
-**Speaker not identified**
+**Dan Gartner, Devanshi Joshi, Amanda Whaley**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

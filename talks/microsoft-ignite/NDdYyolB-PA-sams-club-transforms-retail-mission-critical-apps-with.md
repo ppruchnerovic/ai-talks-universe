@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gautam Chandra", "Justine Cocchi"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T12:15:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Sam’s Club transforms retail mission-critical apps with Azure | BRK155
 
-**Speaker not identified**
+**Gautam Chandra, Justine Cocchi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Michael Chow"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T15:53:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Democratizing agent building in Microsoft 365 Copilot | BRK316
 
-**Speaker not identified**
+**Michael Chow**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

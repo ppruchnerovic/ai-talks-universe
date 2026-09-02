@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Adrian Macias"]
 channel: "Microsoft Developer"
 duration_min: 27
 published_at: 2026-06-04T12:47:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Develop faster on Windows with AI playbooks and local agents | DEMSP386
 
-**Speaker not identified**
+**Adrian Macias**
 
 `Microsoft Build` · `Build 2026` · `2026` · `27 min`
 

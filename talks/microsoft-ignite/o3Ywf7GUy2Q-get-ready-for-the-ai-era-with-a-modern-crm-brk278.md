@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nitasha Chopra", "Marty Priest"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-27T12:06:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Get ready for the AI era with a modern CRM | BRK278
 
-**Speaker not identified**
+**Nitasha Chopra, Marty Priest**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jonathan Jin"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2025-05-29T13:30:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trimming the Long Tail of Production Model Ownership at Hinge
 
-**Speaker not identified**
+**Jonathan Jin**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `29 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Yevgeny Pats"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2024-04-19T05:00:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Open-Source High-Performance Cross-Language ELT Framework Powered by Apache Arrow
 
-**Speaker not identified**
+**Yevgeny Pats**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `23 min`
 

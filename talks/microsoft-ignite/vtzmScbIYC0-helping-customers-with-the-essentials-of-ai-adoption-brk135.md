@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Cyril Belikoff", "David Seda"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2024-11-25T12:30:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Helping customers with the essentials of AI adoption | BRK135
 
-**Speaker not identified**
+**Cyril Belikoff, David Seda**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `32 min`
 

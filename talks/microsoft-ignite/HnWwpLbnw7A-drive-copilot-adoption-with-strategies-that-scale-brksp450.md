@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Scott Fox"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T10:48:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive Copilot adoption with strategies that scale | BRKSP450
 
-**Speaker not identified**
+**Scott Fox**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

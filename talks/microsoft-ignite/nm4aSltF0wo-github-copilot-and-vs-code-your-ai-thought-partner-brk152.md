@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Damian Brady", "Brigit Murtaugh"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-26T07:22:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # GitHub Copilot and VS Code: Your AI thought partner | BRK152
 
-**Speaker not identified**
+**Damian Brady, Brigit Murtaugh**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

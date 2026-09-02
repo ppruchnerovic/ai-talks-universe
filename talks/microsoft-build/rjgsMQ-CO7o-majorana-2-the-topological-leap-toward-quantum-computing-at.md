@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Roman Lutchyn"]
 channel: "Microsoft Developer"
 duration_min: 15
 published_at: 2026-06-04T12:44:30Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Majorana 2: The Topological Leap Toward Quantum Computing at Scale | DEM314
 
-**Speaker not identified**
+**Roman Lutchyn**
 
 `Microsoft Build` · `Build 2026` · `2026` · `15 min`
 

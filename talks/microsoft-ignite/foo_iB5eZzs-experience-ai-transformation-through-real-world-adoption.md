@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Betsy Pridmore"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-21T12:06:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Experience AI transformation through real-world adoption and insights | BRKSP481
 
-**Speaker not identified**
+**Betsy Pridmore**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

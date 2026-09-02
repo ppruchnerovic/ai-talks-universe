@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Alex Shershebnev"]
 channel: null
 duration_min: 40
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # [VDBUH2025] Alex Shershebnev - AI Coding Agents and how to code them
 
-**Speaker not identified**
+**Alex Shershebnev**
 
 `Devoxx` · `Devoxx` · `2025` · `40 min`
 

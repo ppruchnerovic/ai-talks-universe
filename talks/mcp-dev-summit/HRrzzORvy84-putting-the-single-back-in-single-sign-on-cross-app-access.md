@@ -7,7 +7,7 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Paul Carleton", "Max Gerber"]
 channel: "Agentic AI Foundation"
 duration_min: 28
 published_at: 2026-04-13T23:16:15Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Putting the Single Back in Single Sign-On: Cross-App Access for MCP - Paul Carleton & Max Gerber
 
-**Speaker not identified**
+**Paul Carleton, Max Gerber**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `28 min`
 

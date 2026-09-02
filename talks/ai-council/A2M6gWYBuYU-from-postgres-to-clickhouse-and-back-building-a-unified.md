@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2026
-speakers: ["Managed Postgres"]
+speakers: []
 channel: "AI Council"
 duration_min: 15
 published_at: 2026-06-16T18:45:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From Postgres to ClickHouse and Back: Building a Unified OLTP + OLAP Database for AI Workloads
 
-**Managed Postgres**
+**Speaker not identified**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `15 min`
 

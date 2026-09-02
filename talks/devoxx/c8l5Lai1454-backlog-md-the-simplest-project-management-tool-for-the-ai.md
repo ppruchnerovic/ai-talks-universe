@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Alex Gavrilescu"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2026-02-27T13:52:48Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Backlog.md: The simplest project management tool for the AI Era by Alex Gavrilescu
 
-**Speaker not identified**
+**Alex Gavrilescu**
 
 `Devoxx` · `Devoxx` · `2026` · `42 min`
 

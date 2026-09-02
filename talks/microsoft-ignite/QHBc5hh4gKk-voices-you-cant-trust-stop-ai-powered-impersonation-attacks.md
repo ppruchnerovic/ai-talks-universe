@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jeremy Nelson"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T10:53:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Voices you can’t trust: Stop AI-powered impersonation attacks | BRKSP487
 
-**Speaker not identified**
+**Jeremy Nelson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

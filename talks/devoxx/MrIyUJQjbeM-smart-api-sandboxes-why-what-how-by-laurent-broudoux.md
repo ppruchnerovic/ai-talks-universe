@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Laurent Broudoux"]
 channel: "Devoxx"
 duration_min: 31
 published_at: 2025-10-07T05:13:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Smart API sandboxes: why? what? how? by Laurent Broudoux
 
-**Speaker not identified**
+**Laurent Broudoux**
 
 `Devoxx` · `Devoxx` · `2025` · `31 min`
 

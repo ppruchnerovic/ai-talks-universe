@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Alice Bartlett"]
 channel: null
 duration_min: 47
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Tech Leadership Challenges: Communication & AI at FT • Alice Bartlett & Charles Humble • GOTO 2025
 
-**Speaker not identified**
+**Alice Bartlett**
 
 `GOTO Conferences` · `GOTO` · `2025` · `47 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Nikola Metulev", "Lei Xu"]
 channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-03T12:17:53Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From prompt to app, build AI powered apps on Windows | DEM345
 
-**Speaker not identified**
+**Nikola Metulev, Lei Xu**
 
 `Microsoft Build` · `Build 2026` · `2026` · `22 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lindsey Allen", "Robert Saxby"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-26T08:32:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Supercharge your lakehouse with Azure Databricks and Microsoft Fabric | BRK203
 
-**Speaker not identified**
+**Lindsey Allen, Robert Saxby**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

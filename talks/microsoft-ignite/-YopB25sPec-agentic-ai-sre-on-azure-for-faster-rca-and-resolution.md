@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["François Martel"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2025-11-19T15:13:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agentic AI SRE on Azure for faster RCA and resolution | ODSP1410
 
-**Speaker not identified**
+**François Martel**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `15 min`
 

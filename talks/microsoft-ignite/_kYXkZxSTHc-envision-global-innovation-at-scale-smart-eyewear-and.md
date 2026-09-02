@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Luna", "Alfredo Patron"]
 channel: "Microsoft Events"
 duration_min: 31
 published_at: 2025-11-24T12:47:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Envision global innovation at scale: Smart eyewear and connected retail | BRKSP491
 
-**Speaker not identified**
+**John Luna, Alfredo Patron**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `31 min`
 

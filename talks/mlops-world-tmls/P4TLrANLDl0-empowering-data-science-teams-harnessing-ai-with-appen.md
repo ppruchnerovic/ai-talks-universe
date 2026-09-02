@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
-speakers: ["Account Executive"]
+speakers: []
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 30
 published_at: 2024-05-16T14:19:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering Data Science Teams: Harnessing AI with Appen
 
-**Account Executive**
+**Speaker not identified**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2024` · `30 min`
 

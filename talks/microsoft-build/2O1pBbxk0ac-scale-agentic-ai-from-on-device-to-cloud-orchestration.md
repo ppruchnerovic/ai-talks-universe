@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Karthik Vijayan", "Colin Helms"]
 channel: "Microsoft Developer"
 duration_min: 29
 published_at: 2026-06-04T12:40:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scale agentic AI from on-device to cloud orchestration | BRKSP92
 
-**Speaker not identified**
+**Karthik Vijayan, Colin Helms**
 
 `Microsoft Build` · `Build 2026` · `2026` · `29 min`
 

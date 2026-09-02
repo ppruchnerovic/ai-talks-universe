@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Eugenie Burrage", "Jason Roszak"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-12-03T23:29:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Simpler smarter and more secure endpoint management with Intune | BRK319
 
-**Speaker not identified**
+**Eugenie Burrage, Jason Roszak**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

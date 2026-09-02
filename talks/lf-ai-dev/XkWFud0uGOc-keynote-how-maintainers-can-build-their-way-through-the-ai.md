@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
-speakers: []
+speakers: ["Madelyn Olson", "Jacob Murphy"]
 channel: "The Linux Foundation"
 duration_min: 12
 published_at: 2026-06-03T18:16:03Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Keynote: How Maintainers Can Build Their Way Through the AI Flood - Madelyn Olson & Jacob Murphy
 
-**Speaker not identified**
+**Madelyn Olson, Jacob Murphy**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit + ELC NA 2026` · `2026` · `12 min`
 

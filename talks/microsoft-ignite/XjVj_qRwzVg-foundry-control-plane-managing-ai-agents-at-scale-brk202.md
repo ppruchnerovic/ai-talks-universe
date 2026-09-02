@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mehrnoosh Sameki", "Peter Simones", "Jaspreet Singh"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T06:39:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Foundry Control Plane: Managing AI agents at scale | BRK202
 
-**Speaker not identified**
+**Mehrnoosh Sameki, Peter Simones, Jaspreet Singh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

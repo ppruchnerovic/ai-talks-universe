@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Hailey Henry", "Laxmi Korada"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-21T10:34:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Redefine partner profitability in an AI era | BRKSP453
 
-**Speaker not identified**
+**Hailey Henry, Laxmi Korada**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `33 min`
 

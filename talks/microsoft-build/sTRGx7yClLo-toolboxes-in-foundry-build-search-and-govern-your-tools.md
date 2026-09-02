@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Atul Aggarwal", "Seth Juarez", "Zhuoqun Li"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-05T15:22:46Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Toolboxes in Foundry: Build, Search and Govern Your Tools | LIVE163
 
-**Speaker not identified**
+**Atul Aggarwal, Seth Juarez, Zhuoqun Li**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

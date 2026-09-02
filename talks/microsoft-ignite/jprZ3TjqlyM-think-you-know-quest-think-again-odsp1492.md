@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Randy Rouse"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2025-11-19T14:35:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Think you know Quest? Think again. | ODSP1492
 
-**Speaker not identified**
+**Randy Rouse**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `23 min`
 

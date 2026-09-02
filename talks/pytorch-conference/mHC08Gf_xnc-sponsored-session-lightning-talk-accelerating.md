@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Niall Lyons", "Luca Antiga"]
 channel: "PyTorch"
 duration_min: 11
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Sponsored Session: Lightning Talk: Accelerating Experimentation... - Niall Lyons & Luca Antiga
 
-**Speaker not identified**
+**Niall Lyons, Luca Antiga**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `11 min`
 

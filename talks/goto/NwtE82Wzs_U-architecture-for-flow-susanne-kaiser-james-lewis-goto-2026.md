@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Susanne Kaiser", "James Lewis"]
 channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-02-05T13:00:45Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Architecture for Flow • Susanne Kaiser & James Lewis • GOTO 2026
 
-**Speaker not identified**
+**Susanne Kaiser, James Lewis**
 
 `GOTO Conferences` · `GOTO` · `2026` · `30 min`
 

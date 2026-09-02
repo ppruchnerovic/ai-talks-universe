@@ -7,7 +7,7 @@ conference_name: "WeAreDevelopers World Congress"
 category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
-speakers: []
+speakers: ["Daniel Siegl", "David Payr"]
 channel: "WeAreDevelopers"
 duration_min: 65
 published_at: 2026-06-05T09:26:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The weekly developer show: Agents, Version Control and Bunnies - Daniel Siegl and David Payr
 
-**Speaker not identified**
+**Daniel Siegl, David Payr**
 
 `WeAreDevelopers World Congress` · `WeAreDevelopers` · `2026` · `65 min`
 

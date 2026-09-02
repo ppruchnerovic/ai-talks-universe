@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Timothy Chan"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2025-05-29T13:45:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlocking A/B Testing for B2B
 
-**Speaker not identified**
+**Timothy Chan**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `31 min`
 

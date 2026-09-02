@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Staff Applied Scientist"]
+speakers: []
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 25
 published_at: 2025-10-24T22:59:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A Practical Framework for Reliability and Performance | Irena Grabovitch-Zuyev, PagerDuty
 
-**Staff Applied Scientist**
+**Speaker not identified**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `25 min`
 

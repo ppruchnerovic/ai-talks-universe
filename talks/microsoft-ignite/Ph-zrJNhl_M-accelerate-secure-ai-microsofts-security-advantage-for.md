@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Steve Dispensa", "Ann Choi"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T13:33:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate Secure AI: Microsoft’s Security Advantage for Partners | PBRK272
 
-**Speaker not identified**
+**Steve Dispensa, Ann Choi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

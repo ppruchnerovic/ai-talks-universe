@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kyle Aruda"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T14:18:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Harness AI innovation to power a collaborative journey | ODFP977
 
-**Speaker not identified**
+**Kyle Aruda**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

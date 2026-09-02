@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Adam Bien"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2024-10-11T05:09:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Best of Java Shorts Show: 100 Snippets in 50 Minutes by Adam Bien
 
-**Speaker not identified**
+**Adam Bien**
 
 `Devoxx` · `Devoxx` · `2024` · `51 min`
 

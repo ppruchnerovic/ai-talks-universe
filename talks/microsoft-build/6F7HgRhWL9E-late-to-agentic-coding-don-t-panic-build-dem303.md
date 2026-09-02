@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Cassidy Williams", "Martin Woodward"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-03T15:10:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Late to agentic coding? Don't panic, build. | DEM303
 
-**Speaker not identified**
+**Cassidy Williams, Martin Woodward**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

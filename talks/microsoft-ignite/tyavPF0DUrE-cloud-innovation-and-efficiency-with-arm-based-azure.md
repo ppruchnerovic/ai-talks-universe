@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sameer Nori"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2025-11-19T15:00:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Cloud innovation and efficiency with Arm-based Azure Cobalt100 VMs | ODSP1431
 
-**Speaker not identified**
+**Sameer Nori**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `17 min`
 

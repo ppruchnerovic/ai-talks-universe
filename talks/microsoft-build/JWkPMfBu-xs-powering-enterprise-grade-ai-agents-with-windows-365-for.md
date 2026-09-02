@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Joydeep Mukherjee", "Sam Shapiro"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-03T12:14:08Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Powering enterprise-grade AI agents with Windows 365 for Agents | OD852
 
-**Speaker not identified**
+**Joydeep Mukherjee, Sam Shapiro**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["George Fraser"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T00:20:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Look Ma, No Data Warehouse!
 
-**Speaker not identified**
+**George Fraser**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Freddy Chiu", "Vasanth Tovinkere"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-05T05:58:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Profile and optimize agentic AI on Windows | DEMSP384
 
-**Speaker not identified**
+**Freddy Chiu, Vasanth Tovinkere**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

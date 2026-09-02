@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Abelt", "Nikhil Krishnan"]
 channel: "Microsoft Events"
 duration_min: 31
 published_at: 2025-11-24T11:51:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Capture value at scale through agentic workflows with C3 AI | BRKSP479
 
-**Speaker not identified**
+**John Abelt, Nikhil Krishnan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `31 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nick Baguley", "Tom Davis", "Zion Zatlavi", "Sharon Zhang"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T11:45:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Beyond Models: What No One's Telling you about Scaling Agents | BRK411
 
-**Speaker not identified**
+**Nick Baguley, Tom Davis, Zion Zatlavi, Sharon Zhang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

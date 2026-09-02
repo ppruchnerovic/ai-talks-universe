@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Peter Steinberger"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-04T12:32:47Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build the thing that builds the thing | BRK245
 
-**Speaker not identified**
+**Peter Steinberger**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Naohiro Fukatani", "Heather Gordon", "Herain Oberoi"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-26T10:13:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering Partners to Navigate the New Security Landscape | PBRK273
 
-**Speaker not identified**
+**Naohiro Fukatani, Heather Gordon, Herain Oberoi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

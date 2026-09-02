@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Heidi Shey", "Principal Analyst"]
+speakers: ["Heidi Shey"]
 channel: "RSAC Cybersecurity"
 duration_min: 51
 published_at: 2024-06-10T21:16:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Use Generative AI to End Your Love/Hate Relationship with DLP
 
-**Heidi Shey, Principal Analyst**
+**Heidi Shey**
 
 `RSAC Conference` · `RSAC` · `2024` · `51 min`
 

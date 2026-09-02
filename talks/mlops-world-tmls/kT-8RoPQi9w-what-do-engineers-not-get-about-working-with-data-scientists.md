@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Azin Asgarian", "Georgian Scientist"]
+speakers: ["Azin Asgarian"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 29
 published_at: 2023-05-29T05:19:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What Do Engineers Not Get About Working with Data Scientists
 
-**Azin Asgarian, Georgian Scientist**
+**Azin Asgarian**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `29 min`
 

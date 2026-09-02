@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Fabrizio Romano", "Naomi Ceder"]
 channel: "GOTO Conferences"
 duration_min: 31
 published_at: 2025-12-26T13:23:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Learning Python Programming • Fabrizio Romano & Naomi Ceder
 
-**Speaker not identified**
+**Fabrizio Romano, Naomi Ceder**
 
 `GOTO Conferences` · `GOTO` · `2025` · `31 min`
 

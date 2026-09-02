@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Alexander Wachtel"]
 channel: "Microsoft Developer"
 duration_min: 28
 published_at: 2026-06-04T13:37:43Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building a Multi-Agent Workflow in Microsoft Fabric | DEM362
 
-**Speaker not identified**
+**Alexander Wachtel**
 
 `Microsoft Build` · `Build 2026` · `2026` · `28 min`
 

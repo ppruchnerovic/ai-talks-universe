@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Drew Nicholas", "Greg Schellenberg", "Oz Wilder"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-20T14:36:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure what matters with a unified cloud security strategy | BRK266
 
-**Speaker not identified**
+**Drew Nicholas, Greg Schellenberg, Oz Wilder**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

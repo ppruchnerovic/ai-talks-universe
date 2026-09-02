@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andrii Mykhailiuk", "Pepijn Richter", "Vishal Sarkar"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-21T15:25:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Elevate the retail experience with the Personalized Shopping Agent | BRK259
 
-**Speaker not identified**
+**Andrii Mykhailiuk, Pepijn Richter, Vishal Sarkar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

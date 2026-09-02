@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Bob Benoit", "Colin Corbin"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-20T11:21:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Silo Busting for Nonprofits: Unifying people processes and technology | BRK381
 
-**Speaker not identified**
+**Bob Benoit, Colin Corbin**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

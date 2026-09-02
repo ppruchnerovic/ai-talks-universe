@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gopal Shankar", "Anupam Vij"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-24T07:38:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build secure applications with Defender and Azure Network Security | BRK166
 
-**Speaker not identified**
+**Gopal Shankar, Anupam Vij**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `33 min`
 

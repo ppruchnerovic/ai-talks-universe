@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Andy Bailey"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2025-10-10T05:10:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Augmented Development, the successes, surprises and pitfalls by Andy Bailey
 
-**Speaker not identified**
+**Andy Bailey**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

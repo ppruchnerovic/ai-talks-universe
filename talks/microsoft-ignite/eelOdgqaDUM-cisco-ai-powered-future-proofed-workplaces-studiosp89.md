@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Tom Richards"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-21T12:42:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Cisco AI Powered Future-Proofed Workplaces | STUDIOSP89
 
-**Speaker not identified**
+**Tom Richards**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

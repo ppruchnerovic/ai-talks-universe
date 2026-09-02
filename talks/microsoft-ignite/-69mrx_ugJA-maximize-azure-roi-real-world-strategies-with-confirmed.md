@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joshua Corbett"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T14:58:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Maximize Azure ROI: Real-world strategies with confirmed reservations | ODSP1474
 
-**Speaker not identified**
+**Joshua Corbett**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

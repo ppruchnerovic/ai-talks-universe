@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lindsay Kubasik"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2024-11-21T10:39:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Edge for Business: safeguard against cyber threats and AI risks | OD852
 
-**Speaker not identified**
+**Lindsay Kubasik**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `12 min`
 

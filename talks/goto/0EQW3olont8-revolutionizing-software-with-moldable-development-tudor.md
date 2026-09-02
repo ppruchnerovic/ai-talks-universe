@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Tudor Girba", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 40
 published_at: 2025-04-25T09:53:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Revolutionizing Software with Moldable Development • Tudor Girba & Julian Wood
 
-**Speaker not identified**
+**Tudor Girba, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `40 min`
 

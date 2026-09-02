@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Philip Alfano", "Leon Harris"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T15:01:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Optimize Azure cloud operations with end-to-end IT automation | BRKFP373
 
-**Speaker not identified**
+**Philip Alfano, Leon Harris**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Eno Reyes"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T07:24:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building Reliable Agentic AI Systems
 
-**Speaker not identified**
+**Eno Reyes**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

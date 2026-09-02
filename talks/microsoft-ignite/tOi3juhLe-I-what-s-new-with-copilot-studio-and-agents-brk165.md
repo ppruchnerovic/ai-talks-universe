@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Omar Aftab", "Edwina Fitzmaurice", "Ray Smith", "Johan Vikström"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-20T13:49:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What's new with Copilot Studio and agents | BRK165
 
-**Speaker not identified**
+**Omar Aftab, Edwina Fitzmaurice, Ray Smith, Johan Vikström**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

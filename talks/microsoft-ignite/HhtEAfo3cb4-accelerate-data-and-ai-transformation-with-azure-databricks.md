@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["William Hendry", "Miranda Luna", "Anavi Nahar"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T08:32:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate Data and AI transformation with Azure Databricks | BRK128
 
-**Speaker not identified**
+**William Hendry, Miranda Luna, Anavi Nahar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

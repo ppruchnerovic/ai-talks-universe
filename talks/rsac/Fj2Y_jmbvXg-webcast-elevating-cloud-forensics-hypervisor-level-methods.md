@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Prasad Purnaye", "Assistant Professor"]
+speakers: ["Prasad Purnaye"]
 channel: "RSAC Cybersecurity"
 duration_min: 25
 published_at: 2024-10-04T15:54:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Webcast: Elevating Cloud Forensics: Hypervisor-Level Methods for Evidence Unveiling
 
-**Prasad Purnaye, Assistant Professor**
+**Prasad Purnaye**
 
 `RSAC Conference` · `RSAC` · `2024` · `25 min`
 

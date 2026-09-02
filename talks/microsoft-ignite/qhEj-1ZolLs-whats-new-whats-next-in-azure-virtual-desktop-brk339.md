@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Roop Kiran Chevuri", "Mark Douglas", "Eric Orman"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-21T14:29:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new & what’s next in Azure Virtual Desktop​ | BRK339
 
-**Speaker not identified**
+**Roop Kiran Chevuri, Mark Douglas, Eric Orman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

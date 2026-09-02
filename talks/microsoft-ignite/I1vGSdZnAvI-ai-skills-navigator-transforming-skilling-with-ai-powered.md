@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kavitha Radhakrishnan"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-21T12:26:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Skills Navigator: Transforming skilling with AI-powered learning​ | STUDIO50
 
-**Speaker not identified**
+**Kavitha Radhakrishnan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

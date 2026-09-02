@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Harry Kim", "Laikh Tewari"]
 channel: "PyTorch"
 duration_min: 26
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Sponsored Session: Amazingly Fast and Incredibly Scalable Inference... - Harry Kim & Laikh Tewari
 
-**Speaker not identified**
+**Harry Kim, Laikh Tewari**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `26 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Vaibhav Page", "Infant Vasanth"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-08-23T09:30:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How BlackRock Builds Custom Knowledge Apps at Scale — Vaibhav Page & Infant Vasanth, BlackRock
 
-**Speaker not identified**
+**Vaibhav Page, Infant Vasanth**
 
 `AI Engineer` · `AI Engineer` · `2025` · `19 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ray Smith", "Caroline Stanford"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-20T16:39:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power agents to scale your frontier workforce with Agent 365 | BRK298
 
-**Speaker not identified**
+**Ray Smith, Caroline Stanford**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

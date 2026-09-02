@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Yitzhak Kesselman", "Tessa Kloster", "Niraj Revankar", "Vijay Sankaran", "Ksenia Suresh"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-26T08:27:02Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock the power of Real-Time Intelligence in the era of AI | BRK199
 
-**Speaker not identified**
+**Yitzhak Kesselman, Tessa Kloster, Niraj Revankar, Vijay Sankaran, Ksenia Suresh**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

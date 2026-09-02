@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Khalef Hosany", "Jeffrey Stall"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-27T12:45:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modernize your apps by learning how Office leverages Windows App SDK | BRK304
 
-**Speaker not identified**
+**Khalef Hosany, Jeffrey Stall**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

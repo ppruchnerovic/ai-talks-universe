@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Christine Coll", "Noam Hadash"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2024-11-27T13:01:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI-Driven Ransomware Protection at Machine Speed: Defender for Endpoint | BRK325
 
-**Speaker not identified**
+**Christine Coll, Noam Hadash**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `35 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andrew Grimes"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T14:14:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Integrating Gen AI into business-ready applications to accelerate ROI | ODFP971
 
-**Speaker not identified**
+**Andrew Grimes**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Butler", "Florian Deter", "Angela Evans", "Ihab Foudeh", "Pavan Ganugapati", "Ahmed Mabrouk"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-25T12:15:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerating Partner Impact in EMEA for Enterprise Customers​ | PBRK436
 
-**Speaker not identified**
+**John Butler, Florian Deter, Angela Evans, Ihab Foudeh, Pavan Ganugapati, Ahmed Mabrouk**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

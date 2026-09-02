@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Lloyd Tabb"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2025-05-29T07:02:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building Blocks: Advanced Semantic Data Model Layering
 
-**Speaker not identified**
+**Lloyd Tabb**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `29 min`
 

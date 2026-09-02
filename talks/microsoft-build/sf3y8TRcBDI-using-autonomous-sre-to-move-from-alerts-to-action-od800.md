@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Vyom Nagrani", "Deepthi Chelupati"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-03T14:25:23Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Using autonomous SRE to move from alerts to action | OD800
 
-**Speaker not identified**
+**Vyom Nagrani, Deepthi Chelupati**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

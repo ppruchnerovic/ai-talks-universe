@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rohan Kumar", "Rudra Mitra"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:41:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Data security and governance in the age of AI with Microsoft Purview | BRK251
 
-**Speaker not identified**
+**Rohan Kumar, Rudra Mitra**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

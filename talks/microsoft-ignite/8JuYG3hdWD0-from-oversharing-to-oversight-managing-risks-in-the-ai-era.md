@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sophie Ke", "David Minasyan", "Erica Toelle"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T12:00:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From oversharing to oversight: Managing risks in the AI era ​ | BRK293
 
-**Speaker not identified**
+**Sophie Ke, David Minasyan, Erica Toelle**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Hope Wang"]
 channel: "AI Council"
 duration_min: 16
 published_at: 2024-04-19T05:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Tackling I/O Challenges in Modern Data Lakes
 
-**Speaker not identified**
+**Hope Wang**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `16 min`
 

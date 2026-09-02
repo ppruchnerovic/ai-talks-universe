@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dave Burnison", "Aaron Hallberg"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:33:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Getting the most out of Azure DevOps and GitHub | BRK139
 
-**Speaker not identified**
+**Dave Burnison, Aaron Hallberg**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

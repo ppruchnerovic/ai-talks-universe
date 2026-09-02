@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mark Austin", "Ben Tezcan"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-25T12:04:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How AT&T delivers RAG at scale | BRK104
 
-**Speaker not identified**
+**Mark Austin, Ben Tezcan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

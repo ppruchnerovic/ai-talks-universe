@@ -7,7 +7,7 @@ conference_name: "WeAreDevelopers World Congress"
 category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
-speakers: []
+speakers: ["Dave Anderson", "Sarel Weinberger"]
 channel: "WeAreDevelopers"
 duration_min: 41
 published_at: 2026-08-24T11:27:43Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Why Token Reduction Isn’t Cost Reduction - Dave Anderson & Sarel Weinberger (PointFive)
 
-**Speaker not identified**
+**Dave Anderson, Sarel Weinberger**
 
 `WeAreDevelopers World Congress` · `WeAreDevelopers` · `2026` · `41 min`
 

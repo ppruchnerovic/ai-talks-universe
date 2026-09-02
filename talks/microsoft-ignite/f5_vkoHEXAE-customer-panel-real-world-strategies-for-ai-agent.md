@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Srini Raghavan", "Sean Alexander", "Tim Holt", "Saurabh Pant", "Mona Riemenschneider", "John Whittaker"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T14:33:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Customer panel: Real-world strategies for AI Agent transformation | BRK295
 
-**Speaker not identified**
+**Srini Raghavan, Sean Alexander, Tim Holt, Saurabh Pant, Mona Riemenschneider, John Whittaker**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

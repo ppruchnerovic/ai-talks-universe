@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Casey Burke", "Austin Laugesen"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-26T10:01:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Deploying and operating Power Platform solutions with DevOps | BRK310
 
-**Speaker not identified**
+**Casey Burke, Austin Laugesen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

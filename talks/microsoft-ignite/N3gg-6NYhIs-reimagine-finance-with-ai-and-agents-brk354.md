@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sigita Cepaitiene", "Matt Jutila", "April Olson"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T17:08:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reimagine Finance with AI and Agents | BRK354
 
-**Speaker not identified**
+**Sigita Cepaitiene, Matt Jutila, April Olson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

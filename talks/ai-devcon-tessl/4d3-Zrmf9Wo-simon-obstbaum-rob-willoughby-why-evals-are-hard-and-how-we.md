@@ -7,7 +7,7 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Simon Obstbaum", "Rob Willoughby"]
 channel: "AI Native Dev"
 duration_min: 37
 published_at: 2026-07-27T11:34:56Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Simon Obstbaum & Rob Willoughby - Why evals are hard and how we're solving it - AI Native DevCon Jun
 
-**Speaker not identified**
+**Simon Obstbaum, Rob Willoughby**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `37 min`
 

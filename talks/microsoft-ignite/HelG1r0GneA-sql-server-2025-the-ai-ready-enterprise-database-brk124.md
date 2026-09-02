@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sirjad Parakkat", "Abhinav Tiwari", "Bob Ward"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T10:39:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # SQL Server 2025: The AI-ready enterprise database | BRK124
 
-**Speaker not identified**
+**Sirjad Parakkat, Abhinav Tiwari, Bob Ward**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

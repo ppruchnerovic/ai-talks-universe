@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Eugenie Burrage", "Jason Roszak"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T04:55:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What's new in Intune: empower IT, protect endpoints & optimize with AI | BRK341
 
-**Speaker not identified**
+**Eugenie Burrage, Jason Roszak**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

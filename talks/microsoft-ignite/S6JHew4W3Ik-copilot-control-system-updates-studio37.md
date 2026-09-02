@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shilpi Sinha", "Jeremy Chapman"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T13:28:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Copilot Control System updates | STUDIO37
 
-**Speaker not identified**
+**Shilpi Sinha, Jeremy Chapman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

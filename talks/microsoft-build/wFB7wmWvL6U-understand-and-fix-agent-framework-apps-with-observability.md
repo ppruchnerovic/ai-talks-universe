@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["James Bennett"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-04T13:29:09Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Understand and fix Agent Framework apps with observability and evals | DEM361
 
-**Speaker not identified**
+**James Bennett**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

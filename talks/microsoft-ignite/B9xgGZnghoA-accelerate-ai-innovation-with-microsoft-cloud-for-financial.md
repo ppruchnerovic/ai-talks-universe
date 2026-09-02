@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jared Lambert"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-21T10:08:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate AI Innovation with Microsoft Cloud for Financial Services | BRK258
 
-**Speaker not identified**
+**Jared Lambert**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

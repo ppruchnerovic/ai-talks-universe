@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Tomas Kofman"]
 channel: "AI Council"
 duration_min: 16
 published_at: 2025-05-29T00:37:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to Build Your Own Model Router
 
-**Speaker not identified**
+**Tomas Kofman**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `16 min`
 

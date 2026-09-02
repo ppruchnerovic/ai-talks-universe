@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Piero Morano", "Raki Rahman"]
 channel: "Microsoft Developer"
 duration_min: 31
 published_at: 2026-06-03T13:28:34Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The AI-native Data Engineer | OD818
 
-**Speaker not identified**
+**Piero Morano, Raki Rahman**
 
 `Microsoft Build` · `Build 2026` · `2026` · `31 min`
 

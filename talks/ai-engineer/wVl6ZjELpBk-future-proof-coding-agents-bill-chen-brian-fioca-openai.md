@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Bill Chen", "Brian Fioca"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-12-05T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Future-Proof Coding Agents – Bill Chen & Brian Fioca, OpenAI
 
-**Speaker not identified**
+**Bill Chen, Brian Fioca**
 
 `AI Engineer` · `AI Engineer` · `2025` · `18 min`
 

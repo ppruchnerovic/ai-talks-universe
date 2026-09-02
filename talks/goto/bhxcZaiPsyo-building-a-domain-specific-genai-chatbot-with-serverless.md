@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Eric Johnson"]
 channel: null
 duration_min: 44
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Building a Domain Specific GenAI Chatbot with Serverless • Eric Johnson • GOTO 2024
 
-**Speaker not identified**
+**Eric Johnson**
 
 `GOTO Conferences` · `GOTO` · `2024` · `44 min`
 

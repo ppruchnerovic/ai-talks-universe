@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gargi Banerjee", "Molina Sharma"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T08:20:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Resilience by design: Secure, scalable, AI-ready cloud with Azure | BRK217
 
-**Speaker not identified**
+**Gargi Banerjee, Molina Sharma**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

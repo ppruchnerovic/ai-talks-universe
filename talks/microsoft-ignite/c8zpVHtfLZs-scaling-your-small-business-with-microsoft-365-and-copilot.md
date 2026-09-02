@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Bryan Allen", "Anna Montgomery"]
 channel: "Microsoft Events"
 duration_min: 25
 published_at: 2025-11-24T07:25:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scaling your small business with Microsoft 365 and Copilot | BRK299
 
-**Speaker not identified**
+**Bryan Allen, Anna Montgomery**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `25 min`
 

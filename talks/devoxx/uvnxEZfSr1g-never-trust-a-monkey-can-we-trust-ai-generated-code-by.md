@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Baruch Sadogursky"]
 channel: "Devoxx"
 duration_min: 16
 published_at: 2026-04-08T18:49:36Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Never Trust a Monkey! Can We Trust AI-Generated Code? by Baruch Sadogursky
 
-**Speaker not identified**
+**Baruch Sadogursky**
 
 `Devoxx` · `Devoxx` · `2026` · `16 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Derek Boudreau", "Kendall Brasch", "James Codella", "Felipe Morales Heerlein"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T17:16:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From DEV to PROD: How to build agentic memory with Azure Cosmos DB | BRK135
 
-**Speaker not identified**
+**Derek Boudreau, Kendall Brasch, James Codella, Felipe Morales Heerlein**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

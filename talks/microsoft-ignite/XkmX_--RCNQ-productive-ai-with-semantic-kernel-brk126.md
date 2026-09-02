@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Urko Benito", "Evan Chaki", "Greg Crist", "Shawn Henry", "Wanting Huang", "Hiro Kobashi"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:26:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Productive AI with Semantic Kernel | BRK126
 
-**Speaker not identified**
+**Urko Benito, Evan Chaki, Greg Crist, Shawn Henry, Wanting Huang, Hiro Kobashi**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

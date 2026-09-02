@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Edo Segal"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-04T13:43:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Create multimodal AI agents with persistent memory | DEMSP390
 
-**Speaker not identified**
+**Edo Segal**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

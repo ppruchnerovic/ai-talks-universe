@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yina Arenas"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T12:21:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Foundry: The AI app and agent factory | STUDIO31
 
-**Speaker not identified**
+**Yina Arenas**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stephanie Comardelle", "Mike Rossi", "Rob Schapiro"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T13:25:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partners + Agentic AI: Transforming Energy & Resources | PBRK395
 
-**Speaker not identified**
+**Stephanie Comardelle, Mike Rossi, Rob Schapiro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

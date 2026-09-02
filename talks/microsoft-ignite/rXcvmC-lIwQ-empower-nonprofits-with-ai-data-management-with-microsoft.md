@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mark Ghazai", "Clark Osborne", "Sean Riordan", "Dr. Bryan Zimmerman"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T09:44:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empower Nonprofits with AI: Data Management with Microsoft Fabric | BRK252
 
-**Speaker not identified**
+**Mark Ghazai, Clark Osborne, Sean Riordan, Dr. Bryan Zimmerman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

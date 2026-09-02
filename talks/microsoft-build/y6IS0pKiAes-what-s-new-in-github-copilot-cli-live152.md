@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Evan Boyle", "Burke Holland"]
 channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-05T15:34:16Z
@@ -20,7 +20,7 @@ transcript: true
 
 # What's new in GitHub Copilot CLI? | LIVE152
 
-**Speaker not identified**
+**Evan Boyle, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

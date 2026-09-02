@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sabin Nair", "Nithin Ravindra"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T12:47:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Get started with best-in-class Copilot connectors in Copilot Studio | BRK182
 
-**Speaker not identified**
+**Sabin Nair, Nithin Ravindra**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

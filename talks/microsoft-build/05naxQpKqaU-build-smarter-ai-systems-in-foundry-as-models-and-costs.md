@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Yina Arenas", "Naomi Moneypenny"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-03T11:21:45Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build smarter AI systems in Foundry as models and costs evolve | BRK230
 
-**Speaker not identified**
+**Yina Arenas, Naomi Moneypenny**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

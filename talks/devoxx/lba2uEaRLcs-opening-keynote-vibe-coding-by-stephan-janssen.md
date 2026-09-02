@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Stephan Janssen"]
 channel: "Devoxx"
 duration_min: 17
 published_at: 2025-10-09T10:30:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Opening Keynote: Vibe Coding by Stephan Janssen
 
-**Speaker not identified**
+**Stephan Janssen**
 
 `Devoxx` · `Devoxx` · `2025` · `17 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Courtney Lanza", "Paula Nobre Santos", "Saurabh Swarup"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-26T20:02:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Innovate with Low-Code AI and agents | PBRK326
 
-**Speaker not identified**
+**Courtney Lanza, Paula Nobre Santos, Saurabh Swarup**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

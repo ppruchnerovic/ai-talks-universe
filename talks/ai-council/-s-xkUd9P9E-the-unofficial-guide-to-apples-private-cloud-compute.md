@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jonathan Mortensen"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2025-05-29T07:39:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Unofficial Guide to Apple’s Private Cloud Compute
 
-**Speaker not identified**
+**Jonathan Mortensen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `36 min`
 

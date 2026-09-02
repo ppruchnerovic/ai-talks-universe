@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Anthony Joseph", "Will Kearl", "Jatin Suri", "Diego Tamburini"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2024-11-25T12:25:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # More than a storefront unlocking value through the marketplace | BRK125
 
-**Speaker not identified**
+**Anthony Joseph, Will Kearl, Jatin Suri, Diego Tamburini**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `32 min`
 

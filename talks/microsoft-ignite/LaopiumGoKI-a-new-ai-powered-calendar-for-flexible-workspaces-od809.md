@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mark Grimaldi", "Vani Soff"]
 channel: "Microsoft Events"
 duration_min: 9
 published_at: 2024-11-20T12:59:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A new AI powered calendar for flexible workspaces | OD809
 
-**Speaker not identified**
+**Mark Grimaldi, Vani Soff**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `9 min`
 

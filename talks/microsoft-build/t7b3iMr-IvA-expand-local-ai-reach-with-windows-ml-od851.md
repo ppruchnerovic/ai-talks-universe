@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Andrew Leader", "Maha Bayana"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T09:49:45Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Expand local AI reach with Windows ML | OD851
 
-**Speaker not identified**
+**Andrew Leader, Maha Bayana**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

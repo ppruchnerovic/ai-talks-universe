@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Rachel Lee Nabors"]
 channel: "AI Council"
 duration_min: 33
 published_at: 2025-05-29T07:03:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Cram Session
 
-**Speaker not identified**
+**Rachel Lee Nabors**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `33 min`
 

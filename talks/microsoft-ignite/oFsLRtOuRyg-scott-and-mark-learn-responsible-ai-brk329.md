@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mark Russinovich", "Scott Hanselman"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T14:12:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scott and Mark learn responsible AI | BRK329
 
-**Speaker not identified**
+**Mark Russinovich, Scott Hanselman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

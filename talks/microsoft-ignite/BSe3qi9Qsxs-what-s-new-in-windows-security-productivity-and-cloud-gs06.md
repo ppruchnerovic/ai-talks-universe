@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Pavan Davuluri", "Aidan Marcuss", "Navjot Virk"]
 channel: "Microsoft Events"
 duration_min: 60
 published_at: 2024-11-22T13:12:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What's New in Windows Security Productivity and Cloud | GS06
 
-**Speaker not identified**
+**Pavan Davuluri, Aidan Marcuss, Navjot Virk**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `60 min`
 

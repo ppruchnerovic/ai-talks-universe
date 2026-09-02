@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Laur Spilca", "Thomas Vitale"]
 channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-03-05T13:01:16Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Software Security for Developers • Laur Spilca & Thomas Vitale • GOTO 2026
 
-**Speaker not identified**
+**Laur Spilca, Thomas Vitale**
 
 `GOTO Conferences` · `GOTO` · `2026` · `30 min`
 

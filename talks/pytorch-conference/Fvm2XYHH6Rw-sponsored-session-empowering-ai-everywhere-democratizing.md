@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["F. Zhao", "E. Wang"]
 channel: "PyTorch"
 duration_min: 26
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Sponsored Session: Empowering AI Everywhere: Democratizing PyTorch with Intel... - F. Zhao & E. Wang
 
-**Speaker not identified**
+**F. Zhao, E. Wang**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `26 min`
 

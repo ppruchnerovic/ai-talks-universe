@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Radek Kargul"]
 channel: "Devoxx"
 duration_min: 18
 published_at: 2026-04-01T08:05:29Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Debugging Your Health: Fitness for Desk Warriors by Radek Kargul
 
-**Speaker not identified**
+**Radek Kargul**
 
 `Devoxx` · `Devoxx` · `2026` · `18 min`
 

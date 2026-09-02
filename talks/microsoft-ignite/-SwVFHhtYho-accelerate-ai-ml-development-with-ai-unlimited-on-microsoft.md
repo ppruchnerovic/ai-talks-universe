@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Janeth Graziani"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2024-11-20T11:32:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate AI/ML development with AI Unlimited on Microsoft Fabric | ODFP995
 
-**Speaker not identified**
+**Janeth Graziani**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `19 min`
 

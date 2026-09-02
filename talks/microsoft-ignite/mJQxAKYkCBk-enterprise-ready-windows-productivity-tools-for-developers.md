@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Craig Loewen", "Clint Rutkas"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T11:56:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enterprise ready Windows productivity tools for Developers and IT Pros | BRK330
 
-**Speaker not identified**
+**Craig Loewen, Clint Rutkas**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Mike Driscoll"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T06:59:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A SQL Based Metrics Layer for DuckDB and ClickHouse
 
-**Speaker not identified**
+**Mike Driscoll**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

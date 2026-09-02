@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Jason Warner", "Eiso Kant"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2025-12-27T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AGI: The Path Forward – Jason Warner & Eiso Kant, Poolside
 
-**Speaker not identified**
+**Jason Warner, Eiso Kant**
 
 `AI Engineer` · `AI Engineer` · `2025` · `16 min`
 

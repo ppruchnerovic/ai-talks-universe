@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Marco Slot"]
 channel: "AI Council"
 duration_min: 39
 published_at: 2025-05-29T14:00:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # DuckDB + PostgreSQL: Building a Data Warehouse Inside Your Favorite Database
 
-**Speaker not identified**
+**Marco Slot**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `39 min`
 

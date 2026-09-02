@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Zhang Zhen", "Vec Sun"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 20
 published_at: 2026-04-09T05:24:09Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Operationalizing AI Workloads on Kubernetes With OpenKruise - Zhang Zhen & Vec Sun
 
-**Speaker not identified**
+**Zhang Zhen, Vec Sun**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `20 min`
 

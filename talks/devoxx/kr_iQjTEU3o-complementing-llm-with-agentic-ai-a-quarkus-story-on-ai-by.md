@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Mario Fusco Daniele Zonca"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2025-01-20T19:58:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Complementing LLM with agentic AI: a Quarkus story on AI by Mario Fusco Daniele Zonca
 
-**Speaker not identified**
+**Mario Fusco Daniele Zonca**
 
 `Devoxx` · `Devoxx` · `2025` · `45 min`
 

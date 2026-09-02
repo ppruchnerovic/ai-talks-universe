@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Tristan Scott", "David Wells"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-20T14:23:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock efficiencies with Windows 365 Frontline & Cloud PC devices | BRK342
 
-**Speaker not identified**
+**Tristan Scott, David Wells**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

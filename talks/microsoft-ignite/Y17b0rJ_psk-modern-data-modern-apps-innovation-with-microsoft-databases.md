@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shireesh Thota", "Charles Feddersen", "Kirill Gavrylyuk", "Priya Sathy", "Shivakumar Vaithyanathan"]
 channel: "Microsoft Events"
 duration_min: 51
 published_at: 2025-11-21T07:12:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modern data modern apps: Innovation with Microsoft Databases | BRK134
 
-**Speaker not identified**
+**Shireesh Thota, Charles Feddersen, Kirill Gavrylyuk, Priya Sathy, Shivakumar Vaithyanathan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `51 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kristyn Maddox"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2024-11-25T14:37:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to capture the marketplace opportunity | BRK343
 
-**Speaker not identified**
+**Kristyn Maddox**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `37 min`
 

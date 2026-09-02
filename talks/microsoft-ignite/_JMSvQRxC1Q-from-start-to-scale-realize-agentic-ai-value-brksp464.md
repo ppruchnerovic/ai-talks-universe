@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kim Allison", "Charlie Doubek", "Geoff Newman"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-19T14:16:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From start to scale: Realize agentic AI value | BRKSP464
 
-**Speaker not identified**
+**Kim Allison, Charlie Doubek, Geoff Newman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

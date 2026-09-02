@@ -7,7 +7,7 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Kurtis Van Gent", "Wenxin Du"]
 channel: "Agentic AI Foundation"
 duration_min: 25
 published_at: 2026-04-13T23:18:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Schema To Insight: Architecting Production-Grade Database MCP Tools - Kurtis Van Gent & Wenxin Du
 
-**Speaker not identified**
+**Kurtis Van Gent, Wenxin Du**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `25 min`
 

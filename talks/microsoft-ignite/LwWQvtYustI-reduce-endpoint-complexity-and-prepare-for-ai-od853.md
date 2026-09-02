@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ryan Argall", "Jenny Woodbury"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2024-11-20T13:07:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reduce endpoint complexity and prepare for AI | OD853
 
-**Speaker not identified**
+**Ryan Argall, Jenny Woodbury**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `19 min`
 

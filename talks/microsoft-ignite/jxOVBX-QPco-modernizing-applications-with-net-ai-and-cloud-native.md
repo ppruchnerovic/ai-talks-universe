@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jeff Fritz", "Luis Quintanilla", "Melba Swapna"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-26T07:20:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modernizing applications with .NET AI and Cloud-Native practices | BRK149
 
-**Speaker not identified**
+**Jeff Fritz, Luis Quintanilla, Melba Swapna**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

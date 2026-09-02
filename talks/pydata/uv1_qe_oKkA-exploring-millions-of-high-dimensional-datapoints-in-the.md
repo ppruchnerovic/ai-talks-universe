@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Matthias Orlowski", "Tim Tenckhoff"]
+speakers: ["Matthias Orlowski"]
 channel: "PyData"
 duration_min: 28
 published_at: 2025-11-23T14:33:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Exploring Millions of High-dimensional Datapoints in the Browser for Early Drug Discovery
 
-**Matthias Orlowski, Tim Tenckhoff**
+**Matthias Orlowski**
 
 `PyData` · `PyData` · `2025` · `28 min`
 

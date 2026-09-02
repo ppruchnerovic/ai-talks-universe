@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Nitya Narasimhan"]
 channel: "Microsoft Developer"
 duration_min: 79
 published_at: 2026-06-03T14:02:32Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI Developers | OD836
 
-**Speaker not identified**
+**Nitya Narasimhan**
 
 `Microsoft Build` · `Build 2026` · `2026` · `79 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Giulio Astori", "James P Brotsos"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T15:20:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure your applications: Unified Visibility and Posture Management | BRK263
 
-**Speaker not identified**
+**Giulio Astori, James P Brotsos**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

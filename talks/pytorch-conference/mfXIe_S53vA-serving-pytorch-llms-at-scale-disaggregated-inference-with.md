@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["M. Ayoub", "C. Liu"]
 channel: "PyTorch"
 duration_min: 27
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Serving PyTorch LLMs at Scale: Disaggregated Inference With Kubernetes and Llm-d - M. Ayoub & C. Liu
 
-**Speaker not identified**
+**M. Ayoub, C. Liu**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `27 min`
 

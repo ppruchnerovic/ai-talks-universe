@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Yusuf Ozuysal"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-28T23:31:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Your Way with All-In-One Access
 
-**Speaker not identified**
+**Yusuf Ozuysal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

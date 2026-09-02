@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Tod Golding", "Bill Tarr"]
 channel: "GOTO Conferences"
 duration_min: 41
 published_at: 2025-01-24T10:39:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building Multi-Tenant SaaS Architectures • Tod Golding & Bill Tarr
 
-**Speaker not identified**
+**Tod Golding, Bill Tarr**
 
 `GOTO Conferences` · `GOTO` · `2025` · `41 min`
 

@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Tanarra Schneider", "Jenny Richards"]
 channel: "GOTO Conferences"
 duration_min: 37
 published_at: 2026-08-11T12:01:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Stack You Can't Refactor • Tanarra Schneider & Jenny Richards • GOTO 2026
 
-**Speaker not identified**
+**Tanarra Schneider, Jenny Richards**
 
 `GOTO Conferences` · `GOTO` · `2026` · `37 min`
 

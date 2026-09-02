@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Cedric Clyburn"]
 channel: "Devoxx"
 duration_min: 47
 published_at: 2026-03-30T17:42:05Z
@@ -20,7 +20,7 @@ transcript: true
 
 # RamaLama: Making working with AI Models Boring by Cedric Clyburn
 
-**Speaker not identified**
+**Cedric Clyburn**
 
 `Devoxx` · `Devoxx` · `2026` · `47 min`
 

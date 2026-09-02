@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Marcelo Dichtchekenian", "Matt Goddard", "Sela Gu"]
 channel: "Microsoft Events"
 duration_min: 53
 published_at: 2024-11-27T12:38:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate your CSP business in the era of AI | BRK300
 
-**Speaker not identified**
+**Marcelo Dichtchekenian, Matt Goddard, Sela Gu**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `53 min`
 

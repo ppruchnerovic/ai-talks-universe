@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brian Vecci"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T11:12:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Realize multi-AI ambitions with a data-first security approach | BRKSP472
 
-**Speaker not identified**
+**Brian Vecci**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

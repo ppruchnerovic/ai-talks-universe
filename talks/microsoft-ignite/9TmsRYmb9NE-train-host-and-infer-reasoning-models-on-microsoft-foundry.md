@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vijay Aski", "Chris Lauren", "Ankit Parag Shah", "Wei Wei"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:21:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Train host and infer reasoning models on Microsoft Foundry | BRK210
 
-**Speaker not identified**
+**Vijay Aski, Chris Lauren, Ankit Parag Shah, Wei Wei**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

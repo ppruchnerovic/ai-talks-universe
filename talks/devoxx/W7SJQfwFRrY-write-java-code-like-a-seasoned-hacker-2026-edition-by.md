@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Soroosh Khodami"]
 channel: "Devoxx"
 duration_min: 95
 published_at: 2026-04-08T19:59:57Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Write Java Code Like a Seasoned Hacker: 2026 Edition by Soroosh Khodami
 
-**Speaker not identified**
+**Soroosh Khodami**
 
 `Devoxx` · `Devoxx` · `2026` · `95 min`
 

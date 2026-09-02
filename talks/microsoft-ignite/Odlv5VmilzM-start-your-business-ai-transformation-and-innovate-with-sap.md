@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Graber", "Sivakumar N"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:29:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Start your business AI transformation and innovate with SAP | BRKFP384
 
-**Speaker not identified**
+**Mike Graber, Sivakumar N**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

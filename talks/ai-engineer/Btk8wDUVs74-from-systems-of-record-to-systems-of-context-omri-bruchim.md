@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Omri Bruchim", "Tomer Ast"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2026-07-22T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From Systems of Record to Systems of Context — Omri Bruchim & Tomer Ast, monday.com
 
-**Speaker not identified**
+**Omri Bruchim, Tomer Ast**
 
 `AI Engineer` · `AI Engineer` · `2026` · `16 min`
 

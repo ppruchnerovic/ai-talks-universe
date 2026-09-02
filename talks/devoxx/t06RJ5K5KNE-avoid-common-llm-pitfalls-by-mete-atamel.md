@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Mete Atamel"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2024-10-11T05:08:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Avoid common LLM pitfalls by Mete Atamel
 
-**Speaker not identified**
+**Mete Atamel**
 
 `Devoxx` · `Devoxx` · `2024` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Marc Gunter", "Mike Hulme", "Amit Shah", "John Yokim"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T15:42:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Best practices to modernize your apps and databases at scale | BRK100
 
-**Speaker not identified**
+**Marc Gunter, Mike Hulme, Amit Shah, John Yokim**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

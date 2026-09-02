@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Marko Hotti", "Sergiy Smyrnov"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-03T11:18:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Ship code faster with AI-powered NoSQL schema design | DEM310
 
-**Speaker not identified**
+**Marko Hotti, Sergiy Smyrnov**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

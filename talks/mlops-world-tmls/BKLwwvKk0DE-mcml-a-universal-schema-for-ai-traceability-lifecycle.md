@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Lanre Ogunkunle", "Alex Olaniyan", "Project Manager"]
+speakers: ["Lanre Ogunkunle", "Alex Olaniyan"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 26
 published_at: 2025-10-20T22:01:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # MCML: A Universal Schema for AI Traceability & Lifecycle Governance l PLEYVERSE AI
 
-**Lanre Ogunkunle, Alex Olaniyan, Project Manager**
+**Lanre Ogunkunle, Alex Olaniyan**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `26 min`
 

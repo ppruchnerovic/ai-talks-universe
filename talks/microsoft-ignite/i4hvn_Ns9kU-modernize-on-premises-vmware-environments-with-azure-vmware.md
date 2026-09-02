@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Scott Gruenemeier", "Christophe Herrbach"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T08:22:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modernize on-premises VMware environments with Azure VMware Solution | BRK158
 
-**Speaker not identified**
+**Scott Gruenemeier, Christophe Herrbach**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vivek Bhatnagar", "Joshua Huang"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T05:30:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock Your First AI Solution with Microsoft Azure and UnifyCloud | OD1210
 
-**Speaker not identified**
+**Vivek Bhatnagar, Joshua Huang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `22 min`
 

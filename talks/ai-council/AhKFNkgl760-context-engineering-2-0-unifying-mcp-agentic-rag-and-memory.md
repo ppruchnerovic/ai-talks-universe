@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2026
-speakers: ["Founder of Featureform"]
+speakers: []
 channel: "AI Council"
 duration_min: 30
 published_at: 2026-06-17T22:34:53Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Context Engineering 2.0: Unifying MCP, Agentic RAG, and Memory | Redis
 
-**Founder of Featureform**
+**Speaker not identified**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `30 min`
 

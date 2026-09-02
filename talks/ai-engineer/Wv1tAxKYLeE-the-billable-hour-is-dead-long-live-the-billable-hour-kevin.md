@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Kevin Madura", "Mo Bhasin"]
 channel: "AI Engineer"
 duration_min: 17
 published_at: 2025-07-23T15:50:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Billable Hour is Dead; Long Live the Billable Hour — Kevin Madura + Mo Bhasin, Alix Partners
 
-**Speaker not identified**
+**Kevin Madura, Mo Bhasin**
 
 `AI Engineer` · `AI Engineer` · `2025` · `17 min`
 

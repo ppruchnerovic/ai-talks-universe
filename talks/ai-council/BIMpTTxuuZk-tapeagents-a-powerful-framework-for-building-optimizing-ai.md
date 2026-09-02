@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Mitul Tiwari"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2025-05-28T23:54:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # TapeAgents: A Powerful Framework for Building & Optimizing AI Agents
 
-**Speaker not identified**
+**Mitul Tiwari**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `36 min`
 

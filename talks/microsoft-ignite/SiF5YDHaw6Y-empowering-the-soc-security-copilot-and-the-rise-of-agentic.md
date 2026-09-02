@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cristina Da Gama", "Corina Feuerstein"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T13:50:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering the SOC: Security Copilot and the Rise of Agentic Defense | BRK1731
 
-**Speaker not identified**
+**Cristina Da Gama, Corina Feuerstein**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

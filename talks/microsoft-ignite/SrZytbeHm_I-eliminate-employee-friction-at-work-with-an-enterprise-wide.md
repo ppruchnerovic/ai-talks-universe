@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jake Speyer"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T14:03:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Eliminate employee friction at work with an enterprise-wide AI agent | ODFP958
 
-**Speaker not identified**
+**Jake Speyer**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

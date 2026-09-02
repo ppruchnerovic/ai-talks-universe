@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Serhii Sokolenko"]
 channel: "AI Council"
 duration_min: 11
 published_at: 2025-05-29T13:41:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: Tower
 
-**Speaker not identified**
+**Serhii Sokolenko**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `11 min`
 

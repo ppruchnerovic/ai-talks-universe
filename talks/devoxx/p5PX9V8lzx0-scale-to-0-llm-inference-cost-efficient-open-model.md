@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Wietse Venema"]
 channel: "Devoxx"
 duration_min: 17
 published_at: 2025-04-07T13:45:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scale to 0 LLM inference: Cost efficient open model deployment on serverless GPUs by Wietse Venema
 
-**Speaker not identified**
+**Wietse Venema**
 
 `Devoxx` · `Devoxx` · `2025` · `17 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kayla Cinnamon", "Craig Loewen"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-22T07:29:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enhance IT Pro and Developer productivity with new improvements to advanced tools on | BRK306
 
-**Speaker not identified**
+**Kayla Cinnamon, Craig Loewen**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

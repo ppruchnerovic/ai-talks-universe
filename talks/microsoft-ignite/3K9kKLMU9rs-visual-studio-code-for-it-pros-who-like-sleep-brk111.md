@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Liam Hampton"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T16:48:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Visual Studio Code for IT pros who like sleep | BRK111
 
-**Speaker not identified**
+**Liam Hampton**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

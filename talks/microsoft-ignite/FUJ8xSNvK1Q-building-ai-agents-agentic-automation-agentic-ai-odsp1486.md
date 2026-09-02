@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Karen Sartor"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2025-11-19T15:08:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building AI agents agentic automation agentic AI | ODSP1486
 
-**Speaker not identified**
+**Karen Sartor**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `15 min`
 

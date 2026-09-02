@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Adrian Buxton", "Uriel Rootshtain", "Meera Venkatesh"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T13:14:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate Growth through Partner Incentives | PBRK416
 
-**Speaker not identified**
+**Adrian Buxton, Uriel Rootshtain, Meera Venkatesh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Oleh Kostromin", "Iryna Kondrashchenko"]
+speakers: ["Oleh Kostromin"]
 channel: "PyData"
 duration_min: 28
 published_at: 2026-08-04T22:20:34Z
@@ -20,7 +20,7 @@ transcript: true
 
 # State of In-Browser ML: WebAssembly, WebGPU, and the Modern Stack [PyCon DE & PyData 2026]
 
-**Oleh Kostromin, Iryna Kondrashchenko**
+**Oleh Kostromin**
 
 `PyData` · `PyData` · `2026` · `28 min`
 

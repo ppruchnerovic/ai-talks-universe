@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Alycea Adams", "Tom Davis"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-04T16:08:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Student to Startup | LIVE142
 
-**Speaker not identified**
+**Alycea Adams, Tom Davis**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

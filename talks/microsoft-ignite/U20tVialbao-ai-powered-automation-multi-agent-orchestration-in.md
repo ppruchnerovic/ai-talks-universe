@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Christof Gebhart", "Shawn Henry", "Tina Manghnani", "Mark Wallace"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-20T15:47:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI powered automation & multi-agent orchestration in Microsoft Foundry | BRK197
 
-**Speaker not identified**
+**Christof Gebhart, Shawn Henry, Tina Manghnani, Mark Wallace**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

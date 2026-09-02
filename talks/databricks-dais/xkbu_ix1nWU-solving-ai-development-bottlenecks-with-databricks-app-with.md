@@ -7,7 +7,7 @@ conference_name: "Databricks Data + AI Summit"
 category: "Vendor & platform"
 edition: "DAIS 2026"
 year: 2026
-speakers: ["Director of Product"]
+speakers: []
 channel: "Databricks"
 duration_min: 20
 published_at: 2026-06-24T22:03:01Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Solving AI development bottlenecks with Databricks App (with demo)
 
-**Director of Product**
+**Speaker not identified**
 
 `Databricks Data + AI Summit` · `DAIS 2026` · `2026` · `20 min`
 

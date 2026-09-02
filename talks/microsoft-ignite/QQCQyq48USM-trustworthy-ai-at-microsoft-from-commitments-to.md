@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sarah Bird", "Natasha Crampton", "Florent Ricci", "Vivek Sinha", "Ian Swanson"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T10:17:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trustworthy AI at Microsoft: From commitments to capabilities | BRK212
 
-**Speaker not identified**
+**Sarah Bird, Natasha Crampton, Florent Ricci, Vivek Sinha, Ian Swanson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

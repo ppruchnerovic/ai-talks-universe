@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Demitrius Nelon"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T12:43:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Windows setup & configuration made fast & easy with WinGet | BRK335
 
-**Speaker not identified**
+**Demitrius Nelon**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

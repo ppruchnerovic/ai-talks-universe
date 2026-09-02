@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Seth Juarez", "Asha Sharma"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2024-11-25T22:58:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlocking the AI revolution | Studio07
 
-**Speaker not identified**
+**Seth Juarez, Asha Sharma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `12 min`
 

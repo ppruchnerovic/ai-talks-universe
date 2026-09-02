@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mads Bolaris", "Marco Casalaina", "Brian King", "Lambert Ninteman"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-21T09:52:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Introducing Azure AI Foundry Agent Service to scale your AI agents | BRK102
 
-**Speaker not identified**
+**Mads Bolaris, Marco Casalaina, Brian King, Lambert Ninteman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

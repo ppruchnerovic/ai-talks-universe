@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yina Arenas", "Sarah Bird", "Amanda Silver", "Marco Casalaina"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2025-11-21T12:56:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Build & Manage AI Apps with Your Agent Factory | BRK1706
 
-**Speaker not identified**
+**Yina Arenas, Sarah Bird, Amanda Silver, Marco Casalaina**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `50 min`
 

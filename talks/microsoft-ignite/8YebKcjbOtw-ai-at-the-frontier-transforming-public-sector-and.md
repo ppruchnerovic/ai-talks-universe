@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cornelis Hertogh"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-21T12:27:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI at the Frontier: Transforming Public Sector and Healthcare | STUDIO44
 
-**Speaker not identified**
+**Cornelis Hertogh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `12 min`
 

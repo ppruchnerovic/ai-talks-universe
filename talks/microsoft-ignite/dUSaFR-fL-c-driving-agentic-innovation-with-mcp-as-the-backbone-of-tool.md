@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Maria Naggaga", "Don Scott"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-20T10:46:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Driving agentic innovation with MCP as the backbone of tool-aware AI | BRK194
 
-**Speaker not identified**
+**Maria Naggaga, Don Scott**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

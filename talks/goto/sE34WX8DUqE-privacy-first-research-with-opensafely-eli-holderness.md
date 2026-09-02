@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Eli Holderness", "Hannes Lowette"]
 channel: "GOTO Conferences"
 duration_min: 29
 published_at: 2025-07-29T12:24:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Privacy-First Research with OpenSAFELY • Eli Holderness & Hannes Lowette
 
-**Speaker not identified**
+**Eli Holderness, Hannes Lowette**
 
 `GOTO Conferences` · `GOTO` · `2025` · `29 min`
 

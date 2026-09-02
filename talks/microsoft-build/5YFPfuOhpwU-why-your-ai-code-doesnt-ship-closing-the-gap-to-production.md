@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mario Rodriguez", "Evan Boyle"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-03T09:46:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Why your AI code doesn’t ship: Closing the gap to production | BRK200
 
-**Speaker not identified**
+**Mario Rodriguez, Evan Boyle**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

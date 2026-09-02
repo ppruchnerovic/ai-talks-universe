@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Hugo Santos", "Madison Faulkner"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-05-13T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # CI/CD Is Dead, Agents Need Continuous Compute and Computers — Hugo Santos and Madison Faulkner
 
-**Speaker not identified**
+**Hugo Santos, Madison Faulkner**
 
 `AI Engineer` · `AI Engineer` · `2026` · `19 min`
 

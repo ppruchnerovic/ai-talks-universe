@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jim Perrin", "Poorvi Narang"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T12:15:49Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scale cloud-native workloads with Azure Linux | DEM311
 
-**Speaker not identified**
+**Jim Perrin, Poorvi Narang**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

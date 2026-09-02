@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Vasu Jakkal", "Ann Johnson", "Amanda Minnich", "Amulya Panakam"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-22T08:31:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Power of Diversity: Building a stronger workforce in the era of AI | BRK330
 
-**Speaker not identified**
+**Vasu Jakkal, Ann Johnson, Amanda Minnich, Amulya Panakam**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Jonathan Talmi"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2024-04-19T05:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building a Flexible Data Platform for LLM Training Data Rendered 4 9 24
 
-**Speaker not identified**
+**Jonathan Talmi**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `37 min`
 

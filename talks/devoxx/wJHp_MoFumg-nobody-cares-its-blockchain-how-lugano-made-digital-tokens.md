@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["S. Gamba", "G. Perletti"]
 channel: "Devoxx"
 duration_min: 20
 published_at: 2025-01-20T19:58:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Nobody Cares It’s Blockchain: How Lugano Made Digital Tokens Mainstream by S. Gamba & G. Perletti
 
-**Speaker not identified**
+**S. Gamba, G. Perletti**
 
 `Devoxx` · `Devoxx` · `2025` · `20 min`
 

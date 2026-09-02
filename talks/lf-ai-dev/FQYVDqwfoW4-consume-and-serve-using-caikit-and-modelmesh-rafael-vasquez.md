@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI.dev 2023"
 year: 2023
-speakers: []
+speakers: ["Rafael Vasquez", "Christian Kadner"]
 channel: "The Linux Foundation"
 duration_min: 31
 published_at: 2023-12-18T18:32:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Consume and Serve Using Caikit and ModelMesh - Rafael Vasquez & Christian Kadner, IBM
 
-**Speaker not identified**
+**Rafael Vasquez, Christian Kadner**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI.dev 2023` · `2023` · `31 min`
 

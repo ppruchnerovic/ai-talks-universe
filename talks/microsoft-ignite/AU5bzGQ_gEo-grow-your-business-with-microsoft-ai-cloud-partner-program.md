@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Julie Sanford", "Steve Thomas"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2024-11-22T08:32:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Grow your business with Microsoft AI Cloud Partner Program | BRK337
 
-**Speaker not identified**
+**Julie Sanford, Steve Thomas**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `34 min`
 

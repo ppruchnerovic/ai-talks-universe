@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Vinnie Saini", "Enterprise Architecture"]
+speakers: ["Vinnie Saini"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 38
 published_at: 2023-08-18T01:34:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Critical Use of MLOps in Finance Using Cloud-Managed ML Services That Scale
 
-**Vinnie Saini, Enterprise Architecture**
+**Vinnie Saini**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `38 min`
 

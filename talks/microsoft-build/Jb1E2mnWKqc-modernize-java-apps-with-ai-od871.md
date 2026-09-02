@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ayan Gupta", "Sandra Ahlgrimm", "Yoshio Terada"]
 channel: "Microsoft Developer"
 duration_min: 82
 published_at: 2026-06-15T18:11:01Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Modernize Java apps with AI​ | OD871
 
-**Speaker not identified**
+**Ayan Gupta, Sandra Ahlgrimm, Yoshio Terada**
 
 `Microsoft Build` · `Build 2026` · `2026` · `82 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Justin Chen", "Burke Holland"]
 channel: "Visual Studio Code"
 duration_min: 10
 published_at: 2026-06-05T13:25:22Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Your Browser Lives in VS Code Now | LIVE154
 
-**Speaker not identified**
+**Justin Chen, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `10 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Samuel Colvin"]
 channel: "AI Council"
 duration_min: 43
 published_at: 2025-06-26T17:24:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # An Opinionated Blueprint for Developing Production AI Applications
 
-**Speaker not identified**
+**Samuel Colvin**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `43 min`
 

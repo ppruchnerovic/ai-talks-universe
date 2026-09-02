@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Fabio Lipreri", "Gabriele Orlandi"]
 channel: null
 duration_min: 52
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Fabio Lipreri & Gabriele Orlandi - Model Context Protocol | PyData Amsterdam 2025
 
-**Speaker not identified**
+**Fabio Lipreri, Gabriele Orlandi**
 
 `PyData` · `PyData` · `2025` · `52 min`
 

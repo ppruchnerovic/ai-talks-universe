@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Tiago Da Costa", "Gerald Longoria"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-24T10:33:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure foundations for smarter work with Lenovo and Microsoft | BRKSP463
 
-**Speaker not identified**
+**Tiago Da Costa, Gerald Longoria**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

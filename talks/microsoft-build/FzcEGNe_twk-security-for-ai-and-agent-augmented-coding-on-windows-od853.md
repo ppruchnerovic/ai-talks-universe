@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Klorida Miraj", "Nazmus Sakib"]
 channel: "Microsoft Developer"
 duration_min: 29
 published_at: 2026-06-03T10:40:31Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Security for AI and Agent Augmented Coding on Windows | OD853
 
-**Speaker not identified**
+**Klorida Miraj, Nazmus Sakib**
 
 `Microsoft Build` · `Build 2026` · `2026` · `29 min`
 

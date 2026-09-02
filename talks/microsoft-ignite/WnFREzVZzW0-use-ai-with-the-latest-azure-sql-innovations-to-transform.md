@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["John Tracy", "Bob Ward", "Muazma Zahid"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-25T12:49:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Use AI with the latest Azure SQL innovations to transform your data | BRK192
 
-**Speaker not identified**
+**John Tracy, Bob Ward, Muazma Zahid**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

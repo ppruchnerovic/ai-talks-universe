@@ -7,7 +7,7 @@ conference_name: "WeAreDevelopers World Congress"
 category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
-speakers: []
+speakers: ["Bozidar Spirovski", "Wekoslav Stefanovski"]
 channel: "WeAreDevelopers"
 duration_min: 39
 published_at: 2026-04-08T07:50:32Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How to Defend Against Data Manipulation Attacks - Bozidar Spirovski & Wekoslav Stefanovski
 
-**Speaker not identified**
+**Bozidar Spirovski, Wekoslav Stefanovski**
 
 `WeAreDevelopers World Congress` · `WeAreDevelopers` · `2026` · `39 min`
 

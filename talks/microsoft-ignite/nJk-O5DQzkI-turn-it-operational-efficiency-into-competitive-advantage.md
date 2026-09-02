@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Philip Alfano", "Bill Primerano"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-26T00:48:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Turn IT operational efficiency into competitive advantage | BRKSP465
 
-**Speaker not identified**
+**Philip Alfano, Bill Primerano**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

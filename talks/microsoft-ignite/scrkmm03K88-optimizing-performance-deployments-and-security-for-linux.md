@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Karl Abbott", "Lachlan Evenson"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T12:01:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Optimizing performance deployments and security for Linux on Azure | BRK143
 
-**Speaker not identified**
+**Karl Abbott, Lachlan Evenson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

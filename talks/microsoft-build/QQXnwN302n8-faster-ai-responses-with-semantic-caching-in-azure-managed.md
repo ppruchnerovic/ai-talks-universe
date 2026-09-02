@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Philip Laussermair"]
 channel: "Microsoft Developer"
 duration_min: 31
 published_at: 2026-06-03T13:21:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Faster AI Responses with Semantic Caching in Azure Managed Redis | OD823
 
-**Speaker not identified**
+**Philip Laussermair**
 
 `Microsoft Build` · `Build 2026` · `2026` · `31 min`
 

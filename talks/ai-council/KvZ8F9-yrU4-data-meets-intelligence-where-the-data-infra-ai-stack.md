@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Naveen Rao"]
 channel: "AI Council"
 duration_min: 42
 published_at: 2025-05-29T16:09:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Data Meets Intelligence: Where the Data Infra & AI Stack Converge
 
-**Speaker not identified**
+**Naveen Rao**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `42 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joao Botto", "Jorie Foss"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T15:21:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock people & skills insights with new Microsoft 365 Copilot agents | BRK285
 
-**Speaker not identified**
+**Joao Botto, Jorie Foss**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

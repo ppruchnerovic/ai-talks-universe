@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["William Flannery", "Keiji Kanazawa", "Naomi Moneypenny", "Steve Sweetman", "Tao Zhang"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T10:26:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Make smarter model choices: Anthropic OpenAI & more on Microsoft Foundry | BRK195
 
-**Speaker not identified**
+**William Flannery, Keiji Kanazawa, Naomi Moneypenny, Steve Sweetman, Tao Zhang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI.dev 2023"
 year: 2023
-speakers: []
+speakers: ["Meenakshi Kaushik", "Jayanth Srinivasa"]
 channel: "The Linux Foundation"
 duration_min: 30
 published_at: 2023-12-18T18:32:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing LLMs in Kubernetes: Best Practices - Meenakshi Kaushik & Jayanth Srinivasa, Cisco
 
-**Speaker not identified**
+**Meenakshi Kaushik, Jayanth Srinivasa**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI.dev 2023` · `2023` · `30 min`
 

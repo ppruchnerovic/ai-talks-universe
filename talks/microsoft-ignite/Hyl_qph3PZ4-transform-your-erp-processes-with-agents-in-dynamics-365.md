@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Raghav Jandhyala", "April Olson"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-25T12:40:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transform your ERP processes with Agents in Dynamics 365 | BRK164
 
-**Speaker not identified**
+**Raghav Jandhyala, April Olson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

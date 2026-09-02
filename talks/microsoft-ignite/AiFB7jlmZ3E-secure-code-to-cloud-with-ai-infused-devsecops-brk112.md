@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oz Wilder", "Charlie Doubek", "Marcelo Oliveira", "Manuel Sanchez Rodriguez"]
 channel: "Microsoft Events"
 duration_min: 36
 published_at: 2025-11-25T15:36:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure code to cloud with AI infused DevSecOps | BRK112
 
-**Speaker not identified**
+**Oz Wilder, Charlie Doubek, Marcelo Oliveira, Manuel Sanchez Rodriguez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `36 min`
 

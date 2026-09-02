@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cyril Belikoff"]
 channel: "Microsoft Events"
 duration_min: 5
 published_at: 2025-11-21T13:36:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Marketplace: Your trusted source for cloud solutions, AI apps, and agents​ | STUDIO47
 
-**Speaker not identified**
+**Cyril Belikoff**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `5 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Maurice Naftalin", "Stuart Marks"]
 channel: "Devoxx"
 duration_min: 161
 published_at: 2025-10-07T05:13:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Why Haven’t They Fixed This? by Maurice Naftalin, Stuart Marks
 
-**Speaker not identified**
+**Maurice Naftalin, Stuart Marks**
 
 `Devoxx` · `Devoxx` · `2025` · `161 min`
 

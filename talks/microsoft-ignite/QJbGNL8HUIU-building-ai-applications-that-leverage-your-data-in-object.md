@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Vamshidhar Kommineni", "Saurabh Sensharma"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:08:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building AI applications that leverage your data in object storage | BRK216
 
-**Speaker not identified**
+**Vamshidhar Kommineni, Saurabh Sensharma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

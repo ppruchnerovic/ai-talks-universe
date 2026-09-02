@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Vasily Kuznetsov", "Driss Guessous"]
 channel: "PyTorch"
 duration_min: 25
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # mxfp8, mxfp4, nvfp4 formats and applications in PyTorch - Vasily Kuznetsov & Driss Guessous, Meta
 
-**Speaker not identified**
+**Vasily Kuznetsov, Driss Guessous**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `25 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Patrick Eustace"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2025-11-24T14:39:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power a future-proofed workplace with Cisco AI | STUDIOSP88
 
-**Speaker not identified**
+**Patrick Eustace**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `10 min`
 

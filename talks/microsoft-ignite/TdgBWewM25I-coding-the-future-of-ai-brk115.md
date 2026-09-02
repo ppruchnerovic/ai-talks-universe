@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rob Chambers", "Dan Taylor"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-21T09:55:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Coding the future of AI | BRK115
 
-**Speaker not identified**
+**Rob Chambers, Dan Taylor**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

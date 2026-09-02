@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Holger Bruchelt", "Robert Hernandez", "Rima Reyes"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:28:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Learn what you can do today with Microsoft AI for SAP applications | BRK234
 
-**Speaker not identified**
+**Holger Bruchelt, Robert Hernandez, Rima Reyes**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

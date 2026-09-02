@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nanditha Ram", "Alois Reitbauer", "Dave Uppal"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-26T07:15:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Best practices for building and monetizing your AI applications | BRK136
 
-**Speaker not identified**
+**Nanditha Ram, Alois Reitbauer, Dave Uppal**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

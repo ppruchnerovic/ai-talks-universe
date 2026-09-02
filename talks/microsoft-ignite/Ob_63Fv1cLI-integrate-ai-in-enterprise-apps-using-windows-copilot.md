@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rahul Amlekar", "Aditi Narvekar"]
 channel: "Microsoft Events"
 duration_min: 26
 published_at: 2024-11-25T13:44:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Integrate AI in enterprise apps using Windows Copilot Runtime APIs powered by | BRK303
 
-**Speaker not identified**
+**Rahul Amlekar, Aditi Narvekar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `26 min`
 

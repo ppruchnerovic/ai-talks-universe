@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Marcel Kornacker"]
 channel: "AI Council"
 duration_min: 40
 published_at: 2025-05-29T13:29:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Introducing Pixeltable: Open Source Data Infrastructure for Multimodal AI
 
-**Speaker not identified**
+**Marcel Kornacker**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `40 min`
 

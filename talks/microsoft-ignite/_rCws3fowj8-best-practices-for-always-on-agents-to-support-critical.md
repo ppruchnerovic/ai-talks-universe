@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shivani Pradhan"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T07:32:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Best practices for always-on agents to support critical workloads | BRK308
 
-**Speaker not identified**
+**Shivani Pradhan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

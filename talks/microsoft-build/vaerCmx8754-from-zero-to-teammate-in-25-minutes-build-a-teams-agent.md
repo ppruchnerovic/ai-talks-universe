@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Aamir Jawaid", "Umang Sehgal"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T11:00:43Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From zero to teammate in 25 minutes: Build a Teams agent live | DEM332
 
-**Speaker not identified**
+**Aamir Jawaid, Umang Sehgal**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

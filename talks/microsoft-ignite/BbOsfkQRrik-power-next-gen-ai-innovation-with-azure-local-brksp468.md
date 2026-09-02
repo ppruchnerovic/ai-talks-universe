@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stuart Mcrae", "Jayanth Yajaman"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T10:34:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power next-gen AI innovation with Azure Local | BRKSP468
 
-**Speaker not identified**
+**Stuart Mcrae, Jayanth Yajaman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

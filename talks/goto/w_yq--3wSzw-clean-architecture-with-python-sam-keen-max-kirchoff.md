@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Sam Keen", "Max Kirchoff"]
 channel: "GOTO Conferences"
 duration_min: 37
 published_at: 2026-02-13T13:26:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Clean Architecture with Python • Sam Keen & Max Kirchoff
 
-**Speaker not identified**
+**Sam Keen, Max Kirchoff**
 
 `GOTO Conferences` · `GOTO` · `2026` · `37 min`
 

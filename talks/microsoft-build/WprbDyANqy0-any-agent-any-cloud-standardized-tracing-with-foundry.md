@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Hanchi Wang", "Nagkumar Arkalgud"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-04T11:22:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry | DEM341
 
-**Speaker not identified**
+**Hanchi Wang, Nagkumar Arkalgud**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Andreas Kollegger", "Zaid Zaim"]
 channel: "AI Engineer"
 duration_min: 17
 published_at: 2026-05-28T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Context Graphs for Explainable, Decision-Aware AI Agents — Andreas Kollegger & Zaid Zaim, Neo4j
 
-**Speaker not identified**
+**Andreas Kollegger, Zaid Zaim**
 
 `AI Engineer` · `AI Engineer` · `2026` · `17 min`
 

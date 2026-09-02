@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Austin Laugesen", "Marc Schweigert"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-26T07:35:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Deep Dive: Create monitor and optimize enterprise apps with Power Apps | BRK174
 
-**Speaker not identified**
+**Austin Laugesen, Marc Schweigert**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

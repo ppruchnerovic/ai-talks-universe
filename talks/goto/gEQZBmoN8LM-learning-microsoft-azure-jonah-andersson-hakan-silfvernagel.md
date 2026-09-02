@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Jonah Andersson", "Håkan Silfvernagel"]
 channel: "GOTO Conferences"
 duration_min: 38
 published_at: 2025-02-14T10:41:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Learning Microsoft Azure • Jonah Andersson & Håkan Silfvernagel
 
-**Speaker not identified**
+**Jonah Andersson, Håkan Silfvernagel**
 
 `GOTO Conferences` · `GOTO` · `2025` · `38 min`
 

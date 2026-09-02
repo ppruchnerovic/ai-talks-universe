@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Sarah Cecchetti", "Head of Product", "Cedar Policy Language"]
+speakers: ["Sarah Cecchetti"]
 channel: "RSAC Cybersecurity"
 duration_min: 51
 published_at: 2024-06-10T21:15:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Permissions: Centralized or Decentralized? Both!
 
-**Sarah Cecchetti, Head of Product, Cedar Policy Language**
+**Sarah Cecchetti**
 
 `RSAC Conference` · `RSAC` · `2024` · `51 min`
 

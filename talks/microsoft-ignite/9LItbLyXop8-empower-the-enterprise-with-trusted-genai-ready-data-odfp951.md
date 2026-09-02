@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ajay Gollapalli"]
 channel: "Microsoft Events"
 duration_min: 26
 published_at: 2024-11-20T13:57:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empower the enterprise with trusted GenAI-ready data | ODFP951
 
-**Speaker not identified**
+**Ajay Gollapalli**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `26 min`
 

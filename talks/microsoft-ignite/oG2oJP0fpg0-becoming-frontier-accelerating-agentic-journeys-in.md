@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Adrian Crockett", "Jared Lambert", "Hemanth Sundararaj", "Adam Wheat"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T07:25:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Becoming frontier: Accelerating agentic journeys in financial services | BRK366
 
-**Speaker not identified**
+**Adrian Crockett, Jared Lambert, Hemanth Sundararaj, Adam Wheat**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

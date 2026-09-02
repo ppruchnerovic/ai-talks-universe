@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Arun Gupta"]
 channel: "Devoxx"
 duration_min: 39
 published_at: 2025-10-08T05:30:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # MCP in the Wild: Real Time Agentic Systems with Live AB Testing by Arun Gupta
 
-**Speaker not identified**
+**Arun Gupta**
 
 `Devoxx` · `Devoxx` · `2025` · `39 min`
 

@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Oliver Borchert", "Andreas Albert"]
+speakers: ["Oliver Borchert"]
 channel: "PyData"
 duration_min: 88
 published_at: 2026-08-04T22:20:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building reliable data pipelines with polars and dataframely [PyCon DE & PyData 2026]
 
-**Oliver Borchert, Andreas Albert**
+**Oliver Borchert**
 
 `PyData` · `PyData` · `2026` · `88 min`
 

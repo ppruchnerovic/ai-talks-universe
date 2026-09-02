@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Simon Jakesch", "Abhay Pradhan", "Paul Yuknewicz"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-25T12:36:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building serverless intelligent apps with Flex Consumption and GPUs | BRK145
 
-**Speaker not identified**
+**Simon Jakesch, Abhay Pradhan, Paul Yuknewicz**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

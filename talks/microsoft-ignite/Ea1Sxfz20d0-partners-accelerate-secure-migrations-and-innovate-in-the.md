@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gabriela Perez Arredondo", "Jonathan Stock"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-25T15:58:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partners: Accelerate Secure Migrations and Innovate in the Era of AI | PBRK271
 
-**Speaker not identified**
+**Gabriela Perez Arredondo, Jonathan Stock**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

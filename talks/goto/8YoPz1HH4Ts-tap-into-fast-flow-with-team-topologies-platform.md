@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Manuel Pais", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 52
 published_at: 2025-06-20T09:48:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Tap Into Fast Flow with Team Topologies & Platform Engineering • Manuel Pais & Julian Wood
 
-**Speaker not identified**
+**Manuel Pais, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `52 min`
 

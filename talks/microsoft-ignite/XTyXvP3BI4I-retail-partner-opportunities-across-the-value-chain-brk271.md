@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lindsay Berg", "Roy Capon", "Kathie Johnson"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-27T12:00:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Retail partner opportunities across the value chain | BRK271
 
-**Speaker not identified**
+**Lindsay Berg, Roy Capon, Kathie Johnson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

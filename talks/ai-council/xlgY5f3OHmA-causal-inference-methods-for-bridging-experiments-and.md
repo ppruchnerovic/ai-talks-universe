@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Wenjing Zheng"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:44:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Causal Inference Methods for Bridging Experiments and Strategic Impact
 
-**Speaker not identified**
+**Wenjing Zheng**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

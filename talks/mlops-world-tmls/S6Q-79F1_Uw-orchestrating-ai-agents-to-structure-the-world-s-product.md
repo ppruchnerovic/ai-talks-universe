@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Kshetrajna Raghavan", "Ricardo Tejedor", "Senior Taxonomist"]
+speakers: ["Kshetrajna Raghavan", "Ricardo Tejedor"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 33
 published_at: 2025-11-20T08:06:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Orchestrating AI Agents to Structure the World's Product Knowledge | Shopify
 
-**Kshetrajna Raghavan, Ricardo Tejedor, Senior Taxonomist**
+**Kshetrajna Raghavan, Ricardo Tejedor**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `33 min`
 

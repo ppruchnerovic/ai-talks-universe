@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Teresa Conceicao", "Ganesh Sivaraman"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T10:21:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate and scale physical AI development with simulation | BRKSP489
 
-**Speaker not identified**
+**Teresa Conceicao, Ganesh Sivaraman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

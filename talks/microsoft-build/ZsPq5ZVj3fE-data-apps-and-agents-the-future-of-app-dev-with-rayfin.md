@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ben Zulauf", "Sachin Patney"]
 channel: "Microsoft Developer"
 duration_min: 32
 published_at: 2026-06-04T12:17:40Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Data, apps, and agents: the future of app dev with Rayfin | BRK225
 
-**Speaker not identified**
+**Ben Zulauf, Sachin Patney**
 
 `Microsoft Build` · `Build 2026` · `2026` · `32 min`
 

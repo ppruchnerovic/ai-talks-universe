@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rick Lievano", "Mustafa Oyumi", "Lionel Schonberg"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-27T09:46:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Elevate subscriber experiences with Customer Engagement Platform | BRK253
 
-**Speaker not identified**
+**Rick Lievano, Mustafa Oyumi, Lionel Schonberg**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

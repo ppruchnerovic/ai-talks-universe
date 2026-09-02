@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Katarina Stanley", "Daniel Arrizza"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-04T10:19:45Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Run AI at scale with Ray + Kubernetes using Anyscale on Azure | ODSP914
 
-**Speaker not identified**
+**Katarina Stanley, Daniel Arrizza**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Roberto Milev", "Uday Kanagala"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-08-29T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agents Are Where Microservices Were in 2015 — Roberto Milev & Uday Kanagala, Navan
 
-**Speaker not identified**
+**Roberto Milev, Uday Kanagala**
 
 `AI Engineer` · `AI Engineer` · `2026` · `19 min`
 

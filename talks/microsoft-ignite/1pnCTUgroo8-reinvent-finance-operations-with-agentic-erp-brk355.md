@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Georg Glantschnig", "John Bowden", "Sinahi Lopez", "Sameer Verma"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T10:48:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reinvent Finance & Operations with Agentic ERP | BRK355
 
-**Speaker not identified**
+**Georg Glantschnig, John Bowden, Sinahi Lopez, Sameer Verma**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

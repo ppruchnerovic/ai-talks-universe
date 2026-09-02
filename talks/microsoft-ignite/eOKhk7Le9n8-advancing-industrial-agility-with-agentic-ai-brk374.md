@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Johannes Bernstein", "Adam Bogobowicz"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T14:53:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advancing Industrial Agility with Agentic AI | BRK374
 
-**Speaker not identified**
+**Johannes Bernstein, Adam Bogobowicz**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

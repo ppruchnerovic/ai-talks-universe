@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["David Abzarian", "Karan Dhillon"]
 channel: "Microsoft Events"
 duration_min: 30
 published_at: 2025-11-24T04:58:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advancing Windows device security through Surface innovation | BRK338
 
-**Speaker not identified**
+**David Abzarian, Karan Dhillon**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `30 min`
 

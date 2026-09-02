@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Vaidyaraman Sambasivam", "Osi Otugo", "Jean Boudier"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T11:25:59Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Hugging Face open‑source models to production on Microsoft Foundry | DEM320
 
-**Speaker not identified**
+**Vaidyaraman Sambasivam, Osi Otugo, Jean Boudier**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

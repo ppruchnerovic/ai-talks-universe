@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hamilton Ulmer"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T06:55:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Instant Preview Mode Real Time Feedback to Make SQL Data Exploration Fly
 
-**Speaker not identified**
+**Hamilton Ulmer**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kenny Lowe"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:33:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive innovation with AI, hybrid cloud, and Copilot+ in Dell AI PCs | STUDIOSP73
 
-**Speaker not identified**
+**Kenny Lowe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

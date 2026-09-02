@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["James Connelly"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-26T07:38:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Real-World Success: How Customers Are Driving Transformation with the Power Platform | BRK183
 
-**Speaker not identified**
+**James Connelly**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

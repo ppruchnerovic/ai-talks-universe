@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Konstantin Pavlov"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2025-10-09T05:36:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Testing Challenges in the Age of AI by Konstantin Pavlov
 
-**Speaker not identified**
+**Konstantin Pavlov**
 
 `Devoxx` · `Devoxx` · `2025` · `45 min`
 

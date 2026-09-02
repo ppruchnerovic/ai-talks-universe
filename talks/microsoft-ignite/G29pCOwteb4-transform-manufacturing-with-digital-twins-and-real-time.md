@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Donald Ferguson", "Ganesh Sivaraman"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2025-11-26T20:19:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transform manufacturing with digital twins and real-time simulation | STUDIOSP64
 
-**Speaker not identified**
+**Donald Ferguson, Ganesh Sivaraman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `10 min`
 

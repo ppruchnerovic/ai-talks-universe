@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Shelly Bakke", "Arminder Singh"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2024-11-27T11:55:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building solution practices for Microsoft Cloud for Sustainability | BRK269
 
-**Speaker not identified**
+**Shelly Bakke, Arminder Singh**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `38 min`
 

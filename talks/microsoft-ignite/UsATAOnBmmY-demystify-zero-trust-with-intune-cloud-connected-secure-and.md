@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lior Bela", "Sangeetha Visweswaran"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T04:50:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Demystify Zero Trust with Intune: cloud-connected, secure, and AI-ready endpoints | BRK340
 
-**Speaker not identified**
+**Lior Bela, Sangeetha Visweswaran**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

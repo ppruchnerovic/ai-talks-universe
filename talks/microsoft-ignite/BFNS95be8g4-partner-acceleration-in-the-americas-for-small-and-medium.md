@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alistair Butler", "Federico Charosky", "Harpreet Girn", "Jose Gomez Cueto", "Brian Matthews", "Sanju Nair", "Pablo Rodriguez Leis", "Erwin Visser"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-26T09:59:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner acceleration in the Americas for Small and Medium Enterprise | PBRK438
 
-**Speaker not identified**
+**Alistair Butler, Federico Charosky, Harpreet Girn, Jose Gomez Cueto, Brian Matthews, Sanju Nair, Pablo Rodriguez Leis, Erwin Visser**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `49 min`
 

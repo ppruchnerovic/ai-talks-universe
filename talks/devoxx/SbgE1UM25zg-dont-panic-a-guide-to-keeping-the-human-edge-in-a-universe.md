@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Janina Sutter"]
 channel: "Devoxx"
 duration_min: 20
 published_at: 2026-04-01T08:05:33Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Don’t Panic! A Guide to Keeping the Human Edge in a Universe of Instant Output by Janina Sutter
 
-**Speaker not identified**
+**Janina Sutter**
 
 `Devoxx` · `Devoxx` · `2026` · `20 min`
 

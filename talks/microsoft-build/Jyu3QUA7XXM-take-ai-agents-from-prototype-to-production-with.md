@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Harry Kimpel"]
 channel: "Microsoft Developer"
 duration_min: 16
 published_at: 2026-06-03T10:33:37Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Take AI agents from prototype to production with OpenTelemetry | ODSP909
 
-**Speaker not identified**
+**Harry Kimpel**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

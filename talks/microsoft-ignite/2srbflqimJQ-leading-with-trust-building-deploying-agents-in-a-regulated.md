@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sourabh Pandey", "Manny Sahota", "Tony Thampan"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T13:52:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Leading with Trust: Building & Deploying Agents in a Regulated World | BRK1733
 
-**Speaker not identified**
+**Sourabh Pandey, Manny Sahota, Tony Thampan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

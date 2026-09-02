@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Iulia Feroli"]
 channel: "Devoxx"
 duration_min: 38
 published_at: 2026-04-09T19:33:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How I built my own Intelligent Robot Arm from Scratch by Iulia Feroli
 
-**Speaker not identified**
+**Iulia Feroli**
 
 `Devoxx` · `Devoxx` · `2026` · `38 min`
 

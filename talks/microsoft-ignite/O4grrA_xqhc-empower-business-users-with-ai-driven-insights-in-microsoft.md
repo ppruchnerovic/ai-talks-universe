@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lada Hill", "Amir Jafari", "Maya Shenhav"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T00:48:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empower Business Users with AI driven insights in Microsoft Fabric | BRK223
 
-**Speaker not identified**
+**Lada Hill, Amir Jafari, Maya Shenhav**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Charles Feddersen", "Mohsin Shafqat"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-12-09T18:08:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Nasdaq Boardvantage: AI-driven governance on PostgreSQL and Microsoft Foundry | BRK137
 
-**Speaker not identified**
+**Charles Feddersen, Mohsin Shafqat**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

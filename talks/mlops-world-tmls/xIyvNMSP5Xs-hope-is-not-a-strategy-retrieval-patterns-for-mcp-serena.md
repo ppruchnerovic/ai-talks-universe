@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Serena Chou", "Product Management"]
+speakers: ["Serena Chou"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 30
 published_at: 2025-10-24T23:01:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Hope is Not a Strategy: Retrieval Patterns for MCP | Serena Chou, Elastic
 
-**Serena Chou, Product Management**
+**Serena Chou**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `30 min`
 

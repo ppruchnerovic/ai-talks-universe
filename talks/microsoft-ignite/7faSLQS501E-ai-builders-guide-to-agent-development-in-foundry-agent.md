@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Salman Quazi", "Dan Taylor", "Travis Wilson"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-20T16:13:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI builder’s guide to agent development in Foundry Agent Service | BRK201
 
-**Speaker not identified**
+**Salman Quazi, Dan Taylor, Travis Wilson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

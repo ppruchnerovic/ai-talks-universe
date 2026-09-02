@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Bear Shelton"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-19T15:14:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Create your blueprint for a successful AI transformation | ODSP1415
 
-**Speaker not identified**
+**Bear Shelton**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `12 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Dillon Morrison"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2025-05-29T00:15:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Text-to-SQL Is Not the Answer: How to Effectively Use AI for Analytics
 
-**Speaker not identified**
+**Dillon Morrison**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `31 min`
 

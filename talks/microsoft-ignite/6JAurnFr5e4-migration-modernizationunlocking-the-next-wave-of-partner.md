@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Randy Holloway", "David Miller", "Ananthanarayan Sundaram", "Roger Whitehead"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-25T12:13:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Migration & Modernization—Unlocking the Next Wave of Partner Growth | PBRK152
 
-**Speaker not identified**
+**Randy Holloway, David Miller, Ananthanarayan Sundaram, Roger Whitehead**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

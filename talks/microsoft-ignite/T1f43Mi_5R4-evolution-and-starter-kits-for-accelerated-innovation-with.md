@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Varsha Jain"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T13:49:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Evolution and starter kits for accelerated innovation with generative AI | ODFP947
 
-**Speaker not identified**
+**Varsha Jain**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `18 min`
 

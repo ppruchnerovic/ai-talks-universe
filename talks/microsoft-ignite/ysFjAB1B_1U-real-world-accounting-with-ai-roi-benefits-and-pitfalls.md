@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aaron Harris"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2024-11-20T14:15:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Real world accounting with AI: ROI benefits and pitfalls | ODFP972
 
-**Speaker not identified**
+**Aaron Harris**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `20 min`
 

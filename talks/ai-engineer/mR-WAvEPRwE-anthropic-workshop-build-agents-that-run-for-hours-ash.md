@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Ash Prabaker", "Andrew Wilson"]
 channel: "AI Engineer"
 duration_min: 76
 published_at: 2026-05-18T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Anthropic Workshop: Build Agents That Run for Hours — Ash Prabaker & Andrew Wilson
 
-**Speaker not identified**
+**Ash Prabaker, Andrew Wilson**
 
 `AI Engineer` · `AI Engineer` · `2026` · `76 min`
 

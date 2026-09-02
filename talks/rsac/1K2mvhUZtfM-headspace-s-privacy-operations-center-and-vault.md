@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Shobhit Mehta", "Compliance Director"]
+speakers: ["Shobhit Mehta"]
 channel: "RSAC Cybersecurity"
 duration_min: 50
 published_at: 2024-06-10T21:15:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Headspace's Privacy Operations Center and Vault
 
-**Shobhit Mehta, Compliance Director**
+**Shobhit Mehta**
 
 `RSAC Conference` · `RSAC` · `2024` · `50 min`
 

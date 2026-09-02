@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stephen Boyle", "Shishank Gupta", "Sue Hartford"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T14:07:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner Opportunities: Modernize Oracle, SAP & VMware on Azure | PBRK153
 
-**Speaker not identified**
+**Stephen Boyle, Shishank Gupta, Sue Hartford**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

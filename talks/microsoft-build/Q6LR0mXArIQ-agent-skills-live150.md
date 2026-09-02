@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Addy Osmani", "Burke Holland"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-05T15:36:17Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agent Skills | LIVE150
 
-**Speaker not identified**
+**Addy Osmani, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ganesh Ramanarayanan"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T07:01:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Multi-Modal Compute for Data Analytics
 
-**Speaker not identified**
+**Ganesh Ramanarayanan**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

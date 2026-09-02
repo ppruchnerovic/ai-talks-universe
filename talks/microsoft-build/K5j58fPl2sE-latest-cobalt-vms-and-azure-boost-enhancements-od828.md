@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Amar Dhamdhere"]
 channel: "Microsoft Developer"
 duration_min: 40
 published_at: 2026-06-03T13:17:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Latest Cobalt VMs and Azure Boost enhancements​ | OD828
 
-**Speaker not identified**
+**Amar Dhamdhere**
 
 `Microsoft Build` · `Build 2026` · `2026` · `40 min`
 

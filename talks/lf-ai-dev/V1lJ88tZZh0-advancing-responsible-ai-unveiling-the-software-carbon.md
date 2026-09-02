@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Chris Xie", "Tereze Gaile"]
 channel: "The Linux Foundation"
 duration_min: 35
 published_at: 2024-06-27T14:40:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advancing Responsible AI: Unveiling the Software Carbon Efficiency Rat... - Chris Xie & Tereze Gaile
 
-**Speaker not identified**
+**Chris Xie, Tereze Gaile**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `35 min`
 

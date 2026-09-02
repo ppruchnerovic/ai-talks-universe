@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jeremy Chapman"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-24T14:21:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft 365 Copilot and agent updates for everyone | STUDIO38
 
-**Speaker not identified**
+**Jeremy Chapman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

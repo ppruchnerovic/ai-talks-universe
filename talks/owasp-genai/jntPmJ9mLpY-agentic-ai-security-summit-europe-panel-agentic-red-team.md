@@ -7,7 +7,7 @@ conference_name: "OWASP GenAI Security Project"
 category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
-speakers: ["Agentic Red Team Challenges"]
+speakers: []
 channel: "OWASP GenAI Security Project"
 duration_min: 32
 published_at: 2026-01-21T06:45:26Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agentic AI Security Summit, Europe: Panel - Agentic Red Team Challenges
 
-**Agentic Red Team Challenges**
+**Speaker not identified**
 
 `OWASP GenAI Security Project` · `OWASP GenAI Security` · `2026` · `32 min`
 

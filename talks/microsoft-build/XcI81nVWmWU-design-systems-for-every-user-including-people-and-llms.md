@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Guust Ysebie"]
 channel: "Microsoft Developer"
 duration_min: 12
 published_at: 2026-06-03T10:44:45Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Design systems for every user including people and LLMs | ODSP916
 
-**Speaker not identified**
+**Guust Ysebie**
 
 `Microsoft Build` · `Build 2026` · `2026` · `12 min`
 

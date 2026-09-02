@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Maximillian Kirby"]
 channel: "Microsoft Developer"
 duration_min: 13
 published_at: 2026-06-05T14:34:33Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Organizational intelligence in action — with Anthropic | LIVESP129
 
-**Speaker not identified**
+**Maximillian Kirby**
 
 `Microsoft Build` · `Build 2026` · `2026` · `13 min`
 

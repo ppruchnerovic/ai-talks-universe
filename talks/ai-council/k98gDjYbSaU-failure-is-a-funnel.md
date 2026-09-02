@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Bryan Bischof"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:51:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Failure is a Funnel
 
-**Speaker not identified**
+**Bryan Bischof**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

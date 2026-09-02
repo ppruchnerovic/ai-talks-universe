@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andrii Mykhailiuk", "Pepijn Richter"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T13:04:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empower the retail workforce with the Store Operations Agent | BRK260
 
-**Speaker not identified**
+**Andrii Mykhailiuk, Pepijn Richter**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

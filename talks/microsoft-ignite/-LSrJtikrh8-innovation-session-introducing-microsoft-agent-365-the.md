@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Neta Haiby", "Mark Luquire", "Nirav Shah", "Monica Ugwi", "Tao Zhang"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2025-11-21T07:08:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Introducing Microsoft Agent 365: the Control Plane for AI Agents | BRK306
 
-**Speaker not identified**
+**Neta Haiby, Mark Luquire, Nirav Shah, Monica Ugwi, Tao Zhang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `48 min`
 

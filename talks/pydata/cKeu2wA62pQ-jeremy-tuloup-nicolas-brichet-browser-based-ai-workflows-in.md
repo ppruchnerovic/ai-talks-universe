@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Jeremy Tuloup", "Nicolas Brichet"]
 channel: "PyData"
 duration_min: 31
 published_at: 2025-11-21T16:25:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Jeremy Tuloup & Nicolas Brichet - Browser-based AI workflows in Jupyter
 
-**Speaker not identified**
+**Jeremy Tuloup, Nicolas Brichet**
 
 `PyData` · `PyData` · `2025` · `31 min`
 

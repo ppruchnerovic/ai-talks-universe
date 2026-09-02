@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Nish Anil"]
 channel: "Microsoft Developer"
 duration_min: 43
 published_at: 2026-06-11T08:20:02Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Using AI tools to teach old apps new tricks | BRK220
 
-**Speaker not identified**
+**Nish Anil**
 
 `Microsoft Build` · `Build 2026` · `2026` · `43 min`
 

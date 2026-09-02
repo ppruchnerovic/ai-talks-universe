@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2026
-speakers: ["Enterprise Analytics"]
+speakers: []
 channel: "AI Council"
 duration_min: 27
 published_at: 2026-06-16T18:45:26Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Breaking the Proof-of-Concept Cycle: Stop Prototyping and Get Into Production | GitLab
 
-**Enterprise Analytics**
+**Speaker not identified**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `27 min`
 

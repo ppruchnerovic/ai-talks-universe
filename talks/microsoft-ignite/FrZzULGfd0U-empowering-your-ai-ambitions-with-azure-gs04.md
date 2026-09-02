@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Bernardo Caldas", "Asha Sharma", "Arun Ulagaratchagan", "Jeremy Winter", "Christine Sarros"]
 channel: "Microsoft Events"
 duration_min: 64
 published_at: 2024-11-27T19:12:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering your AI Ambitions with Azure | GS04
 
-**Speaker not identified**
+**Bernardo Caldas, Asha Sharma, Arun Ulagaratchagan, Jeremy Winter, Christine Sarros**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `64 min`
 

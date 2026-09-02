@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Tadashi Okazaki"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T14:57:32Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Japan Wrap-up Session | BRK209
 
-**Speaker not identified**
+**Tadashi Okazaki**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

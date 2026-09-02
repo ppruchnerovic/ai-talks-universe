@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Frank Buchholz", "Jacob Rhoades"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T13:38:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure your endpoints with Surface | BRK296
 
-**Speaker not identified**
+**Frank Buchholz, Jacob Rhoades**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

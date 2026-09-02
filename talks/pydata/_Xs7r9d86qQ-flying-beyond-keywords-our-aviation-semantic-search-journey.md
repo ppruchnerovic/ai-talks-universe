@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Dat Tran", "Dennis Schmidt"]
+speakers: ["Dat Tran"]
 channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Flying Beyond Keywords: Our Aviation Semantic Search Journey
 
-**Dat Tran, Dennis Schmidt**
+**Dat Tran**
 
 `PyData` · `PyData` · `2025` · `30 min`
 

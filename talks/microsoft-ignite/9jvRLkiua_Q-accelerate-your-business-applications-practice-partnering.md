@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Bryan Goode"]
 channel: "Microsoft Events"
 duration_min: 36
 published_at: 2024-11-20T13:56:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate your Business Applications practice: Partnering for success | BRK184
 
-**Speaker not identified**
+**Bryan Goode**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `36 min`
 

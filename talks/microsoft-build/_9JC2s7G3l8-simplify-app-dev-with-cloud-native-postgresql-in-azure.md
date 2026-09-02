@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Maxim Lukiyanov"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T13:25:22Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Simplify app dev with cloud-native PostgreSQL in Azure HorizonDB | DEM364
 
-**Speaker not identified**
+**Maxim Lukiyanov**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

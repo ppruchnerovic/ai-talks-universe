@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Srishti Bhargava", "Amazon Web Services"]
+speakers: ["Srishti Bhargava"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 27
 published_at: 2025-10-20T22:37:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Rise of Self-Aware Data Lakehouses | Srishti Bhargava, AWS
 
-**Srishti Bhargava, Amazon Web Services**
+**Srishti Bhargava**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `27 min`
 

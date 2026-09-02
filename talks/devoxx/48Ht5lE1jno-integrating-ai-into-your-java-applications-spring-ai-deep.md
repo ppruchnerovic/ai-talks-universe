@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Christian Tzolov"]
 channel: "Devoxx"
 duration_min: 99
 published_at: 2026-04-08T19:02:02Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Integrating AI into Your Java Applications: Spring AI Deep Dive with RAG by Christian Tzolov
 
-**Speaker not identified**
+**Christian Tzolov**
 
 `Devoxx` · `Devoxx` · `2026` · `99 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Shlomi Avigdor", "Surojit Chatterjee", "Tom Davis", "Gil Perry"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-26T08:40:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Strategies for Enterprises to Fast-Track AI Adoption | BRK357
 
-**Speaker not identified**
+**Shlomi Avigdor, Surojit Chatterjee, Tom Davis, Gil Perry**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

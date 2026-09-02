@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Michele Dolfi", "Christoph Auer"]
+speakers: ["Michele Dolfi"]
 channel: "PyData"
 duration_min: 32
 published_at: 2025-11-23T14:33:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Docling: Get your documents ready for gen AI
 
-**Michele Dolfi, Christoph Auer**
+**Michele Dolfi**
 
 `PyData` · `PyData` · `2025` · `32 min`
 

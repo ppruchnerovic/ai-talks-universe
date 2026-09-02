@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Amanda Silver", "Marco Casalaina"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-11T08:16:56Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build context-aware agents: From data to decisions | BRK240
 
-**Speaker not identified**
+**Amanda Silver, Marco Casalaina**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

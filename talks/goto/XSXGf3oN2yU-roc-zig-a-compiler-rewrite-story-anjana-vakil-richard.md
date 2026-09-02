@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Anjana Vakil", "Richard Feldman"]
 channel: "GOTO Conferences"
 duration_min: 32
 published_at: 2026-05-11T12:00:58Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Roc & Zig: A Compiler Rewrite Story • Anjana Vakil & Richard Feldman • GOTO 2026
 
-**Speaker not identified**
+**Anjana Vakil, Richard Feldman**
 
 `GOTO Conferences` · `GOTO` · `2026` · `32 min`
 

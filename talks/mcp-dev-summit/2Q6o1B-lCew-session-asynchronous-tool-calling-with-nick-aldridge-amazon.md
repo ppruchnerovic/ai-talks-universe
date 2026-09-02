@@ -7,7 +7,7 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
-speakers: ["Amazon Web Services"]
+speakers: []
 channel: "Agentic AI Foundation"
 duration_min: 14
 published_at: 2025-10-10T04:00:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # [Session] Asynchronous Tool Calling with Nick Aldridge - Amazon Web Services
 
-**Amazon Web Services**
+**Speaker not identified**
 
 `MCP Dev Summit` · `MCP Dev Summit Europe 2025` · `2025` · `14 min`
 

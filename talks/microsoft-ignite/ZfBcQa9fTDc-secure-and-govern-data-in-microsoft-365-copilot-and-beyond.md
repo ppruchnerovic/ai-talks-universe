@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Charley Barth", "Shukra Kichambare", "Aashish Ramdas", "Manjunatha Sivanna", "Tina Ying"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-21T10:17:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure and govern data in Microsoft 365 Copilot and beyond | BRK321
 
-**Speaker not identified**
+**Charley Barth, Shukra Kichambare, Aashish Ramdas, Manjunatha Sivanna, Tina Ying**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

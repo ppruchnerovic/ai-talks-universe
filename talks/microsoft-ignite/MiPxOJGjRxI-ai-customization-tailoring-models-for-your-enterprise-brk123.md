@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Yina Arenas", "Vijay Aski"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T07:09:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI customization: Tailoring models for your enterprise | BRK123
 
-**Speaker not identified**
+**Yina Arenas, Vijay Aski**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Uday Kiran Medisetty", "Adam Huda"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-08-21T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agentic SDLC at Uber — Uday Kiran Medisetty & Adam Huda, Uber
 
-**Speaker not identified**
+**Uday Kiran Medisetty, Adam Huda**
 
 `AI Engineer` · `AI Engineer` · `2026` · `18 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Denver Brittain", "Sonja Gu", "Asir Selvasingh"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-26T07:19:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modernize and scale enterprise Java applications on Azure | BRK147
 
-**Speaker not identified**
+**Denver Brittain, Sonja Gu, Asir Selvasingh**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

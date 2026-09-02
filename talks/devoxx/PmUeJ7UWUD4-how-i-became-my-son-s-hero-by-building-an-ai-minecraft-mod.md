@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Dominique Broeglin"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2025-02-19T15:55:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How I became my son's hero by building an AI Minecraft Mod with LangChain4J by Dominique Broeglin
 
-**Speaker not identified**
+**Dominique Broeglin**
 
 `Devoxx` · `Devoxx` · `2025` · `48 min`
 

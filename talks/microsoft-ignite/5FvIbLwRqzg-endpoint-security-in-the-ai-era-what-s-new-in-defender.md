@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dana Bargury Shina", "Kim Kischel"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T15:28:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Endpoint security in the AI era: What's new in Defender | BRK240
 
-**Speaker not identified**
+**Dana Bargury Shina, Kim Kischel**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

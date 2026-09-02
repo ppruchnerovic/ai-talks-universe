@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pamela Fox", "Matthew Gotteiner"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T17:21:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build agents with knowledge, agentic RAG and Azure AI Search | BRK193
 
-**Speaker not identified**
+**Pamela Fox, Matthew Gotteiner**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

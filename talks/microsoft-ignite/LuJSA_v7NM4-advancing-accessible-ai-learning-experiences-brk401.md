@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jeana Jorgensen"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T11:48:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advancing accessible AI-learning experiences | BRK401
 
-**Speaker not identified**
+**Jeana Jorgensen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

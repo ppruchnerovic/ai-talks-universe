@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Pete Hunt"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2024-04-17T05:00:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Declarative Orchestration: Why You’ve Been Thinking About the Wrong DAG the Entire Time
 
-**Speaker not identified**
+**Pete Hunt**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `32 min`
 

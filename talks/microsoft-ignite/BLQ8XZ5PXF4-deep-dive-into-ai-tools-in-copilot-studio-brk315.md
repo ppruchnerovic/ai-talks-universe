@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Derah Onuorah", "Wassim Wehbi"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T15:48:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Deep dive into AI tools in Copilot Studio | BRK315
 
-**Speaker not identified**
+**Derah Onuorah, Wassim Wehbi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

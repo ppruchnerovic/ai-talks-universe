@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Anish Tallapureddy", "Mike Budzynski"]
 channel: "Microsoft Developer"
 duration_min: 39
 published_at: 2026-06-03T12:41:57Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Govern AI models, tools, and agents with Azure API Management | OD831
 
-**Speaker not identified**
+**Anish Tallapureddy, Mike Budzynski**
 
 `Microsoft Build` · `Build 2026` · `2026` · `39 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Anton Arhipov"]
 channel: "Devoxx"
 duration_min: 47
 published_at: 2026-02-27T13:52:49Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Spec-Driven Development with AI Agents From High-Level Requirements to Working SW by Anton Arhipov
 
-**Speaker not identified**
+**Anton Arhipov**
 
 `Devoxx` · `Devoxx` · `2026` · `47 min`
 

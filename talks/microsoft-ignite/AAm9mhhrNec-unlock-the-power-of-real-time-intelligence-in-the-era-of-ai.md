@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yitzhak Kesselman", "Fred Bellio", "Tessa Kloster", "Bharathi Rajan", "Ashokkan Somuveerappan", "Will Thompson"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T07:23:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock the power of Real-Time Intelligence in the era of AI | BRK226
 
-**Speaker not identified**
+**Yitzhak Kesselman, Fred Bellio, Tessa Kloster, Bharathi Rajan, Ashokkan Somuveerappan, Will Thompson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

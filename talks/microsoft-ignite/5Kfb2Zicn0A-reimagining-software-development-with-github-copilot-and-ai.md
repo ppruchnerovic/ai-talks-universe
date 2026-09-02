@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mario Rodriguez", "Luke Hoban"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T08:24:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reimagining software development with GitHub Copilot and AI agents | BRK105
 
-**Speaker not identified**
+**Mario Rodriguez, Luke Hoban**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hannes Mühleisen"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T14:16:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # DuckDB Co-Creator Hannes Mühleisen on Why Single-Node Beats Distributed
 
-**Speaker not identified**
+**Hannes Mühleisen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

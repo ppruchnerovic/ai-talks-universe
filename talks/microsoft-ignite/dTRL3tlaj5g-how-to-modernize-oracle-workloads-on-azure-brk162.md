@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kalyan Kaki", "Tushar Pandit"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T15:46:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to modernize Oracle workloads on Azure | BRK162
 
-**Speaker not identified**
+**Kalyan Kaki, Tushar Pandit**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

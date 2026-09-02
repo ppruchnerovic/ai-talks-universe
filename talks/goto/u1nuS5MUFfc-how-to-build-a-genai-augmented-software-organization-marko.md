@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Marko Klemetti", "Kris Jenkins"]
 channel: null
 duration_min: 47
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # How To Build a GenAI-Augmented Software Organization • Marko Klemetti & Kris Jenkins • GOTO 2025
 
-**Speaker not identified**
+**Marko Klemetti, Kris Jenkins**
 
 `GOTO Conferences` · `GOTO` · `2025` · `47 min`
 

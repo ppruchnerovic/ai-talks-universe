@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andy Beatman", "Mike Murchison"]
 channel: "Microsoft Events"
 duration_min: 52
 published_at: 2024-11-20T13:06:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure OpenAI Service for Start Ups and Digital-First Companies | OD839
 
-**Speaker not identified**
+**Andy Beatman, Mike Murchison**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `52 min`
 

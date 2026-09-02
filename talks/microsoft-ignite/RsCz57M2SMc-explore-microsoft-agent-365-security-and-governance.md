@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kim Kischel", "Joanne Marone", "Irina Nechaeva", "Shilpa Ranganathan"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-24T06:28:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Explore Microsoft Agent 365 security and governance capabilities | BRK269
 
-**Speaker not identified**
+**Kim Kischel, Joanne Marone, Irina Nechaeva, Shilpa Ranganathan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Mete Atamel"]
 channel: "Devoxx"
 duration_min: 39
 published_at: 2025-10-02T12:33:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Beyond the Prompt: Evaluating, Testing, and Securing LLM Applications by Mete Atamel
 
-**Speaker not identified**
+**Mete Atamel**
 
 `Devoxx` · `Devoxx` · `2025` · `39 min`
 

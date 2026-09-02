@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Holden Karau", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 41
 published_at: 2026-01-23T13:33:44Z
@@ -20,7 +20,7 @@ transcript: true
 
 # This AI Fights Health Insurance Denials • Holden Karau & Julian Wood
 
-**Speaker not identified**
+**Holden Karau, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2026` · `41 min`
 

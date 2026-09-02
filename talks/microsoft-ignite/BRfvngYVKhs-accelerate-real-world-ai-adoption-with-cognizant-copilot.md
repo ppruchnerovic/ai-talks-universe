@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Manpreet Singh"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-24T14:11:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate real-world AI adoption with Cognizant Copilot Launchpad | STUDIOSP86
 
-**Speaker not identified**
+**Manpreet Singh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `12 min`
 

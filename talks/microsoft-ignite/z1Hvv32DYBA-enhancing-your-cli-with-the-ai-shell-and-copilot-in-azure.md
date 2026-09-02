@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Steven Bucher", "Damien Caro"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T13:24:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enhancing your CLI with the AI Shell and Copilot in Azure | BRK396
 
-**Speaker not identified**
+**Steven Bucher, Damien Caro**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

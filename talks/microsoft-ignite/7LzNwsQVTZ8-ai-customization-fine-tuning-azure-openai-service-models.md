@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ami Patel", "Anish Shah", "Steve Sweetman"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:03:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI customization: Fine-tuning Azure OpenAI Service models | BRK101
 
-**Speaker not identified**
+**Ami Patel, Anish Shah, Steve Sweetman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

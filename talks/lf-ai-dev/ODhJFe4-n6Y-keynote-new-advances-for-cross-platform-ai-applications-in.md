@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Michael Yuan", "Justin Cormack"]
 channel: "The Linux Foundation"
 duration_min: 12
 published_at: 2024-06-27T14:39:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Keynote: New Advances for Cross-platform AI Applications in Docker - Michael Yuan & Justin Cormack
 
-**Speaker not identified**
+**Michael Yuan, Justin Cormack**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `12 min`
 

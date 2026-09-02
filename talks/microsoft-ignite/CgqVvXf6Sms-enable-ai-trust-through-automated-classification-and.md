@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cliff Embry", "Dan Holland"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-24T11:13:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enable AI trust through automated classification and labeling | BRKSP475
 
-**Speaker not identified**
+**Cliff Embry, Dan Holland**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

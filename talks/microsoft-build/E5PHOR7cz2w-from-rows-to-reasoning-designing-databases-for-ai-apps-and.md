@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Charles Feddersen", "Abe Omorogbe"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-05T15:47:08Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From rows to reasoning: Designing databases for AI apps and agents | BRK223
 
-**Speaker not identified**
+**Charles Feddersen, Abe Omorogbe**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

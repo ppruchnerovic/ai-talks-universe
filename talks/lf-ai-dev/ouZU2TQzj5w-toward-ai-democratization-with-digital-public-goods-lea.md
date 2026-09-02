@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Lea Gimpel", "Daniel Brumund"]
 channel: "The Linux Foundation"
 duration_min: 43
 published_at: 2024-06-27T14:39:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Toward AI Democratization with Digital Public Goods - Lea Gimpel & Daniel Brumund
 
-**Speaker not identified**
+**Lea Gimpel, Daniel Brumund**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `43 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jose Luis Fernandez"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T12:09:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Automation in Copilot Studio: Agent flows and computer use | BRK320
 
-**Speaker not identified**
+**Jose Luis Fernandez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

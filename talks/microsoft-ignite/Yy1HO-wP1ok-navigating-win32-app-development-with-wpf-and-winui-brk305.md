@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Chigusa Sansen", "Jeffrey Stall"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T13:46:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Navigating Win32 App Development with WPF and WinUI | BRK305
 
-**Speaker not identified**
+**Chigusa Sansen, Jeffrey Stall**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

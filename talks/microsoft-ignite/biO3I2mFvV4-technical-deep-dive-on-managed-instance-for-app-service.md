@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Scott Hunter", "Gaurav Seth", "Andrew Westgarth"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-20T16:42:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Technical deep dive on Managed Instance for App Service | BRK102
 
-**Speaker not identified**
+**Scott Hunter, Gaurav Seth, Andrew Westgarth**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

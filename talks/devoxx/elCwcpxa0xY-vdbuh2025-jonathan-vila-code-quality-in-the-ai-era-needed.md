@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Jonathan Vila"]
 channel: null
 duration_min: 46
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # [VDBUH2025] Jonathan Vila - Code Quality in the AI era, needed more than ever
 
-**Speaker not identified**
+**Jonathan Vila**
 
 `Devoxx` · `Devoxx` · `2025` · `46 min`
 

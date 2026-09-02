@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Guangya Liu", "Jean Detoeuf"]
 channel: "The Linux Foundation"
 duration_min: 19
 published_at: 2024-06-27T14:40:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Examining the Principles of Observability and Its Relevance in LLM... - Guangya Liu & Jean Detoeuf
 
-**Speaker not identified**
+**Guangya Liu, Jean Detoeuf**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `19 min`
 

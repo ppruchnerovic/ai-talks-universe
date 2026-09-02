@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: ["Doors of"]
+speakers: ["Doors of", "Kasimir Schulz", "Kenneth Yeung"]
 channel: "NDC Conferences"
 duration_min: 49
 published_at: 2026-01-29T09:42:08Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Doors of (AI)pportunity: The Front and Backdoors of LLMs - Kasimir Schulz& Kenneth Yeung
 
-**Doors of**
+**Doors of, Kasimir Schulz, Kenneth Yeung**
 
 `NDC Conferences` · `NDC` · `2026` · `49 min`
 

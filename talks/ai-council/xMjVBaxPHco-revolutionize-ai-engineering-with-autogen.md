@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Marck Vaisman"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T07:34:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Revolutionize AI Engineering with AutoGen
 
-**Speaker not identified**
+**Marck Vaisman**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

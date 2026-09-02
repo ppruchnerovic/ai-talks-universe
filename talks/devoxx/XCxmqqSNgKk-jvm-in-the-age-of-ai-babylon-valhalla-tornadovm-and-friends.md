@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Artur Skowronski"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2024-10-11T05:09:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # JVM in the Age of AI: Babylon, Valhalla, TornadoVM and friends by Artur Skowronski
 
-**Speaker not identified**
+**Artur Skowronski**
 
 `Devoxx` · `Devoxx` · `2024` · `49 min`
 

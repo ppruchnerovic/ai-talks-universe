@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Deepu Sa"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2025-10-10T05:10:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Delay the AI Overlords: How OAuth and OpenFGA Can Keep Your AI Agents from Going Rogue by Deepu Sa
 
-**Speaker not identified**
+**Deepu Sa**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

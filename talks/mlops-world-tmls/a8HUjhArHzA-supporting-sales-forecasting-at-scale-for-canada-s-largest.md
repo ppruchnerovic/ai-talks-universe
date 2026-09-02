@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Mefta Sadat", "Loblaw Digital"]
+speakers: ["Mefta Sadat"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 42
 published_at: 2023-05-29T05:19:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Supporting Sales Forecasting at Scale for Canada's Largest Grocery Store
 
-**Mefta Sadat, Loblaw Digital**
+**Mefta Sadat**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `42 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Natasha Crampton"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T08:09:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Our Agentic Era: Building Accessible and Responsible AI for Everyone | BRK402
 
-**Speaker not identified**
+**Natasha Crampton**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

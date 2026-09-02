@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Aditya Badramraju", "Dmitry Borodin", "Britt Ewen", "Anna Hoffman", "Ross Jenkins"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T16:38:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build scalable AI apps with Azure SQL Database Hyperscale | BRK126
 
-**Speaker not identified**
+**Aditya Badramraju, Dmitry Borodin, Britt Ewen, Anna Hoffman, Ross Jenkins**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

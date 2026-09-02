@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Threat Analysis"]
+speakers: []
 channel: "RSAC Cybersecurity"
 duration_min: 46
 published_at: 2024-06-10T21:15:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Creating an AI Security and Incident Response Team
 
-**Threat Analysis**
+**Speaker not identified**
 
 `RSAC Conference` · `RSAC` · `2024` · `46 min`
 

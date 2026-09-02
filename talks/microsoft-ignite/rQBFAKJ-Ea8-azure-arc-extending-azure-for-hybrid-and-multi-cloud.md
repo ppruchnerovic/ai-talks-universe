@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brendan Burns", "Steven Bucher"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-12-03T21:32:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure Arc: Extending Azure for hybrid and multi-cloud management | BRK183
 
-**Speaker not identified**
+**Brendan Burns, Steven Bucher**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

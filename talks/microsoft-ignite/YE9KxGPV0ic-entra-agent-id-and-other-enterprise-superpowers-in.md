@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Akshaya Annavajhala", "Gerald Ertl", "Amanda Foster"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T08:25:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Entra Agent ID and other enterprise superpowers in Microsoft Foundry | BRK186
 
-**Speaker not identified**
+**Akshaya Annavajhala, Gerald Ertl, Amanda Foster**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

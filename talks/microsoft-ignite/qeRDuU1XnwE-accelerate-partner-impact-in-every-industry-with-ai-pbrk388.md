@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kathleen Mitford", "Satish Thomas", "Colin Fleming", "Ihab Foudeh", "Sunil Senan"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T13:16:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate Partner Impact in Every Industry with AI | PBRK388
 
-**Speaker not identified**
+**Kathleen Mitford, Satish Thomas, Colin Fleming, Ihab Foudeh, Sunil Senan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

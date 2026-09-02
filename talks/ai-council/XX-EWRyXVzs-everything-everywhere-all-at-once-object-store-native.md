@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Vishnu Vasanth"]
 channel: "AI Council"
 duration_min: 24
 published_at: 2025-05-28T23:52:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Everything Everywhere All at Once Object Store Native
 
-**Speaker not identified**
+**Vishnu Vasanth**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `24 min`
 

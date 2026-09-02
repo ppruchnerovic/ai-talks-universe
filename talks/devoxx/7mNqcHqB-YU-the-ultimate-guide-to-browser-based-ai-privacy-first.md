@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["M. Salnikov"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2026-04-01T08:07:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Ultimate Guide to Browser-Based AI: Privacy-First, Offline-Ready and Future-Proof by M. Salnikov
 
-**Speaker not identified**
+**M. Salnikov**
 
 `Devoxx` · `Devoxx` · `2026` · `46 min`
 

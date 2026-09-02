@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Corrado De Bari"]
 channel: "Devoxx"
 duration_min: 52
 published_at: 2024-10-11T05:09:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Smarter Knowledge Management Systems with AI Technology by Corrado De Bari
 
-**Speaker not identified**
+**Corrado De Bari**
 
 `Devoxx` · `Devoxx` · `2024` · `52 min`
 

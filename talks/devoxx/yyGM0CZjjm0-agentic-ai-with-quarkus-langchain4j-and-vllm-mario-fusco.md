@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Mario Fusco", "Daniele Zonca"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2025-03-31T20:37:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agentic AI with Quarkus, LangChain4j and vLLM - Mario Fusco & Daniele Zonca
 
-**Speaker not identified**
+**Mario Fusco, Daniele Zonca**
 
 `Devoxx` · `Devoxx` · `2025` · `48 min`
 

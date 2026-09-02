@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Antoine Imbert"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:30:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Harnessing the value of AI and unlock a scalable advantage | STUDIOSP79
 
-**Speaker not identified**
+**Antoine Imbert**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

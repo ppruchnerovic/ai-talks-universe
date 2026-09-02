@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Colin Bell"]
 channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-19T12:22:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Elevate DevEx 2.0 with continuous security across the SDLC | ODSP1446
 
-**Speaker not identified**
+**Colin Bell**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `14 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dan Gartner", "Jon Kefaloukos"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-27T13:19:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Gaming companies are using Azure & AI to ship complex games | BRK356
 
-**Speaker not identified**
+**Dan Gartner, Jon Kefaloukos**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

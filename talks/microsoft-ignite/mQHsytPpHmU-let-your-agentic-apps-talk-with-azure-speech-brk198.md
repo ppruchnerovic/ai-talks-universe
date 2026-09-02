@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jacky Kang"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T10:30:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Let your agentic apps talk with Azure Speech | BRK198
 
-**Speaker not identified**
+**Jacky Kang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

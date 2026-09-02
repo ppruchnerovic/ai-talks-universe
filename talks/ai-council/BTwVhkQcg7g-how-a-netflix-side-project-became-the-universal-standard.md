@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ryan Blue"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T15:35:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How a Netflix Side Project Became the Universal Standard for Data Tables
 
-**Speaker not identified**
+**Ryan Blue**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

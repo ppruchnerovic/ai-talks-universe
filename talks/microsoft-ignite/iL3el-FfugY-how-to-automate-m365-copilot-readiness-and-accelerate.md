@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Matt Berg", "Dux Raymond Sy"]
 channel: "Microsoft Events"
 duration_min: 25
 published_at: 2024-11-21T10:42:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to automate M365 copilot readiness and accelerate secure adoption | ODFP925
 
-**Speaker not identified**
+**Matt Berg, Dux Raymond Sy**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `25 min`
 

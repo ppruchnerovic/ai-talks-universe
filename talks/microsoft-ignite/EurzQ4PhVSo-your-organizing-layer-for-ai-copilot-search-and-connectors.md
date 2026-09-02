@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rishabh Agrawal", "Bill Baer", "Jyoti Pal", "Soujanya Srivalli"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T08:18:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Your organizing layer for AI: Copilot Search and connectors ​ | BRK283
 
-**Speaker not identified**
+**Rishabh Agrawal, Bill Baer, Jyoti Pal, Soujanya Srivalli**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

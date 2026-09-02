@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Frances Buontempo", "Matt Godbolt"]
 channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-02-19T13:00:45Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Learn C++ by Example • Frances Buontempo & Matt Godbolt • GOTO 2026
 
-**Speaker not identified**
+**Frances Buontempo, Matt Godbolt**
 
 `GOTO Conferences` · `GOTO` · `2026` · `30 min`
 

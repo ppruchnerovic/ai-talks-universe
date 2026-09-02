@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Seth Juarez", "Pierce Boggan", "Yang Liu", "Pengcheng He"]
 channel: "Visual Studio Code"
 duration_min: 16
 published_at: 2026-06-05T13:35:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How Microsoft AI builds coding models optimized for GitHub Copilot | LIVE158
 
-**Speaker not identified**
+**Seth Juarez, Pierce Boggan, Yang Liu, Pengcheng He**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

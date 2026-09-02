@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Banta", "Nikhil Kumar", "Naomi Moneypenny"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-21T16:31:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From code to real results, AI impact with Foundry Models | BRK191
 
-**Speaker not identified**
+**John Banta, Nikhil Kumar, Naomi Moneypenny**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

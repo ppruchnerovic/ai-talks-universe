@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Martin Woodward"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-21T12:23:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agentic DevOps with GitHub Copilot | STUDIO43
 
-**Speaker not identified**
+**Martin Woodward**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `12 min`
 

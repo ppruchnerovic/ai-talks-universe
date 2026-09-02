@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joshua Weinick"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T15:09:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Sentinel alert to autonomous action: A guide to controlled AI | ODSP1483
 
-**Speaker not identified**
+**Joshua Weinick**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

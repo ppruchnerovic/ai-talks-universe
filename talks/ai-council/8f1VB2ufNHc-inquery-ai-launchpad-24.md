@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Erick Enriquez"]
 channel: "AI Council"
 duration_min: 9
 published_at: 2024-04-22T21:33:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # InQuery | AI Launchpad '24
 
-**Speaker not identified**
+**Erick Enriquez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `9 min`
 

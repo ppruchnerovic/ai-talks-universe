@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ashley Llorens", "Marco Casalaina", "Shannon Monroe"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-20T16:34:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI frontier in Foundry Labs: Experiment today lead tomorrow | BRK204
 
-**Speaker not identified**
+**Ashley Llorens, Marco Casalaina, Shannon Monroe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

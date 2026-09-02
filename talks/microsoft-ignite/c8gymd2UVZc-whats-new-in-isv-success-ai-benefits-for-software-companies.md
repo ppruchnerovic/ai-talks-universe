@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Mason", "Yvonne Muench", "Olivia Nix"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T14:45:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in ISV Success - AI benefits for software companies and more | BRK350
 
-**Speaker not identified**
+**Mike Mason, Yvonne Muench, Olivia Nix**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

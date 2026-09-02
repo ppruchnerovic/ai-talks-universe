@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Eric Sachs"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T15:04:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Top Essentials for an Integrated, AI-Ready Security Foundation​ | BRK242
 
-**Speaker not identified**
+**Eric Sachs**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

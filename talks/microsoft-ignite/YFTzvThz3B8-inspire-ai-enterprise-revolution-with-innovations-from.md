@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andrew Gostine", "Vibhor Gupta", "Jennifer Hoskins", "Lauren Nemeth"]
 channel: "Microsoft Events"
 duration_min: 52
 published_at: 2024-11-25T15:21:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Inspire AI enterprise revolution with innovations from NVIDIA startups | BRKFP381
 
-**Speaker not identified**
+**Andrew Gostine, Vibhor Gupta, Jennifer Hoskins, Lauren Nemeth**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `52 min`
 

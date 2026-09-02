@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parul Seth", "Michael Withrow"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T07:34:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI-powered defense for cloud workloads | BRK262
 
-**Speaker not identified**
+**Parul Seth, Michael Withrow**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

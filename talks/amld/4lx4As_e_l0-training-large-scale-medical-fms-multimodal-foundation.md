@@ -7,7 +7,7 @@ conference_name: "Applied Machine Learning Days"
 category: "AI engineering & agents"
 edition: "AMLD"
 year: 2024
-speakers: []
+speakers: ["E. De Jong", "V. Botha"]
 channel: "AMLD Intelligence Summit"
 duration_min: 30
 published_at: 2024-06-06T13:27:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Training Large-Scale Medical FMs | Multimodal Foundation Models in Oncology | E. De Jong & V. Botha
 
-**Speaker not identified**
+**E. De Jong, V. Botha**
 
 `Applied Machine Learning Days` · `AMLD` · `2024` · `30 min`
 

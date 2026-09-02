@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aung Oo", "Lena Ye"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-27T09:29:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in Azure Storage: Supercharge your data centric workloads​ | BRK236
 
-**Speaker not identified**
+**Aung Oo, Lena Ye**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

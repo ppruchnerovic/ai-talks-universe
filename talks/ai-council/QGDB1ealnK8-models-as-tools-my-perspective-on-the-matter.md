@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ravin Kumar"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T14:31:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Models as Tools: My Perspective On the Matter
 
-**Speaker not identified**
+**Ravin Kumar**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

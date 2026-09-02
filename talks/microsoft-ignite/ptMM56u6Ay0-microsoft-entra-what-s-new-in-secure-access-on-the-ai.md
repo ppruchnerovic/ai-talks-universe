@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joy Chik", "Nichole Peterson", "John Savill"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-25T23:30:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Entra: What's New in Secure Access on the AI Frontier | BRK243
 
-**Speaker not identified**
+**Joy Chik, Nichole Peterson, John Savill**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

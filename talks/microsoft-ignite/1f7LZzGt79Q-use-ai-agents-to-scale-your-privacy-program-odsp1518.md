@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kevin Jones", "Ojas Rege"]
 channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T13:34:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Use AI agents to scale your privacy program | ODSP1518
 
-**Speaker not identified**
+**Kevin Jones, Ojas Rege**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `8 min`
 

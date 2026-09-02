@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shireesh Thota", "Jesse Sullivan", "Mike Thomsen"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-26T20:02:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partners: Choose the best Azure DB for every customer scenario | PBRK232
 
-**Speaker not identified**
+**Shireesh Thota, Jesse Sullivan, Mike Thomsen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

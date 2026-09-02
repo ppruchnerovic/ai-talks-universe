@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Andrew Lamb"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2024-04-19T05:00:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building InfluxDB 3.0 with Apache Arrow, DataFusion, Flight and Parquet
 
-**Speaker not identified**
+**Andrew Lamb**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `36 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Thanos Stratikopoulos"]
 channel: "Devoxx"
 duration_min: 44
 published_at: 2026-02-27T13:52:44Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Write Once, Accelerate Everywhere: GPU-Ready Java with TornadoVM by Thanos Stratikopoulos
 
-**Speaker not identified**
+**Thanos Stratikopoulos**
 
 `Devoxx` · `Devoxx` · `2026` · `44 min`
 

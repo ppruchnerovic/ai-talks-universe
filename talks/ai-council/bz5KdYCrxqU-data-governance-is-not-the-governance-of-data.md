@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Oriol Mirosa"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T00:10:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Data Governance is NOT the Governance of Data!
 
-**Speaker not identified**
+**Oriol Mirosa**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

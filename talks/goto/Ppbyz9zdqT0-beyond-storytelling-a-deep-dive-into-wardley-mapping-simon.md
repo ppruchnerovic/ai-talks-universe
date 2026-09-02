@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Simon Wardley"]
 channel: "GOTO Conferences"
 duration_min: 47
 published_at: 2025-07-04T09:32:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Beyond Storytelling: A Deep Dive into Wardley Mapping • Simon Wardley & Charles Humble
 
-**Speaker not identified**
+**Simon Wardley**
 
 `GOTO Conferences` · `GOTO` · `2025` · `47 min`
 

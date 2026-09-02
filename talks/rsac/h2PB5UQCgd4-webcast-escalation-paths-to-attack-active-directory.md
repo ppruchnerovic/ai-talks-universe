@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2025
-speakers: ["Derek Melber", "Strategic Advisor", "Enterprise Identity"]
+speakers: ["Derek Melber", "Enterprise Identity"]
 channel: "RSAC Cybersecurity"
 duration_min: 55
 published_at: 2025-10-21T15:09:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Webcast: Escalation Paths to Attack Active Directory Certificate Services
 
-**Derek Melber, Strategic Advisor, Enterprise Identity**
+**Derek Melber, Enterprise Identity**
 
 `RSAC Conference` · `RSAC` · `2025` · `55 min`
 

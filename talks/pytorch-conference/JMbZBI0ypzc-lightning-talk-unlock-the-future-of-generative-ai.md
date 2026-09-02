@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Tianyu Liu", "Jiani Wang"]
 channel: "PyTorch"
 duration_min: 11
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Lightning Talk: Unlock the Future of Generative AI: TorchTitan's Latest... - Tianyu Liu & Jiani Wang
 
-**Speaker not identified**
+**Tianyu Liu, Jiani Wang**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `11 min`
 

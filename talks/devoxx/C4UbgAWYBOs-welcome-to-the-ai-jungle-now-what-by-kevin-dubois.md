@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Kevin Dubois"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2024-10-11T05:09:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Welcome to the AI jungle! Now what? by Kevin Dubois
 
-**Speaker not identified**
+**Kevin Dubois**
 
 `Devoxx` · `Devoxx` · `2024` · `45 min`
 

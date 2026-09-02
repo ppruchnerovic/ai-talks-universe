@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Bhaskar Bhatt", "James Codella", "Zhe Li"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:50:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Serverless GenAI: building scalable RAG apps with Azure Cosmos DB | BRK193
 
-**Speaker not identified**
+**Bhaskar Bhatt, James Codella, Zhe Li**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

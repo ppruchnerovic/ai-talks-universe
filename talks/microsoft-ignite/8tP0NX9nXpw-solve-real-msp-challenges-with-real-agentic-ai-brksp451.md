@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brianna Berry", "Jan Jofra"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-20T11:14:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Solve real MSP challenges with real agentic AI | BRKSP451
 
-**Speaker not identified**
+**Brianna Berry, Jan Jofra**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

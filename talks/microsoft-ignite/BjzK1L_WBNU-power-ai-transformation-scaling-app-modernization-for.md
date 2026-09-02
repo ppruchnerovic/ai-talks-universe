@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ayobami Ayodeji", "Aarthi Murugan", "Ikenna Okeke"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-21T15:04:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power AI transformation: Scaling app modernization for business growth | BRK138
 
-**Speaker not identified**
+**Ayobami Ayodeji, Aarthi Murugan, Ikenna Okeke**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

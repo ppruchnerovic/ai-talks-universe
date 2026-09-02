@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Matt Hillegass", "Rajesh Ramankutty"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-24T11:28:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Boost cloud and AI ROI using Microsoft Marketplace | BRK215
 
-**Speaker not identified**
+**Matt Hillegass, Rajesh Ramankutty**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

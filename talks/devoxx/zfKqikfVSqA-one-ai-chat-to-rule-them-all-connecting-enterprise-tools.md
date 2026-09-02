@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Karthik Sayapparaju"]
 channel: "Devoxx"
 duration_min: 16
 published_at: 2026-03-30T17:38:49Z
@@ -20,7 +20,7 @@ transcript: true
 
 # One AI Chat to Rule Them All: Connecting Enterprise Tools with MCP by Karthik Sayapparaju
 
-**Speaker not identified**
+**Karthik Sayapparaju**
 
 `Devoxx` · `Devoxx` · `2026` · `16 min`
 

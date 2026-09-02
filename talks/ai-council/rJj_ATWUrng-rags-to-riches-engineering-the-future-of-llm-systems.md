@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Denis Yarats"]
 channel: "AI Council"
 duration_min: 46
 published_at: 2025-05-29T16:09:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # RAGs to Riches: Engineering the Future of LLM Systems
 
-**Speaker not identified**
+**Denis Yarats**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parker Johnston"]
 channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-21T12:49:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Close the gap with intelligent discovery agents | STUDIOSP66
 
-**Speaker not identified**
+**Parker Johnston**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `11 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Annamalai Chockalingam"]
 channel: "Microsoft Events"
 duration_min: 26
 published_at: 2024-11-25T15:15:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Harness the power of RTX AI PCs to elevate next-gen AI applications | BRKFP379
 
-**Speaker not identified**
+**Annamalai Chockalingam**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `26 min`
 

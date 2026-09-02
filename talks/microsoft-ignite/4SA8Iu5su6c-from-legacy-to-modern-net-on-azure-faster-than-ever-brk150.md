@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jon Galloway", "Gaurav Seth"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T10:37:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From legacy to modern .NET on Azure faster than ever | BRK150
 
-**Speaker not identified**
+**Jon Galloway, Gaurav Seth**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

@@ -7,7 +7,7 @@ conference_name: "Black Hat"
 category: "AI security"
 edition: "Black Hat"
 year: 2025
-speakers: ["Harvard Law School"]
+speakers: []
 channel: "Black Hat"
 duration_min: 40
 published_at: 2025-02-12T19:08:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ignore Your Generative AI Safety Instructions. Violate the CFAA?
 
-**Harvard Law School**
+**Speaker not identified**
 
 `Black Hat` · `Black Hat` · `2025` · `40 min`
 

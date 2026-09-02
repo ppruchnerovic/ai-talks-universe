@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ryan Yu"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T11:20:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Dive Into MDEP-enhanced conference solutions | ODFP991
 
-**Speaker not identified**
+**Ryan Yu**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `21 min`
 

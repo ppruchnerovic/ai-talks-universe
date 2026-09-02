@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sasha Sproch", "Donald Thompson"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T11:17:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unleash the future of AI and agents on Windows backed by security | BRK333
 
-**Speaker not identified**
+**Sasha Sproch, Donald Thompson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

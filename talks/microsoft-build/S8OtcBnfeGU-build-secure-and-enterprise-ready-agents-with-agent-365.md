@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Neta Haiby", "Kendra Springer", "Lei Zhong"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-11T08:15:10Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build secure and enterprise-ready agents with Agent 365 | BRK251
 
-**Speaker not identified**
+**Neta Haiby, Kendra Springer, Lei Zhong**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

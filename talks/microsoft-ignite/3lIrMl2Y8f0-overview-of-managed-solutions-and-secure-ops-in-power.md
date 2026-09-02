@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ryan Jones"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T13:29:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Overview of managed solutions and secure ops in Power Platform | PBRK307
 
-**Speaker not identified**
+**Ryan Jones**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

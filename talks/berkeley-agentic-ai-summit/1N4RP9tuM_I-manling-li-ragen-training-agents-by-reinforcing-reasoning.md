@@ -7,7 +7,7 @@ conference_name: "Berkeley RDI Agentic AI Summit"
 category: "AI engineering & agents"
 edition: "Agentic AI Summit 2025"
 year: 2025
-speakers: ["Manling Li"]
+speakers: ["Reinforcing Reasoning"]
 channel: "Berkeley RDI"
 duration_min: 10
 published_at: 2025-09-09T20:41:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Manling Li - RAGEN: Training Agents by Reinforcing Reasoning
 
-**Manling Li**
+**Reinforcing Reasoning**
 
 `Berkeley RDI Agentic AI Summit` · `Agentic AI Summit 2025` · `2025` · `10 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ciro Greco"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T13:50:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Python Over Data Lakes: Declarative Environments, Data Management & Other Things w/ Feathers
 
-**Speaker not identified**
+**Ciro Greco**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

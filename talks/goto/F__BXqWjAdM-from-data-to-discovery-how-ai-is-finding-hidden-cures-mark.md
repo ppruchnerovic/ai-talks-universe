@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Mark Rickmeier", "Brian Martin"]
 channel: "GOTO Conferences"
 duration_min: 34
 published_at: 2026-08-11T16:23:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Data to Discovery: How AI Is Finding Hidden Cures • Mark Rickmeier & Brian Martin • GOTO 2026
 
-**Speaker not identified**
+**Mark Rickmeier, Brian Martin**
 
 `GOTO Conferences` · `GOTO` · `2026` · `34 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mark Russinovich", "Scott Hanselman"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T15:52:47Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn...how agents reshape software engineering | BRK247
 
-**Speaker not identified**
+**Mark Russinovich, Scott Hanselman**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ashley Asdourian"]
 channel: "Microsoft Events"
 duration_min: 28
 published_at: 2024-11-21T15:18:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Help your customers’ AI transformation with unified analytics | BRK210
 
-**Speaker not identified**
+**Ashley Asdourian**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `28 min`
 

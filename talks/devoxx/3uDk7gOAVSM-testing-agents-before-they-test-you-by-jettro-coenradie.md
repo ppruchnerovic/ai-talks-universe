@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Jettro Coenradie", "Daniël Spee"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2026-04-09T21:30:14Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Testing Agents Before They Test You by Jettro Coenradie, Daniël Spee
 
-**Speaker not identified**
+**Jettro Coenradie, Daniël Spee**
 
 `Devoxx` · `Devoxx` · `2026` · `45 min`
 

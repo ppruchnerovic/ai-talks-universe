@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Julie Koesmarno", "Rakesh Krishnan", "Mike Walker"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-26T07:37:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Get the most of your enterprise knowledge with Copilot Studio | BRK181
 
-**Speaker not identified**
+**Julie Koesmarno, Rakesh Krishnan, Mike Walker**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

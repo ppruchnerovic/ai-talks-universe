@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mehrdad Abdolghafari", "Cary Chai", "Sachi Desai"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T15:55:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Fast and flexible inference on open-source AI models at scale | BRK117
 
-**Speaker not identified**
+**Mehrdad Abdolghafari, Cary Chai, Sachi Desai**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

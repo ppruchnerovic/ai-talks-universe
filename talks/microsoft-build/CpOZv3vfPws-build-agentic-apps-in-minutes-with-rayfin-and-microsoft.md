@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sunitha Muthukrishna", "Chris Anderson"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-04T14:45:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build agentic apps in minutes with Rayfin and Microsoft Fabric | DEM313
 
-**Speaker not identified**
+**Sunitha Muthukrishna, Chris Anderson**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

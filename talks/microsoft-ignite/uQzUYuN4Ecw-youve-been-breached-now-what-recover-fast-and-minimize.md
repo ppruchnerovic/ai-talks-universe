@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jeremy Nelson"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:10:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # You’ve been breached now what? Recover fast and minimize impact | BRKFP376
 
-**Speaker not identified**
+**Jeremy Nelson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

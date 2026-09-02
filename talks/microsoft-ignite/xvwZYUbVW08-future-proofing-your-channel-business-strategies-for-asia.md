@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rachel Bondi", "Gustavo Fuchs", "Melanie Highet", "Mark Iles", "Kiet Le"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-25T12:17:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Future-Proofing Your Channel Business: Strategies for Asia Partners | PBRK440
 
-**Speaker not identified**
+**Rachel Bondi, Gustavo Fuchs, Melanie Highet, Mark Iles, Kiet Le**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

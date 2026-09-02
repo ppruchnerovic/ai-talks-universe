@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Roop Kiran Chevuri", "Phil Gerity"]
 channel: "Microsoft Developer"
 duration_min: 28
 published_at: 2026-06-03T07:57:40Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Accelerating developer productivity with Windows 365 | OD855
 
-**Speaker not identified**
+**Roop Kiran Chevuri, Phil Gerity**
 
 `Microsoft Build` · `Build 2026` · `2026` · `28 min`
 

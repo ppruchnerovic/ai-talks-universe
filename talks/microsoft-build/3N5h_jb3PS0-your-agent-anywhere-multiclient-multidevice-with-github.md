@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Steve Sanderson", "Patrick Nikoletich"]
 channel: "Microsoft Developer"
 duration_min: 38
 published_at: 2026-06-09T18:55:08Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | BRK206-R1
 
-**Speaker not identified**
+**Steve Sanderson, Patrick Nikoletich**
 
 `Microsoft Build` · `Build 2026` · `2026` · `38 min`
 

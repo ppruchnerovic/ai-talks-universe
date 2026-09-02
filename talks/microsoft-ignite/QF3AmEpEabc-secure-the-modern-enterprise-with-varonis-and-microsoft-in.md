@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brian Vecci"]
 channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-21T12:51:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure the modern enterprise with Varonis and Microsoft in action | STUDIOSP62
 
-**Speaker not identified**
+**Brian Vecci**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `11 min`
 

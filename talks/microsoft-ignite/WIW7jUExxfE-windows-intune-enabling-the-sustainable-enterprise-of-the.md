@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Serah Delaini", "Ugochi Nweze"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2025-11-19T15:27:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Windows & Intune: Enabling the Sustainable Enterprise of the Future | OD1319
 
-**Speaker not identified**
+**Serah Delaini, Ugochi Nweze**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `19 min`
 

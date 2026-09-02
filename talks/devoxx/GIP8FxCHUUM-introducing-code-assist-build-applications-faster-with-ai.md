@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Marc Gueury", "John Karasoulos"]
 channel: "Devoxx"
 duration_min: 43
 published_at: 2024-10-11T05:09:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Introducing Code Assist: Build Applications Faster with AI by Marc Gueury, John Karasoulos
 
-**Speaker not identified**
+**Marc Gueury, John Karasoulos**
 
 `Devoxx` · `Devoxx` · `2024` · `43 min`
 

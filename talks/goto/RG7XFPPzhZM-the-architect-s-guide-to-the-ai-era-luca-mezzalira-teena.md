@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Luca Mezzalira", "Teena Idnani"]
 channel: "GOTO Conferences"
 duration_min: 34
 published_at: 2026-06-08T12:00:05Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Architect's Guide to the AI Era • Luca Mezzalira & Teena Idnani • GOTO 2026
 
-**Speaker not identified**
+**Luca Mezzalira, Teena Idnani**
 
 `GOTO Conferences` · `GOTO` · `2026` · `34 min`
 

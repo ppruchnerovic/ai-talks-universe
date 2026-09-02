@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Scott Durow"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T13:00:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advanced Agent Development with Copilot Studio | BRK1742
 
-**Speaker not identified**
+**Scott Durow**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

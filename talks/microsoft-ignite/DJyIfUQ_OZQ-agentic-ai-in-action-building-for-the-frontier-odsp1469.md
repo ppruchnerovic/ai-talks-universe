@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pavel Nasovich", "Dmitry Tikhomirov"]
 channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-19T15:03:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agentic AI in action: Building for the frontier | ODSP1469
 
-**Speaker not identified**
+**Pavel Nasovich, Dmitry Tikhomirov**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `14 min`
 

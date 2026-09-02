@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rong Lu", "Brady Gaster"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-03T12:21:49Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build and deploy an Azure app with your agent team | DEM302
 
-**Speaker not identified**
+**Rong Lu, Brady Gaster**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Patrick Baumgartner"]
 channel: "Devoxx"
 duration_min: 47
 published_at: 2026-03-30T17:45:49Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Spring Boot Observability in Practice: Actuator, Micrometer & OpenTelemetry by Patrick Baumgartner
 
-**Speaker not identified**
+**Patrick Baumgartner**
 
 `Devoxx` · `Devoxx` · `2026` · `47 min`
 

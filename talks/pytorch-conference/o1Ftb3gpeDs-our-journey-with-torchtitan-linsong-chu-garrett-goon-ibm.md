@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Linsong Chu", "Garrett Goon"]
 channel: "PyTorch"
 duration_min: 30
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Our Journey With TorchTitan - Linsong Chu & Garrett Goon, IBM Research
 
-**Speaker not identified**
+**Linsong Chu, Garrett Goon**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `30 min`
 

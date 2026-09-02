@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Nour El Mawass", "Miklos Erdelyi"]
 channel: "PyData"
 duration_min: 32
 published_at: 2025-11-21T16:26:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Nour El Mawass & Miklos Erdelyi - Documents Meet LLMs: Tales from the Trenches
 
-**Speaker not identified**
+**Nour El Mawass, Miklos Erdelyi**
 
 `PyData` · `PyData` · `2025` · `32 min`
 

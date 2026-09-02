@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Baruch S"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2026-02-27T13:52:47Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Technical Enshittification: Why Everything in IT is Horrible Right Now and How to Fix It by Baruch S
 
-**Speaker not identified**
+**Baruch S**
 
 `Devoxx` · `Devoxx` · `2026` · `48 min`
 

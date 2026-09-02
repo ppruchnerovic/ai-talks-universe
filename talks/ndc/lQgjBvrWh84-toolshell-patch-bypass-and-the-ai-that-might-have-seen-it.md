@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Pedram Hayati", "Soroush Dalili"]
 channel: "NDC Conferences"
 duration_min: 47
 published_at: 2026-01-29T14:03:29Z
@@ -20,7 +20,7 @@ transcript: true
 
 # ToolShell, Patch Bypass, and the AI That Might Have Seen It Coming - Pedram Hayati & Soroush Dalili
 
-**Speaker not identified**
+**Pedram Hayati, Soroush Dalili**
 
 `NDC Conferences` · `NDC` · `2026` · `47 min`
 

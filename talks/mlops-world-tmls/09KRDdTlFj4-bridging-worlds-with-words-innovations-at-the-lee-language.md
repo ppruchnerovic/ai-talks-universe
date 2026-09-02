@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: []
+speakers: ["Annie Lee"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 32
 published_at: 2025-08-07T15:26:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bridging Worlds with Words: Innovations at the Lee Language Lab
 
-**Speaker not identified**
+**Annie Lee**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `32 min`
 

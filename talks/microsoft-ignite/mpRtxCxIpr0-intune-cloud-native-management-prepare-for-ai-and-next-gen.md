@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lior Bela", "Rob York"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T13:34:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Intune Cloud-native Management: Prepare for AI and Next-Gen Cloud PCs | BRK291
 
-**Speaker not identified**
+**Lior Bela, Rob York**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

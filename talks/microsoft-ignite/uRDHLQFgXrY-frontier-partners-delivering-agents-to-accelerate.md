@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Howard Heppelmann", "Prateek Kathpal", "Ward Lawrence"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-24T13:18:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Frontier Partners: Delivering agents to accelerate Industrial AI | PBRK389
 
-**Speaker not identified**
+**Howard Heppelmann, Prateek Kathpal, Ward Lawrence**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

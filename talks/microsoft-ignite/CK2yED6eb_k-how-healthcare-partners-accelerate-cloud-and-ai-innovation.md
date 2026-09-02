@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kees Hertogh", "Feliz Fuentes Montpellier"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2024-11-27T11:58:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How healthcare partners accelerate cloud and AI innovation | BRK270
 
-**Speaker not identified**
+**Kees Hertogh, Feliz Fuentes Montpellier**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `38 min`
 

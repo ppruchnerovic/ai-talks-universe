@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Julia Kasper", "Harald Kirschner", "Burke Holland", "Kent Dodds", "Christian Reddington", "Pierce Boggan"]
 channel: "Visual Studio Code"
 duration_min: 47
 published_at: 2026-06-04T16:08:49Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Multi-agent patterns in VS Code you won't learn from docs | BRK201
 
-**Speaker not identified**
+**Julia Kasper, Harald Kirschner, Burke Holland, Kent Dodds, Christian Reddington, Pierce Boggan**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

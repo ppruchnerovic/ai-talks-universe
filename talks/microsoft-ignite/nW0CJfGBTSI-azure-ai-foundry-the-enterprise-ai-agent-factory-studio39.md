@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jay Parikh"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2025-11-21T12:29:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI Foundry: The enterprise AI agent factory | STUDIO39
 
-**Speaker not identified**
+**Jay Parikh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `19 min`
 

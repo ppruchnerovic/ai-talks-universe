@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jasmine Greenaway", "Charlie Rohlf"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-25T12:56:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ingesting processing and delivering NBA’s AI-powered stats features | BRK212
 
-**Speaker not identified**
+**Jasmine Greenaway, Charlie Rohlf**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

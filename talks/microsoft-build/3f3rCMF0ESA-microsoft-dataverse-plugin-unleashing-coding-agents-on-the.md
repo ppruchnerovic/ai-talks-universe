@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Kent Weare", "Suyash Kshirsagar"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T14:38:23Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Microsoft Dataverse plugin: unleashing coding agents on the enterprise | OD849
 
-**Speaker not identified**
+**Kent Weare, Suyash Kshirsagar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

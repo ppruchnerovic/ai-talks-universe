@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Prachi Sethi"]
 channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-04T13:46:57Z
@@ -20,7 +20,7 @@ transcript: true
 
 # OM1: Modular by Design, Hardware-Agnostic by Default. Your gateway to next-gen robotics | DEM306
 
-**Speaker not identified**
+**Prachi Sethi**
 
 `Microsoft Build` · `Build 2026` · `2026` · `21 min`
 

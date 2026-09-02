@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gauthier Renard", "Oliver Van Camp"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T14:42:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Hybrid meetings with ClickShare Hub | ODSP1512
 
-**Speaker not identified**
+**Gauthier Renard, Oliver Van Camp**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

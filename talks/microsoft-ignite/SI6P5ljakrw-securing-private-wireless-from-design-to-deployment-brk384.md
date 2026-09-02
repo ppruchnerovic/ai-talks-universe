@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Krishnan Jagannathan", "Rick Lievano"]
 channel: "Microsoft Events"
 duration_min: 36
 published_at: 2025-11-24T07:17:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing Private Wireless: From Design to Deployment | BRK384
 
-**Speaker not identified**
+**Krishnan Jagannathan, Rick Lievano**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `36 min`
 

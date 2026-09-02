@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ori Soen"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T00:11:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Analytics and the Dark Side of the Analytics Development Lifecycle
 
-**Speaker not identified**
+**Ori Soen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

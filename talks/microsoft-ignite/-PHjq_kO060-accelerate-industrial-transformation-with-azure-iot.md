@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sean Parham"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2024-11-27T09:54:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate industrial transformation with Azure IoT operations | BRK262
 
-**Speaker not identified**
+**Sean Parham**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `33 min`
 

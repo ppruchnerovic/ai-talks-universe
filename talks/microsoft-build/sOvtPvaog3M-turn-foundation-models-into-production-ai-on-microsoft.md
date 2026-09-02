@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Vivek Chauhan", "Jetashree Ravi", "Alicia Frame"]
 channel: "Microsoft Developer"
 duration_min: 41
 published_at: 2026-06-04T10:46:16Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Turn foundation models into production AI on Microsoft Foundry | BRKSP91
 
-**Speaker not identified**
+**Vivek Chauhan, Jetashree Ravi, Alicia Frame**
 
 `Microsoft Build` · `Build 2026` · `2026` · `41 min`
 

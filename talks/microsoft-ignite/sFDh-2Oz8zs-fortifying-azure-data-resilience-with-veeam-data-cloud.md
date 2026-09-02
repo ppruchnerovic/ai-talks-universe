@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Johan Huttenga", "Saurabh Sensharma"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-11-20T14:26:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Fortifying Azure Data Resilience with Veeam Data Cloud | ODFP988
 
-**Speaker not identified**
+**Johan Huttenga, Saurabh Sensharma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Charlie Doubek", "Geoff Newman"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:29:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Converged communications and the power of agentic AI | STUDIOSP82
 
-**Speaker not identified**
+**Charlie Doubek, Geoff Newman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Liad Yosef", "Ido Salomon"]
 channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-05-06T13:00:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps
 
-**Speaker not identified**
+**Liad Yosef, Ido Salomon**
 
 `AI Engineer` · `AI Engineer` · `2026` · `22 min`
 

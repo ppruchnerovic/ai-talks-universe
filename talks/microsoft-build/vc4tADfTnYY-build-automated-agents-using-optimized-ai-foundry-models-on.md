@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Meghana Sreenivasa Rao", "Darren Oberst"]
 channel: "Microsoft Developer"
 duration_min: 25
 published_at: 2026-06-03T11:03:17Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build automated agents using optimized AI Foundry models on Snapdragon | DEMSP380
 
-**Speaker not identified**
+**Meghana Sreenivasa Rao, Darren Oberst**
 
 `Microsoft Build` · `Build 2026` · `2026` · `25 min`
 

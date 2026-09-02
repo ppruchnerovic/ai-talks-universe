@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Larissa Haas", "Annika Herbert"]
+speakers: ["Larissa Haas"]
 channel: "PyData"
 duration_min: 30
 published_at: 2026-08-04T22:21:52Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Letting AI Move: Robotics Demos Powered by Python [PyCon DE & PyData 2026]
 
-**Larissa Haas, Annika Herbert**
+**Larissa Haas**
 
 `PyData` · `PyData` · `2026` · `30 min`
 

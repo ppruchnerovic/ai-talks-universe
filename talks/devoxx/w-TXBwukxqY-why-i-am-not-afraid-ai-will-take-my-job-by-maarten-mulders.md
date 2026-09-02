@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Maarten Mulders"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2025-10-10T05:09:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Why I Am Not Afraid AI Will Take My Job by Maarten Mulders
 
-**Speaker not identified**
+**Maarten Mulders**
 
 `Devoxx` · `Devoxx` · `2025` · `45 min`
 

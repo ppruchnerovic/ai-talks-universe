@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Tanay Baldua", "Paige Johnson", "Arun Kumar"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-24T05:10:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Protecting your data at speed and scale with AI-powered data security | BRK254
 
-**Speaker not identified**
+**Tanay Baldua, Paige Johnson, Arun Kumar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

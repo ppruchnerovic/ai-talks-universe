@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Cassidy Williams", "Evan Boyle"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-11T08:22:40Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From CLI to PR: Automating the path to merged code | BRK203
 
-**Speaker not identified**
+**Cassidy Williams, Evan Boyle**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

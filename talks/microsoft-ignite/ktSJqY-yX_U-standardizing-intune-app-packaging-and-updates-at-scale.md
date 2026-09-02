@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dean Ellerby"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2025-11-19T14:31:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Standardizing Intune app packaging and updates at scale | ODSP1521
 
-**Speaker not identified**
+**Dean Ellerby**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `15 min`
 

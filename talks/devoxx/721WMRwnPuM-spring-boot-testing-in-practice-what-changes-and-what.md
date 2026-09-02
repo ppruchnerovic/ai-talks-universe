@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Andrei S"]
 channel: "Devoxx"
 duration_min: 33
 published_at: 2025-10-07T05:13:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Spring Boot Testing in Practice: What Changes and What Doesn’t with GenAI integrations by Andrei S
 
-**Speaker not identified**
+**Andrei S**
 
 `Devoxx` · `Devoxx` · `2025` · `33 min`
 

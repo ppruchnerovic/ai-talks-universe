@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["William Rizzo", "Colin Griffin"]
 channel: "GOTO Conferences"
 duration_min: 29
 published_at: 2026-03-19T13:01:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # One Size Fits None: How Platform Engineering Must Evolve • William Rizzo & Colin Griffin • GOTO 2026
 
-**Speaker not identified**
+**William Rizzo, Colin Griffin**
 
 `GOTO Conferences` · `GOTO` · `2026` · `29 min`
 

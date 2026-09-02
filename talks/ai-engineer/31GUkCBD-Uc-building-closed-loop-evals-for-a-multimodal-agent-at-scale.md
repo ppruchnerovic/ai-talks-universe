@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Soumya Gupta", "Jai Chopra"]
 channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-07-24T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Closed-Loop Evals for a Multimodal Agent at Scale — Soumya Gupta & Jai Chopra, Uber
 
-**Speaker not identified**
+**Soumya Gupta, Jai Chopra**
 
 `AI Engineer` · `AI Engineer` · `2026` · `22 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit EU 2025"
 year: 2025
-speakers: []
+speakers: ["Stefano Maffulli", "Jordan Maris"]
 channel: "The Linux Foundation"
 duration_min: 31
 published_at: 2025-09-05T19:41:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Why We Needed an Open Source AI Definition Now - Stefano Maffulli & Jordan Maris
 
-**Speaker not identified**
+**Stefano Maffulli, Jordan Maris**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit EU 2025` · `2025` · `31 min`
 

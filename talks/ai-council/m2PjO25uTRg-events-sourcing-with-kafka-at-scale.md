@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Alex Martin"]
 channel: "AI Council"
 duration_min: 24
 published_at: 2024-04-19T05:00:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Events Sourcing with Kafka at Scale
 
-**Speaker not identified**
+**Alex Martin**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `24 min`
 

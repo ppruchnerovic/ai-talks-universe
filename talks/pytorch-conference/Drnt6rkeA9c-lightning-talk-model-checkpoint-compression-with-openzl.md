@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Nick Terrell", "Teja Rao"]
 channel: "PyTorch"
 duration_min: 9
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Lightning Talk: Model Checkpoint Compression With OpenZL - Nick Terrell & Teja Rao, Meta
 
-**Speaker not identified**
+**Nick Terrell, Teja Rao**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `9 min`
 

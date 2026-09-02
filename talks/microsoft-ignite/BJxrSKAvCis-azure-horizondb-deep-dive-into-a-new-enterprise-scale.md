@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Adam Prout", "Denzil Ribeiro"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T17:11:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure HorizonDB: Deep Dive into a New Enterprise-Scale PostgreSQL | BRK127
 
-**Speaker not identified**
+**Adam Prout, Denzil Ribeiro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

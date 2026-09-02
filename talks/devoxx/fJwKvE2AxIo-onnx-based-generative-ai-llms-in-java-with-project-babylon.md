@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Adam Sotona"]
 channel: "Devoxx"
 duration_min: 61
 published_at: 2025-10-10T05:10:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # ONNX Based Generative AI LLMs in Java with Project Babylon by Adam Sotona
 
-**Speaker not identified**
+**Adam Sotona**
 
 `Devoxx` · `Devoxx` · `2025` · `61 min`
 

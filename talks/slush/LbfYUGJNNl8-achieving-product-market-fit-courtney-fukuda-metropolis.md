@@ -7,7 +7,7 @@ conference_name: "Slush"
 category: "Industry & business"
 edition: "Slush"
 year: 2025
-speakers: ["Achieving Product Market Fit", "Courtney Fukuda"]
+speakers: ["Courtney Fukuda"]
 channel: "Slush"
 duration_min: 27
 published_at: 2025-11-28T22:00:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Achieving Product Market Fit | Courtney Fukuda (Metropolis)
 
-**Achieving Product Market Fit, Courtney Fukuda**
+**Courtney Fukuda**
 
 `Slush` · `Slush` · `2025` · `27 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shireesh Thota"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2025-11-24T14:14:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Preview: What’s new with Azure Databases and SQL Server | STUDIO32
 
-**Speaker not identified**
+**Shireesh Thota**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `18 min`
 

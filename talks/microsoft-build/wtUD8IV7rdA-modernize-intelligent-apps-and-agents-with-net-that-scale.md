@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Andrew Westgarth", "Gaurav Seth"]
 channel: "Microsoft Developer"
 duration_min: 49
 published_at: 2026-06-03T14:23:27Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Modernize intelligent apps and agents with .NET that scale as you grow | OD801
 
-**Speaker not identified**
+**Andrew Westgarth, Gaurav Seth**
 
 `Microsoft Build` · `Build 2026` · `2026` · `49 min`
 

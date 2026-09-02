@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Armin Ronacher", "Cristina Poncela Cubeiro"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-04-18T10:30:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Friction is Your Judgment — Armin Ronacher & Cristina Poncela Cubeiro, Earendil
 
-**Speaker not identified**
+**Armin Ronacher, Cristina Poncela Cubeiro**
 
 `AI Engineer` · `AI Engineer` · `2026` · `19 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Steven Abrahams", "Anna Cao", "Varun Kulkarni"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-25T15:45:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to build and publish your agent to the Agent Store | BRK312
 
-**Speaker not identified**
+**Steven Abrahams, Anna Cao, Varun Kulkarni**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

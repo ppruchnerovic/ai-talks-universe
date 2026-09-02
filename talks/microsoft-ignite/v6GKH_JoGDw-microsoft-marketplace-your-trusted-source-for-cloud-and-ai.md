@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Elizabeth Beals", "Maximilian Kaczynski", "Will Kearl"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2025-11-20T17:05:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Marketplace: Your trusted source for cloud and AI solutions | BRK213
 
-**Speaker not identified**
+**Elizabeth Beals, Maximilian Kaczynski, Will Kearl**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `23 min`
 

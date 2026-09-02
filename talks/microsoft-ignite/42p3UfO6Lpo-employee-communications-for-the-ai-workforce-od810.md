@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lauren Edelmeier", "Graham Kent", "Tejas Mehta", "Judith Yaaqoubi"]
 channel: "Microsoft Events"
 duration_min: 28
 published_at: 2024-11-20T13:00:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Employee communications for the AI workforce | OD810
 
-**Speaker not identified**
+**Lauren Edelmeier, Graham Kent, Tejas Mehta, Judith Yaaqoubi**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `28 min`
 

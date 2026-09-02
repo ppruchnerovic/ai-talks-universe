@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Christine Flora"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-07-02T18:22:57Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Discovering Power App Data with M365 Copilot using MCP | DEM360
 
-**Speaker not identified**
+**Christine Flora**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ankur Arora"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T08:05:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Lumen + Microsoft Co-Innovation: From Threats to Transformation | BRK383
 
-**Speaker not identified**
+**Ankur Arora**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["David Fowler", "Maddy Montaquila"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-04T12:13:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Aspire for agents: Transform how you build and deploy distributed apps | BRK205
 
-**Speaker not identified**
+**David Fowler, Maddy Montaquila**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Soroosh Khodami"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2025-11-11T10:37:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Are We Ready For The Next Cyber Security Crisis Like Log4Shell? by Soroosh Khodami
 
-**Speaker not identified**
+**Soroosh Khodami**
 
 `Devoxx` · `Devoxx` · `2025` · `46 min`
 

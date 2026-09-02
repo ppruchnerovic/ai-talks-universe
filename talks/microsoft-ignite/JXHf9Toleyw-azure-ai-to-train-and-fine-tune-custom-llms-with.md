@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["John Lee", "Ben Levine", "Yogi Pandey", "Alejandra Rico"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T12:21:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI to train and fine-tune custom LLMs with Distributed Training | BRK120
 
-**Speaker not identified**
+**John Lee, Ben Levine, Yogi Pandey, Alejandra Rico**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Thomas Abel", "Jojo Wright"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-27T12:42:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How partners can monetize and deliver value with Copilot extensibility | BRK301
 
-**Speaker not identified**
+**Thomas Abel, Jojo Wright**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

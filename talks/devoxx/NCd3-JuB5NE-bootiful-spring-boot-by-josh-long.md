@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Josh Long"]
 channel: "Devoxx"
 duration_min: 44
 published_at: 2024-10-23T07:08:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bootiful Spring Boot by Josh Long
 
-**Speaker not identified**
+**Josh Long**
 
 `Devoxx` · `Devoxx` · `2024` · `44 min`
 

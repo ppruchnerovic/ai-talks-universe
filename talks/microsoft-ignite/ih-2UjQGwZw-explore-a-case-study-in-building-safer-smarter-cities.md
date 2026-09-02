@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Andrew Hester"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-26T20:17:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Explore a case study in building safer smarter cities | STUDIOSP65
 
-**Speaker not identified**
+**Andrew Hester**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

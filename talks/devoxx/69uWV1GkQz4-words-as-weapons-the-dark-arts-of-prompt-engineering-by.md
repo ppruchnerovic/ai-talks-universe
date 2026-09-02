@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Jeroen Egelmeers"]
 channel: "Devoxx"
 duration_min: 43
 published_at: 2024-10-11T20:08:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Words as weapons: The dark arts of Prompt Engineering by Jeroen Egelmeers
 
-**Speaker not identified**
+**Jeroen Egelmeers**
 
 `Devoxx` · `Devoxx` · `2024` · `43 min`
 

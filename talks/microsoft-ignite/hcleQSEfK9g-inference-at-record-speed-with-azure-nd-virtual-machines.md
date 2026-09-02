@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Hugo Affaticati", "Nitin Nagarkatte"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-20T16:14:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Inference at record speed with Azure ND Virtual Machines | BRK180
 
-**Speaker not identified**
+**Hugo Affaticati, Nitin Nagarkatte**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `33 min`
 

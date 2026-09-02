@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["David Hrncir"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2024-11-20T14:06:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock generative AI excellence; Fivetran's Managed Data Lake Service | ODFP943
 
-**Speaker not identified**
+**David Hrncir**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `20 min`
 

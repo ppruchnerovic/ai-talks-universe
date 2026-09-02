@@ -7,7 +7,7 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Daniel Jones", "Tomasz Maj"]
 channel: "AI Native Dev"
 duration_min: 37
 published_at: 2026-07-17T05:53:27Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Daniel Jones & Tomasz Maj - More software, faster - Odevo's AI Native transformation - AI DevCon '26
 
-**Speaker not identified**
+**Daniel Jones, Tomasz Maj**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `37 min`
 

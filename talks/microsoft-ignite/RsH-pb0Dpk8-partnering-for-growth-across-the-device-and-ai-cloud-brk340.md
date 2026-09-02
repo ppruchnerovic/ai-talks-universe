@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Yann Calvez", "Gabe Gravning", "Mark Linton"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-22T09:08:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partnering for Growth across the Device and AI Cloud | BRK340
 
-**Speaker not identified**
+**Yann Calvez, Gabe Gravning, Mark Linton**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

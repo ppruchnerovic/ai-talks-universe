@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Franck Pachot"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T14:00:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A 30-Year SQL Veteran Joins MongoDB — Here's What He Learned
 
-**Speaker not identified**
+**Franck Pachot**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Richard Diver", "Anthony Pierce"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-24T10:37:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Embrace unified digital resilience with Cisco and Microsoft | BRKSP483
 
-**Speaker not identified**
+**Richard Diver, Anthony Pierce**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

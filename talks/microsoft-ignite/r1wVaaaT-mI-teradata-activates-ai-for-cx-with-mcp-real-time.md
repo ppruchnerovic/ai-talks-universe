@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vidhan Bhonsle"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-19T14:56:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Teradata activates AI for CX with MCP: Real-time intelligence engine | ODSP1503
 
-**Speaker not identified**
+**Vidhan Bhonsle**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

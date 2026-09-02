@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Renu  Nair", "Bhargav Parnandi"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2025-11-19T17:09:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation with AI & Azure Agents | ODSP1401
 
-**Speaker not identified**
+**Renu  Nair, Bhargav Parnandi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `21 min`
 

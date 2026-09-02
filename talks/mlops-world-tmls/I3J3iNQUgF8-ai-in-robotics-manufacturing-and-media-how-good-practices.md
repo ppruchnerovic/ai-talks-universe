@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Maryam Emami", "Chief Executive Officer"]
+speakers: ["Maryam Emami"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 44
 published_at: 2023-05-29T05:19:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI in Robotics, Manufacturing, and Media How Good Practices Can Shape the Future
 
-**Maryam Emami, Chief Executive Officer**
+**Maryam Emami**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `44 min`
 

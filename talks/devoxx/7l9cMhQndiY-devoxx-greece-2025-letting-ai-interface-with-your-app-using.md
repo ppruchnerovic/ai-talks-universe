@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Kent. C. Dodds"]
 channel: null
 duration_min: 23
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Devoxx Greece 2025 - Letting AI Interface with Your App using MCPs by Kent. C. Dodds
 
-**Speaker not identified**
+**Kent. C. Dodds**
 
 `Devoxx` · `Devoxx` · `2025` · `23 min`
 

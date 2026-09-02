@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Devanshi Joshi", "Simon Jakesch", "Gopi Prashanth"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-04T13:01:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Idea to production-ready agent in seconds on AI-native runtime | BRK221
 
-**Speaker not identified**
+**Devanshi Joshi, Simon Jakesch, Gopi Prashanth**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Ted Neward"]
 channel: "Devoxx"
 duration_min: 52
 published_at: 2025-10-02T12:32:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Artificial, yes; Intelligent, no. - Keynote by Ted Neward
 
-**Speaker not identified**
+**Ted Neward**
 
 `Devoxx` · `Devoxx` · `2025` · `52 min`
 

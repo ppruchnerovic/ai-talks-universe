@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Better Auth"]
+speakers: ["Paola Estefania"]
 channel: "AI Engineer"
 duration_min: 41
 published_at: 2026-07-21T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Full Workshop: Better Auth — Paola Estefania, Better Auth
 
-**Better Auth**
+**Paola Estefania**
 
 `AI Engineer` · `AI Engineer` · `2026` · `41 min`
 

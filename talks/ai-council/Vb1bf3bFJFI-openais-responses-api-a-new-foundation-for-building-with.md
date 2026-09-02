@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Nikunj Handa"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2025-05-29T14:31:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # OpenAI’s Responses API: A New Foundation for Building with Models & Tools
 
-**Speaker not identified**
+**Nikunj Handa**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dave Salvator"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T15:32:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate generative AI adoption with NVIDIA AI on Azure | BRKFP387
 
-**Speaker not identified**
+**Dave Salvator**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

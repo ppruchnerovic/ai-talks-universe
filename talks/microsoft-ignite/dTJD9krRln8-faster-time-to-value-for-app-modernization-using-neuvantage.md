@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Hiren Dhaduk", "Matthew Wendel"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2025-11-19T12:53:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Faster time-to-value for app modernization using NeuVantage AI | ODSP1432
 
-**Speaker not identified**
+**Hiren Dhaduk, Matthew Wendel**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `10 min`
 

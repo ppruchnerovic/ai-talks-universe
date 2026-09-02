@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parker Johnston"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-21T12:53:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Experience real-world impact and scalable success across industries | STUDIOSP67
 
-**Speaker not identified**
+**Parker Johnston**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

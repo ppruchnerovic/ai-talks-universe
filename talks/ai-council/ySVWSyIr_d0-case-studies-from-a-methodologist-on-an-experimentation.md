@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Laura Cosgrove"]
 channel: "AI Council"
 duration_min: 30
 published_at: 2024-04-19T05:00:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Case Studies from a Methodologist on an Experimentation Platform
 
-**Speaker not identified**
+**Laura Cosgrove**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `30 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rasmus Hyltegard", "Pepijn Richter", "Amit Trivedi"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T17:14:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The agentic advantage: unlock the next retail evolution with AI agents | BRK382
 
-**Speaker not identified**
+**Rasmus Hyltegard, Pepijn Richter, Amit Trivedi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

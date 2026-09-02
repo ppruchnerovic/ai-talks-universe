@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kenji Motohashi", "Facundo Santiago", "Saumil Shrivastava"]
 channel: "Microsoft Events"
 duration_min: 55
 published_at: 2024-11-21T14:14:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI Foundry: Effortless model selection - explore swap & scale faster | BRK118
 
-**Speaker not identified**
+**Kenji Motohashi, Facundo Santiago, Saumil Shrivastava**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `55 min`
 

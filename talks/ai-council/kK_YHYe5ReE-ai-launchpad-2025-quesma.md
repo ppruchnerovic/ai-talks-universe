@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jacek Migdal"]
 channel: "AI Council"
 duration_min: 9
 published_at: 2025-05-29T13:38:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: Quesma
 
-**Speaker not identified**
+**Jacek Migdal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `9 min`
 

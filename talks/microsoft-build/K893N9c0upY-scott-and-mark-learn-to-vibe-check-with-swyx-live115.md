@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Scott Hanselman"]
 channel: "Microsoft Developer"
 duration_min: 12
 published_at: 2026-06-05T15:38:29Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn to Vibe Check with Swyx | LIVE115
 
-**Speaker not identified**
+**Scott Hanselman**
 
 `Microsoft Build` · `Build 2026` · `2026` · `12 min`
 

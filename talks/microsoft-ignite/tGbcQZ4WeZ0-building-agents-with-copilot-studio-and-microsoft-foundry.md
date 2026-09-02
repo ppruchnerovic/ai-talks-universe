@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Matthew Barbour", "Matthew Bolanos", "Seth Juarez"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T15:52:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building agents with Copilot Studio and Microsoft Foundry | BRK314
 
-**Speaker not identified**
+**Matthew Barbour, Matthew Bolanos, Seth Juarez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

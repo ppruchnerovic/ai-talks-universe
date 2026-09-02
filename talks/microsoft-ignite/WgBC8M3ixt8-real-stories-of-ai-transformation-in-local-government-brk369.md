@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brett Howard", "Michael Makstman", "Angel Smith"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-24T08:27:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Real Stories of AI Transformation in Local Government | BRK369
 
-**Speaker not identified**
+**Brett Howard, Michael Makstman, Angel Smith**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `49 min`
 

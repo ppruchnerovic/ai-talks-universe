@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Sven Reimers"]
 channel: "Devoxx"
 duration_min: 31
 published_at: 2025-10-07T05:13:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Java Adventures JTaccuino, Java 25 and AI by Sven Reimers
 
-**Speaker not identified**
+**Sven Reimers**
 
 `Devoxx` · `Devoxx` · `2025` · `31 min`
 

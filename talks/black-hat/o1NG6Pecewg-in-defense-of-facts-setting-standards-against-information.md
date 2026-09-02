@@ -7,7 +7,7 @@ conference_name: "Black Hat"
 category: "AI security"
 edition: "Black Hat"
 year: 2025
-speakers: ["Maricopa County"]
+speakers: []
 channel: "Black Hat"
 duration_min: 40
 published_at: 2025-02-13T20:57:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # In Defense of Facts: Setting Standards Against Information Threats
 
-**Maricopa County**
+**Speaker not identified**
 
 `Black Hat` · `Black Hat` · `2025` · `40 min`
 

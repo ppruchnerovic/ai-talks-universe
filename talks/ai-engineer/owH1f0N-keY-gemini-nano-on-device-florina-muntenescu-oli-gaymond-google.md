@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Florina Muntenescu", "Oli Gaymond"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-05-22T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Gemini Nano on device — Florina Muntenescu & Oli Gaymond, Google DeepMind
 
-**Speaker not identified**
+**Florina Muntenescu, Oli Gaymond**
 
 `AI Engineer` · `AI Engineer` · `2026` · `20 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Bhumik Patel"]
 channel: "Microsoft Events"
 duration_min: 9
 published_at: 2024-11-20T13:19:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Arm Neoverse-powered Microsoft Azure Cobalt 100 VMs | ODFP923
 
-**Speaker not identified**
+**Bhumik Patel**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `9 min`
 

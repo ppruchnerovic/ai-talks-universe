@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Emma Cooper", "Clay Wesener"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-20T14:25:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Create apps with M365 Copilot and App Builder | BRK275
 
-**Speaker not identified**
+**Emma Cooper, Clay Wesener**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

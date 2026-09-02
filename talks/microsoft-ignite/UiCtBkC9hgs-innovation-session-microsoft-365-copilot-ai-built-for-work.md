@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sumit Chauhan", "Nicole Herskowitz", "Jeff Teper"]
 channel: "Microsoft Events"
 duration_min: 51
 published_at: 2025-11-24T12:57:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Microsoft 365 Copilot: AI Built For Work | BRK1710
 
-**Speaker not identified**
+**Sumit Chauhan, Nicole Herskowitz, Jeff Teper**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `51 min`
 

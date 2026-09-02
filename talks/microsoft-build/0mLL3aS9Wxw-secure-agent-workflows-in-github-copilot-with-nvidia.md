@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ali Golshan", "Alex Watson"]
 channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-04T13:06:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Secure agent workflows in GitHub Copilot with NVIDIA OpenShell | DEMSP387
 
-**Speaker not identified**
+**Ali Golshan, Alex Watson**
 
 `Microsoft Build` · `Build 2026` · `2026` · `22 min`
 

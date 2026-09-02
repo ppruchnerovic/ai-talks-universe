@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Matthew Bolanos", "Zankar Desai", "Kendra Springer", "Ziv Ventura"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-25T15:49:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building Multi-Agent systems with MCP and Copilot Studio | BRK317
 
-**Speaker not identified**
+**Matthew Bolanos, Zankar Desai, Kendra Springer, Ziv Ventura**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

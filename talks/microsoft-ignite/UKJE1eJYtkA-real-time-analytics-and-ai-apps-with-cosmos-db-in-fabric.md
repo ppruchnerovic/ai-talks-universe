@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mark Brown", "Jai Maldonado"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-21T16:45:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Real-time analytics and AI apps with Cosmos DB in Fabric | BRK228
 
-**Speaker not identified**
+**Mark Brown, Jai Maldonado**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

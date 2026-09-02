@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Dan Mejia"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2024-04-14T05:00:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Working Outside the Box: the Journey to FigJam AI
 
-**Speaker not identified**
+**Dan Mejia**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `37 min`
 

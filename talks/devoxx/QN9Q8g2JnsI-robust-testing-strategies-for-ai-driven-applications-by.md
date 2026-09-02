@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Victor Landeau"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2025-10-02T12:32:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Robust Testing Strategies for AI-Driven Applications by Victor Landeau
 
-**Speaker not identified**
+**Victor Landeau**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

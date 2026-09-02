@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Tobias Lunt"]
 channel: "AI Council"
 duration_min: 18
 published_at: 2025-05-29T00:43:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Putting Data To Work For Global Urban Development
 
-**Speaker not identified**
+**Tobias Lunt**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `18 min`
 

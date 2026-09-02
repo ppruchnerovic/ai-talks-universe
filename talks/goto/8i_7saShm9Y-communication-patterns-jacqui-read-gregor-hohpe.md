@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: ["Communication Patterns"]
+speakers: ["Communication Patterns", "Jacqui Read", "Gregor Hohpe"]
 channel: "GOTO Conferences"
 duration_min: 45
 published_at: 2025-05-30T09:21:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Communication Patterns • Jacqui Read & Gregor Hohpe
 
-**Communication Patterns**
+**Communication Patterns, Jacqui Read, Gregor Hohpe**
 
 `GOTO Conferences` · `GOTO` · `2025` · `45 min`
 

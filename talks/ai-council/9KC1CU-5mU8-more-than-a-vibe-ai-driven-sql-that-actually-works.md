@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jacob Matson"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T00:22:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # More Than a Vibe: AI-Driven SQL That Actually Works
 
-**Speaker not identified**
+**Jacob Matson**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

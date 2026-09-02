@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Danny Gollapalli", "Zubin Koticha"]
 channel: "AI Engineer"
 duration_min: 50
 published_at: 2026-05-07T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Everything You Need To Know About Agent Observability — Danny Gollapalli & Zubin Koticha, Raindrop
 
-**Speaker not identified**
+**Danny Gollapalli, Zubin Koticha**
 
 `AI Engineer` · `AI Engineer` · `2026` · `50 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Howard Crow", "Derek Snyder"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-25T13:22:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Boost productivity with Copilot in Microsoft 365 apps | BRK285
 
-**Speaker not identified**
+**Howard Crow, Derek Snyder**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

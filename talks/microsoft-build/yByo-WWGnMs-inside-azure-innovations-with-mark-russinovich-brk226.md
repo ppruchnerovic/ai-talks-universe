@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mark Russinovich"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-11T08:21:18Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Inside Azure innovations with Mark Russinovich | BRK226
 
-**Speaker not identified**
+**Mark Russinovich**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

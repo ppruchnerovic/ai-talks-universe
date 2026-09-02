@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2025
-speakers: ["Jenny Brock", "Sr. Manager Innovation Programs"]
+speakers: ["Jenny Brock"]
 channel: "RSAC Cybersecurity"
 duration_min: 44
 published_at: 2025-03-27T22:17:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # RSAC™ Innovation Showcase: Making a Difference in Application Security
 
-**Jenny Brock, Sr. Manager Innovation Programs**
+**Jenny Brock**
 
 `RSAC Conference` · `RSAC` · `2025` · `44 min`
 

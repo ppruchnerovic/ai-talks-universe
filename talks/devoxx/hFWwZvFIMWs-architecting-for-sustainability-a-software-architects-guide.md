@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Eoin Woods"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2025-11-11T10:37:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Architecting for Sustainability: A Software Architects Guide to Green Software Keynote by Eoin Woods
 
-**Speaker not identified**
+**Eoin Woods**
 
 `Devoxx` · `Devoxx` · `2025` · `49 min`
 

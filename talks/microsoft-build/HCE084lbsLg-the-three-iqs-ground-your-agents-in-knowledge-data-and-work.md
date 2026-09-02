@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Marco Casalaina", "Ayca Bas"]
 channel: "Microsoft Developer"
 duration_min: 10
 published_at: 2026-06-05T14:49:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Three IQs: Ground Your Agents in Knowledge, Data, and Work | LIVE171
 
-**Speaker not identified**
+**Marco Casalaina, Ayca Bas**
 
 `Microsoft Build` · `Build 2026` · `2026` · `10 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Vignesh Chadramohan"]
 channel: "AI Council"
 duration_min: 24
 published_at: 2025-05-29T13:27:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Internals of SlateDB: An Embedded Key Value Store Built On Object Storage
 
-**Speaker not identified**
+**Vignesh Chadramohan**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `24 min`
 

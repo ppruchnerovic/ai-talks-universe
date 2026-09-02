@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parker Johnston", "Chris Thompson"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-26T20:02:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Go beyond AI-hype to build systems you can trust and track | BRKSP480
 
-**Speaker not identified**
+**Parker Johnston, Chris Thompson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

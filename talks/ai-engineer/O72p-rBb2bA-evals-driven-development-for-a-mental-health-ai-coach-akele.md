@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Akele Reed", "Dave Revere"]
 channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-07-25T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Evals-Driven Development for a Mental Health AI Coach — Akele Reed & Dave Revere, SonderMind
 
-**Speaker not identified**
+**Akele Reed, Dave Revere**
 
 `AI Engineer` · `AI Engineer` · `2026` · `21 min`
 

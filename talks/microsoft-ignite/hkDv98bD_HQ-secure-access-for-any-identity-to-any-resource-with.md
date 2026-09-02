@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Alex Simons", "Nichole Peterson"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T13:52:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure access for any identity to any resource with Microsoft Entra | BRK313
 
-**Speaker not identified**
+**Alex Simons, Nichole Peterson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

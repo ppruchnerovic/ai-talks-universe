@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gaurica Chacko", "Aniket Deshpande", "Jonathan Hobgood", "Todd Mersch", "Prasad Satyavolu"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T14:36:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reinventing Manufacturing with Digital Twin | PBRK1770
 
-**Speaker not identified**
+**Gaurica Chacko, Aniket Deshpande, Jonathan Hobgood, Todd Mersch, Prasad Satyavolu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

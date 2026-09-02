@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Vincent Batts", "Chris Quinn", "Andrew Randall"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:21:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in Linux: How we’re collaborating to help shape its future | BRK228
 
-**Speaker not identified**
+**Vincent Batts, Chris Quinn, Andrew Randall**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

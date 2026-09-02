@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Ashwin Ramesh"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2024-04-19T05:00:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Fast ReActions: Planning and Reasoning Quickly with LLMs
 
-**Speaker not identified**
+**Ashwin Ramesh**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `15 min`
 

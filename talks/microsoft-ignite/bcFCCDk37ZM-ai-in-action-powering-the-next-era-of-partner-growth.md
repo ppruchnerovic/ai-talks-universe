@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shane Edmonds"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T15:20:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI in action: powering the next era of partner growth | ODSP1531
 
-**Speaker not identified**
+**Shane Edmonds**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `22 min`
 

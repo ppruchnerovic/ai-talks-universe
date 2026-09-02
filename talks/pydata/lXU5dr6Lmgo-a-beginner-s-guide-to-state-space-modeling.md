@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Jesse Grabowski", "Alexandre Andorra"]
+speakers: ["Jesse Grabowski"]
 channel: "PyData"
 duration_min: 91
 published_at: 2025-11-23T14:33:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A Beginner's Guide to State Space Modeling
 
-**Jesse Grabowski, Alexandre Andorra**
+**Jesse Grabowski**
 
 `PyData` · `PyData` · `2025` · `91 min`
 

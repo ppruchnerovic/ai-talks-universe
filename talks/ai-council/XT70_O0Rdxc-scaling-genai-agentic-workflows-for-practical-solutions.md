@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Dr. Greg Michaelson"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2025-05-28T23:46:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scaling GenAI & Agentic Workflows for Practical Solutions with Zerve
 
-**Speaker not identified**
+**Dr. Greg Michaelson**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `23 min`
 

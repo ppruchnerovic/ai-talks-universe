@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Marie Alice Blet"]
 channel: "Devoxx"
 duration_min: 50
 published_at: 2025-10-09T05:35:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Yes, We Put AI Agents for Healthcare in Production No, Don't Try This at Home by Marie Alice Blet
 
-**Speaker not identified**
+**Marie Alice Blet**
 
 `Devoxx` · `Devoxx` · `2025` · `50 min`
 

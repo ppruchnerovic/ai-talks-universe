@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Kevin Azijn", "Adriaan de Jonge"]
 channel: "Devoxx"
 duration_min: 30
 published_at: 2025-10-07T05:13:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Spec Driven Development with Kiro: Vibe Coding with Guardrails by Kevin Azijn, Adriaan de Jonge
 
-**Speaker not identified**
+**Kevin Azijn, Adriaan de Jonge**
 
 `Devoxx` · `Devoxx` · `2025` · `30 min`
 

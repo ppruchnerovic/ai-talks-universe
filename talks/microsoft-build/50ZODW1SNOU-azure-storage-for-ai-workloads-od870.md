@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Saurabh Sensharma"]
 channel: "Microsoft Developer"
 duration_min: 33
 published_at: 2026-06-12T16:31:50Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Azure Storage for AI workloads​ | OD870
 
-**Speaker not identified**
+**Saurabh Sensharma**
 
 `Microsoft Build` · `Build 2026` · `2026` · `33 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alexandra Zagury", "Gustavo Fuchs", "Harpreet Girn", "Bart van der Knaap"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-26T20:02:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner Execution at scale with SME&C | PBRK423
 
-**Speaker not identified**
+**Alexandra Zagury, Gustavo Fuchs, Harpreet Girn, Bart van der Knaap**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

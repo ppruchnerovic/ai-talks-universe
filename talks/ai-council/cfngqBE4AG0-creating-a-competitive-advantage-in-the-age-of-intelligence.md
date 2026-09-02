@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Miguel Paredes"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2024-04-19T05:00:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Creating a Competitive Advantage in the Age of Intelligence as a Service
 
-**Speaker not identified**
+**Miguel Paredes**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `12 min`
 

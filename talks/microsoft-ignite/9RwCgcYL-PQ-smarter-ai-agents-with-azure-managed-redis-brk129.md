@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Simon Brown", "Shruti Pathak", "Georgios Theologou", "Mark Weitzel"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-20T15:58:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Smarter AI Agents with Azure Managed Redis | BRK129
 
-**Speaker not identified**
+**Simon Brown, Shruti Pathak, Georgios Theologou, Mark Weitzel**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `35 min`
 

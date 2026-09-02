@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Noelle Saldana"]
 channel: "AI Council"
 duration_min: 18
 published_at: 2024-04-19T05:00:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to Align AI Capabilities with Product Strategy so You Can Innovate
 
-**Speaker not identified**
+**Noelle Saldana**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `18 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Natacha Crooks"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2025-05-29T14:10:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Concurrency Control to Concurrent Scheduling
 
-**Speaker not identified**
+**Natacha Crooks**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `37 min`
 

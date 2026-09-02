@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Juan Daniel Alonso", "Clay Caldwell"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T14:27:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Forging new frontiers: How Forza Steel built an AI-ready foundation | ODSP1449
 
-**Speaker not identified**
+**Juan Daniel Alonso, Clay Caldwell**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `22 min`
 

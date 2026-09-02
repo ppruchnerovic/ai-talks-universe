@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["James Brotsos"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T13:57:37Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Ship fast, stay secure: from code to runtime | OD841
 
-**Speaker not identified**
+**James Brotsos**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

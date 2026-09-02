@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: ["Architecture Modernization"]
+speakers: ["Architecture Modernization", "Nick Tune", "Eduardo da Sliva"]
 channel: "GOTO Conferences"
 duration_min: 41
 published_at: 2024-09-27T09:29:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Architecture Modernization • Nick Tune & Eduardo da Sliva
 
-**Architecture Modernization**
+**Architecture Modernization, Nick Tune, Eduardo da Sliva**
 
 `GOTO Conferences` · `GOTO` · `2024` · `41 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Kevlin Henney"]
 channel: "Devoxx"
 duration_min: 50
 published_at: 2026-02-27T13:52:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Past, Present and Future of Programming Languages by Kevlin Henney
 
-**Speaker not identified**
+**Kevlin Henney**
 
 `Devoxx` · `Devoxx` · `2026` · `50 min`
 

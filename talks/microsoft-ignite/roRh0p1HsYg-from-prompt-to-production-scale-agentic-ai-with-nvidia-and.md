@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Matheen Raza"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-21T10:20:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From prompt to production: Scale agentic AI with NVIDIA and Azure | BRKSP477
 
-**Speaker not identified**
+**Matheen Raza**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

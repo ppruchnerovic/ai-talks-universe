@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Avi Press"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2025-05-29T00:40:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Open Source Success: Learnings from 1 Billion Downloads
 
-**Speaker not identified**
+**Avi Press**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `15 min`
 

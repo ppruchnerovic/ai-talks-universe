@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jack Cowett", "Chauncey Larsen"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-27T12:32:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unleashing AI productivity with Surface | BRK294
 
-**Speaker not identified**
+**Jack Cowett, Chauncey Larsen**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

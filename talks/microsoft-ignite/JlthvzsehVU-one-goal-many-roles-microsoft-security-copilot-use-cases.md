@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nick Goodman", "Ryan Munsch"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2024-11-25T13:54:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # One goal many roles: Microsoft Security Copilot use cases for all | BRK316
 
-**Speaker not identified**
+**Nick Goodman, Ryan Munsch**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `35 min`
 

@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Sebastiano Milardo", "Pietro Piccini"]
 channel: "PyData"
 duration_min: 33
 published_at: 2025-11-21T16:26:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Sebastiano Milardo & Pietro Piccini - Architecting Scalable Multi-Modal Video Search
 
-**Speaker not identified**
+**Sebastiano Milardo, Pietro Piccini**
 
 `PyData` · `PyData` · `2025` · `33 min`
 

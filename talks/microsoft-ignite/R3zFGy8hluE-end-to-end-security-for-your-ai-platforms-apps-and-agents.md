@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lou Adesida", "Neta Haiby", "Herain Oberoi"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T14:35:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # End-to-end security for your AI platforms apps and agents | BRK267
 
-**Speaker not identified**
+**Lou Adesida, Neta Haiby, Herain Oberoi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

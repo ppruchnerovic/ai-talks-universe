@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Maria Bledsoe", "Shawn Harris", "Michael Womack"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T12:08:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Levi’s is transforming their IT estate with Azure | BRK156
 
-**Speaker not identified**
+**Maria Bledsoe, Shawn Harris, Michael Womack**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

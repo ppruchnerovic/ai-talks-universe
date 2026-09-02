@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2026
-speakers: ["Podcast Host"]
+speakers: []
 channel: "AI Council"
 duration_min: 41
 published_at: 2026-06-17T22:23:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # 5 Lessons from the Classroom for Evaluating Agents | Dev Interrupted
 
-**Podcast Host**
+**Speaker not identified**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `41 min`
 

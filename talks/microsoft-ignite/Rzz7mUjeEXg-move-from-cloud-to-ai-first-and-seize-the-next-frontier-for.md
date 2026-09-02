@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sophie Daval", "Eric Gourmelen"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-21T12:16:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Move from cloud to AI-first and seize the next frontier for partners | BRKSP454
 
-**Speaker not identified**
+**Sophie Daval, Eric Gourmelen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

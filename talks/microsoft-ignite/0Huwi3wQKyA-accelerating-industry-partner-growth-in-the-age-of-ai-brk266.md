@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kathleen Mitford", "Satish Thomas", "Kathie Johnson", "Sandra Notardonato", "Julie Sanford"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-21T10:09:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerating industry partner growth in the age of AI | BRK266
 
-**Speaker not identified**
+**Kathleen Mitford, Satish Thomas, Kathie Johnson, Sandra Notardonato, Julie Sanford**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

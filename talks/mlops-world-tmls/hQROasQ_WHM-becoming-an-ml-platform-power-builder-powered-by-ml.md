@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Aman Khan", "Senior Product Manager"]
+speakers: ["Aman Khan"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 46
 published_at: 2023-05-29T05:19:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Becoming An ML Platform Power Builder Powered by ML Observability
 
-**Aman Khan, Senior Product Manager**
+**Aman Khan**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `46 min`
 

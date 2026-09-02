@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ankur Chadda"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-19T08:39:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bolster your data security in the AI era with Microsoft and Netskope | ODSP1476
 
-**Speaker not identified**
+**Ankur Chadda**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `12 min`
 

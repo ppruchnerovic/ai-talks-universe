@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sarah Bird"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2024-11-25T12:14:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trustworthy AI: Advanced AI risk evaluation and mitigation | BRK113
 
-**Speaker not identified**
+**Sarah Bird**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `50 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Simon Hørup Eskildsen"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T15:51:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Notion Cut Millions from Their Vector DB Bill Without Sacrificing Search Quality
 
-**Speaker not identified**
+**Simon Hørup Eskildsen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Nicholas Kang", "Michael Aaron"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-05-25T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael Aaron, Google DeepMind
 
-**Speaker not identified**
+**Nicholas Kang, Michael Aaron**
 
 `AI Engineer` · `AI Engineer` · `2026` · `20 min`
 

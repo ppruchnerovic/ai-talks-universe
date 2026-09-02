@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rob Lefferts", "Corina Feuerstein", "Allie Mellen"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T14:57:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Defender: Building the agentic SOC with guest Allie Mellen | BRK241
 
-**Speaker not identified**
+**Rob Lefferts, Corina Feuerstein, Allie Mellen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

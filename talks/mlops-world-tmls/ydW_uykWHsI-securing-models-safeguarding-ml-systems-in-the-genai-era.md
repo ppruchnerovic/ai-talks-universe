@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Hudson Buzby", "Solutions Architect"]
+speakers: ["Hudson Buzby"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 28
 published_at: 2025-10-23T03:17:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing Models: Safeguarding ML Systems in the GenAI Era | Hudson Buzby, JFrog
 
-**Hudson Buzby, Solutions Architect**
+**Hudson Buzby**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `28 min`
 

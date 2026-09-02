@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Guillaume Laforge"]
 channel: "Devoxx"
 duration_min: 52
 published_at: 2025-10-10T05:10:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Discover the Agent Development Kit for Java for building AI agents by Guillaume Laforge
 
-**Speaker not identified**
+**Guillaume Laforge**
 
 `Devoxx` · `Devoxx` · `2025` · `52 min`
 

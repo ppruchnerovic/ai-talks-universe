@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Manuel Cubillo"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T13:40:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Engineer for AI to optimize all your enterprise solutions | ODFP941
 
-**Speaker not identified**
+**Manuel Cubillo**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

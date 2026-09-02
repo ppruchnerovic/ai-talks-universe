@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Martijn Verburg"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2025-10-10T05:09:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Rise of the Agents: You, AI, and the Future of Society by Martijn Verburg
 
-**Speaker not identified**
+**Martijn Verburg**
 
 `Devoxx` · `Devoxx` · `2025` · `45 min`
 

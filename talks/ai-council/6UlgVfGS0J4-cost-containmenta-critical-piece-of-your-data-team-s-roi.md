@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Lindsay Murphy"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2024-04-19T05:00:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Cost Containment–A Critical Piece of your Data Team's ROI
 
-**Speaker not identified**
+**Lindsay Murphy**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `34 min`
 

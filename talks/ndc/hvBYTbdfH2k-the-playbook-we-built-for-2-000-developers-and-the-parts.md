@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Håkon Eriksson", "Øyvind Viken"]
 channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-06-29T12:11:28Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The playbook we built for 2,000 developers (and the parts... - Håkon Eriksson & Øyvind Viken
 
-**Speaker not identified**
+**Håkon Eriksson, Øyvind Viken**
 
 `NDC Conferences` · `NDC` · `2026` · `56 min`
 

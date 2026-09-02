@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Michelle Frost", "Hannes Lowette"]
 channel: "GOTO Conferences"
 duration_min: 40
 published_at: 2025-09-09T12:57:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ethics in AI: Biases & Responsibilities • Michelle Frost & Hannes Lowette
 
-**Speaker not identified**
+**Michelle Frost, Hannes Lowette**
 
 `GOTO Conferences` · `GOTO` · `2025` · `40 min`
 

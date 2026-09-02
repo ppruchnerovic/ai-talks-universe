@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Samer Baroudi", "Shilpi Sinha", "Tiffany Treacy"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-12-03T23:27:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # IT Strategies for Copilot Administration | BRK281
 
-**Speaker not identified**
+**Samer Baroudi, Shilpi Sinha, Tiffany Treacy**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

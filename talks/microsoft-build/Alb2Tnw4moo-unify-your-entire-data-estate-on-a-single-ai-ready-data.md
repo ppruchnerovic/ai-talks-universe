@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Miquella de Boer", "Wee Hyong Tok", "Josh Caplan", "Dipti Borkar"]
 channel: "Microsoft Developer"
 duration_min: 35
 published_at: 2026-06-03T13:09:39Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Unify your entire data estate on a single, AI-ready data lake | OD815
 
-**Speaker not identified**
+**Miquella de Boer, Wee Hyong Tok, Josh Caplan, Dipti Borkar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `35 min`
 

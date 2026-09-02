@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vikas Bhatia", "Mario Lopez"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T11:04:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure IaaS platform security deep dive | BRK168
 
-**Speaker not identified**
+**Vikas Bhatia, Mario Lopez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

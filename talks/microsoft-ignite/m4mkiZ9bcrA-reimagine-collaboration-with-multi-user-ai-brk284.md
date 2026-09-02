@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Russell Dicker", "Pete Daderko"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-20T14:50:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reimagine collaboration with multi-user AI | BRK284
 
-**Speaker not identified**
+**Russell Dicker, Pete Daderko**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

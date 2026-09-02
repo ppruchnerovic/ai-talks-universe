@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Tom Johnson", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 45
 published_at: 2025-06-06T09:34:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Design & Develop Distributed Software Better w/ Multiplayer • Tom Johnson & Julian Wood
 
-**Speaker not identified**
+**Tom Johnson, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `45 min`
 

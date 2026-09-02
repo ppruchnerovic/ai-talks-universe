@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Alessandro Giusti"]
 channel: "Devoxx"
 duration_min: 21
 published_at: 2026-02-27T13:52:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Visualizing robot minds, and other fun stuff by Alessandro Giusti
 
-**Speaker not identified**
+**Alessandro Giusti**
 
 `Devoxx` · `Devoxx` · `2026` · `21 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ananthram Balakrishnan"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-26T20:02:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Empower Frontier Firms with Copilot and agents services | PBRK302
 
-**Speaker not identified**
+**Ananthram Balakrishnan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

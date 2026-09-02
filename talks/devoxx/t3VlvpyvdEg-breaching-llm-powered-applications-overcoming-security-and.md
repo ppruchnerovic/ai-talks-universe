@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Brian Vermeer"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2025-04-07T13:45:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Breaching LLM Powered Applications: Overcoming Security and Privacy Challenges by Brian Vermeer
 
-**Speaker not identified**
+**Brian Vermeer**
 
 `Devoxx` · `Devoxx` · `2025` · `49 min`
 

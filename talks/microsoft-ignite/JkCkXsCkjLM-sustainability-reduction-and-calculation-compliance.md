@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Amanda Giglio", "Robin Smith"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2024-11-27T09:48:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Sustainability reduction and calculation compliance simplified with Copilot Studio | BRK254
 
-**Speaker not identified**
+**Amanda Giglio, Robin Smith**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `33 min`
 

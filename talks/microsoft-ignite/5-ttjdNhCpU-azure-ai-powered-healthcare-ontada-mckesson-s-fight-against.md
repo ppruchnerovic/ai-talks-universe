@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jay Hugalavalli", "Amit Mukherjee", "Wanmei Ou", "Xuhui Quan"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-26T07:11:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI powered healthcare: Ontada McKesson's fight against cancer | BRK127
 
-**Speaker not identified**
+**Jay Hugalavalli, Amit Mukherjee, Wanmei Ou, Xuhui Quan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

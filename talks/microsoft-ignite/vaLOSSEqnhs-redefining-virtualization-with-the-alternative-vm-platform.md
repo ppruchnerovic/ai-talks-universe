@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jeff Ready"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2024-11-20T14:16:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Redefining virtualization with the alternative VM platform you seek | ODFP973
 
-**Speaker not identified**
+**Jeff Ready**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `22 min`
 

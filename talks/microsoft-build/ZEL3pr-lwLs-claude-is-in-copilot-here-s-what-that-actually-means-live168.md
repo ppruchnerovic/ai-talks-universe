@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Tyler Leonhardt", "Burke Holland"]
 channel: "Visual Studio Code"
 duration_min: 12
 published_at: 2026-06-05T13:43:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Claude Is in Copilot. Here's What That Actually Means | LIVE168
 
-**Speaker not identified**
+**Tyler Leonhardt, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `12 min`
 

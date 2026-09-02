@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kyle Edsall"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-19T15:07:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # CTERA in action: Building the data fabric of global enterprises | ODSP1436
 
-**Speaker not identified**
+**Kyle Edsall**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

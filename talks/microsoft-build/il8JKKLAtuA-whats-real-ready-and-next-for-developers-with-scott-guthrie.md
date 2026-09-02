@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Scott Guthrie", "Seth Juarez"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-04T13:56:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # What’s real, ready, and next for developers with Scott Guthrie | LIVE109
 
-**Speaker not identified**
+**Scott Guthrie, Seth Juarez**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

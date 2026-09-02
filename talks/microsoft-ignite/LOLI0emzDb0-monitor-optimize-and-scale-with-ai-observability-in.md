@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Abhi Bhatt", "Sebastian Kohlmeier", "Sam Naghshineh"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-20T16:18:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Monitor, optimize and scale with AI Observability in Microsoft Foundry | BRK190
 
-**Speaker not identified**
+**Abhi Bhatt, Sebastian Kohlmeier, Sam Naghshineh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `35 min`
 

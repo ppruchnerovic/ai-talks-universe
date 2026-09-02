@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ashok Ghosh", "Dan Narloch"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T12:34:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI for the Public Sector with Microsoft 365 Copilot GCC | OD803
 
-**Speaker not identified**
+**Ashok Ghosh, Dan Narloch**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `18 min`
 

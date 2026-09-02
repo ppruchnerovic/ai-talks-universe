@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kyle Grossmiller", "Husam Hilal"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T14:30:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enterprise storage for Azure VMware solution: Simplify scale and save | ODSP1490
 
-**Speaker not identified**
+**Kyle Grossmiller, Husam Hilal**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

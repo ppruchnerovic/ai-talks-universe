@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Henk Boelman"]
 channel: "Microsoft Developer"
 duration_min: 16
 published_at: 2026-06-10T20:08:41Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build multimodal agents that reason interact and take action | DEM330
 
-**Speaker not identified**
+**Henk Boelman**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

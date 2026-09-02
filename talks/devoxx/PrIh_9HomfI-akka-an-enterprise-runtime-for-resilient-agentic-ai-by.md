@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Renato Guerra Cavalcanti"]
 channel: "Devoxx"
 duration_min: 59
 published_at: 2025-10-09T05:36:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Akka: an enterprise runtime for resilient agentic AI by Renato Guerra Cavalcanti
 
-**Speaker not identified**
+**Renato Guerra Cavalcanti**
 
 `Devoxx` · `Devoxx` · `2025` · `59 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit EU 2025"
 year: 2025
-speakers: []
+speakers: ["Alberto Rodríguez", "Miguel Fontanilla"]
 channel: "The Linux Foundation"
 duration_min: 35
 published_at: 2025-09-05T19:45:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Open Source Tools To Empower Ethical and Robust AI Systems - Alberto Rodríguez & Miguel Fontanilla
 
-**Speaker not identified**
+**Alberto Rodríguez, Miguel Fontanilla**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit EU 2025` · `2025` · `35 min`
 

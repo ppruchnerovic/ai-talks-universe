@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Simon Peyton Jones", "Chelsea Troy"]
 channel: "GOTO Conferences"
 duration_min: 26
 published_at: 2025-11-28T13:21:37Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to Discover the Binary System as a Child • Simon Peyton Jones & Chelsea Troy
 
-**Speaker not identified**
+**Simon Peyton Jones, Chelsea Troy**
 
 `GOTO Conferences` · `GOTO` · `2025` · `26 min`
 

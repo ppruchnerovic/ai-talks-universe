@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Pankaj Gupta", "Philip Kiely"]
 channel: "PyTorch"
 duration_min: 26
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Sponsor Session: Low-Precision Inference without Quality Loss... - Pankaj Gupta & Philip Kiely
 
-**Speaker not identified**
+**Pankaj Gupta, Philip Kiely**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `26 min`
 

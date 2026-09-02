@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Surojit Chatterjee", "Amee Desjourdy", "Heena Purohit", "Hans Yang"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-24T11:55:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovate with AI at Enterprise Scale​ | BRK410
 
-**Speaker not identified**
+**Surojit Chatterjee, Amee Desjourdy, Heena Purohit, Hans Yang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

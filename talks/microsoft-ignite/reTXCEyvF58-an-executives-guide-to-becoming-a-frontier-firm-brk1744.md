@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Katy George", "Matthew Duncan"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T12:56:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # An Executive’s Guide to Becoming a Frontier Firm | BRK1744
 
-**Speaker not identified**
+**Katy George, Matthew Duncan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

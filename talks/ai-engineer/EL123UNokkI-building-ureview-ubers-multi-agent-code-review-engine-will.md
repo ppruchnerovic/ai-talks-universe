@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Will Bond", "Ameya Ketkar"]
 channel: "AI Engineer"
 duration_min: 15
 published_at: 2026-08-28T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building uReview, Uber’s Multi-Agent Code Review Engine — Will Bond & Ameya Ketkar, Uber
 
-**Speaker not identified**
+**Will Bond, Ameya Ketkar**
 
 `AI Engineer` · `AI Engineer` · `2026` · `15 min`
 

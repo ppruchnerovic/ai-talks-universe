@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Jeyashree Krishnan", "Catarina Filipe"]
+speakers: ["Jeyashree Krishnan"]
 channel: "PyData"
 duration_min: 31
 published_at: 2026-08-25T18:20:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From Research Models to SLAs: Operationalizing TSFMs with Python [PyCon DE & PyData 2026]
 
-**Jeyashree Krishnan, Catarina Filipe**
+**Jeyashree Krishnan**
 
 `PyData` · `PyData` · `2026` · `31 min`
 

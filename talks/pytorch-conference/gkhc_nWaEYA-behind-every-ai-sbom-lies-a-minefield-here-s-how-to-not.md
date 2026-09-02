@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Matthew Crawford", "Jimmy Ahlberg"]
 channel: "PyTorch"
 duration_min: 24
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Behind Every AI SBOM Lies a Minefield: Here's How to Not Step... - Matthew Crawford & Jimmy Ahlberg
 
-**Speaker not identified**
+**Matthew Crawford, Jimmy Ahlberg**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `24 min`
 

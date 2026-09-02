@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Paul Dix"]
 channel: "AI Council"
 duration_min: 49
 published_at: 2025-05-29T14:06:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building InfluxDB 3 Core: Real-Time Columnar DB & Data Processor On Object Storage
 
-**Speaker not identified**
+**Paul Dix**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `49 min`
 

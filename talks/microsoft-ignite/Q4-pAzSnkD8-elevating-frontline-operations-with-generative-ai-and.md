@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ronit Bohrer Hillel", "Hector Garcia Tellado", "Brad Haeberle"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-21T15:09:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Elevating frontline operations with generative AI and Dynamics 365 | BRK159
 
-**Speaker not identified**
+**Ronit Bohrer Hillel, Hector Garcia Tellado, Brad Haeberle**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

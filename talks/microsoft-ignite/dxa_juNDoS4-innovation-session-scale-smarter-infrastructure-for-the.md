@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nidhi Chappell", "Annie Pearl", "Jeremy Winter"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T12:50:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Scale Smarter: Infrastructure for the Agentic Era | BRK1704
 
-**Speaker not identified**
+**Nidhi Chappell, Annie Pearl, Jeremy Winter**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

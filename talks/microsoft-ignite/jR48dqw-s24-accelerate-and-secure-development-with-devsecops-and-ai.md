@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Brendan Burns", "Lara Goldstein"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T07:16:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate and secure development with DevSecOps and AI | BRK140
 
-**Speaker not identified**
+**Brendan Burns, Lara Goldstein**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

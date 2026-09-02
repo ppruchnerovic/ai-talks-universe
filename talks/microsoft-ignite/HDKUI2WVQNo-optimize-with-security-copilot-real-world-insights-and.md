@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jay James", "Dennis Mercer"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T12:50:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Optimize with Security Copilot: Real-world insights and expert advice | BRK308
 
-**Speaker not identified**
+**Jay James, Dennis Mercer**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

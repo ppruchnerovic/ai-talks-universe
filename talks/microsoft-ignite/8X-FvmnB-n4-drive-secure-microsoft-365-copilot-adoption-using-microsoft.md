@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nadia Fortini", "Erica Toelle"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T07:36:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive secure Microsoft 365 Copilot adoption using Microsoft Purview | BRK257
 
-**Speaker not identified**
+**Nadia Fortini, Erica Toelle**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

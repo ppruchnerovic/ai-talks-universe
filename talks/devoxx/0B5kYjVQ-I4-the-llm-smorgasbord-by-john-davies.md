@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["John Davies"]
 channel: "Devoxx"
 duration_min: 41
 published_at: 2025-10-10T05:09:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The LLM Smörgåsbord by John Davies
 
-**Speaker not identified**
+**John Davies**
 
 `Devoxx` · `Devoxx` · `2025` · `41 min`
 

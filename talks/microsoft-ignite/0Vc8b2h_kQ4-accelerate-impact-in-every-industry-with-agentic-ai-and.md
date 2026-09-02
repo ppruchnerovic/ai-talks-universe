@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kathleen Mitford", "Mark Austin", "Oliver Ganschar", "Jason Gowans"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T11:32:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate Impact in Every Industry with Agentic AI and Shared Learnings | BRK386
 
-**Speaker not identified**
+**Kathleen Mitford, Mark Austin, Oliver Ganschar, Jason Gowans**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

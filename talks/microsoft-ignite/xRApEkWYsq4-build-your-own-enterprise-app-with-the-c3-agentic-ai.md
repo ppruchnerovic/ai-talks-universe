@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Adrian Rami"]
 channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-21T12:49:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build your own enterprise app with the C3 Agentic AI Platform | STUDIOSP76
 
-**Speaker not identified**
+**Adrian Rami**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `11 min`
 

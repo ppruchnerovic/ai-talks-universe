@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: []
+speakers: ["Mehrin Kiani"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 20
 published_at: 2025-07-30T11:32:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Zero Trust For Machine Learning Models
 
-**Speaker not identified**
+**Mehrin Kiani**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `20 min`
 

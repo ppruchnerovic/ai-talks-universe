@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Scott Hanselman", "Mark Russinovich"]
 channel: "Microsoft Developer"
 duration_min: 65
 published_at: 2026-06-04T15:00:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn to Vibe Check | LIVE101
 
-**Speaker not identified**
+**Scott Hanselman, Mark Russinovich**
 
 `Microsoft Build` · `Build 2026` · `2026` · `65 min`
 

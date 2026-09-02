@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Phani Damaraju", "Ravi Khokhar"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:52:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive excellence in financial services with agentic AI | BRKSP462
 
-**Speaker not identified**
+**Phani Damaraju, Ravi Khokhar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Julia Kasper", "Seth Juarez"]
 channel: "Visual Studio Code"
 duration_min: 16
 published_at: 2026-06-05T13:37:14Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How we ship models in VS Code | LIVE161
 
-**Speaker not identified**
+**Julia Kasper, Seth Juarez**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

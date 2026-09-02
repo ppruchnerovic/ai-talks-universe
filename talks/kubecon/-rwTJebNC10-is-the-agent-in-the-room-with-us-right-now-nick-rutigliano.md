@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Nick Rutigliano", "Andrew Halaney"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 33
 published_at: 2026-04-09T05:19:44Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Is the Agent in the Room with Us Right Now? - Nick Rutigliano & Andrew Halaney, Netflix
 
-**Speaker not identified**
+**Nick Rutigliano, Andrew Halaney**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `33 min`
 

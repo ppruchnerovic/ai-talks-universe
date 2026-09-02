@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anirban Majumdar", "Sivakumar N"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T11:04:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Connect everything achieve anything and transform your enterprise | BRKSP485
 
-**Speaker not identified**
+**Anirban Majumdar, Sivakumar N**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

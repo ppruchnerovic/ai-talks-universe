@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dalia Abo Sheasha", "Scott Hanselman", "Jessie Houghton"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:34:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Discover GitHub Copilot's untapped potential in Visual Studio | BRK141
 
-**Speaker not identified**
+**Dalia Abo Sheasha, Scott Hanselman, Jessie Houghton**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

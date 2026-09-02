@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Wiem Sabbagh"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T13:58:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building the right data foundations to grow your business with AI | ODFP952
 
-**Speaker not identified**
+**Wiem Sabbagh**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `18 min`
 

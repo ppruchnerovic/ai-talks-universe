@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Darlene Volas"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2025-05-28T23:51:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Power of Low Latency Data for AI Apps
 
-**Speaker not identified**
+**Darlene Volas**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `10 min`
 

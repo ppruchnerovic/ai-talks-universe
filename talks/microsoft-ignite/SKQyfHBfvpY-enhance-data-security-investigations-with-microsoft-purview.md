@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Katerina Athanasiou", "Christophe Fiessinger", "Daniel Gawarecki", "Caroline Lee"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-20T07:50:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enhance data security investigations with Microsoft Purview | BRK256
 
-**Speaker not identified**
+**Katerina Athanasiou, Christophe Fiessinger, Daniel Gawarecki, Caroline Lee**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

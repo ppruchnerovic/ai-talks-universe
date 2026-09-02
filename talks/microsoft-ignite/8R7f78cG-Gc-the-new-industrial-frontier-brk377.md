@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stephan Hotz"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T16:14:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The new industrial frontier | BRK377
 
-**Speaker not identified**
+**Stephan Hotz**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

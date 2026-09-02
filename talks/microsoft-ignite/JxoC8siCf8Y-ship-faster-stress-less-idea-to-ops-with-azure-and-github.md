@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nir Mashkowski", "Mandy Whaley"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-21T17:19:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot | BRK109
 
-**Speaker not identified**
+**Nir Mashkowski, Mandy Whaley**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

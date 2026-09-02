@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Doyle", "Kunal Modi", "Chris Nikola", "Cole Swain"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T07:29:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlocking Innovation in Government with Microsoft Cloud & AI | BRK370
 
-**Speaker not identified**
+**John Doyle, Kunal Modi, Chris Nikola, Cole Swain**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

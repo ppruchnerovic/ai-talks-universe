@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Nick Nisi", "Zack Proser"]
 channel: "AI Engineer"
 duration_min: 81
 published_at: 2026-05-06T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Full Walkthrough: Writing & Using Skills — Nick Nisi and Zack Proser
 
-**Speaker not identified**
+**Nick Nisi, Zack Proser**
 
 `AI Engineer` · `AI Engineer` · `2026` · `81 min`
 

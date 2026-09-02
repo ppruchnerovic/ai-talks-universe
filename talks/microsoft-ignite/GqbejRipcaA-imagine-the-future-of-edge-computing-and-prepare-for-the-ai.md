@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Cosmos Darwin", "Amanda Fleming", "Alan Rabinovich"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:15:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Imagine the future of edge computing and prepare for the AI revolution | BRKFP378
 
-**Speaker not identified**
+**Cosmos Darwin, Amanda Fleming, Alan Rabinovich**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

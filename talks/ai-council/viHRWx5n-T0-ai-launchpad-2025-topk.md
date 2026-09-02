@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Marek Galovic"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2025-05-29T13:36:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: TopK
 
-**Speaker not identified**
+**Marek Galovic**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `12 min`
 

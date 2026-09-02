@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Jules May"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2024-10-23T07:08:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Hello, Quantum World! by Jules May
 
-**Speaker not identified**
+**Jules May**
 
 `Devoxx` · `Devoxx` · `2024` · `42 min`
 

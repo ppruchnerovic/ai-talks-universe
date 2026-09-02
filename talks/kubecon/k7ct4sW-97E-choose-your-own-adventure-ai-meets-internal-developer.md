@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Whitney Lee", "Viktor Farcic"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 37
 published_at: 2026-04-09T05:29:40Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Choose Your Own Adventure: AI Meets Internal Developer Platform - Whitney Lee & Viktor Farcic
 
-**Speaker not identified**
+**Whitney Lee, Viktor Farcic**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `37 min`
 

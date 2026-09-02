@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Scott Hanselman", "Simon Willison"]
 channel: "Microsoft Developer"
 duration_min: 12
 published_at: 2026-06-05T15:39:27Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn to Vibe Check with Simon Willison | LIVE113
 
-**Speaker not identified**
+**Scott Hanselman, Simon Willison**
 
 `Microsoft Build` · `Build 2026` · `2026` · `12 min`
 

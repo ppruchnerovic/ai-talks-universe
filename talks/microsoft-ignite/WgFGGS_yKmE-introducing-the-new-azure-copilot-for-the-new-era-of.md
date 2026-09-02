@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Annie Pearl", "Demi Ajayi", "Ruhiyyih Mahalati"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-20T11:16:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Introducing the new Azure Copilot for the new era of Intelligent Agents | BRK145
 
-**Speaker not identified**
+**Annie Pearl, Demi Ajayi, Ruhiyyih Mahalati**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

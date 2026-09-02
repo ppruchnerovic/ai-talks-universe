@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Daniel Butnaru", "Principal Architect"]
+speakers: ["Daniel Butnaru"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 30
 published_at: 2023-08-18T01:34:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Generalizing Diversity Machine Learning Operationalization for Pharma Research
 
-**Daniel Butnaru, Principal Architect**
+**Daniel Butnaru**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `30 min`
 

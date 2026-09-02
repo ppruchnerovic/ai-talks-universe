@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Dan Hellem", "Dave Burnison"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-04T12:42:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Azure DevOps meets GitHub, the path to AI powered SDLC | BRK202
 
-**Speaker not identified**
+**Dan Hellem, Dave Burnison**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

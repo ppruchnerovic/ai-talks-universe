@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Steven Bucher", "Damien Caro"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T11:09:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Govern your estate using PowerShell and the CLI with AI | BRK170
 
-**Speaker not identified**
+**Steven Bucher, Damien Caro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Marc Schweigert", "Tiffany Treacy"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:20:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power Platform: Innovation across apps, automation, and portals | BRK324
 
-**Speaker not identified**
+**Marc Schweigert, Tiffany Treacy**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

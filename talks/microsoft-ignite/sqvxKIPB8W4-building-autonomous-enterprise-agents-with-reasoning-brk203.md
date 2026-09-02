@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ashish Agrawal", "Alexander Hughes", "Jennifer Marsman", "Naomi Moneypenny", "Zachary Ziegler"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2025-11-24T08:29:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building autonomous enterprise agents with reasoning | BRK203
 
-**Speaker not identified**
+**Ashish Agrawal, Alexander Hughes, Jennifer Marsman, Naomi Moneypenny, Zachary Ziegler**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `50 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Dimitris Andreadis"]
 channel: "Devoxx"
 duration_min: 39
 published_at: 2026-04-01T08:04:47Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Create Intelligent MCP based applications with Quarkus by Dimitris Andreadis
 
-**Speaker not identified**
+**Dimitris Andreadis**
 
 `Devoxx` · `Devoxx` · `2026` · `39 min`
 

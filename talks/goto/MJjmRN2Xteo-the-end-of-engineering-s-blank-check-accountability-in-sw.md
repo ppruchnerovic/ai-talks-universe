@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Laura Tacho"]
 channel: "GOTO Conferences"
 duration_min: 49
 published_at: 2025-12-05T13:28:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The End of Engineering's Blank Check: Accountability in SW Leadership • Laura Tacho & Charles Humble
 
-**Speaker not identified**
+**Laura Tacho**
 
 `GOTO Conferences` · `GOTO` · `2025` · `49 min`
 

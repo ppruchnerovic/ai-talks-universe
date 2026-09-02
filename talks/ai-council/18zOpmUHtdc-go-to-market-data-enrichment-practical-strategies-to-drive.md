@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Nathan Sooter"]
 channel: "AI Council"
 duration_min: 30
 published_at: 2025-05-29T00:46:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Go-To-Market Data Enrichment: Practical Strategies to Drive Business Value
 
-**Speaker not identified**
+**Nathan Sooter**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `30 min`
 

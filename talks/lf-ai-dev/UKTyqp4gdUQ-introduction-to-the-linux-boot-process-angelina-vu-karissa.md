@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
-speakers: []
+speakers: ["Angelina Vu", "Karissa Sanchez"]
 channel: "The Linux Foundation"
 duration_min: 37
 published_at: 2026-06-03T18:15:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Introduction To the Linux Boot Process - Angelina Vu & Karissa Sanchez, Microsoft
 
-**Speaker not identified**
+**Angelina Vu, Karissa Sanchez**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit + ELC NA 2026` · `2026` · `37 min`
 

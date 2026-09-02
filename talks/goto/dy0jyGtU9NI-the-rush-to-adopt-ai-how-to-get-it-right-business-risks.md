@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Nick Selby", "Sarah Wells"]
 channel: "GOTO Conferences"
 duration_min: 26
 published_at: 2026-03-24T13:35:39Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Rush to Adopt AI: How to Get it Right & Business Risks • Nick Selby & Sarah Wells
 
-**Speaker not identified**
+**Nick Selby, Sarah Wells**
 
 `GOTO Conferences` · `GOTO` · `2026` · `26 min`
 

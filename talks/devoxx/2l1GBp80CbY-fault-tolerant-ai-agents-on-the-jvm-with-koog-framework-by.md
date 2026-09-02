@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Vadim Briliantov"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-09T05:36:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Fault tolerant AI Agents on the JVM with Koog framework by Vadim Briliantov
 
-**Speaker not identified**
+**Vadim Briliantov**
 
 `Devoxx` · `Devoxx` · `2025` · `51 min`
 

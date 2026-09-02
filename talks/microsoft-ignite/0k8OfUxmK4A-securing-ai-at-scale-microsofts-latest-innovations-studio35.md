@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Herain Oberoi"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-24T14:26:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing AI at Scale: Microsoft’s Latest Innovations | STUDIO35
 
-**Speaker not identified**
+**Herain Oberoi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

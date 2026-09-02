@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Evan Lew", "Leon Welicki"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T12:42:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Intelligent Applications with AI and Power Apps | BRK172
 
-**Speaker not identified**
+**Evan Lew, Leon Welicki**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

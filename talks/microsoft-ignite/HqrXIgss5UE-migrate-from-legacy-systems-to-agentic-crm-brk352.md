@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nitasha Chopra", "Christian Lewis", "Marty Priest", "Abi Sridhar"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T06:53:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Migrate from legacy systems to agentic CRM | BRK352
 
-**Speaker not identified**
+**Nitasha Chopra, Christian Lewis, Marty Priest, Abi Sridhar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

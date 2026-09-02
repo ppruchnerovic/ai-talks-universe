@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Simon Floyd", "Dennis Goetting", "Heather Kerrick", "Alfonso Rodriguez"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T11:47:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Engineering the Future in the Age of Digital Product Innovation | BRK376
 
-**Speaker not identified**
+**Simon Floyd, Dennis Goetting, Heather Kerrick, Alfonso Rodriguez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

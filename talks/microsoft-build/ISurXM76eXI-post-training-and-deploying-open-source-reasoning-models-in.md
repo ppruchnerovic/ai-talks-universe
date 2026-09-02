@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chris Lauren", "Manoj Bableshwar", "Vijay Aski"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T12:59:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Post-Training and Deploying Open Source Reasoning Models in Foundry | BRK232
 
-**Speaker not identified**
+**Chris Lauren, Manoj Bableshwar, Vijay Aski**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

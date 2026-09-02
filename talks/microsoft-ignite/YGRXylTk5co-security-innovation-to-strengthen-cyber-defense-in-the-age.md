@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Joy Chik", "Vasu Jakkal", "Rob Lefferts", "Michael Wallent"]
 channel: "Microsoft Events"
 duration_min: 54
 published_at: 2024-11-22T09:17:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Security Innovation to Strengthen Cyber Defense in the Age of AI | GS07
 
-**Speaker not identified**
+**Joy Chik, Vasu Jakkal, Rob Lefferts, Michael Wallent**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `54 min`
 

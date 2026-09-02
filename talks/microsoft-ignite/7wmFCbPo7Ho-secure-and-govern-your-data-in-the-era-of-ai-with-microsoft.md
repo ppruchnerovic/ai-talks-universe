@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Keith Homiski", "Joanne Marone", "Sushma Rao"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T14:03:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure and govern your data in the era of AI with Microsoft Fabric and Purview | BRK327
 
-**Speaker not identified**
+**Keith Homiski, Joanne Marone, Sushma Rao**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

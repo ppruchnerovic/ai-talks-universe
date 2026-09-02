@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: []
+speakers: ["Kushal Kolar", "Caitlin Lewis"]
 channel: "PyData"
 duration_min: 28
 published_at: 2026-01-09T17:53:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Kushal Kolar+Caitlin Lewis - fastplotlib: driving scientific discovery through data visualization
 
-**Speaker not identified**
+**Kushal Kolar, Caitlin Lewis**
 
 `PyData` · `PyData` · `2026` · `28 min`
 

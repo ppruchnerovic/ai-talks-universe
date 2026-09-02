@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ajay Chankramath", "Nic Cheneweth"]
 channel: "GOTO Conferences"
 duration_min: 35
 published_at: 2026-03-31T12:22:28Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Platform Engineering • Ajay Chankramath & Nic Cheneweth
 
-**Speaker not identified**
+**Ajay Chankramath, Nic Cheneweth**
 
 `GOTO Conferences` · `GOTO` · `2026` · `35 min`
 

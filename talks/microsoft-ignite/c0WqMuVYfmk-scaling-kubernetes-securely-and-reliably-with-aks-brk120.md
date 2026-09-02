@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brendan Burns", "Jorge Palma", "Durga Rachapudi"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T17:22:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scaling Kubernetes securely and reliably with AKS | BRK120
 
-**Speaker not identified**
+**Brendan Burns, Jorge Palma, Durga Rachapudi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

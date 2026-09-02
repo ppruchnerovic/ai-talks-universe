@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Daniel Garnier Moiroux"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-10T05:10:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing MCP Servers by Daniel Garnier Moiroux
 
-**Speaker not identified**
+**Daniel Garnier Moiroux**
 
 `Devoxx` · `Devoxx` · `2025` · `51 min`
 

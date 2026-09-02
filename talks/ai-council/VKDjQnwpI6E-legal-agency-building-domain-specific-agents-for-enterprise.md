@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Niko Grupen"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T07:37:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Legal Agency: Building Domain Specific Agents for Enterprise
 
-**Speaker not identified**
+**Niko Grupen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

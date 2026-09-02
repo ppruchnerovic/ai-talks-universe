@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jeff Vestal"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T12:11:37Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build context-aware agents using GitHub Copilot, Elastic, and Azure AI | DEMSP385
 
-**Speaker not identified**
+**Jeff Vestal**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

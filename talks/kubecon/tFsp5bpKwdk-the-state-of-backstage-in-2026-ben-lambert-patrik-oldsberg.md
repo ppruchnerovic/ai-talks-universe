@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Ben Lambert", "Patrik Oldsberg"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 31
 published_at: 2026-04-09T05:23:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The State of Backstage in 2026 - Ben Lambert & Patrik Oldsberg, Spotify
 
-**Speaker not identified**
+**Ben Lambert, Patrik Oldsberg**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `31 min`
 

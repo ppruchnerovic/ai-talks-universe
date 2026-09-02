@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Tengyu Ma"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T07:19:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # RAG in 2025: State of the Art and the Road Forward
 
-**Speaker not identified**
+**Tengyu Ma**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

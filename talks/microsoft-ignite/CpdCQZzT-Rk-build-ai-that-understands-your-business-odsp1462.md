@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oren Eini"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-19T14:36:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build AI that understands your business | ODSP1462
 
-**Speaker not identified**
+**Oren Eini**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

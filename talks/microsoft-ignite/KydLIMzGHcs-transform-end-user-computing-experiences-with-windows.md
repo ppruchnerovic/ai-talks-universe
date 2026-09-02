@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Leo Brito", "Melissa Grant", "Tadd Koziel", "Scott Manchester", "Jeff Mendelsohn"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-27T12:23:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transform end-user computing experiences with Windows Windows 365 and Intune | BRK288
 
-**Speaker not identified**
+**Leo Brito, Melissa Grant, Tadd Koziel, Scott Manchester, Jeff Mendelsohn**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

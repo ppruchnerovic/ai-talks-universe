@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Chief Scientist"]
+speakers: []
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 28
 published_at: 2023-11-02T04:00:02Z
@@ -20,7 +20,7 @@ transcript: false
 
 # GenAI: Lessons Learned
 
-**Chief Scientist**
+**Speaker not identified**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `28 min`
 

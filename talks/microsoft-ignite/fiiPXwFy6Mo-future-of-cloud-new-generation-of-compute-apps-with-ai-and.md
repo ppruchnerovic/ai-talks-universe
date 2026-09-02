@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["John Link", "Gorka Madariaga"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-27T09:13:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Future of Cloud - New generation of compute & apps with AI and quantum | BRK221
 
-**Speaker not identified**
+**John Link, Gorka Madariaga**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

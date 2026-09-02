@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Marco Casalaina", "Babak Hodjat"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T14:58:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Exploring the future of AI with multi-agent systems and LLMs in action | BRKFP371
 
-**Speaker not identified**
+**Marco Casalaina, Babak Hodjat**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

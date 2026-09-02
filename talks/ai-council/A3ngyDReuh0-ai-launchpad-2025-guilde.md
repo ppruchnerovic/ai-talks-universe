@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Schuyler Brown"]
 channel: "AI Council"
 duration_min: 5
 published_at: 2025-05-29T13:37:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: Guilde
 
-**Speaker not identified**
+**Schuyler Brown**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `5 min`
 

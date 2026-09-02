@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Yuval Belfer", "Niv Granot"]
 channel: "AI Engineer"
 duration_min: 11
 published_at: 2025-06-03T22:22:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # RAG Evaluation Is Broken! Here's Why (And How to Fix It) - Yuval Belfer and Niv Granot
 
-**Speaker not identified**
+**Yuval Belfer, Niv Granot**
 
 `AI Engineer` · `AI Engineer` · `2025` · `11 min`
 

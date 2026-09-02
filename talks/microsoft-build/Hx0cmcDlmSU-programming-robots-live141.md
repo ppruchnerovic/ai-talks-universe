@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chip Huyen", "John Maeda"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-04T14:05:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Programming robots | LIVE141
 
-**Speaker not identified**
+**Chip Huyen, John Maeda**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

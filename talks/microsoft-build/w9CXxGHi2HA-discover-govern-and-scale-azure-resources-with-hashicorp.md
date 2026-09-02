@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Kerim Satirli"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T10:58:26Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Discover, govern, and scale Azure resources with HashiCorp Terraform | ODSP901
 
-**Speaker not identified**
+**Kerim Satirli**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

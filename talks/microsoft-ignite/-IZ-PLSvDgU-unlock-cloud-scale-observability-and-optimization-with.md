@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rahul Bagaria", "Ritesh Kini", "Farzana Rahman"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T07:42:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock cloud-scale observability and optimization with Azure | BRK149
 
-**Speaker not identified**
+**Rahul Bagaria, Ritesh Kini, Farzana Rahman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

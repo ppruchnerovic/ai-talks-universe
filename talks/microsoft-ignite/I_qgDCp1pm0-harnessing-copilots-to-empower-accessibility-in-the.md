@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Anna Cook", "Hiren Shukla"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T14:48:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Harnessing Copilots to Empower Accessibility in the Workplace | BRK355
 
-**Speaker not identified**
+**Anna Cook, Hiren Shukla**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

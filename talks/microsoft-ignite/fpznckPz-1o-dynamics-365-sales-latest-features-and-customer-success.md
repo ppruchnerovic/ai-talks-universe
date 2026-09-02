@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kareem Amin", "Dan Grapengiesser", "Keith Mescha", "Jayme Mesecher", "James Nakashima"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-26T07:29:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Dynamics 365 Sales: Latest features and customer success | BRK163
 
-**Speaker not identified**
+**Kareem Amin, Dan Grapengiesser, Keith Mescha, Jayme Mesecher, James Nakashima**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

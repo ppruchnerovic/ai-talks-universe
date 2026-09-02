@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nave Algarici", "Stephen Engler", "Theresa Miller"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T13:37:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Understanding & accelerating business decisions for M365 data using AI | ODFP934
 
-**Speaker not identified**
+**Nave Algarici, Stephen Engler, Theresa Miller**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

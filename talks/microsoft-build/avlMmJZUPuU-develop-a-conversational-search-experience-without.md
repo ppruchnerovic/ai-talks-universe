@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Greg Crist"]
 channel: "Microsoft Developer"
 duration_min: 25
 published_at: 2026-06-03T11:02:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Develop a conversational search experience without rebuilding your app | ODSP922
 
-**Speaker not identified**
+**Greg Crist**
 
 `Microsoft Build` · `Build 2026` · `2026` · `25 min`
 

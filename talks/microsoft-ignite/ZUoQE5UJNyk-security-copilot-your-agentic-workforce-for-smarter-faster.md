@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lizzie Heinze", "Sarat Subramaniam"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T15:01:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Security Copilot: Your agentic workforce for smarter faster defense | BRK238
 
-**Speaker not identified**
+**Lizzie Heinze, Sarat Subramaniam**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

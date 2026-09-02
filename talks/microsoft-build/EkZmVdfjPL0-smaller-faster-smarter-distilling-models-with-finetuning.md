@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["William Liang"]
 channel: "Microsoft Developer"
 duration_min: 25
 published_at: 2026-06-04T10:54:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Smaller, faster, smarter: Distilling models with fine‑tuning | DEM322
 
-**Speaker not identified**
+**William Liang**
 
 `Microsoft Build` · `Build 2026` · `2026` · `25 min`
 

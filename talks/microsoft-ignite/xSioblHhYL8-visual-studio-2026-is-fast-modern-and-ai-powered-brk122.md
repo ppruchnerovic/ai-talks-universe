@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jon Galloway"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T08:17:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Visual Studio 2026 is fast, modern, and AI-powered | BRK122
 
-**Speaker not identified**
+**Jon Galloway**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

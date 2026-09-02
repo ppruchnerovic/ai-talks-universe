@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dipti Borkar", "Phil Cheetham"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T08:29:02Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build integrate and monetize AI-ready apps with Microsoft Fabric | BRK200
 
-**Speaker not identified**
+**Dipti Borkar, Phil Cheetham**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

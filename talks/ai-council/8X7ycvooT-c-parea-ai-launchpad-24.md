@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Joel Alexander"]
 channel: "AI Council"
 duration_min: 8
 published_at: 2024-04-22T21:33:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Parea | AI Launchpad '24
 
-**Speaker not identified**
+**Joel Alexander**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `8 min`
 

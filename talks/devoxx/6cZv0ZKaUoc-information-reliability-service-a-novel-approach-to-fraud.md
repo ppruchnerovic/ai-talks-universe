@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: ["Information Reliability Service"]
+speakers: ["Giovanni Degiorgi"]
 channel: "Devoxx"
 duration_min: 36
 published_at: 2025-01-20T19:58:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Information Reliability Service - a novel approach to fraud detection by Giovanni Degiorgi
 
-**Information Reliability Service**
+**Giovanni Degiorgi**
 
 `Devoxx` · `Devoxx` · `2025` · `36 min`
 

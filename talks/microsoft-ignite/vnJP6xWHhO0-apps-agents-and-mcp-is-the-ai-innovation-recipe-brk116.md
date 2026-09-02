@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Devanshi Joshi", "Nir Mashkowski", "Jordan Selig", "Jun Yoshida"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-20T16:16:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Apps, agents, and MCP is the AI innovation recipe | BRK116
 
-**Speaker not identified**
+**Devanshi Joshi, Nir Mashkowski, Jordan Selig, Jun Yoshida**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `35 min`
 

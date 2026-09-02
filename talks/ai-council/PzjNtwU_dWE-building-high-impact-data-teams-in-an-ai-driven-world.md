@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Alexa Garrison"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-28T23:43:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building High-Impact Data Teams in an AI-Driven World
 
-**Speaker not identified**
+**Alexa Garrison**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

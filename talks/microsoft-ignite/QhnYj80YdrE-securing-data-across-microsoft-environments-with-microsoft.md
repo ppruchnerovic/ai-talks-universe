@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nathalia Borges", "Maithili Dandige", "Aashish Ramdas", "Sushma Rao"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2025-11-24T05:11:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing data across Microsoft environments with Microsoft Purview | BRK252
 
-**Speaker not identified**
+**Nathalia Borges, Maithili Dandige, Aashish Ramdas, Sushma Rao**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `48 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Raushni Gupta", "Gopal Shankar", "Bob Ward"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2024-11-27T09:19:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Migrate to build run and secure Generative AI | BRK227
 
-**Speaker not identified**
+**Raushni Gupta, Gopal Shankar, Bob Ward**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `50 min`
 

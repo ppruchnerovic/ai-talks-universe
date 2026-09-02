@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Sohan Kunkerkar", "Ayato Tokubi"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 32
 published_at: 2026-04-09T05:17:23Z
@@ -20,7 +20,7 @@ transcript: true
 
 # CRI-O: Faster Pulls, Better Metrics, and a Future Beyond Images - Sohan Kunkerkar & Ayato Tokubi
 
-**Speaker not identified**
+**Sohan Kunkerkar, Ayato Tokubi**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `32 min`
 

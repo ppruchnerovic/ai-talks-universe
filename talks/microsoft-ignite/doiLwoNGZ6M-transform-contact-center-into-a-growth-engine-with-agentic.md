@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alpana Bajaj", "April Delsing", "Peng Geng", "Diana Tram Nguyen", "Karl Phenix"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-25T15:56:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transform contact center into a growth engine with agentic CX | PBRK360
 
-**Speaker not identified**
+**Alpana Bajaj, April Delsing, Peng Geng, Diana Tram Nguyen, Karl Phenix**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

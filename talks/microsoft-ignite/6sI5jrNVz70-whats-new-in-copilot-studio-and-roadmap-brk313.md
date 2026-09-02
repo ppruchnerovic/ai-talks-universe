@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Omar Aftab", "Erez Altus", "Zac Cadi"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-12-03T21:38:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in Copilot Studio and roadmap | BRK313
 
-**Speaker not identified**
+**Omar Aftab, Erez Altus, Zac Cadi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

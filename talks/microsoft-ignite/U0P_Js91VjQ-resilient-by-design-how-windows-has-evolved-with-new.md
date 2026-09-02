@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kristian Andaker", "Tom Bouathong", "Aaron Farmer"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T14:26:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Resilient by design: How Windows has evolved with new recovery tools | BRK345
 
-**Speaker not identified**
+**Kristian Andaker, Tom Bouathong, Aaron Farmer**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

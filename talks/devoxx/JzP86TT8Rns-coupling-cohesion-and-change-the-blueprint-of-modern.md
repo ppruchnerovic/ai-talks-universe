@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Boyen van Gorp"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2026-04-08T20:09:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Coupling, Cohesion and Change, The Blueprint of Modern Software Design by Boyen van Gorp
 
-**Speaker not identified**
+**Boyen van Gorp**
 
 `Devoxx` · `Devoxx` · `2026` · `42 min`
 

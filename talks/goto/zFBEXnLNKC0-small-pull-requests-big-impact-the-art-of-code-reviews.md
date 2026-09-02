@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: ["Small Pull Requests"]
+speakers: ["Small Pull Requests", "Adrienne Braganza Tacke", "Sasa Juric"]
 channel: "GOTO Conferences"
 duration_min: 43
 published_at: 2025-07-18T12:38:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Small Pull Requests, Big Impact: The Art of Code Reviews • Adrienne Braganza Tacke & Sasa Juric
 
-**Small Pull Requests**
+**Small Pull Requests, Adrienne Braganza Tacke, Sasa Juric**
 
 `GOTO Conferences` · `GOTO` · `2025` · `43 min`
 

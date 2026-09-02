@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sarah Bird", "Sumit Bhattacharyya"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:28:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trustworthy AI: Future trends and best practices | BRK129
 
-**Speaker not identified**
+**Sarah Bird, Sumit Bhattacharyya**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

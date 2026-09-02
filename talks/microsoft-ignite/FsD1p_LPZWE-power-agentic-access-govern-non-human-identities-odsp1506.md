@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yonit Glozshtein"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-19T12:31:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power Agentic Access. Govern Non-Human Identities | ODSP1506
 
-**Speaker not identified**
+**Yonit Glozshtein**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

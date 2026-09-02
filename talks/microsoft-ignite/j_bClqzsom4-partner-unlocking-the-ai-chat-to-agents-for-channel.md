@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Matt Goddard", "Sela Gu", "Arun Subramanian"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2025-11-21T13:18:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Unlocking the AI chat to agents for channel partners | PBRK303
 
-**Speaker not identified**
+**Matt Goddard, Sela Gu, Arun Subramanian**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `48 min`
 

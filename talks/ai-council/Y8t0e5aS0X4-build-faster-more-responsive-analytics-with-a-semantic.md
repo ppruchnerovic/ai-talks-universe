@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: ["Build Faster"]
+speakers: ["Paco Valdez"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2024-04-19T05:00:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Faster, More Responsive Analytics with a Semantic Layer | Cube Workshop
 
-**Build Faster**
+**Paco Valdez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `23 min`
 

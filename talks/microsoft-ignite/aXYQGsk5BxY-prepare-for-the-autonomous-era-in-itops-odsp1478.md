@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jason Kikta"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T11:26:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Prepare for the Autonomous Era in ITOps | ODSP1478
 
-**Speaker not identified**
+**Jason Kikta**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

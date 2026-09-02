@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Erica Arnold", "Andrea Rubin"]
 channel: "Microsoft Events"
 duration_min: 25
 published_at: 2025-11-21T16:27:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Making AI easier with Surface Copilot+ PCs and natural input | BRK301
 
-**Speaker not identified**
+**Erica Arnold, Andrea Rubin**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `25 min`
 

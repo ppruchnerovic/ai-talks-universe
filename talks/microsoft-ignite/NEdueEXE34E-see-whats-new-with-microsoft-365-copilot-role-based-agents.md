@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aaron Bjork", "Karan Nigam", "Jason Pappas"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:39:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # See what’s new with Microsoft 365 Copilot role-based agents | BRK161
 
-**Speaker not identified**
+**Aaron Bjork, Karan Nigam, Jason Pappas**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

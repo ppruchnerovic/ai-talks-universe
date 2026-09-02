@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Nik Karpinsky"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-04T12:22:48Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Supercharged profiling: Finding performance bugs with agents | DEM300
 
-**Speaker not identified**
+**Nik Karpinsky**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

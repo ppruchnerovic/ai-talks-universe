@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Mohamed Baioumy"]
 channel: "Devoxx"
 duration_min: 26
 published_at: 2024-10-13T07:05:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Exo: Run your own AI cluster at home by Mohamed Baioumy
 
-**Speaker not identified**
+**Mohamed Baioumy**
 
 `Devoxx` · `Devoxx` · `2024` · `26 min`
 

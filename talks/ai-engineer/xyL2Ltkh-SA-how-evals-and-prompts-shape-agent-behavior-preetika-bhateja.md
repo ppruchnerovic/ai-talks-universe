@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Preetika Bhateja", "Daniel Bump"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-07-24T21:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How Evals and Prompts Shape Agent Behavior — Preetika Bhateja & Daniel Bump, YouTube Ads
 
-**Speaker not identified**
+**Preetika Bhateja, Daniel Bump**
 
 `AI Engineer` · `AI Engineer` · `2026` · `19 min`
 

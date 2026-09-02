@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ekaterina Gorshkova", "Viktor Gamov"]
 channel: "GOTO Conferences"
 duration_min: 28
 published_at: 2026-04-23T12:00:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Kafka for Architects • Ekaterina Gorshkova & Viktor Gamov • GOTO 2026
 
-**Speaker not identified**
+**Ekaterina Gorshkova, Viktor Gamov**
 
 `GOTO Conferences` · `GOTO` · `2026` · `28 min`
 

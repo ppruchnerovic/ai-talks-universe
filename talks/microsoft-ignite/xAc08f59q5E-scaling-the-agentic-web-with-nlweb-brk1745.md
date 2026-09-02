@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Chelsea Carter", "Ramanathan Guha"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2025-11-24T14:13:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scaling the Agentic Web with NLWeb | BRK1745
 
-**Speaker not identified**
+**Chelsea Carter, Ramanathan Guha**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `19 min`
 

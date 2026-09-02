@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Bernardo Caldas", "Angie Tran", "Satya Vel"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-12-02T20:30:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Adaptive cloud: Unify hybrid multi-cloud and edge with Azure Arc | BRK235
 
-**Speaker not identified**
+**Bernardo Caldas, Angie Tran, Satya Vel**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

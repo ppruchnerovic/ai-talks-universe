@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Charlie Huang", "Vineeth Kalluru", "Abhishek Sawarkar"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2024-11-25T15:30:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Get from pilot to production the quick easy optimized way | BRKFP386
 
-**Speaker not identified**
+**Charlie Huang, Vineeth Kalluru, Abhishek Sawarkar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `38 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Morteza Ghazai"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T12:10:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering Nonprofits with Agentic AI: Lessons from early adopters | BRK380
 
-**Speaker not identified**
+**Morteza Ghazai**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

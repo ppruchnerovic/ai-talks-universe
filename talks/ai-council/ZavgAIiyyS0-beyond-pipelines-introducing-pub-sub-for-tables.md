@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Arvind Prabhakar"]
 channel: "AI Council"
 duration_min: 17
 published_at: 2025-05-29T00:37:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Beyond Pipelines: Introducing Pub Sub for Tables
 
-**Speaker not identified**
+**Arvind Prabhakar**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `17 min`
 

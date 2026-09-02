@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: ["Bootstrapping Microservices"]
+speakers: ["Bootstrapping Microservices", "Ashley Davis", "Damian Maclennan"]
 channel: "GOTO Conferences"
 duration_min: 40
 published_at: 2024-10-25T09:37:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bootstrapping Microservices • Ashley Davis & Damian Maclennan
 
-**Bootstrapping Microservices**
+**Bootstrapping Microservices, Ashley Davis, Damian Maclennan**
 
 `GOTO Conferences` · `GOTO` · `2024` · `40 min`
 

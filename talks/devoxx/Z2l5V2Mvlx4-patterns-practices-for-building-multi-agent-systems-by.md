@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Nikhil Barthwal"]
 channel: "Devoxx"
 duration_min: 41
 published_at: 2025-11-11T10:37:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Patterns & Practices for building Multi-Agent Systems by Nikhil Barthwal
 
-**Speaker not identified**
+**Nikhil Barthwal**
 
 `Devoxx` · `Devoxx` · `2025` · `41 min`
 

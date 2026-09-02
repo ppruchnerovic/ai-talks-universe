@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Tim Denley"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2025-11-19T11:48:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scaling AI innovation with KPMG Workbench and Microsoft | ODSP1418
 
-**Speaker not identified**
+**Tim Denley**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `10 min`
 

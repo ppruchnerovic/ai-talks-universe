@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Qingyun Wu", "Assistant Professor"]
+speakers: ["Qingyun Wu"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 179
 published_at: 2023-08-18T01:34:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Automated Machine Learning Tuning with FLAML
 
-**Qingyun Wu, Assistant Professor**
+**Qingyun Wu**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `179 min`
 

@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["R. Dagli", "S. Lamba"]
 channel: "PyTorch"
 duration_min: 11
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Lightning Talk: But How Do You Autograd Through Your Simulator? Making a... - R. Dagli & S. Lamba
 
-**Speaker not identified**
+**R. Dagli, S. Lamba**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `11 min`
 

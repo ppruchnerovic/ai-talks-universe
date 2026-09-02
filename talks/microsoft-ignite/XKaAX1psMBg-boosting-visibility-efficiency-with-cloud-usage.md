@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Umair Khan", "Van Wolfe"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2024-11-20T14:22:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Boosting visibility efficiency with cloud usage optimization as code | ODFP982
 
-**Speaker not identified**
+**Umair Khan, Van Wolfe**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `33 min`
 

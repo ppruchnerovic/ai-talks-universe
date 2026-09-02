@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Alberto Martinez"]
 channel: "Microsoft Developer"
 duration_min: 42
 published_at: 2026-06-11T08:12:50Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Stop routing docstrings to 70B models with on-device AI on Snapdragon | BRKSP90
 
-**Speaker not identified**
+**Alberto Martinez**
 
 `Microsoft Build` · `Build 2026` · `2026` · `42 min`
 

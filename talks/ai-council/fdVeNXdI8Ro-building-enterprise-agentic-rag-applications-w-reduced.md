@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ofer Mendelevitch"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T00:17:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building Enterprise Agentic RAG Applications w/ Reduced Hallucinations
 
-**Speaker not identified**
+**Ofer Mendelevitch**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

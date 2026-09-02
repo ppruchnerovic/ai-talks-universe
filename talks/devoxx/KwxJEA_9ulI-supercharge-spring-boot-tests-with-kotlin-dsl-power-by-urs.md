@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Urs Peter"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2026-04-09T21:35:40Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Supercharge Spring Boot Tests with Kotlin DSL Power by Urs Peter
 
-**Speaker not identified**
+**Urs Peter**
 
 `Devoxx` · `Devoxx` · `2026` · `45 min`
 

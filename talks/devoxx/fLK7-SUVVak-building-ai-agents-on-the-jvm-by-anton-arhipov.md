@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Anton Arhipov"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2026-04-08T22:10:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building AI Agents on the JVM by Anton Arhipov
 
-**Speaker not identified**
+**Anton Arhipov**
 
 `Devoxx` · `Devoxx` · `2026` · `46 min`
 

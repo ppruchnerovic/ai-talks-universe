@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Edo Segal", "Ziv Navoth"]
 channel: "Microsoft Developer"
 duration_min: 10
 published_at: 2026-06-03T13:35:15Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build collaborative agents into apps with APIs | ODSP926
 
-**Speaker not identified**
+**Edo Segal, Ziv Navoth**
 
 `Microsoft Build` · `Build 2026` · `2026` · `10 min`
 

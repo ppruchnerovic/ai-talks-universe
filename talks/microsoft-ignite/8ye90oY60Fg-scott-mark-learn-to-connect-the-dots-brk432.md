@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mark Russinovich", "Scott Hanselman"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T12:07:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scott & Mark learn to connect the dots | BRK432
 
-**Speaker not identified**
+**Mark Russinovich, Scott Hanselman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

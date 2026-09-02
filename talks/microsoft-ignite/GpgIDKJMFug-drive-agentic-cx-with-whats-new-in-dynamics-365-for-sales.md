@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pia Cedendahl", "Karan Nigam", "Aurelien Pichon", "Deva Rajamohan"]
 channel: "Microsoft Events"
 duration_min: 56
 published_at: 2025-11-19T14:05:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive agentic CX with what’s new in Dynamics 365 for sales and service | BRK353
 
-**Speaker not identified**
+**Pia Cedendahl, Karan Nigam, Aurelien Pichon, Deva Rajamohan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `56 min`
 

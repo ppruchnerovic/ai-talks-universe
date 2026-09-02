@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Manfred Bjørlin", "Awar Abdulkarim"]
 channel: "NDC Conferences"
 duration_min: 44
 published_at: 2026-05-11T07:26:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # MCP Security: Keep Your AI Agents from Spilling the Tea - Manfred Bjørlin & Awar Abdulkarim
 
-**Speaker not identified**
+**Manfred Bjørlin, Awar Abdulkarim**
 
 `NDC Conferences` · `NDC` · `2026` · `44 min`
 

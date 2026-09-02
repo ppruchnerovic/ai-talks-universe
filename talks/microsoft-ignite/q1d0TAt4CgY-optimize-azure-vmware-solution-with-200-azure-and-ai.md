@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Prasad Gandham", "Husam Hilal"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-27T09:23:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Optimize Azure VMware Solution with 200+ Azure and AI services | BRK230
 
-**Speaker not identified**
+**Prasad Gandham, Husam Hilal**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

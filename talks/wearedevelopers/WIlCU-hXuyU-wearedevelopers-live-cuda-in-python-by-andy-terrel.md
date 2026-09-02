@@ -7,7 +7,7 @@ conference_name: "WeAreDevelopers World Congress"
 category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2025
-speakers: []
+speakers: ["Andy Terrel"]
 channel: "WeAreDevelopers"
 duration_min: 21
 published_at: 2025-02-07T12:22:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # WeAreDevelopers LIVE - CUDA in Python by Andy Terrel
 
-**Speaker not identified**
+**Andy Terrel**
 
 `WeAreDevelopers World Congress` · `WeAreDevelopers` · `2025` · `21 min`
 

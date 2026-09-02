@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Abby Bangser"]
 channel: "GOTO Conferences"
 duration_min: 46
 published_at: 2026-06-22T12:00:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # State of the Art of Platform Engineering • Abby Bangser & Charles Humble • GOTO 2026
 
-**Speaker not identified**
+**Abby Bangser**
 
 `GOTO Conferences` · `GOTO` · `2026` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jared Lambert", "Hemanth Sundararaj", "Adam Wheat"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T11:23:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Frontier partners: Accelerating agentic journeys in financial services | PBRK393
 
-**Speaker not identified**
+**Jared Lambert, Hemanth Sundararaj, Adam Wheat**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -7,7 +7,7 @@ conference_name: "Slush"
 category: "Industry & business"
 edition: "Slush"
 year: 2025
-speakers: ["Product Execution Superpowers", "Tuomo Riekki"]
+speakers: ["Tuomo Riekki"]
 channel: "Slush"
 duration_min: 25
 published_at: 2025-11-28T22:01:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Product Execution Superpowers | Tuomo Riekki (Zero)
 
-**Product Execution Superpowers, Tuomo Riekki**
+**Tuomo Riekki**
 
 `Slush` · `Slush` · `2025` · `25 min`
 

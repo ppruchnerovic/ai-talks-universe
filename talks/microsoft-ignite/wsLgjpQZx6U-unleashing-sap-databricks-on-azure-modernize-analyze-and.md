@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anavi Nahar", "Shanku Niyogi"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-19T14:03:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unleashing SAP Databricks on Azure: Modernize analyze and innovate | BRK136
 
-**Speaker not identified**
+**Anavi Nahar, Shanku Niyogi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

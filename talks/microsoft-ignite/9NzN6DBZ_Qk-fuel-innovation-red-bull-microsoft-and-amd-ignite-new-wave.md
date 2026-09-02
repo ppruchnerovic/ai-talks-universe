@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gauthier Hautin", "Jessica Hawk", "Josh Hort", "Daniel Daesung Kim", "Arjun Oberoi"]
 channel: "Microsoft Events"
 duration_min: 31
 published_at: 2025-11-21T10:36:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Fuel Innovation: Red Bull, Microsoft and AMD ignite new wave of creators | BRKSP474
 
-**Speaker not identified**
+**Gauthier Hautin, Jessica Hawk, Josh Hort, Daniel Daesung Kim, Arjun Oberoi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `31 min`
 

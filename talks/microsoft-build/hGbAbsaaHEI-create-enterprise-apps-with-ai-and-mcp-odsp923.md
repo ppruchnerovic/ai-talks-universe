@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jason Beres"]
 channel: "Microsoft Developer"
 duration_min: 19
 published_at: 2026-06-03T12:54:30Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Create enterprise apps with AI and MCP | ODSP923
 
-**Speaker not identified**
+**Jason Beres**
 
 `Microsoft Build` · `Build 2026` · `2026` · `19 min`
 

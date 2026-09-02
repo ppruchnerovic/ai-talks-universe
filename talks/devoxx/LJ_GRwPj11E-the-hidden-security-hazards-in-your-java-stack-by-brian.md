@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Brian Vermeer"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2026-04-01T08:07:10Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Hidden Security Hazards in Your Java Stack by Brian Vermeer
 
-**Speaker not identified**
+**Brian Vermeer**
 
 `Devoxx` · `Devoxx` · `2026` · `48 min`
 

@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Sol Rashidi", "Joe Reis"]
 channel: "GOTO Conferences"
 duration_min: 33
 published_at: 2024-07-26T10:02:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Your AI Survival Guide • Sol Rashidi & Joe Reis
 
-**Speaker not identified**
+**Sol Rashidi, Joe Reis**
 
 `GOTO Conferences` · `GOTO` · `2024` · `33 min`
 

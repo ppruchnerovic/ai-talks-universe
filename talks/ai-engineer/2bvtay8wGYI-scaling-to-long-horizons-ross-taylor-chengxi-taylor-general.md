@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Ross Taylor", "Chengxi Taylor"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-07-31T21:30:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scaling to Long Horizons — Ross Taylor & Chengxi Taylor, General Reasoning
 
-**Speaker not identified**
+**Ross Taylor, Chengxi Taylor**
 
 `AI Engineer` · `AI Engineer` · `2026` · `18 min`
 

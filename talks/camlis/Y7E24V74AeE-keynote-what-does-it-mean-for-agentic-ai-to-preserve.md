@@ -7,7 +7,7 @@ conference_name: "CAMLIS"
 category: "AI security"
 edition: "CAMLIS"
 year: 2025
-speakers: ["Niloofar Mireshghallah", "Incoming Assistant Professor"]
+speakers: ["Niloofar Mireshghallah"]
 channel: "CAMLIS"
 duration_min: 63
 published_at: 2025-11-03T19:57:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Keynote - What Does It Mean for Agentic AI to Preserve Privacy? Mapping the New Data Sinks and Leaks
 
-**Niloofar Mireshghallah, Incoming Assistant Professor**
+**Niloofar Mireshghallah**
 
 `CAMLIS` · `CAMLIS` · `2025` · `63 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Preety Kumar"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T12:15:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building for Everyone: How Accessibility is Shaping the Future of AI | BRK400
 
-**Speaker not identified**
+**Preety Kumar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Tisha Chawla", "Susheem Koul"]
 channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-08-22T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # FinOps for AI Agents: Who Spent All the Tokens? — Tisha Chawla & Susheem Koul, Microsoft
 
-**Speaker not identified**
+**Tisha Chawla, Susheem Koul**
 
 `AI Engineer` · `AI Engineer` · `2026` · `21 min`
 

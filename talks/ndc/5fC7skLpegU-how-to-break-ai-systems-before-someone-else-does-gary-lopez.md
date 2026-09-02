@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Gary Lopez", "Dr. Amanda Minnich"]
 channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-02-04T10:34:22Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How to Break AI Systems (Before Someone Else Does) - Gary Lopez & Dr. Amanda Minnich
 
-**Speaker not identified**
+**Gary Lopez, Dr. Amanda Minnich**
 
 `NDC Conferences` · `NDC` · `2026` · `61 min`
 

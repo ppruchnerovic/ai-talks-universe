@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Daniel Kim", "Daria Soboleva"]
 channel: "AI Engineer"
 duration_min: 53
 published_at: 2025-06-27T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Mixture of Experts to Mixture of Agents with Super Fast Inference - Daniel Kim & Daria Soboleva
 
-**Speaker not identified**
+**Daniel Kim, Daria Soboleva**
 
 `AI Engineer` · `AI Engineer` · `2025` · `53 min`
 

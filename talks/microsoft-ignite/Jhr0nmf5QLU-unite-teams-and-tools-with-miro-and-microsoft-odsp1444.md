@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["David Ross"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-19T15:10:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unite teams and tools with Miro and Microsoft | ODSP1444
 
-**Speaker not identified**
+**David Ross**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

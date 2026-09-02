@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rob Ferguson", "Daniel Han", "Mark Saroufin"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T12:30:50Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Shipping custom models at scale from fine-tuning to inference | BRK234
 
-**Speaker not identified**
+**Rob Ferguson, Daniel Han, Mark Saroufin**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

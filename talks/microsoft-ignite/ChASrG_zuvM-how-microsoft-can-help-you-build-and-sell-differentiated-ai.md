@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jason Graefe", "Yina Arenas", "Adam Binnie", "Mike Hulme", "Amanda Whaley", "Jeff Zobrist"]
 channel: "Microsoft Events"
 duration_min: 52
 published_at: 2024-11-22T09:05:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Microsoft can help you build and sell differentiated AI apps | BRK339
 
-**Speaker not identified**
+**Jason Graefe, Yina Arenas, Adam Binnie, Mike Hulme, Amanda Whaley, Jeff Zobrist**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `52 min`
 

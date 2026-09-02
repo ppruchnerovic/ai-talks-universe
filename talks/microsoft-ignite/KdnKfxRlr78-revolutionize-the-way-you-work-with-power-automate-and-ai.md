@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Joe Fernandez"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-21T15:12:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Revolutionize the way you work with Power Automate and AI | BRK175
 
-**Speaker not identified**
+**Joe Fernandez**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

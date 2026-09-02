@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pablo Castro"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T07:32:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Foundry IQ: the future of RAG with knowledge retrieval and AI Search | BRK196
 
-**Speaker not identified**
+**Pablo Castro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Divya Swarnkar"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-03T13:24:31Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From workflows to agentic automation with Azure Logic Apps | OD832
 
-**Speaker not identified**
+**Divya Swarnkar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

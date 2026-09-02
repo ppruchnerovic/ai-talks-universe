@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hardik Shah"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T14:32:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building LLM Applications with Llama Stack
 
-**Speaker not identified**
+**Hardik Shah**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Link", "Auloke Mathur", "Julie Mijajlovic", "Prashant Varshney"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T14:57:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerating R&D and scientific breakthroughs with Microsoft Discovery | BRK182
 
-**Speaker not identified**
+**John Link, Auloke Mathur, Julie Mijajlovic, Prashant Varshney**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

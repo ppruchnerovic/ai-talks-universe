@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Anand Kulkarni", "Ravi Sudhakar Kambhampati", "Neelay Thaker"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2024-11-20T13:05:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Disrupt and grow with Microsoft Azure AI | OD838
 
-**Speaker not identified**
+**Anand Kulkarni, Ravi Sudhakar Kambhampati, Neelay Thaker**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `35 min`
 

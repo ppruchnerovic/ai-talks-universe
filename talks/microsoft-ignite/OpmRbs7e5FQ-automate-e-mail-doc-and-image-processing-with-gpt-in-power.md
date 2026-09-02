@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Gwenael Bego", "Maria Remolina Gutierrez"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T12:44:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Automate e-mail doc and image processing with GPT in Power Automate | BRK176
 
-**Speaker not identified**
+**Gwenael Bego, Maria Remolina Gutierrez**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

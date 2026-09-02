@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mark Linton", "Jonathan Siegal"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-21T10:32:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Dell and Microsoft AI solutions from device to datacenter and cloud | BRKFP372
 
-**Speaker not identified**
+**Mark Linton, Jonathan Siegal**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

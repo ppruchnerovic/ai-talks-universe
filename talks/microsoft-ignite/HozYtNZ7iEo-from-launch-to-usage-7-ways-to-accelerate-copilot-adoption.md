@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kristin Ginn"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T15:16:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Launch to Usage: 7 Ways to accelerate Copilot adoption | BRK290
 
-**Speaker not identified**
+**Kristin Ginn**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

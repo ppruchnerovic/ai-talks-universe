@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Adrian Crockett", "Nick Reed"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-27T09:58:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering the financial services partner ecosystem with Generative AI | BRK265
 
-**Speaker not identified**
+**Adrian Crockett, Nick Reed**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

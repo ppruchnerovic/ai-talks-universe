@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Yuchen Fama", "Ashish Kamra"]
 channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-08-27T14:00:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # KV Cache-Aware Routing and P/D Disaggregation on Kubernetes — Yuchen Fama & Ashish Kamra, Red Hat
 
-**Speaker not identified**
+**Yuchen Fama, Ashish Kamra**
 
 `AI Engineer` · `AI Engineer` · `2026` · `22 min`
 

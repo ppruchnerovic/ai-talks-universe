@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Alexander Chatzizacharias"]
 channel: null
 duration_min: 40
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # [VDBUH2025] Alexander Chatzizacharias - What is multimodal RAG, and can we build a village with it?
 
-**Speaker not identified**
+**Alexander Chatzizacharias**
 
 `Devoxx` · `Devoxx` · `2025` · `40 min`
 

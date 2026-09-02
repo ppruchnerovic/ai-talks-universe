@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: []
+speakers: ["Donny Greenberg", "Paul Yang"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 29
 published_at: 2025-10-23T05:12:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Why Is ML on Kubernetes Hard? Defining How ML and Software Diverge | Runhouse
 
-**Speaker not identified**
+**Donny Greenberg, Paul Yang**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `29 min`
 

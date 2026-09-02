@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Sai Srirampur"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2024-04-19T05:00:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What does it take to build a Postgres specialized data movement tool?
 
-**Speaker not identified**
+**Sai Srirampur**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `10 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Suresh Mathew"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T12:34:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Can you really trust AI to optimize your Cloud? | ODSP1433
 
-**Speaker not identified**
+**Suresh Mathew**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

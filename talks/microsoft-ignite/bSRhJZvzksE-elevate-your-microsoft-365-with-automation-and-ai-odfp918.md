@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rick Scanlan"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T13:12:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Elevate your Microsoft 365 with automation and AI | ODFP918
 
-**Speaker not identified**
+**Rick Scanlan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `21 min`
 

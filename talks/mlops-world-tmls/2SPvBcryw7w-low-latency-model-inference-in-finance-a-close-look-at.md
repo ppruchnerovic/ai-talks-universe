@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
-speakers: ["Capital One"]
+speakers: []
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 30
 published_at: 2024-05-15T18:17:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Low-latency Model Inference in Finance - A close look at Seldon V2
 
-**Capital One**
+**Speaker not identified**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2024` · `30 min`
 

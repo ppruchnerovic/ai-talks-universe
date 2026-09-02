@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dayan Rodriguez", "Ayora Berry", "Julián Gil", "Matthew Hansen", "Kaivan Karimi", "John Reed"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T10:01:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock industrial AI transformation opportunities and growth | BRK268
 
-**Speaker not identified**
+**Dayan Rodriguez, Ayora Berry, Julián Gil, Matthew Hansen, Kaivan Karimi, John Reed**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

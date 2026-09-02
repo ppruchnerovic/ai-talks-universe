@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Kevin Dubois", "Mario Fusco"]
 channel: "Devoxx"
 duration_min: 47
 published_at: 2026-04-01T08:04:50Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agentic AI Patterns by Kevin Dubois and Mario Fusco
 
-**Speaker not identified**
+**Kevin Dubois, Mario Fusco**
 
 `Devoxx` · `Devoxx` · `2026` · `47 min`
 

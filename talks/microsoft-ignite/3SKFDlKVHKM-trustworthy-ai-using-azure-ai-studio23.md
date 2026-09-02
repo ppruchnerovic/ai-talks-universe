@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sarah Bird", "Seth Juarez"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2024-11-25T22:58:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trustworthy AI using Azure AI | Studio23
 
-**Speaker not identified**
+**Sarah Bird, Seth Juarez**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `6 min`
 

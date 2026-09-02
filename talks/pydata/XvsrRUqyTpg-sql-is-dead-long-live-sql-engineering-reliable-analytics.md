@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Mehdi Ouazza", "Dumky de Wilde"]
+speakers: ["Mehdi Ouazza"]
 channel: "PyData"
 duration_min: 87
 published_at: 2026-08-04T22:20:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # SQL is Dead, Long Live SQL: Engineering reliable analytics agent from scratch
 
-**Mehdi Ouazza, Dumky de Wilde**
+**Mehdi Ouazza**
 
 `PyData` · `PyData` · `2026` · `87 min`
 

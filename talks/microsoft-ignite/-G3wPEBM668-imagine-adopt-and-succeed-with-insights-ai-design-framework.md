@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Meagan Gentry"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2024-11-25T15:03:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Imagine adopt and succeed with Insight’s AI Design Framework | BRKFP375
 
-**Speaker not identified**
+**Meagan Gentry**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `35 min`
 

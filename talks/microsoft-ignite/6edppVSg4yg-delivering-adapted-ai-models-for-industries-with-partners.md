@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Merav Davidson", "Vall Herard", "Pavandeep Kalra", "Danny Sicking"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:59:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Delivering adapted AI models for industries with partners | BRK267
 
-**Speaker not identified**
+**Merav Davidson, Vall Herard, Pavandeep Kalra, Danny Sicking**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

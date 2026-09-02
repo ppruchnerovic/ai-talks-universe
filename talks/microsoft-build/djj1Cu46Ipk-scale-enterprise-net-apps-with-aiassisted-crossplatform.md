@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sam Basu", "Colin Whitlatch"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-03T12:37:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scale enterprise .NET apps with AI‑assisted cross‑platform workflows | DEMSP394
 
-**Speaker not identified**
+**Sam Basu, Colin Whitlatch**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

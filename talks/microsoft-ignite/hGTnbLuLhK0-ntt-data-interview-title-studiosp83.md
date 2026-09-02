@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brandon Lee", "Aishwarya Singh"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-21T12:35:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # NTT DATA interview title | STUDIOSP83
 
-**Speaker not identified**
+**Brandon Lee, Aishwarya Singh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

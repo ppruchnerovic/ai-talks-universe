@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Quan Vuong", "Jost Tobias Springberg"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-07-26T17:00:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Robotics: why now? - Quan Vuong and Jost Tobias Springberg, Physical Intelligence
 
-**Speaker not identified**
+**Quan Vuong, Jost Tobias Springberg**
 
 `AI Engineer` · `AI Engineer` · `2025` · `18 min`
 

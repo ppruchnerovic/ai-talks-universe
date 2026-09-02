@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oliver Steil"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2025-11-19T14:55:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Work in progress: TeamViewer’s digital workplace talk | ODSP1450
 
-**Speaker not identified**
+**Oliver Steil**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `21 min`
 

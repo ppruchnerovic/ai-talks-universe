@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jaron Cohen", "Heather Gordon", "Mark Iles", "Jessica Krol"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-25T12:16:02Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerating Partner Impact in ASIA for Enterprise Customers​ | PBRK437
 
-**Speaker not identified**
+**Jaron Cohen, Heather Gordon, Mark Iles, Jessica Krol**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `49 min`
 

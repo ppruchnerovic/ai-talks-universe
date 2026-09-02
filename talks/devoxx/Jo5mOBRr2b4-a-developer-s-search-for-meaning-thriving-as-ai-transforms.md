@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Elma Westergren", "Markus W"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2025-10-10T05:12:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A Developer's Search for Meaning: Thriving as AI Transforms Our World by Elma Westergren, Markus W
 
-**Speaker not identified**
+**Elma Westergren, Markus W**
 
 `Devoxx` · `Devoxx` · `2025` · `46 min`
 

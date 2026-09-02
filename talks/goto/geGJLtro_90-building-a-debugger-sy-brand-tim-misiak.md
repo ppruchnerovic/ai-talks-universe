@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Sy Brand", "Tim Misiak"]
 channel: "GOTO Conferences"
 duration_min: 36
 published_at: 2025-09-19T14:59:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building a Debugger • Sy Brand & Tim Misiak
 
-**Speaker not identified**
+**Sy Brand, Tim Misiak**
 
 `GOTO Conferences` · `GOTO` · `2025` · `36 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Skyler Thomas"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T07:35:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Make Too Much Knowledge Just Enough Massive Scale RAG & GraphRAG w Open Source
 
-**Speaker not identified**
+**Skyler Thomas**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

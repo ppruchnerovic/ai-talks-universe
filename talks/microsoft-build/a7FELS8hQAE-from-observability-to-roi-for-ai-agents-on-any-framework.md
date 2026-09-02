@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sebastian Kohlmeier", "Filisha Shah", "Vivek Bhadauria"]
 channel: "Microsoft Developer"
 duration_min: 35
 published_at: 2026-06-03T12:08:35Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From observability to ROI for AI agents on any framework | BRK252
 
-**Speaker not identified**
+**Sebastian Kohlmeier, Filisha Shah, Vivek Bhadauria**
 
 `Microsoft Build` · `Build 2026` · `2026` · `35 min`
 

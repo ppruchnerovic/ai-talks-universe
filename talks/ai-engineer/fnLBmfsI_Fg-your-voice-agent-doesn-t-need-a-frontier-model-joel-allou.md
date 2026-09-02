@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Joel Allou", "Ornella Bahidika"]
 channel: "AI Engineer"
 duration_min: 6
 published_at: 2026-07-20T06:25:15Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft
 
-**Speaker not identified**
+**Joel Allou, Ornella Bahidika**
 
 `AI Engineer` · `AI Engineer` · `2026` · `6 min`
 

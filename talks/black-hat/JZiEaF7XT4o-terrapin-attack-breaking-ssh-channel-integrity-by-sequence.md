@@ -7,7 +7,7 @@ conference_name: "Black Hat"
 category: "AI security"
 edition: "Black Hat"
 year: 2025
-speakers: []
+speakers: ["Sequence Number Manipulation"]
 channel: "Black Hat"
 duration_min: 38
 published_at: 2025-03-07T20:57:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Terrapin Attack: Breaking SSH Channel Integrity by Sequence Number Manipulation
 
-**Speaker not identified**
+**Sequence Number Manipulation**
 
 `Black Hat` · `Black Hat` · `2025` · `38 min`
 

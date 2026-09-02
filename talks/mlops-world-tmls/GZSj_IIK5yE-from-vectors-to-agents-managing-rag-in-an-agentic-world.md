@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Rajiv Shah", "Chief Evangelist"]
+speakers: ["Rajiv Shah"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 85
 published_at: 2025-10-23T01:22:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Vectors to Agents: Managing RAG in an Agentic World | Rajiv Shah, Contextual AI
 
-**Rajiv Shah, Chief Evangelist**
+**Rajiv Shah**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `85 min`
 

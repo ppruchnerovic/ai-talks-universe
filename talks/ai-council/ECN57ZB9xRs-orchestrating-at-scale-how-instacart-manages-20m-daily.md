@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Anant Agarwal"]
 channel: "AI Council"
 duration_min: 30
 published_at: 2025-05-29T15:34:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Orchestrating at Scale How Instacart Manages 20M+ Daily Workflows
 
-**Speaker not identified**
+**Anant Agarwal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `30 min`
 

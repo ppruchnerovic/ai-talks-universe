@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ashley Battle"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2025-11-19T08:27:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Cloud desktop and endpoint management modernization | ODSP1488
 
-**Speaker not identified**
+**Ashley Battle**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `17 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nikhil Krishnan", "Joel Morgenstern"]
 channel: "Microsoft Events"
 duration_min: 25
 published_at: 2025-11-24T10:36:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build your enterprise app from scratch with the C3 Agentic AI Platform | BRKSP488
 
-**Speaker not identified**
+**Nikhil Krishnan, Joel Morgenstern**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `25 min`
 

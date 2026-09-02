@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["David Wilson"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2025-05-29T07:36:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Designing & Engineering a Viral Multi-Model AI Workflow
 
-**Speaker not identified**
+**David Wilson**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `37 min`
 

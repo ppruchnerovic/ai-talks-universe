@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anna Hoffman", "Sirjad Parakkat"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2025-11-24T14:27:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build secure agentic AI apps with SQL Server 2025 | STUDIO33
 
-**Speaker not identified**
+**Anna Hoffman, Sirjad Parakkat**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `17 min`
 

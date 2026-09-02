@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Luke Hoban", "Chris Patterson"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T00:45:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Safe and scalable DevOps with AI agents on GitHub | BRK107
 
-**Speaker not identified**
+**Luke Hoban, Chris Patterson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rick Claus", "Sonia Cuff"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T14:10:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Evolving your IT career in the AI age | BRK1738
 
-**Speaker not identified**
+**Rick Claus, Sonia Cuff**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

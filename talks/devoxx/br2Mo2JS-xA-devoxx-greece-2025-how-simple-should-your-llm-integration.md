@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Efstratios Marinos"]
 channel: null
 duration_min: 40
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Devoxx Greece 2025 : How Simple Should Your LLM Integration Be? by Efstratios Marinos
 
-**Speaker not identified**
+**Efstratios Marinos**
 
 `Devoxx` · `Devoxx` · `2025` · `40 min`
 

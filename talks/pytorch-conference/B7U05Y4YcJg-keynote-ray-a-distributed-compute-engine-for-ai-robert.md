@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Robert Nishihara", "Ion Stoica"]
 channel: "PyTorch"
 duration_min: 15
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Keynote: Ray: A Distributed Compute Engine for AI - Robert Nishihara & Ion Stoica
 
-**Speaker not identified**
+**Robert Nishihara, Ion Stoica**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `15 min`
 

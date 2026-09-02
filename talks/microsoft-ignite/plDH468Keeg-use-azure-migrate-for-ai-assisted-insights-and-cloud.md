@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shashank Bansal", "Vishal Jain", "Anant Raigaga"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:57:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Use Azure Migrate for AI assisted insights and cloud transformation | BRK139
 
-**Speaker not identified**
+**Shashank Bansal, Vishal Jain, Anant Raigaga**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

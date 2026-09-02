@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["David Minasyan", "Alex Pozin", "Erica Toelle"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T13:05:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Prepare your data for Microsoft Copilot with new tools | BRK272
 
-**Speaker not identified**
+**David Minasyan, Alex Pozin, Erica Toelle**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

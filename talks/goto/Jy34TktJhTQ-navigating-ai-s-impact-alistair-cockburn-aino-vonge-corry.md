@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Alistair Cockburn", "Aino Vonge Corry"]
 channel: "GOTO Conferences"
 duration_min: 11
 published_at: 2024-12-27T10:23:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Navigating AI's Impact • Alistair Cockburn & Aino Vonge Corry
 
-**Speaker not identified**
+**Alistair Cockburn, Aino Vonge Corry**
 
 `GOTO Conferences` · `GOTO` · `2024` · `11 min`
 

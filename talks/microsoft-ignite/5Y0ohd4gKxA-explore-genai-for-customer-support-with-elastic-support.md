@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Chris Blaisure"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-12-11T18:06:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Explore GenAI for customer support with Elastic Support Assistant | ODFP939
 
-**Speaker not identified**
+**Chris Blaisure**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chip Huyen"]
 channel: "Microsoft Developer"
 duration_min: 43
 published_at: 2026-06-03T11:05:13Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Software Defensibility in the era of AI coding | BRK233
 
-**Speaker not identified**
+**Chip Huyen**
 
 `Microsoft Build` · `Build 2026` · `2026` · `43 min`
 

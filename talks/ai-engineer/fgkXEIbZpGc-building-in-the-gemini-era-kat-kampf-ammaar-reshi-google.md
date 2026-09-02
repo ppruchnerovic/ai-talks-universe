@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Kat Kampf", "Ammaar Reshi"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-12-15T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building in the Gemini Era – Kat Kampf & Ammaar Reshi, Google DeepMind
 
-**Speaker not identified**
+**Kat Kampf, Ammaar Reshi**
 
 `AI Engineer` · `AI Engineer` · `2025` · `18 min`
 

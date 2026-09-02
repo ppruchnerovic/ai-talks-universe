@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cornelis Hertogh", "Feliz Fuentes Montpellier"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T13:04:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering Healthcare Through Scalable AI for Trusted Partners | PBRK390
 
-**Speaker not identified**
+**Cornelis Hertogh, Feliz Fuentes Montpellier**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

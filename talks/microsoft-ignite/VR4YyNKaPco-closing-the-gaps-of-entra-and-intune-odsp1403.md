@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stefan Schoenleber"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T14:25:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Closing the gaps of Entra and Intune | ODSP1403
 
-**Speaker not identified**
+**Stefan Schoenleber**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

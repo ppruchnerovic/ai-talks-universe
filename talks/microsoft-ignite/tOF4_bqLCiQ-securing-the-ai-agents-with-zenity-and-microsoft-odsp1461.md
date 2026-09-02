@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shaun Van Staden"]
 channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T12:41:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Securing the AI Agents with Zenity and Microsoft | ODSP1461
 
-**Speaker not identified**
+**Shaun Van Staden**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `8 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Gauhar Junnarkar", "John Lee"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:59:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI supercomputing for training and inferencing​ | BRK218
 
-**Speaker not identified**
+**Gauhar Junnarkar, John Lee**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

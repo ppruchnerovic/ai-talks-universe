@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Maarten Vandeperre"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2025-10-09T05:35:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Platform Engineering 101: Building Internal Developer Platforms by Maarten Vandeperre
 
-**Speaker not identified**
+**Maarten Vandeperre**
 
 `Devoxx` · `Devoxx` · `2025` · `46 min`
 

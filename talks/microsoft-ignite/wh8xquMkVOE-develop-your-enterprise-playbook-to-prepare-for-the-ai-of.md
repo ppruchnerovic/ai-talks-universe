@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Marco Casalaina", "Brian Madden"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T10:52:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Develop your enterprise playbook to prepare for the AI of tomorrow | BRKSP486
 
-**Speaker not identified**
+**Marco Casalaina, Brian Madden**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

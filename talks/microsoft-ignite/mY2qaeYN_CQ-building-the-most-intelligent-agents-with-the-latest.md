@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anjli Chaudhry", "Eli Coon", "Hardik Modi", "Nick Taylor"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-12-03T21:30:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building the most intelligent agents with the latest knowledge sources | BRK318
 
-**Speaker not identified**
+**Anjli Chaudhry, Eli Coon, Hardik Modi, Nick Taylor**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

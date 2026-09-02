@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Xiaoying Guo", "Vinod Kurpad", "Zhuoqun Li"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T17:17:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Introducing Microsoft Foundry Tools | BRK192
 
-**Speaker not identified**
+**Xiaoying Guo, Vinod Kurpad, Zhuoqun Li**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

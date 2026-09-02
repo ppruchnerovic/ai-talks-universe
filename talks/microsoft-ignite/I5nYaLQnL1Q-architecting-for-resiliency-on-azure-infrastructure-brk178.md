@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Eric Henry", "Sudha Mahajan", "Jon Ormond"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T08:04:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Architecting for resiliency on Azure Infrastructure | BRK178
 
-**Speaker not identified**
+**Eric Henry, Sudha Mahajan, Jon Ormond**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

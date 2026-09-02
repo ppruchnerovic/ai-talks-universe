@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Caroline Matthews", "Keiji Kanazawa"]
 channel: "Microsoft Developer"
 duration_min: 37
 published_at: 2026-06-03T13:59:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Unlock Claude in Microsoft Foundry | ODSP934
 
-**Speaker not identified**
+**Caroline Matthews, Keiji Kanazawa**
 
 `Microsoft Build` · `Build 2026` · `2026` · `37 min`
 

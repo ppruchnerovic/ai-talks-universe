@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Sander Hoogendoorn"]
 channel: "Devoxx"
 duration_min: 22
 published_at: 2025-04-07T13:45:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to survive as a developer in the exponential age of AI by Sander Hoogendoorn
 
-**Speaker not identified**
+**Sander Hoogendoorn**
 
 `Devoxx` · `Devoxx` · `2025` · `22 min`
 

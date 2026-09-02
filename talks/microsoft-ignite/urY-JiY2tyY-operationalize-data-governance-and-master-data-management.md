@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Tim Ward"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T13:36:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Operationalize data governance and master data management with GenAI | ODFP932
 
-**Speaker not identified**
+**Tim Ward**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `21 min`
 

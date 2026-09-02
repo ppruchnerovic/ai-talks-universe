@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2025
-speakers: ["Gideon Aina", "Senior Lead Engineer"]
+speakers: ["Gideon Aina"]
 channel: "RSAC Cybersecurity"
 duration_min: 54
 published_at: 2025-08-05T16:33:02Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Webcast: Leveraging AI for Cybersecurity Workflow Augmentation
 
-**Gideon Aina, Senior Lead Engineer**
+**Gideon Aina**
 
 `RSAC Conference` · `RSAC` · `2025` · `54 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Wilco Burggraaf"]
 channel: "Devoxx"
 duration_min: 16
 published_at: 2026-04-09T21:33:21Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Can GenAI predict code’s energy use and why should we care? by Wilco Burggraaf
 
-**Speaker not identified**
+**Wilco Burggraaf**
 
 `Devoxx` · `Devoxx` · `2026` · `16 min`
 

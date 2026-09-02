@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Robert Finlayson", "Shawn Henry", "Mike Hulme", "Balan Subramanian"]
 channel: "Microsoft Events"
 duration_min: 51
 published_at: 2025-12-02T20:30:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Connected managed and complete agentic apps with Microsoft Foundry | BRK113
 
-**Speaker not identified**
+**Robert Finlayson, Shawn Henry, Mike Hulme, Balan Subramanian**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `51 min`
 

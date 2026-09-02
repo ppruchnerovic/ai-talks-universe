@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Steve Pereira", "Andrew Davis"]
 channel: "GOTO Conferences"
 duration_min: 42
 published_at: 2025-09-16T12:59:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Flow Engineering • Steve Pereira & Andrew Davis
 
-**Speaker not identified**
+**Steve Pereira, Andrew Davis**
 
 `GOTO Conferences` · `GOTO` · `2025` · `42 min`
 

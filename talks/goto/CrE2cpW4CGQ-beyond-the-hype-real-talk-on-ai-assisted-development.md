@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Jessica Kerr", "Diana Montalion"]
 channel: "GOTO Conferences"
 duration_min: 37
 published_at: 2025-11-18T14:01:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Beyond the Hype: Real Talk on AI-Assisted Development • Jessica Kerr & Diana Montalion
 
-**Speaker not identified**
+**Jessica Kerr, Diana Montalion**
 
 `GOTO Conferences` · `GOTO` · `2025` · `37 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Alicia Frame", "Omkar More"]
 channel: "Microsoft Developer"
 duration_min: 48
 published_at: 2026-06-03T12:00:18Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Deploy. Observe. Learn. Reinforcement learning for production agents | BRK231
 
-**Speaker not identified**
+**Alicia Frame, Omkar More**
 
 `Microsoft Build` · `Build 2026` · `2026` · `48 min`
 

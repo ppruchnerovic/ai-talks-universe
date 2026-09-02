@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jibson Mamerto", "Ikenna Okeke", "Gaurav Seth"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-25T12:32:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock AI: Assess your app and data estate for AI-powered innovation | BRK137
 
-**Speaker not identified**
+**Jibson Mamerto, Ikenna Okeke, Gaurav Seth**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

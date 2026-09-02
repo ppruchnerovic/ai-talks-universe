@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Ashley Peacock", "Ricky Robinett"]
 channel: "GOTO Conferences"
 duration_min: 39
 published_at: 2025-09-23T12:26:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Serverless Apps on Cloudflare • Ashley Peacock & Ricky Robinett
 
-**Speaker not identified**
+**Ashley Peacock, Ricky Robinett**
 
 `GOTO Conferences` · `GOTO` · `2025` · `39 min`
 

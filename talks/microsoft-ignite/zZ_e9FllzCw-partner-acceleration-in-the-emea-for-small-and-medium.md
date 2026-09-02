@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sharon Schoenborn", "Ville Hemmilä", "Brendan Murphy", "Piotr Tomasz Paszczyk", "Bart van der Knaap"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T20:02:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # ​Partner acceleration in the EMEA for Small and Medium Businesses | PBRK439
 
-**Speaker not identified**
+**Sharon Schoenborn, Ville Hemmilä, Brendan Murphy, Piotr Tomasz Paszczyk, Bart van der Knaap**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Michelle Elston", "Justin Slagle", "Matt Soseman"]
 channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-19T12:56:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # 10 partner center hacks every Microsoft partner should know | ODSP1405
 
-**Speaker not identified**
+**Michelle Elston, Justin Slagle, Matt Soseman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `14 min`
 

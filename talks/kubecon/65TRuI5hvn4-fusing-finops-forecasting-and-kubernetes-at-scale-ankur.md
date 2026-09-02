@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Ankur Singh", "Satyam Bhardwaj"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 28
 published_at: 2026-04-09T05:20:33Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Fusing FinOps, Forecasting, and Kubernetes at Scale - Ankur Singh & Satyam Bhardwaj
 
-**Speaker not identified**
+**Ankur Singh, Satyam Bhardwaj**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `28 min`
 

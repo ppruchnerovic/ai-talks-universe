@@ -7,7 +7,7 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Maanav Dalal", "Justin Chu"]
 channel: "PyTorch"
 duration_min: 11
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Lightning Talk: What's New in Torch.onnx - Maanav Dalal & Justin Chu, Microsoft
 
-**Speaker not identified**
+**Maanav Dalal, Justin Chu**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `11 min`
 

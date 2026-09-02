@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pratik Shinde", "Eric Summers", "Divya Swarnkar", "Kent Weare"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:27:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The future of integration is here and it's agentic | BRK118
 
-**Speaker not identified**
+**Pratik Shinde, Eric Summers, Divya Swarnkar, Kent Weare**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dan Rippey", "Andrew Smith"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2024-11-27T13:15:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Grow your business with Microsoft AI Cloud Partner Program | BRK347
 
-**Speaker not identified**
+**Dan Rippey, Andrew Smith**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `38 min`
 

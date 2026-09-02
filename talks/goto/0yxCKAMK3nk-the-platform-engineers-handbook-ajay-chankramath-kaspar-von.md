@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ajay Chankramath", "Kaspar von Grünberg"]
 channel: "GOTO Conferences"
 duration_min: 32
 published_at: 2026-07-02T12:00:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Platform Engineer’s Handbook • Ajay Chankramath & Kaspar von Grünberg • GOTO 2026
 
-**Speaker not identified**
+**Ajay Chankramath, Kaspar von Grünberg**
 
 `GOTO Conferences` · `GOTO` · `2026` · `32 min`
 

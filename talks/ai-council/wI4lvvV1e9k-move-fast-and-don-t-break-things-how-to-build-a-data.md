@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Elijah Ben Izzy"]
 channel: "AI Council"
 duration_min: 35
 published_at: 2024-04-19T05:00:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Move Fast and Don't Break Things -- How to Build a Data Platform that Scales with your Organization
 
-**Speaker not identified**
+**Elijah Ben Izzy**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `35 min`
 

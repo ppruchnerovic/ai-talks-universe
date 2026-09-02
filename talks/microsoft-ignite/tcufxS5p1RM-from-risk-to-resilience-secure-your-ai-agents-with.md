@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ramya Chitrakar", "Moran Gutman", "Asaf Nakash"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T14:59:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Risk to Resilience: Secure your AI Agents with Microsoft Defender | BRK264
 
-**Speaker not identified**
+**Ramya Chitrakar, Moran Gutman, Asaf Nakash**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

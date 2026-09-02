@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rachel Baskin"]
 channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-03T12:26:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Orchestrate omnichannel AI agents with Foundry and Twilio | DEMSP393
 
-**Speaker not identified**
+**Rachel Baskin**
 
 `Microsoft Build` · `Build 2026` · `2026` · `22 min`
 

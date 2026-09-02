@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dr. Chetan Gupta"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-21T10:44:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovating industries with AI by converging OT & IT data with Hitachi | ODFP948
 
-**Speaker not identified**
+**Dr. Chetan Gupta**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `10 min`
 

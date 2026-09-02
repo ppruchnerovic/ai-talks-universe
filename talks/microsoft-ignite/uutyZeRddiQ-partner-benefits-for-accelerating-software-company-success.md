@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sandy Gupta", "Michael Marzano", "Andrew Smith"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T13:03:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Benefits for Accelerating Software Company Success | PBRK418
 
-**Speaker not identified**
+**Sandy Gupta, Michael Marzano, Andrew Smith**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Vijayasri Iyer", "Cristiano De Nobili"]
 channel: "The Linux Foundation"
 duration_min: 27
 published_at: 2025-09-09T18:27:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trallie: Shaping Unstructured Data Into Valuable Information - Vijayasri Iyer & Cristiano De Nobili
 
-**Speaker not identified**
+**Vijayasri Iyer, Cristiano De Nobili**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `27 min`
 

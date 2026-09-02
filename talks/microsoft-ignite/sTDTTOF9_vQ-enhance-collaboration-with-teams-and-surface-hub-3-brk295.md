@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["David Alexander", "Irena Andonova", "Frank Buchholz", "Kate Canfield"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T12:34:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enhance collaboration with Teams and Surface Hub 3 | BRK295
 
-**Speaker not identified**
+**David Alexander, Irena Andonova, Frank Buchholz, Kate Canfield**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

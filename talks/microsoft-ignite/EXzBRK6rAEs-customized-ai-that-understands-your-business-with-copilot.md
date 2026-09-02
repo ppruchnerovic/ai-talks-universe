@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Khushboo Aggarwal", "Kalyan Ayloo", "Ranveer Chandra", "Tanaya Yadav"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T15:22:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Customized AI that understands your business with Copilot Tuning ​ | BRK289
 
-**Speaker not identified**
+**Khushboo Aggarwal, Kalyan Ayloo, Ranveer Chandra, Tanaya Yadav**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

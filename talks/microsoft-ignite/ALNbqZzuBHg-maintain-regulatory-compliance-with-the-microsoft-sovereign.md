@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Harald Solstad Fianbakken"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T17:11:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Maintain regulatory compliance with the Microsoft Sovereign Cloud | BRK167
 
-**Speaker not identified**
+**Harald Solstad Fianbakken**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

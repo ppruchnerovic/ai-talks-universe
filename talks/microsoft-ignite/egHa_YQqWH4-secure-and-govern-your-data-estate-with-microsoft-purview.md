@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rudra Mitra", "Joanne Marone", "Talhah Mir", "Herain Oberoi", "Shilpa Ranganathan"]
 channel: "Microsoft Events"
 duration_min: 51
 published_at: 2024-11-27T13:00:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure and govern your data estate with Microsoft Purview | BRK317
 
-**Speaker not identified**
+**Rudra Mitra, Joanne Marone, Talhah Mir, Herain Oberoi, Shilpa Ranganathan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `51 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Ashish Ghosh"]
 channel: "Devoxx"
 duration_min: 100
 published_at: 2026-04-09T19:11:02Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From Automation to Autonomy: The Next Evolution of Playwright Testing by Ashish Ghosh
 
-**Speaker not identified**
+**Ashish Ghosh**
 
 `Devoxx` · `Devoxx` · `2026` · `100 min`
 

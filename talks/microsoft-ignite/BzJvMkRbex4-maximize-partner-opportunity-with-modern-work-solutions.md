@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Julia Bowser", "Lars Johnson", "Mayank Kapur", "Chris Large", "Uriel Rootshtain"]
 channel: "Microsoft Events"
 duration_min: 30
 published_at: 2024-11-25T13:42:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Maximize partner opportunity with Modern Work solutions powered by AI | BRK298
 
-**Speaker not identified**
+**Julia Bowser, Lars Johnson, Mayank Kapur, Chris Large, Uriel Rootshtain**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `30 min`
 

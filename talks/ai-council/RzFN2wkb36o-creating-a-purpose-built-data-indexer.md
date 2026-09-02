@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Andrew Dworschak"]
 channel: "AI Council"
 duration_min: 14
 published_at: 2024-04-19T05:00:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Creating a Purpose-Built Data Indexer
 
-**Speaker not identified**
+**Andrew Dworschak**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `14 min`
 

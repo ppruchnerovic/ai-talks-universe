@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mike Richter", "Deepti Dheer"]
 channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-04T13:45:09Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Teach AI agents to manage context with Elastic Agent Builder | DEMSP395
 
-**Speaker not identified**
+**Mike Richter, Deepti Dheer**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

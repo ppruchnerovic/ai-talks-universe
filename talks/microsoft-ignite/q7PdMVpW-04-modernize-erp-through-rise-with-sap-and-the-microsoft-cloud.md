@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Wael Elkabbany", "Hiren Shah"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T15:48:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modernize ERP through RISE with SAP and the Microsoft Cloud | BRK161
 
-**Speaker not identified**
+**Wael Elkabbany, Hiren Shah**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

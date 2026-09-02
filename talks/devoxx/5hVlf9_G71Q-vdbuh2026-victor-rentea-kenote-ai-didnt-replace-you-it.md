@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Victor Rentea"]
 channel: "Devoxx"
 duration_min: 60
 published_at: 2026-05-13T03:37:51Z
@@ -20,7 +20,7 @@ transcript: true
 
 # [VDBUH2026] Victor Rentea - Kenote: AI Didn’t Replace You. It Promoted You!
 
-**Speaker not identified**
+**Victor Rentea**
 
 `Devoxx` · `Devoxx` · `2026` · `60 min`
 

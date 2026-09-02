@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Lachlan Evenson"]
 channel: "Microsoft Developer"
 duration_min: 50
 published_at: 2026-06-03T09:00:08Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The honest practitioner's take on agentic AI on Kubernetes | BRK222
 
-**Speaker not identified**
+**Lachlan Evenson**
 
 `Microsoft Build` · `Build 2026` · `2026` · `50 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aditi Gupta"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2024-11-26T08:34:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock the power of open-source databases in Azure | BRK207
 
-**Speaker not identified**
+**Aditi Gupta**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `39 min`
 

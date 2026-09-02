@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Hulme", "John Lolis", "Abhay Pradhan", "Sandeep Sahasrabudhe", "Melba Swapna"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-26T07:18:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Delivering business results with app innovation: Customer insights | BRK144
 
-**Speaker not identified**
+**Mike Hulme, John Lolis, Abhay Pradhan, Sandeep Sahasrabudhe, Melba Swapna**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

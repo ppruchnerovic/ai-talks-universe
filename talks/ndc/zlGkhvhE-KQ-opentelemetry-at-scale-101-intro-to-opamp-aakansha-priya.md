@@ -7,7 +7,7 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Aakansha Priya", "Adriana Villela"]
 channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-03-04T16:44:30Z
@@ -20,7 +20,7 @@ transcript: true
 
 # OpenTelemetry At Scale 101: Intro to OpAMP - Aakansha Priya &Adriana Villela
 
-**Speaker not identified**
+**Aakansha Priya, Adriana Villela**
 
 `NDC Conferences` · `NDC` · `2026` · `52 min`
 

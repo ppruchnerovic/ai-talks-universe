@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Salil Subbakrishna", "Denizhan Yigitbas"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-04T11:05:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Rethinking CI: Actions, AI Agents, and the End of Commit-Fail-Commit | DEM301
 
-**Speaker not identified**
+**Salil Subbakrishna, Denizhan Yigitbas**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

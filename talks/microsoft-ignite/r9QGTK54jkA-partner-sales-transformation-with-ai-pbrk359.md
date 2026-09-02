@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["April Delsing", "Sherry Martin", "Marion Rousseau", "Julie Strauss", "Pope Trinidad"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T13:38:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Sales transformation with AI | PBRK359
 
-**Speaker not identified**
+**April Delsing, Sherry Martin, Marion Rousseau, Julie Strauss, Pope Trinidad**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

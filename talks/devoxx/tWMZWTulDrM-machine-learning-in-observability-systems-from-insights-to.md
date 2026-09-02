@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Panos Tsilopoulos"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2025-11-11T10:38:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Machine Learning In Observability Systems: From Insights To Action by Panos Tsilopoulos
 
-**Speaker not identified**
+**Panos Tsilopoulos**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

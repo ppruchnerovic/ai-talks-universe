@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Thanumoorthy Sundaresan", "John Weston"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2025-11-19T13:17:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advancing mainframe modernization with Slingshot and Microsoft | ODSP1409
 
-**Speaker not identified**
+**Thanumoorthy Sundaresan, John Weston**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `12 min`
 

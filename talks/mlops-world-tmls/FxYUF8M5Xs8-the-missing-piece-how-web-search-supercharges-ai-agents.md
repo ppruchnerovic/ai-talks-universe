@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Noah Nefsky", "Forward Deployed Engineer"]
+speakers: ["Noah Nefsky"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 6
 published_at: 2025-10-29T20:51:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Missing Piece: How Web Search Supercharges AI Agents | Noah Nefsky, Tavily | Lightning Talks
 
-**Noah Nefsky, Forward Deployed Engineer**
+**Noah Nefsky**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `6 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["James Jeffries", "Maria Jumawan"]
 channel: "Microsoft Events"
 duration_min: 29
 published_at: 2025-11-21T17:07:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Empowering care teams with Dragon Copilot, an AI clinical assistant | BRK372
 
-**Speaker not identified**
+**James Jeffries, Maria Jumawan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `29 min`
 

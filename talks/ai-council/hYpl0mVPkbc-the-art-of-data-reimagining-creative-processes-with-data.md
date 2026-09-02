@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Michael Cohen"]
 channel: "AI Council"
 duration_min: 16
 published_at: 2025-05-29T00:39:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Art of Data: Reimagining Creative Processes with Data Culture
 
-**Speaker not identified**
+**Michael Cohen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `16 min`
 

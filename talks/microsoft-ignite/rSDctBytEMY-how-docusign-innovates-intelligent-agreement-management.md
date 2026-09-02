@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Deborah Chen", "Kunal Mukerjee", "Olivia Shone"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-26T07:10:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Docusign innovates intelligent agreement management with Azure | BRK124
 
-**Speaker not identified**
+**Deborah Chen, Kunal Mukerjee, Olivia Shone**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

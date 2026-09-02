@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Simon Willison"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-04T11:00:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Ensuring your code works when AI testing isn’t enough | BRK208
 
-**Speaker not identified**
+**Simon Willison**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

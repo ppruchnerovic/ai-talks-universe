@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Nikola Metulev", "Beth Pan", "Aditya Ramnathkar"]
 channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-04T14:07:27Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build and ship faster with a developer-optimized Windows experience | LIVE172
 
-**Speaker not identified**
+**Nikola Metulev, Beth Pan, Aditya Ramnathkar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["Baruch Sadogursky", "Viktor Gamov"]
 channel: "AI Native Dev"
 duration_min: 29
 published_at: 2025-11-27T16:18:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Baruch Sadogursky & Viktor Gamov - RoboCoders Judgment Day | DevCon Fall 2025
 
-**Speaker not identified**
+**Baruch Sadogursky, Viktor Gamov**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `29 min`
 

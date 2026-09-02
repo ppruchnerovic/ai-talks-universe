@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Anitah Cantele"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2024-11-20T14:10:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovate faster and maximize uptime on Azure with New Relic | ODFP964
 
-**Speaker not identified**
+**Anitah Cantele**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `22 min`
 

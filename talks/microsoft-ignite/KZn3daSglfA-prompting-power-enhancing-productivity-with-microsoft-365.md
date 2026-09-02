@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Tiffany Ellis", "Alina Fu"]
 channel: "Microsoft Events"
 duration_min: 27
 published_at: 2025-11-20T14:38:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Prompting Power: Enhancing Productivity with Microsoft 365 Copilot | BRK279
 
-**Speaker not identified**
+**Tiffany Ellis, Alina Fu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `27 min`
 

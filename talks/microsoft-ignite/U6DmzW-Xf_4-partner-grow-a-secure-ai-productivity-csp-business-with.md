@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ryan Argall", "Oliver Berchtold", "Dallas Cullen", "Marcelo Dichtchekenian"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-25T12:11:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Grow a Secure AI Productivity CSP business with Microsoft 365 | PBRK304
 
-**Speaker not identified**
+**Ryan Argall, Oliver Berchtold, Dallas Cullen, Marcelo Dichtchekenian**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

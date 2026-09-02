@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Joseph Gonzalez"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T07:38:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AGI is Already Here (But It's Not What You Think)
 
-**Speaker not identified**
+**Joseph Gonzalez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

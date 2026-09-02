@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Seth Juarez", "Burke Holland"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-05T14:59:42Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From issue to merge in one loop: the GitHub Copilot app | LIVE162
 
-**Speaker not identified**
+**Seth Juarez, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

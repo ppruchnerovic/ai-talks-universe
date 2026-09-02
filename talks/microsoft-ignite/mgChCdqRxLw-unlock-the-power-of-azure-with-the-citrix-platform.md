@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shawn Bass"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T11:18:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock the power of Azure with the Citrix platform multiplier | BRKSP466
 
-**Speaker not identified**
+**Shawn Bass**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

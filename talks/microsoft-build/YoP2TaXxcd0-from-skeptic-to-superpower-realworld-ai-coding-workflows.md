@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mario Toffia", "Priyanka Sharma"]
 channel: "Microsoft Developer"
 duration_min: 38
 published_at: 2026-06-11T08:24:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale | BRK229
 
-**Speaker not identified**
+**Mario Toffia, Priyanka Sharma**
 
 `Microsoft Build` · `Build 2026` · `2026` · `38 min`
 

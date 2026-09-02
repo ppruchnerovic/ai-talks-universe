@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Subbiah Sethuraman", "Abhilash Asokan"]
 channel: "AI Engineer"
 duration_min: 15
 published_at: 2026-07-23T05:00:02Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Why We Killed Our Multi-Agent Pipeline — Subbiah Sethuraman and Abhilash Asokan, ZS Associates
 
-**Speaker not identified**
+**Subbiah Sethuraman, Abhilash Asokan**
 
 `AI Engineer` · `AI Engineer` · `2026` · `15 min`
 

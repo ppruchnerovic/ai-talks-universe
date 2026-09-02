@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sarah Bird", "Sandeep Atluri", "Mehrnoosh Sameki"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-03T08:33:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Observe and control agents across any framework with open source tools | BRK250
 
-**Speaker not identified**
+**Sarah Bird, Sandeep Atluri, Mehrnoosh Sameki**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

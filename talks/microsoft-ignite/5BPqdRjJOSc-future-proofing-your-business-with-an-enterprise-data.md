@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nick Burling"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2024-11-20T14:09:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Future proofing your business with an enterprise data platform | ODFP960
 
-**Speaker not identified**
+**Nick Burling**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `12 min`
 

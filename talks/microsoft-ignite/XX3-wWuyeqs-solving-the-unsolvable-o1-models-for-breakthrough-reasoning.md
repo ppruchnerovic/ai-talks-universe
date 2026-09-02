@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Marco Casalaina", "Jennifer Marsman"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:11:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Solving the unsolvable: o1 models for breakthrough reasoning on Azure | BRK110
 
-**Speaker not identified**
+**Marco Casalaina, Jennifer Marsman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

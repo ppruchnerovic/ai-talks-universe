@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gary Berletti", "Matt Graham", "Raviv Tamir"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-20T14:27:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Blueprint for Building the SOC of the Future | BRK246
 
-**Speaker not identified**
+**Gary Berletti, Matt Graham, Raviv Tamir**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

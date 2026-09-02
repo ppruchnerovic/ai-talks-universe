@@ -7,7 +7,7 @@ conference_name: "dotAI"
 category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2024
-speakers: []
+speakers: ["Romain Huet", "Katia Gil Guzman"]
 channel: null
 duration_min: 23
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # dotAI 2024 - Romain Huet and Katia Gil Guzman - Building with OpenAI: What's Ahead
 
-**Speaker not identified**
+**Romain Huet, Katia Gil Guzman**
 
 `dotAI` · `dot conferences` · `2024` · `23 min`
 

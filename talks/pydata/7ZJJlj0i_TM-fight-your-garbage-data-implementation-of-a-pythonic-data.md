@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Rostislaw Krassow", "Joshua Finger"]
+speakers: ["Rostislaw Krassow"]
 channel: "PyData"
 duration_min: 44
 published_at: 2026-08-04T22:21:28Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Fight your garbage data: implementation of a pythonic data quality monitoring framework in PySpark
 
-**Rostislaw Krassow, Joshua Finger**
+**Rostislaw Krassow**
 
 `PyData` · `PyData` · `2026` · `44 min`
 

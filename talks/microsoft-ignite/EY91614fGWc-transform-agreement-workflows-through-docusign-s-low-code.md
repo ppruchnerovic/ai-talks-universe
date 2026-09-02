@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Hank Glover", "Shane Meisner"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-11-20T13:38:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transform agreement workflows through Docusign's low-code automation | ODFP937
 
-**Speaker not identified**
+**Hank Glover, Shane Meisner**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `23 min`
 

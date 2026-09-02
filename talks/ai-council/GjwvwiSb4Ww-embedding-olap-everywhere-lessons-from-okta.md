@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jake Thomas"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:27:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Embedding OLAP, Everywhere Lessons from Okta
 
-**Speaker not identified**
+**Jake Thomas**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

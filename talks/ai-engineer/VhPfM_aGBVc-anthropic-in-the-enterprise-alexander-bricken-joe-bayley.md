@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Alexander Bricken", "Joe Bayley"]
 channel: "AI Engineer"
 duration_min: 21
 published_at: 2025-04-13T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Anthropic in the Enterprise — Alexander Bricken & Joe Bayley
 
-**Speaker not identified**
+**Alexander Bricken, Joe Bayley**
 
 `AI Engineer` · `AI Engineer` · `2025` · `21 min`
 

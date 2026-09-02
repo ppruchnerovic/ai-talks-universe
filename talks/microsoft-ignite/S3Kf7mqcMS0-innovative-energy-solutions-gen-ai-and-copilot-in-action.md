@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Todd Nelson", "Vishal Sabharwal"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2024-11-27T09:49:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovative Energy Solutions: Gen AI and Copilot in Action | BRK255
 
-**Speaker not identified**
+**Todd Nelson, Vishal Sabharwal**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `34 min`
 

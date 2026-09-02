@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Henk Boelman", "Daniel Laskewitz", "David Smith"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T07:14:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A guide to building tomorrows AI Solutions | BRK132
 
-**Speaker not identified**
+**Henk Boelman, Daniel Laskewitz, David Smith**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

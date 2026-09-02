@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Bernhard Schäfer", "Nicolas Renkamp"]
+speakers: ["Bernhard Schäfer"]
 channel: "PyData"
 duration_min: 45
 published_at: 2026-08-04T22:20:17Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Empowering Data Scientists with Zero Platform Friction: Deploying Streamlit & Friends in 3 Minutes
 
-**Bernhard Schäfer, Nicolas Renkamp**
+**Bernhard Schäfer**
 
 `PyData` · `PyData` · `2026` · `45 min`
 

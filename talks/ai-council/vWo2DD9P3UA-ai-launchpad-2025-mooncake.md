@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Pranav Aurora"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2025-05-29T13:38:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: Mooncake
 
-**Speaker not identified**
+**Pranav Aurora**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `10 min`
 

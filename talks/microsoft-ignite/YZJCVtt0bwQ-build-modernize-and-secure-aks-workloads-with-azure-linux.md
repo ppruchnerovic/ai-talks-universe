@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sudhanva Huruli", "Dongha Paek"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-21T11:13:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build, modernize, and secure AKS workloads with Azure Linux | BRK144
 
-**Speaker not identified**
+**Sudhanva Huruli, Dongha Paek**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `33 min`
 

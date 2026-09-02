@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anitha Adusumilli", "Aditya Badramraju", "Troy Brovold", "Craig Henninger"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-21T10:16:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Meet the performance-enhanced next gen Azure SQL Managed Instance | BRK125
 
-**Speaker not identified**
+**Anitha Adusumilli, Aditya Badramraju, Troy Brovold, Craig Henninger**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alessandra Antonelli", "Tanya Khaiyanun", "Erik Ramberg"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-24T13:29:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partners are Accelerating Media Innovation with AI Agents | PBRK391
 
-**Speaker not identified**
+**Alessandra Antonelli, Tanya Khaiyanun, Erik Ramberg**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

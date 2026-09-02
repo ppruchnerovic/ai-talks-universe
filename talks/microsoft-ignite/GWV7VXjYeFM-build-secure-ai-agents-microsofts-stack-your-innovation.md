@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Neta Haiby", "Harmony Mabrey", "Alyssa Ofstein"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T07:40:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Secure AI Agents: Microsoft’s Stack, Your Innovation | BRK261
 
-**Speaker not identified**
+**Neta Haiby, Harmony Mabrey, Alyssa Ofstein**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

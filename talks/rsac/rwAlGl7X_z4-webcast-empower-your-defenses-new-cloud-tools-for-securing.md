@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["David Mitchell", "Senior Product Manager"]
+speakers: ["David Mitchell"]
 channel: "RSAC Cybersecurity"
 duration_min: 50
 published_at: 2024-08-14T17:41:58Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Webcast: Empower Your Defenses: New Cloud Tools for Securing Vital Applications
 
-**David Mitchell, Senior Product Manager**
+**David Mitchell**
 
 `RSAC Conference` · `RSAC` · `2024` · `50 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sean Kerr", "Stefanie Lemon"]
 channel: "Microsoft Events"
 duration_min: 26
 published_at: 2024-11-25T14:51:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Explore everything infrastructure with AMD EPYC on Azure | BRKFP366
 
-**Speaker not identified**
+**Sean Kerr, Stefanie Lemon**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `26 min`
 

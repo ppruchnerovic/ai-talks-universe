@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ken Archer", "Sarah Bird", "Florent Ricci"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T16:29:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Operations to own the fleet master the mission in Microsoft Foundry | BRK205
 
-**Speaker not identified**
+**Ken Archer, Sarah Bird, Florent Ricci**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

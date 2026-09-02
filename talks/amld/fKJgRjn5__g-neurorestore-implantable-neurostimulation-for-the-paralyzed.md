@@ -7,7 +7,7 @@ conference_name: "Applied Machine Learning Days"
 category: "AI engineering & agents"
 edition: "AMLD"
 year: 2026
-speakers: []
+speakers: ["Grégoire Courtine", "Jocelyne Bloch"]
 channel: "AMLD Intelligence Summit"
 duration_min: 18
 published_at: 2026-02-13T10:14:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # NeuroRestore : Implantable neurostimulation for the paralyzed | Grégoire Courtine & Jocelyne Bloch
 
-**Speaker not identified**
+**Grégoire Courtine, Jocelyne Bloch**
 
 `Applied Machine Learning Days` · `AMLD` · `2026` · `18 min`
 

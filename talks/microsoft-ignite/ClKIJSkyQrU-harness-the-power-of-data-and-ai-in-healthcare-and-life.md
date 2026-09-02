@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["David Ardman", "Will Guyman", "Miriam Ney"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-27T09:50:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Harness the power of data and AI in healthcare and life sciences | BRK256
 
-**Speaker not identified**
+**David Ardman, Will Guyman, Miriam Ney**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

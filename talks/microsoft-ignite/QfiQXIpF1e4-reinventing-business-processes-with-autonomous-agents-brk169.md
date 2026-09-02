@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Karan Nigam", "Ray Smith"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T07:33:01Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reinventing business processes with autonomous agents | BRK169
 
-**Speaker not identified**
+**Karan Nigam, Ray Smith**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alicia Frame", "Ramachandra Kota", "Omkar More"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T10:25:11Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI fine-tuning in Microsoft Foundry to make your agents unstoppable | BRK188
 
-**Speaker not identified**
+**Alicia Frame, Ramachandra Kota, Omkar More**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

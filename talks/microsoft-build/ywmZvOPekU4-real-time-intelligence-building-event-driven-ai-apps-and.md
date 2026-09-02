@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Tessa Kloster", "Arindam Chatterjee", "Anshul Sharma"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-03T13:05:23Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Real-Time Intelligence: Building event-driven AI apps and agents | OD819
 
-**Speaker not identified**
+**Tessa Kloster, Arindam Chatterjee, Anshul Sharma**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

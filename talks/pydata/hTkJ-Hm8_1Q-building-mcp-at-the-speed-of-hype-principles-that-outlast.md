@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Rahkakavee Baskaran", "Friederike Bauer"]
+speakers: ["Rahkakavee Baskaran"]
 channel: "PyData"
 duration_min: 28
 published_at: 2026-08-04T22:20:40Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building MCP at the Speed of Hype: Principles That Outlast the Trends [PyCon DE & PyData 2026]
 
-**Rahkakavee Baskaran, Friederike Bauer**
+**Rahkakavee Baskaran**
 
 `PyData` · `PyData` · `2026` · `28 min`
 

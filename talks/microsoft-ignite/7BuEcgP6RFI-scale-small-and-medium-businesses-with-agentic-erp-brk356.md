@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Bryan Goode", "Kurt Juvyns", "Tom Paquin"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T17:13:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Scale small and medium businesses with Agentic ERP | BRK356
 
-**Speaker not identified**
+**Bryan Goode, Kurt Juvyns, Tom Paquin**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

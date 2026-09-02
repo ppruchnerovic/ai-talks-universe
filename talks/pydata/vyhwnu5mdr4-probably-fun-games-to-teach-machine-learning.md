@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Dr. Kristian Rother", "Shreyaasri Prakash"]
+speakers: ["Dr. Kristian Rother"]
 channel: "PyData"
 duration_min: 78
 published_at: 2025-11-23T14:33:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Probably Fun: Games to teach Machine Learning
 
-**Dr. Kristian Rother, Shreyaasri Prakash**
+**Dr. Kristian Rother**
 
 `PyData` · `PyData` · `2025` · `78 min`
 

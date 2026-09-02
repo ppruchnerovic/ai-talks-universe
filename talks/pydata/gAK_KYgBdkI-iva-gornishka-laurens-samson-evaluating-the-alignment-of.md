@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Iva Gornishka", "Laurens Samson"]
 channel: null
 duration_min: 30
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Iva Gornishka & Laurens Samson - Evaluating the alignment of LLMs | PyData Amsterdam 2025
 
-**Speaker not identified**
+**Iva Gornishka, Laurens Samson**
 
 `PyData` · `PyData` · `2025` · `30 min`
 

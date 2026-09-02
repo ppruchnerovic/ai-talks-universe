@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Arik Abel"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2024-11-20T11:08:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Accelerate Copilot adoption with WalkMe | ODFP989
 
-**Speaker not identified**
+**Arik Abel**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `12 min`
 

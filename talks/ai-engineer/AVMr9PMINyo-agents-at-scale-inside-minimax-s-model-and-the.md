@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Dan Fu", "Olive Song"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-07-31T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It — Dan Fu and Olive Song
 
-**Speaker not identified**
+**Dan Fu, Olive Song**
 
 `AI Engineer` · `AI Engineer` · `2026` · `20 min`
 

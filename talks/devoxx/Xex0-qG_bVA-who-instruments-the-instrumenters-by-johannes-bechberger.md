@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Johannes Bechberger"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2025-04-07T13:45:23Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Who Instruments the Instrumenters? by Johannes Bechberger
 
-**Speaker not identified**
+**Johannes Bechberger**
 
 `Devoxx` · `Devoxx` · `2025` · `49 min`
 

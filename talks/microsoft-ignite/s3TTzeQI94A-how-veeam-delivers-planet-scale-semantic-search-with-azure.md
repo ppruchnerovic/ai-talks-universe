@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["James Codella", "Johan Huttenga", "James Nguyen", "Zachary Rossman"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-21T17:12:47Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Veeam delivers planet-scale semantic search with Azure Cosmos DB | BRK131
 
-**Speaker not identified**
+**James Codella, Johan Huttenga, James Nguyen, Zachary Rossman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Aysen Ilkbahar"]
 channel: "Microsoft Developer"
 duration_min: 38
 published_at: 2026-06-03T15:13:26Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKSP94
 
-**Speaker not identified**
+**Aysen Ilkbahar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `38 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Anush Elangovan"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-09T05:09:26Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build AI across client and cloud with AMD ROCm and Microsoft | BRKSP93
 
-**Speaker not identified**
+**Anush Elangovan**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

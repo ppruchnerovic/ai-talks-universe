@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Rumman Chowdhury", "Artificial Intelligence", "Humane Intelligence"]
+speakers: ["Rumman Chowdhury"]
 channel: "RSAC Cybersecurity"
 duration_min: 23
 published_at: 2024-06-10T21:13:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Homeland Security in the Age of Artificial Intelligence
 
-**Rumman Chowdhury, Artificial Intelligence, Humane Intelligence**
+**Rumman Chowdhury**
 
 `RSAC Conference` · `RSAC` · `2024` · `23 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Scott Kendrick"]
 channel: "Microsoft Events"
 duration_min: 8
 published_at: 2024-11-20T11:35:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bring better intelligence to generate better experiences | ODFP997
 
-**Speaker not identified**
+**Scott Kendrick**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `8 min`
 

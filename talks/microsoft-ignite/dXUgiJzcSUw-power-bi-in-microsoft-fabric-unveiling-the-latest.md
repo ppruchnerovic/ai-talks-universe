@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mohammad Ali", "Kimberly Manis"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-26T08:31:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power BI in Microsoft Fabric: unveiling the latest innovations | BRK202
 
-**Speaker not identified**
+**Mohammad Ali, Kimberly Manis**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

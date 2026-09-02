@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cassidy Fein", "Kurt Stevenson"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-21T06:30:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure & Manage the Most Productive Intelligent OS: Windows 11 | BRK346
 
-**Speaker not identified**
+**Cassidy Fein, Kurt Stevenson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Carlos Brito", "Amit Ghodke", "Aaron Hamilton", "Archana Devi Sunder Rajan"]
 channel: "Microsoft Events"
 duration_min: 36
 published_at: 2024-12-09T22:41:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Enhance IT expertise and efficiency with Copilot in Microsoft Intune | BRK320
 
-**Speaker not identified**
+**Carlos Brito, Amit Ghodke, Aaron Hamilton, Archana Devi Sunder Rajan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `36 min`
 

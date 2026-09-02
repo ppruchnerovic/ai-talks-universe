@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ethan Rosenthal"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T14:18:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building a Data Foundation for Multimodal Foundation Models
 
-**Speaker not identified**
+**Ethan Rosenthal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

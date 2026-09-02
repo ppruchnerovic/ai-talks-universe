@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Alexander Wachtel"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T13:35:22Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Responsible AI in Action: From Principles to Real‑World Engineering | DEM369
 
-**Speaker not identified**
+**Alexander Wachtel**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

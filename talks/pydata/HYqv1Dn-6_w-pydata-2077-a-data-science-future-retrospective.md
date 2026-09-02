@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Laura Summers", "Andy Kitchen"]
+speakers: ["Laura Summers"]
 channel: "PyData"
 duration_min: 38
 published_at: 2025-11-23T14:33:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # PyData 2077: a data science future retrospective
 
-**Laura Summers, Andy Kitchen**
+**Laura Summers**
 
 `PyData` · `PyData` · `2025` · `38 min`
 

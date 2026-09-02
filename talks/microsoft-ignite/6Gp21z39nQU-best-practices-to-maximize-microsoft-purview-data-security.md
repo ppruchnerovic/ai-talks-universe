@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nick Caromano", "Vivian Ma", "Antonio Maio", "Aashish Ramdas", "Scott Whittington"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T15:19:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Best practices to maximize Microsoft Purview data security solutions | BRK255
 
-**Speaker not identified**
+**Nick Caromano, Vivian Ma, Antonio Maio, Aashish Ramdas, Scott Whittington**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

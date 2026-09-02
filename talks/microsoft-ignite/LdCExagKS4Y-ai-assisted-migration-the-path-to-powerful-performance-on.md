@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Guy Bowerman", "Jonathon Frost", "Luigi Nardi", "Ashokkan Somuveerappan"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T16:23:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI-assisted migration: The path to powerful performance on PostgreSQL | BRK123
 
-**Speaker not identified**
+**Guy Bowerman, Jonathon Frost, Luigi Nardi, Ashokkan Somuveerappan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

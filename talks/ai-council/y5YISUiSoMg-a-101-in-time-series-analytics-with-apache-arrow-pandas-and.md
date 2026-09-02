@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Zoe Steinkamp"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2024-04-19T05:00:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A 101 in Time Series Analytics with Apache Arrow, Pandas and Parquet
 
-**Speaker not identified**
+**Zoe Steinkamp**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `32 min`
 

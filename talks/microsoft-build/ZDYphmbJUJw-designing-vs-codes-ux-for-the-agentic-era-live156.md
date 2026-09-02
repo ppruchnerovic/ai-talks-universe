@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Joanna Oikawa", "Burke Holland"]
 channel: "Visual Studio Code"
 duration_min: 13
 published_at: 2026-06-05T13:30:31Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Designing VS Code’s UX for the Agentic Era | LIVE156
 
-**Speaker not identified**
+**Joanna Oikawa, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `13 min`
 

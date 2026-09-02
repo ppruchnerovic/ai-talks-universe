@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Patrick Baumgartner"]
 channel: "Devoxx"
 duration_min: 96
 published_at: 2026-04-09T21:31:07Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Spring Boot in the Cloud: Advanced Optimization Deep Dive by Patrick Baumgartner
 
-**Speaker not identified**
+**Patrick Baumgartner**
 
 `Devoxx` · `Devoxx` · `2026` · `96 min`
 

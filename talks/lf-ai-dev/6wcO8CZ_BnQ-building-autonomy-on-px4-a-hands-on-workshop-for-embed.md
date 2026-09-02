@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
-speakers: []
+speakers: ["Ramon Roche", "Nuno Marques"]
 channel: "The Linux Foundation"
 duration_min: 72
 published_at: 2026-06-03T18:14:15Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Autonomy on PX4: A Hands-On Workshop for Embed... (Continued) - Ramon Roche & Nuno Marques
 
-**Speaker not identified**
+**Ramon Roche, Nuno Marques**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit + ELC NA 2026` · `2026` · `72 min`
 

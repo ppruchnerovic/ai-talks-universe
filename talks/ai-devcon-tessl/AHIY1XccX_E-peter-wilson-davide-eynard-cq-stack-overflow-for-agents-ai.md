@@ -7,7 +7,7 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Peter Wilson", "Davide Eynard"]
 channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-16T07:10:25Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Peter Wilson & Davide Eynard - cq - Stack Overflow for Agents - AI Native DevCon June 2026
 
-**Speaker not identified**
+**Peter Wilson, Davide Eynard**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `32 min`
 

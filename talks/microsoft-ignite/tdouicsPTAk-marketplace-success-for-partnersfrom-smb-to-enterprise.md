@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jason Graefe"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T13:01:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Marketplace success for partners—from SMB to enterprise | PBRK424
 
-**Speaker not identified**
+**Jason Graefe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

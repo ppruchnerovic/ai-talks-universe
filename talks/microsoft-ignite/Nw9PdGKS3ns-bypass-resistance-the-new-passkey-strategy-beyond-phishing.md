@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kenn Chong", "Ali Adib"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T14:34:38Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bypass resistance: the new passkey strategy beyond phishing resistance | ODSP1441
 
-**Speaker not identified**
+**Kenn Chong, Ali Adib**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

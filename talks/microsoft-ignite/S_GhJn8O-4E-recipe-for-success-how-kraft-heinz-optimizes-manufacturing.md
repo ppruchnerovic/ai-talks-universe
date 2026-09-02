@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oliver Ganschar", "Alkesh Ladva", "Patrick Nestor"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-25T12:16:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Recipe for success: How Kraft Heinz optimizes manufacturing with AI | BRK138
 
-**Speaker not identified**
+**Oliver Ganschar, Alkesh Ladva, Patrick Nestor**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

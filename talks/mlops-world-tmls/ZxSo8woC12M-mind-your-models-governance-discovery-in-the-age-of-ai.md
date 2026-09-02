@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Bill Manning", "Senior Solution Architect"]
+speakers: ["Bill Manning"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 31
 published_at: 2025-10-20T23:35:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Mind Your Models: Governance & Discovery in the Age of AI Sprawl | Bill Manning, JFrog
 
-**Bill Manning, Senior Solution Architect**
+**Bill Manning**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `31 min`
 

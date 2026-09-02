@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Mustafa Ali", "Kyle Corbitt"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-04-12T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Finetuning: 500m AI agents in production with 2 engineers — Mustafa Ali & Kyle Corbitt
 
-**Speaker not identified**
+**Mustafa Ali, Kyle Corbitt**
 
 `AI Engineer` · `AI Engineer` · `2025` · `19 min`
 

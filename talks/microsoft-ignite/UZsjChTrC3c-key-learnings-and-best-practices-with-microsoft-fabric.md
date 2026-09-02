@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Varun Chawla"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T11:53:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Key learnings and best practices with Microsoft Fabric migrations | ODSP1421
 
-**Speaker not identified**
+**Varun Chawla**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

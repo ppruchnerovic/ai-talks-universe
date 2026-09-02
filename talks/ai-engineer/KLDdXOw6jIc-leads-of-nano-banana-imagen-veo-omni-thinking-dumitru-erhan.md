@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Leads of Nano Banana", "Dumitru Erhan"]
+speakers: ["Dumitru Erhan"]
 channel: "AI Engineer"
 duration_min: 57
 published_at: 2026-08-30T14:00:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Leads of Nano Banana, Imagen, Veo, Omni/Thinking — Dumitru Erhan, Shane Gu, Nicole Brichtova, swyx
 
-**Leads of Nano Banana, Dumitru Erhan**
+**Dumitru Erhan**
 
 `AI Engineer` · `AI Engineer` · `2026` · `57 min`
 

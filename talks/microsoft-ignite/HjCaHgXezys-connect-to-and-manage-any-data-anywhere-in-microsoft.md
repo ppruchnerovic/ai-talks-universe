@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dipti Borkar", "Joshua Caplan", "Paul Purvis", "Adi Regev", "Clay Yeaman"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T08:30:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Connect to and manage any data anywhere in Microsoft OneLake | BRK221
 
-**Speaker not identified**
+**Dipti Borkar, Joshua Caplan, Paul Purvis, Adi Regev, Clay Yeaman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

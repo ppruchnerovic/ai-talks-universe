@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Carlos Sanch"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2025-10-10T05:09:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Self Healing Rollouts: Automating Production Fixes with Agentic AI & Argo Rollouts by Carlos Sanch
 
-**Speaker not identified**
+**Carlos Sanch**
 
 `Devoxx` · `Devoxx` · `2025` · `46 min`
 

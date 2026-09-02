@@ -7,7 +7,7 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["Jonathan Vogel", "Onur Dogruoz"]
 channel: "AI Native Dev"
 duration_min: 22
 published_at: 2025-11-27T15:53:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Jonathan Vogel & Onur Dogruoz - Context Aware Development in Kiro | DevCon Fall 2025
 
-**Speaker not identified**
+**Jonathan Vogel, Onur Dogruoz**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `22 min`
 

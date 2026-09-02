@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jeremy Chapman", "Caroline Stanford"]
 channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-24T12:24:57Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Inside Microsoft Agent 365 | STUDIO36
 
-**Speaker not identified**
+**Jeremy Chapman, Caroline Stanford**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `14 min`
 

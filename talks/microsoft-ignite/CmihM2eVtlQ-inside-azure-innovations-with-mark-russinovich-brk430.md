@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mark Russinovich"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:07:33Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Inside Azure Innovations with Mark Russinovich | BRK430
 
-**Speaker not identified**
+**Mark Russinovich**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

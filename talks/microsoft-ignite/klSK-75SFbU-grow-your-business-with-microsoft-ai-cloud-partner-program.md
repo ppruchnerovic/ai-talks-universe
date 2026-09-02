@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sam King", "Regina Manfredi", "Julie Sanford", "Steve Thomas"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-20T11:36:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Grow your business with Microsoft AI Cloud Partner Program | PBRK415
 
-**Speaker not identified**
+**Sam King, Regina Manfredi, Julie Sanford, Steve Thomas**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

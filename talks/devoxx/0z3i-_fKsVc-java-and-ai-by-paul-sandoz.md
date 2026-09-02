@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Paul Sandoz"]
 channel: "Devoxx"
 duration_min: 18
 published_at: 2025-10-09T05:36:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Java and AI by Paul Sandoz
 
-**Speaker not identified**
+**Paul Sandoz**
 
 `Devoxx` · `Devoxx` · `2025` · `18 min`
 

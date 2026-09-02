@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lindsey Allen", "Robert Saxby"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:55:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What’s new in Azure Databricks | BRK208
 
-**Speaker not identified**
+**Lindsey Allen, Robert Saxby**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

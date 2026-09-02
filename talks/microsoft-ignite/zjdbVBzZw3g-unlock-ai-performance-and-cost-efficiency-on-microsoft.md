@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mayunk Jain", "Stefanie Lemon"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-24T11:03:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock AI performance and cost efficiency on Microsoft Azure | BRKSP482
 
-**Speaker not identified**
+**Mayunk Jain, Stefanie Lemon**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

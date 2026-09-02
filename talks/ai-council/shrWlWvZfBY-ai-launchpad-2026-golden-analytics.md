@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2026
-speakers: ["Golden Analytics"]
+speakers: []
 channel: "AI Council"
 duration_min: 11
 published_at: 2026-06-23T22:57:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # AI Launchpad 2026: Golden Analytics
 
-**Golden Analytics**
+**Speaker not identified**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `11 min`
 

@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Rod Johnson"]
 channel: "GOTO Conferences"
 duration_min: 44
 published_at: 2026-02-20T13:44:39Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Spring Then & Now: What’s Next? • Rod Johnson, Arjen Poutsma & Trisha Gee
 
-**Speaker not identified**
+**Rod Johnson**
 
 `GOTO Conferences` · `GOTO` · `2026` · `44 min`
 

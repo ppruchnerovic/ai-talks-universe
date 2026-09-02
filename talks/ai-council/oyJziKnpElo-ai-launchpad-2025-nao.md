@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Claire Gouze"]
 channel: "AI Council"
 duration_min: 14
 published_at: 2025-05-29T13:35:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: NAO
 
-**Speaker not identified**
+**Claire Gouze**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `14 min`
 

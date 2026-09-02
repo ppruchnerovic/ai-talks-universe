@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Kirupa Chinnathambi", "Stuart Schaefer", "Patrick Nikoletich"]
 channel: "Microsoft Developer"
 duration_min: 29
 published_at: 2026-06-03T08:01:04Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Agents You Can Trust on Windows | BRK262
 
-**Speaker not identified**
+**Kirupa Chinnathambi, Stuart Schaefer, Patrick Nikoletich**
 
 `Microsoft Build` · `Build 2026` · `2026` · `29 min`
 

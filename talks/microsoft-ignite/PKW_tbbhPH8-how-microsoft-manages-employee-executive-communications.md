@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Cirone", "Jason Mayans"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-19T13:57:46Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Microsoft manages employee & executive communications with AI | BRK297
 
-**Speaker not identified**
+**John Cirone, Jason Mayans**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

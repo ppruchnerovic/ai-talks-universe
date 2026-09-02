@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brouhon Cédric", "Tim Stabler", "Ravi Chandu Ummadisetti"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T10:32:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Intelligent enterprise: Zurich and Toyota share their playbook | BRKSP476
 
-**Speaker not identified**
+**Brouhon Cédric, Tim Stabler, Ravi Chandu Ummadisetti**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

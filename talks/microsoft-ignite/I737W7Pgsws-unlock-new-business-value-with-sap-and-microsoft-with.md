@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Christoph Ruehle", "Walter Sun"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:10:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock new business value with SAP and Microsoft with connected AI | BRKSP469
 
-**Speaker not identified**
+**Christoph Ruehle, Walter Sun**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

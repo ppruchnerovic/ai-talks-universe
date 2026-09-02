@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jesus Barrera Ramos", "Alyson Ginesta", "Martina Grom", "Cynthia Johnson"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T13:10:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to drive user engagement & business value with Microsoft 365 Copilot | BRK277
 
-**Speaker not identified**
+**Jesus Barrera Ramos, Alyson Ginesta, Martina Grom, Cynthia Johnson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

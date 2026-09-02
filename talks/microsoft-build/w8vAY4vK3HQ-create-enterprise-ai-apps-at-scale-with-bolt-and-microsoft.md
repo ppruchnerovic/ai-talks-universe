@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["William Sayer", "Joe Keyes"]
 channel: "Microsoft Developer"
 duration_min: 15
 published_at: 2026-06-03T14:28:28Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Create enterprise AI apps at scale with Bolt and Microsoft | ODSP940
 
-**Speaker not identified**
+**William Sayer, Joe Keyes**
 
 `Microsoft Build` · `Build 2026` · `2026` · `15 min`
 

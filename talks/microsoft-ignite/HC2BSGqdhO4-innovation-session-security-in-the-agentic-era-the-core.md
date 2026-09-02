@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Charlie Bell", "Vasu Jakkal"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2025-11-21T12:19:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Security in the Agentic Era – the Core Primitive | BRK1712
 
-**Speaker not identified**
+**Charlie Bell, Vasu Jakkal**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `48 min`
 

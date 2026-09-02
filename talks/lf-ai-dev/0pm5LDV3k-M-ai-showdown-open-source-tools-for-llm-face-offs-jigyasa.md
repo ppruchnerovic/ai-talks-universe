@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Jigyasa Grover", "Rishabh Misra"]
 channel: "The Linux Foundation"
 duration_min: 26
 published_at: 2025-09-09T18:27:20Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI Showdown: Open Source Tools for LLM Face-Offs - Jigyasa Grover & Rishabh Misra
 
-**Speaker not identified**
+**Jigyasa Grover, Rishabh Misra**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `26 min`
 

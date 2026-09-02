@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Nick Ung"]
 channel: "AI Engineer"
 duration_min: 38
 published_at: 2026-07-19T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build Evals That Actually Matter - Nick Ung & Akshay Sharma, Lyft
 
-**Speaker not identified**
+**Nick Ung**
 
 `AI Engineer` · `AI Engineer` · `2026` · `38 min`
 

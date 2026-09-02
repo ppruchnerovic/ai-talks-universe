@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Amanda Wang", "Paul Yu"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-20T15:40:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From zero to Kubernetes with AKS Automatic | BRK121
 
-**Speaker not identified**
+**Amanda Wang, Paul Yu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

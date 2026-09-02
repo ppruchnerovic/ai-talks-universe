@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Alexander Chatzizacharias"]
 channel: "Devoxx"
 duration_min: 52
 published_at: 2025-10-09T05:35:16Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How to build your own fun and absurd pair programmer by Alexander Chatzizacharias
 
-**Speaker not identified**
+**Alexander Chatzizacharias**
 
 `Devoxx` · `Devoxx` · `2025` · `52 min`
 

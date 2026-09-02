@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["N. Godec"]
 channel: "Devoxx"
 duration_min: 37
 published_at: 2026-04-01T08:04:53Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Secure By Design: Architecting cloud and AI workloads from the perspective of infosec by N. Godec
 
-**Speaker not identified**
+**N. Godec**
 
 `Devoxx` · `Devoxx` · `2026` · `37 min`
 

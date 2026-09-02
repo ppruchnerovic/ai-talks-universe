@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
-speakers: ["Mikyo King", "Head of Open Source", "Founding Engineer"]
+speakers: ["Mikyo King"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 43
 published_at: 2024-05-16T12:56:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Introducing Arize-Phoenix and OpenInference
 
-**Mikyo King, Head of Open Source, Founding Engineer**
+**Mikyo King**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2024` · `43 min`
 

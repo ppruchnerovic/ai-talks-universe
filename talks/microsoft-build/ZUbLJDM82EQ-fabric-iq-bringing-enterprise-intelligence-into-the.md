@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Yitzhak Kesselman", "Tessa Kloster"]
 channel: "Microsoft Developer"
 duration_min: 52
 published_at: 2026-06-03T13:32:24Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Fabric IQ: Bringing enterprise intelligence into the developer workflow | OD812
 
-**Speaker not identified**
+**Yitzhak Kesselman, Tessa Kloster**
 
 `Microsoft Build` · `Build 2026` · `2026` · `52 min`
 

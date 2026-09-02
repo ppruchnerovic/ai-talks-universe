@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Callum Anderson", "Marlene Mhangami", "Trupti Parkar", "Dan Taylor"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-25T12:20:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI Foundry and the dev toolchain to infuse AI in all your apps | BRK119
 
-**Speaker not identified**
+**Callum Anderson, Marlene Mhangami, Trupti Parkar, Dan Taylor**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

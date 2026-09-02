@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dennis Eikenboom", "Meera Kurup"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T12:24:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build secure GenAI apps with Azure AI Foundry | BRK122
 
-**Speaker not identified**
+**Dennis Eikenboom, Meera Kurup**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

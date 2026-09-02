@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Charles Feddersen", "Mohsin Shafqat"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-24T14:23:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Nasdaq: Secure Innovation with PostgreSQL on Azure | STUDIO34
 
-**Speaker not identified**
+**Charles Feddersen, Mohsin Shafqat**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

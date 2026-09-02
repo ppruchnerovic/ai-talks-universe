@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2026
-speakers: ["Lynn Doan", "Managing Editor", "Bloomberg News"]
+speakers: ["Lynn Doan"]
 channel: "RSAC Cybersecurity"
 duration_min: 50
 published_at: 2026-03-24T18:57:14Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Cybersecurity, Trust and Resilience: A European Perspective
 
-**Lynn Doan, Managing Editor, Bloomberg News**
+**Lynn Doan**
 
 `RSAC Conference` · `RSAC` · `2026` · `50 min`
 

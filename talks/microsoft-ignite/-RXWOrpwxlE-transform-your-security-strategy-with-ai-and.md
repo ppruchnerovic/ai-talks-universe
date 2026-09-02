@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Victor Neimeyer"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2024-11-21T10:47:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Transform your security strategy with AI and platformization | ODFP980
 
-**Speaker not identified**
+**Victor Neimeyer**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `15 min`
 

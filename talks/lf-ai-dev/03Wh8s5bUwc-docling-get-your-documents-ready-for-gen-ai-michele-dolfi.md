@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Michele Dolfi", "Peter Staar"]
 channel: "The Linux Foundation"
 duration_min: 31
 published_at: 2025-09-09T18:28:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Docling: Get Your Documents Ready for Gen AI - Michele Dolfi & Peter Staar, IBM Research
 
-**Speaker not identified**
+**Michele Dolfi, Peter Staar**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `31 min`
 

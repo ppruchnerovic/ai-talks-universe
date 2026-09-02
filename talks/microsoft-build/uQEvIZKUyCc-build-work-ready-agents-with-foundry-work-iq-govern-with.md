@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Srikumar Nair"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T12:56:30Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build work-ready agents with Foundry + Work IQ, govern with Agent 365 | DEM340
 
-**Speaker not identified**
+**Srikumar Nair**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Uma Ramadoss", "Veda Raman"]
 channel: null
 duration_min: 43
 published_at: null
@@ -20,7 +20,7 @@ transcript: false
 
 # Harnessing EDA & Workflows to Build Real World GenAI Apps • Uma Ramadoss & Veda Raman • GOTO 2024
 
-**Speaker not identified**
+**Uma Ramadoss, Veda Raman**
 
 `GOTO Conferences` · `GOTO` · `2024` · `43 min`
 

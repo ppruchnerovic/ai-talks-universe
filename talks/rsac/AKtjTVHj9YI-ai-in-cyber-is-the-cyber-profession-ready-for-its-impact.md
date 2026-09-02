@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Clar Rosso", "Chief Executive Officer"]
+speakers: ["Clar Rosso"]
 channel: "RSAC Cybersecurity"
 duration_min: 46
 published_at: 2024-06-10T21:13:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI in Cyber: Is the Cyber Profession Ready for Its Impact?
 
-**Clar Rosso, Chief Executive Officer**
+**Clar Rosso**
 
 `RSAC Conference` · `RSAC` · `2024` · `46 min`
 

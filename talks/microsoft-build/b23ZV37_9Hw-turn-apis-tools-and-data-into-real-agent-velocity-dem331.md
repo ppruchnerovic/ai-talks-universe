@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chu Lahlou"]
 channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-05T14:08:36Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Turn APIs, tools, and data into real agent velocity | DEM331
 
-**Speaker not identified**
+**Chu Lahlou**
 
 `Microsoft Build` · `Build 2026` · `2026` · `22 min`
 

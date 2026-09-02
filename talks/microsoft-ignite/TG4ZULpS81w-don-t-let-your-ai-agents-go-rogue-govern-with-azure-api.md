@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mike Budzynski", "Anish Tallapureddy"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T08:08:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Don't let your AI agents go rogue, govern with Azure API Management | BRK119
 
-**Speaker not identified**
+**Mike Budzynski, Anish Tallapureddy**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

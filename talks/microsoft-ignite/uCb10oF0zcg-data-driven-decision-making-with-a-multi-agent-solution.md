@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Henk Boelman", "Douwe van de Ruit", "Sjoukje Zaal"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2024-11-26T07:12:44Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Data-driven decision-making with a multi-agent solution | BRK128
 
-**Speaker not identified**
+**Henk Boelman, Douwe van de Ruit, Sjoukje Zaal**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `37 min`
 

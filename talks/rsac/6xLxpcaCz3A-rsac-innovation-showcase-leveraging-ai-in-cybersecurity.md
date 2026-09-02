@@ -7,7 +7,7 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2025
-speakers: ["Sid Trivedi", "Foundation Capital"]
+speakers: ["Sid Trivedi"]
 channel: "RSAC Cybersecurity"
 duration_min: 43
 published_at: 2025-02-26T22:57:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # RSAC Innovation Showcase: Leveraging AI in Cybersecurity Workflows
 
-**Sid Trivedi, Foundation Capital**
+**Sid Trivedi**
 
 `RSAC Conference` · `RSAC` · `2025` · `43 min`
 

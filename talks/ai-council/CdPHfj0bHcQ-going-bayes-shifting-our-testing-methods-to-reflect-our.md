@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Joseph Powers"]
 channel: "AI Council"
 duration_min: 33
 published_at: 2025-06-19T15:14:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Going Bayes: Shifting our Testing Methods to Reflect our Priorities
 
-**Speaker not identified**
+**Joseph Powers**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `33 min`
 

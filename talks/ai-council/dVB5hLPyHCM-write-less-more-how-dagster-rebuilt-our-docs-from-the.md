@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Pedram Navid"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2025-05-29T00:45:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Write Less More: How Dagster Rebuilt Our Docs From the Ground Up
 
-**Speaker not identified**
+**Pedram Navid**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `12 min`
 

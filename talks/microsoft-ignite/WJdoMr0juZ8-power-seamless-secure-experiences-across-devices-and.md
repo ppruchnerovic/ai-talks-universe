@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dave Mooney"]
 channel: "Microsoft Events"
 duration_min: 5
 published_at: 2025-11-21T12:50:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power seamless, secure experiences across devices and services | STUDIOSP81
 
-**Speaker not identified**
+**Dave Mooney**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `5 min`
 

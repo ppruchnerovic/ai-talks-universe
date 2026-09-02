@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Vignesh Sridhar"]
 channel: "Microsoft Developer"
 duration_min: 15
 published_at: 2026-06-03T10:43:42Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Move AI workflows from test to production on Microsoft Foundry | DEMSP383
 
-**Speaker not identified**
+**Vignesh Sridhar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `15 min`
 

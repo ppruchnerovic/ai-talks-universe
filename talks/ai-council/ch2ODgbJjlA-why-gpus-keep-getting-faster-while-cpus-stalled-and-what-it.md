@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Charles Frye"]
 channel: "AI Council"
 duration_min: 38
 published_at: 2025-05-29T07:33:30Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Why GPUs Keep Getting Faster While CPUs Stalled - And What It Means for Your Code
 
-**Speaker not identified**
+**Charles Frye**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `38 min`
 

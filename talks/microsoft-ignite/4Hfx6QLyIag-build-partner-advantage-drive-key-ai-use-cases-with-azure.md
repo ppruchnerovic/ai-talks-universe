@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ashley Asdourian", "Tim Denley", "Don Scott"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T13:23:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Partner Advantage: Drive Key AI Use-Cases with Azure Tech Stack | PBRK208
 
-**Speaker not identified**
+**Ashley Asdourian, Tim Denley, Don Scott**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

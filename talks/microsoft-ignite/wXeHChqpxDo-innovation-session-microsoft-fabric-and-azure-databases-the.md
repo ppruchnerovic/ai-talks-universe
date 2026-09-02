@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Arun Ulag", "Michel Porter"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T12:58:10Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovation Session: Microsoft Fabric and Azure Databases - the data estate for AI | BRK1702
 
-**Speaker not identified**
+**Arun Ulag, Michel Porter**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

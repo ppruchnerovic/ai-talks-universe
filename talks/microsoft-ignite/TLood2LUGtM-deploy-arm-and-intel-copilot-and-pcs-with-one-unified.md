@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Daniel Wyness"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-19T08:22:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Deploy ARM and Intel Copilot and PCs with one unified approach | ODSP1513
 
-**Speaker not identified**
+**Daniel Wyness**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

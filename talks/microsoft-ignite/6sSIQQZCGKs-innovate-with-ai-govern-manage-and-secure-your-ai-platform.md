@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Praveen Gururaja", "Rajani Janaki Ram", "Stephen Sumner"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2024-11-27T09:05:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovate with AI: govern manage and secure your AI platform | BRK131
 
-**Speaker not identified**
+**Praveen Gururaja, Rajani Janaki Ram, Stephen Sumner**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `50 min`
 

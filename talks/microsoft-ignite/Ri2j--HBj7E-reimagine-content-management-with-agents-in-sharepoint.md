@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aarthi Natarajan", "Jeff Teper", "Adam Harmetz"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2024-11-25T13:11:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Reimagine content management with agents in SharePoint | BRK279
 
-**Speaker not identified**
+**Aarthi Natarajan, Jeff Teper, Adam Harmetz**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `50 min`
 

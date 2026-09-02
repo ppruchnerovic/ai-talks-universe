@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Matt Hidinger", "Anthony Uitz"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-27T09:04:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock Productivity with AI in Power Apps | BRK173
 
-**Speaker not identified**
+**Matt Hidinger, Anthony Uitz**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

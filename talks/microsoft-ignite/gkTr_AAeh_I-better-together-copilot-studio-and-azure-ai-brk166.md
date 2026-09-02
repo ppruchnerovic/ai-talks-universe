@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mads Bolaris", "Sandra Notardonato", "Pawan Taparia", "Bobby Van Groningen"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T12:41:55Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Better together: Copilot Studio and Azure AI | BRK166
 
-**Speaker not identified**
+**Mads Bolaris, Sandra Notardonato, Pawan Taparia, Bobby Van Groningen**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

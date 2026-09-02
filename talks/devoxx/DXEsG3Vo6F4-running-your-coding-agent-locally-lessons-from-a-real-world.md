@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["S. Maestri", "A. Soldano"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2026-04-01T08:05:20Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Running Your Coding Agent Locally: Lessons from a Real-World Experiment by S. Maestri and A. Soldano
 
-**Speaker not identified**
+**S. Maestri, A. Soldano**
 
 `Devoxx` · `Devoxx` · `2026` · `45 min`
 

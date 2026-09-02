@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Antonella Candido", "Steve Ebrahimi", "Vishal Sarkar", "Tricia Sinclair"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T13:40:06Z
@@ -20,7 +20,7 @@ transcript: false
 
 # A future where AI and humans work together with AI Copilot and agents | ODFP940
 
-**Speaker not identified**
+**Antonella Candido, Steve Ebrahimi, Vishal Sarkar, Tricia Sinclair**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `18 min`
 

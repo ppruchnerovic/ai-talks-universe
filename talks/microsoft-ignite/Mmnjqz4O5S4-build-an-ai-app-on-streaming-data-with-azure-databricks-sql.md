@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Anjali Jaisinghani", "Saurabh Shukla"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2024-11-21T10:43:36Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build an AI app on streaming data with Azure Databricks SQL and Genie | ODFP935
 
-**Speaker not identified**
+**Anjali Jaisinghani, Saurabh Shukla**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `15 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: ["Drive Growth"]
+speakers: ["Chris Burchett", "Armando Duran", "Yury Gomez"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T07:14:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive Growth, Profitability and Resilience with Agentic Supply Chains | BRK375
 
-**Drive Growth**
+**Chris Burchett, Armando Duran, Yury Gomez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

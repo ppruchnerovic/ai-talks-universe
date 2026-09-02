@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Andrew Soltan", "Naveen Valluri"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T16:37:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Code to Care: Empowering Healthcare with Agentic AI | BRK373
 
-**Speaker not identified**
+**Andrew Soltan, Naveen Valluri**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Divya Swarnkar", "Kent Weare"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-26T07:21:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Modernize enterprise integration with Azure Integration Services | BRK150
 
-**Speaker not identified**
+**Divya Swarnkar, Kent Weare**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

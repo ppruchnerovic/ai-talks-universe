@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mo Cherif", "Jane Koh"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-24T13:14:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # M365 Copilot Agents: Powering Retail & Consumer Goods Partner Success | PBRK394
 
-**Speaker not identified**
+**Mo Cherif, Jane Koh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

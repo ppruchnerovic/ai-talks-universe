@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Thor Schaeff", "Philipp Schmid"]
 channel: "AI Engineer"
 duration_min: 108
 published_at: 2026-04-30T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Conversational Agents — Thor Schaeff and Philipp Schmid, Google DeepMind
 
-**Speaker not identified**
+**Thor Schaeff, Philipp Schmid**
 
 `AI Engineer` · `AI Engineer` · `2026` · `108 min`
 

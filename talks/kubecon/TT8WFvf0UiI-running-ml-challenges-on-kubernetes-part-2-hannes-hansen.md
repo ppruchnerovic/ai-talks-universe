@@ -7,7 +7,7 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
-speakers: []
+speakers: ["Hannes Hansen", "Paulo Guilherme Pinheiro Pereira"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 19
 published_at: 2026-04-13T23:36:03Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Running ML Challenges on Kubernetes (Part 2) - Hannes Hansen & Paulo Guilherme Pinheiro Pereira
 
-**Speaker not identified**
+**Hannes Hansen, Paulo Guilherme Pinheiro Pereira**
 
 `KubeCon + CloudNativeCon` · `Cloud Native AI + Kubeflow Day 2026` · `2026` · `19 min`
 

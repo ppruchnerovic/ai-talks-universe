@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Johan Mabille", "Anutosh Bhat"]
 channel: "PyData"
 duration_min: 30
 published_at: 2025-12-16T15:17:31Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Johan Mabille & Anutosh Bhat - xeus-cpp, the new C++ kernel for Jupyter.
 
-**Speaker not identified**
+**Johan Mabille, Anutosh Bhat**
 
 `PyData` · `PyData` · `2025` · `30 min`
 

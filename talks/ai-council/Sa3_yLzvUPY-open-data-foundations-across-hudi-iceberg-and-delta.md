@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Kyle Weller"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2024-04-19T05:00:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Open Data Foundations across Hudi, Iceberg and Delta
 
-**Speaker not identified**
+**Kyle Weller**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `34 min`
 

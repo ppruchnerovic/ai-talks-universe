@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Michael Heath", "Dominick Raimato"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T14:17:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Artificial intelligence and the Microsoft ecoverse | ODFP975
 
-**Speaker not identified**
+**Michael Heath, Dominick Raimato**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `21 min`
 

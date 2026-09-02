@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shreyas Canchi Radhakrishna", "Amir Jafari"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T14:09:32Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Fabric Data Agents Are Powering the Next Wave of AI | BRK1739
 
-**Speaker not identified**
+**Shreyas Canchi Radhakrishna, Amir Jafari**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

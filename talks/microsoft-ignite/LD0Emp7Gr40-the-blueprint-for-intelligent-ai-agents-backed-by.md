@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sharon Chen", "Maxim Lukiyanov", "Abe Omorogbe"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-20T16:01:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The blueprint for intelligent AI agents backed by PostgreSQL | BRK130
 
-**Speaker not identified**
+**Sharon Chen, Maxim Lukiyanov, Abe Omorogbe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Abhijat Kanade", "Bindu Pillai"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2024-11-27T12:26:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Grow your small business with new tools from Microsoft Teams | BRK292
 
-**Speaker not identified**
+**Abhijat Kanade, Bindu Pillai**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `34 min`
 

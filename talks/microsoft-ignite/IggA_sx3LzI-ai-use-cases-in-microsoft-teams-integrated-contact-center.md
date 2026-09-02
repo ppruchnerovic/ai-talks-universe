@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Preston Martin"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T13:33:03Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI use cases in Microsoft Teams Integrated Contact Center | ODSP1465
 
-**Speaker not identified**
+**Preston Martin**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

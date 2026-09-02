@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Elisa Graceffo"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-24T14:17:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Expertise in action: Microsoft Credentials for the AI frontier | STUDIO51
 
-**Speaker not identified**
+**Elisa Graceffo**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alexander Gahrmann"]
 channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T15:21:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Holistic FinOps for Microsoft Cloud environments | ODSP1404
 
-**Speaker not identified**
+**Alexander Gahrmann**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `8 min`
 

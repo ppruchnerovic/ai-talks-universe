@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mark Russinovich", "Ion Stoica"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-11T08:18:20Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Distributed systems to AI platforms with Mark Russinovich & Ion Stoica | BRK227
 
-**Speaker not identified**
+**Mark Russinovich, Ion Stoica**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

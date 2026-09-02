@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Locky Ainley", "Mahesh Balasubramanian"]
 channel: "Microsoft Events"
 duration_min: 29
 published_at: 2024-11-21T10:26:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Efficiently process complex AI workloads with ND MI300X v5 technology | BRKFP367
 
-**Speaker not identified**
+**Locky Ainley, Mahesh Balasubramanian**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `29 min`
 

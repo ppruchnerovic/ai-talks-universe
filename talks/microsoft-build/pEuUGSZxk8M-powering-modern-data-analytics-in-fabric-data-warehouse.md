@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rakesh Krishnan"]
 channel: "Microsoft Developer"
 duration_min: 30
 published_at: 2026-06-03T13:15:44Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Powering modern data analytics in Fabric Data Warehouse | OD813
 
-**Speaker not identified**
+**Rakesh Krishnan**
 
 `Microsoft Build` · `Build 2026` · `2026` · `30 min`
 

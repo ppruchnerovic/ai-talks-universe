@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Tony Guidi", "Omar Khan", "Pankaj Srivastava"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-21T15:23:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How AI is transforming the migration economic opportunity for partners | BRK247
 
-**Speaker not identified**
+**Tony Guidi, Omar Khan, Pankaj Srivastava**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

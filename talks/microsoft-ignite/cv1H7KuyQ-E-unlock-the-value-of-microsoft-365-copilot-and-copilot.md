@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nicole Herskowitz", "Jeff Teper", "Ryan Cunningham", "Stephan Kerametlian", "David Martin"]
 channel: "Microsoft Events"
 duration_min: 59
 published_at: 2024-11-25T15:45:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock the Value of Microsoft 365 Copilot and Copilot Studio | GS05
 
-**Speaker not identified**
+**Nicole Herskowitz, Jeff Teper, Ryan Cunningham, Stephan Kerametlian, David Martin**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `59 min`
 

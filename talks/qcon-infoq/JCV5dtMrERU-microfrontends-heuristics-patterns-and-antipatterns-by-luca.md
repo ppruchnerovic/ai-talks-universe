@@ -7,7 +7,7 @@ conference_name: "QCon / InfoQ Dev Summit"
 category: "Software dev with AI tracks"
 edition: "InfoQ"
 year: 2025
-speakers: []
+speakers: ["Luca Mezzalira"]
 channel: "InfoQ"
 duration_min: 45
 published_at: 2025-07-28T11:15:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microfrontends: Heuristics, Patterns and Antipatterns by Luca Mezzalira
 
-**Speaker not identified**
+**Luca Mezzalira**
 
 `QCon / InfoQ Dev Summit` · `InfoQ` · `2025` · `45 min`
 

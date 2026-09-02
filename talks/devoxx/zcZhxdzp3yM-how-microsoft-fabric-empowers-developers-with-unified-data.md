@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Josh Ndemenge"]
 channel: "Devoxx"
 duration_min: 39
 published_at: 2025-11-11T10:38:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # How Microsoft Fabric Empowers Developers with Unified Data, DevOps, and AI by Josh Ndemenge
 
-**Speaker not identified**
+**Josh Ndemenge**
 
 `Devoxx` · `Devoxx` · `2025` · `39 min`
 

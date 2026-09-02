@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["César Soto Valero"]
 channel: "Devoxx"
 duration_min: 33
 published_at: 2026-04-01T08:04:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Promise of Trustworthy AI by César Soto Valero
 
-**Speaker not identified**
+**César Soto Valero**
 
 `Devoxx` · `Devoxx` · `2026` · `33 min`
 

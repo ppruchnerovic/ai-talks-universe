@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Larysa Visengeriyeva", "Barbara Lampl"]
 channel: "GOTO Conferences"
 duration_min: 31
 published_at: 2025-11-06T13:01:14Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The AI Engineer's Guide to Surviving the EU AI Act • Larysa Visengeriyeva & Barbara Lampl • GOTO 25
 
-**Speaker not identified**
+**Larysa Visengeriyeva, Barbara Lampl**
 
 `GOTO Conferences` · `GOTO` · `2025` · `31 min`
 

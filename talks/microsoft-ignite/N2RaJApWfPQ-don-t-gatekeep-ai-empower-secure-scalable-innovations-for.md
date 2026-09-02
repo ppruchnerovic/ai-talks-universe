@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vishal Anil", "Jeremy Carlson"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:22:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Don't gatekeep AI: Empower secure scalable innovations for Frontline | BRK282
 
-**Speaker not identified**
+**Vishal Anil, Jeremy Carlson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

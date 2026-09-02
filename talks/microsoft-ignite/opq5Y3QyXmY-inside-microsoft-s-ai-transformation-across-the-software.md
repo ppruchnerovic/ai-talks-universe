@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Amanda Silver", "Jenny Ferries", "Karl Piteira"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-25T15:37:51Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Inside Microsoft's AI transformation across the software lifecycle | BRK115
 
-**Speaker not identified**
+**Amanda Silver, Jenny Ferries, Karl Piteira**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

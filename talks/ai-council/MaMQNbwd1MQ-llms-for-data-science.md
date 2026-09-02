@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hadley Wickham"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2025-05-29T13:51:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # LLMs for Data Science
 
-**Speaker not identified**
+**Hadley Wickham**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `23 min`
 

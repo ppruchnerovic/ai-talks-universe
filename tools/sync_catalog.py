@@ -49,6 +49,7 @@ import shutil
 import subprocess
 import sys
 import time
+import unicodedata
 
 import atu
 
@@ -410,14 +411,33 @@ applications application systems system models model learning networks network r
 science medicine health healthcare robotics energy climate industry education future ethics
 design city cities transport mobility aviation retail finance banking insurance manufacturing
 platform platforms tools tooling infrastructure production scale scaling practice practices
+chief head officer director manager managers lead leads staff product products operations business
+strategy team teams needs architect architects founder founders ceo cto cio vp president senior
+principal engineer engineers scientist scientists analyst analytics advisor advocate evangelist member
+members professor assistant associate web hours speech
 """.split())
 
 PARTICLES = {"van", "von", "de", "der", "den", "del", "di", "da", "le", "la", "el", "bin",
              "al", "dos", "das", "ter", "ten", "op", "of"}
 
+# The heading a description states its speakers under. The names may follow on
+# the same line ("Speaker: Jane Doe, Acme") or on the lines after it — Ignite
+# and Build write "Speakers:" and then one " * Name" bullet a line, MLOps World
+# writes "Speaker:" and the name on the next line — so the capture may be empty
+# and speakers_from_description() then reads on.
 DESC_SPEAKER_RE = re.compile(
-    r"^\s*(?:speakers?|presenters?|presented by|speaker\(s\)|by)\s*[:\-–]\s*(.{3,160})$",
+    r"^\s*(?:about the )?(?:speakers?|presenters?|presented by|speaker\(s\)|by)[ \t]*[:\-–][ \t]*(.{0,160})$",
     re.I | re.M)
+
+# A leading "[VDBUH2026]" or "[Track A]" is the playlist's tag, not a segment.
+TITLE_TAG_RE = re.compile(r"^\s*\[[^\]]{1,24}\]\s*")
+
+# Two or three people sharing one title segment: "A & B", "A and B", "A + B".
+CO_SPEAKER_RE = re.compile(r"\s*&\s*|\s+and\s+|\s*\+\s*", re.I)
+
+# "… by Jane Doe" or "… by Jane Doe and John Roe" at the end of a title, which
+# is how Devoxx signs 226 of the titles that carry no speaker anywhere else.
+BY_NAME_RE = re.compile(r".*\bby\s+([A-ZÀ-Þ][^|—–\[\]]{2,80}?)\s*$")
 
 
 def name_like(seg: str, blocked: set[str]) -> str | None:
@@ -447,25 +467,85 @@ def name_like(seg: str, blocked: set[str]) -> str | None:
     return seg
 
 
+def names_in(seg: str, blocked: set[str]) -> list[str]:
+    """The people named in one segment: one name, or several joined by &/and/+.
+
+    A joined segment is accepted only when *every* part is a name — splitting
+    without that rule made "Web Scraping" and "Hours of Speech" speakers, out
+    of "Web Scraping and Hours of Speech" style titles. The comma still cuts
+    first, so "A & B, Company" is asked about "A & B" and never about
+    "Company & Co".
+    """
+    head = re.split(r"\s*[(,]\s*", seg.strip(), 1)[0]
+    parts = [x for x in CO_SPEAKER_RE.split(head) if x.strip()]
+    if len(parts) > 1:
+        names = [name_like(x, blocked) for x in parts]
+        return names if all(names) else []
+    n = name_like(seg, blocked)
+    return [n] if n else []
+
+
 def speakers_from_title(title: str, blocked: set[str]) -> list[str]:
+    title = TITLE_TAG_RE.sub("", title or "")
+    out: list[str] = []
+    m = BY_NAME_RE.match(title)
+    if m:
+        for part in re.split(r"\s*,\s*", m.group(1)):
+            names = names_in(part, blocked)
+            if not names:
+                out = []
+                break
+            out += [n for n in names if n not in out]
+        if out:
+            return out
     segs = [s for s in SPLIT_RE.split(title) if s.strip()]
     if len(segs) < 2:
         return []
-    out = []
     for s in segs:
-        n = name_like(s, blocked)
-        if n and n not in out:
-            out.append(n)
+        for n in names_in(s, blocked):
+            if n not in out:
+                out.append(n)
     return out
 
 
 def speakers_from_description(desc: str, blocked: set[str]) -> list[str]:
-    for m in DESC_SPEAKER_RE.finditer(desc or ""):
+    """The names a description states under a Speaker(s) heading.
+
+    NFKC first: Microsoft's channels write the heading in Unicode
+    mathematical-bold letters ("𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀:"), which no ASCII regex sees.
+    When nothing follows the heading on its line, the names are read off the
+    lines below it — bulleted or bare, one person a line — up to the first
+    line that is not a name, which is where the bio or the next section starts.
+    """
+    desc = unicodedata.normalize("NFKC", desc or "")
+    lines = desc.split("\n")
+    for m in DESC_SPEAKER_RE.finditer(desc):
         names = []
-        for part in re.split(r"\s*(?:,|&|\band\b)\s*", m.group(1)):
-            n = name_like(part, blocked)
-            if n and n not in names:
-                names.append(n)
+        inline = m.group(1).strip()
+        if inline:
+            for part in re.split(r"\s*(?:,|&|\band\b)\s*", inline):
+                n = name_like(part, blocked)
+                if n and n not in names:
+                    names.append(n)
+        else:
+            # Bulleted lines are a list of people and are all read; a bare
+            # line is one person, and what follows it is their job title and
+            # employer ("Head of Product", "Acme"), which is not a second name.
+            at = desc.count("\n", 0, m.end()) + 1
+            for line in lines[at:at + 8]:
+                bullet = re.match(r"^\s*[*•·\-–]\s+", line)
+                s = line[bullet.end():].strip() if bullet else line.strip()
+                if not s:
+                    if names:
+                        break
+                    continue
+                n = name_like(s, blocked)
+                if not n:
+                    break
+                if n not in names:
+                    names.append(n)
+                if not bullet:
+                    break
         if names:
             return names
     return []

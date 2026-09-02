@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rochak Mittal", "Shobhit Garg", "Adity Agarwal"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-04T12:50:53Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Modern resiliency from build to recovery through Agentic AI | BRK228
 
-**Speaker not identified**
+**Rochak Mittal, Shobhit Garg, Adity Agarwal**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

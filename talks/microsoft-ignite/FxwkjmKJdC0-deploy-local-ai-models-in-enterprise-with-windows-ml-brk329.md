@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Andrew Leader", "Anastasiya Tarnouskaya"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T11:43:02Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Deploy Local AI Models in Enterprise with Windows ML | BRK329
 
-**Speaker not identified**
+**Andrew Leader, Anastasiya Tarnouskaya**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

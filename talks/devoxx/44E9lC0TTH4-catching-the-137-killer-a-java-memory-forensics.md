@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Martijn Dashorst"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2026-02-27T13:52:44Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Catching the 137-Killer: A Java Memory Forensics Investigation by Martijn Dashorst
 
-**Speaker not identified**
+**Martijn Dashorst**
 
 `Devoxx` · `Devoxx` · `2026` · `45 min`
 

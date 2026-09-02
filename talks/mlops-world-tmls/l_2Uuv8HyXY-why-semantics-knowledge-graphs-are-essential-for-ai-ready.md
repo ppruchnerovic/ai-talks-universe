@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Juan Sequeda", "Principal Researcher"]
+speakers: ["Juan Sequeda"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 33
 published_at: 2025-10-23T05:08:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Why Semantics & Knowledge Graphs Are Essential for AI-Ready Data Systems | Juan Sequeda, ServiceNow
 
-**Juan Sequeda, Principal Researcher**
+**Juan Sequeda**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `33 min`
 

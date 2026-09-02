@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Tina Schuchman", "Jeff Hollan"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-03T15:08:30Z
@@ -20,7 +20,7 @@ transcript: true
 
 # From prototype to production build and run agents at scale | BRK241
 
-**Speaker not identified**
+**Tina Schuchman, Jeff Hollan**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

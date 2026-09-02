@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dave Salvator"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T12:46:29Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Power next-generation AI workloads with NVIDIA Blackwell on Azure | BRKSP490
 
-**Speaker not identified**
+**Dave Salvator**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

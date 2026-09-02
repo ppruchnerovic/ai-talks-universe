@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Gilberto Hernandez"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2024-04-19T05:00:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build AI Apps with Llama 2 in 10 Minutes with Snowflake Cortex
 
-**Speaker not identified**
+**Gilberto Hernandez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `12 min`
 

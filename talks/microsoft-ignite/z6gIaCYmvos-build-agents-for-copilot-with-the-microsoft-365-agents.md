@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Robert Howard", "Matthew Barbour", "Sébastien Levert"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T10:02:56Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build Agents for Copilot with the Microsoft 365 Agents Toolkit | BRK319
 
-**Speaker not identified**
+**Robert Howard, Matthew Barbour, Sébastien Levert**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

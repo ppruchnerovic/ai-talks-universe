@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Isra Chahrazed Goumiri"]
 channel: "Devoxx"
 duration_min: 29
 published_at: 2024-10-11T05:09:40Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Young Minds : Designing Engaging Child-Friendly Tech by Isra Chahrazed Goumiri
 
-**Speaker not identified**
+**Isra Chahrazed Goumiri**
 
 `Devoxx` · `Devoxx` · `2024` · `29 min`
 

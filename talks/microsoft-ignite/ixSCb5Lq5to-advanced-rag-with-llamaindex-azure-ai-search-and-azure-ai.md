@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Farzad Sunavala", "Laurie Voss"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:07:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advanced RAG with LlamaIndex Azure AI Search and Azure AI Foundry | BRK106
 
-**Speaker not identified**
+**Farzad Sunavala, Laurie Voss**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

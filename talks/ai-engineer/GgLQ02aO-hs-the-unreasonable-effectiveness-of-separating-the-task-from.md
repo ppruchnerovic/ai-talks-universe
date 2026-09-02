@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Maxime Rivest", "Isaac Miller"]
 channel: "AI Engineer"
 duration_min: 17
 published_at: 2026-07-23T17:45:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The Unreasonable Effectiveness of Separating the Task from the Model — Maxime Rivest & Isaac Miller
 
-**Speaker not identified**
+**Maxime Rivest, Isaac Miller**
 
 `AI Engineer` · `AI Engineer` · `2026` · `17 min`
 

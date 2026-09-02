@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Bhaskar Ghosh"]
 channel: "AI Council"
 duration_min: 28
 published_at: 2024-04-19T05:00:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From Silo to Scale: How Data Infrastructures Evolved to Bring More Data to More People
 
-**Speaker not identified**
+**Bhaskar Ghosh**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `28 min`
 

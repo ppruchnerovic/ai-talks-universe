@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Chris Huntingford", "Alice Ratcliffe", "Dona Sarkar", "Eddie Twemlow"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-25T22:58:09Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Legal Firm Burges Salmon's Copilot Adoption Journey | Studio54
 
-**Speaker not identified**
+**Chris Huntingford, Alice Ratcliffe, Dona Sarkar, Eddie Twemlow**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `10 min`
 

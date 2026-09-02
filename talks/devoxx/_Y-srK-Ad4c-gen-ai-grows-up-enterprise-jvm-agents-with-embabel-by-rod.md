@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Rod Johnson"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-10T05:09:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Gen AI Grows Up: Enterprise JVM Agents With Embabel by Rod Johnson
 
-**Speaker not identified**
+**Rod Johnson**
 
 `Devoxx` · `Devoxx` · `2025` · `51 min`
 

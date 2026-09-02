@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ronak Chokshi", "Maria Naggaga", "Joe Filcik"]
 channel: "Microsoft Developer"
 duration_min: 43
 published_at: 2026-06-04T12:02:52Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Turn your agents into action: Connect tools, APIs, and documents | BRK242
 
-**Speaker not identified**
+**Ronak Chokshi, Maria Naggaga, Joe Filcik**
 
 `Microsoft Build` · `Build 2026` · `2026` · `43 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Caroline Matthews"]
 channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-04T13:41:23Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Ship faster with Claude Code and Cowork in Microsoft Foundry | DEMSP388
 
-**Speaker not identified**
+**Caroline Matthews**
 
 `Microsoft Build` · `Build 2026` · `2026` · `21 min`
 

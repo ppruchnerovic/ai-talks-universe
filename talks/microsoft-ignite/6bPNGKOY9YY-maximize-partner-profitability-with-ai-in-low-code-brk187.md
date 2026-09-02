@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Matthew Davis", "Becky Lymberis"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-26T07:40:17Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Maximize partner profitability with AI in low code | BRK187
 
-**Speaker not identified**
+**Matthew Davis, Becky Lymberis**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

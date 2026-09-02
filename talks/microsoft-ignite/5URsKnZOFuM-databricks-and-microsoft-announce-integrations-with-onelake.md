@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Scott Guthrie"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2025-11-21T12:54:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Databricks and Microsoft announce integrations with OneLake, Foundry, and Copilot | STUDIO53
 
-**Speaker not identified**
+**Scott Guthrie**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `15 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Brian Vermeer"]
 channel: "Devoxx"
 duration_min: 21
 published_at: 2026-04-09T19:46:42Z
@@ -20,7 +20,7 @@ transcript: true
 
 # 5,5 prompt injection techniques in 15 minutes by Brian Vermeer
 
-**Speaker not identified**
+**Brian Vermeer**
 
 `Devoxx` · `Devoxx` · `2026` · `21 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Alexy Khrabrov"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2025-05-29T00:32:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # OAKS: Open Agentic Knowledge Stack
 
-**Speaker not identified**
+**Alexy Khrabrov**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `12 min`
 

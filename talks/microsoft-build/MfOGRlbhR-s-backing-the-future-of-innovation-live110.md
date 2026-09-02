@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Charles Lamanna"]
 channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-04T16:01:46Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Backing the future of innovation | LIVE110
 
-**Speaker not identified**
+**Charles Lamanna**
 
 `Microsoft Build` · `Build 2026` · `2026` · `21 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Stephen Chin"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2025-10-09T05:35:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agentic GraphRAG: AI’s Logical Edge by Stephen Chin
 
-**Speaker not identified**
+**Stephen Chin**
 
 `Devoxx` · `Devoxx` · `2025` · `45 min`
 

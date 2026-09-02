@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andrew Flick", "Justine Modot", "Wenqi Ou"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-26T07:27:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Maximize developer efficiency with GitHub Copilot for partner success | BRK158
 
-**Speaker not identified**
+**Andrew Flick, Justine Modot, Wenqi Ou**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

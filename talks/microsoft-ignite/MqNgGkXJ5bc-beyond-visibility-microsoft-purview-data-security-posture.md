@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rudra Mitra", "Nathalia Borges", "Yaki Faitelson", "Talhah Mir"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-25T18:09:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Beyond Visibility: Microsoft Purview Data Security Posture Management | BRK253
 
-**Speaker not identified**
+**Rudra Mitra, Nathalia Borges, Yaki Faitelson, Talhah Mir**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

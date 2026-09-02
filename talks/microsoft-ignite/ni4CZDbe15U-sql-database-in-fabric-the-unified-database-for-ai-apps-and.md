@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anna Hoffman", "Idris Motiwala", "Jeff Shood"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:19:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # SQL database in Fabric: The unified database for AI apps and analytics | BRK220
 
-**Speaker not identified**
+**Anna Hoffman, Idris Motiwala, Jeff Shood**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

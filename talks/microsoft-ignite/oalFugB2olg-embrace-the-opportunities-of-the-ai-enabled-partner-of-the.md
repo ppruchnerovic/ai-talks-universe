@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Angela Byers"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T15:25:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Embrace the opportunities of the AI-enabled partner of the future | BRKFP382
 
-**Speaker not identified**
+**Angela Byers**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

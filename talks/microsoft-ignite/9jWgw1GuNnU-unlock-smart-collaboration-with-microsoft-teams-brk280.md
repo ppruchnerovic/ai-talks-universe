@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ilya Bukshteyn", "Pete Daderko", "Kerry Perez Heffernan"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-21T10:13:53Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unlock smart collaboration with Microsoft Teams | BRK280
 
-**Speaker not identified**
+**Ilya Bukshteyn, Pete Daderko, Kerry Perez Heffernan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ramya Chitrakar", "David Fantham", "Jeff Pinkston"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T15:18:42Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI vs AI: Protect email and collaboration tools with Microsoft Defender | BRK239
 
-**Speaker not identified**
+**Ramya Chitrakar, David Fantham, Jeff Pinkston**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

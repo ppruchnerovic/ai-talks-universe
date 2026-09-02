@@ -7,7 +7,7 @@ conference_name: "WeAreDevelopers World Congress"
 category: "Software dev with AI tracks"
 edition: "WeAreDevelopers"
 year: 2026
-speakers: []
+speakers: ["Luise Freese", "Elio Struyf"]
 channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-03-27T10:03:10Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Why Testing Matters in AI - Luise Freese and Elio Struyf
 
-**Speaker not identified**
+**Luise Freese, Elio Struyf**
 
 `WeAreDevelopers World Congress` · `WeAreDevelopers` · `2026` · `28 min`
 

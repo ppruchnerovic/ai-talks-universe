@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Ian Butler", "Nick Gregory"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-06-03T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agents reported thousands of bugs, how many were real? - Ian Butler and Nick Gregory
 
-**Speaker not identified**
+**Ian Butler, Nick Gregory**
 
 `AI Engineer` · `AI Engineer` · `2025` · `19 min`
 

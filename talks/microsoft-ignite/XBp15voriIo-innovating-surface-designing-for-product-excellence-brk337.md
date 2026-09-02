@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Carlos Carrasco"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-21T06:40:25Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovating Surface: Designing for product excellence​ | BRK337
 
-**Speaker not identified**
+**Carlos Carrasco**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

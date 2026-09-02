@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Nils Haase", "Andreas Wurl"]
+speakers: ["Nils Haase"]
 channel: "PyData"
 duration_min: 29
 published_at: 2026-08-25T18:20:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Octopus AutoML: Extracting Signal from Small and High-Dimensional Data [PyCon DE & PyData 2026]
 
-**Nils Haase, Andreas Wurl**
+**Nils Haase**
 
 `PyData` · `PyData` · `2026` · `29 min`
 

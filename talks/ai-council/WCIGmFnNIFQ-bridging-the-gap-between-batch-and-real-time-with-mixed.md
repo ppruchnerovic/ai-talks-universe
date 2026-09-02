@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Will Goldstein"]
 channel: "AI Council"
 duration_min: 13
 published_at: 2024-04-19T05:00:15Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Bridging the Gap Between Batch and Real-Time with Mixed-Latency Pipelines
 
-**Speaker not identified**
+**Will Goldstein**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `13 min`
 

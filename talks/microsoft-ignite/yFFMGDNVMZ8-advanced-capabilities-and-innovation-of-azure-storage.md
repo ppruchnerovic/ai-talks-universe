@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yuemin Lu", "Aung Oo", "Lena Ye"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2025-11-21T08:28:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Advanced capabilities and innovation of Azure Storage solutions | BRK159
 
-**Speaker not identified**
+**Yuemin Lu, Aung Oo, Lena Ye**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `35 min`
 

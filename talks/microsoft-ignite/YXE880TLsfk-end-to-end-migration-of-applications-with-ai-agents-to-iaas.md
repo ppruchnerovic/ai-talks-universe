@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ashish Babbar"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T07:14:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # End-to-End migration of applications with AI Agents to IaaS and PaaS | BRK140
 
-**Speaker not identified**
+**Ashish Babbar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

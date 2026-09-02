@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dave Burnison", "Dan Hellem"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T10:23:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI-powered workflows with GitHub and Azure DevOps | BRK106
 
-**Speaker not identified**
+**Dave Burnison, Dan Hellem**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

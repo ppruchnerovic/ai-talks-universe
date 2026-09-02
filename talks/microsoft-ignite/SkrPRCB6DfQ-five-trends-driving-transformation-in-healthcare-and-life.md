@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Satish Jha", "Piyush Rai"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2024-11-20T11:26:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Five trends driving transformation in healthcare and life sciences | ODFP993
 
-**Speaker not identified**
+**Satish Jha, Piyush Rai**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `13 min`
 

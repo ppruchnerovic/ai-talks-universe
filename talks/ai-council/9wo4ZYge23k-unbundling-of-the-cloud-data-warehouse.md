@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Tanya Bragin"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2025-05-29T14:07:05Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unbundling of the Cloud Data Warehouse
 
-**Speaker not identified**
+**Tanya Bragin**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `29 min`
 

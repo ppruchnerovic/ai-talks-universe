@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jeff Smith", "Ram Kakani"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T09:55:34Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Move from data to intelligence with Oracle MCP and Microsoft IQ | ODSP919
 
-**Speaker not identified**
+**Jeff Smith, Ram Kakani**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

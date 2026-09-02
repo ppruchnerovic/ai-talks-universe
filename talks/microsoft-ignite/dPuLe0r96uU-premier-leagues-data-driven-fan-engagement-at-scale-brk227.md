@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Darren Hardman", "Simon Brown", "Pedro Gomes", "Akash Jain"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-26T18:21:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Premier League’s data-driven fan engagement at scale | BRK227
 
-**Speaker not identified**
+**Darren Hardman, Simon Brown, Pedro Gomes, Akash Jain**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

@@ -7,7 +7,7 @@ conference_name: "Black Hat"
 category: "AI security"
 edition: "Black Hat"
 year: 2024
-speakers: ["Trend Micro"]
+speakers: []
 channel: "Black Hat"
 duration_min: 44
 published_at: 2024-08-22T16:49:21Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Breaking Managed Identity Barriers In Azure Services
 
-**Trend Micro**
+**Speaker not identified**
 
 `Black Hat` · `Black Hat` · `2024` · `44 min`
 

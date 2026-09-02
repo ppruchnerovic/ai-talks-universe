@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rie Merritt", "Stephen Simon", "Prashant G Bhoyar", "Mitchel Sellers"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-03T07:54:27Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Impact Through Developer Communities | DEM377
 
-**Speaker not identified**
+**Rie Merritt, Stephen Simon, Prashant G Bhoyar, Mitchel Sellers**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

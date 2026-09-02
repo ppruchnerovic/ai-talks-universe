@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Paul Leury", "Azim Uddin"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2024-11-20T14:02:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unleash MongoDB Atlas with Azure for extensive AI-powered integration | ODFP957
 
-**Speaker not identified**
+**Paul Leury, Azim Uddin**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `22 min`
 

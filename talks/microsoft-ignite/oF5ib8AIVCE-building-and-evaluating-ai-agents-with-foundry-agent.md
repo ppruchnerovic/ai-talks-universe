@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Katherin Madche"]
 channel: "Microsoft Events"
 duration_min: 9
 published_at: 2025-11-19T08:14:43Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Building and evaluating AI agents with Foundry Agent Service | ODSP1411
 
-**Speaker not identified**
+**Katherin Madche**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `9 min`
 

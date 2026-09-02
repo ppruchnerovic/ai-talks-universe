@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mike Kraybill"]
 channel: "Microsoft Events"
 duration_min: 5
 published_at: 2025-11-19T15:06:19Z
@@ -20,7 +20,7 @@ transcript: false
 
 # ComputerTalk ice Contact Center demo for chatbot and live chat | ODSP1482
 
-**Speaker not identified**
+**Mike Kraybill**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `5 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Diana Annie Jenosh"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2025-11-19T11:00:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Deliver smart secure and scalable agents with MongoDB on Azure | ODSP1448
 
-**Speaker not identified**
+**Diana Annie Jenosh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `18 min`
 

@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Sohail Shaikh"]
 channel: "AI Engineer"
 duration_min: 28
 published_at: 2026-06-28T15:15:15Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The 100-Tool Agent Is a Trap - Sohail Shaikh & Ankush Rastogi, Prosodica
 
-**Speaker not identified**
+**Sohail Shaikh**
 
 `AI Engineer` · `AI Engineer` · `2026` · `28 min`
 

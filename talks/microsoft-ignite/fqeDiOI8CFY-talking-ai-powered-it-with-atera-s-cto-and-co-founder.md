@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Oshri Moyal"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2024-11-20T13:20:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Talking AI-powered IT with Atera's CTO and co-founder | ODFP924
 
-**Speaker not identified**
+**Oshri Moyal**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `13 min`
 

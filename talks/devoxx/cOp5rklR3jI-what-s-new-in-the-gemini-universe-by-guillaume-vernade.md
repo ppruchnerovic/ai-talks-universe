@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Guillaume Vernade"]
 channel: "Devoxx"
 duration_min: 50
 published_at: 2025-10-09T05:35:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # What's new in the Gemini universe? by Guillaume Vernade
 
-**Speaker not identified**
+**Guillaume Vernade**
 
 `Devoxx` · `Devoxx` · `2025` · `50 min`
 

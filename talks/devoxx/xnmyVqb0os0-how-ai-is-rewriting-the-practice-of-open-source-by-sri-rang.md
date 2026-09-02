@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Sri Rang"]
 channel: "Devoxx"
 duration_min: 23
 published_at: 2026-04-09T19:34:30Z
@@ -20,7 +20,7 @@ transcript: true
 
 # How AI Is Rewriting the Practice of Open Source by Sri Rang
 
-**Speaker not identified**
+**Sri Rang**
 
 `Devoxx` · `Devoxx` · `2026` · `23 min`
 

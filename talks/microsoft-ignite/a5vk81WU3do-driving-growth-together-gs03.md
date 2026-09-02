@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: ["Driving Growth Together"]
+speakers: ["Satya Nadella", "Judson Althoff", "Nicole Dezen", "Joyce Mullen", "Nick Parker", "Prasad Sankaran"]
 channel: "Microsoft Events"
 duration_min: 69
 published_at: 2024-11-21T10:35:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Driving Growth Together | GS03
 
-**Driving Growth Together**
+**Satya Nadella, Judson Althoff, Nicole Dezen, Joyce Mullen, Nick Parker, Prasad Sankaran**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `69 min`
 

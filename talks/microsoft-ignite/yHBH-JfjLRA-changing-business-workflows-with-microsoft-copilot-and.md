@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joe Berger"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T14:47:34Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Changing business workflows with Microsoft Copilot and agents | ODSP1457
 
-**Speaker not identified**
+**Joe Berger**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

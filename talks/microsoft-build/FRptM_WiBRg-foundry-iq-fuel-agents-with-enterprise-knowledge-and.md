@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Pablo Castro"]
 channel: "Microsoft Developer"
 duration_min: 45
 published_at: 2026-06-04T12:04:41Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Foundry IQ: Fuel agents with enterprise knowledge and agentic retrieval | BRK246
 
-**Speaker not identified**
+**Pablo Castro**
 
 `Microsoft Build` · `Build 2026` · `2026` · `45 min`
 

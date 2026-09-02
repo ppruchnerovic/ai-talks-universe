@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Michael Chiang", "Parth Sareen"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-04T13:03:05Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Local models, developer control, and the future of AI runtimes | BRK235
 
-**Speaker not identified**
+**Michael Chiang, Parth Sareen**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

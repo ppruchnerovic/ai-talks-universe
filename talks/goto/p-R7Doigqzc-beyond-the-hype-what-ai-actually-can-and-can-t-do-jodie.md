@@ -7,7 +7,7 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Jodie Burchell", "Michelle Frost"]
 channel: "GOTO Conferences"
 duration_min: 29
 published_at: 2026-03-16T13:01:33Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell & Michelle Frost • GOTO 2026
 
-**Speaker not identified**
+**Jodie Burchell, Michelle Frost**
 
 `GOTO Conferences` · `GOTO` · `2026` · `29 min`
 

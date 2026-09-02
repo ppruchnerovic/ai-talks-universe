@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Marlene Mhangami", "Liam Hampton"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2026-06-06T00:00:00Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Building Interactive UIs in VS Code with MCP Apps — Marlene Mhangami & Liam Hampton, GitHub
 
-**Speaker not identified**
+**Marlene Mhangami, Liam Hampton**
 
 `AI Engineer` · `AI Engineer` · `2026` · `16 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Param Shah", "Matt Vegas"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-26T21:27:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Azure AI Infra updates to power frontier and enterprise workloads | BRK179
 
-**Speaker not identified**
+**Param Shah, Matt Vegas**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

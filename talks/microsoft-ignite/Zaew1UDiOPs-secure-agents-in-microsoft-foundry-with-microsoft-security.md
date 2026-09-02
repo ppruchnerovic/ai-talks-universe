@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Neta Haiby", "Shravana Mukherjee", "Peter Simones"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-21T07:11:07Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure agents in Microsoft Foundry with Microsoft Security | BRK268
 
-**Speaker not identified**
+**Neta Haiby, Shravana Mukherjee, Peter Simones**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

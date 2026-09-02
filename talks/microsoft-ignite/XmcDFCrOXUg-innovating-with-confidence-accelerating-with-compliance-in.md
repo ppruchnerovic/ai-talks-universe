@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sri Lakshmi Kotwal", "Manny Sahota", "Rahul Srivastava"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T12:18:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovating with confidence: Accelerating with Compliance in the age of Agents | BRK270
 
-**Speaker not identified**
+**Sri Lakshmi Kotwal, Manny Sahota, Rahul Srivastava**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

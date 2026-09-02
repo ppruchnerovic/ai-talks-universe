@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Benny Matityahu"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T12:23:59Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Live Platform: A unique value-added services delivery platform | ODSP1470
 
-**Speaker not identified**
+**Benny Matityahu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vasu Jakkal"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T12:25:48Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Security in the agentic AI era: built-in, built for autonomous defense | STUDIO40
 
-**Speaker not identified**
+**Vasu Jakkal**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Martin Renou", "Arjun Verma"]
 channel: "PyData"
 duration_min: 28
 published_at: 2025-11-21T16:25:45Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Martin Renou & Arjun Verma - Collaborative GIS editing in JupyterLab
 
-**Speaker not identified**
+**Martin Renou, Arjun Verma**
 
 `PyData` · `PyData` · `2025` · `28 min`
 

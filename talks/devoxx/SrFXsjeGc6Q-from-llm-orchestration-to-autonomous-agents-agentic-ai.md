@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Clement Escoffi"]
 channel: "Devoxx"
 duration_min: 167
 published_at: 2025-10-08T05:30:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # From LLM orchestration to autonomous agents: Agentic AI patterns with LangChain4j by Clement Escoffi
 
-**Speaker not identified**
+**Clement Escoffi**
 
 `Devoxx` · `Devoxx` · `2025` · `167 min`
 

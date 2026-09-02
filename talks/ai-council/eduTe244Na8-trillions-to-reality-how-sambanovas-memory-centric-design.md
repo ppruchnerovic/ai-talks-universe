@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Sumti Jairath"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2025-05-29T15:54:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Trillions-to-Reality: How SambaNova’s Memory-Centric Design Powers Agentic AI & GenAI Workflows
 
-**Speaker not identified**
+**Sumti Jairath**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `36 min`
 

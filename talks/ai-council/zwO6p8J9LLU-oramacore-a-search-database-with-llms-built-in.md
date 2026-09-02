@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Issac J Roth"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2025-05-29T00:31:26Z
@@ -20,7 +20,7 @@ transcript: false
 
 # OramaCore: A Search Database with LLMs Built In
 
-**Speaker not identified**
+**Issac J Roth**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `10 min`
 

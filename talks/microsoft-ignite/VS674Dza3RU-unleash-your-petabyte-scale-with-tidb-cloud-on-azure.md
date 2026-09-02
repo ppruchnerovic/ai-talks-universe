@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Liya Du"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2025-11-19T12:49:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Unleash your Petabyte-Scale with TiDB Cloud on Azure | ODSP1499
 
-**Speaker not identified**
+**Liya Du**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `10 min`
 

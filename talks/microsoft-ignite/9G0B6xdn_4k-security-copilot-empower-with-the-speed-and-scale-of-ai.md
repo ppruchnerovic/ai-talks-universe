@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dorothy Li"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T08:11:12Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Security Copilot: Empower with the speed and scale of AI | BRK244
 
-**Speaker not identified**
+**Dorothy Li**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

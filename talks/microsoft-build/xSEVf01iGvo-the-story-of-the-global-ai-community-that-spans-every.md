@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Roelant Dieben", "Stephen Simon"]
 channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-03T10:35:01Z
@@ -20,7 +20,7 @@ transcript: true
 
 # The story of the Global AI Community that spans every continent | DEM376
 
-**Speaker not identified**
+**Roelant Dieben, Stephen Simon**
 
 `Microsoft Build` · `Build 2026` · `2026` · `21 min`
 

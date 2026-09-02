@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: ["Enhancing Co-sell Engagement"]
+speakers: ["Fabian Grote"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-24T14:04:08Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Partner: Connect, Plan, Win - Enhancing Co-sell Engagement | PBRK417
 
-**Enhancing Co-sell Engagement**
+**Fabian Grote**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

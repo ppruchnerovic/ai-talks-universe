@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Neta Haiby", "John Israel", "Shilpa Ranganathan", "Greg Schellenberg", "Gopal Shankar"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-21T10:20:39Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Secure and govern custom AI built on Azure AI and Copilot Studio | BRK322
 
-**Speaker not identified**
+**Neta Haiby, John Israel, Shilpa Ranganathan, Greg Schellenberg, Gopal Shankar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

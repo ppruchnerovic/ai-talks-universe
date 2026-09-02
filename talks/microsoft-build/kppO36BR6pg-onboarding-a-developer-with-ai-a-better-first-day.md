@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Michel Hubert"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-04T13:33:19Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Onboarding a Developer with AI: A Better First-Day Experience | DEM367
 
-**Speaker not identified**
+**Michel Hubert**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

@@ -7,7 +7,7 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Shub Argha", "Founding Solutions Engineer"]
+speakers: ["Shub Argha"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 25
 published_at: 2025-10-20T22:46:41Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Untangling the Web: Navigating Open Source AI Networking Protocols | Shub Argha, Arcade.dev
 
-**Shub Argha, Founding Solutions Engineer**
+**Shub Argha**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `25 min`
 

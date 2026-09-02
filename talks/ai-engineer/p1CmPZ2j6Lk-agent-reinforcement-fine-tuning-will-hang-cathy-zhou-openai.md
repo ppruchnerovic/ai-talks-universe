@@ -7,7 +7,7 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Will Hang", "Cathy Zhou"]
 channel: "AI Engineer"
 duration_min: 17
 published_at: 2025-12-09T00:00:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Agent Reinforcement Fine Tuning – Will Hang & Cathy Zhou, OpenAI
 
-**Speaker not identified**
+**Will Hang, Cathy Zhou**
 
 `AI Engineer` · `AI Engineer` · `2025` · `17 min`
 

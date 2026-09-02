@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jason Fisher", "Mariam Gewida", "Jeffrey Sutherland", "Jordan Geurten"]
 channel: "Microsoft Developer"
 duration_min: 32
 published_at: 2026-06-03T13:36:53Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Hardening Windows: Security Foundations Developers Can Build On | OD859
 
-**Speaker not identified**
+**Jason Fisher, Mariam Gewida, Jeffrey Sutherland, Jordan Geurten**
 
 `Microsoft Build` · `Build 2026` · `2026` · `32 min`
 

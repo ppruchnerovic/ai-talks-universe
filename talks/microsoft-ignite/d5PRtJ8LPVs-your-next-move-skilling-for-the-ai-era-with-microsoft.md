@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jeana Jorgensen"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-24T14:16:50Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Your Next Move: Skilling for the AI Era with Microsoft | STUDIO52
 
-**Speaker not identified**
+**Jeana Jorgensen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

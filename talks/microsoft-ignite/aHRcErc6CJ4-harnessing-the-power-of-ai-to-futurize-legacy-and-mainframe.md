@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Vivek Desai", "Ravi Khokhar"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T13:26:13Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Harnessing the power of AI to futurize legacy and mainframe systems | BRKFP389
 
-**Speaker not identified**
+**Vivek Desai, Ravi Khokhar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

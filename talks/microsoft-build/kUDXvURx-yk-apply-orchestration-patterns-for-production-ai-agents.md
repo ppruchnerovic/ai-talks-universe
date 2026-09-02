@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Cliff Simpkins"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T08:05:53Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Apply orchestration patterns for production AI agents | ODSP906
 
-**Speaker not identified**
+**Cliff Simpkins**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

@@ -7,7 +7,7 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Sergio del Amo Caballero"]
 channel: "Devoxx"
 duration_min: 158
 published_at: 2025-10-08T05:30:35Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Build an MCP Server with Java by Sergio del Amo Caballero
 
-**Speaker not identified**
+**Sergio del Amo Caballero**
 
 `Devoxx` · `Devoxx` · `2025` · `158 min`
 

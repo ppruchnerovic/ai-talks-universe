@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Igor Sakhnov", "Kaitlin Murphy", "Carmichael Patton"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T12:03:52Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Entra Suite: Accelerate Zero Trust and Secure AI Access | BRK260
 
-**Speaker not identified**
+**Igor Sakhnov, Kaitlin Murphy, Carmichael Patton**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

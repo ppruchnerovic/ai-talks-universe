@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Uli Homann", "Ralf Huebenthal", "Adam Simpson"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-21T15:20:04Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Nestle's journey: Transitioning from SAP HEC to SAP RISE on Azure | BRK217
 
-**Speaker not identified**
+**Uli Homann, Ralf Huebenthal, Adam Simpson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Inbal Sagiv"]
 channel: "Microsoft Developer"
 duration_min: 27
 published_at: 2026-06-03T14:04:36Z
@@ -20,7 +20,7 @@ transcript: true
 
 # AI solutions built to power industrial innovation and sovereign control | OD839
 
-**Speaker not identified**
+**Inbal Sagiv**
 
 `Microsoft Build` · `Build 2026` · `2026` · `27 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Joe Sack", "Erin Stellato", "Bob Ward"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-25T12:51:18Z
@@ -20,7 +20,7 @@ transcript: false
 
 # SQL Server 2025: an enterprise AI-ready database platform | BRK195
 
-**Speaker not identified**
+**Joe Sack, Erin Stellato, Bob Ward**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

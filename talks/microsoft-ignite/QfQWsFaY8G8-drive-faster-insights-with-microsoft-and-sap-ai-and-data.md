@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Robert Hernandez", "Nathan Weaver"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T17:09:54Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Drive faster insights with Microsoft and SAP AI and data innovations | BRK163
 
-**Speaker not identified**
+**Robert Hernandez, Nathan Weaver**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

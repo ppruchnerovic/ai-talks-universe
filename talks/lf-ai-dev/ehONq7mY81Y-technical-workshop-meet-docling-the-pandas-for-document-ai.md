@@ -7,7 +7,7 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Peter Staar", "Cesar Berrospi"]
 channel: "The Linux Foundation"
 duration_min: 67
 published_at: 2025-09-09T18:27:22Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Technical Workshop: Meet Docling: The “Pandas” for Document AI - Peter Staar & Cesar Berrospi
 
-**Speaker not identified**
+**Peter Staar, Cesar Berrospi**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `67 min`
 

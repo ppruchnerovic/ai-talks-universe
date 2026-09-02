@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sam Kidd", "Suhel Mangera"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T09:11:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI in action: Embedding intelligence into user workflows | BRK220
 
-**Speaker not identified**
+**Sam Kidd, Suhel Mangera**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

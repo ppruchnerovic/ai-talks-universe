@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yina Arenas", "David Feldman", "Mark Oost", "Tina Schuman", "Elijah Straight"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T14:49:27Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI agents in Microsoft Foundry ship fast scale fearlessly | BRK189
 
-**Speaker not identified**
+**Yina Arenas, David Feldman, Mark Oost, Tina Schuman, Elijah Straight**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

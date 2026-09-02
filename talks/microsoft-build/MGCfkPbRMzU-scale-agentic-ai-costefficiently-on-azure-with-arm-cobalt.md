@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sameer Nori", "Pranay Bakre", "Govardhani Babu"]
 channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-04T14:55:09Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Scale agentic AI cost‑efficiently on Azure with Arm Cobalt VMs | DEMSP381
 
-**Speaker not identified**
+**Sameer Nori, Pranay Bakre, Govardhani Babu**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

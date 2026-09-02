@@ -7,7 +7,7 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Violetta Mishechkina", "Chang She"]
+speakers: ["Violetta Mishechkina"]
 channel: "PyData"
 duration_min: 89
 published_at: 2025-11-23T14:33:49Z
@@ -20,7 +20,7 @@ transcript: false
 
 # AI-Ready Data in Action: Powering Smarter Agents
 
-**Violetta Mishechkina, Chang She**
+**Violetta Mishechkina**
 
 `PyData` · `PyData` · `2025` · `89 min`
 

@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yitzhak Kesselman", "Chafia Aouissi", "Tony de Bos", "Tessa Kloster"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T07:28:24Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Microsoft Fabric IQ: Turning unified data into unified intelligence | BRK222
 
-**Speaker not identified**
+**Yitzhak Kesselman, Chafia Aouissi, Tony de Bos, Tessa Kloster**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

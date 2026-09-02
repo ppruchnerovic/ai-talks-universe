@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Tim Bozarth"]
 channel: "Microsoft Developer"
 duration_min: 48
 published_at: 2026-06-04T13:50:12Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Future of Developer Productivity: Microsoft’s EngThrive Framework in Practice | BRK210
 
-**Speaker not identified**
+**Tim Bozarth**
 
 `Microsoft Build` · `Build 2026` · `2026` · `48 min`
 

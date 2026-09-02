@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rishabh Saha", "Bob Ward", "Krunalkumar Patel"]
 channel: "Microsoft Developer"
 duration_min: 42
 published_at: 2026-06-04T12:54:38Z
@@ -20,7 +20,7 @@ transcript: true
 
 # PepsiCo’s blueprint for agentic AI | BRK224
 
-**Speaker not identified**
+**Rishabh Saha, Bob Ward, Krunalkumar Patel**
 
 `Microsoft Build` · `Build 2026` · `2026` · `42 min`
 

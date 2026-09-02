@@ -7,7 +7,7 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Etienne Dilocker"]
 channel: "AI Council"
 duration_min: 28
 published_at: 2025-05-29T14:05:28Z
@@ -20,7 +20,7 @@ transcript: false
 
 # The Agentic Database: A New Way to Interact With Your Data
 
-**Speaker not identified**
+**Etienne Dilocker**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `28 min`
 

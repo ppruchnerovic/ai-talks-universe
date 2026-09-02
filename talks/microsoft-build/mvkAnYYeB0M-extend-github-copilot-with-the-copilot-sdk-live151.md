@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Patrick Nikoletich", "Burke Holland"]
 channel: "Microsoft Developer"
 duration_min: 16
 published_at: 2026-06-05T15:35:11Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Extend GitHub Copilot with the Copilot SDK | LIVE151
 
-**Speaker not identified**
+**Patrick Nikoletich, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

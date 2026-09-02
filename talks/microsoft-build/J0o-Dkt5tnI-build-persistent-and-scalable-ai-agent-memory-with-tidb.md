@@ -7,7 +7,7 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ravish Patel"]
 channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-03T08:28:06Z
@@ -20,7 +20,7 @@ transcript: true
 
 # Build persistent and scalable AI agent memory with TiDB | ODSP918
 
-**Speaker not identified**
+**Ravish Patel**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

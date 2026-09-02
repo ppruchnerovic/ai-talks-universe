@@ -7,7 +7,7 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Muneer Mirza"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T11:21:00Z
@@ -20,7 +20,7 @@ transcript: false
 
 # Innovate with Oracle Database@Azure and native Azure AI services | ODSP1416
 
-**Speaker not identified**
+**Muneer Mirza**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `22 min`
 
