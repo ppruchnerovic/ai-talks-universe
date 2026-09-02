@@ -550,14 +550,23 @@ prints the four ids and their rates on every run so it is never silent.
 
 ### Still open, deliberately
 
-- **37 transcripts are not labelled English** — `hi`x12 (the unfixable ones
+- **27 transcripts are not labelled English** — `hi`x12 (the unfixable ones
   above; the 2026-09-01 fetch added two more, `HotbjSIgLOM` and `LthkAkIQhgc`,
-  both ai-council, both English audio transliterated into Devanagari), 10
-  literal `"none"` (English text Supadata could not name, which will
-  refetch cheaply and label properly), `de`x3, `es`x2, `ja`x2, `lt`x2, `no`x2,
-  and one each of `vi`, `ar`, `sv`, `nl`. Most are genuinely those languages and
-  belong in the corpus; the `no` ones are probably real Norwegian, NDC Oslo. The
-  `"none"` ten are the only cheap win in the list.
+  both ai-council, both English audio transliterated into Devanagari), `de`x3,
+  `es`x2, `ja`x2, `lt`x2, `no`x2, and one each of `vi`, `ar`, `sv`, `nl`. Most
+  are genuinely those languages and belong in the corpus; the `no` ones are
+  probably real Norwegian, NDC Oslo. There were 37: the ten Supadata had
+  labelled a literal `"none"` were deleted and refetched on 2026-09-02 for ten
+  credits, and every one came back `en` with the same word count. Nothing in
+  the list is cheap any more.
+- **26 Supadata transcripts carry double-escaped HTML entities** — `&amp;#39;`
+  where the caption says an apostrophe, found when the ten above came back
+  clean: the old files had `I&amp;#39;m`, the refetched ones `I'm`. So the
+  escaping is Supadata's, on some responses and not others, not the fetcher's.
+  It is a search hole (a stemmer sees `amp` and `39`, not `I'm`) and a display
+  one in the markdown. Twenty-six remain; a local `html.unescape` pass over
+  `segments[].text` in `save()` and over the files on disk would clear them
+  without a credit, and would be the right guard for the next fetch too.
 - **Three transcripts are English with badly degraded ASR** (`hbShI0crCOg`,
   `6NC9laD5OHY`, `RS4DmYTvHIo`, labelled `de` in the WeAreDevelopers import) —
   coherent for a minute, then collapsing into fragments. Real but half-missing.
