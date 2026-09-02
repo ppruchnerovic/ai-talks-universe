@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Wietse Venema"]
 channel: "Devoxx"
 duration_min: 31
 published_at: 2025-10-07T05:13:52Z
 video_id: jBQ0WdiNbdA
+url: https://www.youtube.com/watch?v=jBQ0WdiNbdA
 youtube_url: https://www.youtube.com/watch?v=jBQ0WdiNbdA
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Gemini CLI in Action by Wietse Venema
 
-**Speaker not identified**
+**Wietse Venema**
 
 `Devoxx` · `Devoxx` · `2025` · `31 min`
 

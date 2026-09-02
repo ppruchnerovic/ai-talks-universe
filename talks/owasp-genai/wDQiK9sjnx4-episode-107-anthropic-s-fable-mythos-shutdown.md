@@ -7,11 +7,12 @@ conference_name: "OWASP GenAI Security Project"
 category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
-speakers: []
+speakers: ["Anthropic's Fable", "Mythos Shutdown"]
 channel: "OWASP GenAI Security Project"
 duration_min: 24
 published_at: 2026-07-20T00:04:26Z
 video_id: wDQiK9sjnx4
+url: https://www.youtube.com/watch?v=wDQiK9sjnx4
 youtube_url: https://www.youtube.com/watch?v=wDQiK9sjnx4
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Episode 107 | Anthropic's Fable & Mythos Shutdown
 
-**Speaker not identified**
+**Anthropic's Fable, Mythos Shutdown**
 
 `OWASP GenAI Security Project` · `OWASP GenAI Security` · `2026` · `24 min`
 

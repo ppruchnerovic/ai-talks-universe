@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 26
 published_at: 2026-08-09T23:28:07Z
 video_id: tnSIPC2hERU
+url: https://www.youtube.com/watch?v=tnSIPC2hERU
 youtube_url: https://www.youtube.com/watch?v=tnSIPC2hERU
 tags: []
 transcript: true

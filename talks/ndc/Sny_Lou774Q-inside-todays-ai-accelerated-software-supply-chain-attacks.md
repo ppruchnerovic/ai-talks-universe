@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-08-05T11:47:13Z
 video_id: Sny_Lou774Q
+url: https://www.youtube.com/watch?v=Sny_Lou774Q
 youtube_url: https://www.youtube.com/watch?v=Sny_Lou774Q
 tags: ["Security", "AI", "DevOps", "CI/CD", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Mackenzie Jackson"]
 transcript: true

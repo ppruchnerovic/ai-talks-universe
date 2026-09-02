@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Itamar Friedman", "Robert Brennan"]
 channel: "AI Native Dev"
 duration_min: 12
 published_at: 2026-01-25T14:00:55Z
 video_id: _6V7iNqoKWk
+url: https://www.youtube.com/watch?v=_6V7iNqoKWk
 youtube_url: https://www.youtube.com/watch?v=_6V7iNqoKWk
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # The Developer's Guide to Multi-Agent Automation | Itamar Friedman and Robert Brennan
 
-**Speaker not identified**
+**Itamar Friedman, Robert Brennan**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `12 min`
 

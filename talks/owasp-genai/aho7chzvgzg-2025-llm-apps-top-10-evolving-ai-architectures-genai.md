@@ -12,6 +12,7 @@ channel: null
 duration_min: 29
 published_at: null
 video_id: aho7chzvgzg
+url: https://www.youtube.com/watch?v=aho7chzvgzg
 youtube_url: https://www.youtube.com/watch?v=aho7chzvgzg
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "IEEE SaTML"
 category: "AI security"
 edition: "SaTML 2023"
 year: 2023
-speakers: []
+speakers: ["Keith Manville", "Deepesh Chaudhari"]
 channel: "Nicolas Papernot"
 duration_min: 61
 published_at: null
 video_id: d-f-elaiIt8
+url: https://www.youtube.com/watch?v=d-f-elaiIt8
 youtube_url: https://www.youtube.com/watch?v=d-f-elaiIt8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # SaTML 2023 - Keith Manville and Deepesh Chaudhari - Model Attribution Challenge
 
-**Speaker not identified**
+**Keith Manville, Deepesh Chaudhari**
 
 `IEEE SaTML` · `SaTML 2023` · `2023` · `61 min`
 

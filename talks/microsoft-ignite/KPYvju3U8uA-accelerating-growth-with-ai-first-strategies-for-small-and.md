@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 38
 published_at: 2024-11-27T12:28:11Z
 video_id: KPYvju3U8uA
+url: https://www.youtube.com/watch?v=KPYvju3U8uA
 youtube_url: https://www.youtube.com/watch?v=KPYvju3U8uA
 tags: ["AI", "Accelerating growth with AI-first strategies for small and medium businesses | BRK293", "BRK293", "Breakout", "Copilot", "Copilot for M365", "Medium-sized businesses", "Microsoft 365", "Microsoft Copilot", "Modern Work", "Modern Work-Curated", "SMB", "Small and medium-sized businesses", "Small businesses", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

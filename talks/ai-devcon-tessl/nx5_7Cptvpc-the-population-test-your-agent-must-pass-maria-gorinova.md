@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 5
 published_at: 2025-12-14T14:01:50Z
 video_id: nx5_7Cptvpc
+url: https://www.youtube.com/watch?v=nx5_7Cptvpc
 youtube_url: https://www.youtube.com/watch?v=nx5_7Cptvpc
 tags: []
 transcript: false

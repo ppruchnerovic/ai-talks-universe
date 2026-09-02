@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
-speakers: ["Ford Motor Company"]
+speakers: []
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 35
 published_at: 2024-05-15T18:17:45Z
 video_id: -sXK2M7lndQ
+url: https://www.youtube.com/watch?v=-sXK2M7lndQ
 youtube_url: https://www.youtube.com/watch?v=-sXK2M7lndQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From Model T to Machine Learning: A Glimpse into Ford's MLOps and Hybrid Infrastructure Strategy
 
-**Ford Motor Company**
+**Speaker not identified**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2024` · `35 min`
 

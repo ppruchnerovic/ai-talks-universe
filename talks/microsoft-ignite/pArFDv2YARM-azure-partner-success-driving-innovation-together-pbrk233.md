@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nina Harding", "Zia Mansoor", "Cyril Belikoff", "Sanjay Mehta", "Thomas Shea"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T20:02:40Z
 video_id: pArFDv2YARM
+url: https://www.youtube.com/watch?v=pArFDv2YARM
 youtube_url: https://www.youtube.com/watch?v=pArFDv2YARM
 tags: ["Azure Partner Success: Driving Innovation Together | PBRK233", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "PBRK233", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Azure Partner Success: Driving Innovation Together | PBRK233
 
-**Speaker not identified**
+**Nina Harding, Zia Mansoor, Cyril Belikoff, Sanjay Mehta, Thomas Shea**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

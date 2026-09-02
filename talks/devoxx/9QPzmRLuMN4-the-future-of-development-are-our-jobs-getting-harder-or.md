@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Holly Cummins"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2024-10-23T07:08:31Z
 video_id: 9QPzmRLuMN4
+url: https://www.youtube.com/watch?v=9QPzmRLuMN4
 youtube_url: https://www.youtube.com/watch?v=9QPzmRLuMN4
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The future of development: Are our jobs getting harder or easier? by Holly Cummins
 
-**Speaker not identified**
+**Holly Cummins**
 
 `Devoxx` · `Devoxx` · `2024` · `46 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-06-29T11:05:37Z
 video_id: EowOzx0NiOA
+url: https://www.youtube.com/watch?v=EowOzx0NiOA
 youtube_url: https://www.youtube.com/watch?v=EowOzx0NiOA
 tags: ["OpenCode", "OmO", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Tjalve Aarflot"]
 transcript: true

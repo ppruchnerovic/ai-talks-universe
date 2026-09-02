@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Scott Hunter", "Abdul Rehman", "Anthony Shaw", "Naga Surendran"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-20T13:42:49Z
 video_id: cDTVFcQ2QPU
+url: https://www.youtube.com/watch?v=cDTVFcQ2QPU
 youtube_url: https://www.youtube.com/watch?v=cDTVFcQ2QPU
 tags: ["Abdul Rehman", "Advanced (300)", "Anthony Shaw", "Application Development", "Apps", "Apps-Curated", "BRK146", "Breakout", "Cloud-native", "Containers", "English (US)", "Kubernetes", "Naga Surendran", "PaaS", "Scott Hunter", "Serverless", "Streamline AI App development with Azure App Platform | BRK146", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Streamline AI App development with Azure App Platform | BRK146
 
-**Speaker not identified**
+**Scott Hunter, Abdul Rehman, Anthony Shaw, Naga Surendran**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

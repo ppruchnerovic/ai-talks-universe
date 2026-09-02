@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Wayne Anderson"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-11-20T13:30:59Z
 video_id: 49qs7gXCaBk
+url: https://www.youtube.com/watch?v=49qs7gXCaBk
 youtube_url: https://www.youtube.com/watch?v=49qs7gXCaBk
 tags: ["AI", "Advanced (300)", "Copilot", "Data Security", "Data governance", "English (US)", "Microsoft Copilot", "Microsoft Purview", "ODFP927", "Pre-recorded", "Security", "Technical", "Unlock Copilot with Purview data security and BDO Digital | ODFP927", "Version v1", "Wayne Anderson", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlock Copilot with Purview data security and BDO Digital | ODFP927
 
-**Speaker not identified**
+**Wayne Anderson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `23 min`
 

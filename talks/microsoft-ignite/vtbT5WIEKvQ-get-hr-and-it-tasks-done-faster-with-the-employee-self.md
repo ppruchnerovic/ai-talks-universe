@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Himanath Dasari", "Swati Gulati", "Kyle von Haden"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-21T14:31:30Z
 video_id: vtbT5WIEKvQ
+url: https://www.youtube.com/watch?v=vtbT5WIEKvQ
 youtube_url: https://www.youtube.com/watch?v=vtbT5WIEKvQ
 tags: ["BRK286", "Copilot and agents at work", "English (US)", "Get HR and IT tasks done faster with the Employee Self-Service Agent | BRK286", "Himanath Dasari", "Kyle von Haden", "Swati Gulati", "Technical", "ac07b8e7-9436-4179-8fae-9f0523c7d13a_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Get HR and IT tasks done faster with the Employee Self-Service Agent | BRK286
 
-**Speaker not identified**
+**Himanath Dasari, Swati Gulati, Kyle von Haden**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

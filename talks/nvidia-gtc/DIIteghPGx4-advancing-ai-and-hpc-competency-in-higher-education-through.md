@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 37
 published_at: 2026-04-07T21:33:28Z
 video_id: DIIteghPGx4
+url: https://www.youtube.com/watch?v=DIIteghPGx4
 youtube_url: https://www.youtube.com/watch?v=DIIteghPGx4
 tags: ["NVIDIA", "NVIDIA GTC 2026"]
 transcript: true

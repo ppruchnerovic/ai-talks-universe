@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-10T09:00:00+00:00
 video_id: PoQymqm7cNo
+url: https://www.youtube.com/watch?v=PoQymqm7cNo
 youtube_url: https://www.youtube.com/watch?v=PoQymqm7cNo
 tags: ["Backend & APIs", "APIs", "Microservices"]
 transcript: true

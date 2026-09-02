@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pradeep Raman", "Jesse Sheldon"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T08:25:12Z
 video_id: nV0UF_wyJN8
+url: https://www.youtube.com/watch?v=nV0UF_wyJN8
 youtube_url: https://www.youtube.com/watch?v=nV0UF_wyJN8
 tags: ["5c7102a1-6cca-464c-a56d-39bc81c34043_Segment", "Accelerating migration and modernization in financial services | BRK368", "BRK368", "English (US)", "Financial Services", "Jesse Sheldon", "Migrate and modernize your estate", "Pradeep Raman", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerating migration and modernization in financial services | BRK368
 
-**Speaker not identified**
+**Pradeep Raman, Jesse Sheldon**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

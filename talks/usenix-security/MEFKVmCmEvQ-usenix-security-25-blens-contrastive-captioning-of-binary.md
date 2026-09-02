@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 16
 published_at: 2025-10-30T20:03:05Z
 video_id: MEFKVmCmEvQ
+url: https://www.youtube.com/watch?v=MEFKVmCmEvQ
 youtube_url: https://www.youtube.com/watch?v=MEFKVmCmEvQ
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

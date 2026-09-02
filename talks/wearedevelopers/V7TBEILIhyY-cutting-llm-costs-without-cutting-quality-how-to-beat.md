@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T14:10:00+00:00
 video_id: V7TBEILIhyY
+url: https://www.youtube.com/watch?v=V7TBEILIhyY
 youtube_url: https://www.youtube.com/watch?v=V7TBEILIhyY
 tags: ["AI Engineering", "Agentic AI", "Databricks"]
 transcript: true

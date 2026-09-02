@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Steven Abrahams", "Anna Cao", "Varun Kulkarni"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-25T15:45:37Z
 video_id: NA_T847oNC0
+url: https://www.youtube.com/watch?v=NA_T847oNC0
 youtube_url: https://www.youtube.com/watch?v=NA_T847oNC0
 tags: ["BRK312", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Microsoft 365 Copilot", "English (US)", "How to build and publish your agent to the Agent Store | BRK312", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Steven Abrahams", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to build and publish your agent to the Agent Store | BRK312
 
-**Speaker not identified**
+**Steven Abrahams, Anna Cao, Varun Kulkarni**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

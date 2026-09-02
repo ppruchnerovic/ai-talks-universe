@@ -12,6 +12,7 @@ channel: "Snowflake Developers"
 duration_min: 34
 published_at: null
 video_id: 7afEH7Zcs-s
+url: https://www.youtube.com/watch?v=7afEH7Zcs-s
 youtube_url: https://www.youtube.com/watch?v=7afEH7Zcs-s
 tags: []
 transcript: false

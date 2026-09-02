@@ -12,6 +12,7 @@ channel: null
 duration_min: 41
 published_at: null
 video_id: ejAfDijPGfg
+url: https://www.youtube.com/watch?v=ejAfDijPGfg
 youtube_url: https://www.youtube.com/watch?v=ejAfDijPGfg
 tags: []
 transcript: false

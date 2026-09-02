@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Sandra Ahlgrimm"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2025-11-11T10:37:56Z
 video_id: MPOE8beKF-U
+url: https://www.youtube.com/watch?v=MPOE8beKF-U
 youtube_url: https://www.youtube.com/watch?v=MPOE8beKF-U
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # MCP for Java developers by Sandra Ahlgrimm
 
-**Speaker not identified**
+**Sandra Ahlgrimm**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

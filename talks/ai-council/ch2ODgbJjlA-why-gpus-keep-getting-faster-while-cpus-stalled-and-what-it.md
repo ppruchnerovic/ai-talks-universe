@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Charles Frye"]
 channel: "AI Council"
 duration_min: 38
 published_at: 2025-05-29T07:33:30Z
 video_id: ch2ODgbJjlA
+url: https://www.youtube.com/watch?v=ch2ODgbJjlA
 youtube_url: https://www.youtube.com/watch?v=ch2ODgbJjlA
 tags: ["GPU computing", "NVIDIA", "data science", "ChatGPT", "artificial intelligence", "machine learning", "Python", "deep learning", "AI hardware", "PyTorch", "RAPIDS", "CUDA", "parallel computing", "high performance computing", "AI acceleration", "system latency", "GPU programming", "tensor operations", "matrix operations", "neural network training", "model inference", "distributed training", "multi GPU training", "GPU clusters", "cloud computing"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Why GPUs Keep Getting Faster While CPUs Stalled - And What It Means for Your Code
 
-**Speaker not identified**
+**Charles Frye**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `38 min`
 

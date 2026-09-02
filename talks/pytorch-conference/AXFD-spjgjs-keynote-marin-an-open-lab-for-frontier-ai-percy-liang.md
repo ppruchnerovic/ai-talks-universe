@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 16
 published_at: null
 video_id: AXFD-spjgjs
+url: https://www.youtube.com/watch?v=AXFD-spjgjs
 youtube_url: https://www.youtube.com/watch?v=AXFD-spjgjs
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 29
 published_at: 2026-06-21T06:36:49Z
 video_id: ACL7_EsfIio
+url: https://www.youtube.com/watch?v=ACL7_EsfIio
 youtube_url: https://www.youtube.com/watch?v=ACL7_EsfIio
 tags: ["AI DevCon", "AI DevCon June 2026", "AI and creativity", "AI and mental health", "AI impact on mood disorder", "Dave Kerr bipolar disorder", "ainativedev", "bipolar disorder", "creativity and AI", "dysregulation", "how to manage bipolar disorder", "mental health management", "mood regulation", "regulators in mental health", "support systems"]
 transcript: true

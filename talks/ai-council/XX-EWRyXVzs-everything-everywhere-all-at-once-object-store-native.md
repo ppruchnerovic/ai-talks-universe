@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Vishnu Vasanth"]
 channel: "AI Council"
 duration_min: 24
 published_at: 2025-05-28T23:52:47Z
 video_id: XX-EWRyXVzs
+url: https://www.youtube.com/watch?v=XX-EWRyXVzs
 youtube_url: https://www.youtube.com/watch?v=XX-EWRyXVzs
 tags: ["lakehouse compute", "10x faster", "ChatGPT", "artificial intelligence", "machine learning", "cloud storage", "data lakehouse", "performance optimization", "object storage", "query performance", "cloud computing", "sub second latency", "Python tutorial", "distributed computing", "parallel processing", "query acceleration", "columnar storage", "vectorized execution", "cache optimization", "memory management", "storage optimization"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Everything Everywhere All at Once Object Store Native
 
-**Speaker not identified**
+**Vishnu Vasanth**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `24 min`
 

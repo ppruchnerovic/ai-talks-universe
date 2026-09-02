@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Scott Hanselman", "Cassidy Williams"]
 channel: "Microsoft Developer"
 duration_min: 12
 published_at: 2026-06-05T15:40:12Z
 video_id: la02mLeX0Is
+url: https://www.youtube.com/watch?v=la02mLeX0Is
 youtube_url: https://www.youtube.com/watch?v=la02mLeX0Is
 tags: ["Cassidy Williams", "LIVE114", "LIVE114_v1", "Scott Hanselman", "Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114
 
-**Speaker not identified**
+**Scott Hanselman, Cassidy Williams**
 
 `Microsoft Build` · `Build 2026` · `2026` · `12 min`
 

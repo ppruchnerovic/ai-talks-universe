@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T12:20:00+00:00
 video_id: iFtXbl-lMew
+url: https://www.youtube.com/watch?v=iFtXbl-lMew
 youtube_url: https://www.youtube.com/watch?v=iFtXbl-lMew
 tags: ["Data & Databases", "Apache Iceberg", "Data Lakes", "DuckDB", "Lakehouse", "Performance", "Python", "Rust", "SQL"]
 transcript: true

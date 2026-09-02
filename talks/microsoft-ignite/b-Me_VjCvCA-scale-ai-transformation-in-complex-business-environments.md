@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Diego Jarne Munoz", "Prashant Mehrotra", "Kent Rosema"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T11:14:35Z
 video_id: b-Me_VjCvCA
+url: https://www.youtube.com/watch?v=b-Me_VjCvCA
 youtube_url: https://www.youtube.com/watch?v=b-Me_VjCvCA
 tags: ["Agentic business applications", "BRKSP484", "Diego Jarne Munoz", "English (US)", "Kent Rosema", "Prashant Mehrotra", "Retail and Consumer Goods", "Scale AI transformation in complex business environments | BRKSP484", "Technical", "eb4ad5b8-df94-43ab-920c-77b10e5fecca_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scale AI transformation in complex business environments | BRKSP484
 
-**Speaker not identified**
+**Diego Jarne Munoz, Prashant Mehrotra, Kent Rosema**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

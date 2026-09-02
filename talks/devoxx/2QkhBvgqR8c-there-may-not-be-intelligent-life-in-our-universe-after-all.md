@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Robert Pabst"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2025-10-10T05:10:24Z
 video_id: 2QkhBvgqR8c
+url: https://www.youtube.com/watch?v=2QkhBvgqR8c
 youtube_url: https://www.youtube.com/watch?v=2QkhBvgqR8c
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # There may not be intelligent life in our Universe after all by Robert Pabst
 
-**Speaker not identified**
+**Robert Pabst**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

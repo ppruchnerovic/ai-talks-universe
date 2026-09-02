@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T09:00:00+00:00
 video_id: aKr5ugzUUsk
+url: https://www.youtube.com/watch?v=aKr5ugzUUsk
 youtube_url: https://www.youtube.com/watch?v=aKr5ugzUUsk
 tags: ["People & Culture"]
 transcript: true

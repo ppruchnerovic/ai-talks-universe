@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 31
 published_at: 2026-06-24T09:00:32Z
 video_id: Uob57jY6qX4
+url: https://www.youtube.com/watch?v=Uob57jY6qX4
 youtube_url: https://www.youtube.com/watch?v=Uob57jY6qX4
 tags: ["AI", "Artificial Intelligence", "Generative AI", "Data Engineering", "Cyber Security", "RAG", "LLM", "Data Protection", "MLOps"]
 transcript: true

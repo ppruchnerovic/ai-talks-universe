@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 24
 published_at: 2023-05-11T18:59:19Z
 video_id: n3KUORtd5J4
+url: https://www.youtube.com/watch?v=n3KUORtd5J4
 youtube_url: https://www.youtube.com/watch?v=n3KUORtd5J4
 tags: ["metrics", "analytics", "metadata"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 23
 published_at: null
 video_id: DrygcOI-kG8
+url: https://www.youtube.com/watch?v=DrygcOI-kG8
 youtube_url: https://www.youtube.com/watch?v=DrygcOI-kG8
 tags: []
 transcript: false

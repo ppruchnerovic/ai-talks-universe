@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ofer Mendelevitch"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T00:17:25Z
 video_id: fdVeNXdI8Ro
+url: https://www.youtube.com/watch?v=fdVeNXdI8Ro
 youtube_url: https://www.youtube.com/watch?v=fdVeNXdI8Ro
 tags: ["agentic RAG", "enterprise AI", "ChatGPT", "artificial intelligence", "machine learning", "RAG", "AI accuracy", "AI hallucinations", "enterprise AI applications", "AI reliability", "context aware AI assistants", "Python tutorial", "intelligent agents", "autonomous systems", "decision making systems", "workflow automation", "knowledge management", "information retrieval", "contextual understanding", "multi step reasoning", "goal oriented AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building Enterprise Agentic RAG Applications w/ Reduced Hallucinations
 
-**Speaker not identified**
+**Ofer Mendelevitch**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

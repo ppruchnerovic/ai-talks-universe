@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Marko Hotti", "Sergiy Smyrnov"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-03T11:18:13Z
 video_id: 9D9Npc-7VoQ
+url: https://www.youtube.com/watch?v=9D9Npc-7VoQ
 youtube_url: https://www.youtube.com/watch?v=9D9Npc-7VoQ
 tags: ["43d42b09-edf5-442a-8016-5661a369e0f1_M9Z7-DEM310-1", "Azure Cosmos DB", "CP&D", "DEM310", "Data", "Marko Hotti", "Sergiy Smyrnov", "Ship code faster with AI-powered NoSQL schema design | DEM310", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Ship code faster with AI-powered NoSQL schema design | DEM310
 
-**Speaker not identified**
+**Marko Hotti, Sergiy Smyrnov**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Robert Finlayson", "Shawn Henry", "Mike Hulme", "Balan Subramanian"]
 channel: "Microsoft Events"
 duration_min: 51
 published_at: 2025-12-02T20:30:27Z
 video_id: ThGXQlnS8Lo
+url: https://www.youtube.com/watch?v=ThGXQlnS8Lo
 youtube_url: https://www.youtube.com/watch?v=ThGXQlnS8Lo
 tags: ["BRK113", "Connected managed and complete agentic apps with Microsoft Foundry | BRK113", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Connected managed and complete agentic apps with Microsoft Foundry | BRK113
 
-**Speaker not identified**
+**Robert Finlayson, Shawn Henry, Mike Hulme, Balan Subramanian**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `51 min`
 

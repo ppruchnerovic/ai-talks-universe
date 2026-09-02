@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T14:20:00+00:00
 video_id: eM8Y276mSoY
+url: https://www.youtube.com/watch?v=eM8Y276mSoY
 youtube_url: https://www.youtube.com/watch?v=eM8Y276mSoY
 tags: ["Software Architecture", "Java", "Spring", "Spring Boot"]
 transcript: true

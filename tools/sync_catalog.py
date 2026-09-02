@@ -49,6 +49,7 @@ import shutil
 import subprocess
 import sys
 import time
+import unicodedata
 
 import atu
 
@@ -162,6 +163,141 @@ def enumerate_seed(src: dict, conf: dict) -> list[dict]:
     return out
 
 
+INFOQ_CACHE = atu.DATA / "infoq"
+
+# The keys infoq.py resolves that a YouTube listing has no way to know: the
+# edition a talk was given at (not the month InfoQ got round to posting it),
+# the speakers as InfoQ names them, and the abstract as its programme wrote it.
+INFOQ_FIELDS = ("description", "speakers", "published_at", "page_url", "video_url")
+
+# What infoq.enrich_existing() writes onto a YouTube record it matched, and
+# what a re-enumeration of the channel must therefore not overwrite.
+INFOQ_CLAIMED = ("description", "speakers", "published_at", "duration_s", "label", "year",
+                 "page_url", "infoq_url", "infoq_at", "details_at")
+
+
+def enumerate_infoq(src: dict) -> list[dict]:
+    """Read what infoq.py cached — the presentations YouTube never listed.
+
+    A source of type "infoq" is not a listing this script can page: the pages
+    are on infoq.com, they carry transcripts, and fetching them is metered by a
+    crawl delay, so infoq.py owns that stage the way enrich.py and
+    fetch_transcripts.py own theirs. This is the offline half, folded in on
+    every run like a seed.
+
+    Talks infoq.py matched to a video already in the catalogue are *not* here.
+    Those keep their YouTube id and were written straight onto their existing
+    record, so a merged talk stays one talk with one watchable video — emitting
+    them again is exactly the duplicate this route exists to avoid.
+    """
+    out = []
+    for path in sorted(INFOQ_CACHE.glob("*.json")):
+        with path.open(encoding="utf-8") as f:
+            ed = json.load(f)
+        for r in ed.get("talks", {}).values():
+            if r.get("matched_youtube") or not r.get("id") or not r.get("title"):
+                continue
+            rec = {
+                "video_id": r["id"],
+                "title": " ".join(r["title"].split()),
+                "duration_s": r.get("duration_s"),
+                "channel": "InfoQ",
+                "label": ed.get("name") or r.get("edition_name"),
+                "year": ed.get("year") or r.get("year"),
+                "source_url": src["url"],
+                # The page fetch already collected everything enrich.py would go
+                # looking for, and from a better source than the channel.
+                "details_at": r.get("fetched_at") or ed.get("fetched_at"),
+            }
+            for k in INFOQ_FIELDS:
+                if r.get(k):
+                    rec[k] = r[k]
+            out.append(rec)
+    return out
+
+
+def claim_for_infoq(videos: dict, found: list[dict]) -> tuple[list[dict], int]:
+    """An iq- record whose talk has since reached the YouTube channel is folded
+    onto that video rather than kept beside it.
+
+    infoq.py de-duplicates at fetch time, against the channel as it was that
+    day. InfoQ posts to its channel months after the presentation page goes
+    up, so a talk fetched as `iq-…` can later appear under a YouTube id — and
+    without this it stayed a permanent second record. The match is the same
+    title match infoq.py makes; on a hit the YouTube record gets what the page
+    gave (abstract, speakers, edition, links) and the transcript file, and the
+    iq- record is not emitted. Idempotent: next run finds the video already
+    claimed and the iq- record still absent.
+    """
+    import infoq
+
+    by_key = infoq.catalog_index({"videos": videos})
+    kept, claimed = [], 0
+    for rec in found:
+        vid = infoq.match_existing(infoq.title_key(rec["title"]), by_key)
+        if not vid:
+            kept.append(rec)
+            continue
+        target = videos[vid]
+        changed = False
+        if not target.get("infoq_at"):
+            talk = {"description": rec.get("description", ""), "speakers": rec.get("speakers") or [],
+                    "page_url": rec.get("page_url"), "published_at": rec.get("published_at"),
+                    "duration_s": rec.get("duration_s")}
+            infoq.enrich_existing(target, talk, {"name": rec["label"], "year": rec["year"]},
+                                  rec.get("details_at") or "")
+            changed = True
+        src_tr, dst_tr = atu.transcript_path(rec["video_id"]), atu.transcript_path(vid)
+        if src_tr.exists() and not dst_tr.exists():
+            tr = json.loads(src_tr.read_text(encoding="utf-8"))
+            tr["video_id"] = vid
+            atu.write_json(dst_tr, tr, compact=True)
+            changed = True
+        claimed += 1
+        if changed:
+            print(f"    {rec['video_id']} is now on YouTube as {vid} — folded onto that record")
+    return kept, claimed
+
+
+def sync_infoq(reg: dict) -> None:
+    """Fold every "infoq" source into its catalogue. Offline, so unconditional.
+
+    A cache that is missing or empty is treated the way an empty listing is
+    in refresh_conference(): the videos it previously contributed stay, and
+    the source is marked stale. Otherwise a checkout without data/infoq/ — a
+    CI runner, a shallow clone — would silently delete every iq- record,
+    which at 222 talks sits under the 10% shrink guard.
+    """
+    for conf in reg["conferences"]:
+        srcs = [s for s in conf["sources"] if s.get("type") == "infoq"]
+        if not srcs:
+            continue
+        cat = atu.load_catalog(conf["slug"])
+        before = json.dumps(cat, ensure_ascii=False, sort_keys=True)
+        videos = cat.setdefault("videos", {})
+        meta = [m for m in cat.get("sources", [])
+                if m.get("url") not in {s["url"] for s in srcs}]
+        for src in srcs:
+            found = enumerate_infoq(src)
+            if not found:
+                kept = sum(1 for v in videos.values() if v.get("source_url") == src["url"])
+                print(f"  ! infoq cache empty or missing ({INFOQ_CACHE}) "
+                      f"— keeping the {kept} cached videos")
+                meta.append({"url": src["url"], "label": src.get("label"),
+                             "year": src.get("year"), "count": kept, "type": "infoq",
+                             "stale": True})
+                continue
+            found, claimed = claim_for_infoq(videos, found)
+            merge_source(videos, src, found)
+            meta.append({"url": src["url"], "label": src.get("label"),
+                         "year": src.get("year"), "count": len(found), "type": "infoq"})
+        cat.update({"slug": conf["slug"], "name": conf["name"], "sources": meta,
+                    "count": len(videos), "videos": dict(sorted(videos.items()))})
+        if json.dumps(cat, ensure_ascii=False, sort_keys=True) != before:
+            atu.write_json(atu.catalog_path(conf["slug"]), cat)
+            print(f"  infoq {conf['slug']}: {cat['count']} videos cached")
+
+
 def merge_source(videos: dict, src: dict, found: list[dict]) -> None:
     """Fold one source's listing into the cached catalogue, in place.
 
@@ -179,6 +315,15 @@ def merge_source(videos: dict, src: dict, found: list[dict]) -> None:
         prev = videos.get(f["video_id"], {})
         carried = {k: prev[k] for k in ("description", "published_at", "tags", "details_at")
                    if k in prev and k not in f}
+        if prev.get("infoq_at"):
+            # infoq.py found this video on the programme and wrote the page's
+            # facts onto it. Those beat the listing's — the edition it was
+            # given at over the playlist it sits in, the speakers as stated
+            # over none — so they win even where the listing has a value, or
+            # the first weekly --refresh would strip them and never put them
+            # back: the InfoQ cache says `matched_youtube` and is not
+            # re-applied.
+            carried.update({k: prev[k] for k in INFOQ_CLAIMED if k in prev})
         videos[f["video_id"]] = {**f, **carried}
 
 
@@ -223,8 +368,8 @@ def refresh_conference(conf: dict, pace: float) -> dict:
     sources_meta = []
 
     for src in conf["sources"]:
-        if src.get("type") == "videos":
-            continue                      # offline, and folded in by sync_seeds
+        if src.get("type") in ("videos", "infoq"):
+            continue                      # offline; sync_seeds/sync_infoq fold these in
         time.sleep(random.uniform(0, pace))
         found = enumerate_source(src)
         print(f"    {len(found):>4}  {src.get('label') or src['url']}")
@@ -266,14 +411,33 @@ applications application systems system models model learning networks network r
 science medicine health healthcare robotics energy climate industry education future ethics
 design city cities transport mobility aviation retail finance banking insurance manufacturing
 platform platforms tools tooling infrastructure production scale scaling practice practices
+chief head officer director manager managers lead leads staff product products operations business
+strategy team teams needs architect architects founder founders ceo cto cio vp president senior
+principal engineer engineers scientist scientists analyst analytics advisor advocate evangelist member
+members professor assistant associate web hours speech
 """.split())
 
 PARTICLES = {"van", "von", "de", "der", "den", "del", "di", "da", "le", "la", "el", "bin",
              "al", "dos", "das", "ter", "ten", "op", "of"}
 
+# The heading a description states its speakers under. The names may follow on
+# the same line ("Speaker: Jane Doe, Acme") or on the lines after it — Ignite
+# and Build write "Speakers:" and then one " * Name" bullet a line, MLOps World
+# writes "Speaker:" and the name on the next line — so the capture may be empty
+# and speakers_from_description() then reads on.
 DESC_SPEAKER_RE = re.compile(
-    r"^\s*(?:speakers?|presenters?|presented by|speaker\(s\)|by)\s*[:\-–]\s*(.{3,160})$",
+    r"^\s*(?:about the )?(?:speakers?|presenters?|presented by|speaker\(s\)|by)[ \t]*[:\-–][ \t]*(.{0,160})$",
     re.I | re.M)
+
+# A leading "[VDBUH2026]" or "[Track A]" is the playlist's tag, not a segment.
+TITLE_TAG_RE = re.compile(r"^\s*\[[^\]]{1,24}\]\s*")
+
+# Two or three people sharing one title segment: "A & B", "A and B", "A + B".
+CO_SPEAKER_RE = re.compile(r"\s*&\s*|\s+and\s+|\s*\+\s*", re.I)
+
+# "… by Jane Doe" or "… by Jane Doe and John Roe" at the end of a title, which
+# is how Devoxx signs 226 of the titles that carry no speaker anywhere else.
+BY_NAME_RE = re.compile(r".*\bby\s+([A-ZÀ-Þ][^|—–\[\]]{2,80}?)\s*$")
 
 
 def name_like(seg: str, blocked: set[str]) -> str | None:
@@ -303,25 +467,85 @@ def name_like(seg: str, blocked: set[str]) -> str | None:
     return seg
 
 
+def names_in(seg: str, blocked: set[str]) -> list[str]:
+    """The people named in one segment: one name, or several joined by &/and/+.
+
+    A joined segment is accepted only when *every* part is a name — splitting
+    without that rule made "Web Scraping" and "Hours of Speech" speakers, out
+    of "Web Scraping and Hours of Speech" style titles. The comma still cuts
+    first, so "A & B, Company" is asked about "A & B" and never about
+    "Company & Co".
+    """
+    head = re.split(r"\s*[(,]\s*", seg.strip(), 1)[0]
+    parts = [x for x in CO_SPEAKER_RE.split(head) if x.strip()]
+    if len(parts) > 1:
+        names = [name_like(x, blocked) for x in parts]
+        return names if all(names) else []
+    n = name_like(seg, blocked)
+    return [n] if n else []
+
+
 def speakers_from_title(title: str, blocked: set[str]) -> list[str]:
+    title = TITLE_TAG_RE.sub("", title or "")
+    out: list[str] = []
+    m = BY_NAME_RE.match(title)
+    if m:
+        for part in re.split(r"\s*,\s*", m.group(1)):
+            names = names_in(part, blocked)
+            if not names:
+                out = []
+                break
+            out += [n for n in names if n not in out]
+        if out:
+            return out
     segs = [s for s in SPLIT_RE.split(title) if s.strip()]
     if len(segs) < 2:
         return []
-    out = []
     for s in segs:
-        n = name_like(s, blocked)
-        if n and n not in out:
-            out.append(n)
+        for n in names_in(s, blocked):
+            if n not in out:
+                out.append(n)
     return out
 
 
 def speakers_from_description(desc: str, blocked: set[str]) -> list[str]:
-    for m in DESC_SPEAKER_RE.finditer(desc or ""):
+    """The names a description states under a Speaker(s) heading.
+
+    NFKC first: Microsoft's channels write the heading in Unicode
+    mathematical-bold letters ("𝗦𝗽𝗲𝗮𝗸𝗲𝗿𝘀:"), which no ASCII regex sees.
+    When nothing follows the heading on its line, the names are read off the
+    lines below it — bulleted or bare, one person a line — up to the first
+    line that is not a name, which is where the bio or the next section starts.
+    """
+    desc = unicodedata.normalize("NFKC", desc or "")
+    lines = desc.split("\n")
+    for m in DESC_SPEAKER_RE.finditer(desc):
         names = []
-        for part in re.split(r"\s*(?:,|&|\band\b)\s*", m.group(1)):
-            n = name_like(part, blocked)
-            if n and n not in names:
-                names.append(n)
+        inline = m.group(1).strip()
+        if inline:
+            for part in re.split(r"\s*(?:,|&|\band\b)\s*", inline):
+                n = name_like(part, blocked)
+                if n and n not in names:
+                    names.append(n)
+        else:
+            # Bulleted lines are a list of people and are all read; a bare
+            # line is one person, and what follows it is their job title and
+            # employer ("Head of Product", "Acme"), which is not a second name.
+            at = desc.count("\n", 0, m.end()) + 1
+            for line in lines[at:at + 8]:
+                bullet = re.match(r"^\s*[*•·\-–]\s+", line)
+                s = line[bullet.end():].strip() if bullet else line.strip()
+                if not s:
+                    if names:
+                        break
+                    continue
+                n = name_like(s, blocked)
+                if not n:
+                    break
+                if n not in names:
+                    names.append(n)
+                if not bullet:
+                    break
         if names:
             return names
     return []
@@ -486,9 +710,20 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool,
         blocked = blocked_words(conf)
         candidates = []
         by_url = {s["url"]: s for s in conf["sources"]}
+        infoq_src = next((s for s in conf["sources"] if s.get("type") == "infoq"), None)
 
         for vid, v in cat.get("videos", {}).items():
-            ok, why = keep_video(v, conf, ai_filter, by_url.get(v.get("source_url")), floor)
+            # A record's rules come from the source that listed it — except
+            # where a better source has since claimed the same talk. `infoq_at`
+            # means infoq.py found this video on InfoQ's own programme and
+            # merged its transcript in, and a talk on the programme is governed
+            # by the programme's rules however it was first enumerated.
+            # Without this, one QCon London 2025 session is kept and the
+            # session in the next room is dropped, purely because one of them
+            # also happened to reach the YouTube channel.
+            src = infoq_src if (v.get("infoq_at") and infoq_src) \
+                else by_url.get(v.get("source_url"))
+            ok, why = keep_video(v, conf, ai_filter, src, floor)
             if not ok:
                 drop[why] += 1
                 continue
@@ -555,7 +790,14 @@ def build_talks(reg: dict, only: list[str], ai_filter: bool,
                 "duration_s": v.get("duration_s"),
                 "published_at": v.get("published_at"),
                 "tags": clean_tags(v.get("tags")),
-                "youtube_url": atu.WATCH.format(vid=vid),
+                # Not every record is a YouTube one any more. `url` is the
+                # canonical link — the video where there is a video, the talk's
+                # own page where InfoQ is all there is — and `youtube_url` says
+                # only what it claims to, so a reader that wants to build
+                # `&t=`, an embed or a thumbnail can tell whether it may.
+                "youtube_url": atu.WATCH.format(vid=vid) if atu.is_youtube_id(vid) else None,
+                "url": atu.watch_url(vid, v.get("page_url")),
+                "page_url": v.get("page_url"),
                 "conference_site": conf["site"],
                 "availability": conf["availability"],
                 "priority": conf["priority"],
@@ -589,6 +831,7 @@ channel: {channel_q}
 duration_min: {duration_min}
 published_at: {published_at}
 video_id: {video_id}
+url: {url}
 youtube_url: {youtube_url}
 tags: {tags_json}
 transcript: {has_transcript}
@@ -600,7 +843,7 @@ transcript: {has_transcript}
 
 `{conference_name}` · `{edition}`{year_bit} · `{duration}`{tag_line}
 
-[Watch the recording]({youtube_url}) · [Conference site]({conference_site})
+[{watch_label}]({url}) · [Conference site]({conference_site})
 
 ## Description
 
@@ -620,24 +863,29 @@ def transcript_block(t: dict) -> str:
     lines.append(
         f"*{tr.get('word_count', 0):,} words · source: {tr.get('source', 'youtube')} "
         f"({tr.get('language', 'en')}, {tr.get('timing', 'exact')} timings)*\n")
-    # ~45s paragraphs, each deep-linking back into the video.
+    # ~45s paragraphs, each deep-linking back into the video where the video
+    # accepts a timestamp. An InfoQ-only talk has a page rather than a
+    # watch URL, and `?t=` means nothing to it, so those keep the timestamp as
+    # plain text: still a position in the talk, just not a link that lies.
+    yt = t["youtube_url"]
     bucket, bucket_start = [], None
     for seg in tr["segments"]:
         if bucket_start is None:
             bucket_start = seg["start"]
         bucket.append(seg["text"])
         if seg["start"] - bucket_start >= 45:
-            lines.append(_para(bucket, bucket_start, t["video_id"]))
+            lines.append(_para(bucket, bucket_start, yt))
             bucket, bucket_start = [], None
     if bucket:
-        lines.append(_para(bucket, bucket_start or 0, t["video_id"]))
+        lines.append(_para(bucket, bucket_start or 0, yt))
     return "\n".join(lines)
 
 
-def _para(texts: list[str], start: float, vid: str) -> str:
+def _para(texts: list[str], start: float, youtube_url: str | None) -> str:
     body = " ".join(" ".join(texts).split())
     ts = f"{int(start) // 60:d}:{int(start) % 60:02d}"
-    return f"**[{ts}](https://www.youtube.com/watch?v={vid}&t={int(start)}s)** {body}\n"
+    stamp = f"[{ts}]({youtube_url}&t={int(start)}s)" if youtube_url else ts
+    return f"**{stamp}** {body}\n"
 
 
 def render_md(t: dict) -> str:
@@ -662,18 +910,21 @@ def render_md(t: dict) -> str:
         duration_min=t["duration_min"] if t["duration_min"] else "null",
         published_at=t["published_at"] or "null",
         video_id=t["video_id"],
-        youtube_url=t["youtube_url"],
+        url=t["url"] or "",
+        watch_label="Watch the recording" if t["url"] else "No recording link",
+        youtube_url=t["youtube_url"] or "null",
         conference_site=t["conference_site"],
         tags_json=json.dumps(t["tags"], ensure_ascii=False),
         tag_line=("\n\n" + " ".join(f"`#{x}`" for x in t["tags"])) if t["tags"] else "",
         has_transcript=str(atu.transcript_path(t["id"]).exists()).lower(),
-        description=t["description"] or "*No description published on YouTube.*",
+        description=t["description"] or ("*No description published on YouTube.*"
+                                         if t["youtube_url"] else "*No description published.*"),
         transcript_block=transcript_block(t),
     )
 
 
 CSV_FIELDS = ["id", "title", "conference", "conference_name", "category", "edition", "year",
-              "speakers", "channel", "duration_min", "published_at", "youtube_url", "description"]
+              "speakers", "channel", "duration_min", "published_at", "url", "description"]
 
 
 def csv_row(t: dict) -> dict:
@@ -767,8 +1018,10 @@ def main() -> None:
             print(f"    = {cat['count']} videos cached")
         print()
 
-    # Seeds are read from disk, so they cost nothing and are always current.
+    # Seeds and the InfoQ cache are read from disk, so they cost nothing and are
+    # always current.
     sync_seeds(reg)
+    sync_infoq(reg)
 
     # The corpus is always derived from every conference, even when only one was
     # refreshed — otherwise a targeted refresh would publish a corpus of one.
@@ -777,7 +1030,8 @@ def main() -> None:
     check_not_shrinking(len(talks), args.allow_shrink)
 
     body = {
-        "source": "YouTube playlists and channels listed in conferences.json",
+        "source": "YouTube playlists and channels listed in conferences.json, "
+                  "plus InfoQ's own presentation pages",
         "ai_filter": not args.no_ai_filter,
         "min_year": floor,
         "conferences": [{"slug": c["slug"], "name": c["name"], "category": c["category"]}

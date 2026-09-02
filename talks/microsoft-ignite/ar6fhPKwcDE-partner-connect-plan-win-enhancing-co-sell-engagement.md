@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: ["Enhancing Co-sell Engagement"]
+speakers: ["Fabian Grote"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-24T14:04:08Z
 video_id: ar6fhPKwcDE
+url: https://www.youtube.com/watch?v=ar6fhPKwcDE
 youtube_url: https://www.youtube.com/watch?v=ar6fhPKwcDE
 tags: ["2db78192-621c-4137-b228-2786109d768d_Segment", "Christopher Woodin", "English (US)", "Fabian Grote", "Julie Sanford", "Microsoft AI Cloud Partner Program", "PBRK417", "Partner Business", "Partner: Connect Plan Win - Enhancing Co-sell Engagement | PBRK417", "SAURABH RANA", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partner: Connect, Plan, Win - Enhancing Co-sell Engagement | PBRK417
 
-**Enhancing Co-sell Engagement**
+**Fabian Grote**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

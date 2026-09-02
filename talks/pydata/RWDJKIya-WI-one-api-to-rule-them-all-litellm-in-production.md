@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 26
 published_at: 2025-11-23T14:33:51Z
 video_id: RWDJKIya-WI
+url: https://www.youtube.com/watch?v=RWDJKIya-WI
 youtube_url: https://www.youtube.com/watch?v=RWDJKIya-WI
 tags: ["API gateway", "Conference", "Docker deployment", "LLM observability", "LLM production", "LiteLLM", "OpenAI API", "PostgreSQL", "PyConDE", "PyData", "Python", "RAG system", "Redis", "Tech Talk", "budget management", "cost tracking", "enterprise AI", "model routing", "multi-provider LLM"]
 transcript: false

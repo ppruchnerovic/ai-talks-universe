@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Matt Helm"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2024-04-19T05:00:24Z
 video_id: pLb5sFZ7nWw
+url: https://www.youtube.com/watch?v=pLb5sFZ7nWw
 youtube_url: https://www.youtube.com/watch?v=pLb5sFZ7nWw
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Real-Time Analytics for Small Data Teams
 
-**Speaker not identified**
+**Matt Helm**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `37 min`
 

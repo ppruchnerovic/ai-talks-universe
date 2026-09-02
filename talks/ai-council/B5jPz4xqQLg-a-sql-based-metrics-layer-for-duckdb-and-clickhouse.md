@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Mike Driscoll"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T06:59:59Z
 video_id: B5jPz4xqQLg
+url: https://www.youtube.com/watch?v=B5jPz4xqQLg
 youtube_url: https://www.youtube.com/watch?v=B5jPz4xqQLg
 tags: ["SQL metrics layer", "DuckDB", "ChatGPT", "artificial intelligence", "machine learning", "ClickHouse", "database", "analytics", "data engineering", "business intelligence", "data modeling", "OLAP", "metrics views", "BI as code", "Python tutorial", "semantic layer", "metrics catalog", "KPI management", "business metrics", "performance indicators", "data governance", "self service analytics", "dimensional modeling", "measure definitions"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # A SQL Based Metrics Layer for DuckDB and ClickHouse
 
-**Speaker not identified**
+**Mike Driscoll**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

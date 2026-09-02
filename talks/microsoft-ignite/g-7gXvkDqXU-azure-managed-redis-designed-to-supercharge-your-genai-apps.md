@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Balan Subramanian", "Kyle Teegarden"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-25T12:54:12Z
 video_id: g-7gXvkDqXU
+url: https://www.youtube.com/watch?v=g-7gXvkDqXU
 youtube_url: https://www.youtube.com/watch?v=g-7gXvkDqXU
 tags: ["Azure", "Azure Managed Redis: Designed to supercharge your GenAI Apps | BRK206", "BRK206", "Balan Subramanian", "Breakout", "Data", "English (US)", "Intermediate (200)", "Kyle Teegarden", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Azure Managed Redis: Designed to supercharge your GenAI Apps | BRK206
 
-**Speaker not identified**
+**Balan Subramanian, Kyle Teegarden**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

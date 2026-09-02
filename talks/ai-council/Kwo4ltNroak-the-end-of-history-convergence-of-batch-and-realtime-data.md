@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 37
 published_at: 2023-05-11T18:58:02Z
 video_id: Kwo4ltNroak
+url: https://www.youtube.com/watch?v=Kwo4ltNroak
 youtube_url: https://www.youtube.com/watch?v=Kwo4ltNroak
 tags: ["Lambda", "Kappa", "data engineering", "batch processing", "realtime processing"]
 transcript: false

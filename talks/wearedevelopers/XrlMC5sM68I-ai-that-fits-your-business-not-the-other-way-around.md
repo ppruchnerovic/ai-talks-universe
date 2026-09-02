@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T14:10:00+00:00
 video_id: XrlMC5sM68I
+url: https://www.youtube.com/watch?v=XrlMC5sM68I
 youtube_url: https://www.youtube.com/watch?v=XrlMC5sM68I
 tags: ["Cloud & AI Infrastructure", "Business Models", "NVIDIA", "OpenShift"]
 transcript: true

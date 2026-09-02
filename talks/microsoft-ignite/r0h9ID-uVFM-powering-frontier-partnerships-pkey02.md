@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: ["Powering Frontier Partnerships"]
+speakers: ["Judson Althoff", "Nicole Dezen", "Ralph Haupter", "Nick Parker"]
 channel: "Microsoft Events"
 duration_min: 72
 published_at: 2025-11-24T19:13:28Z
 video_id: r0h9ID-uVFM
+url: https://www.youtube.com/watch?v=r0h9ID-uVFM
 youtube_url: https://www.youtube.com/watch?v=r0h9ID-uVFM
 tags: ["Chase Center", "English (US)", "Judson Althoff", "Microsoft AI Cloud Partner Program", "Nick Parker", "Nicole Dezen", "PKEY02", "PKEY02_v1", "Partner Business", "Powering Frontier Partnerships | PKEY02", "Ralph Haupter", "Signature pass", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Powering Frontier Partnerships | PKEY02
 
-**Powering Frontier Partnerships**
+**Judson Althoff, Nicole Dezen, Ralph Haupter, Nick Parker**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `72 min`
 

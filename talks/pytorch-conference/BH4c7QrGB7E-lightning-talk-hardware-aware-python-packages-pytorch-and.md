@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Jonathan Dekhtiar", "Eli Uriegas"]
 channel: "PyTorch"
 duration_min: 11
 published_at: null
 video_id: BH4c7QrGB7E
+url: https://www.youtube.com/watch?v=BH4c7QrGB7E
 youtube_url: https://www.youtube.com/watch?v=BH4c7QrGB7E
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Lightning Talk: Hardware-Aware Python Packages ~ PyTorch and... - Jonathan Dekhtiar & Eli Uriegas
 
-**Speaker not identified**
+**Jonathan Dekhtiar, Eli Uriegas**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `11 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Ryan Dolley"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2024-04-19T05:00:05Z
 video_id: 5GEqB95xszs
+url: https://www.youtube.com/watch?v=5GEqB95xszs
 youtube_url: https://www.youtube.com/watch?v=5GEqB95xszs
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # WTF is an Analytics Lake: Building an Open Data Service Layer with Arrow, DuckDB and Semantic Layer
 
-**Speaker not identified**
+**Ryan Dolley**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `36 min`
 

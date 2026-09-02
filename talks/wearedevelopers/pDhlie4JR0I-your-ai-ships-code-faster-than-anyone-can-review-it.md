@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 4
 published_at: 2026-07-09T12:55:00+00:00
 video_id: pDhlie4JR0I
+url: https://www.youtube.com/watch?v=pDhlie4JR0I
 youtube_url: https://www.youtube.com/watch?v=pDhlie4JR0I
 tags: ["Quality & Reliability", "AppSec", "Agents", "DevSecOps", "Security", "Threat Modelling"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2024-07-29T09:00:17Z
 video_id: KwGKK83368c
+url: https://www.youtube.com/watch?v=KwGKK83368c
 youtube_url: https://www.youtube.com/watch?v=KwGKK83368c
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LinkedIn", "Graph Database", "NoSQL", "Database", "Performance", "Scalability"]
 transcript: false

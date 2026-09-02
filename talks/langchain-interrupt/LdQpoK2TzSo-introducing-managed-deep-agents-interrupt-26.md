@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 18
 published_at: 2026-05-29T13:06:00Z
 video_id: LdQpoK2TzSo
+url: https://www.youtube.com/watch?v=LdQpoK2TzSo
 youtube_url: https://www.youtube.com/watch?v=LdQpoK2TzSo
 tags: ["Managed Deep Agents", "Deep Agents", "LangChain", "LangSmith", "LangGraph", "agent harness", "agent in production", "LangSmith Sandboxes", "Context Hub", "human in the loop", "sub-agents", "agent memory", "durable execution", "agent checkpointing", "agent interoperability", "Agent-to-Agent protocol", "production AI agents", "LLM agents", "multi-agent systems", "agent orchestration", "long-running agents", "Interrupt conference", "building AI agents"]
 transcript: true

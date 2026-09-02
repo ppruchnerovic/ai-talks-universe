@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 31
 published_at: 2025-04-25T08:40:00Z
 video_id: iXhdlc3kgnk
+url: https://www.youtube.com/watch?v=iXhdlc3kgnk
 youtube_url: https://www.youtube.com/watch?v=iXhdlc3kgnk
 tags: []
 transcript: false

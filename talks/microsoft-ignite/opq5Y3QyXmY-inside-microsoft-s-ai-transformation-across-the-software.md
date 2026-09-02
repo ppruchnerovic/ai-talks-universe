@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Amanda Silver", "Jenny Ferries", "Karl Piteira"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-25T15:37:51Z
 video_id: opq5Y3QyXmY
+url: https://www.youtube.com/watch?v=opq5Y3QyXmY
 youtube_url: https://www.youtube.com/watch?v=opq5Y3QyXmY
 tags: ["Amanda Silver", "BRK115", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Inside Microsoft's AI transformation across the software lifecycle | BRK115", "Jenny Ferries", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Inside Microsoft's AI transformation across the software lifecycle | BRK115
 
-**Speaker not identified**
+**Amanda Silver, Jenny Ferries, Karl Piteira**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

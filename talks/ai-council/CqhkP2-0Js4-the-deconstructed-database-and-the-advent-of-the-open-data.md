@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Julien Le Dem"]
 channel: "AI Council"
 duration_min: 49
 published_at: 2025-05-29T14:11:53Z
 video_id: CqhkP2-0Js4
+url: https://www.youtube.com/watch?v=CqhkP2-0Js4
 youtube_url: https://www.youtube.com/watch?v=CqhkP2-0Js4
 tags: ["database tutorial", "SQL tutorial", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "big data", "cloud computing", "open source", "data lake", "Apache Parquet", "Apache Arrow", "Apache Iceberg", "data architecture", "modern data stack", "analytics", "database design", "Python", "PostgreSQL", "MySQL", "MongoDB", "database optimization", "query optimization", "ACID transactions", "NoSQL", "relational database", "database administration", "DBA", "data modeling", "entity relationship", "normalization"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Deconstructed Database and the Advent of the Open Data Lake
 
-**Speaker not identified**
+**Julien Le Dem**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `49 min`
 

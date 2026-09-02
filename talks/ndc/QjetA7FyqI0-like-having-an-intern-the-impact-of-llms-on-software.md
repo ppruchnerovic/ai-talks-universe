@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-08-13T11:18:06Z
 video_id: QjetA7FyqI0
+url: https://www.youtube.com/watch?v=QjetA7FyqI0
 youtube_url: https://www.youtube.com/watch?v=QjetA7FyqI0
 tags: ["GenAI", "People", "Work skills", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Tom Sellek", "Netta Avnoon"]
 transcript: true

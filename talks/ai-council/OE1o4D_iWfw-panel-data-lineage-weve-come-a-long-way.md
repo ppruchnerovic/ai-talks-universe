@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Harel Shein"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2024-04-19T05:00:11Z
 video_id: OE1o4D_iWfw
+url: https://www.youtube.com/watch?v=OE1o4D_iWfw
 youtube_url: https://www.youtube.com/watch?v=OE1o4D_iWfw
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Panel: Data Lineage We’ve Come a Long Way
 
-**Speaker not identified**
+**Harel Shein**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `41 min`
 

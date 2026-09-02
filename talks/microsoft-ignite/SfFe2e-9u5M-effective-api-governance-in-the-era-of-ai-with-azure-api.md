@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Budzynski", "Julia Kasper"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:35:37Z
 video_id: SfFe2e-9u5M
+url: https://www.youtube.com/watch?v=SfFe2e-9u5M
 youtube_url: https://www.youtube.com/watch?v=SfFe2e-9u5M
 tags: ["AI", "API", "Apps", "Apps-Curated", "BRK143", "Breakout", "Effective API governance in the era of AI with Azure API Management | BRK143", "English (US)", "Intermediate (200)", "Julia Kasper", "Mike Budzynski", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Effective API governance in the era of AI with Azure API Management | BRK143
 
-**Speaker not identified**
+**Mike Budzynski, Julia Kasper**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

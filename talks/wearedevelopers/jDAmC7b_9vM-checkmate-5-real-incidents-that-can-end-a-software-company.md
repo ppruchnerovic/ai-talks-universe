@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T13:30:00+00:00
 video_id: jDAmC7b_9vM
+url: https://www.youtube.com/watch?v=jDAmC7b_9vM
 youtube_url: https://www.youtube.com/watch?v=jDAmC7b_9vM
 tags: ["Security & Privacy", "AppSec", "Cloud Security", "Infosec", "Secure Coding", "Security"]
 transcript: true

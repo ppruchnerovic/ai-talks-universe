@@ -12,6 +12,7 @@ channel: "Agentic AI Foundation"
 duration_min: 27
 published_at: 2026-04-13T23:17:09Z
 video_id: SfdRReLa93s
+url: https://www.youtube.com/watch?v=SfdRReLa93s
 youtube_url: https://www.youtube.com/watch?v=SfdRReLa93s
 tags: []
 transcript: true

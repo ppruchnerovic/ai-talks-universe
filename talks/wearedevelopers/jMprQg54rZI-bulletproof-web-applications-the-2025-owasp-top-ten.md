@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-09T11:30:00+00:00
 video_id: jMprQg54rZI
+url: https://www.youtube.com/watch?v=jMprQg54rZI
 youtube_url: https://www.youtube.com/watch?v=jMprQg54rZI
 tags: ["Security & Privacy", "OWASP", "Security"]
 transcript: true

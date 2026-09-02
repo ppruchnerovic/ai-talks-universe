@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 30
 published_at: 2025-03-03T20:23:42Z
 video_id: JnyfgTBa404
+url: https://www.youtube.com/watch?v=JnyfgTBa404
 youtube_url: https://www.youtube.com/watch?v=JnyfgTBa404
 tags: []
 transcript: false

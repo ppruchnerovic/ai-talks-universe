@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 47
 published_at: 2026-08-13T11:32:12Z
 video_id: zlHW5aoO0fw
+url: https://www.youtube.com/watch?v=zlHW5aoO0fw
 youtube_url: https://www.youtube.com/watch?v=zlHW5aoO0fw
 tags: ["Architecture", "Cross-Platform", "DevOps", "People", "Soft Skills", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Sarah Wimberley"]
 transcript: true

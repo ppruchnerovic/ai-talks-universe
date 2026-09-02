@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["Guy Podjarny", "Simon Maple"]
 channel: "AI Native Dev"
 duration_min: 7
 published_at: 2025-09-19T13:00:57Z
 video_id: SGlA8AsFKG0
+url: https://www.youtube.com/watch?v=SGlA8AsFKG0
 youtube_url: https://www.youtube.com/watch?v=SGlA8AsFKG0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Tessl’s Solution to Overconfident Agents | Guy Podjarny & Simon Maple
 
-**Speaker not identified**
+**Guy Podjarny, Simon Maple**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `7 min`
 

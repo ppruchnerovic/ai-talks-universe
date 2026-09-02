@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 45
 published_at: 2026-05-11T06:56:20Z
 video_id: Jigo5fkA1gM
+url: https://www.youtube.com/watch?v=Jigo5fkA1gM
 youtube_url: https://www.youtube.com/watch?v=Jigo5fkA1gM
 tags: ["Application Security", "Fun", "Programming", "LLM", "NDC", "Conferences", "Security", "2026", "Live", "Oslo", "Norway", "Sean Sinclair"]
 transcript: true

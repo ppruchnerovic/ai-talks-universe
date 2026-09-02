@@ -1,0 +1,510 @@
+{
+  "edition": "infoq-dev-summit-munich-2025",
+  "name": "InfoQ Dev Summit Munich 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:32:38+00:00",
+  "count": 25,
+  "talks": {
+    "agentic-compute": {
+      "slug": "agentic-compute",
+      "page_url": "https://www.infoq.com/presentations/agentic-compute/",
+      "has_transcript": true,
+      "title": "Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
+      "description": "Arun Joseph shares real-world insights on scaling enterprise agentic platforms like Deutsche Telekom’s LMOS. He discusses bridging organizational fault lines, replacing tool sprawl with core platform abstractions, and moving beyond basic chatbots to operational intelligence systems through ephemeral agents and an Agent Definition Language (ADL).\n\nArun Joseph is co-founder & CEO of Masaic, a stealth startup building AGC, the Agentic Compute: a new computing substrate for knowledge work. AGC is open by design and built for scale, providing the architectural foundation for decisioning and actioning systems that integrate with existing enterprise stacks.",
+      "speakers": [
+        "Arun Joseph"
+      ],
+      "duration_s": 2932,
+      "published_at": "2026-08-03T08:08:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-agenticcompute.mp4",
+      "id": "iq-agentic-compute",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6805,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "ai-innovation-2025": {
+      "slug": "ai-innovation-2025",
+      "page_url": "https://www.infoq.com/presentations/ai-innovation-2025/",
+      "has_transcript": true,
+      "title": "AI Innovation in 2025 and beyond",
+      "description": "Tejas Kumar explains the trajectory of AI innovation, moving beyond the hype of 2024’s RAG into the \"year of agents\" in 2025. He shares how technologies like the Model Context Protocol (MCP) will dismantle traditional web UX, allowing developers to build tool-based ecosystems where AI handles everything from shopping to calendar management, prioritizing human life over digital navigation.\n\nTejas Kumar is an international keynote speaker, best selling author, and host of the developer-loved ConTejas Code podcast with an engineering background spanning 23 years, from design to frontend to backend to devops. Today, Tejas shares talks at large with developer communities worldwide, equipping them to do their best work.",
+      "speakers": [
+        "Tejas Kumar"
+      ],
+      "duration_s": 2874,
+      "published_at": "2026-02-23T09:13:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-aiinnovation.mp4",
+      "id": "iq-ai-innovation-2025",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7311,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "ai-systems-privacy-security": {
+      "slug": "ai-systems-privacy-security",
+      "page_url": "https://www.infoq.com/presentations/ai-systems-privacy-security/",
+      "has_transcript": true,
+      "title": "Busting AI Myths and Embracing Realities in Privacy & Security",
+      "description": "Katharine Jarmul keynotes on common myths around privacy and security in AI and explores what the realities are, covering design patterns that help build more secure, more private AI systems.\n\nKatharine Jarmul focuses her work and research on privacy and security in data science, deep learning and AI. She is author of the well received O'Reilly book Practical Data Privacy and has more than 10 years experience in machine learning/AI where she has helped build large scale AI systems with privacy and security built in.",
+      "speakers": [
+        "Katharine Jarmul"
+      ],
+      "duration_s": 2808,
+      "published_at": "2026-03-02T09:01:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-aimyths.mp4",
+      "id": "iq-ai-systems-privacy-security",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6752,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "architecture-patterns-llm": {
+      "slug": "architecture-patterns-llm",
+      "page_url": "https://www.infoq.com/presentations/architecture-patterns-llm/",
+      "has_transcript": true,
+      "title": "From Thousands to One: Building LLM-Powered Selection Systems",
+      "description": "Jendrik Jördening shares practical engineering strategies for integrating LLMs into production pipelines. He discusses overcoming non-determinism, restricting schemas, separating semantic text extraction from deterministic code, and validating choices using discriminator models. Learn how to structure LLMs with an MVC approach to ensure database integrity, observability, and system reliability.\n\nJendrik Jördening is CTO at Nooxit, where he is developing ML algorithms, MLOps infrastructure and managing the internal Kubernetes clusters. He formerly worked at Aurubis and Akka Germany on Data Science and Deep Learning in the field of industry 4.0 and autonomous machines.",
+      "speakers": [
+        "Jendrik Jördening"
+      ],
+      "duration_s": 2757,
+      "published_at": "2026-08-17T09:06:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-llmselectionsys.mp4",
+      "id": "iq-architecture-patterns-llm",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 5977,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "cyber-security-log4shell": {
+      "slug": "cyber-security-log4shell",
+      "page_url": "https://www.infoq.com/presentations/cyber-security-log4shell/",
+      "has_transcript": true,
+      "title": "Are We Ready for the Next Cyber Security Crisis Like Log4shell?",
+      "description": "Soroosh Khodami discusses why we aren't ready for the next Log4Shell. He shares live demos of dependency confusion and compromised builds, explaining how minor oversights gift hackers total system access. He explains the value of Software Bill of Materials (SBOM), dependency firewalls, and shifting security left to build resilient DevSecOps cultures that protect the modern software supply chain.\n\nSoroosh Khodami is a software engineer and software architecture enthusiast. With over 10 years of experience in diverse domains, including Telecom, Media & Entertainment, and E-Commerce. He has worked with small startups and large enterprises serving 80 million active subscribers. Currently working as a Solution Architect at Rabobank via Code Nomads.",
+      "speakers": [
+        "Soroosh Khodami"
+      ],
+      "duration_s": 3111,
+      "published_at": "2026-03-30T12:18:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-nextsecuritycrisis.mp4",
+      "id": "iq-cyber-security-log4shell",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7494,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "data-mesh-horse-powertrain": {
+      "slug": "data-mesh-horse-powertrain",
+      "page_url": "https://www.infoq.com/presentations/data-mesh-horse-powertrain/",
+      "has_transcript": true,
+      "title": "Data Mesh in Action: a Journey from Ideation to Implementation",
+      "description": "Anurag Kale discusses the transition from centralized data bottlenecks to a decentralized Data Mesh architecture at Horse Powertrain. He explains the four pillars - domain ownership, data as a product, self-serve platforms, and federated governance - to empower autonomous teams. Learn how to apply DDD and platform engineering to scale analytical value and align data strategy with business goals.\n\nAnurag Kale is a seasoned Cloud and Data Architect with over 11+ years of experience driving digital transformation across multiple industries. Currently serving as Cloud and Data Architect at Horse Powertrain, he spearheads the design of a hybrid Data Mesh. Anurag is an AWS Data Hero, recognized for his contributions to the cloud and data community.",
+      "speakers": [
+        "Anurag Kale"
+      ],
+      "duration_s": 2992,
+      "published_at": "2026-03-23T11:43:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-datameshaction.mp4",
+      "id": "iq-data-mesh-horse-powertrain",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7555,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "document-infrastructure-rust-typst": {
+      "slug": "document-infrastructure-rust-typst",
+      "page_url": "https://www.infoq.com/presentations/document-infrastructure-rust-typst/",
+      "has_transcript": true,
+      "title": "Million PDFs: Building a Modern Document Infrastructure with Rust and Typst",
+      "description": "Erik Steiger discusses the operational pain of legacy PDF generation in regulated banking and manufacturing. He explains how transitioning from resource-heavy engines like Puppeteer and LaTeX to a serverless Rust architecture powered by Typst can drop render latencies below 2ms. He shares how applying Git and Docker concepts to template registries ensures ironclad compliance and rapid debugging.\n\nErik Steiger is a senior software and AI engineer. He has an academic background in mathematics and previously worked on two AI startups as a technical co-founder. He then gained experience as a technical consultant, collaborating with startups and companies in regulated industries. Currently, he is focusing more on AI research and innovation, supporting deep tech startups in the Munich ecosystem.",
+      "speakers": [
+        "Erik Steiger"
+      ],
+      "duration_s": 2327,
+      "published_at": "2026-06-29T12:35:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-rustandtypst.mp4",
+      "id": "iq-document-infrastructure-rust-typst",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 4936,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "duolingo-eks-kubernetes": {
+      "slug": "duolingo-eks-kubernetes",
+      "page_url": "https://www.infoq.com/presentations/duolingo-eks-kubernetes/",
+      "has_transcript": true,
+      "title": "Duolingo's Kubernetes Leap",
+      "description": "Franka Passing discusses the architectural shift of Duolingo’s 500+ backend services to Kubernetes. She explains the move toward GitOps with Argo CD, the transition to IPv6-only pods, and the \"cellular architecture\" used to isolate environments. She shares \"reports from the trenches\" on managing developer trust, navigating AWS rate limits, and productionizing early adopter services.\n\nFranka Passing is a Senior Platform Engineer at Duolingo. She has previously worked in platform and security engineering at organizations such as Mapbox, Klarna and others. She is a seasoned conference speaker and tech community organizer at the feminist Hackspace Heart of Code in Berlin.",
+      "speakers": [
+        "Franka Passing"
+      ],
+      "duration_s": 2586,
+      "published_at": "2026-04-06T12:11:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-kubernetesleap.mp4",
+      "id": "iq-duolingo-eks-kubernetes",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6077,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "emulation-genai": {
+      "slug": "emulation-genai",
+      "page_url": "https://www.infoq.com/presentations/emulation-genai/",
+      "has_transcript": true,
+      "title": "Leveraging Adversary Emulation for GenAI Red Teaming",
+      "description": "Kennedy Torkura discusses practical GenAI red teaming techniques to safeguard LLMs and knowledge bases against security threats like data poisoning and LLMjacking on AWS. He explains how engineering leaders and architects can bridge traditional cloud security with MITRE ATLAS frameworks to proactively identify vulnerabilities, implement guardrails, and secure production AI applications.\n\nKennedy Torkura is the CTO/Co-Founder at Mitigant, an innovative cloud security startup based in Germany. Kennedy has spent over 12 years in cybersecurity and passionately explores the intersection of security chaos engineering, cyber resilience, incident response, and risk analysis for cloud security. Kennedy has published over 20 academic papers about cloud security.",
+      "speakers": [
+        "Kennedy Torkura"
+      ],
+      "duration_s": 2187,
+      "published_at": "2026-08-10T09:32:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-adversaryemulation.mp4",
+      "id": "iq-emulation-genai",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 4869,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "graph-neural-networks": {
+      "slug": "graph-neural-networks",
+      "page_url": "https://www.infoq.com/presentations/graph-neural-networks/",
+      "has_transcript": true,
+      "title": "Reimagining Platform Engagement with Graph Neural Networks",
+      "description": "Mariia Bulycheva discusses the transition from classic deep learning to GNNs for Zalando's landing page. She explains the complexities of converting user logs into heterogeneous graphs, the \"message passing\" training process, and the technical pitfalls of graph data leakage. She shares how a hybrid architecture solved inference latency, delivering contextual embeddings to a downstream model.\n\nMariia Bulycheva is a Senior Machine Learning Engineer at Intapp, where she focuses on building large-scale knowledge graphs and developing intelligent systems powered by NLP - from classical approaches to cutting-edge large language models. Her work spans graph-based machine learning, building MCP servers and AI agents, bridging research with impactful real-world applications.",
+      "speakers": [
+        "Mariia Bulycheva"
+      ],
+      "duration_s": 2892,
+      "published_at": "2026-04-13T13:23:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-graphneuralnetworks.mp4",
+      "id": "iq-graph-neural-networks",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6292,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "human-scalability": {
+      "slug": "human-scalability",
+      "page_url": "https://www.infoq.com/presentations/human-scalability/",
+      "has_transcript": true,
+      "title": "The Human Scalability Problem: Why Your Teams Don’t Scale Like Your Code",
+      "description": "Charlotte de Jong Schouwenburg discusses the \"human bottlenecks\" of hyper-growth. While systems scale, human cooperation often breaks down due to communication overload and lost context. She shares proven tools for behavioral scalability - including communication architecture and \"engineering trust\" - to help leaders maintain high-performing, autonomous teams without sacrificing speed or culture.\n\nCharlotte de Jong Schouwenburg is a Business Psychologist, trainer and coach specialized in the people aspect at Tech companies. She has +13 years experience in facilitating healthy cultures to enable high performing teams and leaders. She is Co-founder of Bravely: the training and coaching solution for Tech Companies.",
+      "speakers": [
+        "Charlotte de Jong Schouwenburg"
+      ],
+      "duration_s": 3015,
+      "published_at": "2026-05-04T12:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-humanscalability.mp4",
+      "id": "iq-human-scalability",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 5765,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "image-processing-automated-tests": {
+      "slug": "image-processing-automated-tests",
+      "page_url": "https://www.infoq.com/presentations/image-processing-automated-tests/",
+      "has_transcript": true,
+      "title": "Image Processing for Automated Tests",
+      "description": "Stefan Dirnstorfer discusses the shift from DOM-based testing to visual UI agents. He explains why LLMs often fail at precision tasks - like spotting one-pixel shifts or broken road networks - and shares how advanced image registration and \"Chain-of-Thought\" vision processing are essential for reliable QA. Learn why combining generative AI with classical algorithms is the future of automation.\n\nStefan Dirnstorfer is CTO at testup.io, a UI testing service that uses images and screenshots for automated testing. With 42 years of software development experience he has both followed and helped shape numerous technological trends. His expertise spans software development, operations, data analysis, and interface design, with his current focus on automating visual tasks in test automation.",
+      "speakers": [
+        "Stefan Dirnstorfer"
+      ],
+      "duration_s": 3077,
+      "published_at": "2026-03-16T14:02:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-imageprocessing.mp4",
+      "id": "iq-image-processing-automated-tests",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6486,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "insurance-platform-engineering": {
+      "slug": "insurance-platform-engineering",
+      "page_url": "https://www.infoq.com/presentations/insurance-platform-engineering/",
+      "has_transcript": true,
+      "title": "From Legacy to Sovereignty: Driving the Future of Insurance through Platform Engineering",
+      "description": "Sergiu Petean discusses the strategic journey of evolving DevOps into platform engineering within heavily regulated enterprise environments. He explains how to maximize efficiency using dynamic reference architectures, align platform KPIs directly with board-level business goals, reduce cognitive load via custom team topologies, and maintain innovation sovereignty through open-source technology.\n\nSergiu Petean is an influential leader with a proven track record in leading multiple digital transformations and scaling large organizations within complex regulatory environments. Over 15 years in Financial Services and Insurance, he mastered the challenge of driving change at the critical intersection of business, compliance, and technology.",
+      "speakers": [
+        "Sergiu Petean"
+      ],
+      "duration_s": 3100,
+      "published_at": "2026-05-25T11:35:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-insuranceplatformeng.mp4",
+      "id": "iq-insurance-platform-engineering",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7756,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "java-aws-serverless": {
+      "slug": "java-aws-serverless",
+      "page_url": "https://www.infoq.com/presentations/java-aws-serverless/",
+      "has_transcript": true,
+      "title": "Practical Performance Tuning for Serverless Java on AWS",
+      "description": "AWS Hero Vadym Kazulkin explains how to overcome Java’s enterprise hurdle on AWS Lambda: cold starts and memory footprints. He shares a technical deep dive into performance tuning, comparing fully managed AWS SnapStart (with pre-snapshot priming hooks) against GraalVM ahead-of-time compilation, while addressing the latest architectural implications of Project Leyden and Java 25.\n\nVadym Kazulkin is AWS Serverless Hero and Head of Development at ip.labs GmbH. His focus and interests currently include the design and implementation of highly scalable and available applications in AWS Cloud with the special passion for Serverless. Vadym is also the co-organizer of the Java User Group Bonn meetup and a frequent speaker at various Meetups and conferences.",
+      "speakers": [
+        "Vadym Kazulkin"
+      ],
+      "duration_s": 2956,
+      "published_at": "2026-06-15T13:12:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-serverlessjavaaws.mp4",
+      "id": "iq-java-aws-serverless",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7403,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "kotlin-serverless": {
+      "slug": "kotlin-serverless",
+      "page_url": "https://www.infoq.com/presentations/kotlin-serverless/",
+      "has_transcript": true,
+      "title": "Clean Architecture for Serverless: Business Logic You Can Take Anywhere",
+      "description": "Elena van Engelen discusses how to eliminate serverless vendor lock-in without sacrificing native cloud capabilities. She explains how to structure FaaS applications using Clean Architecture, Spring Cloud Function, and Gradle modules to isolate business logic. Finally, she shares a live demo deploying portable Kotlin services across AWS and Azure using Terraform CDK for multi-cloud IaC.\n\nElena van Engelen is an expert software engineer with over two decades of experience who is driven by passion for technology. She specializes in Kotlin and cloud-native solutions and focuses on building mission critical, scalable and maintainable systems. She also enjoys sharing her knowledge through talks, her blog, giving Kotlin training and her book, “Kotlin Crash Course\".",
+      "speakers": [
+        "Elena van Engelen"
+      ],
+      "duration_s": 2968,
+      "published_at": "2026-07-27T11:26:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-cleanarchitecture.mp4",
+      "id": "iq-kotlin-serverless",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6135,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "liquid-theme-system-dsl": {
+      "slug": "liquid-theme-system-dsl",
+      "page_url": "https://www.infoq.com/presentations/liquid-theme-system-dsl/",
+      "has_transcript": true,
+      "title": "Theme Systems at Scale: How to Build Highly Customizable Software",
+      "description": "Shopify Staff Engineer Guilherme Carreiro discusses building and scaling highly customizable platforms. Using Shopify’s Liquid theme system as a case study, he explains how to balance extreme design flexibility with low-latency performance under massive traffic. He shares insights on implementing secure domain-specific languages, native code extensions, and resilient developer tooling.\n\nGuilherme Carreiro is a Staff Developer at Shopify, where he champions the evolution of Liquid. With over 14 years in software development, he helped build the foundational tooling that set Liquid on its path to greater adoption. Prior to Shopify, Guilherme led the DMN tooling team at Red Hat, delivering open‑source solutions that empowered users to build decision models with no‑code approaches.",
+      "speakers": [
+        "Guilherme Carreiro"
+      ],
+      "duration_s": 3020,
+      "published_at": "2026-06-01T11:30:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-themesystems.mp4",
+      "id": "iq-liquid-theme-system-dsl",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7549,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "mobile-user-tracking-service": {
+      "slug": "mobile-user-tracking-service",
+      "page_url": "https://www.infoq.com/presentations/mobile-user-tracking-service/",
+      "has_transcript": true,
+      "title": "Challenging Google Analytics: Building a Scalable, Cost-Effective User Tracking Service",
+      "description": "Alina Krasavina explains how Delivery Hero successfully deprecated Google Analytics and migrated to an internal user tracking platform. She discusses how a simplistic, highly scalable architecture allowed them to handle 10 times more load while capturing 97% of tracking data.\n\nAlina Krasavina is an experienced Engineering Manager at Delivery Hero, currently leading the design and development of a user tracking service that supports millions of users worldwide. With 14 years in software engineering, she has contributed to both internal and customer-facing products, delivering complex, scalable solutions and building strong, collaborative engineering teams.",
+      "speakers": [
+        "Alina Krasavina"
+      ],
+      "duration_s": 2792,
+      "published_at": "2026-06-22T15:07:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-googleanalytics.mp4",
+      "id": "iq-mobile-user-tracking-service",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 4474,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "patterns-ai-native-development": {
+      "slug": "patterns-ai-native-development",
+      "page_url": "https://www.infoq.com/presentations/patterns-ai-native-development/",
+      "has_transcript": true,
+      "title": "Four Patterns of AI Native Development",
+      "description": "Patrick Debois discusses the evolution of software engineering in the age of AI. He shares four key patterns: transitioning from producer to manager, focusing on intent over implementation through spec-driven development, moving from delivery to discovery, and managing agentic knowledge. He explains how these shifts redefine seniority, team roles, and the future of the DevOps workflow.\n\nPatrick Debois is credited with coining the term DevOps, co-authoring the DevOps Handbook, and launching the very first DevOpsDays back in 2009. Since then, he’s been shaping the tech industry with his ability to bring development, operations, and now GenAI together in transformative ways.",
+      "speakers": [
+        "Patrick Debois"
+      ],
+      "duration_s": 2819,
+      "published_at": "2026-03-09T14:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-ainativedev.mp4",
+      "id": "iq-patterns-ai-native-development",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6569,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "patterns-payment-system": {
+      "slug": "patterns-payment-system",
+      "page_url": "https://www.infoq.com/presentations/patterns-payment-system/",
+      "has_transcript": true,
+      "title": "Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?",
+      "description": "Chris Tacey-Green discusses the shift from synchronous commands to asynchronous events within highly regulated environments. He explains the critical role of Inbox and Outbox patterns in preventing data loss, the nuances of event versioning, and how to maintain decoupling between domains. He shares \"battle-tested\" principles for implementing fault tolerance and managing eventual consistency.\n\nChris Tacey-Green is Head of Engineering at Investec, previously a founder, and a builder at heart. Deep experience within Cloud, ML, AI and the engineering surrounding it all.",
+      "speakers": [
+        "Chris Tacey-Green"
+      ],
+      "duration_s": 3085,
+      "published_at": "2026-04-20T11:20:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-eventdrivenpatterns.mp4",
+      "id": "iq-patterns-payment-system",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7054,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "platform-engineering-product-mindset": {
+      "slug": "platform-engineering-product-mindset",
+      "page_url": "https://www.infoq.com/presentations/platform-engineering-product-mindset/",
+      "has_transcript": true,
+      "title": "Platform Engineering for Everyone - Success Can’t Be Coded",
+      "description": "Max Korbacher explains why successful internal development platforms cannot be built on tech alone. He discusses the pitfalls of infrastructure-first thinking, the importance of a clear product mindset, and how to measure real value using DevEx and SPACE metrics. Learn how to align your team, manage tech debt, and foster a thriving community to ensure lasting platform adoption.\n\nMax Körbächer is Founder and Technology Advisor at Liquid Reply. He is CNCF Ambassador, Linux Foundation Europe Advisory Board member and Founder and Emeritus Lead of the CNCF Environmental Sustainability TAG. Max focuses on platform engineering to simplify the current challenges of complex systems in the cloud native space and author of Platform Engineering for Architects.",
+      "speakers": [
+        "Max Körbächer"
+      ],
+      "duration_s": 3022,
+      "published_at": "2026-07-20T11:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-platformeng.mp4",
+      "id": "iq-platform-engineering-product-mindset",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 7893,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "platform-engineering-team-compliance": {
+      "slug": "platform-engineering-team-compliance",
+      "page_url": "https://www.infoq.com/presentations/platform-engineering-team-compliance/",
+      "has_transcript": true,
+      "title": "Road to Compliance: Will Your Internal Users Hate Your Platform Team?",
+      "description": "Davide de Paolis discusses the realities of rolling out cloud infrastructure compliance without fracturing developer relations. Drawing from a real-world platform team reboot at Sevdesk, he explains how to implement \"minimum viable governance\" on AWS, utilize event-driven Slack alerting to automate policy feedback, and shift from rigid enforcement to high-empathy, data-driven collaboration.\n\nDavide de Paolis is Engineering Manager, AWS Community Builder, serverless aficionado, and outdoor freak. Originally from Italy, Davide de Paolis taught himself software engineering in his twenties after a life-changing sabbatical in New Zealand. With over 20 years of experience in the tech industry, he’s been living and working in Germany since 2013.",
+      "speakers": [
+        "Davide de Paolis"
+      ],
+      "duration_s": 2401,
+      "published_at": "2026-07-13T12:20:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-roadtocompliance.mp4",
+      "id": "iq-platform-engineering-team-compliance",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 4842,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "product-cloud-native": {
+      "slug": "product-cloud-native",
+      "page_url": "https://www.infoq.com/presentations/product-cloud-native/",
+      "has_transcript": true,
+      "title": "Product Thinking for Cloud Native Engineers",
+      "description": "Stéphane Di Cesare and Cat Morris share how engineers can move from being a \"cost center\" to a value driver using product discovery. They explain the \"Double Diamond\" framework and why identifying user problems must precede building solutions. Learn to choose the right metrics, build customer empathy through shadowing, and use business context to maximize the impact of your technical work.\n\nCat Morris is the Product Manager at Syntasso delivering Kratix, an open-source cloud-native framework for building internal platforms. Stéphane Di Cesare is a Senior Platform Engineer in the Platform Experience team at the German online bank DKB, where he is helping to increase the adoption of the bank's cloud native platform.",
+      "speakers": [
+        "Cat Morris",
+        "Stéphane Di Cesare"
+      ],
+      "duration_s": 2967,
+      "published_at": "2026-05-18T10:06:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-productthinking.mp4",
+      "id": "iq-product-cloud-native",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 8181,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "rust-autonomous-mobile-robots": {
+      "slug": "rust-autonomous-mobile-robots",
+      "page_url": "https://www.infoq.com/presentations/rust-autonomous-mobile-robots/",
+      "has_transcript": true,
+      "title": "Practical Robustness: Going beyond Memory Safety in Rust",
+      "description": "Andy Brinkmeyer shares how engineering leaders and architects can use Rust to build failure-proof systems. Moving beyond memory safety, he explains how ownership, enums, and the typestate pattern embed complex runtime protocols into compile-time checks. Learn to eliminate entire classes of bugs, manage real-world resources safely, and maximize codebase robustness effortlessly.\n\nAndy Brinkmeyer is a senior software engineer at arculus, where he works on autonomous mobile robots and builds robust production systems. Over the past two and a half years, he and his team developed a master control system entirely in Rust to coordinate fleets of autonomous mobile robots. Before joining arculus, Andy worked on mission systems for autonomous UAVs, among other projects.",
+      "speakers": [
+        "Andy Brinkmeyer"
+      ],
+      "duration_s": 2816,
+      "published_at": "2026-07-06T09:01:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-memorysafetyrust.mp4",
+      "id": "iq-rust-autonomous-mobile-robots",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6655,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "streaming-application-aws-infrastructure": {
+      "slug": "streaming-application-aws-infrastructure",
+      "page_url": "https://www.infoq.com/presentations/streaming-application-aws-infrastructure/",
+      "has_transcript": true,
+      "title": "Evolution of a Backend for a Streaming Application",
+      "description": "Daniele Frasca explains the architectural evolution of Joyn, a German streaming giant. He discusses moving from fragile single-node setups to resilient serverless architectures using AWS. He shares insights on the Hub and Spoke pattern for data consistency, cell-based isolation to reduce blast radius, and cost-optimization strategies for achieving affordable multi-region active-active setups.\n\nDaniele Frasca is an AWS Serverless Community Builder. Daniele is focusing on building and architecting serverless applications at scale. Daniele is architecting media services for millions of users in his current role, leveraging a multi-region architecture with the AWS Serverless service. Daniele is pushing the limits using Rust to get the extra milliseconds to final customers.",
+      "speakers": [
+        "Daniele Frasca"
+      ],
+      "duration_s": 2796,
+      "published_at": "2026-05-11T11:45:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-streamingapp.mp4",
+      "id": "iq-streaming-application-aws-infrastructure",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 5700,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    },
+    "valkey-datastore": {
+      "slug": "valkey-datastore",
+      "page_url": "https://www.infoq.com/presentations/valkey-datastore/",
+      "has_transcript": true,
+      "title": "Beyond Speed Limits: Exploring the Performance Power of Valkey",
+      "description": "Senior Solution Architect Viktor Vedmich shares how engineering leaders can maximize application performance using Valkey. He discusses the open-source Redis fork's 100% API compatibility, explores advanced caching strategies like lazy loading, and explains how to implement powerful data structures for real-time analytics, rate limiting, and session stores to solve the thundering herd problem.\n\nViktor Vedmich is technologist who leverages 10+ years of architecting systems for millions to demystify generative AI as an AWS Senior Solutions Architect and host of the technical podcast.",
+      "speakers": [
+        "Viktor Vedmich"
+      ],
+      "duration_s": 2979,
+      "published_at": "2026-06-08T10:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-oct-powervalkey.mp4",
+      "id": "iq-valkey-datastore",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-munich-2025",
+      "edition_name": "InfoQ Dev Summit Munich 2025",
+      "year": 2025,
+      "transcript_words": 6981,
+      "fetched_at": "2026-09-01T21:32:38+00:00"
+    }
+  }
+}

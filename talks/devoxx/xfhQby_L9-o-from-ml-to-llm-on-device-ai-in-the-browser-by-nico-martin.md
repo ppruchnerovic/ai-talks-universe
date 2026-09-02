@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Nico Martin"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2024-10-11T05:08:45Z
 video_id: xfhQby_L9-o
+url: https://www.youtube.com/watch?v=xfhQby_L9-o
 youtube_url: https://www.youtube.com/watch?v=xfhQby_L9-o
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From ML to LLM: on-device AI in the browser by Nico Martin
 
-**Speaker not identified**
+**Nico Martin**
 
 `Devoxx` · `Devoxx` · `2024` · `46 min`
 

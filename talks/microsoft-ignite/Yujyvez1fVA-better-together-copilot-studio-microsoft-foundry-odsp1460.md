@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 14
 published_at: 2025-11-19T15:12:00Z
 video_id: Yujyvez1fVA
+url: https://www.youtube.com/watch?v=Yujyvez1fVA
 youtube_url: https://www.youtube.com/watch?v=Yujyvez1fVA
 tags: ["Better Together: Copilot Studio & Microsoft Foundry | ODSP1460", "English (US)", "Innovate with Azure AI apps and agents", "Manufacturing and Mobility", "Matt DiLiberto", "ODSP1460", "ODSP1460_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

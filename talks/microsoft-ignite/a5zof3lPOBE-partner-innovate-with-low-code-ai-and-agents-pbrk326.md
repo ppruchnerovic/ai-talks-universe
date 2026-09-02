@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Courtney Lanza", "Paula Nobre Santos", "Saurabh Swarup"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-26T20:02:33Z
 video_id: a5zof3lPOBE
+url: https://www.youtube.com/watch?v=a5zof3lPOBE
 youtube_url: https://www.youtube.com/watch?v=a5zof3lPOBE
 tags: ["Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Power Apps", "Microsoft AI Cloud Partner Program", "PBRK326", "Partner: Innovate with Low-Code AI and agents | PBRK326", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partner: Innovate with Low-Code AI and agents | PBRK326
 
-**Speaker not identified**
+**Courtney Lanza, Paula Nobre Santos, Saurabh Swarup**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Solomon Kahn"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2024-04-19T05:00:08Z
 video_id: Ig8nsmPlgb8
+url: https://www.youtube.com/watch?v=Ig8nsmPlgb8
 youtube_url: https://www.youtube.com/watch?v=Ig8nsmPlgb8
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Driving Revenue By Getting Your Data Outside Your Company
 
-**Speaker not identified**
+**Solomon Kahn**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `29 min`
 

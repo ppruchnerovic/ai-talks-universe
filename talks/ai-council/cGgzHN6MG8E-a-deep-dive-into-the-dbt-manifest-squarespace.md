@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 34
 published_at: 2023-05-11T18:58:36Z
 video_id: cGgzHN6MG8E
+url: https://www.youtube.com/watch?v=cGgzHN6MG8E
 youtube_url: https://www.youtube.com/watch?v=cGgzHN6MG8E
 tags: ["Squarespace", "data engineering", "infrastructure", "dbt"]
 transcript: false

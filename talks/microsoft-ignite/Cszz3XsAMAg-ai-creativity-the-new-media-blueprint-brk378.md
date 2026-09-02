@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Silvia Candiani", "Simon Crownshaw", "Chris Petranto"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-20T14:55:21Z
 video_id: Cszz3XsAMAg
+url: https://www.youtube.com/watch?v=Cszz3XsAMAg
 youtube_url: https://www.youtube.com/watch?v=Cszz3XsAMAg
 tags: ["9e6289f7-b137-474c-af0d-1906a6247e8d_Segment", "AI + Creativity: The New Media Blueprint | BRK378", "BRK378", "Chris Petranto", "Copilot and agents at work", "English (US)", "Media and Entertainment", "Silvia Candiani", "Simon Crownshaw", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI + Creativity: The New Media Blueprint | BRK378
 
-**Speaker not identified**
+**Silvia Candiani, Simon Crownshaw, Chris Petranto**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

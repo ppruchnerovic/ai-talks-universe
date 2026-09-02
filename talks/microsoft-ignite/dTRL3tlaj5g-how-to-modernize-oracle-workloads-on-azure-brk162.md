@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kalyan Kaki", "Tushar Pandit"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T15:46:06Z
 video_id: dTRL3tlaj5g
+url: https://www.youtube.com/watch?v=dTRL3tlaj5g
 youtube_url: https://www.youtube.com/watch?v=dTRL3tlaj5g
 tags: ["BRK162", "English (US)", "How to modernize Oracle workloads on Azure | BRK162", "Kalyan Kaki", "Migrate and modernize your estate", "Migrate and modernize your estate:Oracle Database@Azure​", "Technical", "Tushar Pandit", "b5221297-0c9f-4dfb-983c-df58eeb66a4e_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to modernize Oracle workloads on Azure | BRK162
 
-**Speaker not identified**
+**Kalyan Kaki, Tushar Pandit**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

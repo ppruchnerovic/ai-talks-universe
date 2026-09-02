@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Laur Spilca", "Thomas Vitale"]
 channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-03-05T13:01:16Z
 video_id: eOeelv5CjXg
+url: https://www.youtube.com/watch?v=eOeelv5CjXg
 youtube_url: https://www.youtube.com/watch?v=eOeelv5CjXg
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Laur Spilca", "Laurentiu Spilca", "Thomas Vitale", "Software Security", "Security", "PKI", "Public Key", "Java", "Encryption"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Software Security for Developers • Laur Spilca & Thomas Vitale • GOTO 2026
 
-**Speaker not identified**
+**Laur Spilca, Thomas Vitale**
 
 `GOTO Conferences` · `GOTO` · `2026` · `30 min`
 

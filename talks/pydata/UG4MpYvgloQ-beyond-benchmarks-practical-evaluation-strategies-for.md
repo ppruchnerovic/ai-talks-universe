@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Iryna Kondrashchenko", "Oleh Kostromin"]
+speakers: ["Iryna Kondrashchenko"]
 channel: "PyData"
 duration_min: 29
 published_at: 2025-11-23T14:33:53Z
 video_id: UG4MpYvgloQ
+url: https://www.youtube.com/watch?v=UG4MpYvgloQ
 youtube_url: https://www.youtube.com/watch?v=UG4MpYvgloQ
 tags: ["AI engineering", "AI quality assurance", "AI testing", "Conference", "LLM evaluation", "LLM-as-a-judge", "MLOps", "PyConDE", "PyData", "Python", "RAG systems", "Tech Talk", "automated testing", "compound AI systems", "conference talk", "machine learning", "natural language processing", "practical AI", "production monitoring", "subject matter experts"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Beyond Benchmarks: Practical Evaluation Strategies for Compound AI Systems
 
-**Iryna Kondrashchenko, Oleh Kostromin**
+**Iryna Kondrashchenko**
 
 `PyData` · `PyData` · `2025` · `29 min`
 

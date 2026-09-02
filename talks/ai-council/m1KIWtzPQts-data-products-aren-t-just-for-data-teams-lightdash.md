@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 13
 published_at: 2023-05-11T19:33:15Z
 video_id: m1KIWtzPQts
+url: https://www.youtube.com/watch?v=m1KIWtzPQts
 youtube_url: https://www.youtube.com/watch?v=m1KIWtzPQts
 tags: ["data tools", "data teams", "data products"]
 transcript: false

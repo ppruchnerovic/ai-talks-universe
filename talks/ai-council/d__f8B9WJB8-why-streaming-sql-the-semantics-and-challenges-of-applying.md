@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Micah Wylde"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2024-04-19T05:00:20Z
 video_id: d__f8B9WJB8
+url: https://www.youtube.com/watch?v=d__f8B9WJB8
 youtube_url: https://www.youtube.com/watch?v=d__f8B9WJB8
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Why Streaming SQL? The Semantics and Challenges of Applying SQL to Unbounded Data
 
-**Speaker not identified**
+**Micah Wylde**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `34 min`
 

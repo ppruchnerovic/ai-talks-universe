@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: Tv71-g75OgU
+url: https://www.youtube.com/watch?v=Tv71-g75OgU
 youtube_url: https://www.youtube.com/watch?v=Tv71-g75OgU
 tags: []
 transcript: false

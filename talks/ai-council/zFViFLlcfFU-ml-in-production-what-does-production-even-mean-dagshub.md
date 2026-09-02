@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 14
 published_at: 2023-05-11T20:20:21Z
 video_id: zFViFLlcfFU
+url: https://www.youtube.com/watch?v=zFViFLlcfFU
 youtube_url: https://www.youtube.com/watch?v=zFViFLlcfFU
 tags: ["ML", "production", "data science"]
 transcript: false

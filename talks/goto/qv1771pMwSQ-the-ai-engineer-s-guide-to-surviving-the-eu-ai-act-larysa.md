@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Larysa Visengeriyeva", "Barbara Lampl"]
 channel: "GOTO Conferences"
 duration_min: 32
 published_at: 2026-01-13T13:22:06Z
 video_id: qv1771pMwSQ
+url: https://www.youtube.com/watch?v=qv1771pMwSQ
 youtube_url: https://www.youtube.com/watch?v=qv1771pMwSQ
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # The AI Engineer's Guide to Surviving the EU AI Act • Larysa Visengeriyeva & Barbara Lampl
 
-**Speaker not identified**
+**Larysa Visengeriyeva, Barbara Lampl**
 
 `GOTO Conferences` · `GOTO` · `2026` · `32 min`
 

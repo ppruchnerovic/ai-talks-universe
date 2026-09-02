@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T08:10:00+00:00
 video_id: jEF1WsdW2rM
+url: https://www.youtube.com/watch?v=jEF1WsdW2rM
 youtube_url: https://www.youtube.com/watch?v=jEF1WsdW2rM
 tags: ["Quality & Reliability", "Collaboration", "Communication", "Quality Assurance (QA)", "Soft Skills", "Software Architecture", "Testing"]
 transcript: true

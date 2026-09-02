@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 47
 published_at: 2025-11-23T14:33:57Z
 video_id: qOJiQtqI348
+url: https://www.youtube.com/watch?v=qOJiQtqI348
 youtube_url: https://www.youtube.com/watch?v=qOJiQtqI348
 tags: ["Conference", "DuckDB", "Narwhals", "Pandas", "Polars", "PyArrow", "PyConDE", "PyData", "PyData Berlin 2025", "Python", "SQL", "Tech Talk", "data engineering", "data science", "dataframes", "interoperability", "lazy execution", "open source", "static typing"]
 transcript: false

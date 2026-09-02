@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Kirit Basu"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2024-04-19T05:00:11Z
 video_id: Msosvf98Naw
+url: https://www.youtube.com/watch?v=Msosvf98Naw
 youtube_url: https://www.youtube.com/watch?v=Msosvf98Naw
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The End of Data Governance as We Know It
 
-**Speaker not identified**
+**Kirit Basu**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `15 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Jared Rhodes"]
 channel: "Microsoft Developer"
 duration_min: 25
 published_at: 2026-06-04T13:39:33Z
 video_id: 5wvM8H_MUQU
+url: https://www.youtube.com/watch?v=5wvM8H_MUQU
 youtube_url: https://www.youtube.com/watch?v=5wvM8H_MUQU
 tags: [".NET", "0e777bff-486f-41d5-80aa-8a724f6f39f6_M9Z7-DEM365-1", "API", "Beyond REST: .NET Apps That Talk to Hardware | DEM365", "Community", "DEM365", "DevTools", "Developer", "Jared Rhodes", "MVP", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Beyond REST: .NET Apps That Talk to Hardware | DEM365
 
-**Speaker not identified**
+**Jared Rhodes**
 
 `Microsoft Build` · `Build 2026` · `2026` · `25 min`
 

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-07-10T22:14:52Z
 video_id: WkBPX-oDMnA
+url: https://www.youtube.com/watch?v=WkBPX-oDMnA
 youtube_url: https://www.youtube.com/watch?v=WkBPX-oDMnA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 26
 published_at: 2024-05-21T21:00:15Z
 video_id: SHUTn6vdcZ4
+url: https://www.youtube.com/watch?v=SHUTn6vdcZ4
 youtube_url: https://www.youtube.com/watch?v=SHUTn6vdcZ4
 tags: []
 transcript: false

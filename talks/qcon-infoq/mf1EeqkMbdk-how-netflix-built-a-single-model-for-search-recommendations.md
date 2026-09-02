@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2026-02-12T07:47:15Z
 video_id: mf1EeqkMbdk
+url: https://www.youtube.com/watch?v=mf1EeqkMbdk
 youtube_url: https://www.youtube.com/watch?v=mf1EeqkMbdk
 tags: ["QCon London", "Case Study", "Netflix", "Foundation Model", "InfoQ", "Transcript", "Modeling", "Artificial Intelligence", "Software Architecture", "Machine Learning", "LLM", "System Design"]
 transcript: true

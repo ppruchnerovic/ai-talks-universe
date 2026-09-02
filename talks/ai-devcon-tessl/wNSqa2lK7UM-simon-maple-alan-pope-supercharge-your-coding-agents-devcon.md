@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["Simon Maple", "Alan Pope"]
 channel: "AI Native Dev"
 duration_min: 116
 published_at: 2025-11-26T01:51:39Z
 video_id: wNSqa2lK7UM
+url: https://www.youtube.com/watch?v=wNSqa2lK7UM
 youtube_url: https://www.youtube.com/watch?v=wNSqa2lK7UM
 tags: ["ainativedev"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Simon Maple & Alan Pope - Supercharge Your Coding Agents | DevCon Fall 2025
 
-**Speaker not identified**
+**Simon Maple, Alan Pope**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `116 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2026-05-08T09:25:02Z
 video_id: nKKNrgGuU8M
+url: https://www.youtube.com/watch?v=nKKNrgGuU8M
 youtube_url: https://www.youtube.com/watch?v=nKKNrgGuU8M
 tags: ["Application Security", "Security Tooling", "SDLC", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Simona Toader"]
 transcript: true

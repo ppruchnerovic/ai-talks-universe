@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rasmus Hyltegard", "Pepijn Richter", "Amit Trivedi"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T17:14:03Z
 video_id: 08SaJOoqEho
+url: https://www.youtube.com/watch?v=08SaJOoqEho
 youtube_url: https://www.youtube.com/watch?v=08SaJOoqEho
 tags: ["1848faaf-a777-420a-a4d7-3fb3c5561bb5_Segment", "Amit Trivedi", "BRK382", "English (US)", "Innovate with Azure AI apps and agents", "Pepijn Richter", "Rasmus Hyltegard", "Retail and Consumer Goods", "Technical", "The agentic advantage: unlock the next retail evolution with AI agents | BRK382", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The agentic advantage: unlock the next retail evolution with AI agents | BRK382
 
-**Speaker not identified**
+**Rasmus Hyltegard, Pepijn Richter, Amit Trivedi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

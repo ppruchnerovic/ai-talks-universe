@@ -12,6 +12,7 @@ channel: "Firebase"
 duration_min: 11
 published_at: 2026-05-21T19:00:24Z
 video_id: nq55ERaUQpw
+url: https://www.youtube.com/watch?v=nq55ERaUQpw
 youtube_url: https://www.youtube.com/watch?v=nq55ERaUQpw
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Agent-Native", "Google Antigravity Tutorial", "Firebase for AI Agents", "production-ready AI apps", "Google AI Studio", "App Development 2026"]
 transcript: true

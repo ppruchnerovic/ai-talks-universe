@@ -12,6 +12,7 @@ channel: null
 duration_min: 15
 published_at: null
 video_id: VYWSAPLXtEs
+url: https://www.youtube.com/watch?v=VYWSAPLXtEs
 youtube_url: https://www.youtube.com/watch?v=VYWSAPLXtEs
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 23
 published_at: null
 video_id: NaitfHn4fsI
+url: https://www.youtube.com/watch?v=NaitfHn4fsI
 youtube_url: https://www.youtube.com/watch?v=NaitfHn4fsI
 tags: []
 transcript: false

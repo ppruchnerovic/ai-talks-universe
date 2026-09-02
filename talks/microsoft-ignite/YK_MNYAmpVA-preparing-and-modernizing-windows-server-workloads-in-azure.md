@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dan Cuomo", "Jeff Woolsey"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T10:43:53Z
 video_id: YK_MNYAmpVA
+url: https://www.youtube.com/watch?v=YK_MNYAmpVA
 youtube_url: https://www.youtube.com/watch?v=YK_MNYAmpVA
 tags: ["BRK142", "Dan Cuomo", "English (US)", "Jeff Woolsey", "Migrate and modernize your estate", "Migrate and modernize your estate:Windows Server", "Preparing and modernizing Windows Server workloads in Azure | BRK142", "Technical", "e81b4123-4d2d-4cbf-951a-6c4ea5352c37_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Preparing and modernizing Windows Server workloads in Azure | BRK142
 
-**Speaker not identified**
+**Dan Cuomo, Jeff Woolsey**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

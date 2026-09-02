@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 55
 published_at: null
 video_id: 83QP_GyPNUE
+url: https://www.youtube.com/watch?v=83QP_GyPNUE
 youtube_url: https://www.youtube.com/watch?v=83QP_GyPNUE
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 47
 published_at: 2025-12-30T18:04:24Z
 video_id: BUD446V2ThE
+url: https://www.youtube.com/watch?v=BUD446V2ThE
 youtube_url: https://www.youtube.com/watch?v=BUD446V2ThE
 tags: ["ainativedev"]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 17
 published_at: null
 video_id: igsAMZWH1e4
+url: https://www.youtube.com/watch?v=igsAMZWH1e4
 youtube_url: https://www.youtube.com/watch?v=igsAMZWH1e4
 tags: []
 transcript: false

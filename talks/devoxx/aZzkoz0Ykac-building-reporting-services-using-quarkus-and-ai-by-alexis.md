@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Alexis Panousis", "Kostas Sidiropoulos"]
 channel: "Devoxx"
 duration_min: 42
 published_at: 2024-10-23T07:08:36Z
 video_id: aZzkoz0Ykac
+url: https://www.youtube.com/watch?v=aZzkoz0Ykac
 youtube_url: https://www.youtube.com/watch?v=aZzkoz0Ykac
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building reporting services using Quarkus and AI by Alexis Panousis and Kostas Sidiropoulos
 
-**Speaker not identified**
+**Alexis Panousis, Kostas Sidiropoulos**
 
 `Devoxx` · `Devoxx` · `2024` · `42 min`
 

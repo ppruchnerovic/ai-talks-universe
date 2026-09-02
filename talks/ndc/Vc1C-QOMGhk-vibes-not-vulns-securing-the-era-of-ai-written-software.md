@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 23
 published_at: 2026-08-05T11:21:24Z
 video_id: Vc1C-QOMGhk
+url: https://www.youtube.com/watch?v=Vc1C-QOMGhk
 youtube_url: https://www.youtube.com/watch?v=Vc1C-QOMGhk
 tags: ["Copilot", "Cursor", "Claude", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "CI/CD", "AppSec", "Mackenzie Jackson"]
 transcript: true

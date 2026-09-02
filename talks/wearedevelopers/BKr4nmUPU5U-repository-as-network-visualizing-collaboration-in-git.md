@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T07:00:00+00:00
 video_id: BKr4nmUPU5U
+url: https://www.youtube.com/watch?v=BKr4nmUPU5U
 youtube_url: https://www.youtube.com/watch?v=BKr4nmUPU5U
 tags: ["Developer Experience", "Best Practices", "Collaboration"]
 transcript: true

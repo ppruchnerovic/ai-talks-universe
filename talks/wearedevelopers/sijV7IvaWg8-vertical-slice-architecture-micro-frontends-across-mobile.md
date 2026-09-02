@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T13:40:00+00:00
 video_id: sijV7IvaWg8
+url: https://www.youtube.com/watch?v=sijV7IvaWg8
 youtube_url: https://www.youtube.com/watch?v=sijV7IvaWg8
 tags: ["Software Architecture", "Kotlin", "Kotlin Multiplatform", "TensorFlow"]
 transcript: true

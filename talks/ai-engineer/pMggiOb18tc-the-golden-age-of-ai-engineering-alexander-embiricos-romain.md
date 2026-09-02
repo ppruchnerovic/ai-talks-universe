@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Alexander Embiricos", "Romain Huet", "Peter Steinberger"]
 channel: "AI Engineer"
 duration_min: 25
 published_at: 2026-07-09T18:53:34Z
 video_id: pMggiOb18tc
+url: https://www.youtube.com/watch?v=pMggiOb18tc
 youtube_url: https://www.youtube.com/watch?v=pMggiOb18tc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # The Golden Age of AI Engineering — Alexander Embiricos & Romain Huet & Peter Steinberger, OpenAI
 
-**Speaker not identified**
+**Alexander Embiricos, Romain Huet, Peter Steinberger**
 
 `AI Engineer` · `AI Engineer` · `2026` · `25 min`
 

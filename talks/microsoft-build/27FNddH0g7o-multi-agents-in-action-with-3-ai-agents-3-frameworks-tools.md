@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Vini Soto", "Jan Kalis"]
 channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-04T12:00:33Z
 video_id: 27FNddH0g7o
+url: https://www.youtube.com/watch?v=27FNddH0g7o
 youtube_url: https://www.youtube.com/watch?v=27FNddH0g7o
 tags: ["DEM312", "Jan Kalis", "Multi-agents in action with 3 AI agents 3 frameworks tools & models | DEM312", "Vini Soto", "build", "build 2026", "d23cefd0-8854-4932-a055-1022d8c5aa15_M9Z7-DEM312-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Multi-agents in action with 3 AI agents, 3 frameworks, tools & models | DEM312
 
-**Speaker not identified**
+**Vini Soto, Jan Kalis**
 
 `Microsoft Build` · `Build 2026` · `2026` · `22 min`
 

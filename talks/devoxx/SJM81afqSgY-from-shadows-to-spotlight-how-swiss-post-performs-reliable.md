@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Giovanni Degiorgi"]
 channel: "Devoxx"
 duration_min: 34
 published_at: 2026-02-27T13:52:47Z
 video_id: SJM81afqSgY
+url: https://www.youtube.com/watch?v=SJM81afqSgY
 youtube_url: https://www.youtube.com/watch?v=SJM81afqSgY
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # From Shadows to Spotlight - How Swiss Post Performs Reliable ML Deployment by Giovanni Degiorgi
 
-**Speaker not identified**
+**Giovanni Degiorgi**
 
 `Devoxx` · `Devoxx` · `2026` · `34 min`
 

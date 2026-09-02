@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T12:50:00+00:00
 video_id: qoal4Camxa8
+url: https://www.youtube.com/watch?v=qoal4Camxa8
 youtube_url: https://www.youtube.com/watch?v=qoal4Camxa8
 tags: ["Security & Privacy", "AI Standards", "Security", "Software Architecture"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 49
 published_at: 2024-01-11T09:31:22Z
 video_id: D8YMMOhAeBs
+url: https://www.youtube.com/watch?v=D8YMMOhAeBs
 youtube_url: https://www.youtube.com/watch?v=D8YMMOhAeBs
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "PostgresML", "Postgres", "Relational Databases", "Database", "InfoQ", "QCon", "Transcript"]
 transcript: false

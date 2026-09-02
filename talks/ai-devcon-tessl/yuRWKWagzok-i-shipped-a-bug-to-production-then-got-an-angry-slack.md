@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 28
 published_at: 2026-05-01T16:01:47Z
 video_id: yuRWKWagzok
+url: https://www.youtube.com/watch?v=yuRWKWagzok
 youtube_url: https://www.youtube.com/watch?v=yuRWKWagzok
 tags: []
 transcript: true

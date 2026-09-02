@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Julien Dubois"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2025-10-10T05:10:26Z
 video_id: HmneQx1maCI
+url: https://www.youtube.com/watch?v=HmneQx1maCI
 youtube_url: https://www.youtube.com/watch?v=HmneQx1maCI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building AI agents with Structured Outputs, Function Calling, and MCP by Julien Dubois
 
-**Speaker not identified**
+**Julien Dubois**
 
 `Devoxx` · `Devoxx` · `2025` · `49 min`
 

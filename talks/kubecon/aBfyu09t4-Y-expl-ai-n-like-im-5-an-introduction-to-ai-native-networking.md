@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
-speakers: []
+speakers: ["Niranjan Shankar", "Ram Vennam"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 32
 published_at: 2026-04-13T23:33:04Z
 video_id: aBfyu09t4-Y
+url: https://www.youtube.com/watch?v=aBfyu09t4-Y
 youtube_url: https://www.youtube.com/watch?v=aBfyu09t4-Y
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Expl(AI)n Like I’m 5: An Introduction To AI-Native Networking - Niranjan Shankar & Ram Vennam
 
-**Speaker not identified**
+**Niranjan Shankar, Ram Vennam**
 
 `KubeCon + CloudNativeCon` · `Cloud Native AI + Kubeflow Day 2026` · `2026` · `32 min`
 

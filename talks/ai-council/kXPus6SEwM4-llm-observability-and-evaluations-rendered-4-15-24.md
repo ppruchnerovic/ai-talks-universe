@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Amber Roberts"]
 channel: "AI Council"
 duration_min: 11
 published_at: 2024-04-19T05:00:21Z
 video_id: kXPus6SEwM4
+url: https://www.youtube.com/watch?v=kXPus6SEwM4
 youtube_url: https://www.youtube.com/watch?v=kXPus6SEwM4
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # LLM Observability and Evaluations Rendered 4 15 24
 
-**Speaker not identified**
+**Amber Roberts**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `11 min`
 

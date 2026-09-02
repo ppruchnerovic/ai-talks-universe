@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 37
 published_at: 2024-11-11T14:18:08Z
 video_id: GUL_ZkOWioE
+url: https://www.youtube.com/watch?v=GUL_ZkOWioE
 youtube_url: https://www.youtube.com/watch?v=GUL_ZkOWioE
 tags: ["people", "WeAreDevelopers", "wearedevelopers", "HR trends", "employee engagement", "leadership strategies", "HR professionals", "talent acquisition", "modern workplaces", "Cappuccino with HR", "developers", "candidates", "candidate experience", "findings", "survey", "research", "Hr leaders", "tech professionals", "interview stages", "remote work", "hybrid work"]
 transcript: false

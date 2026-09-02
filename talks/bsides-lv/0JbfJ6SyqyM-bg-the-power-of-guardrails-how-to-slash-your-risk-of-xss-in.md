@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 51
 published_at: 2021-08-13T00:46:35Z
 video_id: 0JbfJ6SyqyM
+url: https://www.youtube.com/watch?v=0JbfJ6SyqyM
 youtube_url: https://www.youtube.com/watch?v=0JbfJ6SyqyM
 tags: ["bslv2021-bg-power_of_guardrails-1046725"]
 transcript: false

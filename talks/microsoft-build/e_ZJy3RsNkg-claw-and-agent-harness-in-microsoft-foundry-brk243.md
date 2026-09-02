@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Shawn Henry", "Amanda Foster", "Glenn Condron"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-04T12:53:10Z
 video_id: e_ZJy3RsNkg
+url: https://www.youtube.com/watch?v=e_ZJy3RsNkg
 youtube_url: https://www.youtube.com/watch?v=e_ZJy3RsNkg
 tags: ["Agent Observability", "Agents", "Amanda Foster", "BRK243", "Claw and agent harness in Microsoft Foundry | BRK243", "Claws", "Evaluations", "GitHub Copilot", "Glenn Condron", "MCP", "Microsoft Foundry", "OSS", "Openclaw", "Shawn Henry", "build", "build 2026", "ce857844-2448-482c-a66b-efa81e214b35_M9Z7-BRK243-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Claw and agent harness in Microsoft Foundry | BRK243
 
-**Speaker not identified**
+**Shawn Henry, Amanda Foster, Glenn Condron**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

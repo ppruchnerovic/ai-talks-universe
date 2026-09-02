@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 61
 published_at: 2025-01-08T18:19:26Z
 video_id: 0Xa7h0igVfw
+url: https://www.youtube.com/watch?v=0Xa7h0igVfw
 youtube_url: https://www.youtube.com/watch?v=0Xa7h0igVfw
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "ChatGPT", "LLM", "TechPodcast", "MachineLearning", "InfluencerScam", "JailbreakingAI", "GoogleVsChatGPT", "ChatbotOptimization", "ArtificialIntelligence"]
 transcript: false

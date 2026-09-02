@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Carlos Otero", "Avani Reddy", "Tejas Varia"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2024-11-25T13:12:36Z
 video_id: 4s1XmyXs3j0
+url: https://www.youtube.com/watch?v=4s1XmyXs3j0
 youtube_url: https://www.youtube.com/watch?v=4s1XmyXs3j0
 tags: ["AI", "Adoption", "Avani Reddy", "BRK282", "Breakout", "Carlos Otero", "Copilot for M365", "Copilot in Excel: transforming data analysis | BRK282", "English (US)", "Intermediate (200)", "Microsoft 365 Apps", "Modern Work", "Technical", "Tejas Varia", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Copilot in Excel: transforming data analysis | BRK282
 
-**Speaker not identified**
+**Carlos Otero, Avani Reddy, Tejas Varia**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `39 min`
 

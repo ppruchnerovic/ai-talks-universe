@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["Josh Long", "James Ward"]
 channel: "AI Native Dev"
 duration_min: 27
 published_at: 2025-11-27T16:28:28Z
 video_id: eXKQZPzszK8
+url: https://www.youtube.com/watch?v=eXKQZPzszK8
 youtube_url: https://www.youtube.com/watch?v=eXKQZPzszK8
 tags: ["ainativedev"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Josh Long & James Ward - Building AI Agents with Spring & MCP | DevCon Fall 2025
 
-**Speaker not identified**
+**Josh Long, James Ward**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `27 min`
 

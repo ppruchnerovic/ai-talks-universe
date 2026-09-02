@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 41
 published_at: 2026-06-25T16:27:30Z
 video_id: UsMDkEsR-ok
+url: https://www.youtube.com/watch?v=UsMDkEsR-ok
 youtube_url: https://www.youtube.com/watch?v=UsMDkEsR-ok
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 39
 published_at: 2024-06-27T14:40:40Z
 video_id: pennAxESKo8
+url: https://www.youtube.com/watch?v=pennAxESKo8
 youtube_url: https://www.youtube.com/watch?v=pennAxESKo8
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 34
 published_at: null
 video_id: FwGEM3ZdZLI
+url: https://www.youtube.com/watch?v=FwGEM3ZdZLI
 youtube_url: https://www.youtube.com/watch?v=FwGEM3ZdZLI
 tags: []
 transcript: false

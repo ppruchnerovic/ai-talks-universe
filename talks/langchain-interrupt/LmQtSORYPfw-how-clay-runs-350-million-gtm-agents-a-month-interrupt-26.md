@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 12
 published_at: 2026-06-24T12:39:07Z
 video_id: LmQtSORYPfw
+url: https://www.youtube.com/watch?v=LmQtSORYPfw
 youtube_url: https://www.youtube.com/watch?v=LmQtSORYPfw
 tags: ["Clay GTM agents", "go-to-market AI", "scaling AI agents", "LLM production", "agent infrastructure", "LangGraph", "LangSmith", "AI at scale", "go-to-market alpha", "outbound AI", "LLM caching", "agent cost optimization", "Jeff Bard Clay", "LangChain conference", "AI agents production", "rate limits LLM", "token cost reduction", "agent quality evals", "GTM engineering", "Clay Claygent"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yuemin Lu", "Rajeesh Ramachandran", "Sam Shteingart"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T07:24:25Z
 video_id: FJIWbOczakQ
+url: https://www.youtube.com/watch?v=FJIWbOczakQ
 youtube_url: https://www.youtube.com/watch?v=FJIWbOczakQ
 tags: ["805038bd-3abc-4937-9c74-aeaa295da7eb_Segment", "BRK176", "Driving efficiency and cost optimization for Azure IaaS deployments | BRK176", "English (US)", "Migrate and modernize your estate", "Rajeesh Ramachandran", "Sam Shteingart", "Technical", "Yuemin Lu", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Driving efficiency and cost optimization for Azure IaaS deployments | BRK176
 
-**Speaker not identified**
+**Yuemin Lu, Rajeesh Ramachandran, Sam Shteingart**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

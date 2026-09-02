@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alyanna Castillo", "Aditya Ramnathkar"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T06:32:50Z
 video_id: zOy-tA1Zb0g
+url: https://www.youtube.com/watch?v=zOy-tA1Zb0g
 youtube_url: https://www.youtube.com/watch?v=zOy-tA1Zb0g
 tags: ["Aditya Ramnathkar", "Alyanna Castillo", "BRK328", "BRK328_v1", "English (US)", "Scale with cloud and AI endpoints", "Technical", "Windows Development for Business: Secure Scalable & AI-ready | BRK328", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Windows Development for Business: Secure, Scalable, & AI-ready | BRK328
 
-**Speaker not identified**
+**Alyanna Castillo, Aditya Ramnathkar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

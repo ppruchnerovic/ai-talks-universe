@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 45
 published_at: 2026-08-11T06:16:47Z
 video_id: Ic_u_Lk_9Rw
+url: https://www.youtube.com/watch?v=Ic_u_Lk_9Rw
 youtube_url: https://www.youtube.com/watch?v=Ic_u_Lk_9Rw
 tags: ["QCon San Fracisco", "InfoQ", "Transcript", "Software Development", "Artificial Intelligence", "Software Engineering", "Software Architecture"]
 transcript: true

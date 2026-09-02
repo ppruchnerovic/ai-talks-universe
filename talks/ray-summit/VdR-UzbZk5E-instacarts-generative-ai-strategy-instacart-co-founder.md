@@ -12,6 +12,7 @@ channel: null
 duration_min: 16
 published_at: null
 video_id: VdR-UzbZk5E
+url: https://www.youtube.com/watch?v=VdR-UzbZk5E
 youtube_url: https://www.youtube.com/watch?v=VdR-UzbZk5E
 tags: []
 transcript: false

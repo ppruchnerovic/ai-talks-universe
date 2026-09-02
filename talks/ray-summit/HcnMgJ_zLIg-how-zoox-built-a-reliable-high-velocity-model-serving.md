@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: HcnMgJ_zLIg
+url: https://www.youtube.com/watch?v=HcnMgJ_zLIg
 youtube_url: https://www.youtube.com/watch?v=HcnMgJ_zLIg
 tags: []
 transcript: false

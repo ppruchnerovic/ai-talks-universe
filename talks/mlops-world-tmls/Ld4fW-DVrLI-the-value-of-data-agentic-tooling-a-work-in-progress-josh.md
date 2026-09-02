@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Josh Goldstein", "Solutions Architect"]
+speakers: ["Josh Goldstein"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 17
 published_at: 2025-09-29T19:41:05Z
 video_id: Ld4fW-DVrLI
+url: https://www.youtube.com/watch?v=Ld4fW-DVrLI
 youtube_url: https://www.youtube.com/watch?v=Ld4fW-DVrLI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Value of Data Agentic Tooling: A Work in Progress | Josh Goldstein, Weaviate
 
-**Josh Goldstein, Solutions Architect**
+**Josh Goldstein**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `17 min`
 

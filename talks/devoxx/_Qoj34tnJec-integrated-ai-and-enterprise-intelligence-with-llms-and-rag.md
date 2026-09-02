@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Felix Huchzermeyer"]
 channel: "Devoxx"
 duration_min: 20
 published_at: 2024-10-23T07:08:36Z
 video_id: _Qoj34tnJec
+url: https://www.youtube.com/watch?v=_Qoj34tnJec
 youtube_url: https://www.youtube.com/watch?v=_Qoj34tnJec
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Integrated AI and Enterprise Intelligence with LLMs and RAG by Felix Huchzermeyer
 
-**Speaker not identified**
+**Felix Huchzermeyer**
 
 `Devoxx` · `Devoxx` · `2024` · `20 min`
 

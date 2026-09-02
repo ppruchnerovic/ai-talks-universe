@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Danielle An", "David Hoe"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-07-08T15:00:06Z
 video_id: grdoOC1BT1s
+url: https://www.youtube.com/watch?v=grdoOC1BT1s
 youtube_url: https://www.youtube.com/watch?v=grdoOC1BT1s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Think You Can Build a Game with AI? Think Again! - Danielle An & David Hoe, Meta
 
-**Speaker not identified**
+**Danielle An, David Hoe**
 
 `AI Engineer` · `AI Engineer` · `2026` · `18 min`
 

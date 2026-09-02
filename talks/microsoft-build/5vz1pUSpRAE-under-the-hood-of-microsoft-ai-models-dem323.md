@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Dave Citron"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T13:48:57Z
 video_id: 5vz1pUSpRAE
+url: https://www.youtube.com/watch?v=5vz1pUSpRAE
 youtube_url: https://www.youtube.com/watch?v=5vz1pUSpRAE
 tags: ["737e6687-341c-48f1-955a-62f5f84e88a1_M9Z7-DEM323-1", "AI Toolkit", "DEM323", "Dave Citron", "Microsoft Foundry", "Microsoft for Startups", "Under the hood of Microsoft AI models | DEM323", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Under the hood of Microsoft AI models | DEM323
 
-**Speaker not identified**
+**Dave Citron**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

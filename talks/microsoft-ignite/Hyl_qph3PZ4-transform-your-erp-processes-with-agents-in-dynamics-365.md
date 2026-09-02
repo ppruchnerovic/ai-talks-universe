@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Raghav Jandhyala", "April Olson"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-25T12:40:54Z
 video_id: Hyl_qph3PZ4
+url: https://www.youtube.com/watch?v=Hyl_qph3PZ4
 youtube_url: https://www.youtube.com/watch?v=Hyl_qph3PZ4
 tags: ["AI", "April Olson", "BRK164", "Breakout", "Business Applications", "Business Applications-Curated", "Copilot", "Dynamics 365", "ERP", "English (US)", "Finance", "Raghav Jandhyala", "Technical", "Transform your ERP processes with Agents in Dynamics 365 | BRK164", "Version v2", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Transform your ERP processes with Agents in Dynamics 365 | BRK164
 
-**Speaker not identified**
+**Raghav Jandhyala, April Olson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

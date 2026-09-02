@@ -12,6 +12,7 @@ channel: null
 duration_min: 28
 published_at: null
 video_id: KRgKiac6vDo
+url: https://www.youtube.com/watch?v=KRgKiac6vDo
 youtube_url: https://www.youtube.com/watch?v=KRgKiac6vDo
 tags: []
 transcript: false

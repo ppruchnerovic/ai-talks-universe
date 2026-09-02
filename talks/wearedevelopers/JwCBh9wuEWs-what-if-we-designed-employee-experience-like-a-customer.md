@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 41
 published_at: 2026-03-05T10:56:31Z
 video_id: JwCBh9wuEWs
+url: https://www.youtube.com/watch?v=JwCBh9wuEWs
 youtube_url: https://www.youtube.com/watch?v=JwCBh9wuEWs
 tags: ["service design", "user experience", "employee experience", "customer journey", "ui", "ux", "experience", "leadership", "people", "culture", "recruiting", "AI"]
 transcript: true

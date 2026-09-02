@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Courtney Webster", "Burke Holland"]
 channel: "Visual Studio Code"
 duration_min: 13
 published_at: 2026-06-05T13:42:09Z
 video_id: ND7l5R8evoQ
+url: https://www.youtube.com/watch?v=ND7l5R8evoQ
 youtube_url: https://www.youtube.com/watch?v=ND7l5R8evoQ
 tags: ["Burke Holland", "Courtney Webster", "LIVE167", "LIVE167_v1", "The PM/dev handoff isn't what it used to be | LIVE167", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # The PM/dev handoff isn't what it used to be | LIVE167
 
-**Speaker not identified**
+**Courtney Webster, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `13 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Andrii Mykhailiuk", "Pepijn Richter", "Vishal Sarkar"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-21T15:25:07Z
 video_id: fMtRrwhCfAA
+url: https://www.youtube.com/watch?v=fMtRrwhCfAA
 youtube_url: https://www.youtube.com/watch?v=fMtRrwhCfAA
 tags: ["AI", "Andrii Mykhailiuk", "BRK259", "Breakout", "Copilot", "Elevate the retail experience with the Personalized Shopping Agent | BRK259", "English (US)", "Foundational (100)", "Industry", "Industry-Curated", "Microsoft Cloud for Retail", "Pepijn Richter", "Power Apps", "Technical", "Version v1", "Vishal Sarkar", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Elevate the retail experience with the Personalized Shopping Agent | BRK259
 
-**Speaker not identified**
+**Andrii Mykhailiuk, Pepijn Richter, Vishal Sarkar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

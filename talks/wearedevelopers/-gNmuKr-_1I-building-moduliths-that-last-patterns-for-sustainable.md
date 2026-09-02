@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T13:00:00+00:00
 video_id: -gNmuKr-_1I
+url: https://www.youtube.com/watch?v=-gNmuKr-_1I
 youtube_url: https://www.youtube.com/watch?v=-gNmuKr-_1I
 tags: ["Software Architecture", "Integration", "Modularization", "Software Architecture"]
 transcript: true

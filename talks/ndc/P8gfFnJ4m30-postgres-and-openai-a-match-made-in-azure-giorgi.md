@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 44
 published_at: 2026-03-09T10:31:33Z
 video_id: P8gfFnJ4m30
+url: https://www.youtube.com/watch?v=P8gfFnJ4m30
 youtube_url: https://www.youtube.com/watch?v=P8gfFnJ4m30
 tags: ["Cloud", "AI", "Database", "Azure", "OpenAI", "SQL", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "UK", "Great Britain", "Giorgi Dalakishvili"]
 transcript: true

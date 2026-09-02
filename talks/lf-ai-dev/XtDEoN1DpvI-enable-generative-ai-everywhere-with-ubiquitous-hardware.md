@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 17
 published_at: 2023-12-18T18:31:36Z
 video_id: XtDEoN1DpvI
+url: https://www.youtube.com/watch?v=XtDEoN1DpvI
 youtube_url: https://www.youtube.com/watch?v=XtDEoN1DpvI
 tags: []
 transcript: false

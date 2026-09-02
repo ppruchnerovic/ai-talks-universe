@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 53
 published_at: 2026-06-30T12:00:29Z
 video_id: 7PKEXIq25H0
+url: https://www.youtube.com/watch?v=7PKEXIq25H0
 youtube_url: https://www.youtube.com/watch?v=7PKEXIq25H0
 tags: ["AI Automation", "AI automation tips", "AINativeDev", "Agentic coding practices", "Avoiding vendor lock-in", "Claude Code", "Coding Agents", "Outcome-Oriented UX", "Outcome-oriented UX design", "Scaling AI agents", "Tessl Agent demo", "Tessl Agent explained", "Tessl platform integration", "What is loop engineering?"]
 transcript: true

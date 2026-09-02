@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T12:20:00+00:00
 video_id: hbShI0crCOg
+url: https://www.youtube.com/watch?v=hbShI0crCOg
 youtube_url: https://www.youtube.com/watch?v=hbShI0crCOg
 tags: ["AI Agents", "AI Models", "AI Standards", "Agentic AI", "Fine-Tuning", "PyTest", "Python", "Retrieval-Augmented Generation (RAG)", "Unit Testing"]
 transcript: true

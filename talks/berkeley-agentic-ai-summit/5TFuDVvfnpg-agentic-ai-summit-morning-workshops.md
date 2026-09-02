@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 92
 published_at: 2025-08-03T07:01:19Z
 video_id: 5TFuDVvfnpg
+url: https://www.youtube.com/watch?v=5TFuDVvfnpg
 youtube_url: https://www.youtube.com/watch?v=5TFuDVvfnpg
 tags: ["UC Berkeley", "Open Source", "PyTorch", "Linux Foundation", "Agentic AI Summit", "Artificial Intelligence", "Berkeley Center for Responsible Decentralized Intelligence", "Matt White", "Mahdi Ghodsi", "MCP", "vLLM", "PydanticAI", "AMD"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2023-01-11T08:07:34Z
 video_id: lZGQu7lResI
+url: https://www.youtube.com/watch?v=lZGQu7lResI
 youtube_url: https://www.youtube.com/watch?v=lZGQu7lResI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
 transcript: false

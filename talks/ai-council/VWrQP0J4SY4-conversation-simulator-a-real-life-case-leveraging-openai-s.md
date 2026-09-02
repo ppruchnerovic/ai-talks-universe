@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 37
 published_at: 2023-05-11T18:59:47Z
 video_id: VWrQP0J4SY4
+url: https://www.youtube.com/watch?v=VWrQP0J4SY4
 youtube_url: https://www.youtube.com/watch?v=VWrQP0J4SY4
 tags: ["openAI", "API", "Generative AI", "LLM", "AI"]
 transcript: false

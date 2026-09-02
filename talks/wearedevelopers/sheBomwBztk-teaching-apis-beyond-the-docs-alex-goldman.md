@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-06-05T09:42:26Z
 video_id: sheBomwBztk
+url: https://www.youtube.com/watch?v=sheBomwBztk
 youtube_url: https://www.youtube.com/watch?v=sheBomwBztk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: true

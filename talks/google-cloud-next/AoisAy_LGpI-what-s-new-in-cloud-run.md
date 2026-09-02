@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 37
 published_at: 2026-06-25T16:31:00Z
 video_id: AoisAy_LGpI
+url: https://www.youtube.com/watch?v=AoisAy_LGpI
 youtube_url: https://www.youtube.com/watch?v=AoisAy_LGpI
 tags: []
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Renu  Nair", "Bhargav Parnandi"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2025-11-19T17:09:31Z
 video_id: MV8nhQ3pAqo
+url: https://www.youtube.com/watch?v=MV8nhQ3pAqo
 youtube_url: https://www.youtube.com/watch?v=MV8nhQ3pAqo
 tags: ["Bhargav Parnandi", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with low-code AI and agents", "Innovation with AI & Azure Agents | ODSP1401", "ODSP1401", "ODSP1401_v1", "Renu Nair", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Innovation with AI & Azure Agents | ODSP1401
 
-**Speaker not identified**
+**Renu  Nair, Bhargav Parnandi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `21 min`
 

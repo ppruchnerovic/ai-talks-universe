@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Russ Miles", "James Lewis"]
 channel: "GOTO Conferences"
 duration_min: 47
 published_at: 2025-07-11T09:29:25Z
 video_id: 3NKd7wKxHSU
+url: https://www.youtube.com/watch?v=3NKd7wKxHSU
 youtube_url: https://www.youtube.com/watch?v=3NKd7wKxHSU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Cloud Native Application Protection Platforms (CNAPPs) • Russ Miles & James Lewis
 
-**Speaker not identified**
+**Russ Miles, James Lewis**
 
 `GOTO Conferences` · `GOTO` · `2025` · `47 min`
 

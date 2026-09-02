@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 50
 published_at: 2025-07-25T10:02:31Z
 video_id: BjAlEV9pRcw
+url: https://www.youtube.com/watch?v=BjAlEV9pRcw
 youtube_url: https://www.youtube.com/watch?v=BjAlEV9pRcw
 tags: ["AI", "DevRel", "Software Architecture", "Cloud Computing", "DevOps", "Developer Tools", "Developer News", "Tech Careers", "Job Market", "Coding Tutorials", "Web Development", "Mobile Development", "Data Science", "Machine Learning", "Cybersecurity", "IoT", "Blockchain", "AR/VR", "UI/UX Design", "Agile Methodologies", "Tech Conferences", "Tech Interviews", "Career Advice", "Developer Jobs"]
 transcript: false

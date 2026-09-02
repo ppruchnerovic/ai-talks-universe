@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T10:10:00+00:00
 video_id: 0KZAko1-veM
+url: https://www.youtube.com/watch?v=0KZAko1-veM
 youtube_url: https://www.youtube.com/watch?v=0KZAko1-veM
 tags: ["Talent Strategy", "Automation", "HR", "People & Culture"]
 transcript: true

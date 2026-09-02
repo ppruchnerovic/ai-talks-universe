@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Shreenidhi Bindinganavile Ramanuja", "Matt Erni"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-05T14:05:05Z
 video_id: HTSQzsXzXz4
+url: https://www.youtube.com/watch?v=HTSQzsXzXz4
 youtube_url: https://www.youtube.com/watch?v=HTSQzsXzXz4
 tags: ["AI", "AI Skills Navigator: Accelerate tech skills with personalized learning | DEM351", "Copilot", "DEM351", "DEM351_v1", "Matt Erni", "Personalization", "Shreenidhi Bindinganavile Ramanuja", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # AI Skills Navigator: Accelerate tech skills with personalized learning | DEM351
 
-**Speaker not identified**
+**Shreenidhi Bindinganavile Ramanuja, Matt Erni**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

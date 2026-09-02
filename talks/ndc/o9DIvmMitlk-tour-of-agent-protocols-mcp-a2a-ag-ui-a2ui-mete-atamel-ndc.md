@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 54
 published_at: 2026-08-05T13:25:54Z
 video_id: o9DIvmMitlk
+url: https://www.youtube.com/watch?v=o9DIvmMitlk
 youtube_url: https://www.youtube.com/watch?v=o9DIvmMitlk
 tags: ["AI", "Cloud", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Mete Atamel"]
 transcript: true

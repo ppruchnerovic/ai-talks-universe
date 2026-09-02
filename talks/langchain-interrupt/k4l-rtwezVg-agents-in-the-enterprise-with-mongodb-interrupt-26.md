@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 32
 published_at: 2026-06-05T12:56:12Z
 video_id: k4l-rtwezVg
+url: https://www.youtube.com/watch?v=k4l-rtwezVg
 youtube_url: https://www.youtube.com/watch?v=k4l-rtwezVg
 tags: ["MongoDB", "LangChain", "AI agents", "enterprise AI", "agentic AI", "LLM applications", "vector search", "hybrid search", "RAG", "retrieval augmented generation", "AI infrastructure", "open source AI", "agent memory", "context layer", "ElevenLabs", "Adobe", "AI native startups", "coding agents", "token cost", "AI productivity", "CJ Desai", "Harrison Chase", "fireside chat", "enterprise software", "headless APIs", "system of intelligence", "open memory", "LangSmith", "AI orchestration", "multi-agent systems", "customer-facing agents"]
 transcript: true

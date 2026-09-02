@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Jonas Bandi"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2026-04-01T08:08:17Z
 video_id: usLv_vLcuws
+url: https://www.youtube.com/watch?v=usLv_vLcuws
 youtube_url: https://www.youtube.com/watch?v=usLv_vLcuws
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Model Context Protocol (MCP): The future of user interactions? by Jonas Bandi
 
-**Speaker not identified**
+**Jonas Bandi**
 
 `Devoxx` · `Devoxx` · `2026` · `45 min`
 

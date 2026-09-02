@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-03-26T14:10:04Z
 video_id: j51uMah-3js
+url: https://www.youtube.com/watch?v=j51uMah-3js
 youtube_url: https://www.youtube.com/watch?v=j51uMah-3js
 tags: ["Jason Haddix", "AI", "ML", "Machine Learning", "Application Security", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security"]
 transcript: true

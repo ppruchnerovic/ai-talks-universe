@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-04T14:50:51Z
 video_id: 0XTyicuhdKE
+url: https://www.youtube.com/watch?v=0XTyicuhdKE
 youtube_url: https://www.youtube.com/watch?v=0XTyicuhdKE
 tags: ["AI", "Agentic SDLC", "Agents", "Alejandro Menocal", "Ari LiVigni", "Automation", "DEM350", "DEM350_v1", "DevTools", "Developer", "GitHub", "GitHub Actions", "GitHub Agentic Workflows: Automation That Actually Reads the Room | DEM350", "GitHub Copilot", "GitHub Copilot CLI", "GitHub Enterprise", "Skills", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

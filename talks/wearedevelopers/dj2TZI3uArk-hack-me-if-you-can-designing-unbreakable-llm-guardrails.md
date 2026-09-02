@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T07:40:00+00:00
 video_id: dj2TZI3uArk
+url: https://www.youtube.com/watch?v=dj2TZI3uArk
 youtube_url: https://www.youtube.com/watch?v=dj2TZI3uArk
 tags: ["Security & Privacy", "AI Standards", "Safety"]
 transcript: true

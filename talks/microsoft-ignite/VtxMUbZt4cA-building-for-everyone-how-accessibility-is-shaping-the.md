@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Preety Kumar"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T12:15:47Z
 video_id: VtxMUbZt4cA
+url: https://www.youtube.com/watch?v=VtxMUbZt4cA
 youtube_url: https://www.youtube.com/watch?v=VtxMUbZt4cA
 tags: ["BRK400", "BRK400_v1", "Building for Everyone: How Accessibility is Shaping the Future of AI | BRK400", "Copilot and agents at work", "Ed Summers", "English (US)", "Jenny Lay-Flurrie", "Other", "Other:Accessibility", "Partner Business", "Preety Kumar", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building for Everyone: How Accessibility is Shaping the Future of AI | BRK400
 
-**Speaker not identified**
+**Preety Kumar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Josh Schwartz"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2024-04-19T05:00:04Z
 video_id: AhmNHuW461w
+url: https://www.youtube.com/watch?v=AhmNHuW461w
 youtube_url: https://www.youtube.com/watch?v=AhmNHuW461w
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Data Teams Can Contribute to Data Privacy
 
-**Speaker not identified**
+**Josh Schwartz**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `26 min`
 

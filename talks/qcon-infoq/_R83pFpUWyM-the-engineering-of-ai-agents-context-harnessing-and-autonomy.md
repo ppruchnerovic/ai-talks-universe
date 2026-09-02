@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 42
 published_at: 2026-05-07T04:09:45Z
 video_id: _R83pFpUWyM
+url: https://www.youtube.com/watch?v=_R83pFpUWyM
 youtube_url: https://www.youtube.com/watch?v=_R83pFpUWyM
 tags: ["QCon London", "InfoQ", "Transcript", "Artificial Intelligence", "AI", "AI Agents", "Software Architecture", "Generative AI", "Software Engineering", "Claude Code", "GitHub Copilot", "Context Engineering"]
 transcript: true

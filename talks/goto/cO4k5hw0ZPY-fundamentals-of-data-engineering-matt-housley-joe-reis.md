@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Matt Housley", "Joe Reis"]
 channel: "GOTO Conferences"
 duration_min: 33
 published_at: 2025-12-16T13:24:21Z
 video_id: cO4k5hw0ZPY
+url: https://www.youtube.com/watch?v=cO4k5hw0ZPY
 youtube_url: https://www.youtube.com/watch?v=cO4k5hw0ZPY
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Fundamentals of Data Engineering • Matt Housley & Joe Reis
 
-**Speaker not identified**
+**Matt Housley, Joe Reis**
 
 `GOTO Conferences` · `GOTO` · `2025` · `33 min`
 

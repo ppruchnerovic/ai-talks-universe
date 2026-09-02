@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 20
 published_at: null
 video_id: jNIareeaVTI
+url: https://www.youtube.com/watch?v=jNIareeaVTI
 youtube_url: https://www.youtube.com/watch?v=jNIareeaVTI
 tags: []
 transcript: false

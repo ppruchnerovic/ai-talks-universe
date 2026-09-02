@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 61
 published_at: 2024-01-27T11:12:00Z
 video_id: BEmTDfWaJfo
+url: https://www.youtube.com/watch?v=BEmTDfWaJfo
 youtube_url: https://www.youtube.com/watch?v=BEmTDfWaJfo
 tags: ["Data", "AI", "Leadership", "LLM", "Platform Engineering"]
 transcript: false

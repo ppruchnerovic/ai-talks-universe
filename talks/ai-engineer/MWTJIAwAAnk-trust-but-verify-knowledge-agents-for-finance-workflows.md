@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2025-04-09T15:30:31Z
 video_id: MWTJIAwAAnk
+url: https://www.youtube.com/watch?v=MWTJIAwAAnk
 youtube_url: https://www.youtube.com/watch?v=MWTJIAwAAnk
 tags: []
 transcript: false

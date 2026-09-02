@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 37
 published_at: 2026-05-21T16:00:21Z
 video_id: CBL6KgCsQNY
+url: https://www.youtube.com/watch?v=CBL6KgCsQNY
 youtube_url: https://www.youtube.com/watch?v=CBL6KgCsQNY
 tags: ["pr_pr: Google I/O;", "ct:Event - Cloud PA Keynote;", "ct:Stack - Cloud;", "Agentic Coding", "AI-native Apps", "software engineering velocity", "AI deployment", "Cloud Run", "LLMOps", "Google Cloud Code", "AI productivity tools", "enterprise AI"]
 transcript: true

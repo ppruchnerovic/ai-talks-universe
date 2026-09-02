@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Travis Bartley", "Myungjong Kim"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2025-06-03T22:22:28Z
 video_id: aDj9sY2RoG8
+url: https://www.youtube.com/watch?v=aDj9sY2RoG8
 youtube_url: https://www.youtube.com/watch?v=aDj9sY2RoG8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The End of Awkward AI Transcriptions - Travis Bartley and Myungjong Kim
 
-**Speaker not identified**
+**Travis Bartley, Myungjong Kim**
 
 `AI Engineer` · `AI Engineer` · `2025` · `16 min`
 

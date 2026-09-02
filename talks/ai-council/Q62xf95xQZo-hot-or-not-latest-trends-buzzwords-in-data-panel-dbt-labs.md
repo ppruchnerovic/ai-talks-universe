@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 41
 published_at: 2023-05-15T13:28:38Z
 video_id: Q62xf95xQZo
+url: https://www.youtube.com/watch?v=Q62xf95xQZo
 youtube_url: https://www.youtube.com/watch?v=Q62xf95xQZo
 tags: ["streaming", "data trends", "data mesh", "SQL"]
 transcript: false

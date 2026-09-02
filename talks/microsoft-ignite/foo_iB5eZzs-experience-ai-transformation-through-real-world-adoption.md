@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Betsy Pridmore"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-21T12:06:40Z
 video_id: foo_iB5eZzs
+url: https://www.youtube.com/watch?v=foo_iB5eZzs
 youtube_url: https://www.youtube.com/watch?v=foo_iB5eZzs
 tags: ["9a28a5a4-cc73-404b-959d-4a3d08e8376c_Segment", "Agentic business applications", "BRKSP481", "Betsy Pridmore", "English (US)", "Experience AI transformation through real-world adoption and insights | BRKSP481", "Retail and Consumer Goods", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Experience AI transformation through real-world adoption and insights | BRKSP481
 
-**Speaker not identified**
+**Betsy Pridmore**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

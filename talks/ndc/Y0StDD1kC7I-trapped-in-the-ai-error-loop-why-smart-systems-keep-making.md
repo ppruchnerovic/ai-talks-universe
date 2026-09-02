@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 40
 published_at: 2026-03-09T14:23:12Z
 video_id: Y0StDD1kC7I
+url: https://www.youtube.com/watch?v=Y0StDD1kC7I
 youtube_url: https://www.youtube.com/watch?v=Y0StDD1kC7I
 tags: ["AI", "Fun", "Machine Learning", "NDC", "Conferences", "ML", "Live", "England", "London", "UK", "Great Britain", "United Kingdom", "Omphile Matheolane"]
 transcript: true

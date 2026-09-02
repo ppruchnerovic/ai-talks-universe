@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 44
 published_at: 2026-02-03T09:44:49Z
 video_id: 1zdRwjRpXj4
+url: https://www.youtube.com/watch?v=1zdRwjRpXj4
 youtube_url: https://www.youtube.com/watch?v=1zdRwjRpXj4
 tags: ["LLM", "Application Security", "DevOps", "SDLC", "Security Tooling", "Tools", "Security", "MCP", "API", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "UK", "England", "United Kingdom", "Alex Shershebnev", "CI/CD"]
 transcript: true

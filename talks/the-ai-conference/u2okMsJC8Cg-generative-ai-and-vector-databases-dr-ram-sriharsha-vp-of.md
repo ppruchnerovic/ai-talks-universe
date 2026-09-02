@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 31
 published_at: 2023-10-31T16:51:24Z
 video_id: u2okMsJC8Cg
+url: https://www.youtube.com/watch?v=u2okMsJC8Cg
 youtube_url: https://www.youtube.com/watch?v=u2okMsJC8Cg
 tags: ["THE AI CONFERENCE", "machine learning", "vector databases", "vector embeddings", "llm"]
 transcript: false

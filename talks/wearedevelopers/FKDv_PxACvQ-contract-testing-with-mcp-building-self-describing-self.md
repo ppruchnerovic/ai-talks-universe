@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T09:30:00+00:00
 video_id: FKDv_PxACvQ
+url: https://www.youtube.com/watch?v=FKDv_PxACvQ
 youtube_url: https://www.youtube.com/watch?v=FKDv_PxACvQ
 tags: ["Quality & Reliability", "Generative AI (GenAI)", "Quality Assurance (QA)", "Testing"]
 transcript: true

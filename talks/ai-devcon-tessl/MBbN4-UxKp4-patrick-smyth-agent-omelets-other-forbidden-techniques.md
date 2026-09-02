@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 26
 published_at: 2025-11-27T15:49:24Z
 video_id: MBbN4-UxKp4
+url: https://www.youtube.com/watch?v=MBbN4-UxKp4
 youtube_url: https://www.youtube.com/watch?v=MBbN4-UxKp4
 tags: ["ainativedev"]
 transcript: false

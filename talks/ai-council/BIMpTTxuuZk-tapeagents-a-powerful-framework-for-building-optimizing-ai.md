@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Mitul Tiwari"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2025-05-28T23:54:11Z
 video_id: BIMpTTxuuZk
+url: https://www.youtube.com/watch?v=BIMpTTxuuZk
 youtube_url: https://www.youtube.com/watch?v=BIMpTTxuuZk
 tags: ["ServiceNow", "AI agents", "ChatGPT", "artificial intelligence", "machine learning", "AI framework", "open source", "agent development", "AI development", "tape system", "debugging", "replay analysis", "Python tutorial", "agent framework", "enterprise automation", "workflow automation", "IT service management", "incident management", "change management", "problem management", "knowledge management", "service catalog", "request fulfillment"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # TapeAgents: A Powerful Framework for Building & Optimizing AI Agents
 
-**Speaker not identified**
+**Mitul Tiwari**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `36 min`
 

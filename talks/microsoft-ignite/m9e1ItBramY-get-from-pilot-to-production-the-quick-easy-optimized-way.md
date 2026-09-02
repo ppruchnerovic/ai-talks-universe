@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Charlie Huang", "Vineeth Kalluru", "Abhishek Sawarkar"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2024-11-25T15:30:45Z
 video_id: m9e1ItBramY
+url: https://www.youtube.com/watch?v=m9e1ItBramY
 youtube_url: https://www.youtube.com/watch?v=m9e1ItBramY
 tags: ["AI", "Abhishek Sawarkar", "Adoption", "BRKFP386", "Breakout", "Charlie Huang", "Cloud Endpoints", "Deployment", "Developer", "English (US)", "Get from pilot to production the quick easy optimized way | BRKFP386", "Intermediate (200)", "Technical", "Version v0", "Vineeth Kalluru", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Get from pilot to production the quick easy optimized way | BRKFP386
 
-**Speaker not identified**
+**Charlie Huang, Vineeth Kalluru, Abhishek Sawarkar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `38 min`
 

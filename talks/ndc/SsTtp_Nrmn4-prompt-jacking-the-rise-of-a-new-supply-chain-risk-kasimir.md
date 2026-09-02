@@ -7,11 +7,12 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Kasimir Schulz", "Kenneth Yeung"]
 channel: "NDC Conferences"
 duration_min: 62
 published_at: 2026-07-31T12:02:33Z
 video_id: SsTtp_Nrmn4
+url: https://www.youtube.com/watch?v=SsTtp_Nrmn4
 youtube_url: https://www.youtube.com/watch?v=SsTtp_Nrmn4
 tags: ["AI", "NDC", "Conferences", "Live", "Fun", "Toronto", "Canada", "Kasimir Schulz", "Kenneth Yeung"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Prompt-Jacking: The Rise of a New Supply Chain Risk - Kasimir Schulz & Kenneth Yeung
 
-**Speaker not identified**
+**Kasimir Schulz, Kenneth Yeung**
 
 `NDC Conferences` · `NDC` · `2026` · `62 min`
 

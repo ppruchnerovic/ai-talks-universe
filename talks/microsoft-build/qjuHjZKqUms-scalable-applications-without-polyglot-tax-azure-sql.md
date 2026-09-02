@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-03T13:45:21Z
 video_id: qjuHjZKqUms
+url: https://www.youtube.com/watch?v=qjuHjZKqUms
 youtube_url: https://www.youtube.com/watch?v=qjuHjZKqUms
 tags: ["Azure SQL Hyperscale", "CP&D", "Data", "OD824", "OD824_v1", "Scalable Applications Without Polyglot tax: Azure SQL Hyperscale | OD824", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

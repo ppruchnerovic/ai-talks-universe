@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Garth Gilmour", "Stuart Greenlees"]
 channel: null
 duration_min: 45
 published_at: null
 video_id: tRL2sRDg_DA
+url: https://www.youtube.com/watch?v=tRL2sRDg_DA
 youtube_url: https://www.youtube.com/watch?v=tRL2sRDg_DA
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # 9 Lessons Learned from Deploying GenAI at Scale • Garth Gilmour & Stuart Greenlees • GOTO 2025
 
-**Speaker not identified**
+**Garth Gilmour, Stuart Greenlees**
 
 `GOTO Conferences` · `GOTO` · `2025` · `45 min`
 

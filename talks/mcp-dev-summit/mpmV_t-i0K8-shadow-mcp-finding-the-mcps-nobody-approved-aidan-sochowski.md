@@ -7,11 +7,12 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Aidan Sochowski", "Alexander Frazer"]
 channel: "Agentic AI Foundation"
 duration_min: 34
 published_at: 2026-04-13T23:18:17Z
 video_id: mpmV_t-i0K8
+url: https://www.youtube.com/watch?v=mpmV_t-i0K8
 youtube_url: https://www.youtube.com/watch?v=mpmV_t-i0K8
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Shadow MCP: Finding the MCPs Nobody Approved - Aidan Sochowski & Alexander Frazer, Runlayer
 
-**Speaker not identified**
+**Aidan Sochowski, Alexander Frazer**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `34 min`
 

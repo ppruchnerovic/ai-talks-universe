@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Christopher Fernandez", "Kirk Gregersen", "Lucy Hitz", "Sunita Khatri", "Karyl Singh"]
 channel: "Microsoft Events"
 duration_min: 53
 published_at: 2024-11-27T12:09:21Z
 video_id: tWklSlHOINE
+url: https://www.youtube.com/watch?v=tWklSlHOINE
 youtube_url: https://www.youtube.com/watch?v=tWklSlHOINE
 tags: ["AI", "Adoption", "BRK283", "Breakout", "Christopher Fernandez", "Copilot for M365", "English (US)", "Intermediate (200)", "Karyl Singh", "Kirk Gregersen", "Lucy Hitz", "Modern Work", "Reimagining employee experience with AI and agents | BRK283", "Sunita Khatri", "Technical", "Version v4", "Viva", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Reimagining employee experience with AI and agents | BRK283
 
-**Speaker not identified**
+**Christopher Fernandez, Kirk Gregersen, Lucy Hitz, Sunita Khatri, Karyl Singh**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `53 min`
 

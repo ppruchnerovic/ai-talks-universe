@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["James Ward", "Josh Long"]
 channel: "AI Native Dev"
 duration_min: 53
 published_at: 2025-11-27T22:07:00Z
 video_id: JmKubcTagYw
+url: https://www.youtube.com/watch?v=JmKubcTagYw
 youtube_url: https://www.youtube.com/watch?v=JmKubcTagYw
 tags: ["ainativedev"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # James Ward & Josh Long - Hands On Building Agents | DevCon Fall 2025
 
-**Speaker not identified**
+**James Ward, Josh Long**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `53 min`
 

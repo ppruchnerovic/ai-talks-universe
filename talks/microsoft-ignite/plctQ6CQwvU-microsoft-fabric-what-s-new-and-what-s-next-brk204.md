@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Amir Netz", "Arun Ulagaratchagan"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-12-03T23:26:35Z
 video_id: plctQ6CQwvU
+url: https://www.youtube.com/watch?v=plctQ6CQwvU
 youtube_url: https://www.youtube.com/watch?v=plctQ6CQwvU
 tags: ["AI", "Analytics", "BRK204", "Cloud", "Data", "Data Security", "Data Warehouse", "Decision Maker", "Lakehouse", "Microsoft Fabric", "Microsoft Fabric: what's new and what's next | BRK204", "PowerBI", "Real-timeIntelligence", "Software Company", "databases", "datalake", "datalossprevention", "datascience", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "realtimeanalytics"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Microsoft Fabric: what's new and what's next | BRK204
 
-**Speaker not identified**
+**Amir Netz, Arun Ulagaratchagan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

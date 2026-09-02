@@ -12,6 +12,7 @@ channel: null
 duration_min: 61
 published_at: null
 video_id: BY-GdgvOiQU
+url: https://www.youtube.com/watch?v=BY-GdgvOiQU
 youtube_url: https://www.youtube.com/watch?v=BY-GdgvOiQU
 tags: []
 transcript: false

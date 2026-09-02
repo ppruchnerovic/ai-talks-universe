@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 43
 published_at: null
 video_id: STMN5N-bDko
+url: https://www.youtube.com/watch?v=STMN5N-bDko
 youtube_url: https://www.youtube.com/watch?v=STMN5N-bDko
 tags: []
 transcript: false

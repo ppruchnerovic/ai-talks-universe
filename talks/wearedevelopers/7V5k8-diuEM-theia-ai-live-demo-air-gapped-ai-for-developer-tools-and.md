@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T09:40:00+00:00
 video_id: 7V5k8-diuEM
+url: https://www.youtube.com/watch?v=7V5k8-diuEM
 youtube_url: https://www.youtube.com/watch?v=7V5k8-diuEM
 tags: ["Developer Experience", "AI Coding Assistants", "Agentic AI", "IDEs", "Open Source"]
 transcript: true

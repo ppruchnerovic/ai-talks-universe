@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nave Algarici", "Stephen Engler", "Theresa Miller"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T13:37:26Z
 video_id: 6vYOaavxed0
+url: https://www.youtube.com/watch?v=6vYOaavxed0
 youtube_url: https://www.youtube.com/watch?v=6vYOaavxed0
 tags: ["AI", "Data Security", "English (US)", "Foundational (100)", "Microsoft 365", "Nave Algarici", "ODFP934", "Pre-recorded", "Responsible AI", "Stephen Engler", "Technical", "Theresa Miller", "Threat intelligence", "Understanding & accelerating business decisions for M365 data using AI | ODFP934", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Understanding & accelerating business decisions for M365 data using AI | ODFP934
 
-**Speaker not identified**
+**Nave Algarici, Stephen Engler, Theresa Miller**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

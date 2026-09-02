@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Braulio Dumba", "Paolo Dettori"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 34
 published_at: 2026-04-09T05:23:08Z
 video_id: 24E4LDWThAE
+url: https://www.youtube.com/watch?v=24E4LDWThAE
 youtube_url: https://www.youtube.com/watch?v=24E4LDWThAE
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Three Shades of Isolation: A Multi-tenancy Fortress - Braulio Dumba & Paolo Dettori, IBM
 
-**Speaker not identified**
+**Braulio Dumba, Paolo Dettori**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `34 min`
 

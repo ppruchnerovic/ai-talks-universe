@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T11:40:00+00:00
 video_id: RGOu1rvU2k4
+url: https://www.youtube.com/watch?v=RGOu1rvU2k4
 youtube_url: https://www.youtube.com/watch?v=RGOu1rvU2k4
 tags: ["DevOps", "Automation", "DevOps", "Security"]
 transcript: true

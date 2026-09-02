@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 10
 published_at: 2025-06-03T22:22:28Z
 video_id: Ghc-qalQFLw
+url: https://www.youtube.com/watch?v=Ghc-qalQFLw
 youtube_url: https://www.youtube.com/watch?v=Ghc-qalQFLw
 tags: []
 transcript: false

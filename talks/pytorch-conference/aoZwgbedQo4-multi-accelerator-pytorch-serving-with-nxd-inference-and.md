@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Yahav Biran", "Liangfu Chen"]
 channel: "PyTorch"
 duration_min: 29
 published_at: null
 video_id: aoZwgbedQo4
+url: https://www.youtube.com/watch?v=aoZwgbedQo4
 youtube_url: https://www.youtube.com/watch?v=aoZwgbedQo4
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Multi-Accelerator PyTorch Serving With NxD Inference and vLLM - Yahav Biran & Liangfu Chen, Amazon
 
-**Speaker not identified**
+**Yahav Biran, Liangfu Chen**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `29 min`
 

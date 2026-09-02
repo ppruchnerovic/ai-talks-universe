@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lindsay Berg", "Jean Lawrence"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T14:05:49Z
 video_id: NQpHwy87S4U
+url: https://www.youtube.com/watch?v=NQpHwy87S4U
 youtube_url: https://www.youtube.com/watch?v=NQpHwy87S4U
 tags: ["English (US)", "Jean Lawrence", "Liliana Schwartz-Brunner", "Lindsay Berg", "Microsoft AI Cloud Partner Program", "Other", "PBRK392", "Partner Business", "Partners are Redefining Telecom Operations with Agentic AI | PBRK392", "Telecommunications", "a1a9f5d5-7cb2-4dcc-859c-ce61091d52f0_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partners are Redefining Telecom Operations with Agentic AI | PBRK392
 
-**Speaker not identified**
+**Lindsay Berg, Jean Lawrence**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

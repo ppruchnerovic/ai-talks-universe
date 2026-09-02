@@ -12,6 +12,7 @@ channel: null
 duration_min: 50
 published_at: null
 video_id: 4gbUULDnPVE
+url: https://www.youtube.com/watch?v=4gbUULDnPVE
 youtube_url: https://www.youtube.com/watch?v=4gbUULDnPVE
 tags: []
 transcript: false

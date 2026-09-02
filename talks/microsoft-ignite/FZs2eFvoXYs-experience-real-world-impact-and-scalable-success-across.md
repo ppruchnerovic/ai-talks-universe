@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parker Johnston"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-21T12:53:39Z
 video_id: FZs2eFvoXYs
+url: https://www.youtube.com/watch?v=FZs2eFvoXYs
 youtube_url: https://www.youtube.com/watch?v=FZs2eFvoXYs
 tags: ["English (US)", "Experience real-world impact and scalable success across industries | STUDIOSP67", "Innovate with Azure AI apps and agents", "Parker Johnston", "STUDIOSP67", "STUDIOSP67_v3", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Experience real-world impact and scalable success across industries | STUDIOSP67
 
-**Speaker not identified**
+**Parker Johnston**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

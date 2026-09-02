@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Matthias Orlowski", "Tim Tenckhoff"]
+speakers: ["Matthias Orlowski"]
 channel: "PyData"
 duration_min: 28
 published_at: 2025-11-23T14:33:57Z
 video_id: uv1_qe_oKkA
+url: https://www.youtube.com/watch?v=uv1_qe_oKkA
 youtube_url: https://www.youtube.com/watch?v=uv1_qe_oKkA
 tags: ["Apache Airflow", "Conference", "FastAPI", "GraphQL", "Next.js", "PyConDE", "PyData", "Python", "React", "Tech Talk", "Three.js", "bioinformatics", "browser performance", "cell painting", "conference talk", "data visualization", "drug discovery", "frontend engineering", "high-dimensional data", "performance optimization"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Exploring Millions of High-dimensional Datapoints in the Browser for Early Drug Discovery
 
-**Matthias Orlowski, Tim Tenckhoff**
+**Matthias Orlowski**
 
 `PyData` · `PyData` · `2025` · `28 min`
 

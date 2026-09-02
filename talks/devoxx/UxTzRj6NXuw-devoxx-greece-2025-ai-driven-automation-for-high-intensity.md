@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Stefanos Giorkas"]
 channel: null
 duration_min: 18
 published_at: null
 video_id: UxTzRj6NXuw
+url: https://www.youtube.com/watch?v=UxTzRj6NXuw
 youtube_url: https://www.youtube.com/watch?v=UxTzRj6NXuw
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Devoxx Greece 2025 - AI-Driven Automation for High-Intensity Development by Stefanos Giorkas
 
-**Speaker not identified**
+**Stefanos Giorkas**
 
 `Devoxx` · `Devoxx` · `2025` · `18 min`
 

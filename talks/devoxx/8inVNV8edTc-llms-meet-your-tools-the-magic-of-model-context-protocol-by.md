@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Alex Shershebnev"]
 channel: "Devoxx"
 duration_min: 34
 published_at: 2025-10-02T12:31:09Z
 video_id: 8inVNV8edTc
+url: https://www.youtube.com/watch?v=8inVNV8edTc
 youtube_url: https://www.youtube.com/watch?v=8inVNV8edTc
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # LLMs, Meet Your Tools: The Magic of Model Context Protocol by Alex Shershebnev
 
-**Speaker not identified**
+**Alex Shershebnev**
 
 `Devoxx` · `Devoxx` · `2025` · `34 min`
 

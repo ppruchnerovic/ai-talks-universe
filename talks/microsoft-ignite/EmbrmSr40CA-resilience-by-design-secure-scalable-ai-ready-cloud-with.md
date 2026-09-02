@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gargi Banerjee", "Molina Sharma"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T08:20:54Z
 video_id: EmbrmSr40CA
+url: https://www.youtube.com/watch?v=EmbrmSr40CA
 youtube_url: https://www.youtube.com/watch?v=EmbrmSr40CA
 tags: ["BRK217", "English (US)", "Gargi Banerjee", "Innovate with Azure AI apps and agents", "Molina Sharma", "Resilience by design: Secure scalable AI-ready cloud with Azure | BRK217", "Technical", "e511dbcf-903d-4460-96f8-994a0f9189b4_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Resilience by design: Secure, scalable, AI-ready cloud with Azure | BRK217
 
-**Speaker not identified**
+**Gargi Banerjee, Molina Sharma**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 52
 published_at: 2024-12-18T08:47:36Z
 video_id: szMiqrcyMDA
+url: https://www.youtube.com/watch?v=szMiqrcyMDA
 youtube_url: https://www.youtube.com/watch?v=szMiqrcyMDA
 tags: []
 transcript: false

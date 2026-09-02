@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Jay Wengrow", "Kris Jenkins"]
 channel: "GOTO Conferences"
 duration_min: 26
 published_at: 2026-03-26T13:01:08Z
 video_id: cuRjWkTJoD0
+url: https://www.youtube.com/watch?v=cuRjWkTJoD0
 youtube_url: https://www.youtube.com/watch?v=cuRjWkTJoD0
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "AI Engineering", "Common-Sense", "Jay Wengrow", "Kris Jenkins", "AI Agents", "Multi-Agentic"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # A Common-Sense Guide to AI Engineering • Jay Wengrow & Kris Jenkins • GOTO 2026
 
-**Speaker not identified**
+**Jay Wengrow, Kris Jenkins**
 
 `GOTO Conferences` · `GOTO` · `2026` · `26 min`
 

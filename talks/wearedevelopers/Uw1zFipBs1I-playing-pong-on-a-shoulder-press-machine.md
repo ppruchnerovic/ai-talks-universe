@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 18
 published_at: 2026-07-09T14:10:00+00:00
 video_id: Uw1zFipBs1I
+url: https://www.youtube.com/watch?v=Uw1zFipBs1I
 youtube_url: https://www.youtube.com/watch?v=Uw1zFipBs1I
 tags: ["Emerging Technologies", "Internet of Things (IoT)"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Peter Smink"]
 channel: "Devoxx"
 duration_min: 19
 published_at: 2026-04-08T20:18:24Z
 video_id: RTQdC6IgBzc
+url: https://www.youtube.com/watch?v=RTQdC6IgBzc
 youtube_url: https://www.youtube.com/watch?v=RTQdC6IgBzc
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # FrameworkDesktop and IncusOS, a perfect combination for running LLMs locally by Peter Smink
 
-**Speaker not identified**
+**Peter Smink**
 
 `Devoxx` · `Devoxx` · `2026` · `19 min`
 

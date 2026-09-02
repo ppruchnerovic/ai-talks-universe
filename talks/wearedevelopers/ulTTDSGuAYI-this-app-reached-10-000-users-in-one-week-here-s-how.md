@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-10T13:00:00+00:00
 video_id: ulTTDSGuAYI
+url: https://www.youtube.com/watch?v=ulTTDSGuAYI
 youtube_url: https://www.youtube.com/watch?v=ulTTDSGuAYI
 tags: ["AI Engineering"]
 transcript: true

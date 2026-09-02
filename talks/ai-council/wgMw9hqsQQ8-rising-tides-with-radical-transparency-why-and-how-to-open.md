@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Tim Castillo"]
 channel: "AI Council"
 duration_min: 33
 published_at: 2024-04-19T13:00:09Z
 video_id: wgMw9hqsQQ8
+url: https://www.youtube.com/watch?v=wgMw9hqsQQ8
 youtube_url: https://www.youtube.com/watch?v=wgMw9hqsQQ8
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Rising Tides with Radical Transparency: Why and How to Open Source Your Data Platform
 
-**Speaker not identified**
+**Tim Castillo**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `33 min`
 

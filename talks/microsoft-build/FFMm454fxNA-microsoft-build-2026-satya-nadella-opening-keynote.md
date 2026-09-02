@@ -12,6 +12,7 @@ channel: "Microsoft"
 duration_min: 143
 published_at: 2026-06-02T19:10:29Z
 video_id: FFMm454fxNA
+url: https://www.youtube.com/watch?v=FFMm454fxNA
 youtube_url: https://www.youtube.com/watch?v=FFMm454fxNA
 tags: ["Microsoft", "microsoft event", "microsoft build", "satya nadella", "microsoft ai", "microsoft copilot", "microsoft build recap", "microsoft build announcements", "microsoft announcements", "microsoft", "microsoft news", "tech announcements", "tech news", "ai news", "microsoft ai copilot", "microsoft ceo", "satya nadella keynote", "microsoft keynote", "satya announcement"]
 transcript: true

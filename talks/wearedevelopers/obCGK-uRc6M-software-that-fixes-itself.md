@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T13:40:00+00:00
 video_id: obCGK-uRc6M
+url: https://www.youtube.com/watch?v=obCGK-uRc6M
 youtube_url: https://www.youtube.com/watch?v=obCGK-uRc6M
 tags: ["Quality & Reliability"]
 transcript: true

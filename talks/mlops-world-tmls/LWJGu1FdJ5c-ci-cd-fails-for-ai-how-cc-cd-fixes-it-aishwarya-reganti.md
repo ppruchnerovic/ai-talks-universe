@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Aishwarya Reganti"]
+speakers: ["Aishwarya Naresh Reganti", "Sai Kiriti"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 33
 published_at: 2025-11-20T08:06:01Z
 video_id: LWJGu1FdJ5c
+url: https://www.youtube.com/watch?v=LWJGu1FdJ5c
 youtube_url: https://www.youtube.com/watch?v=LWJGu1FdJ5c
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # CI/CD Fails for AI & How CC/CD Fixes It | Aishwarya Reganti (LevelUp Labs) & Kiriti Badam (OpenAI)
 
-**Aishwarya Reganti**
+**Aishwarya Naresh Reganti, Sai Kiriti**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `33 min`
 

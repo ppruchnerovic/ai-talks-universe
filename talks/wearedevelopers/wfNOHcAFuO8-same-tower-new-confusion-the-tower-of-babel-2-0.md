@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 6
 published_at: 2026-07-09T12:25:00+00:00
 video_id: wfNOHcAFuO8
+url: https://www.youtube.com/watch?v=wfNOHcAFuO8
 youtube_url: https://www.youtube.com/watch?v=wfNOHcAFuO8
 tags: ["Strategy & Innovation", "AI Models", "Business Intelligence", "Collaboration", "Future of Work", "Large Language Models (LLMs)", "Multi-Agent Systems", "Product Management", "Productivity", "Startups"]
 transcript: true

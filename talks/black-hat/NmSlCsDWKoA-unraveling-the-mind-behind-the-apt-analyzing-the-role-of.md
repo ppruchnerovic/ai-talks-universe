@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 37
 published_at: 2025-03-14T17:16:48Z
 video_id: NmSlCsDWKoA
+url: https://www.youtube.com/watch?v=NmSlCsDWKoA
 youtube_url: https://www.youtube.com/watch?v=NmSlCsDWKoA
 tags: []
 transcript: false

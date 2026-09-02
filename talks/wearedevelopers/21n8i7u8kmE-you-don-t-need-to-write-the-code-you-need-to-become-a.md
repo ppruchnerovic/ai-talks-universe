@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T08:50:00+00:00
 video_id: 21n8i7u8kmE
+url: https://www.youtube.com/watch?v=21n8i7u8kmE
 youtube_url: https://www.youtube.com/watch?v=21n8i7u8kmE
 tags: ["Developer Experience", "AI Coding Assistants", "AI Standards", "Developer Experience (DevEx)", "DevOps"]
 transcript: true

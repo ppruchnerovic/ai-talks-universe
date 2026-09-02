@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-07-23T15:51:31Z
 video_id: _zl_zimMRak
+url: https://www.youtube.com/watch?v=_zl_zimMRak
 youtube_url: https://www.youtube.com/watch?v=_zl_zimMRak
 tags: []
 transcript: false

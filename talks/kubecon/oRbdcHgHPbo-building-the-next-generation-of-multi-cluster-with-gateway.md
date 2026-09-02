@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Mike Morris", "Alan Grosskurth"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 26
 published_at: 2026-04-09T05:28:43Z
 video_id: oRbdcHgHPbo
+url: https://www.youtube.com/watch?v=oRbdcHgHPbo
 youtube_url: https://www.youtube.com/watch?v=oRbdcHgHPbo
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building the Next Generation of Multi-Cluster with Gateway API - Mike Morris & Alan Grosskurth
 
-**Speaker not identified**
+**Mike Morris, Alan Grosskurth**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `26 min`
 

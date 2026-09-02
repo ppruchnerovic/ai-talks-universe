@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T13:30:00+00:00
 video_id: nMk6gzY71Wo
+url: https://www.youtube.com/watch?v=nMk6gzY71Wo
 youtube_url: https://www.youtube.com/watch?v=nMk6gzY71Wo
 tags: ["Security & Privacy", "AI Coding Assistants", "AI Models", "Agentic AI", "Data Pipelines", "Developer Experience (DevEx)", "Infrastructure", "NVIDIA", "Open Source", "Privacy", "Secure Coding", "Security"]
 transcript: true

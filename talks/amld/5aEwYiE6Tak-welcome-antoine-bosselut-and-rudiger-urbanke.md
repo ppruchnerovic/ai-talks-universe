@@ -7,11 +7,12 @@ conference_name: "Applied Machine Learning Days"
 category: "AI engineering & agents"
 edition: "AMLD"
 year: 2023
-speakers: []
+speakers: ["Antoine Bosselut", "Rüdiger Urbanke"]
 channel: "AMLD Intelligence Summit"
 duration_min: 11
 published_at: 2023-10-05T16:17:46Z
 video_id: 5aEwYiE6Tak
+url: https://www.youtube.com/watch?v=5aEwYiE6Tak
 youtube_url: https://www.youtube.com/watch?v=5aEwYiE6Tak
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Welcome | Antoine Bosselut and Rüdiger Urbanke
 
-**Speaker not identified**
+**Antoine Bosselut, Rüdiger Urbanke**
 
 `Applied Machine Learning Days` · `AMLD` · `2023` · `11 min`
 

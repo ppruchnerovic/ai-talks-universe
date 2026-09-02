@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ewelina Kurtys"]
 channel: "GOTO Conferences"
 duration_min: 43
 published_at: 2026-03-17T13:28:43Z
 video_id: HQJU_ejqgtw
+url: https://www.youtube.com/watch?v=HQJU_ejqgtw
 youtube_url: https://www.youtube.com/watch?v=HQJU_ejqgtw
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # State of the Art of Biological Computing • Ewelina Kurtys & Charles Humble
 
-**Speaker not identified**
+**Ewelina Kurtys**
 
 `GOTO Conferences` · `GOTO` · `2026` · `43 min`
 

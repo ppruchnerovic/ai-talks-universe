@@ -12,6 +12,7 @@ channel: null
 duration_min: 28
 published_at: null
 video_id: ILnTkeuxPPw
+url: https://www.youtube.com/watch?v=ILnTkeuxPPw
 youtube_url: https://www.youtube.com/watch?v=ILnTkeuxPPw
 tags: []
 transcript: false

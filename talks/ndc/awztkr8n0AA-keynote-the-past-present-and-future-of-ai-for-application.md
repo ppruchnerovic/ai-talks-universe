@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2025-03-20T10:01:04Z
 video_id: awztkr8n0AA
+url: https://www.youtube.com/watch?v=awztkr8n0AA
 youtube_url: https://www.youtube.com/watch?v=awztkr8n0AA
 tags: ["AI", "C Code", "UI", "LLM", "Chat GPT", "NDC", "Conferences", "2025", "Live", "Fun", "London"]
 transcript: false

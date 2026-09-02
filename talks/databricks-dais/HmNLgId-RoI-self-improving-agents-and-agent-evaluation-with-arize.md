@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 28
 published_at: null
 video_id: HmNLgId-RoI
+url: https://www.youtube.com/watch?v=HmNLgId-RoI
 youtube_url: https://www.youtube.com/watch?v=HmNLgId-RoI
 tags: []
 transcript: false

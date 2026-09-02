@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Holly Cummins"]
 channel: "Devoxx"
 duration_min: 52
 published_at: 2025-10-10T05:09:28Z
 video_id: s9d6JPjegRU
+url: https://www.youtube.com/watch?v=s9d6JPjegRU
 youtube_url: https://www.youtube.com/watch?v=s9d6JPjegRU
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Six and a half ridiculous things to do with Quarkus by Holly Cummins
 
-**Speaker not identified**
+**Holly Cummins**
 
 `Devoxx` · `Devoxx` · `2025` · `52 min`
 

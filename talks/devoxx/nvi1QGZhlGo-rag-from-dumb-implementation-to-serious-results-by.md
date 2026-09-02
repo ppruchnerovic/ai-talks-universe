@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Guillaume Laforge"]
 channel: "Devoxx"
 duration_min: 53
 published_at: 2025-04-07T13:45:26Z
 video_id: nvi1QGZhlGo
+url: https://www.youtube.com/watch?v=nvi1QGZhlGo
 youtube_url: https://www.youtube.com/watch?v=nvi1QGZhlGo
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # RAG: from dumb implementation to serious results by Guillaume Laforge
 
-**Speaker not identified**
+**Guillaume Laforge**
 
 `Devoxx` · `Devoxx` · `2025` · `53 min`
 

@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Mirano Tuk", "Filip Bacic"]
+speakers: ["Mirano Tuk"]
 channel: "PyData"
 duration_min: 30
 published_at: 2026-08-04T22:22:05Z
 video_id: t0ZWNh-UXDs
+url: https://www.youtube.com/watch?v=t0ZWNh-UXDs
 youtube_url: https://www.youtube.com/watch?v=t0ZWNh-UXDs
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # How to Search Through 800 Billion Records in Real Time [PyCon DE & PyData 2026]
 
-**Mirano Tuk, Filip Bacic**
+**Mirano Tuk**
 
 `PyData` · `PyData` · `2026` · `30 min`
 

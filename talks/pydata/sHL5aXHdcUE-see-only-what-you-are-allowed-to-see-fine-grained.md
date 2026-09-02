@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 89
 published_at: 2025-11-23T14:33:57Z
 video_id: sHL5aXHdcUE
+url: https://www.youtube.com/watch?v=sHL5aXHdcUE
 youtube_url: https://www.youtube.com/watch?v=sHL5aXHdcUE
 tags: ["Conference", "Google Zanzibar", "OpenFGA", "PyConDE", "PyData", "Python", "Python SDK", "ReBAC", "Tech Talk", "access control", "authorization patterns", "data security", "fine-grained authorization", "hands-on tutorial", "microservices", "permission management", "relationship-based access control", "row-level security"]
 transcript: false

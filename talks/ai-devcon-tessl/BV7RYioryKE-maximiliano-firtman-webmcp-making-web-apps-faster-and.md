@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 30
 published_at: 2026-06-18T07:30:03Z
 video_id: BV7RYioryKE
+url: https://www.youtube.com/watch?v=BV7RYioryKE
 youtube_url: https://www.youtube.com/watch?v=BV7RYioryKE
 tags: ["AI DevCon", "AI DevCon London 2026", "AI agents and web apps", "Chrome DevTools MCP", "MCP ecosystem", "MCP ecosystem and agents", "WebMCP", "What is WebMCP?", "agentic coding", "ainativedev", "automation", "browser automation", "browser automation tools", "coding agents", "web apps"]
 transcript: true

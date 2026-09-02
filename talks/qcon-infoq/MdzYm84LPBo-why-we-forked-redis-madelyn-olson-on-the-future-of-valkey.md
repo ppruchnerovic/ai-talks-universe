@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 38
 published_at: 2026-02-09T11:10:41Z
 video_id: MdzYm84LPBo
+url: https://www.youtube.com/watch?v=MdzYm84LPBo
 youtube_url: https://www.youtube.com/watch?v=MdzYm84LPBo
 tags: ["Valkey", "Redis", "SoftwareArchitecture", "SystemsEngineering", "OpenSource", "TheInfoQPodcast", "Distributed Cache"]
 transcript: true

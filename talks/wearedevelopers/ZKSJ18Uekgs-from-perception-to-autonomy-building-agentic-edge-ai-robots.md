@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T11:40:00+00:00
 video_id: ZKSJ18Uekgs
+url: https://www.youtube.com/watch?v=ZKSJ18Uekgs
 youtube_url: https://www.youtube.com/watch?v=ZKSJ18Uekgs
 tags: ["Emerging Technologies", "AI Models", "Agentic AI", "Cryptography", "Edge AI", "Embedded Systems", "Raspberry Pi", "Robotics"]
 transcript: true

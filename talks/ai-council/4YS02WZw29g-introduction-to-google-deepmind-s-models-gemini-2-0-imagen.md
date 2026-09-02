@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Paige Bailey"]
 channel: "AI Council"
 duration_min: 38
 published_at: 2025-05-28T23:34:48Z
 video_id: 4YS02WZw29g
+url: https://www.youtube.com/watch?v=4YS02WZw29g
 youtube_url: https://www.youtube.com/watch?v=4YS02WZw29g
 tags: ["Google DeepMind", "Gemini 2.0", "Imagen 3", "ChatGPT", "artificial intelligence", "machine learning", "Veo", "Google AI", "AI tutorial", "image generation", "video AI", "AI tools", "generative AI", "multimodal AI", "Python tutorial", "computer vision", "natural language processing", "creative AI", "content generation", "visual AI", "video generation", "image synthesis", "AI creativity", "neural networks", "foundation models"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Introduction to Google DeepMind's Models: Gemini 2.0, Imagen 3, and Veo
 
-**Speaker not identified**
+**Paige Bailey**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `38 min`
 

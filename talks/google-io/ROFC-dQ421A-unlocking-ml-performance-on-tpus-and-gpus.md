@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 14
 published_at: null
 video_id: ROFC-dQ421A
+url: https://www.youtube.com/watch?v=ROFC-dQ421A
 youtube_url: https://www.youtube.com/watch?v=ROFC-dQ421A
 tags: []
 transcript: false

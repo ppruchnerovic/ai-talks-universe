@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 119
 published_at: 2025-11-26T01:52:06Z
 video_id: M-zOSEJFNos
+url: https://www.youtube.com/watch?v=M-zOSEJFNos
 youtube_url: https://www.youtube.com/watch?v=M-zOSEJFNos
 tags: ["ainativedev"]
 transcript: true

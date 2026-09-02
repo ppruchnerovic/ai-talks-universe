@@ -12,6 +12,7 @@ channel: "dotconferences"
 duration_min: 8
 published_at: 2025-11-14T14:16:05Z
 video_id: JyocX-G6h8o
+url: https://www.youtube.com/watch?v=JyocX-G6h8o
 youtube_url: https://www.youtube.com/watch?v=JyocX-G6h8o
 tags: []
 transcript: false

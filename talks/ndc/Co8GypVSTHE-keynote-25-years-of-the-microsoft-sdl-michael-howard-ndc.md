@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-03-12T09:16:58Z
 video_id: Co8GypVSTHE
+url: https://www.youtube.com/watch?v=Co8GypVSTHE
 youtube_url: https://www.youtube.com/watch?v=Co8GypVSTHE
 tags: ["Application Security", "Cloud Security", "Design", "Experience report", "Process", "Programming", "SDLC", "Security Tooling", "SDL", "Cloud", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Michael Howard"]
 transcript: true

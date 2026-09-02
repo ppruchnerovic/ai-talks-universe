@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Kristyn Maddox"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2024-11-25T14:37:29Z
 video_id: HhlFAS12j-M
+url: https://www.youtube.com/watch?v=HhlFAS12j-M
 youtube_url: https://www.youtube.com/watch?v=HhlFAS12j-M
 tags: ["BRK343", "Breakout", "English (US)", "How to capture the marketplace opportunity | BRK343", "Intermediate (200)", "Kristyn Maddox", "Marketplace", "Mason McCoy", "Partner Business", "Partner Program", "Software Company", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to capture the marketplace opportunity | BRK343
 
-**Speaker not identified**
+**Kristyn Maddox**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `37 min`
 

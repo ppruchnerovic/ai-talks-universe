@@ -7,11 +7,12 @@ conference_name: "NDC Conferences"
 category: "Software dev with AI tracks"
 edition: "NDC"
 year: 2026
-speakers: []
+speakers: ["Jannik Hollenbach", "Björn Kimminich"]
 channel: "NDC Conferences"
 duration_min: 65
 published_at: 2026-05-07T09:38:44Z
 video_id: O43oqSEJFQI
+url: https://www.youtube.com/watch?v=O43oqSEJFQI
 youtube_url: https://www.youtube.com/watch?v=O43oqSEJFQI
 tags: ["Jannik Hollenbach", "Application Security", "Security", "OWASP", "Björn Kimminich"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # OWASP Juice Shop: Take your security vitamins! - Jannik Hollenbach & Björn Kimminich
 
-**Speaker not identified**
+**Jannik Hollenbach, Björn Kimminich**
 
 `NDC Conferences` · `NDC` · `2026` · `65 min`
 

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2025-07-03T07:14:38Z
 video_id: yu2Ot3lTNfU
+url: https://www.youtube.com/watch?v=yu2Ot3lTNfU
 youtube_url: https://www.youtube.com/watch?v=yu2Ot3lTNfU
 tags: ["LLMs", "Large Language Models", "Meta", "Facebook", "QCon San Francisco", "InfoQ", "Transcript", "AI", "Artificial Intelligence", "Case Study", "LLM Serving", "AI Infrastructure", "Software Architecture"]
 transcript: false

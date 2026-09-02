@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 46
 published_at: 2025-03-31T20:40:45Z
 video_id: Fsx36ZTGMag
+url: https://www.youtube.com/watch?v=Fsx36ZTGMag
 youtube_url: https://www.youtube.com/watch?v=Fsx36ZTGMag
 tags: []
 transcript: false

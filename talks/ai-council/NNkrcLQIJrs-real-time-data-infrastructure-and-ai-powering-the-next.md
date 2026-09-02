@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Aaron Katz"]
 channel: "AI Council"
 duration_min: 36
 published_at: 2025-05-29T16:07:51Z
 video_id: NNkrcLQIJrs
+url: https://www.youtube.com/watch?v=NNkrcLQIJrs
 youtube_url: https://www.youtube.com/watch?v=NNkrcLQIJrs
 tags: ["real time analytics", "ClickHouse", "streaming data", "ChatGPT", "artificial intelligence", "machine learning", "data science", "database performance", "data engineering", "analytics platform", "business intelligence", "data visualization", "cloud computing", "scalability", "Python", "SQL tutorial", "big data", "Apache Kafka", "stream processing", "time series data", "OLAP", "columnar database", "data warehouse", "ETL", "data pipeline", "real time dashboard", "monitoring", "observability", "metrics", "KPIs", "Apache Spark", "Flink"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Real-Time Data Infrastructure and AI: Powering the Next Generation of Analytics
 
-**Speaker not identified**
+**Aaron Katz**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `36 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ashley Llorens", "Marco Casalaina", "Shannon Monroe"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-20T16:34:55Z
 video_id: kyb-ZISRa48
+url: https://www.youtube.com/watch?v=kyb-ZISRa48
 youtube_url: https://www.youtube.com/watch?v=kyb-ZISRa48
 tags: ["69d4b950-4ee2-403f-87ba-129f5d0b97d0_Segment", "AI frontier in Foundry Labs: Experiment today lead tomorrow | BRK204", "Ashley Llorens", "BRK204", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Marco Casalaina", "Shannon Monroe", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI frontier in Foundry Labs: Experiment today lead tomorrow | BRK204
 
-**Speaker not identified**
+**Ashley Llorens, Marco Casalaina, Shannon Monroe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

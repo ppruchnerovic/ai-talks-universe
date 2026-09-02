@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2025-03-20T14:43:39Z
 video_id: _yKIVpwb9kQ
+url: https://www.youtube.com/watch?v=_yKIVpwb9kQ
 youtube_url: https://www.youtube.com/watch?v=_yKIVpwb9kQ
 tags: ["Jim Manico", "Application Security", "Security", "AI", "XSS", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 40
 published_at: 2025-11-13T10:00:32Z
 video_id: EKEByGwemKM
+url: https://www.youtube.com/watch?v=EKEByGwemKM
 youtube_url: https://www.youtube.com/watch?v=EKEByGwemKM
 tags: ["people strategy", "transformation", "community", "people and culture", "HR", "development", "personal development", "culture", "mobility", "upskilling", "people", "change management", "change"]
 transcript: false

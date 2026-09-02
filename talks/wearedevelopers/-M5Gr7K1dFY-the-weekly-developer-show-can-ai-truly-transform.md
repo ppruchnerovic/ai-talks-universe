@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 66
 published_at: 2025-04-07T09:42:45Z
 video_id: -M5Gr7K1dFY
+url: https://www.youtube.com/watch?v=-M5Gr7K1dFY
 youtube_url: https://www.youtube.com/watch?v=-M5Gr7K1dFY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "web development", "accessibility", "AI", "inclusive design", "WCAG", "developer tools", "frontend", "HTML", "CSS", "JavaScript", "Google", "tech talk", "podcast", "software engineering", "dev humor", "web standards", "a11y", "ARIA", "developer podcast", "digital inclusion"]
 transcript: false

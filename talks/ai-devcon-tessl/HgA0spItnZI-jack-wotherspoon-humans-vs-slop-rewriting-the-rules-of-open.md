@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-20T07:33:23Z
 video_id: HgA0spItnZI
+url: https://www.youtube.com/watch?v=HgA0spItnZI
 youtube_url: https://www.youtube.com/watch?v=HgA0spItnZI
 tags: ["AI DevCon", "AI DevCon London 2026", "AI agents", "AI slop", "AI-generated code", "Gemini CLI Google", "GitHub Copilot", "Google", "ainativedev", "code maintenance", "how AI is changing open source", "impact of AI on code review", "open source", "open source and AI agents", "slop chef"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "SXSW"
 duration_min: 40
 published_at: null
 video_id: KwicOVok5ho
+url: https://www.youtube.com/watch?v=KwicOVok5ho
 youtube_url: https://www.youtube.com/watch?v=KwicOVok5ho
 tags: []
 transcript: false

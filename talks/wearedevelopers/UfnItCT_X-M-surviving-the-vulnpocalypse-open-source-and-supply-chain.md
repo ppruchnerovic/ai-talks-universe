@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T11:00:00+00:00
 video_id: UfnItCT_X-M
+url: https://www.youtube.com/watch?v=UfnItCT_X-M
 youtube_url: https://www.youtube.com/watch?v=UfnItCT_X-M
 tags: ["Security & Privacy", "AI Models", "Anthropic", "Security"]
 transcript: true

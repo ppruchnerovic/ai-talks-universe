@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Ofer Mendelevitch"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2024-04-19T05:00:17Z
 video_id: LvtbMfz3n_o
+url: https://www.youtube.com/watch?v=LvtbMfz3n_o
 youtube_url: https://www.youtube.com/watch?v=LvtbMfz3n_o
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to build a GenAI Application with Vectara - a Step-by-Step Guide
 
-**Speaker not identified**
+**Ofer Mendelevitch**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `15 min`
 

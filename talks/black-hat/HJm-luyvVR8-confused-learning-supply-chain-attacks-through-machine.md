@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 41
 published_at: 2024-08-29T19:53:33Z
 video_id: HJm-luyvVR8
+url: https://www.youtube.com/watch?v=HJm-luyvVR8
 youtube_url: https://www.youtube.com/watch?v=HJm-luyvVR8
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Simon Hørup Eskildsen"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T15:51:37Z
 video_id: _yb6Nw21QxA
+url: https://www.youtube.com/watch?v=_yb6Nw21QxA
 youtube_url: https://www.youtube.com/watch?v=_yb6Nw21QxA
 tags: ["vector database tutorial", "Notion", "AI search", "ChatGPT", "artificial intelligence", "machine learning", "embeddings", "semantic search", "vector search", "billion scale", "object storage", "Spark", "Python", "data pipeline", "text chunking", "approximate nearest neighbor", "RAG", "similarity search", "machine learning embeddings", "neural embeddings", "vector indexing", "high dimensional data", "nearest neighbor search", "vector similarity", "content recommendation", "personalization", "search relevance"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Notion Cut Millions from Their Vector DB Bill Without Sacrificing Search Quality
 
-**Speaker not identified**
+**Simon Hørup Eskildsen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

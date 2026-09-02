@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 19
 published_at: 2023-12-05T21:05:00Z
 video_id: 5sitAevA0Tw
+url: https://www.youtube.com/watch?v=5sitAevA0Tw
 youtube_url: https://www.youtube.com/watch?v=5sitAevA0Tw
 tags: []
 transcript: false

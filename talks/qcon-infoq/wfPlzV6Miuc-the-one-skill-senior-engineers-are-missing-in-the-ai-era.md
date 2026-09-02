@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 39
 published_at: 2026-01-19T12:08:11Z
 video_id: wfPlzV6Miuc
+url: https://www.youtube.com/watch?v=wfPlzV6Miuc
 youtube_url: https://www.youtube.com/watch?v=wfPlzV6Miuc
 tags: ["Software Architecture", "AI Development", "Engineering Leadership", "The InfoQ Podcast", "Architecture & Design", "Software Development", "Productivity", "AI"]
 transcript: true

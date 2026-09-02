@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 36
 published_at: null
 video_id: Nx-011g0710
+url: https://www.youtube.com/watch?v=Nx-011g0710
 youtube_url: https://www.youtube.com/watch?v=Nx-011g0710
 tags: []
 transcript: false

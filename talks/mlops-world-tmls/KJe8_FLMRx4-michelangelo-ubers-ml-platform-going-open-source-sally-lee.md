@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Sally Lee", "Sr. Staff Engineer", "Eric Wang"]
+speakers: ["Sally Lee", "Eric Wang"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 32
 published_at: 2025-10-23T01:48:52Z
 video_id: KJe8_FLMRx4
+url: https://www.youtube.com/watch?v=KJe8_FLMRx4
 youtube_url: https://www.youtube.com/watch?v=KJe8_FLMRx4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Michelangelo (Uber’s ML Platform): Going Open Source | Sally Lee & Eric Wang, Uber
 
-**Sally Lee, Sr. Staff Engineer, Eric Wang**
+**Sally Lee, Eric Wang**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `32 min`
 

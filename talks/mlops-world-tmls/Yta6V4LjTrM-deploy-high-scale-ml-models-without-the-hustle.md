@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Pavel Klushin", "Head of Solutions Architecture"]
+speakers: ["Pavel Klushin"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 33
 published_at: 2023-08-18T01:36:05Z
 video_id: Yta6V4LjTrM
+url: https://www.youtube.com/watch?v=Yta6V4LjTrM
 youtube_url: https://www.youtube.com/watch?v=Yta6V4LjTrM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Deploy High Scale ML Models Without the Hustle
 
-**Pavel Klushin, Head of Solutions Architecture**
+**Pavel Klushin**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `33 min`
 

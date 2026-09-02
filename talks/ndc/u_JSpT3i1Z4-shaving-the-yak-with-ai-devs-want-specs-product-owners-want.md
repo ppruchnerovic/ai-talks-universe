@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 64
 published_at: 2025-05-28T11:15:11Z
 video_id: u_JSpT3i1Z4
+url: https://www.youtube.com/watch?v=u_JSpT3i1Z4
 youtube_url: https://www.youtube.com/watch?v=u_JSpT3i1Z4
 tags: ["NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Adam Cogan", "AI", "Azure", "GitHub", "DevOps"]
 transcript: false

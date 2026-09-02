@@ -141,7 +141,7 @@ jobs:
             note=$'> [!CAUTION]\n> A field lost more of the corpus than the tolerance allows. That is the\n> signature of a throttled enumeration overwriting good records, not of new\n> information. Read the table before merging.'
           else
             heading="## Catalogue refresh"
-            note=$'> [!NOTE]\n> No field regressed. Merging publishes: `pages.yml` mirrors `main` into\n> `gh-pages` on push.'
+            note=$'> [!NOTE]\n> No field regressed. Merging publishes: `pages.yml` assembles the site from\n> `main` and pushes it to `gh-pages`.'
           fi
 
           {
@@ -153,6 +153,6 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
       # Publishing happens only when a human merges that branch: a push to main
-      # runs pages.yml, which mirrors main into gh-pages. Nothing here touches
+      # runs pages.yml, which publishes the site from main. Nothing here touches
       # main or gh-pages, so a throttled run cannot put degraded data on the
       # live site before somebody has looked at it.

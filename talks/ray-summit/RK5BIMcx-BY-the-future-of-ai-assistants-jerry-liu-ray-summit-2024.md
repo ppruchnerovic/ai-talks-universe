@@ -12,6 +12,7 @@ channel: null
 duration_min: 29
 published_at: null
 video_id: RK5BIMcx-BY
+url: https://www.youtube.com/watch?v=RK5BIMcx-BY
 youtube_url: https://www.youtube.com/watch?v=RK5BIMcx-BY
 tags: []
 transcript: false

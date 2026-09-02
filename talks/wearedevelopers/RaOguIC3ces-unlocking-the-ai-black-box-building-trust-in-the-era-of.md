@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T12:10:00+00:00
 video_id: RaOguIC3ces
+url: https://www.youtube.com/watch?v=RaOguIC3ces
 youtube_url: https://www.youtube.com/watch?v=RaOguIC3ces
 tags: ["AI Engineering", "AI Standards", "Agentic AI", "Compliance", "DevOps", "Large Language Models (LLMs)", "LLMOps", "Observability", "Reliability", "Site Reliability Engineering (SRE)"]
 transcript: true

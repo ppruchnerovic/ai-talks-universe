@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 26
 published_at: 2026-07-24T12:52:17Z
 video_id: lXZb21CfeIY
+url: https://www.youtube.com/watch?v=lXZb21CfeIY
 youtube_url: https://www.youtube.com/watch?v=lXZb21CfeIY
 tags: ["Bridgewater", "Bridgewater Associates", "PAT", "Pocket Analyst Tool", "Brendan McManus", "Michael Ran", "Santi Weight", "hedge fund AI", "coding agent", "compiler theory", "deterministic agent", "LangGraph", "LangChain", "parallel code generation", "DAG validation", "static analysis", "agent for finance", "investment research AI", "time series search", "RAG", "human-in-the-loop", "self-improving agent", "agent evals", "Interrupt conference", "agentic coding"]
 transcript: true

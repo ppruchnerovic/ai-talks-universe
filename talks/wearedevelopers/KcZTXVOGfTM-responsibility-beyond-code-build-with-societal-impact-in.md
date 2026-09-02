@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 11
 published_at: 2026-07-09T09:30:00+00:00
 video_id: KcZTXVOGfTM
+url: https://www.youtube.com/watch?v=KcZTXVOGfTM
 youtube_url: https://www.youtube.com/watch?v=KcZTXVOGfTM
 tags: ["Strategy & Innovation", "Agentic AI", "Digital Transformation", "Employer Branding", "Future of Work", "Generative AI (GenAI)", "Innovation", "People & Culture", "Product Strategy", "Robotics", "Startups", "UI/UX"]
 transcript: true

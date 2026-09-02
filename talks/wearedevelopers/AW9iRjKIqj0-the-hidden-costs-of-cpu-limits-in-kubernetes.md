@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T10:10:00+00:00
 video_id: AW9iRjKIqj0
+url: https://www.youtube.com/watch?v=AW9iRjKIqj0
 youtube_url: https://www.youtube.com/watch?v=AW9iRjKIqj0
 tags: ["Cloud & AI Infrastructure", "DevOps", "Google Cloud (GCP)", "Infrastructure", "Observability", "Performance"]
 transcript: true

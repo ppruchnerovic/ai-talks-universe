@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["James Ward", "Maximilian Schellhorn"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-10T05:10:24Z
 video_id: EgKsRsx1-HM
+url: https://www.youtube.com/watch?v=EgKsRsx1-HM
 youtube_url: https://www.youtube.com/watch?v=EgKsRsx1-HM
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Beyond local tools: Deep dive into MCP by James Ward, Maximilian Schellhorn
 
-**Speaker not identified**
+**James Ward, Maximilian Schellhorn**
 
 `Devoxx` · `Devoxx` · `2025` · `51 min`
 

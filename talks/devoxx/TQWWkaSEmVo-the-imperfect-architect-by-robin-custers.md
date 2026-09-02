@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Robin Custers"]
 channel: "Devoxx"
 duration_min: 34
 published_at: 2025-10-09T05:36:07Z
 video_id: TQWWkaSEmVo
+url: https://www.youtube.com/watch?v=TQWWkaSEmVo
 youtube_url: https://www.youtube.com/watch?v=TQWWkaSEmVo
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Imperfect Architect by Robin Custers
 
-**Speaker not identified**
+**Robin Custers**
 
 `Devoxx` · `Devoxx` · `2025` · `34 min`
 

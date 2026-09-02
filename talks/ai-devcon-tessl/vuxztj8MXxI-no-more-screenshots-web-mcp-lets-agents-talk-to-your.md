@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 60
 published_at: 2026-03-31T13:00:58Z
 video_id: vuxztj8MXxI
+url: https://www.youtube.com/watch?v=vuxztj8MXxI
 youtube_url: https://www.youtube.com/watch?v=vuxztj8MXxI
 tags: ["AI agents", "Apple AI model", "Apple AI model usage", "ChatGPT browsing", "Claude agent mode", "JavaScript API", "Web MCP", "Web MCP vs traditional API", "agentic browsing", "ainativedev", "future of web apps and AI", "how to improve agent browsing", "web app development", "website interactions", "what is Web MCP"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 31
 published_at: 2025-11-23T14:33:51Z
 video_id: MtC8SDWeyC8
+url: https://www.youtube.com/watch?v=MtC8SDWeyC8
 youtube_url: https://www.youtube.com/watch?v=MtC8SDWeyC8
 tags: ["AWS", "Anyscale", "Conference", "Prefect", "PyConDE", "PyData", "PyData Berlin", "Python", "Ray", "STAC", "Tech Talk", "cloud computing", "data pipeline", "distributed processing", "geospatial analytics", "infrastructure monitoring", "remote sensing", "satellite imagery"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mark Russinovich", "Scott Hanselman"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T15:52:47Z
 video_id: 1h8UU_OVRTE
+url: https://www.youtube.com/watch?v=1h8UU_OVRTE
 youtube_url: https://www.youtube.com/watch?v=1h8UU_OVRTE
 tags: ["Agentic SDLC", "Agents", "BRK247", "BRK247_v1", "Dev Tools", "Developer", "Mark Russinovich", "Scott Hanselman", "Scott and Mark learn...how agents reshape software engineering | BRK247", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn...how agents reshape software engineering | BRK247
 
-**Speaker not identified**
+**Mark Russinovich, Scott Hanselman**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

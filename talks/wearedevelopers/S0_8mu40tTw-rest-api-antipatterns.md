@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T07:40:00+00:00
 video_id: S0_8mu40tTw
+url: https://www.youtube.com/watch?v=S0_8mu40tTw
 youtube_url: https://www.youtube.com/watch?v=S0_8mu40tTw
 tags: ["Backend & APIs", "APIs", "Governance", "Software Architecture"]
 transcript: true

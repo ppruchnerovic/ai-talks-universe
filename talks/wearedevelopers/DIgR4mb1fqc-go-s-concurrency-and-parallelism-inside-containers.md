@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T10:50:00+00:00
 video_id: DIgR4mb1fqc
+url: https://www.youtube.com/watch?v=DIgR4mb1fqc
 youtube_url: https://www.youtube.com/watch?v=DIgR4mb1fqc
 tags: ["Languages & Runtimes", "Concurrency", "Containers", "Go"]
 transcript: true

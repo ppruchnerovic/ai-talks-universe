@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 6
 published_at: 2025-09-05T19:46:58Z
 video_id: dEZILA4xyDo
+url: https://www.youtube.com/watch?v=dEZILA4xyDo
 youtube_url: https://www.youtube.com/watch?v=dEZILA4xyDo
 tags: []
 transcript: false

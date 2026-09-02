@@ -7,11 +7,12 @@ conference_name: "Databricks Data + AI Summit"
 category: "Vendor & platform"
 edition: "DAIS 2026"
 year: 2026
-speakers: ["Kasey Uhlenhuth", "Product Management"]
+speakers: ["Kasey Uhlenhuth"]
 channel: "Databricks"
 duration_min: 26
 published_at: 2026-06-24T19:59:40Z
 video_id: GezX9a_9bwI
+url: https://www.youtube.com/watch?v=GezX9a_9bwI
 youtube_url: https://www.youtube.com/watch?v=GezX9a_9bwI
 tags: ["Databricks"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Agent Bricks gives developers choice, context and control (with demo)
 
-**Kasey Uhlenhuth, Product Management**
+**Kasey Uhlenhuth**
 
 `Databricks Data + AI Summit` · `DAIS 2026` · `2026` · `26 min`
 

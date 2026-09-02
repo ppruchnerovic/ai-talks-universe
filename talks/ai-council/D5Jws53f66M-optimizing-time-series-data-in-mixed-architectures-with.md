@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Adam Cimarosti"]
 channel: "AI Council"
 duration_min: 24
 published_at: 2024-04-19T05:00:07Z
 video_id: D5Jws53f66M
+url: https://www.youtube.com/watch?v=D5Jws53f66M
 youtube_url: https://www.youtube.com/watch?v=D5Jws53f66M
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Optimizing Time Series Data in Mixed Architectures with QuestDB
 
-**Speaker not identified**
+**Adam Cimarosti**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `24 min`
 

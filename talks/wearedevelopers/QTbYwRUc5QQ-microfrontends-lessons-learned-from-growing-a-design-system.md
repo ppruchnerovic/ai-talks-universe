@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T14:10:00+00:00
 video_id: QTbYwRUc5QQ
+url: https://www.youtube.com/watch?v=QTbYwRUc5QQ
 youtube_url: https://www.youtube.com/watch?v=QTbYwRUc5QQ
 tags: ["Frontend, Web & Mobile", "Microfrontends", "Next.js", "Storybook"]
 transcript: true

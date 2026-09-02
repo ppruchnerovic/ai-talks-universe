@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 10
 published_at: 2026-07-09T10:10:00+00:00
 video_id: RwSfrCDMdqo
+url: https://www.youtube.com/watch?v=RwSfrCDMdqo
 youtube_url: https://www.youtube.com/watch?v=RwSfrCDMdqo
 tags: ["Developer Experience", "Clean Code", "Developer Experience (DevEx)", "Legacy", "Motivation", "People & Culture"]
 transcript: true

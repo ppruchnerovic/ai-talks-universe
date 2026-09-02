@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 59
 published_at: null
 video_id: Quit3lN2igY
+url: https://www.youtube.com/watch?v=Quit3lN2igY
 youtube_url: https://www.youtube.com/watch?v=Quit3lN2igY
 tags: []
 transcript: false

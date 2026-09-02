@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Chang She"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2024-04-19T05:00:04Z
 video_id: 9O2pfXkCDmU
+url: https://www.youtube.com/watch?v=9O2pfXkCDmU
 youtube_url: https://www.youtube.com/watch?v=9O2pfXkCDmU
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Foundations for a Multi-Modal Lakehouse for AI
 
-**Speaker not identified**
+**Chang She**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `37 min`
 

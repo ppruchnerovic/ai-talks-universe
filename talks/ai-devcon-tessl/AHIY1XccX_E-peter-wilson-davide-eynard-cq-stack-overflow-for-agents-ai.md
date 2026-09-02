@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Peter Wilson", "Davide Eynard"]
 channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-16T07:10:25Z
 video_id: AHIY1XccX_E
+url: https://www.youtube.com/watch?v=AHIY1XccX_E
 youtube_url: https://www.youtube.com/watch?v=AHIY1XccX_E
 tags: ["AI DevCon", "AI agents", "Davide Eynard Mozilla AI", "Mozilla.ai", "Peter Wilson Mozilla AI", "Stack Overflow for agents", "agentic coding", "ainativedev", "context engineering", "cq", "importance of context in AI", "knowledge sharing", "open source AI", "token optimization", "what is cq by Mozilla.ai"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Peter Wilson & Davide Eynard - cq - Stack Overflow for Agents - AI Native DevCon June 2026
 
-**Speaker not identified**
+**Peter Wilson, Davide Eynard**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `32 min`
 

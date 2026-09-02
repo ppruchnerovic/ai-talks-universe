@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Abdel Sghiouar"]
 channel: "Devoxx"
 duration_min: 104
 published_at: 2025-10-07T05:13:52Z
 video_id: ZcpD1M0Wa8Q
+url: https://www.youtube.com/watch?v=ZcpD1M0Wa8Q
 youtube_url: https://www.youtube.com/watch?v=ZcpD1M0Wa8Q
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Large Scale Distributed LLM Inference with LLM D and Kubernetes by Abdel Sghiouar
 
-**Speaker not identified**
+**Abdel Sghiouar**
 
 `Devoxx` · `Devoxx` · `2025` · `104 min`
 

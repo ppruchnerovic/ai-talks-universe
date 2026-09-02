@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Pietro Mele"]
 channel: "Devoxx"
 duration_min: 45
 published_at: 2026-03-30T19:00:00Z
 video_id: 1Fet0IyyJrY
+url: https://www.youtube.com/watch?v=1Fet0IyyJrY
 youtube_url: https://www.youtube.com/watch?v=1Fet0IyyJrY
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Behind the hype: managing billion-scale embeddings in Elasticsearch and OpenSearch by Pietro Mele
 
-**Speaker not identified**
+**Pietro Mele**
 
 `Devoxx` · `Devoxx` · `2026` · `45 min`
 

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 51
 published_at: 2025-11-21T13:39:32Z
 video_id: NmgusUF8Hmc
+url: https://www.youtube.com/watch?v=NmgusUF8Hmc
 youtube_url: https://www.youtube.com/watch?v=NmgusUF8Hmc
 tags: ["64a75406-434c-441b-9ac5-9212697784f3_Segment", "Darren Sharpe", "English (US)", "Executing on the channel-led marketplace opportunity for partners | PBRK420", "James McBain", "Jason Rook", "Microsoft AI Cloud Partner Program", "PBRK420", "Partner Business", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

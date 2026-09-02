@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 48
 published_at: null
 video_id: lp_tXtr_aL4
+url: https://www.youtube.com/watch?v=lp_tXtr_aL4
 youtube_url: https://www.youtube.com/watch?v=lp_tXtr_aL4
 tags: []
 transcript: false

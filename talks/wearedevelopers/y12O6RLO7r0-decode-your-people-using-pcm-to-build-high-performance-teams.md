@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-10T07:00:00+00:00
 video_id: y12O6RLO7r0
+url: https://www.youtube.com/watch?v=y12O6RLO7r0
 youtube_url: https://www.youtube.com/watch?v=y12O6RLO7r0
 tags: ["People & Culture", "Communication", "Motivation", "People & Culture"]
 transcript: true

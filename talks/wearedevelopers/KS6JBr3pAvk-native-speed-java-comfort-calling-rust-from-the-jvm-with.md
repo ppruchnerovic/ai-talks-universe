@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T13:40:00+00:00
 video_id: KS6JBr3pAvk
+url: https://www.youtube.com/watch?v=KS6JBr3pAvk
 youtube_url: https://www.youtube.com/watch?v=KS6JBr3pAvk
 tags: ["Languages & Runtimes", "Java", "JVM", "Performance", "Rust"]
 transcript: true

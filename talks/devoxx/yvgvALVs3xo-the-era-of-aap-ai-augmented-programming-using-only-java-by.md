@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Stephan Janssen"]
 channel: "Devoxx"
 duration_min: 38
 published_at: 2024-10-23T07:08:36Z
 video_id: yvgvALVs3xo
+url: https://www.youtube.com/watch?v=yvgvALVs3xo
 youtube_url: https://www.youtube.com/watch?v=yvgvALVs3xo
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Era of AAP: Ai Augmented Programming using only Java by Stephan Janssen
 
-**Speaker not identified**
+**Stephan Janssen**
 
 `Devoxx` · `Devoxx` · `2024` · `38 min`
 

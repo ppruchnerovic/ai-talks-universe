@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Skyler Thomas"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T07:35:42Z
 video_id: JiW9rX1CBZs
+url: https://www.youtube.com/watch?v=JiW9rX1CBZs
 youtube_url: https://www.youtube.com/watch?v=JiW9rX1CBZs
 tags: ["GraphRAG", "RAG tutorial", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "vector database", "retrieval augmented generation", "semantic search", "AI applications", "open source", "OpenTelemetry", "OpenInference", "Python tutorial", "graph neural networks", "entity linking", "relationship extraction", "knowledge base construction", "semantic understanding", "contextual retrieval", "multi hop reasoning", "graph embeddings"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Make Too Much Knowledge Just Enough Massive Scale RAG & GraphRAG w Open Source
 
-**Speaker not identified**
+**Skyler Thomas**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

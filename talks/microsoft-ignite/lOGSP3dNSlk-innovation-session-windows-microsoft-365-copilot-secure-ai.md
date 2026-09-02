@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pavan Davuluri", "Navjot Virk", "Jason Gowans", "Stefan Kinnestrand"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T12:52:31Z
 video_id: lOGSP3dNSlk
+url: https://www.youtube.com/watch?v=lOGSP3dNSlk
 youtube_url: https://www.youtube.com/watch?v=lOGSP3dNSlk
 tags: ["BRK1700", "BRK1700_v1", "English (US)", "Innovation Session: Windows & Microsoft 365 Copilot: Secure AI & agent productivity | BRK1700", "Jason Gowans", "Navjot Virk", "Pavan Davuluri", "Scale with cloud and AI endpoints", "Signature pass", "Stefan Kinnestrand", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Innovation Session: Windows & Microsoft 365 Copilot: Secure AI & agent productivity | BRK1700
 
-**Speaker not identified**
+**Pavan Davuluri, Navjot Virk, Jason Gowans, Stefan Kinnestrand**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

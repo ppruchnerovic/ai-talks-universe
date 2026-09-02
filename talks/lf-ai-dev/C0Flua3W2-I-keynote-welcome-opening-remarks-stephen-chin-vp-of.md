@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 5
 published_at: 2025-09-09T18:29:25Z
 video_id: C0Flua3W2-I
+url: https://www.youtube.com/watch?v=C0Flua3W2-I
 youtube_url: https://www.youtube.com/watch?v=C0Flua3W2-I
 tags: []
 transcript: false

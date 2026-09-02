@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Timothy Chan"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2025-05-29T13:45:53Z
 video_id: f4seZseaeSM
+url: https://www.youtube.com/watch?v=f4seZseaeSM
 youtube_url: https://www.youtube.com/watch?v=f4seZseaeSM
 tags: ["B2B testing", "A B testing tutorial", "ChatGPT", "artificial intelligence", "machine learning", "data science tutorial", "analytics", "business intelligence", "product analytics", "Notion", "Figma", "Atlassian", "experimentation", "Python tutorial", "enterprise experimentation", "B2B metrics", "customer success metrics", "retention analysis", "churn prediction", "lifetime value", "account based analytics", "sales funnel optimization", "conversion optimization"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlocking A/B Testing for B2B
 
-**Speaker not identified**
+**Timothy Chan**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `31 min`
 

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Anton Arhipov"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2026-04-08T22:10:25Z
 video_id: fLK7-SUVVak
+url: https://www.youtube.com/watch?v=fLK7-SUVVak
 youtube_url: https://www.youtube.com/watch?v=fLK7-SUVVak
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building AI Agents on the JVM by Anton Arhipov
 
-**Speaker not identified**
+**Anton Arhipov**
 
 `Devoxx` · `Devoxx` · `2026` · `46 min`
 

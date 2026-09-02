@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T08:20:00+00:00
 video_id: heaA5E4vkQw
+url: https://www.youtube.com/watch?v=heaA5E4vkQw
 youtube_url: https://www.youtube.com/watch?v=heaA5E4vkQw
 tags: ["Backend & APIs", "Data", "JSON"]
 transcript: true

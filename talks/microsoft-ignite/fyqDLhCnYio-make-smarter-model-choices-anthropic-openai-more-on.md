@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["William Flannery", "Keiji Kanazawa", "Naomi Moneypenny", "Steve Sweetman", "Tao Zhang"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T10:26:01Z
 video_id: fyqDLhCnYio
+url: https://www.youtube.com/watch?v=fyqDLhCnYio
 youtube_url: https://www.youtube.com/watch?v=fyqDLhCnYio
 tags: ["BRK195", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Keiji Kanazawa", "Make smarter model choices: Anthropic OpenAI & more on Microsoft Foundry | BRK195", "Naomi Moneypenny", "Steve Sweetman", "Tao Zhang", "Technical", "William Flannery", "e97e1c5b-80d1-4437-b4ff-7342deb012e4_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Make smarter model choices: Anthropic OpenAI & more on Microsoft Foundry | BRK195
 
-**Speaker not identified**
+**William Flannery, Keiji Kanazawa, Naomi Moneypenny, Steve Sweetman, Tao Zhang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

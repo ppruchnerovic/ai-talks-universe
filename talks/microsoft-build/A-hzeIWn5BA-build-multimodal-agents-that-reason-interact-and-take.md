@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Henk Boelman"]
 channel: "Microsoft Developer"
 duration_min: 16
 published_at: 2026-06-10T20:08:41Z
 video_id: A-hzeIWn5BA
+url: https://www.youtube.com/watch?v=A-hzeIWn5BA
 youtube_url: https://www.youtube.com/watch?v=A-hzeIWn5BA
 tags: ["Agents", "Build multimodal agents that reason interact and take action | DEM330", "DEM330", "DEM330_v1", "Developer", "Henk Boelman", "Microsoft Foundry", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build multimodal agents that reason interact and take action | DEM330
 
-**Speaker not identified**
+**Henk Boelman**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-09T08:10:00+00:00
 video_id: JVtWw3mZz2o
+url: https://www.youtube.com/watch?v=JVtWw3mZz2o
 youtube_url: https://www.youtube.com/watch?v=JVtWw3mZz2o
 tags: ["Security & Privacy", "Privacy", "Security"]
 transcript: true

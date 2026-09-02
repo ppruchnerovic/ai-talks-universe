@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-10T07:00:00+00:00
 video_id: -Sgj_qyfNmw
+url: https://www.youtube.com/watch?v=-Sgj_qyfNmw
 youtube_url: https://www.youtube.com/watch?v=-Sgj_qyfNmw
 tags: ["Security & Privacy", "Cloud Security", "Security"]
 transcript: true

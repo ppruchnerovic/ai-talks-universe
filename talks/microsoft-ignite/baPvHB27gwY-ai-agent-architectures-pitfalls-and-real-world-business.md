@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mark Austin", "Luis Héctor Chávez", "Adam Orentlicher", "Naga Surendran"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T11:37:46Z
 video_id: baPvHB27gwY
+url: https://www.youtube.com/watch?v=baPvHB27gwY
 youtube_url: https://www.youtube.com/watch?v=baPvHB27gwY
 tags: ["AI agent architectures pitfalls and real-world business impact | BRK114", "Adam Orentlicher", "BRK114", "English (US)", "Innovate with Azure AI apps and agents", "Luis Héctor Chávez", "Mark Austin", "Naga Surendran", "Technical", "e55c598d-33e9-4cfa-a68d-f834c7e0b30d_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI agent architectures, pitfalls and real-world business impact | BRK114
 
-**Speaker not identified**
+**Mark Austin, Luis Héctor Chávez, Adam Orentlicher, Naga Surendran**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

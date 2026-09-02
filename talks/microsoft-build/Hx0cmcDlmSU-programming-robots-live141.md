@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chip Huyen", "John Maeda"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-04T14:05:24Z
 video_id: Hx0cmcDlmSU
+url: https://www.youtube.com/watch?v=Hx0cmcDlmSU
 youtube_url: https://www.youtube.com/watch?v=Hx0cmcDlmSU
 tags: ["Chip Huyen", "John Maeda", "LIVE141", "LIVE141_v1", "Programming robots | LIVE141", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Programming robots | LIVE141
 
-**Speaker not identified**
+**Chip Huyen, John Maeda**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

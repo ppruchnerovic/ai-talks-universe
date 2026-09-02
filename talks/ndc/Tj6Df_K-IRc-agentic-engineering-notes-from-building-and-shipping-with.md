@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-07-01T13:52:59Z
 video_id: Tj6Df_K-IRc
+url: https://www.youtube.com/watch?v=Tj6Df_K-IRc
 youtube_url: https://www.youtube.com/watch?v=Tj6Df_K-IRc
 tags: ["AI-Assisted Development", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Mats Oustad"]
 transcript: true

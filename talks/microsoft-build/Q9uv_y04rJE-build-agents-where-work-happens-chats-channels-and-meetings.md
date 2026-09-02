@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Umang Sehgal", "Lily Du"]
 channel: "Microsoft Developer"
 duration_min: 21
 published_at: 2026-06-22T20:58:29Z
 video_id: Q9uv_y04rJE
+url: https://www.youtube.com/watch?v=Q9uv_y04rJE
 youtube_url: https://www.youtube.com/watch?v=Q9uv_y04rJE
 tags: ["Agents", "Build agents where work happens: chats channels and meetings in Microsoft Teams | DEM334", "DEM334", "DEM334_v2", "Developer", "Enterprise", "Lily Du", "Skills", "Umang Sehgal", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build agents where work happens: chats channels and meetings in Microsoft Teams | DEM334
 
-**Speaker not identified**
+**Umang Sehgal, Lily Du**
 
 `Microsoft Build` · `Build 2026` · `2026` · `21 min`
 

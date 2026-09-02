@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-04T07:15:06Z
 video_id: Ex1Zu0qel8M
+url: https://www.youtube.com/watch?v=Ex1Zu0qel8M
 youtube_url: https://www.youtube.com/watch?v=Ex1Zu0qel8M
 tags: ["AI DevCon 2026", "AI agents", "AI workflow automation", "AI workflows", "OpenClaw", "OpenClaw magic", "agentic systems", "ainativedev", "business process AI", "business process automation", "code automation", "dynamic solutions", "how to integrate AI agents", "pi.dev", "pi.dev coding agent"]
 transcript: true

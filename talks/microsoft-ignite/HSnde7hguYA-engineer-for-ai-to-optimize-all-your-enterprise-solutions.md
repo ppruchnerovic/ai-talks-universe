@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Manuel Cubillo"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-20T13:40:54Z
 video_id: HSnde7hguYA
+url: https://www.youtube.com/watch?v=HSnde7hguYA
 youtube_url: https://www.youtube.com/watch?v=HSnde7hguYA
 tags: ["AI", "Cloud Endpoints", "Copilot", "Data Security", "Data governance", "Engineer for AI to optimize all your enterprise solutions | ODFP941", "English (US)", "Github copilot", "Intermediate (200)", "Manuel Cubillo", "Microsoft Copilot", "ODFP941", "Pre-recorded", "Security", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Engineer for AI to optimize all your enterprise solutions | ODFP941
 
-**Speaker not identified**
+**Manuel Cubillo**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

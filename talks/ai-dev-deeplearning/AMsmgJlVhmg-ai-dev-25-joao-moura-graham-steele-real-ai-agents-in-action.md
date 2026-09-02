@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 87
 published_at: 2025-03-27T17:54:38Z
 video_id: AMsmgJlVhmg
+url: https://www.youtube.com/watch?v=AMsmgJlVhmg
 youtube_url: https://www.youtube.com/watch?v=AMsmgJlVhmg
 tags: []
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Amir Netz"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T14:39:30Z
 video_id: YC33gA2TzxE
+url: https://www.youtube.com/watch?v=YC33gA2TzxE
 youtube_url: https://www.youtube.com/watch?v=YC33gA2TzxE
 tags: ["Amir Netz", "BRK224", "BRK224_v1", "English (US)", "Microsoft Fabric: The data platform for the next AI frontier | BRK224", "Signature pass", "Technical", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Microsoft Fabric: The data platform for the next AI frontier | BRK224
 
-**Speaker not identified**
+**Amir Netz**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 23
 published_at: 2024-06-27T14:39:43Z
 video_id: IBBeLNgGIIo
+url: https://www.youtube.com/watch?v=IBBeLNgGIIo
 youtube_url: https://www.youtube.com/watch?v=IBBeLNgGIIo
 tags: []
 transcript: false

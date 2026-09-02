@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Tom Jackson", "Carl Lingenfelter"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-27T09:10:11Z
 video_id: 7xCmc-asjH4
+url: https://www.youtube.com/watch?v=7xCmc-asjH4
 youtube_url: https://www.youtube.com/watch?v=7xCmc-asjH4
 tags: ["AI", "Adaptive Cloud", "Azure Arc", "Azure Monitor", "BRK219", "Breakout", "Cloud Management", "Copilot", "English (US)", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Multicloud", "Simplify operations with AI: Copilot Azure Arc and Azure Monitor | BRK219", "Technical", "Tom Jackson", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Simplify operations with AI: Copilot Azure Arc and Azure Monitor | BRK219
 
-**Speaker not identified**
+**Tom Jackson, Carl Lingenfelter**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

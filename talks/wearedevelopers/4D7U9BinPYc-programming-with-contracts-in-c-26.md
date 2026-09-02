@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T10:50:00+00:00
 video_id: 4D7U9BinPYc
+url: https://www.youtube.com/watch?v=4D7U9BinPYc
 youtube_url: https://www.youtube.com/watch?v=4D7U9BinPYc
 tags: ["Languages & Runtimes", "Best Practices", "C++", "Safety", "Secure Coding", "Security"]
 transcript: true

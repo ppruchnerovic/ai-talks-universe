@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 13
 published_at: 2026-06-03T12:16:02Z
 video_id: NtLuXXNKbJw
+url: https://www.youtube.com/watch?v=NtLuXXNKbJw
 youtube_url: https://www.youtube.com/watch?v=NtLuXXNKbJw
 tags: ["AI", "AI Toolkit", "Agent Observability", "Agentic SDLC", "Agentic Security", "Agents", "Automation", "Azure", "Azure Monitor", "Claws", "Containment", "Cost Management", "Dev Tools", "Developer", "MCP", "Microsoft Foundry", "Monitor GenAI applications beyond golden signals | ODSP907", "ODSP907", "ODSP907_v1", "Openclaw", "Platform Engineering", "Semantic Kernel", "Skills", "Vector Embeddings", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

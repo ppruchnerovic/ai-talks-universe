@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 33
 published_at: 2023-05-11T18:58:29Z
 video_id: qJ3PWyx7w2Q
+url: https://www.youtube.com/watch?v=qJ3PWyx7w2Q
 youtube_url: https://www.youtube.com/watch?v=qJ3PWyx7w2Q
 tags: ["data pipelines", "data streaming", "open source tools"]
 transcript: false

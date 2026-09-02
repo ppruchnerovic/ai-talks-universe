@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2025-07-02T17:15:09Z
 video_id: u8tvVxUOwvY
+url: https://www.youtube.com/watch?v=u8tvVxUOwvY
 youtube_url: https://www.youtube.com/watch?v=u8tvVxUOwvY
 tags: ["JavaScript", "AI", "Programming Languages", "Work skills", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia"]
 transcript: false

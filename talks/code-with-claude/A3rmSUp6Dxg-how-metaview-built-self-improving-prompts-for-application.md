@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 17
 published_at: 2026-05-22T15:02:58Z
 video_id: A3rmSUp6Dxg
+url: https://www.youtube.com/watch?v=A3rmSUp6Dxg
 youtube_url: https://www.youtube.com/watch?v=A3rmSUp6Dxg
 tags: []
 transcript: true

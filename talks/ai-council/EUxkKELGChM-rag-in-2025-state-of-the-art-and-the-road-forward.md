@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Tengyu Ma"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T07:19:36Z
 video_id: EUxkKELGChM
+url: https://www.youtube.com/watch?v=EUxkKELGChM
 youtube_url: https://www.youtube.com/watch?v=EUxkKELGChM
 tags: ["2025 AI trends", "RAG", "retrieval augmented generation", "ChatGPT", "artificial intelligence", "machine learning", "vector database", "enterprise AI", "embedding models", "rerankers", "contextual chunking", "query optimization", "semantic search", "Python tutorial", "AI predictions", "technology trends", "market analysis", "innovation trends", "startup trends", "investment trends", "research directions", "breakthrough technologies", "emerging applications"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # RAG in 2025: State of the Art and the Road Forward
 
-**Speaker not identified**
+**Tengyu Ma**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

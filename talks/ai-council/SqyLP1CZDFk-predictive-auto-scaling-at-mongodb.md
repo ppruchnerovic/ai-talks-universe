@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["A. Jesse Jiryu Davis"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2024-04-19T05:00:13Z
 video_id: SqyLP1CZDFk
+url: https://www.youtube.com/watch?v=SqyLP1CZDFk
 youtube_url: https://www.youtube.com/watch?v=SqyLP1CZDFk
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Predictive Auto-Scaling at MongoDB
 
-**Speaker not identified**
+**A. Jesse Jiryu Davis**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `29 min`
 

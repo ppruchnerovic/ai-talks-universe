@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 60
 published_at: 2026-06-25T12:00:34Z
 video_id: S2TNNyaxXUQ
+url: https://www.youtube.com/watch?v=S2TNNyaxXUQ
 youtube_url: https://www.youtube.com/watch?v=S2TNNyaxXUQ
 tags: ["AI Native DevCon London", "AI coding", "AI development", "AI enablement", "AINativeDevCon", "Autonomy AI", "DevOps", "DevOps transformation", "Tessl", "What is AI enablement", "Why PR workflows are outdated", "agentic coding", "ainativedev", "enterprise AI", "software development"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Venkat Subramaniam", "Josh Long", "James Ward"]
 channel: "Devoxx"
 duration_min: 96
 published_at: 2026-04-09T19:31:54Z
 video_id: 3ZxBhnqLqik
+url: https://www.youtube.com/watch?v=3ZxBhnqLqik
 youtube_url: https://www.youtube.com/watch?v=3ZxBhnqLqik
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Intelligent Kotlin by Venkat Subramaniam, Josh Long, James Ward
 
-**Speaker not identified**
+**Venkat Subramaniam, Josh Long, James Ward**
 
 `Devoxx` · `Devoxx` · `2026` · `96 min`
 

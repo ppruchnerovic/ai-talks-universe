@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T09:40:00+00:00
 video_id: 8kNnlM21F_o
+url: https://www.youtube.com/watch?v=8kNnlM21F_o
 youtube_url: https://www.youtube.com/watch?v=8kNnlM21F_o
 tags: []
 transcript: true

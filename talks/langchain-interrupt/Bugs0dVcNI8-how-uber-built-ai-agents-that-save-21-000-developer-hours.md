@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 17
 published_at: null
 video_id: Bugs0dVcNI8
+url: https://www.youtube.com/watch?v=Bugs0dVcNI8
 youtube_url: https://www.youtube.com/watch?v=Bugs0dVcNI8
 tags: []
 transcript: false

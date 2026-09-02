@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 41
 published_at: 2023-12-28T10:00:28Z
 video_id: iyH8GPXzBpk
+url: https://www.youtube.com/watch?v=iyH8GPXzBpk
 youtube_url: https://www.youtube.com/watch?v=iyH8GPXzBpk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Project Management", "Data Warehousing", "Agile"]
 transcript: false

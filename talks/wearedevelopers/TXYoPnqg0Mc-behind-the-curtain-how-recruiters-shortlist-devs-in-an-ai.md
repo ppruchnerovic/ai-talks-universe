@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 11
 published_at: 2026-07-10T08:40:00+00:00
 video_id: TXYoPnqg0Mc
+url: https://www.youtube.com/watch?v=TXYoPnqg0Mc
 youtube_url: https://www.youtube.com/watch?v=TXYoPnqg0Mc
 tags: ["Career & Growth", "Talent & Recruiting"]
 transcript: true

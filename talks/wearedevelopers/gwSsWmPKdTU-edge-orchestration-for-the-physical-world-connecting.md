@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 6
 published_at: 2026-07-09T11:35:00+00:00
 video_id: gwSsWmPKdTU
+url: https://www.youtube.com/watch?v=gwSsWmPKdTU
 youtube_url: https://www.youtube.com/watch?v=gwSsWmPKdTU
 tags: ["Emerging Technologies", "Edge AI", "Internet of Things (IoT)", "Observability", "Raspberry Pi", "Startups"]
 transcript: true

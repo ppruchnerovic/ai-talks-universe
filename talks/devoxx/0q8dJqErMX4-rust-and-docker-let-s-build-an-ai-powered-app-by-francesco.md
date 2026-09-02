@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Francesco Ciulla"]
 channel: "Devoxx"
 duration_min: 31
 published_at: 2024-10-23T07:08:31Z
 video_id: 0q8dJqErMX4
+url: https://www.youtube.com/watch?v=0q8dJqErMX4
 youtube_url: https://www.youtube.com/watch?v=0q8dJqErMX4
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Rust and Docker: Let's build an AI-powered App! by Francesco Ciulla
 
-**Speaker not identified**
+**Francesco Ciulla**
 
 `Devoxx` · `Devoxx` · `2024` · `31 min`
 

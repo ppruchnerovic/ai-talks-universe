@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 24
 published_at: null
 video_id: QtxsZRUl_Js
+url: https://www.youtube.com/watch?v=QtxsZRUl_Js
 youtube_url: https://www.youtube.com/watch?v=QtxsZRUl_Js
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 22
 published_at: 2023-05-11T18:57:23Z
 video_id: 0EEN3X129f4
+url: https://www.youtube.com/watch?v=0EEN3X129f4
 youtube_url: https://www.youtube.com/watch?v=0EEN3X129f4
 tags: ["Data Science", "MLOps", "Data Engineering", "model testing"]
 transcript: false

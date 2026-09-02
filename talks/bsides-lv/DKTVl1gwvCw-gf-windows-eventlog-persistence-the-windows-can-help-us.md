@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 32
 published_at: 2024-09-04T22:15:14Z
 video_id: DKTVl1gwvCw
+url: https://www.youtube.com/watch?v=DKTVl1gwvCw
 youtube_url: https://www.youtube.com/watch?v=DKTVl1gwvCw
 tags: ["WLWZN8"]
 transcript: false

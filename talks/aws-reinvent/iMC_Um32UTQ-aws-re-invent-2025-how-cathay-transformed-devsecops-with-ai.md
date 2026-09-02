@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 49
 published_at: null
 video_id: iMC_Um32UTQ
+url: https://www.youtube.com/watch?v=iMC_Um32UTQ
 youtube_url: https://www.youtube.com/watch?v=iMC_Um32UTQ
 tags: []
 transcript: false

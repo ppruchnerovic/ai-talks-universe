@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T13:00:00+00:00
 video_id: sF2AE0RZJJQ
+url: https://www.youtube.com/watch?v=sF2AE0RZJJQ
 youtube_url: https://www.youtube.com/watch?v=sF2AE0RZJJQ
 tags: ["Developer Experience", "AI Coding Assistants", "Developer Experience (DevEx)", "Productivity"]
 transcript: true

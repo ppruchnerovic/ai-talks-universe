@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Johan Huttenga", "Saurabh Sensharma"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-11-20T14:26:06Z
 video_id: sFDh-2Oz8zs
+url: https://www.youtube.com/watch?v=sFDh-2Oz8zs
 youtube_url: https://www.youtube.com/watch?v=sFDh-2Oz8zs
 tags: ["AI", "Automation", "Data Security", "Data governance", "Developer", "Fortifying Azure Data Resilience with Veeam Data Cloud | ODFP988", "Intermediate (200)", "Microsoft 365", "Microsoft 365 Archive", "Microsoft 365 Backup", "Microsoft Teams", "ODFP988", "Pre-recorded", "Security", "SharePoint", "Technical", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Fortifying Azure Data Resilience with Veeam Data Cloud | ODFP988
 
-**Speaker not identified**
+**Johan Huttenga, Saurabh Sensharma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `23 min`
 

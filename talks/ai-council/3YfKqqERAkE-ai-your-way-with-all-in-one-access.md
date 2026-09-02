@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Yusuf Ozuysal"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-28T23:31:10Z
 video_id: 3YfKqqERAkE
+url: https://www.youtube.com/watch?v=3YfKqqERAkE
 youtube_url: https://www.youtube.com/watch?v=3YfKqqERAkE
 tags: ["Snowflake", "Claude 3.6", "Claude 3.7", "ChatGPT", "artificial intelligence", "machine learning", "GPT-4", "O3-mini", "OpenAI embeddings", "AI API", "LLM access", "unified platform", "AI models", "cloud agnostic API", "Python tutorial", "model comparison", "AI benchmarking", "language models", "API integration", "cloud computing", "enterprise AI", "model performance", "cost analysis", "scalability testing"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI Your Way with All-In-One Access
 
-**Speaker not identified**
+**Yusuf Ozuysal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

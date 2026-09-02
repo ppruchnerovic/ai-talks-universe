@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T11:00:00+00:00
 video_id: GyfiwdgviTg
+url: https://www.youtube.com/watch?v=GyfiwdgviTg
 youtube_url: https://www.youtube.com/watch?v=GyfiwdgviTg
 tags: ["Languages & Runtimes", "C#", "Java"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AMLD Intelligence Summit"
 duration_min: 28
 published_at: 2024-05-13T08:17:25Z
 video_id: ou3uo639Vsc
+url: https://www.youtube.com/watch?v=ou3uo639Vsc
 youtube_url: https://www.youtube.com/watch?v=ou3uo639Vsc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
 transcript: false

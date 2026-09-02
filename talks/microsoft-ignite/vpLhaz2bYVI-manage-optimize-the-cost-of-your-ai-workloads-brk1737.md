@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sonia Cuff"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T14:08:34Z
 video_id: vpLhaz2bYVI
+url: https://www.youtube.com/watch?v=vpLhaz2bYVI
 youtube_url: https://www.youtube.com/watch?v=vpLhaz2bYVI
 tags: ["058595c6-8b6b-44d8-b7d4-5644a1173c3d_Segment", "BRK1737", "English (US)", "Manage & optimize the cost of your AI workloads | BRK1737", "Migrate and modernize your estate", "Sonia Cuff", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Manage & optimize the cost of your AI workloads | BRK1737
 
-**Speaker not identified**
+**Sonia Cuff**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

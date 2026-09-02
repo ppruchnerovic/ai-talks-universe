@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 63
 published_at: 2025-08-11T13:26:36Z
 video_id: kf7joG8VQT4
+url: https://www.youtube.com/watch?v=kf7joG8VQT4
 youtube_url: https://www.youtube.com/watch?v=kf7joG8VQT4
 tags: ["InfoQ Live", "AI Agents", "Agentic AI", "LLMs", "Large Language Models", "Model Context Protocol", "MCP", "Virtual Panel", "InfoQ", "Artificial Intelligence", "Transcript"]
 transcript: false

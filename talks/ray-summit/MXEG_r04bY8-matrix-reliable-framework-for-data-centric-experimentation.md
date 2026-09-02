@@ -12,6 +12,7 @@ channel: null
 duration_min: 25
 published_at: null
 video_id: MXEG_r04bY8
+url: https://www.youtube.com/watch?v=MXEG_r04bY8
 youtube_url: https://www.youtube.com/watch?v=MXEG_r04bY8
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 52
 published_at: null
 video_id: ObAJIOJrcK8
+url: https://www.youtube.com/watch?v=ObAJIOJrcK8
 youtube_url: https://www.youtube.com/watch?v=ObAJIOJrcK8
 tags: []
 transcript: false

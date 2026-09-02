@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-03-19T08:45:26Z
 video_id: nnN9T6qRrAs
+url: https://www.youtube.com/watch?v=nnN9T6qRrAs
 youtube_url: https://www.youtube.com/watch?v=nnN9T6qRrAs
 tags: ["Software Architecture", "QCon London", "InfoQ", "Transcript", "Case Study", "Monzo", "Technical Migration", "TypeScript", "Flow", "JavaScript", "Web Development", "Dynamic Languages", "Technical Debt"]
 transcript: true

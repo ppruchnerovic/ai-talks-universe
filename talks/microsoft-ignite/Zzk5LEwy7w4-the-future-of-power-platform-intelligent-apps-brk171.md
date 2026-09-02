@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jonathan Beck", "Ryan Cunningham", "Clay Wesener"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2024-11-21T15:10:38Z
 video_id: Zzk5LEwy7w4
+url: https://www.youtube.com/watch?v=Zzk5LEwy7w4
 youtube_url: https://www.youtube.com/watch?v=Zzk5LEwy7w4
 tags: ["BRK171", "Breakout", "Business Applications", "Business Applications-Curated", "Clay Wesener", "English (US)", "Intermediate (200)", "Jonathan Beck", "Ryan Cunningham", "Technical", "The Future of Power Platform: Intelligent Apps | BRK171", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Future of Power Platform: Intelligent Apps | BRK171
 
-**Speaker not identified**
+**Jonathan Beck, Ryan Cunningham, Clay Wesener**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `49 min`
 

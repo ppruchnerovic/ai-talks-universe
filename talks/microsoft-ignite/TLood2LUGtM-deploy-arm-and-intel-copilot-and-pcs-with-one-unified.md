@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Daniel Wyness"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-19T08:22:51Z
 video_id: TLood2LUGtM
+url: https://www.youtube.com/watch?v=TLood2LUGtM
 youtube_url: https://www.youtube.com/watch?v=TLood2LUGtM
 tags: ["Daniel Wyness", "Deploy ARM and Intel Copilot and PCs with one unified approach | ODSP1513", "English (US)", "Migrate and modernize your estate", "ODSP1513", "ODSP1513_v1", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Deploy ARM and Intel Copilot and PCs with one unified approach | ODSP1513
 
-**Speaker not identified**
+**Daniel Wyness**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

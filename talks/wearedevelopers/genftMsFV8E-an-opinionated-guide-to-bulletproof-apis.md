@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T07:00:00+00:00
 video_id: genftMsFV8E
+url: https://www.youtube.com/watch?v=genftMsFV8E
 youtube_url: https://www.youtube.com/watch?v=genftMsFV8E
 tags: ["Backend & APIs", "APIs", "Jakarta EE", "Java", "Microservices", "Software Architecture"]
 transcript: true

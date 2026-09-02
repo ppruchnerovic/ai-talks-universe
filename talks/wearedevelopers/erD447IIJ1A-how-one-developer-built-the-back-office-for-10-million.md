@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 6
 published_at: 2026-07-09T11:45:00+00:00
 video_id: erD447IIJ1A
+url: https://www.youtube.com/watch?v=erD447IIJ1A
 youtube_url: https://www.youtube.com/watch?v=erD447IIJ1A
 tags: ["Strategy & Innovation", "Design Systems", "Figma", "Software Architecture", "Startups", "UI/UX"]
 transcript: true

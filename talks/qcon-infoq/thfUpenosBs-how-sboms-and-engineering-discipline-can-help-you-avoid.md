@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 38
 published_at: 2026-04-13T10:27:37Z
 video_id: thfUpenosBs
+url: https://www.youtube.com/watch?v=thfUpenosBs
 youtube_url: https://www.youtube.com/watch?v=thfUpenosBs
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 38
 published_at: 2026-05-21T23:56:16Z
 video_id: jn3iypY-cN4
+url: https://www.youtube.com/watch?v=jn3iypY-cN4
 youtube_url: https://www.youtube.com/watch?v=jn3iypY-cN4
 tags: ["pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
 transcript: true

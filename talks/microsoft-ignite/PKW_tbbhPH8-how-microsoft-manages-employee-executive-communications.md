@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Cirone", "Jason Mayans"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-19T13:57:46Z
 video_id: PKW_tbbhPH8
+url: https://www.youtube.com/watch?v=PKW_tbbhPH8
 youtube_url: https://www.youtube.com/watch?v=PKW_tbbhPH8
 tags: ["BRK297", "Copilot and agents at work", "English (US)", "How Microsoft manages employee & executive communications with AI | BRK297", "Jason Mayans", "John Cirone", "Technical", "aa706deb-a2d3-40a5-9fe0-bf8659bbef9f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Microsoft manages employee & executive communications with AI | BRK297
 
-**Speaker not identified**
+**John Cirone, Jason Mayans**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

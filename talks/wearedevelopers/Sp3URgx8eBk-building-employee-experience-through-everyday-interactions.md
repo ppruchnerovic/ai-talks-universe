@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 40
 published_at: 2025-11-27T10:04:24Z
 video_id: Sp3URgx8eBk
+url: https://www.youtube.com/watch?v=Sp3URgx8eBk
 youtube_url: https://www.youtube.com/watch?v=Sp3URgx8eBk
 tags: ["employee experience", "teams", "employee", "engagement", "people", "culture", "development", "hr", "organization", "business", "satisfaction"]
 transcript: false

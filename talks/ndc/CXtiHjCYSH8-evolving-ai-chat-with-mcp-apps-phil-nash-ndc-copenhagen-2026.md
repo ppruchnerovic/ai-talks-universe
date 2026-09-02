@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 38
 published_at: 2026-08-05T13:45:10Z
 video_id: CXtiHjCYSH8
+url: https://www.youtube.com/watch?v=CXtiHjCYSH8
 youtube_url: https://www.youtube.com/watch?v=CXtiHjCYSH8
 tags: ["AI", "Web", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Phil Nash"]
 transcript: true

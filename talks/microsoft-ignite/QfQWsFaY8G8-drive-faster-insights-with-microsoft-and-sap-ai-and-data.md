@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Robert Hernandez", "Nathan Weaver"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T17:09:54Z
 video_id: QfQWsFaY8G8
+url: https://www.youtube.com/watch?v=QfQWsFaY8G8
 youtube_url: https://www.youtube.com/watch?v=QfQWsFaY8G8
 tags: ["7d811601-425d-40fa-a5e2-7ce94d955898_Segment", "BRK163", "Drive faster insights with Microsoft and SAP AI and data innovations | BRK163", "English (US)", "Migrate and modernize your estate", "Migrate and modernize your estate:RISE with SAP", "Nathan Weaver", "Robert Hernandez", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Drive faster insights with Microsoft and SAP AI and data innovations | BRK163
 
-**Speaker not identified**
+**Robert Hernandez, Nathan Weaver**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

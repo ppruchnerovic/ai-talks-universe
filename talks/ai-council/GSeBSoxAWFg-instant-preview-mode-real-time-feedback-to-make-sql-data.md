@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hamilton Ulmer"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T06:55:38Z
 video_id: GSeBSoxAWFg
+url: https://www.youtube.com/watch?v=GSeBSoxAWFg
 youtube_url: https://www.youtube.com/watch?v=GSeBSoxAWFg
 tags: ["instant preview", "SQL tutorial", "ChatGPT", "artificial intelligence", "machine learning", "DuckDB", "database", "data analysis", "real time", "data exploration", "interactive SQL", "query optimization", "DuckDB WASM", "Python tutorial", "browser analytics", "client side analytics", "serverless analytics", "edge computing", "local first", "instant feedback", "query visualization", "result caching", "progressive enhancement", "responsive design"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Instant Preview Mode Real Time Feedback to Make SQL Data Exploration Fly
 
-**Speaker not identified**
+**Hamilton Ulmer**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

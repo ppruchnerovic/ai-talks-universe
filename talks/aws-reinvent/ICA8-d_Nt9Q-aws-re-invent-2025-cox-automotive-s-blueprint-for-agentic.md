@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 44
 published_at: null
 video_id: ICA8-d_Nt9Q
+url: https://www.youtube.com/watch?v=ICA8-d_Nt9Q
 youtube_url: https://www.youtube.com/watch?v=ICA8-d_Nt9Q
 tags: []
 transcript: false

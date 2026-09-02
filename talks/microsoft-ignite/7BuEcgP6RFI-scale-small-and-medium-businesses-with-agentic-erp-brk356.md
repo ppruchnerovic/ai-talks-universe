@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Bryan Goode", "Kurt Juvyns", "Tom Paquin"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T17:13:41Z
 video_id: 7BuEcgP6RFI
+url: https://www.youtube.com/watch?v=7BuEcgP6RFI
 youtube_url: https://www.youtube.com/watch?v=7BuEcgP6RFI
 tags: ["5c5cc8b3-b44c-45a4-9ffd-18062508639c_Segment", "Agentic business applications", "BRK356", "Bryan Goode", "English (US)", "Kurt Juvyns", "Scale small and medium businesses with Agentic ERP | BRK356", "Technical", "Tom Paquin", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scale small and medium businesses with Agentic ERP | BRK356
 
-**Speaker not identified**
+**Bryan Goode, Kurt Juvyns, Tom Paquin**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

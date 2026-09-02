@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T07:00:00+00:00
 video_id: T84T6TKd5-I
+url: https://www.youtube.com/watch?v=T84T6TKd5-I
 youtube_url: https://www.youtube.com/watch?v=T84T6TKd5-I
 tags: ["Security & Privacy", "AI Coding Assistants", "Code Generation", "Security"]
 transcript: true

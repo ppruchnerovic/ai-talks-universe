@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Voice In", "Allen Pike"]
+speakers: ["Allen Pike"]
 channel: "AI Engineer"
 duration_min: 13
 published_at: 2026-06-28T23:30:33Z
 video_id: 65X0pQ6Lmbg
+url: https://www.youtube.com/watch?v=65X0pQ6Lmbg
 youtube_url: https://www.youtube.com/watch?v=65X0pQ6Lmbg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Voice In, Visuals Out: The Agony and the Ecstasy - Allen Pike, Forestwalk Labs
 
-**Voice In, Allen Pike**
+**Allen Pike**
 
 `AI Engineer` · `AI Engineer` · `2026` · `13 min`
 

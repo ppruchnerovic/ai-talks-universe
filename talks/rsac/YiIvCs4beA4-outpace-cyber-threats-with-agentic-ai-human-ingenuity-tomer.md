@@ -12,6 +12,7 @@ channel: null
 duration_min: 17
 published_at: null
 video_id: YiIvCs4beA4
+url: https://www.youtube.com/watch?v=YiIvCs4beA4
 youtube_url: https://www.youtube.com/watch?v=YiIvCs4beA4
 tags: []
 transcript: false

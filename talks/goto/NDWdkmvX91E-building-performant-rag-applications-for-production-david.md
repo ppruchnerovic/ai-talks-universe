@@ -12,6 +12,7 @@ channel: null
 duration_min: 32
 published_at: null
 video_id: NDWdkmvX91E
+url: https://www.youtube.com/watch?v=NDWdkmvX91E
 youtube_url: https://www.youtube.com/watch?v=NDWdkmvX91E
 tags: []
 transcript: false

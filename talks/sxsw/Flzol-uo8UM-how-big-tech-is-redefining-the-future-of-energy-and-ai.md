@@ -12,6 +12,7 @@ channel: "SXSW"
 duration_min: 61
 published_at: null
 video_id: Flzol-uo8UM
+url: https://www.youtube.com/watch?v=Flzol-uo8UM
 youtube_url: https://www.youtube.com/watch?v=Flzol-uo8UM
 tags: []
 transcript: false

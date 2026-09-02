@@ -12,6 +12,7 @@ channel: "Web Summit"
 duration_min: 17
 published_at: 2025-02-10T17:00:38Z
 video_id: Wg6Ol0b62xA
+url: https://www.youtube.com/watch?v=Wg6Ol0b62xA
 youtube_url: https://www.youtube.com/watch?v=Wg6Ol0b62xA
 tags: []
 transcript: false

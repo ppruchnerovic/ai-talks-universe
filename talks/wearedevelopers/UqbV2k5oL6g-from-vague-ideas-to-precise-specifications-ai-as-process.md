@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T12:20:00+00:00
 video_id: UqbV2k5oL6g
+url: https://www.youtube.com/watch?v=UqbV2k5oL6g
 youtube_url: https://www.youtube.com/watch?v=UqbV2k5oL6g
 tags: ["Developer Experience", "AI Coding Assistants", "Project Management"]
 transcript: true

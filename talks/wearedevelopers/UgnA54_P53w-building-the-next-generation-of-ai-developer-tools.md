@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T11:30:00+00:00
 video_id: UgnA54_P53w
+url: https://www.youtube.com/watch?v=UgnA54_P53w
 youtube_url: https://www.youtube.com/watch?v=UgnA54_P53w
 tags: ["Developer Experience", "AI Coding Assistants", "Agents", "Agentic AI", "Copilot", "Developer Experience (DevEx)", "Tooling"]
 transcript: true

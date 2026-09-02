@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Chelsea Carter", "Ramanathan Guha"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2025-11-24T14:13:29Z
 video_id: xAc08f59q5E
+url: https://www.youtube.com/watch?v=xAc08f59q5E
 youtube_url: https://www.youtube.com/watch?v=xAc08f59q5E
 tags: ["BRK1745", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Scaling the Agentic Web with NLWeb | BRK1745", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scaling the Agentic Web with NLWeb | BRK1745
 
-**Speaker not identified**
+**Chelsea Carter, Ramanathan Guha**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `19 min`
 

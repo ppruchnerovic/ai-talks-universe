@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stefanie Lemon", "Max Uritsky"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T08:12:27Z
 video_id: pMFnaPg3TTQ
+url: https://www.youtube.com/watch?v=pMFnaPg3TTQ
 youtube_url: https://www.youtube.com/watch?v=pMFnaPg3TTQ
 tags: ["35a9353d-d145-4573-b18c-5d3849557df5_Segment", "BRK172", "English (US)", "Max Uritsky", "Migrate and modernize your estate", "Powering modern cloud workloads with Azure Compute | BRK172", "Stefanie Lemon", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Powering modern cloud workloads with Azure Compute | BRK172
 
-**Speaker not identified**
+**Stefanie Lemon, Max Uritsky**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Diptanu Gon Choudhury"]
 channel: "AI Council"
 duration_min: 47
 published_at: 2025-05-29T15:19:07Z
 video_id: D3fjQf_OiFg
+url: https://www.youtube.com/watch?v=D3fjQf_OiFg
 youtube_url: https://www.youtube.com/watch?v=D3fjQf_OiFg
 tags: ["data engineering tutorial", "AI agents", "knowledge graphs", "ChatGPT", "artificial intelligence", "machine learning", "vector databases", "graph RAG", "real time data", "semantic layers", "foundation models", "agent memory", "Python tutorial", "next generation data engineering", "intelligent data systems", "automated data pipelines", "self healing systems", "adaptive systems", "cognitive computing", "autonomous systems", "intelligent automation", "graph neural networks", "entity resolution"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Future of Data Engineering in the Agent Era
 
-**Speaker not identified**
+**Diptanu Gon Choudhury**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `47 min`
 

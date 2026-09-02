@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Jordan Volz"]
 channel: "AI Council"
 duration_min: 16
 published_at: 2024-04-19T05:00:00Z
 video_id: aba67fEZi4M
+url: https://www.youtube.com/watch?v=aba67fEZi4M
 youtube_url: https://www.youtube.com/watch?v=aba67fEZi4M
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Introducing lolpop: an Open Source Framework for Machine Learning Workflows
 
-**Speaker not identified**
+**Jordan Volz**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `16 min`
 

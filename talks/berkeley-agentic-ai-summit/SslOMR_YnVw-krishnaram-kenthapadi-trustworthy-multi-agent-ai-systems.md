@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 13
 published_at: 2026-08-12T07:13:44Z
 video_id: SslOMR_YnVw
+url: https://www.youtube.com/watch?v=SslOMR_YnVw
 youtube_url: https://www.youtube.com/watch?v=SslOMR_YnVw
 tags: []
 transcript: true

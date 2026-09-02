@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2025-10-30T23:03:36Z
 video_id: eaUL-V58woU
+url: https://www.youtube.com/watch?v=eaUL-V58woU
 youtube_url: https://www.youtube.com/watch?v=eaUL-V58woU
 tags: ["Security", "GenAI", "NDC", "Conferences", "LLM", "Fun", "Copenhagen", "Live", "Niels Tanis", "Software"]
 transcript: false

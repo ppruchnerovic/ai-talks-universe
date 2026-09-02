@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Harald Solstad Fianbakken"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T17:11:09Z
 video_id: ALNbqZzuBHg
+url: https://www.youtube.com/watch?v=ALNbqZzuBHg
 youtube_url: https://www.youtube.com/watch?v=ALNbqZzuBHg
 tags: ["1a09ca8b-1d3c-4c20-b16d-14399dfa0773_Segment", "BRK167", "Ella hassan", "English (US)", "Harald Solstad Fianbakken", "Maintain regulatory compliance with the Microsoft Sovereign Cloud | BRK167", "Migrate and modernize your estate", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Maintain regulatory compliance with the Microsoft Sovereign Cloud | BRK167
 
-**Speaker not identified**
+**Harald Solstad Fianbakken**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

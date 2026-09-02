@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Valerio Frediani", "Monica Ugwi"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2024-11-22T07:26:24Z
 video_id: i1TkoMxMy70
+url: https://www.youtube.com/watch?v=i1TkoMxMy70
 youtube_url: https://www.youtube.com/watch?v=i1TkoMxMy70
 tags: ["Analytics", "BRK261", "Breakout", "Copilot", "Copilot template", "Democratize data-driven decision making across factory operations with AI | BRK261", "English (US)", "GenAI", "GenerativeAI", "Industry", "Industry data model", "Industry data solutions", "Industry-Curated", "Intermediate (200)", "Microsoft Fabric", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Democratize data-driven decision making across factory operations with AI | BRK261
 
-**Speaker not identified**
+**Valerio Frediani, Monica Ugwi**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `37 min`
 

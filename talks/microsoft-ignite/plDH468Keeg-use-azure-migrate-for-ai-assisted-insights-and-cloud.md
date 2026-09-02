@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shashank Bansal", "Vishal Jain", "Anant Raigaga"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:57:03Z
 video_id: plDH468Keeg
+url: https://www.youtube.com/watch?v=plDH468Keeg
 youtube_url: https://www.youtube.com/watch?v=plDH468Keeg
 tags: ["5d7c93aa-e83a-4cd8-8f69-3d51e9722cb9_Segment", "Anant Raigaga", "BRK139", "English (US)", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Database for PostgreSQL", "Migrate and modernize your estate:Windows Server", "Shashank Bansal", "Technical", "Use Azure Migrate for AI assisted insights and cloud transformation | BRK139", "Vishal Jain", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Use Azure Migrate for AI assisted insights and cloud transformation | BRK139
 
-**Speaker not identified**
+**Shashank Bansal, Vishal Jain, Anant Raigaga**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

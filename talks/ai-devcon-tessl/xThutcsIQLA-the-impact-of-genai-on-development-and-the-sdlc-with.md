@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 39
 published_at: 2025-09-24T15:58:42Z
 video_id: xThutcsIQLA
+url: https://www.youtube.com/watch?v=xThutcsIQLA
 youtube_url: https://www.youtube.com/watch?v=xThutcsIQLA
 tags: []
 transcript: false

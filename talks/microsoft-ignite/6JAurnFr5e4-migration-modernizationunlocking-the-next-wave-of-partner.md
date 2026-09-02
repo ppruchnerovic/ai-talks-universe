@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Randy Holloway", "David Miller", "Ananthanarayan Sundaram", "Roger Whitehead"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-25T12:13:05Z
 video_id: 6JAurnFr5e4
+url: https://www.youtube.com/watch?v=6JAurnFr5e4
 youtube_url: https://www.youtube.com/watch?v=6JAurnFr5e4
 tags: ["Ananthanarayan Sundaram", "David Miller", "English (US)", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "Migrate and modernize your estate:Windows Server", "Migration & Modernization—Unlocking the Next Wave of Partner Growth | PBRK152", "PBRK152", "Partner Business", "Randy Holloway", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Migration & Modernization—Unlocking the Next Wave of Partner Growth | PBRK152
 
-**Speaker not identified**
+**Randy Holloway, David Miller, Ananthanarayan Sundaram, Roger Whitehead**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

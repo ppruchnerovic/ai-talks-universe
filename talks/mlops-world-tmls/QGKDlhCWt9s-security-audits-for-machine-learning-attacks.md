@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 42
 published_at: 2023-08-18T01:37:38Z
 video_id: QGKDlhCWt9s
+url: https://www.youtube.com/watch?v=QGKDlhCWt9s
 youtube_url: https://www.youtube.com/watch?v=QGKDlhCWt9s
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Security Audits for Machine Learning Attacks", "Security Audits", "Machine Learning Attacks", "ml attacks"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "SANS Institute"
 duration_min: 6
 published_at: null
 video_id: IusaU1hbSEY
+url: https://www.youtube.com/watch?v=IusaU1hbSEY
 youtube_url: https://www.youtube.com/watch?v=IusaU1hbSEY
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anirban Majumdar", "Sivakumar N"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T11:04:20Z
 video_id: kNKmYwlN9rQ
+url: https://www.youtube.com/watch?v=kNKmYwlN9rQ
 youtube_url: https://www.youtube.com/watch?v=kNKmYwlN9rQ
 tags: ["9e71b73e-43d0-489c-9940-7f9ba9407ca9_Segment", "Anirban Majumdar", "BRKSP485", "Connect everything achieve anything and transform your enterprise | BRKSP485", "English (US)", "Retail and Consumer Goods", "Sivakumar N", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Connect everything achieve anything and transform your enterprise | BRKSP485
 
-**Speaker not identified**
+**Anirban Majumdar, Sivakumar N**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

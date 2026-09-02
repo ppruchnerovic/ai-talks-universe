@@ -12,6 +12,7 @@ channel: "SANS Institute"
 duration_min: 56
 published_at: 2026-05-04T18:46:26Z
 video_id: UlArgam4Tbs
+url: https://www.youtube.com/watch?v=UlArgam4Tbs
 youtube_url: https://www.youtube.com/watch?v=UlArgam4Tbs
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
 transcript: true

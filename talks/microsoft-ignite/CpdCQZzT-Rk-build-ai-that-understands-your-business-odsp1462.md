@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oren Eini"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-19T14:36:41Z
 video_id: CpdCQZzT-Rk
+url: https://www.youtube.com/watch?v=CpdCQZzT-Rk
 youtube_url: https://www.youtube.com/watch?v=CpdCQZzT-Rk
 tags: ["Build AI that understands your business | ODSP1462", "Education", "English (US)", "Innovate with low-code AI and agents", "ODSP1462", "ODSP1462_v1", "Oren Eini", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Build AI that understands your business | ODSP1462
 
-**Speaker not identified**
+**Oren Eini**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

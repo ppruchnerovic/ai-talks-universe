@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Dhruv Singh"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2024-04-19T05:00:22Z
 video_id: Tf3LaoRZ4GI
+url: https://www.youtube.com/watch?v=Tf3LaoRZ4GI
 youtube_url: https://www.youtube.com/watch?v=Tf3LaoRZ4GI
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlocking Reliable GenAI: Strategies for Assessing LLMs in Real-World Applications
 
-**Speaker not identified**
+**Dhruv Singh**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `37 min`
 

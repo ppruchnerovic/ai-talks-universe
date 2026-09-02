@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["James Brotsos"]
 channel: "Microsoft Developer"
 duration_min: 18
 published_at: 2026-06-03T13:57:37Z
 video_id: FcymSA7jZL8
+url: https://www.youtube.com/watch?v=FcymSA7jZL8
 youtube_url: https://www.youtube.com/watch?v=FcymSA7jZL8
 tags: ["DevSecOps", "GitHub Advanced Security", "James Brotsos", "OD841", "OD841_v2", "Responsible AI", "Security", "Ship fast stay secure: from code to runtime | OD841", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Ship fast, stay secure: from code to runtime | OD841
 
-**Speaker not identified**
+**James Brotsos**
 
 `Microsoft Build` · `Build 2026` · `2026` · `18 min`
 

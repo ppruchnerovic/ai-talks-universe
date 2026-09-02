@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 50
 published_at: null
 video_id: mS8F5OhmFtA
+url: https://www.youtube.com/watch?v=mS8F5OhmFtA
 youtube_url: https://www.youtube.com/watch?v=mS8F5OhmFtA
 tags: []
 transcript: false

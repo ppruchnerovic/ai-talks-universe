@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 30
 published_at: 2025-10-10T07:22:08Z
 video_id: TSLcHP10fRc
+url: https://www.youtube.com/watch?v=TSLcHP10fRc
 youtube_url: https://www.youtube.com/watch?v=TSLcHP10fRc
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Tobias Lunt"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2024-04-19T05:00:01Z
 video_id: 3OKa22LY2Gk
+url: https://www.youtube.com/watch?v=3OKa22LY2Gk
 youtube_url: https://www.youtube.com/watch?v=3OKa22LY2Gk
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Data for Impact: Levering LLMs for Nonprofit Social Research
 
-**Speaker not identified**
+**Tobias Lunt**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `15 min`
 

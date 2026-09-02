@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mark Brown", "Jai Maldonado"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-21T16:45:53Z
 video_id: UKJE1eJYtkA
+url: https://www.youtube.com/watch?v=UKJE1eJYtkA
 youtube_url: https://www.youtube.com/watch?v=UKJE1eJYtkA
 tags: ["860ad794-701e-4c5f-b0f1-5cbf7570f128_Segment", "BRK228", "English (US)", "Jai Maldonado", "Mark Brown", "Real-time analytics and AI apps with Cosmos DB in Fabric | BRK228", "Technical", "Unify your data platform", "Unify your data platform:Azure CosmosDB", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Real-time analytics and AI apps with Cosmos DB in Fabric | BRK228
 
-**Speaker not identified**
+**Mark Brown, Jai Maldonado**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

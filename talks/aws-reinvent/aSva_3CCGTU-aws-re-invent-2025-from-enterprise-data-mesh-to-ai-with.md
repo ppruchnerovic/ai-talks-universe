@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 62
 published_at: null
 video_id: aSva_3CCGTU
+url: https://www.youtube.com/watch?v=aSva_3CCGTU
 youtube_url: https://www.youtube.com/watch?v=aSva_3CCGTU
 tags: []
 transcript: false

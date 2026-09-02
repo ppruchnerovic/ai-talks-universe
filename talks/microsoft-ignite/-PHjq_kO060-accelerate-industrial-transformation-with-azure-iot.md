@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sean Parham"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2024-11-27T09:54:08Z
 video_id: -PHjq_kO060
+url: https://www.youtube.com/watch?v=-PHjq_kO060
 youtube_url: https://www.youtube.com/watch?v=-PHjq_kO060
 tags: ["AI", "Accelerate industrial transformation with Azure IoT operations | BRK262", "Adaptive Cloud", "Analytics", "BRK262", "Breakout", "Copilot", "Data unification", "English (US)", "GenAI", "GenerativeAI", "Industry", "Intermediate (200)", "Kam VedBrat", "Sean Parham", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerate industrial transformation with Azure IoT operations | BRK262
 
-**Speaker not identified**
+**Sean Parham**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `33 min`
 

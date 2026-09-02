@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Emmanouil Tavlakis"]
 channel: "Devoxx"
 duration_min: 27
 published_at: 2025-10-02T12:31:14Z
 video_id: LJN5jdaeOf0
+url: https://www.youtube.com/watch?v=LJN5jdaeOf0
 youtube_url: https://www.youtube.com/watch?v=LJN5jdaeOf0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Cutting Edge of AI: From LLMs to Multimodal Intelligence by Emmanouil Tavlakis
 
-**Speaker not identified**
+**Emmanouil Tavlakis**
 
 `Devoxx` · `Devoxx` · `2025` · `27 min`
 

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 44
 published_at: 2025-03-24T11:12:07Z
 video_id: ShANq_IDDbI
+url: https://www.youtube.com/watch?v=ShANq_IDDbI
 youtube_url: https://www.youtube.com/watch?v=ShANq_IDDbI
 tags: []
 transcript: false

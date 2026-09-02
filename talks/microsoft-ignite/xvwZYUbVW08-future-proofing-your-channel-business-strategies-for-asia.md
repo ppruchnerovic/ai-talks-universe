@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rachel Bondi", "Gustavo Fuchs", "Melanie Highet", "Mark Iles", "Kiet Le"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-25T12:17:42Z
 video_id: xvwZYUbVW08
+url: https://www.youtube.com/watch?v=xvwZYUbVW08
 youtube_url: https://www.youtube.com/watch?v=xvwZYUbVW08
 tags: ["Agentic business applications", "Copilot and agents at work", "Future-Proofing Your Channel Business: Strategies for Asia Partners | PBRK440", "Innovate with low-code AI and agents", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "Modernize SecOps with a unified platform", "PBRK440", "Protect cloud AI platform and apps", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Future-Proofing Your Channel Business: Strategies for Asia Partners | PBRK440
 
-**Speaker not identified**
+**Rachel Bondi, Gustavo Fuchs, Melanie Highet, Mark Iles, Kiet Le**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

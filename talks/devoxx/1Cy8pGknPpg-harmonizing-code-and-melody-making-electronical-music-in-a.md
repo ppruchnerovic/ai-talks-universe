@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Jan Van Wassenhov"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2024-10-12T08:56:55Z
 video_id: 1Cy8pGknPpg
+url: https://www.youtube.com/watch?v=1Cy8pGknPpg
 youtube_url: https://www.youtube.com/watch?v=1Cy8pGknPpg
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Harmonizing Code and Melody: making electronical music in a matter of speaking! by Jan Van Wassenhov
 
-**Speaker not identified**
+**Jan Van Wassenhov**
 
 `Devoxx` · `Devoxx` · `2024` · `51 min`
 

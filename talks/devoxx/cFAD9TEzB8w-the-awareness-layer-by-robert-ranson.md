@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Robert Ranson"]
 channel: "Devoxx"
 duration_min: 31
 published_at: 2025-10-10T05:10:29Z
 video_id: cFAD9TEzB8w
+url: https://www.youtube.com/watch?v=cFAD9TEzB8w
 youtube_url: https://www.youtube.com/watch?v=cFAD9TEzB8w
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Awareness Layer by Robert Ranson
 
-**Speaker not identified**
+**Robert Ranson**
 
 `Devoxx` · `Devoxx` · `2025` · `31 min`
 

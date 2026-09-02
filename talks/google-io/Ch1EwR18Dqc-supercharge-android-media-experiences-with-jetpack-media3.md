@@ -12,6 +12,7 @@ channel: "Android Developers"
 duration_min: 22
 published_at: 2026-05-21T23:32:29Z
 video_id: Ch1EwR18Dqc
+url: https://www.youtube.com/watch?v=Ch1EwR18Dqc
 youtube_url: https://www.youtube.com/watch?v=Ch1EwR18Dqc
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "androidmedia", "androidcamera", "media3", "camerax", "featured"]
 transcript: true

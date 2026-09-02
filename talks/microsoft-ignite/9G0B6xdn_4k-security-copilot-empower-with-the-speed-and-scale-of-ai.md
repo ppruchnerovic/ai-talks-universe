@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dorothy Li"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T08:11:12Z
 video_id: 9G0B6xdn_4k
+url: https://www.youtube.com/watch?v=9G0B6xdn_4k
 youtube_url: https://www.youtube.com/watch?v=9G0B6xdn_4k
 tags: ["BRK244", "BRK244_v2", "Dilip Radhakrishnan", "Dorothy Li", "English (US)", "Fabrizio Dell'Oglio", "Modernize SecOps with a unified platform", "Security Copilot: Empower with the speed and scale of AI | BRK244", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Security Copilot: Empower with the speed and scale of AI | BRK244
 
-**Speaker not identified**
+**Dorothy Li**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

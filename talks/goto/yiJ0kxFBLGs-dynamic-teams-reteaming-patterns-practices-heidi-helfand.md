@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Heidi Helfand"]
 channel: "GOTO Conferences"
 duration_min: 48
 published_at: 2024-10-18T09:34:45Z
 video_id: yiJ0kxFBLGs
+url: https://www.youtube.com/watch?v=yiJ0kxFBLGs
 youtube_url: https://www.youtube.com/watch?v=yiJ0kxFBLGs
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Dynamic Teams: Reteaming Patterns & Practices • Heidi Helfand & Charles Humble
 
-**Speaker not identified**
+**Heidi Helfand**
 
 `GOTO Conferences` · `GOTO` · `2024` · `48 min`
 

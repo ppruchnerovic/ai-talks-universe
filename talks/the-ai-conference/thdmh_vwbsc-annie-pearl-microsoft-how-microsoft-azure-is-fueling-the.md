@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 14
 published_at: 2025-07-22T17:50:25Z
 video_id: thdmh_vwbsc
+url: https://www.youtube.com/watch?v=thdmh_vwbsc
 youtube_url: https://www.youtube.com/watch?v=thdmh_vwbsc
 tags: []
 transcript: false

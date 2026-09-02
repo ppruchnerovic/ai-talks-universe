@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Hugo Affaticati", "Nitin Nagarkatte"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-20T16:14:48Z
 video_id: hcleQSEfK9g
+url: https://www.youtube.com/watch?v=hcleQSEfK9g
 youtube_url: https://www.youtube.com/watch?v=hcleQSEfK9g
 tags: ["55f3515b-4216-4c15-ac20-4bf2a5bad513_Segment", "BRK180", "English (US)", "Hugo Affaticati", "Inference at record speed with Azure ND Virtual Machines | BRK180", "Migrate and modernize your estate", "Nitin Nagarkatte", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Inference at record speed with Azure ND Virtual Machines | BRK180
 
-**Speaker not identified**
+**Hugo Affaticati, Nitin Nagarkatte**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `33 min`
 

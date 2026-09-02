@@ -12,6 +12,7 @@ channel: "Apple Developer"
 duration_min: 26
 published_at: null
 video_id: 6Wgg7DIY29E
+url: https://www.youtube.com/watch?v=6Wgg7DIY29E
 youtube_url: https://www.youtube.com/watch?v=6Wgg7DIY29E
 tags: []
 transcript: false

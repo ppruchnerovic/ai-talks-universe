@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T12:50:00+00:00
 video_id: QItw1_OQAxs
+url: https://www.youtube.com/watch?v=QItw1_OQAxs
 youtube_url: https://www.youtube.com/watch?v=QItw1_OQAxs
 tags: ["Security & Privacy", "AI Standards", "JavaScript", "Security"]
 transcript: true

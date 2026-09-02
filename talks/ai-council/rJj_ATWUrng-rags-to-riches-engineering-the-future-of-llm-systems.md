@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Denis Yarats"]
 channel: "AI Council"
 duration_min: 46
 published_at: 2025-05-29T16:09:05Z
 video_id: rJj_ATWUrng
+url: https://www.youtube.com/watch?v=rJj_ATWUrng
 youtube_url: https://www.youtube.com/watch?v=rJj_ATWUrng
 tags: ["RAG", "retrieval augmented generation", "ChatGPT", "LLM", "OpenAI", "artificial intelligence", "machine learning", "natural language processing", "AI programming", "Python", "deep learning", "language models", "generative AI", "vector database", "semantic search", "embeddings", "knowledge graphs", "document processing", "information retrieval", "AI chatbots", "conversational AI", "prompt engineering", "fine tuning", "transformer models", "BERT", "GPT", "neural search", "similarity search", "content generation", "AI workflow", "automation"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # RAGs to Riches: Engineering the Future of LLM Systems
 
-**Speaker not identified**
+**Denis Yarats**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `46 min`
 

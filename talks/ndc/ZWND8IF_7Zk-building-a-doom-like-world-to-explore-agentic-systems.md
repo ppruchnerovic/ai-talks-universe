@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 53
 published_at: 2026-08-13T11:38:16Z
 video_id: ZWND8IF_7Zk
+url: https://www.youtube.com/watch?v=ZWND8IF_7Zk
 youtube_url: https://www.youtube.com/watch?v=ZWND8IF_7Zk
 tags: ["Gaming", "Architecture", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Alexander Chernov"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-08-14T00:00:00Z
 video_id: Cc0_nyxROBA
+url: https://www.youtube.com/watch?v=Cc0_nyxROBA
 youtube_url: https://www.youtube.com/watch?v=Cc0_nyxROBA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

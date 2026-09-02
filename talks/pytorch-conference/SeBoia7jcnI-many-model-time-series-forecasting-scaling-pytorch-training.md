@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 26
 published_at: null
 video_id: SeBoia7jcnI
+url: https://www.youtube.com/watch?v=SeBoia7jcnI
 youtube_url: https://www.youtube.com/watch?v=SeBoia7jcnI
 tags: []
 transcript: false

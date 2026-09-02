@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2025"
 year: 2025
-speakers: []
+speakers: ["Ezequiel Lanza", "Andreas Kollegger"]
 channel: "The Linux Foundation"
 duration_min: 60
 published_at: 2025-09-09T18:28:26Z
 video_id: b3mxHjg4ukg
+url: https://www.youtube.com/watch?v=b3mxHjg4ukg
 youtube_url: https://www.youtube.com/watch?v=b3mxHjg4ukg
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Technical Workshop: From Planning To Production-Ready RAG - Ezequiel Lanza & Andreas Kollegger
 
-**Speaker not identified**
+**Ezequiel Lanza, Andreas Kollegger**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2025` · `2025` · `60 min`
 

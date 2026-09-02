@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brendan Burns", "Steven Bucher"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-12-03T21:32:15Z
 video_id: rQBFAKJ-Ea8
+url: https://www.youtube.com/watch?v=rQBFAKJ-Ea8
 youtube_url: https://www.youtube.com/watch?v=rQBFAKJ-Ea8
 tags: ["Azure Arc: Extending Azure for hybrid and multi-cloud management | BRK183", "BRK183", "English (US)", "Migrate and modernize your estate", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Azure Arc: Extending Azure for hybrid and multi-cloud management | BRK183
 
-**Speaker not identified**
+**Brendan Burns, Steven Bucher**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

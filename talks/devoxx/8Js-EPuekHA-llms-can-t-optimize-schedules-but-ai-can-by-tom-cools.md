@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Tom Cools"]
 channel: "Devoxx"
 duration_min: 16
 published_at: 2025-04-07T13:45:19Z
 video_id: 8Js-EPuekHA
+url: https://www.youtube.com/watch?v=8Js-EPuekHA
 youtube_url: https://www.youtube.com/watch?v=8Js-EPuekHA
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # LLMs can't optimize schedules, but AI can! by Tom Cools
 
-**Speaker not identified**
+**Tom Cools**
 
 `Devoxx` · `Devoxx` · `2025` · `16 min`
 

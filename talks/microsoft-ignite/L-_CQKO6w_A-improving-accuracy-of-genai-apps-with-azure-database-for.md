@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Maxim Lukiyanov", "Orhun Oezbek", "Jay Yang"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-20T14:02:02Z
 video_id: L-_CQKO6w_A
+url: https://www.youtube.com/watch?v=L-_CQKO6w_A
 youtube_url: https://www.youtube.com/watch?v=L-_CQKO6w_A
 tags: ["Advanced (300)", "Application Development", "Azure", "BRK190", "Breakout", "Data", "Data-Curated", "English (US)", "Improving accuracy of GenAI apps with Azure Database for PostgreSQL | BRK190", "Jay Yang", "Maxim Lukiyanov", "Orhun Oezbek", "Software Company", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "opensource"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Improving accuracy of GenAI apps with Azure Database for PostgreSQL | BRK190
 
-**Speaker not identified**
+**Maxim Lukiyanov, Orhun Oezbek, Jay Yang**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

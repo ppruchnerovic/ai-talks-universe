@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Banta", "Nikhil Kumar", "Naomi Moneypenny"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-21T16:31:17Z
 video_id: 3h20ZV5Ey7w
+url: https://www.youtube.com/watch?v=3h20ZV5Ey7w
 youtube_url: https://www.youtube.com/watch?v=3h20ZV5Ey7w
 tags: ["Anand Raman", "Andy O’Dower", "BRK191", "English (US)", "From code to real results AI impact with Foundry Models | BRK191", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "John Banta", "Naomi Moneypenny", "Nikhil Kumar", "Technical", "e42bac17-9fa8-4368-8458-a6cd7fd07124_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From code to real results, AI impact with Foundry Models | BRK191
 
-**Speaker not identified**
+**John Banta, Nikhil Kumar, Naomi Moneypenny**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

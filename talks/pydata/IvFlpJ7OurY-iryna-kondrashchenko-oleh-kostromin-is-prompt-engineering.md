@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Iryna Kondrashchenko", "Oleh Kostromin"]
 channel: null
 duration_min: 30
 published_at: null
 video_id: IvFlpJ7OurY
+url: https://www.youtube.com/watch?v=IvFlpJ7OurY
 youtube_url: https://www.youtube.com/watch?v=IvFlpJ7OurY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Iryna Kondrashchenko & Oleh Kostromin - Is Prompt Engineering Dead? | PyData Amsterdam 2025
 
-**Speaker not identified**
+**Iryna Kondrashchenko, Oleh Kostromin**
 
 `PyData` · `PyData` · `2025` · `30 min`
 

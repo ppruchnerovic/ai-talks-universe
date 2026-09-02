@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T09:30:00+00:00
 video_id: ZiiBY2HKEvE
+url: https://www.youtube.com/watch?v=ZiiBY2HKEvE
 youtube_url: https://www.youtube.com/watch?v=ZiiBY2HKEvE
 tags: ["AI Engineering", "Edge AI", "Vector Databases"]
 transcript: true

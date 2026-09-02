@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 45
 published_at: 2026-06-15T09:45:09Z
 video_id: GUs_sLJsOx4
+url: https://www.youtube.com/watch?v=GUs_sLJsOx4
 youtube_url: https://www.youtube.com/watch?v=GUs_sLJsOx4
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Artificial Intelligence", "Ironies of Automation", "DevOps", "Incident Response", "Automation", "SRE", "Software Architecture"]
 transcript: true

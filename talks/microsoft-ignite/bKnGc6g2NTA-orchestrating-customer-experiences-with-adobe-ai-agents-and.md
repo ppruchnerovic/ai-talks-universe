@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Anoop Sahgal", "Siddhartha Srivastava"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2025-11-20T16:02:21Z
 video_id: bKnGc6g2NTA
+url: https://www.youtube.com/watch?v=bKnGc6g2NTA
 youtube_url: https://www.youtube.com/watch?v=bKnGc6g2NTA
 tags: ["0665aa4c-a803-4440-a06a-3a1d6c0c75a8_Segment", "Anoop Sahgal", "BRK184", "English (US)", "Innovate with Azure AI apps and agents", "Orchestrating Customer Experiences with Adobe AI Agents and Microsoft Foundry | BRK184", "Siddhartha Srivastava", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Orchestrating Customer Experiences with Adobe AI Agents and Microsoft Foundry | BRK184
 
-**Speaker not identified**
+**Anoop Sahgal, Siddhartha Srivastava**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `21 min`
 

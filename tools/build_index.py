@@ -7,11 +7,13 @@ Two independent indexes from the same corpus:
                          can open a database. Includes a per-passage index, so
                          a hit points at the exact second in the video.
 
-  data/search-meta.json  Every talk's metadata + description, compact keys.
-  data/tindex/*.json     Small enough for a browser to load up front. The
-  data/tindex/_manifest  transcript inverted index is sharded by the first two
-                         letters of a term and fetched lazily, so the site
-                         needs no backend.
+  data/search-meta.json  Every talk's metadata + a display clip of its
+                         description, compact keys. Small enough for a
+                         browser to load up front.
+  data/tindex/*.json     The inverted index — transcript passages and the
+  data/tindex/_manifest  full descriptions, stemmed — sharded by the first
+                         two letters of a term and fetched lazily, so the
+                         site needs no backend.
 
     python3 build_index.py             # rebuild both indexes into data/
     python3 build_index.py --help      # the flags, without rebuilding anything
@@ -49,8 +51,10 @@ CREATE TABLE talks (
     n INTEGER PRIMARY KEY, id TEXT UNIQUE, title TEXT, description TEXT,
     speakers TEXT, conference TEXT, conference_name TEXT, category TEXT,
     edition TEXT, year INTEGER, channel TEXT, tags TEXT, duration_min INTEGER,
-    published_at TEXT, youtube_url TEXT, availability TEXT, priority INTEGER,
-    has_transcript INTEGER, transcript_words INTEGER
+    published_at TEXT, url TEXT, youtube_url TEXT, page_url TEXT,
+    availability TEXT, priority INTEGER,
+    has_transcript INTEGER, transcript_words INTEGER,
+    timing TEXT            -- 'exact' or 'estimated'; NULL without a transcript
 );
 CREATE INDEX idx_talks_conf ON talks(conference);
 
@@ -62,8 +66,12 @@ CREATE VIRTUAL TABLE talks_fts USING fts5(
     tokenize='porter unicode61'
 );
 
+-- One row per passage. `pos` is the word offset the passage starts at and
+-- `bridge` marks the half-stride tiling that overlaps the primary one — see
+-- PASSAGE_STRIDE. Readers that want the transcript back whole take bridge = 0.
 CREATE TABLE segments (
-    rowid INTEGER PRIMARY KEY, talk_n INTEGER, start REAL, text TEXT
+    rowid INTEGER PRIMARY KEY, talk_n INTEGER, start REAL, pos INTEGER,
+    bridge INTEGER, text TEXT
 );
 CREATE INDEX idx_segments_talk ON segments(talk_n);
 
@@ -78,7 +86,16 @@ CREATE VIRTUAL TABLE segments_fts USING fts5(
 # YouTube's captions arrive as ~6-word lines, where "spec driven development" is
 # spoken across three of them and matches none. Deep links are unaffected — the
 # browser reads the raw caption files.
-PASSAGE_WORDS = 25
+#
+# Passages are cut on words, not caption lines, at exactly PASSAGE_WORDS, and
+# a second tiling is laid over the first at half a passage's offset. A phrase
+# or a pair of terms straddling a boundary of one tiling sits inside a passage
+# of the other, so what "said together" catches no longer depends on where the
+# cut happened to fall. The SQLite index carries both tilings (`bridge` = 1
+# for the offset one) and roughly doubles; the browser index keeps counting
+# positions in the primary tiling alone, so tindex/ is unchanged.
+PASSAGE_WORDS = 24
+PASSAGE_STRIDE = PASSAGE_WORDS // 2
 
 # A transcript that says almost nothing across a long talk is an ASR failure,
 # not a transcript. Four files here are YouTube's Hindi mis-detection on English
@@ -114,11 +131,12 @@ MIN_RATED_MINUTES = 5
 TOKEN_SHARE_FLOOR = 0.25
 TOKENS_PER_WORD = 0.42
 
-# How much of a description reaches the browser's up-front payload. The full
-# text stays in talks.json, the markdown and talks.db; this only caps what every
-# visitor downloads before typing anything. YouTube descriptions run long and
-# repetitive (the same channel boilerplate under 400 talks), so the tail is
-# mostly cost.
+# How much of a description reaches the browser's up-front payload — for
+# display only. The description's *terms* are all in the sharded index (see
+# build_browser_index), so this clip decides what a card shows before "Show
+# full description", not what a search can find. The full text stays in
+# talks.json, the markdown and talks.db; this only caps what every visitor
+# downloads before typing anything.
 META_DESC_CHARS = 300
 
 # What "too big" means for search-meta.json, spelled out so nobody has to
@@ -131,8 +149,10 @@ META_DESC_CHARS = 300
 #
 # Crossing it is not a failure, it is a prompt: halve META_DESC_CHARS. That is
 # what 1200 -> 600 did last time, taking the file from 7.3 MiB to 5.4 MiB, and
-# what 600 -> 300 did when seven new conferences took it to 7.8 MiB.
-# The run prints where the file stands against this line either way.
+# what 600 -> 300 did when seven new conferences took it to 7.8 MiB. Since the
+# description terms moved into the shards, halving it costs a shorter card and
+# nothing in recall. The run prints where the file stands against this line
+# either way.
 META_SIZE_TRIGGER_BYTES = 6 * 1024 * 1024  # 6 MiB = 6,291,456 bytes
 
 
@@ -158,20 +178,44 @@ def meta_size_report(size: int, desc_chars: int) -> str:
     return f"{stands} — under by {mib(left)} ({left:,} bytes)."
 
 
-def to_passages(segs: list[dict]) -> list[dict]:
-    out: list[dict] = []
-    texts: list[str] = []
-    start, words = 0.0, 0
+def timed_words(segs: list[dict]) -> list[tuple[float, str]]:
+    """Every word of the transcript with a start, interpolated inside its line.
+
+    A caption line is ~6 words over ~3 seconds, so a passage that begins
+    mid-line starts within a second of where it should; an InfoQ segment is
+    25 words of prose whose timing was already interpolated, so the error is
+    the same one it carried in.
+    """
+    out = []
     for s in segs:
-        if not texts:
-            start = s["start"]
-        texts.append(s["text"])
-        words += len(s["text"].split())
-        if words >= PASSAGE_WORDS:
-            out.append({"start": start, "text": " ".join(texts)})
-            texts, words = [], 0
-    if texts:
-        out.append({"start": start, "text": " ".join(texts)})
+        ws = s["text"].split()
+        if not ws:
+            continue
+        dur = float(s.get("duration") or 0)
+        for i, w in enumerate(ws):
+            out.append((s["start"] + dur * i / len(ws), w))
+    return out
+
+
+def to_passages(segs: list[dict]) -> list[dict]:
+    """The transcript as overlapping passages: {start, pos, bridge, text}.
+
+    Tile k starts at word PASSAGE_STRIDE * k and runs PASSAGE_WORDS words, so
+    even tiles are a plain non-overlapping tiling and odd ones (`bridge`) sit
+    across their boundaries. A tail shorter than a stride is not emitted as a
+    passage of its own — the previous tile already covers it, and a
+    three-word document would outscore everything under BM25's length
+    normalisation — unless it is the only tile there is.
+    """
+    words = timed_words(segs)
+    out: list[dict] = []
+    for k in range(0, max(1, (len(words) + PASSAGE_STRIDE - 1) // PASSAGE_STRIDE)):
+        pos = PASSAGE_STRIDE * k
+        if pos >= len(words) or (pos and len(words) - pos < PASSAGE_STRIDE):
+            break
+        chunk = words[pos:pos + PASSAGE_WORDS]
+        out.append({"start": round(chunk[0][0], 2), "pos": pos, "bridge": k % 2,
+                    "text": " ".join(w for _, w in chunk)})
     return out
 
 
@@ -200,8 +244,8 @@ def index_length(toks: list[str], words: int) -> int:
     return len(toks)
 
 
-def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int]:
-    """Text, passages and word count — or three empty values.
+def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int, str | None]:
+    """Text, passages, word count and timing — or four empty values.
 
     The word count is zeroed along with the text, not kept. It is what reaches
     search-meta.json as `w`, and the browser gates the transcript badge, the
@@ -211,14 +255,15 @@ def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, lis
     """
     tr = atu.load_transcript(vid)
     if not tr:
-        return "", [], 0
+        return "", [], 0, None
     segs = tr.get("segments", [])
     words = tr.get("word_count", 0)
     why = held_back(words, duration_min)
     if why:
         HELD_BACK[vid] = why
-        return "", [], 0
-    return " ".join(s["text"] for s in segs), to_passages(segs), words
+        return "", [], 0, None
+    return (" ".join(s["text"] for s in segs), to_passages(segs), words,
+            tr.get("timing") or "exact")
 
 
 def clip(text: str, n: int) -> str:
@@ -236,29 +281,33 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
     n_tr = 0
     seg_rowid = 0
     for n, t in enumerate(talks, 1):
-        text, segs, words = transcript_text(t["id"], t["duration_min"])
+        text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
         if text:
             n_tr += 1
         speakers = ", ".join(t["speakers"])
         tags = ", ".join(t["tags"])
         con.execute(
-            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (n, t["id"], t["title"], t["description"], speakers, t["conference"],
              t["conference_name"], t["category"], t["edition"], t["year"], t["channel"],
-             tags, t["duration_min"], t["published_at"], t["youtube_url"],
-             t["availability"], t["priority"], 1 if text else 0, words),
+             tags, t["duration_min"], t["published_at"], t["url"], t["youtube_url"],
+             t["page_url"], t["availability"], t["priority"], 1 if text else 0, words,
+             timing if text else None),
         )
         con.execute(
             "INSERT INTO talks_fts (rowid, title, description, tags, speakers, conference_name)"
             " VALUES (?,?,?,?,?,?)",
             (n, t["title"], t["description"], tags, speakers, t["conference_name"]),
         )
-        for s in segs:
-            seg_rowid += 1
-            con.execute("INSERT INTO segments VALUES (?,?,?,?)",
-                        (seg_rowid, n, s["start"], s["text"]))
+        con.executemany("INSERT INTO segments VALUES (?,?,?,?,?,?)",
+                        [(seg_rowid + i, n, s["start"], s["pos"], s["bridge"], s["text"])
+                         for i, s in enumerate(segs, 1)])
+        seg_rowid += len(segs)
 
     con.execute("INSERT INTO segments_fts(segments_fts) VALUES('rebuild')")
+    # Stamped last, so a build that died half-way leaves a file atu.db_stale()
+    # reports as v0 rather than one that looks finished.
+    con.execute(f"PRAGMA user_version = {atu.DB_SCHEMA_VERSION}")
     con.commit()
     con.execute("VACUUM")
     con.close()
@@ -293,7 +342,7 @@ def shard_key(term: str) -> str:
     free, since tokenize() drops anything shorter than two characters and the
     shortest possible query term is therefore exactly a whole key.
     """
-    return shard_char(term[0]) + shard_char(term[1])
+    return shard_char(term[0]) + shard_char(term[1])  # atu.stems() keeps len >= 2
 
 
 B36 = "0123456789abcdefghijklmnopqrstuvwxyz"
@@ -323,14 +372,49 @@ def encode_positions(seg_ids: list[int]) -> str:
     return ".".join(parts)
 
 
+def meta_stems(t: dict) -> set[str]:
+    """Every stem in a talk's metadata, full description included.
+
+    This is the browser's document frequency for the metadata layer, computed
+    here because the browser no longer holds the full description: it sees a
+    display clip, and the description's terms reach it through the shards.
+    The fields are the ones index.html scores, tokenised the same way.
+    """
+    parts = (t["title"], " ".join(t["tags"]), " ".join(t["speakers"]),
+             f'{t["conference_name"]} {t["edition"] or ""}', t["category"] or "",
+             t["description"])
+    return set(atu.stems(" ".join(p for p in parts if p)))
+
+
 def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) -> dict:
+    """search-meta.json and the shards.
+
+    Everything in the shards is keyed on Porter stems — atu.stem(), which
+    index.html reproduces — so "evaluate" and "evaluation" are one key, as
+    they are in talks.db. A shard entry carries up to three things:
+
+      f, p   transcript idf and postings, [talk n, tf, passage positions]
+      d      description postings, [talk n, tf] — the whole description,
+             not the display clip search-meta.json carries
+      m      how many talks say the term anywhere in their metadata,
+             description included: the browser's idf for that layer
+
+    A term said once in one transcript and in no description is left out, as
+    before; a term in even one description is kept, since it was findable
+    through the clip and must stay so.
+    """
     meta = []
     postings: dict[str, dict[int, int]] = collections.defaultdict(dict)
     positions: dict[str, dict[int, list[int]]] = collections.defaultdict(dict)
+    desc_post: dict[str, dict[int, int]] = collections.defaultdict(dict)
+    meta_df: collections.Counter = collections.Counter()
     doc_len: dict[int, int] = {}
 
     for n, t in enumerate(talks, 1):
-        text, segs, words = transcript_text(t["id"], t["duration_min"])
+        text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
+        meta_df.update(meta_stems(t))
+        for term, tf in collections.Counter(atu.stems(t["description"])).items():
+            desc_post[term][n] = tf
         meta.append({
             "i": n,
             "v": t["video_id"],
@@ -347,38 +431,59 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
             "p": t["published_at"],
             "u": t["conference_site"],
             "w": words,
+            # Only for the talks whose link the browser cannot build from "v":
+            # InfoQ's own pages. Omitted otherwise, because it would repeat
+            # youtube.com/watch?v= on 8,000 records of a file that ships to
+            # every visitor.
+            **({"l": t["url"]} if not t["youtube_url"] and t["url"] else {}),
+            # Only for transcripts whose timings are interpolated from word
+            # position rather than read off a caption track, so the moments
+            # can say "~12:34" rather than claim a second they never measured.
+            **({"x": 1} if text and timing == "estimated" else {}),
         })
         if not text:
             continue
-        toks = atu.tokenize(text)
+        toks = atu.stems(text)
         doc_len[n] = index_length(toks, words)
         for term, tf in collections.Counter(toks).items():
             postings[term][n] = tf
-        for i, s in enumerate(segs):
-            for term in set(atu.tokenize(s["text"])):
+        # Positions index the primary tiling only, so the browser's postings
+        # are the same size and shape as before the bridge passages existed.
+        for i, s in enumerate(p for p in segs if not p["bridge"]):
+            for term in set(atu.stems(s["text"])):
                 positions[term].setdefault(n, []).append(i)
 
     atu.write_json(atu.SEARCH_META, {"talks": meta}, compact=True)
 
     if atu.TINDEX.exists():
         shutil.rmtree(atu.TINDEX)
-    if not postings:
-        return {"terms": 0, "shards": 0, "docs": 0}
+    if not postings and not desc_post:
+        return {"terms": 0, "shards": 0, "docs": 0, "desc_terms": 0}
 
     n_docs = len(doc_len)
-    avg_len = sum(doc_len.values()) / n_docs
+    avg_len = sum(doc_len.values()) / n_docs if n_docs else 0
 
     shards: dict[str, dict] = collections.defaultdict(dict)
-    for term, docs in postings.items():
-        if len(docs) == 1 and max(docs.values()) < 2:
-            continue  # a term used once in one talk is noise, not a search key
-        idf = math.log(1 + (n_docs - len(docs) + 0.5) / (len(docs) + 0.5))
-        pos = positions.get(term, {})
-        shards[shard_key(term)][term] = {
-            "f": round(idf, 4),
-            "p": [[tid, tf, encode_positions(pos.get(tid, []))]
-                  for tid, tf in sorted(docs.items(), key=lambda kv: -kv[1])],
-        }
+    desc_terms = 0
+    # Sorted, so the build is byte-identical run to run — a set's order is not.
+    for term in sorted(set(postings) | set(desc_post)):
+        docs = postings.get(term, {})
+        described = desc_post.get(term, {})
+        if not described and len(docs) == 1 and max(docs.values()) < 2:
+            continue  # a term said once in one talk is noise, not a search key
+        entry: dict = {}
+        if docs:
+            idf = math.log(1 + (n_docs - len(docs) + 0.5) / (len(docs) + 0.5))
+            pos = positions.get(term, {})
+            entry["f"] = round(idf, 4)
+            entry["p"] = [[tid, tf, encode_positions(pos.get(tid, []))]
+                          for tid, tf in sorted(docs.items(), key=lambda kv: -kv[1])]
+        if described:
+            desc_terms += 1
+            entry["d"] = [[tid, tf] for tid, tf in sorted(described.items())]
+        if meta_df.get(term):
+            entry["m"] = meta_df[term]
+        shards[shard_key(term)][term] = entry
 
     for key, terms in shards.items():
         atu.write_json(atu.TINDEX / f"{key}.json", terms, compact=True)
@@ -389,8 +494,10 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
         "avg_doc_len": round(avg_len, 2),
         "doc_len": doc_len,
         "stopwords": sorted(atu.STOPWORDS),
+        "stemmed": True,
     }, compact=True)
-    return {"terms": sum(len(v) for v in shards.values()), "shards": len(shards), "docs": n_docs}
+    return {"terms": sum(len(v) for v in shards.values()), "shards": len(shards),
+            "docs": n_docs, "desc_terms": desc_terms}
 
 
 def parse_args(argv: list[str]) -> argparse.Namespace:
@@ -425,6 +532,7 @@ def redirect_outputs(out: pathlib.Path) -> None:
     and compare. Both halves still get built together, which is what keeps the
     dense `n` meaning the same thing in the database and in the browser index.
     """
+    out.mkdir(parents=True, exist_ok=True)
     atu.TALKS_DB = out / "talks.db"
     atu.SEARCH_META = out / "search-meta.json"
     atu.TINDEX = out / "tindex"
@@ -462,7 +570,8 @@ def main(argv: list[str] | None = None) -> None:
     if stats["shards"]:
         total = sum(p.stat().st_size for p in atu.TINDEX.glob("*.json"))
         print(f"  data/tindex/           {atu.human_size(total)} in {stats['shards']} shards, "
-              f"{stats['terms']:,} terms over {stats['docs']} transcripts")
+              f"{stats['terms']:,} stems — {stats['desc_terms']:,} of them in descriptions, "
+              f"transcript postings over {stats['docs']} talks")
     else:
         print("  data/tindex/           (empty — no transcripts fetched yet)")
     print(f"\n{meta_size_report(meta_size, args.desc_chars)}")

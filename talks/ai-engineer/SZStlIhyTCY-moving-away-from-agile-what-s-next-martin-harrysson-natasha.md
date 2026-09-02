@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Martin Harrysson", "Natasha Maniar"]
 channel: "AI Engineer"
 duration_min: 22
 published_at: 2025-12-12T17:00:06Z
 video_id: SZStlIhyTCY
+url: https://www.youtube.com/watch?v=SZStlIhyTCY
 youtube_url: https://www.youtube.com/watch?v=SZStlIhyTCY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Moving away from Agile: What's Next – Martin Harrysson & Natasha Maniar, McKinsey & Company
 
-**Speaker not identified**
+**Martin Harrysson, Natasha Maniar**
 
 `AI Engineer` · `AI Engineer` · `2025` · `22 min`
 

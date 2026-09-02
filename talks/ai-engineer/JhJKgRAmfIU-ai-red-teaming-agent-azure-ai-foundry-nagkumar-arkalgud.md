@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Nagkumar Arkalgud", "Keiji Kanazawa"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-06-27T00:00:00Z
 video_id: JhJKgRAmfIU
+url: https://www.youtube.com/watch?v=JhJKgRAmfIU
 youtube_url: https://www.youtube.com/watch?v=JhJKgRAmfIU
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI Red Teaming Agent: Azure AI Foundry — Nagkumar Arkalgud & Keiji Kanazawa, Microsoft
 
-**Speaker not identified**
+**Nagkumar Arkalgud, Keiji Kanazawa**
 
 `AI Engineer` · `AI Engineer` · `2025` · `20 min`
 

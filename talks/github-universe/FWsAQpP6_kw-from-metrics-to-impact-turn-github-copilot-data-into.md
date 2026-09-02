@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 25
 published_at: null
 video_id: FWsAQpP6_kw
+url: https://www.youtube.com/watch?v=FWsAQpP6_kw
 youtube_url: https://www.youtube.com/watch?v=FWsAQpP6_kw
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Andrew Leader", "Maha Bayana"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T09:49:45Z
 video_id: t7b3iMr-IvA
+url: https://www.youtube.com/watch?v=t7b3iMr-IvA
 youtube_url: https://www.youtube.com/watch?v=t7b3iMr-IvA
 tags: ["AI", "API", "Andrew Leader", "Developer", "Expand local AI reach with Windows ML | OD851", "Foundry Local", "Local AI", "Maha Bayana", "Microsoft Foundry", "OD851", "OD851_v1", "VS Code", "Windows", "Windows Developer", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Expand local AI reach with Windows ML | OD851
 
-**Speaker not identified**
+**Andrew Leader, Maha Bayana**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

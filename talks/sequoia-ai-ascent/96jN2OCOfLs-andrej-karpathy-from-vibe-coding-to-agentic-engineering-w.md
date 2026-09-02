@@ -12,6 +12,7 @@ channel: "Sequoia Capital"
 duration_min: 30
 published_at: 2026-04-29T15:21:18Z
 video_id: 96jN2OCOfLs
+url: https://www.youtube.com/watch?v=96jN2OCOfLs
 youtube_url: https://www.youtube.com/watch?v=96jN2OCOfLs
 tags: []
 transcript: true

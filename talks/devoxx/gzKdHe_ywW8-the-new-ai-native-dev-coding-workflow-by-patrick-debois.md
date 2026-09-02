@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Patrick Debois"]
 channel: "Devoxx"
 duration_min: 37
 published_at: 2025-10-10T05:10:29Z
 video_id: gzKdHe_ywW8
+url: https://www.youtube.com/watch?v=gzKdHe_ywW8
 youtube_url: https://www.youtube.com/watch?v=gzKdHe_ywW8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The New AI Native Dev Coding Workflow by Patrick Debois
 
-**Speaker not identified**
+**Patrick Debois**
 
 `Devoxx` · `Devoxx` · `2025` · `37 min`
 

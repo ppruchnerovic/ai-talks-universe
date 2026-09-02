@@ -12,6 +12,7 @@ channel: "Chrome for Developers"
 duration_min: 26
 published_at: 2026-05-22T19:10:32Z
 video_id: 1AD81ZselPk
+url: https://www.youtube.com/watch?v=1AD81ZselPk
 youtube_url: https://www.youtube.com/watch?v=1AD81ZselPk
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
 transcript: true

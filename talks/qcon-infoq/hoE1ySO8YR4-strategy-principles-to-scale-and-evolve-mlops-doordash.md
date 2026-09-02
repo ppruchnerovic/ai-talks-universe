@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 42
 published_at: 2023-12-07T06:36:16Z
 video_id: hoE1ySO8YR4
+url: https://www.youtube.com/watch?v=hoE1ySO8YR4
 youtube_url: https://www.youtube.com/watch?v=hoE1ySO8YR4
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "MLOps", "Case Study", "DoorDash", "Project Management", "Operations Management", "InfoQ", "QCon London", "Transcript"]
 transcript: false

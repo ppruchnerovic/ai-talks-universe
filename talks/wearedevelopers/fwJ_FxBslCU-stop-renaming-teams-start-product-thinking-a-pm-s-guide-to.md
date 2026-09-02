@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T13:40:00+00:00
 video_id: fwJ_FxBslCU
+url: https://www.youtube.com/watch?v=fwJ_FxBslCU
 youtube_url: https://www.youtube.com/watch?v=fwJ_FxBslCU
 tags: ["DevOps", "DevOps", "Internal Platforms", "Product Management"]
 transcript: true

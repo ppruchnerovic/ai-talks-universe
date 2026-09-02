@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 29
 published_at: 2025-04-25T19:36:45Z
 video_id: FEqZyVT6dSo
+url: https://www.youtube.com/watch?v=FEqZyVT6dSo
 youtube_url: https://www.youtube.com/watch?v=FEqZyVT6dSo
 tags: ["Agile", "NDC", "conferences", "2024", "Live", "Fun", "Porto", "Tomas Lekavičius"]
 transcript: false

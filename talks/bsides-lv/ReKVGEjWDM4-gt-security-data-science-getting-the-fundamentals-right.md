@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 51
 published_at: 2019-10-19T17:54:01Z
 video_id: ReKVGEjWDM4
+url: https://www.youtube.com/watch?v=ReKVGEjWDM4
 youtube_url: https://www.youtube.com/watch?v=ReKVGEjWDM4
 tags: ["bslv", "BSidesLV", "bslv2019", "2019-bsideslv-049", "Ground Truth", "GT", "gt", "BSidesLV2019"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Emma Devine", "Kristin Ginn", "Teresa Kesselring", "Silvia Neumann"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-21T14:48:30Z
 video_id: 9TbK5YYMOIg
+url: https://www.youtube.com/watch?v=9TbK5YYMOIg
 youtube_url: https://www.youtube.com/watch?v=9TbK5YYMOIg
 tags: ["5aaf4153-e22b-4825-b09c-6eba04e04da3_Segment", "BRK291", "Copilot and agents at work", "Emma Devine", "English (US)", "Kristin Ginn", "Real Copilot adoption journeys that worked | BRK291", "Silvia Neumann", "Technical", "Teresa Kesselring", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Real Copilot adoption journeys that worked | BRK291
 
-**Speaker not identified**
+**Emma Devine, Kristin Ginn, Teresa Kesselring, Silvia Neumann**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

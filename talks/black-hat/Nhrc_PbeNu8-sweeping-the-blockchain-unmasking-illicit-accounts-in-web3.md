@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 20
 published_at: 2025-09-19T17:06:38Z
 video_id: Nhrc_PbeNu8
+url: https://www.youtube.com/watch?v=Nhrc_PbeNu8
 youtube_url: https://www.youtube.com/watch?v=Nhrc_PbeNu8
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Amanda Silver", "Marco Casalaina"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-11T08:16:56Z
 video_id: 1Syw4dOTfH8
+url: https://www.youtube.com/watch?v=1Syw4dOTfH8
 youtube_url: https://www.youtube.com/watch?v=1Syw4dOTfH8
 tags: ["Agents", "Agents & Apps", "Amanda Silver", "BRK240", "BRK240_v2", "Build context-aware agents: From data to decisions | BRK240", "Context Engineer", "Enterprise", "Foundry IQ", "GitHub Advanced Security", "Governance", "Grounding", "Marco Casalaina", "Microsoft Foundry", "Production Systems", "Scaling", "Work IQ", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build context-aware agents: From data to decisions | BRK240
 
-**Speaker not identified**
+**Amanda Silver, Marco Casalaina**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

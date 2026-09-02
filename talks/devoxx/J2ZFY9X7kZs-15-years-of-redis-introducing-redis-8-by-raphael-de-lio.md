@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Raphael De Lio"]
 channel: "Devoxx"
 duration_min: 15
 published_at: 2025-04-07T13:45:21Z
 video_id: J2ZFY9X7kZs
+url: https://www.youtube.com/watch?v=J2ZFY9X7kZs
 youtube_url: https://www.youtube.com/watch?v=J2ZFY9X7kZs
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # 15 Years of Redis: Introducing Redis 8 by Raphael De Lio
 
-**Speaker not identified**
+**Raphael De Lio**
 
 `Devoxx` · `Devoxx` · `2025` · `15 min`
 

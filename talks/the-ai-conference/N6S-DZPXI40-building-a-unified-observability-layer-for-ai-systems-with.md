@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 28
 published_at: 2023-10-31T16:51:24Z
 video_id: N6S-DZPXI40
+url: https://www.youtube.com/watch?v=N6S-DZPXI40
 youtube_url: https://www.youtube.com/watch?v=N6S-DZPXI40
 tags: []
 transcript: false

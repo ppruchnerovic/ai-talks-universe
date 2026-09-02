@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 88
 published_at: 2025-11-23T14:33:55Z
 video_id: nn0VwBNKvro
+url: https://www.youtube.com/watch?v=nn0VwBNKvro
 youtube_url: https://www.youtube.com/watch?v=nn0VwBNKvro
 tags: ["Apache Arrow", "Conference", "DuckDB", "ETL", "OLAP", "Pandas", "Parquet", "Polars", "PyConDE", "PyData", "Python", "SQL", "Tech Talk", "analytical database", "data analysis", "data engineering", "data pipelines", "data science"]
 transcript: false

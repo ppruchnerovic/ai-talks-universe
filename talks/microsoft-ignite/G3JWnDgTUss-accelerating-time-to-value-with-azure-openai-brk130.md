@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Chris Hoder", "Wanmei Ou", "Vinay Rudrappa", "Steve Sweetman"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T12:29:45Z
 video_id: G3JWnDgTUss
+url: https://www.youtube.com/watch?v=G3JWnDgTUss
 youtube_url: https://www.youtube.com/watch?v=G3JWnDgTUss
 tags: ["AI", "AI-Curated", "Accelerating time to value with Azure OpenAI | BRK130", "BRK130", "Breakout", "Chris Hoder", "English (US)", "Intermediate (200)", "Steve Sweetman", "Technical", "Version v1", "Vinay Rudrappa", "Wanmei Ou", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerating time to value with Azure OpenAI | BRK130
 
-**Speaker not identified**
+**Chris Hoder, Wanmei Ou, Vinay Rudrappa, Steve Sweetman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

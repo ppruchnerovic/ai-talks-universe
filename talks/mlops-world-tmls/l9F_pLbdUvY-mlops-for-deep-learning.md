@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Diego Klabjan", "Yegna Jambunath"]
+speakers: ["Diego Klabjan"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 48
 published_at: 2023-08-18T01:34:36Z
 video_id: l9F_pLbdUvY
+url: https://www.youtube.com/watch?v=l9F_pLbdUvY
 youtube_url: https://www.youtube.com/watch?v=l9F_pLbdUvY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # MLOps for Deep Learning
 
-**Diego Klabjan, Yegna Jambunath**
+**Diego Klabjan**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `48 min`
 

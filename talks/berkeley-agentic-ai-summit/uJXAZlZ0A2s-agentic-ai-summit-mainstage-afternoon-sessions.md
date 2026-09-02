@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 263
 published_at: 2025-08-03T01:15:22Z
 video_id: uJXAZlZ0A2s
+url: https://www.youtube.com/watch?v=uJXAZlZ0A2s
 youtube_url: https://www.youtube.com/watch?v=uJXAZlZ0A2s
 tags: ["UC Berkeley", "Agentic AI Summit", "Artificial Intelligence", "Berkeley Center for Responsible Decentralized Intelligence", "LLM Agents MOOC"]
 transcript: false

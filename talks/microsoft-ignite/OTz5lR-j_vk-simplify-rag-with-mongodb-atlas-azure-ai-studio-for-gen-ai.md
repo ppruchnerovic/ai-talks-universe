@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Diana Annie Jenosh", "Linda Li"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T14:00:37Z
 video_id: OTz5lR-j_vk
+url: https://www.youtube.com/watch?v=OTz5lR-j_vk
 youtube_url: https://www.youtube.com/watch?v=OTz5lR-j_vk
 tags: ["AI", "Diana Annie Jenosh", "English (US)", "Intermediate (200)", "Linda Li", "ODFP956", "Pre-recorded", "Simplify RAG with MongoDB Atlas + Azure AI Studio for gen AI apps | ODFP956", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Simplify RAG with MongoDB Atlas + Azure AI Studio for gen AI apps | ODFP956
 
-**Speaker not identified**
+**Diana Annie Jenosh, Linda Li**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `18 min`
 

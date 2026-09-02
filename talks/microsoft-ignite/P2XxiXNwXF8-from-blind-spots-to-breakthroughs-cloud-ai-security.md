@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jonathan Kaye Solomon"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T12:09:27Z
 video_id: P2XxiXNwXF8
+url: https://www.youtube.com/watch?v=P2XxiXNwXF8
 youtube_url: https://www.youtube.com/watch?v=P2XxiXNwXF8
 tags: ["English (US)", "Financial Services", "From blind spots to breakthroughs: Cloud AI security challenges | ODSP1485", "Jonathan Kaye Solomon", "Microsoft AI Cloud Partner Program", "ODSP1485", "ODSP1485_v1", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From blind spots to breakthroughs: Cloud AI security challenges | ODSP1485
 
-**Speaker not identified**
+**Jonathan Kaye Solomon**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

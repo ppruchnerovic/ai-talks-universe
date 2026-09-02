@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T08:50:00+00:00
 video_id: W5k-Rbou4t4
+url: https://www.youtube.com/watch?v=W5k-Rbou4t4
 youtube_url: https://www.youtube.com/watch?v=W5k-Rbou4t4
 tags: ["AI Engineering", "Agentic AI", "Retrieval-Augmented Generation (RAG)"]
 transcript: true

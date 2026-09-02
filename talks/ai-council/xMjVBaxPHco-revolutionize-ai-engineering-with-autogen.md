@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Marck Vaisman"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T07:34:14Z
 video_id: xMjVBaxPHco
+url: https://www.youtube.com/watch?v=xMjVBaxPHco
 youtube_url: https://www.youtube.com/watch?v=xMjVBaxPHco
 tags: ["Microsoft AutoGen", "AI automation", "AI agents", "ChatGPT", "artificial intelligence", "machine learning", "automation framework", "AI development", "agent systems", "project timelines", "model accuracy", "cost reduction", "intelligent solutions", "Python tutorial", "multi agent systems", "conversational AI", "code generation", "automated testing", "collaborative AI", "agent orchestration", "task delegation", "workflow automation"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Revolutionize AI Engineering with AutoGen
 
-**Speaker not identified**
+**Marck Vaisman**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

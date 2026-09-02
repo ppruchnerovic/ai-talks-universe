@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Mark Rickmeier", "Brian Martin"]
 channel: "GOTO Conferences"
 duration_min: 34
 published_at: 2026-08-11T16:23:19Z
 video_id: F__BXqWjAdM
+url: https://www.youtube.com/watch?v=F__BXqWjAdM
 youtube_url: https://www.youtube.com/watch?v=F__BXqWjAdM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Mark Rickmeier", "Brian Martin", "Big Data", "Data", "Graph Database", "Rare Hopes", "Humanity", "Good News", "Hidden Cures"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From Data to Discovery: How AI Is Finding Hidden Cures • Mark Rickmeier & Brian Martin • GOTO 2026
 
-**Speaker not identified**
+**Mark Rickmeier, Brian Martin**
 
 `GOTO Conferences` · `GOTO` · `2026` · `34 min`
 

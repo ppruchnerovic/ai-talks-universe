@@ -12,6 +12,7 @@ channel: "SXSW"
 duration_min: 50
 published_at: null
 video_id: QZrR1rc5NAA
+url: https://www.youtube.com/watch?v=QZrR1rc5NAA
 youtube_url: https://www.youtube.com/watch?v=QZrR1rc5NAA
 tags: []
 transcript: false

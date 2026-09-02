@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Franck Pachot"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T14:00:35Z
 video_id: 0erUyH7vGZk
+url: https://www.youtube.com/watch?v=0erUyH7vGZk
 youtube_url: https://www.youtube.com/watch?v=0erUyH7vGZk
 tags: ["PostgreSQL tutorial", "MongoDB tutorial", "database comparison", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "NoSQL", "database selection", "database design", "developer tools", "JSON data types", "ACID transactions", "Python tutorial", "relational databases", "document databases", "database architecture", "data modeling", "performance tuning", "indexing", "query optimization", "scaling strategies", "replication", "sharding", "backup recovery"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # A 30-Year SQL Veteran Joins MongoDB — Here's What He Learned
 
-**Speaker not identified**
+**Franck Pachot**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

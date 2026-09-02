@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-03T13:00:49Z
 video_id: 4qjrKSe3QF8
+url: https://www.youtube.com/watch?v=4qjrKSe3QF8
 youtube_url: https://www.youtube.com/watch?v=4qjrKSe3QF8
 tags: ["AI", "Agents", "Deliver production-ready AI search on unstructured data with RAG | ODSP925", "Developer", "Developer Technologies", "ODSP925", "ODSP925_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T14:10:00+00:00
 video_id: SciZ3SBKcto
+url: https://www.youtube.com/watch?v=SciZ3SBKcto
 youtube_url: https://www.youtube.com/watch?v=SciZ3SBKcto
 tags: ["AI Agents"]
 transcript: true

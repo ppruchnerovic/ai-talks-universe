@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Gopal Shankar", "Anupam Vij"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2025-11-24T07:38:59Z
 video_id: fjXZx1HrH2g
+url: https://www.youtube.com/watch?v=fjXZx1HrH2g
 youtube_url: https://www.youtube.com/watch?v=fjXZx1HrH2g
 tags: ["2053f06d-86c6-4ed9-a8cf-1dd0ee2a451b_Segment", "Anupam Vij", "BRK166", "Build secure applications with Defender and Azure Network Security | BRK166", "English (US)", "Gopal Shankar", "Migrate and modernize your estate", "Migrate and modernize your estate:Microsoft Defender for Cloud", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Build secure applications with Defender and Azure Network Security | BRK166
 
-**Speaker not identified**
+**Gopal Shankar, Anupam Vij**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `33 min`
 

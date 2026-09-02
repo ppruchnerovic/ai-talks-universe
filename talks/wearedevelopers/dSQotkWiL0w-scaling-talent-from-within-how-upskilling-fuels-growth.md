@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 45
 published_at: 2025-08-14T08:33:11Z
 video_id: dSQotkWiL0w
+url: https://www.youtube.com/watch?v=dSQotkWiL0w
 youtube_url: https://www.youtube.com/watch?v=dSQotkWiL0w
 tags: ["WeAreDevs", "upskilling", "hr", "leadership", "people", "culture", "growth", "talent", "development", "people strategy", "talent acquisition", "recruiting", "internal mobility", "recruitment"]
 transcript: false

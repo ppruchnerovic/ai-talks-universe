@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 48
 published_at: 2026-05-22T17:59:28Z
 video_id: oUtiZbrehrw
+url: https://www.youtube.com/watch?v=oUtiZbrehrw
 youtube_url: https://www.youtube.com/watch?v=oUtiZbrehrw
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - AI PA Keynote;", "ct:Stack - AI;"]
 transcript: true

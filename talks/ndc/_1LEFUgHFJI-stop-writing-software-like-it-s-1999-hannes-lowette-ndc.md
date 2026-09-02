@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-07-03T10:39:17Z
 video_id: _1LEFUgHFJI
+url: https://www.youtube.com/watch?v=_1LEFUgHFJI
 youtube_url: https://www.youtube.com/watch?v=_1LEFUgHFJI
 tags: ["Architecture", "Big Data", "Cloud", "DevOps", "Microservices", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "CPU", "GPU", "Hannes Lowette"]
 transcript: true

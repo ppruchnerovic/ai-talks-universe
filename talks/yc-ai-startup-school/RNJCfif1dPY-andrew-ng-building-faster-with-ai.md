@@ -12,6 +12,7 @@ channel: "Y Combinator"
 duration_min: 44
 published_at: 2025-07-10T14:02:05Z
 video_id: RNJCfif1dPY
+url: https://www.youtube.com/watch?v=RNJCfif1dPY
 youtube_url: https://www.youtube.com/watch?v=RNJCfif1dPY
 tags: ["YC", "Y Combinator"]
 transcript: false

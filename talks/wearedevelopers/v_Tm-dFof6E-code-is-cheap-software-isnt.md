@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T09:00:00+00:00
 video_id: v_Tm-dFof6E
+url: https://www.youtube.com/watch?v=v_Tm-dFof6E
 youtube_url: https://www.youtube.com/watch?v=v_Tm-dFof6E
 tags: ["Software Architecture", "AI Coding Assistants"]
 transcript: true

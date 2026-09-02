@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Sohan Maheshwar"]
 channel: "Devoxx"
 duration_min: 44
 published_at: 2026-02-27T13:52:48Z
 video_id: YaJ4MpaRqGU
+url: https://www.youtube.com/watch?v=YaJ4MpaRqGU
 youtube_url: https://www.youtube.com/watch?v=YaJ4MpaRqGU
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Securing RAG Pipelines with Fine Grained Authorization by Sohan Maheshwar
 
-**Speaker not identified**
+**Sohan Maheshwar**
 
 `Devoxx` · `Devoxx` · `2026` · `44 min`
 

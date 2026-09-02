@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Rod Johnson"]
 channel: null
 duration_min: 45
 published_at: null
 video_id: 1916lRwRIq0
+url: https://www.youtube.com/watch?v=1916lRwRIq0
 youtube_url: https://www.youtube.com/watch?v=1916lRwRIq0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Why Do We Need an Agent Framework? • Rod Johnson • GOTO 2025
 
-**Speaker not identified**
+**Rod Johnson**
 
 `GOTO Conferences` · `GOTO` · `2025` · `45 min`
 

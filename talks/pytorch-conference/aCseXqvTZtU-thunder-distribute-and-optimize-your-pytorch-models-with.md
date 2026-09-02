@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Luca Antiga", "Thomas Viehmann"]
 channel: "PyTorch"
 duration_min: 26
 published_at: null
 video_id: aCseXqvTZtU
+url: https://www.youtube.com/watch?v=aCseXqvTZtU
 youtube_url: https://www.youtube.com/watch?v=aCseXqvTZtU
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Thunder: Distribute and Optimize Your PyTorch Models With Zero... - Luca Antiga & Thomas Viehmann
 
-**Speaker not identified**
+**Luca Antiga, Thomas Viehmann**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `26 min`
 

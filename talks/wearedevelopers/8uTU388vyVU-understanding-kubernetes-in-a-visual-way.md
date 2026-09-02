@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T12:10:00+00:00
 video_id: 8uTU388vyVU
+url: https://www.youtube.com/watch?v=8uTU388vyVU
 youtube_url: https://www.youtube.com/watch?v=8uTU388vyVU
 tags: ["Cloud & AI Infrastructure", "Containers"]
 transcript: true

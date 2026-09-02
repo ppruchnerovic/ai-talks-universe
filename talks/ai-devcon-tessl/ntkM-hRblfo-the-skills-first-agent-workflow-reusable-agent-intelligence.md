@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 44
 published_at: 2026-02-03T18:01:00Z
 video_id: ntkM-hRblfo
+url: https://www.youtube.com/watch?v=ntkM-hRblfo
 youtube_url: https://www.youtube.com/watch?v=ntkM-hRblfo
 tags: ["AI agent performance", "AI development", "AI productivity", "AI skills package manager", "agent lifecycle management", "agent skills", "agent skills impact", "ainativedev", "coding success", "context engineering", "how to evaluate agent skills", "performance improvement", "real-world agent skill testing", "skills evaluation", "why skills matter for AI"]
 transcript: true

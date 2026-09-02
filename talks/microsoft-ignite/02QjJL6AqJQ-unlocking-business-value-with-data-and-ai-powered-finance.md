@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lakshmi Achia"]
 channel: "Microsoft Events"
 duration_min: 17
 published_at: 2024-11-21T10:49:58Z
 video_id: 02QjJL6AqJQ
+url: https://www.youtube.com/watch?v=02QjJL6AqJQ
 youtube_url: https://www.youtube.com/watch?v=02QjJL6AqJQ
 tags: ["AI", "Azure Virtual Desktop", "Cloud PC", "Collaborative Work Management", "Copilot + PC", "Copilot for M365", "Custom copilot(s)", "Data Security", "Data governance", "Medium-sized businesses", "Microsoft 365 Apps", "ODFP987", "Unlocking business value with data and AI powered finance and tax | ODFP987", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlocking business value with data and AI powered finance and tax | ODFP987
 
-**Speaker not identified**
+**Lakshmi Achia**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `17 min`
 

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 13
 published_at: 2023-05-11T14:22:35Z
 video_id: Np0kTZlbRO4
+url: https://www.youtube.com/watch?v=Np0kTZlbRO4
 youtube_url: https://www.youtube.com/watch?v=Np0kTZlbRO4
 tags: ["data exchange", "data sharing", "AI companies"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 41
 published_at: null
 video_id: XOMJcT-DrlY
+url: https://www.youtube.com/watch?v=XOMJcT-DrlY
 youtube_url: https://www.youtube.com/watch?v=XOMJcT-DrlY
 tags: []
 transcript: false

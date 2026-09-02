@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Guy Podjarny", "Simon Maple"]
 channel: "AI Native Dev"
 duration_min: 4
 published_at: 2026-01-18T13:58:12Z
 video_id: YhUfuq48LeM
+url: https://www.youtube.com/watch?v=YhUfuq48LeM
 youtube_url: https://www.youtube.com/watch?v=YhUfuq48LeM
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Why Scaling Agents Requires Organisational Design | Guy Podjarny and Simon Maple
 
-**Speaker not identified**
+**Guy Podjarny, Simon Maple**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `4 min`
 

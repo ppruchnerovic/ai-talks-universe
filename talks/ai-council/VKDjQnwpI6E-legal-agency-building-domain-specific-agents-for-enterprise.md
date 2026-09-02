@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Niko Grupen"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T07:37:10Z
 video_id: VKDjQnwpI6E
+url: https://www.youtube.com/watch?v=VKDjQnwpI6E
 youtube_url: https://www.youtube.com/watch?v=VKDjQnwpI6E
 tags: ["legal tech", "AI agents", "enterprise AI", "ChatGPT", "artificial intelligence", "machine learning", "domain specific AI", "legal AI", "automation", "knowledge work", "HCI", "frontier models", "agent behavior", "guardrails", "Python tutorial", "document review", "contract analysis", "legal research", "case law analysis", "regulatory compliance", "due diligence", "litigation support", "intellectual property", "patent analysis", "legal writing"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Legal Agency: Building Domain Specific Agents for Enterprise
 
-**Speaker not identified**
+**Niko Grupen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

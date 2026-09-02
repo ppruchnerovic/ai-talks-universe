@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T14:20:00+00:00
 video_id: uvjDp-15Jqo
+url: https://www.youtube.com/watch?v=uvjDp-15Jqo
 youtube_url: https://www.youtube.com/watch?v=uvjDp-15Jqo
 tags: ["Software Architecture"]
 transcript: true

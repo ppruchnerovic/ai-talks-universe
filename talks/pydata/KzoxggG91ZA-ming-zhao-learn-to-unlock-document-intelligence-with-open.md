@@ -12,6 +12,7 @@ channel: null
 duration_min: 85
 published_at: null
 video_id: KzoxggG91ZA
+url: https://www.youtube.com/watch?v=KzoxggG91ZA
 youtube_url: https://www.youtube.com/watch?v=KzoxggG91ZA
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Preetham Anand Naik", "Yuri Diogenes"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-27T12:57:19Z
 video_id: TVtgz2AHRyA
+url: https://www.youtube.com/watch?v=TVtgz2AHRyA
 youtube_url: https://www.youtube.com/watch?v=TVtgz2AHRyA
 tags: ["AI", "Advanced (300)", "BRK312", "Break down risk siloes and build up code to cloud security posture | BRK312", "Breakout", "Cloud", "Data Security", "English (US)", "Preetham Anand Naik", "Security", "Technical", "Version v4", "Yuri Diogenes", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Break down risk siloes and build up code to cloud security posture | BRK312
 
-**Speaker not identified**
+**Preetham Anand Naik, Yuri Diogenes**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

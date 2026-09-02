@@ -12,6 +12,7 @@ channel: "CAMLIS"
 duration_min: 51
 published_at: 2019-11-13T15:04:40Z
 video_id: -p2il-V-0fk
+url: https://www.youtube.com/watch?v=-p2il-V-0fk
 youtube_url: https://www.youtube.com/watch?v=-p2il-V-0fk
 tags: ["camlis", "camlis2019"]
 transcript: false

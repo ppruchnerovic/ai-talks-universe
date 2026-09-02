@@ -12,6 +12,7 @@ channel: null
 duration_min: 27
 published_at: null
 video_id: h_cj-taAOFI
+url: https://www.youtube.com/watch?v=h_cj-taAOFI
 youtube_url: https://www.youtube.com/watch?v=h_cj-taAOFI
 tags: []
 transcript: false

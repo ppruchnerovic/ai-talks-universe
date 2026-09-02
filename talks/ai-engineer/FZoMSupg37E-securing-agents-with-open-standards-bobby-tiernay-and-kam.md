@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Bobby Tiernay", "Kam Sween"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-06-30T22:55:54Z
 video_id: FZoMSupg37E
+url: https://www.youtube.com/watch?v=FZoMSupg37E
 youtube_url: https://www.youtube.com/watch?v=FZoMSupg37E
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Securing Agents with Open Standards — Bobby Tiernay and Kam Sween, Auth0
 
-**Speaker not identified**
+**Bobby Tiernay, Kam Sween**
 
 `AI Engineer` · `AI Engineer` · `2025` · `19 min`
 

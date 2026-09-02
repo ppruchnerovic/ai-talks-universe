@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 19
 published_at: 2026-03-27T12:39:26Z
 video_id: eP4gXyekgt0
+url: https://www.youtube.com/watch?v=eP4gXyekgt0
 youtube_url: https://www.youtube.com/watch?v=eP4gXyekgt0
 tags: ["Hacking", "Fun", "Security Tooling", "NDC", "Conferences", "2026", "Live", "Oslo", "Norway", "Francine Solheim"]
 transcript: true

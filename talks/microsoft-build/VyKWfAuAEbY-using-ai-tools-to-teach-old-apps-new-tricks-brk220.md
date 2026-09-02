@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Nish Anil"]
 channel: "Microsoft Developer"
 duration_min: 43
 published_at: 2026-06-11T08:20:02Z
 video_id: VyKWfAuAEbY
+url: https://www.youtube.com/watch?v=VyKWfAuAEbY
 youtube_url: https://www.youtube.com/watch?v=VyKWfAuAEbY
 tags: ["App Mod", "BRK220", "BRK220_v1", "CP&D", "Hazem El-Hammamy", "Jeff Fritz", "Nish Anil", "Reserve", "Using AI tools to teach old apps new tricks | BRK220", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Using AI tools to teach old apps new tricks | BRK220
 
-**Speaker not identified**
+**Nish Anil**
 
 `Microsoft Build` · `Build 2026` · `2026` · `43 min`
 

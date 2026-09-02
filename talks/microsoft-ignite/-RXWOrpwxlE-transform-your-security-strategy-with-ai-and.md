@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Victor Neimeyer"]
 channel: "Microsoft Events"
 duration_min: 15
 published_at: 2024-11-21T10:47:35Z
 video_id: -RXWOrpwxlE
+url: https://www.youtube.com/watch?v=-RXWOrpwxlE
 youtube_url: https://www.youtube.com/watch?v=-RXWOrpwxlE
 tags: ["AI", "Administration", "Copilot for Security", "Data governance", "Identity and network access", "Microsoft Defender XDR", "Microsoft Defender for Endpoint", "Microsoft Entra", "Microsoft Purview", "ODFP980", "Transform your security strategy with AI and platformization | ODFP980", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Transform your security strategy with AI and platformization | ODFP980
 
-**Speaker not identified**
+**Victor Neimeyer**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `15 min`
 

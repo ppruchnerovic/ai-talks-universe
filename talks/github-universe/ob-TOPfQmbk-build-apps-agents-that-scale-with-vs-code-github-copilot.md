@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 31
 published_at: null
 video_id: ob-TOPfQmbk
+url: https://www.youtube.com/watch?v=ob-TOPfQmbk
 youtube_url: https://www.youtube.com/watch?v=ob-TOPfQmbk
 tags: []
 transcript: false

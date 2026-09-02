@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 20
 published_at: 2024-07-01T19:15:35Z
 video_id: GBf50fpW_8Y
+url: https://www.youtube.com/watch?v=GBf50fpW_8Y
 youtube_url: https://www.youtube.com/watch?v=GBf50fpW_8Y
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ajay Chankramath", "Nic Cheneweth"]
 channel: "GOTO Conferences"
 duration_min: 35
 published_at: 2026-03-31T12:22:28Z
 video_id: SDTKhis5vD4
+url: https://www.youtube.com/watch?v=SDTKhis5vD4
 youtube_url: https://www.youtube.com/watch?v=SDTKhis5vD4
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Platform Engineering • Ajay Chankramath & Nic Cheneweth
 
-**Speaker not identified**
+**Ajay Chankramath, Nic Cheneweth**
 
 `GOTO Conferences` · `GOTO` · `2026` · `35 min`
 

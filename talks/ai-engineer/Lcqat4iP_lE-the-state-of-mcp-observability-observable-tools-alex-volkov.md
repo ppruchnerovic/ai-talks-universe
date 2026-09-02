@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Alex Volkov", "Benjamin Eckel"]
 channel: "AI Engineer"
 duration_min: 17
 published_at: 2025-06-20T07:00:06Z
 video_id: Lcqat4iP_lE
+url: https://www.youtube.com/watch?v=Lcqat4iP_lE
 youtube_url: https://www.youtube.com/watch?v=Lcqat4iP_lE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The State of MCP observability: Observable.tools — Alex Volkov and Benjamin Eckel, W&B and Dylibso
 
-**Speaker not identified**
+**Alex Volkov, Benjamin Eckel**
 
 `AI Engineer` · `AI Engineer` · `2025` · `17 min`
 

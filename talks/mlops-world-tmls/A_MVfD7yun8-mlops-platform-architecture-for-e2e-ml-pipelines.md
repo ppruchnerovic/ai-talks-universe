@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 42
 published_at: 2023-08-18T01:37:38Z
 video_id: A_MVfD7yun8
+url: https://www.youtube.com/watch?v=A_MVfD7yun8
 youtube_url: https://www.youtube.com/watch?v=A_MVfD7yun8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "MLOps Platform Architecture for e2e ML Pipelines", "MLOps Platform Architecture", "ML Pipelines", "e2e ML Pipelines"]
 transcript: false

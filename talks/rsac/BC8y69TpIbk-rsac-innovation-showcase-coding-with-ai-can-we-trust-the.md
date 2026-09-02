@@ -12,6 +12,7 @@ channel: "RSAC Cybersecurity"
 duration_min: 37
 published_at: 2025-11-20T18:36:26Z
 video_id: BC8y69TpIbk
+url: https://www.youtube.com/watch?v=BC8y69TpIbk
 youtube_url: https://www.youtube.com/watch?v=BC8y69TpIbk
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2026-06-24T09:00:23Z
 video_id: iuLPCFJxr_E
+url: https://www.youtube.com/watch?v=iuLPCFJxr_E
 youtube_url: https://www.youtube.com/watch?v=iuLPCFJxr_E
 tags: ["MCP Protocol", "Model Context Protocol", "AI Agents", "Enterprise AI", "LLM Security", "AI Engineering", "Generative AI", "API Design"]
 transcript: true

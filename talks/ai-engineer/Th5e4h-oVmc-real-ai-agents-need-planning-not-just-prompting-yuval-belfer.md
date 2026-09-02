@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 8
 published_at: 2025-06-03T22:22:27Z
 video_id: Th5e4h-oVmc
+url: https://www.youtube.com/watch?v=Th5e4h-oVmc
 youtube_url: https://www.youtube.com/watch?v=Th5e4h-oVmc
 tags: []
 transcript: false

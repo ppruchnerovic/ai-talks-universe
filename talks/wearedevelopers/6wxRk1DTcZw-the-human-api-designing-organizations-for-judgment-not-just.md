@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T08:20:00+00:00
 video_id: 6wxRk1DTcZw
+url: https://www.youtube.com/watch?v=6wxRk1DTcZw
 youtube_url: https://www.youtube.com/watch?v=6wxRk1DTcZw
 tags: ["People & Culture", "Generative AI (GenAI)", "People & Culture"]
 transcript: true

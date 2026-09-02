@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Miriah Peterson"]
 channel: "AI Council"
 duration_min: 20
 published_at: 2024-04-19T05:00:14Z
 video_id: VXVkzSTNziE
+url: https://www.youtube.com/watch?v=VXVkzSTNziE
 youtube_url: https://www.youtube.com/watch?v=VXVkzSTNziE
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scaling Data Reliably: a Journey in Growing Through Data Pain Points
 
-**Speaker not identified**
+**Miriah Peterson**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `20 min`
 

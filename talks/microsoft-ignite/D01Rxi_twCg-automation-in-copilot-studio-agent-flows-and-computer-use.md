@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jose Luis Fernandez"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-25T12:09:28Z
 video_id: D01Rxi_twCg
+url: https://www.youtube.com/watch?v=D01Rxi_twCg
 youtube_url: https://www.youtube.com/watch?v=D01Rxi_twCg
 tags: ["Automation in Copilot Studio: Agent flows and computer use | BRK320", "BRK320", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Innovate with low-code AI and agents", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Automation in Copilot Studio: Agent flows and computer use | BRK320
 
-**Speaker not identified**
+**Jose Luis Fernandez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

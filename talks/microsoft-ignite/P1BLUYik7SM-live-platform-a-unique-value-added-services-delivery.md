@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Benny Matityahu"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T12:23:59Z
 video_id: P1BLUYik7SM
+url: https://www.youtube.com/watch?v=P1BLUYik7SM
 youtube_url: https://www.youtube.com/watch?v=P1BLUYik7SM
 tags: ["Benny Matityahu", "English (US)", "Innovate with Azure AI apps and agents", "Live Platform: A unique value-added services delivery platform | ODSP1470", "ODSP1470", "ODSP1470_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Live Platform: A unique value-added services delivery platform | ODSP1470
 
-**Speaker not identified**
+**Benny Matityahu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

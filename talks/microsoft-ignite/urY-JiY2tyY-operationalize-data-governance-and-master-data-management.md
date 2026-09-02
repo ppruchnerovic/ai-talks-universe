@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Tim Ward"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T13:36:36Z
 video_id: urY-JiY2tyY
+url: https://www.youtube.com/watch?v=urY-JiY2tyY
 youtube_url: https://www.youtube.com/watch?v=urY-JiY2tyY
 tags: ["AI", "Copilot", "Data governance", "English (US)", "Intermediate (200)", "ODFP932", "Operationalize data governance and master data management with GenAI | ODFP932", "Pre-recorded", "Responsible AI", "Technical", "Tim Ward", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Operationalize data governance and master data management with GenAI | ODFP932
 
-**Speaker not identified**
+**Tim Ward**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `21 min`
 

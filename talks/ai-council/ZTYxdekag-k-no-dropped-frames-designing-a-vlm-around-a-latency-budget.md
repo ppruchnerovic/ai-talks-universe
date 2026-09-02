@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 23
 published_at: 2026-06-21T18:12:03Z
 video_id: ZTYxdekag-k
+url: https://www.youtube.com/watch?v=ZTYxdekag-k
 youtube_url: https://www.youtube.com/watch?v=ZTYxdekag-k
 tags: ["AI"]
 transcript: true

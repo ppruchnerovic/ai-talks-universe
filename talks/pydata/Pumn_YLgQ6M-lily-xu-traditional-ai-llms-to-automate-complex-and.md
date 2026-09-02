@@ -12,6 +12,7 @@ channel: null
 duration_min: 41
 published_at: null
 video_id: Pumn_YLgQ6M
+url: https://www.youtube.com/watch?v=Pumn_YLgQ6M
 youtube_url: https://www.youtube.com/watch?v=Pumn_YLgQ6M
 tags: []
 transcript: false

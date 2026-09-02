@@ -12,6 +12,7 @@ channel: null
 duration_min: 29
 published_at: null
 video_id: S3CaJ36xl_U
+url: https://www.youtube.com/watch?v=S3CaJ36xl_U
 youtube_url: https://www.youtube.com/watch?v=S3CaJ36xl_U
 tags: []
 transcript: false

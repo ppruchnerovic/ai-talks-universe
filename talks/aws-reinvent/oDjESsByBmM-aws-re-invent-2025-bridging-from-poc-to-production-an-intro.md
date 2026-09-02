@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 59
 published_at: null
 video_id: oDjESsByBmM
+url: https://www.youtube.com/watch?v=oDjESsByBmM
 youtube_url: https://www.youtube.com/watch?v=oDjESsByBmM
 tags: []
 transcript: false

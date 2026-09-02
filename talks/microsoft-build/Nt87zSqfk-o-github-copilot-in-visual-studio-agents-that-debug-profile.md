@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Mads Kristensen", "Nik Karpinsky"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-04T12:34:41Z
 video_id: Nt87zSqfk-o
+url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 youtube_url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 tags: ["C#", "C++"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # GitHub Copilot in Visual Studio: Agents That Debug, Profile, and Test | BRK207
 
-**Speaker not identified**
+**Mads Kristensen, Nik Karpinsky**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

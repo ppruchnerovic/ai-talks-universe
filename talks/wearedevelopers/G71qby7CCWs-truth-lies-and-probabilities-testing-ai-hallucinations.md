@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T15:30:00+00:00
 video_id: G71qby7CCWs
+url: https://www.youtube.com/watch?v=G71qby7CCWs
 youtube_url: https://www.youtube.com/watch?v=G71qby7CCWs
 tags: ["AI Engineering", "AI Models", "Generative AI (GenAI)", "Reliability", "Testing"]
 transcript: true

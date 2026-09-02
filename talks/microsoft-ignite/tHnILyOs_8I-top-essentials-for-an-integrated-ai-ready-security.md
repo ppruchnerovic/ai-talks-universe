@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Eric Sachs"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-21T15:04:28Z
 video_id: tHnILyOs_8I
+url: https://www.youtube.com/watch?v=tHnILyOs_8I
 youtube_url: https://www.youtube.com/watch?v=tHnILyOs_8I
 tags: ["BRK242", "English (US)", "Eric Sachs", "Maayan Bar-Niv", "Modernize SecOps with a unified platform", "Technical", "Top Essentials for an Integrated AI-Ready Security Foundation​ | BRK242", "dc6834ae-7c00-4ce7-b569-5980b833224c_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Top Essentials for an Integrated, AI-Ready Security Foundation​ | BRK242
 
-**Speaker not identified**
+**Eric Sachs**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

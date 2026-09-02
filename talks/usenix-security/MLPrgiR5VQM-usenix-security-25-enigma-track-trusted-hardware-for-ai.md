@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 20
 published_at: 2025-10-16T21:24:59Z
 video_id: MLPrgiR5VQM
+url: https://www.youtube.com/watch?v=MLPrgiR5VQM
 youtube_url: https://www.youtube.com/watch?v=MLPrgiR5VQM
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

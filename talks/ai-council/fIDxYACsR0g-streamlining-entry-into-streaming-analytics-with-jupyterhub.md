@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Elkhan Dadashov"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2024-04-19T05:00:16Z
 video_id: fIDxYACsR0g
+url: https://www.youtube.com/watch?v=fIDxYACsR0g
 youtube_url: https://www.youtube.com/watch?v=fIDxYACsR0g
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Streamlining Entry Into Streaming Analytics with JupyterHub and Apache Flink
 
-**Speaker not identified**
+**Elkhan Dadashov**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `26 min`
 

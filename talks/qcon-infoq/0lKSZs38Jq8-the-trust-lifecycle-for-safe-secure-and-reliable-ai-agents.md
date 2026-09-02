@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 38
 published_at: 2026-06-24T09:00:29Z
 video_id: 0lKSZs38Jq8
+url: https://www.youtube.com/watch?v=0lKSZs38Jq8
 youtube_url: https://www.youtube.com/watch?v=0lKSZs38Jq8
 tags: ["AI Agents", "AI Safety", "LLM Security", "Generative AI", "EU AI Act", "AI Engineering", "MLOps", "Machine Learning"]
 transcript: true

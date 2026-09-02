@@ -12,6 +12,7 @@ channel: null
 duration_min: 22
 published_at: null
 video_id: NJG6REGwr24
+url: https://www.youtube.com/watch?v=NJG6REGwr24
 youtube_url: https://www.youtube.com/watch?v=NJG6REGwr24
 tags: []
 transcript: false

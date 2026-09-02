@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 41
 published_at: 2026-02-26T09:39:02Z
 video_id: iFxaXAoHrzg
+url: https://www.youtube.com/watch?v=iFxaXAoHrzg
 youtube_url: https://www.youtube.com/watch?v=iFxaXAoHrzg
 tags: ["leadership", "transformation", "AI", "people", "HR", "skills", "future of work"]
 transcript: true

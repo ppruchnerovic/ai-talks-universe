@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Mikhail Sveshnikov"]
+speakers: ["Mikhail Sveshnikov"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 83
 published_at: 2023-08-18T01:34:36Z
 video_id: YNfttfgjoC0
+url: https://www.youtube.com/watch?v=YNfttfgjoC0
 youtube_url: https://www.youtube.com/watch?v=YNfttfgjoC0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to MLEM Your Models to Production
 
-**Mikhail Sveshnikov**
+**Mikhail Sveshnikov**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `83 min`
 

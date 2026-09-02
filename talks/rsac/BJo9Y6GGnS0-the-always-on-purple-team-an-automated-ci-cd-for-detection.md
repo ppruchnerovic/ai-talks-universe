@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Stephen Sims", "Offensive Operations Curriculum Lead"]
+speakers: ["Stephen Sims"]
 channel: "RSAC Cybersecurity"
 duration_min: 49
 published_at: 2024-06-10T21:15:23Z
 video_id: BJo9Y6GGnS0
+url: https://www.youtube.com/watch?v=BJo9Y6GGnS0
 youtube_url: https://www.youtube.com/watch?v=BJo9Y6GGnS0
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Always-On Purple Team: An Automated CI/CD for Detection Engineering
 
-**Stephen Sims, Offensive Operations Curriculum Lead**
+**Stephen Sims**
 
 `RSAC Conference` · `RSAC` · `2024` · `49 min`
 

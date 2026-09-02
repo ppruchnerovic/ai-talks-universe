@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 24
 published_at: 2026-01-16T08:09:59Z
 video_id: Vix4Mtdxneo
+url: https://www.youtube.com/watch?v=Vix4Mtdxneo
 youtube_url: https://www.youtube.com/watch?v=Vix4Mtdxneo
 tags: []
 transcript: true

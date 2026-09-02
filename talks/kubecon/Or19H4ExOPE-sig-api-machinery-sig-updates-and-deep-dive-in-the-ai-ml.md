@@ -12,6 +12,7 @@ channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 30
 published_at: 2026-04-09T05:31:15Z
 video_id: Or19H4ExOPE
+url: https://www.youtube.com/watch?v=Or19H4ExOPE
 youtube_url: https://www.youtube.com/watch?v=Or19H4ExOPE
 tags: []
 transcript: true

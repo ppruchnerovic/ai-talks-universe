@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sharmila Chockalingam", "Julio Figueroa", "Michael Fitzke", "Raj Madhavan"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-26T07:06:16Z
 video_id: zFOVkPS8Wbk
+url: https://www.youtube.com/watch?v=zFOVkPS8Wbk
 youtube_url: https://www.youtube.com/watch?v=zFOVkPS8Wbk
 tags: ["AI", "AI Studio", "Azure AI: Driving innovation in pet care anomaly detection and beyond | BRK121", "BRK121", "Breakout", "English (US)", "FineTuning", "GenAI", "Intermediate (200)", "Julio Figueroa", "Michael Fitzke", "ModelCustomization", "Raj Madhavan", "Sharmila Chockalingam", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Azure AI: Driving innovation in pet care anomaly detection and beyond | BRK121
 
-**Speaker not identified**
+**Sharmila Chockalingam, Julio Figueroa, Michael Fitzke, Raj Madhavan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

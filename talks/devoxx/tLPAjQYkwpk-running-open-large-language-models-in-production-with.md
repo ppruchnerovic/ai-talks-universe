@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Wietse Venema"]
 channel: "Devoxx"
 duration_min: 43
 published_at: 2024-10-11T05:09:45Z
 video_id: tLPAjQYkwpk
+url: https://www.youtube.com/watch?v=tLPAjQYkwpk
 youtube_url: https://www.youtube.com/watch?v=tLPAjQYkwpk
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Running open large language models in production with Ollama and serverless GPUs by Wietse Venema
 
-**Speaker not identified**
+**Wietse Venema**
 
 `Devoxx` · `Devoxx` · `2024` · `43 min`
 

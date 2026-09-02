@@ -7,11 +7,12 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Alan Blount", "Vaibhav Katkade"]
 channel: "Agentic AI Foundation"
 duration_min: 26
 published_at: 2026-04-13T23:18:17Z
 video_id: jCJ3LfqyHy4
+url: https://www.youtube.com/watch?v=jCJ3LfqyHy4
 youtube_url: https://www.youtube.com/watch?v=jCJ3LfqyHy4
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Sponsored Session: Agents and MCP @ Google Scale - Alan Blount & Vaibhav Katkade, Google Cloud
 
-**Speaker not identified**
+**Alan Blount, Vaibhav Katkade**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `26 min`
 

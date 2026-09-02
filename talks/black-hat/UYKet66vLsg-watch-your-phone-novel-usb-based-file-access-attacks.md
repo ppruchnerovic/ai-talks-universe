@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 39
 published_at: 2025-09-08T16:50:42Z
 video_id: UYKet66vLsg
+url: https://www.youtube.com/watch?v=UYKet66vLsg
 youtube_url: https://www.youtube.com/watch?v=UYKet66vLsg
 tags: []
 transcript: false

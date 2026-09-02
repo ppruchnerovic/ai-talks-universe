@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Shinya Yanagihara"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2024-10-11T05:09:40Z
 video_id: 1LC5qs-EyUE
+url: https://www.youtube.com/watch?v=1LC5qs-EyUE
 youtube_url: https://www.youtube.com/watch?v=1LC5qs-EyUE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Elevating Developer Experience and Productivity with Platform Engineering by Shinya Yanagihara
 
-**Speaker not identified**
+**Shinya Yanagihara**
 
 `Devoxx` · `Devoxx` · `2024` · `51 min`
 

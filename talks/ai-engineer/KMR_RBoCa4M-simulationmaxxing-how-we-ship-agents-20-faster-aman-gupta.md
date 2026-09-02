@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 16
 published_at: 2026-07-29T19:00:06Z
 video_id: KMR_RBoCa4M
+url: https://www.youtube.com/watch?v=KMR_RBoCa4M
 youtube_url: https://www.youtube.com/watch?v=KMR_RBoCa4M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

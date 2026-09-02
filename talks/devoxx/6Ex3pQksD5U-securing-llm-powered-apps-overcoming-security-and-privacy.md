@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Brian Vermeer", "Lize Raes"]
 channel: "Devoxx"
 duration_min: 44
 published_at: 2025-03-31T20:41:11Z
 video_id: 6Ex3pQksD5U
+url: https://www.youtube.com/watch?v=6Ex3pQksD5U
 youtube_url: https://www.youtube.com/watch?v=6Ex3pQksD5U
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Securing LLM-Powered Apps: Overcoming Security and Privacy Challenges - Brian Vermeer & Lize Raes
 
-**Speaker not identified**
+**Brian Vermeer, Lize Raes**
 
 `Devoxx` · `Devoxx` · `2025` · `44 min`
 

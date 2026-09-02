@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 27
 published_at: 2025-11-23T14:33:49Z
 video_id: Da7o5P-iGO8
+url: https://www.youtube.com/watch?v=Da7o5P-iGO8
 youtube_url: https://www.youtube.com/watch?v=Da7o5P-iGO8
 tags: ["Conference", "JavaScript", "Leaflet", "MapLibre", "OpenLayers", "OpenStreetMap", "PMTiles", "Protomaps", "PyConDE", "PyData", "Python", "Tech Talk", "cartography", "digital maps", "geospatial", "open source", "privacy", "self-hosted", "vector tiles", "web mapping"]
 transcript: false

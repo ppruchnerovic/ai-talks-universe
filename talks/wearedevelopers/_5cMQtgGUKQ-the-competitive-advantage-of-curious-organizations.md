@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 37
 published_at: 2026-05-21T07:00:00Z
 video_id: _5cMQtgGUKQ
+url: https://www.youtube.com/watch?v=_5cMQtgGUKQ
 youtube_url: https://www.youtube.com/watch?v=_5cMQtgGUKQ
 tags: ["curiosity", "organizations", "people", "culture", "competitive advantage", "HR", "recruiting", "transformation"]
 transcript: true

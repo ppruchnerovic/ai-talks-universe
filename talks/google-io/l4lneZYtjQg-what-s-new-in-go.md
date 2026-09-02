@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 15
 published_at: 2026-05-22T16:15:49Z
 video_id: l4lneZYtjQg
+url: https://www.youtube.com/watch?v=l4lneZYtjQg
 youtube_url: https://www.youtube.com/watch?v=l4lneZYtjQg
 tags: ["pr_pr: Google I/O;", "ct:Event - Cloud PA Keynote;", "ct:Stack - Cloud;", "Go 1.26", "Go 1.25", "Golang performance 2026", "Green Tea Garbage Collector", "Go Fix Modernizers", "native vectorized instructions", "archsimd package", "Green Tea GC benchmarks", "GO SIMD optimization", "goroutine leak detection", "low latency microservices", "Go 1.26 release notes", "Memory management in Go"]
 transcript: true

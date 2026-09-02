@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Eric Warner"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2024-04-19T05:00:06Z
 video_id: BFiS2nMdV1A
+url: https://www.youtube.com/watch?v=BFiS2nMdV1A
 youtube_url: https://www.youtube.com/watch?v=BFiS2nMdV1A
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Using AI, Mathematics, and Statistics to Find Similar Data in Massive Data Ecosystems
 
-**Speaker not identified**
+**Eric Warner**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `23 min`
 

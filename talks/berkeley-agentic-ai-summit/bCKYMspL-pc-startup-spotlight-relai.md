@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 6
 published_at: 2026-08-10T05:22:22Z
 video_id: bCKYMspL-pc
+url: https://www.youtube.com/watch?v=bCKYMspL-pc
 youtube_url: https://www.youtube.com/watch?v=bCKYMspL-pc
 tags: []
 transcript: true

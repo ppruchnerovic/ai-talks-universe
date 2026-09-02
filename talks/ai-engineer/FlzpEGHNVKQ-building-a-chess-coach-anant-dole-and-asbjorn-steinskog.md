@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Anant Dole", "Asbjorn Steinskog"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-05-13T00:00:00Z
 video_id: FlzpEGHNVKQ
+url: https://www.youtube.com/watch?v=FlzpEGHNVKQ
 youtube_url: https://www.youtube.com/watch?v=FlzpEGHNVKQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take Take
 
-**Speaker not identified**
+**Anant Dole, Asbjorn Steinskog**
 
 `AI Engineer` · `AI Engineer` · `2026` · `18 min`
 

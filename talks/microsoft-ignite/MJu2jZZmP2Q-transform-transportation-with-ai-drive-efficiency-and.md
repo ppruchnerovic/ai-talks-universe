@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Sean Morris", "Andrea Rosales"]
 channel: "Microsoft Events"
 duration_min: 18
 published_at: 2024-11-20T14:08:08Z
 video_id: MJu2jZZmP2Q
+url: https://www.youtube.com/watch?v=MJu2jZZmP2Q
 youtube_url: https://www.youtube.com/watch?v=MJu2jZZmP2Q
 tags: ["AI", "Andrea Rosales", "English (US)", "Foundational (100)", "ODFP959", "Pre-recorded", "Sean Morris", "Technical", "Transform transportation with AI drive efficiency and satisfaction | ODFP959", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Transform transportation with AI drive efficiency and satisfaction | ODFP959
 
-**Speaker not identified**
+**Sean Morris, Andrea Rosales**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `18 min`
 

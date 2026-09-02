@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Alessandra Pasini", "Romain Jourdan"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2026-02-27T13:52:49Z
 video_id: hAdOywL5aN0
+url: https://www.youtube.com/watch?v=hAdOywL5aN0
 youtube_url: https://www.youtube.com/watch?v=hAdOywL5aN0
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Rethinking Full Stack Application Development with Kiro by Alessandra Pasini and Romain Jourdan
 
-**Speaker not identified**
+**Alessandra Pasini, Romain Jourdan**
 
 `Devoxx` · `Devoxx` · `2026` · `46 min`
 

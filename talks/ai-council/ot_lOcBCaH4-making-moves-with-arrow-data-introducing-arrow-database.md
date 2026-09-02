@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 30
 published_at: 2023-05-11T18:58:21Z
 video_id: ot_lOcBCaH4
+url: https://www.youtube.com/watch?v=ot_lOcBCaH4
 youtube_url: https://www.youtube.com/watch?v=ot_lOcBCaH4
 tags: ["apache arrow", "data API", "SQL", "data engineering", "infrastructure"]
 transcript: false

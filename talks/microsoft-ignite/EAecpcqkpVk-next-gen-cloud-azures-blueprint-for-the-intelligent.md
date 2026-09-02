@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jeremy Winter"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T12:22:32Z
 video_id: EAecpcqkpVk
+url: https://www.youtube.com/watch?v=EAecpcqkpVk
 youtube_url: https://www.youtube.com/watch?v=EAecpcqkpVk
 tags: ["English (US)", "Jeremy Winter", "Next-Gen Cloud: Azure’s Blueprint for the Intelligent Resilient Enterprise | STUDIO30", "Other", "STUDIO30", "STUDIO30_v2", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Next-Gen Cloud: Azure’s Blueprint for the Intelligent Resilient Enterprise | STUDIO30
 
-**Speaker not identified**
+**Jeremy Winter**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

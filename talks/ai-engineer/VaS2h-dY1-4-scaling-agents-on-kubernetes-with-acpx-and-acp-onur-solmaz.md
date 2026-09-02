@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-05-21T15:00:06Z
 video_id: VaS2h-dY1-4
+url: https://www.youtube.com/watch?v=VaS2h-dY1-4
 youtube_url: https://www.youtube.com/watch?v=VaS2h-dY1-4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

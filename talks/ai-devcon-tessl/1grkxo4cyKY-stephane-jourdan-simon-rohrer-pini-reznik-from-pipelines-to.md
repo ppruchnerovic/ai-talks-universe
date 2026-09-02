@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 33
 published_at: 2026-07-29T05:54:23Z
 video_id: 1grkxo4cyKY
+url: https://www.youtube.com/watch?v=1grkxo4cyKY
 youtube_url: https://www.youtube.com/watch?v=1grkxo4cyKY
 tags: ["AI DevCon", "AI advancement in development", "AI panel discussion", "AI-native development", "DevOps", "DevSecOps", "DevSecOps role in AI", "ainativedev", "cloud and DevOps habits", "cloud computing", "development pipelines", "foundational practices", "software development", "technology transition", "what is AI-native development"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 40
 published_at: 2026-03-02T11:23:13Z
 video_id: JEwv4a44JU0
+url: https://www.youtube.com/watch?v=JEwv4a44JU0
 youtube_url: https://www.youtube.com/watch?v=JEwv4a44JU0
 tags: ["Developer Experience", "Architecture & Design", "Software Development", "Productivity", "The InfoQ Podcast"]
 transcript: true

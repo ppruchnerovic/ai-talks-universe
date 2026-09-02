@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:55Z
 video_id: i4T-Vb34W1c
+url: https://www.youtube.com/watch?v=i4T-Vb34W1c
 youtube_url: https://www.youtube.com/watch?v=i4T-Vb34W1c
 tags: ["A/B testing", "Conference", "FastAPI", "NiceGUI", "Plotly", "PyCon", "PyConDE", "PyData", "Python", "Pythonic", "Quasar", "Tailwind CSS", "Tech Talk", "analytics engineering", "dashboard", "data visualization", "internal tools", "no JavaScript", "web development"]
 transcript: false

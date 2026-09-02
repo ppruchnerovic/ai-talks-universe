@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 49
 published_at: null
 video_id: Sh0Ro00_rpA
+url: https://www.youtube.com/watch?v=Sh0Ro00_rpA
 youtube_url: https://www.youtube.com/watch?v=Sh0Ro00_rpA
 tags: []
 transcript: false

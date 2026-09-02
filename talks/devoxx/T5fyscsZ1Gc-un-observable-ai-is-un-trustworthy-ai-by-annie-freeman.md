@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Annie Freeman"]
 channel: "Devoxx"
 duration_min: 32
 published_at: 2026-04-08T20:14:31Z
 video_id: T5fyscsZ1Gc
+url: https://www.youtube.com/watch?v=T5fyscsZ1Gc
 youtube_url: https://www.youtube.com/watch?v=T5fyscsZ1Gc
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Un-observable AI is un-trustworthy AI by Annie Freeman
 
-**Speaker not identified**
+**Annie Freeman**
 
 `Devoxx` · `Devoxx` · `2026` · `32 min`
 

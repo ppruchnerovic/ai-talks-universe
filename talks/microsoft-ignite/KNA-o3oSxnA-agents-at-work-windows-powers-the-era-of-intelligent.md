@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Phil Gerity", "Stefan Kinnestrand", "Navjot Virk"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-21T06:28:36Z
 video_id: KNA-o3oSxnA
+url: https://www.youtube.com/watch?v=KNA-o3oSxnA
 youtube_url: https://www.youtube.com/watch?v=KNA-o3oSxnA
 tags: ["Agents at Work: Windows Powers the Era of Intelligent Productivity | BRK344", "BRK344", "BRK344_v1", "English (US)", "Navjot Virk", "Phil Gerity", "Scale with cloud and AI endpoints", "Stefan Kinnestrand", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Agents at Work: Windows Powers the Era of Intelligent Productivity | BRK344
 
-**Speaker not identified**
+**Phil Gerity, Stefan Kinnestrand, Navjot Virk**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

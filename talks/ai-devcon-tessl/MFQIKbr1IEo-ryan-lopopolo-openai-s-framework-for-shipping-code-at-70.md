@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 55
 published_at: 2026-06-09T12:00:28Z
 video_id: MFQIKbr1IEo
+url: https://www.youtube.com/watch?v=MFQIKbr1IEo
 youtube_url: https://www.youtube.com/watch?v=MFQIKbr1IEo
 tags: ["AI Development", "AI Native DevCon", "AI Native DevCon London 2026", "AI agent trust building", "AIDevCon", "Agentic Coding", "Coding Agents", "OpenAI", "OpenAI Harness Engineering", "PR Throughput", "ainativedev", "anti-slopification CI loop", "how to improve PR throughput", "no-human-written code approach", "what is Harness Engineering"]
 transcript: true

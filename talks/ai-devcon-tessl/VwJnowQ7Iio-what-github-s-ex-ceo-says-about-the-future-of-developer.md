@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 56
 published_at: 2026-01-27T14:00:52Z
 video_id: VwJnowQ7Iio
+url: https://www.youtube.com/watch?v=VwJnowQ7Iio
 youtube_url: https://www.youtube.com/watch?v=VwJnowQ7Iio
 tags: ["AI development", "AI in software development", "GitHub", "GitHub former CEO insights", "Thomas Dohmke GitHub", "ainativedev", "coding agents", "competitive advantage", "corporate strategy", "developer skills", "future of developer skills", "how to foster innovation", "impact of AI on coding", "innovation", "startups"]
 transcript: true

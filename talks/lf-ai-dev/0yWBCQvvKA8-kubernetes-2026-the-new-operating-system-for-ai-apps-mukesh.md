@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
-speakers: []
+speakers: ["Mukesh Aurangabadkar", "Udit Misra"]
 channel: "The Linux Foundation"
 duration_min: 38
 published_at: 2026-06-03T18:23:57Z
 video_id: 0yWBCQvvKA8
+url: https://www.youtube.com/watch?v=0yWBCQvvKA8
 youtube_url: https://www.youtube.com/watch?v=0yWBCQvvKA8
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Kubernetes 2026: The New Operating System for AI & Apps - Mukesh Aurangabadkar & Udit Misra
 
-**Speaker not identified**
+**Mukesh Aurangabadkar, Udit Misra**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit + ELC NA 2026` · `2026` · `38 min`
 

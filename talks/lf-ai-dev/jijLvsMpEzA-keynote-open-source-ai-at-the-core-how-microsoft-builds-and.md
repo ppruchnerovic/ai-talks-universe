@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 10
 published_at: 2025-09-05T19:47:00Z
 video_id: jijLvsMpEzA
+url: https://www.youtube.com/watch?v=jijLvsMpEzA
 youtube_url: https://www.youtube.com/watch?v=jijLvsMpEzA
 tags: []
 transcript: false

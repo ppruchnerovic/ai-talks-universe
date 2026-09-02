@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-06-30T06:23:51Z
 video_id: wuGJNWhUOoE
+url: https://www.youtube.com/watch?v=wuGJNWhUOoE
 youtube_url: https://www.youtube.com/watch?v=wuGJNWhUOoE
 tags: ["AI DevCon", "AI DevCon London 2026 speakers", "AI code generation", "AI-generated code quality", "AI-native development", "Paul Stack AI", "ainativedev", "automation CLI", "best practices for AI coding", "design guidelines", "engineering team management", "machine learning", "swamp project", "system architecture", "what is automation CLI"]
 transcript: true

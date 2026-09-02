@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 59
 published_at: 2024-10-07T10:47:19Z
 video_id: 8OftmdJRCMg
+url: https://www.youtube.com/watch?v=8OftmdJRCMg
 youtube_url: https://www.youtube.com/watch?v=8OftmdJRCMg
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Java", "InfoQ", "Transcript"]
 transcript: false

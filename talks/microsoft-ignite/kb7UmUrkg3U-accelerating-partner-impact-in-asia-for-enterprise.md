@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jaron Cohen", "Heather Gordon", "Mark Iles", "Jessica Krol"]
 channel: "Microsoft Events"
 duration_min: 49
 published_at: 2025-11-25T12:16:02Z
 video_id: kb7UmUrkg3U
+url: https://www.youtube.com/watch?v=kb7UmUrkg3U
 youtube_url: https://www.youtube.com/watch?v=kb7UmUrkg3U
 tags: ["Accelerating Partner Impact in ASIA for Enterprise Customers​ | PBRK437", "Agentic business applications", "Copilot and agents at work", "Innovate with low-code AI and agents", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "Modernize SecOps with a unified platform", "PBRK437", "Protect cloud AI platform and apps", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerating Partner Impact in ASIA for Enterprise Customers​ | PBRK437
 
-**Speaker not identified**
+**Jaron Cohen, Heather Gordon, Mark Iles, Jessica Krol**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `49 min`
 

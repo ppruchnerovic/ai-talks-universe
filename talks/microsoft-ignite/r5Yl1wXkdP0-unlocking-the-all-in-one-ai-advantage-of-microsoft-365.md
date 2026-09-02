@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ron Pessner", "Amber Waisanen"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2025-11-20T10:18:25Z
 video_id: r5Yl1wXkdP0
+url: https://www.youtube.com/watch?v=r5Yl1wXkdP0
 youtube_url: https://www.youtube.com/watch?v=r5Yl1wXkdP0
 tags: ["Amber Waisanen", "BRK281", "Copilot and agents at work", "English (US)", "Ron Pessner", "Technical", "Unlocking the all-in-one AI Advantage of Microsoft 365 Copilot | BRK281", "f5n1", "fa2ffddf-2604-48a8-bff1-79de83ae8fd9_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlocking the all-in-one AI Advantage of Microsoft 365 Copilot | BRK281
 
-**Speaker not identified**
+**Ron Pessner, Amber Waisanen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `41 min`
 

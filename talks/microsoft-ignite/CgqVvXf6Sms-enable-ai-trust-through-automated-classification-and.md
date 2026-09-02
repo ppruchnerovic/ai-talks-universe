@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cliff Embry", "Dan Holland"]
 channel: "Microsoft Events"
 duration_min: 32
 published_at: 2025-11-24T11:13:13Z
 video_id: CgqVvXf6Sms
+url: https://www.youtube.com/watch?v=CgqVvXf6Sms
 youtube_url: https://www.youtube.com/watch?v=CgqVvXf6Sms
 tags: ["638dbb4c-a2ce-44fa-aa3f-b02ba5cbfd83_Segment", "BRKSP475", "Cliff Embry", "Dan Holland", "Enable AI trust through automated classification and labeling | BRKSP475", "English (US)", "Protect cloud AI platform and apps", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Enable AI trust through automated classification and labeling | BRKSP475
 
-**Speaker not identified**
+**Cliff Embry, Dan Holland**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `32 min`
 

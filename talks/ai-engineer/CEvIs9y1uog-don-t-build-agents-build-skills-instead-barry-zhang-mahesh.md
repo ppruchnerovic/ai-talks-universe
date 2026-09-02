@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Barry Zhang", "Mahesh Murag"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2025-12-08T00:00:00Z
 video_id: CEvIs9y1uog
+url: https://www.youtube.com/watch?v=CEvIs9y1uog
 youtube_url: https://www.youtube.com/watch?v=CEvIs9y1uog
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic
 
-**Speaker not identified**
+**Barry Zhang, Mahesh Murag**
 
 `AI Engineer` · `AI Engineer` · `2025` · `16 min`
 

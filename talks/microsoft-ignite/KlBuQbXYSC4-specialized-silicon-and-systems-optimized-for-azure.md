@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Saurabh Dighe", "Gohar Waqar"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-21T15:21:10Z
 video_id: KlBuQbXYSC4
+url: https://www.youtube.com/watch?v=KlBuQbXYSC4
 youtube_url: https://www.youtube.com/watch?v=KlBuQbXYSC4
 tags: ["BRK224", "Breakout", "English (US)", "Gohar Waqar", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Saurabh Dighe", "Specialized silicon and systems optimized for Azure infrastructure | BRK224", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Specialized silicon and systems optimized for Azure infrastructure | BRK224
 
-**Speaker not identified**
+**Saurabh Dighe, Gohar Waqar**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

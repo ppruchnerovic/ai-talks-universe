@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 46
 published_at: null
 video_id: 6wGwx-IENM4
+url: https://www.youtube.com/watch?v=6wGwx-IENM4
 youtube_url: https://www.youtube.com/watch?v=6wGwx-IENM4
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jake Brill"]
 channel: "AI Council"
 duration_min: 50
 published_at: 2025-05-29T16:01:43Z
 video_id: vW4VK-X2CKY
+url: https://www.youtube.com/watch?v=vW4VK-X2CKY
 youtube_url: https://www.youtube.com/watch?v=vW4VK-X2CKY
 tags: ["responsible AI", "ChatGPT", "artificial intelligence", "machine learning", "AI ethics", "AI governance", "generative AI safety", "AI regulation", "AI compliance", "trust and safety", "ethical AI", "AI risk management", "fairness frameworks", "safety engineering", "OpenAI", "tech ethics", "AI bias", "algorithmic fairness", "explainable AI", "interpretable AI", "AI transparency", "model validation", "AI testing", "safety protocols", "risk assessment", "compliance frameworks", "privacy protection", "data protection", "AI Safety"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Guardrails for the Future AI Safety and Responsible AI in Practice
 
-**Speaker not identified**
+**Jake Brill**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `50 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 59
 published_at: 2026-05-22T10:00:04Z
 video_id: nKZVd8r89nI
+url: https://www.youtube.com/watch?v=nKZVd8r89nI
 youtube_url: https://www.youtube.com/watch?v=nKZVd8r89nI
 tags: ["AI", "Tools", "Aaron Powell", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
 transcript: true

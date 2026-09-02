@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Abdel Sghiouar", "Victor Dantas"]
 channel: "The Linux Foundation"
 duration_min: 75
 published_at: 2024-06-27T14:40:34Z
 video_id: 89PYKDVYHzk
+url: https://www.youtube.com/watch?v=89PYKDVYHzk
 youtube_url: https://www.youtube.com/watch?v=89PYKDVYHzk
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Workshop: Working with Gemma and Open LLMs on Google Kubernetes... - Abdel Sghiouar & Victor Dantas
 
-**Speaker not identified**
+**Abdel Sghiouar, Victor Dantas**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `75 min`
 

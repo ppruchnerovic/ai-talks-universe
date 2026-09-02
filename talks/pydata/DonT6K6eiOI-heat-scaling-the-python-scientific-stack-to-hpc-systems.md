@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Claudia Comito", "Thomas Saupe"]
+speakers: ["Claudia Comito"]
 channel: "PyData"
 duration_min: 30
 published_at: 2026-08-04T22:21:05Z
 video_id: DonT6K6eiOI
+url: https://www.youtube.com/watch?v=DonT6K6eiOI
 youtube_url: https://www.youtube.com/watch?v=DonT6K6eiOI
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Heat: scaling the Python scientific stack to HPC systems [PyCon DE & PyData 2026]
 
-**Claudia Comito, Thomas Saupe**
+**Claudia Comito**
 
 `PyData` · `PyData` · `2026` · `30 min`
 

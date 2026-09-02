@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aarthi Natarajan", "Jeff Teper", "Adam Harmetz"]
 channel: "Microsoft Events"
 duration_min: 50
 published_at: 2024-11-25T13:11:27Z
 video_id: Ri2j--HBj7E
+url: https://www.youtube.com/watch?v=Ri2j--HBj7E
 youtube_url: https://www.youtube.com/watch?v=Ri2j--HBj7E
 tags: ["Aarthi Natarajan", "Adam Harmetz", "BRK279", "Breakout", "CJ Tan", "English (US)", "Intermediate (200)", "Jeff Teper", "Microsoft Copilot", "Modern Work", "Nate Tennant", "OneDrive", "Reimagine content management with agents in SharePoint | BRK279", "SharePoint", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Reimagine content management with agents in SharePoint | BRK279
 
-**Speaker not identified**
+**Aarthi Natarajan, Jeff Teper, Adam Harmetz**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `50 min`
 

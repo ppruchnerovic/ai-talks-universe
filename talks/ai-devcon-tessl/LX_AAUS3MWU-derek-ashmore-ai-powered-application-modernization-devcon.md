@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 26
 published_at: 2025-11-27T16:20:29Z
 video_id: LX_AAUS3MWU
+url: https://www.youtube.com/watch?v=LX_AAUS3MWU
 youtube_url: https://www.youtube.com/watch?v=LX_AAUS3MWU
 tags: ["ainativedev"]
 transcript: false

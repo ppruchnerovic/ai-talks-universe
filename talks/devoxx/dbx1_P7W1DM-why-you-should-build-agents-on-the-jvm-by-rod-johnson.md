@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Rod Johnson"]
 channel: "Devoxx"
 duration_min: 22
 published_at: 2025-10-09T05:36:07Z
 video_id: dbx1_P7W1DM
+url: https://www.youtube.com/watch?v=dbx1_P7W1DM
 youtube_url: https://www.youtube.com/watch?v=dbx1_P7W1DM
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Why You Should Build Agents on the JVM by Rod Johnson
 
-**Speaker not identified**
+**Rod Johnson**
 
 `Devoxx` · `Devoxx` · `2025` · `22 min`
 

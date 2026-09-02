@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Marcin Grzejszczak", "Jakub Pilimon"]
 channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-03-30T12:00:15Z
 video_id: D-yp3sB8cu0
+url: https://www.youtube.com/watch?v=D-yp3sB8cu0
 youtube_url: https://www.youtube.com/watch?v=D-yp3sB8cu0
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Jakub Pilimon", "Marcin Grzejszczak", "Spring Cloud", "Spring Cloud Contract", "Observability", "Microservices", "micro-infra-spring", "Contract Testing", "Contract Test", "Unit Test"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # A Typo Led to the Creation of Spring Cloud Contract • Marcin Grzejszczak & Jakub Pilimon • GOTO 2026
 
-**Speaker not identified**
+**Marcin Grzejszczak, Jakub Pilimon**
 
 `GOTO Conferences` · `GOTO` · `2026` · `30 min`
 

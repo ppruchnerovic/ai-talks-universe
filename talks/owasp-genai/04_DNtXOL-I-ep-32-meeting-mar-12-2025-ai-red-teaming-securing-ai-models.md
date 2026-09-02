@@ -12,6 +12,7 @@ channel: null
 duration_min: 60
 published_at: null
 video_id: 04_DNtXOL-I
+url: https://www.youtube.com/watch?v=04_DNtXOL-I
 youtube_url: https://www.youtube.com/watch?v=04_DNtXOL-I
 tags: []
 transcript: false

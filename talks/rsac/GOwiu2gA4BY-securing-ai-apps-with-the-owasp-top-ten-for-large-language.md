@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Gavin Klondike", "Head of Workshops"]
+speakers: ["Gavin Klondike"]
 channel: "RSAC Cybersecurity"
 duration_min: 49
 published_at: 2024-06-10T21:15:23Z
 video_id: GOwiu2gA4BY
+url: https://www.youtube.com/watch?v=GOwiu2gA4BY
 youtube_url: https://www.youtube.com/watch?v=GOwiu2gA4BY
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Securing AI Apps with the OWASP Top Ten for Large Language Models
 
-**Gavin Klondike, Head of Workshops**
+**Gavin Klondike**
 
 `RSAC Conference` · `RSAC` · `2024` · `49 min`
 

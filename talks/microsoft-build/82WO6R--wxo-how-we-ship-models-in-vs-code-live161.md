@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Julia Kasper", "Seth Juarez"]
 channel: "Visual Studio Code"
 duration_min: 16
 published_at: 2026-06-05T13:37:14Z
 video_id: 82WO6R--wxo
+url: https://www.youtube.com/watch?v=82WO6R--wxo
 youtube_url: https://www.youtube.com/watch?v=82WO6R--wxo
 tags: ["How we ship models in VS Code | LIVE161", "Julia Kasper", "LIVE161", "LIVE161_v1", "Seth Juarez", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # How we ship models in VS Code | LIVE161
 
-**Speaker not identified**
+**Julia Kasper, Seth Juarez**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

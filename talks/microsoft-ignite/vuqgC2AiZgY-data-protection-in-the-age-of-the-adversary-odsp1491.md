@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-21T10:38:55Z
 video_id: vuqgC2AiZgY
+url: https://www.youtube.com/watch?v=vuqgC2AiZgY
 youtube_url: https://www.youtube.com/watch?v=vuqgC2AiZgY
 tags: ["Caleb McDowell", "Data protection in the age of the adversary | ODSP1491", "English (US)", "Modernize SecOps with a unified platform", "ODSP1491", "ODSP1491_v1", "Quentin Rhoads-Herrera", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2024-07-11T08:16:29Z
 video_id: gt7Ko2RlAbk
+url: https://www.youtube.com/watch?v=gt7Ko2RlAbk
 youtube_url: https://www.youtube.com/watch?v=gt7Ko2RlAbk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "InfoQ Dev Summit", "InfoQ", "transcript", "Large Language Models", "LLMs"]
 transcript: false

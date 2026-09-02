@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 38
 published_at: 2026-02-12T12:31:30Z
 video_id: nznlP9fQ6bc
+url: https://www.youtube.com/watch?v=nznlP9fQ6bc
 youtube_url: https://www.youtube.com/watch?v=nznlP9fQ6bc
 tags: ["wellbeing", "future of work", "employee", "trust", "benefits", "corporate benefits", "wellbeing initiatives", "performance", "sustainable performance"]
 transcript: true

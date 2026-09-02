@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Juan Daniel Alonso", "Clay Caldwell"]
 channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T14:27:54Z
 video_id: LwC8qPjtRnc
+url: https://www.youtube.com/watch?v=LwC8qPjtRnc
 youtube_url: https://www.youtube.com/watch?v=LwC8qPjtRnc
 tags: ["Clay Caldwell", "English (US)", "Forging new frontiers: How Forza Steel built an AI-ready foundation | ODSP1449", "Innovate with Azure AI apps and agents", "Juan Daniel Alonso", "Manufacturing and Mobility", "ODSP1449", "ODSP1449_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Forging new frontiers: How Forza Steel built an AI-ready foundation | ODSP1449
 
-**Speaker not identified**
+**Juan Daniel Alonso, Clay Caldwell**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `22 min`
 

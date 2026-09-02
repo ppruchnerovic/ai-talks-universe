@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 39
 published_at: 2025-11-23T14:34:02Z
 video_id: -cqV6ihsCqI
+url: https://www.youtube.com/watch?v=-cqV6ihsCqI
 youtube_url: https://www.youtube.com/watch?v=-cqV6ihsCqI
 tags: ["Career Development", "Code Security", "Community Building", "Conference", "Cron Expressions", "Developer Tools", "Documentation", "Handwriting Recognition", "Lightning Talks", "Machine Learning", "NeoVim", "Open Source", "Pandas", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk"]
 transcript: false

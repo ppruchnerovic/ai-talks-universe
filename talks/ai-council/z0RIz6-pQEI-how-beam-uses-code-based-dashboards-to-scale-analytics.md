@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Emilio Tamez"]
 channel: "AI Council"
 duration_min: 23
 published_at: 2024-04-19T05:00:33Z
 video_id: z0RIz6-pQEI
+url: https://www.youtube.com/watch?v=z0RIz6-pQEI
 youtube_url: https://www.youtube.com/watch?v=z0RIz6-pQEI
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Beam Uses Code-Based Dashboards to Scale Analytics Products
 
-**Speaker not identified**
+**Emilio Tamez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `23 min`
 

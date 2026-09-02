@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Colleen Tartow"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2024-04-19T05:00:14Z
 video_id: N2UWHvY4CL8
+url: https://www.youtube.com/watch?v=N2UWHvY4CL8
 youtube_url: https://www.youtube.com/watch?v=N2UWHvY4CL8
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Reality of Building a Modern AI Data Stack
 
-**Speaker not identified**
+**Colleen Tartow**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `29 min`
 

@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 38
 published_at: 2026-08-19T13:30:23Z
 video_id: RVAya4SoVBU
+url: https://www.youtube.com/watch?v=RVAya4SoVBU
 youtube_url: https://www.youtube.com/watch?v=RVAya4SoVBU
 tags: []
 transcript: true

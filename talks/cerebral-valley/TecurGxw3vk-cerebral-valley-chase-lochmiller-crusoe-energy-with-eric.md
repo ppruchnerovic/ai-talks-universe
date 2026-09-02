@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 18
 published_at: 2023-12-04T20:01:44Z
 video_id: TecurGxw3vk
+url: https://www.youtube.com/watch?v=TecurGxw3vk
 youtube_url: https://www.youtube.com/watch?v=TecurGxw3vk
 tags: []
 transcript: false

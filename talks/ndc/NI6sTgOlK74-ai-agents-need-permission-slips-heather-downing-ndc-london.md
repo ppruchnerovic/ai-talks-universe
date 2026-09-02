@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-02-27T05:25:13Z
 video_id: NI6sTgOlK74
+url: https://www.youtube.com/watch?v=NI6sTgOlK74
 youtube_url: https://www.youtube.com/watch?v=NI6sTgOlK74
 tags: ["Security", "AI", "Architecture", "DevOps", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Great Britain", "Heather Downing"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 15
 published_at: 2025-04-23T00:00:00Z
 video_id: OC04sP_QgTI
+url: https://www.youtube.com/watch?v=OC04sP_QgTI
 youtube_url: https://www.youtube.com/watch?v=OC04sP_QgTI
 tags: []
 transcript: false

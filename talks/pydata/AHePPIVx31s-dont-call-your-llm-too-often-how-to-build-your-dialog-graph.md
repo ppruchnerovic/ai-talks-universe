@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Evgeniya Ovchinnikova", "Andrei Beliankou"]
+speakers: ["Evgeniya Ovchinnikova"]
 channel: "PyData"
 duration_min: 31
 published_at: 2026-08-04T22:20:41Z
 video_id: AHePPIVx31s
+url: https://www.youtube.com/watch?v=AHePPIVx31s
 youtube_url: https://www.youtube.com/watch?v=AHePPIVx31s
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Don’t call your LLM too often! How to build your dialog graph with confidence and sleep at night.
 
-**Evgeniya Ovchinnikova, Andrei Beliankou**
+**Evgeniya Ovchinnikova**
 
 `PyData` · `PyData` · `2026` · `31 min`
 

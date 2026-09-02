@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Lize Raes"]
 channel: "Devoxx"
 duration_min: 54
 published_at: 2025-10-10T15:50:24Z
 video_id: jvRSSsP26Z8
+url: https://www.youtube.com/watch?v=jvRSSsP26Z8
 youtube_url: https://www.youtube.com/watch?v=jvRSSsP26Z8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Level Up Your LangChain4j Apps for Production by Lize Raes
 
-**Speaker not identified**
+**Lize Raes**
 
 `Devoxx` · `Devoxx` · `2025` · `54 min`
 

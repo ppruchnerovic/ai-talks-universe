@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Tobias Senst", "Bastian Wandt"]
+speakers: ["Tobias Senst"]
 channel: "PyData"
 duration_min: 47
 published_at: 2026-08-04T22:20:46Z
 video_id: FNyheMv6Vt4
+url: https://www.youtube.com/watch?v=FNyheMv6Vt4
 youtube_url: https://www.youtube.com/watch?v=FNyheMv6Vt4
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # When LLMs Are Too Big: Building Cost-Efficient High-Throughput ML Systems for E-Commerce Cataloging
 
-**Tobias Senst, Bastian Wandt**
+**Tobias Senst**
 
 `PyData` · `PyData` · `2026` · `47 min`
 

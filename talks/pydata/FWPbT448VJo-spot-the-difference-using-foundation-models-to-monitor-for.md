@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 32
 published_at: 2025-11-23T14:33:49Z
 video_id: FWPbT448VJo
+url: https://www.youtube.com/watch?v=FWPbT448VJo
 youtube_url: https://www.youtube.com/watch?v=FWPbT448VJo
 tags: ["Conference", "DINOv2", "Earth observation", "PyConDE", "PyData", "Python", "Tech Talk", "Vision Transformer", "change detection", "computer vision", "deep learning", "foundation models", "geospatial AI", "infrastructure monitoring", "machine learning", "pipeline monitoring", "remote sensing", "satellite imagery", "transfer learning"]
 transcript: false

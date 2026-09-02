@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Kevin Dubois"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2026-02-27T13:52:47Z
 video_id: V_Jg0mc9C04
+url: https://www.youtube.com/watch?v=V_Jg0mc9C04
 youtube_url: https://www.youtube.com/watch?v=V_Jg0mc9C04
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Agentic AI Patterns by Kevin Dubois
 
-**Speaker not identified**
+**Kevin Dubois**
 
 `Devoxx` · `Devoxx` · `2026` · `49 min`
 

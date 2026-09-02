@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 22
 published_at: 2026-06-21T18:12:03Z
 video_id: Gpjr-PlehnQ
+url: https://www.youtube.com/watch?v=Gpjr-PlehnQ
 youtube_url: https://www.youtube.com/watch?v=Gpjr-PlehnQ
 tags: ["AI"]
 transcript: true

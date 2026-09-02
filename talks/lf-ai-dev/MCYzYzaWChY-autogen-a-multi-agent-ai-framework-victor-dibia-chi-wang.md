@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI.dev 2023"
 year: 2023
-speakers: []
+speakers: ["Victor Dibia", "Chi Wang"]
 channel: "The Linux Foundation"
 duration_min: 33
 published_at: 2023-12-18T18:31:36Z
 video_id: MCYzYzaWChY
+url: https://www.youtube.com/watch?v=MCYzYzaWChY
 youtube_url: https://www.youtube.com/watch?v=MCYzYzaWChY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AutoGen: A Multi-Agent AI Framework - Victor Dibia & Chi Wang, Microsoft
 
-**Speaker not identified**
+**Victor Dibia, Chi Wang**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI.dev 2023` · `2023` · `33 min`
 

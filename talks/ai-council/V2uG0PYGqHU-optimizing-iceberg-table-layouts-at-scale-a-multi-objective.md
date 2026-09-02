@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Sumedh Sakdeo"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T15:51:01Z
 video_id: V2uG0PYGqHU
+url: https://www.youtube.com/watch?v=V2uG0PYGqHU
 youtube_url: https://www.youtube.com/watch?v=V2uG0PYGqHU
 tags: ["Apache Iceberg tutorial", "database optimization", "ChatGPT", "artificial intelligence", "machine learning", "data engineering tutorial", "SQL tutorial", "analytics", "table formats", "data lakehouse", "performance tuning", "data management", "cloud storage", "query optimization", "Python", "open table format", "schema evolution", "time travel", "ACID transactions", "data versioning", "partition management", "metadata management", "lake house architecture", "data lake optimization", "Parquet optimization"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Optimizing Iceberg Table Layouts at Scale A Multi Objective Approach
 
-**Speaker not identified**
+**Sumedh Sakdeo**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

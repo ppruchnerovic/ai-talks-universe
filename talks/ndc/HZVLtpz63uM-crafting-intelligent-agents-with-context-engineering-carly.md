@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-03-03T10:27:34Z
 video_id: HZVLtpz63uM
+url: https://www.youtube.com/watch?v=HZVLtpz63uM
 youtube_url: https://www.youtube.com/watch?v=HZVLtpz63uM
 tags: ["AI", "Database", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "UK", "Great Britain", "Carly Richmond"]
 transcript: true

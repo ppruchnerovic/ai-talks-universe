@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T12:20:00+00:00
 video_id: jWDAL2FTYfo
+url: https://www.youtube.com/watch?v=jWDAL2FTYfo
 youtube_url: https://www.youtube.com/watch?v=jWDAL2FTYfo
 tags: ["AI Engineering", "JSON", "Large Language Models (LLMs)", "Retrieval-Augmented Generation (RAG)", "AI Models"]
 transcript: true

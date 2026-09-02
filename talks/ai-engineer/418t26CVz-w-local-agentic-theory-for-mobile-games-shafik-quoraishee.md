@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Shafik Quoraishee", "Joanne Song"]
 channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-07-23T03:00:01Z
 video_id: 418t26CVz-w
+url: https://www.youtube.com/watch?v=418t26CVz-w
 youtube_url: https://www.youtube.com/watch?v=418t26CVz-w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Local Agentic Theory For Mobile Games — Shafik Quoraishee & Joanne Song, The New York Times
 
-**Speaker not identified**
+**Shafik Quoraishee, Joanne Song**
 
 `AI Engineer` · `AI Engineer` · `2026` · `18 min`
 

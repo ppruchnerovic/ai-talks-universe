@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 42
 published_at: 2026-06-24T07:19:21Z
 video_id: tFffUnSq7VA
+url: https://www.youtube.com/watch?v=tFffUnSq7VA
 youtube_url: https://www.youtube.com/watch?v=tFffUnSq7VA
 tags: ["AI Native DevCon June 2026", "AI coding assistants", "AI coding assistants insights", "AI models", "Birgitta Böckeler", "Claude Code", "Opus 4.5", "ThoughtWorks", "agentic workflows", "ainativedev", "coding harness", "context window", "role of stateless AI models", "software development", "use of Opus 4.5 in coding"]
 transcript: true

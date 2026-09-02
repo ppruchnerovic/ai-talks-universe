@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 9
 published_at: 2026-07-09T08:25:00+00:00
 video_id: HyKX9Yi8gQY
+url: https://www.youtube.com/watch?v=HyKX9Yi8gQY
 youtube_url: https://www.youtube.com/watch?v=HyKX9Yi8gQY
 tags: ["Frontend, Web & Mobile", "CSS", "Design Systems", "HTML", "Storybook", "UI/UX"]
 transcript: true

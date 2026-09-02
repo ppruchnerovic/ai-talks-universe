@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 26
 published_at: 2026-07-20T00:25:12Z
 video_id: 9wfHzR5eH84
+url: https://www.youtube.com/watch?v=9wfHzR5eH84
 youtube_url: https://www.youtube.com/watch?v=9wfHzR5eH84
 tags: []
 transcript: true

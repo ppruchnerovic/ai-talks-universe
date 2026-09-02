@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 47
 published_at: 2026-07-01T11:34:04Z
 video_id: -Gg_CWLxJys
+url: https://www.youtube.com/watch?v=-Gg_CWLxJys
 youtube_url: https://www.youtube.com/watch?v=-Gg_CWLxJys
 tags: ["Security", "AI", "AI-Powered", "Web", "App", "application", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Stök ."]
 transcript: true

@@ -12,6 +12,7 @@ channel: null
 duration_min: 41
 published_at: null
 video_id: Q1-9IABavgw
+url: https://www.youtube.com/watch?v=Q1-9IABavgw
 youtube_url: https://www.youtube.com/watch?v=Q1-9IABavgw
 tags: []
 transcript: false

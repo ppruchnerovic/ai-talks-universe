@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 23
 published_at: 2025-06-06T08:22:47Z
 video_id: Xuy-DaJIfDI
+url: https://www.youtube.com/watch?v=Xuy-DaJIfDI
 youtube_url: https://www.youtube.com/watch?v=Xuy-DaJIfDI
 tags: []
 transcript: false

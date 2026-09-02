@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 11
 published_at: 2026-07-09T09:10:00+00:00
 video_id: IbSFnFhuLkQ
+url: https://www.youtube.com/watch?v=IbSFnFhuLkQ
 youtube_url: https://www.youtube.com/watch?v=IbSFnFhuLkQ
 tags: ["Frontend, Web & Mobile", "Accessibility", "AI Coding Assistants", "Testing", "Web Accessibility"]
 transcript: true

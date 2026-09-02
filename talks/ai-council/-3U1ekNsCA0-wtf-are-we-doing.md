@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Benn Stancil"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2024-04-19T05:00:00Z
 video_id: -3U1ekNsCA0
+url: https://www.youtube.com/watch?v=-3U1ekNsCA0
 youtube_url: https://www.youtube.com/watch?v=-3U1ekNsCA0
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # WTF Are We Doing?
 
-**Speaker not identified**
+**Benn Stancil**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `32 min`
 

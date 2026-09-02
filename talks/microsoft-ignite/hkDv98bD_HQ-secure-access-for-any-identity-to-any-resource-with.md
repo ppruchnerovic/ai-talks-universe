@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Alex Simons", "Nichole Peterson"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2024-11-25T13:52:15Z
 video_id: hkDv98bD_HQ
+url: https://www.youtube.com/watch?v=hkDv98bD_HQ
 youtube_url: https://www.youtube.com/watch?v=hkDv98bD_HQ
 tags: ["Advanced (300)", "Alex Simons", "BRK313", "Breakout", "Cloud", "Copilot for Security", "Data Security", "English (US)", "GenerativeAI", "Microsoft Entra", "Nichole Peterson", "Secure access for any identity to any resource with Microsoft Entra | BRK313", "Security", "Technical", "Version v0", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Secure access for any identity to any resource with Microsoft Entra | BRK313
 
-**Speaker not identified**
+**Alex Simons, Nichole Peterson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `42 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vijay Aski", "Chris Lauren", "Ankit Parag Shah", "Wei Wei"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:21:15Z
 video_id: 9TmsRYmb9NE
+url: https://www.youtube.com/watch?v=9TmsRYmb9NE
 youtube_url: https://www.youtube.com/watch?v=9TmsRYmb9NE
 tags: ["5368a6bd-d266-4693-b486-d0a75ad0ecb7_Segment", "Ankit Parag Shah", "BRK210", "Chris Lauren", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Technical", "Train host and infer reasoning models on Microsoft Foundry | BRK210", "Vijay Aski", "Wei Wei", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Train host and infer reasoning models on Microsoft Foundry | BRK210
 
-**Speaker not identified**
+**Vijay Aski, Chris Lauren, Ankit Parag Shah, Wei Wei**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

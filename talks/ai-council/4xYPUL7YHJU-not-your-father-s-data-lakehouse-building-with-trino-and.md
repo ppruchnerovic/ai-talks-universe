@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Monica Miller"]
 channel: "AI Council"
 duration_min: 43
 published_at: 2024-04-19T05:00:04Z
 video_id: 4xYPUL7YHJU
+url: https://www.youtube.com/watch?v=4xYPUL7YHJU
 youtube_url: https://www.youtube.com/watch?v=4xYPUL7YHJU
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Not Your Father's Data Lakehouse: Building with Trino and Iceberg | Starburst Workshop
 
-**Speaker not identified**
+**Monica Miller**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `43 min`
 

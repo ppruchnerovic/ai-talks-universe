@@ -12,6 +12,7 @@ channel: "OpenAI"
 duration_min: 43
 published_at: null
 video_id: knHW-p31R0c
+url: https://www.youtube.com/watch?v=knHW-p31R0c
 youtube_url: https://www.youtube.com/watch?v=knHW-p31R0c
 tags: []
 transcript: false

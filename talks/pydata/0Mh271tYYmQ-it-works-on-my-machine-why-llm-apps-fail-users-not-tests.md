@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Thomas Prexl", "Frank Rust"]
+speakers: ["Thomas Prexl"]
 channel: "PyData"
 duration_min: 30
 published_at: 2026-08-04T22:20:07Z
 video_id: 0Mh271tYYmQ
+url: https://www.youtube.com/watch?v=0Mh271tYYmQ
 youtube_url: https://www.youtube.com/watch?v=0Mh271tYYmQ
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # It Works on My Machine: Why LLM Apps Fail Users (Not Tests) [PyCon DE & PyData 2026]
 
-**Thomas Prexl, Frank Rust**
+**Thomas Prexl**
 
 `PyData` · `PyData` · `2026` · `30 min`
 

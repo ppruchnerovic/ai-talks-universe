@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Stefania Olafsdóttir"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-28T23:39:02Z
 video_id: IvhtTu9CTAU
+url: https://www.youtube.com/watch?v=IvhtTu9CTAU
 youtube_url: https://www.youtube.com/watch?v=IvhtTu9CTAU
 tags: ["data mesh", "event data quality", "ChatGPT", "artificial intelligence", "machine learning", "data architecture", "data quality", "event tracking", "data organization", "Python tutorial", "decentralized data", "domain ownership", "data products", "federated governance", "self serve data platform", "data as a product", "domain driven design", "microservices architecture", "event sourcing", "streaming data", "data contracts"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Data Mesh" Buzzword or the Right Guide Towards a Tactical Recipe to Improve Event Data Quality?
 
-**Speaker not identified**
+**Stefania Olafsdóttir**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

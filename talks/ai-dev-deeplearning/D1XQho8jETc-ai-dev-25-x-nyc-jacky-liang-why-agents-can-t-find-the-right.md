@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 30
 published_at: 2025-12-04T23:00:39Z
 video_id: D1XQho8jETc
+url: https://www.youtube.com/watch?v=D1XQho8jETc
 youtube_url: https://www.youtube.com/watch?v=D1XQho8jETc
 tags: []
 transcript: false

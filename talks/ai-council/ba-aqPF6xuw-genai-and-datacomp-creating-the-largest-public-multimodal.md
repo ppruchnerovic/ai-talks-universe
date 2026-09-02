@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Alex Dimakis"]
 channel: "AI Council"
 duration_min: 17
 published_at: 2024-04-19T05:00:18Z
 video_id: ba-aqPF6xuw
+url: https://www.youtube.com/watch?v=ba-aqPF6xuw
 youtube_url: https://www.youtube.com/watch?v=ba-aqPF6xuw
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # GenAI and Datacomp: Creating the Largest Public Multimodal Dataset in Academia
 
-**Speaker not identified**
+**Alex Dimakis**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `17 min`
 

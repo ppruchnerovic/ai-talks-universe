@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T07:00:00+00:00
 video_id: I7mkG1bjfV4
+url: https://www.youtube.com/watch?v=I7mkG1bjfV4
 youtube_url: https://www.youtube.com/watch?v=I7mkG1bjfV4
 tags: ["Languages & Runtimes", "Analytics", "Best Practices", "C#", "Containers", ".NET", "Tooling", "Tools"]
 transcript: true

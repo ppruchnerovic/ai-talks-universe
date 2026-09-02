@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 56
 published_at: 2024-03-21T11:33:34Z
 video_id: 4ND6lCzofrM
+url: https://www.youtube.com/watch?v=4ND6lCzofrM
 youtube_url: https://www.youtube.com/watch?v=4ND6lCzofrM
 tags: ["Generally AI", "AI", "InfoQ Podcast"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["William Rizzo", "Colin Griffin"]
 channel: "GOTO Conferences"
 duration_min: 29
 published_at: 2026-03-19T13:01:12Z
 video_id: balbP8OQX2M
+url: https://www.youtube.com/watch?v=balbP8OQX2M
 youtube_url: https://www.youtube.com/watch?v=balbP8OQX2M
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "William Rizzo", "Colin Griffin", "Platform Engineering", "CNCF", "CNCF White Paper", "CNCF Maturity Model"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # One Size Fits None: How Platform Engineering Must Evolve • William Rizzo & Colin Griffin • GOTO 2026
 
-**Speaker not identified**
+**William Rizzo, Colin Griffin**
 
 `GOTO Conferences` · `GOTO` · `2026` · `29 min`
 

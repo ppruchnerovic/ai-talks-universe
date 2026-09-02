@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 8
 published_at: null
 video_id: HurV6ZUq0RY
+url: https://www.youtube.com/watch?v=HurV6ZUq0RY
 youtube_url: https://www.youtube.com/watch?v=HurV6ZUq0RY
 tags: []
 transcript: false

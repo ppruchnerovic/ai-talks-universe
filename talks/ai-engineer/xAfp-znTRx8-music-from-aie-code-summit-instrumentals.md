@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 66
 published_at: 2025-11-27T18:32:08Z
 video_id: xAfp-znTRx8
+url: https://www.youtube.com/watch?v=xAfp-znTRx8
 youtube_url: https://www.youtube.com/watch?v=xAfp-znTRx8
 tags: []
 transcript: false

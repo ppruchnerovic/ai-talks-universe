@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-21T12:39:55Z
 video_id: BlvSF-t0AC8
+url: https://www.youtube.com/watch?v=BlvSF-t0AC8
 youtube_url: https://www.youtube.com/watch?v=BlvSF-t0AC8
 tags: ["Be more productive in your SAP Environment with ABAP AI model in VS Code | STUDIOSP70", "English (US)", "STUDIOSP70", "STUDIOSP70_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

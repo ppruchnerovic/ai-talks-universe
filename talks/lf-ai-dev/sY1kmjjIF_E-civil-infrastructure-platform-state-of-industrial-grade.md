@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit EU 2025"
 year: 2025
-speakers: []
+speakers: ["Yoshitake Kobayashi", "Dinesh Kumar"]
 channel: "The Linux Foundation"
 duration_min: 39
 published_at: 2025-09-05T19:38:52Z
 video_id: sY1kmjjIF_E
+url: https://www.youtube.com/watch?v=sY1kmjjIF_E
 youtube_url: https://www.youtube.com/watch?v=sY1kmjjIF_E
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Civil Infrastructure Platform: State of Industrial Grade Linux - Yoshitake Kobayashi & Dinesh Kumar
 
-**Speaker not identified**
+**Yoshitake Kobayashi, Dinesh Kumar**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit EU 2025` · `2025` · `39 min`
 

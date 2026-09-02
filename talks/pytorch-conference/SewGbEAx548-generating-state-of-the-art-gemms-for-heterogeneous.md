@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Michael Lazos", "Henry Tsang"]
 channel: "PyTorch"
 duration_min: 28
 published_at: null
 video_id: SewGbEAx548
+url: https://www.youtube.com/watch?v=SewGbEAx548
 youtube_url: https://www.youtube.com/watch?v=SewGbEAx548
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Generating State-of-the-Art GEMMs for Heterogeneous Hardware with... - Michael Lazos & Henry Tsang
 
-**Speaker not identified**
+**Michael Lazos, Henry Tsang**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `28 min`
 

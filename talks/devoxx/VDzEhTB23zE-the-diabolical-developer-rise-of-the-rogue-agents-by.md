@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Martijn Verburg"]
 channel: "Devoxx"
 duration_min: 52
 published_at: 2025-10-10T05:10:26Z
 video_id: VDzEhTB23zE
+url: https://www.youtube.com/watch?v=VDzEhTB23zE
 youtube_url: https://www.youtube.com/watch?v=VDzEhTB23zE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Diabolical Developer: Rise of the Rogue Agents by Martijn Verburg
 
-**Speaker not identified**
+**Martijn Verburg**
 
 `Devoxx` · `Devoxx` · `2025` · `52 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 10
 published_at: 2026-07-09T11:30:00+00:00
 video_id: 5SWCbrxp8Z4
+url: https://www.youtube.com/watch?v=5SWCbrxp8Z4
 youtube_url: https://www.youtube.com/watch?v=5SWCbrxp8Z4
 tags: ["Quality & Reliability", "AI Standards", "Authentication", "AWS", "Agents", "Agentic AI", "Infrastructure", "Open Source", "Software Architecture"]
 transcript: true

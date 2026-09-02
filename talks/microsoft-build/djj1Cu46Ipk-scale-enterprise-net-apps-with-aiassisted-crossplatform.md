@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sam Basu", "Colin Whitlatch"]
 channel: "Microsoft Developer"
 duration_min: 24
 published_at: 2026-06-03T12:37:13Z
 video_id: djj1Cu46Ipk
+url: https://www.youtube.com/watch?v=djj1Cu46Ipk
 youtube_url: https://www.youtube.com/watch?v=djj1Cu46Ipk
 tags: [".NET", "90f6fe71-8cba-465f-b53c-a3ed30e154c6_M9Z7-DEMSP394-1", "AI", "Agents", "Colin Whitlatch", "DEMSP394", "Developer", "GitHub Copilot", "OSS", "Sam Basu", "Scale enterprise .NET apps with AI‑assisted cross‑platform workflows | DEMSP394", "Visual Studio", "Visual Studio Code", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Scale enterprise .NET apps with AI‑assisted cross‑platform workflows | DEMSP394
 
-**Speaker not identified**
+**Sam Basu, Colin Whitlatch**
 
 `Microsoft Build` · `Build 2026` · `2026` · `24 min`
 

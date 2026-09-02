@@ -7,11 +7,12 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Milan Williams", "Katrina Liu"]
 channel: "Agentic AI Foundation"
 duration_min: 18
 published_at: 2026-04-13T23:18:15Z
 video_id: iYouIi6QBn8
+url: https://www.youtube.com/watch?v=iYouIi6QBn8
 youtube_url: https://www.youtube.com/watch?v=iYouIi6QBn8
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # If You Can Secure It Here, You Can Secure It Anywhere - Milan Williams & Katrina Liu, Semgrep
 
-**Speaker not identified**
+**Milan Williams, Katrina Liu**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `18 min`
 

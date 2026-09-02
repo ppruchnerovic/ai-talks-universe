@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 30
 published_at: 2026-02-25T15:00:53Z
 video_id: TlC7jq4ooSM
+url: https://www.youtube.com/watch?v=TlC7jq4ooSM
 youtube_url: https://www.youtube.com/watch?v=TlC7jq4ooSM
 tags: ["AI Engineering", "AI Native DevCon", "AI Native Development", "Agentic development processes", "Building a software factory", "Context as Code", "Tessl", "Tessl software factory", "Understanding Tessl's vision", "What is harness engineering", "ainativedev"]
 transcript: true

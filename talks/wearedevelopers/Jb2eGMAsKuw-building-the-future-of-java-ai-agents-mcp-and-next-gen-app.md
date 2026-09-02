@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T12:50:00+00:00
 video_id: Jb2eGMAsKuw
+url: https://www.youtube.com/watch?v=Jb2eGMAsKuw
 youtube_url: https://www.youtube.com/watch?v=Jb2eGMAsKuw
 tags: ["AI Agents", "AI Coding Assistants", "Java", "LangChain", "Large Language Models (LLMs)", "Quarkus"]
 transcript: true

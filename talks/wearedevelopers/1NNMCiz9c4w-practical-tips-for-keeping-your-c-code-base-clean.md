@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 23
 published_at: 2026-07-09T14:10:00+00:00
 video_id: 1NNMCiz9c4w
+url: https://www.youtube.com/watch?v=1NNMCiz9c4w
 youtube_url: https://www.youtube.com/watch?v=1NNMCiz9c4w
 tags: ["Languages & Runtimes", "Best Practices", "C#", "Code Reviews", "Legacy"]
 transcript: true

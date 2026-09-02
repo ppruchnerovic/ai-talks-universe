@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2026-02-11T12:01:09Z
 video_id: AdTICbCjszk
+url: https://www.youtube.com/watch?v=AdTICbCjszk
 youtube_url: https://www.youtube.com/watch?v=AdTICbCjszk
 tags: ["SoftwareArchitecture", "SystemDesign", "SoftwareEngineering", "TheInfoQPodcast", "AI", "GradyBooch"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Klorida Miraj", "Nazmus Sakib"]
 channel: "Microsoft Developer"
 duration_min: 29
 published_at: 2026-06-03T10:40:31Z
 video_id: FzcEGNe_twk
+url: https://www.youtube.com/watch?v=FzcEGNe_twk
 youtube_url: https://www.youtube.com/watch?v=FzcEGNe_twk
 tags: ["Agent Observability", "Agents on Windows", "Containment", "Klorida Miraj", "Nazmus Sakib", "OD853", "OD853_v1", "Security", "Security for AI and Agent Augmented Coding on Windows | OD853", "Windows", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Security for AI and Agent Augmented Coding on Windows | OD853
 
-**Speaker not identified**
+**Klorida Miraj, Nazmus Sakib**
 
 `Microsoft Build` · `Build 2026` · `2026` · `29 min`
 

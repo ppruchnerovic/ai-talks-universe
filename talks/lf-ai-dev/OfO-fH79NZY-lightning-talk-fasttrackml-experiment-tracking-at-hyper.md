@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 7
 published_at: 2023-12-18T18:33:07Z
 video_id: OfO-fH79NZY
+url: https://www.youtube.com/watch?v=OfO-fH79NZY
 youtube_url: https://www.youtube.com/watch?v=OfO-fH79NZY
 tags: []
 transcript: false

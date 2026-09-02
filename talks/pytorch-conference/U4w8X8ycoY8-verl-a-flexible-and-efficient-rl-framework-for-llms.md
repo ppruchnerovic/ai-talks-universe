@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Hongpeng Guo", "Ziheng Jiang"]
 channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: U4w8X8ycoY8
+url: https://www.youtube.com/watch?v=U4w8X8ycoY8
 youtube_url: https://www.youtube.com/watch?v=U4w8X8ycoY8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Verl: A Flexible and Efficient RL Framework for LLMs - Hongpeng Guo & Ziheng Jiang, ByteDance Seed
 
-**Speaker not identified**
+**Hongpeng Guo, Ziheng Jiang**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `25 min`
 

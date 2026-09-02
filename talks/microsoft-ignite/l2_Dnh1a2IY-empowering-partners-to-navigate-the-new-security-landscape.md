@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Naohiro Fukatani", "Heather Gordon", "Herain Oberoi"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-26T10:13:41Z
 video_id: l2_Dnh1a2IY
+url: https://www.youtube.com/watch?v=l2_Dnh1a2IY
 youtube_url: https://www.youtube.com/watch?v=l2_Dnh1a2IY
 tags: ["Empowering Partners to Navigate the New Security Landscape | PBRK273", "Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK273", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Empowering Partners to Navigate the New Security Landscape | PBRK273
 
-**Speaker not identified**
+**Naohiro Fukatani, Heather Gordon, Herain Oberoi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

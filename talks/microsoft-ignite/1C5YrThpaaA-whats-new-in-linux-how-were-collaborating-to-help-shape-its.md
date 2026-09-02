@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Vincent Batts", "Chris Quinn", "Andrew Randall"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T09:21:03Z
 video_id: 1C5YrThpaaA
+url: https://www.youtube.com/watch?v=1C5YrThpaaA
 youtube_url: https://www.youtube.com/watch?v=1C5YrThpaaA
 tags: ["AI Infrastructure", "Advanced (300)", "Azure", "Azure Arc", "BRK228", "Breakout", "Chris Quinn", "Cloud Management", "English (US)", "Infrastructure", "Infrastructure-Curated", "Kubernetes", "Technical", "Vincent Batts", "What’s new in Linux: How we’re collaborating to help shape its future | BRK228", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # What’s new in Linux: How we’re collaborating to help shape its future | BRK228
 
-**Speaker not identified**
+**Vincent Batts, Chris Quinn, Andrew Randall**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

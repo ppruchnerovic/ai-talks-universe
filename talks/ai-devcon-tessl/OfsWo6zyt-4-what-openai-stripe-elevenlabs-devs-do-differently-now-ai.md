@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 66
 published_at: 2026-04-28T14:00:09Z
 video_id: OfsWo6zyt-4
+url: https://www.youtube.com/watch?v=OfsWo6zyt-4
 youtube_url: https://www.youtube.com/watch?v=OfsWo6zyt-4
 tags: ["AI DevCon London 2026", "AI Engineer London", "AI Native Dev", "AI development", "AI native development", "CI/CD", "ElevenLabs", "OpenAI", "Stripe", "agentic coding", "ainativedev", "automated code review", "automated code review benefits", "context engineering", "how is CI/CD changing"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 35
 published_at: 2026-07-10T12:20:00+00:00
 video_id: 1VUPBZ4WmfI
+url: https://www.youtube.com/watch?v=1VUPBZ4WmfI
 youtube_url: https://www.youtube.com/watch?v=1VUPBZ4WmfI
 tags: ["Developer Experience", "AI Coding Assistants", "Legacy", "Productivity"]
 transcript: true

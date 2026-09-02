@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Fotis Adamakis"]
 channel: "Devoxx"
 duration_min: 40
 published_at: 2025-10-02T12:30:41Z
 video_id: szlyZm6q2xY
+url: https://www.youtube.com/watch?v=szlyZm6q2xY
 youtube_url: https://www.youtube.com/watch?v=szlyZm6q2xY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Front end development in 2040 by Fotis Adamakis
 
-**Speaker not identified**
+**Fotis Adamakis**
 
 `Devoxx` · `Devoxx` · `2025` · `40 min`
 

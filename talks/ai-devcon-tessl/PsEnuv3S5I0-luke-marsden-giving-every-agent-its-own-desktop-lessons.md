@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-06T06:43:51Z
 video_id: PsEnuv3S5I0
+url: https://www.youtube.com/watch?v=PsEnuv3S5I0
 youtube_url: https://www.youtube.com/watch?v=PsEnuv3S5I0
 tags: ["AI DevCon", "AI Native DevCo", "AI development", "Claude Code", "Claude Code use cases", "Codex", "Helix ML", "Zed IDE integration", "agent collaboration", "agent infrastructure", "agentic coding", "ainativedev", "how to use multiple agents", "spec driven development", "what is agent collaboration"]
 transcript: true

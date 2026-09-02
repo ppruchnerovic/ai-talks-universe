@@ -12,6 +12,7 @@ channel: "Snowflake Developers"
 duration_min: 23
 published_at: null
 video_id: XOJ_QuriBmA
+url: https://www.youtube.com/watch?v=XOJ_QuriBmA
 youtube_url: https://www.youtube.com/watch?v=XOJ_QuriBmA
 tags: []
 transcript: false

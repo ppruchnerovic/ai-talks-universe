@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Susanne Kaiser", "James Lewis"]
 channel: "GOTO Conferences"
 duration_min: 30
 published_at: 2026-02-05T13:00:45Z
 video_id: NwtE82Wzs_U
+url: https://www.youtube.com/watch?v=NwtE82Wzs_U
 youtube_url: https://www.youtube.com/watch?v=NwtE82Wzs_U
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Susanne Kaiser", "James Lewis", "Architecture for Flow", "Team Topologies", "Wardley Mapping", "DDD", "Domain-Driven Design", "Context Mapping", "Event Storming", "Flow Engineering", "Conway's Law"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Architecture for Flow • Susanne Kaiser & James Lewis • GOTO 2026
 
-**Speaker not identified**
+**Susanne Kaiser, James Lewis**
 
 `GOTO Conferences` · `GOTO` · `2026` · `30 min`
 

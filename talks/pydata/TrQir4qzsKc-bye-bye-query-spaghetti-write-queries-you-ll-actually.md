@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 32
 published_at: 2025-11-23T14:33:51Z
 video_id: TrQir4qzsKc
+url: https://www.youtube.com/watch?v=TrQir4qzsKc
 youtube_url: https://www.youtube.com/watch?v=TrQir4qzsKc
 tags: ["Apache Spark", "BigQuery", "Conference", "Databricks", "Pipelined SQL", "PyConDE", "PyData", "Python", "SQL", "SQL syntax", "SQL transpiler", "SQLGlot", "Tech Talk", "analytics engineering", "conference talk", "data engineering", "data transformation", "database", "query optimization"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 13
 published_at: null
 video_id: ApxLRptKsdE
+url: https://www.youtube.com/watch?v=ApxLRptKsdE
 youtube_url: https://www.youtube.com/watch?v=ApxLRptKsdE
 tags: []
 transcript: false

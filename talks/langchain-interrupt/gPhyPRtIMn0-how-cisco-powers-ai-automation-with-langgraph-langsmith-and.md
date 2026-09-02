@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 21
 published_at: null
 video_id: gPhyPRtIMn0
+url: https://www.youtube.com/watch?v=gPhyPRtIMn0
 youtube_url: https://www.youtube.com/watch?v=gPhyPRtIMn0
 tags: []
 transcript: false

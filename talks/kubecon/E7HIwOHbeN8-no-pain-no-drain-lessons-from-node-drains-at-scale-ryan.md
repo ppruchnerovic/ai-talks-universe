@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Ryan Hallisey", "Natalie Bandel"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 34
 published_at: 2026-04-09T05:27:19Z
 video_id: E7HIwOHbeN8
+url: https://www.youtube.com/watch?v=E7HIwOHbeN8
 youtube_url: https://www.youtube.com/watch?v=E7HIwOHbeN8
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # No Pain No Drain: Lessons From Node Drains at Scale - Ryan Hallisey & Natalie Bandel, NVIDIA
 
-**Speaker not identified**
+**Ryan Hallisey, Natalie Bandel**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `34 min`
 

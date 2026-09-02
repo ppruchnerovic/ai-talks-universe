@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Alexandra Zagury", "Gustavo Fuchs", "Harpreet Girn", "Bart van der Knaap"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-26T20:02:28Z
 video_id: KfPKCHFvzQE
+url: https://www.youtube.com/watch?v=KfPKCHFvzQE
 youtube_url: https://www.youtube.com/watch?v=KfPKCHFvzQE
 tags: ["English (US)", "Microsoft AI Cloud Partner Program", "PBRK423", "Partner Business", "Partner Execution at scale with SME&C | PBRK423", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partner Execution at scale with SME&C | PBRK423
 
-**Speaker not identified**
+**Alexandra Zagury, Gustavo Fuchs, Harpreet Girn, Bart van der Knaap**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

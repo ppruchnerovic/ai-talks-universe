@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 33
 published_at: 2026-07-09T12:50:00+00:00
 video_id: wpnXX0L72to
+url: https://www.youtube.com/watch?v=wpnXX0L72to
 youtube_url: https://www.youtube.com/watch?v=wpnXX0L72to
 tags: ["Software Architecture", "Agentic AI", "Software Architecture"]
 transcript: true

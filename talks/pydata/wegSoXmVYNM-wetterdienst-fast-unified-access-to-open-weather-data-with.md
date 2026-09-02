@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2026-08-04T22:21:50Z
 video_id: wegSoXmVYNM
+url: https://www.youtube.com/watch?v=wegSoXmVYNM
 youtube_url: https://www.youtube.com/watch?v=wegSoXmVYNM
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true

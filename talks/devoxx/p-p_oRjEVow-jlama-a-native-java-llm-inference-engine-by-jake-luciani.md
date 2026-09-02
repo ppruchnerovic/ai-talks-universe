@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Jake Luciani"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2024-10-11T05:08:44Z
 video_id: p-p_oRjEVow
+url: https://www.youtube.com/watch?v=p-p_oRjEVow
 youtube_url: https://www.youtube.com/watch?v=p-p_oRjEVow
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Jlama: A Native Java LLM inference engine by Jake Luciani
 
-**Speaker not identified**
+**Jake Luciani**
 
 `Devoxx` · `Devoxx` · `2024` · `51 min`
 

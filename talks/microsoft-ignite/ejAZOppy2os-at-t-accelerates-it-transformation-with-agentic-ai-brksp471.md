@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Srinivas Jayanti", "Miha Kralj", "Mark Austin"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T10:35:17Z
 video_id: ejAZOppy2os
+url: https://www.youtube.com/watch?v=ejAZOppy2os
 youtube_url: https://www.youtube.com/watch?v=ejAZOppy2os
 tags: ["4d8ea709-63ad-46b5-850c-9ffbfe467241_Segment", "AT&T accelerates IT transformation with agentic AI | BRKSP471", "Agentic business applications", "BRKSP471", "English (US)", "Mark Austin", "Miha Kralj", "Srinivas Jayanti", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AT&T accelerates IT transformation with agentic AI | BRKSP471
 
-**Speaker not identified**
+**Srinivas Jayanti, Miha Kralj, Mark Austin**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

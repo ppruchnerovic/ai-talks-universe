@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T14:10:00+00:00
 video_id: zOu_O6u3-yI
+url: https://www.youtube.com/watch?v=zOu_O6u3-yI
 youtube_url: https://www.youtube.com/watch?v=zOu_O6u3-yI
 tags: ["Languages & Runtimes", "Advocacy", "AI Coding Assistants", "AI Models", "C++", "Career Development", "Cargo", "Case Study", "Cloudflare", "Cross-Platform", "dApps", "Migration", "Polkadot", "Productivity", "PyCharm", "Python", "Rust", "Tools", "Web3"]
 transcript: true

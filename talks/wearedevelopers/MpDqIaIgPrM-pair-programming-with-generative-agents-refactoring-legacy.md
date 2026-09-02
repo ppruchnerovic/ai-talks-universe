@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T08:20:00+00:00
 video_id: MpDqIaIgPrM
+url: https://www.youtube.com/watch?v=MpDqIaIgPrM
 youtube_url: https://www.youtube.com/watch?v=MpDqIaIgPrM
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Models", "Agents", "Agentic AI", "Android", "Best Practices", "Gemini"]
 transcript: true

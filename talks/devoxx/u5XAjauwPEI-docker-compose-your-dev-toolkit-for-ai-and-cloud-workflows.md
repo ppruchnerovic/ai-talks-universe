@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Guillaume Lours"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-09T05:35:18Z
 video_id: u5XAjauwPEI
+url: https://www.youtube.com/watch?v=u5XAjauwPEI
 youtube_url: https://www.youtube.com/watch?v=u5XAjauwPEI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Docker Compose your Dev Toolkit for AI and Cloud workflows by Guillaume Lours
 
-**Speaker not identified**
+**Guillaume Lours**
 
 `Devoxx` · `Devoxx` · `2025` · `51 min`
 

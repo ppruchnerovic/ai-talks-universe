@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Howard Crow", "Derek Snyder"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-25T13:22:05Z
 video_id: kvKwQW6rQJE
+url: https://www.youtube.com/watch?v=kvKwQW6rQJE
 youtube_url: https://www.youtube.com/watch?v=kvKwQW6rQJE
 tags: ["AI", "BRK285", "Boost productivity with Copilot in Microsoft 365 apps | BRK285", "Breakout", "Copilot for M365", "Copilot in Planner", "Derek Snyder", "English (US)", "Excel", "Howard Crow", "Intermediate (200)", "Microsoft 365 Apps", "Modern Work", "Outages", "PowerPoint", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Boost productivity with Copilot in Microsoft 365 apps | BRK285
 
-**Speaker not identified**
+**Howard Crow, Derek Snyder**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

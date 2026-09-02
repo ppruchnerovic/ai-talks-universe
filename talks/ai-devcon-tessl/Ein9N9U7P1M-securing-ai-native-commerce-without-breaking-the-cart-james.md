@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2025
-speakers: []
+speakers: ["James Wickett", "Adam Dyche"]
 channel: "AI Native Dev"
 duration_min: 23
 published_at: 2025-10-01T16:56:44Z
 video_id: Ein9N9U7P1M
+url: https://www.youtube.com/watch?v=Ein9N9U7P1M
 youtube_url: https://www.youtube.com/watch?v=Ein9N9U7P1M
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # ​Securing AI-native Commerce Without Breaking the Cart - James Wickett & Adam Dyche
 
-**Speaker not identified**
+**James Wickett, Adam Dyche**
 
 `AI DevCon (Tessl)` · `Tessl` · `2025` · `23 min`
 

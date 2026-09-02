@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 40
 published_at: 2023-05-11T19:00:07Z
 video_id: yNQWjCGHV88
+url: https://www.youtube.com/watch?v=yNQWjCGHV88
 youtube_url: https://www.youtube.com/watch?v=yNQWjCGHV88
 tags: ["data science", "building startups", "dj patil", "whitehouse", "U.S. Chief Data Scientist"]
 transcript: false

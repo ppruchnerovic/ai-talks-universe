@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Matt Welsh", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 46
 published_at: 2025-12-12T13:27:25Z
 video_id: P-8N7erpC9M
+url: https://www.youtube.com/watch?v=P-8N7erpC9M
 youtube_url: https://www.youtube.com/watch?v=P-8N7erpC9M
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Death of Classical Computer Science • Matt Welsh & Julian Wood
 
-**Speaker not identified**
+**Matt Welsh, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `46 min`
 

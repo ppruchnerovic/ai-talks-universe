@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T08:20:00+00:00
 video_id: g-VnWn3P-lI
+url: https://www.youtube.com/watch?v=g-VnWn3P-lI
 youtube_url: https://www.youtube.com/watch?v=g-VnWn3P-lI
 tags: ["Languages & Runtimes", "Low Code/No Code", ".NET"]
 transcript: true

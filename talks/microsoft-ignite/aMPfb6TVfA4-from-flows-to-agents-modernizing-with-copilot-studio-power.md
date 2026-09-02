@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Jonathan Kendall", "Mustapha Lazrek"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T15:03:04Z
 video_id: aMPfb6TVfA4
+url: https://www.youtube.com/watch?v=aMPfb6TVfA4
 youtube_url: https://www.youtube.com/watch?v=aMPfb6TVfA4
 tags: ["BRK321", "English (US)", "From flows to agents: Modernizing with Copilot Studio + Power Automate | BRK321", "Innovate with low-code AI and agents", "Jonathan Kendall", "Mustapha Lazrek", "Technical", "f5n1", "fa9483e2-2a01-481d-95bc-958cccb41ca5_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From flows to agents: Modernizing with Copilot Studio + Power Automate | BRK321
 
-**Speaker not identified**
+**Jonathan Kendall, Mustapha Lazrek**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Natacha Crooks"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2025-05-29T14:10:48Z
 video_id: hSEl_Te-t1o
+url: https://www.youtube.com/watch?v=hSEl_Te-t1o
 youtube_url: https://www.youtube.com/watch?v=hSEl_Te-t1o
 tags: ["distributed systems tutorial", "concurrency control", "database tutorial", "ChatGPT", "artificial intelligence", "machine learning", "concurrent scheduling", "performance optimization", "fault tolerance", "parallel operations", "high throughput systems", "Python tutorial", "system design", "scalability", "load balancing", "distributed computing", "microservices", "service mesh", "event sourcing", "CQRS", "eventual consistency", "CAP theorem", "consensus algorithms", "replication"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From Concurrency Control to Concurrent Scheduling
 
-**Speaker not identified**
+**Natacha Crooks**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `37 min`
 

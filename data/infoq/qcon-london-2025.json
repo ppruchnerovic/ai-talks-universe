@@ -1,0 +1,1533 @@
+{
+  "edition": "qcon-london-2025",
+  "name": "QCon London 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:38:43+00:00",
+  "count": 75,
+  "talks": {
+    "advanced-message-queuing": {
+      "slug": "advanced-message-queuing",
+      "page_url": "https://www.infoq.com/presentations/advanced-message-queuing/",
+      "has_transcript": true,
+      "title": "Advanced Message Queuing Politics",
+      "description": "John O'Hara shares the compelling 18-year saga of the Advanced Message Queuing Protocol (AMQP), detailing its evolution from a JPMorgan business problem to an international ISO standard. He explains the technical and political challenges, emphasizing the critical role of open standards in preventing vendor lock-in and fostering robust, universal messaging solutions.\n\nJohn O'Hara is a fintech entrepreneur, advisor, and angel investor. He holds non-executive director positions at Adaptive Financial Technology and Taskize, the latter he co-founded and sold to Euroclear. A past JPMorgan Distinguished Engineer, John also served as Chief Architect for Merrill Lynch, Bank of America, BP Trading, and RBS/NatWest. He is the inventor of AMQP.",
+      "speakers": [
+        "John O'Hara"
+      ],
+      "duration_s": 3257,
+      "published_at": "2025-08-08T09:57:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-queuingpolitics.mp4",
+      "id": "iq-advanced-message-queuing",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7696,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-agents-development": {
+      "slug": "ai-agents-development",
+      "page_url": "https://www.infoq.com/presentations/ai-agents-development/",
+      "has_transcript": true,
+      "title": "Making AI Agents Work for You (and Your Team)",
+      "description": "Hannah Foxwell discusses the design and implementation of AI agent teams, providing a practical example of a multi-agent system for prioritizing vulnerabilities. She argues that instead of using AI for a \"20% productivity boost,\" engineering should use it to automate \"toil\" and reshape organizational structures, empowering humans to focus on creative, high-value work that  drives business growth.\n\nHannah Foxwell has over a decade of experience in platform engineering, being curious about the tools, technologies, processes and practices that make life better for the people involved in software development, using this knowledge to build happy, high-performing engineering teams. Hannah now works as an independent consultant at the intersection of platform engineering, security and AI.",
+      "speakers": [
+        "Hannah Foxwell"
+      ],
+      "duration_s": 2295,
+      "published_at": "2025-08-22T09:33:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-aiagentswork.mp4",
+      "id": "iq-ai-agents-development",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5979,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-coding-agents": {
+      "slug": "ai-coding-agents",
+      "page_url": "https://www.infoq.com/presentations/ai-coding-agents/",
+      "has_transcript": true,
+      "title": "From Autocomplete to Agents: AI Coding State of Play",
+      "description": "Birgitta Böckeler shares a clear-eyed view of how AI agents are changing software development. She discusses the potential productivity gains, the risks of \"vibe coding\", and the long-term impact on code quality and maintainability. She explains how to effectively and sustainably work with these tools.\n\nBirgitta Böckeler works at Thoughtworks where she is currently the Global Lead for AI-assisted Software Delivery. She is a software developer, architect and technical leader with about 20 years of experience in technology. Her career in software delivery consulting has given her the opportunity to see many organizations and teams succeed and fail at delivering valuable software.",
+      "speakers": [
+        "Birgitta Böckeler"
+      ],
+      "duration_s": 2982,
+      "published_at": "2025-08-13T09:04:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-autocompleteagents.mp4",
+      "id": "iq-ai-coding-agents",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7918,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-food-image-generation": {
+      "slug": "ai-food-image-generation",
+      "page_url": "https://www.infoq.com/presentations/ai-food-image-generation/",
+      "has_transcript": true,
+      "title": "AI for Food Image Generation in Production: How & Why",
+      "description": "Iaroslav Amerkhanov shares the story of building an AI-powered image generation system at Delivery Hero. He explains the technical decisions, including model fine-tuning, architecture design, and cost optimization, that enabled the team to successfully scale the project and prove a positive business impact.\n\nIaroslav Amerkhanov pioneered projects in Food Science at Delivery Hero and is now focused on generative AI solutions. He previously founded an EdTech startup and co-founded a sentiment analysis platform.",
+      "speakers": [
+        "Iaroslav Amerkhanov"
+      ],
+      "duration_s": 2686,
+      "published_at": "2025-08-27T12:33:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-foodimagegen.mp4",
+      "id": "iq-ai-food-image-generation",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5502,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-healthcare-learnings": {
+      "slug": "ai-healthcare-learnings",
+      "page_url": "https://www.infoq.com/presentations/ai-healthcare-learnings/",
+      "has_transcript": true,
+      "title": "Lessons Learned from Shipping AI-Powered Healthcare Products",
+      "description": "Clara Matos discusses the journey of shipping AI-powered healthcare products at Sword Health. She explains how to implement input/output guardrails for regulated industries and shares a framework for robust evaluations using human and LLM-based ratings. From prompt engineering to RAG and user feedback loops, she shares a data-driven roadmap for building reliable AI care agents at scale.\n\nClara Matos is Head of AI Engineering @Sword Health, focused on building and scaling machine learning systems.",
+      "speakers": [
+        "Clara Matos"
+      ],
+      "duration_s": 2569,
+      "published_at": "2025-12-19T10:05:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-aipowered.mp4",
+      "id": "iq-ai-healthcare-learnings",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5010,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-precision-rag-agents": {
+      "slug": "ai-precision-rag-agents",
+      "page_url": "https://www.infoq.com/presentations/ai-precision-rag-agents/",
+      "has_transcript": true,
+      "title": "Achieving Precision in AI: Retrieving the Right Data Using AI Agents",
+      "description": "Adi Polak explains the path from GenAI prototype to production by focusing on precision - the competitive edge. She details Agentic RAG architectures, emergent agent design patterns, and crucial feedback loops (LLM-as-a-judge) for refinement. Learn how to leverage data streaming (Kafka) to manage collaboration, memory, and scale microservices in real-time agent systems.\n\nAdi Polak is an experienced Software Engineer and people manager. She has worked with data and machine learning for operations and analytics for over a decade. As a data practitioner, she developed algorithms to solve real-world problems using machine learning techniques. Adi builds high-performance teams focused on trust, excellence, and ownership.",
+      "speakers": [
+        "Adi Polak"
+      ],
+      "duration_s": 3000,
+      "published_at": "2025-11-07T14:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-precisionai.mp4",
+      "id": "iq-ai-precision-rag-agents",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7696,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-trends": {
+      "slug": "ai-trends",
+      "page_url": "https://www.infoq.com/presentations/ai-trends/",
+      "has_transcript": true,
+      "title": "The Form of AI",
+      "description": "Savannah Kunovsky, from IDEO's Emerging Tech Lab, discusses how integrating design thinking with engineering rigor is crucial for developing truly impactful AI and emerging technologies. She shares real-world examples, including an AI-powered EdTech venture, to illustrate how this approach leads to user-centered and successful innovations.\n\nSavannah Kunovsky leads organizations in creating the next generation of technology. Her work spans ecosystems – AI/ML, XR, robotics, the future of the internet, new hardware, and more. As Managing Director of IDEO's Emerging Technology Lab. Her past work includes emotion AI for mental health with Dr. John Gottman and co-founding Moringa School, a chain of tech education schools in Africa.",
+      "speakers": [
+        "Savannah Kunovsky"
+      ],
+      "duration_s": 2904,
+      "published_at": "2025-08-06T10:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-formai.mp4",
+      "id": "iq-ai-trends",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6390,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "ai-virtual-care": {
+      "slug": "ai-virtual-care",
+      "page_url": "https://www.infoq.com/presentations/ai-virtual-care/",
+      "has_transcript": true,
+      "title": "From Symptom Checkers to Smart Chatbots: the Role of AI in Virtual Care",
+      "description": "Andre Ribeiro discusses the architecture of Healthily’s AI symptom checker. He explains how Bayesian inference and RAG models bridge the gap between medical insights and confident patient action.\n\nAndre Riberio has over a decade of experience in data engineering, and currently serves as the Chief Technology Officer at Healthily, UK. He holds a PhD in Neuroimaging from Imperial College London and a master’s degree in Biomedical Engineering and Biophysics from the University of Lisbon. His focus is on applying advanced techniques to solve real-world problems across diverse domains.",
+      "speakers": [
+        "Andre Riberio"
+      ],
+      "duration_s": 2908,
+      "published_at": "2026-03-11T12:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-aivirtualcare.mp4",
+      "id": "iq-ai-virtual-care",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6693,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "architecture-scale-change": {
+      "slug": "architecture-scale-change",
+      "page_url": "https://www.infoq.com/presentations/architecture-scale-change/",
+      "has_transcript": true,
+      "title": "Architecture in the Lead: Scaling Today, Shaping Tomorrow",
+      "description": "Ian Arundale and Matthew Clark discuss the BBC's architecture for handling massive digital moments like general elections. They explain how a serverless-first approach and a focus on three key non-functional requirements - elasticity, resilience, and security - enabled them to build a highly scalable platform. They also share how architects' soft skills are crucial for implementation.\n\nMatthew Clark is Head of Architecture for many of the BBC’s online products. He’s been at the BBC for over 10 years, and has been involved in multiple projects such as covering the London 2012 Olympics, and getting BBC iPlayer working on the International Space Station. Ian Arundale is a Lead Architect shaping the future of the BBC's digital products.",
+      "speakers": [
+        "Matthew Clark",
+        "Ian Arundale"
+      ],
+      "duration_s": 3007,
+      "published_at": "2025-09-03T11:18:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-archinthelead.mp4",
+      "id": "iq-architecture-scale-change",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8272,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "arcticdb-db-no-server": {
+      "slug": "arcticdb-db-no-server",
+      "page_url": "https://www.infoq.com/presentations/arcticdb-db-no-server/",
+      "has_transcript": true,
+      "title": "How to Build a Database without a Server",
+      "description": "Alex Seaton discusses the architecture of ArcticDB, a high-performance Python/C++ library that replaces traditional database servers with a thick-client model. He explains how to achieve atomicity on object storage through bottom-up writes and shares deep insights into conflict-free replicated data types (CRDTs). He also explores the pitfalls of clock drift and distributed locking.\n\nAlex Seaton is an engineer working on ArcticDB at Man Group where his focus has been on data replication and tick streaming infrastructure. Before joining ArcticDB, Alex built trade execution and market data systems.",
+      "speakers": [
+        "Alex Seaton"
+      ],
+      "duration_s": 2545,
+      "published_at": "2026-01-07T14:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-databaseserver.mp4",
+      "id": "iq-arcticdb-db-no-server",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7353,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "autonomous-driving-data": {
+      "slug": "autonomous-driving-data",
+      "page_url": "https://www.infoq.com/presentations/autonomous-driving-data/",
+      "has_transcript": true,
+      "title": "How to Unlock Insights and Enable Discovery within Petabytes of Autonomous Driving Data",
+      "description": "Kyra Mozley discusses the evolution of autonomous vehicle perception, moving beyond expensive manual labeling to an embedding-first architecture. She explains how to leverage foundation models like CLIP and SAM for auto-labeling, RAG-inspired search, and few-shot adapters. This talk provides engineering leaders a blueprint for building modular, scalable vision systems that thrive on edge cases.\n\nKyra Mozley is a Machine Learning Engineer @ Wayve. With a background in computer vision and deep learning, Kyra leads the development of tools that leverage foundation models and embeddings to efficiently process and understand vast amounts of autonomous vehicle driving data.",
+      "speakers": [
+        "Kyra Mozley"
+      ],
+      "duration_s": 2985,
+      "published_at": "2026-01-21T15:13:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-autonomousdrivingdata.mp4",
+      "id": "iq-autonomous-driving-data",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7335,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "bigquery-data-challenges": {
+      "slug": "bigquery-data-challenges",
+      "page_url": "https://www.infoq.com/presentations/bigquery-data-challenges/",
+      "has_transcript": true,
+      "title": "Beyond the Warehouse: Why BigQuery Alone Won’t Solve Your Data Problems",
+      "description": "Sarah Usher discusses the architectural \"breaking point\" where warehouses like BigQuery struggle with latency and cost. She explains the necessity of a conceptual data lifecycle (Raw, Curated, Use Case)  to regain control over lineage and innovation. She shares practical strategies to design a single source of truth that empowers both ML teams and analytics without bottlenecking scale.\n\nSarah Usher is a software engineer specializing in data engineering, backend systems, and scalable system design. She has extensive experience across industries such as banking, insurance, developer security, and digital advertising. She has won awards for her mentorship and leadership.",
+      "speakers": [
+        "Sarah Usher"
+      ],
+      "duration_s": 2691,
+      "published_at": "2026-02-04T14:48:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-bigquery.mp4",
+      "id": "iq-bigquery-data-challenges",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6329,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "building-personal-brand": {
+      "slug": "building-personal-brand",
+      "page_url": "https://www.infoq.com/presentations/building-personal-brand/",
+      "has_transcript": true,
+      "title": "Beyond Code: Building a Personal Brand to Boost Your Career",
+      "description": "Roland Meertens and Steef-Jan Wiggers discuss actionable strategies for senior software developers and architects to build a powerful online presence. Learn how to effectively use LinkedIn, personal blogs, and community contributions like InfoQ to enhance career opportunities and establish yourself as a thought leader in the tech industry.\n\nRoland Meertens is InfoQ Editor, Machine Learning Engineer @Wayve, previously @Bumble Inc, @Annotell, and @Autonomous Intelligent Driving. Steef-Jan Wiggers is Cloud Queue Lead Editor @InfoQ, Principal Consultant Cloud/DevOps @Team Rockstars IT.",
+      "speakers": [
+        "Roland Meertens",
+        "Steef-Jan Wiggers"
+      ],
+      "duration_s": 2915,
+      "published_at": "2025-05-16T10:26:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-personalbrand.mp4",
+      "id": "mnqau29S2CA",
+      "matched_youtube": true,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7318,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "c-sharp-startup": {
+      "slug": "c-sharp-startup",
+      "page_url": "https://www.infoq.com/presentations/c-sharp-startup/",
+      "has_transcript": true,
+      "title": "Questioning Convention: C# as a Shortcut to Startup Velocity",
+      "description": "Sam Cox shares a case study on building a startup platform with C#. He explains how C#’s modern, open-source ecosystem, integrated tooling, and robust libraries enabled him to achieve high developer productivity, rapid iteration, and overcome significant performance challenges, ultimately helping the company secure its first paying customer.\n\nSam Cox is the CTO & Co-founder of Tracebit where he’s building and scaling systems to automate the use of cloud-native infrastructure. Sam has spent over a decade building critical software systems at scale, previously at Tessian where he architected resilient systems to handle high-volume email traffic for some of the world’s largest enterprises using a shuffle-sharded, cell-based design.",
+      "speakers": [
+        "Sam Cox"
+      ],
+      "duration_s": 2904,
+      "published_at": "2025-09-17T10:10:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-csharpshortcut.mp4",
+      "id": "iq-c-sharp-startup",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7872,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "cd-pair-programming": {
+      "slug": "cd-pair-programming",
+      "page_url": "https://www.infoq.com/presentations/cd-pair-programming/",
+      "has_transcript": true,
+      "title": "Continuous Delivery Is Not Possible without Pair Programming: Lessons from SpareBank 1 and SINTEF in Norway",
+      "description": "Asgaut Mjølne Söderbom and Ola Hast unravel the powerful synergy between pair programming and continuous delivery. They explain how this shift allowed their team to abandon traditional hurdles like excessive WIP, lengthy pull requests, and multiple test environments, leading to ultra-fast deployments, superior code quality, and a highly cohesive, efficient engineering team.\n\nAsgaut Mjølne Söderbom is a Senior Software Developer @SpareBank 1 Utvikling, previously worked @Bouvet, @FINN, and @TietoEVRY. Ola Hast is a Senior Software Developer @Sparebank1 Utvikling.",
+      "speakers": [
+        "Asgaut Mjølne Söderbom",
+        "Ola Hast"
+      ],
+      "duration_s": 3064,
+      "published_at": "2025-06-27T12:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-pairprogramming.mp4",
+      "id": "iq-cd-pair-programming",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7599,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "chase-scale-cloud-distributed": {
+      "slug": "chase-scale-cloud-distributed",
+      "page_url": "https://www.infoq.com/presentations/chase-scale-cloud-distributed/",
+      "has_transcript": true,
+      "title": "Scaling Cloud and Distributed Applications: Lessons and Strategies from chase.com, #1 Banking Portal in the US",
+      "description": "Durai Arasan explains the architectural strategies used to scale Chase.com to 67M+ active users. He discusses achieving high resilience through multi-region isolation, slashing latency by 71% via edge computing, and utilizing automated \"infrastructure repaving\" to eliminate security drift. He shares vital lessons on self-healing observability and building an engineering-first culture.\n\nDurai Arasan is the Managing Director and Head of Architecture for Chase.com at JP Morgan Chase. In this role, he leads transformative strategies to elevate customer experiences, drives digital innovation, accelerates cloud adoption, and advances modern application platform architecture—ensuring Chase.com remains a premier financial portal.",
+      "speakers": [
+        "Durai Arasan"
+      ],
+      "duration_s": 3036,
+      "published_at": "2025-12-17T13:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-scalingcloud.mp4",
+      "id": "iq-chase-scale-cloud-distributed",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7710,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "compliance-devops-management": {
+      "slug": "compliance-devops-management",
+      "page_url": "https://www.infoq.com/presentations/compliance-devops-management/",
+      "has_transcript": true,
+      "title": "The Way We Manage Compliance is Wrong… and is Changing! Bringing DevOps Principles to Controls and Audit",
+      "description": "Ian Miell shares the open-source Continuous Compliance Framework (CCF), a tool for modernizing audits and controls. He explains how current manual, periodic compliance fails, especially with new regulations like DORA. He demonstrates how CCF leverages DevOps principles, agent-based architecture, and the OSCAL standard to provide continuous, centralized visibility across hybrid estates.\n\nIan Miell has over twenty-five years' experience in software consulting on, writing, running, architecting, and maintaining software and infrastructure. He has written the book 'Docker in Practice' (published by Manning), 'Learn Bash the Hard Way', 'Learn Git the Hard Way', and 'Learn Terraform the Hard Way' (published on Leanpub), as well as various training courses for O'Reilly Media and others.",
+      "speakers": [
+        "Ian Miell"
+      ],
+      "duration_s": 2924,
+      "published_at": "2025-10-31T14:31:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-devopsprinciples.mp4",
+      "id": "iq-compliance-devops-management",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5919,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "corrosion": {
+      "slug": "corrosion",
+      "page_url": "https://www.infoq.com/presentations/corrosion/",
+      "has_transcript": true,
+      "title": "Fast Eventual Consistency: inside Corrosion, the Distributed System Powering Fly.io",
+      "description": "Somtochi Onyekwere explains the architecture of Corrosion, a distributed system designed for low-latency state replication. She shares how Fly.io transitioned from Consul to a gossip-based SQLite solution to handle global machine data. By discussing CRDTs, the SWIM protocol, and QUIC, she shares how to build resilient systems that prioritize speed while managing the complexities of CAP theorem.\n\nSomtochi Onyekwere is InfraOps Engineer at Fly.io. Currently working on distributed systems and networking software. Previously worked on Kubernetes @Weavework.",
+      "speakers": [
+        "Somtochi Onyekwere"
+      ],
+      "duration_s": 3013,
+      "published_at": "2026-01-09T14:10:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-fasteventualconsistency.mp4",
+      "id": "iq-corrosion",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6274,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "cultural-alignment": {
+      "slug": "cultural-alignment",
+      "page_url": "https://www.infoq.com/presentations/cultural-alignment/",
+      "has_transcript": true,
+      "title": "Beyond the Code: Hiring for Cultural Alignment",
+      "description": "Alicia Collymore discusses the critical role of cultural alignment in building high-performing engineering teams. She explains how to move beyond \"vibes\" by identifying specific attributes in company values and assessing them during coding challenges and system design sessions. She shares practical advice on using interview debriefs, assessment criteria, and \"culture add\" to drive growth.\n\nAlicia Collymore has been an engineering manager for over five years, with a dynamic career spanning multiple industries. Her experience includes leading teams of molecular biologists in biotech, and contributing to the fintech sector, specifically in developing the pay later space. Alicia currently works as an Senior Engineering Manager at incident.io.",
+      "speakers": [
+        "Alicia Collymore"
+      ],
+      "duration_s": 2367,
+      "published_at": "2026-03-13T11:41:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-culturalalignment.mp4",
+      "id": "iq-cultural-alignment",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5907,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "data-architectures-challenges": {
+      "slug": "data-architectures-challenges",
+      "page_url": "https://www.infoq.com/presentations/data-architectures-challenges/",
+      "has_transcript": true,
+      "title": "Reliable Data Flows and Scalable Platforms: Tackling Key Data Challenges",
+      "description": "Matthias Niehoff discusses how to bridge the gap between application development and data engineering. Learn to apply software engineering best practices  to data pipelines, embrace boring technologies, and simplify architecture to maximize business value and data reliability.\n\nMatthias Niehoff works as Head of Data and Data Architect for codecentric AG and supports customers in the design and implementation of data architectures. His focus is on the necessary infrastructure and organization to help data and ML projects succeed.",
+      "speakers": [
+        "Matthias Niehoff"
+      ],
+      "duration_s": 3011,
+      "published_at": "2025-11-28T09:45:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-keydatachallenges.mp4",
+      "id": "iq-data-architectures-challenges",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7465,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "distributed-systems-resiliency": {
+      "slug": "distributed-systems-resiliency",
+      "page_url": "https://www.infoq.com/presentations/distributed-systems-resiliency/",
+      "has_transcript": true,
+      "title": "Timeouts, Retries and Idempotency In Distributed Systems",
+      "description": "Sam Newman discusses the three golden rules of distributed computing and how they necessitate robust handling of timeouts, retries, and idempotency. He provides practical, data-driven strategies for implementing these principles, including using request IDs and server-side fingerprinting to create safe, resilient distributed systems.\n\nSam Newman provides consulting, training and advisory services to startups and large multi-national enterprises alike, he has over 20 years in IT as a developer, sys admin and architect. Sam is also author of the best selling Building Microservices and the forthcoming Building Resilient Distributed Systems, both from O’Reilly, and is an experienced conference speaker.",
+      "speakers": [
+        "Sam Newman"
+      ],
+      "duration_s": 3050,
+      "published_at": "2025-08-20T09:13:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-distributedsys.mp4",
+      "id": "iq-distributed-systems-resiliency",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8480,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "efficiency-paradox": {
+      "slug": "efficiency-paradox",
+      "page_url": "https://www.infoq.com/presentations/efficiency-paradox/",
+      "has_transcript": true,
+      "title": "The Efficiency Paradox and How to Save Yourself and the World",
+      "description": "Holly Cummins discusses how to eliminate waste in software development. She shares strategies like \"LightSwitchOps\" and build-time initialization to improve machine efficiency. She explains how these changes can lead to \"double wins,\" benefiting sustainability and business goals while also improving developer experience and challenging conventional ideas about productivity and efficiency.\n\nHolly Cummins is a Senior Principal Software Engineer on the Red Hat Quarkus team and a Java Champion. Over her career, Holly has been a full-stack Javascript developer, a WebSphere Liberty build architect, a client-facing consultant, a JVM performance engineer, and an innovation leader.",
+      "speakers": [
+        "Holly Cummins"
+      ],
+      "duration_s": 2895,
+      "published_at": "2025-09-26T13:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-efficiencyparadox.mp4",
+      "id": "iq-efficiency-paradox",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7189,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "event-driven-multi-cloud": {
+      "slug": "event-driven-multi-cloud",
+      "page_url": "https://www.infoq.com/presentations/event-driven-multi-cloud/",
+      "has_transcript": true,
+      "title": "Building Distributed Event-Driven Architectures across Multi-Cloud Boundaries",
+      "description": "Teena Idnani explains how to architect and build resilient event-driven distributed systems in a multi-cloud reality. Using a fictional bank's migration journey, she shares practical, code-level solutions for overcoming major challenges: managing cross-cloud latency, ensuring event ordering and consistency, building resilience by design, and preventing duplicate events.\n\nTeena Idnani is a Tech Leader currently working as a Senior Solutions Architect at Microsoft. She helps organizations in their digital transformation journey by building scalable cloud-native architectures and provides technical leadership and architectural guidance to organizations moving to Azure. In her previous role at JPMC, she was responsible for setting up the Azure platform at the bank.",
+      "speakers": [
+        "Teena Idnani"
+      ],
+      "duration_s": 2938,
+      "published_at": "2025-10-08T12:23:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-distributededa.mp4",
+      "id": "iq-event-driven-multi-cloud",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6537,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "foundation-models-ranking": {
+      "slug": "foundation-models-ranking",
+      "page_url": "https://www.infoq.com/presentations/foundation-models-ranking/",
+      "has_transcript": true,
+      "title": "Foundation Models for Ranking: Challenges, Successes, and Lessons Learned",
+      "description": "Moumita Bhattacharya discusses the evolution of Netflix’s ranking systems, from the multi-model architecture to a Unified Contextual Recommender (UniCoRn). She explains how they built a task-agnostic User Foundation Model to capture long-term member preferences. Learn how they solve system challenges like high-throughput inference and the tradeoff between relevance and personalization.\n\nMoumita Bhattacharya leads the Foundation Models Development team at Netflix. She has been actively serving as Program Committees for WebConf and is a reviewer for conferences such as RecSys, SIGIR, WebConf, AAAI, and various journals. Moumita is also an adjunct faculty in the Data Science Institute (DSI) of the University of Delaware.",
+      "speakers": [
+        "Moumita Bhattacharya"
+      ],
+      "duration_s": 2801,
+      "published_at": "2026-01-28T17:03:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-foundationmodels.mp4",
+      "id": "iq-foundation-models-ranking",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6636,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "friction-collaborative-relationships": {
+      "slug": "friction-collaborative-relationships",
+      "page_url": "https://www.infoq.com/presentations/friction-collaborative-relationships/",
+      "has_transcript": true,
+      "title": "The Friction Fix: Building Collaborative Relationships Between Teams",
+      "description": "Diana Montalion and Cat Morris discuss why large-scale transformations often fail, pinpointing six systemic friction points. They explain how architects can drive change by understanding organizational systems, designing knowledge flow, and architecting relationships. They argue that focusing on outcomes, managing resistance, and adopting a learning-driven mindset are critical to success.\n\nCat Morris is the Product Manager at Syntasso delivering Kratix She has worked in tech for over 10 years, the last 6 have been in Platform Engineering across all kinds of domains. Diana Montalion has 20+ years experience engineering and architecting software systems for organizations including Stanford, The Gates Foundation, Memorial Sloan Kettering and Teach For All.",
+      "speakers": [
+        "Cat Morris",
+        "Diana Montalion"
+      ],
+      "duration_s": 2944,
+      "published_at": "2025-09-05T11:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-frictionfix.mp4",
+      "id": "iq-friction-collaborative-relationships",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7689,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "green-it": {
+      "slug": "green-it",
+      "page_url": "https://www.infoq.com/presentations/green-it/",
+      "has_transcript": true,
+      "title": "What I Wish I Knew When I Started with Green IT",
+      "description": "Ludi Akue discusses how the tech sector’s rising emissions impact our global climate goals. Drawing from her experience as a CTO, she explains seven key lessons for implementing Green IT. She shares insights on LCA assessments, the paradox of microservices, and why FinOps doesn’t always equal green.\n\nLudi Akue is CTO at Bpifrance Digital, architecting the transformation of traditional banking infrastructure into a modern fintech platform. She leads technical strategy and innovation across 20+ digital products, orchestrating 30 engineering teams in bridging core banking systems and emerging financial technologies.",
+      "speakers": [
+        "Ludi Akue"
+      ],
+      "duration_s": 2593,
+      "published_at": "2026-03-04T12:03:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-startgreenit.mp4",
+      "id": "iq-green-it",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 4280,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "hierarchical-team": {
+      "slug": "hierarchical-team",
+      "page_url": "https://www.infoq.com/presentations/hierarchical-team/",
+      "has_transcript": true,
+      "title": "Changing Power Dynamics: What Senior Engineers Can Learn from Junior Engineers",
+      "description": "Beth Anderson discusses the \"power distance index\" and its critical role in communication. Using the Korean Air Flight 801 tragedy as a case study, she explains the dangers of hierarchy-driven silence. She shares actionable frameworks for building the four stages of psychological safety, implementing reverse mentoring, and using PRs as tools for knowledge sharing rather than gatekeeping.\n\nBeth Anderson has 30 years of industry experience and works as a Principal Software Engineer in Site Reliability Engineering at BBC Digital Distribution, the department that handles the BBCs audio and video output and currently provides 2.5 petabytes of on-demand content. Beth is a co-organizer of the London Gophers meet-up.",
+      "speakers": [
+        "Beth Anderson"
+      ],
+      "duration_s": 2969,
+      "published_at": "2025-12-26T15:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-powerdynamics.mp4",
+      "id": "iq-hierarchical-team",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7100,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "holistic-engineering": {
+      "slug": "holistic-engineering",
+      "page_url": "https://www.infoq.com/presentations/holistic-engineering/",
+      "has_transcript": true,
+      "title": "Holistic Engineering: Organic Problem Solving for Complex Evolving Systems",
+      "description": "Vanessa Formicola discusses how \"invisible\" forces shape our code and architecture. She shares patterns like \"Cirque du Soleil coding\" and \"Shared Kitchen Sinks,\" explaining why technical problems often have social roots. Architects and leaders will learn how to use Social Decision Records (SDRs) and holistic modeling to make the implicit explicit and drive success.\n\nVanessa Formicola is the Principal Architect and Head of TASC (Technology, Architecture, and Software Craft) at Prima. She brings over 15 years of industry experience, including roles at Microsoft and ThoughtWorks, and more than seven years in senior leadership positions.",
+      "speakers": [
+        "Vanessa Formicola"
+      ],
+      "duration_s": 2907,
+      "published_at": "2026-01-16T09:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-holisticengineering.mp4",
+      "id": "iq-holistic-engineering",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7699,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "hybrid-cloud-native-networking-enterprise": {
+      "slug": "hybrid-cloud-native-networking-enterprise",
+      "page_url": "https://www.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/",
+      "has_transcript": true,
+      "title": "Hybrid Cloud-Native Networking in Enterprise - Some Assembly Required",
+      "description": "Louis Ryan shares a compelling vision for modern cloud native hybrid networking. He critiques primitive network abstractions (the \"Big IP\" problem) and rigid security policies that rot and cause SPOFs. Discover how architects can elevate network functionality, bake in identity (mTLS/PKI), and leverage composability to achieve repeatable policy enforcement everywhere their applications run.\n\nLouis Ryan is CTO @solo.io, Co-Creator of Istio and gRPC.",
+      "speakers": [
+        "Louis Ryan"
+      ],
+      "duration_s": 2621,
+      "published_at": "2025-12-05T09:17:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-hybridcloudnative.mp4",
+      "id": "iq-hybrid-cloud-native-networking-enterprise",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5860,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "inclusive-leadership": {
+      "slug": "inclusive-leadership",
+      "page_url": "https://www.infoq.com/presentations/inclusive-leadership/",
+      "has_transcript": true,
+      "title": "Achieving a Culture That Works: Inclusive Leadership that Drives Lasting Success",
+      "description": "Matthew Card discusses the intersection of leadership and inclusivity at the BBC. He explains how \"changing the bar\" rather than just raising it can transform team dynamics. Covering trust, psychological safety, and his \"C.A.P.S.\" and \"D.O.S.E.\" frameworks for resilience, he shares practical strategies for engineering leaders to eliminate toxic behaviors and empower diverse talent to thrive.\n\nMatthew Card is an accomplished Software Engineering Manager, recognized as a Head of or Senior Software Engineering Manager outside the BBC, with over 17 years of industry experience. As a seasoned leader, he expertly guides both engineers and leaders, collaborates closely with architecture and product management teams, and drives meaningful change within the organization.",
+      "speakers": [
+        "Matthew Card"
+      ],
+      "duration_s": 2454,
+      "published_at": "2026-01-14T14:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-inclusiveleadership.mp4",
+      "id": "iq-inclusive-leadership",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 4952,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "infrastructure-financial-services": {
+      "slug": "infrastructure-financial-services",
+      "page_url": "https://www.infoq.com/presentations/infrastructure-financial-services/",
+      "has_transcript": true,
+      "title": "Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure",
+      "description": "Drawing on over 25 years of experience, Matthew Liste shares his 11 principles for building and maintaining resilient, scalable, and secure platforms. He explains how to deliver an intuitive experience, navigate technical debt, and foster a strong culture to create platforms that developers love.\n\nMatthew Liste is the Executive VP and Global Head of Infrastructure for American Express.He was previously at JP Morgan Chase, where he most recently served as Head of Platform Services for Global Technology Infrastructure, overseeing the design, build, and management of the bank’s platform infrastructure.",
+      "speakers": [
+        "Matthew Liste"
+      ],
+      "duration_s": 2893,
+      "published_at": "2025-08-15T11:35:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-resilientplatforms.mp4",
+      "id": "iq-infrastructure-financial-services",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7844,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "integrating-renewable-energy": {
+      "slug": "integrating-renewable-energy",
+      "page_url": "https://www.infoq.com/presentations/integrating-renewable-energy/",
+      "has_transcript": true,
+      "title": "Kraken's Serverless Architecture for Keeping the Grid Green",
+      "description": "Kevin Bowman shares how Kraken Technology balances the UK’s 30GW energy grid using renewable sources. He discusses an architectural blueprint leveraging AWS Lambda, EventBridge, and DynamoDB to manage grid-scale batteries and virtual power plants. Learn how they solve millisecond-latency frequency response and 24-hour predictive optimization to keep the lights on through a serverless stack.\n\nKevin Bowman works on the cloud platform to enable grid flexibility services at Kraken Technology, part of Octopus Energy. His background covers a wide variety of software, devops, architecture, and cloud systems, in a range of industries from telecoms to media to renewable energy.",
+      "speakers": [
+        "Kevin Bowman"
+      ],
+      "duration_s": 2949,
+      "published_at": "2026-01-23T15:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-serverlessarch.mp4",
+      "id": "iq-integrating-renewable-energy",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7792,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "jwst": {
+      "slug": "jwst",
+      "page_url": "https://www.infoq.com/presentations/jwst/",
+      "has_transcript": true,
+      "title": "A Thirteen Billion-Year-Old Photograph",
+      "description": "Kenneth Harris, a NASA veteran who worked on the James Webb Space Telescope,  shares how hardware and software engineering combine to make the $13 billion observatory function. He explains how the technology mimics the human eye to process infrared light and reveals how software engineers use data packets to transform raw data into stunning, full-color images.\n\nKenneth Harris is a Senior Project Engineer for The Aerospace Corporation contributing to both DoD and NASA payload missions. In this role, Dr. Harris is responsible for developing procedures and implementing processes to defend on orbit satellites from physical and cyber threats.",
+      "speakers": [
+        "Kenneth Harris"
+      ],
+      "duration_s": 2847,
+      "published_at": "2025-10-01T10:16:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-billionyearphoto.mp4",
+      "id": "iq-jwst",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6683,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "latency-techniques": {
+      "slug": "latency-techniques",
+      "page_url": "https://www.infoq.com/presentations/latency-techniques/",
+      "has_transcript": true,
+      "title": "Latency: the Race to Zero...Are We There Yet?",
+      "description": "Amir Langer discusses the evolution of latency reduction, from the Pony Express to modern hardware. He explains how separation of concerns - decoupling business logic from I/O - and tools like Aeron and the Disruptor achieve single-digit microsecond speeds. He shares insights into replicated state machines, consensus protocols like Raft, and the future of low-latency sequencer architectures.\n\nAmir Langer started his career with an MSc in computer science, then moved to software engineering roles, focusing on large scale distributed and high-performance low latency systems. In the finance domain, Amir was the first developer at LMAX Exchange and a team lead for many years. Now he is a principal developer at Adaptive, the home of Aeron, collaborating on future Aeron products.",
+      "speakers": [
+        "Amir Langer"
+      ],
+      "duration_s": 3045,
+      "published_at": "2026-04-10T14:28:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-latency.mp4",
+      "id": "iq-latency-techniques",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 4915,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "llm-ai-africa": {
+      "slug": "llm-ai-africa",
+      "page_url": "https://www.infoq.com/presentations/llm-ai-africa/",
+      "has_transcript": true,
+      "title": "Ecologies and Economics of Language AI in Practice",
+      "description": "Jade Abbott discusses the shift from massive, resource-heavy models to \"Little LMs\" that prioritize efficiency and cultural sustainability. She explains how techniques like LoRA, quantization, and GRPO allow for high performance with less compute. By sharing the \"Ubuntu Punk\" philosophy, she shares how to move beyond extractive data practices toward human-centric, sustainable AI systems.\n\nJade Abbott is CTO at Lelapa.AI, building language technology for Africa. She co-founded Masakhane in 2017, a grassroots organization advancing Natural Language Processing (NLP) research in African languages. Her accolades include being named one of MIT Technology Review's 35 Innovators Under 35 (2024) and a recipient of Mail & Guardian's 200 Young South Africans Award.",
+      "speakers": [
+        "Jade Abbott"
+      ],
+      "duration_s": 3019,
+      "published_at": "2025-12-24T10:27:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-ecologieseconomics.mp4",
+      "id": "iq-llm-ai-africa",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7745,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "llm-data-code-model-prompt": {
+      "slug": "llm-data-code-model-prompt",
+      "page_url": "https://www.infoq.com/presentations/llm-data-code-model-prompt/",
+      "has_transcript": true,
+      "title": "The Data Backbone of LLM Systems",
+      "description": "Drawing from his 8 years of experience in AI, Paul Iusztin breaks down the core components of a scalable architecture, emphasizing the importance of RAG. He shares practical patterns, including the Feature Training Inference architecture, and provides a detailed use case for creating a \"Second Brain\" AI assistant, covering everything from data pipelines to observability and agentic layers.\n\nPaul Iusztin is a senior AI/ML engineer with over seven years of experience building GenAI, Computer Vision and MLOps solutions. His latest contribution was at Metaphysic, where he was one of the core AI engineers who took large GPU-heavy models to production. He is co-author of the LLM Engineer's Handbook, a bestseller on Amazon, which presents a hands-on framework for building LLM applications.",
+      "speakers": [
+        "Paul Iusztin"
+      ],
+      "duration_s": 3085,
+      "published_at": "2025-09-10T13:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-databackbone.mp4",
+      "id": "iq-llm-data-code-model-prompt",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7076,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "llm-large-scale-applications": {
+      "slug": "llm-large-scale-applications",
+      "page_url": "https://www.infoq.com/presentations/llm-large-scale-applications/",
+      "has_transcript": true,
+      "title": "Building Embedding Models for Large-Scale Real-World Applications",
+      "description": "Sahil Dua discusses the critical role of embedding models in powering search and RAG applications at scale. He explains the transformer-based architecture, contrastive learning techniques, and the process of distilling large language models into production-ready student models. He shares insights on optimizing query latency, handling document indexing, and evaluating retrieval quality.\n\nSahil Dua is a Tech Lead focused on developing and adapting large language models (LLMs) with an expertise in Representation Learning. He oversees the full LLM lifecycle, from designing data pipelines and model architectures to optimizing models for highly efficient serving. Before Google, Sahil worked on the ML platform at Booking.com to scale machine learning model development and deployment.",
+      "speakers": [
+        "Sahil Dua"
+      ],
+      "duration_s": 2646,
+      "published_at": "2026-02-13T15:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-embeddingmodels.mp4",
+      "id": "iq-llm-large-scale-applications",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6947,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "local-first-build-software": {
+      "slug": "local-first-build-software",
+      "page_url": "https://www.infoq.com/presentations/local-first-build-software/",
+      "has_transcript": true,
+      "title": "Local First – How to Build Software Which Still Works after the Acquihire",
+      "description": "Alex Good discusses the fragility of modern cloud-dependent apps and shares a roadmap for \"local-first\" software. By leveraging a Git-like DAG structure and Automerge, he explains how to move from brittle client-server models to resilient systems where data lives on-device. He explores technical implementation, rich-text merging, and how this infrastructure simplifies engineering workflows.\n\nAlex Good works full time as a maintainer of the open source Automerge library. He spent a large chunk of his career building and maintaining distributed systems of ever increasing levels of complexity.",
+      "speakers": [
+        "Alex Good"
+      ],
+      "duration_s": 2638,
+      "published_at": "2026-04-08T10:37:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-localfirst.mp4",
+      "id": "iq-local-first-build-software",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7370,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "meta-orion-ar-glasses": {
+      "slug": "meta-orion-ar-glasses",
+      "page_url": "https://www.infoq.com/presentations/meta-orion-ar-glasses/",
+      "has_transcript": true,
+      "title": "Developing Meta's Orion AR Glasses",
+      "description": "Jinsong Yu shares deep architectural insights into the Orion AR glasses, detailing the use of 11 custom microcontrollers for thermal dissipation, the SLAM/VIO needed for world-locked rendering, and input fusion (EMG, eye/hand tracking). He concludes with critical lessons for technical leaders on setting direction, managing complexity through testing, and strategic hardware-software co-design.\n\nJinsong Yu is a seasoned software engineer who has led the development of multiple products in Meta, Google, Microsoft, etc. Most recently in Meta, he led the software development work of the Smart Glasses (Ray-Ban Meta) and AR Glasses (Orion) project.",
+      "speakers": [
+        "Jinsong Yu"
+      ],
+      "duration_s": 2957,
+      "published_at": "2025-11-14T10:25:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-orionarglasses.mp4",
+      "id": "iq-meta-orion-ar-glasses",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6221,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "micro-frontends-platform": {
+      "slug": "micro-frontends-platform",
+      "page_url": "https://www.infoq.com/presentations/micro-frontends-platform/",
+      "has_transcript": true,
+      "title": "The Ideal Micro-Frontends Platform",
+      "description": "Luca Mezzalira explains micro-frontends as a strategy to scale frontend architecture and organization. Learn the four key architectural decisions (Identify, Compose, Route, Communicate) and the necessity of a Platform Team and Developer Experience.\n\nLuca Mezzalira is principal solutions architect at AWS, an international speaker, and an author. Over the past 20 years, he’s mastered software architectures from frontend to the cloud, providing the right solution for the context of the job at hand.",
+      "speakers": [
+        "Luca Mezzalira"
+      ],
+      "duration_s": 2939,
+      "published_at": "2025-10-24T09:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-microfrontends.mp4",
+      "id": "iq-micro-frontends-platform",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7376,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "microservices-mocking-observability": {
+      "slug": "microservices-mocking-observability",
+      "page_url": "https://www.infoq.com/presentations/microservices-mocking-observability/",
+      "has_transcript": true,
+      "title": "Scaling API Independence: Mocking, Contract Testing & Observability in Large Microservices Environments",
+      "description": "Tom Akehurst explains strategies for overcoming microservice pain points like environment dependency and slow development. He advocates using realistic API simulation at scale, supported by contract testing , API observability, and GenAI integration. Learn to compose observations, simulations, and contracts to maximize confidence and reduce the toil of maintaining realistic, up-to-date mocks.\n\nTom Akehurst is a career software developer who’s spent over 20 years building enterprise systems, primarily as a backend Java/JVM developer but with dabblings in infrastructure/DevOps, web development and performance engineering. He is the creator of the WireMock open source API mocking tool. Lately he’s also the CTO and co-founder of WireMock, Inc.",
+      "speakers": [
+        "Tom Akehurst"
+      ],
+      "duration_s": 2751,
+      "published_at": "2025-11-05T12:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-scalingapiindependence.mp4",
+      "id": "iq-microservices-mocking-observability",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6780,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "mobile-server-driven-ui-scale": {
+      "slug": "mobile-server-driven-ui-scale",
+      "page_url": "https://www.infoq.com/presentations/mobile-server-driven-ui-scale/",
+      "has_transcript": true,
+      "title": "Mobile Server-Driven UI at Scale",
+      "description": "Rafael Ring discusses the architectural evolution of server-driven UI at Nubank, moving from static mobile binaries to a sophisticated scripted framework called Catalyst. He explains how they implemented a tree-walk interpreter in Flutter to render dynamic layouts and logic from JSON payloads.\n\nRafael Ring is a Senior Staff Software Engineer on the Mobile Platform team at Nubank, responsible for the whole infrastructure that powers Nubank's mobile applications. Working full stack for more than a decade, he enjoys dealing with complex projects that span across the whole tech stack and is always searching for ways to innovate how we build tech.",
+      "speakers": [
+        "Rafael Ring"
+      ],
+      "duration_s": 3015,
+      "published_at": "2026-03-18T12:05:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-mobileserverdriven.mp4",
+      "id": "iq-mobile-server-driven-ui-scale",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6743,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "monzo-typescript-migration": {
+      "slug": "monzo-typescript-migration",
+      "page_url": "https://www.infoq.com/presentations/monzo-typescript-migration/",
+      "has_transcript": true,
+      "title": "So You’ve Decided to Do a Technical Migration",
+      "description": "Sophie Koonin discusses the realities of large-scale technical migrations, using Monzo’s shift to TypeScript as a roadmap. She explains how to handle \"bends in the road,\" from documentation and tooling to setting measurable milestones. Koonin shares vital lessons on balancing technical debt with feature work and provides a framework for deciding if a migration is truly worth the effort.\n\nSophie Koonin is a staff engineer & web engineering lead at Monzo Bank, responsible for the web platform across the organization and working on internal tooling that powers Monzo’s award-winning customer service. Building websites since the age of 10, she’s passionate about creating inclusive, accessible and fun websites that people love.",
+      "speakers": [
+        "Sophie Koonin"
+      ],
+      "duration_s": 2979,
+      "published_at": "2026-03-06T09:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-techmigration.mp4",
+      "id": "iq-monzo-typescript-migration",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8497,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "observability-layers": {
+      "slug": "observability-layers",
+      "page_url": "https://www.infoq.com/presentations/observability-layers/",
+      "has_transcript": true,
+      "title": "From Dashboard Soup to Observability Lasagna: Building Better Layers",
+      "description": "Martha Lambert introduces the \"Observability Lasagna\" - a four-layer framework (Overview, System, Logs, Traces) focused on connecting layers for an optimized debugging UX. Learn practical tips for instrumentation, visualizing limits, and using event logs/exemplars to shift from general metrics to user-impact focused triaging. Essential for engineering leaders aiming for system reliability.\n\nMartha Lambert is a Product Engineer at incident.io. She's passionate about building products for engineers, where currently she's trying to make being paged feel good (somehow). Martha cares about building reliable, observable systems that don't feel scary to change, and the tradeoffs you make to get there.",
+      "speakers": [
+        "Martha Lambert"
+      ],
+      "duration_s": 2896,
+      "published_at": "2025-11-19T13:37:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-betterlayers.mp4",
+      "id": "iq-observability-layers",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6955,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "open-source-dependencies": {
+      "slug": "open-source-dependencies",
+      "page_url": "https://www.infoq.com/presentations/open-source-dependencies/",
+      "has_transcript": true,
+      "title": "Empower Your Developers: How Open Source Dependencies Risk Management Can Unlock Innovation",
+      "description": "Celine Pypaert discusses the ubiquitous nature of open-source software and shares a blueprint for securing modern applications. She explains how to prioritize high-risk vulnerabilities using exploitability data, the role of Software Bill of Materials (SBOM), and the importance of bridging the gap between DevOps and Security through clear accountability and automated governance.\n\nCeline Pypaert is Security Vulnerability Manager at Johnson Matthey. Celine successfully achieved a career-switch - going from manual and service work into cybersecurity by self-teaching for years, later earning a Computer Science degree. Celine is now in their second cyber leadership role.",
+      "speakers": [
+        "Celine Pypaert"
+      ],
+      "duration_s": 2681,
+      "published_at": "2026-04-15T12:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-empowerdevs.mp4",
+      "id": "iq-open-source-dependencies",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6533,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "optimal-efficiency-devex": {
+      "slug": "optimal-efficiency-devex",
+      "page_url": "https://www.infoq.com/presentations/optimal-efficiency-devex/",
+      "has_transcript": true,
+      "title": "Achieve Optimal Efficiency for Your Developer Experience Teams",
+      "description": "Fabien Deshayes discusses the strategies behind Monzo’s Developer Velocity squad. He explains the \"Platform as a Product\" mindset, emphasizing the need for engineers with product acumen and tenure. He shares actionable frameworks for measuring DevEx impact through time, money, and cognitive load, demonstrating how a small, focused team can drive massive results in a regulated environment.\n\nFabien Deshayes is a Platform Engineering Manager at Monzo, where he leads the Developer Experience team in order to meaningfully increase velocity of engineers by landing exceptional developer experiences. Prior to Monzo, Fabien worked as an Engineering Manager at Spotify where he contributed to Backstage, the open source Developer Portal.",
+      "speakers": [
+        "Fabien Deshayes"
+      ],
+      "duration_s": 3051,
+      "published_at": "2026-02-25T09:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-optimalefficiency.mp4",
+      "id": "iq-optimal-efficiency-devex",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8073,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "optimize-performance-cx-platform": {
+      "slug": "optimize-performance-cx-platform",
+      "page_url": "https://www.infoq.com/presentations/optimize-performance-cx-platform/",
+      "has_transcript": true,
+      "title": "Speed at Scale: Optimizing the Largest CX Platform out There",
+      "description": "Matheus Albuquerque shares strategies for optimizing a massive CX platform, moving from React 15 and Webpack 1 to modern standards. He discusses using AST-based codemods for large-scale migrations, implementing differential serving with module/nomodule, and leveraging Preact to shrink footprints. He explains how to balance cutting-edge performance with strict legacy browser constraints.\n\nMatheus Albuquerque is a Staff Front-End Engineer at Medallia, building their surveys platform and helping them shape the customer experience market with React. He's also a Google Developer Expert specializing in Web Performance.",
+      "speakers": [
+        "Matheus Albuquerque"
+      ],
+      "duration_s": 3006,
+      "published_at": "2026-04-17T09:20:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-cxplatform.mp4",
+      "id": "iq-optimize-performance-cx-platform",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7032,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "panel-complexity-architecture": {
+      "slug": "panel-complexity-architecture",
+      "page_url": "https://www.infoq.com/presentations/panel-complexity-architecture/",
+      "has_transcript": true,
+      "title": "Panel: Taking Architecture out of the Echo Chamber",
+      "description": "Andrew Harmel-Law and a panel of expert architects discuss the shifting practice of architecture in 2025. They explain strategies for communicating technical debt to stakeholders, the benefits of decentralized decision-making through ADRs, and the career paths of modern leaders. The panel shares insights on bridging the gap between mobile and backend teams to ensure a holistic system.\n\nAndrew Harmel-Law is Tech Principal @Thoughtworks. Cat Morris is Product Manager @Syntasso. Diana Montalion is Founder @Mentrix Group. Shana Dacres-Lawrence is Senior Principal Architect @6point6. Vanessa Formicola is Principal Architect and Head of TASC @Prima. Elena Stojmilova is Technical Lead @Open GI. Peter Hunter is Head of R&D, Tech Architect @OpenGI.",
+      "speakers": [
+        "Andrew Harmel-Law",
+        "Cat Morris",
+        "Diana Montalion",
+        "Shana Dacres-Lawrence",
+        "Vanessa Formicola",
+        "Elena Stojmilova",
+        "Peter Hunter"
+      ],
+      "duration_s": 2899,
+      "published_at": "2026-04-03T09:19:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-panelarch.mp4",
+      "id": "iq-panel-complexity-architecture",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6721,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "panel-modern-data-architectures": {
+      "slug": "panel-modern-data-architectures",
+      "page_url": "https://www.infoq.com/presentations/panel-modern-data-architectures/",
+      "has_transcript": true,
+      "title": "Panel: Modern Data Architectures",
+      "description": "The panelists emphasize that data engineering is no longer just about \"click-and-drag\" UI tools; it is software engineering applied to data.\n\nFabiane Nardon is Data Expert, Java Champion & Data Platform Director @totvs. Matthias Niehoff is Head of Data and Data Architecture @codecentric AG. Adi Polak is Director, Advocacy and Developer Experience Engineering @Confluent, Author of \"Scaling Machine Learning with Spark\" and \"High Performance Spark 2nd Edition\". Sarah Usher is Data & Backend Engineer, Community Director, Mentor.",
+      "speakers": [
+        "Fabiane Nardon",
+        "Matthias Niehoff",
+        "Adi Polak",
+        "Sarah Usher"
+      ],
+      "duration_s": 3194,
+      "published_at": "2026-02-18T09:20:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-panelmoderndata.mp4",
+      "id": "iq-panel-modern-data-architectures",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7667,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "panel-positive-culture": {
+      "slug": "panel-positive-culture",
+      "page_url": "https://www.infoq.com/presentations/panel-positive-culture/",
+      "has_transcript": true,
+      "title": "Panel: Building a Culture that Works",
+      "description": "The panelists share insights on evolving company culture. They discuss leveraging feedback loops, lending social capital, and the friction between legacy bureaucracy and agile engineering. The panel explains how to maintain cohesion in remote teams and use interviews to uncover the true \"unmanicured\" culture of a firm.\n\nNicky Wrightson is Engineering Leader @BeZero Carbon. Suhail Patel is Staff Engineer @Monzo. Lesley Cordero is Staff Software Engineer, Tech Lead @The New York Times. Matthew Card is Software Engineering Manager @BBC. Natan Žabkar Nordberg is Engineering Manager @topi.",
+      "speakers": [
+        "Nicky Wrightson",
+        "Suhail Patel",
+        "Lesley Cordero",
+        "Matthew Card",
+        "Natan Žabkar Nordberg"
+      ],
+      "duration_s": 2977,
+      "published_at": "2026-04-22T10:10:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-culturepanel.mp4",
+      "id": "iq-panel-positive-culture",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7221,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "platform-engineering-evolution": {
+      "slug": "platform-engineering-evolution",
+      "page_url": "https://www.infoq.com/presentations/platform-engineering-evolution/",
+      "has_transcript": true,
+      "title": "Your Platform is Not an Island: Embracing Evolution in Your Ecosystem",
+      "description": "Rachael Wonnacott explains why DevEx is a lever, not the destination. Discover the risks of treating your platform as an isolated product and learn how to balance trade-offs between technical expertise, productivity, and business impact for achieving enterprise-scale success.\n\nRachael Wonnacott is an accomplished software engineer who has dedicated the past decade to platforms. As Associate Director for container platform engineering at Fidelity International she helps drive platform initiatives that improve the developer experience in the enterprise environment. She currently leads the greenfield build of a strategic Kubernetes platform on AWS EKS.",
+      "speakers": [
+        "Rachael Wonnacott"
+      ],
+      "duration_s": 3012,
+      "published_at": "2025-11-26T13:35:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-evolutionecosystem.mp4",
+      "id": "iq-platform-engineering-evolution",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7675,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "platform-engineering-sociotechnical": {
+      "slug": "platform-engineering-sociotechnical",
+      "page_url": "https://www.infoq.com/presentations/platform-engineering-sociotechnical/",
+      "has_transcript": true,
+      "title": "Platform Engineering as a Practice of Sociotechnical Excellence",
+      "description": "Lesley Cordero discusses platform engineering as a practice for driving sociotechnical change and organizational sustainability. She explains the \"pendulum of tension\" between developer experience and reliability, emphasizing that architectural patterns must solve for organizational complexity. She shares a leadership framework for moving from reactive heroism to proactive stewardship.\n\nLesley Cordero is currently a Staff Software Engineer, Tech Lead at The New York Times. She has spent the majority of her career on edtech teams as an engineer, including Google for Education and other edtech startups.In her current role, she is focused on observability, shared platforms, and building excellent teams.",
+      "speakers": [
+        "Lesley Cordero"
+      ],
+      "duration_s": 3114,
+      "published_at": "2026-03-20T14:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-platformengineering.mp4",
+      "id": "iq-platform-engineering-sociotechnical",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8846,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "principal-engineer-path": {
+      "slug": "principal-engineer-path",
+      "page_url": "https://www.infoq.com/presentations/principal-engineer-path/",
+      "has_transcript": true,
+      "title": "The Principal Engineer’s Path: Skills, Strategies, and Lessons Learned",
+      "description": "Sophie Weston explains that technical careers are winding journeys, not straight ladders. Drawing on 30 years of experience, she shares how senior ICs can become \"broken combs\" by broadening skills in systems thinking and strategy. She discusses the vital role of organizational flexibility and explains how public speaking and community engagement create feedback loops for career success.\n\nSophie Weston works as Principal Engineer at ClearBank. Prior to that, she worked with Matthew Skelton (co-author of Team Topologies) helping organizations to adopt Team Topologies and fast flow ways of working.",
+      "speakers": [
+        "Sophie Weston"
+      ],
+      "duration_s": 2877,
+      "published_at": "2026-04-01T11:48:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-engpath.mp4",
+      "id": "iq-principal-engineer-path",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7456,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "productivity-enjoyment": {
+      "slug": "productivity-enjoyment",
+      "page_url": "https://www.infoq.com/presentations/productivity-enjoyment/",
+      "has_transcript": true,
+      "title": "Productivity is Messing around and Having Fun",
+      "description": "Holly Cummins & Trisha Gee explain how to achieve the \"Double Win\" - boosting both developer joy and productivity. They expose the flaws of traditional metrics, identify sources of developer toil (slow builds, flaky tests), and share methods and techniques (like boredom and play) for engineering leaders and architects to unlock creativity and a 31% boost in positive-brain productivity.\n\nHolly Cummins is Full Stack Engineer, building Quarkus @Red Hat, former Lead Consultant. Trisha Gee is Developer Champion and author of \"Head First Java\" (3rd Ed), \"97 Things Every Java Developer Should Know\", and \"Getting to Know IntelliJ IDEA\".",
+      "speakers": [
+        "Holly Cummins",
+        "Trisha Gee"
+      ],
+      "duration_s": 3001,
+      "published_at": "2025-11-12T14:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-productivity.mp4",
+      "id": "iq-productivity-enjoyment",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8409,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "rag-vllm": {
+      "slug": "rag-vllm",
+      "page_url": "https://www.infoq.com/presentations/rag-vllm/",
+      "has_transcript": true,
+      "title": "Deploy MultiModal RAG Systems with vLLM",
+      "description": "Stephen Batifol discusses building and optimizing self-hosted, multimodal RAG systems. He breaks down vector search, nearest neighbor indexes (FLAT, IVF, HNSW), and the critical role of choosing the right embedding model. He then explains vLLM inference optimization (paged attention, quantization) and uses Mistral's Pixtral to detail multimodal large language model architecture.\n\nStephen Batifol is a Developer Advocate at Zilliz. He previously worked as a Machine Learning Engineer at Wolt, where he created and worked on the ML Platform, and previously as a Data Scientist at Brevo. Stephen studied Computer Science and Artificial Intelligence. He is a founding member of the MLOps.community Berlin group, where he organizes Meetups and hackathons.",
+      "speakers": [
+        "Stephen Batifol"
+      ],
+      "duration_s": 2846,
+      "published_at": "2025-10-10T14:12:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-ragsystems.mp4",
+      "id": "iq-rag-vllm",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7456,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "revolut-devops-automation": {
+      "slug": "revolut-devops-automation",
+      "page_url": "https://www.infoq.com/presentations/revolut-devops-automation/",
+      "has_transcript": true,
+      "title": "Extreme DevOps Automation",
+      "description": "Sérgio Amorim shares how Revolut’s small DevOps team leverages a centralized systems catalog and automation to enable 1,300 engineers to build and deploy applications with speed and consistency. He explains how this approach reduces manual effort and improves observability, alerting, and database management at scale.\n\nSérgio Amorim is a software engineer with a 20-year journey through the IT world, and is currently leading the DevOps Platform Developer Experience team at Revolut. He's driven by the principle of making life easier for their clients, internal or external, so they can do incredible things. At Revolut, that means creating an efficient workflow for engineers to develop and operate their product.",
+      "speakers": [
+        "Sérgio Amorim"
+      ],
+      "duration_s": 3115,
+      "published_at": "2025-08-29T11:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-extremedevops.mp4",
+      "id": "iq-revolut-devops-automation",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6921,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "saas-mistakes": {
+      "slug": "saas-mistakes",
+      "page_url": "https://www.infoq.com/presentations/saas-mistakes/",
+      "has_transcript": true,
+      "title": "Things SaaS Builders Keep Getting Wrong",
+      "description": "Jon Topper explains 10 common mistakes in building SaaS platforms, including not baking in tenancy from day one and failing to automate tenant provisioning. He shares strategies to mitigate risk, such as calculating baseline costs, establishing a strong product philosophy, and avoiding custom, on-prem, or multi-cloud deployments to ensure a scalable and profitable business.\n\nJon Topper is the founder of The Scale Factory, an award-winning AWS partner, now part of Ten10. His team of experts help SaaS companies, and other businesses, get more out of their cloud platforms.",
+      "speakers": [
+        "Jon Topper"
+      ],
+      "duration_s": 3098,
+      "published_at": "2025-09-24T14:28:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-saasbuilders.mp4",
+      "id": "iq-saas-mistakes",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8249,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "scale-bbc-design": {
+      "slug": "scale-bbc-design",
+      "page_url": "https://www.infoq.com/presentations/scale-bbc-design/",
+      "has_transcript": true,
+      "title": "Scaling the BBC Design System: Tooling, Community, Governance and Gardening",
+      "description": "Sophie Beaumont shares how the BBC's web design system supports over 10 brands and 25 engineering teams, handling 4.8 billion requests monthly. She explains their federated contribution model, which combines automation, mandatory ownership, and a collaborative gardening approach to create a scalable, maintainable, and highly accessible system.\n\nSophie Beaumont is a Software Engineering Manager across the BBC’s centralized Web platform, having previously founded the BBC’s first dedicated Web Design System team. In her ten years in the industry, she has been on the journey from junior to principal engineer; working on digital products visited by millions of users and advocating strongly for accessible and inclusive digital experiences.",
+      "speakers": [
+        "Sophie Beaumont"
+      ],
+      "duration_s": 3079,
+      "published_at": "2025-10-03T11:46:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-bbcdesignsystem.mp4",
+      "id": "iq-scale-bbc-design",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8407,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "scaling-engineering-teams": {
+      "slug": "scaling-engineering-teams",
+      "page_url": "https://www.infoq.com/presentations/scaling-engineering-teams/",
+      "has_transcript": true,
+      "title": "Scaling to 100+ as a Director: Lessons from Growing Engineering Organizations",
+      "description": "Thiago Ghisi explains the structural shifts required as an engineering org scales from 30 to 100+ engineers. He shares how to transition from managing performance to building opinionated leadership teams and shaping long-term culture. He discusses his \"Three Levels of Impact\" framework - Org, Skip-Level, and Company - to help leaders drive strategy and secure high-level promotions.\n\nThiago Ghisi is the Director of Engineering for the Mobile Platform team at Nubank. He has nearly 20 years of experience in the software industry, having worked at companies like Apple, ThoughtWorks, and Amex. He also hosts a podcast called \"Engineering Advice You Didn't Ask For\" and writes extensively about Career & Leadership in Tech on LinkedIn & Twitter.",
+      "speakers": [
+        "Thiago Ghisi"
+      ],
+      "duration_s": 2936,
+      "published_at": "2026-02-11T14:41:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-growingengorg.mp4",
+      "id": "0eVnuQp531k",
+      "matched_youtube": true,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7164,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "secure-connectivity-api": {
+      "slug": "secure-connectivity-api",
+      "page_url": "https://www.infoq.com/presentations/secure-connectivity-api/",
+      "has_transcript": true,
+      "title": "Platforms for Secure API Connectivity with Architecture as Code",
+      "description": "Jim Gough discusses the transition from accidental architect to API program leader, explaining how to manage the complexity of secure API connectivity. He shares the Common Architecture Language Model (CALM), a framework designed to bridge the developer-security gap. By leveraging architecture patterns, engineering leaders can move from six-month review cycles to two-hour automated deployments.\n\nJames Gough is a Distinguished Engineer and API Platform Lead Architect at Morgan Stanley, where he works on API strategy, security, and developer experience. A Java Champion, author, and conference speaker, Jim has contributed to the Java Community Process, co-authored Mastering API Architecture and Optimizing Cloud Native Java (O’Reilly), and leads open-source initiatives like FINOS.",
+      "speakers": [
+        "Jim Gough"
+      ],
+      "duration_s": 2950,
+      "published_at": "2026-02-27T09:19:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-secureapiconnectivity.mp4",
+      "id": "iq-secure-connectivity-api",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8443,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "securing-ai-assistants": {
+      "slug": "securing-ai-assistants",
+      "page_url": "https://www.infoq.com/presentations/securing-ai-assistants/",
+      "has_transcript": true,
+      "title": "Securing AI Assistants: Strategies and Practices for Protecting Data",
+      "description": "Andra Lezza explains the criticality of data security for AI copilots, detailing the OWASP AI Exchange threat model and the OWASP Top 10 LLM risks. She reviews two copilot architectures - independent (single domain) and integrated (multi-tenant) - listing specific threats, controls, and best practices like granular authorization, templates, and DevSecOps to secure the entire AI data supply chain.\n\nAndra Lezza is a Principal Application Security Specialist at Sage, with over seven years of experience in the field of application security. She is responsible for implementing DevSecOps practices, conducting security assessments, and developing secure coding guidelines for software engineering and AI/ML teams. She has been co-leading the OWASP London Chapter since 2019.",
+      "speakers": [
+        "Andra Lezza"
+      ],
+      "duration_s": 2720,
+      "published_at": "2025-12-10T09:01:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-aiassistants.mp4",
+      "id": "iq-securing-ai-assistants",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6153,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "security-architecture-systemic-vulnerabilities": {
+      "slug": "security-architecture-systemic-vulnerabilities",
+      "page_url": "https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/",
+      "has_transcript": true,
+      "title": "Security and Architecture: to Betray One is to Destroy Both",
+      "description": "Shana Dacres-Lawrence explains the complex relationship between security and architecture, identifying three types of \"betrayal\" - physical, emotional, and trust - that lead to systemic failure. Drawing on real-world incidents like CrowdStrike and Change Healthcare, she shares five defense strategies: open communication, automation, tech integration, validation, and collaborative culture.\n\nShana Dacres-Lawrence is an accomplished Senior Architect with over 12 years of experience and a strong foundation in Cyber Security and Software development. Shana has played a pivotal role in architecting one of the largest cloud transformations and migrations in Europe and designed an award-winning CIAM solution for a major electricity system operator.",
+      "speakers": [
+        "Shana Dacres-Lawrence"
+      ],
+      "duration_s": 2974,
+      "published_at": "2026-03-27T09:27:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-securityarch.mp4",
+      "id": "iq-security-architecture-systemic-vulnerabilities",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5768,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "security-challenges": {
+      "slug": "security-challenges",
+      "page_url": "https://www.infoq.com/presentations/security-challenges/",
+      "has_transcript": true,
+      "title": "Panel: Security against Modern Threats",
+      "description": "The panelists discuss the dramatic escalation of software supply chain threats, from typosquatting to AI-generated vulnerabilities. They explain how to move beyond basic scanning by adopting a zero trust mindset toward CI/CD pipelines and external dependencies.\n\nSonya Moisset is Staff Security Advocate @Snyk. Andra Lezza is a Principal Application Security Specialist @Sage. Stefania Chaplin is Founder & CEO @DevStefOps. Celine Pypaert is Security Vulnerability Manager @Johnson Matthey. Emma Yuan Fang is a Senior Manager, Cloud Security Architect @EPAM.",
+      "speakers": [
+        "Sonya Moisset",
+        "Andra Lezza",
+        "Stefania Chaplin",
+        "Celine Pypaert",
+        "Emma Yuan Fang"
+      ],
+      "duration_s": 3083,
+      "published_at": "2026-03-25T09:04:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-securitypanel.mp4",
+      "id": "iq-security-challenges",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7376,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "security-workflow-team": {
+      "slug": "security-workflow-team",
+      "page_url": "https://www.infoq.com/presentations/security-workflow-team/",
+      "has_transcript": true,
+      "title": "Secure by Design: Building Security into Engineering Workflows and Teams",
+      "description": "Stefania Chaplin explains how to integrate security into engineering workflows and teams using a \"Secure by Design\" approach. Drawing on her extensive experience, she shares practical strategies for a security-first culture by focusing on people, processes, and technology, including the use of security champions and automation to improve resilience and reduce costs.\n\nStefania Chaplin specializes in cultivating clear, effective communication that unites teams and leaders across all levels of an organization. With a background in security and development, she has led multi-million pound projects and managed diverse, multicultural teams across a range of industries and countries.",
+      "speakers": [
+        "Stefania Chaplin"
+      ],
+      "duration_s": 2985,
+      "published_at": "2025-09-12T10:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-buildingsecurity.mp4",
+      "id": "iq-security-workflow-team",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7072,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "staff-professional-growth": {
+      "slug": "staff-professional-growth",
+      "page_url": "https://www.infoq.com/presentations/staff-professional-growth/",
+      "has_transcript": true,
+      "title": "Shine Bright as an IC: Growing Yourself as Your Company Grows",
+      "description": "Suhail Patel discusses how senior engineers and tech leaders must go beyond technical mastery to achieve staff-plus growth. He explains how to leverage one-to-ones, intentional interviewing (as learning opportunities), and visible writing to build influence and your network. Get practical advice on making ambitious bets and fixing organizational cracks to grow your team and company.\n\nSuhail Patel is a Staff Engineer at Monzo focused on building the Core Platform. His role involves building and maintaining Monzo's infrastructure which spans nearly two thousand microservices and leverages key infrastructure components like Kubernetes, Cassandra, Etcd and more.",
+      "speakers": [
+        "Suhail Patel"
+      ],
+      "duration_s": 3000,
+      "published_at": "2025-10-29T15:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-growingyourself.mp4",
+      "id": "iq-staff-professional-growth",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8414,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "strategic-discussions": {
+      "slug": "strategic-discussions",
+      "page_url": "https://www.infoq.com/presentations/strategic-discussions/",
+      "has_transcript": true,
+      "title": "How to Always Get Invited to Big Strategic Conversations",
+      "description": "Mark Allen discusses five key strategies for engineering leaders and architects to drive strategic impact and accelerate their careers. He explains how to identify what matters, build key cross-functional relationships, and craft an internal brand that attracts high-stakes, \"green button\" opportunities, culminating in a story of leading a project that saved his company €1 billion.\n\nMark Allen is Head of Engineering at Isometric, one of the UK's fastest growing climate tech companies. Previously, he was co-founder of VC-backed startup Ourspace; led an 80 person tech division at Spanish unicorn Glovo; and led Destination Advertising Engineering at Skyscanner.",
+      "speakers": [
+        "Mark Allen"
+      ],
+      "duration_s": 2807,
+      "published_at": "2025-10-17T09:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-bigstrategic.mp4",
+      "id": "iq-strategic-discussions",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8760,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "stream-pipeline-observability": {
+      "slug": "stream-pipeline-observability",
+      "page_url": "https://www.infoq.com/presentations/stream-pipeline-observability/",
+      "has_transcript": true,
+      "title": "From Confusion to Clarity: Advanced Observability Strategies for Media Workflows at Netflix",
+      "description": "Naveen Mareddy and Sujana Sooreddy discuss the evolution of Netflix’s media processing observability, moving from monolithic tracing to a high-cardinality analytics platform. They explain how to handle \"trace explosion\" using stream processing and a \"request-first\" tree visualization, and share how to transform raw spans into actionable business intelligence.\n\nSujana Sooreddy is a software engineer specializing in distributed and asynchronous processing systems at scale. She is currently a key member of Netflix's Content Infrastructure and Platform team. Naveen Mareddy is a Senior Staff Engineer in Netflix's Content Infrastructure Solutions (CIS) group.",
+      "speakers": [
+        "Sujana Sooreddy",
+        "Naveen Mareddy"
+      ],
+      "duration_s": 2861,
+      "published_at": "2026-01-02T09:02:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-confusionclarity.mp4",
+      "id": "iq-stream-pipeline-observability",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6706,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "swift-apps-services": {
+      "slug": "swift-apps-services",
+      "page_url": "https://www.infoq.com/presentations/swift-apps-services/",
+      "has_transcript": true,
+      "title": "Expanding Swift from Apps to Services",
+      "description": "Cory Benfield discusses the evolution of Swift from an app language to a critical tool for secure, high-scale services. He explains how Swift’s lack of a garbage collector eliminates tail latency and shares how its \"zero-cost abstractions\" rival C performance. He shares Apple’s roadmap for incremental adoption and demonstrates groundbreaking new interoperability for C++ and Java ecosystems.\n\nCory Benfield is a serial open source contributor and maintainer with more than a decade of experience building, maintaining, and innovating open source networking frameworks and protocol libraries. Currently Cory is a Senior Software Engineer at Apple, putting his skills to use on high-performance networking frameworks such as SwiftNIO, Netty, and more.",
+      "speakers": [
+        "Cory Benfield"
+      ],
+      "duration_s": 2929,
+      "published_at": "2026-02-06T10:35:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-expandingswift.mp4",
+      "id": "iq-swift-apps-services",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7879,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "team-diversity-productivity": {
+      "slug": "team-diversity-productivity",
+      "page_url": "https://www.infoq.com/presentations/team-diversity-productivity/",
+      "has_transcript": true,
+      "title": "Creating Impactful Teams across Diverse Work Environments",
+      "description": "Natan Žabkar Nordberg shares actionable strategies for creating impactful teams across diverse work environments, focusing on the link between culture, diversity, and ROI. He discusses how to build trust through early delegation, empower teams with guided autonomy (using improv examples), and improve communication via a \"session 0\" framework, offering key takeaways for all engineering leaders.\n\nNatan Žabkar Nordberg works as an Engineering Manager @topi.",
+      "speakers": [
+        "Natan Žabkar Nordberg"
+      ],
+      "duration_s": 3009,
+      "published_at": "2025-10-15T13:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-impactfulteams.mp4",
+      "id": "iq-team-diversity-productivity",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 8760,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "teams-decision-making": {
+      "slug": "teams-decision-making",
+      "page_url": "https://www.infoq.com/presentations/teams-decision-making/",
+      "has_transcript": true,
+      "title": "Empowering Teams: Decentralizing Architectural Decision-Making",
+      "description": "Peter Hunter & Elena Stojmilova share Open GI's journey from a slow, legacy monolith to a cloud-native SaaS platform. They detail how adopting Team Topologies and a decentralized architectural approach empowered teams. Key practices discussed include utilizing Domain-Driven Design to create a Context Map, implementing the Advice Process with Architectural Principles, and more.\n\nPeter Hunter is Head of R&D, Tech Architect @OpenGI, led the transformation of a legacy solution into a modern cloud-based SAAS platform. Elena Stojmilova is Technical Lead at Open GI with over 12 years of experience in software development, specializing in modernizing legacy systems and building cloud-native architectures.",
+      "speakers": [
+        "Peter Hunter",
+        "Elena Stojmilova"
+      ],
+      "duration_s": 2980,
+      "published_at": "2025-12-12T09:22:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-archdecisionmaking.mp4",
+      "id": "iq-teams-decision-making",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6923,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "transforming-primary-care": {
+      "slug": "transforming-primary-care",
+      "page_url": "https://www.infoq.com/presentations/transforming-primary-care/",
+      "has_transcript": true,
+      "title": "Transforming Primary Care: a Case Study in Evolving from Start-Up to Scale-Up",
+      "description": "Leander Vanderbijl explains how Kry navigated its scale-up phase to fix a complex, highly dependent \"spiderweb\" architecture. He shares the journey of applying Domain-Driven Design principles to group functionality and refactor existing services in situ, without stopping development. Key takeaways include moving from product-centric to functionality-centric design and using the FHIR model.\n\nLeander Vanderbijl is an engineer and architect that has worked across the entire stack and has been working at Kry/Livi for the past number of years. He has developed large enterprise applications, migrated cloud platforms, designed data query frameworks, architected integration systems and built lots and lots of APIs.",
+      "speakers": [
+        "Leander Vanderbijl"
+      ],
+      "duration_s": 3146,
+      "published_at": "2025-10-22T13:54:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-primarycare.mp4",
+      "id": "iq-transforming-primary-care",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 6780,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "trust-security-cloud-native": {
+      "slug": "trust-security-cloud-native",
+      "page_url": "https://www.infoq.com/presentations/trust-security-cloud-native/",
+      "has_transcript": true,
+      "title": "Trust No One: Securing the Modern Software Supply Chain with Zero Trust",
+      "description": "Emma Yuan Fang explains the Zero Trust mindset required to combat modern software supply chain attacks. She details security controls for dependency management, including SBOM (Software Bill of Materials), artifact signing, Git commit signing, and CI/CD hardening. Learn how to implement security gating, enforce policies as code, and manage secrets across your build and runtime environments.\n\nEmma Yuan Fang is a Senior Manager, Cloud Security Architect at EPAM, with extensive experience in cloud, DevSecOps, and security architecture & strategy. In her role, she designs and architects security solutions for cloud consulting projects. Formerly at Microsoft, she delivered cybersecurity projects and technical workshops to a diverse range of clients from tech startups to FTSE 100 firms.",
+      "speakers": [
+        "Emma Yuan Fang"
+      ],
+      "duration_s": 2841,
+      "published_at": "2025-11-21T10:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-zerotrust.mp4",
+      "id": "iq-trust-security-cloud-native",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 4944,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "wasm-components-faas": {
+      "slug": "wasm-components-faas",
+      "page_url": "https://www.infoq.com/presentations/wasm-components-faas/",
+      "has_transcript": true,
+      "title": "WASM Components are a FaaS' Best Friend",
+      "description": "Laurent Doguin shares why Wasm’s cold-start performance and security model make it the ideal FaaS runtime. He discusses the WebAssembly Component Model for polyglot interoperability and explains how to build distributed, provider-based architectures using CNCF wasmCloud and NATS. Ideal for architects looking to scale \"scale-to-zero\" infrastructure without the overhead of heavy containers.\n\nLaurent Doguin is a nerdy metal head who lives in Paris. He mostly writes code in Java and structured text in AsciiDoc. He is also a former Developer Advocate for Clever Cloud and Nuxeo where he devoted his time and expertise to helping those communities grow bigger and stronger. He now runs Developer Relations at Couchbase.",
+      "speakers": [
+        "Laurent Doguin"
+      ],
+      "duration_s": 3078,
+      "published_at": "2026-01-30T09:30:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-faasfriend.mp4",
+      "id": "vPrYHZ6KXCE",
+      "matched_youtube": true,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 7376,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "wasm-enterprise": {
+      "slug": "wasm-enterprise",
+      "page_url": "https://www.infoq.com/presentations/wasm-enterprise/",
+      "has_transcript": true,
+      "title": "WASM in the Enterprise: Secure, Portable, and Ready for Business",
+      "description": "Andrea Peruffo explains the power of server-side WebAssembly, especially on the JVM. Using Red Hat's Chicory runtime, he details how to achieve secure sandboxing, fault isolation, and cross-architecture portability without foreign function interfaces. Learn through case studies how WebAssembly solves real-world enterprise problems, including achieving 10x - 40x speedups with AOT compilation.\n\nAndrea Peruffo has nearly two decades of coding experience fueled by passion. He is a Principal Software Engineer at Red Hat, actively contributing to diverse Open Source projects, driven by both personal fulfillment and professional advancement.",
+      "speakers": [
+        "Andrea Peruffo"
+      ],
+      "duration_s": 2679,
+      "published_at": "2025-12-03T13:28:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-wasmenterprise.mp4",
+      "id": "iq-wasm-enterprise",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5159,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    },
+    "webassembly-extensions": {
+      "slug": "webassembly-extensions",
+      "page_url": "https://www.infoq.com/presentations/webassembly-extensions/",
+      "has_transcript": true,
+      "title": "How WebAssembly Components Enable Safe and Portable Software Extensions",
+      "description": "Alex Radovici explains the shift from C-ABI and scripting to the Wasm Component Model (WASI Preview 2). He shares how to build secure plugin systems that run at near-native speed across Rust, TypeScript, and C++. Architects will learn about Wasm Interface Types (WIT), resource management, and the practical lessons learned from deploying sandboxed extensions in safety-critical environments.\n\nAlex Radovici, PhD. - specializes in Operating Systems and Compiler and is a core contributor to Tock OS. He has published the first book on Tock OS kernel & application development. He has 20 years of experience in software engineering with a focus on embedded systems and IoT, with products delivered to P3, Intel, Cisco, Telekom, and OMV.",
+      "speakers": [
+        "Alex Radovici"
+      ],
+      "duration_s": 2592,
+      "published_at": "2026-02-20T09:49:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-apr-webassemblycomponents.mp4",
+      "id": "iq-webassembly-extensions",
+      "matched_youtube": false,
+      "edition": "qcon-london-2025",
+      "edition_name": "QCon London 2025",
+      "year": 2025,
+      "transcript_words": 5297,
+      "fetched_at": "2026-09-01T21:38:43+00:00"
+    }
+  }
+}

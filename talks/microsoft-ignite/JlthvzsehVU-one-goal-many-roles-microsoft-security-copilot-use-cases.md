@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nick Goodman", "Ryan Munsch"]
 channel: "Microsoft Events"
 duration_min: 35
 published_at: 2024-11-25T13:54:36Z
 video_id: JlthvzsehVU
+url: https://www.youtube.com/watch?v=JlthvzsehVU
 youtube_url: https://www.youtube.com/watch?v=JlthvzsehVU
 tags: ["BRK316", "Breakout", "Copilot for Security", "Data Security", "English (US)", "Intermediate (200)", "Microsoft Entra", "Microsoft Intune", "MicrosoftPurview", "Nick Goodman", "One goal many roles: Microsoft Security Copilot use cases for all | BRK316", "Ryan Munsch", "Security", "Security-Curated", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # One goal many roles: Microsoft Security Copilot use cases for all | BRK316
 
-**Speaker not identified**
+**Nick Goodman, Ryan Munsch**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `35 min`
 

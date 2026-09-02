@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 33
 published_at: 2026-07-10T08:20:00+00:00
 video_id: u6p3ywgZo0Q
+url: https://www.youtube.com/watch?v=u6p3ywgZo0Q
 youtube_url: https://www.youtube.com/watch?v=u6p3ywgZo0Q
 tags: ["Developer Experience", "AI Coding Assistants"]
 transcript: true

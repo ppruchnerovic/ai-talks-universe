@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 28
 published_at: null
 video_id: BW-Ht-5IxgM
+url: https://www.youtube.com/watch?v=BW-Ht-5IxgM
 youtube_url: https://www.youtube.com/watch?v=BW-Ht-5IxgM
 tags: []
 transcript: false

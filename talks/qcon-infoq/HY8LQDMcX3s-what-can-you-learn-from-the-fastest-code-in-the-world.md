@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 45
 published_at: 2024-09-23T07:19:19Z
 video_id: HY8LQDMcX3s
+url: https://www.youtube.com/watch?v=HY8LQDMcX3s
 youtube_url: https://www.youtube.com/watch?v=HY8LQDMcX3s
 tags: ["DevOps", "Software Development", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Language Oriented Programming", "Domain Specific Languages", "Performance", "InfoQ", "QCon London", "Transcript"]
 transcript: false

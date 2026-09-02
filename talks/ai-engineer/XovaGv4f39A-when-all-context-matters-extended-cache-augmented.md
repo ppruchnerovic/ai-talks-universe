@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 6
 published_at: 2026-06-28T20:00:11Z
 video_id: XovaGv4f39A
+url: https://www.youtube.com/watch?v=XovaGv4f39A
 youtube_url: https://www.youtube.com/watch?v=XovaGv4f39A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

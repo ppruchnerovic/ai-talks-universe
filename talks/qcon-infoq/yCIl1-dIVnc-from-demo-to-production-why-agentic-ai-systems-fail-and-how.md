@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 39
 published_at: 2026-06-24T09:00:24Z
 video_id: yCIl1-dIVnc
+url: https://www.youtube.com/watch?v=yCIl1-dIVnc
 youtube_url: https://www.youtube.com/watch?v=yCIl1-dIVnc
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Software Engineering", "Machine Learning", "AI Architecture", "Claude", "Anthropic"]
 transcript: true

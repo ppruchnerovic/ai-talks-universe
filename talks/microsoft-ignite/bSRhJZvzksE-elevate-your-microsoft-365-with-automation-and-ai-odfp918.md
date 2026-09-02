@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rick Scanlan"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T13:12:42Z
 video_id: bSRhJZvzksE
+url: https://www.youtube.com/watch?v=bSRhJZvzksE
 youtube_url: https://www.youtube.com/watch?v=bSRhJZvzksE
 tags: ["AI", "Automation", "Copilot", "Elevate your Microsoft 365 with automation and AI | ODFP918", "English (US)", "Enterprise work management", "Intermediate (200)", "ODFP918", "Pre-recorded", "Rick Scanlan", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Elevate your Microsoft 365 with automation and AI | ODFP918
 
-**Speaker not identified**
+**Rick Scanlan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `21 min`
 

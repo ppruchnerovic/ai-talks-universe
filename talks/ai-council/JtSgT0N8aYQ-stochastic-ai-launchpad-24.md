@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Glenn Ko"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2024-04-22T21:34:59Z
 video_id: JtSgT0N8aYQ
+url: https://www.youtube.com/watch?v=JtSgT0N8aYQ
 youtube_url: https://www.youtube.com/watch?v=JtSgT0N8aYQ
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Stochastic | AI Launchpad '24
 
-**Speaker not identified**
+**Glenn Ko**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `10 min`
 

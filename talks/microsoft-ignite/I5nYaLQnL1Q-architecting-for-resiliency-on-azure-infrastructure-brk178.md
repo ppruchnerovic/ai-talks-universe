@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Eric Henry", "Sudha Mahajan", "Jon Ormond"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T08:04:09Z
 video_id: I5nYaLQnL1Q
+url: https://www.youtube.com/watch?v=I5nYaLQnL1Q
 youtube_url: https://www.youtube.com/watch?v=I5nYaLQnL1Q
 tags: ["Architecting for resiliency on Azure Infrastructure | BRK178", "BRK178", "English (US)", "Eric Henry", "Jon Ormond", "Migrate and modernize your estate", "Sudha Mahajan", "Technical", "b6782c7e-8340-4a22-b48f-6b66b34d599f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Architecting for resiliency on Azure Infrastructure | BRK178
 
-**Speaker not identified**
+**Eric Henry, Sudha Mahajan, Jon Ormond**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

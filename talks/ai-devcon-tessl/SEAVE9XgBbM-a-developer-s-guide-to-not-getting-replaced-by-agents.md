@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 61
 published_at: 2026-03-10T14:22:21Z
 video_id: SEAVE9XgBbM
+url: https://www.youtube.com/watch?v=SEAVE9XgBbM
 youtube_url: https://www.youtube.com/watch?v=SEAVE9XgBbM
 tags: ["AI DevCon events", "AI Productivity", "AI Transformation", "AI agent management", "AIDevCon", "Coding Agents", "ainativedev", "enterprise AI rollout strategy", "good engineering practices", "how to manage AGENTS.md", "re:cinq", "re:cinq AI insights", "test coverage", "version control", "what is agentic coding"]
 transcript: true

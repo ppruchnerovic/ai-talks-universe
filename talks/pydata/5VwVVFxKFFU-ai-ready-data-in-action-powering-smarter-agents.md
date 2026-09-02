@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Violetta Mishechkina", "Chang She"]
+speakers: ["Violetta Mishechkina"]
 channel: "PyData"
 duration_min: 89
 published_at: 2025-11-23T14:33:49Z
 video_id: 5VwVVFxKFFU
+url: https://www.youtube.com/watch?v=5VwVVFxKFFU
 youtube_url: https://www.youtube.com/watch?v=5VwVVFxKFFU
 tags: ["AI agents", "AI data pipelines", "Conference", "LanceDB", "PyCon", "PyConDE", "PyData", "Python", "RAG", "Tech Talk", "data engineering", "data ingestion", "dltHub", "embeddings", "hybrid retrieval", "machine learning", "semantic search", "tutorial", "vector search"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI-Ready Data in Action: Powering Smarter Agents
 
-**Violetta Mishechkina, Chang She**
+**Violetta Mishechkina**
 
 `PyData` · `PyData` · `2025` · `89 min`
 

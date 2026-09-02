@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T08:20:00+00:00
 video_id: 8bLOMUInqYM
+url: https://www.youtube.com/watch?v=8bLOMUInqYM
 youtube_url: https://www.youtube.com/watch?v=8bLOMUInqYM
 tags: ["Languages & Runtimes", "APIs", "Best Practices", "Developer Experience (DevEx)", "NVIDIA", "Performance", "Python"]
 transcript: true

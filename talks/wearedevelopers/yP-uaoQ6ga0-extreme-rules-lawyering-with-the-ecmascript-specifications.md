@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T12:50:00+00:00
 video_id: yP-uaoQ6ga0
+url: https://www.youtube.com/watch?v=yP-uaoQ6ga0
 youtube_url: https://www.youtube.com/watch?v=yP-uaoQ6ga0
 tags: ["Languages & Runtimes", "JavaScript", "Web Standards"]
 transcript: true

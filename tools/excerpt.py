@@ -90,26 +90,47 @@ def die(msg: str) -> int:
     return 1
 
 
-def connect() -> sqlite3.Connection:
-    if not atu.TALKS_DB.exists():
-        print("building the search index (one-off)…", file=sys.stderr)
-        import build_index
-
-        build_index.main()
-    return sqlite3.connect(f"file:{atu.TALKS_DB}?mode=ro", uri=True)
-
-
 COLS = ("n id title speakers conference conference_name category edition year "
-        "duration_min youtube_url description has_transcript transcript_words").split()
+        "duration_min url youtube_url page_url description has_transcript "
+        "transcript_words").split()
+
+
+def ids_in_filename(name: str) -> list[str]:
+    """The ids a talks/<conf>/<id>-<slug>.md file name could be carrying.
+
+    The id is everything before the slug, and the slug is joined on with a
+    hyphen — the same character one YouTube id in six contains and one in
+    thirty starts with (`O72p-rBb2bA`, `-stDHMwbBRw`), and the one an InfoQ
+    id is made of (`iq-qcon-london-2026-…`). Cutting at the first hyphen was
+    wrong for all three. A YouTube id is exactly the first eleven characters;
+    anything else is tried as every hyphen-delimited prefix, longest first, so
+    the InfoQ slug wins over the shorter prefixes it contains.
+    """
+    if name.endswith(".md"):
+        name = name[:-3]
+    out = []
+    if atu.is_youtube_id(name[:11]):
+        out.append(name[:11])
+    parts = name.split("-")
+    for i in range(len(parts), 0, -1):
+        cand = "-".join(parts[:i])
+        if cand and cand not in out:
+            out.append(cand)
+    return out
 
 
 def find_talk(con, ident: str) -> dict | None:
     """Accept a video id, a YouTube URL, or the id embedded in a markdown path."""
     vid = atu.video_id(ident) or ident.strip()
-    if "/" in vid:  # talks/<conf>/<id>-<slug>.md
-        vid = vid.rsplit("/", 1)[1].split("-")[0]
-    row = con.execute(f"SELECT {','.join(COLS)} FROM talks WHERE id=?", (vid,)).fetchone()
-    return dict(zip(COLS, row)) if row else None
+    candidates = [vid]
+    if "/" in vid or vid.endswith(".md"):  # talks/<conf>/<id>-<slug>.md
+        candidates = ids_in_filename(vid.rsplit("/", 1)[-1])
+    sql = f"SELECT {','.join(COLS)} FROM talks WHERE id=?"
+    for cand in candidates:
+        row = con.execute(sql, (cand,)).fetchone()
+        if row:
+            return dict(zip(COLS, row))
+    return None
 
 
 def spans_for(starts: list[float], window: float, limit: int) -> list[tuple[float, float]]:
@@ -176,8 +197,10 @@ def hit_starts(con, talk_n: int, parsed, limit: int) -> list[float]:
 def passages(con, talk: dict, parsed, window: float, limit: int,
              opening: float) -> tuple[list[dict], int]:
     """The windows worth printing, and how many words the transcript has."""
+    # The primary tiling only: the bridge passages overlap it, and read back
+    # in sequence they would say everything twice.
     segs = con.execute(
-        "SELECT start, text FROM segments WHERE talk_n=? ORDER BY start", (talk["n"],)
+        "SELECT start, text FROM segments WHERE talk_n=? AND bridge=0 ORDER BY pos", (talk["n"],)
     ).fetchall()
     if not segs:
         return [], 0
@@ -213,17 +236,28 @@ def passages(con, talk: dict, parsed, window: float, limit: int,
 
 def render(talk: dict, parts: list[dict], total_words: int, full: bool) -> None:
     vid = talk["id"]
+    # `&t=` only means something to YouTube; an InfoQ-only talk keeps its
+    # timestamps as text rather than as links that cannot seek.
+    yt = talk["youtube_url"]
     print(f"\n## {talk['title']}")
     who = talk["speakers"] or "speaker not recorded"
     edition = talk["edition"] or talk["conference_name"]
     print(f"{who} · {talk['conference_name']} · {edition}"
           + (f" · {talk['year']}" if talk["year"] else "")
           + (f" · {talk['duration_min']} min" if talk["duration_min"] else ""))
-    print(talk["youtube_url"] or atu.WATCH.format(vid=vid))
+    print(talk["url"] or atu.watch_url(vid) or "")
 
     if talk["description"]:
         desc = " ".join(talk["description"].split())
-        print(f"\n_Description (YouTube's, not an abstract):_ {desc[:500]}"
+        # InfoQ's presentation pages carry a real abstract and a speaker bio;
+        # a YouTube description is whatever the channel pasted under the video.
+        # Saying which one this is tells the reader how much to trust it.
+        # A merged talk has both a video and an InfoQ page, and its description
+        # is the InfoQ one — so the page, not the absence of a video, is what
+        # says where these words came from.
+        origin = ("InfoQ's summary and speaker bio" if talk["page_url"]
+                  else "YouTube's, not an abstract")
+        print(f"\n_Description ({origin}):_ {desc[:500]}"
               + ("…" if len(desc) > 500 else ""))
 
     if not talk["has_transcript"]:
@@ -233,8 +267,9 @@ def render(talk: dict, parts: list[dict], total_words: int, full: bool) -> None:
 
     shown = sum(p["words"] for p in parts)
     for p in parts:
-        print(f"\n**[{query.fmt_ts(p['start'])}]"
-              f"(https://www.youtube.com/watch?v={vid}&t={int(p['start'])}s)** {p['text']}")
+        ts = query.fmt_ts(p["start"])
+        stamp = f"[{ts}]({yt}&t={int(p['start'])}s)" if yt else ts
+        print(f"\n**{stamp}** {p['text']}")
     if not full and shown < total_words:
         pct = round(100 * shown / total_words) if total_words else 0
         print(f"\n_{shown} of {total_words} words ({pct}%). "
@@ -262,7 +297,7 @@ def main() -> int:
     if not args.ids:
         ap.error("at least one video id is required")
 
-    con = connect()
+    con = atu.connect()
     out, missing = [], []
     for ident in args.ids:
         talk = find_talk(con, ident)

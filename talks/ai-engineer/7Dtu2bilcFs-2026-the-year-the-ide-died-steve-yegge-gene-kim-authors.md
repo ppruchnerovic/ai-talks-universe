@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Steve Yegge", "Gene Kim"]
 channel: "AI Engineer"
 duration_min: 25
 published_at: 2025-12-06T00:00:00Z
 video_id: 7Dtu2bilcFs
+url: https://www.youtube.com/watch?v=7Dtu2bilcFs
 youtube_url: https://www.youtube.com/watch?v=7Dtu2bilcFs
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # 2026: The Year The IDE Died — Steve Yegge & Gene Kim, Authors, Vibe Coding
 
-**Speaker not identified**
+**Steve Yegge, Gene Kim**
 
 `AI Engineer` · `AI Engineer` · `2025` · `25 min`
 

@@ -1,0 +1,549 @@
+{
+  "edition": "infoq-dev-summit-boston-2025",
+  "name": "InfoQ Dev Summit Boston 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:35:33+00:00",
+  "count": 27,
+  "talks": {
+    "ai-vector-event-driven": {
+      "slug": "ai-vector-event-driven",
+      "page_url": "https://www.infoq.com/presentations/ai-vector-event-driven/",
+      "has_transcript": true,
+      "title": "Vector Sync Patterns: Keeping AI Features Fresh When Your Data Changes",
+      "description": "Ricardo Ferreira shares five essential Vector Sync Patterns designed to solve the complex, multi-dimensional challenges of vector staleness and synchronization in AI-driven microservices. He explains how to leverage event-driven architecture (Kafka/Flink) and CDC to reliably manage data, application, and business-driven changes for architects and senior developers.\n\nRicardo Ferreira leads the developer relations team at Redis. He built a successful career with DevRel working for companies like AWS, Elastic, and Confluent.",
+      "speakers": [
+        "Ricardo Ferreira"
+      ],
+      "duration_s": 3084,
+      "published_at": "2025-10-27T13:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-vectorsync.mp4",
+      "id": "iq-ai-vector-event-driven",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7332,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "chop-rag-llm-qcon": {
+      "slug": "chop-rag-llm-qcon",
+      "page_url": "https://www.infoq.com/presentations/chop-rag-llm-qcon/",
+      "has_transcript": true,
+      "title": "AI-Driven Software Delivery: Leveraging Lean, ChOP & LLMs to Create More Effective Learning Experiences at QCon",
+      "description": "Wes Reisz discusses an experiment to deliver a QCon certification using a Retrieval-Augmented Generation (RAG) architecture and supervised coding agents (Claude Sonnet/Cursor). He breaks down the 4-week serverless video transcription pipeline, RAG variations (hybrid, graph), and the process of structuring prompts for 95% AI-generated code.\n\nWes Reisz has over 20 years of experience in software engineering, and has chaired more than 16 QCon software conferences across San Francisco, London, and New York, founded the highly respected InfoQ Podcast, and spent over a decade teaching 400-level software architecture and programming courses at the University of Louisville.",
+      "speakers": [
+        "Wesley Reisz"
+      ],
+      "duration_s": 3201,
+      "published_at": "2025-11-17T13:35:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-aidrivensoftware.mp4",
+      "id": "iq-chop-rag-llm-qcon",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 9472,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "data-frames-java": {
+      "slug": "data-frames-java",
+      "page_url": "https://www.infoq.com/presentations/data-frames-java/",
+      "has_transcript": true,
+      "title": "Are You Missing a Data Frame? The Power of Data Frames in Java",
+      "description": "Vladimir Zakharov explains how DataFrames serve as a vital tool for data-oriented programming in the Java ecosystem. By analyzing The One Billion Row Challenge, he shares how Java frameworks can outperform Python in memory management while maintaining code readability. He discusses practical use cases for senior devs, from ad-hoc data manipulation to building scalable enterprise pipelines.\n\nVladimir Zakharov is a hands-on Technical Architect with over twenty years of experience in architecture, design and implementation of scalable and sustainable applications and platforms.",
+      "speakers": [
+        "Vladimir Zakharov"
+      ],
+      "duration_s": 2955,
+      "published_at": "2026-02-09T15:02:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-dataframesjava.mp4",
+      "id": "iq-data-frames-java",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 5550,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "devops-product-engineers": {
+      "slug": "devops-product-engineers",
+      "page_url": "https://www.infoq.com/presentations/devops-product-engineers/",
+      "has_transcript": true,
+      "title": "DevOps Is for Product Engineers, Too",
+      "description": "Lesley Cordero discusses platform engineering as a sociotechnical solution for scaling organizations. She explains the CALMS framework, the \"pendulum of tension\" between reliability and velocity, and how to transition from reactive to proactive leadership. By focusing on communal learning and distributed power, she shares how to build resilient systems without sacrificing human well-being.\n\nLesley Cordero is currently a Staff Software Engineer, Tech Lead at The New York Times. She has spent the majority of her career on edtech teams as an engineer, including Google for Education and other edtech startups.",
+      "speakers": [
+        "Lesley Cordero"
+      ],
+      "duration_s": 3090,
+      "published_at": "2025-12-22T14:42:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-devopsproducteng.mp4",
+      "id": "iq-devops-product-engineers",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 8711,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "distributed-micro-frontends": {
+      "slug": "distributed-micro-frontends",
+      "page_url": "https://www.infoq.com/presentations/distributed-micro-frontends/",
+      "has_transcript": true,
+      "title": "The Ideal Micro-Frontends Platform",
+      "description": "Luca Mezzalira shares a decision framework for micro-frontends, covering composition, routing, and communication. He explains how to structure \"stream-aligned\" teams and use a \"tiger team\" for foundational architecture. He also discusses the sociotechnical benefits of reducing external dependencies and shares how to use guardrails and discovery services to achieve 25+ deployments per day.\n\nLuca Mezzalira is Principal Solutions Architect at AWS, an international speaker, and an author. Over the past 20 years, he’s mastered software architectures from frontend to the cloud, providing the right solution for the context of the job at hand.",
+      "speakers": [
+        "Luca Mezzalira"
+      ],
+      "duration_s": 2851,
+      "published_at": "2026-02-16T15:45:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-idealmicrofrontends.mp4",
+      "id": "iq-distributed-micro-frontends",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7534,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "empathy-psychological-safety": {
+      "slug": "empathy-psychological-safety",
+      "page_url": "https://www.infoq.com/presentations/empathy-psychological-safety/",
+      "has_transcript": true,
+      "title": "Empathy Driven Platforms: You Build It, Let’s Run It Together",
+      "description": "Erin Doyle explains the evolution from siloed IT Ops to the Platform Team model, revealing why the \"You Build It, You Run It\" principle created new cognitive load. She shares the Empathy-Driven Platforms strategy - the ultimate attack against engineering roadblocks. Discover ways platform teams can build empathy, foster psychological safety, and adopt a product mindset.\n\nErin Doyle is a Founding Engineer at Quotient. For the last 20+ years prior she’s been working across many domains including Full Stack Development in web and mobile as well as Platform Engineering. She’s also an instructor for Egghead.io and given talks and workshops focusing on building the best and most accessible experiences for users and engineers.",
+      "speakers": [
+        "Erin Doyle"
+      ],
+      "duration_s": 2967,
+      "published_at": "2025-12-01T12:28:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-empathyplatforms.mp4",
+      "id": "iq-empathy-psychological-safety",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7957,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "feast": {
+      "slug": "feast",
+      "page_url": "https://www.infoq.com/presentations/feast/",
+      "has_transcript": true,
+      "title": "Powering Enterprise AI Applications with Data and Open Source Software",
+      "description": "Francisco Javier Arceo explored Feast, the open-source feature store designed to address common data challenges in the AI/ML lifecycle, such as feature redundancy, and low-latency serving at scale.\n\nFrancisco Javier Arceo has spent over a decade working in AI/ML, software, and fintech at AIG, the Commonwealth Bank of Australia, Goldman Sachs, Fast, Affirm, and Red Hat. He is a maintainer for Feast, the open source feature store and a Steering Committee member for Kubeflow, the open source ecosystem of Kubernetes components for AI/ML.",
+      "speakers": [
+        "Francisco Javier Arceo"
+      ],
+      "duration_s": 2965,
+      "published_at": "2025-12-15T13:24:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-enterpriseaiapp.mp4",
+      "id": "iq-feast",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7106,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "genai-scale": {
+      "slug": "genai-scale",
+      "page_url": "https://www.infoq.com/presentations/genai-scale/",
+      "has_transcript": true,
+      "title": "GenAI at Scale: What it Enables, What it Costs, and How to Reduce the Pain",
+      "description": "Mark Kurtz explains how to overcome the technical and financial hurdles of scaling GenAI. He shares how to optimize LLM deployments with open-source tools, including vLLM for efficient serving, LLM Compressor for model compression, and InstructLab for fine-tuning with synthetic data. He provides a deep dive into balancing performance, accuracy, and cost to ensure successful production deployment.\n\nMark Kurtz is an AI Expert at Red Hat and former CTO of Neural Magic, bringing a wealth of experience in software engineering, machine learning, and startup leadership. Over 15 years, he’s built a reputation for tackling complex research and engineering challenges and driving innovative solutions that make AI more efficient, scalable, and accessible.",
+      "speakers": [
+        "Mark Kurtz"
+      ],
+      "duration_s": 2819,
+      "published_at": "2025-09-08T13:30:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-genaiatscale.mp4",
+      "id": "iq-genai-scale",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7356,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "internal-developer-portal": {
+      "slug": "internal-developer-portal",
+      "page_url": "https://www.infoq.com/presentations/internal-developer-portal/",
+      "has_transcript": true,
+      "title": "Building an Internal Developer Portal that Empowers Developers",
+      "description": "Travis Gosselin discusses how an internal developer portal (IDP) can combat the developer experience crisis. He explains how to empower engineering teams by building a business case for a developer portal, considering architectural choices, and balancing standardization with flexibility for effective adoption. He highlights the importance of reducing friction and improving fulfillment.\n\nTravis Gosselin is a Distinguished Software Engineer at SPS Commerce, the world's largest retail network, where he leads innovation, drives meaningful change, and amplifies team productivity. Travis focuses on creating seamless Developer Experiences and fostering high-performing teams. He is a seasoned speaker, architect, and blogger.",
+      "speakers": [
+        "Travis Gosselin"
+      ],
+      "duration_s": 3007,
+      "published_at": "2025-08-18T14:09:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-empowerdevs.mp4",
+      "id": "iq-internal-developer-portal",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 8911,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "java-grpc-workload": {
+      "slug": "java-grpc-workload",
+      "page_url": "https://www.infoq.com/presentations/java-grpc-workload/",
+      "has_transcript": true,
+      "title": "Java Concurrency from the Trenches: Lessons Learned in the Wild",
+      "description": "Hugo Marques explains how to navigate Java concurrency at scale, moving beyond simple frameworks to solve high-throughput IO challenges. Drawing from real-world Netflix projects, he discusses the pitfalls of nested parallel streams, managing backpressure with semaphores, and the shift from bounded executors to Virtual Threads. Learn to protect downstream services while maximizing JVM performance.\n\nHugo Marques is a software engineer at Netflix with over 10 years of experience. He has worked on Search, Developer Experience, and Customer Reviews at Amazon and Twitter. Passionate about engineering excellence, he advocates for software testing and code quality.",
+      "speakers": [
+        "Hugo Marques"
+      ],
+      "duration_s": 3008,
+      "published_at": "2026-01-12T13:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-javaconcurrency.mp4",
+      "id": "tNDbpnmlsQk",
+      "matched_youtube": true,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 8084,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "liquid-theme-system": {
+      "slug": "liquid-theme-system",
+      "page_url": "https://www.infoq.com/presentations/liquid-theme-system/",
+      "has_transcript": true,
+      "title": "Theme Systems at Scale: How to Build Highly Customizable Software",
+      "description": "Guilherme Carreiro discusses the architecture behind Shopify’s theme system, focusing on balancing extreme customizability with platform stability. He explains how they leverage Liquid as a safe DSL, optimize performance via native extensions (Rust/C), and use JSON schemas to bridge the gap between developers and merchants.\n\nGuilherme Carreiro is a Staff Developer at Shopify, where he champions the evolution of Liquid. Prior to Shopify, Guilherme led the DMN tooling team at Red Hat, delivering open‑source solutions that empowered users to build decision models with no‑code approaches. Passionate about crafting developer tools that streamline workflows and boost productivity.",
+      "speakers": [
+        "Guilherme Carreiro"
+      ],
+      "duration_s": 3054,
+      "published_at": "2026-01-26T11:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-themesystems.mp4",
+      "id": "iq-liquid-theme-system",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7551,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "llm-graph-database": {
+      "slug": "llm-graph-database",
+      "page_url": "https://www.infoq.com/presentations/llm-graph-database/",
+      "has_transcript": true,
+      "title": "Chatting with Your Knowledge Graph",
+      "description": "Jonathan Lowe explains how to connect an LLM directly to a structured graph database using a rapid prototype. He demonstrates how to use sentence embeddings and semantic search to allow natural language queries to retrieve and analyze structured data. This approach enables a local LLM to answer complex questions by leveraging the relationships within a knowledge graph.\n\nJonathan Lowe is an analytics strategist-builder with 30 years of hands-on technical and leadership experience. He envisions, sells, builds and manages fresh approaches to data-driven decision making for biopharma, agriculture, supply chain and telecom clients. He has worked at Informix, IBM, Deloitte, BCG and Pfizer, and has started two of his own companies.",
+      "speakers": [
+        "Jonathan Lowe"
+      ],
+      "duration_s": 3020,
+      "published_at": "2025-09-15T14:09:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-knowledgegraph.mp4",
+      "id": "iq-llm-graph-database",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 6512,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "maturity-architecture-cloud": {
+      "slug": "maturity-architecture-cloud",
+      "page_url": "https://www.infoq.com/presentations/maturity-architecture-cloud/",
+      "has_transcript": true,
+      "title": "Architecting Planet Scale, Modern Apps in the Cloud",
+      "description": "George Mao shares a deep dive into evolving a basic web application to a planet-scale, global architecture. He walks through five stages of maturity, focusing on adding enterprise-grade security, achieving global high availability and disaster recovery, optimizing content delivery costs with CDNs, and implementing globally consistent persistence using serverless technologies.\n\nGeorge Mao currently serves as the Head of Specialists Architects at Google Cloud. He is responsible for helping customers build and modernize large scale applications using cloud native technologies, such as AI, Serverless, and Analytics. Before joining Google, George was the Tech leader for AWS Serverless and a Distinguished Engineer at Capital One.",
+      "speakers": [
+        "George Mao"
+      ],
+      "duration_s": 2809,
+      "published_at": "2025-12-08T13:50:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-modernapps.mp4",
+      "id": "iq-maturity-architecture-cloud",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 6693,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "microservices-ai-systems": {
+      "slug": "microservices-ai-systems",
+      "page_url": "https://www.infoq.com/presentations/microservices-ai-systems/",
+      "has_transcript": true,
+      "title": "Key Lessons from Shipping AI Products beyond the Hype",
+      "description": "In this talk, Phil Calçado shares his experiences building a failed AI startup, providing a rare post-mortem view into what worked and what didn't. He explains why traditional software engineering principles - like treating agents as objects and workflows as data pipelines - are the keys to successfully building and optimizing generative AI products.\n\nPhil Calçado is the founder of Outropy, the AI developer platform for software engineers. Previously, he pioneered microservices architecture at SoundCloud during their growth from millions to hundreds of millions of users. His experience scaling systems with small teams spans roles at DigitalOcean and SeatGeek, consistently helping underdogs compete with tech giants.",
+      "speakers": [
+        "Phil Calçado"
+      ],
+      "duration_s": 2950,
+      "published_at": "2025-08-11T11:24:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-shippingaiproducts.mp4",
+      "id": "iq-microservices-ai-systems",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7930,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "ml-skills": {
+      "slug": "ml-skills",
+      "page_url": "https://www.infoq.com/presentations/ml-skills/",
+      "has_transcript": true,
+      "title": "Growing and Cultivating Strong Machine Learning Engineers",
+      "description": "Vivek Gupta shares best practices for managing and mentoring ML engineers, from early-career development to senior leadership growth. He breaks down the crucial, distinct skills for Production Machine Learning, including data/model management, building training pipelines, LLM prompt evaluation, privacy/security, and integrating human-in-the-loop processes for reliable, scalable AI systems.\n\nVivek Gupta obtained his BS in Math & Computer Science from Carnegie Mellon University and his MS in Computer Science from Indiana University. Before joining Microsoft (through the Nokia acquisition in 2014) he worked in a variety of industries doing product development and consulting. At Nokia and Microsoft the focus has been on building Machine Learning solutions at scale on Azure.",
+      "speakers": [
+        "Vivek Gupta"
+      ],
+      "duration_s": 2295,
+      "published_at": "2025-11-10T14:08:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-mlengs.mp4",
+      "id": "iq-ml-skills",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 5848,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "observability-llm": {
+      "slug": "observability-llm",
+      "page_url": "https://www.infoq.com/presentations/observability-llm/",
+      "has_transcript": true,
+      "title": "Why Observability Matters (More!) with AI Applications",
+      "description": "Sally O'Malley explains the unique observability challenges of LLMs and provides a reproducible, open-source stack for monitoring AI workloads. She demonstrates deploying Prometheus, Grafana, OpenTelemetry, and Tempo with vLLM and Llama Stack on Kubernetes. Learn to monitor critical cost, performance, and quality signals for business-critical AI applications.\n\nSally Ann O'Malley is a principal software engineer at Red Hat, where she has made significant contributions to teams within OpenShift and the Emerging Technologies organization. For the past decade, she has been instrumental in integrating cutting-edge tools and ideas into Red Hat's portfolio. Sally shares her expertise as an instructor within Boston University’s College of Data Science.",
+      "speakers": [
+        "Sally O'Malley"
+      ],
+      "duration_s": 3065,
+      "published_at": "2025-10-20T13:05:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-observabilitymatters.mp4",
+      "id": "KjFFpjKSNHM",
+      "matched_youtube": true,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 4689,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "one-testing-environment": {
+      "slug": "one-testing-environment",
+      "page_url": "https://www.infoq.com/presentations/one-testing-environment/",
+      "has_transcript": true,
+      "title": "No QA Environment? No Problem: How Classpass Enables Testing on a Single Environment in ECS",
+      "description": "Po Linn Chia shares the sociotechnical journey of ClassPass, moving from a flaky, homegrown testing framework to a dynamic routing architecture on ECS. She discusses leveraging Traefik and OpenTelemetry baggage to enable \"shadow mains\" and ephemeral feature testing. This talk provides a pragmatic blueprint for engineering leaders to increase developer velocity with a lean platform team.\n\nPo Linn Chia is a Principal Software Engineer at Mindbody/Classpass. She currently works on the reliability and scalability of backend systems, with a particular focus on observability, developer experience and bridging the gap between application engineering and DevOps. She is passionate about bringing teams together and encouraging continuous technical learning.",
+      "speakers": [
+        "Po Linn Chia"
+      ],
+      "duration_s": 2237,
+      "published_at": "2026-01-19T13:21:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-qaenvironment.mp4",
+      "id": "iq-one-testing-environment",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 5717,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "patterns-organizational-change": {
+      "slug": "patterns-organizational-change",
+      "page_url": "https://www.infoq.com/presentations/patterns-organizational-change/",
+      "has_transcript": true,
+      "title": "Scaling to 100+ as a Director: Lessons from Growing Engineering Organizations",
+      "description": "Thiago Ghisi discusses the strategic evolution required to lead 100+ engineers without breaking the organization. He explains his \"Three Levels of Impact\" framework and shares practical lessons on speeding up decision-making, cultivating leadership teams, and building organizational resilience. Learn why he views reorgs as a continuous deployment feature rather than a one-time traumatic event.\n\nThiago Ghisi is a seasoned engineering leader and former Director of Engineering at Nubank, where he scaled the Mobile Platform Org to support 100M+ users and 2000+ developers, led foundational re-architectures including full Server-Driven UI adoption, drove major app and infrastructure-wide performance improvements, and grew his team from 30 to 100+ people.",
+      "speakers": [
+        "Thiago Ghisi"
+      ],
+      "duration_s": 3069,
+      "published_at": "2026-02-02T16:23:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-growingengorg.mp4",
+      "id": "0eVnuQp531k",
+      "matched_youtube": true,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7037,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "roadmap-staff-growth": {
+      "slug": "roadmap-staff-growth",
+      "page_url": "https://www.infoq.com/presentations/roadmap-staff-growth/",
+      "has_transcript": true,
+      "title": "Your Roadmap to a Fulfilling Career: the Pillars of Staff+ Growth",
+      "description": "David Grizzanti shares a roadmap for senior software developers, architects, and engineering leaders. He discusses how to overcome the \"performance cliff\" after a promotion, navigate ambiguity, grow your influence, and shape engineering culture. He explains how to design a fulfilling career by understanding what truly motivates you beyond a job title.\n\nDavid Grizzanti is a Principal Engineer at Google focused on improving developer productivity by enabling engineering teams to more effectively and efficiently build, test, integrate and deploy software. Previously he was a Distinguished Engineer at Comcast. His areas of interests include improving infrastructure automation, open source communities, and engineering leadership.",
+      "speakers": [
+        "David Grizzanti"
+      ],
+      "duration_s": 3143,
+      "published_at": "2025-09-29T10:31:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-fulfillingcareer.mp4",
+      "id": "iq-roadmap-staff-growth",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 8083,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "scale-embedded-database": {
+      "slug": "scale-embedded-database",
+      "page_url": "https://www.infoq.com/presentations/scale-embedded-database/",
+      "has_transcript": true,
+      "title": "Scaling an Embedded Database for the Cloud – Challenges and Trade-Offs",
+      "description": "Stephanie Wang explains the journey of building MotherDuck, a serverless data warehouse, from the ground up using the in-process DuckDB. She discusses the challenges of cloudifying an embedded database, including coupled compute and storage, and details architectural choices and engineering tradeoffs made to enable cloud-native capabilities.\n\nStephanie Wang is a Staff Engineer at MongoDB, where she focuses on designing and building scalable, high-performance database systems. Previously, she was a founding engineer at MotherDuck, where she played a key role in shaping its cloud-native analytics platform built on DuckDB. Prior to that, she worked on Google BigQuery, specializing in BigQuery client libraries and connectors.",
+      "speakers": [
+        "Stephanie Wang"
+      ],
+      "duration_s": 3507,
+      "published_at": "2025-09-22T10:22:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-embeddeddatabase.mp4",
+      "id": "iq-scale-embedded-database",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7821,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "solving-cloud-infrastructure": {
+      "slug": "solving-cloud-infrastructure",
+      "page_url": "https://www.infoq.com/presentations/solving-cloud-infrastructure/",
+      "has_transcript": true,
+      "title": "Thinking Like a Detective: Solving Cloud Infrastructure Mysteries",
+      "description": "Brendan McLoughlin shares a detective’s framework for solving cloud infrastructure failures. He explains the \"usual suspects\" in the network stack - from DNS to API gateways - and discusses how to apply Richard Cook’s \"How Complex Systems Fail\" to modern observability. He shares strategies for building robust runbooks and using tools like Honeycomb and OpenTelemetry to find hidden timeouts.\n\nBrendan McLoughlin is a Senior Principal Engineer at CarGurus. Previously at Bocoup, he contributed to major open source projects including Ember Data. His expertise spans cloud infrastructure, web security, and complex system design, with a particular focus on helping teams navigate and debug distributed systems at scale.",
+      "speakers": [
+        "Brendan McLoughlin"
+      ],
+      "duration_s": 2720,
+      "published_at": "2026-01-05T14:20:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-cloudinfrastructure.mp4",
+      "id": "iq-solving-cloud-infrastructure",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7826,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "spring-ai-framework": {
+      "slug": "spring-ai-framework",
+      "page_url": "https://www.infoq.com/presentations/spring-ai-framework/",
+      "has_transcript": true,
+      "title": "Orchestrating AI Services with the Spring AI Framework",
+      "description": "Loiane Groner shares how Java developers can leverage the Spring AI framework to build robust AI applications. She explains how to integrate LLMs, use memory, implement guardrails for security, and build powerful AI agents, all within the familiar Spring ecosystem.\n\nLoiane Groner works as Director of Engineering at BNY and has authored books for Packt Publishing. Google Developer Expert in Angular, Microsoft MVP in Developer Technologies, Oracle ACE, Java Champion, and speaker at tech conferences. In her spare time, she loves contributing to the community, and she publishes tech videos on Youtube and creates free programming courses at https://loiane.training",
+      "speakers": [
+        "Loiane Groner"
+      ],
+      "duration_s": 2805,
+      "published_at": "2025-08-25T14:10:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-springaiframework.mp4",
+      "id": "iq-spring-ai-framework",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 5974,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "sre-java-agent": {
+      "slug": "sre-java-agent",
+      "page_url": "https://www.infoq.com/presentations/sre-java-agent/",
+      "has_transcript": true,
+      "title": "Fix SLO Breaches before They Repeat: an SRE AI Agent for Application Workloads",
+      "description": "Bruno Borges discusses a paradigm shift in performance management: moving from manual tuning to automated SRE agents. He explains how to leverage the USE and jPDM methodologies alongside LLMs to reduce MTTR from hours to seconds. By utilizing MCP tools for real-time diagnostics and memory dump analysis, he shares how engineering leaders can scale systems while meeting strict objectives.\n\nBruno Borges is a Principal PM Manager at Microsoft with over six years of dedication. Bruno specializes in Java runtimes development and enhancing developer relations for Microsoft Azure, aiming to create the best cloud environment for Java workloads and developers. Prior to Microsoft, Bruno served nearly six years at Oracle, influencing developer relations strategy and governance.",
+      "speakers": [
+        "Bruno Borges"
+      ],
+      "duration_s": 2897,
+      "published_at": "2025-12-29T15:09:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-slobreaches.mp4",
+      "id": "iq-sre-java-agent",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 6737,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "sre-questions": {
+      "slug": "sre-questions",
+      "page_url": "https://www.infoq.com/presentations/sre-questions/",
+      "has_transcript": true,
+      "title": "You Are Asking the Wrong Questions (about Reliability and SRE)",
+      "description": "David Blank-Edelman (Microsoft SRE Academy) explains seven essential questions to elevate your reliability practice. He challenges engineering leaders to redefine reliability metrics beyond availability, replace \"root cause\" with contributing factors, critique the five whys, re-evaluate the true goals of toil automation, and understand SRE's role (firefighting vs. partnership).\n\nDavid Blank-Edelman is the program lead for Microsoft’s SRE Academy, the program for onboarding and training of Azure’s SREs and others who strive to improve reliability and quality. He has roughly 40 years of experience in the operations space. David is co-founder of the SREcon conference, editor/curator of Seeking SRE (O’Reilly) and the author of Becoming SRE (O’Reilly).",
+      "speakers": [
+        "David Blank-Edelman"
+      ],
+      "duration_s": 2979,
+      "published_at": "2025-11-03T15:25:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-reliabilitysre.mp4",
+      "id": "iq-sre-questions",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7592,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "systems-thinking-multi-agent-architectures": {
+      "slug": "systems-thinking-multi-agent-architectures",
+      "page_url": "https://www.infoq.com/presentations/systems-thinking-multi-agent-architectures/",
+      "has_transcript": true,
+      "title": "Systems Thinking for Scaling Responsible Multi-Agent Architectures",
+      "description": "Nimisha Asthagiri explains the critical need for responsible AI in complex multi-agent systems. She shares practical techniques for engineering leaders and architects, applying systems thinking and Causal Flow Diagrams. She shows how these methods help predict and mitigate the unintended consequences and structural risks inherent in autonomous, learning agents, using a scheduler agent example.\n\nNimisha Asthagiri is a Global Director of Data and AI at Thoughtworks. Previously, she was Chief Architect at edX, driving intentional architecture for the next generation of large-scale online learning. Nimisha also serves as advisor and board member to emerging businesses, including serving as a consulting CTO.",
+      "speakers": [
+        "Nimisha Asthagiri"
+      ],
+      "duration_s": 2920,
+      "published_at": "2025-10-13T14:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-multiagentarch.mp4",
+      "id": "iq-systems-thinking-multi-agent-architectures",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 6732,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "testing-distributed-systems": {
+      "slug": "testing-distributed-systems",
+      "page_url": "https://www.infoq.com/presentations/testing-distributed-systems/",
+      "has_transcript": true,
+      "title": "Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems",
+      "description": "Elias Nogueira shares a strategic approach to modern microservice testing, detailing solutions for three core challenges. He discusses parallel execution for multiple databases using Testcontainers, creating reliable, sharable mock environments with WireMock, and handling asynchronous event delays with Awaitility, offering a blueprint for senior engineers.\n\nElias Nogueira is a Java Champion, Oracle ACE Pro, Java Magazine NL, and Lead Principal Software Engineer at Backbase. A Brazilian guy living in the Netherlands sharing content related to Quality Engineering, Java, and OSS at conferences, meetups, and articles.",
+      "speakers": [
+        "Elias Nogueira"
+      ],
+      "duration_s": 2998,
+      "published_at": "2025-09-01T11:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-complexdistributedsys.mp4",
+      "id": "iq-testing-distributed-systems",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 6160,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    },
+    "vanguard-sre-transformation": {
+      "slug": "vanguard-sre-transformation",
+      "page_url": "https://www.infoq.com/presentations/vanguard-sre-transformation/",
+      "has_transcript": true,
+      "title": "From Grassroots to Enterprise: Vanguard's Journey in SRE Transformation",
+      "description": "Christina Yakomin shares Vanguard's SRE transformation: from quarterly testing of monoliths to a mature DevOps model with continuous delivery. She explains the SRE coaching hub, self-service tools, and advanced techniques like request-rate autoscaling. She details modern challenges, including region failure game days and testing AI-backed contact centers.\n\nChristina Yakomin is a Senior Site Reliability Engineering Specialist in Vanguard's Chief Technology Office. She has worked at the company's Malvern, PA headquarters since graduating from Villanova University. She has earned several Amazon Web Services certifications, including the Solutions Architect - Professional.",
+      "speakers": [
+        "Christina Yakomin"
+      ],
+      "duration_s": 3007,
+      "published_at": "2025-10-06T13:06:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-jul-sretransformation.mp4",
+      "id": "iq-vanguard-sre-transformation",
+      "matched_youtube": false,
+      "edition": "infoq-dev-summit-boston-2025",
+      "edition_name": "InfoQ Dev Summit Boston 2025",
+      "year": 2025,
+      "transcript_words": 7850,
+      "fetched_at": "2026-09-01T21:35:33+00:00"
+    }
+  }
+}

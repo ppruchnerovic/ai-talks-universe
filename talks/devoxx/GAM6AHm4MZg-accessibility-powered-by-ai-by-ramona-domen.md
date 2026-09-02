@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Ramona Domen"]
 channel: "Devoxx"
 duration_min: 16
 published_at: 2026-04-08T20:13:12Z
 video_id: GAM6AHm4MZg
+url: https://www.youtube.com/watch?v=GAM6AHm4MZg
 youtube_url: https://www.youtube.com/watch?v=GAM6AHm4MZg
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Accessibility powered by AI by Ramona Domen
 
-**Speaker not identified**
+**Ramona Domen**
 
 `Devoxx` · `Devoxx` · `2026` · `16 min`
 

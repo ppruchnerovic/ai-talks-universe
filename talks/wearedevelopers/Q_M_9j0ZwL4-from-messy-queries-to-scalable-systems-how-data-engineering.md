@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T07:40:00+00:00
 video_id: Q_M_9j0ZwL4
+url: https://www.youtube.com/watch?v=Q_M_9j0ZwL4
 youtube_url: https://www.youtube.com/watch?v=Q_M_9j0ZwL4
 tags: ["Data & Databases", "Business Intelligence", "Chaos Engineering", "Data", "Databases", "Digital Transformation"]
 transcript: true

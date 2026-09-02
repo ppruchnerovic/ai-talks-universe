@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 58
 published_at: null
 video_id: JajBEYle67I
+url: https://www.youtube.com/watch?v=JajBEYle67I
 youtube_url: https://www.youtube.com/watch?v=JajBEYle67I
 tags: []
 transcript: false

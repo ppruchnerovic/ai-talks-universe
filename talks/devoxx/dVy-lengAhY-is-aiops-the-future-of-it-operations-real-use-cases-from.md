@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Danilo Banjac", "Iveri Prang"]
 channel: "Devoxx"
 duration_min: 53
 published_at: 2025-10-10T05:09:25Z
 video_id: dVy-lengAhY
+url: https://www.youtube.com/watch?v=dVy-lengAhY
 youtube_url: https://www.youtube.com/watch?v=dVy-lengAhY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Is AIOps the Future of IT Operations? Real Use Cases from the Trenches by Danilo Banjac, Iveri Prang
 
-**Speaker not identified**
+**Danilo Banjac, Iveri Prang**
 
 `Devoxx` · `Devoxx` · `2025` · `53 min`
 

@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-september-2025",
+  "name": "InfoQ Live - September 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:34:58+00:00",
+  "count": 1,
+  "talks": {
+    "agentic-ai": {
+      "slug": "agentic-ai",
+      "page_url": "https://www.infoq.com/presentations/agentic-ai/",
+      "has_transcript": true,
+      "title": "Beyond the Hype: Architecting Systems with Agentic AI",
+      "description": "The panelists explore architecting systems with Agentic AI. They share patterns, antipatterns, and use cases, distinguishing agentic from traditional automation. Learn how to manage the complexity and non-determinism of these distributed systems, implement guardrails, and shift your mindset from a software architect to a learning architect to achieve trust and scale in production.\n\nTyler Jewell is CEO @ AKKA. Arun Joseph is the co-founder & CEO of Masaic AI. Johannes Koch is Principal Architect at FICO. Merrin Kurian is a Distinguished Engineer at Intuit. Renato Losio is InfoQ Editor.",
+      "speakers": [
+        "Tyler Jewel",
+        "Arun Joseph",
+        "Johannes Koch",
+        "Merrin Kurian",
+        "Renato Losio"
+      ],
+      "duration_s": 3642,
+      "published_at": "2025-10-02T12:23:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-sep-agenticai.mp4",
+      "id": "wUkYozIu-Yk",
+      "matched_youtube": true,
+      "edition": "infoq-live-september-2025",
+      "edition_name": "InfoQ Live - September 2025",
+      "year": 2025,
+      "transcript_words": 8361,
+      "fetched_at": "2026-09-01T21:34:58+00:00"
+    }
+  }
+}

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 37
 published_at: 2026-07-28T11:30:27Z
 video_id: 9AG9lUdCgdY
+url: https://www.youtube.com/watch?v=9AG9lUdCgdY
 youtube_url: https://www.youtube.com/watch?v=9AG9lUdCgdY
 tags: ["Security", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Gary Lopez"]
 transcript: true

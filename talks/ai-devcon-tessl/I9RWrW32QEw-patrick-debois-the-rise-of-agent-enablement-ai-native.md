@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-07-08T08:49:33Z
 video_id: I9RWrW32QEw
+url: https://www.youtube.com/watch?v=I9RWrW32QEw
 youtube_url: https://www.youtube.com/watch?v=I9RWrW32QEw
 tags: ["AI Integration", "AI Native DevCon London 2026", "AI Tools", "AI coding", "AI coding practices", "AI tools in engineering", "DevOps", "DevOps and AI", "Governance", "agent enablement teams", "ainativedev", "context development lifecycle", "how to scale AI coding", "scaling AI in engineering", "what is agent enablement"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Charles Feddersen", "Mohsin Shafqat"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2025-11-24T14:23:40Z
 video_id: mhLtApWq-mM
+url: https://www.youtube.com/watch?v=mhLtApWq-mM
 youtube_url: https://www.youtube.com/watch?v=mhLtApWq-mM
 tags: ["Charles Feddersen", "English (US)", "Mohsin Shafqat", "Nasdaq: Secure Innovation with PostgreSQL on Azure | STUDIO34", "Other", "STUDIO34", "STUDIO34_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Nasdaq: Secure Innovation with PostgreSQL on Azure | STUDIO34
 
-**Speaker not identified**
+**Charles Feddersen, Mohsin Shafqat**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `16 min`
 

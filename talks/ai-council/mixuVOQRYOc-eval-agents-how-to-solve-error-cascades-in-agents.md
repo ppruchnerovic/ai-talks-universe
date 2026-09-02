@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Dhruv Singh"]
 channel: "AI Council"
 duration_min: 39
 published_at: 2025-05-29T07:21:57Z
 video_id: mixuVOQRYOc
+url: https://www.youtube.com/watch?v=mixuVOQRYOc
 youtube_url: https://www.youtube.com/watch?v=mixuVOQRYOc
 tags: ["eval agents", "AI testing", "multi turn AI systems", "ChatGPT", "artificial intelligence", "machine learning", "AI agents", "quality assurance", "AI evaluation", "agent testing", "AI reliability", "error cascades", "trajectory evaluation", "Python tutorial", "conversational AI testing", "dialogue evaluation", "multi modal evaluation", "human evaluation", "automated evaluation", "benchmark testing", "performance metrics", "evaluation frameworks"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Eval Agents: How to Solve Error Cascades in Agents
 
-**Speaker not identified**
+**Dhruv Singh**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `39 min`
 

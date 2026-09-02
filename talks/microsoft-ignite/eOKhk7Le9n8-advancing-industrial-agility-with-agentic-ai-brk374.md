@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Johannes Bernstein", "Adam Bogobowicz"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T14:53:41Z
 video_id: eOKhk7Le9n8
+url: https://www.youtube.com/watch?v=eOKhk7Le9n8
 youtube_url: https://www.youtube.com/watch?v=eOKhk7Le9n8
 tags: ["95287e46-6106-4f71-a5e6-7aa88ba9a54e_Segment", "Adam Bogobowicz", "Advancing Industrial Agility with Agentic AI | BRK374", "BRK374", "English (US)", "Innovate with Azure AI apps and agents", "Johannes Bernstein", "Manufacturing and Mobility", "RAJESH RAMACHANDRAN", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Advancing Industrial Agility with Agentic AI | BRK374
 
-**Speaker not identified**
+**Johannes Bernstein, Adam Bogobowicz**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

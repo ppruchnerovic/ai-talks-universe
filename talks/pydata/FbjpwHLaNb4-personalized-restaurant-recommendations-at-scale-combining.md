@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Marcel Kurovski", "Steffen Klempau"]
+speakers: ["Marcel Kurovski"]
 channel: "PyData"
 duration_min: 49
 published_at: 2026-08-04T22:20:36Z
 video_id: FbjpwHLaNb4
+url: https://www.youtube.com/watch?v=FbjpwHLaNb4
 youtube_url: https://www.youtube.com/watch?v=FbjpwHLaNb4
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Personalized Restaurant Recommendations at Scale combining Transformer with Gradient-Boosted Ranking
 
-**Marcel Kurovski, Steffen Klempau**
+**Marcel Kurovski**
 
 `PyData` · `PyData` · `2026` · `49 min`
 

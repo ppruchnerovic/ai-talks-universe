@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Alex Stamos", "Chief Trust Officer"]
+speakers: ["Alex Stamos"]
 channel: "RSAC Cybersecurity"
 duration_min: 50
 published_at: 2024-06-10T21:13:56Z
 video_id: 7pM09yBmV6U
+url: https://www.youtube.com/watch?v=7pM09yBmV6U
 youtube_url: https://www.youtube.com/watch?v=7pM09yBmV6U
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Global Threat Overview
 
-**Alex Stamos, Chief Trust Officer**
+**Alex Stamos**
 
 `RSAC Conference` · `RSAC` · `2024` · `50 min`
 

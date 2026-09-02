@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 43
 published_at: 2025-02-19T16:06:58Z
 video_id: LJfUGH-88fM
+url: https://www.youtube.com/watch?v=LJfUGH-88fM
 youtube_url: https://www.youtube.com/watch?v=LJfUGH-88fM
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 22
 published_at: null
 video_id: G1-stVMuU-s
+url: https://www.youtube.com/watch?v=G1-stVMuU-s
 youtube_url: https://www.youtube.com/watch?v=G1-stVMuU-s
 tags: []
 transcript: false

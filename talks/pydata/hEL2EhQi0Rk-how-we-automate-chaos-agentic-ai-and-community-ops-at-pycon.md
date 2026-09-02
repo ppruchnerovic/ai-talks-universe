@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 38
 published_at: 2025-11-23T14:33:55Z
 video_id: hEL2EhQi0Rk
+url: https://www.youtube.com/watch?v=hEL2EhQi0Rk
 youtube_url: https://www.youtube.com/watch?v=hEL2EhQi0Rk
 tags: ["AI agents", "AI limitations", "Claude Code", "Conference", "Gemini AI", "PyCon DE", "PyConDE", "PyData", "Python", "Python automation", "Tech Talk", "agentic AI", "coding assistants", "community operations", "conference management", "open source tools", "practical AI", "volunteer management", "workflow automation"]
 transcript: false

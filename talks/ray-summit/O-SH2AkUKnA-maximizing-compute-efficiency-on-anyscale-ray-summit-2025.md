@@ -12,6 +12,7 @@ channel: null
 duration_min: 26
 published_at: null
 video_id: O-SH2AkUKnA
+url: https://www.youtube.com/watch?v=O-SH2AkUKnA
 youtube_url: https://www.youtube.com/watch?v=O-SH2AkUKnA
 tags: []
 transcript: false

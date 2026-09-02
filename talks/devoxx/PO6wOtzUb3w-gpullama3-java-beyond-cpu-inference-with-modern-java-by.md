@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Michalis Papadimitriou"]
 channel: "Devoxx"
 duration_min: 53
 published_at: 2025-10-10T05:09:22Z
 video_id: PO6wOtzUb3w
+url: https://www.youtube.com/watch?v=PO6wOtzUb3w
 youtube_url: https://www.youtube.com/watch?v=PO6wOtzUb3w
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # GPULlama3 java: Beyond CPU Inference with Modern Java by Michalis Papadimitriou
 
-**Speaker not identified**
+**Michalis Papadimitriou**
 
 `Devoxx` · `Devoxx` · `2025` · `53 min`
 

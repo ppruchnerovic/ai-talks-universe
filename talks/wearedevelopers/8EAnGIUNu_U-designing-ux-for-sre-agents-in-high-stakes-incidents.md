@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 7
 published_at: 2026-07-09T08:10:00+00:00
 video_id: 8EAnGIUNu_U
+url: https://www.youtube.com/watch?v=8EAnGIUNu_U
 youtube_url: https://www.youtube.com/watch?v=8EAnGIUNu_U
 tags: ["AI Agents", "Agentic AI", "Site Reliability Engineering (SRE)", "UI/UX"]
 transcript: true

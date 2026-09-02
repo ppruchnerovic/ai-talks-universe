@@ -12,6 +12,7 @@ channel: "Sequoia Capital"
 duration_min: 5
 published_at: 2025-05-12T19:37:40Z
 video_id: IIF35fsd-x0
+url: https://www.youtube.com/watch?v=IIF35fsd-x0
 youtube_url: https://www.youtube.com/watch?v=IIF35fsd-x0
 tags: []
 transcript: false

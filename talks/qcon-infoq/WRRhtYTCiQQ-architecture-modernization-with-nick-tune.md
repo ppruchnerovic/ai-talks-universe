@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 33
 published_at: 2024-10-03T14:16:31Z
 video_id: WRRhtYTCiQQ
+url: https://www.youtube.com/watch?v=WRRhtYTCiQQ
 youtube_url: https://www.youtube.com/watch?v=WRRhtYTCiQQ
 tags: []
 transcript: false

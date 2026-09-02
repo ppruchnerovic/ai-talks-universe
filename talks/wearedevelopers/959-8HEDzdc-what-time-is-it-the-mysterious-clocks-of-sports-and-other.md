@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 13
 published_at: 2026-07-10T10:20:00+00:00
 video_id: 959-8HEDzdc
+url: https://www.youtube.com/watch?v=959-8HEDzdc
 youtube_url: https://www.youtube.com/watch?v=959-8HEDzdc
 tags: ["Data & Databases", "Data", "Data Pipelines", "Data Science"]
 transcript: true

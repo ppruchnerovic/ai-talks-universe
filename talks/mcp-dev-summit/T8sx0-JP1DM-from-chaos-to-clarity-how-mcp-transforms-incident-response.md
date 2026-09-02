@@ -7,11 +7,12 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Sebastian Villanelo", "Rocío Bayon"]
 channel: "Agentic AI Foundation"
 duration_min: 23
 published_at: 2026-04-13T23:17:09Z
 video_id: T8sx0-JP1DM
+url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 youtube_url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # From Chaos To Clarity: How MCP Transforms Incident Response - Sebastian Villanelo & Rocío Bayon
 
-**Speaker not identified**
+**Sebastian Villanelo, Rocío Bayon**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `23 min`
 

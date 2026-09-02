@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Annamalai Chockalingam"]
 channel: "Microsoft Events"
 duration_min: 26
 published_at: 2024-11-25T15:15:43Z
 video_id: aBEwVh-GZBo
+url: https://www.youtube.com/watch?v=aBEwVh-GZBo
 youtube_url: https://www.youtube.com/watch?v=aBEwVh-GZBo
 tags: ["AI", "Adoption", "BRKFP379", "Breakout", "Cloud PC", "Copilot", "Copilot + PC", "Copilot for M365", "Copilot for Security", "Deployment", "Developer", "Development", "Devices", "English (US)", "Harness the power of RTX AI PCs to elevate next-gen AI applications | BRKFP379", "Intermediate (200)", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Harness the power of RTX AI PCs to elevate next-gen AI applications | BRKFP379
 
-**Speaker not identified**
+**Annamalai Chockalingam**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `26 min`
 

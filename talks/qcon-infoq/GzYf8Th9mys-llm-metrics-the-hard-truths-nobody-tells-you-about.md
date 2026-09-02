@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 29
 published_at: 2025-07-31T09:00:20Z
 video_id: GzYf8Th9mys
+url: https://www.youtube.com/watch?v=GzYf8Th9mys
 youtube_url: https://www.youtube.com/watch?v=GzYf8Th9mys
 tags: ["QCon San Francisco", "Artificial Intelligence", "LLMs", "LLM Ops", "AI in Production", "Software Architecture", "Engineering Leadership", "Observability", "Metrics", "Machine Learning", "Large Language Models"]
 transcript: false

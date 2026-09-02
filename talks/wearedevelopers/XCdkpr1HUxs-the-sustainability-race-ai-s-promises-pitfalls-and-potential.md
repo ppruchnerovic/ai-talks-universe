@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T14:50:00+00:00
 video_id: XCdkpr1HUxs
+url: https://www.youtube.com/watch?v=XCdkpr1HUxs
 youtube_url: https://www.youtube.com/watch?v=XCdkpr1HUxs
 tags: ["Strategy & Innovation"]
 transcript: true

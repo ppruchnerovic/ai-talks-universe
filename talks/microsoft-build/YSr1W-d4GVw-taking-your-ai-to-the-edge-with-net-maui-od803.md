@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Gerald Versluis"]
 channel: "Microsoft Developer"
 duration_min: 46
 published_at: 2026-06-03T14:46:57Z
 video_id: YSr1W-d4GVw
+url: https://www.youtube.com/watch?v=YSr1W-d4GVw
 youtube_url: https://www.youtube.com/watch?v=YSr1W-d4GVw
 tags: [".NET", "C#", "Developer", "Gerald Versluis", "OD803", "OD803_v1", "Taking your AI to the edge with .NET MAUI | OD803", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Taking your AI to the edge with .NET MAUI | OD803
 
-**Speaker not identified**
+**Gerald Versluis**
 
 `Microsoft Build` · `Build 2026` · `2026` · `46 min`
 

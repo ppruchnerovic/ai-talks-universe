@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 29
 published_at: 2023-08-18T01:38:26Z
 video_id: jbFsO66VLLg
+url: https://www.youtube.com/watch?v=jbFsO66VLLg
 youtube_url: https://www.youtube.com/watch?v=jbFsO66VLLg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "MLOps vs ModelOps – What’s the Difference and Why You Should Care", "MLOps vs ModelOps", "modelops", "mlops world"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2026-08-11T07:46:56Z
 video_id: shZgedW15vg
+url: https://www.youtube.com/watch?v=shZgedW15vg
 youtube_url: https://www.youtube.com/watch?v=shZgedW15vg
 tags: ["AI", "Claude Code", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Daisy Hollman"]
 transcript: true

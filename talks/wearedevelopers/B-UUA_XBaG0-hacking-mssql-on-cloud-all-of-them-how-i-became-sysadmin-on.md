@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T13:40:00+00:00
 video_id: B-UUA_XBaG0
+url: https://www.youtube.com/watch?v=B-UUA_XBaG0
 youtube_url: https://www.youtube.com/watch?v=B-UUA_XBaG0
 tags: ["Security & Privacy", "Cloud Security", "Databases", "Microsoft SQL Server", "Security"]
 transcript: true

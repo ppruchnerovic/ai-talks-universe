@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Prime Intellect"]
+speakers: ["Will Brown"]
 channel: "AI Engineer"
 duration_min: 47
 published_at: 2026-07-13T15:34:07Z
 video_id: V-EDrhIhHzQ
+url: https://www.youtube.com/watch?v=V-EDrhIhHzQ
 youtube_url: https://www.youtube.com/watch?v=V-EDrhIhHzQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Modern Post-Training: A Deep Dive — Will Brown, Prime Intellect
 
-**Prime Intellect**
+**Will Brown**
 
 `AI Engineer` · `AI Engineer` · `2026` · `47 min`
 

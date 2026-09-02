@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Karen Reinhardt", "Principal Engineer", "Cryptographic Services"]
+speakers: ["Karen Reinhardt", "Cryptographic Services"]
 channel: "RSAC Cybersecurity"
 duration_min: 51
 published_at: 2024-06-10T21:16:36Z
 video_id: 4NUtp8Lw_OQ
+url: https://www.youtube.com/watch?v=4NUtp8Lw_OQ
 youtube_url: https://www.youtube.com/watch?v=4NUtp8Lw_OQ
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Key Management 101: DEKs, KEKs, and Credentials Living Together, Oh My!
 
-**Karen Reinhardt, Principal Engineer, Cryptographic Services**
+**Karen Reinhardt, Cryptographic Services**
 
 `RSAC Conference` · `RSAC` · `2024` · `51 min`
 

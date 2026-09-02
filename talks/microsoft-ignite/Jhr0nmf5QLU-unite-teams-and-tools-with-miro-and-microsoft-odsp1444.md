@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["David Ross"]
 channel: "Microsoft Events"
 duration_min: 6
 published_at: 2025-11-19T15:10:51Z
 video_id: Jhr0nmf5QLU
+url: https://www.youtube.com/watch?v=Jhr0nmf5QLU
 youtube_url: https://www.youtube.com/watch?v=Jhr0nmf5QLU
 tags: ["David Ross", "English (US)", "ODSP1444", "ODSP1444_v1", "Technical", "Unify your data platform", "Unite teams and tools with Miro and Microsoft | ODSP1444", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unite teams and tools with Miro and Microsoft | ODSP1444
 
-**Speaker not identified**
+**David Ross**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `6 min`
 

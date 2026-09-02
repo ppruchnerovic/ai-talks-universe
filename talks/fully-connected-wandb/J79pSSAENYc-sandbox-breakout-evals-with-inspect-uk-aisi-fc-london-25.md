@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 23
 published_at: 2025-12-08T14:00:35Z
 video_id: J79pSSAENYc
+url: https://www.youtube.com/watch?v=J79pSSAENYc
 youtube_url: https://www.youtube.com/watch?v=J79pSSAENYc
 tags: []
 transcript: false

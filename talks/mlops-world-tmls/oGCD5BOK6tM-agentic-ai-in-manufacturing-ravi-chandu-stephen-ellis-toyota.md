@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: []
+speakers: ["Ravi Chandu", "Stephen Ellis"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 31
 published_at: 2025-10-23T05:08:16Z
 video_id: oGCD5BOK6tM
+url: https://www.youtube.com/watch?v=oGCD5BOK6tM
 youtube_url: https://www.youtube.com/watch?v=oGCD5BOK6tM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Agentic AI in Manufacturing | Ravi Chandu & Stephen Ellis, Toyota
 
-**Speaker not identified**
+**Ravi Chandu, Stephen Ellis**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `31 min`
 

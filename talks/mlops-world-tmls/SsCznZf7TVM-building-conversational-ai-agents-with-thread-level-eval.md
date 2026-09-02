@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: []
+speakers: ["Tony Kipkemboi", "Claire Longo"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 75
 published_at: 2025-10-23T01:56:55Z
 video_id: SsCznZf7TVM
+url: https://www.youtube.com/watch?v=SsCznZf7TVM
 youtube_url: https://www.youtube.com/watch?v=SsCznZf7TVM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building Conversational AI Agents with Thread-Level Eval Metrics | Tony Kipkemboi & Claire Longo
 
-**Speaker not identified**
+**Tony Kipkemboi, Claire Longo**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `75 min`
 

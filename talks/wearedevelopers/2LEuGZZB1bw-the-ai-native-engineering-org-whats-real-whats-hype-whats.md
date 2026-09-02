@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T08:10:00+00:00
 video_id: 2LEuGZZB1bw
+url: https://www.youtube.com/watch?v=2LEuGZZB1bw
 youtube_url: https://www.youtube.com/watch?v=2LEuGZZB1bw
 tags: ["AI Engineering"]
 transcript: true

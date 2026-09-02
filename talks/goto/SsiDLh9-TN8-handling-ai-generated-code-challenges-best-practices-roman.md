@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Roman Zhukov", "Damian Brady"]
 channel: null
 duration_min: 28
 published_at: null
 video_id: SsiDLh9-TN8
+url: https://www.youtube.com/watch?v=SsiDLh9-TN8
 youtube_url: https://www.youtube.com/watch?v=SsiDLh9-TN8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Handling AI-Generated Code: Challenges & Best Practices • Roman Zhukov & Damian Brady • GOTO 2025
 
-**Speaker not identified**
+**Roman Zhukov, Damian Brady**
 
 `GOTO Conferences` · `GOTO` · `2025` · `28 min`
 

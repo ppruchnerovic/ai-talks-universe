@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T13:00:00+00:00
 video_id: IlekqKuGBPA
+url: https://www.youtube.com/watch?v=IlekqKuGBPA
 youtube_url: https://www.youtube.com/watch?v=IlekqKuGBPA
 tags: ["AI Engineering"]
 transcript: true

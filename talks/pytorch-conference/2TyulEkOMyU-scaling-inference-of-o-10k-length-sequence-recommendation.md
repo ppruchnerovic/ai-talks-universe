@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["S. Joshi", "K. Rajesh"]
 channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: 2TyulEkOMyU
+url: https://www.youtube.com/watch?v=2TyulEkOMyU
 youtube_url: https://www.youtube.com/watch?v=2TyulEkOMyU
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scaling Inference of O(10K)-length Sequence Recommendation Models Using... - S. Joshi & K. Rajesh
 
-**Speaker not identified**
+**S. Joshi, K. Rajesh**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `25 min`
 

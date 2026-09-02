@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mehrnoosh Sameki", "Peter Simones", "Jaspreet Singh"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T06:39:24Z
 video_id: XjVj_qRwzVg
+url: https://www.youtube.com/watch?v=XjVj_qRwzVg
 youtube_url: https://www.youtube.com/watch?v=XjVj_qRwzVg
 tags: ["3cd382ae-8897-44bc-b97a-362689bce600_Segment", "BRK202", "English (US)", "Foundry Control Plane: Managing AI agents at scale | BRK202", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Jaspreet Singh", "Mehrnoosh Sameki", "Peter Simones", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Foundry Control Plane: Managing AI agents at scale | BRK202
 
-**Speaker not identified**
+**Mehrnoosh Sameki, Peter Simones, Jaspreet Singh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

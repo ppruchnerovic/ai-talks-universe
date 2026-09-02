@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Andrzej Nowicki"]
 channel: "Devoxx"
 duration_min: 47
 published_at: 2025-02-19T16:01:07Z
 video_id: yr1_Iw35p5s
+url: https://www.youtube.com/watch?v=yr1_Iw35p5s
 youtube_url: https://www.youtube.com/watch?v=yr1_Iw35p5s
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to query data using natural language - intro to AI features in Oracle 23ai by Andrzej Nowicki
 
-**Speaker not identified**
+**Andrzej Nowicki**
 
 `Devoxx` · `Devoxx` · `2025` · `47 min`
 

@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 27
 published_at: 2026-05-21T19:42:40Z
 video_id: K4-flzsPraE
+url: https://www.youtube.com/watch?v=K4-flzsPraE
 youtube_url: https://www.youtube.com/watch?v=K4-flzsPraE
 tags: []
 transcript: true

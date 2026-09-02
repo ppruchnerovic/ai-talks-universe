@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 26
 published_at: 2026-06-24T09:00:37Z
 video_id: WFyFCFC15dE
+url: https://www.youtube.com/watch?v=WFyFCFC15dE
 youtube_url: https://www.youtube.com/watch?v=WFyFCFC15dE
 tags: ["AI Agents", "Agent Orchestration", "Agentic AI", "MLOps", "Software Architecture", "Generative AI", "AI Engineering", "Distributed Systems"]
 transcript: true

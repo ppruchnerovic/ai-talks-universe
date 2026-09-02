@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-10T11:40:00+00:00
 video_id: EXKwnl-CfDM
+url: https://www.youtube.com/watch?v=EXKwnl-CfDM
 youtube_url: https://www.youtube.com/watch?v=EXKwnl-CfDM
 tags: ["AI Agents", "AI Models", "Agents", "Agentic AI", "Data", "Generative AI (GenAI)", "LangChain", "Large Language Models (LLMs)", "LLMOps", "Redis", "Security", "Vector Databases"]
 transcript: true

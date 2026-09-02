@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 14
 published_at: 2026-07-20T00:08:33Z
 video_id: LIQBs8R3-JU
+url: https://www.youtube.com/watch?v=LIQBs8R3-JU
 youtube_url: https://www.youtube.com/watch?v=LIQBs8R3-JU
 tags: []
 transcript: true

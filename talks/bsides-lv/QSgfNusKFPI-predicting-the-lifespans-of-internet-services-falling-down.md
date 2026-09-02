@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 38
 published_at: 2025-12-08T00:39:37Z
 video_id: QSgfNusKFPI
+url: https://www.youtube.com/watch?v=QSgfNusKFPI
 youtube_url: https://www.youtube.com/watch?v=QSgfNusKFPI
 tags: []
 transcript: false

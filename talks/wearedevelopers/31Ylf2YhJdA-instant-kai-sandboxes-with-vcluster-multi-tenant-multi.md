@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T13:40:00+00:00
 video_id: 31Ylf2YhJdA
+url: https://www.youtube.com/watch?v=31Ylf2YhJdA
 youtube_url: https://www.youtube.com/watch?v=31Ylf2YhJdA
 tags: ["Cloud & AI Infrastructure", "AI Models", "Automation", "DevOps", "NVIDIA"]
 transcript: true

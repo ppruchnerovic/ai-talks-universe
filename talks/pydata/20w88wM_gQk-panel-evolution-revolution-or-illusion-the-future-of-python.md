@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Sebastian Neubauer", "Markus Klein", "Asya Melnik", "Serhii Sokolenko", "Ines Montani"]
+speakers: ["Sebastian Neubauer"]
 channel: "PyData"
 duration_min: 56
 published_at: 2026-08-04T22:21:53Z
 video_id: 20w88wM_gQk
+url: https://www.youtube.com/watch?v=20w88wM_gQk
 youtube_url: https://www.youtube.com/watch?v=20w88wM_gQk
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Panel: Evolution, Revolution, or Illusion? The Future of Python and Coding in the Age of AI
 
-**Sebastian Neubauer, Markus Klein, Asya Melnik, Serhii Sokolenko, Ines Montani**
+**Sebastian Neubauer**
 
 `PyData` · `PyData` · `2026` · `56 min`
 

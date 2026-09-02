@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 77
 published_at: 2026-02-16T12:38:27Z
 video_id: a420joNxSUo
+url: https://www.youtube.com/watch?v=a420joNxSUo
 youtube_url: https://www.youtube.com/watch?v=a420joNxSUo
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: true

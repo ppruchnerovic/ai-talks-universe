@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T11:40:00+00:00
 video_id: 62HeJ7Yjy3Q
+url: https://www.youtube.com/watch?v=62HeJ7Yjy3Q
 youtube_url: https://www.youtube.com/watch?v=62HeJ7Yjy3Q
 tags: ["AI Engineering", "AI Standards", "Large Language Models (LLMs)", "Python", "Software Architecture"]
 transcript: true

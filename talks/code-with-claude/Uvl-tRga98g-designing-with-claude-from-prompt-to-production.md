@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 28
 published_at: 2026-05-22T05:42:20Z
 video_id: Uvl-tRga98g
+url: https://www.youtube.com/watch?v=Uvl-tRga98g
 youtube_url: https://www.youtube.com/watch?v=Uvl-tRga98g
 tags: []
 transcript: true

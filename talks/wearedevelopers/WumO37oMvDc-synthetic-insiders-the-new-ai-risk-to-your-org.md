@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-09T10:50:00+00:00
 video_id: WumO37oMvDc
+url: https://www.youtube.com/watch?v=WumO37oMvDc
 youtube_url: https://www.youtube.com/watch?v=WumO37oMvDc
 tags: ["Security & Privacy", "AI Models", "Agentic AI", "Future of Work", "Multi-Agent Systems", "Security"]
 transcript: true

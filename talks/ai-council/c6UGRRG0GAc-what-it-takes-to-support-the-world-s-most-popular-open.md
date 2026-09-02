@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 41
 published_at: 2023-05-11T18:59:27Z
 video_id: c6UGRRG0GAc
+url: https://www.youtube.com/watch?v=c6UGRRG0GAc
 youtube_url: https://www.youtube.com/watch?v=c6UGRRG0GAc
 tags: ["open source", "community", "NumPy", "Scipy", "Jupyter", "Pandas", "NumFocus"]
 transcript: false

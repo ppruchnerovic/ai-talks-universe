@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["James Ward", "Josh Long"]
 channel: "Devoxx"
 duration_min: 44
 published_at: 2026-04-08T20:16:29Z
 video_id: okdgOPcFCqw
+url: https://www.youtube.com/watch?v=okdgOPcFCqw
 youtube_url: https://www.youtube.com/watch?v=okdgOPcFCqw
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building AI Agents with Spring & MCP by James Ward, Josh Long
 
-**Speaker not identified**
+**James Ward, Josh Long**
 
 `Devoxx` · `Devoxx` · `2026` · `44 min`
 

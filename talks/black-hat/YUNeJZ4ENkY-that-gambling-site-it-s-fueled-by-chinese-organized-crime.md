@@ -7,11 +7,12 @@ conference_name: "Black Hat"
 category: "AI security"
 edition: "Black Hat"
 year: 2025
-speakers: []
+speakers: ["Chinese Organized Crime"]
 channel: "Black Hat"
 duration_min: 41
 published_at: 2025-03-07T20:57:34Z
 video_id: YUNeJZ4ENkY
+url: https://www.youtube.com/watch?v=YUNeJZ4ENkY
 youtube_url: https://www.youtube.com/watch?v=YUNeJZ4ENkY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # That Gambling Site? It's Fueled by Chinese Organized Crime
 
-**Speaker not identified**
+**Chinese Organized Crime**
 
 `Black Hat` · `Black Hat` · `2025` · `41 min`
 

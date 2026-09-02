@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T14:50:00+00:00
 video_id: sCRNsMIHjho
+url: https://www.youtube.com/watch?v=sCRNsMIHjho
 youtube_url: https://www.youtube.com/watch?v=sCRNsMIHjho
 tags: ["Frontend, Web & Mobile", "Analytics", "Case Study", "Performance", "Soft Skills", "Software Architecture", "Web Performance"]
 transcript: true

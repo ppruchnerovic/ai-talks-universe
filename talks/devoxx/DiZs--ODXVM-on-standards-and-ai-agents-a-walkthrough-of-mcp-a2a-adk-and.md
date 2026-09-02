@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Emmanuel Bernard", "Guillaume L"]
 channel: "Devoxx"
 duration_min: 167
 published_at: 2025-10-08T05:30:33Z
 video_id: DiZs--ODXVM
+url: https://www.youtube.com/watch?v=DiZs--ODXVM
 youtube_url: https://www.youtube.com/watch?v=DiZs--ODXVM
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # On standards and AI agents: a walkthrough of MCP, A2A, ADK and more by Emmanuel Bernard, Guillaume L
 
-**Speaker not identified**
+**Emmanuel Bernard, Guillaume L**
 
 `Devoxx` · `Devoxx` · `2025` · `167 min`
 

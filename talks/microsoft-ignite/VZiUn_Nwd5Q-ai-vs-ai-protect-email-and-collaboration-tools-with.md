@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Ramya Chitrakar", "David Fantham", "Jeff Pinkston"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T15:18:42Z
 video_id: VZiUn_Nwd5Q
+url: https://www.youtube.com/watch?v=VZiUn_Nwd5Q
 youtube_url: https://www.youtube.com/watch?v=VZiUn_Nwd5Q
 tags: ["060249b4-78ea-4b76-b922-855af5474aa9_Segment", "AI vs AI: Protect email and collaboration tools with Microsoft Defender | BRK239", "BRK239", "David Fantham", "English (US)", "Jeff Pinkston", "Modernize SecOps with a unified platform", "Ramya Chitrakar", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI vs AI: Protect email and collaboration tools with Microsoft Defender | BRK239
 
-**Speaker not identified**
+**Ramya Chitrakar, David Fantham, Jeff Pinkston**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 23
 published_at: 2026-06-10T12:59:00Z
 video_id: AqU_WyOdEyo
+url: https://www.youtube.com/watch?v=AqU_WyOdEyo
 youtube_url: https://www.youtube.com/watch?v=AqU_WyOdEyo
 tags: []
 transcript: true

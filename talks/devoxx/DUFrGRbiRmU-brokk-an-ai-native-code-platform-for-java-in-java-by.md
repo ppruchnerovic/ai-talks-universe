@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Jonathan Ellis"]
 channel: "Devoxx"
 duration_min: 47
 published_at: 2025-10-10T05:09:22Z
 video_id: DUFrGRbiRmU
+url: https://www.youtube.com/watch?v=DUFrGRbiRmU
 youtube_url: https://www.youtube.com/watch?v=DUFrGRbiRmU
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Brokk: an AI Native Code Platform for Java, in Java by Jonathan Ellis
 
-**Speaker not identified**
+**Jonathan Ellis**
 
 `Devoxx` · `Devoxx` · `2025` · `47 min`
 

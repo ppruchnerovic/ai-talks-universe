@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 12
 published_at: 2023-05-11T22:30:20Z
 video_id: fynVPYc6qQ0
+url: https://www.youtube.com/watch?v=fynVPYc6qQ0
 youtube_url: https://www.youtube.com/watch?v=fynVPYc6qQ0
 tags: ["AI algorithms", "SQL", "data analyst"]
 transcript: false

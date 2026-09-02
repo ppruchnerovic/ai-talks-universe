@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 64
 published_at: 2026-05-14T14:00:06Z
 video_id: vi-2nasppAg
+url: https://www.youtube.com/watch?v=vi-2nasppAg
 youtube_url: https://www.youtube.com/watch?v=vi-2nasppAg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

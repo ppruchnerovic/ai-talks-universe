@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T09:00:00+00:00
 video_id: Pj0iN4LgW6k
+url: https://www.youtube.com/watch?v=Pj0iN4LgW6k
 youtube_url: https://www.youtube.com/watch?v=Pj0iN4LgW6k
 tags: ["Emerging Technologies", "AI Models", "APIs", "Agentic AI"]
 transcript: true

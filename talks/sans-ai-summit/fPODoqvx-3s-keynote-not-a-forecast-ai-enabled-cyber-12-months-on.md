@@ -12,6 +12,7 @@ channel: "SANS Institute"
 duration_min: 19
 published_at: 2026-04-21T17:32:19Z
 video_id: fPODoqvx-3s
+url: https://www.youtube.com/watch?v=fPODoqvx-3s
 youtube_url: https://www.youtube.com/watch?v=fPODoqvx-3s
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training", "AI", "AI Cybersecurity", "Threat Intel", "Threat Intelligence", "Anthropic"]
 transcript: true

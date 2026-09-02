@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-07-31T10:25:55Z
 video_id: LnZDY6XC5pA
+url: https://www.youtube.com/watch?v=LnZDY6XC5pA
 youtube_url: https://www.youtube.com/watch?v=LnZDY6XC5pA
 tags: ["People", "Security", "DevOps", "Testing", "AI", "OWASP", "ChatGPT", "GitHub", "GitHub Copilot", "Cursor", "NDC", "Conferences", "2026", "Live", "Fun", "toronto", "Canada", "Code", "Roman Zhukov"]
 transcript: true

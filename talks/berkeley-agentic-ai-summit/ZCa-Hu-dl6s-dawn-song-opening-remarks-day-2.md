@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 18
 published_at: 2026-08-09T23:30:26Z
 video_id: ZCa-Hu-dl6s
+url: https://www.youtube.com/watch?v=ZCa-Hu-dl6s
 youtube_url: https://www.youtube.com/watch?v=ZCa-Hu-dl6s
 tags: []
 transcript: true

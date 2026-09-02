@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 15
 published_at: 2023-05-11T20:56:50Z
 video_id: b0jH7nrbbQg
+url: https://www.youtube.com/watch?v=b0jH7nrbbQg
 youtube_url: https://www.youtube.com/watch?v=b0jH7nrbbQg
 tags: ["ML Datasets", "data issues", "python", "github"]
 transcript: false

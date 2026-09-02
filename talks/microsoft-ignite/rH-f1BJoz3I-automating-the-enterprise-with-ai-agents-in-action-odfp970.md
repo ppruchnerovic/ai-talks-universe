@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Theo Mefford", "Zepu Wang"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-20T14:14:01Z
 video_id: rH-f1BJoz3I
+url: https://www.youtube.com/watch?v=rH-f1BJoz3I
 youtube_url: https://www.youtube.com/watch?v=rH-f1BJoz3I
 tags: ["AI", "Automating the enterprise with AI Agents in action | ODFP970", "Copilot", "Copilot for M365", "Intermediate (200)", "Microsoft 365", "Microsoft Copilot", "ODFP970", "Pre-recorded", "Technical", "Theo Mefford", "Version v1", "Zepu Wang", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Automating the enterprise with AI Agents in action | ODFP970
 
-**Speaker not identified**
+**Theo Mefford, Zepu Wang**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `10 min`
 

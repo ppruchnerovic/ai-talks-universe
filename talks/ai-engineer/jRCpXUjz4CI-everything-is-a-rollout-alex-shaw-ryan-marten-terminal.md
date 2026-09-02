@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Alex Shaw", "Ryan Marten"]
 channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-07-24T00:00:00Z
 video_id: jRCpXUjz4CI
+url: https://www.youtube.com/watch?v=jRCpXUjz4CI
 youtube_url: https://www.youtube.com/watch?v=jRCpXUjz4CI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Everything Is a Rollout — Alex Shaw + Ryan Marten, Terminal-Bench, Harbor, Laude Institute
 
-**Speaker not identified**
+**Alex Shaw, Ryan Marten**
 
 `AI Engineer` · `AI Engineer` · `2026` · `21 min`
 

@@ -12,6 +12,7 @@ channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 31
 published_at: 2026-04-09T05:31:15Z
 video_id: Q4E9GDAslIk
+url: https://www.youtube.com/watch?v=Q4E9GDAslIk
 youtube_url: https://www.youtube.com/watch?v=Q4E9GDAslIk
 tags: []
 transcript: true

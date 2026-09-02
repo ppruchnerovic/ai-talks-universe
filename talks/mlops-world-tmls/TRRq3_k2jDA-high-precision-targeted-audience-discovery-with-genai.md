@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2026
-speakers: []
+speakers: ["Nataliya Portman"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 39
 published_at: 2026-08-11T13:09:28Z
 video_id: TRRq3_k2jDA
+url: https://www.youtube.com/watch?v=TRRq3_k2jDA
 youtube_url: https://www.youtube.com/watch?v=TRRq3_k2jDA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # High-Precision Targeted Audience Discovery with GenAI
 
-**Speaker not identified**
+**Nataliya Portman**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2026` · `39 min`
 

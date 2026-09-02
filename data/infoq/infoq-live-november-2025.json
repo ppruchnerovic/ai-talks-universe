@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-november-2025",
+  "name": "InfoQ Live - November 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:34:45+00:00",
+  "count": 1,
+  "talks": {
+    "developer-experience-load-autonomy": {
+      "slug": "developer-experience-load-autonomy",
+      "page_url": "https://www.infoq.com/presentations/developer-experience-load-autonomy/",
+      "has_transcript": true,
+      "title": "The Architecture of Developer Experience: Where Product, Platform, and Operations Meet",
+      "description": "The panelists discuss designing platform architecture where product, platform, and operations meet. Experts share best practices for reducing cognitive load, balancing core ops vs. innovation, measuring success (lead time, cost avoidance), and enabling developers through self-service and golden path deviations.\n\nRan Isenberg is AWS Serverless Hero, a Principal Software Architect at CyberArk. Garima Bajpai is Founder of DevOps Community of Practice, Canada. Stephane DiCesare is Senior Platform Engineer, Platform Experience @DKB. Martin Reynolds is Field CTO @Harness. Renato Losio is Moderator, Cloud Expert, AWS Data Hero and InfoQ editor.",
+      "speakers": [
+        "Ran Isenberg",
+        "Garima Bajpai",
+        "Stephane DiCesare",
+        "Martin Reynolds",
+        "Renato Losio"
+      ],
+      "duration_s": 2642,
+      "published_at": "2025-11-20T12:20:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-nov-architecturedevex.mp4",
+      "id": "iq-developer-experience-load-autonomy",
+      "matched_youtube": false,
+      "edition": "infoq-live-november-2025",
+      "edition_name": "InfoQ Live - November 2025",
+      "year": 2025,
+      "transcript_words": 7647,
+      "fetched_at": "2026-09-01T21:34:45+00:00"
+    }
+  }
+}

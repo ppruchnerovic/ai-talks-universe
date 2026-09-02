@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2025-10-31T17:20:27Z
 video_id: ekqXHwXbkjU
+url: https://www.youtube.com/watch?v=ekqXHwXbkjU
 youtube_url: https://www.youtube.com/watch?v=ekqXHwXbkjU
 tags: ["AI", "Ethics", "Machine Learning", "GenAI", "ML", "LLM", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Lucía Conde-Moreno"]
 transcript: false

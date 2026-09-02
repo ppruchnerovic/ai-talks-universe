@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 28
 published_at: 2026-06-20T11:42:17Z
 video_id: tf6VNGH3tRk
+url: https://www.youtube.com/watch?v=tf6VNGH3tRk
 youtube_url: https://www.youtube.com/watch?v=tf6VNGH3tRk
 tags: ["AI DevCon", "AI DevCon London 2026", "AI agent harness", "AI agents", "Figma integration", "Seso product team strategies", "Tessl", "agent harness", "agentic workflows", "ainativedev", "codebase synchronization", "context drift in AI harnesses", "context engineering", "product design", "what is context engineering"]
 transcript: true

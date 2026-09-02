@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 60
 published_at: 2026-02-25T11:23:45Z
 video_id: rY8GpdjVQL0
+url: https://www.youtube.com/watch?v=rY8GpdjVQL0
 youtube_url: https://www.youtube.com/watch?v=rY8GpdjVQL0
 tags: [".NET", "AI", "Microservices", "LLM", "CNCF", "API", "Dapr", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "Great Britain", "England", "United Kingdom", "Marc Duiker"]
 transcript: true

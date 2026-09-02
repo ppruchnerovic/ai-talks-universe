@@ -12,6 +12,7 @@ channel: null
 duration_min: 30
 published_at: null
 video_id: rkuwoKt357c
+url: https://www.youtube.com/watch?v=rkuwoKt357c
 youtube_url: https://www.youtube.com/watch?v=rkuwoKt357c
 tags: []
 transcript: false

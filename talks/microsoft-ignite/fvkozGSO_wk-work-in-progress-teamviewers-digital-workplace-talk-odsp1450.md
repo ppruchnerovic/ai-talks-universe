@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oliver Steil"]
 channel: "Microsoft Events"
 duration_min: 21
 published_at: 2025-11-19T14:55:08Z
 video_id: fvkozGSO_wk
+url: https://www.youtube.com/watch?v=fvkozGSO_wk
 youtube_url: https://www.youtube.com/watch?v=fvkozGSO_wk
 tags: ["English (US)", "Financial Services", "ODSP1450", "ODSP1450_v1", "Oliver Steil", "Scale with cloud and AI endpoints", "Technical", "Work in progress: TeamViewer’s digital workplace talk | ODSP1450", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Work in progress: TeamViewer’s digital workplace talk | ODSP1450
 
-**Speaker not identified**
+**Oliver Steil**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `21 min`
 

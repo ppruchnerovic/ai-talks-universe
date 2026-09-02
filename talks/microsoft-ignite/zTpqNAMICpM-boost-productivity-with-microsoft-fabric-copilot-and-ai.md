@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mohammad Ali", "Nellie Gustafsson"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-25T12:52:20Z
 video_id: zTpqNAMICpM
+url: https://www.youtube.com/watch?v=zTpqNAMICpM
 youtube_url: https://www.youtube.com/watch?v=zTpqNAMICpM
 tags: ["AI", "Analytics", "Azure", "BRK197", "Boost productivity with Microsoft Fabric​ Copilot and AI | BRK197", "Breakout", "Copilot", "Data", "DataFactory", "DataScientist", "Datainsights", "English (US)", "Intermediate (200)", "Microsoft Copilot", "Microsoft Fabric", "Mohammad Ali", "Nellie Gustafsson", "PowerBI", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Boost productivity with Microsoft Fabric​ Copilot and AI | BRK197
 
-**Speaker not identified**
+**Mohammad Ali, Nellie Gustafsson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

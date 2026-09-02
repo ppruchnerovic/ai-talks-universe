@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-07-06T09:01:30Z
 video_id: C0H-_zdfXIc
+url: https://www.youtube.com/watch?v=C0H-_zdfXIc
 youtube_url: https://www.youtube.com/watch?v=C0H-_zdfXIc
 tags: [".NET", "AI", "GenAI", "NDC", "Conferences", "Live", "Fun", "Copenhagen", "Denmark", "Johan Smarius"]
 transcript: true

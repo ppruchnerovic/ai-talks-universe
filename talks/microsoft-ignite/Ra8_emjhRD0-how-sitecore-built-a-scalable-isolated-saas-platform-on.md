@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Deborah Chen", "Jeffrey Ilse", "Andrew Liu"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-20T15:44:34Z
 video_id: Ra8_emjhRD0
+url: https://www.youtube.com/watch?v=Ra8_emjhRD0
 youtube_url: https://www.youtube.com/watch?v=Ra8_emjhRD0
 tags: ["3f874d70-c3d8-4547-9642-3832a9c28a9b_Segment", "Andrew Liu", "BRK133", "Deborah Chen", "English (US)", "How Sitecore built a scalable isolated SaaS platform on Azure | BRK133", "Jeffrey Ilse", "Technical", "Unify your data platform", "Unify your data platform:Azure CosmosDB", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Sitecore built a scalable isolated SaaS platform on Azure | BRK133
 
-**Speaker not identified**
+**Deborah Chen, Jeffrey Ilse, Andrew Liu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,11 +7,12 @@ conference_name: "OWASP GenAI Security Project"
 category: "AI security"
 edition: "OWASP GenAI Security"
 year: 2026
-speakers: ["Steve Wilson", "Product Officer"]
+speakers: ["Steve Wilson"]
 channel: "OWASP GenAI Security Project"
 duration_min: 24
 published_at: 2026-01-13T00:49:27Z
 video_id: Ozd43VSkrjs
+url: https://www.youtube.com/watch?v=Ozd43VSkrjs
 youtube_url: https://www.youtube.com/watch?v=Ozd43VSkrjs
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # The Stochastic Shall Inherit the Earth (But Let’s Secure It First), Top 10 Risk for LLMs and GenAI
 
-**Steve Wilson, Product Officer**
+**Steve Wilson**
 
 `OWASP GenAI Security Project` · `OWASP GenAI Security` · `2026` · `24 min`
 

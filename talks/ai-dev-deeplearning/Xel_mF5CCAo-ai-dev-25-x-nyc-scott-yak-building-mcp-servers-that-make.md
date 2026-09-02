@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 27
 published_at: 2025-12-05T20:39:32Z
 video_id: Xel_mF5CCAo
+url: https://www.youtube.com/watch?v=Xel_mF5CCAo
 youtube_url: https://www.youtube.com/watch?v=Xel_mF5CCAo
 tags: []
 transcript: false

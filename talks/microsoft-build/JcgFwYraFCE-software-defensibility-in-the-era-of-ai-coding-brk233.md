@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chip Huyen"]
 channel: "Microsoft Developer"
 duration_min: 43
 published_at: 2026-06-03T11:05:13Z
 video_id: JcgFwYraFCE
+url: https://www.youtube.com/watch?v=JcgFwYraFCE
 youtube_url: https://www.youtube.com/watch?v=JcgFwYraFCE
 tags: ["6d282a65-465a-4585-a92b-ca528598b689_M9Z7-BRK233-1", "AI Toolkit", "Azure Copilot", "BRK233", "Chip Huyen", "PowerShell", "Software Defensibility in the era of AI coding | BRK233", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Software Defensibility in the era of AI coding | BRK233
 
-**Speaker not identified**
+**Chip Huyen**
 
 `Microsoft Build` · `Build 2026` · `2026` · `43 min`
 

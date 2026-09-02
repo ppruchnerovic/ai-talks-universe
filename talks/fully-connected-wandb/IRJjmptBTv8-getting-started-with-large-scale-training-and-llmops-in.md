@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 23
 published_at: 2024-05-20T20:00:08Z
 video_id: IRJjmptBTv8
+url: https://www.youtube.com/watch?v=IRJjmptBTv8
 youtube_url: https://www.youtube.com/watch?v=IRJjmptBTv8
 tags: []
 transcript: false

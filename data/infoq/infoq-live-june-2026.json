@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-june-2026",
+  "name": "InfoQ Live - June 2026",
+  "year": 2026,
+  "fetched_at": "2026-09-01T21:24:15+00:00",
+  "count": 1,
+  "talks": {
+    "ai-infrastructure-scaling-architecture": {
+      "slug": "ai-infrastructure-scaling-architecture",
+      "page_url": "https://www.infoq.com/presentations/ai-infrastructure-scaling-architecture/",
+      "has_transcript": true,
+      "title": "The Infrastructure Challenge behind Production AI",
+      "description": "The panelists explain the realities of running AI systems reliably at scale. While building models is solved, maintaining production databases under constant pressure is not. They discuss the emerging architectural decisions separating teams that scale gracefully from those facing catastrophic outages, and what engineering leaders must rethink today.\n\nSimerus Mahesh is Founding Engineer @Forge. Alex Infanzon is Senior Systems Engineer @Cockroach Labs. Meryem Arik is Co-Founder and CTO @Doubleword. Luca Bianchi is CTIO @MESA. Renato Losio is InfoQ Staff Editor, Cloud Expert and AWS Data Hero.",
+      "speakers": [
+        "Simerus Mahesh",
+        "Alex Infanzon",
+        "Meryem Arik",
+        "Luca Bianchi",
+        "Renato Losio"
+      ],
+      "duration_s": 3794,
+      "published_at": "2026-07-01T11:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-jun-infrastructureai.mp4",
+      "id": "iq-ai-infrastructure-scaling-architecture",
+      "matched_youtube": false,
+      "edition": "infoq-live-june-2026",
+      "edition_name": "InfoQ Live - June 2026",
+      "year": 2026,
+      "transcript_words": 7556,
+      "fetched_at": "2026-09-01T21:24:15+00:00"
+    }
+  }
+}

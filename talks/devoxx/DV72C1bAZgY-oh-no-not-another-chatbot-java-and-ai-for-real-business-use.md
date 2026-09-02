@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: ["Oh No"]
+speakers: ["Sandra Ahlgrimm"]
 channel: "Devoxx"
 duration_min: 46
 published_at: 2024-10-11T05:09:40Z
 video_id: DV72C1bAZgY
+url: https://www.youtube.com/watch?v=DV72C1bAZgY
 youtube_url: https://www.youtube.com/watch?v=DV72C1bAZgY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Oh No, Not Another Chatbot - Java and AI for Real Business Use Cases by Sandra Ahlgrimm
 
-**Oh No**
+**Sandra Ahlgrimm**
 
 `Devoxx` · `Devoxx` · `2024` · `46 min`
 

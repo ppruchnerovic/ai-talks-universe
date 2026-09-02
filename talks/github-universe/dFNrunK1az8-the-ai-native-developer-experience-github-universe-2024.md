@@ -12,6 +12,7 @@ channel: "GitHub"
 duration_min: 35
 published_at: null
 video_id: dFNrunK1az8
+url: https://www.youtube.com/watch?v=dFNrunK1az8
 youtube_url: https://www.youtube.com/watch?v=dFNrunK1az8
 tags: []
 transcript: false

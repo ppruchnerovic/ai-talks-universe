@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Doug Smith", "Miguel Duarte Barroso"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 75
 published_at: 2026-04-09T05:24:09Z
 video_id: BTSvZ3E82_w
+url: https://www.youtube.com/watch?v=BTSvZ3E82_w
 youtube_url: https://www.youtube.com/watch?v=BTSvZ3E82_w
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Tutorial: DRA-matically Simple: On-Demand GPUs for MLOps - Doug Smith & Miguel Duarte Barroso
 
-**Speaker not identified**
+**Doug Smith, Miguel Duarte Barroso**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `75 min`
 

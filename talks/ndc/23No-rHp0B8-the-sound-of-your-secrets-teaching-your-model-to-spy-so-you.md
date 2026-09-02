@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-08-11T09:05:06Z
 video_id: 23No-rHp0B8
+url: https://www.youtube.com/watch?v=23No-rHp0B8
 youtube_url: https://www.youtube.com/watch?v=23No-rHp0B8
 tags: ["Security", "Architecture", "Big Data", "Design", "Machine Learning", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "David vonThenen"]
 transcript: true

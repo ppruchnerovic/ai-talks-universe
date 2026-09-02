@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 45
 published_at: 2025-09-05T19:41:15Z
 video_id: VaRo-SebUfQ
+url: https://www.youtube.com/watch?v=VaRo-SebUfQ
 youtube_url: https://www.youtube.com/watch?v=VaRo-SebUfQ
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Shreya Rajpal"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2025-05-29T07:21:06Z
 video_id: qEELBE58qSI
+url: https://www.youtube.com/watch?v=qEELBE58qSI
 youtube_url: https://www.youtube.com/watch?v=qEELBE58qSI
 tags: ["guardrails", "AI safety", "generative AI", "ChatGPT", "artificial intelligence", "machine learning", "AI risk management", "responsible AI", "AI governance", "RAG chatbots", "autonomous agents", "risk assessment", "reliability monitoring", "Python tutorial", "safety protocols", "content filtering", "bias detection", "toxicity detection", "prompt injection", "jailbreaking", "alignment", "value alignment", "constitutional AI", "human feedback"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Future of Guardrails
 
-**Speaker not identified**
+**Shreya Rajpal**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `31 min`
 

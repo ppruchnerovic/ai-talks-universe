@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 57
 published_at: 2026-05-22T17:00:36Z
 video_id: 0LdM6qCrGAM
+url: https://www.youtube.com/watch?v=0LdM6qCrGAM
 youtube_url: https://www.youtube.com/watch?v=0LdM6qCrGAM
 tags: ["AI", "DevOps", "People", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "John Bristowe"]
 transcript: true

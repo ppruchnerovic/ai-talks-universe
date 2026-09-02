@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dipti Borkar", "Joshua Caplan", "Paul Purvis", "Adi Regev", "Clay Yeaman"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T08:30:17Z
 video_id: HjCaHgXezys
+url: https://www.youtube.com/watch?v=HjCaHgXezys
 youtube_url: https://www.youtube.com/watch?v=HjCaHgXezys
 tags: ["02b225c3-8c07-4151-b80d-3e00d9fdbc93_Segment", "Adi Regev", "BRK221", "Clay Yeaman", "Connect to and manage any data anywhere in Microsoft OneLake | BRK221", "Dipti Borkar", "English (US)", "Joshua Caplan", "Paul Purvis", "Technical", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Connect to and manage any data anywhere in Microsoft OneLake | BRK221
 
-**Speaker not identified**
+**Dipti Borkar, Joshua Caplan, Paul Purvis, Adi Regev, Clay Yeaman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

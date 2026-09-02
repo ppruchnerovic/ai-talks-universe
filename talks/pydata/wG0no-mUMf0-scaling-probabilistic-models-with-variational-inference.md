@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 29
 published_at: 2025-11-23T14:33:57Z
 video_id: wG0no-mUMf0
+url: https://www.youtube.com/watch?v=wG0no-mUMf0
 youtube_url: https://www.youtube.com/watch?v=wG0no-mUMf0
 tags: ["Bayesian statistics", "Conference", "GPU computing", "JAX", "MCMC", "NumPyro", "PyConDE", "PyData", "PyMC", "Python", "Tech Talk", "demand forecasting", "machine learning", "neural networks", "probabilistic programming", "production ML", "scalable inference", "variational inference"]
 transcript: false

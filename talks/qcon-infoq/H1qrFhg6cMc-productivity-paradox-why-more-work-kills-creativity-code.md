@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 26
 published_at: 2025-06-20T09:03:35Z
 video_id: H1qrFhg6cMc
+url: https://www.youtube.com/watch?v=H1qrFhg6cMc
 youtube_url: https://www.youtube.com/watch?v=H1qrFhg6cMc
 tags: ["Software Engineering", "Developer Productivity", "Tech Leadership", "Developer Experience", "Team Work", "Productivity", "Engineering Culture Podcast"]
 transcript: false

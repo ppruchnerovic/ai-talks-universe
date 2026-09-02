@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 32
 published_at: 2025-04-25T09:01:22Z
 video_id: qVluGVFleIg
+url: https://www.youtube.com/watch?v=qVluGVFleIg
 youtube_url: https://www.youtube.com/watch?v=qVluGVFleIg
 tags: ["Climate Change", "InfoQ Dev Summit", "Transcript", "Artificial Intelligence", "InfoQ", "Sustainable Engineering"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 23
 published_at: 2026-07-09T13:30:00+00:00
 video_id: qnSmsAg1DGc
+url: https://www.youtube.com/watch?v=qnSmsAg1DGc
 youtube_url: https://www.youtube.com/watch?v=qnSmsAg1DGc
 tags: ["Strategy & Innovation", "Compliance", "Entrepreneurship", "Fundraising", "Startups"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Daniël Floor"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2026-04-08T19:11:52Z
 video_id: SacYM4IGwUQ
+url: https://www.youtube.com/watch?v=SacYM4IGwUQ
 youtube_url: https://www.youtube.com/watch?v=SacYM4IGwUQ
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # AI at Every Step: Why Are You Still Doing the Dev Cycle by Hand? by Daniël Floor
 
-**Speaker not identified**
+**Daniël Floor**
 
 `Devoxx` · `Devoxx` · `2026` · `48 min`
 

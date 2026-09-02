@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Tadashi Okazaki"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T14:57:32Z
 video_id: Guf6iCNZKt8
+url: https://www.youtube.com/watch?v=Guf6iCNZKt8
 youtube_url: https://www.youtube.com/watch?v=Guf6iCNZKt8
 tags: ["52082998-f4df-4fbb-8b20-f285b89fd486_M9Z7-BRK209-1", "Azure", "BRK209", "Data", "DevTools", "GitHub", "Japan Wrap-up Session | BRK209", "Microsoft Foundry", "Security", "Tadashi Okazaki", "Windows", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Japan Wrap-up Session | BRK209
 
-**Speaker not identified**
+**Tadashi Okazaki**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

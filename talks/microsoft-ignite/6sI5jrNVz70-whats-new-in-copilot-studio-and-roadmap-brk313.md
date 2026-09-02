@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Omar Aftab", "Erez Altus", "Zac Cadi"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-12-03T21:38:26Z
 video_id: 6sI5jrNVz70
+url: https://www.youtube.com/watch?v=6sI5jrNVz70
 youtube_url: https://www.youtube.com/watch?v=6sI5jrNVz70
 tags: ["BRK313", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Innovate with low-code AI and agents", "What’s new in Copilot Studio and roadmap | BRK313", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # What’s new in Copilot Studio and roadmap | BRK313
 
-**Speaker not identified**
+**Omar Aftab, Erez Altus, Zac Cadi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

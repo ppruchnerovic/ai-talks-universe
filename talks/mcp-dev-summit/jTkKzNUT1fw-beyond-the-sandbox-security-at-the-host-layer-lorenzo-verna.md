@@ -7,11 +7,12 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Lorenzo Verna", "Pietro Valfrè"]
 channel: "Agentic AI Foundation"
 duration_min: 21
 published_at: 2026-04-13T23:16:17Z
 video_id: jTkKzNUT1fw
+url: https://www.youtube.com/watch?v=jTkKzNUT1fw
 youtube_url: https://www.youtube.com/watch?v=jTkKzNUT1fw
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Beyond the Sandbox: Security at the Host Layer - Lorenzo Verna & Pietro Valfrè, Denied
 
-**Speaker not identified**
+**Lorenzo Verna, Pietro Valfrè**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `21 min`
 

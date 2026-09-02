@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Makan Sepehrifar"]
 channel: "Devoxx"
 duration_min: 43
 published_at: 2026-04-01T08:05:39Z
 video_id: GPG4bMUapZc
+url: https://www.youtube.com/watch?v=GPG4bMUapZc
 youtube_url: https://www.youtube.com/watch?v=GPG4bMUapZc
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Who to blame? The AI, The Programmer, or The Prompt? by Makan Sepehrifar
 
-**Speaker not identified**
+**Makan Sepehrifar**
 
 `Devoxx` · `Devoxx` · `2026` · `43 min`
 

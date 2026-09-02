@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 51
 published_at: null
 video_id: vEwJQjcCMDc
+url: https://www.youtube.com/watch?v=vEwJQjcCMDc
 youtube_url: https://www.youtube.com/watch?v=vEwJQjcCMDc
 tags: []
 transcript: false

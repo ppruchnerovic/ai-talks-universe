@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 35
 published_at: 2026-06-03T18:22:30Z
 video_id: mqBYtaGLbMQ
+url: https://www.youtube.com/watch?v=mqBYtaGLbMQ
 youtube_url: https://www.youtube.com/watch?v=mqBYtaGLbMQ
 tags: []
 transcript: true

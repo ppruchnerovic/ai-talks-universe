@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ellie Bennett", "Denizhan Yigitbas"]
 channel: "Microsoft Developer"
 duration_min: 23
 published_at: 2026-06-04T12:10:58Z
 video_id: JJmmunwXcu8
+url: https://www.youtube.com/watch?v=JJmmunwXcu8
 youtube_url: https://www.youtube.com/watch?v=JJmmunwXcu8
 tags: ["DEM305", "Denizhan Yigitbas", "DevTools", "Developer", "Developer Tools & Frameworks", "Ellie Bennett", "GitHub", "GitHub Actions", "GitHub Copilot", "GitHub Copilot Anywhere: From Remote Control CLIs to Cloud Sandboxes | DEM305", "GitHub Copilot CLI", "GitHub Enterprise", "build", "build 2026", "c8128017-96b9-476c-9004-8ba91e2ef3cd_M9Z7-DEM305-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # GitHub Copilot Anywhere: From Remote Control CLIs to Cloud Sandboxes | DEM305
 
-**Speaker not identified**
+**Ellie Bennett, Denizhan Yigitbas**
 
 `Microsoft Build` · `Build 2026` · `2026` · `23 min`
 

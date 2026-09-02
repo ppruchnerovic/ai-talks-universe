@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nicole Herskowitz", "Jeff Teper", "Ryan Cunningham", "Stephan Kerametlian", "David Martin"]
 channel: "Microsoft Events"
 duration_min: 59
 published_at: 2024-11-25T15:45:43Z
 video_id: cv1H7KuyQ-E
+url: https://www.youtube.com/watch?v=cv1H7KuyQ-E
 youtube_url: https://www.youtube.com/watch?v=cv1H7KuyQ-E
 tags: ["David Martin", "English (US)", "GS05", "General Session", "Jeff Teper", "Modern Work", "Nicole Herskowitz", "Ryan Cunningham", "Stephan Kerametlian", "Technical", "Unlock the Value of Microsoft 365 Copilot and Copilot Studio | GS05", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlock the Value of Microsoft 365 Copilot and Copilot Studio | GS05
 
-**Speaker not identified**
+**Nicole Herskowitz, Jeff Teper, Ryan Cunningham, Stephan Kerametlian, David Martin**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `59 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Timothy Chan"]
 channel: "AI Council"
 duration_min: 39
 published_at: 2024-04-19T05:00:13Z
 video_id: LOhvpOFAlf4
+url: https://www.youtube.com/watch?v=LOhvpOFAlf4
 youtube_url: https://www.youtube.com/watch?v=LOhvpOFAlf4
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Beyond Simple A/B Testing: Advanced Experimentation Tactics
 
-**Speaker not identified**
+**Timothy Chan**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `39 min`
 

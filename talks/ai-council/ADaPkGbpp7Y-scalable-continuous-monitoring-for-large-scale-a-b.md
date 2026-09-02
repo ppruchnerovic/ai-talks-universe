@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Chenyu Qiu"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T13:46:31Z
 video_id: ADaPkGbpp7Y
+url: https://www.youtube.com/watch?v=ADaPkGbpp7Y
 youtube_url: https://www.youtube.com/watch?v=ADaPkGbpp7Y
 tags: ["Uber", "A B testing tutorial", "experimentation platform", "ChatGPT", "artificial intelligence", "machine learning", "data science tutorial", "analytics", "experimentation", "statistics", "product analytics", "continuous monitoring", "statistical inference", "Python tutorial", "large scale experimentation", "multi variate testing", "causal inference", "treatment effect estimation", "network effects", "interference", "randomization strategies", "stratification", "matching"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scalable Continuous Monitoring for Large scale A/B Experimentation
 
-**Speaker not identified**
+**Chenyu Qiu**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

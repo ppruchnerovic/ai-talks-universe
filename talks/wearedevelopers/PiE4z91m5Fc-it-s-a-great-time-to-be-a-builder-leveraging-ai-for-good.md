@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-09T09:30:00+00:00
 video_id: PiE4z91m5Fc
+url: https://www.youtube.com/watch?v=PiE4z91m5Fc
 youtube_url: https://www.youtube.com/watch?v=PiE4z91m5Fc
 tags: ["Frontend, Web & Mobile", "React", "React Native"]
 transcript: true

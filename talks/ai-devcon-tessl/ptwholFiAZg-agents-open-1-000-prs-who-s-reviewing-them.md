@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 6
 published_at: 2026-08-28T11:00:34Z
 video_id: ptwholFiAZg
+url: https://www.youtube.com/watch?v=ptwholFiAZg
 youtube_url: https://www.youtube.com/watch?v=ptwholFiAZg
 tags: []
 transcript: true

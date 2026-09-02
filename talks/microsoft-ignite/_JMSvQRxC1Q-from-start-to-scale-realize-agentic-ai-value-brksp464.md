@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kim Allison", "Charlie Doubek", "Geoff Newman"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-19T14:16:16Z
 video_id: _JMSvQRxC1Q
+url: https://www.youtube.com/watch?v=_JMSvQRxC1Q
 youtube_url: https://www.youtube.com/watch?v=_JMSvQRxC1Q
 tags: ["31267762-76df-4089-8b2c-f787b301b38a_Segment", "Agentic business applications", "BRKSP464", "Charlie Doubek", "English (US)", "From start to scale: Realize agentic AI value | BRKSP464", "Geoff Newman", "Kim Allison", "Retail and Consumer Goods", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From start to scale: Realize agentic AI value | BRKSP464
 
-**Speaker not identified**
+**Kim Allison, Charlie Doubek, Geoff Newman**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -12,6 +12,7 @@ channel: "TEDAI Vienna"
 duration_min: 74
 published_at: null
 video_id: N_kZ62-3MvU
+url: https://www.youtube.com/watch?v=N_kZ62-3MvU
 youtube_url: https://www.youtube.com/watch?v=N_kZ62-3MvU
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Ornella Bahidika"]
 channel: "AI Engineer"
 duration_min: 6
 published_at: 2026-07-20T00:00:00Z
 video_id: m24UKZomm7k
+url: https://www.youtube.com/watch?v=m24UKZomm7k
 youtube_url: https://www.youtube.com/watch?v=m24UKZomm7k
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft
 
-**Speaker not identified**
+**Ornella Bahidika**
 
 `AI Engineer` · `AI Engineer` · `2026` · `6 min`
 

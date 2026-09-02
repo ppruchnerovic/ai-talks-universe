@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Ansgar Grüne", "Giampaolo Casolla"]
+speakers: ["Ansgar Grüne"]
 channel: "PyData"
 duration_min: 44
 published_at: 2025-11-23T14:33:51Z
 video_id: JOye06P5JZI
+url: https://www.youtube.com/watch?v=JOye06P5JZI
 youtube_url: https://www.youtube.com/watch?v=JOye06P5JZI
 tags: ["Airflow", "Conference", "GPT-4", "LLM", "OpenAI", "PyConDE", "PyData", "PyData Berlin 2025", "PySpark", "Python", "Tech Talk", "batch processing", "cost optimization", "embeddings", "large language models", "machine learning at scale", "product categorization", "production ML", "prompt engineering", "text classification"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From Manual to LLMs: Scaling Product Categorization
 
-**Ansgar Grüne, Giampaolo Casolla**
+**Ansgar Grüne**
 
 `PyData` · `PyData` · `2025` · `44 min`
 

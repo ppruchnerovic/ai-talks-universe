@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Jon Peck", "Christopher Harrison"]
 channel: "AI Engineer"
 duration_min: 64
 published_at: 2025-06-27T00:00:00Z
 video_id: G1hhmz6mXT0
+url: https://www.youtube.com/watch?v=G1hhmz6mXT0
 youtube_url: https://www.youtube.com/watch?v=G1hhmz6mXT0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Collaborating with Agents in your Software Dev Workflow - Jon Peck & Christopher Harrison, Microsoft
 
-**Speaker not identified**
+**Jon Peck, Christopher Harrison**
 
 `AI Engineer` · `AI Engineer` · `2025` · `64 min`
 

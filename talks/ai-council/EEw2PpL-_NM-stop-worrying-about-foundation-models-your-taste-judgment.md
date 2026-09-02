@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hamel Husain"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2025-05-29T14:36:32Z
 video_id: EEw2PpL-_NM
+url: https://www.youtube.com/watch?v=EEw2PpL-_NM
 youtube_url: https://www.youtube.com/watch?v=EEw2PpL-_NM
 tags: ["GitHub", "DataRobot", "ChatGPT", "artificial intelligence", "machine learning", "AI business", "product strategy", "foundation models", "AI products", "product development", "model capabilities", "user experience", "business considerations", "Python tutorial", "platform strategy", "developer tools", "open source strategy", "community building", "API design", "integration strategies", "partner ecosystem", "marketplace dynamics", "customer success", "product analytics"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Stop Worrying About Foundation Models — Your Taste, Judgment, and UX Are the Real Moat
 
-**Speaker not identified**
+**Hamel Husain**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `15 min`
 

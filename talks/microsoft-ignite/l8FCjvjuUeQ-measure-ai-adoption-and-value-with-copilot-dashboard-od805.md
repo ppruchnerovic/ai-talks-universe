@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Florine Segers", "Abel Tadesse"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2024-11-20T12:56:39Z
 video_id: l8FCjvjuUeQ
+url: https://www.youtube.com/watch?v=l8FCjvjuUeQ
 youtube_url: https://www.youtube.com/watch?v=l8FCjvjuUeQ
 tags: ["AI", "Abel Tadesse", "Adoption", "Copilot for M365", "English (US)", "Florine Segers", "Measure AI adoption and value with Copilot Dashboard | OD805", "Modern Work", "OD805", "Pre-recorded", "Version v0", "Viva", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Measure AI adoption and value with Copilot Dashboard | OD805
 
-**Speaker not identified**
+**Florine Segers, Abel Tadesse**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `16 min`
 

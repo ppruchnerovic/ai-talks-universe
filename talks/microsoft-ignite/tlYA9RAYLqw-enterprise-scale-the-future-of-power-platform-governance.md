@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ryan Jones", "Shawn Nandi", "Lianne Zelsman"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2024-11-21T10:00:06Z
 video_id: tlYA9RAYLqw
+url: https://www.youtube.com/watch?v=tlYA9RAYLqw
 youtube_url: https://www.youtube.com/watch?v=tlYA9RAYLqw
 tags: ["Advanced (300)", "BRK180", "Breakout", "Business Applications", "Business Applications-Curated", "English (US)", "Enterprise Scale: The Future of Power Platform Governance + Security | BRK180", "Lianne Zelsman", "Ryan Jones", "Shawn Nandi", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Enterprise Scale: The Future of Power Platform Governance + Security | BRK180
 
-**Speaker not identified**
+**Ryan Jones, Shawn Nandi, Lianne Zelsman**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `40 min`
 

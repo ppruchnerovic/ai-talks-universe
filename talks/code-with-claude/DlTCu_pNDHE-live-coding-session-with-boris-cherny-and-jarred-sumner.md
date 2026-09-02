@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 32
 published_at: 2026-05-06T21:31:24Z
 video_id: DlTCu_pNDHE
+url: https://www.youtube.com/watch?v=DlTCu_pNDHE
 youtube_url: https://www.youtube.com/watch?v=DlTCu_pNDHE
 tags: []
 transcript: true

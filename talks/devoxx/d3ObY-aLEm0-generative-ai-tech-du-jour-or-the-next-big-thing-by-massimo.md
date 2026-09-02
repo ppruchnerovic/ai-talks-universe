@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Massimo Re Ferre'"]
 channel: "Devoxx"
 duration_min: 53
 published_at: 2025-10-10T05:09:25Z
 video_id: d3ObY-aLEm0
+url: https://www.youtube.com/watch?v=d3ObY-aLEm0
 youtube_url: https://www.youtube.com/watch?v=d3ObY-aLEm0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Generative AI: tech du jour or the next big thing? by Massimo Re Ferre'
 
-**Speaker not identified**
+**Massimo Re Ferre'**
 
 `Devoxx` · `Devoxx` · `2025` · `53 min`
 

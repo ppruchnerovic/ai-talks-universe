@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 17
 published_at: 2025-04-10T19:47:37Z
 video_id: kPL-6-9MVyA
+url: https://www.youtube.com/watch?v=kPL-6-9MVyA
 youtube_url: https://www.youtube.com/watch?v=kPL-6-9MVyA
 tags: []
 transcript: false

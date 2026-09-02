@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Marcelo Dichtchekenian", "Matt Goddard", "Sela Gu"]
 channel: "Microsoft Events"
 duration_min: 53
 published_at: 2024-11-27T12:38:45Z
 video_id: u6MVINnzAt4
+url: https://www.youtube.com/watch?v=u6MVINnzAt4
 youtube_url: https://www.youtube.com/watch?v=u6MVINnzAt4
 tags: ["Accelerate your CSP business in the era of AI | BRK300", "BRK300", "Breakout", "English (US)", "Foundational (100)", "Marcelo Dichtchekenian", "Matt Goddard", "Modern Work", "Modern Work-Curated", "Partner Business", "Sela Gu", "Solution Area", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerate your CSP business in the era of AI | BRK300
 
-**Speaker not identified**
+**Marcelo Dichtchekenian, Matt Goddard, Sela Gu**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `53 min`
 

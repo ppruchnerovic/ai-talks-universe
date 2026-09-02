@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 18
 published_at: 2026-07-22T13:41:08Z
 video_id: LUemJGG2k4c
+url: https://www.youtube.com/watch?v=LUemJGG2k4c
 youtube_url: https://www.youtube.com/watch?v=LUemJGG2k4c
 tags: ["LinkedIn", "Tracy He", "Shang Liu", "hiring agent", "LangGraph", "LangChain", "LangSmith", "AI recruiting", "small business hiring", "plan execute replan", "human in the loop", "harness engineering", "deterministic agent", "checkpoint trimming", "state flag chaining", "one-shot tool guards", "signal-only tools", "agent platform", "conversational memory", "experiential memory", "LLM-as-judge", "agent evaluation", "agentic AI", "Interrupt conference"]
 transcript: true

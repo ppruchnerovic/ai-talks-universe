@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 44
 published_at: 2025-03-17T08:46:05Z
 video_id: Fo-QP_SY9Dc
+url: https://www.youtube.com/watch?v=Fo-QP_SY9Dc
 youtube_url: https://www.youtube.com/watch?v=Fo-QP_SY9Dc
 tags: ["Prompt Engineering", "AI", "Software Development", "Programming", "Coding", "GenAI", "AI Agents", "InfoQ", "QCon San Francisco", "Artificial Intelligence"]
 transcript: false

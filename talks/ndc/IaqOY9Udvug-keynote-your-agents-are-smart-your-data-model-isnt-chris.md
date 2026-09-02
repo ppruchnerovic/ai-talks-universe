@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 58
 published_at: 2026-05-21T07:05:55Z
 video_id: IaqOY9Udvug
+url: https://www.youtube.com/watch?v=IaqOY9Udvug
 youtube_url: https://www.youtube.com/watch?v=IaqOY9Udvug
 tags: ["AI", "LLM", "Data", "API", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Chris Auld"]
 transcript: true

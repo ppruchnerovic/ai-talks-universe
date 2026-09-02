@@ -12,6 +12,7 @@ channel: "Nicolas Papernot"
 duration_min: 12
 published_at: null
 video_id: Wu-PNhk_ipc
+url: https://www.youtube.com/watch?v=Wu-PNhk_ipc
 youtube_url: https://www.youtube.com/watch?v=Wu-PNhk_ipc
 tags: []
 transcript: false

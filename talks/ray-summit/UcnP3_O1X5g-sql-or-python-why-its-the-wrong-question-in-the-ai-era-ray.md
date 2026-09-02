@@ -12,6 +12,7 @@ channel: null
 duration_min: 15
 published_at: null
 video_id: UcnP3_O1X5g
+url: https://www.youtube.com/watch?v=UcnP3_O1X5g
 youtube_url: https://www.youtube.com/watch?v=UcnP3_O1X5g
 tags: []
 transcript: false

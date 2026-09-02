@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 16
 published_at: 2025-08-22T00:00:00Z
 video_id: CiMVKnX-CNI
+url: https://www.youtube.com/watch?v=CiMVKnX-CNI
 youtube_url: https://www.youtube.com/watch?v=CiMVKnX-CNI
 tags: []
 transcript: false

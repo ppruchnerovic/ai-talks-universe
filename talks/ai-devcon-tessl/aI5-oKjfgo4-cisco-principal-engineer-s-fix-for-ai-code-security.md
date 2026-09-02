@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 33
 published_at: 2026-02-25T09:00:02Z
 video_id: aI5-oKjfgo4
+url: https://www.youtube.com/watch?v=aI5-oKjfgo4
 youtube_url: https://www.youtube.com/watch?v=aI5-oKjfgo4
 tags: ["AI code security", "AI skill development", "AI tools", "Agent skills", "Agentic development", "Cisco", "Cisco open source CodeGuard", "CodeGuard", "Coding agents", "OWASP", "Tessl registry", "ainativedev", "code security AI", "how to fix insecure AI code", "what is CodeGuard"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Roop Kiran Chevuri", "Phil Gerity"]
 channel: "Microsoft Developer"
 duration_min: 28
 published_at: 2026-06-03T07:57:40Z
 video_id: qDo0TPRaN-E
+url: https://www.youtube.com/watch?v=qDo0TPRaN-E
 youtube_url: https://www.youtube.com/watch?v=qDo0TPRaN-E
 tags: ["Accelerating developer productivity with Windows 365 | OD855", "Azure Local", "GitHub", "GitHub Copilot", "OD855", "OD855_v1", "Phil Gerity", "Roop Kiran Chevuri", "Visual Studio", "Windows", "Windows 365", "Windows 365 for Agents", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Accelerating developer productivity with Windows 365 | OD855
 
-**Speaker not identified**
+**Roop Kiran Chevuri, Phil Gerity**
 
 `Microsoft Build` · `Build 2026` · `2026` · `28 min`
 

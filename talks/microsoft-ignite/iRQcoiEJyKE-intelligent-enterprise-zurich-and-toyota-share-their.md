@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brouhon Cédric", "Tim Stabler", "Ravi Chandu Ummadisetti"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-24T10:32:04Z
 video_id: iRQcoiEJyKE
+url: https://www.youtube.com/watch?v=iRQcoiEJyKE
 youtube_url: https://www.youtube.com/watch?v=iRQcoiEJyKE
 tags: ["BRKSP476", "BRKSP476_v1", "Brouhon Cédric", "English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Intelligent enterprise: Zurich and Toyota share their playbook | BRKSP476", "Ravi Chandu Ummadisetti", "Technical", "Tim Stabler", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Intelligent enterprise: Zurich and Toyota share their playbook | BRKSP476
 
-**Speaker not identified**
+**Brouhon Cédric, Tim Stabler, Ravi Chandu Ummadisetti**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T12:10:00+00:00
 video_id: wRBDzv9Ai7E
+url: https://www.youtube.com/watch?v=wRBDzv9Ai7E
 youtube_url: https://www.youtube.com/watch?v=wRBDzv9Ai7E
 tags: ["Languages & Runtimes", "Rust", "Runtimes", "WebAssembly"]
 transcript: true

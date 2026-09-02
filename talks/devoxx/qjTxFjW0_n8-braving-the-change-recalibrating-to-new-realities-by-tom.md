@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Tom Cools"]
 channel: "Devoxx"
 duration_min: 49
 published_at: 2025-10-09T05:35:18Z
 video_id: qjTxFjW0_n8
+url: https://www.youtube.com/watch?v=qjTxFjW0_n8
 youtube_url: https://www.youtube.com/watch?v=qjTxFjW0_n8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Braving the Change: Recalibrating to new realities by Tom Cools
 
-**Speaker not identified**
+**Tom Cools**
 
 `Devoxx` · `Devoxx` · `2025` · `49 min`
 

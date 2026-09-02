@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Amit Sangani"]
 channel: "AI Council"
 duration_min: 40
 published_at: 2024-04-19T05:00:06Z
 video_id: ExrssraUlJ4
+url: https://www.youtube.com/watch?v=ExrssraUlJ4
 youtube_url: https://www.youtube.com/watch?v=ExrssraUlJ4
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Innovating with Open Generative AI
 
-**Speaker not identified**
+**Amit Sangani**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `40 min`
 

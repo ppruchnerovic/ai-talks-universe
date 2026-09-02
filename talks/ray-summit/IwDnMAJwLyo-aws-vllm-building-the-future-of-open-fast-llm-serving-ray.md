@@ -12,6 +12,7 @@ channel: null
 duration_min: 14
 published_at: null
 video_id: IwDnMAJwLyo
+url: https://www.youtube.com/watch?v=IwDnMAJwLyo
 youtube_url: https://www.youtube.com/watch?v=IwDnMAJwLyo
 tags: []
 transcript: false

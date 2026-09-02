@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 48
 published_at: 2026-02-03T13:58:55Z
 video_id: gjEHaZzHWnM
+url: https://www.youtube.com/watch?v=gjEHaZzHWnM
 youtube_url: https://www.youtube.com/watch?v=gjEHaZzHWnM
 tags: ["AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United Kingdom", "Robert Hogg"]
 transcript: true

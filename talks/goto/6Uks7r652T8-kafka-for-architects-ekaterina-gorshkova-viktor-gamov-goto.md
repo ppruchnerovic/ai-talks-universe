@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ekaterina Gorshkova", "Viktor Gamov"]
 channel: "GOTO Conferences"
 duration_min: 28
 published_at: 2026-04-23T12:00:11Z
 video_id: 6Uks7r652T8
+url: https://www.youtube.com/watch?v=6Uks7r652T8
 youtube_url: https://www.youtube.com/watch?v=6Uks7r652T8
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Ekaterina Gorshkova", "Katya Gorshkova", "Viktor Gamov", "Kafka for Architects", "Software Architecture", "Apache Kafka", "Kafka", "Event Streaming", "Event-Driven Architecture", "Data Integration", "Kafka Tutorial", "Data Pipelines", "Streaming Analytics"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Kafka for Architects • Ekaterina Gorshkova & Viktor Gamov • GOTO 2026
 
-**Speaker not identified**
+**Ekaterina Gorshkova, Viktor Gamov**
 
 `GOTO Conferences` · `GOTO` · `2026` · `28 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 20
 published_at: 2026-07-09T14:10:00+00:00
 video_id: NjSDmkjUV-Q
+url: https://www.youtube.com/watch?v=NjSDmkjUV-Q
 youtube_url: https://www.youtube.com/watch?v=NjSDmkjUV-Q
 tags: ["AI Agents", "Agentic AI", "Best Practices", "Startups"]
 transcript: true

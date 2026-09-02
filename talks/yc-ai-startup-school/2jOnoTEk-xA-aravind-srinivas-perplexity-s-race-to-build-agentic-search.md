@@ -12,6 +12,7 @@ channel: "Y Combinator"
 duration_min: 43
 published_at: 2025-07-11T14:37:45Z
 video_id: 2jOnoTEk-xA
+url: https://www.youtube.com/watch?v=2jOnoTEk-xA
 youtube_url: https://www.youtube.com/watch?v=2jOnoTEk-xA
 tags: ["YC", "Y Combinator"]
 transcript: false

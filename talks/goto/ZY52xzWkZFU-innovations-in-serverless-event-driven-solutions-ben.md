@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Ben Ellerby", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 44
 published_at: 2025-02-07T11:34:00Z
 video_id: ZY52xzWkZFU
+url: https://www.youtube.com/watch?v=ZY52xzWkZFU
 youtube_url: https://www.youtube.com/watch?v=ZY52xzWkZFU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Innovations in Serverless & Event-Driven Solutions • Ben Ellerby & Julian Wood
 
-**Speaker not identified**
+**Ben Ellerby, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `44 min`
 

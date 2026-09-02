@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 34
 published_at: 2026-07-10T14:20:00+00:00
 video_id: pTmqsWqHlYQ
+url: https://www.youtube.com/watch?v=pTmqsWqHlYQ
 youtube_url: https://www.youtube.com/watch?v=pTmqsWqHlYQ
 tags: ["Career & Growth", "Career Development"]
 transcript: true

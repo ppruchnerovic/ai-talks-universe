@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Amanda Wang", "Paul Yu"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-20T15:40:19Z
 video_id: DKEo7LqpVAM
+url: https://www.youtube.com/watch?v=DKEo7LqpVAM
 youtube_url: https://www.youtube.com/watch?v=DKEo7LqpVAM
 tags: ["Amanda Wang", "BRK121", "English (US)", "From zero to Kubernetes with AKS Automatic | BRK121", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Paul Yu", "Technical", "bb99cfe3-6fa3-4ba3-8bed-0f6da19a8c18_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From zero to Kubernetes with AKS Automatic | BRK121
 
-**Speaker not identified**
+**Amanda Wang, Paul Yu**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

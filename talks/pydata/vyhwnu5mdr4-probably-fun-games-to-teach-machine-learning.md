@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Dr. Kristian Rother", "Shreyaasri Prakash"]
+speakers: ["Dr. Kristian Rother"]
 channel: "PyData"
 duration_min: 78
 published_at: 2025-11-23T14:33:57Z
 video_id: vyhwnu5mdr4
+url: https://www.youtube.com/watch?v=vyhwnu5mdr4
 youtube_url: https://www.youtube.com/watch?v=vyhwnu5mdr4
 tags: ["AI education", "Conference", "NLP", "PyConDE", "PyData", "PyData Berlin", "Python", "Tech Talk", "beginner friendly", "board games", "classroom activities", "data science education", "decision trees", "education", "gamification", "interactive learning", "machine learning", "random forests", "teaching methods", "technical training"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Probably Fun: Games to teach Machine Learning
 
-**Dr. Kristian Rother, Shreyaasri Prakash**
+**Dr. Kristian Rother**
 
 `PyData` · `PyData` · `2025` · `78 min`
 

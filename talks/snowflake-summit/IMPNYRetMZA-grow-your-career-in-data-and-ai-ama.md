@@ -12,6 +12,7 @@ channel: "Snowflake Developers"
 duration_min: 40
 published_at: null
 video_id: IMPNYRetMZA
+url: https://www.youtube.com/watch?v=IMPNYRetMZA
 youtube_url: https://www.youtube.com/watch?v=IMPNYRetMZA
 tags: []
 transcript: false

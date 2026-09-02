@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 26
 published_at: 2025-11-23T14:33:55Z
 video_id: qNa2eZjgi-4
+url: https://www.youtube.com/watch?v=qNa2eZjgi-4
 youtube_url: https://www.youtube.com/watch?v=qNa2eZjgi-4
 tags: ["Bayesian statistics", "Conference", "Media Mix Modeling", "PyConDE", "PyData", "PyMC", "PyMC Marketing", "Python", "Tech Talk", "budget allocation", "causal inference", "conference talk", "data science", "marketing ROI", "marketing analytics", "probabilistic programming", "risk optimization", "uncertainty quantification"]
 transcript: false

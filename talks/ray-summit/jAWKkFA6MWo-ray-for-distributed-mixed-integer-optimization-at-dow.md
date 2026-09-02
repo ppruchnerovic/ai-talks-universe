@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 28
 published_at: 2023-02-09T01:55:53Z
 video_id: jAWKkFA6MWo
+url: https://www.youtube.com/watch?v=jAWKkFA6MWo
 youtube_url: https://www.youtube.com/watch?v=jAWKkFA6MWo
 tags: []
 transcript: false

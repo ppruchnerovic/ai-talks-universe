@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 22
 published_at: 2025-11-19T13:00:54Z
 video_id: EjdRRROAiUI
+url: https://www.youtube.com/watch?v=EjdRRROAiUI
 youtube_url: https://www.youtube.com/watch?v=EjdRRROAiUI
 tags: ["English (US)", "ODSP1487", "ODSP1487_v2", "Practical PostgreSQL and LLM observability on Azure | ODSP1487", "Ryan MacLean", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

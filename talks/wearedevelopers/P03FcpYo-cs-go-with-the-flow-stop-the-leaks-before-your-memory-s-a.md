@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T11:30:00+00:00
 video_id: P03FcpYo-cs
+url: https://www.youtube.com/watch?v=P03FcpYo-cs
 youtube_url: https://www.youtube.com/watch?v=P03FcpYo-cs
 tags: ["Languages & Runtimes", "Best Practices", "Compilers", "Go"]
 transcript: true

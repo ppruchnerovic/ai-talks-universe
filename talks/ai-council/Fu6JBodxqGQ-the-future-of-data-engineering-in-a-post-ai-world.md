@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Michelle Ufford Winters"]
 channel: "AI Council"
 duration_min: 35
 published_at: 2024-04-19T05:00:06Z
 video_id: Fu6JBodxqGQ
+url: https://www.youtube.com/watch?v=Fu6JBodxqGQ
 youtube_url: https://www.youtube.com/watch?v=Fu6JBodxqGQ
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Future of Data Engineering in a Post-AI World
 
-**Speaker not identified**
+**Michelle Ufford Winters**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `35 min`
 

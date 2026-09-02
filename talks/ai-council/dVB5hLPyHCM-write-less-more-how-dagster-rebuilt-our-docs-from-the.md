@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Pedram Navid"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2025-05-29T00:45:09Z
 video_id: dVB5hLPyHCM
+url: https://www.youtube.com/watch?v=dVB5hLPyHCM
 youtube_url: https://www.youtube.com/watch?v=dVB5hLPyHCM
 tags: ["documentation", "technical writing", "ChatGPT", "artificial intelligence", "machine learning", "developer tools", "software documentation", "developer experience", "docs rebuild", "documentation maintenance", "Python tutorial", "API documentation", "user guides", "tutorials", "knowledge management", "content management", "information architecture", "writing tools", "collaboration tools", "version control", "automated documentation", "document generation"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Write Less More: How Dagster Rebuilt Our Docs From the Ground Up
 
-**Speaker not identified**
+**Pedram Navid**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `12 min`
 

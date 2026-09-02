@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 105
 published_at: 2026-05-26T17:00:06Z
 video_id: ESbWpPT_9-o
+url: https://www.youtube.com/watch?v=ESbWpPT_9-o
 youtube_url: https://www.youtube.com/watch?v=ESbWpPT_9-o
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

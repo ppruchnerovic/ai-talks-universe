@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T09:40:00+00:00
 video_id: zYqhUmZLbu4
+url: https://www.youtube.com/watch?v=zYqhUmZLbu4
 youtube_url: https://www.youtube.com/watch?v=zYqhUmZLbu4
 tags: ["Backend & APIs", "APIs", "ASP.NET", "Software Architecture"]
 transcript: true

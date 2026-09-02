@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Paul Usher"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-03T11:06:49Z
 video_id: _dTUUKlvKx8
+url: https://www.youtube.com/watch?v=_dTUUKlvKx8
 youtube_url: https://www.youtube.com/watch?v=_dTUUKlvKx8
 tags: ["AI", "Build AI-first business apps that turn dashboards into actions | ODSP911", "DevTools", "Developer", "Developer Frameworks", "ODSP911", "ODSP911_v1", "Paul Usher", "Software Development Company", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build AI-first business apps that turn dashboards into actions | ODSP911
 
-**Speaker not identified**
+**Paul Usher**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

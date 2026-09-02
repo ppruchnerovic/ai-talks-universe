@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-09T14:50:00+00:00
 video_id: MmxafStlarA
+url: https://www.youtube.com/watch?v=MmxafStlarA
 youtube_url: https://www.youtube.com/watch?v=MmxafStlarA
 tags: ["Quality & Reliability"]
 transcript: true

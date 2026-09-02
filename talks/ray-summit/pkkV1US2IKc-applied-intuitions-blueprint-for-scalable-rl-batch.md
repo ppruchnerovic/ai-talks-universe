@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: pkkV1US2IKc
+url: https://www.youtube.com/watch?v=pkkV1US2IKc
 youtube_url: https://www.youtube.com/watch?v=pkkV1US2IKc
 tags: []
 transcript: false

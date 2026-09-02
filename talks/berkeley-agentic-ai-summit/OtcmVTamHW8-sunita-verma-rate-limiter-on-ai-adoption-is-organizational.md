@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 17
 published_at: 2026-08-12T01:58:24Z
 video_id: OtcmVTamHW8
+url: https://www.youtube.com/watch?v=OtcmVTamHW8
 youtube_url: https://www.youtube.com/watch?v=OtcmVTamHW8
 tags: []
 transcript: true

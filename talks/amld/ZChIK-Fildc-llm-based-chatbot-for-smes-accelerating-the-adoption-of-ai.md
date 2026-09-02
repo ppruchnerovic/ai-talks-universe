@@ -12,6 +12,7 @@ channel: "AMLD Intelligence Summit"
 duration_min: 12
 published_at: 2024-05-15T09:12:37Z
 video_id: ZChIK-Fildc
+url: https://www.youtube.com/watch?v=ZChIK-Fildc
 youtube_url: https://www.youtube.com/watch?v=ZChIK-Fildc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
 transcript: false

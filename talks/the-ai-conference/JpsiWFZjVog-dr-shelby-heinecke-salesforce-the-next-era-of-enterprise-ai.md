@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 26
 published_at: 2026-05-06T19:26:21Z
 video_id: JpsiWFZjVog
+url: https://www.youtube.com/watch?v=JpsiWFZjVog
 youtube_url: https://www.youtube.com/watch?v=JpsiWFZjVog
 tags: []
 transcript: true

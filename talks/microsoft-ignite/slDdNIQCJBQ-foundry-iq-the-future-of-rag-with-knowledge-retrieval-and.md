@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Pablo Castro"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T07:32:34Z
 video_id: slDdNIQCJBQ
+url: https://www.youtube.com/watch?v=slDdNIQCJBQ
 youtube_url: https://www.youtube.com/watch?v=slDdNIQCJBQ
 tags: ["BRK196", "English (US)", "Foundry IQ: the future of RAG with knowledge retrieval and AI Search | BRK196", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Pablo Castro", "Technical", "d97f5d0c-c94c-46fa-86ca-987443862654_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Foundry IQ: the future of RAG with knowledge retrieval and AI Search | BRK196
 
-**Speaker not identified**
+**Pablo Castro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

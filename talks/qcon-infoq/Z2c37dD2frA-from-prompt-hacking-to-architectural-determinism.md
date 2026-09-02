@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-06-24T09:00:40Z
 video_id: Z2c37dD2frA
+url: https://www.youtube.com/watch?v=Z2c37dD2frA
 youtube_url: https://www.youtube.com/watch?v=Z2c37dD2frA
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Prompt Engineering", "Software Engineering", "AI Reliability", "MLOps", "AI Governance"]
 transcript: true

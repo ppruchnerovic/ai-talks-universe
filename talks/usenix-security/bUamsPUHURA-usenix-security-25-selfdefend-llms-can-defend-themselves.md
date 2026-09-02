@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 12
 published_at: 2025-10-30T20:00:26Z
 video_id: bUamsPUHURA
+url: https://www.youtube.com/watch?v=bUamsPUHURA
 youtube_url: https://www.youtube.com/watch?v=bUamsPUHURA
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

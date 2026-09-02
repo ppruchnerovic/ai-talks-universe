@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:53Z
 video_id: a7_bZpOR6_Q
+url: https://www.youtube.com/watch?v=a7_bZpOR6_Q
 youtube_url: https://www.youtube.com/watch?v=a7_bZpOR6_Q
 tags: ["AWS", "Azure", "Conference", "GCP", "GPU computing", "LLM inference", "MLOps", "PyConDE", "PyData", "PyData Berlin", "Python", "Tech Talk", "benchmarking", "cloud computing", "cost optimization", "infrastructure", "machine learning", "open source", "performance testing"]
 transcript: false

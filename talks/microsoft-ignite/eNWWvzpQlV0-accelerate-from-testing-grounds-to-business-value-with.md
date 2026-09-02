@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lutz Beck", "Jens Krueger", "Michael Sicker"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T15:36:33Z
 video_id: eNWWvzpQlV0
+url: https://www.youtube.com/watch?v=eNWWvzpQlV0
 youtube_url: https://www.youtube.com/watch?v=eNWWvzpQlV0
 tags: ["AI", "Accelerate from testing grounds to business value with GenAI in motion | BRKFP388", "Automation", "BRKFP388", "Breakout", "Custom copilot(s)", "Deployment", "Development", "English (US)", "Enterprise work management", "Foundational (100)", "Jens Krueger", "Lutz Beck", "Responsible AI", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerate from testing grounds to business value with GenAI in motion | BRKFP388
 
-**Speaker not identified**
+**Lutz Beck, Jens Krueger, Michael Sicker**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

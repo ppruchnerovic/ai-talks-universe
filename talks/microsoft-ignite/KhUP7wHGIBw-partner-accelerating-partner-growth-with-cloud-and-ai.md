@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Cynthia Batzli", "Sydney Carey", "Mario De Ridder", "Jay Parekh"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T13:36:18Z
 video_id: KhUP7wHGIBw
+url: https://www.youtube.com/watch?v=KhUP7wHGIBw
 youtube_url: https://www.youtube.com/watch?v=KhUP7wHGIBw
 tags: ["7fcc55d7-ee98-43c3-8d44-211b4c500033_Segment", "Cynthia Batzli", "English (US)", "Jay Parekh", "Mario De Ridder", "Microsoft AI Cloud Partner Program", "PBRK349", "Partner Business", "Partner: Accelerating partner growth with Cloud and AI Endpoints | PBRK349", "Scale with cloud and AI endpoints", "Sydney Carey", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partner: Accelerating partner growth with Cloud and AI Endpoints | PBRK349
 
-**Speaker not identified**
+**Cynthia Batzli, Sydney Carey, Mario De Ridder, Jay Parekh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

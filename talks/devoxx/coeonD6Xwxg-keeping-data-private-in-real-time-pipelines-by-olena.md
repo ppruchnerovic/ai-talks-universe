@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Olena Kutsenko"]
 channel: "Devoxx"
 duration_min: 33
 published_at: 2026-03-30T19:00:00Z
 video_id: coeonD6Xwxg
+url: https://www.youtube.com/watch?v=coeonD6Xwxg
 youtube_url: https://www.youtube.com/watch?v=coeonD6Xwxg
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Keeping data private in real-time pipelines by Olena Kutsenko
 
-**Speaker not identified**
+**Olena Kutsenko**
 
 `Devoxx` · `Devoxx` · `2026` · `33 min`
 

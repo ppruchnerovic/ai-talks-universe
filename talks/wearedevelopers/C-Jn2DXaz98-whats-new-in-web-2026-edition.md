@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 32
 published_at: 2026-07-09T08:10:00+00:00
 video_id: C-Jn2DXaz98
+url: https://www.youtube.com/watch?v=C-Jn2DXaz98
 youtube_url: https://www.youtube.com/watch?v=C-Jn2DXaz98
 tags: ["Frontend, Web & Mobile", "Agentic AI", "CSS", "JavaScript", "Progressive Web Apps (PWAs)", "Web Standards", "WebNN"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Brent Cohn"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2024-04-19T05:00:17Z
 video_id: R6jfAlVjz5I
+url: https://www.youtube.com/watch?v=R6jfAlVjz5I
 youtube_url: https://www.youtube.com/watch?v=R6jfAlVjz5I
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Optimization and Contextual Bandits at Stripe
 
-**Speaker not identified**
+**Brent Cohn**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `26 min`
 

@@ -12,6 +12,7 @@ channel: null
 duration_min: 105
 published_at: null
 video_id: Lury2ad6KG8
+url: https://www.youtube.com/watch?v=Lury2ad6KG8
 youtube_url: https://www.youtube.com/watch?v=Lury2ad6KG8
 tags: []
 transcript: false

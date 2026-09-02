@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Slater Stich"]
 channel: "AI Council"
 duration_min: 13
 published_at: 2024-04-19T05:00:22Z
 video_id: obfI1Dv9U9w
+url: https://www.youtube.com/watch?v=obfI1Dv9U9w
 youtube_url: https://www.youtube.com/watch?v=obfI1Dv9U9w
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Give Rust a Chance
 
-**Speaker not identified**
+**Slater Stich**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `13 min`
 

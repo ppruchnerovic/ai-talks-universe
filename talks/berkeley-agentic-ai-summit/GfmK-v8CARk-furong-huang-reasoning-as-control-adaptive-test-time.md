@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 11
 published_at: 2026-08-12T01:57:17Z
 video_id: GfmK-v8CARk
+url: https://www.youtube.com/watch?v=GfmK-v8CARk
 youtube_url: https://www.youtube.com/watch?v=GfmK-v8CARk
 tags: []
 transcript: true

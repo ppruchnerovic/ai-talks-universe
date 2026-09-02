@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 49
 published_at: 2026-07-08T15:30:11Z
 video_id: D_cw-k0F1DM
+url: https://www.youtube.com/watch?v=D_cw-k0F1DM
 youtube_url: https://www.youtube.com/watch?v=D_cw-k0F1DM
 tags: ["AGENTS.md", "AI DevCon", "AI agents", "AI rollouts", "AI workflows", "Daniel Jones AI", "Simon Maple AI talk", "agentic development", "agentic development insights", "ainativedev", "autonomous development", "engineering practices and AI", "good engineering practices", "harness engineering", "software factories"]
 transcript: true

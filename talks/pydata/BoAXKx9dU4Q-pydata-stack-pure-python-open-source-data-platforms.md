@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 40
 published_at: 2025-10-28T18:54:09Z
 video_id: BoAXKx9dU4Q
+url: https://www.youtube.com/watch?v=BoAXKx9dU4Q
 youtube_url: https://www.youtube.com/watch?v=BoAXKx9dU4Q
 tags: ["Conference", "DBT", "Dagster", "DuckDB", "ETL pipelines", "PyConDE", "PyData", "Python", "Tech Talk", "data engineering", "data quality", "data transformation", "data visualization", "medallion architecture", "orchestration", "schema management"]
 transcript: false

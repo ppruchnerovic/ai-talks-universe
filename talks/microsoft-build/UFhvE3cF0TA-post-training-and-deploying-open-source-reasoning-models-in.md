@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chris Lauren", "Vijay Aski"]
 channel: "Microsoft Developer"
 duration_min: 12
 published_at: 2026-06-03T12:06:20Z
 video_id: UFhvE3cF0TA
+url: https://www.youtube.com/watch?v=UFhvE3cF0TA
 youtube_url: https://www.youtube.com/watch?v=UFhvE3cF0TA
 tags: ["0ffd6080-1f08-4054-9eea-414215ebfd07_M9Z7-DEM321-1", "Chris Lauren", "DEM321", "Post-Training and Deploying Open Source Reasoning Models in Foundry | DEM321", "Vijay Aski", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Post-Training and Deploying Open Source Reasoning Models in Foundry | DEM321
 
-**Speaker not identified**
+**Chris Lauren, Vijay Aski**
 
 `Microsoft Build` · `Build 2026` · `2026` · `12 min`
 

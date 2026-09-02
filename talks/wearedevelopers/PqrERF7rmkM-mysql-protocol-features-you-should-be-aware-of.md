@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 10
 published_at: 2026-07-10T10:35:00+00:00
 video_id: PqrERF7rmkM
+url: https://www.youtube.com/watch?v=PqrERF7rmkM
 youtube_url: https://www.youtube.com/watch?v=PqrERF7rmkM
 tags: ["Data & Databases", "Databases", "MySQL", "Networking", "SQL"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 28
 published_at: null
 video_id: H-slZ-dfAjo
+url: https://www.youtube.com/watch?v=H-slZ-dfAjo
 youtube_url: https://www.youtube.com/watch?v=H-slZ-dfAjo
 tags: []
 transcript: false

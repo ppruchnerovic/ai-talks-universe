@@ -12,6 +12,7 @@ channel: "SANS Institute"
 duration_min: 5
 published_at: null
 video_id: SvD8GBcXBbk
+url: https://www.youtube.com/watch?v=SvD8GBcXBbk
 youtube_url: https://www.youtube.com/watch?v=SvD8GBcXBbk
 tags: []
 transcript: false

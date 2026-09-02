@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2025-12-08T08:37:24Z
 video_id: HVYCWhvz5B8
+url: https://www.youtube.com/watch?v=HVYCWhvz5B8
 youtube_url: https://www.youtube.com/watch?v=HVYCWhvz5B8
 tags: ["QCon London", "GenAI", "RAG", "Retrieval Augmented Generation", "Agentic RAG", "Software Architecture", "Artificial Intelligence", "InfoQ", "Transcript", "Data", "Machine Learning", "LLMs"]
 transcript: false

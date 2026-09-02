@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Behnam Dayanim", "Global Head", "Digital Commerce", "Orrick Herrington"]
+speakers: ["Behnam Dayanim", "Digital Commerce", "Orrick Herrington"]
 channel: "RSAC Cybersecurity"
 duration_min: 60
 published_at: 2024-06-10T21:16:36Z
 video_id: HXJSCPBRrNQ
+url: https://www.youtube.com/watch?v=HXJSCPBRrNQ
 youtube_url: https://www.youtube.com/watch?v=HXJSCPBRrNQ
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI: Law, Policy, and Common Sense Suggestions to Stay Out of Trouble
 
-**Behnam Dayanim, Global Head, Digital Commerce, Orrick Herrington**
+**Behnam Dayanim, Digital Commerce, Orrick Herrington**
 
 `RSAC Conference` · `RSAC` · `2024` · `60 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 41
 published_at: 2026-02-03T13:26:27Z
 video_id: qusJcdQ1CPo
+url: https://www.youtube.com/watch?v=qusJcdQ1CPo
 youtube_url: https://www.youtube.com/watch?v=qusJcdQ1CPo
 tags: ["AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "United Kingdom", "UK", "Lianne Potter"]
 transcript: true

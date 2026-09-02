@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Joseph Gonzalez"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T07:38:00Z
 video_id: oSKV_c2ddWA
+url: https://www.youtube.com/watch?v=oSKV_c2ddWA
 youtube_url: https://www.youtube.com/watch?v=oSKV_c2ddWA
 tags: ["AGI", "artificial general intelligence", "ChatGPT", "artificial intelligence", "machine learning", "AI future", "compound AI systems", "AI agents", "multi LLM orchestration", "AI support engineer", "human performance", "Python tutorial", "AI alignment", "AI safety", "superintelligence", "cognitive architecture", "reasoning systems", "planning systems", "learning systems", "adaptation", "generalization", "transfer learning", "meta learning", "continual learning"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AGI is Already Here (But It's Not What You Think)
 
-**Speaker not identified**
+**Joseph Gonzalez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

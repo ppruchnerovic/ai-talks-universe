@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shireesh Thota", "Jesse Sullivan", "Mike Thomsen"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-26T20:02:42Z
 video_id: jkOS0hlWIcw
+url: https://www.youtube.com/watch?v=jkOS0hlWIcw
 youtube_url: https://www.youtube.com/watch?v=jkOS0hlWIcw
 tags: ["Microsoft AI Cloud Partner Program", "PBRK232", "Partners: Choose the best Azure DB for every customer scenario | PBRK232", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partners: Choose the best Azure DB for every customer scenario | PBRK232
 
-**Speaker not identified**
+**Shireesh Thota, Jesse Sullivan, Mike Thomsen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

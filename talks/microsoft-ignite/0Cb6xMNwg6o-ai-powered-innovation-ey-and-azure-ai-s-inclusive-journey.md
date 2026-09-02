@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["John Franzen", "Ailsa Leen", "David Mondello", "Heather Tartaglia"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-25T12:16:47Z
 video_id: 0Cb6xMNwg6o
+url: https://www.youtube.com/watch?v=0Cb6xMNwg6o
 youtube_url: https://www.youtube.com/watch?v=0Cb6xMNwg6o
 tags: ["AI", "AI Development", "AI powered innovation: EY and Azure AI's inclusive journey | BRK116", "AI-Curated", "Accessibility", "Ailsa Leen", "Azure AI", "Azure AI Studio", "BRK116", "Breakout", "D&I", "David Mondello", "Developer", "English (US)", "Heather Tartaglia", "Intermediate (200)", "John Franzen", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI powered innovation: EY and Azure AI's inclusive journey | BRK116
 
-**Speaker not identified**
+**John Franzen, Ailsa Leen, David Mondello, Heather Tartaglia**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

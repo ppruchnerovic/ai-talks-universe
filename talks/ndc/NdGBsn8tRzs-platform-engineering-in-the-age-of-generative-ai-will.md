@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2026-05-23T07:00:18Z
 video_id: NdGBsn8tRzs
+url: https://www.youtube.com/watch?v=NdGBsn8tRzs
 youtube_url: https://www.youtube.com/watch?v=NdGBsn8tRzs
 tags: ["AI", "Architecture", "Cloud", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Will Velida"]
 transcript: true

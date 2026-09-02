@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kenny Lowe"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:33:12Z
 video_id: bJ7Hsg8hxwM
+url: https://www.youtube.com/watch?v=bJ7Hsg8hxwM
 youtube_url: https://www.youtube.com/watch?v=bJ7Hsg8hxwM
 tags: ["Drive innovation with AI hybrid cloud and Copilot+ in Dell AI PCs | STUDIOSP73", "English (US)", "Kenny Lowe", "Media and Entertainment", "STUDIOSP73", "STUDIOSP73_v1", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Drive innovation with AI, hybrid cloud, and Copilot+ in Dell AI PCs | STUDIOSP73
 
-**Speaker not identified**
+**Kenny Lowe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

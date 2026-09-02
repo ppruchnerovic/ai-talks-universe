@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T13:40:00+00:00
 video_id: cz6EZ3EJhk0
+url: https://www.youtube.com/watch?v=cz6EZ3EJhk0
 youtube_url: https://www.youtube.com/watch?v=cz6EZ3EJhk0
 tags: ["Engineering Leadership", "Communication", "Soft Skills"]
 transcript: true

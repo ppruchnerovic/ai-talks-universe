@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Parthasarathy Srinivasan", "Rajya Laxmi Yellajosyula"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-04T12:07:24Z
 video_id: 44nyOX45Jn8
+url: https://www.youtube.com/watch?v=44nyOX45Jn8
 youtube_url: https://www.youtube.com/watch?v=44nyOX45Jn8
 tags: ["AI", "API", "Agents", "Azure", "Build AI Apps with Oracle AI Database@Azure MCP and GitHub Copilot | DEMSP382", "DEMSP382", "Data", "MCP", "Parthasarathy Srinivasan", "Rajya Laxmi Yellajosyula", "Vector Embeddings", "build", "build 2026", "c0c8d8d2-d75e-491a-857e-be570cdbd42f_M9Z7-DEMSP382-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build AI Apps with Oracle AI Database@Azure, MCP, and GitHub Copilot | DEMSP382
 
-**Speaker not identified**
+**Parthasarathy Srinivasan, Rajya Laxmi Yellajosyula**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Sebastian Kohlmeier", "Filisha Shah", "Vivek Bhadauria"]
 channel: "Microsoft Developer"
 duration_min: 35
 published_at: 2026-06-03T12:08:35Z
 video_id: a7FELS8hQAE
+url: https://www.youtube.com/watch?v=a7FELS8hQAE
 youtube_url: https://www.youtube.com/watch?v=a7FELS8hQAE
 tags: ["BRK252", "Filisha Shah", "From observability to ROI for AI agents on any framework | BRK252", "Microsoft Foundry", "Observability", "Responsible AI", "Sebastian Kohlmeier", "Vivek Bhadauria", "bc75ad49-f354-49ee-a449-69cb12bcf5fb_M9Z7-BRK252-1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # From observability to ROI for AI agents on any framework | BRK252
 
-**Speaker not identified**
+**Sebastian Kohlmeier, Filisha Shah, Vivek Bhadauria**
 
 `Microsoft Build` · `Build 2026` · `2026` · `35 min`
 

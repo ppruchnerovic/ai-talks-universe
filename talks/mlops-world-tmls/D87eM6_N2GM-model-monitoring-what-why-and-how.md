@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 37
 published_at: 2023-08-18T01:37:38Z
 video_id: D87eM6_N2GM
+url: https://www.youtube.com/watch?v=D87eM6_N2GM
 youtube_url: https://www.youtube.com/watch?v=D87eM6_N2GM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Model Monitoring", "monitoring", "models", "ml models", "machine learning models", "Model Monitoring: What", "Why", "and How", "Verta Inc."]
 transcript: false

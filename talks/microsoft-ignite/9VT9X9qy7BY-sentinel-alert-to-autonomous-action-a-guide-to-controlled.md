@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joshua Weinick"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T15:09:40Z
 video_id: 9VT9X9qy7BY
+url: https://www.youtube.com/watch?v=9VT9X9qy7BY
 youtube_url: https://www.youtube.com/watch?v=9VT9X9qy7BY
 tags: ["English (US)", "Financial Services", "Innovate with low-code AI and agents", "Joshua Weinick", "Microsoft AI Cloud Partner Program", "ODSP1483", "ODSP1483_v1", "Sentinel alert to autonomous action: A guide to controlled AI | ODSP1483", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Sentinel alert to autonomous action: A guide to controlled AI | ODSP1483
 
-**Speaker not identified**
+**Joshua Weinick**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

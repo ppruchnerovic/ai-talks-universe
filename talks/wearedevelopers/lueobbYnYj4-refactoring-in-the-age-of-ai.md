@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T08:20:00+00:00
 video_id: lueobbYnYj4
+url: https://www.youtube.com/watch?v=lueobbYnYj4
 youtube_url: https://www.youtube.com/watch?v=lueobbYnYj4
 tags: ["Developer Experience", "AI Coding Assistants", "Automation", "Best Practices", "Claude", "Copilot", "Developer Experience (DevEx)"]
 transcript: true

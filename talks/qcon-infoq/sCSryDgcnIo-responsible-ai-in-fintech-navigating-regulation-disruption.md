@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 40
 published_at: 2025-04-30T09:01:19Z
 video_id: sCSryDgcnIo
+url: https://www.youtube.com/watch?v=sCSryDgcnIo
 youtube_url: https://www.youtube.com/watch?v=sCSryDgcnIo
 tags: ["Responsible AI", "FinTech", "QCon London", "InfoQ", "Transcript", "AI", "Artificial Intelligence", "Ethics", "AI Governance"]
 transcript: false

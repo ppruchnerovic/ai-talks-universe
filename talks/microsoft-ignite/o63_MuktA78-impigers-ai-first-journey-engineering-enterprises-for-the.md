@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 21
 published_at: 2025-11-25T12:02:39Z
 video_id: o63_MuktA78
+url: https://www.youtube.com/watch?v=o63_MuktA78
 youtube_url: https://www.youtube.com/watch?v=o63_MuktA78
 tags: ["Copilot and agents at work", "English (US)", "Financial Services", "Impiger’s AI-first journey: Engineering enterprises for the AI | ODSP1516", "ODSP1516", "ODSP1516_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

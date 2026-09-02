@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 32
 published_at: 2023-05-11T18:56:56Z
 video_id: z6sbY-c6gAQ
+url: https://www.youtube.com/watch?v=z6sbY-c6gAQ
 youtube_url: https://www.youtube.com/watch?v=z6sbY-c6gAQ
 tags: ["optimization", "big data", "data storage", "analytics", "snowflake"]
 transcript: false

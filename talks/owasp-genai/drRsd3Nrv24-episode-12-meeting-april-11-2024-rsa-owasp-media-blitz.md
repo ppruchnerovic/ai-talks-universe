@@ -12,6 +12,7 @@ channel: null
 duration_min: 14
 published_at: null
 video_id: drRsd3Nrv24
+url: https://www.youtube.com/watch?v=drRsd3Nrv24
 youtube_url: https://www.youtube.com/watch?v=drRsd3Nrv24
 tags: []
 transcript: false

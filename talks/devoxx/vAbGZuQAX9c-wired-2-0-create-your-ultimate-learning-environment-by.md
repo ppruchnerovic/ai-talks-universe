@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Simone de Gijt"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2024-10-11T20:07:26Z
 video_id: vAbGZuQAX9c
+url: https://www.youtube.com/watch?v=vAbGZuQAX9c
 youtube_url: https://www.youtube.com/watch?v=vAbGZuQAX9c
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Wired 2.0! Create your ultimate learning environment by Simone de Gijt
 
-**Speaker not identified**
+**Simone de Gijt**
 
 `Devoxx` · `Devoxx` · `2024` · `48 min`
 

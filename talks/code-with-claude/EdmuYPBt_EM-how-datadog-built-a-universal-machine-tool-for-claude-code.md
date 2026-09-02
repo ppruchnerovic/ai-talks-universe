@@ -12,6 +12,7 @@ channel: "Claude"
 duration_min: 31
 published_at: 2026-05-06T23:47:28Z
 video_id: EdmuYPBt_EM
+url: https://www.youtube.com/watch?v=EdmuYPBt_EM
 youtube_url: https://www.youtube.com/watch?v=EdmuYPBt_EM
 tags: []
 transcript: true

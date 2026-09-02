@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Patrick Eustace", "Tom Richards"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:02:14Z
 video_id: 4gvkEVqYzJw
+url: https://www.youtube.com/watch?v=4gvkEVqYzJw
 youtube_url: https://www.youtube.com/watch?v=4gvkEVqYzJw
 tags: ["911400ad-3252-46d1-8ff4-740fbc29356e_Segment", "BRKSP478", "Copilot and agents at work", "English (US)", "Patrick Eustace", "Power future-proofed workplaces with Cisco AI | BRKSP478", "Technical", "Tom Richards", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Power future-proofed workplaces with Cisco AI | BRKSP478
 
-**Speaker not identified**
+**Patrick Eustace, Tom Richards**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

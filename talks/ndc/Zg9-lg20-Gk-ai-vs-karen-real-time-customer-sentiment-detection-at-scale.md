@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 66
 published_at: 2026-01-14T11:07:34Z
 video_id: Zg9-lg20-Gk
+url: https://www.youtube.com/watch?v=Zg9-lg20-Gk
 youtube_url: https://www.youtube.com/watch?v=Zg9-lg20-Gk
 tags: ["AI", "Architecture", "Big Data", "NDC", "conferences", "2025", "Live", "Fun", "Copenhagen", "Developers", "Festival", "Denmark", "Josef Goldstein"]
 transcript: true

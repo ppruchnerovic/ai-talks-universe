@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
-speakers: []
+speakers: ["Cong Wang", "Yusheng Zheng"]
 channel: "The Linux Foundation"
 duration_min: 42
 published_at: 2026-06-03T18:19:28Z
 video_id: dWCg3dlDjoA
+url: https://www.youtube.com/watch?v=dWCg3dlDjoA
 youtube_url: https://www.youtube.com/watch?v=dWCg3dlDjoA
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Fork, Explore, Commit: Linux Primitives for AI Agents Exploration - Cong Wang & Yusheng Zheng
 
-**Speaker not identified**
+**Cong Wang, Yusheng Zheng**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `Open Source Summit + ELC NA 2026` · `2026` · `42 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2026-02-05T09:51:50Z
 video_id: DZpR0GojoWQ
+url: https://www.youtube.com/watch?v=DZpR0GojoWQ
 youtube_url: https://www.youtube.com/watch?v=DZpR0GojoWQ
 tags: ["AI", "DevOps", "Testing", "Tools", "Ethics", "People", "Code", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Damian Brady"]
 transcript: true

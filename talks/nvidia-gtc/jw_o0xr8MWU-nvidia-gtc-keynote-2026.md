@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 139
 published_at: 2026-03-16T20:49:08Z
 video_id: jw_o0xr8MWU
+url: https://www.youtube.com/watch?v=jw_o0xr8MWU
 youtube_url: https://www.youtube.com/watch?v=jw_o0xr8MWU
 tags: ["NVIDIA GTC", "Jensen Huang"]
 transcript: true

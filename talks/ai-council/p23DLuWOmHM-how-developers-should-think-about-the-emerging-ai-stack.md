@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Ce Zhang"]
 channel: "AI Council"
 duration_min: 42
 published_at: 2024-04-19T05:00:31Z
 video_id: p23DLuWOmHM
+url: https://www.youtube.com/watch?v=p23DLuWOmHM
 youtube_url: https://www.youtube.com/watch?v=p23DLuWOmHM
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Developers Should Think About the Emerging AI Stack | Together, Pinecone, Anthropic
 
-**Speaker not identified**
+**Ce Zhang**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `42 min`
 

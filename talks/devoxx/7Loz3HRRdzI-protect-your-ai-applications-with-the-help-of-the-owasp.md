@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Nicolas Humblot"]
 channel: "Devoxx"
 duration_min: 35
 published_at: 2025-10-07T05:13:49Z
 video_id: 7Loz3HRRdzI
+url: https://www.youtube.com/watch?v=7Loz3HRRdzI
 youtube_url: https://www.youtube.com/watch?v=7Loz3HRRdzI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Protect your AI applications with the help of the OWASP GenAI Security Project by Nicolas Humblot
 
-**Speaker not identified**
+**Nicolas Humblot**
 
 `Devoxx` · `Devoxx` · `2025` · `35 min`
 

@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 55
 published_at: null
 video_id: bRTSI-UKl0s
+url: https://www.youtube.com/watch?v=bRTSI-UKl0s
 youtube_url: https://www.youtube.com/watch?v=bRTSI-UKl0s
 tags: []
 transcript: false

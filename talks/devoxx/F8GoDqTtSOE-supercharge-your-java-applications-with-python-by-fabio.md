@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Fabio Niephaus", "Thomas Wuerthinger"]
 channel: "Devoxx"
 duration_min: 50
 published_at: 2024-10-12T11:29:59Z
 video_id: F8GoDqTtSOE
+url: https://www.youtube.com/watch?v=F8GoDqTtSOE
 youtube_url: https://www.youtube.com/watch?v=F8GoDqTtSOE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Supercharge your Java Applications with Python! by Fabio Niephaus, Thomas Wuerthinger
 
-**Speaker not identified**
+**Fabio Niephaus, Thomas Wuerthinger**
 
 `Devoxx` · `Devoxx` · `2024` · `50 min`
 

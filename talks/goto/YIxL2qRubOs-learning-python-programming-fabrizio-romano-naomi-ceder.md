@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Fabrizio Romano", "Naomi Ceder"]
 channel: "GOTO Conferences"
 duration_min: 31
 published_at: 2025-12-26T13:23:00Z
 video_id: YIxL2qRubOs
+url: https://www.youtube.com/watch?v=YIxL2qRubOs
 youtube_url: https://www.youtube.com/watch?v=YIxL2qRubOs
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Learning Python Programming • Fabrizio Romano & Naomi Ceder
 
-**Speaker not identified**
+**Fabrizio Romano, Naomi Ceder**
 
 `GOTO Conferences` · `GOTO` · `2025` · `31 min`
 

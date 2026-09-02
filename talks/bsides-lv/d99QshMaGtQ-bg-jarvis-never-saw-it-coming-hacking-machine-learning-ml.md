@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 50
 published_at: 2018-09-26T22:36:28Z
 video_id: d99QshMaGtQ
+url: https://www.youtube.com/watch?v=d99QshMaGtQ
 youtube_url: https://www.youtube.com/watch?v=d99QshMaGtQ
 tags: ["bslv", "bslv2018", "bsideslv", "bsideslv2018", "bg", "breaking ground"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Den Delimarsky", "Julia Kasper"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-06-20T00:00:00Z
 video_id: PHBGhUKAM-w
+url: https://www.youtube.com/watch?v=PHBGhUKAM-w
 youtube_url: https://www.youtube.com/watch?v=PHBGhUKAM-w
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building Protected MCP Servers — Den Delimarsky and Julia Kasper, MCP Steering Committee & Microsoft
 
-**Speaker not identified**
+**Den Delimarsky, Julia Kasper**
 
 `AI Engineer` · `AI Engineer` · `2025` · `20 min`
 

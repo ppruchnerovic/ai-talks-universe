@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-09T12:10:00+00:00
 video_id: Pzq4T2wrE44
+url: https://www.youtube.com/watch?v=Pzq4T2wrE44
 youtube_url: https://www.youtube.com/watch?v=Pzq4T2wrE44
 tags: ["Emerging Technologies", "Large Language Models (LLMs)", "Python", "Raspberry Pi", "Robotics"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Vignesh Chadramohan"]
 channel: "AI Council"
 duration_min: 24
 published_at: 2025-05-29T13:27:11Z
 video_id: gcTRXZeKbNg
+url: https://www.youtube.com/watch?v=gcTRXZeKbNg
 youtube_url: https://www.youtube.com/watch?v=gcTRXZeKbNg
 tags: ["embedded database", "key value store", "ChatGPT", "artificial intelligence", "machine learning", "object storage", "Rust programming tutorial", "S3", "database internals", "conditional writes", "writeable clones", "Python tutorial", "distributed systems", "consensus algorithms", "replication", "partitioning", "consistency models", "transaction processing", "storage engines", "indexing", "query processing", "performance optimization", "memory management"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Internals of SlateDB: An Embedded Key Value Store Built On Object Storage
 
-**Speaker not identified**
+**Vignesh Chadramohan**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `24 min`
 

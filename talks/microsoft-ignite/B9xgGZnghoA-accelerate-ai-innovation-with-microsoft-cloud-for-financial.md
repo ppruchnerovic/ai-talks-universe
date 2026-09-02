@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jared Lambert"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-21T10:08:04Z
 video_id: B9xgGZnghoA
+url: https://www.youtube.com/watch?v=B9xgGZnghoA
 youtube_url: https://www.youtube.com/watch?v=B9xgGZnghoA
 tags: ["AI", "Accelerate AI Innovation with Microsoft Cloud for Financial Services | BRK258", "BRK258", "Breakout", "English (US)", "Foundational (100)", "Industry", "Industry-Curated", "Jared Lambert", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerate AI Innovation with Microsoft Cloud for Financial Services | BRK258
 
-**Speaker not identified**
+**Jared Lambert**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

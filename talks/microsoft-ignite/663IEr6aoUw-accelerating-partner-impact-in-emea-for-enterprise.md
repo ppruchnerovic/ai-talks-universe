@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Butler", "Florian Deter", "Angela Evans", "Ihab Foudeh", "Pavan Ganugapati", "Ahmed Mabrouk"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-25T12:15:16Z
 video_id: 663IEr6aoUw
+url: https://www.youtube.com/watch?v=663IEr6aoUw
 youtube_url: https://www.youtube.com/watch?v=663IEr6aoUw
 tags: ["Accelerating Partner Impact in EMEA for Enterprise Customers​ | PBRK436", "Agentic business applications", "Copilot and agents at work", "Innovate with low-code AI and agents", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "Modernize SecOps with a unified platform", "PBRK436", "Protect cloud AI platform and apps", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerating Partner Impact in EMEA for Enterprise Customers​ | PBRK436
 
-**Speaker not identified**
+**John Butler, Florian Deter, Angela Evans, Ihab Foudeh, Pavan Ganugapati, Ahmed Mabrouk**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

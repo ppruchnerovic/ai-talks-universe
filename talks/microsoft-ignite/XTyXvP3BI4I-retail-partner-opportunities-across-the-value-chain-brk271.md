@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lindsay Berg", "Roy Capon", "Kathie Johnson"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-27T12:00:19Z
 video_id: XTyXvP3BI4I
+url: https://www.youtube.com/watch?v=XTyXvP3BI4I
 youtube_url: https://www.youtube.com/watch?v=XTyXvP3BI4I
 tags: ["AI", "Azure", "BRK271", "Breakout", "Copilot", "English (US)", "ISV", "Industry", "Industry for Partner", "Intermediate (200)", "Kathie Johnson", "Lindsay Berg", "Partner Business", "Retail", "Retail partner opportunities across the value chain | BRK271", "Roy Capon", "SI", "Software Company", "Solution Area", "Sue McMahon", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Retail partner opportunities across the value chain | BRK271
 
-**Speaker not identified**
+**Lindsay Berg, Roy Capon, Kathie Johnson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

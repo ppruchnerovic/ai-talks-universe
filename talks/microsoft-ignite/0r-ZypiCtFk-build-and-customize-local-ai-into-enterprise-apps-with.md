@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-24T12:06:23Z
 video_id: 0r-ZypiCtFk
+url: https://www.youtube.com/watch?v=0r-ZypiCtFk
 youtube_url: https://www.youtube.com/watch?v=0r-ZypiCtFk
 tags: ["BRK331", "BRK331_v1", "Build and customize local AI into enterprise apps with Windows AI APIs | BRK331", "Connor Al-Joundi", "English (US)", "Ivan Razumenic", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

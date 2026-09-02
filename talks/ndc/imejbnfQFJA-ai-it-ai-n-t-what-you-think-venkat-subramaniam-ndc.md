@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-06-18T14:07:45Z
 video_id: imejbnfQFJA
+url: https://www.youtube.com/watch?v=imejbnfQFJA
 youtube_url: https://www.youtube.com/watch?v=imejbnfQFJA
 tags: ["AI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Venkat Subramaniam"]
 transcript: true

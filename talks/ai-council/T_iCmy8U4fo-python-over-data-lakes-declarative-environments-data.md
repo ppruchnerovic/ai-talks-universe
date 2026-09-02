@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ciro Greco"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T13:50:32Z
 video_id: T_iCmy8U4fo
+url: https://www.youtube.com/watch?v=T_iCmy8U4fo
 youtube_url: https://www.youtube.com/watch?v=T_iCmy8U4fo
 tags: ["Python tutorial", "data lakes", "Apache Iceberg", "ChatGPT", "artificial intelligence", "machine learning", "Apache Arrow", "Docker tutorial", "data engineering tutorial", "data science", "cloud computing", "MLOps", "data pipelines", "reproducible research", "containerization", "environment management", "dependency management", "version control", "data versioning", "experiment tracking", "model registry", "feature store", "data catalog", "metadata management"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Python Over Data Lakes: Declarative Environments, Data Management & Other Things w/ Feathers
 
-**Speaker not identified**
+**Ciro Greco**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

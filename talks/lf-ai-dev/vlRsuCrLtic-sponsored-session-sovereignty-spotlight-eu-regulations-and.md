@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 40
 published_at: 2025-09-05T19:41:17Z
 video_id: vlRsuCrLtic
+url: https://www.youtube.com/watch?v=vlRsuCrLtic
 youtube_url: https://www.youtube.com/watch?v=vlRsuCrLtic
 tags: []
 transcript: false

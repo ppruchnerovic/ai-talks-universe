@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T09:00:00+00:00
 video_id: Qjps4_jbOtk
+url: https://www.youtube.com/watch?v=Qjps4_jbOtk
 youtube_url: https://www.youtube.com/watch?v=Qjps4_jbOtk
 tags: ["Strategy & Innovation", "Agentic AI", "Data", "Databases", "eCommerce", "GEO", "Infrastructure", "Large Language Models (LLMs)", "LLMOps", "Model Training", "Product Strategy", "Product Management", "Startups"]
 transcript: true

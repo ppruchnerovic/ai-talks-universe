@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2024-04-09T15:38:38Z
 video_id: 32LMicc0gRA
+url: https://www.youtube.com/watch?v=32LMicc0gRA
 youtube_url: https://www.youtube.com/watch?v=32LMicc0gRA
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Database", "Database Design", "OLTP", "TigerBeetle"]
 transcript: false

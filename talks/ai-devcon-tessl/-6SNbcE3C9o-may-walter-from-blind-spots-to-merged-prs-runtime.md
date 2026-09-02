@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-07-18T08:34:32Z
 video_id: -6SNbcE3C9o
+url: https://www.youtube.com/watch?v=-6SNbcE3C9o
 youtube_url: https://www.youtube.com/watch?v=-6SNbcE3C9o
 tags: ["AI DevCon", "AI DevCon London 2026", "N+1 queries", "ainativedev", "benefits of actionable reports", "coding agents", "database indexes", "fixing N+1 queries", "performance optimization", "runtime intelligence", "sprint planning", "vendor neutral"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Abdel Sghiouar"]
 channel: "Devoxx"
 duration_min: 38
 published_at: 2026-05-13T03:37:51Z
 video_id: G58PbxBXC8c
+url: https://www.youtube.com/watch?v=G58PbxBXC8c
 youtube_url: https://www.youtube.com/watch?v=G58PbxBXC8c
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # [VDBUH2026] Abdel Sghiouar - Optimizing LLM Inference for the Rest of Us
 
-**Speaker not identified**
+**Abdel Sghiouar**
 
 `Devoxx` · `Devoxx` · `2026` · `38 min`
 

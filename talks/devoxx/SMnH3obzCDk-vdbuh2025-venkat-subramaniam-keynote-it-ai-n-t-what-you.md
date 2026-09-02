@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Venkat Subramaniam"]
 channel: null
 duration_min: 61
 published_at: null
 video_id: SMnH3obzCDk
+url: https://www.youtube.com/watch?v=SMnH3obzCDk
 youtube_url: https://www.youtube.com/watch?v=SMnH3obzCDk
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # [VDBUH2025] Venkat Subramaniam - Keynote: It AI-n't What You Think!
 
-**Speaker not identified**
+**Venkat Subramaniam**
 
 `Devoxx` · `Devoxx` · `2025` · `61 min`
 

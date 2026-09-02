@@ -1,5 +1,11 @@
 name: Deploy GitHub Pages
 
+# Publishes only what the browser fetches — see tools/assemble_site.sh — as a
+# single orphan commit on gh-pages, so that branch carries no history of its
+# own and its size is the size of the site. It used to force-push `main`
+# there whole: 411 MB of a 1 GB ceiling, growing with every transcript, and
+# 169 MB of it never requested by anyone.
+
 on:
   push:
     branches: [main]
@@ -17,5 +23,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      # GitHub Pages serves the gh-pages branch; mirror main into it.
-      - run: git push origin HEAD:gh-pages --force
+
+      - name: Assemble the site — only what the browser fetches
+        run: tools/assemble_site.sh _site
+
+      - name: Publish as a single orphan commit
+        run: |
+          set -euo pipefail
+          cd _site
+          git init -q -b gh-pages
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Publish ${GITHUB_SHA::8}"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

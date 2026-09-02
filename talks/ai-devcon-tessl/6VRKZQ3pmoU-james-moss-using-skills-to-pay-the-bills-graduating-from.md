@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 33
 published_at: 2026-07-15T07:36:52Z
 video_id: 6VRKZQ3pmoU
+url: https://www.youtube.com/watch?v=6VRKZQ3pmoU
 youtube_url: https://www.youtube.com/watch?v=6VRKZQ3pmoU
 tags: ["AI Native DevCon", "AI Native DevCon London 2026", "James Moss skills management", "Tessell", "Tessell skills inventory", "agent workflows", "agentic coding", "ainativedev", "context files", "skills as software", "skills inventory", "skills management", "software engineering", "team collaboration", "what is skill sprawl"]
 transcript: true

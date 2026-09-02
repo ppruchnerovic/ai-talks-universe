@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["George Fraser"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T00:20:49Z
 video_id: cPsmPAPwpAY
+url: https://www.youtube.com/watch?v=cPsmPAPwpAY
 youtube_url: https://www.youtube.com/watch?v=cPsmPAPwpAY
 tags: ["DuckDB", "Apache Iceberg", "cost optimization", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "cloud alternative", "open source", "data lakehouse", "data warehouse alternative", "Python tutorial", "embedded analytics", "serverless analytics", "portable analytics", "SQL analytics", "analytical database", "columnar storage", "query optimization", "performance tuning", "memory management", "local analytics"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Look Ma, No Data Warehouse!
 
-**Speaker not identified**
+**George Fraser**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

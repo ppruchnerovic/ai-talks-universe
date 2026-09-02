@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Craig Loewen", "Clint Rutkas"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T11:56:18Z
 video_id: mJQxAKYkCBk
+url: https://www.youtube.com/watch?v=mJQxAKYkCBk
 youtube_url: https://www.youtube.com/watch?v=mJQxAKYkCBk
 tags: ["BRK330", "Clint Rutkas", "Craig Loewen", "English (US)", "Enterprise ready Windows productivity tools for Developers and IT Pros | BRK330", "Scale with cloud and AI endpoints", "Technical", "ab9c1adc-9140-4e15-bc9c-d9f2cd2bce0c_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Enterprise ready Windows productivity tools for Developers and IT Pros | BRK330
 
-**Speaker not identified**
+**Craig Loewen, Clint Rutkas**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

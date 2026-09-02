@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 59
 published_at: 2026-08-13T11:49:33Z
 video_id: WKQFUmn-WSc
+url: https://www.youtube.com/watch?v=WKQFUmn-WSc
 youtube_url: https://www.youtube.com/watch?v=WKQFUmn-WSc
 tags: ["Machine Learning", "Big Data", "Fun", "NDC", "Conferences", "2026", "Live", "Toronto", "Canada", "Megan Robertson"]
 transcript: true

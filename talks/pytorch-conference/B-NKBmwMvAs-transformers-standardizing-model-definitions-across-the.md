@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["L. Debut", "A. Zucker"]
 channel: "PyTorch"
 duration_min: 25
 published_at: null
 video_id: B-NKBmwMvAs
+url: https://www.youtube.com/watch?v=B-NKBmwMvAs
 youtube_url: https://www.youtube.com/watch?v=B-NKBmwMvAs
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Transformers: Standardizing Model Definitions Across the PyTorch Ecosystem - L. Debut & A. Zucker
 
-**Speaker not identified**
+**L. Debut, A. Zucker**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `25 min`
 

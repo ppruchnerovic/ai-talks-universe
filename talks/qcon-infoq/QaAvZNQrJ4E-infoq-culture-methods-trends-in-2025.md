@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 69
 published_at: 2025-05-09T13:13:22Z
 video_id: QaAvZNQrJ4E
+url: https://www.youtube.com/watch?v=QaAvZNQrJ4E
 youtube_url: https://www.youtube.com/watch?v=QaAvZNQrJ4E
 tags: ["Team Collaboration", "Productivity", "Accessibility", "Psychological Safety", "InfoQ Trends Report", "Training", "Observability", "Teamwork", "Engineering Culture Podcast", "InfoQ Trends Report 2025", "Software Development", "Engineering Leadership"]
 transcript: false

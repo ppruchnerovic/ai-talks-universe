@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 36
 published_at: null
 video_id: luYch_JaR5g
+url: https://www.youtube.com/watch?v=luYch_JaR5g
 youtube_url: https://www.youtube.com/watch?v=luYch_JaR5g
 tags: []
 transcript: false

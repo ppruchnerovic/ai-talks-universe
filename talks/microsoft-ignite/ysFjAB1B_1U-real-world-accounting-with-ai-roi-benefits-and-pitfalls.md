@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aaron Harris"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2024-11-20T14:15:14Z
 video_id: ysFjAB1B_1U
+url: https://www.youtube.com/watch?v=ysFjAB1B_1U
 youtube_url: https://www.youtube.com/watch?v=ysFjAB1B_1U
 tags: ["AI", "Aaron Harris", "Copilot", "Intermediate (200)", "Medium-sized businesses", "ODFP972", "Pre-recorded", "Real world accounting with AI: ROI benefits and pitfalls | ODFP972", "SMB", "Small and medium-sized businesses", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Real world accounting with AI: ROI benefits and pitfalls | ODFP972
 
-**Speaker not identified**
+**Aaron Harris**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `20 min`
 

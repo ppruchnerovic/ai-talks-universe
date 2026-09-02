@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jacob Matson"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T00:22:55Z
 video_id: 9KC1CU-5mU8
+url: https://www.youtube.com/watch?v=9KC1CU-5mU8
 youtube_url: https://www.youtube.com/watch?v=9KC1CU-5mU8
 tags: ["spatial data", "AI SQL", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "DuckDB", "data analysis", "automation", "AI data analysis", "automated SQL", "BBQ restaurant", "vibe code", "Python visualization", "geospatial analysis", "geographic information systems", "GIS", "spatial databases", "location intelligence", "mapping", "geocoding", "spatial queries", "proximity analysis", "spatial statistics"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # More Than a Vibe: AI-Driven SQL That Actually Works
 
-**Speaker not identified**
+**Jacob Matson**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

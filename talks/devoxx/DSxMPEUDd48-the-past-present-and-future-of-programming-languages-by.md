@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 52
 published_at: 2026-03-30T17:34:01Z
 video_id: DSxMPEUDd48
+url: https://www.youtube.com/watch?v=DSxMPEUDd48
 youtube_url: https://www.youtube.com/watch?v=DSxMPEUDd48
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-08-22T00:00:00Z
 video_id: OMGPvW8TBHc
+url: https://www.youtube.com/watch?v=OMGPvW8TBHc
 youtube_url: https://www.youtube.com/watch?v=OMGPvW8TBHc
 tags: []
 transcript: false

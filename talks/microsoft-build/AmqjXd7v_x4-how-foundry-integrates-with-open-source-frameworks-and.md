@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Facundo Santiago", "Nagkumar Arkalgud"]
 channel: "Microsoft Developer"
 duration_min: 16
 published_at: 2026-06-03T11:23:09Z
 video_id: AmqjXd7v_x4
+url: https://www.youtube.com/watch?v=AmqjXd7v_x4
 youtube_url: https://www.youtube.com/watch?v=AmqjXd7v_x4
 tags: ["60554504-db91-4d72-a3de-4f1c346b7ceb_M9Z7-DEM333-1", "Agent Observability", "Agents", "Agents & Apps", "DEM333", "Developer", "Enterprise", "Facundo Santiago", "How Foundry integrates with open-source frameworks and tools | DEM333", "MCP", "Microsoft Foundry", "Nagkumar Arkalgud", "OSS", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # How Foundry integrates with open-source frameworks and tools | DEM333
 
-**Speaker not identified**
+**Facundo Santiago, Nagkumar Arkalgud**
 
 `Microsoft Build` · `Build 2026` · `2026` · `16 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Vivian Ma", "Shekhar Palta", "Roberto Yglesias"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T15:23:41Z
 video_id: 9_ELo9f9hXk
+url: https://www.youtube.com/watch?v=9_ELo9f9hXk
 youtube_url: https://www.youtube.com/watch?v=9_ELo9f9hXk
 tags: ["2c67116a-626c-47c6-829f-ee29a9eeda59_Segment", "BRK250", "English (US)", "Preventing data exfiltration with a layered protection strategy | BRK250", "Roberto Yglesias", "Secure your data", "Shekhar Palta", "Technical", "Vivian Ma", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Preventing data exfiltration with a layered protection strategy | BRK250
 
-**Speaker not identified**
+**Vivian Ma, Shekhar Palta, Roberto Yglesias**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

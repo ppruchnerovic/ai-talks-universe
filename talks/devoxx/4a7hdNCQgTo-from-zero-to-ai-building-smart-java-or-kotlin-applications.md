@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Christian Tzolov"]
 channel: "Devoxx"
 duration_min: 106
 published_at: 2025-04-07T13:45:19Z
 video_id: 4a7hdNCQgTo
+url: https://www.youtube.com/watch?v=4a7hdNCQgTo
 youtube_url: https://www.youtube.com/watch?v=4a7hdNCQgTo
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From Zero to AI: Building Smart Java or Kotlin Applications with Spring AI by Christian Tzolov
 
-**Speaker not identified**
+**Christian Tzolov**
 
 `Devoxx` · `Devoxx` · `2025` · `106 min`
 

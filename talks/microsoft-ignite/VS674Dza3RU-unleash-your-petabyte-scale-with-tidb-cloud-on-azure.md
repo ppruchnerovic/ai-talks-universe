@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Liya Du"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2025-11-19T12:49:00Z
 video_id: VS674Dza3RU
+url: https://www.youtube.com/watch?v=VS674Dza3RU
 youtube_url: https://www.youtube.com/watch?v=VS674Dza3RU
 tags: ["English (US)", "Liya Du", "ODSP1499", "ODSP1499_v1", "Retail and Consumer Goods", "Technical", "Unify your data platform", "Unleash your Petabyte-Scale with TiDB Cloud on Azure | ODSP1499", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unleash your Petabyte-Scale with TiDB Cloud on Azure | ODSP1499
 
-**Speaker not identified**
+**Liya Du**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `10 min`
 

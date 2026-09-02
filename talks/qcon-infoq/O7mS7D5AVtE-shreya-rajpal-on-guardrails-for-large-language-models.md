@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 21
 published_at: 2024-02-07T07:33:35Z
 video_id: O7mS7D5AVtE
+url: https://www.youtube.com/watch?v=O7mS7D5AVtE
 youtube_url: https://www.youtube.com/watch?v=O7mS7D5AVtE
 tags: ["AI", "Large Language Models", "the InfoQ Podcast", "Generally AI"]
 transcript: false

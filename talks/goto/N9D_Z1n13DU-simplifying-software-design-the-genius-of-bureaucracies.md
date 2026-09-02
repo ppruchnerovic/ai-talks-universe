@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 46
 published_at: 2026-08-10T15:39:56Z
 video_id: N9D_Z1n13DU
+url: https://www.youtube.com/watch?v=N9D_Z1n13DU
 youtube_url: https://www.youtube.com/watch?v=N9D_Z1n13DU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Alistair Cockburn", "Software Design", "Simplifying Software Design", "Software Architecture", "Bureaucracy", "Not-My-Job", "Developer Productivity", "DDD", "Domain-driven Design"]
 transcript: false

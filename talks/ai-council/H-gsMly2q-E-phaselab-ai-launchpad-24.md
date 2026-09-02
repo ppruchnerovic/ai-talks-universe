@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Josh Schwartz"]
 channel: "AI Council"
 duration_min: 7
 published_at: 2024-04-22T21:34:26Z
 video_id: H-gsMly2q-E
+url: https://www.youtube.com/watch?v=H-gsMly2q-E
 youtube_url: https://www.youtube.com/watch?v=H-gsMly2q-E
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Phaselab | AI Launchpad '24
 
-**Speaker not identified**
+**Josh Schwartz**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `7 min`
 

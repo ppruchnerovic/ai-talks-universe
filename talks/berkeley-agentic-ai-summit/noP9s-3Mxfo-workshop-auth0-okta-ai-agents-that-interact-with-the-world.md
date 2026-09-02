@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 41
 published_at: 2025-09-12T21:06:52Z
 video_id: noP9s-3Mxfo
+url: https://www.youtube.com/watch?v=noP9s-3Mxfo
 youtube_url: https://www.youtube.com/watch?v=noP9s-3Mxfo
 tags: []
 transcript: false

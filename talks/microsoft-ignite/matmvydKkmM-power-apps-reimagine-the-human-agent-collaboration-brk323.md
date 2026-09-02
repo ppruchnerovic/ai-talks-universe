@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Miti Joshi", "Evan Lew", "Claudio Romano"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-26T21:48:14Z
 video_id: matmvydKkmM
+url: https://www.youtube.com/watch?v=matmvydKkmM
 youtube_url: https://www.youtube.com/watch?v=matmvydKkmM
 tags: ["BRK323", "English (US)", "Innovate with low-code AI and agents", "Power Apps: Reimagine the human-agent collaboration | BRK323", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Power Apps: Reimagine the human-agent collaboration | BRK323
 
-**Speaker not identified**
+**Miti Joshi, Evan Lew, Claudio Romano**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

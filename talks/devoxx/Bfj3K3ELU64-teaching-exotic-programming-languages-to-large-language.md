@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Alessandro Giagnorio"]
 channel: "Devoxx"
 duration_min: 41
 published_at: 2026-02-27T13:52:44Z
 video_id: Bfj3K3ELU64
+url: https://www.youtube.com/watch?v=Bfj3K3ELU64
 youtube_url: https://www.youtube.com/watch?v=Bfj3K3ELU64
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Teaching Exotic Programming Languages to Large Language Models by Alessandro Giagnorio
 
-**Speaker not identified**
+**Alessandro Giagnorio**
 
 `Devoxx` · `Devoxx` · `2026` · `41 min`
 

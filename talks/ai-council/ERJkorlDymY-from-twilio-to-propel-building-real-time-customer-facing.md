@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Nico Acosta"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2024-04-19T05:00:06Z
 video_id: ERJkorlDymY
+url: https://www.youtube.com/watch?v=ERJkorlDymY
 youtube_url: https://www.youtube.com/watch?v=ERJkorlDymY
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From Twilio to Propel: Building Real-Time Customer-Facing Analytics at Scale
 
-**Speaker not identified**
+**Nico Acosta**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `34 min`
 

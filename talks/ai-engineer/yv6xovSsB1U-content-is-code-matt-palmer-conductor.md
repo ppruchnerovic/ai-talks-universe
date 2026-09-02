@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Content Is Code", "Matt Palmer"]
+speakers: ["Matt Palmer"]
 channel: "AI Engineer"
 duration_min: 11
 published_at: 2026-07-18T00:00:00Z
 video_id: yv6xovSsB1U
+url: https://www.youtube.com/watch?v=yv6xovSsB1U
 youtube_url: https://www.youtube.com/watch?v=yv6xovSsB1U
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Content Is Code - Matt Palmer, Conductor
 
-**Content Is Code, Matt Palmer**
+**Matt Palmer**
 
 `AI Engineer` · `AI Engineer` · `2026` · `11 min`
 

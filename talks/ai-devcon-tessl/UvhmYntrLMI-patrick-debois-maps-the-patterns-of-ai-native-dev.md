@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 48
 published_at: 2026-07-14T12:00:09Z
 video_id: UvhmYntrLMI
+url: https://www.youtube.com/watch?v=UvhmYntrLMI
 youtube_url: https://www.youtube.com/watch?v=UvhmYntrLMI
 tags: []
 transcript: true

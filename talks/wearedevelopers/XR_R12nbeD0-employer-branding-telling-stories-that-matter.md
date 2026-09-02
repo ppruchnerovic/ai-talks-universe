@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 39
 published_at: 2025-01-02T08:00:31Z
 video_id: XR_R12nbeD0
+url: https://www.youtube.com/watch?v=XR_R12nbeD0
 youtube_url: https://www.youtube.com/watch?v=XR_R12nbeD0
 tags: ["recruiting", "employer branding", "storytelling", "branding", "hr", "AI", "narratives", "elevator pitch", "wearedevelopers", "cappuccino with hr", "WeAreDevs", "human resources"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Zoran Sevarac"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2025-10-10T05:09:22Z
 video_id: 5DKwBUwbsUc
+url: https://www.youtube.com/watch?v=5DKwBUwbsUc
 youtube_url: https://www.youtube.com/watch?v=5DKwBUwbsUc
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Java as an AI development Platform by Zoran Sevarac
 
-**Speaker not identified**
+**Zoran Sevarac**
 
 `Devoxx` · `Devoxx` · `2025` · `48 min`
 

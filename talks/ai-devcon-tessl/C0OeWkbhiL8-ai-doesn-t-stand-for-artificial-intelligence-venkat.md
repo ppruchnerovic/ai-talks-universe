@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 53
 published_at: 2026-05-12T12:00:30Z
 video_id: C0OeWkbhiL8
+url: https://www.youtube.com/watch?v=C0OeWkbhiL8
 youtube_url: https://www.youtube.com/watch?v=C0OeWkbhiL8
 tags: ["AI accountability", "AI code quality issues", "AI developer accountability", "AI development", "AI ethics", "AI trends", "How to use AI responsibly", "Venkat Subramaniam AI insights", "Venkat Subramaniam Arc of AI", "What is AI hype curve?", "ainativedev", "coding principles", "developer responsibility", "programming ethics", "software development"]
 transcript: true

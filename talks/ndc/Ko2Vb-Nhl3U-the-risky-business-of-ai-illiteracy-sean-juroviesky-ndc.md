@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-03-24T10:24:55Z
 video_id: Ko2Vb-Nhl3U
+url: https://www.youtube.com/watch?v=Ko2Vb-Nhl3U
 youtube_url: https://www.youtube.com/watch?v=Ko2Vb-Nhl3U
 tags: ["AI", "ML", "Architecture", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Sean Juroviesky"]
 transcript: true

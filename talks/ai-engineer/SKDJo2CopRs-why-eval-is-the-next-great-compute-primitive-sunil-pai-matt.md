@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Sunil Pai", "Matt Carey"]
 channel: "AI Engineer"
 duration_min: 25
 published_at: 2026-06-08T13:00:13Z
 video_id: SKDJo2CopRs
+url: https://www.youtube.com/watch?v=SKDJo2CopRs
 youtube_url: https://www.youtube.com/watch?v=SKDJo2CopRs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Carey, Cloudflare
 
-**Speaker not identified**
+**Sunil Pai, Matt Carey**
 
 `AI Engineer` · `AI Engineer` · `2026` · `25 min`
 

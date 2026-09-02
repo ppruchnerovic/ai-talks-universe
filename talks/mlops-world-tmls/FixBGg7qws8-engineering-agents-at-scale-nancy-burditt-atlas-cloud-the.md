@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Nancy Burditt", "Customer Engagement Manager"]
+speakers: ["Nancy Burditt"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 8
 published_at: 2025-10-31T07:07:54Z
 video_id: FixBGg7qws8
+url: https://www.youtube.com/watch?v=FixBGg7qws8
 youtube_url: https://www.youtube.com/watch?v=FixBGg7qws8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Engineering Agents at Scale | Nancy Burditt, Atlas Cloud | The Next Wave of AI
 
-**Nancy Burditt, Customer Engagement Manager**
+**Nancy Burditt**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `8 min`
 

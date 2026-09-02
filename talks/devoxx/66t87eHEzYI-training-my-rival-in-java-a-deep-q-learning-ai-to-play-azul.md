@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Victor Uria Valle"]
 channel: "Devoxx"
 duration_min: 17
 published_at: 2026-03-30T17:48:30Z
 video_id: 66t87eHEzYI
+url: https://www.youtube.com/watch?v=66t87eHEzYI
 youtube_url: https://www.youtube.com/watch?v=66t87eHEzYI
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Training My Rival in Java: A Deep Q-Learning AI to Play Azul by Victor Uria Valle
 
-**Speaker not identified**
+**Victor Uria Valle**
 
 `Devoxx` · `Devoxx` · `2026` · `17 min`
 

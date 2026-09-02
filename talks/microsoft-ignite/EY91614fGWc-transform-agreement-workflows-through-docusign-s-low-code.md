@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Hank Glover", "Shane Meisner"]
 channel: "Microsoft Events"
 duration_min: 23
 published_at: 2024-11-20T13:38:22Z
 video_id: EY91614fGWc
+url: https://www.youtube.com/watch?v=EY91614fGWc
 youtube_url: https://www.youtube.com/watch?v=EY91614fGWc
 tags: ["AI", "Automation", "English (US)", "Foundational (100)", "Hank Glover", "ODFP937", "Power Platform", "Pre-recorded", "Shane Meisner", "Technical", "Transform agreement workflows through Docusign's low-code automation | ODFP937", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Transform agreement workflows through Docusign's low-code automation | ODFP937
 
-**Speaker not identified**
+**Hank Glover, Shane Meisner**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `23 min`
 

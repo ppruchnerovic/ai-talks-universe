@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Milos Colic", "Nate Waters"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-05T15:32:11Z
 video_id: Boz5u4-61XI
+url: https://www.youtube.com/watch?v=Boz5u4-61XI
 youtube_url: https://www.youtube.com/watch?v=Boz5u4-61XI
 tags: ["How Xoople Scales Python for AI using Anyscale on Azure | LIVE148", "LIVE148", "LIVE148_v1", "Milos Colic", "Nate Waters", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # How Xoople Scales Python for AI using Anyscale on Azure | LIVE148
 
-**Speaker not identified**
+**Milos Colic, Nate Waters**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

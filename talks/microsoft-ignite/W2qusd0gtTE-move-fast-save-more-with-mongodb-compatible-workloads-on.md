@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Patty Chow", "Khelan Modi", "Gurvinder Singh"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-20T17:12:14Z
 video_id: W2qusd0gtTE
+url: https://www.youtube.com/watch?v=W2qusd0gtTE
 youtube_url: https://www.youtube.com/watch?v=W2qusd0gtTE
 tags: ["1680cad3-79c9-4049-a318-848db980c11b_Segment", "BRK132", "English (US)", "Gurvinder Singh", "Khelan Modi", "Move fast save more with MongoDB-compatible workloads on DocumentDB | BRK132", "Patty Chow", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Move fast save more with MongoDB-compatible workloads on DocumentDB | BRK132
 
-**Speaker not identified**
+**Patty Chow, Khelan Modi, Gurvinder Singh**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

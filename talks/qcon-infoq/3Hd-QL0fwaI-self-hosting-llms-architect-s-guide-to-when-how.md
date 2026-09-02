@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 40
 published_at: 2025-04-14T08:05:26Z
 video_id: 3Hd-QL0fwaI
+url: https://www.youtube.com/watch?v=3Hd-QL0fwaI
 youtube_url: https://www.youtube.com/watch?v=3Hd-QL0fwaI
 tags: ["LLM Deployment", "Self Hosting AI", "Software Architecture", "Large Language Models", "LLMs", "Deployment", "Artificial Intelligence", "Machine Learning", "QCon San Francisco", "InfoQ", "Transcript", "Cloud Computing"]
 transcript: false

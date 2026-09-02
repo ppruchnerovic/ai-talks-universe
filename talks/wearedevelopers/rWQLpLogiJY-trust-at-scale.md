@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T15:30:00+00:00
 video_id: rWQLpLogiJY
+url: https://www.youtube.com/watch?v=rWQLpLogiJY
 youtube_url: https://www.youtube.com/watch?v=rWQLpLogiJY
 tags: ["Engineering Leadership", "Agile", "Collaboration", "Scaling", "Team Building"]
 transcript: true

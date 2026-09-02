@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Simone De Gijt"]
 channel: null
 duration_min: 42
 published_at: null
 video_id: u8HupvjvPTw
+url: https://www.youtube.com/watch?v=u8HupvjvPTw
 youtube_url: https://www.youtube.com/watch?v=u8HupvjvPTw
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # [VDBUH2025] Simone De Gijt - wAIred! Learn with(out) AI
 
-**Speaker not identified**
+**Simone De Gijt**
 
 `Devoxx` · `Devoxx` · `2025` · `42 min`
 

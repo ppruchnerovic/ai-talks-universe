@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Joshua Corbett"]
 channel: "Microsoft Events"
 duration_min: 20
 published_at: 2025-11-19T14:58:50Z
 video_id: -69mrx_ugJA
+url: https://www.youtube.com/watch?v=-69mrx_ugJA
 youtube_url: https://www.youtube.com/watch?v=-69mrx_ugJA
 tags: ["English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Joshua Corbett", "Maximize Azure ROI: Real-world strategies with confirmed reservations | ODSP1474", "Migrate and modernize your estate", "ODSP1474", "ODSP1474_v2", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Maximize Azure ROI: Real-world strategies with confirmed reservations | ODSP1474
 
-**Speaker not identified**
+**Joshua Corbett**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `20 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Tobias Lunt"]
 channel: "AI Council"
 duration_min: 18
 published_at: 2025-05-29T00:43:27Z
 video_id: 93cKg-YyBDk
+url: https://www.youtube.com/watch?v=93cKg-YyBDk
 youtube_url: https://www.youtube.com/watch?v=93cKg-YyBDk
 tags: ["smart cities", "data science", "ChatGPT", "artificial intelligence", "machine learning", "policy", "social impact", "urban data", "urban analytics", "satellite imagery", "LLM datasets", "Python tutorial", "urban planning", "transportation analytics", "traffic optimization", "energy management", "environmental monitoring", "air quality", "waste management", "water management", "public safety", "emergency response", "citizen services", "digital governance"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Putting Data To Work For Global Urban Development
 
-**Speaker not identified**
+**Tobias Lunt**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `18 min`
 

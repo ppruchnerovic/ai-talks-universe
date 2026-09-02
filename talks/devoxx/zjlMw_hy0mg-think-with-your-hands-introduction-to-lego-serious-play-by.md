@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Annabelle Buffart"]
 channel: "Devoxx"
 duration_min: 25
 published_at: 2025-10-08T05:30:38Z
 video_id: zjlMw_hy0mg
+url: https://www.youtube.com/watch?v=zjlMw_hy0mg
 youtube_url: https://www.youtube.com/watch?v=zjlMw_hy0mg
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Think with your hands: introduction to Lego Serious Play by Annabelle Buffart
 
-**Speaker not identified**
+**Annabelle Buffart**
 
 `Devoxx` · `Devoxx` · `2025` · `25 min`
 

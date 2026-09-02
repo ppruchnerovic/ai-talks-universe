@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 45
 published_at: null
 video_id: Ms0lDo_19sM
+url: https://www.youtube.com/watch?v=Ms0lDo_19sM
 youtube_url: https://www.youtube.com/watch?v=Ms0lDo_19sM
 tags: []
 transcript: false

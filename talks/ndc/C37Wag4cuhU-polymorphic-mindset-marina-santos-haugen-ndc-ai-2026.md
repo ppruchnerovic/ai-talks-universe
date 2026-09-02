@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 64
 published_at: 2026-06-26T14:11:23Z
 video_id: C37Wag4cuhU
+url: https://www.youtube.com/watch?v=C37Wag4cuhU
 youtube_url: https://www.youtube.com/watch?v=C37Wag4cuhU
 tags: ["AI", "AI Agent", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Marina Santos Haguen"]
 transcript: true

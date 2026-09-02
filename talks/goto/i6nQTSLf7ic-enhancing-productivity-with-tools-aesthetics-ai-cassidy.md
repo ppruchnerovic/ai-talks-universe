@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Cassidy Williams", "Ben Hong"]
 channel: "GOTO Conferences"
 duration_min: 37
 published_at: 2024-12-13T10:49:50Z
 video_id: i6nQTSLf7ic
+url: https://www.youtube.com/watch?v=i6nQTSLf7ic
 youtube_url: https://www.youtube.com/watch?v=i6nQTSLf7ic
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Enhancing Productivity with Tools, Aesthetics & AI • Cassidy Williams & Ben Hong
 
-**Speaker not identified**
+**Cassidy Williams, Ben Hong**
 
 `GOTO Conferences` · `GOTO` · `2024` · `37 min`
 

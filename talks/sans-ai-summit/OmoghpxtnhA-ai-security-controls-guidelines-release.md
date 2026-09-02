@@ -12,6 +12,7 @@ channel: "SANS Institute"
 duration_min: 21
 published_at: null
 video_id: OmoghpxtnhA
+url: https://www.youtube.com/watch?v=OmoghpxtnhA
 youtube_url: https://www.youtube.com/watch?v=OmoghpxtnhA
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Risto Miikkulainen"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:06:10Z
 video_id: 4B4tt36tegQ
+url: https://www.youtube.com/watch?v=4B4tt36tegQ
 youtube_url: https://www.youtube.com/watch?v=4B4tt36tegQ
 tags: ["7391162b-4e9b-40a0-aa1a-b29cd8c94f6a_Segment", "A million agents is all you need | BRKSP460", "Agentic business applications", "BRKSP460", "English (US)", "Risto Miikkulainen", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # A million agents is all you need | BRKSP460
 
-**Speaker not identified**
+**Risto Miikkulainen**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

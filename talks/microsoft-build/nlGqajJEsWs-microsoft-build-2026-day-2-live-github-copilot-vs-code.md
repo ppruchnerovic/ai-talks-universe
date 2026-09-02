@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 400
 published_at: 2026-06-03T22:51:21Z
 video_id: nlGqajJEsWs
+url: https://www.youtube.com/watch?v=nlGqajJEsWs
 youtube_url: https://www.youtube.com/watch?v=nlGqajJEsWs
 tags: ["Azure", "Microsoft", "Tech", "Technology", "Dev", "Development", "Cloud Computing", "GitHub", "VS Code", "AI", "Microsoft AI", "Visual Studio", "Windows", "Community"]
 transcript: true

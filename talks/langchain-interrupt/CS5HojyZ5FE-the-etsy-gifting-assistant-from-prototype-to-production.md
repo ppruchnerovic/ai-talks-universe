@@ -12,6 +12,7 @@ channel: "LangChain"
 duration_min: 17
 published_at: 2026-06-08T12:54:09Z
 video_id: CS5HojyZ5FE
+url: https://www.youtube.com/watch?v=CS5HojyZ5FE
 youtube_url: https://www.youtube.com/watch?v=CS5HojyZ5FE
 tags: ["LangChain", "LangGraph", "LangSmith", "AI agents", "Etsy", "gifting assistant", "conversational AI", "ReAct agent", "LLM evaluation", "agent deployment", "AI engineering", "Interrupt conference", "production AI", "LLM judge", "agent observability", "agentic AI", "AI search"]
 transcript: true

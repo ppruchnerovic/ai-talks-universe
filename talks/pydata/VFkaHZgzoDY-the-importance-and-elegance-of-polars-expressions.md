@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 34
 published_at: 2025-11-23T14:33:53Z
 video_id: VFkaHZgzoDY
+url: https://www.youtube.com/watch?v=VFkaHZgzoDY
 youtube_url: https://www.youtube.com/watch?v=VFkaHZgzoDY
 tags: ["Conference", "Jeroen Janssens", "Polars", "PyConDE", "PyData", "Python", "Python Polars", "Python conference", "Tech Talk", "data manipulation", "data science", "data transformation", "data wrangling", "dataframes", "expressions", "intermediate Python", "lazy evaluation", "pandas alternative", "query optimization"]
 transcript: false

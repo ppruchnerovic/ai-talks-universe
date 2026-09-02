@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-07-21T00:00:00Z
 video_id: D4Dswf-__RM
+url: https://www.youtube.com/watch?v=D4Dswf-__RM
 youtube_url: https://www.youtube.com/watch?v=D4Dswf-__RM
 tags: []
 transcript: false

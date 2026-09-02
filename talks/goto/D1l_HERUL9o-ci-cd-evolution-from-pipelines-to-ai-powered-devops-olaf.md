@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Olaf Molenveld", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 40
 published_at: 2026-02-06T13:27:35Z
 video_id: D1l_HERUL9o
+url: https://www.youtube.com/watch?v=D1l_HERUL9o
 youtube_url: https://www.youtube.com/watch?v=D1l_HERUL9o
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # CI/CD Evolution: From Pipelines to AI-Powered DevOps • Olaf Molenveld & Julian Wood
 
-**Speaker not identified**
+**Olaf Molenveld, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2026` · `40 min`
 

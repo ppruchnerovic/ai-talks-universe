@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Jossef Kadouri", "Tzachi Zornshtain"]
 channel: "The Linux Foundation"
 duration_min: 45
 published_at: 2024-06-27T14:40:37Z
 video_id: Z5XrJifEFCM
+url: https://www.youtube.com/watch?v=Z5XrJifEFCM
 youtube_url: https://www.youtube.com/watch?v=Z5XrJifEFCM
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Dark Side of AI: The Hidden Supply Chain Risks in Open... - Jossef Kadouri & Tzachi Zornshtain
 
-**Speaker not identified**
+**Jossef Kadouri, Tzachi Zornshtain**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `45 min`
 

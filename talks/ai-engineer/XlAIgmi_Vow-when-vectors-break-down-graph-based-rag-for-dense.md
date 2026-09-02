@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 16
 published_at: 2025-07-22T16:30:06Z
 video_id: XlAIgmi_Vow
+url: https://www.youtube.com/watch?v=XlAIgmi_Vow
 youtube_url: https://www.youtube.com/watch?v=XlAIgmi_Vow
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 24
 published_at: 2025-01-10T08:27:39Z
 video_id: RxhuiOVcmks
+url: https://www.youtube.com/watch?v=RxhuiOVcmks
 youtube_url: https://www.youtube.com/watch?v=RxhuiOVcmks
 tags: []
 transcript: false

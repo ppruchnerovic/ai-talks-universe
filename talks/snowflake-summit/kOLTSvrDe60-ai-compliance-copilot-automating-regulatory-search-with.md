@@ -12,6 +12,7 @@ channel: "Snowflake Developers"
 duration_min: 29
 published_at: null
 video_id: kOLTSvrDe60
+url: https://www.youtube.com/watch?v=kOLTSvrDe60
 youtube_url: https://www.youtube.com/watch?v=kOLTSvrDe60
 tags: []
 transcript: false

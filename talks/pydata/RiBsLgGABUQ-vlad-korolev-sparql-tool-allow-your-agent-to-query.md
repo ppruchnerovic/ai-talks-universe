@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 46
 published_at: 2026-04-06T01:26:26Z
 video_id: RiBsLgGABUQ
+url: https://www.youtube.com/watch?v=RiBsLgGABUQ
 youtube_url: https://www.youtube.com/watch?v=RiBsLgGABUQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: true

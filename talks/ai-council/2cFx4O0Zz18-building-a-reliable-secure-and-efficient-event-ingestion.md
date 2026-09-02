@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Suman Karumuri"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2024-04-19T05:00:02Z
 video_id: 2cFx4O0Zz18
+url: https://www.youtube.com/watch?v=2cFx4O0Zz18
 youtube_url: https://www.youtube.com/watch?v=2cFx4O0Zz18
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building a Reliable, Secure and Efficient Event Ingestion Pipeline
 
-**Speaker not identified**
+**Suman Karumuri**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `31 min`
 

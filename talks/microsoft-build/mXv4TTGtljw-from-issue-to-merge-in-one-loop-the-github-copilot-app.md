@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Seth Juarez", "Burke Holland"]
 channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-05T14:59:42Z
 video_id: mXv4TTGtljw
+url: https://www.youtube.com/watch?v=mXv4TTGtljw
 youtube_url: https://www.youtube.com/watch?v=mXv4TTGtljw
 tags: ["Burke Holland", "From issue to merge in one loop: the GitHub Copilot app | LIVE162", "LIVE162", "LIVE162_v1", "Seth Juarez", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # From issue to merge in one loop: the GitHub Copilot app | LIVE162
 
-**Speaker not identified**
+**Seth Juarez, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `14 min`
 

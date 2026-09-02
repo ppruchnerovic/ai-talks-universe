@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T08:20:00+00:00
 video_id: IEsybU8JvqM
+url: https://www.youtube.com/watch?v=IEsybU8JvqM
 youtube_url: https://www.youtube.com/watch?v=IEsybU8JvqM
 tags: ["Data & Databases", "Analytics", "C++", "Databases", "Retrieval-Augmented Generation (RAG)", "SQL"]
 transcript: true

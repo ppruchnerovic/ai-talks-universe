@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Pal Magnus Sla"]
 channel: "Devoxx"
 duration_min: 24
 published_at: 2025-10-08T05:30:33Z
 video_id: 7oEICZ3fp3I
+url: https://www.youtube.com/watch?v=7oEICZ3fp3I
 youtube_url: https://www.youtube.com/watch?v=7oEICZ3fp3I
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Amazon Q Developer: Your AI Pair Programmer for Java Modernization and Development by Pal Magnus Sla
 
-**Speaker not identified**
+**Pal Magnus Sla**
 
 `Devoxx` · `Devoxx` · `2025` · `24 min`
 

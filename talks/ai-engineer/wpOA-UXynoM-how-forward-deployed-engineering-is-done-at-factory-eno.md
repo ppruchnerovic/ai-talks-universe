@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-07-28T22:00:06Z
 video_id: wpOA-UXynoM
+url: https://www.youtube.com/watch?v=wpOA-UXynoM
 youtube_url: https://www.youtube.com/watch?v=wpOA-UXynoM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

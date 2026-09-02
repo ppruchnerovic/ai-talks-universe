@@ -12,6 +12,7 @@ channel: null
 duration_min: 28
 published_at: null
 video_id: RIFjLtffoXQ
+url: https://www.youtube.com/watch?v=RIFjLtffoXQ
 youtube_url: https://www.youtube.com/watch?v=RIFjLtffoXQ
 tags: []
 transcript: false

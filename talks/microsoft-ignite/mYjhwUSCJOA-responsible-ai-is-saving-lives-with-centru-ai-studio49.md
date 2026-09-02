@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-24T14:18:20Z
 video_id: mYjhwUSCJOA
+url: https://www.youtube.com/watch?v=mYjhwUSCJOA
 youtube_url: https://www.youtube.com/watch?v=mYjhwUSCJOA
 tags: ["English (US)", "Other", "Responsible AI is saving lives with Centru AI | STUDIO49", "STUDIO49", "STUDIO49_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

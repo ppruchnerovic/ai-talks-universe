@@ -111,7 +111,12 @@ def ytdlp_binary() -> str:
     return found
 
 
-BLOCK_MARKERS = ("Sign in to confirm", "429", "Too Many Requests", "blocked", "bot")
+# Anchored on what YouTube actually says when it refuses an IP. The old list
+# matched the substring "blocked", which yt-dlp also prints for a single
+# geo-restricted video ("The uploader has not made this video available in
+# your country" comes through as "blocked in your country"), and one such
+# video aborted the whole run as though the IP had been refused.
+BLOCK_MARKERS = ("Sign in to confirm", "HTTP Error 429", "Too Many Requests")
 
 
 def fetch_ytdlp(vid: str) -> dict:
@@ -167,8 +172,8 @@ def select(reg: dict, args) -> tuple[dict[str, list[str]], int]:
 
     for slug, vid, v in pool:
         c = confs.get(slug)
-        if not c:
-            continue
+        if not c or not atu.is_youtube_id(vid):
+            continue                      # an InfoQ-only record has no video to ask about
         if args.only and slug not in args.only:
             continue
         if args.priority and c["priority"] > args.priority:

@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 24
 published_at: null
 video_id: IPig7Dblxag
+url: https://www.youtube.com/watch?v=IPig7Dblxag
 youtube_url: https://www.youtube.com/watch?v=IPig7Dblxag
 tags: []
 transcript: false

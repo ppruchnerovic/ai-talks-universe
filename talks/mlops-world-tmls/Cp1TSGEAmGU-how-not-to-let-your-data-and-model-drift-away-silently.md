@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 40
 published_at: 2023-08-18T01:37:38Z
 video_id: Cp1TSGEAmGU
+url: https://www.youtube.com/watch?v=Cp1TSGEAmGU
 youtube_url: https://www.youtube.com/watch?v=Cp1TSGEAmGU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "How Not to Let Your Data and Model Drift Away Silently", "data drift", "model drift", "Data and Model Drift", "data analysis"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2023
-speakers: []
+speakers: ["D. Sivakumar"]
 channel: "AI Council"
 duration_min: 44
 published_at: 2023-05-11T18:59:35Z
 video_id: KA6tiBsl7Js
+url: https://www.youtube.com/watch?v=KA6tiBsl7Js
 youtube_url: https://www.youtube.com/watch?v=KA6tiBsl7Js
 tags: ["generative AI", "search", "NLP", "natural-language search"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Generative AI for Search | Tonita
 
-**Speaker not identified**
+**D. Sivakumar**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2023` · `44 min`
 

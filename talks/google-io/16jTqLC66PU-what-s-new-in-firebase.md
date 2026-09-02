@@ -12,6 +12,7 @@ channel: "Firebase"
 duration_min: 32
 published_at: 2026-05-21T16:02:03Z
 video_id: 16jTqLC66PU
+url: https://www.youtube.com/watch?v=16jTqLC66PU
 youtube_url: https://www.youtube.com/watch?v=16jTqLC66PU
 tags: []
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Mike Graber", "Sivakumar N"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:29:04Z
 video_id: Odlv5VmilzM
+url: https://www.youtube.com/watch?v=Odlv5VmilzM
 youtube_url: https://www.youtube.com/watch?v=Odlv5VmilzM
 tags: ["AI", "BRKFP384", "Breakout", "Copilot for M365", "Diversity and Inclusion", "English (US)", "Enterprise work management", "Intermediate (200)", "Mike Graber", "Responsible AI", "Sivakumar N", "Start your business AI transformation and innovate with SAP | BRKFP384", "Sustainability", "Technical", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Start your business AI transformation and innovate with SAP | BRKFP384
 
-**Speaker not identified**
+**Mike Graber, Sivakumar N**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

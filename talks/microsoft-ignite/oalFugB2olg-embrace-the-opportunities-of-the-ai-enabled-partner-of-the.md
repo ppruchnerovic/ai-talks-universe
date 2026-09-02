@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Angela Byers"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T15:25:12Z
 video_id: oalFugB2olg
+url: https://www.youtube.com/watch?v=oalFugB2olg
 youtube_url: https://www.youtube.com/watch?v=oalFugB2olg
 tags: ["AI", "Administration", "BRKFP382", "Data governance", "Embrace the opportunities of the AI-enabled partner of the future | BRKFP382", "Insider risk management", "Multicloud security", "Product management", "Program management", "Project Management", "SMB", "Small and medium-sized businesses", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Embrace the opportunities of the AI-enabled partner of the future | BRKFP382
 
-**Speaker not identified**
+**Angela Byers**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

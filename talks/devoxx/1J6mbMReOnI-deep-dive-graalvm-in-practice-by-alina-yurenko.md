@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Alina Yurenko"]
 channel: "Devoxx"
 duration_min: 149
 published_at: 2025-10-08T05:30:33Z
 video_id: 1J6mbMReOnI
+url: https://www.youtube.com/watch?v=1J6mbMReOnI
 youtube_url: https://www.youtube.com/watch?v=1J6mbMReOnI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Deep Dive: GraalVM in Practice by Alina Yurenko
 
-**Speaker not identified**
+**Alina Yurenko**
 
 `Devoxx` · `Devoxx` · `2025` · `149 min`
 

@@ -12,6 +12,7 @@ channel: "Google for Developers"
 duration_min: 45
 published_at: 2026-05-21T17:15:25Z
 video_id: VTYx7Ex-0bA
+url: https://www.youtube.com/watch?v=VTYx7Ex-0bA
 youtube_url: https://www.youtube.com/watch?v=VTYx7Ex-0bA
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Professional Development;"]
 transcript: true

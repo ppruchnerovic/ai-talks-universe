@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2026
-speakers: ["Stefan Birr", "Mones Raslan"]
+speakers: ["Stefan Birr"]
 channel: "PyData"
 duration_min: 29
 published_at: 2026-08-04T22:21:42Z
 video_id: W4rjcvSzB1A
+url: https://www.youtube.com/watch?v=W4rjcvSzB1A
 youtube_url: https://www.youtube.com/watch?v=W4rjcvSzB1A
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # How to compare apples with oranges: Proper evaluation of article-level demand forecasts
 
-**Stefan Birr, Mones Raslan**
+**Stefan Birr**
 
 `PyData` · `PyData` · `2026` · `29 min`
 

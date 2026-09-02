@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Daniel Roe"]
 channel: "Devoxx"
 duration_min: 40
 published_at: 2025-10-02T12:33:54Z
 video_id: WgYUWh38kUI
+url: https://www.youtube.com/watch?v=WgYUWh38kUI
 youtube_url: https://www.youtube.com/watch?v=WgYUWh38kUI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building a personal CLI by Daniel Roe
 
-**Speaker not identified**
+**Daniel Roe**
 
 `Devoxx` · `Devoxx` · `2025` · `40 min`
 

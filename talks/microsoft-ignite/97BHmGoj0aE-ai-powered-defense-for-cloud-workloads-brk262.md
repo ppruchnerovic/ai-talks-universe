@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parul Seth", "Michael Withrow"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T07:34:52Z
 video_id: 97BHmGoj0aE
+url: https://www.youtube.com/watch?v=97BHmGoj0aE
 youtube_url: https://www.youtube.com/watch?v=97BHmGoj0aE
 tags: ["AI-powered defense for cloud workloads | BRK262", "BRK262", "English (US)", "Michael Withrow", "Parul Seth", "Protect cloud AI platform and apps", "Technical", "add50b34-f8ca-46b9-b08b-774b97d53db8_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI-powered defense for cloud workloads | BRK262
 
-**Speaker not identified**
+**Parul Seth, Michael Withrow**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

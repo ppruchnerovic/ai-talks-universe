@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Stamatis Ezovalis"]
 channel: "Devoxx"
 duration_min: 21
 published_at: 2024-10-23T07:08:31Z
 video_id: 2iWyhMFWuqs
+url: https://www.youtube.com/watch?v=2iWyhMFWuqs
 youtube_url: https://www.youtube.com/watch?v=2iWyhMFWuqs
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Capabilities and Challenges of AI in Digital Governance by Stamatis Ezovalis
 
-**Speaker not identified**
+**Stamatis Ezovalis**
 
 `Devoxx` · `Devoxx` · `2024` · `21 min`
 

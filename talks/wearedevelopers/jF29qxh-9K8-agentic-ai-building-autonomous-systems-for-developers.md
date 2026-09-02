@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T09:30:00+00:00
 video_id: jF29qxh-9K8
+url: https://www.youtube.com/watch?v=jF29qxh-9K8
 youtube_url: https://www.youtube.com/watch?v=jF29qxh-9K8
 tags: ["AI Agents", "AI Coding Assistants", "Software Architecture"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lior Bela", "Rob York"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T13:34:22Z
 video_id: mpRtxCxIpr0
+url: https://www.youtube.com/watch?v=mpRtxCxIpr0
 youtube_url: https://www.youtube.com/watch?v=mpRtxCxIpr0
 tags: ["AVD", "Azure Virtual Desktop", "BRK291", "Cloud PC", "Copilot administration", "Copilot for Security", "Intune Cloud-native Management: Prepare for AI and Next-Gen Cloud PCs | BRK291", "Management", "Microsoft Intune", "Modern Work", "Modern Work-Curated", "Windows 365", "Windows in the Cloud", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Intune Cloud-native Management: Prepare for AI and Next-Gen Cloud PCs | BRK291
 
-**Speaker not identified**
+**Lior Bela, Rob York**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

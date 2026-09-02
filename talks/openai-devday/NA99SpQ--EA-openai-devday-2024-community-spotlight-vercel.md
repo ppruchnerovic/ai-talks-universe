@@ -12,6 +12,7 @@ channel: "OpenAI"
 duration_min: 11
 published_at: null
 video_id: NA99SpQ--EA
+url: https://www.youtube.com/watch?v=NA99SpQ--EA
 youtube_url: https://www.youtube.com/watch?v=NA99SpQ--EA
 tags: []
 transcript: false

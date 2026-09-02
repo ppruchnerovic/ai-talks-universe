@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Simon Maple"]
 channel: "Devoxx"
 duration_min: 50
 published_at: 2025-10-10T05:09:28Z
 video_id: tEHzFedonNc
+url: https://www.youtube.com/watch?v=tEHzFedonNc
 youtube_url: https://www.youtube.com/watch?v=tEHzFedonNc
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Spec Driven Development Why your prompt chaos won’t scale by Simon Maple
 
-**Speaker not identified**
+**Simon Maple**
 
 `Devoxx` · `Devoxx` · `2025` · `50 min`
 

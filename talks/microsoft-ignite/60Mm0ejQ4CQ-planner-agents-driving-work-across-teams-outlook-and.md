@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Howard Crow", "Robyn Guarriello"]
 channel: "Microsoft Events"
 duration_min: 42
 published_at: 2025-11-24T10:21:10Z
 video_id: 60Mm0ejQ4CQ
+url: https://www.youtube.com/watch?v=60Mm0ejQ4CQ
 youtube_url: https://www.youtube.com/watch?v=60Mm0ejQ4CQ
 tags: ["1cdbf260-2005-49c3-88b2-01b3f7d80df9_Segment", "BRK287", "Copilot and agents at work", "English (US)", "Howard Crow", "Planner & agents: Driving work across Teams Outlook and Copilot Chat | BRK287", "Robyn Guarriello", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Planner & agents: Driving work across Teams, Outlook, and Copilot Chat | BRK287
 
-**Speaker not identified**
+**Howard Crow, Robyn Guarriello**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `42 min`
 

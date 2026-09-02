@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 59
 published_at: null
 video_id: EPRE8_FHGdQ
+url: https://www.youtube.com/watch?v=EPRE8_FHGdQ
 youtube_url: https://www.youtube.com/watch?v=EPRE8_FHGdQ
 tags: []
 transcript: false

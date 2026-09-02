@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Bryan Bischof"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:51:05Z
 video_id: k98gDjYbSaU
+url: https://www.youtube.com/watch?v=k98gDjYbSaU
 youtube_url: https://www.youtube.com/watch?v=k98gDjYbSaU
 tags: ["AI evaluation", "LLM quality", "production AI", "ChatGPT", "artificial intelligence", "machine learning", "data science tutorial", "quality assurance", "AI testing", "model testing", "AI reliability", "MLOps", "Python tutorial", "failure patterns", "quality assessment", "model validation", "performance metrics", "evaluation frameworks", "benchmark testing", "A B testing", "human evaluation", "automated evaluation", "bias detection", "fairness testing", "robustness testing"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Failure is a Funnel
 
-**Speaker not identified**
+**Bryan Bischof**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

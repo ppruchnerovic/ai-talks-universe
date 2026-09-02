@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Aaron Taylor"]
 channel: "AI Council"
 duration_min: 15
 published_at: 2024-04-19T05:00:11Z
 video_id: LgzD6-tvuV0
+url: https://www.youtube.com/watch?v=LgzD6-tvuV0
 youtube_url: https://www.youtube.com/watch?v=LgzD6-tvuV0
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Enabling Data Centric Solutions through Modern Schema Management
 
-**Speaker not identified**
+**Aaron Taylor**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `15 min`
 

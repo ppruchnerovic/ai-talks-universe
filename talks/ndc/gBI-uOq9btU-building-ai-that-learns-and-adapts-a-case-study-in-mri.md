@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 43
 published_at: 2026-03-03T10:46:55Z
 video_id: gBI-uOq9btU
+url: https://www.youtube.com/watch?v=gBI-uOq9btU
 youtube_url: https://www.youtube.com/watch?v=gBI-uOq9btU
 tags: ["AI", "Architecture", "Machine Learning", "ML", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "Agata Chudzińska"]
 transcript: true

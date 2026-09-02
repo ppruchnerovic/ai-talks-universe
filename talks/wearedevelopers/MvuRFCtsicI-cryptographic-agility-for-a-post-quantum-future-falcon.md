@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 20
 published_at: 2026-07-09T12:10:00+00:00
 video_id: MvuRFCtsicI
+url: https://www.youtube.com/watch?v=MvuRFCtsicI
 youtube_url: https://www.youtube.com/watch?v=MvuRFCtsicI
 tags: ["Security & Privacy", "Cryptography", "Quantum", "TypeScript"]
 transcript: true

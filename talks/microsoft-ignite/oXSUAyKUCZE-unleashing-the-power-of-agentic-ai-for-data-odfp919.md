@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 21
 published_at: 2024-11-20T13:13:59Z
 video_id: oXSUAyKUCZE
+url: https://www.youtube.com/watch?v=oXSUAyKUCZE
 youtube_url: https://www.youtube.com/watch?v=oXSUAyKUCZE
 tags: ["AI", "Advanced (300)", "Automation", "English (US)", "ODFP919", "Prabhakar srinivasan", "Pre-recorded", "Technical", "Unleashing the power of Agentic AI for data | ODFP919", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

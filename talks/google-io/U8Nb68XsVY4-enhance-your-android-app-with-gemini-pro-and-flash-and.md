@@ -12,6 +12,7 @@ channel: "Android Developers"
 duration_min: 17
 published_at: null
 video_id: U8Nb68XsVY4
+url: https://www.youtube.com/watch?v=U8Nb68XsVY4
 youtube_url: https://www.youtube.com/watch?v=U8Nb68XsVY4
 tags: []
 transcript: false

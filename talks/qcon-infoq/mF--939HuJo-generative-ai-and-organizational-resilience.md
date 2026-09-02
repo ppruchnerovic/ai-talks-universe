@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 42
 published_at: 2024-08-29T06:56:14Z
 video_id: mF--939HuJo
+url: https://www.youtube.com/watch?v=mF--939HuJo
 youtube_url: https://www.youtube.com/watch?v=mF--939HuJo
 tags: ["Generative AI", "GenAI", "Agile", "Artificial Intelligence", "AI", "Resilience", "Organization", "Software Architecture", "InfoQ", "QCon San Francisco", "Transcript"]
 transcript: false

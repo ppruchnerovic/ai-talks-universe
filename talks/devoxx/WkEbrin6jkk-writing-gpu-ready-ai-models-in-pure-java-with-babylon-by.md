@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Lize Raes", "Ana Maria Mihalceanu"]
 channel: "Devoxx"
 duration_min: 59
 published_at: 2025-10-09T05:35:16Z
 video_id: WkEbrin6jkk
+url: https://www.youtube.com/watch?v=WkEbrin6jkk
 youtube_url: https://www.youtube.com/watch?v=WkEbrin6jkk
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Writing GPU Ready AI Models in Pure Java with Babylon by Lize Raes, Ana Maria Mihalceanu
 
-**Speaker not identified**
+**Lize Raes, Ana Maria Mihalceanu**
 
 `Devoxx` · `Devoxx` · `2025` · `59 min`
 

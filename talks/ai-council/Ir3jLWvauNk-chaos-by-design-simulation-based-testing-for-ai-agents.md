@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Willem Pienaar"]
 channel: "AI Council"
 duration_min: 13
 published_at: 2025-05-29T00:38:38Z
 video_id: Ir3jLWvauNk
+url: https://www.youtube.com/watch?v=Ir3jLWvauNk
 youtube_url: https://www.youtube.com/watch?v=Ir3jLWvauNk
 tags: ["chaos engineering", "AI agents", "system reliability", "ChatGPT", "artificial intelligence", "machine learning", "chaos testing", "reliability engineering", "distributed systems", "software testing", "site reliability", "simulation testing", "Python tutorial", "fault tolerance", "resilience testing", "disaster recovery", "business continuity", "failure modes", "error handling", "monitoring", "observability", "incident response", "postmortem analysis"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Chaos By Design: Simulation Based Testing for AI Agents
 
-**Speaker not identified**
+**Willem Pienaar**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `13 min`
 

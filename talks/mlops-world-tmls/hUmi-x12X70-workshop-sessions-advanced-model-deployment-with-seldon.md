@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 64
 published_at: 2023-08-18T01:38:26Z
 video_id: hUmi-x12X70
+url: https://www.youtube.com/watch?v=hUmi-x12X70
 youtube_url: https://www.youtube.com/watch?v=hUmi-x12X70
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Advanced Model Deployment with Seldon Deploy", "Seldon Deploy", "Advanced Model Deployment", "Tom Farrand", "Sean Greaves", "deployment", "Solutions Engineer", "Sales Engineer", "Seldon"]
 transcript: false

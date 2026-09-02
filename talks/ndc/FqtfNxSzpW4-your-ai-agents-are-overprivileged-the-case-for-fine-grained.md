@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 55
 published_at: 2025-10-30T15:20:53Z
 video_id: FqtfNxSzpW4
+url: https://www.youtube.com/watch?v=FqtfNxSzpW4
 youtube_url: https://www.youtube.com/watch?v=FqtfNxSzpW4
 tags: ["Agile", "Architecture", "Cloud", "Database", "Security", "GenAI", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Ashish Jha"]
 transcript: false

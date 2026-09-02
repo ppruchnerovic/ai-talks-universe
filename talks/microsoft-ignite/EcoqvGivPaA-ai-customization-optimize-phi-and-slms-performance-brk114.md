@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Martin Cai", "Gina Lee", "Sameer Sharma"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2024-11-25T12:15:27Z
 video_id: EcoqvGivPaA
+url: https://www.youtube.com/watch?v=EcoqvGivPaA
 youtube_url: https://www.youtube.com/watch?v=EcoqvGivPaA
 tags: ["AI", "AI customization: Optimize Phi and SLMs performance | BRK114", "Azure", "Azure AI", "BRK114", "Breakout", "English (US)", "Gina Lee", "Intermediate (200)", "MachineLearning", "Martin Cai", "Models", "Sameer Sharma", "Services", "Software Company", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI customization: Optimize Phi and SLMs performance | BRK114
 
-**Speaker not identified**
+**Martin Cai, Gina Lee, Sameer Sharma**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `48 min`
 

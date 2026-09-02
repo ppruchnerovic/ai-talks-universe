@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: ["Amplify Partners"]
+speakers: []
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2026-07-21T00:00:00Z
 video_id: RGe6EjucbzI
+url: https://www.youtube.com/watch?v=RGe6EjucbzI
 youtube_url: https://www.youtube.com/watch?v=RGe6EjucbzI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # "The biggest challenge in your stack? Evals, Evals, Evals" - 2026 State of AI Engineering results
 
-**Amplify Partners**
+**Speaker not identified**
 
 `AI Engineer` · `AI Engineer` · `2026` · `20 min`
 

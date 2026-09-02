@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Alexandre Variengien", "Diego Dorn"]
 channel: "The Linux Foundation"
 duration_min: 31
 published_at: 2024-06-27T14:39:47Z
 video_id: okeqoV2OPGY
+url: https://www.youtube.com/watch?v=okeqoV2OPGY
 youtube_url: https://www.youtube.com/watch?v=okeqoV2OPGY
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Future-Proofing Agent Supervision - Alexandre Variengien & Diego Dorn, EffiSciences
 
-**Speaker not identified**
+**Alexandre Variengien, Diego Dorn**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `31 min`
 

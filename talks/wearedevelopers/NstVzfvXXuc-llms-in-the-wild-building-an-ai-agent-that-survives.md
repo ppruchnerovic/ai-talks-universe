@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T13:00:00+00:00
 video_id: NstVzfvXXuc
+url: https://www.youtube.com/watch?v=NstVzfvXXuc
 youtube_url: https://www.youtube.com/watch?v=NstVzfvXXuc
 tags: ["AI Agents", "Agents", "Agentic AI", "Large Language Models (LLMs)", "LLMOps", "Retrieval-Augmented Generation (RAG)"]
 transcript: true

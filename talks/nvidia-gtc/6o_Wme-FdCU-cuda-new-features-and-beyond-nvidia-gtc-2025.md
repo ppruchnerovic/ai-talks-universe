@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 44
 published_at: null
 video_id: 6o_Wme-FdCU
+url: https://www.youtube.com/watch?v=6o_Wme-FdCU
 youtube_url: https://www.youtube.com/watch?v=6o_Wme-FdCU
 tags: []
 transcript: false

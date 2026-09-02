@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 35
 published_at: 2023-05-11T18:59:02Z
 video_id: x8BQM-q0mAo
+url: https://www.youtube.com/watch?v=x8BQM-q0mAo
 youtube_url: https://www.youtube.com/watch?v=x8BQM-q0mAo
 tags: ["Apache Arrow", "Apache Parquet", "open source", "data lineage"]
 transcript: false

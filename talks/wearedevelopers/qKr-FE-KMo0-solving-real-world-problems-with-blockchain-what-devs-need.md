@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 51
 published_at: 2025-07-18T11:43:11Z
 video_id: qKr-FE-KMo0
+url: https://www.youtube.com/watch?v=qKr-FE-KMo0
 youtube_url: https://www.youtube.com/watch?v=qKr-FE-KMo0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "blockchain", "algorand", "web3", "ai agents", "stablecoins", "crypto", "smart contracts", "developer tools", "typescript", "brian wippo", "coffee with developers", "future of blockchain", "crypto dev", "quantum security", "distributed systems"]
 transcript: false

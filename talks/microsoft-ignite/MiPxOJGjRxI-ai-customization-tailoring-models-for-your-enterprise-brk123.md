@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Yina Arenas", "Vijay Aski"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-26T07:09:18Z
 video_id: MiPxOJGjRxI
+url: https://www.youtube.com/watch?v=MiPxOJGjRxI
 youtube_url: https://www.youtube.com/watch?v=MiPxOJGjRxI
 tags: ["AI", "AI Studio", "AI customization: Tailoring models for your enterprise | BRK123", "BRK123", "Breakout", "Daniel Kurdys", "English (US)", "FineTuning", "GenAI", "Intermediate (200)", "Kurt DeMaagd", "ModelCustomization", "Technical", "Version v0", "Vijay Aski", "Yina Arenas", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI customization: Tailoring models for your enterprise | BRK123
 
-**Speaker not identified**
+**Yina Arenas, Vijay Aski**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

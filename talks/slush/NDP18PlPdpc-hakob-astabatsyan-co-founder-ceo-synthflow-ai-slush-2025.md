@@ -12,6 +12,7 @@ channel: null
 duration_min: 10
 published_at: null
 video_id: NDP18PlPdpc
+url: https://www.youtube.com/watch?v=NDP18PlPdpc
 youtube_url: https://www.youtube.com/watch?v=NDP18PlPdpc
 tags: []
 transcript: false

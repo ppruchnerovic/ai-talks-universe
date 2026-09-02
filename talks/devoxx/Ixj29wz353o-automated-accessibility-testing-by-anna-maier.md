@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Anna Maier"]
 channel: "Devoxx"
 duration_min: 33
 published_at: 2024-10-11T05:09:43Z
 video_id: Ixj29wz353o
+url: https://www.youtube.com/watch?v=Ixj29wz353o
 youtube_url: https://www.youtube.com/watch?v=Ixj29wz353o
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Automated Accessibility Testing by Anna Maier
 
-**Speaker not identified**
+**Anna Maier**
 
 `Devoxx` · `Devoxx` · `2024` · `33 min`
 

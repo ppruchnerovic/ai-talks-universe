@@ -12,6 +12,7 @@ channel: null
 duration_min: 39
 published_at: null
 video_id: AHMFwsPRm30
+url: https://www.youtube.com/watch?v=AHMFwsPRm30
 youtube_url: https://www.youtube.com/watch?v=AHMFwsPRm30
 tags: []
 transcript: false

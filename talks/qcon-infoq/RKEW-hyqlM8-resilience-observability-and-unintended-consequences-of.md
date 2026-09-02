@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 27
 published_at: 2025-02-28T08:20:41Z
 video_id: RKEW-hyqlM8
+url: https://www.youtube.com/watch?v=RKEW-hyqlM8
 youtube_url: https://www.youtube.com/watch?v=RKEW-hyqlM8
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "Weights & Biases"
 duration_min: 189
 published_at: 2023-12-22T14:00:09Z
 video_id: J_OBnNsfE_8
+url: https://www.youtube.com/watch?v=J_OBnNsfE_8
 youtube_url: https://www.youtube.com/watch?v=J_OBnNsfE_8
 tags: ["yule log", "yule log christmas music", "machine learning"]
 transcript: false

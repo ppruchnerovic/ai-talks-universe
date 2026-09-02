@@ -12,6 +12,7 @@ channel: "aivillage"
 duration_min: 60
 published_at: 2026-08-22T16:00:28Z
 video_id: 7-sMBqPV3XU
+url: https://www.youtube.com/watch?v=7-sMBqPV3XU
 youtube_url: https://www.youtube.com/watch?v=7-sMBqPV3XU
 tags: ["defcon", "defcon34", "AI Village", "AI Safety"]
 transcript: true

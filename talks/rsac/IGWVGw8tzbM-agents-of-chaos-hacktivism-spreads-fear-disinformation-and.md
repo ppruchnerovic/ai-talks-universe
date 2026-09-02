@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Alexander Leslie", "Associate Threat Intelligence Analyst"]
+speakers: ["Alexander Leslie"]
 channel: "RSAC Cybersecurity"
 duration_min: 47
 published_at: 2024-06-10T21:16:37Z
 video_id: IGWVGw8tzbM
+url: https://www.youtube.com/watch?v=IGWVGw8tzbM
 youtube_url: https://www.youtube.com/watch?v=IGWVGw8tzbM
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Agents of Chaos: Hacktivism Spreads Fear, Disinformation, and Propaganda
 
-**Alexander Leslie, Associate Threat Intelligence Analyst**
+**Alexander Leslie**
 
 `RSAC Conference` · `RSAC` · `2024` · `47 min`
 

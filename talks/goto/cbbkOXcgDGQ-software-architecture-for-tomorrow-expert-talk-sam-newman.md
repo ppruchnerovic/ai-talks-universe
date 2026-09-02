@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Sam Newman", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 43
 published_at: 2025-01-10T10:34:15Z
 video_id: cbbkOXcgDGQ
+url: https://www.youtube.com/watch?v=cbbkOXcgDGQ
 youtube_url: https://www.youtube.com/watch?v=cbbkOXcgDGQ
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Software Architecture for Tomorrow: Expert Talk • Sam Newman & Julian Wood
 
-**Speaker not identified**
+**Sam Newman, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `43 min`
 

@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-11T07:44:44Z
 video_id: xHxfeWtkXrM
+url: https://www.youtube.com/watch?v=xHxfeWtkXrM
 youtube_url: https://www.youtube.com/watch?v=xHxfeWtkXrM
 tags: ["AI DevCon London 2026", "AI development", "AI in software development", "AWS S3", "AWS S3 clone with AI", "ainativedev", "distributed systems", "how to use observability in AI", "infrastructure software", "observability", "software engineering", "test coverage", "testing distributed systems", "testing strategies", "validating complex systems"]
 transcript: true

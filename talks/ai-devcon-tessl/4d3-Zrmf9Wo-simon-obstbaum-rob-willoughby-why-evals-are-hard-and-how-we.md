@@ -7,11 +7,12 @@ conference_name: "AI DevCon (Tessl)"
 category: "AI engineering & agents"
 edition: "Tessl"
 year: 2026
-speakers: []
+speakers: ["Simon Obstbaum", "Rob Willoughby"]
 channel: "AI Native Dev"
 duration_min: 37
 published_at: 2026-07-27T11:34:56Z
 video_id: 4d3-Zrmf9Wo
+url: https://www.youtube.com/watch?v=4d3-Zrmf9Wo
 youtube_url: https://www.youtube.com/watch?v=4d3-Zrmf9Wo
 tags: ["AI DevCon London 2026", "AI agents", "Claude Code", "Codex", "Cursor", "Stanford", "Tessl", "Tessl eval infrastructure", "agent behavior", "ainativedev", "evals", "how to evaluate AI agents", "output evals", "trajectory evals", "why evals are hard"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Simon Obstbaum & Rob Willoughby - Why evals are hard and how we're solving it - AI Native DevCon Jun
 
-**Speaker not identified**
+**Simon Obstbaum, Rob Willoughby**
 
 `AI DevCon (Tessl)` · `Tessl` · `2026` · `37 min`
 

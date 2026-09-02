@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Satish Thomas", "Kathleen Mitford"]
 channel: "Microsoft Events"
 duration_min: 11
 published_at: 2025-11-24T14:20:38Z
 video_id: Hdd9TxuE6pQ
+url: https://www.youtube.com/watch?v=Hdd9TxuE6pQ
 youtube_url: https://www.youtube.com/watch?v=Hdd9TxuE6pQ
 tags: ["Becoming Frontier in Every Industry with Agentic AI | STUDIO45", "English (US)", "Kathleen Mitford", "Other", "STUDIO45", "STUDIO45_v1", "Satish Thomas", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Becoming Frontier in Every Industry with Agentic AI | STUDIO45
 
-**Speaker not identified**
+**Satish Thomas, Kathleen Mitford**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `11 min`
 

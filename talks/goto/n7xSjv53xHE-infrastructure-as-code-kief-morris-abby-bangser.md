@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Kief Morris", "Abby Bangser"]
 channel: "GOTO Conferences"
 duration_min: 35
 published_at: 2025-10-17T12:21:02Z
 video_id: n7xSjv53xHE
+url: https://www.youtube.com/watch?v=n7xSjv53xHE
 youtube_url: https://www.youtube.com/watch?v=n7xSjv53xHE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Infrastructure as Code • Kief Morris & Abby Bangser
 
-**Speaker not identified**
+**Kief Morris, Abby Bangser**
 
 `GOTO Conferences` · `GOTO` · `2025` · `35 min`
 

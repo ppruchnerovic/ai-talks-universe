@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 34
 published_at: 2025-02-07T14:15:09Z
 video_id: koq9_cupUuo
+url: https://www.youtube.com/watch?v=koq9_cupUuo
 youtube_url: https://www.youtube.com/watch?v=koq9_cupUuo
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "Web AI", "AI in browsers", "Google AI", "Web development", "AI funding", "Machine learning", "AI models", "JavaScript", "Frontend development", "AI APIs", "Browser AI", "AI vs. Server AI", "Coding", "Tech talk", "Developers"]
 transcript: false

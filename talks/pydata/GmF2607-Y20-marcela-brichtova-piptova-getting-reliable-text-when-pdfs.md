@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 18
 published_at: 2026-07-01T15:02:31Z
 video_id: GmF2607-Y20
+url: https://www.youtube.com/watch?v=GmF2607-Y20
 youtube_url: https://www.youtube.com/watch?v=GmF2607-Y20
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: true

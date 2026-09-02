@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rob Ferguson", "Daniel Han", "Mark Saroufin"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-04T12:30:50Z
 video_id: StIDwTzcE_w
+url: https://www.youtube.com/watch?v=StIDwTzcE_w
 youtube_url: https://www.youtube.com/watch?v=StIDwTzcE_w
 tags: ["990ffabd-eceb-4850-96a4-e40c4c2e7df8_M9Z7-BRK234-1", "Azure Kubernetes Service (AKS)", "BRK234", "Daniel Han", "Mark Saroufin", "Personalization", "PyTorch", "Rob Ferguson", "Shipping custom models at scale from fine-tuning to inference | BRK234", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Shipping custom models at scale from fine-tuning to inference | BRK234
 
-**Speaker not identified**
+**Rob Ferguson, Daniel Han, Mark Saroufin**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

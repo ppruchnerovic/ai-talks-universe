@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Piet van Remortel", "Bart Naudts"]
 channel: "Devoxx"
 duration_min: 31
 published_at: 2025-10-08T05:30:38Z
 video_id: n30uo20p6YI
+url: https://www.youtube.com/watch?v=n30uo20p6YI
 youtube_url: https://www.youtube.com/watch?v=n30uo20p6YI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Hands on refactoring session with the CodeLaser MCP server by Piet van Remortel, Bart Naudts
 
-**Speaker not identified**
+**Piet van Remortel, Bart Naudts**
 
 `Devoxx` · `Devoxx` · `2025` · `31 min`
 

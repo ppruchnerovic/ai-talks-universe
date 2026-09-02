@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Ori Soen"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2025-05-29T00:11:49Z
 video_id: lerfCm9lifE
+url: https://www.youtube.com/watch?v=lerfCm9lifE
 youtube_url: https://www.youtube.com/watch?v=lerfCm9lifE
 tags: ["analytics engineering", "data governance", "ChatGPT", "artificial intelligence", "machine learning", "business intelligence", "analytics development", "data teams", "analytics workflow", "data warehouse bottlenecks", "Python tutorial", "data modeling", "data quality", "data lineage", "metadata management", "data catalogs", "self service analytics", "data democratization", "analytics best practices", "data architecture", "modern data stack"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Analytics and the Dark Side of the Analytics Development Lifecycle
 
-**Speaker not identified**
+**Ori Soen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `32 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 35
 published_at: 2025-09-18T13:30:06Z
 video_id: 428TOmEMVnU
+url: https://www.youtube.com/watch?v=428TOmEMVnU
 youtube_url: https://www.youtube.com/watch?v=428TOmEMVnU
 tags: ["Employer Branding", "Employee advocacy", "HR", "culture", "culture programs", "corporate", "people", "trust", "credibility", "ambassadors", "authenticity"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T13:00:00+00:00
 video_id: G_iGw8Q-IcQ
+url: https://www.youtube.com/watch?v=G_iGw8Q-IcQ
 youtube_url: https://www.youtube.com/watch?v=G_iGw8Q-IcQ
 tags: ["Strategy & Innovation", "Business Models", "Collaboration", "Data", "Entrepreneurship", "Monetization", "People & Culture", "Product Management", "Startups"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-06-28T17:30:24Z
 video_id: IddXPepIAS4
+url: https://www.youtube.com/watch?v=IddXPepIAS4
 youtube_url: https://www.youtube.com/watch?v=IddXPepIAS4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

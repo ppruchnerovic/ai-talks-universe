@@ -12,6 +12,7 @@ channel: "Salesforce"
 duration_min: 47
 published_at: null
 video_id: HfMawBuPghk
+url: https://www.youtube.com/watch?v=HfMawBuPghk
 youtube_url: https://www.youtube.com/watch?v=HfMawBuPghk
 tags: []
 transcript: false

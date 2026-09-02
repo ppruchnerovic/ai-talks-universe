@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 47
 published_at: 2025-03-31T21:12:41Z
 video_id: KooKPWB_ktk
+url: https://www.youtube.com/watch?v=KooKPWB_ktk
 youtube_url: https://www.youtube.com/watch?v=KooKPWB_ktk
 tags: []
 transcript: false

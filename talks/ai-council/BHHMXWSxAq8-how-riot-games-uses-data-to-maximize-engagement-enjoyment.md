@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 39
 published_at: 2023-05-11T18:58:54Z
 video_id: BHHMXWSxAq8
+url: https://www.youtube.com/watch?v=BHHMXWSxAq8
 youtube_url: https://www.youtube.com/watch?v=BHHMXWSxAq8
 tags: ["MLOps", "videogames", "data products", "data analytics", "ML"]
 transcript: false

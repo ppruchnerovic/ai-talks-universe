@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-07-31T22:30:06Z
 video_id: k35LeKZEhiE
+url: https://www.youtube.com/watch?v=k35LeKZEhiE
 youtube_url: https://www.youtube.com/watch?v=k35LeKZEhiE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

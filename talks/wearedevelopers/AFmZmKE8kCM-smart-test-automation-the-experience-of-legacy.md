@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 31
 published_at: 2026-07-10T08:20:00+00:00
 video_id: AFmZmKE8kCM
+url: https://www.youtube.com/watch?v=AFmZmKE8kCM
 youtube_url: https://www.youtube.com/watch?v=AFmZmKE8kCM
 tags: ["Quality & Reliability", "Automation Testing", "Best Practices", "C#", "Integration Testing", "Legacy", "PostgreSQL", "Software Architecture", "Testing"]
 transcript: true

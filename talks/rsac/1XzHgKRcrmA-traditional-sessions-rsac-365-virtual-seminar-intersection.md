@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Sandy Dunn", "Adjunct Professor", "Boise State"]
+speakers: ["Sandy Dunn"]
 channel: "RSAC Cybersecurity"
 duration_min: 94
 published_at: 2024-09-24T00:21:43Z
 video_id: 1XzHgKRcrmA
+url: https://www.youtube.com/watch?v=1XzHgKRcrmA
 youtube_url: https://www.youtube.com/watch?v=1XzHgKRcrmA
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Traditional Sessions: RSAC 365 Virtual Seminar: Intersection of AI & Security
 
-**Sandy Dunn, Adjunct Professor, Boise State**
+**Sandy Dunn**
 
 `RSAC Conference` · `RSAC` · `2024` · `94 min`
 

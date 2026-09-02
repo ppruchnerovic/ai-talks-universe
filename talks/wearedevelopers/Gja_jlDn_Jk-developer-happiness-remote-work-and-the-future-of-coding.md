@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 51
 published_at: 2023-03-17T09:26:58Z
 video_id: Gja_jlDn_Jk
+url: https://www.youtube.com/watch?v=Gja_jlDn_Jk
 youtube_url: https://www.youtube.com/watch?v=Gja_jlDn_Jk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
 transcript: false

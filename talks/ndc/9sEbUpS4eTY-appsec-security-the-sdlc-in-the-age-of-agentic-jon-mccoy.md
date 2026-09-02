@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 35
 published_at: 2026-05-04T13:55:38Z
 video_id: 9sEbUpS4eTY
+url: https://www.youtube.com/watch?v=9sEbUpS4eTY
 youtube_url: https://www.youtube.com/watch?v=9sEbUpS4eTY
 tags: ["Security", "Application Security", "SDLC", "AppSec", "Machine Learning", "AI", "ML", "Architecture", "OWASP", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway"]
 transcript: true

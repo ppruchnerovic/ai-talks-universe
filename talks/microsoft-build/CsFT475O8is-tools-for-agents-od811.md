@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 28
 published_at: null
 video_id: CsFT475O8is
+url: https://www.youtube.com/watch?v=CsFT475O8is
 youtube_url: https://www.youtube.com/watch?v=CsFT475O8is
 tags: []
 transcript: false

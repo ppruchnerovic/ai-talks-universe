@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 17
 published_at: 2026-01-21T12:19:48Z
 video_id: eXwX066a17k
+url: https://www.youtube.com/watch?v=eXwX066a17k
 youtube_url: https://www.youtube.com/watch?v=eXwX066a17k
 tags: ["AI", "Cloud", "Languages", "People", "Serverless", "Soft Skills", "Tools", "DevOps", "Lightning Talks", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Developers", "Festival", "Denmark", "Denny Biasiolli"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 42
 published_at: 2023-05-11T18:59:39Z
 video_id: zCoBTPoCH8o
+url: https://www.youtube.com/watch?v=zCoBTPoCH8o
 youtube_url: https://www.youtube.com/watch?v=zCoBTPoCH8o
 tags: ["community", "developer platform", "developer community"]
 transcript: false

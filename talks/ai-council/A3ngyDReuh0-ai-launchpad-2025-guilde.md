@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Schuyler Brown"]
 channel: "AI Council"
 duration_min: 5
 published_at: 2025-05-29T13:37:24Z
 video_id: A3ngyDReuh0
+url: https://www.youtube.com/watch?v=A3ngyDReuh0
 youtube_url: https://www.youtube.com/watch?v=A3ngyDReuh0
 tags: ["startup", "database monitoring", "observability", "ChatGPT", "artificial intelligence", "machine learning", "data modeling", "database observability", "data awareness", "DevOps", "SRE", "Python tutorial", "performance monitoring", "system monitoring", "alerting", "incident response", "troubleshooting", "database administration", "site reliability engineering", "infrastructure monitoring", "application monitoring", "log analysis"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: Guilde
 
-**Speaker not identified**
+**Schuyler Brown**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `5 min`
 

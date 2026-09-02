@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 40
 published_at: 2023-05-11T18:58:33Z
 video_id: 1T7UNFdsBIA
+url: https://www.youtube.com/watch?v=1T7UNFdsBIA
 youtube_url: https://www.youtube.com/watch?v=1T7UNFdsBIA
 tags: ["data warehouses", "DuckDB", "analytics", "data streaming"]
 transcript: false

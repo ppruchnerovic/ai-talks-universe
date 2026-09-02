@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 40
 published_at: 2026-07-20T05:52:16Z
 video_id: _lkRRoJgDXM
+url: https://www.youtube.com/watch?v=_lkRRoJgDXM
 youtube_url: https://www.youtube.com/watch?v=_lkRRoJgDXM
 tags: ["QCon AI", "InfoQ", "Transcript", "Large language models", "LLMs", "Artificial Intelligence", "Machine Learning"]
 transcript: true

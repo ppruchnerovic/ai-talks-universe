@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-april-2026",
+  "name": "InfoQ Live - April 2026",
+  "year": 2026,
+  "fetched_at": "2026-09-01T21:24:26+00:00",
+  "count": 1,
+  "talks": {
+    "ai-sre-incident-response": {
+      "slug": "ai-sre-incident-response",
+      "page_url": "https://www.infoq.com/presentations/ai-sre-incident-response/",
+      "has_transcript": true,
+      "title": "AI-Powered SRE for Autonomous Incident Response",
+      "description": "The presenters discuss incident response, how AI-enhanced SRE platforms connect signals from logs, metrics, traces, and historical incidents to enable autonomous decisions.\n\nRohit Dhawan is Engineering Manager @Amazon. Pavan Madduri is Senior Cloud Platform Engineer @Grainger and \"Kubestronaut\". Alina Astapovich is Platform Engineer @Storytel. Goutham Rao is CEO and co-founder of NeuBird, the creators of Hawkeye, the world’s first generative AI-powered ITOps engineer. Renato Losio is an InfoQ Editor.",
+      "speakers": [
+        "Rohit Dhawan",
+        "Pavan Madduri",
+        "Alina Astapovich",
+        "Goutham Rao",
+        "Renato Losio"
+      ],
+      "duration_s": 3624,
+      "published_at": "2026-04-28T11:21:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/26-feb-aipoweredsre.mp4",
+      "id": "iq-ai-sre-incident-response",
+      "matched_youtube": false,
+      "edition": "infoq-live-april-2026",
+      "edition_name": "InfoQ Live - April 2026",
+      "year": 2026,
+      "transcript_words": 8206,
+      "fetched_at": "2026-09-01T21:24:26+00:00"
+    }
+  }
+}

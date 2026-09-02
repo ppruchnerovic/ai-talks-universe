@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Rajiv Shah", "Chief Evangelist"]
+speakers: ["Rajiv Shah"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 24
 published_at: 2025-09-29T19:12:54Z
 video_id: RYZeTrNjE7E
+url: https://www.youtube.com/watch?v=RYZeTrNjE7E
 youtube_url: https://www.youtube.com/watch?v=RYZeTrNjE7E
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Get RAG Into Production in 15 Minutes | Rajiv Shah, Contextual AI
 
-**Rajiv Shah, Chief Evangelist**
+**Rajiv Shah**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `24 min`
 

@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 17
 published_at: null
 video_id: DGbSnoPimPs
+url: https://www.youtube.com/watch?v=DGbSnoPimPs
 youtube_url: https://www.youtube.com/watch?v=DGbSnoPimPs
 tags: []
 transcript: false

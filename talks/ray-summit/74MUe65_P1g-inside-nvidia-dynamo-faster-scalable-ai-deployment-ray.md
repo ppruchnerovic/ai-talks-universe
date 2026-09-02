@@ -12,6 +12,7 @@ channel: null
 duration_min: 34
 published_at: null
 video_id: 74MUe65_P1g
+url: https://www.youtube.com/watch?v=74MUe65_P1g
 youtube_url: https://www.youtube.com/watch?v=74MUe65_P1g
 tags: []
 transcript: false

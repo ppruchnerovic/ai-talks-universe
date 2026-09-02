@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 28
 published_at: 2025-06-23T21:24:09Z
 video_id: KU_EECNK30I
+url: https://www.youtube.com/watch?v=KU_EECNK30I
 youtube_url: https://www.youtube.com/watch?v=KU_EECNK30I
 tags: []
 transcript: false

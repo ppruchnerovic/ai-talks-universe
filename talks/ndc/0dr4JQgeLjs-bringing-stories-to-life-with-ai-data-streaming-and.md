@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 41
 published_at: 2026-02-10T14:41:09Z
 video_id: 0dr4JQgeLjs
+url: https://www.youtube.com/watch?v=0dr4JQgeLjs
 youtube_url: https://www.youtube.com/watch?v=0dr4JQgeLjs
 tags: ["AI", "Architecture", "Database", "Fun", "Gaming", "RAG", "JavaScript", "NDC", "Conferences", "2026", "Live", "London", "UK", "England", "United Kingdom", "Olena Kutsenko"]
 transcript: true

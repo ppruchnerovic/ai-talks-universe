@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Hugo Affaticati", "Nitin Nagarkatte"]
 channel: "Microsoft Events"
 duration_min: 36
 published_at: 2025-11-24T06:42:11Z
 video_id: _NRldsqv__w
+url: https://www.youtube.com/watch?v=_NRldsqv__w
 youtube_url: https://www.youtube.com/watch?v=_NRldsqv__w
 tags: ["8cd571f3-80f6-4395-ad95-32f194851f36_Segment", "BRK181", "English (US)", "Hugo Affaticati", "Migrate and modernize your estate", "Nitin Nagarkatte", "Pushing limits of supercomputing innovation on Azure AI Infra | BRK181", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Pushing limits of supercomputing innovation on Azure AI Infra | BRK181
 
-**Speaker not identified**
+**Hugo Affaticati, Nitin Nagarkatte**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `36 min`
 

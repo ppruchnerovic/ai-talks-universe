@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 47
 published_at: 2023-08-18T01:37:38Z
 video_id: rBFbSF5g0no
+url: https://www.youtube.com/watch?v=rBFbSF5g0no
 youtube_url: https://www.youtube.com/watch?v=rBFbSF5g0no
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Scaling AI in Production with PyTorch", "PyTorch", "Scaling AI", "ai", "Production with PyTorch", "pytorch", "AI/PyTorch", "TorchServe"]
 transcript: false

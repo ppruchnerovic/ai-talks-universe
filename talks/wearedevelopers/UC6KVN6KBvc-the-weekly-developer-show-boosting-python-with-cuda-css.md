@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 69
 published_at: 2025-02-05T18:13:12Z
 video_id: UC6KVN6KBvc
+url: https://www.youtube.com/watch?v=UC6KVN6KBvc
 youtube_url: https://www.youtube.com/watch?v=UC6KVN6KBvc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "Python", "CUDA", "WebDevelopment", "CSSUpdates", "TechCareer", "MachineLearning", "SoftwareEngineering", "WorkLifeBalance", "FrontendDevelopment", "DeveloperCommunity"]
 transcript: false

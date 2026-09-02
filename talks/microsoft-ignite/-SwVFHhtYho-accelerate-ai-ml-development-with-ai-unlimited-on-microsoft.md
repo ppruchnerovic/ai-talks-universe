@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Janeth Graziani"]
 channel: "Microsoft Events"
 duration_min: 19
 published_at: 2024-11-20T11:32:18Z
 video_id: -SwVFHhtYho
+url: https://www.youtube.com/watch?v=-SwVFHhtYho
 youtube_url: https://www.youtube.com/watch?v=-SwVFHhtYho
 tags: ["AI", "Accelerate AI/ML development with AI Unlimited on Microsoft Fabric | ODFP995", "Advanced (300)", "Developer", "Janeth Graziani", "ODFP995", "Pre-recorded", "Responsible AI", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerate AI/ML development with AI Unlimited on Microsoft Fabric | ODFP995
 
-**Speaker not identified**
+**Janeth Graziani**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `19 min`
 

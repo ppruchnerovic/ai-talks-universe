@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-07-23T00:00:00Z
 video_id: kDEvo2__Ijg
+url: https://www.youtube.com/watch?v=kDEvo2__Ijg
 youtube_url: https://www.youtube.com/watch?v=kDEvo2__Ijg
 tags: []
 transcript: false

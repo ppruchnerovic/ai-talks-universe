@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 47
 published_at: 2026-01-28T17:45:32Z
 video_id: j2K_QWuBBBw
+url: https://www.youtube.com/watch?v=j2K_QWuBBBw
 youtube_url: https://www.youtube.com/watch?v=j2K_QWuBBBw
 tags: ["AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Sindri Ingolfsson", "LLM"]
 transcript: true

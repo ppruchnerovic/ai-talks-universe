@@ -12,6 +12,7 @@ channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 34
 published_at: 2026-04-09T05:29:40Z
 video_id: yeGhei0-bDA
+url: https://www.youtube.com/watch?v=yeGhei0-bDA
 youtube_url: https://www.youtube.com/watch?v=yeGhei0-bDA
 tags: []
 transcript: true

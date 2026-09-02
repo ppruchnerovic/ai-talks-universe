@@ -7,11 +7,12 @@ conference_name: "Databricks Data + AI Summit"
 category: "Vendor & platform"
 edition: "DAIS 2026"
 year: 2026
-speakers: ["Mike Del Balso", "Product Management"]
+speakers: ["Mike Del Balso"]
 channel: "Databricks"
 duration_min: 23
 published_at: 2026-06-24T22:43:59Z
 video_id: C1rEj2VQtwU
+url: https://www.youtube.com/watch?v=C1rEj2VQtwU
 youtube_url: https://www.youtube.com/watch?v=C1rEj2VQtwU
 tags: ["Databricks"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Agentic machine learning with Genie Code (includes demo)
 
-**Mike Del Balso, Product Management**
+**Mike Del Balso**
 
 `Databricks Data + AI Summit` · `DAIS 2026` · `2026` · `23 min`
 

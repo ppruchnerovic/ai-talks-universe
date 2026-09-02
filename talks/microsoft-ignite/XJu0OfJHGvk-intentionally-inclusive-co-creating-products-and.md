@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-22T09:10:15Z
 video_id: XJu0OfJHGvk
+url: https://www.youtube.com/watch?v=XJu0OfJHGvk
 youtube_url: https://www.youtube.com/watch?v=XJu0OfJHGvk
 tags: ["BRK354", "Breakout", "Diversity and Inclusion", "English (US)", "Foundational (100)", "Intentionally inclusive: Co-creating products and experiences to make the impossible | BRK354", "Jenny Lay-Flurrie", "Lindsay-Rae McIntyre", "Other", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

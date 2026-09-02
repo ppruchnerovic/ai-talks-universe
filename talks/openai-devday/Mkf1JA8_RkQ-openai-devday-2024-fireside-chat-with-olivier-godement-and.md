@@ -12,6 +12,7 @@ channel: "OpenAI"
 duration_min: 30
 published_at: null
 video_id: Mkf1JA8_RkQ
+url: https://www.youtube.com/watch?v=Mkf1JA8_RkQ
 youtube_url: https://www.youtube.com/watch?v=Mkf1JA8_RkQ
 tags: []
 transcript: false

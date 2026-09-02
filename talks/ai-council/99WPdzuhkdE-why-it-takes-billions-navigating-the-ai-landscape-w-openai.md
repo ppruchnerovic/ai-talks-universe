@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Joey Gonzalez"]
 channel: "AI Council"
 duration_min: 32
 published_at: 2024-04-19T05:00:06Z
 video_id: 99WPdzuhkdE
+url: https://www.youtube.com/watch?v=99WPdzuhkdE
 youtube_url: https://www.youtube.com/watch?v=99WPdzuhkdE
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Why it Takes Billions: Navigating the AI landscape w/ OpenAI, Google and Nvidia
 
-**Speaker not identified**
+**Joey Gonzalez**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `32 min`
 

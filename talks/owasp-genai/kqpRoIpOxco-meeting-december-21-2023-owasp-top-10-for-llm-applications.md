@@ -12,6 +12,7 @@ channel: null
 duration_min: 30
 published_at: null
 video_id: kqpRoIpOxco
+url: https://www.youtube.com/watch?v=kqpRoIpOxco
 youtube_url: https://www.youtube.com/watch?v=kqpRoIpOxco
 tags: []
 transcript: false

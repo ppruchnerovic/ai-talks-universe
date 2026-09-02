@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 61
 published_at: 2026-06-22T09:35:08Z
 video_id: JpXlTDQHEoo
+url: https://www.youtube.com/watch?v=JpXlTDQHEoo
 youtube_url: https://www.youtube.com/watch?v=JpXlTDQHEoo
 tags: ["AI", "Claude Code", "Claude", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Aleksander Stensby"]
 transcript: true

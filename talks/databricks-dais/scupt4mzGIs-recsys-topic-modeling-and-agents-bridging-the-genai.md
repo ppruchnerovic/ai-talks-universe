@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 34
 published_at: null
 video_id: scupt4mzGIs
+url: https://www.youtube.com/watch?v=scupt4mzGIs
 youtube_url: https://www.youtube.com/watch?v=scupt4mzGIs
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Manpreet Singh", "Reed Wiedower"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:17:13Z
 video_id: eLCQ9qlOzWo
+url: https://www.youtube.com/watch?v=eLCQ9qlOzWo
 youtube_url: https://www.youtube.com/watch?v=eLCQ9qlOzWo
 tags: ["BRKSP470", "Build and deploy responsible agentic AI with Microsoft Copilot | BRKSP470", "Copilot and agents at work", "English (US)", "Innovate with Azure AI apps and agents", "Manpreet Singh", "Reed Wiedower", "Technical", "f5n1", "ff38634a-b3f4-4dfd-8ba8-7b37232e1a7b_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Build and deploy responsible agentic AI with Microsoft Copilot | BRKSP470
 
-**Speaker not identified**
+**Manpreet Singh, Reed Wiedower**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

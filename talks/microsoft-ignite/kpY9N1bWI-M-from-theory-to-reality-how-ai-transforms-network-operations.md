@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Phillip Gervasi"]
 channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T13:03:09Z
 video_id: kpY9N1bWI-M
+url: https://www.youtube.com/watch?v=kpY9N1bWI-M
 youtube_url: https://www.youtube.com/watch?v=kpY9N1bWI-M
 tags: ["Agentic business applications", "English (US)", "From theory to reality: How AI transforms network operations | ODSP1420", "ODSP1420", "ODSP1420_v1", "Phillip Gervasi", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From theory to reality: How AI transforms network operations | ODSP1420
 
-**Speaker not identified**
+**Phillip Gervasi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `8 min`
 

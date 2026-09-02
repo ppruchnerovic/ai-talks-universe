@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-09T08:10:00+00:00
 video_id: 5pQBKeNo7Yw
+url: https://www.youtube.com/watch?v=5pQBKeNo7Yw
 youtube_url: https://www.youtube.com/watch?v=5pQBKeNo7Yw
 tags: ["Engineering Leadership", "Business Models", "DevOps"]
 transcript: true

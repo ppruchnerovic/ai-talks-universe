@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Suresh Mathew"]
 channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T12:34:17Z
 video_id: XY4na9h5dEY
+url: https://www.youtube.com/watch?v=XY4na9h5dEY
 youtube_url: https://www.youtube.com/watch?v=XY4na9h5dEY
 tags: ["Agentic business applications", "Can you really trust AI to optimize your Cloud? | ODSP1433", "English (US)", "ODSP1433", "ODSP1433_v1", "Suresh Mathew", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Can you really trust AI to optimize your Cloud? | ODSP1433
 
-**Speaker not identified**
+**Suresh Mathew**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `13 min`
 

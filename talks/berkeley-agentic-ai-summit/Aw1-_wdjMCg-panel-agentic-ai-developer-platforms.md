@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 33
 published_at: 2026-08-09T23:36:25Z
 video_id: Aw1-_wdjMCg
+url: https://www.youtube.com/watch?v=Aw1-_wdjMCg
 youtube_url: https://www.youtube.com/watch?v=Aw1-_wdjMCg
 tags: []
 transcript: true

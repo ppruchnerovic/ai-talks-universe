@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Clay Cockrell", "Tony Fabrikant"]
 channel: "AI Engineer"
 duration_min: 17
 published_at: 2026-08-19T00:00:00Z
 video_id: yoONZwV2smc
+url: https://www.youtube.com/watch?v=yoONZwV2smc
 youtube_url: https://www.youtube.com/watch?v=yoONZwV2smc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # AI is the World’s largest Relationship Therapist — Clay Cockrell & Tony Fabrikant, CoupleWork AI
 
-**Speaker not identified**
+**Clay Cockrell, Tony Fabrikant**
 
 `AI Engineer` · `AI Engineer` · `2026` · `17 min`
 

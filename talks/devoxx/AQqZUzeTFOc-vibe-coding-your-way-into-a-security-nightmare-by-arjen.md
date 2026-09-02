@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Arjen Wiersma"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2025-10-09T05:35:14Z
 video_id: AQqZUzeTFOc
+url: https://www.youtube.com/watch?v=AQqZUzeTFOc
 youtube_url: https://www.youtube.com/watch?v=AQqZUzeTFOc
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Vibe coding your way into a security nightmare by Arjen Wiersma
 
-**Speaker not identified**
+**Arjen Wiersma**
 
 `Devoxx` · `Devoxx` · `2025` · `48 min`
 

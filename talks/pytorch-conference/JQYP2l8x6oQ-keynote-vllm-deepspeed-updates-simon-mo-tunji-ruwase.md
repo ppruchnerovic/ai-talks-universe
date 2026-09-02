@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Simon Mo", "Tunji Ruwase"]
 channel: "PyTorch"
 duration_min: 10
 published_at: null
 video_id: JQYP2l8x6oQ
+url: https://www.youtube.com/watch?v=JQYP2l8x6oQ
 youtube_url: https://www.youtube.com/watch?v=JQYP2l8x6oQ
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Keynote: vLLM & Deepspeed Updates - Simon Mo & Tunji Ruwase
 
-**Speaker not identified**
+**Simon Mo, Tunji Ruwase**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `10 min`
 

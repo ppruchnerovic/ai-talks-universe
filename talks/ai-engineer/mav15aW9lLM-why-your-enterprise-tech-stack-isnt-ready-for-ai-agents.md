@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Christopher Lovejoy", "Saul Howard"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-08-19T18:30:15Z
 video_id: mav15aW9lLM
+url: https://www.youtube.com/watch?v=mav15aW9lLM
 youtube_url: https://www.youtube.com/watch?v=mav15aW9lLM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Why Your Enterprise Tech Stack Isn’t Ready for AI Agents — Christopher Lovejoy & Saul Howard
 
-**Speaker not identified**
+**Christopher Lovejoy, Saul Howard**
 
 `AI Engineer` · `AI Engineer` · `2026` · `19 min`
 

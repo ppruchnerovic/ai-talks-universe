@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Malcolm Harkins", "Trust Officer", "Hidden Layer"]
+speakers: ["Malcolm Harkins", "Hidden Layer"]
 channel: "RSAC Cybersecurity"
 duration_min: 56
 published_at: 2024-10-16T18:07:18Z
 video_id: S8WpaFxTtlQ
+url: https://www.youtube.com/watch?v=S8WpaFxTtlQ
 youtube_url: https://www.youtube.com/watch?v=S8WpaFxTtlQ
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Webcast: Securing AI Like a Boss
 
-**Malcolm Harkins, Trust Officer, Hidden Layer**
+**Malcolm Harkins, Hidden Layer**
 
 `RSAC Conference` · `RSAC` · `2024` · `56 min`
 

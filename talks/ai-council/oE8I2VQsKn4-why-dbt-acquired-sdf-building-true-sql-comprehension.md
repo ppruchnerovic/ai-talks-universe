@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 31
 published_at: 2025-05-29T14:15:32Z
 video_id: oE8I2VQsKn4
+url: https://www.youtube.com/watch?v=oE8I2VQsKn4
 youtube_url: https://www.youtube.com/watch?v=oE8I2VQsKn4
 tags: ["dbt tutorial", "SQL compiler", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "data engineering", "database", "analytics", "data transformation", "analytics engineering", "data modeling", "modern data stack", "Snowflake", "BigQuery", "Python", "developer experience", "data build tool", "ELT", "extract load transform", "data pipeline", "version control", "testing", "documentation", "data quality", "data lineage", "incremental models", "macros", "packages", "CI CD", "data ops"]
 transcript: false

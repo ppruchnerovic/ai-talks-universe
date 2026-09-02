@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 37
 published_at: 2025-11-05T12:54:22Z
 video_id: oT0YcuLWbds
+url: https://www.youtube.com/watch?v=oT0YcuLWbds
 youtube_url: https://www.youtube.com/watch?v=oT0YcuLWbds
 tags: ["softness at work", "leadership asset", "HR podcast", "somatic coaching", "business psychologist", "empathy in business", "self respect tips", "AI impact HR", "failure culture", "company culture", "human connection", "performance driven teams", "emotional regulation", "professional development", "mindset transformation"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Charlie Doubek", "Swapnil Khopkar", "Kirill Kotlyarenko"]
 channel: "Microsoft Events"
 duration_min: 48
 published_at: 2025-11-25T16:00:20Z
 video_id: RQAUF-cLEBI
+url: https://www.youtube.com/watch?v=RQAUF-cLEBI
 youtube_url: https://www.youtube.com/watch?v=RQAUF-cLEBI
 tags: ["Charlie Doubek", "English (US)", "Grow Your Partner AI Practice: Unlocking scale for AI Transformations | PBRK209", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Kirill Kotlyarenko", "Microsoft AI Cloud Partner Program", "PBRK209", "Partner Business", "Swapnil Khopkar", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Grow Your Partner AI Practice: Unlocking scale for AI Transformations | PBRK209
 
-**Speaker not identified**
+**Charlie Doubek, Swapnil Khopkar, Kirill Kotlyarenko**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `48 min`
 

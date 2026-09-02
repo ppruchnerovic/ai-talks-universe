@@ -12,6 +12,7 @@ channel: "NVIDIA Developer"
 duration_min: 62
 published_at: null
 video_id: BmD22FNOAY4
+url: https://www.youtube.com/watch?v=BmD22FNOAY4
 youtube_url: https://www.youtube.com/watch?v=BmD22FNOAY4
 tags: []
 transcript: false

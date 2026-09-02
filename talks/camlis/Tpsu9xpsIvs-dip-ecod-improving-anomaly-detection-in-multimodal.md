@@ -12,6 +12,7 @@ channel: "CAMLIS"
 duration_min: 21
 published_at: 2024-11-16T01:56:41Z
 video_id: Tpsu9xpsIvs
+url: https://www.youtube.com/watch?v=Tpsu9xpsIvs
 youtube_url: https://www.youtube.com/watch?v=Tpsu9xpsIvs
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Lior Kamrat", "Sam Kemp", "Gautham Krishnamurthy", "Raji Rajagopalan"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-24T06:33:59Z
 video_id: b88tJ0hdTSQ
+url: https://www.youtube.com/watch?v=b88tJ0hdTSQ
 youtube_url: https://www.youtube.com/watch?v=b88tJ0hdTSQ
 tags: ["BRK199", "English (US)", "From cloud to edge: Building and shipping Edge AI apps with Microsoft Foundry | BRK199", "Gautham Krishnamurthy", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Lior Kamrat", "Raji Rajagopalan", "Sam Kemp", "Technical", "f5n1", "fd8c2b5a-0d04-431f-8058-956488ff074e_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From cloud to edge: Building and shipping Edge AI apps with Microsoft Foundry | BRK199
 
-**Speaker not identified**
+**Lior Kamrat, Sam Kemp, Gautham Krishnamurthy, Raji Rajagopalan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

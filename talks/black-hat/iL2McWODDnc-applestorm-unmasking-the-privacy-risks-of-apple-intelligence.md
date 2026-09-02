@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 41
 published_at: 2025-12-19T19:03:08Z
 video_id: iL2McWODDnc
+url: https://www.youtube.com/watch?v=iL2McWODDnc
 youtube_url: https://www.youtube.com/watch?v=iL2McWODDnc
 tags: []
 transcript: false

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T11:40:00+00:00
 video_id: 2mQRkpGEmnY
+url: https://www.youtube.com/watch?v=2mQRkpGEmnY
 youtube_url: https://www.youtube.com/watch?v=2mQRkpGEmnY
 tags: ["AI Agents", "Agentic AI", "Business Intelligence", "Lakehouse"]
 transcript: true

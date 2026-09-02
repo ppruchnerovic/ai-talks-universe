@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 39
 published_at: 2026-03-26T08:50:37Z
 video_id: mMwl-qPlHRA
+url: https://www.youtube.com/watch?v=mMwl-qPlHRA
 youtube_url: https://www.youtube.com/watch?v=mMwl-qPlHRA
 tags: ["talent", "micro", "macro", "hr", "people and culture", "leadership", "AI", "transformation"]
 transcript: true

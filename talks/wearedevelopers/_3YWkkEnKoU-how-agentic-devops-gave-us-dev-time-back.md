@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 4
 published_at: 2026-07-09T13:15:00+00:00
 video_id: _3YWkkEnKoU
+url: https://www.youtube.com/watch?v=_3YWkkEnKoU
 youtube_url: https://www.youtube.com/watch?v=_3YWkkEnKoU
 tags: ["AI Agents", "AI Coding Assistants", "DevOps"]
 transcript: true

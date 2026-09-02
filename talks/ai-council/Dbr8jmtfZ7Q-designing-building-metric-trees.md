@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 28
 published_at: 2023-05-11T18:59:31Z
 video_id: Dbr8jmtfZ7Q
+url: https://www.youtube.com/watch?v=Dbr8jmtfZ7Q
 youtube_url: https://www.youtube.com/watch?v=Dbr8jmtfZ7Q
 tags: ["metric trees", "analytics", "data analysis"]
 transcript: false

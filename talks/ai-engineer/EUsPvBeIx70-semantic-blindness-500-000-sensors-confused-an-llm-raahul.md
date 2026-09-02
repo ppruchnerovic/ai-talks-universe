@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Raahul Singh"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2026-07-12T16:00:36Z
 video_id: EUsPvBeIx70
+url: https://www.youtube.com/watch?v=EUsPvBeIx70
 youtube_url: https://www.youtube.com/watch?v=EUsPvBeIx70
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra
 
-**Speaker not identified**
+**Raahul Singh**
 
 `AI Engineer` · `AI Engineer` · `2026` · `16 min`
 

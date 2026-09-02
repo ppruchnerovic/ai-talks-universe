@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 63
 published_at: 2026-01-28T16:40:27Z
 video_id: L7Y_53PRPGM
+url: https://www.youtube.com/watch?v=L7Y_53PRPGM
 youtube_url: https://www.youtube.com/watch?v=L7Y_53PRPGM
 tags: []
 transcript: true

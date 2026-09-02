@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kate Catlin", "Facundo Santiago"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T07:11:10Z
 video_id: ofWdnCHY_LY
+url: https://www.youtube.com/watch?v=ofWdnCHY_LY
 youtube_url: https://www.youtube.com/watch?v=ofWdnCHY_LY
 tags: ["BRK110", "BRK110_v1", "Build AI Apps fast with GitHub and Microsoft Foundry in action | BRK110", "English (US)", "Facundo Santiago", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Kate Catlin", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Build AI Apps fast with GitHub and Microsoft Foundry in action | BRK110
 
-**Speaker not identified**
+**Kate Catlin, Facundo Santiago**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

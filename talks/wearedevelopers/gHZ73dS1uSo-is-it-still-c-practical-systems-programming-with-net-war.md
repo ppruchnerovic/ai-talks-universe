@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 24
 published_at: 2026-07-09T13:30:00+00:00
 video_id: gHZ73dS1uSo
+url: https://www.youtube.com/watch?v=gHZ73dS1uSo
 youtube_url: https://www.youtube.com/watch?v=gHZ73dS1uSo
 tags: ["Languages & Runtimes", "C#", "Databases", ".NET", "Performance"]
 transcript: true

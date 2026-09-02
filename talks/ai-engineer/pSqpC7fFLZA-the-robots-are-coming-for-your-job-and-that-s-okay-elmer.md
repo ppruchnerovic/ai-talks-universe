@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Elmer Thomas", "Maria Bermudez"]
 channel: "AI Engineer"
 duration_min: 9
 published_at: 2025-06-03T22:22:29Z
 video_id: pSqpC7fFLZA
+url: https://www.youtube.com/watch?v=pSqpC7fFLZA
 youtube_url: https://www.youtube.com/watch?v=pSqpC7fFLZA
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Robots are coming for your job, and that's okay - Elmer Thomas and Maria Bermudez
 
-**Speaker not identified**
+**Elmer Thomas, Maria Bermudez**
 
 `AI Engineer` · `AI Engineer` · `2025` · `9 min`
 

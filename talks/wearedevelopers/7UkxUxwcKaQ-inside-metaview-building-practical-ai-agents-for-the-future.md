@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 36
 published_at: 2026-05-14T07:00:00Z
 video_id: 7UkxUxwcKaQ
+url: https://www.youtube.com/watch?v=7UkxUxwcKaQ
 youtube_url: https://www.youtube.com/watch?v=7UkxUxwcKaQ
 tags: ["hiring", "ai agents", "people", "culture", "leadership", "agentic AI", "AI", "recruiting", "talent attraction", "automation", "tools"]
 transcript: true

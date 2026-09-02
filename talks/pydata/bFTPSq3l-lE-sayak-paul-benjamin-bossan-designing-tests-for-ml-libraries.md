@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Sayak Paul", "Benjamin Bossan"]
 channel: null
 duration_min: 50
 published_at: null
 video_id: bFTPSq3l-lE
+url: https://www.youtube.com/watch?v=bFTPSq3l-lE
 youtube_url: https://www.youtube.com/watch?v=bFTPSq3l-lE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Sayak Paul & Benjamin Bossan - Designing tests for ML libraries | PyData Amsterdam 2025
 
-**Speaker not identified**
+**Sayak Paul, Benjamin Bossan**
 
 `PyData` · `PyData` · `2025` · `50 min`
 

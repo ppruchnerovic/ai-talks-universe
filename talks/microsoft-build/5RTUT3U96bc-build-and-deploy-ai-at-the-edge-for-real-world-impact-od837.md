@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Roycey Cheeran", "Cosmos Darwin"]
 channel: "Microsoft Developer"
 duration_min: 22
 published_at: 2026-06-03T14:00:54Z
 video_id: 5RTUT3U96bc
+url: https://www.youtube.com/watch?v=5RTUT3U96bc
 youtube_url: https://www.youtube.com/watch?v=5RTUT3U96bc
 tags: ["Agents & Apps", "Azure", "Azure Local", "Build and deploy AI at the edge for real-world impact | OD837", "Cosmos Darwin", "Enterprise", "Foundry Local", "Local AI", "OD837", "OD837_v1", "Roycey Cheeran", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build and deploy AI at the edge for real-world impact | OD837
 
-**Speaker not identified**
+**Roycey Cheeran, Cosmos Darwin**
 
 `Microsoft Build` · `Build 2026` · `2026` · `22 min`
 

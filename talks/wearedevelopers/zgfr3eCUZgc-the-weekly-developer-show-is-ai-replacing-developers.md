@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 61
 published_at: 2025-04-24T08:01:48Z
 video_id: zgfr3eCUZgc
+url: https://www.youtube.com/watch?v=zgfr3eCUZgc
 youtube_url: https://www.youtube.com/watch?v=zgfr3eCUZgc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "GenAI", "senior developers", "prompt engineering", "Thinktecture", "Sebastian Ginter", "WeAreDevelopers Live", "local LLMs", "AI hallucinations", "secure code", "ChatGPT", "GitHub Copilot", "dev tools", "model fatigue", "coding with AI", "developer podcast", "AI software risks"]
 transcript: false

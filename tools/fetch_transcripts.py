@@ -163,6 +163,19 @@ class TransientError(Exception):
     """
 
 
+class RateLimited(TransientError):
+    """An off-IP route said 429 for longer than the backoff lasted.
+
+    Its own class rather than BlockedError, because a block benches the
+    egress identity the request went through — and a supadata request goes
+    through supadata's IPs, not ours. Raised as a block it benched this
+    machine's own IP for 45 minutes over a limit that had nothing to do with
+    it. Transient, so the talk goes back in the queue and the run continues;
+    and printed, so "raise --workers until 429s appear in the log" is advice
+    that can actually be followed.
+    """
+
+
 def is_block(e: Exception) -> bool:
     """A network verdict, not a fact about the talk — so never cached as a miss."""
     if isinstance(e, BlockedError):
@@ -318,10 +331,19 @@ def fetch_kome(video_id: str) -> tuple[list[dict], str, float]:
             with urllib.request.urlopen(req, timeout=180) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
             break
+        except urllib.error.HTTPError as e:
+            if e.code < 500 and e.code != 429:
+                # kome answered about this video. Everything else below is
+                # kome, or the path to it, not answering at all.
+                raise LookupError(f"kome: HTTP {e.code}")
+            last = e
         except (urllib.error.URLError, TimeoutError, ConnectionError, json.JSONDecodeError) as e:
             last = e
     else:
-        raise last
+        # Raised bare, a URLError is neither a block nor an account refusal,
+        # so about_the_video() waved a DNS failure or a kome outage into
+        # _misses.json as "this video has no captions" — permanently.
+        raise TransientError(f"kome: {type(last).__name__} after 4 attempts ({str(last)[:120]})")
 
     text = (data.get("transcript") or "").strip()
     if not text:
@@ -331,34 +353,9 @@ def fetch_kome(video_id: str) -> tuple[list[dict], str, float]:
         raise LookupError("kome returned a truncated transcript (hasMore)")
 
     total = kome_length_seconds(str(data.get("length") or ""))
-    lines = [" ".join(l.split()) for l in text.splitlines() if l.strip()]
-    if not lines:
-        lines = [" ".join(text.split())]
-    counts = [len(l.split()) for l in lines]
-    n_words = sum(counts) or 1
-
-    segments, buf, buf_words, seen, start_words = [], [], 0, 0, 0
-    for line, c in zip(lines, counts):
-        if not buf:
-            start_words = seen
-        buf.append(line)
-        buf_words += c
-        seen += c
-        if buf_words >= 25:
-            segments.append((start_words, " ".join(buf)))
-            buf, buf_words = [], 0
-    if buf:
-        segments.append((start_words, " ".join(buf)))
-
-    out = []
-    for i, (sw, chunk) in enumerate(segments):
-        start = (sw / n_words) * total if total else float(sw)
-        nxt = segments[i + 1][0] if i + 1 < len(segments) else n_words
-        end = (nxt / n_words) * total if total else float(nxt)
-        out.append({"start": round(start, 2),
-                    "duration": round(max(end - start, 0.5), 2),
-                    "text": chunk})
-    return out, "en", total
+    lines = [l for l in text.splitlines() if l.strip()] or [text]
+    # Shared with infoq.py, the other route whose text arrives without timings.
+    return atu.segment_plain_text(lines, total), "en", total
 
 
 # --- route 3: supadata.ai ----------------------------------------------------
@@ -368,6 +365,18 @@ _supadata_off: list[str] = []   # non-empty once the account's credits ran out
 
 def supadata_key() -> str | None:
     return (os.environ.get("SUPADATA_API_KEY") or "").strip() or None
+
+
+MAX_RETRY_AFTER = 60.0
+
+
+def retry_after_seconds(e: urllib.error.HTTPError) -> float:
+    """The Retry-After a 429 carries, in seconds, or 0 if it carries none."""
+    raw = (e.headers.get("Retry-After") if e.headers else None) or ""
+    try:
+        return min(MAX_RETRY_AFTER, max(0.0, float(raw)))
+    except ValueError:
+        return 0.0        # an HTTP-date; the backoff is close enough
 
 
 def _supadata_get(url: str, key: str) -> tuple[int, dict]:
@@ -394,7 +403,14 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
                 # with several workers on one key it is the expected way to
                 # find the ceiling. Back off and retry; retiring the route on
                 # it would let one busy moment cost the rest of the run.
+                # Retry-After is honoured where it is sent, capped so a
+                # misconfigured header cannot park a worker for an hour.
                 last = e
+                wait = retry_after_seconds(e)
+                print(f"   (supadata: 429 rate limited"
+                      f"{f' — waiting {wait:.0f}s' if wait else ''}, attempt {attempt + 1}/4)")
+                if wait:
+                    time.sleep(wait)
                 continue
             if e.code in (401, 402):
                 # Account-level, not IP-level: no other proxy and no amount of
@@ -421,8 +437,10 @@ def _supadata_get(url: str, key: str) -> tuple[int, dict]:
     if isinstance(last, urllib.error.HTTPError) and last.code == 429:
         # Outlasted the backoff. That is a verdict on how hard we are pushing,
         # not on the video, so the talk goes back in the queue rather than into
-        # _misses.json — and the route stays on for everybody else.
-        raise BlockedError("supadata: rate limited after 4 attempts")
+        # _misses.json — and the route stays on for everybody else. Not a
+        # BlockedError: that would bench this machine's IP, which the request
+        # never went through.
+        raise RateLimited("supadata: rate limited after 4 attempts — lower --workers")
     # Four attempts of 5xx, timeouts, dropped connections or unreadable JSON.
     # Raised bare, these reached the runners as an HTTPError or a URLError,
     # which about_the_video() would wave through into _misses.json — a supadata
@@ -548,6 +566,16 @@ def parse_json3(path: str) -> list[dict]:
     return out
 
 
+# What yt-dlp's last stderr line looks like when the network, not YouTube,
+# answered. Matched on the line, not the exit code: yt-dlp exits 1 for both.
+YTDLP_NETWORK_RE = re.compile(
+    r"unable to download|failed to resolve|name or service not known|nodename nor servname|"
+    r"connection (?:refused|reset|aborted|timed out)|timed out|temporary failure|"
+    r"network is unreachable|no route to host|proxy|tunnel connection failed|"
+    r"remote end closed|eof occurred|ssl|http error 5\d\d|unable to connect|errno",
+    re.I)
+
+
 def fetch_ytdlp(video_id: str, proxy: str | None = None) -> tuple[list[dict], str]:
     exe = ytdlp_binary()
     if not exe:
@@ -560,7 +588,12 @@ def fetch_ytdlp(video_id: str, proxy: str | None = None) -> tuple[list[dict], st
                atu.WATCH.format(vid=video_id)]
         if proxy:
             cmd += ["--proxy", proxy]
-        proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+        try:
+            proc = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+        except subprocess.TimeoutExpired:
+            # A SubprocessError is neither a block nor an account refusal, so
+            # raised bare it went into _misses.json as "no captions".
+            raise TransientError("yt-dlp: timed out after 300s")
 
         found = sorted(glob.glob(os.path.join(tmp, "*.json3")))
         if not found:
@@ -570,6 +603,11 @@ def fetch_ytdlp(video_id: str, proxy: str | None = None) -> tuple[list[dict], st
             # surface it under the name the block handling looks for.
             if "429" in detail or "Too Many Requests" in detail or "not a bot" in detail:
                 raise BlockedError(f"yt-dlp: {detail}")
+            if YTDLP_NETWORK_RE.search(detail):
+                # The path to YouTube failed, not the video: a dead proxy, a
+                # DNS blip, a dropped connection. A proxy that died mid-run
+                # used to record every talk it touched as having no captions.
+                raise TransientError(f"yt-dlp: {detail}")
             raise LookupError(f"yt-dlp: {detail}")
 
         def rank(p: str) -> int:
@@ -716,6 +754,7 @@ def fetch_one(eg: Egress | None, vid: str, source: str, key: str | None = None):
         raise BlockedError("every egress is blocked and no off-IP route is configured")
 
     blocked = last = None
+    last_ours = True
     for name, ours, run in plan:
         if blocked is not None and ours:
             continue
@@ -735,8 +774,17 @@ def fetch_one(eg: Egress | None, vid: str, source: str, key: str | None = None):
                 if eg.strikes == 3:
                     print(f"   ({eg.label}: youtube-transcript-api keeps failing "
                           f"— yt-dlp from here on)")
-            last = e
-    raise blocked or last
+            last, last_ours = e, ours
+    if blocked is not None and (last is None or last_ours):
+        raise blocked
+    if blocked is not None:
+        # An off-IP route gave a verdict after our IP was refused. The verdict
+        # is the answer — supadata saying "no captions" is a fact about the
+        # video, and raising the block instead re-selected and re-charged the
+        # talk every round — but the block still happened, so it rides along
+        # for attempt() to bench the identity.
+        last.egress_blocked = blocked
+    raise last
 
 
 # --- selection and bookkeeping ----------------------------------------------
@@ -792,6 +840,8 @@ def save(t: dict, segments, lang, generated, timing, source) -> int:
 def select(talks: list[dict], args, misses: dict) -> list[dict]:
     out = []
     for t in talks:
+        if not atu.is_youtube_id(t["id"]):
+            continue                      # an InfoQ-only talk: no video to fetch from
         if args.only and t["conference"] not in args.only:
             continue
         if args.priority and t["priority"] > args.priority:
@@ -861,11 +911,12 @@ def attempt(pool: Pool, t: dict, args, key: str | None, tries: int | None = None
                 segments, lang, generated, timing, source = fetch_one(
                     eg, t["id"], args.source, key)
             except Exception as e:
-                if eg is not None and is_block(e):
+                block = e if is_block(e) else getattr(e, "egress_blocked", None)
+                if eg is not None and block is not None:
                     pool.bench(eg)
                     print(f"   {eg.label} rate limited after {eg.fetched} fetched "
                           f"— benched {args.proxy_cooldown:g} min")
-                    if remaining and not spent(pool, args, key):
+                    if is_block(e) and remaining and not spent(pool, args, key):
                         continue
                 raise
             if eg is not None and source in ("yt", "ytdlp"):
@@ -990,11 +1041,16 @@ def main() -> None:
 
     if args.source == "supadata" and not key:
         sys.exit("--source supadata needs SUPADATA_API_KEY in the environment")
+    if args.limit and args.retry_after:
+        print("note: --limit caps the run at one round, so --retry-after will not resume it")
     print(f"egress: {', '.join(e.label for e in pool.entries)}"
           f"{' + supadata' if key else ''} · {args.workers} workers")
 
     if args.probe:
-        sys.exit(probe(pool, select(talks, args, {}), args.source, key))
+        # With the real misses, not {}: the probe takes the next unfetched
+        # talk, and once a scope is complete that is a known no-captions
+        # video, which reported a healthy IP as "failed: LookupError".
+        sys.exit(probe(pool, select(talks, args, misses), args.source, key))
 
     total_ok = total_fail = 0
     for rnd in range(1, args.max_rounds + 1):

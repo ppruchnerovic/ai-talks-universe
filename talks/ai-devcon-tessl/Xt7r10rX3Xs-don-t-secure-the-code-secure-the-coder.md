@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 40
 published_at: 2026-05-26T12:00:11Z
 video_id: Xt7r10rX3Xs
+url: https://www.youtube.com/watch?v=Xt7r10rX3Xs
 youtube_url: https://www.youtube.com/watch?v=Xt7r10rX3Xs
 tags: ["AI Native Dev Podcast", "AI Security Summit", "AI attack vectors", "AI security", "OWASP", "Snyk", "agentic coding", "agentic development", "ainativedev", "coder security", "context development lifecycle", "context engineering", "digital security", "security breaches", "shadow AI"]
 transcript: true

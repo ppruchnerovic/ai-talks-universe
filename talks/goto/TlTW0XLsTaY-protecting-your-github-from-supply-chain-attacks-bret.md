@@ -12,6 +12,7 @@ channel: "GOTO Conferences"
 duration_min: 42
 published_at: 2026-08-13T14:02:40Z
 video_id: TlTW0XLsTaY
+url: https://www.youtube.com/watch?v=TlTW0XLsTaY
 youtube_url: https://www.youtube.com/watch?v=TlTW0XLsTaY
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Bret Fisher", "GitHub Actions", "Security", "Cybersecurity", "Supply Chain Attacks", "S1ngularity", "GitHub", "TeamPCP", "Shai-Hulud Attack", "Trivy", "Axios", "Zapier", "PostHog", "Dependabot"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mikhail Chernomordikov", "Apoorv Iyer", "Diana Kattan", "Tao Zhang"]
 channel: "Microsoft Events"
 duration_min: 30
 published_at: 2025-11-24T12:08:44Z
 video_id: E7JJ8JLqlf8
+url: https://www.youtube.com/watch?v=E7JJ8JLqlf8
 youtube_url: https://www.youtube.com/watch?v=E7JJ8JLqlf8
 tags: ["58ef37e6-b5f5-4600-a548-30d69f2085e2_Segment", "AI Enterprise Value: Real-World Applications | BRK334", "Apoorv Iyer", "BRK334", "Diana Kattan", "English (US)", "Mikhail Chernomordikov", "Scale with cloud and AI endpoints", "Tao Zhang", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI Enterprise Value: Real-World Applications | BRK334
 
-**Speaker not identified**
+**Mikhail Chernomordikov, Apoorv Iyer, Diana Kattan, Tao Zhang**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `30 min`
 

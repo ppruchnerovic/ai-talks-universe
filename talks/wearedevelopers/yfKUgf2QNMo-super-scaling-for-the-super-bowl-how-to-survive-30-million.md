@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 35
 published_at: 2026-07-10T14:20:00+00:00
 video_id: yfKUgf2QNMo
+url: https://www.youtube.com/watch?v=yfKUgf2QNMo
 youtube_url: https://www.youtube.com/watch?v=yfKUgf2QNMo
 tags: ["Cloud & AI Infrastructure", "APIs", "Design Systems", "Distributed Systems", "Go", "Microservices", "Observability", "Performance", "Scaling"]
 transcript: true

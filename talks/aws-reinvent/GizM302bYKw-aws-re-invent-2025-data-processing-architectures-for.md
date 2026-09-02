@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 60
 published_at: null
 video_id: GizM302bYKw
+url: https://www.youtube.com/watch?v=GizM302bYKw
 youtube_url: https://www.youtube.com/watch?v=GizM302bYKw
 tags: []
 transcript: false

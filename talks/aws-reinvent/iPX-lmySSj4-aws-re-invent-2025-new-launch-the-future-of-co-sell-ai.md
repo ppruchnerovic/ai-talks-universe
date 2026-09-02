@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 44
 published_at: null
 video_id: iPX-lmySSj4
+url: https://www.youtube.com/watch?v=iPX-lmySSj4
 youtube_url: https://www.youtube.com/watch?v=iPX-lmySSj4
 tags: []
 transcript: false

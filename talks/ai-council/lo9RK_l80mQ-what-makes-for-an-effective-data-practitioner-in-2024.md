@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Marck Vaisman"]
 channel: "AI Council"
 duration_min: 31
 published_at: 2024-04-19T05:00:32Z
 video_id: lo9RK_l80mQ
+url: https://www.youtube.com/watch?v=lo9RK_l80mQ
 youtube_url: https://www.youtube.com/watch?v=lo9RK_l80mQ
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # What Makes for an Effective Data Practitioner in 2024?
 
-**Speaker not identified**
+**Marck Vaisman**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `31 min`
 

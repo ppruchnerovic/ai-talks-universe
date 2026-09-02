@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Lindsey Allen", "Robert Saxby"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:55:26Z
 video_id: b95bug-O4Vs
+url: https://www.youtube.com/watch?v=b95bug-O4Vs
 youtube_url: https://www.youtube.com/watch?v=b95bug-O4Vs
 tags: ["BRK208", "Breakout", "Data", "English (US)", "Lindsey Allen", "Robert Saxby", "Technical", "Version v0", "What’s new in Azure Databricks | BRK208", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # What’s new in Azure Databricks | BRK208
 
-**Speaker not identified**
+**Lindsey Allen, Robert Saxby**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

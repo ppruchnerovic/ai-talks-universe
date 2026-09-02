@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 60
 published_at: null
 video_id: R-I_WdirVh4
+url: https://www.youtube.com/watch?v=R-I_WdirVh4
 youtube_url: https://www.youtube.com/watch?v=R-I_WdirVh4
 tags: []
 transcript: false

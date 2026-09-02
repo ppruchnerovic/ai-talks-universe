@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 57
 published_at: 2024-01-02T05:00:06Z
 video_id: HYsGQzQACDA
+url: https://www.youtube.com/watch?v=HYsGQzQACDA
 youtube_url: https://www.youtube.com/watch?v=HYsGQzQACDA
 tags: ["ChatGPT", "culture and methods", "The InfoQ Podcasts", "InfoQ Trends Reports"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Dat Tran", "Dennis Schmidt"]
+speakers: ["Dat Tran"]
 channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:53Z
 video_id: _Xs7r9d86qQ
+url: https://www.youtube.com/watch?v=_Xs7r9d86qQ
 youtube_url: https://www.youtube.com/watch?v=_Xs7r9d86qQ
 tags: ["AWS Lambda", "Conference", "FastAPI", "NLP", "OpenVINO", "Postgres", "PyConDE", "PyData", "Python", "Tech Talk", "aviation", "embeddings", "hybrid search", "machine learning", "pgvector", "reranking", "semantic search", "vector database"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Flying Beyond Keywords: Our Aviation Semantic Search Journey
 
-**Dat Tran, Dennis Schmidt**
+**Dat Tran**
 
 `PyData` · `PyData` · `2025` · `30 min`
 

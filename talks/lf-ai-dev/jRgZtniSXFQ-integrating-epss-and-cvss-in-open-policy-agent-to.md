@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 41
 published_at: 2025-09-05T19:39:27Z
 video_id: jRgZtniSXFQ
+url: https://www.youtube.com/watch?v=jRgZtniSXFQ
 youtube_url: https://www.youtube.com/watch?v=jRgZtniSXFQ
 tags: []
 transcript: false

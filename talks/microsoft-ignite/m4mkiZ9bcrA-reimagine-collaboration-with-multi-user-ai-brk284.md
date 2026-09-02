@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Russell Dicker", "Pete Daderko"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2025-11-20T14:50:46Z
 video_id: m4mkiZ9bcrA
+url: https://www.youtube.com/watch?v=m4mkiZ9bcrA
 youtube_url: https://www.youtube.com/watch?v=m4mkiZ9bcrA
 tags: ["BRK284", "Copilot and agents at work", "English (US)", "Pete Daderko", "Reimagine collaboration with multi-user AI | BRK284", "Russell Dicker", "Technical", "ad76a326-e568-45b0-8a4f-0ed1ce923386_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Reimagine collaboration with multi-user AI | BRK284
 
-**Speaker not identified**
+**Russell Dicker, Pete Daderko**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `34 min`
 

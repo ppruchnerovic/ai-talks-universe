@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 62
 published_at: 2026-03-24T14:01:22Z
 video_id: n3uEWZ1KT64
+url: https://www.youtube.com/watch?v=n3uEWZ1KT64
 youtube_url: https://www.youtube.com/watch?v=n3uEWZ1KT64
 tags: ["AI code review", "AI code shipping", "VC insights on code", "Wunderlist", "ainativedev", "codebase management", "disposable code", "disposable software concept", "how to manage a codebase", "immutable infrastructure", "legacy systems", "lightweight microservices", "maintainable systems", "system vs codebase", "what is Phoenix Architecture"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 42
 published_at: 2025-04-07T12:35:33Z
 video_id: L2Vgdltr-Aw
+url: https://www.youtube.com/watch?v=L2Vgdltr-Aw
 youtube_url: https://www.youtube.com/watch?v=L2Vgdltr-Aw
 tags: []
 transcript: false

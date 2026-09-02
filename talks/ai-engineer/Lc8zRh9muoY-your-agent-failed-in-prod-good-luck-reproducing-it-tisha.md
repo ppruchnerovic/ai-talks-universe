@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Tisha Chawla"]
 channel: "AI Engineer"
 duration_min: 14
 published_at: 2026-06-29T00:00:39Z
 video_id: Lc8zRh9muoY
+url: https://www.youtube.com/watch?v=Lc8zRh9muoY
 youtube_url: https://www.youtube.com/watch?v=Lc8zRh9muoY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Your Agent Failed in Prod. Good Luck Reproducing It. - Tisha Chawla & Susheem Koul, Microsoft
 
-**Speaker not identified**
+**Tisha Chawla**
 
 `AI Engineer` · `AI Engineer` · `2026` · `14 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Michael Cohen"]
 channel: "AI Council"
 duration_min: 16
 published_at: 2025-05-29T00:39:22Z
 video_id: hYpl0mVPkbc
+url: https://www.youtube.com/watch?v=hYpl0mVPkbc
 youtube_url: https://www.youtube.com/watch?v=hYpl0mVPkbc
 tags: ["data visualization", "creative coding", "design", "ChatGPT", "artificial intelligence", "machine learning", "data storytelling", "data art", "data culture", "creative processes", "artistic creativity", "data literacy", "collaboration", "Python tutorial", "information design", "visual analytics", "interactive visualization", "dashboard design", "chart design", "color theory", "typography", "user experience design", "accessibility", "responsive design"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Art of Data: Reimagining Creative Processes with Data Culture
 
-**Speaker not identified**
+**Michael Cohen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `16 min`
 

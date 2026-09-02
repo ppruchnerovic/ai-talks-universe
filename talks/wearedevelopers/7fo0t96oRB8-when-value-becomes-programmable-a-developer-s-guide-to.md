@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 15
 published_at: 2026-07-10T11:00:00+00:00
 video_id: 7fo0t96oRB8
+url: https://www.youtube.com/watch?v=7fo0t96oRB8
 youtube_url: https://www.youtube.com/watch?v=7fo0t96oRB8
 tags: ["Emerging Technologies", "Cryptography", "FinTech", "Infrastructure", "Smart Contracts"]
 transcript: true

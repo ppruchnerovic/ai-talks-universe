@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Peter Steinberger"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-04T12:32:47Z
 video_id: o5IQMijn-Ks
+url: https://www.youtube.com/watch?v=o5IQMijn-Ks
 youtube_url: https://www.youtube.com/watch?v=o5IQMijn-Ks
 tags: ["5a21e754-8418-4276-9e66-5041ed2f019d_M9Z7-BRK245-1", "ACA", "BRK245", "Build the thing that builds the thing | BRK245", "Microsoft Purview", "Peter Steinberger", "Secure App Development", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build the thing that builds the thing | BRK245
 
-**Speaker not identified**
+**Peter Steinberger**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

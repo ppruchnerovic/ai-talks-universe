@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Barbara Oakley"]
 channel: "GOTO Conferences"
 duration_min: 47
 published_at: 2025-04-11T09:26:52Z
 video_id: jsnCcdSkKkY
+url: https://www.youtube.com/watch?v=jsnCcdSkKkY
 youtube_url: https://www.youtube.com/watch?v=jsnCcdSkKkY
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to Learn: Unlocking the Brain's Secrets • Barbara Oakley & Charles Humble
 
-**Speaker not identified**
+**Barbara Oakley**
 
 `GOTO Conferences` · `GOTO` · `2025` · `47 min`
 

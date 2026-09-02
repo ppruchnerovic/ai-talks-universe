@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2026
-speakers: ["County of San Francisco"]
+speakers: []
 channel: "AI Council"
 duration_min: 9
 published_at: 2026-06-18T22:16:13Z
 video_id: Kr76S8inySQ
+url: https://www.youtube.com/watch?v=Kr76S8inySQ
 youtube_url: https://www.youtube.com/watch?v=Kr76S8inySQ
 tags: ["AI"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building the Blueprint for Scalable Data Products in Public Sector | City of San Francisco
 
-**County of San Francisco**
+**Speaker not identified**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2026` · `9 min`
 

@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Jerry Wu", "Wyatt Marshall"]
 channel: "AI Engineer"
 duration_min: 21
 published_at: 2025-06-03T22:22:26Z
 video_id: Djv8Sp11UjI
+url: https://www.youtube.com/watch?v=Djv8Sp11UjI
 youtube_url: https://www.youtube.com/watch?v=Djv8Sp11UjI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The Current State of Browser Agents - Jerry Wu and Wyatt Marshall
 
-**Speaker not identified**
+**Jerry Wu, Wyatt Marshall**
 
 `AI Engineer` · `AI Engineer` · `2025` · `21 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 4
 published_at: 2026-07-09T13:05:00+00:00
 video_id: sy-FlPZtqUQ
+url: https://www.youtube.com/watch?v=sy-FlPZtqUQ
 youtube_url: https://www.youtube.com/watch?v=sy-FlPZtqUQ
 tags: ["Case Study", "Entrepreneurship", "Generative AI (GenAI)", "Large Language Models (LLMs)", "Marketing", "Product Strategy", "SEO", "Startups"]
 transcript: true

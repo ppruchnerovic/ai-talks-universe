@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 13
 published_at: 2025-11-19T15:22:41Z
 video_id: sjowc3bdWdA
+url: https://www.youtube.com/watch?v=sjowc3bdWdA
 youtube_url: https://www.youtube.com/watch?v=sjowc3bdWdA
 tags: ["English (US)", "Financial Services", "How DEX tool architecture impacts user experience | ODSP1532", "ODSP1532", "ODSP1532_v1", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Sreeja Varnam", "Luboslav Pivarc"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 31
 published_at: 2026-04-09T05:20:35Z
 video_id: goCjV2xJDnk
+url: https://www.youtube.com/watch?v=goCjV2xJDnk
 youtube_url: https://www.youtube.com/watch?v=goCjV2xJDnk
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # KubeVirt's Evolution: Governance, Features, and Community Growth - Sreeja Varnam & Luboslav Pivarc
 
-**Speaker not identified**
+**Sreeja Varnam, Luboslav Pivarc**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `31 min`
 

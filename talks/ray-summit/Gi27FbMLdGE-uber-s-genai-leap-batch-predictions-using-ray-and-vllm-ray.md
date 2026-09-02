@@ -12,6 +12,7 @@ channel: null
 duration_min: 33
 published_at: null
 video_id: Gi27FbMLdGE
+url: https://www.youtube.com/watch?v=Gi27FbMLdGE
 youtube_url: https://www.youtube.com/watch?v=Gi27FbMLdGE
 tags: []
 transcript: false

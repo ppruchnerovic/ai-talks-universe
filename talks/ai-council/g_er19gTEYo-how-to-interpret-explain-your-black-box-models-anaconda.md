@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 31
 published_at: 2023-05-11T18:57:30Z
 video_id: g_er19gTEYo
+url: https://www.youtube.com/watch?v=g_er19gTEYo
 youtube_url: https://www.youtube.com/watch?v=g_er19gTEYo
 tags: ["Machine Learning", "Data Science", "model explainability", "SHAP", "model testing"]
 transcript: false

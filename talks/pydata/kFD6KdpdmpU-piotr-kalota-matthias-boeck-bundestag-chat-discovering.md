@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: []
+speakers: ["Piotr Kalota", "Matthias Boeck"]
 channel: null
 duration_min: 24
 published_at: null
 video_id: kFD6KdpdmpU
+url: https://www.youtube.com/watch?v=kFD6KdpdmpU
 youtube_url: https://www.youtube.com/watch?v=kFD6KdpdmpU
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Piotr Kalota+Matthias Boeck - Bundestag Chat: Discovering Political Landscape with RAG Systems-2025
 
-**Speaker not identified**
+**Piotr Kalota, Matthias Boeck**
 
 `PyData` · `PyData` · `2025` · `24 min`
 

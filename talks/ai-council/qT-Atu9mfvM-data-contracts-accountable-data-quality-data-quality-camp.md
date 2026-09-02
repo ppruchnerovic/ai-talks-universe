@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 37
 published_at: 2023-05-11T18:57:08Z
 video_id: qT-Atu9mfvM
+url: https://www.youtube.com/watch?v=qT-Atu9mfvM
 youtube_url: https://www.youtube.com/watch?v=qT-Atu9mfvM
 tags: ["Data Engineering", "Infrastructure", "data quality", "data contracts"]
 transcript: false

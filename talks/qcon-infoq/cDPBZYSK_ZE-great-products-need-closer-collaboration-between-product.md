@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 22
 published_at: 2024-10-04T09:20:43Z
 video_id: cDPBZYSK_ZE
+url: https://www.youtube.com/watch?v=cDPBZYSK_ZE
 youtube_url: https://www.youtube.com/watch?v=cDPBZYSK_ZE
 tags: []
 transcript: false

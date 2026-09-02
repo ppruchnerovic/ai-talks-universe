@@ -12,6 +12,7 @@ channel: "Databricks"
 duration_min: 179
 published_at: 2026-06-16T22:11:32Z
 video_id: Qux8E-L1mk8
+url: https://www.youtube.com/watch?v=Qux8E-L1mk8
 youtube_url: https://www.youtube.com/watch?v=Qux8E-L1mk8
 tags: ["Databricks"]
 transcript: true

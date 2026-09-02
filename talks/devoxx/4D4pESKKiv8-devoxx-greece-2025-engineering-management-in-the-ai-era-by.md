@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Dennis Nerush"]
 channel: null
 duration_min: 40
 published_at: null
 video_id: 4D4pESKKiv8
+url: https://www.youtube.com/watch?v=4D4pESKKiv8
 youtube_url: https://www.youtube.com/watch?v=4D4pESKKiv8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Devoxx Greece 2025 - Engineering Management in the AI Era by Dennis Nerush
 
-**Speaker not identified**
+**Dennis Nerush**
 
 `Devoxx` · `Devoxx` · `2025` · `40 min`
 

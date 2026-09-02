@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aung Oo", "Lena Ye"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-27T09:29:33Z
 video_id: J0x98bCmQEc
+url: https://www.youtube.com/watch?v=J0x98bCmQEc
 youtube_url: https://www.youtube.com/watch?v=J0x98bCmQEc
 tags: ["Aung Oo", "BRK236", "Breakout", "English (US)", "Infrastructure", "Intermediate (200)", "Lena Ye", "Technical", "Version v3", "What’s new in Azure Storage: Supercharge your data centric workloads​ | BRK236", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # What’s new in Azure Storage: Supercharge your data centric workloads​ | BRK236
 
-**Speaker not identified**
+**Aung Oo, Lena Ye**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

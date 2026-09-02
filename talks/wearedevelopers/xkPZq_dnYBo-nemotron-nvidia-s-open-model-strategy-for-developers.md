@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T10:50:00+00:00
 video_id: xkPZq_dnYBo
+url: https://www.youtube.com/watch?v=xkPZq_dnYBo
 youtube_url: https://www.youtube.com/watch?v=xkPZq_dnYBo
 tags: ["AI Engineering", "AI Models", "LLMOps", "Open Source"]
 transcript: true

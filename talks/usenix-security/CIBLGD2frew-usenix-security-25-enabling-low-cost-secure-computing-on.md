@@ -12,6 +12,7 @@ channel: "USENIX"
 duration_min: 20
 published_at: 2025-10-30T19:58:10Z
 video_id: CIBLGD2frew
+url: https://www.youtube.com/watch?v=CIBLGD2frew
 youtube_url: https://www.youtube.com/watch?v=CIBLGD2frew
 tags: ["usenix", "technology", "conference", "open access"]
 transcript: false

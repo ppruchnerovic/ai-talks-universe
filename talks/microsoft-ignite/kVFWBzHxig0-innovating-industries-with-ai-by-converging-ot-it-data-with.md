@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Dr. Chetan Gupta"]
 channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-21T10:44:53Z
 video_id: kVFWBzHxig0
+url: https://www.youtube.com/watch?v=kVFWBzHxig0
 youtube_url: https://www.youtube.com/watch?v=kVFWBzHxig0
 tags: ["AI", "Azure Virtual Desktop", "Copilot for Security", "Data governance", "Deployment", "Innovating industries with AI by converging OT & IT data with Hitachi | ODFP948", "Insider risk management", "Microsoft 365", "Microsoft Copilot", "Microsoft Defender XDR", "Microsoft Purview", "ODFP948", "Power Apps", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Innovating industries with AI by converging OT & IT data with Hitachi | ODFP948
 
-**Speaker not identified**
+**Dr. Chetan Gupta**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `10 min`
 

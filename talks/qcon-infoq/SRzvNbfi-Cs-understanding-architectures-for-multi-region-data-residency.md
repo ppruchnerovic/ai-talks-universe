@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 46
 published_at: 2024-07-25T09:00:20Z
 video_id: SRzvNbfi-Cs
+url: https://www.youtube.com/watch?v=SRzvNbfi-Cs
 youtube_url: https://www.youtube.com/watch?v=SRzvNbfi-Cs
 tags: ["Software Architecture", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Storage", "Data", "InfoQ", "QCon San Francisco", "Transcript"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 50
 published_at: 2025-11-25T15:03:33Z
 video_id: b2qel03SU4I
+url: https://www.youtube.com/watch?v=b2qel03SU4I
 youtube_url: https://www.youtube.com/watch?v=b2qel03SU4I
 tags: ["AI", "Cloud", "Tools", "LLM", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Mete Atamel"]
 transcript: false

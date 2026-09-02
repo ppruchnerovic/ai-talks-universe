@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Mario Fusco", "Clement Escoff"]
 channel: "Devoxx"
 duration_min: 51
 published_at: 2025-10-09T04:45:30Z
 video_id: mtWHfYTLeKE
+url: https://www.youtube.com/watch?v=mtWHfYTLeKE
 youtube_url: https://www.youtube.com/watch?v=mtWHfYTLeKE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # From AI Infused to Agentic: Building an Enterprise Agentic Framework by Mario Fusco, Clement Escoff
 
-**Speaker not identified**
+**Mario Fusco, Clement Escoff**
 
 `Devoxx` · `Devoxx` · `2025` · `51 min`
 

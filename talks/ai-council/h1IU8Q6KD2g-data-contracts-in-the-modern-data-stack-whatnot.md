@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 14
 published_at: 2023-05-11T21:49:37Z
 video_id: h1IU8Q6KD2g
+url: https://www.youtube.com/watch?v=h1IU8Q6KD2g
 youtube_url: https://www.youtube.com/watch?v=h1IU8Q6KD2g
 tags: ["data stack", "data contracts", "Interface Definition Language", "DBL"]
 transcript: false

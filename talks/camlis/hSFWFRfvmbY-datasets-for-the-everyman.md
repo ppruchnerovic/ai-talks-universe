@@ -12,6 +12,7 @@ channel: "CAMLIS"
 duration_min: 26
 published_at: 2018-11-16T17:23:14Z
 video_id: hSFWFRfvmbY
+url: https://www.youtube.com/watch?v=hSFWFRfvmbY
 youtube_url: https://www.youtube.com/watch?v=hSFWFRfvmbY
 tags: ["camlis", "camlis2018"]
 transcript: false

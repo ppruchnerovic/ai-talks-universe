@@ -12,6 +12,7 @@ channel: null
 duration_min: 46
 published_at: null
 video_id: Hc-EH-NfbRg
+url: https://www.youtube.com/watch?v=Hc-EH-NfbRg
 youtube_url: https://www.youtube.com/watch?v=Hc-EH-NfbRg
 tags: []
 transcript: false

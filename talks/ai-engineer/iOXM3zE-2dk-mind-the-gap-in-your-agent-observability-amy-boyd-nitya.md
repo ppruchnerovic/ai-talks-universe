@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Amy Boyd", "Nitya Narasimhan"]
 channel: "AI Engineer"
 duration_min: 80
 published_at: 2026-05-14T16:00:06Z
 video_id: iOXM3zE-2dk
+url: https://www.youtube.com/watch?v=iOXM3zE-2dk
 youtube_url: https://www.youtube.com/watch?v=iOXM3zE-2dk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimhan, Microsoft
 
-**Speaker not identified**
+**Amy Boyd, Nitya Narasimhan**
 
 `AI Engineer` · `AI Engineer` · `2026` · `80 min`
 

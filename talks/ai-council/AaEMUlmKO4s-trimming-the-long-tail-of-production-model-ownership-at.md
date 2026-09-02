@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jonathan Jin"]
 channel: "AI Council"
 duration_min: 29
 published_at: 2025-05-29T13:30:28Z
 video_id: AaEMUlmKO4s
+url: https://www.youtube.com/watch?v=AaEMUlmKO4s
 youtube_url: https://www.youtube.com/watch?v=AaEMUlmKO4s
 tags: ["MLOps tutorial", "model serving", "ChatGPT", "artificial intelligence", "machine learning", "AI deployment", "data science tutorial", "production ML", "AI infrastructure", "model ownership", "AI engineering", "model monitoring", "Python tutorial", "continuous integration", "continuous deployment", "model versioning", "experiment tracking", "feature store", "model registry", "automated testing", "performance monitoring", "drift detection", "model governance"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Trimming the Long Tail of Production Model Ownership at Hinge
 
-**Speaker not identified**
+**Jonathan Jin**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `29 min`
 

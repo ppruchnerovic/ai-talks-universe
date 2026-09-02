@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 11
 published_at: 2026-07-09T11:10:00+00:00
 video_id: Lb77eiIwi1E
+url: https://www.youtube.com/watch?v=Lb77eiIwi1E
 youtube_url: https://www.youtube.com/watch?v=Lb77eiIwi1E
 tags: ["Cloud & AI Infrastructure", "AI Models", "Agents", "Innovation", "Linux", "Motivation", "Open Source", "Privacy"]
 transcript: true

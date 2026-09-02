@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Rob Sobers"]
 channel: "Microsoft Events"
 duration_min: 7
 published_at: 2025-11-21T12:32:27Z
 video_id: O6XG2w3f5x4
+url: https://www.youtube.com/watch?v=O6XG2w3f5x4
 youtube_url: https://www.youtube.com/watch?v=O6XG2w3f5x4
 tags: ["English (US)", "Future secured: The Varonis and Microsoft partnership | STUDIOSP63", "Rob Sobers", "STUDIOSP63", "STUDIOSP63_v3", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Future secured: The Varonis and Microsoft partnership | STUDIOSP63
 
-**Speaker not identified**
+**Rob Sobers**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `7 min`
 

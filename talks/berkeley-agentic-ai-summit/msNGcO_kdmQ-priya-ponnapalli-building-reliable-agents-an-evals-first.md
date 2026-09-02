@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 11
 published_at: 2026-08-12T02:11:37Z
 video_id: msNGcO_kdmQ
+url: https://www.youtube.com/watch?v=msNGcO_kdmQ
 youtube_url: https://www.youtube.com/watch?v=msNGcO_kdmQ
 tags: []
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Julia Ferraioli", "Tom Callaway"]
 channel: "The Linux Foundation"
 duration_min: 39
 published_at: 2024-06-27T14:39:45Z
 video_id: dAwLJrVtTRw
+url: https://www.youtube.com/watch?v=dAwLJrVtTRw
 youtube_url: https://www.youtube.com/watch?v=dAwLJrVtTRw
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # A Hopeful View of Truly Open Source AI - Julia Ferraioli & Tom Callaway, AWS
 
-**Speaker not identified**
+**Julia Ferraioli, Tom Callaway**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `39 min`
 

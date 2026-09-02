@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 47
 published_at: 2026-08-04T22:21:45Z
 video_id: qujnorOvVA4
+url: https://www.youtube.com/watch?v=qujnorOvVA4
 youtube_url: https://www.youtube.com/watch?v=qujnorOvVA4
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
 transcript: true

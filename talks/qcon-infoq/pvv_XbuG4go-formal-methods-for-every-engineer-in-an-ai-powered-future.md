@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 23
 published_at: 2026-07-10T10:16:55Z
 video_id: pvv_XbuG4go
+url: https://www.youtube.com/watch?v=pvv_XbuG4go
 youtube_url: https://www.youtube.com/watch?v=pvv_XbuG4go
 tags: []
 transcript: true

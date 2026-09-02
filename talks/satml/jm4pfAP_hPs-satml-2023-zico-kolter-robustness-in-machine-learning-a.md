@@ -12,6 +12,7 @@ channel: "Nicolas Papernot"
 duration_min: 62
 published_at: null
 video_id: jm4pfAP_hPs
+url: https://www.youtube.com/watch?v=jm4pfAP_hPs
 youtube_url: https://www.youtube.com/watch?v=jm4pfAP_hPs
 tags: []
 transcript: false

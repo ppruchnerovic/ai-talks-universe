@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Nir Mashkowski", "Mandy Whaley"]
 channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-21T17:19:32Z
 video_id: JxoC8siCf8Y
+url: https://www.youtube.com/watch?v=JxoC8siCf8Y
 youtube_url: https://www.youtube.com/watch?v=JxoC8siCf8Y
 tags: ["328c1e5e-db0a-4e9c-a443-3dcd9edc9e6f_Segment", "BRK109", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Mandy Whaley", "Nir Mashkowski", "Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot | BRK109", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot | BRK109
 
-**Speaker not identified**
+**Nir Mashkowski, Mandy Whaley**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `39 min`
 

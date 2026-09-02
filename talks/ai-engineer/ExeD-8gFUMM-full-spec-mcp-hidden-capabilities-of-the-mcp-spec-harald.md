@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 15
 published_at: 2025-07-18T00:00:00Z
 video_id: ExeD-8gFUMM
+url: https://www.youtube.com/watch?v=ExeD-8gFUMM
 youtube_url: https://www.youtube.com/watch?v=ExeD-8gFUMM
 tags: []
 transcript: false

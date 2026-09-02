@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 20
 published_at: 2025-09-09T18:28:26Z
 video_id: dllQLs3lVpA
+url: https://www.youtube.com/watch?v=dllQLs3lVpA
 youtube_url: https://www.youtube.com/watch?v=dllQLs3lVpA
 tags: []
 transcript: false

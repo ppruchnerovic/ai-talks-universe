@@ -12,6 +12,7 @@ channel: null
 duration_min: 36
 published_at: null
 video_id: maDtphKHsz8
+url: https://www.youtube.com/watch?v=maDtphKHsz8
 youtube_url: https://www.youtube.com/watch?v=maDtphKHsz8
 tags: []
 transcript: false

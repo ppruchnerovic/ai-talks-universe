@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Gunter Rotsaert"]
 channel: "Devoxx"
 duration_min: 149
 published_at: 2025-10-07T05:13:49Z
 video_id: LtAe8EB72OI
+url: https://www.youtube.com/watch?v=LtAe8EB72OI
 youtube_url: https://www.youtube.com/watch?v=LtAe8EB72OI
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlocking AI Coding Assistants: Real World Use Cases by Gunter Rotsaert
 
-**Speaker not identified**
+**Gunter Rotsaert**
 
 `Devoxx` · `Devoxx` · `2025` · `149 min`
 

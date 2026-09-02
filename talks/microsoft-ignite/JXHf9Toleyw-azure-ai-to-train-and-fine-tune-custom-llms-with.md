@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["John Lee", "Ben Levine", "Yogi Pandey", "Alejandra Rico"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-25T12:21:26Z
 video_id: JXHf9Toleyw
+url: https://www.youtube.com/watch?v=JXHf9Toleyw
 youtube_url: https://www.youtube.com/watch?v=JXHf9Toleyw
 tags: ["AI", "Advanced (300)", "Alejandra Rico", "Azure AI to train and fine-tune custom LLMs with Distributed Training | BRK120", "BRK120", "Ben Levine", "Breakout", "English (US)", "FineTuning", "GPU", "GenerativeAI", "John Lee", "Models", "Software Company", "Technical", "Version v1", "Yogi Pandey", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Azure AI to train and fine-tune custom LLMs with Distributed Training | BRK120
 
-**Speaker not identified**
+**John Lee, Ben Levine, Yogi Pandey, Alejandra Rico**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

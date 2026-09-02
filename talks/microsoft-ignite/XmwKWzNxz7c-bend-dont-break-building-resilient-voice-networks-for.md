@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 36
 published_at: 2025-11-25T12:06:51Z
 video_id: XmwKWzNxz7c
+url: https://www.youtube.com/watch?v=XmwKWzNxz7c
 youtube_url: https://www.youtube.com/watch?v=XmwKWzNxz7c
 tags: ["Bend don’t break: Building resilient voice networks for contact centers | ODSP1451", "Copilot and agents at work", "English (US)", "ODSP1451", "ODSP1451_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

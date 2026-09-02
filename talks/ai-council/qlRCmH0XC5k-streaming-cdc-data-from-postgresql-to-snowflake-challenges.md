@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Alexandru Cristu"]
 channel: "AI Council"
 duration_min: 30
 published_at: 2024-04-19T05:00:28Z
 video_id: qlRCmH0XC5k
+url: https://www.youtube.com/watch?v=qlRCmH0XC5k
 youtube_url: https://www.youtube.com/watch?v=qlRCmH0XC5k
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Streaming CDC data from PostgreSQL to Snowflake, challenges and solutions
 
-**Speaker not identified**
+**Alexandru Cristu**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `30 min`
 

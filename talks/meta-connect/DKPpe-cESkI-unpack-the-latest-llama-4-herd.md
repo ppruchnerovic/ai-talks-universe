@@ -12,6 +12,7 @@ channel: "Meta Developers"
 duration_min: 12
 published_at: null
 video_id: DKPpe-cESkI
+url: https://www.youtube.com/watch?v=DKPpe-cESkI
 youtube_url: https://www.youtube.com/watch?v=DKPpe-cESkI
 tags: []
 transcript: false

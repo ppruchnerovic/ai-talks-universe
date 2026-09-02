@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Ben Summers", "Erica Toelle"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-27T12:03:21Z
 video_id: xXLY11Luppc
+url: https://www.youtube.com/watch?v=xXLY11Luppc
 youtube_url: https://www.youtube.com/watch?v=xXLY11Luppc
 tags: ["AI", "BRK273", "Containers", "Copilot for M365", "Custom copilot(s)", "Data Security", "Data governance", "Deployment", "Exposure management", "Follow the Prompt! Tracking and Managing Copilot prompts at hyperscale | BRK273", "Microsoft 365", "Microsoft Copilot", "Microsoft Purview", "Modern Work", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Follow the Prompt! Tracking and Managing Copilot prompts at hyperscale | BRK273
 
-**Speaker not identified**
+**Ben Summers, Erica Toelle**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

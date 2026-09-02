@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T09:30:00+00:00
 video_id: gKymuV9JaeA
+url: https://www.youtube.com/watch?v=gKymuV9JaeA
 youtube_url: https://www.youtube.com/watch?v=gKymuV9JaeA
 tags: ["Security & Privacy", "AGI (Artificial General Intelligence)", "AI Standards", "Security"]
 transcript: true

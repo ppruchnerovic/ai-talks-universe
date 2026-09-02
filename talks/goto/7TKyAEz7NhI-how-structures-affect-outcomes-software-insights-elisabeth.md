@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Elisabeth Hendrickson"]
 channel: "GOTO Conferences"
 duration_min: 44
 published_at: 2024-06-07T09:26:53Z
 video_id: 7TKyAEz7NhI
+url: https://www.youtube.com/watch?v=7TKyAEz7NhI
 youtube_url: https://www.youtube.com/watch?v=7TKyAEz7NhI
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How Structures Affect Outcomes: Software Insights • Elisabeth Hendrickson & Charles Humble
 
-**Speaker not identified**
+**Elisabeth Hendrickson**
 
 `GOTO Conferences` · `GOTO` · `2024` · `44 min`
 

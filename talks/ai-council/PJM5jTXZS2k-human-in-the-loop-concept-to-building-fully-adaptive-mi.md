@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 29
 published_at: 2023-05-11T18:57:34Z
 video_id: PJM5jTXZS2k
+url: https://www.youtube.com/watch?v=PJM5jTXZS2k
 youtube_url: https://www.youtube.com/watch?v=PJM5jTXZS2k
 tags: ["Machine Learning", "AI", "MLOps"]
 transcript: false

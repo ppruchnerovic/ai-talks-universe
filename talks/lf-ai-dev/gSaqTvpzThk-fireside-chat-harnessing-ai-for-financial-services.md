@@ -7,11 +7,12 @@ conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
 category: "Software dev with AI tracks"
 edition: "AI_dev Europe 2024"
 year: 2024
-speakers: []
+speakers: ["Luca Borella", "Jane Gavronsky"]
 channel: "The Linux Foundation"
 duration_min: 41
 published_at: 2024-06-27T14:40:37Z
 video_id: gSaqTvpzThk
+url: https://www.youtube.com/watch?v=gSaqTvpzThk
 youtube_url: https://www.youtube.com/watch?v=gSaqTvpzThk
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Fireside Chat: Harnessing AI for Financial Services Innovation - Luca Borella & Jane Gavronsky
 
-**Speaker not identified**
+**Luca Borella, Jane Gavronsky**
 
 `AI_dev / Open Source Summit (Linux Foundation)` · `AI_dev Europe 2024` · `2024` · `41 min`
 

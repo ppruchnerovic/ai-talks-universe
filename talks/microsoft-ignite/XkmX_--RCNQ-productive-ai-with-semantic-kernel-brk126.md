@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Urko Benito", "Evan Chaki", "Greg Crist", "Shawn Henry", "Wanting Huang", "Hiro Kobashi"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T12:26:55Z
 video_id: XkmX_--RCNQ
+url: https://www.youtube.com/watch?v=XkmX_--RCNQ
 youtube_url: https://www.youtube.com/watch?v=XkmX_--RCNQ
 tags: ["AI", "AI search", "BRK126", "Breakout", "English (US)", "Evan Chaki", "GenAI", "Greg Crist", "Hiro Kobashi", "Intermediate (200)", "Productive AI with Semantic Kernel | BRK126", "Secure enterprise browser", "Shawn Henry", "Technical", "Urko Benito", "Version v1", "Wanting Huang", "ignite", "ignite 2024", "knowledgeretrieval", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "vectorsearch"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Productive AI with Semantic Kernel | BRK126
 
-**Speaker not identified**
+**Urko Benito, Evan Chaki, Greg Crist, Shawn Henry, Wanting Huang, Hiro Kobashi**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

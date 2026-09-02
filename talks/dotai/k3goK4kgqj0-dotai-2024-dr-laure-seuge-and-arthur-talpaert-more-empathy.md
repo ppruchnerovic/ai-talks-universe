@@ -7,11 +7,12 @@ conference_name: "dotAI"
 category: "AI engineering & agents"
 edition: "dot conferences"
 year: 2024
-speakers: []
+speakers: ["Dr Laure Seugé", "Arthur Talpaert"]
 channel: null
 duration_min: 15
 published_at: null
 video_id: k3goK4kgqj0
+url: https://www.youtube.com/watch?v=k3goK4kgqj0
 youtube_url: https://www.youtube.com/watch?v=k3goK4kgqj0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # dotAI 2024 - Dr Laure Seugé and Arthur Talpaert - More empathy and health data protection in AI
 
-**Speaker not identified**
+**Dr Laure Seugé, Arthur Talpaert**
 
 `dotAI` · `dot conferences` · `2024` · `15 min`
 

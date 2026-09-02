@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 22
 published_at: 2025-08-21T15:23:20Z
 video_id: L8-5ezsoI5A
+url: https://www.youtube.com/watch?v=L8-5ezsoI5A
 youtube_url: https://www.youtube.com/watch?v=L8-5ezsoI5A
 tags: []
 transcript: false

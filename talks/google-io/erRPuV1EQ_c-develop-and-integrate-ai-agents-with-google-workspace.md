@@ -12,6 +12,7 @@ channel: "Google Cloud Tech"
 duration_min: 13
 published_at: 2026-05-21T18:59:51Z
 video_id: erRPuV1EQ_c
+url: https://www.youtube.com/watch?v=erRPuV1EQ_c
 youtube_url: https://www.youtube.com/watch?v=erRPuV1EQ_c
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Enterprise agentic workflows", "Google Docs agent API", "Gmail Agent API", "Google Agent AI integration", "A2A Protocol", "Agent Development Kit (ADK)", "Google Workspace developer platform"]
 transcript: true

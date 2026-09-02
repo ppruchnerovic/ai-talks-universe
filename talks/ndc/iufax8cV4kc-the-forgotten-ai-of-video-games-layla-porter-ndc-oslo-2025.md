@@ -12,6 +12,7 @@ channel: null
 duration_min: 66
 published_at: null
 video_id: iufax8cV4kc
+url: https://www.youtube.com/watch?v=iufax8cV4kc
 youtube_url: https://www.youtube.com/watch?v=iufax8cV4kc
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Scott Hanselman", "Mark Russinovich"]
 channel: "Microsoft Developer"
 duration_min: 65
 published_at: 2026-06-04T15:00:24Z
 video_id: PbSc09IfFLM
+url: https://www.youtube.com/watch?v=PbSc09IfFLM
 youtube_url: https://www.youtube.com/watch?v=PbSc09IfFLM
 tags: ["LIVE101", "LIVE101_v1", "Mark Russinovich", "Scott Hanselman", "Scott and Mark learn to Vibe Check | LIVE101", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Scott and Mark learn to Vibe Check | LIVE101
 
-**Speaker not identified**
+**Scott Hanselman, Mark Russinovich**
 
 `Microsoft Build` · `Build 2026` · `2026` · `65 min`
 

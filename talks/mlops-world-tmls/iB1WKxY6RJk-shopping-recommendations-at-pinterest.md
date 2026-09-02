@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 25
 published_at: 2023-08-18T01:36:56Z
 video_id: iB1WKxY6RJk
+url: https://www.youtube.com/watch?v=iB1WKxY6RJk
 youtube_url: https://www.youtube.com/watch?v=iB1WKxY6RJk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Shopping Recommendations at Pinterest", "Shopping Recommendations", "Pinterest", "shopping", "recommendation", "Machine Learning Engineer", "machine learning engineering", "pinterest"]
 transcript: false

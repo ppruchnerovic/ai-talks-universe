@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 22
 published_at: 2026-07-31T00:00:00Z
 video_id: AMiyLItEtLA
+url: https://www.youtube.com/watch?v=AMiyLItEtLA
 youtube_url: https://www.youtube.com/watch?v=AMiyLItEtLA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

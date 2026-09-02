@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Adam Harmetz", "John Mighell"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-21T14:34:13Z
 video_id: uRit_4gcvDM
+url: https://www.youtube.com/watch?v=uRit_4gcvDM
 youtube_url: https://www.youtube.com/watch?v=uRit_4gcvDM
 tags: ["0a8ccd33-9398-4131-9642-df1d69be4e7c_Segment", "Adam Harmetz", "BRK288", "Copilot and agents at work", "English (US)", "John Mighell", "SharePoint: The Knowledge Platform for Copilot and Agents | BRK288", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # SharePoint: The Knowledge Platform for Copilot and Agents | BRK288
 
-**Speaker not identified**
+**Adam Harmetz, John Mighell**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

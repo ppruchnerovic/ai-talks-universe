@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 31
 published_at: 2026-07-10T07:24:37Z
 video_id: guhTp2Q8VX0
+url: https://www.youtube.com/watch?v=guhTp2Q8VX0
 youtube_url: https://www.youtube.com/watch?v=guhTp2Q8VX0
 tags: ["AI DevCon London", "AI DevCon London 2026", "AI code optimization", "KV cache", "KV caching optimization", "Nvidia", "agent focused benchmarks", "agent performance metrics", "agentic workloads", "ainativedev", "benchmarking AI", "benchmarking agentic workloads", "measuring AI performance", "speculative decoding", "speculative decoding in AI"]
 transcript: true

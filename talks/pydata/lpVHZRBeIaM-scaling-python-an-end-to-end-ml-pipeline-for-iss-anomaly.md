@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 28
 published_at: 2025-11-23T14:33:55Z
 video_id: lpVHZRBeIaM
+url: https://www.youtube.com/watch?v=lpVHZRBeIaM
 youtube_url: https://www.youtube.com/watch?v=lpVHZRBeIaM
 tags: ["Conference", "Dask", "ISS", "KServe", "Katib", "Kubeflow", "Kubernetes", "MLFlow", "MLOps", "PyCon", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk", "anomaly detection", "data science", "distributed computing", "machine learning"]
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Abby Bangser"]
 channel: "GOTO Conferences"
 duration_min: 46
 published_at: 2026-06-22T12:00:13Z
 video_id: Xsd02ebVv4w
+url: https://www.youtube.com/watch?v=Xsd02ebVv4w
 youtube_url: https://www.youtube.com/watch?v=Xsd02ebVv4w
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO State of the Art", "Abby Bangser", "Platform as a Product", "Platform Engineering", "Platform Teams", "Observability", "DevEx", "Developer Experience", "DX", "Charles Humble", "Terraform"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # State of the Art of Platform Engineering • Abby Bangser & Charles Humble • GOTO 2026
 
-**Speaker not identified**
+**Abby Bangser**
 
 `GOTO Conferences` · `GOTO` · `2026` · `46 min`
 

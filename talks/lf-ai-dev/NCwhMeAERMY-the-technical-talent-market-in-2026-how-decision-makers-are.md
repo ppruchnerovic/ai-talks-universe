@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 47
 published_at: 2026-06-03T18:24:51Z
 video_id: NCwhMeAERMY
+url: https://www.youtube.com/watch?v=NCwhMeAERMY
 youtube_url: https://www.youtube.com/watch?v=NCwhMeAERMY
 tags: []
 transcript: true

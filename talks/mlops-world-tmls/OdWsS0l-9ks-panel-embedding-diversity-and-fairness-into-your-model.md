@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2023
-speakers: ["Andrea Olgiati", "Chief Engineer"]
+speakers: ["Andrea Olgiati"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 35
 published_at: 2023-05-29T05:19:19Z
 video_id: OdWsS0l-9ks
+url: https://www.youtube.com/watch?v=OdWsS0l-9ks
 youtube_url: https://www.youtube.com/watch?v=OdWsS0l-9ks
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Panel: Embedding Diversity and Fairness Into Your Model Governance
 
-**Andrea Olgiati, Chief Engineer**
+**Andrea Olgiati**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2023` · `35 min`
 

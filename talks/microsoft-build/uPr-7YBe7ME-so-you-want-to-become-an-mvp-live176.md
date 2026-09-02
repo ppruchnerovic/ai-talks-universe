@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Fernanda Herger", "Betsy Weber", "Priyanka Shah", "Jeremy Sinclair"]
 channel: "Microsoft Developer"
 duration_min: 19
 published_at: 2026-06-05T15:33:12Z
 video_id: uPr-7YBe7ME
+url: https://www.youtube.com/watch?v=uPr-7YBe7ME
 youtube_url: https://www.youtube.com/watch?v=uPr-7YBe7ME
 tags: ["Betsy Weber", "Fernanda Herger", "Jeremy Sinclair", "LIVE176", "LIVE176_v1", "Priyanka Shah", "So you want to become an MVP? | LIVE176", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # So you want to become an MVP? | LIVE176
 
-**Speaker not identified**
+**Fernanda Herger, Betsy Weber, Priyanka Shah, Jeremy Sinclair**
 
 `Microsoft Build` · `Build 2026` · `2026` · `19 min`
 

@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Christian Woerz"]
 channel: "Devoxx"
 duration_min: 43
 published_at: 2026-04-01T08:08:14Z
 video_id: capTmZrKDmM
+url: https://www.youtube.com/watch?v=capTmZrKDmM
 youtube_url: https://www.youtube.com/watch?v=capTmZrKDmM
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # JavaScript in 2026 by Christian Woerz
 
-**Speaker not identified**
+**Christian Woerz**
 
 `Devoxx` · `Devoxx` · `2026` · `43 min`
 

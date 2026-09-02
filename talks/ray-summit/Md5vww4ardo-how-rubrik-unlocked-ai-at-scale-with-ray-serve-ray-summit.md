@@ -12,6 +12,7 @@ channel: null
 duration_min: 14
 published_at: null
 video_id: Md5vww4ardo
+url: https://www.youtube.com/watch?v=Md5vww4ardo
 youtube_url: https://www.youtube.com/watch?v=Md5vww4ardo
 tags: []
 transcript: false

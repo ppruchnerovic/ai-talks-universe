@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Colleen Tartow"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2025-05-29T00:09:30Z
 video_id: XW8KNALU7tM
+url: https://www.youtube.com/watch?v=XW8KNALU7tM
 youtube_url: https://www.youtube.com/watch?v=XW8KNALU7tM
 tags: ["critical thinking", "AI strategy", "practical AI", "ChatGPT", "artificial intelligence", "machine learning", "AI implementation", "business AI", "AI adoption", "data quality", "data governance", "AI framework", "Python tutorial", "strategic planning", "decision making", "problem solving", "analytical thinking", "business strategy", "technology strategy", "risk assessment", "change management", "stakeholder management", "project management"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # No More BS: How and When to Really Leverage AI
 
-**Speaker not identified**
+**Colleen Tartow**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `26 min`
 

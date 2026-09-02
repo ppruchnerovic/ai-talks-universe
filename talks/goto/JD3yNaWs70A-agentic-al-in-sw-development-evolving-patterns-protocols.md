@@ -12,6 +12,7 @@ channel: null
 duration_min: 24
 published_at: null
 video_id: JD3yNaWs70A
+url: https://www.youtube.com/watch?v=JD3yNaWs70A
 youtube_url: https://www.youtube.com/watch?v=JD3yNaWs70A
 tags: []
 transcript: false

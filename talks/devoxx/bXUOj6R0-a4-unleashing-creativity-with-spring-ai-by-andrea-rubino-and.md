@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Andrea Rubino", "Matteo Codogno"]
 channel: "Devoxx"
 duration_min: 35
 published_at: 2025-01-20T19:58:29Z
 video_id: bXUOj6R0-a4
+url: https://www.youtube.com/watch?v=bXUOj6R0-a4
 youtube_url: https://www.youtube.com/watch?v=bXUOj6R0-a4
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unleashing Creativity with Spring AI by Andrea Rubino and Matteo Codogno
 
-**Speaker not identified**
+**Andrea Rubino, Matteo Codogno**
 
 `Devoxx` · `Devoxx` · `2025` · `35 min`
 

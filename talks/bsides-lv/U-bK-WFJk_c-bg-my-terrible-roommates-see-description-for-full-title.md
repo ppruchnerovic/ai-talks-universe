@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 17
 published_at: 2024-09-04T22:15:16Z
 video_id: U-bK-WFJk_c
+url: https://www.youtube.com/watch?v=U-bK-WFJk_c
 youtube_url: https://www.youtube.com/watch?v=U-bK-WFJk_c
 tags: ["RV7BRK"]
 transcript: false

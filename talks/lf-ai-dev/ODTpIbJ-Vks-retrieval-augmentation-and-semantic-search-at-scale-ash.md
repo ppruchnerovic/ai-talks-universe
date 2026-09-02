@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 32
 published_at: 2023-12-18T18:33:07Z
 video_id: ODTpIbJ-Vks
+url: https://www.youtube.com/watch?v=ODTpIbJ-Vks
 youtube_url: https://www.youtube.com/watch?v=ODTpIbJ-Vks
 tags: []
 transcript: false

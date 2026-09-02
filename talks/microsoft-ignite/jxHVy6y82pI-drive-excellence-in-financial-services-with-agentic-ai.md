@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Phani Damaraju", "Ravi Khokhar"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T11:52:25Z
 video_id: jxHVy6y82pI
+url: https://www.youtube.com/watch?v=jxHVy6y82pI
 youtube_url: https://www.youtube.com/watch?v=jxHVy6y82pI
 tags: ["33a3d0bf-41f5-4949-aad4-a86a235027b7_Segment", "BRKSP462", "Copilot and agents at work", "Drive excellence in financial services with agentic AI | BRKSP462", "English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Phani Damaraju", "Ravi Khokhar", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Drive excellence in financial services with agentic AI | BRKSP462
 
-**Speaker not identified**
+**Phani Damaraju, Ravi Khokhar**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sharon Schoenborn", "Ville Hemmilä", "Brendan Murphy", "Piotr Tomasz Paszczyk", "Bart van der Knaap"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-26T20:02:24Z
 video_id: zZ_e9FllzCw
+url: https://www.youtube.com/watch?v=zZ_e9FllzCw
 youtube_url: https://www.youtube.com/watch?v=zZ_e9FllzCw
 tags: ["Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK439", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025", "​Partner acceleration in the EMEA for Small and Medium Businesses | PBRK439"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # ​Partner acceleration in the EMEA for Small and Medium Businesses | PBRK439
 
-**Speaker not identified**
+**Sharon Schoenborn, Ville Hemmilä, Brendan Murphy, Piotr Tomasz Paszczyk, Bart van der Knaap**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

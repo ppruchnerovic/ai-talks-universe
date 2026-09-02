@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Marco Slot"]
 channel: "AI Council"
 duration_min: 39
 published_at: 2025-05-29T14:00:01Z
 video_id: HZArjlMB6W4
+url: https://www.youtube.com/watch?v=HZArjlMB6W4
 youtube_url: https://www.youtube.com/watch?v=HZArjlMB6W4
 tags: ["DuckDB tutorial", "PostgreSQL tutorial", "database architecture", "ChatGPT", "artificial intelligence", "machine learning", "SQL tutorial", "data analysis", "OLAP", "OLTP", "database integration", "analytical database", "transactional systems", "Python tutorial", "embedded database", "in process analytics", "columnar storage", "vectorized execution", "analytical queries", "data exploration", "interactive analytics", "SQL performance", "query engine", "database portability"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # DuckDB + PostgreSQL: Building a Data Warehouse Inside Your Favorite Database
 
-**Speaker not identified**
+**Marco Slot**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `39 min`
 

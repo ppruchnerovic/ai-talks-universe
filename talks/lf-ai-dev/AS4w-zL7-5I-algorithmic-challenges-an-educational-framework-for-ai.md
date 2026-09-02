@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 31
 published_at: 2023-12-18T18:31:33Z
 video_id: AS4w-zL7-5I
+url: https://www.youtube.com/watch?v=AS4w-zL7-5I
 youtube_url: https://www.youtube.com/watch?v=AS4w-zL7-5I
 tags: []
 transcript: false

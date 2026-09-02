@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Edo Segal", "Ziv Navoth"]
 channel: "Microsoft Developer"
 duration_min: 10
 published_at: 2026-06-03T13:35:15Z
 video_id: jVyhNmi3TWc
+url: https://www.youtube.com/watch?v=jVyhNmi3TWc
 youtube_url: https://www.youtube.com/watch?v=jVyhNmi3TWc
 tags: ["AI", "API", "Agents", "Azure", "Build collaborative agents into apps with APIs | ODSP926", "Developer Technologies", "Edo Segal", "Foundry Agents", "ODSP926", "ODSP926_v1", "Ziv Navoth", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build collaborative agents into apps with APIs | ODSP926
 
-**Speaker not identified**
+**Edo Segal, Ziv Navoth**
 
 `Microsoft Build` · `Build 2026` · `2026` · `10 min`
 

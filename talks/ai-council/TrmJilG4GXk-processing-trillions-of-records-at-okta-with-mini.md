@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Jake Thomas"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2024-04-19T05:00:14Z
 video_id: TrmJilG4GXk
+url: https://www.youtube.com/watch?v=TrmJilG4GXk
 youtube_url: https://www.youtube.com/watch?v=TrmJilG4GXk
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Processing Trillions of Records at Okta with Mini Serverless Databases
 
-**Speaker not identified**
+**Jake Thomas**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `27 min`
 

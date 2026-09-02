@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 42
 published_at: 2026-01-29T08:57:44Z
 video_id: dP6PhNHUrks
+url: https://www.youtube.com/watch?v=dP6PhNHUrks
 youtube_url: https://www.youtube.com/watch?v=dP6PhNHUrks
 tags: ["gut feeling", "hr", "talent intelligence", "workforce planning", "leadership", "talent acquisition", "strategy", "people", "skills", "future skills", "workforce", "employees", "talent", "AI", "automation", "future of hr"]
 transcript: true

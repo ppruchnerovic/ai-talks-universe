@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2025-04-16T00:00:00Z
 video_id: n9rjuBuShko
+url: https://www.youtube.com/watch?v=n9rjuBuShko
 youtube_url: https://www.youtube.com/watch?v=n9rjuBuShko
 tags: []
 transcript: false

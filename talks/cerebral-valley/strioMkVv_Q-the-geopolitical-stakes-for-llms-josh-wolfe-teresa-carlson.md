@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 22
 published_at: 2024-07-02T09:15:02Z
 video_id: strioMkVv_Q
+url: https://www.youtube.com/watch?v=strioMkVv_Q
 youtube_url: https://www.youtube.com/watch?v=strioMkVv_Q
 tags: []
 transcript: false

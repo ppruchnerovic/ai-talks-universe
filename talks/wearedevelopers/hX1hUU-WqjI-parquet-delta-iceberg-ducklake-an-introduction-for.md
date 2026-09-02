@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T11:30:00+00:00
 video_id: hX1hUU-WqjI
+url: https://www.youtube.com/watch?v=hX1hUU-WqjI
 youtube_url: https://www.youtube.com/watch?v=hX1hUU-WqjI
 tags: ["Data & Databases", "Data", "Data Lakes"]
 transcript: true

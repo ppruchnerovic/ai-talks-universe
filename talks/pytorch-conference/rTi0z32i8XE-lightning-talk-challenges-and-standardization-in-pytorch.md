@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Zesheng Zong", "Ashok Emani"]
 channel: "PyTorch"
 duration_min: 13
 published_at: null
 video_id: rTi0z32i8XE
+url: https://www.youtube.com/watch?v=rTi0z32i8XE
 youtube_url: https://www.youtube.com/watch?v=rTi0z32i8XE
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Lightning Talk: Challenges and Standardization in PyTorch Ecosystem... - Zesheng Zong & Ashok Emani
 
-**Speaker not identified**
+**Zesheng Zong, Ashok Emani**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `13 min`
 

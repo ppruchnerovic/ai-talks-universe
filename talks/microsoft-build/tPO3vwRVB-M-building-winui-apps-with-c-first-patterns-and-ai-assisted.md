@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Chris Anderson"]
 channel: "Microsoft Developer"
 duration_min: 27
 published_at: 2026-06-03T12:58:33Z
 video_id: tPO3vwRVB-M
+url: https://www.youtube.com/watch?v=tPO3vwRVB-M
 youtube_url: https://www.youtube.com/watch?v=tPO3vwRVB-M
 tags: ["Building WinUI Apps with C# First Patterns and AI Assisted Workflows | OD854", "C#", "Chris Anderson", "OD854", "OD854_v1", "WinUI", "Windows", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building WinUI Apps with C# First Patterns and AI Assisted Workflows | OD854
 
-**Speaker not identified**
+**Chris Anderson**
 
 `Microsoft Build` · `Build 2026` · `2026` · `27 min`
 

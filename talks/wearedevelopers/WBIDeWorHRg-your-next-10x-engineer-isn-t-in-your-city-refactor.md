@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 6
 published_at: 2026-07-09T12:45:00+00:00
 video_id: WBIDeWorHRg
+url: https://www.youtube.com/watch?v=WBIDeWorHRg
 youtube_url: https://www.youtube.com/watch?v=WBIDeWorHRg
 tags: ["People & Culture", "Agentic AI", "Business Intelligence", "Employer Branding", "Future of Work", "Mobility", "Motivation", "People & Culture", "Startups", "Talent & Recruiting", "Tools"]
 transcript: true

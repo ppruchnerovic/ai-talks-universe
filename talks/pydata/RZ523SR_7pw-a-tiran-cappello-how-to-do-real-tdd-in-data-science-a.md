@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 32
 published_at: 2025-11-21T16:26:06Z
 video_id: RZ523SR_7pw
+url: https://www.youtube.com/watch?v=RZ523SR_7pw
 youtube_url: https://www.youtube.com/watch?v=RZ523SR_7pw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: false

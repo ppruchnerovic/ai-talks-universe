@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Cassidy Williams", "Evan Boyle"]
 channel: "Microsoft Developer"
 duration_min: 47
 published_at: 2026-06-11T08:22:40Z
 video_id: 4cVkF40rgUc
+url: https://www.youtube.com/watch?v=4cVkF40rgUc
 youtube_url: https://www.youtube.com/watch?v=4cVkF40rgUc
 tags: ["Agentic SDLC", "Agents", "BRK203", "BRK203_v2", "Cassidy Williams", "DevTools", "Developer", "Developer Tools & Frameworks", "Evan Boyle", "From CLI to PR: Automating the path to merged code | BRK203", "GitHub", "GitHub Actions", "GitHub Copilot", "GitHub Copilot CLI", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # From CLI to PR: Automating the path to merged code | BRK203
 
-**Speaker not identified**
+**Cassidy Williams, Evan Boyle**
 
 `Microsoft Build` · `Build 2026` · `2026` · `47 min`
 

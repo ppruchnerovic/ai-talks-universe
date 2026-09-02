@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 29
 published_at: 2026-06-15T11:30:27Z
 video_id: 7Sy2gSoxu7o
+url: https://www.youtube.com/watch?v=7Sy2gSoxu7o
 youtube_url: https://www.youtube.com/watch?v=7Sy2gSoxu7o
 tags: ["AI DevCon London 2026 talks", "AI on digital canvases", "AI workflows", "Steve Ruiz on tldraw AI canvas", "ainativedev", "fairies.tldraw", "infinite canvas", "makereal", "real-time collaboration", "realtime drawing", "spatialized agents", "tldraw", "tldraw AI workflows", "vibe coding", "what is vibe coding"]
 transcript: true

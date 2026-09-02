@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 36
 published_at: null
 video_id: p5RymuFURBE
+url: https://www.youtube.com/watch?v=p5RymuFURBE
 youtube_url: https://www.youtube.com/watch?v=p5RymuFURBE
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Daniel Rosenwasser", "Seth Juarez"]
 channel: "Microsoft Developer"
 duration_min: 17
 published_at: 2026-06-05T14:50:15Z
 video_id: p3CvOAbs6G0
+url: https://www.youtube.com/watch?v=p3CvOAbs6G0
 youtube_url: https://www.youtube.com/watch?v=p3CvOAbs6G0
 tags: ["Daniel Rosenwasser", "LIVE155", "LIVE155_v1", "Seth Juarez", "TypeScript updates: Latest Features and What's next | LIVE155", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # TypeScript updates: Latest Features and What's next | LIVE155
 
-**Speaker not identified**
+**Daniel Rosenwasser, Seth Juarez**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

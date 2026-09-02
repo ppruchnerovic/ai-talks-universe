@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 23
 published_at: 2025-06-09T08:32:48Z
 video_id: Mm-fHvuj_00
+url: https://www.youtube.com/watch?v=Mm-fHvuj_00
 youtube_url: https://www.youtube.com/watch?v=Mm-fHvuj_00
 tags: ["LLM", "Software Architecture", "AI in Software", "Code Migration", "Developer Experience", "Engineering Leadership", "React Testing Library", "Engineering Culture Podcast", "Testing", "Migration", "Code Generation", "Artificial Intelligence"]
 transcript: false

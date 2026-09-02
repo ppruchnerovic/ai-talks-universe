@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T12:20:00+00:00
 video_id: z1kRfBwwFN8
+url: https://www.youtube.com/watch?v=z1kRfBwwFN8
 youtube_url: https://www.youtube.com/watch?v=z1kRfBwwFN8
 tags: ["AI Agents", "AI Coding Assistants", "AI Models", "AI Standards", "Anthropic", "APIs", "Agents", "Agentic AI", "Autonomous Systems", "Best Practices", "Case Study", "Claude", "Code Generation", "Developer Experience (DevEx)", "Documentation", "Future of Work", "Generative AI (GenAI)", "Integration", "LangChain", "Large Language Models (LLMs)", "LLMOps", "Prompt Engineering"]
 transcript: true

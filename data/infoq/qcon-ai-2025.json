@@ -1,0 +1,571 @@
+{
+  "edition": "qcon-ai-2025",
+  "name": "QCon AI New York 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:26:01+00:00",
+  "count": 28,
+  "talks": {
+    "5-principles-llm-behavior": {
+      "slug": "5-principles-llm-behavior",
+      "page_url": "https://www.infoq.com/presentations/5-principles-llm-behavior/",
+      "has_transcript": true,
+      "title": "Rules for Understanding Language Models",
+      "description": "Naomi Saphra discusses 5 rules governing language model behavior, breaking down why LLMs act like populations rather than individuals. She explains how tokenization creates strange semantic blind spots and highlights the mechanics of sycophancy, showing how models leverage subtle data associations to match user biases and demographics - even guessing political views based on favorite sports teams.\n\nNaomi Saphra is a current Kempner Research Fellow at Harvard University and incoming Assistant Professor at Boston University’s Faculty of Computing and Data Science starting 2026. She has worked at Google, Meta, and New York University and has consulted at several startups. Honored as a Rising Star in EECS by MIT and awarded Google Europe’s Scholarship for Students With Disabilities.",
+      "speakers": [
+        "Naomi Saphra"
+      ],
+      "duration_s": 2428,
+      "published_at": "2026-06-24T11:25:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-understandingllms.mp4",
+      "id": "iq-5-principles-llm-behavior",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 4989,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "agent-software-engineering": {
+      "slug": "agent-software-engineering",
+      "page_url": "https://www.infoq.com/presentations/agent-software-engineering/",
+      "has_transcript": true,
+      "title": "From Copy-Paste to Composition: Building Agents Like Real Software",
+      "description": "Jake Mannix discusses moving AI agents past chaotic \"1970s BASIC\" architectures. He shares how implementing an intermediate protocol layer allows engineering leaders to build versioned, encapsulated \"virtual tools.\" This design enables interface mapping, dynamic schema projection, and runtime taint tracking to proactively eliminate data exfiltration risks without slowing velocity.\n\nJake Mannix is a machine learning and distributed systems expert, currently serving as a Technical Fellow at Walmart Global Tech, where he focuses on AI and relevance engineering. With a rich background spanning roles at Salesforce, Twitter, LinkedIn, and Lucidworks, Mannix has led initiatives in search infrastructure, personalization, and recommender systems.",
+      "speakers": [
+        "Jake Mannix"
+      ],
+      "duration_s": 2936,
+      "published_at": "2026-07-22T11:57:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-buildingagents.mp4",
+      "id": "iq-agent-software-engineering",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7912,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-assisted-engineering": {
+      "slug": "ai-assisted-engineering",
+      "page_url": "https://www.infoq.com/presentations/ai-assisted-engineering/",
+      "has_transcript": true,
+      "title": "Leadership in AI-Assisted Engineering",
+      "description": "Justin Reock discusses the reality of AI’s impact on engineering, moving past anecdotes to hard data from DORA and DX research.  He explains the \"GenAI Divide\" - where 95% of pilots fail - and shares how leaders can use the SPACE and Core 4 frameworks to measure true ROI.  He explains how to balance speed with quality, reduce developer fear, and apply agentic solutions across the entire SDLC.\n\nJustin Reock is the Deputy CTO of DX (getdx.com), and is an engineer, speaker, writer, and software practice evangelist with over 20 years of experience working in various software roles. He is an outspoken thought leader, delivering enterprise solutions, numerous keynotes, technical leadership, various publications and community education on developer experience and productivity.",
+      "speakers": [
+        "Justin Reock"
+      ],
+      "duration_s": 3067,
+      "published_at": "2026-05-08T12:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-leadershipai.mp4",
+      "id": "iq-ai-assisted-engineering",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 8512,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-autonomy-continuum": {
+      "slug": "ai-autonomy-continuum",
+      "page_url": "https://www.infoq.com/presentations/ai-autonomy-continuum/",
+      "has_transcript": true,
+      "title": "Agents, Architecture, & Amnesia: Becoming AI-Native without Losing our Minds",
+      "description": "Tracy Bannon shares a cautionary tale of \"The Sorcerer’s Apprentice\" to illustrate the risks of unbridled AI autonomy. She discusses the shift from bots to autonomous agents, explaining how reckless speed leads to \"Architectural Amnesia.\" She provides a concrete framework for \"Minimum Viable Governance,\" focusing on identity, delegation, and ADRs to manage debt at machine speed across the SDLC.\n\nTracy Bannon is a Passionate Software Architect and Change Agent who writes, speaks, teaches, and practices her craft every day. As an accomplished software architect, engineer, and researcher, she has worked across commercial and government clients, understanding complex problems and working to deliver value at speed is what drives her.",
+      "speakers": [
+        "Tracy Bannon"
+      ],
+      "duration_s": 2826,
+      "published_at": "2026-04-29T14:15:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-agentsarchitecture.mp4",
+      "id": "iq-ai-autonomy-continuum",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6238,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-first-practices": {
+      "slug": "ai-first-practices",
+      "page_url": "https://www.infoq.com/presentations/ai-first-practices/",
+      "has_transcript": true,
+      "title": "AI-First Software Delivery: Balancing Innovation with Proven Practices",
+      "description": "Wes Reisz discusses the shift toward AI-first software delivery, emphasizing that agentic workflows are not one-size-fits-all.  He explains a strategic two-by-two model based on code longevity and automated verification to decide between supervised and unsupervised agents.  He shares the RIPER-5 framework - Research, Innovate, Plan, Execute, Review - to amplify engineering discipline.\n\nWes Reisz is Technical Principal @Thoughtworks, 16-time QCon Chair, & creator of the InfoQ Podcast.",
+      "speakers": [
+        "Wesley Reisz"
+      ],
+      "duration_s": 3033,
+      "published_at": "2026-05-06T11:12:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-aifirstsoftwaredelivery.mp4",
+      "id": "iq-ai-first-practices",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7982,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-framework-data-infrastructure": {
+      "slug": "ai-framework-data-infrastructure",
+      "page_url": "https://www.infoq.com/presentations/ai-framework-data-infrastructure/",
+      "has_transcript": true,
+      "title": "Autonomous Data Products for the Autonomous Era: Rethinking Data Architecture for GenAI",
+      "description": "Jörg Schad explains how to tame the complex \"data management hairball\" to build scalable, safe architectures for AI. He shares how autonomous data products act like containers for data, encapsulating pipelines, schemas, and metadata. Discover how progressive tool discovery via protocols like MCP limits context rot, enforces governance policies, and ensures reliable, multi-modal access.\n\nDr. Jörg Schad has been working on the intersection of data management, databases, and machine learning. He is currently focused on operationalizing decentralized data management systems using Data Mesh. In his previous life, he enjoyed working with graph databases, analytics, and machine learning as CTO at ArangoDB.",
+      "speakers": [
+        "Jörg Schad"
+      ],
+      "duration_s": 3208,
+      "published_at": "2026-07-24T13:30:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-rethinkingdataarch.mp4",
+      "id": "iq-ai-framework-data-infrastructure",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7490,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-gateway-scalability": {
+      "slug": "ai-gateway-scalability",
+      "page_url": "https://www.infoq.com/presentations/ai-gateway-scalability/",
+      "has_transcript": true,
+      "title": "The AI Gateway: Scaling Centralized Inference across Decentralized Teams",
+      "description": "Meryem Arik discusses why modern engineering teams face \"inference chaos\" and how AI model gateways provide a critical control layer. She explains the balance between empowering decentralized teams to choose the best models and maintaining centralized oversight for security, RBAC, and cost control.  Explore open-source solutions like LiteLLM and Doubleword to streamline your AI infra.\n\nMeryem Arik is the Co-founder and CEO of Doubleword (previously TitanML). She frequently speaks at leading conferences, including TEDx and QCon, sharing insights on inference technology and enterprise AI. Meryem has been recognized as a Forbes 30 Under 30 honoree for her contributions to the AI field.",
+      "speakers": [
+        "Meryem Arik"
+      ],
+      "duration_s": 2811,
+      "published_at": "2026-05-20T12:40:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-aigateway.mp4",
+      "id": "iq-ai-gateway-scalability",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6708,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-large-scale-engineering-systems": {
+      "slug": "ai-large-scale-engineering-systems",
+      "page_url": "https://www.infoq.com/presentations/ai-large-scale-engineering-systems/",
+      "has_transcript": true,
+      "title": "Using AI as a Thinking Partner for Large-Scale Engineering Systems",
+      "description": "Julie Qiu explains how AI serves as a \"thinking partner\" for engineering leaders. She discusses five distinct roles - Archaeologist, Experimenter, Critic, Author, and Reviewer - to manage the cognitive load of 400+ repositories. She shares how AI provides the \"RAM\" needed to synthesize legacy context, pressure-test designs, and accelerate high-level architectural decisions.\n\nJulie Qiu is the Uber Tech Lead for the Cloud Software Development Kit (SDK) at Google, where she builds client libraries and command line tools across different language ecosystems to interact with Google Cloud products. Previously, Julie was a tech lead on the Go Security team, where she spearheaded Go's support for vulnerability management and Go's package discovery site, pkg.go.dev.",
+      "speakers": [
+        "Julie Qiu"
+      ],
+      "duration_s": 2530,
+      "published_at": "2026-05-15T13:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-thinkingpartner.mp4",
+      "id": "iq-ai-large-scale-engineering-systems",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7823,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-lead-interview": {
+      "slug": "ai-lead-interview",
+      "page_url": "https://www.infoq.com/presentations/ai-lead-interview/",
+      "has_transcript": true,
+      "title": "Getting Rid of LeetCode Interviews in the World of AI",
+      "description": "Daniel Doubrovkine explains why traditional LeetCode whiteboard interviews fail to evaluate senior engineering talent. He discusses his own experience bombing basic algorithm tests despite decades of leadership, and shares actionable frameworks for redefining the interview loop. Discover how evaluating human judgment, system design, and hands-on AI collaboration yields far better hiring signals.\n\nDaniel Doubrovkine is a seasoned Entrepreneur, people leader, open-source enthusiast, and lifetime artist. Daniel is former CTO of Artsy.net, led the Augmented Engineering team at Shopify, and served as Principal Engineer at AWS in New York, working on OpenSearch.",
+      "speakers": [
+        "Daniel Doubrovkine"
+      ],
+      "duration_s": 2805,
+      "published_at": "2026-07-29T10:25:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-leetcodeinterviews.mp4",
+      "id": "iq-ai-lead-interview",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7256,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-multi-agentic-tools": {
+      "slug": "ai-multi-agentic-tools",
+      "page_url": "https://www.infoq.com/presentations/ai-multi-agentic-tools/",
+      "has_transcript": true,
+      "title": "Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin",
+      "description": "LinkedIn’s Karthik Ramgopal and Prince Valluri discuss leveraging AI as a new execution model for large-scale engineering. They explain how to move beyond fragmented implementations by building platform abstractions for orchestration, structured context, and safe tooling like MCP. They share architectural insights from real-world coding, observation, and UI testing agents built at LinkedIn.\n\nKarthik Ramgopal is Distinguished Engineer and the Uber technical lead for the Product Engineering team at LinkedIn. Prince Valluri is Principal Engineer, specializing in Developer Productivity for 10+ years. Tech Lead for boosting productivity for 10,000+ LinkedIn engineers with AI.",
+      "speakers": [
+        "Karthik Ramgopal",
+        "Prince Valluri"
+      ],
+      "duration_s": 2497,
+      "published_at": "2026-06-05T12:23:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-platformteamsai.mp4",
+      "id": "iq-ai-multi-agentic-tools",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6305,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-native-engineering": {
+      "slug": "ai-native-engineering",
+      "page_url": "https://www.infoq.com/presentations/ai-native-engineering/",
+      "has_transcript": true,
+      "title": "AI Native Engineering",
+      "description": "Ian Thomas shares a case study on embracing AI-native engineering within Meta’s Reality Labs. He explains the \"Assess and Grow\" framework, a maturity model designed to move teams from manual toil to AI-integrated innovation. He discusses real-world wins - including hitting 90% code coverage in record time - while addressing senior concerns like \"code slop,\" review fatigue, and maintaining quality.\n\nIan Thomas is a Software Engineer at Meta currently leading teams building Horizon Worlds across web, mobile and VR platforms. Previously, he helped lead development of Workplace and Horizon Workrooms after spending nearly a decade building sports betting systems for Sky Bet and PokerStars.",
+      "speakers": [
+        "Ian Thomas"
+      ],
+      "duration_s": 2994,
+      "published_at": "2026-05-22T09:18:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-ainativeeng.mp4",
+      "id": "iq-ai-native-engineering",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 9553,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-platforms-reliability": {
+      "slug": "ai-platforms-reliability",
+      "page_url": "https://www.infoq.com/presentations/ai-platforms-reliability/",
+      "has_transcript": true,
+      "title": "Designing AI Platforms for Reliability: Tools for Certainty, Agents for Discovery",
+      "description": "Aaron Erickson discusses the evolution of AI workflows, shifting from \"vibe checking\" to building reliable, multi-agent frameworks. He explains how to combine deterministic software guardrails with agentic discovery, optimize agent hierarchies, leverage time-series foundation models, and implement rigorous evaluation pyramids to ensure architecture scales effectively in production.\n\nAaron Erickson founded the Applied AI Lab for DGX Cloud at NVIDIA, which specializes in building foundation models and agentic systems to solve broad industry problems like time series-based anomaly detection. Previously, he held engineering leadership roles at ThoughtWorks and New Relic before founding Orgspace.",
+      "speakers": [
+        "Aaron Erickson"
+      ],
+      "duration_s": 3126,
+      "published_at": "2026-05-27T09:04:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-apiplatforms.mp4",
+      "id": "iq-ai-platforms-reliability",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 9242,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-products": {
+      "slug": "ai-products",
+      "page_url": "https://www.infoq.com/presentations/ai-products/",
+      "has_transcript": true,
+      "title": "The Next Generation of AI Products",
+      "description": "Hilary Mason shares her journey from academia to building AI products at scale.  She discusses the shift from discrete engineering to probabilistic mindsets, explaining why managing \"human considerations\" is the hardest part of the stack.  She explains the \"existential crisis\" for engineers, arguing that great architecture today is about context management, systems thinking, and good taste.\n\nHilary Mason's career is defined by pushing the limits of what big data and artificial intelligence can achieve. She is co-founder and CEO of Hidden Door, a place for fans to find, discover, and play in their favorite fictional worlds.",
+      "speakers": [
+        "Hilary Mason"
+      ],
+      "duration_s": 2946,
+      "published_at": "2026-05-01T09:23:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-nextgenaiprods.mp4",
+      "id": "iq-ai-products",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7599,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "ai-sdlc-pull-request": {
+      "slug": "ai-sdlc-pull-request",
+      "page_url": "https://www.infoq.com/presentations/ai-sdlc-pull-request/",
+      "has_transcript": true,
+      "title": "AI Works, Pull Requests Don’t: How AI is Breaking the SDLC and What to Do about it",
+      "description": "Michael Webster discusses the rise of headless AI agents and their impact on software delivery pipelines. He shares how massive, AI-generated pull requests create a severe bottleneck for human reviewers and introduce persistent technical debt. Learn how engineering leaders can leverage test impact analysis and automated validation pipelines to verify agentic output without sacrificing stability.\n\nMichael Webster has more than a decade of experience building distributed systems and developer tools and dabbling in product and business strategy. These days, he is interested in understanding how to best use AI to make better software.",
+      "speakers": [
+        "Michael Webster"
+      ],
+      "duration_s": 1941,
+      "published_at": "2026-06-26T14:17:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-breakingsdlc.mp4",
+      "id": "iq-ai-sdlc-pull-request",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 5721,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "chaos-engineering-gpu": {
+      "slug": "chaos-engineering-gpu",
+      "page_url": "https://www.infoq.com/presentations/chaos-engineering-gpu/",
+      "has_transcript": true,
+      "title": "Chaos Engineering GPU Clusters",
+      "description": "Bryan Oliver discusses the frontier of AI infrastructure: chaos engineering for large-scale GPU clusters. He shares how engineering leaders can handle complex topologies, network protocols like RDMA, and NUMA misalignments. Discover seven practical fault-injection strategies to maximize multi-million dollar hardware efficiency and build robust observability loops.\n\nBryan Oliver is an engineer who designs and builds complex distributed systems. For the last 3 years he has been focused on Platforms, GPU Infrastructure, and cloud native at Thoughtworks. He gets invited to speak at conferences all over the globe. He's also a multi-published author with Manning, Effective Platform Engineering, and with O'Reilly, Designing Cloud Native Delivery Systems.",
+      "speakers": [
+        "Bryan Oliver"
+      ],
+      "duration_s": 3022,
+      "published_at": "2026-07-10T13:42:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-gpuclusters.mp4",
+      "id": "iq-chaos-engineering-gpu",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7451,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "choosing-ai-copilot": {
+      "slug": "choosing-ai-copilot",
+      "page_url": "https://www.infoq.com/presentations/choosing-ai-copilot/",
+      "has_transcript": true,
+      "title": "Choosing Your AI Copilot: Maximizing Developer Productivity",
+      "description": "Sepehr Khosravi discusses the evolution of developer productivity tools. Evaluating the strengths of tools like Cursor and Claude Code, he explains actionable techniques for senior engineers - including context engineering, custom rules, and Model Context Protocol (MCP) integrations. He shares real-world benchmarks and strategic frameworks for balancing AI adoption with clean code quality.\n\nSepehr Khosravi is a software engineer at Coinbase working on machine learning infrastructure, and an instructor at UC Berkeley where he teaches courses on generative AI and rapid product development. He's also the founder of AI Scouts, a free program teaching students how to build AI-powered apps from scratch.",
+      "speakers": [
+        "Sepehr Khosravi"
+      ],
+      "duration_s": 3105,
+      "published_at": "2026-06-03T11:05:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-aicopilot.mp4",
+      "id": "iq-choosing-ai-copilot",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 9119,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "context-engineering-data": {
+      "slug": "context-engineering-data",
+      "page_url": "https://www.infoq.com/presentations/context-engineering-data/",
+      "has_transcript": true,
+      "title": "Beyond Prompting: Context Engineering and Memory Management for AI Systems at Scale",
+      "description": "Adi Polak discusses the architecture required to transition from stateless prompts to state-aware, context-rich AI agents. Drawing on 15 years in distributed systems, she shares how engineering leaders can leverage Apache Kafka and Flink for real-time stream processing, dynamic memory tiering, and tool orchestration via MCP to solve token limits, cost spikes, and latency bottlenecks.\n\nAdi Polak is an experienced Software Engineer and people manager. She has worked with data and machine learning for operations and analytics for over a decade. As a manager, Adi builds high-performance teams focused on trust, excellence, and ownership.",
+      "speakers": [
+        "Adi Polak"
+      ],
+      "duration_s": 3155,
+      "published_at": "2026-06-10T12:03:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-beyondprompting.mp4",
+      "id": "iq-context-engineering-data",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 8064,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "data-aware-ai-agents": {
+      "slug": "data-aware-ai-agents",
+      "page_url": "https://www.infoq.com/presentations/data-aware-ai-agents/",
+      "has_transcript": false,
+      "title": "AI Agents to Make Sense of Data at OpenAI",
+      "description": "OpenAI’s Bonnie Xu discusses Kepler, an internal AI data analyst agent built to query 600+ petabytes of data. She explains how they overcome context window limits using MCP, automated code crawling, and RAG. Xu also shares how their team leverages scoped semantic memory for self-learning and utilizes AST-based LLM grading to build a robust, regression-free evaluation pipeline.\n\nBonnie Xu is a software engineer and the tech lead of the Data Productivity team at OpenAI, where she built an AI-powered data tool from the ground up to help teams explore and understand data more intelligently. Before joining OpenAI, she spent four years at Stripe working on Data Platform and previously held engineering roles at Meta and Google.",
+      "speakers": [
+        "Bonnie Xu"
+      ],
+      "duration_s": 2689,
+      "published_at": "2026-06-19T12:02:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-dataopenai.mp4",
+      "id": "iq-data-aware-ai-agents",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6537,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "deepfakes-ai": {
+      "slug": "deepfakes-ai",
+      "page_url": "https://www.infoq.com/presentations/deepfakes-ai/",
+      "has_transcript": true,
+      "title": "Deepfakes, Disinformation, and AI Content are Taking over the Internet",
+      "description": "Shuman Ghosemajumder explains how generative AI has transformed from a creative curiosity into a high-scale tool for disinformation and fraud. He shares insights on \"Disinformation Automation,\" the fallacy of CAPTCHA in an AI world, and why engineering leaders must adopt zero-trust \"cyber fusion\" strategies to defend against automated attacks that mimic human behavior with chilling accuracy.\n\nShuman Ghosemajumder founded the Trust & Safety product group at Google and helped launch Gmail. He was later CTO of Shape Security, which was acquired for $1B by F5 (NASDAQ:FFIV), where he became Global Head of AI. He is currently co-founder and CEO of Reken, a venture-backed AI cybersecurity startup.",
+      "speakers": [
+        "Shuman Ghosemajumder"
+      ],
+      "duration_s": 2942,
+      "published_at": "2026-04-24T09:55:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-deepfakesai.mp4",
+      "id": "iq-deepfakes-ai",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7214,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "eval-ai-adoption": {
+      "slug": "eval-ai-adoption",
+      "page_url": "https://www.infoq.com/presentations/eval-ai-adoption/",
+      "has_transcript": false,
+      "title": "Building Evals for AI Adoption: from Principles to Practice",
+      "description": "Mallika Rao discusses the hidden risk of evaluation debt in production AI systems, drawing on her experience at Twitter, Walmart, and Netflix. She explains why traditional metrics fail modern architectures, breaks down a five-layer evaluation stack spanning infrastructure and UX, and shares a diagnostic maturity model to help engineering leaders eliminate silent semantic failures.\n\nMallika Rao has been an Engineering Leader at Twitter, Walmart and Netflix with deep expertise in building and operating large-scale distributed systems. She brings a systems-thinking mindset to infrastructure strategy and is passionate about integrating AI into product and engineering in ways that enhance resilience, transparency, and operational excellence.",
+      "speakers": [
+        "Mallika Rao"
+      ],
+      "duration_s": 3178,
+      "published_at": "2026-05-29T12:00:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-buildingevals.mp4",
+      "id": "iq-eval-ai-adoption",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6795,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "graph-rag-llm": {
+      "slug": "graph-rag-llm",
+      "page_url": "https://www.infoq.com/presentations/graph-rag-llm/",
+      "has_transcript": true,
+      "title": "Graph RAG: Building Smarter Retrieval Workflows with Knowledge Graphs",
+      "description": "Cassie Shum discusses the architectural evolution of GraphRAG and why data foundations are critical for advanced AI workflows. She explains how traditional vector RAG falls short when addressing global context, multi-hop reasoning, and provenance. She shares enterprise strategies for building semantically structured knowledge graphs that shift raw orchestrating logic down to the data layer.\n\nCassie Shum is the VP of Field Engineering of RelationalAI and leads a team to bring a cloud-native knowledge graph data management system. She was the Head and Technical Director for Architecture and Development in North America. She was a member of the ThoughtWorks Technology Advisory Board and contributed to the creation of the ThoughtWorks Technology Radar.",
+      "speakers": [
+        "Cassie Shum"
+      ],
+      "duration_s": 3054,
+      "published_at": "2026-07-01T14:01:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-graphrag.mp4",
+      "id": "iq-graph-rag-llm",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7696,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "llm-compound-ai-systems": {
+      "slug": "llm-compound-ai-systems",
+      "page_url": "https://www.infoq.com/presentations/llm-compound-ai-systems/",
+      "has_transcript": true,
+      "title": "From Hype to Strong Foundations: What the Rise, Fall and Resurgence of Agents Can Teach Us about Outlasting the Cycle",
+      "description": "Aditya Kumarakrishnan explains how to move past the \"amnesia phase\" of AI. He shares a blueprint for engineering leaders to build modular agent frameworks using CoALA, leverage decades of process science for scalable workflows, and \"terraform\" legacy environments into robust, event-sourced artifacts capable of handling unpredictable, cross-functional agent demands.\n\nAditya Kumarakrishnan is a self-described lover of shaving yaks, an admirer of Chesterton's fences and enjoyer of obscure references. Along with his extensive experience in building complex distributed systems to big data and real-time ML instructure, Aditya tries to bring a first-principles, historically grounded and formally sound perspective to solving problems.",
+      "speakers": [
+        "Aditya Kumarakrishnan"
+      ],
+      "duration_s": 3024,
+      "published_at": "2026-06-17T11:04:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-outlastingcycle.mp4",
+      "id": "iq-llm-compound-ai-systems",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7391,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "multi-agent-ai-architecture": {
+      "slug": "multi-agent-ai-architecture",
+      "page_url": "https://www.infoq.com/presentations/multi-agent-ai-architecture/",
+      "has_transcript": true,
+      "title": "The Multi-Agent Approach: Building Reliable and Controllable Software Development Automation",
+      "description": "Itamar Friedman discusses how architects and engineering leaders can break through the AI productivity ceiling using adaptive multi-agent systems. He shares insights on moving past simple autocomplete to resilient workflows by integrating autonomous testing, intelligent code review, and robust arbitration. Learn how to govern agent communication and build a context-driven SDLC that scales.\n\nItamar Friedman is Founder & CEO at Qodo, building AI-powered code governance solutions after 20+ years leading machine learning innovation and competition-winning teams. His previous company was acquired by Alibaba, where he worked on large-scale AI-powered products and led initiatives in AI model usage and training automation.",
+      "speakers": [
+        "Itamar Friedman"
+      ],
+      "duration_s": 2999,
+      "published_at": "2026-07-08T14:06:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-multiagentapproach.mp4",
+      "id": "iq-multi-agent-ai-architecture",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6667,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "multi-agent-system-lessons": {
+      "slug": "multi-agent-system-lessons",
+      "page_url": "https://www.infoq.com/presentations/multi-agent-system-lessons/",
+      "has_transcript": true,
+      "title": "What I Learned Building Multi-Agent Systems from Scratch",
+      "description": "Paulo Arruda discusses Shopify’s evolution in AI adoption, moving from simple chat tools to a sophisticated swarm of specialized agents. He explains the transition from massive \"all-in-one\" prompts to lean, narrow-focused agent microservices that slash task times from hours to minutes. He also shares a future-looking hypothesis on using filesystem-based adapters to solve context bloat.\n\nPaulo Arruda is a staff engineer at Shopify, helping shape AI orchestration strategy for Revenue Data after serving as tech lead for the company's Augmented Engineering Developer Experience team. Creator of Claude Swarm (1.4k+ GitHub stars) and its successor SwarmSDK. Paulo combines platform thinking with pragmatic skepticism, advocating for AI that augments rather than replaces developers.",
+      "speakers": [
+        "Paulo Arruda"
+      ],
+      "duration_s": 2128,
+      "published_at": "2026-05-13T12:01:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-multiagentsys.mp4",
+      "id": "iq-multi-agent-system-lessons",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 4731,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "otel-slm-ai": {
+      "slug": "otel-slm-ai",
+      "page_url": "https://www.infoq.com/presentations/otel-slm-ai/",
+      "has_transcript": true,
+      "title": "From OTEL to SLMs: Distilling Frontier Model Behaviour from Production Telemetry",
+      "description": "Ben O'Mahony discusses building custom AI-powered Language Server Protocols (LSPs) that go beyond standard rule-based checkers. He explains how to instrument AI agents natively with OpenTelemetry to track concrete user actions (accepting, dismissing, or regenerating code fixes) as implicit labels, creating a continuous data flywheel to distill frontier capabilities into cheaper, local SLMs.\n\nBen O'Mahony is a highly accomplished Principal AI Engineer and Innovator who specializes in building AI Agent Products and Platforms that work. He excels at designing, deploying, and optimizing scalable, cost-effective solutions for enterprise clients. A recognized industry expert, Ben is also a sought-after conference speaker and author of the O'Reilly book: Building AI Agent Platforms.",
+      "speakers": [
+        "Ben O'Mahony"
+      ],
+      "duration_s": 2681,
+      "published_at": "2026-07-17T13:17:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-otelslms.mp4",
+      "id": "iq-otel-slm-ai",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 5900,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "postgres-ai-agents": {
+      "slug": "postgres-ai-agents",
+      "page_url": "https://www.infoq.com/presentations/postgres-ai-agents/",
+      "has_transcript": true,
+      "title": "Postgres for Production Agents: Your Relational Foundation for Enterprise AI",
+      "description": "Gwen Shapira shares how teams are scaling AI features using PostgreSQL for mission-critical apps. She explains how to leverage Postgres's multi-modal capabilities - including JSONB parsing and high-recall HNSW vector indexing - to deliver deterministic and semantic context to LLMs. She also discusses vector quantization to speed up queries by 4x and strategies for managing agentic memory.\n\nGwen Shapira is a co-founder and CPO of Nile (thenile.dev). She has 20+ years of experience working with code and customers to build reliable and scalable data architectures - most recently as the head of Cloud Native Kafka engineering org at Confluent. Gwen is a committer to Apache Kafka, author of “Kafka - the Definitive Guide” and \"Hadoop Application Architectures\".",
+      "speakers": [
+        "Gwen Shapira"
+      ],
+      "duration_s": 2852,
+      "published_at": "2026-07-15T12:57:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-postgresprodagents.mp4",
+      "id": "iq-postgres-ai-agents",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6918,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "refactoring-ai-agents": {
+      "slug": "refactoring-ai-agents",
+      "page_url": "https://www.infoq.com/presentations/refactoring-ai-agents/",
+      "has_transcript": true,
+      "title": "Moving Mountains: Migrating Legacy Code in Weeks Instead of Years",
+      "description": "David Stein shares how to rethink large-scale architectural migrations using AI. He discusses ServiceTitan's \"assembly line\" pattern, explaining how decomposing legacy codebase refactoring into standardized tasks can achieve massive parallelization. He highlights the critical role of programmatically rigid validation loops to eliminate LLM hallucinations and accelerate engineering agility.\n\nDavid Stein is a principal AI engineer at ServiceTitan, leading work on agent evaluations — predicting performance before release and monitoring success in production to bring engineering rigor to AI deployments. He also works on upgrading ServiceTitan's data platform for use by both humans and AI agents.",
+      "speakers": [
+        "David Stein"
+      ],
+      "duration_s": 3010,
+      "published_at": "2026-06-12T09:24:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-migratinglegacycode.mp4",
+      "id": "iq-refactoring-ai-agents",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 6306,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    },
+    "rft-openai-model": {
+      "slug": "rft-openai-model",
+      "page_url": "https://www.infoq.com/presentations/rft-openai-model/",
+      "has_transcript": true,
+      "title": "Fine Tuning the Enterprise: Reinforcement Learning in Practice",
+      "description": "The speakers discuss Agent RFT, OpenAI’s platform for fine-tuning reasoning models via real-time tool interactions and custom reward signals. They explain how reinforcement learning solves complex credit assignment challenges within the context window. They share enterprise success stories, showing how Agent RFT eliminates long-tail token loops and drives extreme efficiency.\n\nWenjie Zi is member of Technical Staff @OpenAI, community leader building TAPNET, previously @Grammarly, 10+ years of industrial experience in AI applications. Will Hang is member of Technical Staff @OpenAI, former founder, previously @DeepMind, @Google Brain, @Snorkel AI.",
+      "speakers": [
+        "Wenjie Zi",
+        "Will Hang"
+      ],
+      "duration_s": 2927,
+      "published_at": "2026-07-03T09:22:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-dec-maxdevprod.mp4",
+      "id": "iq-rft-openai-model",
+      "matched_youtube": false,
+      "edition": "qcon-ai-2025",
+      "edition_name": "QCon AI New York 2025",
+      "year": 2025,
+      "transcript_words": 7358,
+      "fetched_at": "2026-09-01T21:26:01+00:00"
+    }
+  }
+}

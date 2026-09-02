@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 47
 published_at: 2025-08-27T16:04:33Z
 video_id: s49sgre_04c
+url: https://www.youtube.com/watch?v=s49sgre_04c
 youtube_url: https://www.youtube.com/watch?v=s49sgre_04c
 tags: []
 transcript: false

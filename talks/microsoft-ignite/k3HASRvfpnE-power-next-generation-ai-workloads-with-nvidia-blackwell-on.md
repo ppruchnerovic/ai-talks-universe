@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Dave Salvator"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-24T12:46:29Z
 video_id: k3HASRvfpnE
+url: https://www.youtube.com/watch?v=k3HASRvfpnE
 youtube_url: https://www.youtube.com/watch?v=k3HASRvfpnE
 tags: ["4e412b9c-a546-4291-a734-d898e8cac3ee_Segment", "Agentic business applications", "BRKSP490", "Dave Salvator", "English (US)", "Innovate with Azure AI apps and agents", "Media and Entertainment", "Power next-generation AI workloads with NVIDIA Blackwell on Azure | BRKSP490", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Power next-generation AI workloads with NVIDIA Blackwell on Azure | BRKSP490
 
-**Speaker not identified**
+**Dave Salvator**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

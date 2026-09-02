@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 34
 published_at: 2023-11-21T20:00:01Z
 video_id: lj5NjKHuFlo
+url: https://www.youtube.com/watch?v=lj5NjKHuFlo
 youtube_url: https://www.youtube.com/watch?v=lj5NjKHuFlo
 tags: ["AI", "Large Language Models", "OpenAI", "ChatGPT"]
 transcript: false

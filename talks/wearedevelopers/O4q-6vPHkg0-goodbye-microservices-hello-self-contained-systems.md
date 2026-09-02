@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 14
 published_at: 2026-07-09T08:10:00+00:00
 video_id: O4q-6vPHkg0
+url: https://www.youtube.com/watch?v=O4q-6vPHkg0
 youtube_url: https://www.youtube.com/watch?v=O4q-6vPHkg0
 tags: ["Software Architecture", "Microservices", "Software Architecture"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Brenna Buuck"]
 channel: "AI Council"
 duration_min: 12
 published_at: 2024-04-19T05:00:25Z
 video_id: sOKaUEBBH6w
+url: https://www.youtube.com/watch?v=sOKaUEBBH6w
 youtube_url: https://www.youtube.com/watch?v=sOKaUEBBH6w
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Redefining Database Workloads: The Future with Modern Object Storage
 
-**Speaker not identified**
+**Brenna Buuck**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `12 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sarah Bird", "Natasha Crampton", "Florent Ricci", "Vivek Sinha", "Ian Swanson"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-21T10:17:57Z
 video_id: QQCQyq48USM
+url: https://www.youtube.com/watch?v=QQCQyq48USM
 youtube_url: https://www.youtube.com/watch?v=QQCQyq48USM
 tags: ["BRK212", "English (US)", "Florent Ricci", "Ian Swanson", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Natasha Crampton", "Sarah Bird", "Technical", "Trustworthy AI at Microsoft: From commitments to capabilities | BRK212", "Vivek Sinha", "d235c58e-8aea-48bc-9d67-3850b3a60adc_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Trustworthy AI at Microsoft: From commitments to capabilities | BRK212
 
-**Speaker not identified**
+**Sarah Bird, Natasha Crampton, Florent Ricci, Vivek Sinha, Ian Swanson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

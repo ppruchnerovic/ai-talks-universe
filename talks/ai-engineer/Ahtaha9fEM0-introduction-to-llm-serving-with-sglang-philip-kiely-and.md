@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Philip Kiely", "Yineng Zhang"]
 channel: "AI Engineer"
 duration_min: 44
 published_at: 2025-07-26T17:45:00Z
 video_id: Ahtaha9fEM0
+url: https://www.youtube.com/watch?v=Ahtaha9fEM0
 youtube_url: https://www.youtube.com/watch?v=Ahtaha9fEM0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Introduction to LLM serving with SGLang - Philip Kiely and Yineng Zhang, Baseten
 
-**Speaker not identified**
+**Philip Kiely, Yineng Zhang**
 
 `AI Engineer` · `AI Engineer` · `2025` · `44 min`
 

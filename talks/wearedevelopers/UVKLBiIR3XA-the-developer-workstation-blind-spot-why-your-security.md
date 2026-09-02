@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 25
 published_at: 2026-07-10T09:40:00+00:00
 video_id: UVKLBiIR3XA
+url: https://www.youtube.com/watch?v=UVKLBiIR3XA
 youtube_url: https://www.youtube.com/watch?v=UVKLBiIR3XA
 tags: ["Security & Privacy", "AI Coding Assistants", "DevSecOps", "Safety", "Secure Coding", "Security"]
 transcript: true

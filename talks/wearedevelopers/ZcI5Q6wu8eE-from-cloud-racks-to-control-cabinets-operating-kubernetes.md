@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-09T14:50:00+00:00
 video_id: ZcI5Q6wu8eE
+url: https://www.youtube.com/watch?v=ZcI5Q6wu8eE
 youtube_url: https://www.youtube.com/watch?v=ZcI5Q6wu8eE
 tags: ["Cloud & AI Infrastructure", "CI/CD", "Containers", "Embedded Systems", "GitOps", "Infrastructure", "Internet of Things (IoT)", "Observability", "On-Premise", "OpenTelemetry", "Software Architecture", "System Design"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 41
 published_at: 2025-12-17T09:19:03Z
 video_id: k9kUe8WFMfs
+url: https://www.youtube.com/watch?v=k9kUe8WFMfs
 youtube_url: https://www.youtube.com/watch?v=k9kUe8WFMfs
 tags: ["unlearning", "learning", "people", "culture", "hr", "leadership", "future of work", "skills", "resilience", "uncertainty", "failure culture"]
 transcript: false

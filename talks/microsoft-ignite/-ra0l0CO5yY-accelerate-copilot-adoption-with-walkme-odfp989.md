@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Arik Abel"]
 channel: "Microsoft Events"
 duration_min: 12
 published_at: 2024-11-20T11:08:46Z
 video_id: -ra0l0CO5yY
+url: https://www.youtube.com/watch?v=-ra0l0CO5yY
 youtube_url: https://www.youtube.com/watch?v=-ra0l0CO5yY
 tags: ["Accelerate Copilot adoption with WalkMe | ODFP989", "Copilot", "Copilot for M365", "Enterprise work management", "Foundational (100)", "Microsoft 365", "Microsoft Copilot", "ODFP989", "Pre-recorded", "Product management", "Program management", "Task Management", "Technical", "Work management", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerate Copilot adoption with WalkMe | ODFP989
 
-**Speaker not identified**
+**Arik Abel**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `12 min`
 

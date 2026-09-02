@@ -7,11 +7,12 @@ conference_name: "Databricks Data + AI Summit"
 category: "Vendor & platform"
 edition: "DAIS 2026"
 year: 2026
-speakers: ["Director of Product"]
+speakers: []
 channel: "Databricks"
 duration_min: 20
 published_at: 2026-06-24T22:03:01Z
 video_id: xkbu_ix1nWU
+url: https://www.youtube.com/watch?v=xkbu_ix1nWU
 youtube_url: https://www.youtube.com/watch?v=xkbu_ix1nWU
 tags: ["Databricks"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Solving AI development bottlenecks with Databricks App (with demo)
 
-**Director of Product**
+**Speaker not identified**
 
 `Databricks Data + AI Summit` · `DAIS 2026` · `2026` · `20 min`
 

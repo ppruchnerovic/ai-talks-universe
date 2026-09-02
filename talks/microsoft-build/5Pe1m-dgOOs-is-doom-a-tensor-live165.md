@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Anthony Shaw", "Burke Holland"]
 channel: "Visual Studio Code"
 duration_min: 17
 published_at: 2026-06-05T13:39:16Z
 video_id: 5Pe1m-dgOOs
+url: https://www.youtube.com/watch?v=5Pe1m-dgOOs
 youtube_url: https://www.youtube.com/watch?v=5Pe1m-dgOOs
 tags: ["Anthony Shaw", "Burke Holland", "Is DOOM a Tensor? | LIVE165", "LIVE165", "LIVE165_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Is DOOM a Tensor? | LIVE165
 
-**Speaker not identified**
+**Anthony Shaw, Burke Holland**
 
 `Microsoft Build` · `Build 2026` · `2026` · `17 min`
 

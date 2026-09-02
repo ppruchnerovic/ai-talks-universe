@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Sanjay Krishna Anbalagan", "Front End Engineer"]
+speakers: ["Sanjay Krishna Anbalagan"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 21
 published_at: 2025-09-29T18:15:19Z
 video_id: Q7mejjRY1w0
+url: https://www.youtube.com/watch?v=Q7mejjRY1w0
 youtube_url: https://www.youtube.com/watch?v=Q7mejjRY1w0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # MCP: Decode the Invisible Glue in 20 Minutes | Sanjay Krishna Anbalagan, AWS
 
-**Sanjay Krishna Anbalagan, Front End Engineer**
+**Sanjay Krishna Anbalagan**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `21 min`
 

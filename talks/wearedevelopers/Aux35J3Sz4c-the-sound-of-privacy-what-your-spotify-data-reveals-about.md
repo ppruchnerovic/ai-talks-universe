@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T14:20:00+00:00
 video_id: Aux35J3Sz4c
+url: https://www.youtube.com/watch?v=Aux35J3Sz4c
 youtube_url: https://www.youtube.com/watch?v=Aux35J3Sz4c
 tags: ["Security & Privacy", "Data Science", "Privacy"]
 transcript: true

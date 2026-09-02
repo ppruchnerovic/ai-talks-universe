@@ -7,11 +7,12 @@ conference_name: "Black Hat"
 category: "AI security"
 edition: "Black Hat"
 year: 2025
-speakers: ["Intel Corporation"]
+speakers: []
 channel: "Black Hat"
 duration_min: 42
 published_at: 2025-02-21T18:16:56Z
 video_id: LIYZemVCgiM
+url: https://www.youtube.com/watch?v=LIYZemVCgiM
 youtube_url: https://www.youtube.com/watch?v=LIYZemVCgiM
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Microarchitecture Vulnerabilities: Past, Present, and Future
 
-**Intel Corporation**
+**Speaker not identified**
 
 `Black Hat` · `Black Hat` · `2025` · `42 min`
 

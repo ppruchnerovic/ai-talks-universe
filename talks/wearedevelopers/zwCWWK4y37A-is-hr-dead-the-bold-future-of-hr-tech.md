@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 36
 published_at: 2025-01-23T10:42:04Z
 video_id: zwCWWK4y37A
+url: https://www.youtube.com/watch?v=zwCWWK4y37A
 youtube_url: https://www.youtube.com/watch?v=zwCWWK4y37A
 tags: ["HR tech", "HR", "people", "development", "AI", "People Strategies", "people operating model", "shifting mindsets", "disruption", "future of hr", "wearedevs", "WeAreDevelopers", "People and Culture", "Upskilling", "Talent Management", "growth opportunities", "tech"]
 transcript: false

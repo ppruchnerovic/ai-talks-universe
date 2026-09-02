@@ -7,11 +7,12 @@ conference_name: "PyTorch Conference"
 category: "AI engineering & agents"
 edition: "PyTorch Conference 2025"
 year: 2025
-speakers: []
+speakers: ["Mert Toslali", "Yu Chin Fabian Lim"]
 channel: "PyTorch"
 duration_min: 19
 published_at: null
 video_id: ebklfF5XVs8
+url: https://www.youtube.com/watch?v=ebklfF5XVs8
 youtube_url: https://www.youtube.com/watch?v=ebklfF5XVs8
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # No GPU Left Behind: Scaling Online LLM Training With... - Mert Toslali & Yu Chin Fabian Lim
 
-**Speaker not identified**
+**Mert Toslali, Yu Chin Fabian Lim**
 
 `PyTorch Conference` · `PyTorch Conference 2025` · `2025` · `19 min`
 

@@ -12,6 +12,7 @@ channel: "Chrome for Developers"
 duration_min: 27
 published_at: null
 video_id: YN04nNsg_L4
+url: https://www.youtube.com/watch?v=YN04nNsg_L4
 youtube_url: https://www.youtube.com/watch?v=YN04nNsg_L4
 tags: []
 transcript: false

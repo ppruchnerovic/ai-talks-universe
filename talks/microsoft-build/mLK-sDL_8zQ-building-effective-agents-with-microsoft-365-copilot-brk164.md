@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 59
 published_at: null
 video_id: mLK-sDL_8zQ
+url: https://www.youtube.com/watch?v=mLK-sDL_8zQ
 youtube_url: https://www.youtube.com/watch?v=mLK-sDL_8zQ
 tags: []
 transcript: false

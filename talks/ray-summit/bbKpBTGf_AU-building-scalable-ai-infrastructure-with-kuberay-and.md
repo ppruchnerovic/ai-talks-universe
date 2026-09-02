@@ -12,6 +12,7 @@ channel: null
 duration_min: 31
 published_at: null
 video_id: bbKpBTGf_AU
+url: https://www.youtube.com/watch?v=bbKpBTGf_AU
 youtube_url: https://www.youtube.com/watch?v=bbKpBTGf_AU
 tags: []
 transcript: false

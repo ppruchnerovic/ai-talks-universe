@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 23
 published_at: 2023-12-18T18:31:38Z
 video_id: nohEOrCrKBw
+url: https://www.youtube.com/watch?v=nohEOrCrKBw
 youtube_url: https://www.youtube.com/watch?v=nohEOrCrKBw
 tags: []
 transcript: false

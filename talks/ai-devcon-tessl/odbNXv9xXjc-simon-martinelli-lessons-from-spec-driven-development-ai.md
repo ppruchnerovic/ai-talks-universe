@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 32
 published_at: 2026-07-22T07:02:10Z
 video_id: odbNXv9xXjc
+url: https://www.youtube.com/watch?v=odbNXv9xXjc
 youtube_url: https://www.youtube.com/watch?v=odbNXv9xXjc
 tags: ["AI DevCon 2026", "AI Unified Process", "AI and specification alignment", "AI code generation", "AI code generation examples", "AI in software engineering", "Java development", "Java development insights", "SysML use cases", "SysML use cases in AI", "ainativedev", "business applications", "software modernization", "spec-driven development", "what is the AI Unified Process"]
 transcript: true

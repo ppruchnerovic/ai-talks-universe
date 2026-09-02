@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 14
 published_at: 2026-06-03T12:40:18Z
 video_id: rXd7KDBmU5A
+url: https://www.youtube.com/watch?v=rXd7KDBmU5A
 youtube_url: https://www.youtube.com/watch?v=rXd7KDBmU5A
 tags: ["AI", "Agent Observability", "Agentic infrastructure needs agentic observability | ODSP933", "Agents", "ODSP933", "ODSP933_v1", "Observability", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

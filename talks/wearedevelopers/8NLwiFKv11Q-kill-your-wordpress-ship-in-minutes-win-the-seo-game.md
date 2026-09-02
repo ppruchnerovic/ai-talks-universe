@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 5
 published_at: 2026-07-09T11:55:00+00:00
 video_id: 8NLwiFKv11Q
+url: https://www.youtube.com/watch?v=8NLwiFKv11Q
 youtube_url: https://www.youtube.com/watch?v=8NLwiFKv11Q
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "Case Study", "CI/CD", "Developer Experience (DevEx)", "Productivity", "SEO", "WordPress"]
 transcript: true

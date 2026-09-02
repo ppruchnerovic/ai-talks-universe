@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Mike Kraybill"]
 channel: "Microsoft Events"
 duration_min: 5
 published_at: 2025-11-19T15:06:19Z
 video_id: lfEjSOsWvoY
+url: https://www.youtube.com/watch?v=lfEjSOsWvoY
 youtube_url: https://www.youtube.com/watch?v=lfEjSOsWvoY
 tags: ["Agentic business applications", "ComputerTalk ice Contact Center demo for chatbot and live chat | ODSP1482", "English (US)", "Mike Kraybill", "ODSP1482", "ODSP1482_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # ComputerTalk ice Contact Center demo for chatbot and live chat | ODSP1482
 
-**Speaker not identified**
+**Mike Kraybill**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `5 min`
 

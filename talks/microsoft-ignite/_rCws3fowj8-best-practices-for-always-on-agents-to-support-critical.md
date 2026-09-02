@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Shivani Pradhan"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2025-11-24T07:32:17Z
 video_id: _rCws3fowj8
+url: https://www.youtube.com/watch?v=_rCws3fowj8
 youtube_url: https://www.youtube.com/watch?v=_rCws3fowj8
 tags: ["BRK308", "Best practices for always-on agents to support critical workloads | BRK308", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "English (US)", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Dataverse", "Shivani Pradhan", "Technical", "a88767bb-f460-4019-9e09-a32d82620275_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Best practices for always-on agents to support critical workloads | BRK308
 
-**Speaker not identified**
+**Shivani Pradhan**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `47 min`
 

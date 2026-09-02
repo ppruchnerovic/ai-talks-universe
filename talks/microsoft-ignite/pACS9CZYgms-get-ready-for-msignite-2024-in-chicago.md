@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 5
 published_at: 2024-11-17T21:17:32Z
 video_id: pACS9CZYgms
+url: https://www.youtube.com/watch?v=pACS9CZYgms
 youtube_url: https://www.youtube.com/watch?v=pACS9CZYgms
 tags: ["Microsoft", "Microsoft Ignite"]
 transcript: false

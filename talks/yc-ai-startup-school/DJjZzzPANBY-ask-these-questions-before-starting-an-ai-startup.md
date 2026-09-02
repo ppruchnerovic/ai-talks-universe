@@ -12,6 +12,7 @@ channel: "Y Combinator"
 duration_min: 41
 published_at: 2025-10-07T14:00:20Z
 video_id: DJjZzzPANBY
+url: https://www.youtube.com/watch?v=DJjZzzPANBY
 youtube_url: https://www.youtube.com/watch?v=DJjZzzPANBY
 tags: ["YC", "Y Combinator"]
 transcript: false

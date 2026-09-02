@@ -12,6 +12,7 @@ channel: "NVIDIA"
 duration_min: 12
 published_at: 2026-03-30T21:55:20Z
 video_id: MyNEr7tf-WQ
+url: https://www.youtube.com/watch?v=MyNEr7tf-WQ
 youtube_url: https://www.youtube.com/watch?v=MyNEr7tf-WQ
 tags: ["NVIDIA", "Energy", "Energy Efficiency", "AI Infrastructure", "GTC"]
 transcript: true

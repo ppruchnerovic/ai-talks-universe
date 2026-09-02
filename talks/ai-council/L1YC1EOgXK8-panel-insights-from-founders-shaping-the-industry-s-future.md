@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Caitlin Colgrove"]
 channel: "AI Council"
 duration_min: 43
 published_at: 2024-04-19T05:00:10Z
 video_id: L1YC1EOgXK8
+url: https://www.youtube.com/watch?v=L1YC1EOgXK8
 youtube_url: https://www.youtube.com/watch?v=L1YC1EOgXK8
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Panel: Insights from Founders Shaping the Industry's Future
 
-**Speaker not identified**
+**Caitlin Colgrove**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `43 min`
 

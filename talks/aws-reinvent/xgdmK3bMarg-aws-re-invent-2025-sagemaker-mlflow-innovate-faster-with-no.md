@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 41
 published_at: null
 video_id: xgdmK3bMarg
+url: https://www.youtube.com/watch?v=xgdmK3bMarg
 youtube_url: https://www.youtube.com/watch?v=xgdmK3bMarg
 tags: []
 transcript: false

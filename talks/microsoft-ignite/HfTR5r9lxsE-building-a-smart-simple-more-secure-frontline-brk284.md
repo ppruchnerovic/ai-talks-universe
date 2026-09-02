@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Zoe Hawtof", "Navjot Marwaha"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-27T12:11:12Z
 video_id: HfTR5r9lxsE
+url: https://www.youtube.com/watch?v=HfTR5r9lxsE
 youtube_url: https://www.youtube.com/watch?v=HfTR5r9lxsE
 tags: ["BRK284", "Breakout", "Building a smart simple more secure frontline | BRK284", "English (US)", "Intermediate (200)", "Modern Work", "Navjot Marwaha", "Technical", "Version v4", "Zoe Hawtof", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building a smart simple more secure frontline | BRK284
 
-**Speaker not identified**
+**Zoe Hawtof, Navjot Marwaha**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

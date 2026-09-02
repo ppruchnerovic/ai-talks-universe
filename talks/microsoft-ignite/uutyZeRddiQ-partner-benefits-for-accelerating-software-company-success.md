@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sandy Gupta", "Michael Marzano", "Andrew Smith"]
 channel: "Microsoft Events"
 duration_min: 40
 published_at: 2025-11-21T13:03:14Z
 video_id: uutyZeRddiQ
+url: https://www.youtube.com/watch?v=uutyZeRddiQ
 youtube_url: https://www.youtube.com/watch?v=uutyZeRddiQ
 tags: ["284c2376-4d10-4a1f-833c-d3efee04d2a6_Segment", "Andrew Smith", "English (US)", "Michael Marzano", "Microsoft AI Cloud Partner Program", "PBRK418", "Partner Business", "Partner: Benefits for Accelerating Software Company Success | PBRK418", "Sandy Gupta", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partner: Benefits for Accelerating Software Company Success | PBRK418
 
-**Speaker not identified**
+**Sandy Gupta, Michael Marzano, Andrew Smith**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `40 min`
 

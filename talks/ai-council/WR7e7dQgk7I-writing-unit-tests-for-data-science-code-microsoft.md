@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 31
 published_at: 2023-05-11T18:57:12Z
 video_id: WR7e7dQgk7I
+url: https://www.youtube.com/watch?v=WR7e7dQgk7I
 youtube_url: https://www.youtube.com/watch?v=WR7e7dQgk7I
 tags: ["data science", "software engineering", "unit testing", "microsoft"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 43
 published_at: 2023-05-11T18:58:58Z
 video_id: Vd1z9Z2-8VE
+url: https://www.youtube.com/watch?v=Vd1z9Z2-8VE
 youtube_url: https://www.youtube.com/watch?v=Vd1z9Z2-8VE
 tags: ["apache flink", "data streaming", "debezium", "cdc"]
 transcript: false

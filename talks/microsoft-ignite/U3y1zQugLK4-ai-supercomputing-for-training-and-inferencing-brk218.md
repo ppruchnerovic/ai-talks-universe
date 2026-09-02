@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Gauhar Junnarkar", "John Lee"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-25T12:59:29Z
 video_id: U3y1zQugLK4
+url: https://www.youtube.com/watch?v=U3y1zQugLK4
 youtube_url: https://www.youtube.com/watch?v=U3y1zQugLK4
 tags: ["AI", "AI Infrastructure", "AI supercomputing for training and inferencing​ | BRK218", "Azure Arc", "BRK218", "Breakout", "Copilot", "English (US)", "Gauhar Junnarkar", "Infrastructure", "Intermediate (200)", "John Lee", "MachineLearning", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI supercomputing for training and inferencing​ | BRK218
 
-**Speaker not identified**
+**Gauhar Junnarkar, John Lee**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 

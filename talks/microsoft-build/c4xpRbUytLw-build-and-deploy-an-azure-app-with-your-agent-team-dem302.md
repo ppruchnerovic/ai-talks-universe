@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Rong Lu", "Brady Gaster"]
 channel: "Microsoft Developer"
 duration_min: 26
 published_at: 2026-06-03T12:21:49Z
 video_id: c4xpRbUytLw
+url: https://www.youtube.com/watch?v=c4xpRbUytLw
 youtube_url: https://www.youtube.com/watch?v=c4xpRbUytLw
 tags: ["29007081-8323-476e-8a69-ee6a106d1cc8_M9Z7-DEM302-1", "Agentic SDLC", "Agents", "Azure", "Brady Gaster", "Build and deploy an Azure app with your agent team | DEM302", "DEM302", "Deployment Pipelines", "DevTools", "Developer", "GitHub", "GitHub Copilot", "GitHub Copilot CLI", "Rong Lu", "Skills", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build and deploy an Azure app with your agent team | DEM302
 
-**Speaker not identified**
+**Rong Lu, Brady Gaster**
 
 `Microsoft Build` · `Build 2026` · `2026` · `26 min`
 

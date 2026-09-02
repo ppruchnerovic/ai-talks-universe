@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Karen Hsieh"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2025-05-29T00:41:33Z
 video_id: 2jGXe5Bpols
+url: https://www.youtube.com/watch?v=2jGXe5Bpols
 youtube_url: https://www.youtube.com/watch?v=2jGXe5Bpols
 tags: ["software engineering", "data engineering", "career development", "ChatGPT", "artificial intelligence", "machine learning", "dbt", "engineering practices", "code branching", "unit testing", "feedback loops", "pull request reviews", "Python tutorial", "software development lifecycle", "agile methodologies", "DevOps", "continuous integration", "continuous deployment", "code quality", "technical debt", "refactoring", "design patterns", "system design"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Data Engineering Is Not Software Engineering, Until It Is
 
-**Speaker not identified**
+**Karen Hsieh**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `10 min`
 

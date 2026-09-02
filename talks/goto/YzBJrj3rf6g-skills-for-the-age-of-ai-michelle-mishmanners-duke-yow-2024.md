@@ -12,6 +12,7 @@ channel: null
 duration_min: 45
 published_at: null
 video_id: YzBJrj3rf6g
+url: https://www.youtube.com/watch?v=YzBJrj3rf6g
 youtube_url: https://www.youtube.com/watch?v=YzBJrj3rf6g
 tags: []
 transcript: false

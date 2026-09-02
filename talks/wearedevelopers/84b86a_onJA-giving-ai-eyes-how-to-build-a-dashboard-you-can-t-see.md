@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T07:00:00+00:00
 video_id: 84b86a_onJA
+url: https://www.youtube.com/watch?v=84b86a_onJA
 youtube_url: https://www.youtube.com/watch?v=84b86a_onJA
 tags: ["Frontend, Web & Mobile", "Agents", "Agentic AI", "Business Intelligence", "Generative AI (GenAI)", "Multi-Agent Systems"]
 transcript: true

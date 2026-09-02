@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2026-07-30T09:00:09Z
 video_id: eHw3O-yIZw4
+url: https://www.youtube.com/watch?v=eHw3O-yIZw4
 youtube_url: https://www.youtube.com/watch?v=eHw3O-yIZw4
 tags: ["QCon AI", "InfoQ", "Transcript", "Graph RAG", "Knowledge Graphs", "AI workflows", "Large language models", "Artificial Intelligence"]
 transcript: true

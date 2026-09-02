@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 50
 published_at: 2025-09-09T11:41:19Z
 video_id: cx-EnS30adU
+url: https://www.youtube.com/watch?v=cx-EnS30adU
 youtube_url: https://www.youtube.com/watch?v=cx-EnS30adU
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: false

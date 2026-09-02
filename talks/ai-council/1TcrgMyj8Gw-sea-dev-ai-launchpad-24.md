@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Matt Arderne"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2024-04-22T21:34:42Z
 video_id: 1TcrgMyj8Gw
+url: https://www.youtube.com/watch?v=1TcrgMyj8Gw
 youtube_url: https://www.youtube.com/watch?v=1TcrgMyj8Gw
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # sea.dev | AI Launchpad '24
 
-**Speaker not identified**
+**Matt Arderne**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `10 min`
 

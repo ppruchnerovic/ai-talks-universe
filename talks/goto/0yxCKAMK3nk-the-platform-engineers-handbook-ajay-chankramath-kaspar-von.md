@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Ajay Chankramath", "Kaspar von Grünberg"]
 channel: "GOTO Conferences"
 duration_min: 32
 published_at: 2026-07-02T12:00:11Z
 video_id: 0yxCKAMK3nk
+url: https://www.youtube.com/watch?v=0yxCKAMK3nk
 youtube_url: https://www.youtube.com/watch?v=0yxCKAMK3nk
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Ajay Chankramath", "Kaspar von Grünberg", "Platform Engineer’s Handbook", "Platform Engineering", "Backstage", "Kubernetes", "Platform Teams", "Platform-as-a-Service", "DevOps", "Control Planes", "API-first", "Sovereign Cloud", "Vendor Independency"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # The Platform Engineer’s Handbook • Ajay Chankramath & Kaspar von Grünberg • GOTO 2026
 
-**Speaker not identified**
+**Ajay Chankramath, Kaspar von Grünberg**
 
 `GOTO Conferences` · `GOTO` · `2026` · `32 min`
 

@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 35
 published_at: 2024-09-04T22:16:19Z
 video_id: JKJk3rfJTQk
+url: https://www.youtube.com/watch?v=JKJk3rfJTQk
 youtube_url: https://www.youtube.com/watch?v=JKJk3rfJTQk
 tags: ["HPMCNK"]
 transcript: false

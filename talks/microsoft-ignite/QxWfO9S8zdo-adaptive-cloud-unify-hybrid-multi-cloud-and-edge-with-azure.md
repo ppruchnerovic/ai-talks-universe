@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Bernardo Caldas", "Angie Tran", "Satya Vel"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-12-02T20:30:56Z
 video_id: QxWfO9S8zdo
+url: https://www.youtube.com/watch?v=QxWfO9S8zdo
 youtube_url: https://www.youtube.com/watch?v=QxWfO9S8zdo
 tags: ["AI", "Adaptive cloud: Unify hybrid multi-cloud and edge with Azure Arc | BRK235", "Angie Tran", "Azure Arc", "Azure Monitor", "BRK235", "Bernardo Caldas", "Breakout", "Cloud Management", "Copilot", "English (US)", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Multicloud", "Satya Vel", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Adaptive cloud: Unify hybrid multi-cloud and edge with Azure Arc | BRK235
 
-**Speaker not identified**
+**Bernardo Caldas, Angie Tran, Satya Vel**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-10T12:20:00+00:00
 video_id: DcGd21KYJNc
+url: https://www.youtube.com/watch?v=DcGd21KYJNc
 youtube_url: https://www.youtube.com/watch?v=DcGd21KYJNc
 tags: ["Security & Privacy"]
 transcript: true

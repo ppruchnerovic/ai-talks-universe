@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Rhythm Garg", "Linden Li"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-12-09T00:00:00Z
 video_id: o15AaYl7Wu0
+url: https://www.youtube.com/watch?v=o15AaYl7Wu0
 youtube_url: https://www.youtube.com/watch?v=o15AaYl7Wu0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Efficient Reinforcement Learning – Rhythm Garg & Linden Li, Applied Compute
 
-**Speaker not identified**
+**Rhythm Garg, Linden Li**
 
 `AI Engineer` · `AI Engineer` · `2025` · `20 min`
 

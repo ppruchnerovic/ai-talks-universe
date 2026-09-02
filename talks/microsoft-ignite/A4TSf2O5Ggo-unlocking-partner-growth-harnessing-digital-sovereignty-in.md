@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Chris Boar", "Alistair Speirs"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T13:47:18Z
 video_id: A4TSf2O5Ggo
+url: https://www.youtube.com/watch?v=A4TSf2O5Ggo
 youtube_url: https://www.youtube.com/watch?v=A4TSf2O5Ggo
 tags: ["87a77033-c3ba-42f4-88d6-a3433a5e1a8a_Segment", "Alistair Speirs", "Chris Boar", "English (US)", "Government", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "PBRK154", "Partner Business", "Unlocking Partner Growth: Harnessing Digital Sovereignty in Europe | PBRK154", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlocking Partner Growth: Harnessing Digital Sovereignty in Europe | PBRK154
 
-**Speaker not identified**
+**Chris Boar, Alistair Speirs**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

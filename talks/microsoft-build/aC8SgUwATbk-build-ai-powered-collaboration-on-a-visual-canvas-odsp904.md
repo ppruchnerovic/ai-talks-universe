@@ -12,6 +12,7 @@ channel: "Microsoft Developer"
 duration_min: 19
 published_at: 2026-06-03T11:32:05Z
 video_id: aC8SgUwATbk
+url: https://www.youtube.com/watch?v=aC8SgUwATbk
 youtube_url: https://www.youtube.com/watch?v=aC8SgUwATbk
 tags: ["AI", "AI Toolkit", "Automation", "Build AI-powered collaboration on a visual canvas | ODSP904", "Developer", "MCP", "ODSP904", "ODSP904_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true

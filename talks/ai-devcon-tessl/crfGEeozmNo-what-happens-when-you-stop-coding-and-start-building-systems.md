@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 10
 published_at: 2026-01-04T14:19:04Z
 video_id: crfGEeozmNo
+url: https://www.youtube.com/watch?v=crfGEeozmNo
 youtube_url: https://www.youtube.com/watch?v=crfGEeozmNo
 tags: []
 transcript: true

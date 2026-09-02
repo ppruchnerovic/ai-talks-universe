@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Aysen Ilkbahar"]
 channel: "Microsoft Developer"
 duration_min: 38
 published_at: 2026-06-03T15:13:26Z
 video_id: ELusMKrFJso
+url: https://www.youtube.com/watch?v=ELusMKrFJso
 youtube_url: https://www.youtube.com/watch?v=ELusMKrFJso
 tags: ["6c7fb279-6292-41b9-8bf5-5d5b12d9eb25_M9Z7-BRKSP94-1", "Agents", "Aysen Ilkbahar", "BRKSP94", "Joey Conway", "Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKSP94", "Stephen McCullough", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKSP94
 
-**Speaker not identified**
+**Aysen Ilkbahar**
 
 `Microsoft Build` · `Build 2026` · `2026` · `38 min`
 

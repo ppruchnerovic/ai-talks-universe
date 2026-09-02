@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 19
 published_at: 2026-08-19T15:00:31Z
 video_id: McknwOzbmyg
+url: https://www.youtube.com/watch?v=McknwOzbmyg
 youtube_url: https://www.youtube.com/watch?v=McknwOzbmyg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

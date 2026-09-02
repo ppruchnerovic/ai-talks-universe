@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Michael Nygard"]
 channel: "GOTO Conferences"
 duration_min: 38
 published_at: 2026-01-02T13:23:25Z
 video_id: Xvz3ads_wcc
+url: https://www.youtube.com/watch?v=Xvz3ads_wcc
 youtube_url: https://www.youtube.com/watch?v=Xvz3ads_wcc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building Software That Survives • Michael Nygard & Charles Humble
 
-**Speaker not identified**
+**Michael Nygard**
 
 `GOTO Conferences` · `GOTO` · `2026` · `38 min`
 

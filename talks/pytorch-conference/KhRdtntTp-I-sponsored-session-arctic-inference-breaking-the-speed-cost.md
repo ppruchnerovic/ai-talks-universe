@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 28
 published_at: null
 video_id: KhRdtntTp-I
+url: https://www.youtube.com/watch?v=KhRdtntTp-I
 youtube_url: https://www.youtube.com/watch?v=KhRdtntTp-I
 tags: []
 transcript: false

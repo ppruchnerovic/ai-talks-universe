@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T09:40:00+00:00
 video_id: kWqi4mY3YfU
+url: https://www.youtube.com/watch?v=kWqi4mY3YfU
 youtube_url: https://www.youtube.com/watch?v=kWqi4mY3YfU
 tags: ["Emerging Technologies", "AWS", "IBM", "Quantum"]
 transcript: true

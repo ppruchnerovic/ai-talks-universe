@@ -7,11 +7,12 @@ conference_name: "RSAC Conference"
 category: "AI security"
 edition: "RSAC"
 year: 2024
-speakers: ["Jenny Reich", "Adjunct Professor"]
+speakers: ["Jenny Reich"]
 channel: "RSAC Cybersecurity"
 duration_min: 49
 published_at: 2024-06-10T21:15:29Z
 video_id: wE27kHXTPs0
+url: https://www.youtube.com/watch?v=wE27kHXTPs0
 youtube_url: https://www.youtube.com/watch?v=wE27kHXTPs0
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # National Security 2030: Social Media and Emerging Cyberthreats
 
-**Jenny Reich, Adjunct Professor**
+**Jenny Reich**
 
 `RSAC Conference` · `RSAC` · `2024` · `49 min`
 

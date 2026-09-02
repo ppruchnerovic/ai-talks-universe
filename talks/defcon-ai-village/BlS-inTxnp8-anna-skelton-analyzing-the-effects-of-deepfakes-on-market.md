@@ -12,6 +12,7 @@ channel: "DEFCONConference"
 duration_min: 31
 published_at: null
 video_id: BlS-inTxnp8
+url: https://www.youtube.com/watch?v=BlS-inTxnp8
 youtube_url: https://www.youtube.com/watch?v=BlS-inTxnp8
 tags: []
 transcript: false

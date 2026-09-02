@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 55
 published_at: 2022-09-04T20:23:13Z
 video_id: 9fv-PArhUs0
+url: https://www.youtube.com/watch?v=9fv-PArhUs0
 youtube_url: https://www.youtube.com/watch?v=9fv-PArhUs0
 tags: ["1270392", "bsides las vegas", "bsides las vegas 2022", "bsideslv", "bslv", "bslv22", "ground truth", "gt"]
 transcript: false

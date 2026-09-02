@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T11:30:00+00:00
 video_id: zG-pEUxTI38
+url: https://www.youtube.com/watch?v=zG-pEUxTI38
 youtube_url: https://www.youtube.com/watch?v=zG-pEUxTI38
 tags: ["AI Engineering", "Agents", "Agentic AI", "Security"]
 transcript: true

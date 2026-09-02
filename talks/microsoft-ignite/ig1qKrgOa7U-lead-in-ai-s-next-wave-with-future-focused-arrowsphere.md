@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Eric Gourmelen", "Brendan Murphy"]
 channel: "Microsoft Events"
 duration_min: 34
 published_at: 2024-11-25T14:52:23Z
 video_id: ig1qKrgOa7U
+url: https://www.youtube.com/watch?v=ig1qKrgOa7U
 youtube_url: https://www.youtube.com/watch?v=ig1qKrgOa7U
 tags: ["AI", "Administration", "Adoption", "Azure Virtual Desktop", "BRKFP368", "Lead in AI's next wave with future focused ArrowSphere Assistant | BRKFP368", "Medium-sized businesses", "Product management", "SMB", "Small and medium-sized businesses", "Small businesses", "Task Management", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Lead in AI's next wave with future focused ArrowSphere Assistant | BRKFP368
 
-**Speaker not identified**
+**Eric Gourmelen, Brendan Murphy**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `34 min`
 

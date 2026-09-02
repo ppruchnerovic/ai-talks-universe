@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T07:40:00+00:00
 video_id: mE3RC3hhtHE
+url: https://www.youtube.com/watch?v=mE3RC3hhtHE
 youtube_url: https://www.youtube.com/watch?v=mE3RC3hhtHE
 tags: ["AI Agents", "AI Coding Assistants", "Generative AI (GenAI)"]
 transcript: true

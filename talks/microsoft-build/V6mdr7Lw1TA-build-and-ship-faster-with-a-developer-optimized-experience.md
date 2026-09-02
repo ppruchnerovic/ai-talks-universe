@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Craig Loewen", "Kayla Cinnamon"]
 channel: "Microsoft Developer"
 duration_min: 42
 published_at: 2026-06-03T08:30:56Z
 video_id: V6mdr7Lw1TA
+url: https://www.youtube.com/watch?v=V6mdr7Lw1TA
 youtube_url: https://www.youtube.com/watch?v=V6mdr7Lw1TA
 tags: ["C#", "C++", "Python"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Build and ship faster with a developer-optimized experience on Windows | BRK261
 
-**Speaker not identified**
+**Craig Loewen, Kayla Cinnamon**
 
 `Microsoft Build` · `Build 2026` · `2026` · `42 min`
 

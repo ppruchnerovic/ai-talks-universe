@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T10:20:00+00:00
 video_id: nCeUgrWjBMo
+url: https://www.youtube.com/watch?v=nCeUgrWjBMo
 youtube_url: https://www.youtube.com/watch?v=nCeUgrWjBMo
 tags: ["Frontend, Web & Mobile", "AI Models", "Agents", "Agentic AI", "Android", "iOS", "WebAssembly"]
 transcript: true

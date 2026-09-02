@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Aria Hanson", "Kurt Stevenson"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-12-03T23:28:48Z
 video_id: NPqwFICAZro
+url: https://www.youtube.com/watch?v=NPqwFICAZro
 youtube_url: https://www.youtube.com/watch?v=NPqwFICAZro
 tags: ["Aria Hanson", "BRK287", "Breakout", "English (US)", "Get ready for End of Support (EOS) and the future of AI at work with Windows 11 and | BRK287", "Intermediate (200)", "Kurt Stevenson", "Modern Work", "Modern Work-Curated", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Get ready for End of Support (EOS) and the future of AI at work with Windows 11 and | BRK287
 
-**Speaker not identified**
+**Aria Hanson, Kurt Stevenson**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

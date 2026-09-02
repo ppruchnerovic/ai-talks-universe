@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 32
 published_at: 2025-03-27T18:49:11Z
 video_id: 30Ofh-Myte4
+url: https://www.youtube.com/watch?v=30Ofh-Myte4
 youtube_url: https://www.youtube.com/watch?v=30Ofh-Myte4
 tags: []
 transcript: false

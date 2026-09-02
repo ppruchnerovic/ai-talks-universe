@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2025-09-10T11:19:37Z
 video_id: Pcpt-fldpo0
+url: https://www.youtube.com/watch?v=Pcpt-fldpo0
 youtube_url: https://www.youtube.com/watch?v=Pcpt-fldpo0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: false

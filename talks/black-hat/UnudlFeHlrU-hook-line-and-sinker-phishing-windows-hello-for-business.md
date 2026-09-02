@@ -12,6 +12,7 @@ channel: "Black Hat"
 duration_min: 25
 published_at: 2025-02-10T18:30:16Z
 video_id: UnudlFeHlrU
+url: https://www.youtube.com/watch?v=UnudlFeHlrU
 youtube_url: https://www.youtube.com/watch?v=UnudlFeHlrU
 tags: []
 transcript: false

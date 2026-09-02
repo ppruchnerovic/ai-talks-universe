@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 51
 published_at: 2025-07-08T07:46:38Z
 video_id: DOKeX7lubEg
+url: https://www.youtube.com/watch?v=DOKeX7lubEg
 youtube_url: https://www.youtube.com/watch?v=DOKeX7lubEg
 tags: ["AI", "GenAI", "LLM", "RAG", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Malte Loller-Andersen"]
 transcript: false

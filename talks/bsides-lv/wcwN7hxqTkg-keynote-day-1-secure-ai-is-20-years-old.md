@@ -12,6 +12,7 @@ channel: "BSidesLV"
 duration_min: 47
 published_at: 2024-09-04T22:15:21Z
 video_id: wcwN7hxqTkg
+url: https://www.youtube.com/watch?v=wcwN7hxqTkg
 youtube_url: https://www.youtube.com/watch?v=wcwN7hxqTkg
 tags: ["T77AHF"]
 transcript: false

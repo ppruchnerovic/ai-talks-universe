@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Rob Chambers", "Dan Taylor"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2024-11-21T09:55:42Z
 video_id: TdgBWewM25I
+url: https://www.youtube.com/watch?v=TdgBWewM25I
 youtube_url: https://www.youtube.com/watch?v=TdgBWewM25I
 tags: ["AI", "AI-Curated", "Agents", "Apps-Curated", "Azure AI", "Azure AI SDK", "Azure AI Studio", "BRK115", "Breakout", "Coding the future of AI | BRK115", "Copilot Studio", "CopilotStack", "Developer", "English (US)", "GenerativeAI", "GitHub", "Intermediate (200)", "Rob Chambers", "Software Company", "Technical", "VisualStudio", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Coding the future of AI | BRK115
 
-**Speaker not identified**
+**Rob Chambers, Dan Taylor**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `45 min`
 

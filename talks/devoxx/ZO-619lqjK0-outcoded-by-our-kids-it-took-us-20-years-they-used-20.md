@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Jan Van Wassenhove", "Bart Wulle"]
 channel: "Devoxx"
 duration_min: 39
 published_at: 2025-10-10T05:09:25Z
 video_id: ZO-619lqjK0
+url: https://www.youtube.com/watch?v=ZO-619lqjK0
 youtube_url: https://www.youtube.com/watch?v=ZO-619lqjK0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Outcoded by Our Kids: It Took Us 20 Years, They Used 20 Prompts! by Jan Van Wassenhove, Bart Wulle
 
-**Speaker not identified**
+**Jan Van Wassenhove, Bart Wulle**
 
 `Devoxx` · `Devoxx` · `2025` · `39 min`
 

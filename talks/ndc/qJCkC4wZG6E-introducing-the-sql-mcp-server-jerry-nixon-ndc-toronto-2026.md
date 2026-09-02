@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 56
 published_at: 2026-07-28T12:30:20Z
 video_id: qJCkC4wZG6E
+url: https://www.youtube.com/watch?v=qJCkC4wZG6E
 youtube_url: https://www.youtube.com/watch?v=qJCkC4wZG6E
 tags: ["SQL Server", "Azure SQL", "PostgreSQL", "Cosmos DB", "and MySQL", "GraphQL", "API", "SQL MCP Server", "Architecture", "Database", "Microsoft", "SQL", "Azure", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada"]
 transcript: true

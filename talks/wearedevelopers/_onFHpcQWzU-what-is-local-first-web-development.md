@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 33
 published_at: 2026-07-10T07:00:00+00:00
 video_id: _onFHpcQWzU
+url: https://www.youtube.com/watch?v=_onFHpcQWzU
 youtube_url: https://www.youtube.com/watch?v=_onFHpcQWzU
 tags: ["Frontend, Web & Mobile", "Progressive Web Apps (PWAs)", "Vue.js"]
 transcript: true

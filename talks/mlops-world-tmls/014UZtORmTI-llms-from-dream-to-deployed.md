@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2024
-speakers: ["Josh Goldstein", "Solutions Engineer"]
+speakers: ["Josh Goldstein"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 29
 published_at: 2024-05-16T12:49:58Z
 video_id: 014UZtORmTI
+url: https://www.youtube.com/watch?v=014UZtORmTI
 youtube_url: https://www.youtube.com/watch?v=014UZtORmTI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # LLMs From Dream to Deployed
 
-**Josh Goldstein, Solutions Engineer**
+**Josh Goldstein**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2024` · `29 min`
 

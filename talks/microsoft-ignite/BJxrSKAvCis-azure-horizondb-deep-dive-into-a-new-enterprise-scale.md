@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Adam Prout", "Denzil Ribeiro"]
 channel: "Microsoft Events"
 duration_min: 38
 published_at: 2025-11-21T17:11:56Z
 video_id: BJxrSKAvCis
+url: https://www.youtube.com/watch?v=BJxrSKAvCis
 youtube_url: https://www.youtube.com/watch?v=BJxrSKAvCis
 tags: ["Adam Prout", "Azure HorizonDB: Deep Dive into a New Enterprise-Scale PostgreSQL | BRK127", "BRK127", "BRK127_v1", "Denzil Ribeiro", "English (US)", "Innovate with Azure AI apps and agents", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Azure HorizonDB: Deep Dive into a New Enterprise-Scale PostgreSQL | BRK127
 
-**Speaker not identified**
+**Adam Prout, Denzil Ribeiro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `38 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T10:20:00+00:00
 video_id: mV1S4bsZW0k
+url: https://www.youtube.com/watch?v=mV1S4bsZW0k
 youtube_url: https://www.youtube.com/watch?v=mV1S4bsZW0k
 tags: ["Engineering Leadership", "AI Models", "AI Standards", "Developer Experience (DevEx)"]
 transcript: true

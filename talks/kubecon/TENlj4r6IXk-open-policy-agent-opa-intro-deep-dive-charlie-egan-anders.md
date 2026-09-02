@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: []
+speakers: ["Charlie Egan", "Anders Eknert"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 27
 published_at: 2026-04-09T05:24:11Z
 video_id: TENlj4r6IXk
+url: https://www.youtube.com/watch?v=TENlj4r6IXk
 youtube_url: https://www.youtube.com/watch?v=TENlj4r6IXk
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Open Policy Agent. (OPA) Intro & Deep Dive - Charlie Egan & Anders Eknert, Apple
 
-**Speaker not identified**
+**Charlie Egan, Anders Eknert**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `27 min`
 

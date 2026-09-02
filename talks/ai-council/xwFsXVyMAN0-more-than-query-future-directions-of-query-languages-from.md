@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Julian Hyde"]
 channel: "AI Council"
 duration_min: 37
 published_at: 2025-05-29T06:54:00Z
 video_id: xwFsXVyMAN0
+url: https://www.youtube.com/watch?v=xwFsXVyMAN0
 youtube_url: https://www.youtube.com/watch?v=xwFsXVyMAN0
 tags: ["query languages", "functional programming", "ChatGPT", "artificial intelligence", "machine learning", "SQL", "database", "programming languages", "database theory", "computer science", "declarative query language", "data intensive programming", "Python tutorial", "query optimization", "query planning", "execution engines", "relational algebra", "lambda calculus", "functional programming concepts", "immutable data", "pure functions", "higher order functions"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # More Than Query Future Directions of Query Languages, from SQL to Morel
 
-**Speaker not identified**
+**Julian Hyde**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `37 min`
 

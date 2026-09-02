@@ -7,11 +7,12 @@ conference_name: "Databricks Data + AI Summit"
 category: "Vendor & platform"
 edition: "DAIS 2026"
 year: 2026
-speakers: ["Ken Wong", "Senior Director", "Product Management"]
+speakers: ["Ken Wong"]
 channel: "Databricks"
 duration_min: 22
 published_at: 2026-06-23T23:14:45Z
 video_id: 6W3BnCgoYVA
+url: https://www.youtube.com/watch?v=6W3BnCgoYVA
 youtube_url: https://www.youtube.com/watch?v=6W3BnCgoYVA
 tags: ["Databricks"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Introducing Genie One: the AI coworker that understands your data (with demo)
 
-**Ken Wong, Senior Director, Product Management**
+**Ken Wong**
 
 `Databricks Data + AI Summit` · `DAIS 2026` · `2026` · `22 min`
 

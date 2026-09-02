@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 21
 published_at: 2026-07-10T14:20:00+00:00
 video_id: Rc7Ee42hSLw
+url: https://www.youtube.com/watch?v=Rc7Ee42hSLw
 youtube_url: https://www.youtube.com/watch?v=Rc7Ee42hSLw
 tags: ["AI Engineering", "AI Coding Assistants", "Agents", "Agentic AI", "Code Reviews", "Playwright", "Python"]
 transcript: true

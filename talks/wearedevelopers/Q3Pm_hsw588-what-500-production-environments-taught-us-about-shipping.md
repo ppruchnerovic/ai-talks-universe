@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 23
 published_at: 2026-07-09T08:50:00+00:00
 video_id: Q3Pm_hsw588
+url: https://www.youtube.com/watch?v=Q3Pm_hsw588
 youtube_url: https://www.youtube.com/watch?v=Q3Pm_hsw588
 tags: ["AI Agents", "Agents", "Agentic AI", "Multi-Agent Systems", "Observability"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Sharon Chen", "Maxim Lukiyanov", "Abe Omorogbe"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-20T16:01:00Z
 video_id: LD0Emp7Gr40
+url: https://www.youtube.com/watch?v=LD0Emp7Gr40
 youtube_url: https://www.youtube.com/watch?v=LD0Emp7Gr40
 tags: ["688f492a-8f41-4f7d-b17e-35c445373b2f_Segment", "Abe Omorogbe", "BRK130", "English (US)", "Maxim Lukiyanov", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Database for PostgreSQL", "Sharon Chen", "Technical", "The blueprint for intelligent AI agents backed by PostgreSQL | BRK130", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # The blueprint for intelligent AI agents backed by PostgreSQL | BRK130
 
-**Speaker not identified**
+**Sharon Chen, Maxim Lukiyanov, Abe Omorogbe**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `44 min`
 

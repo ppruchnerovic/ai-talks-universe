@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 29
 published_at: 2023-05-11T19:00:30Z
 video_id: XmCFNkTMTEU
+url: https://www.youtube.com/watch?v=XmCFNkTMTEU
 youtube_url: https://www.youtube.com/watch?v=XmCFNkTMTEU
 tags: ["data science", "product analytics", "open source", "business intelligence", "data analysis"]
 transcript: false

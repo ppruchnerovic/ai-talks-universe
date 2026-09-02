@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 32
 published_at: 2025-01-09T01:37:27Z
 video_id: f3VYZ-6iylM
+url: https://www.youtube.com/watch?v=f3VYZ-6iylM
 youtube_url: https://www.youtube.com/watch?v=f3VYZ-6iylM
 tags: ["agent ai", "red teaming", "owasp", "top 10 for llm applications and generative ai", "generative ai", "Aubrey King", "Ads Dawson", "offensive agents", "chatbot", "ai security", "GenAI Security"]
 transcript: false

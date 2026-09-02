@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 35
 published_at: 2025-05-08T14:26:39Z
 video_id: U79r7AHCJZE
+url: https://www.youtube.com/watch?v=U79r7AHCJZE
 youtube_url: https://www.youtube.com/watch?v=U79r7AHCJZE
 tags: ["wearedevs", "wearedeveloperslive", "talent acquisition", "trends", "human-centric", "artificial intelligence", "people first", "HR", "AI", "community", "HR Leaders Summit", "TA", "Recruiting"]
 transcript: false

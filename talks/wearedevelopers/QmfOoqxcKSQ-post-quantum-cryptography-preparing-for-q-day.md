@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T15:30:00+00:00
 video_id: QmfOoqxcKSQ
+url: https://www.youtube.com/watch?v=QmfOoqxcKSQ
 youtube_url: https://www.youtube.com/watch?v=QmfOoqxcKSQ
 tags: ["Security & Privacy", "Quantum", "Security", "Web Standards"]
 transcript: true

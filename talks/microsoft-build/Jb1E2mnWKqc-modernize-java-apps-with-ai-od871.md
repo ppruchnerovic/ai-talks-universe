@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Ayan Gupta", "Sandra Ahlgrimm", "Yoshio Terada"]
 channel: "Microsoft Developer"
 duration_min: 82
 published_at: 2026-06-15T18:11:01Z
 video_id: Jb1E2mnWKqc
+url: https://www.youtube.com/watch?v=Jb1E2mnWKqc
 youtube_url: https://www.youtube.com/watch?v=Jb1E2mnWKqc
 tags: ["Ayan Gupta", "Cloud Platform & Data", "Modernize Java apps with AI​ | OD871", "OD871", "OD871_v2", "Sandra Ahlgrimm", "Yoshio Terada", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Modernize Java apps with AI​ | OD871
 
-**Speaker not identified**
+**Ayan Gupta, Sandra Ahlgrimm, Yoshio Terada**
 
 `Microsoft Build` · `Build 2026` · `2026` · `82 min`
 

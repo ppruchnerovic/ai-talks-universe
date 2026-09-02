@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 49
 published_at: 2026-07-31T10:47:05Z
 video_id: dWQMhrIt5XE
+url: https://www.youtube.com/watch?v=dWQMhrIt5XE
 youtube_url: https://www.youtube.com/watch?v=dWQMhrIt5XE
 tags: ["AI", "Architecture", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Agata Chudzińska", "Agata Chudzinska"]
 transcript: true

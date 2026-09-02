@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2026
-speakers: []
+speakers: ["Anjana Vakil", "Richard Feldman"]
 channel: "GOTO Conferences"
 duration_min: 32
 published_at: 2026-05-11T12:00:58Z
 video_id: XSXGf3oN2yU
+url: https://www.youtube.com/watch?v=XSXGf3oN2yU
 youtube_url: https://www.youtube.com/watch?v=XSXGf3oN2yU
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Anjana Vakil", "Richard Feldman", "Roc Language", "Zig Language", "Rust Language", "Elm Language", "Functional Programming", "Compiler", "Zig Compiler"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Roc & Zig: A Compiler Rewrite Story • Anjana Vakil & Richard Feldman • GOTO 2026
 
-**Speaker not identified**
+**Anjana Vakil, Richard Feldman**
 
 `GOTO Conferences` · `GOTO` · `2026` · `32 min`
 

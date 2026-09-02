@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-10T11:00:00+00:00
 video_id: dtVtgxjamN0
+url: https://www.youtube.com/watch?v=dtVtgxjamN0
 youtube_url: https://www.youtube.com/watch?v=dtVtgxjamN0
 tags: ["AI Agents", "Agents", "Agentic AI"]
 transcript: true

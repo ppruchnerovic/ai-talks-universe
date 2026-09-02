@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T10:20:00+00:00
 video_id: 25OoXKuqavQ
+url: https://www.youtube.com/watch?v=25OoXKuqavQ
 youtube_url: https://www.youtube.com/watch?v=25OoXKuqavQ
 tags: ["People & Culture", "AI Standards", "Agents", "Agentic AI", "Best Practices", "Distributed Systems", "Employer Branding", "Future of Work", "HR", "Multi-Agent Systems", "People & Culture"]
 transcript: true

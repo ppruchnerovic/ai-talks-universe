@@ -12,6 +12,7 @@ channel: "OWASP GenAI Security Project"
 duration_min: 23
 published_at: 2026-01-21T06:44:56Z
 video_id: CSFXt7_M_oQ
+url: https://www.youtube.com/watch?v=CSFXt7_M_oQ
 youtube_url: https://www.youtube.com/watch?v=CSFXt7_M_oQ
 tags: []
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-06-03T07:00:07Z
 video_id: EyZiAp0pelw
+url: https://www.youtube.com/watch?v=EyZiAp0pelw
 youtube_url: https://www.youtube.com/watch?v=EyZiAp0pelw
 tags: []
 transcript: false

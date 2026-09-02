@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T09:40:00+00:00
 video_id: 3BC96e1K-9A
+url: https://www.youtube.com/watch?v=3BC96e1K-9A
 youtube_url: https://www.youtube.com/watch?v=3BC96e1K-9A
 tags: ["Frontend, Web & Mobile", "Android", "Cross-Platform", "iOS", "Kotlin", "Kotlin Multiplatform"]
 transcript: true

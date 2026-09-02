@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Kevin Jones", "Ojas Rege"]
 channel: "Microsoft Events"
 duration_min: 8
 published_at: 2025-11-19T13:34:12Z
 video_id: 1f7LZzGt79Q
+url: https://www.youtube.com/watch?v=1f7LZzGt79Q
 youtube_url: https://www.youtube.com/watch?v=1f7LZzGt79Q
 tags: ["English (US)", "Kevin Jones", "ODSP1518", "ODSP1518_v2", "Ojas Rege", "Secure your data", "Technical", "Telecommunications", "Use AI agents to scale your privacy program | ODSP1518", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Use AI agents to scale your privacy program | ODSP1518
 
-**Speaker not identified**
+**Kevin Jones, Ojas Rege**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `8 min`
 

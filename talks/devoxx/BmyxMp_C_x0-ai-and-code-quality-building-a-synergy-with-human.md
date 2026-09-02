@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2024
-speakers: []
+speakers: ["Arthur Magne"]
 channel: "Devoxx"
 duration_min: 34
 published_at: 2024-10-11T10:12:27Z
 video_id: BmyxMp_C_x0
+url: https://www.youtube.com/watch?v=BmyxMp_C_x0
 youtube_url: https://www.youtube.com/watch?v=BmyxMp_C_x0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI and Code Quality: Building a Synergy with Human Intelligence by Arthur Magne
 
-**Speaker not identified**
+**Arthur Magne**
 
 `Devoxx` · `Devoxx` · `2024` · `34 min`
 

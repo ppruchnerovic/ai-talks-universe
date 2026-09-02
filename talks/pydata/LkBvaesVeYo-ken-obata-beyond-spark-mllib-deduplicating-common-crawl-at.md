@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 35
 published_at: 2026-06-15T15:52:07Z
 video_id: LkBvaesVeYo
+url: https://www.youtube.com/watch?v=LkBvaesVeYo
 youtube_url: https://www.youtube.com/watch?v=LkBvaesVeYo
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: true

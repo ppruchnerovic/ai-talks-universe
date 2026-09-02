@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 21
 published_at: 2026-07-09T15:30:00+00:00
 video_id: QUs1x4_dypc
+url: https://www.youtube.com/watch?v=QUs1x4_dypc
 youtube_url: https://www.youtube.com/watch?v=QUs1x4_dypc
 tags: ["Career & Growth", "Digital Transformation", "People & Culture"]
 transcript: true

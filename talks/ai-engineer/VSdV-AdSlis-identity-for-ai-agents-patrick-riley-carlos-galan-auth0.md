@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Patrick Riley", "Carlos Galan"]
 channel: "AI Engineer"
 duration_min: 82
 published_at: 2026-01-14T15:03:01Z
 video_id: VSdV-AdSlis
+url: https://www.youtube.com/watch?v=VSdV-AdSlis
 youtube_url: https://www.youtube.com/watch?v=VSdV-AdSlis
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0
 
-**Speaker not identified**
+**Patrick Riley, Carlos Galan**
 
 `AI Engineer` · `AI Engineer` · `2026` · `82 min`
 

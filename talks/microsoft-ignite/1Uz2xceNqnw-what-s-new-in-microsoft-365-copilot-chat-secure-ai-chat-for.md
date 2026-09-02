@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 39
 published_at: 2025-11-24T06:23:57Z
 video_id: 1Uz2xceNqnw
+url: https://www.youtube.com/watch?v=1Uz2xceNqnw
 youtube_url: https://www.youtube.com/watch?v=1Uz2xceNqnw
 tags: ["AJ Brush", "BRK278", "BRK278_v1", "Copilot and agents at work", "English (US)", "Pooja Rastogi", "Technical", "What's new in Microsoft 365 Copilot Chat: Secure AI chat for everyone | BRK278", "Yana Terukhova", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

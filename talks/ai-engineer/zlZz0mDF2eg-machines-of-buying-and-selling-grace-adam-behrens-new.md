@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: ["Adam Behrens"]
+speakers: ["Machines of Buying", "Selling Grace", "Adam Behrens"]
 channel: "AI Engineer"
 duration_min: 20
 published_at: 2025-07-23T15:51:11Z
 video_id: zlZz0mDF2eg
+url: https://www.youtube.com/watch?v=zlZz0mDF2eg
 youtube_url: https://www.youtube.com/watch?v=zlZz0mDF2eg
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Machines of Buying and Selling Grace - Adam Behrens, New Generation
 
-**Adam Behrens**
+**Machines of Buying, Selling Grace, Adam Behrens**
 
 `AI Engineer` · `AI Engineer` · `2025` · `20 min`
 

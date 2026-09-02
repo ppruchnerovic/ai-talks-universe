@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 66
 published_at: 2025-11-23T14:33:49Z
 video_id: ENdowPTvMhc
+url: https://www.youtube.com/watch?v=ENdowPTvMhc
 youtube_url: https://www.youtube.com/watch?v=ENdowPTvMhc
 tags: ["Conference", "GDPR", "Mostly AI", "PyConDE", "PyData", "Python", "SDK tutorial", "Tech Talk", "bias mitigation", "data anonymization", "data privacy", "data science", "differential privacy", "fairness in AI", "machine learning", "open source", "privacy preserving AI", "synthetic data", "tabular data"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 60
 published_at: null
 video_id: qovKXSoxeRE
+url: https://www.youtube.com/watch?v=qovKXSoxeRE
 youtube_url: https://www.youtube.com/watch?v=qovKXSoxeRE
 tags: []
 transcript: false

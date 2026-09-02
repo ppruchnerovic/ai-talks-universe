@@ -12,6 +12,7 @@ channel: null
 duration_min: 72
 published_at: null
 video_id: htba_b-vxxE
+url: https://www.youtube.com/watch?v=htba_b-vxxE
 youtube_url: https://www.youtube.com/watch?v=htba_b-vxxE
 tags: []
 transcript: false

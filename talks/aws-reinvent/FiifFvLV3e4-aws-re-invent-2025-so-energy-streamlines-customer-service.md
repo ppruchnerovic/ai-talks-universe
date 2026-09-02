@@ -12,6 +12,7 @@ channel: "AWS Events"
 duration_min: 46
 published_at: null
 video_id: FiifFvLV3e4
+url: https://www.youtube.com/watch?v=FiifFvLV3e4
 youtube_url: https://www.youtube.com/watch?v=FiifFvLV3e4
 tags: []
 transcript: false

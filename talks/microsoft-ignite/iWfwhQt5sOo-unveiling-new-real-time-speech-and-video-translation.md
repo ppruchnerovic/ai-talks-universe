@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Beth Adamo Lenhoff", "Jacky Kang", "Dong Li"]
 channel: "Microsoft Events"
 duration_min: 41
 published_at: 2024-11-25T12:10:11Z
 video_id: iWfwhQt5sOo
+url: https://www.youtube.com/watch?v=iWfwhQt5sOo
 youtube_url: https://www.youtube.com/watch?v=iWfwhQt5sOo
 tags: ["AI", "BRK109", "Beth Adamo Lenhoff", "Breakout", "Call centers", "Dong Li", "English (US)", "Intermediate (200)", "Jacky Kang", "Speech", "Technical", "Translation", "Unveiling new real time speech and video translation innovations | BRK109", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "minggao wang", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "multimodal", "postcallanalytics"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unveiling new real time speech and video translation innovations | BRK109
 
-**Speaker not identified**
+**Beth Adamo Lenhoff, Jacky Kang, Dong Li**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `41 min`
 

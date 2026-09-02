@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Parker Johnston", "Chris Thompson"]
 channel: "Microsoft Events"
 duration_min: 37
 published_at: 2025-11-26T20:02:48Z
 video_id: kV3yjDYC8Hg
+url: https://www.youtube.com/watch?v=kV3yjDYC8Hg
 youtube_url: https://www.youtube.com/watch?v=kV3yjDYC8Hg
 tags: ["BRKSP480", "English (US)", "Go beyond AI-hype to build systems you can trust and track | BRKSP480", "Innovate with Azure AI apps and agents", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Go beyond AI-hype to build systems you can trust and track | BRKSP480
 
-**Speaker not identified**
+**Parker Johnston, Chris Thompson**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `37 min`
 

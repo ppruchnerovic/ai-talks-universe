@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 51
 published_at: 2024-01-29T11:37:35Z
 video_id: mBJoVtMGmtQ
+url: https://www.youtube.com/watch?v=mBJoVtMGmtQ
 youtube_url: https://www.youtube.com/watch?v=mBJoVtMGmtQ
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LinkedIn", "Search", "Rankings", "Database", "InfoQ", "QCon", "Transcript"]
 transcript: false

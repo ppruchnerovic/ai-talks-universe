@@ -12,6 +12,7 @@ channel: null
 duration_min: 35
 published_at: null
 video_id: LGP4pR2G40Q
+url: https://www.youtube.com/watch?v=LGP4pR2G40Q
 youtube_url: https://www.youtube.com/watch?v=LGP4pR2G40Q
 tags: []
 transcript: false

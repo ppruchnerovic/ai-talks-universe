@@ -12,6 +12,7 @@ channel: "PyTorch"
 duration_min: 26
 published_at: null
 video_id: kKUSK6995IA
+url: https://www.youtube.com/watch?v=kKUSK6995IA
 youtube_url: https://www.youtube.com/watch?v=kKUSK6995IA
 tags: []
 transcript: false

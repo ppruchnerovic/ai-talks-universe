@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 32
 published_at: 2025-11-23T14:33:57Z
 video_id: y-51szsYIMo
+url: https://www.youtube.com/watch?v=y-51szsYIMo
 youtube_url: https://www.youtube.com/watch?v=y-51szsYIMo
 tags: ["AI agents", "Conference", "LLM", "PyCon", "PyConDE", "PyData", "Python", "RAG", "SQL", "Tech Talk", "biomedical data", "data science", "drug discovery", "healthcare AI", "machine learning", "medical AI", "natural language processing", "scientific research", "vector databases"]
 transcript: false

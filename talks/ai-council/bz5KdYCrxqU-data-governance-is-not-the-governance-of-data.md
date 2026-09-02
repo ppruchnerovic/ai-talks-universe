@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Oriol Mirosa"]
 channel: "AI Council"
 duration_min: 41
 published_at: 2025-05-29T00:10:51Z
 video_id: bz5KdYCrxqU
+url: https://www.youtube.com/watch?v=bz5KdYCrxqU
 youtube_url: https://www.youtube.com/watch?v=bz5KdYCrxqU
 tags: ["data governance", "ChatGPT", "artificial intelligence", "machine learning", "data management", "enterprise data", "data strategy", "data organization", "data leadership", "data culture", "sociology", "Python tutorial", "data quality", "data lineage", "metadata management", "data catalogs", "data privacy", "data security", "compliance frameworks", "regulatory compliance", "data ethics", "data stewardship", "master data management"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Data Governance is NOT the Governance of Data!
 
-**Speaker not identified**
+**Oriol Mirosa**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `41 min`
 

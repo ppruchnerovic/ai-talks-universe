@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T13:30:00+00:00
 video_id: jT5yIs8tvgQ
+url: https://www.youtube.com/watch?v=jT5yIs8tvgQ
 youtube_url: https://www.youtube.com/watch?v=jT5yIs8tvgQ
 tags: ["Cloud & AI Infrastructure", "Automation", "DevOps", "DevSecOps", "GitOps", "Infrastructure", "Infrastructure as Code (IaC)"]
 transcript: true

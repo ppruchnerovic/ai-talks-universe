@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 48
 published_at: 2026-02-11T08:39:51Z
 video_id: Numb52aJkJw
+url: https://www.youtube.com/watch?v=Numb52aJkJw
 youtube_url: https://www.youtube.com/watch?v=Numb52aJkJw
 tags: [".NET", "AI", "JavaScript", "Testing", "Tools", "Web", "MCP", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Debbie O'Brien"]
 transcript: true

@@ -7,11 +7,12 @@ conference_name: "KubeCon + CloudNativeCon"
 category: "Software dev with AI tracks"
 edition: "KubeCon EU 2026"
 year: 2026
-speakers: ["Hello World"]
+speakers: ["Hello World", "Tiffany Jernigan", "Matthias Haeussler"]
 channel: "CNCF [Cloud Native Computing Foundation]"
 duration_min: 31
 published_at: 2026-04-09T05:23:10Z
 video_id: _bLAN_mzxIs
+url: https://www.youtube.com/watch?v=_bLAN_mzxIs
 youtube_url: https://www.youtube.com/watch?v=_bLAN_mzxIs
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Hello World, Meet the Spanimals: Observability for Beginners - Tiffany Jernigan & Matthias Haeussler
 
-**Hello World**
+**Hello World, Tiffany Jernigan, Matthias Haeussler**
 
 `KubeCon + CloudNativeCon` · `KubeCon EU 2026` · `2026` · `31 min`
 

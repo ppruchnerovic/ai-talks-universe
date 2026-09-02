@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 18
 published_at: 2026-05-15T00:00:00Z
 video_id: VMemhtlsoNk
+url: https://www.youtube.com/watch?v=VMemhtlsoNk
 youtube_url: https://www.youtube.com/watch?v=VMemhtlsoNk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

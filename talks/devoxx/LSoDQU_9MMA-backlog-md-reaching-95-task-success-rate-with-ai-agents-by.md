@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Alex Gavrilescu"]
 channel: "Devoxx"
 duration_min: 48
 published_at: 2025-10-10T05:12:49Z
 video_id: LSoDQU_9MMA
+url: https://www.youtube.com/watch?v=LSoDQU_9MMA
 youtube_url: https://www.youtube.com/watch?v=LSoDQU_9MMA
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Backlog.md : Reaching 95% Task success rate with AI Agents by Alex Gavrilescu
 
-**Speaker not identified**
+**Alex Gavrilescu**
 
 `Devoxx` · `Devoxx` · `2025` · `48 min`
 

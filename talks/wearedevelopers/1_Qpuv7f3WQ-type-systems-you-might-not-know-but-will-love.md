@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 26
 published_at: 2026-07-09T11:30:00+00:00
 video_id: 1_Qpuv7f3WQ
+url: https://www.youtube.com/watch?v=1_Qpuv7f3WQ
 youtube_url: https://www.youtube.com/watch?v=1_Qpuv7f3WQ
 tags: ["Languages & Runtimes", "Compilers", "Runtimes", "Type Systems"]
 transcript: true

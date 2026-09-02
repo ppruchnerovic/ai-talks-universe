@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 32
 published_at: 2025-04-18T08:00:05Z
 video_id: xh_ur8VkO1g
+url: https://www.youtube.com/watch?v=xh_ur8VkO1g
 youtube_url: https://www.youtube.com/watch?v=xh_ur8VkO1g
 tags: ["Developer Productivity", "Software Testing", "InfoQ", "InfoQ Podcast", "Flaky Tests", "Software Quality", "Software Craftsmanship", "Artificial Intelligence", "Productivity", "Agile", "Continous Integration", "Continous Delivery", "Best Practices"]
 transcript: false

@@ -12,6 +12,7 @@ channel: null
 duration_min: 42
 published_at: null
 video_id: Mpg09HlgB_A
+url: https://www.youtube.com/watch?v=Mpg09HlgB_A
 youtube_url: https://www.youtube.com/watch?v=Mpg09HlgB_A
 tags: []
 transcript: false

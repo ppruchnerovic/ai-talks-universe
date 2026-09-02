@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 47
 published_at: 2026-07-27T07:56:14Z
 video_id: Xn3vE95FPlo
+url: https://www.youtube.com/watch?v=Xn3vE95FPlo
 youtube_url: https://www.youtube.com/watch?v=Xn3vE95FPlo
 tags: ["InfoQ Dev Summit", "InfoQ", "Transcript", "Software Development", "Memory Safety", "Rust Language", "System Programming", "Reliability", "Software Architecture", "Coding"]
 transcript: true

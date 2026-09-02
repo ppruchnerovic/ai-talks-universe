@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 26
 published_at: 2023-02-09T02:21:18Z
 video_id: Fj-nC44HQ2g
+url: https://www.youtube.com/watch?v=Fj-nC44HQ2g
 youtube_url: https://www.youtube.com/watch?v=Fj-nC44HQ2g
 tags: []
 transcript: false

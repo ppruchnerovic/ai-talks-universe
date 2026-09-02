@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2025
-speakers: []
+speakers: ["Manuel Pais", "Julian Wood"]
 channel: "GOTO Conferences"
 duration_min: 52
 published_at: 2025-06-20T09:48:34Z
 video_id: 8YoPz1HH4Ts
+url: https://www.youtube.com/watch?v=8YoPz1HH4Ts
 youtube_url: https://www.youtube.com/watch?v=8YoPz1HH4Ts
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Tap Into Fast Flow with Team Topologies & Platform Engineering • Manuel Pais & Julian Wood
 
-**Speaker not identified**
+**Manuel Pais, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2025` · `52 min`
 

@@ -12,6 +12,7 @@ channel: "Devoxx"
 duration_min: 29
 published_at: 2025-10-20T07:55:40Z
 video_id: sfelnVlUplg
+url: https://www.youtube.com/watch?v=sfelnVlUplg
 youtube_url: https://www.youtube.com/watch?v=sfelnVlUplg
 tags: []
 transcript: false

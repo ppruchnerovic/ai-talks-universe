@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-10T13:00:00+00:00
 video_id: q9jjBA_XBnc
+url: https://www.youtube.com/watch?v=q9jjBA_XBnc
 youtube_url: https://www.youtube.com/watch?v=q9jjBA_XBnc
 tags: ["Security & Privacy", "Authentication", "Security"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 14
 published_at: 2023-05-11T15:11:25Z
 video_id: wyW6hQGZxgY
+url: https://www.youtube.com/watch?v=wyW6hQGZxgY
 youtube_url: https://www.youtube.com/watch?v=wyW6hQGZxgY
 tags: ["#DataTeams", "data product requests", "SQL"]
 transcript: false

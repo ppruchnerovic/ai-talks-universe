@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Issac J Roth"]
 channel: "AI Council"
 duration_min: 10
 published_at: 2025-05-29T00:31:26Z
 video_id: zwO6p8J9LLU
+url: https://www.youtube.com/watch?v=zwO6p8J9LLU
 youtube_url: https://www.youtube.com/watch?v=zwO6p8J9LLU
 tags: ["search database", "GPU database", "ChatGPT", "artificial intelligence", "machine learning", "vector search", "AI search", "semantic search", "search API", "database technology", "JavaScript engine", "SaaS Copilots", "Python tutorial", "full text search", "hybrid search", "faceted search", "personalized search", "search relevance", "query understanding", "auto complete", "search suggestions", "search analytics", "performance optimization"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # OramaCore: A Search Database with LLMs Built In
 
-**Speaker not identified**
+**Issac J Roth**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `10 min`
 

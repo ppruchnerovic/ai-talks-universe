@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Natasha Fattedad", "Phil Gillingham", "Alan Ross"]
 channel: "Microsoft Events"
 duration_min: 44
 published_at: 2024-11-26T07:28:27Z
 video_id: Ucs3JCDrZ3I
+url: https://www.youtube.com/watch?v=Ucs3JCDrZ3I
 youtube_url: https://www.youtube.com/watch?v=Ucs3JCDrZ3I
 tags: ["Alan Ross", "BRK162", "Breakout", "Business Applications", "English (US)", "Natasha Fattedad", "Phil Gillingham", "Reinvent employee helpdesk experiences with generative AI | BRK162", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Reinvent employee helpdesk experiences with generative AI | BRK162
 
-**Speaker not identified**
+**Natasha Fattedad, Phil Gillingham, Alan Ross**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `44 min`
 

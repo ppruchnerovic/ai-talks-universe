@@ -12,6 +12,7 @@ channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 71
 published_at: 2023-08-18T01:38:48Z
 video_id: gRGVwNggMX0
+url: https://www.youtube.com/watch?v=gRGVwNggMX0
 youtube_url: https://www.youtube.com/watch?v=gRGVwNggMX0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: MLOps with PyCaret", "MLOps with PyCaret"]
 transcript: false

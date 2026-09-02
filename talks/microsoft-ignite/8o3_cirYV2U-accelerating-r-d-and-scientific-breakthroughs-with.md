@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["John Link", "Auloke Mathur", "Julie Mijajlovic", "Prashant Varshney"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-20T14:57:10Z
 video_id: 8o3_cirYV2U
+url: https://www.youtube.com/watch?v=8o3_cirYV2U
 youtube_url: https://www.youtube.com/watch?v=8o3_cirYV2U
 tags: ["Accelerating R&D and scientific breakthroughs with Microsoft Discovery | BRK182", "Auloke Mathur", "BRK182", "English (US)", "John Link", "Julie Mijajlovic", "Migrate and modernize your estate", "Prashant Varshney", "Technical", "f5n1", "fafa9f7a-cb82-4336-949b-36061581274c_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Accelerating R&D and scientific breakthroughs with Microsoft Discovery | BRK182
 
-**Speaker not identified**
+**John Link, Auloke Mathur, Julie Mijajlovic, Prashant Varshney**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

@@ -12,6 +12,7 @@ channel: null
 duration_min: 14
 published_at: null
 video_id: Pof-FtSOtuI
+url: https://www.youtube.com/watch?v=Pof-FtSOtuI
 youtube_url: https://www.youtube.com/watch?v=Pof-FtSOtuI
 tags: []
 transcript: false

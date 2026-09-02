@@ -12,6 +12,7 @@ channel: null
 duration_min: 22
 published_at: null
 video_id: BiTu9o1koyY
+url: https://www.youtube.com/watch?v=BiTu9o1koyY
 youtube_url: https://www.youtube.com/watch?v=BiTu9o1koyY
 tags: []
 transcript: false

@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Claire Gouze"]
 channel: "AI Council"
 duration_min: 14
 published_at: 2025-05-29T13:35:16Z
 video_id: oyJziKnpElo
+url: https://www.youtube.com/watch?v=oyJziKnpElo
 youtube_url: https://www.youtube.com/watch?v=oyJziKnpElo
 tags: ["startup", "AI code editor", "analytics engineering", "ChatGPT", "artificial intelligence", "machine learning", "data tools", "SQL editor", "data development", "IDE", "data teams", "context switching", "Python tutorial", "developer tools", "code editor", "integrated development environment", "workflow optimization", "productivity tools", "collaboration tools", "version control integration", "debugging tools", "code completionRetryClaude can make mistakes. Please double-check responses."]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # AI Launchpad 2025: NAO
 
-**Speaker not identified**
+**Claire Gouze**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `14 min`
 

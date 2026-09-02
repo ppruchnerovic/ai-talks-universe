@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T14:20:00+00:00
 video_id: UpwAj792WvI
+url: https://www.youtube.com/watch?v=UpwAj792WvI
 youtube_url: https://www.youtube.com/watch?v=UpwAj792WvI
 tags: ["Security & Privacy", "AI Coding Assistants", "AI Standards", "Agentic AI", "Best Practices", "Documentation", "Generative AI (GenAI)", "Governance", "Next.js", "Node.js", "PostgreSQL", "Privacy", "React", "Software Architecture", "TypeScript", "Vector Databases", "Vibe Coding"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "PyData"
 duration_min: 30
 published_at: 2025-11-23T14:33:55Z
 video_id: moEOrrtd93c
+url: https://www.youtube.com/watch?v=moEOrrtd93c
 youtube_url: https://www.youtube.com/watch?v=moEOrrtd93c
 tags: ["Conference", "Graphviz", "PyConDE", "PyData", "PyData Berlin", "Python", "Streamlit", "Tech Talk", "conditional funnels", "conversion optimization", "data analytics", "data science", "data visualization", "funnel analysis", "open source", "pandas", "user behavior", "user journey mapping", "web analytics"]
 transcript: false

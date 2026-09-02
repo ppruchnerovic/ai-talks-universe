@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 15
 published_at: 2023-05-11T20:50:22Z
 video_id: mQPWxgaNU5Q
+url: https://www.youtube.com/watch?v=mQPWxgaNU5Q
 youtube_url: https://www.youtube.com/watch?v=mQPWxgaNU5Q
 tags: ["benchmarking", "analytics", "data set"]
 transcript: false

@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 29
 published_at: 2023-05-11T18:59:43Z
 video_id: n2GO1EN5If8
+url: https://www.youtube.com/watch?v=n2GO1EN5If8
 youtube_url: https://www.youtube.com/watch?v=n2GO1EN5If8
 tags: ["dataops", "dashboards", "analytics"]
 transcript: false

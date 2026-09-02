@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T08:10:00+00:00
 video_id: MtmoTYZnN4I
+url: https://www.youtube.com/watch?v=MtmoTYZnN4I
 youtube_url: https://www.youtube.com/watch?v=MtmoTYZnN4I
 tags: ["Languages & Runtimes", "JavaScript", "Node.js", "TypeScript"]
 transcript: true

@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 44
 published_at: 2025-11-26T20:02:30Z
 video_id: JE1i95e2nIk
+url: https://www.youtube.com/watch?v=JE1i95e2nIk
 youtube_url: https://www.youtube.com/watch?v=JE1i95e2nIk
 tags: ["English (US)", "Grow your business with Microsoft AI Cloud Partner Program | PBRK415-R1", "Microsoft AI Cloud Partner Program", "PBRK415-R1", "Partner Business", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false

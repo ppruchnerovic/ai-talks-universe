@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 33
 published_at: 2025-09-09T09:17:26Z
 video_id: TaIRA-J4eUY
+url: https://www.youtube.com/watch?v=TaIRA-J4eUY
 youtube_url: https://www.youtube.com/watch?v=TaIRA-J4eUY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
 transcript: false

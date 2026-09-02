@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Konstantinos Kitsios"]
 channel: "Devoxx"
 duration_min: 20
 published_at: 2026-02-27T13:52:49Z
 video_id: hrBsQSG5Eos
+url: https://www.youtube.com/watch?v=hrBsQSG5Eos
 youtube_url: https://www.youtube.com/watch?v=hrBsQSG5Eos
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Bug fixed, now what? by Konstantinos Kitsios
 
-**Speaker not identified**
+**Konstantinos Kitsios**
 
 `Devoxx` · `Devoxx` · `2026` · `20 min`
 

@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T08:50:00+00:00
 video_id: PQs0SEfwcCo
+url: https://www.youtube.com/watch?v=PQs0SEfwcCo
 youtube_url: https://www.youtube.com/watch?v=PQs0SEfwcCo
 tags: ["Quality & Reliability", "AI Coding Assistants", "Test-Driven Development (TDD)", "Testing"]
 transcript: true

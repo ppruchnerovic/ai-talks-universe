@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Yuna Funamoto", "Tadashi Okazaki"]
 channel: "Microsoft Events"
 duration_min: 128
 published_at: 2025-11-24T04:59:54Z
 video_id: IXeUNP4mt78
+url: https://www.youtube.com/watch?v=IXeUNP4mt78
 youtube_url: https://www.youtube.com/watch?v=IXeUNP4mt78
 tags: ["BRK405", "BRK405_v1", "Japan Wrap-up Session [Language: Japanese] | BRK405", "Japanese", "Other", "Tadashi Okazaki", "Technical", "Yuna Funamoto", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Japan Wrap-up Session [Language: Japanese] | BRK405
 
-**Speaker not identified**
+**Yuna Funamoto, Tadashi Okazaki**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `128 min`
 

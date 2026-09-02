@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Ville Tuulos"]
 channel: "AI Council"
 duration_min: 39
 published_at: 2024-04-19T05:00:24Z
 video_id: tRQzhJuRXkk
+url: https://www.youtube.com/watch?v=tRQzhJuRXkk
 youtube_url: https://www.youtube.com/watch?v=tRQzhJuRXkk
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Beyond MLOps: Building AI systems with Metaflow
 
-**Speaker not identified**
+**Ville Tuulos**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `39 min`
 

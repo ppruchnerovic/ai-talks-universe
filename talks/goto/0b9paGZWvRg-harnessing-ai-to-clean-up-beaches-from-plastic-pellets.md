@@ -7,11 +7,12 @@ conference_name: "GOTO Conferences"
 category: "Software dev with AI tracks"
 edition: "GOTO"
 year: 2024
-speakers: []
+speakers: ["Signe Simonsen", "Julian Wood"]
 channel: null
 duration_min: 12
 published_at: null
 video_id: 0b9paGZWvRg
+url: https://www.youtube.com/watch?v=0b9paGZWvRg
 youtube_url: https://www.youtube.com/watch?v=0b9paGZWvRg
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Harnessing AI to Clean up Beaches from Plastic Pellets • Signe Simonsen & Julian Wood • GOTO 2024
 
-**Speaker not identified**
+**Signe Simonsen, Julian Wood**
 
 `GOTO Conferences` · `GOTO` · `2024` · `12 min`
 

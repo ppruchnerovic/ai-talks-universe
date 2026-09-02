@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 22
 published_at: 2026-07-10T13:40:00+00:00
 video_id: 4XaMAwp5iOI
+url: https://www.youtube.com/watch?v=4XaMAwp5iOI
 youtube_url: https://www.youtube.com/watch?v=4XaMAwp5iOI
 tags: ["AI Agents", "APIs", "AWS", "Agents", "Agentic AI", "Azure", "Digital Transformation", "Distributed Systems", "Infrastructure", "Innovation"]
 transcript: true

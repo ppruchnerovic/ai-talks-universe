@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 33
 published_at: 2026-07-10T13:40:00+00:00
 video_id: HS8BvnGdehQ
+url: https://www.youtube.com/watch?v=HS8BvnGdehQ
 youtube_url: https://www.youtube.com/watch?v=HS8BvnGdehQ
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "Anthropic", "Agents", "Agentic AI", "Code Generation", "Innovation", "OpenAI"]
 transcript: true

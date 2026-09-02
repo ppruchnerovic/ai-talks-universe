@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-10T14:20:00+00:00
 video_id: OtZnGP14b0Q
+url: https://www.youtube.com/watch?v=OtZnGP14b0Q
 youtube_url: https://www.youtube.com/watch?v=OtZnGP14b0Q
 tags: ["AI Engineering", "Agentic AI", "Automation", "Reinforcement Learning", "Small Language Models (SLMs)"]
 transcript: true

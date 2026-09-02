@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Chintan Parikh", "Weiyi Wang"]
 channel: "AI Engineer"
 duration_min: 24
 published_at: 2026-05-05T00:00:00Z
 video_id: Lm8BLHkxiAo
+url: https://www.youtube.com/watch?v=Lm8BLHkxiAo
 youtube_url: https://www.youtube.com/watch?v=Lm8BLHkxiAo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Accelerating AI on Edge — Chintan Parikh and Weiyi Wang, Google DeepMind
 
-**Speaker not identified**
+**Chintan Parikh, Weiyi Wang**
 
 `AI Engineer` · `AI Engineer` · `2026` · `24 min`
 

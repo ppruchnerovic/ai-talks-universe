@@ -12,6 +12,7 @@ channel: "Berkeley RDI"
 duration_min: 9
 published_at: 2026-08-09T18:49:17Z
 video_id: yuIDarp_ly8
+url: https://www.youtube.com/watch?v=yuIDarp_ly8
 youtube_url: https://www.youtube.com/watch?v=yuIDarp_ly8
 tags: []
 transcript: true

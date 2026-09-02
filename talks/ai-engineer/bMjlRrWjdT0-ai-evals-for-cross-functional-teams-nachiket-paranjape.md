@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2026
-speakers: []
+speakers: ["Nachiket Paranjape", "Swaroop Chitlur Haridas"]
 channel: "AI Engineer"
 duration_min: 16
 published_at: 2026-08-28T00:00:00Z
 video_id: bMjlRrWjdT0
+url: https://www.youtube.com/watch?v=bMjlRrWjdT0
 youtube_url: https://www.youtube.com/watch?v=bMjlRrWjdT0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # AI Evals for Cross-Functional Teams — Nachiket Paranjape & Swaroop Chitlur Haridas, DoorDash
 
-**Speaker not identified**
+**Nachiket Paranjape, Swaroop Chitlur Haridas**
 
 `AI Engineer` · `AI Engineer` · `2026` · `16 min`
 

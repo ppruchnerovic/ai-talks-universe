@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Brian Vermeer"]
 channel: "Devoxx"
 duration_min: 54
 published_at: 2025-10-10T05:09:22Z
 video_id: 72e_0WxaQl0
+url: https://www.youtube.com/watch?v=72e_0WxaQl0
 youtube_url: https://www.youtube.com/watch?v=72e_0WxaQl0
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Understanding Prompt Injection Techniques, Challenges, and Advanced Escalation by Brian Vermeer
 
-**Speaker not identified**
+**Brian Vermeer**
 
 `Devoxx` · `Devoxx` · `2025` · `54 min`
 

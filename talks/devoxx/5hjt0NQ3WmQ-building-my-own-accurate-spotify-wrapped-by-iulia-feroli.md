@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2026
-speakers: []
+speakers: ["Iulia Feroli"]
 channel: "Devoxx"
 duration_min: 16
 published_at: 2026-04-09T19:02:48Z
 video_id: 5hjt0NQ3WmQ
+url: https://www.youtube.com/watch?v=5hjt0NQ3WmQ
 youtube_url: https://www.youtube.com/watch?v=5hjt0NQ3WmQ
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building my own (accurate!) Spotify Wrapped by Iulia Feroli
 
-**Speaker not identified**
+**Iulia Feroli**
 
 `Devoxx` · `Devoxx` · `2026` · `16 min`
 

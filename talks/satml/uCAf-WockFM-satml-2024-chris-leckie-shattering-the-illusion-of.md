@@ -12,6 +12,7 @@ channel: "Nicolas Papernot"
 duration_min: 19
 published_at: null
 video_id: uCAf-WockFM
+url: https://www.youtube.com/watch?v=uCAf-WockFM
 youtube_url: https://www.youtube.com/watch?v=uCAf-WockFM
 tags: []
 transcript: false

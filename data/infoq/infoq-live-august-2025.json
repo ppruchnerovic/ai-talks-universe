@@ -1,0 +1,33 @@
+{
+  "edition": "infoq-live-august-2025",
+  "name": "InfoQ Live - August 2025",
+  "year": 2025,
+  "fetched_at": "2026-09-01T21:35:10+00:00",
+  "count": 1,
+  "talks": {
+    "platform-engineering-patterns-scalability": {
+      "slug": "platform-engineering-patterns-scalability",
+      "page_url": "https://www.infoq.com/presentations/platform-engineering-patterns-scalability/",
+      "has_transcript": false,
+      "title": "Platform Engineering Patterns for Scalable Software Delivery",
+      "description": "Building a successful Internal Developer Platform (IDP) requires balancing standardization with developer autonomy. The panelists discuss the core components of modern platforms, the role of platform teams, and strategies for driving adoption across diverse teams. They also share key patterns, anti-patterns, and lessons learned.\n\nCat Morris is the Product Manager @Syntasso. Martin Reynolds is Field CTO @Harness. Mike Fiedler is Code Gardener. Boyan Dimitrov is CTO @Sixt Boyan Dimitrov is Chief Technology Officer (CTO) of SIXT. Renato Losio is InfoQ Editor.",
+      "speakers": [
+        "Cat Morris",
+        "Martin Reynolds",
+        "Mike Fiedler",
+        "Boyan Dimitrov",
+        "Renato Losio"
+      ],
+      "duration_s": 3717,
+      "published_at": "2025-09-02T12:16:00+0000",
+      "video_url": "https://videog.infoq.com/presentations/25-aug-platformengpatterns2.mp4",
+      "id": "iq-platform-engineering-patterns-scalability",
+      "matched_youtube": false,
+      "edition": "infoq-live-august-2025",
+      "edition_name": "InfoQ Live - August 2025",
+      "year": 2025,
+      "transcript_words": 9193,
+      "fetched_at": "2026-09-01T21:35:10+00:00"
+    }
+  }
+}

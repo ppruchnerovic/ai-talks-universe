@@ -12,6 +12,7 @@ channel: "AI Engineer"
 duration_min: 21
 published_at: 2026-08-26T00:00:00Z
 video_id: DrTdD-ttjCY
+url: https://www.youtube.com/watch?v=DrTdD-ttjCY
 youtube_url: https://www.youtube.com/watch?v=DrTdD-ttjCY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
 transcript: true

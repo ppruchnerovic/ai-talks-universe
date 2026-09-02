@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Jake Thomas"]
 channel: "AI Council"
 duration_min: 25
 published_at: 2025-05-29T13:27:56Z
 video_id: GjwvwiSb4Ww
+url: https://www.youtube.com/watch?v=GjwvwiSb4Ww
 youtube_url: https://www.youtube.com/watch?v=GjwvwiSb4Ww
 tags: ["Okta", "embedded OLAP", "ChatGPT", "artificial intelligence", "machine learning", "analytics", "business intelligence", "data engineering tutorial", "serverless databases", "data architecture", "real time analytics", "embedded analytics", "Python tutorial", "identity analytics", "security analytics", "access analytics", "user behavior analytics", "authentication metrics", "authorization patterns", "compliance reporting", "audit logs", "risk assessment", "fraud detection"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Embedding OLAP, Everywhere Lessons from Okta
 
-**Speaker not identified**
+**Jake Thomas**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `25 min`
 

@@ -12,6 +12,7 @@ channel: "Newcomer"
 duration_min: 27
 published_at: 2025-06-27T12:31:52Z
 video_id: RAXouOgCG4E
+url: https://www.youtube.com/watch?v=RAXouOgCG4E
 youtube_url: https://www.youtube.com/watch?v=RAXouOgCG4E
 tags: []
 transcript: false

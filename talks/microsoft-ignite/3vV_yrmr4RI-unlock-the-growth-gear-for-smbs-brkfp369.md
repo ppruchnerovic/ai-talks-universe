@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Jan Jofra", "Dan Rippey", "Ana Stranaghan"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2024-11-21T10:31:31Z
 video_id: 3vV_yrmr4RI
+url: https://www.youtube.com/watch?v=3vV_yrmr4RI
 youtube_url: https://www.youtube.com/watch?v=3vV_yrmr4RI
 tags: ["AI", "Ana Stranaghan", "BRKFP369", "Breakout", "Dan Rippey", "English (US)", "Intermediate (200)", "Jan Jofra", "Management", "Partner Business", "Program management", "SMB", "Small and medium-sized businesses", "Small businesses", "Unlock the growth gear for SMBs | BRKFP369", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unlock the growth gear for SMBs | BRKFP369
 
-**Speaker not identified**
+**Jan Jofra, Dan Rippey, Ana Stranaghan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `43 min`
 

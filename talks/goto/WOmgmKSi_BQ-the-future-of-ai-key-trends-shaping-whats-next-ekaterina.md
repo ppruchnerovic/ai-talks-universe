@@ -12,6 +12,7 @@ channel: null
 duration_min: 43
 published_at: null
 video_id: WOmgmKSi_BQ
+url: https://www.youtube.com/watch?v=WOmgmKSi_BQ
 youtube_url: https://www.youtube.com/watch?v=WOmgmKSi_BQ
 tags: []
 transcript: false

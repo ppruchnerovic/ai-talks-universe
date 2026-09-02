@@ -12,6 +12,7 @@ channel: null
 duration_min: 48
 published_at: null
 video_id: Gn9r-80z0Qc
+url: https://www.youtube.com/watch?v=Gn9r-80z0Qc
 youtube_url: https://www.youtube.com/watch?v=Gn9r-80z0Qc
 tags: []
 transcript: false

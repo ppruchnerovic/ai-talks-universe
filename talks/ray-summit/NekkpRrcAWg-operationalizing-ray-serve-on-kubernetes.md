@@ -12,6 +12,7 @@ channel: "Anyscale"
 duration_min: 30
 published_at: 2023-02-09T03:08:55Z
 video_id: NekkpRrcAWg
+url: https://www.youtube.com/watch?v=NekkpRrcAWg
 youtube_url: https://www.youtube.com/watch?v=NekkpRrcAWg
 tags: []
 transcript: false

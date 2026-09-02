@@ -7,11 +7,12 @@ conference_name: "MCP Dev Summit"
 category: "AI engineering & agents"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
-speakers: []
+speakers: ["Olivier Chafik", "Anton Pidkuiko"]
 channel: "Agentic AI Foundation"
 duration_min: 30
 published_at: 2026-04-13T23:16:15Z
 video_id: Xh__6GtirHM
+url: https://www.youtube.com/watch?v=Xh__6GtirHM
 youtube_url: https://www.youtube.com/watch?v=Xh__6GtirHM
 tags: []
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # MCP Apps Best Practices: Patterns and Pitfalls - Olivier Chafik & Anton Pidkuiko, Anthropic
 
-**Speaker not identified**
+**Olivier Chafik, Anton Pidkuiko**
 
 `MCP Dev Summit` · `MCP Dev Summit NA 2026` · `2026` · `30 min`
 

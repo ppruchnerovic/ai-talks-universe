@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 30
 published_at: 2026-07-09T11:30:00+00:00
 video_id: A3RQP-hfNHw
+url: https://www.youtube.com/watch?v=A3RQP-hfNHw
 youtube_url: https://www.youtube.com/watch?v=A3RQP-hfNHw
 tags: ["People & Culture", "AI Models", "AI Standards"]
 transcript: true

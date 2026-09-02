@@ -7,11 +7,12 @@ conference_name: "MLOps World / Toronto Machine Learning Summit"
 category: "AI engineering & agents"
 edition: "MLOps World / TMLS"
 year: 2025
-speakers: ["Eric Reese", "Senior Manager"]
+speakers: ["Eric Reese"]
 channel: "Toronto Machine Learning Society (TMLS)"
 duration_min: 27
 published_at: 2025-10-23T04:59:01Z
 video_id: 4wUIX-1etaE
+url: https://www.youtube.com/watch?v=4wUIX-1etaE
 youtube_url: https://www.youtube.com/watch?v=4wUIX-1etaE
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Don’t Page the Planet: Trust-Weighted Ops Decisions | Eric Reese, Best Buy
 
-**Eric Reese, Senior Manager**
+**Eric Reese**
 
 `MLOps World / Toronto Machine Learning Summit` · `MLOps World / TMLS` · `2025` · `27 min`
 

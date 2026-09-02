@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T12:50:00+00:00
 video_id: qBEu0ekViG4
+url: https://www.youtube.com/watch?v=qBEu0ekViG4
 youtube_url: https://www.youtube.com/watch?v=qBEu0ekViG4
 tags: ["Languages & Runtimes", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "AI Models", "AI Standards", "Anthropic", "Agents", "Agentic AI", "Best Practices", "Business Models", "Career Development", "Claude", "Clean Code", "Code Reviews", "Collaboration", "Communication", "Copilot", "Developer Experience (DevEx)", "Digital Transformation", "Entrepreneurship", "Future of Work", "Gemini", "Governance", "Mistral", "People & Culture", "Runtimes", "Safety", "Scaling", "Secure Coding", "Software Architecture", "Startups", "System Design", "Test-Driven Development (TDD)", "Tooling", "Tools", "Type Systems", "Vibe Coding"]
 transcript: true

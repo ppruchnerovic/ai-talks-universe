@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Nathan Cartwright"]
 channel: "Microsoft Events"
 duration_min: 47
 published_at: 2024-11-25T15:26:31Z
 video_id: oBgOCv0wui8
+url: https://www.youtube.com/watch?v=oBgOCv0wui8
 youtube_url: https://www.youtube.com/watch?v=oBgOCv0wui8
 tags: ["AI", "Advanced (300)", "BRKFP383", "Breakout", "Developer", "English (US)", "Nathan Cartwright", "Revolutionizing customer experience with Azure TTS Avatar and OpenAI | BRKFP383", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Revolutionizing customer experience with Azure TTS Avatar and OpenAI | BRKFP383
 
-**Speaker not identified**
+**Nathan Cartwright**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `47 min`
 

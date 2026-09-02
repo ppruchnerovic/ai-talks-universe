@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Hannes Mühleisen"]
 channel: "AI Council"
 duration_min: 34
 published_at: 2025-05-29T14:16:39Z
 video_id: o53onmgnQDU
+url: https://www.youtube.com/watch?v=o53onmgnQDU
 youtube_url: https://www.youtube.com/watch?v=o53onmgnQDU
 tags: ["SQL tutorial", "DuckDB", "database tutorial", "ChatGPT", "artificial intelligence", "machine learning", "data analysis", "Python tutorial", "data science", "analytics", "embedded database", "OLAP", "analytical database", "data processing", "query optimization", "vectorized query processing", "in memory database", "columnar storage", "analytical queries", "data exploration", "interactive analytics", "SQL performance", "query engine", "database internals", "data warehouse", "business intelligence"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # DuckDB Co-Creator Hannes Mühleisen on Why Single-Node Beats Distributed
 
-**Speaker not identified**
+**Hannes Mühleisen**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `34 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2025-10-30T15:01:25Z
 video_id: 6E0_Zsj88Gw
+url: https://www.youtube.com/watch?v=6E0_Zsj88Gw
 youtube_url: https://www.youtube.com/watch?v=6E0_Zsj88Gw
 tags: ["David Boyne", "Architecture", "Microservices", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "DDD", "Domain-Driven Design", "Design", "Domain", "Driven"]
 transcript: false

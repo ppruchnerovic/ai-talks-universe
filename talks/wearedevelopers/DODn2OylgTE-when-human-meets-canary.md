@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 27
 published_at: 2026-07-10T09:00:00+00:00
 video_id: DODn2OylgTE
+url: https://www.youtube.com/watch?v=DODn2OylgTE
 youtube_url: https://www.youtube.com/watch?v=DODn2OylgTE
 tags: ["DevOps", "CI/CD"]
 transcript: true

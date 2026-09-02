@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Cliff Simpkins"]
 channel: "Microsoft Developer"
 duration_min: 20
 published_at: 2026-06-03T08:05:53Z
 video_id: kUDXvURx-yk
+url: https://www.youtube.com/watch?v=kUDXvURx-yk
 youtube_url: https://www.youtube.com/watch?v=kUDXvURx-yk
 tags: ["AI", "Agents", "Apply orchestration patterns for production AI agents | ODSP906", "Azure DevOps", "Cliff Simpkins", "Developer", "Enterprise", "GitHub", "GitHub Copilot", "MS Teams", "ODSP906", "ODSP906_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Apply orchestration patterns for production AI agents | ODSP906
 
-**Speaker not identified**
+**Cliff Simpkins**
 
 `Microsoft Build` · `Build 2026` · `2026` · `20 min`
 

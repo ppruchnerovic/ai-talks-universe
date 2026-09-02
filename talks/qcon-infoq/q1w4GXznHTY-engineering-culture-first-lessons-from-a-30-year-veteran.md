@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 29
 published_at: 2025-07-25T10:01:08Z
 video_id: q1w4GXznHTY
+url: https://www.youtube.com/watch?v=q1w4GXznHTY
 youtube_url: https://www.youtube.com/watch?v=q1w4GXznHTY
 tags: ["Engineering Leadership", "Software Engineering", "Tech Culture", "Teamwork", "Teams", "Productivity", "Psychological Safety", "Creativity", "Learning", "Engineering Culture Podcast"]
 transcript: false

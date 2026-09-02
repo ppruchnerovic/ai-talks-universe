@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Brendan Burns", "Jorge Palma", "Durga Rachapudi"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T17:22:46Z
 video_id: c0WqMuVYfmk
+url: https://www.youtube.com/watch?v=c0WqMuVYfmk
 youtube_url: https://www.youtube.com/watch?v=c0WqMuVYfmk
 tags: ["0742f636-d31a-4019-8d40-6fd9643f0d34_Segment", "BRK120", "Brendan Burns", "Durga Rachapudi", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Jorge Palma", "Scaling Kubernetes securely and reliably with AKS | BRK120", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Scaling Kubernetes securely and reliably with AKS | BRK120
 
-**Speaker not identified**
+**Brendan Burns, Jorge Palma, Durga Rachapudi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

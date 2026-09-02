@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Igal Figlin", "Narayan Annamalai", "Aung Oo"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-20T10:13:27Z
 video_id: SXLc-pCUpzg
+url: https://www.youtube.com/watch?v=SXLc-pCUpzg
 youtube_url: https://www.youtube.com/watch?v=SXLc-pCUpzg
 tags: ["23b01eae-3105-4144-b772-45506fe548a5_Segment", "Aung Oo", "BRK171", "English (US)", "Igal Figlin", "Migrate and modernize your estate", "Narayan Annamalai", "Technical", "What’s new and what’s next in Azure IaaS | BRK171", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # What’s new and what’s next in Azure IaaS | BRK171
 
-**Speaker not identified**
+**Igal Figlin, Narayan Annamalai, Aung Oo**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

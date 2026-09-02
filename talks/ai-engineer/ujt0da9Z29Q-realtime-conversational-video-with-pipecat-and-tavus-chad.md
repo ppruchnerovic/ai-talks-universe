@@ -7,11 +7,12 @@ conference_name: "AI Engineer"
 category: "AI engineering & agents"
 edition: "AI Engineer"
 year: 2025
-speakers: []
+speakers: ["Chad Bailey", "Brian Johnson"]
 channel: "AI Engineer"
 duration_min: 19
 published_at: 2025-06-27T10:30:54Z
 video_id: ujt0da9Z29Q
+url: https://www.youtube.com/watch?v=ujt0da9Z29Q
 youtube_url: https://www.youtube.com/watch?v=ujt0da9Z29Q
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Realtime Conversational Video with Pipecat and Tavus — Chad Bailey and Brian Johnson, Daily & Tavus
 
-**Speaker not identified**
+**Chad Bailey, Brian Johnson**
 
 `AI Engineer` · `AI Engineer` · `2025` · `19 min`
 

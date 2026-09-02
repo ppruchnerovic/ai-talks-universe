@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 10
 published_at: 2026-07-10T11:20:00+00:00
 video_id: jSyv-XTGoK8
+url: https://www.youtube.com/watch?v=jSyv-XTGoK8
 youtube_url: https://www.youtube.com/watch?v=jSyv-XTGoK8
 tags: ["Quality & Reliability", "Developer Experience (DevEx)", "DevOps", "DevSecOps", "IBM", "Integration Testing", "People & Culture", "Reliability", "Site Reliability Engineering (SRE)"]
 transcript: true

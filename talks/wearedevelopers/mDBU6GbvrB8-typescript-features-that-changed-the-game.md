@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 14
 published_at: 2026-07-09T10:50:00+00:00
 video_id: mDBU6GbvrB8
+url: https://www.youtube.com/watch?v=mDBU6GbvrB8
 youtube_url: https://www.youtube.com/watch?v=mDBU6GbvrB8
 tags: ["Languages & Runtimes", "TypeScript"]
 transcript: true

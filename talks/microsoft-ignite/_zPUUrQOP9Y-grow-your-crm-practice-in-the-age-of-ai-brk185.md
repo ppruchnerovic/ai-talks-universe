@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Matthew Davis", "Keith Overa", "Girish Smith"]
 channel: "Microsoft Events"
 duration_min: 51
 published_at: 2024-11-21T15:14:32Z
 video_id: _zPUUrQOP9Y
+url: https://www.youtube.com/watch?v=_zPUUrQOP9Y
 youtube_url: https://www.youtube.com/watch?v=_zPUUrQOP9Y
 tags: ["BRK185", "Breakout", "Business Applications", "Business Applications-Curated", "English (US)", "Foundational (100)", "Girish Smith", "Grow your CRM practice in the age of AI | BRK185", "Keith Overa", "Matthew Davis", "Partner Business", "Solution Area", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Grow your CRM practice in the age of AI | BRK185
 
-**Speaker not identified**
+**Matthew Davis, Keith Overa, Girish Smith**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `51 min`
 

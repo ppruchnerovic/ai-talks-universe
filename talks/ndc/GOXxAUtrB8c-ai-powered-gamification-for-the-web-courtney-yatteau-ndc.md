@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 52
 published_at: 2026-08-05T08:12:35Z
 video_id: GOXxAUtrB8c
+url: https://www.youtube.com/watch?v=GOXxAUtrB8c
 youtube_url: https://www.youtube.com/watch?v=GOXxAUtrB8c
 tags: ["Courtney Yatteau", "Web", "AI", "Gaming", "JavaScript", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark"]
 transcript: true

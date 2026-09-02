@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 30
 published_at: 2025-07-14T11:52:34Z
 video_id: RR6AUoM4IJM
+url: https://www.youtube.com/watch?v=RR6AUoM4IJM
 youtube_url: https://www.youtube.com/watch?v=RR6AUoM4IJM
 tags: ["teamwork", "teams", "productivity", "psychological safety", "creativity", "AI", "prototying", "AI Code generation", "Engineering Culture Podcast", "engineeringleadership", "softwarearchitecture", "aifordevelopers"]
 transcript: false

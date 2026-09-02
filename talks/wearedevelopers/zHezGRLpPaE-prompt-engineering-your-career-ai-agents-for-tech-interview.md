@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 13
 published_at: 2026-07-10T08:20:00+00:00
 video_id: zHezGRLpPaE
+url: https://www.youtube.com/watch?v=zHezGRLpPaE
 youtube_url: https://www.youtube.com/watch?v=zHezGRLpPaE
 tags: ["Career & Growth", "Career Development", "Prompt Engineering"]
 transcript: true

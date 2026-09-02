@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 29
 published_at: 2026-07-09T12:10:00+00:00
 video_id: pd2etELNLxw
+url: https://www.youtube.com/watch?v=pd2etELNLxw
 youtube_url: https://www.youtube.com/watch?v=pd2etELNLxw
 tags: ["DevOps", "AI Standards", "Agents", "Agentic AI", "Automation", "Best Practices", "DevOps", "DevSecOps", "Generative AI (GenAI)", "GitOps", "Governance", "Infrastructure as Code (IaC)", "System Design", "YAML"]
 transcript: true

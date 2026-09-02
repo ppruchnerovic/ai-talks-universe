@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Umair Khan", "Van Wolfe"]
 channel: "Microsoft Events"
 duration_min: 33
 published_at: 2024-11-20T14:22:05Z
 video_id: XKaAX1psMBg
+url: https://www.youtube.com/watch?v=XKaAX1psMBg
 youtube_url: https://www.youtube.com/watch?v=XKaAX1psMBg
 tags: ["Automation", "Boosting visibility efficiency with cloud usage optimization as code | ODFP982", "English (US)", "Intermediate (200)", "ODFP982", "Pre-recorded", "Technical", "Umair Khan", "Van Wolfe", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Boosting visibility efficiency with cloud usage optimization as code | ODFP982
 
-**Speaker not identified**
+**Umair Khan, Van Wolfe**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `33 min`
 

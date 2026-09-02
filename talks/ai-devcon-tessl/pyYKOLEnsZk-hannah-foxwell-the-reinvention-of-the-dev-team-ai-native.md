@@ -12,6 +12,7 @@ channel: "AI Native Dev"
 duration_min: 35
 published_at: 2026-07-09T03:56:59Z
 video_id: pyYKOLEnsZk
+url: https://www.youtube.com/watch?v=pyYKOLEnsZk
 youtube_url: https://www.youtube.com/watch?v=pyYKOLEnsZk
 tags: ["AI Native DevCon June 2026", "AI driven development", "AI transformations", "Hannah Foxwell insights", "MBIM", "agentic coding", "agentic software development", "ainativedev", "dev team roles", "how AI changes dev team roles", "prototyping", "reinvention of dev teams", "software development", "team composition", "team composition in AI era"]
 transcript: true

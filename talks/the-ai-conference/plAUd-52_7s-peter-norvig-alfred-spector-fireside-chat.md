@@ -12,6 +12,7 @@ channel: "The AI Conference™"
 duration_min: 29
 published_at: 2024-12-20T18:15:53Z
 video_id: plAUd-52_7s
+url: https://www.youtube.com/watch?v=plAUd-52_7s
 youtube_url: https://www.youtube.com/watch?v=plAUd-52_7s
 tags: []
 transcript: false

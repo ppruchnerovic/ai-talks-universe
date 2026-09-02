@@ -7,11 +7,12 @@ conference_name: "Microsoft Build"
 category: "Vendor & platform"
 edition: "Build 2026"
 year: 2026
-speakers: []
+speakers: ["Daniel Roth"]
 channel: "Microsoft Developer"
 duration_min: 44
 published_at: 2026-06-03T14:41:10Z
 video_id: z2ppHjPRTjQ
+url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 youtube_url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 tags: [".NET", "C#"]
 transcript: true
@@ -19,7 +20,7 @@ transcript: true
 
 # Building for the agentic web with .NET 11 | OD802
 
-**Speaker not identified**
+**Daniel Roth**
 
 `Microsoft Build` · `Build 2026` · `2026` · `44 min`
 

@@ -7,11 +7,12 @@ conference_name: "IEEE SaTML"
 category: "AI security"
 edition: "SaTML 2024"
 year: 2024
-speakers: []
+speakers: ["Edoardo Debenedetti", "Daniel Paleka"]
 channel: "Nicolas Papernot"
 duration_min: 54
 published_at: null
 video_id: JodINm7redQ
+url: https://www.youtube.com/watch?v=JodINm7redQ
 youtube_url: https://www.youtube.com/watch?v=JodINm7redQ
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # SaTML 2024 - Edoardo Debenedetti & Daniel Paleka - Large Language Models Capture-the-Flag
 
-**Speaker not identified**
+**Edoardo Debenedetti, Daniel Paleka**
 
 `IEEE SaTML` · `SaTML 2024` · `2024` · `54 min`
 

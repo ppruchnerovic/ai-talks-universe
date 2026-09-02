@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2026-01-22T12:18:32Z
 video_id: kaPiA0Di6lw
+url: https://www.youtube.com/watch?v=kaPiA0Di6lw
 youtube_url: https://www.youtube.com/watch?v=kaPiA0Di6lw
 tags: ["QCon London", "Case Study", "LinkedIn", "AI Agents", "Artificial Intelligence", "LLMs", "LLMOps", "Software Architecture", "LinkedIn Engineering", "Hiring Assistent", "InfoQ", "Transcript"]
 transcript: true

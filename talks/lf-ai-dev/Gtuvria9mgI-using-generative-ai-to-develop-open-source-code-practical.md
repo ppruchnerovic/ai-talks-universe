@@ -12,6 +12,7 @@ channel: "The Linux Foundation"
 duration_min: 31
 published_at: 2023-12-18T18:30:24Z
 video_id: Gtuvria9mgI
+url: https://www.youtube.com/watch?v=Gtuvria9mgI
 youtube_url: https://www.youtube.com/watch?v=Gtuvria9mgI
 tags: []
 transcript: false

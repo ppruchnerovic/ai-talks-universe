@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["Josh Curl"]
 channel: "AI Council"
 duration_min: 27
 published_at: 2025-05-29T00:08:37Z
 video_id: bd6Zf_IzUl0
+url: https://www.youtube.com/watch?v=bd6Zf_IzUl0
 youtube_url: https://www.youtube.com/watch?v=bd6Zf_IzUl0
 tags: ["embedded partnerships", "AI implementation", "data teams", "ChatGPT", "artificial intelligence", "machine learning", "business alignment", "AI adoption", "data strategy", "enterprise AI", "organizational change", "Python tutorial", "stakeholder engagement", "cross functional collaboration", "business partnerships", "technical partnerships", "vendor relationships", "integration strategies", "change management", "project management", "strategic alliances"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Bridging AI Implementation Gap Strategies for Embedding Data Professionals w/ Business Units
 
-**Speaker not identified**
+**Josh Curl**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `27 min`
 

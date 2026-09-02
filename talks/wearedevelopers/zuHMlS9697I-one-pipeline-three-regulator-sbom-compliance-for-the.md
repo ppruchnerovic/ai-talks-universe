@@ -12,6 +12,7 @@ channel: "WeAreDevelopers"
 duration_min: 28
 published_at: 2026-07-09T14:50:00+00:00
 video_id: zuHMlS9697I
+url: https://www.youtube.com/watch?v=zuHMlS9697I
 youtube_url: https://www.youtube.com/watch?v=zuHMlS9697I
 tags: ["Security & Privacy", "Automation", "Compliance", "DevSecOps", "People & Culture", "SBOM", "Software Architecture"]
 transcript: true

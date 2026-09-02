@@ -12,6 +12,7 @@ channel: "DeepLearningAI"
 duration_min: 30
 published_at: 2025-12-05T19:59:02Z
 video_id: Axlesb8yTro
+url: https://www.youtube.com/watch?v=Axlesb8yTro
 youtube_url: https://www.youtube.com/watch?v=Axlesb8yTro
 tags: []
 transcript: false

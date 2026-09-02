@@ -12,6 +12,7 @@ channel: "Web Summit"
 duration_min: 18
 published_at: 2025-01-24T17:00:44Z
 video_id: XgiPLaU__O8
+url: https://www.youtube.com/watch?v=XgiPLaU__O8
 youtube_url: https://www.youtube.com/watch?v=XgiPLaU__O8
 tags: []
 transcript: false

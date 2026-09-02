@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2025
-speakers: []
+speakers: ["David Karam"]
 channel: "AI Council"
 duration_min: 19
 published_at: 2025-05-29T00:42:16Z
 video_id: CLskAsoUgEc
+url: https://www.youtube.com/watch?v=CLskAsoUgEc
 youtube_url: https://www.youtube.com/watch?v=CLskAsoUgEc
 tags: ["Google Search", "search algorithms", "information retrieval", "ChatGPT", "artificial intelligence", "machine learning", "search engine", "ranking algorithms", "search optimization", "relevance", "trustworthiness", "recency", "diversity", "Python tutorial", "web crawling", "indexing", "query processing", "search quality", "user intent", "semantic search", "personalization", "machine learning ranking", "neural information retrieval", "knowledge graphs"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Building SOTA Search: It’s Ranking All the Way Down
 
-**Speaker not identified**
+**David Karam**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2025` · `19 min`
 

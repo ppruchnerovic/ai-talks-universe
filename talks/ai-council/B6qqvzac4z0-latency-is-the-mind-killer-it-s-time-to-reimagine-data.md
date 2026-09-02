@@ -12,6 +12,7 @@ channel: "AI Council"
 duration_min: 32
 published_at: 2023-05-11T18:58:14Z
 video_id: B6qqvzac4z0
+url: https://www.youtube.com/watch?v=B6qqvzac4z0
 youtube_url: https://www.youtube.com/watch?v=B6qqvzac4z0
 tags: ["data tools", "data products", "business intelligence"]
 transcript: false

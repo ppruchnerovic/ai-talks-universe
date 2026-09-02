@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Scott Hunter", "Timothy Ng", "Kalpesh Sharma"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2025-11-21T08:07:34Z
 video_id: j8tOnA7GcZw
+url: https://www.youtube.com/watch?v=j8tOnA7GcZw
 youtube_url: https://www.youtube.com/watch?v=j8tOnA7GcZw
 tags: ["BRK103", "English (US)", "Kalpesh Sharma", "Migrate and modernize your estate", "Modernize SecOps with a unified platform", "Modernize SecOps with a unified platform:GitHub", "Modernize your apps in days with AI agents in GitHub Copilot | BRK103", "Scott Hunter", "Technical", "Timothy Ng", "e8a23213-bd88-4357-9234-646d3a8deaa4_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Modernize your apps in days with AI agents in GitHub Copilot | BRK103
 
-**Speaker not identified**
+**Scott Hunter, Timothy Ng, Kalpesh Sharma**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `46 min`
 

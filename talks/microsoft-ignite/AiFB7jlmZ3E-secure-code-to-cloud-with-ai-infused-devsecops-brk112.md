@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Oz Wilder", "Charlie Doubek", "Marcelo Oliveira", "Manuel Sanchez Rodriguez"]
 channel: "Microsoft Events"
 duration_min: 36
 published_at: 2025-11-25T15:36:04Z
 video_id: AiFB7jlmZ3E
+url: https://www.youtube.com/watch?v=AiFB7jlmZ3E
 youtube_url: https://www.youtube.com/watch?v=AiFB7jlmZ3E
 tags: ["BRK112", "Charlie Doubek", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Innovate with Azure AI apps and agents:Microsoft Defender for Cloud", "Marcelo Oliveira", "Oz Wilder", "Secure code to cloud with AI infused DevSecOps | BRK112", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Secure code to cloud with AI infused DevSecOps | BRK112
 
-**Speaker not identified**
+**Oz Wilder, Charlie Doubek, Marcelo Oliveira, Manuel Sanchez Rodriguez**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `36 min`
 

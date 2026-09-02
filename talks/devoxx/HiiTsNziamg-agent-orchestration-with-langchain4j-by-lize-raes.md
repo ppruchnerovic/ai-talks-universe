@@ -7,11 +7,12 @@ conference_name: "Devoxx"
 category: "Software dev with AI tracks"
 edition: "Devoxx"
 year: 2025
-speakers: []
+speakers: ["Lize Raes"]
 channel: "Devoxx"
 duration_min: 15
 published_at: 2025-10-09T05:36:06Z
 video_id: HiiTsNziamg
+url: https://www.youtube.com/watch?v=HiiTsNziamg
 youtube_url: https://www.youtube.com/watch?v=HiiTsNziamg
 tags: []
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Agent Orchestration with LangChain4J by Lize Raes
 
-**Speaker not identified**
+**Lize Raes**
 
 `Devoxx` · `Devoxx` · `2025` · `15 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Derah Onuorah", "Wassim Wehbi"]
 channel: "Microsoft Events"
 duration_min: 43
 published_at: 2025-11-25T15:48:25Z
 video_id: BLQ8XZ5PXF4
+url: https://www.youtube.com/watch?v=BLQ8XZ5PXF4
 youtube_url: https://www.youtube.com/watch?v=BLQ8XZ5PXF4
 tags: ["BRK315", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Copilot and agents at work:Microsoft 365 Copilot", "Deep dive into AI tools in Copilot Studio | BRK315", "English (US)", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Deep dive into AI tools in Copilot Studio | BRK315
 
-**Speaker not identified**
+**Derah Onuorah, Wassim Wehbi**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `43 min`
 

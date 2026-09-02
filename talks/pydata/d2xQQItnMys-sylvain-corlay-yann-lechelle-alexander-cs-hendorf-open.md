@@ -7,11 +7,12 @@ conference_name: "PyData"
 category: "AI engineering & agents"
 edition: "PyData"
 year: 2025
-speakers: ["Sylvain Corlay", "Open-source Business"]
+speakers: ["Sylvain Corlay"]
 channel: "PyData"
 duration_min: 32
 published_at: 2025-11-21T16:25:35Z
 video_id: d2xQQItnMys
+url: https://www.youtube.com/watch?v=d2xQQItnMys
 youtube_url: https://www.youtube.com/watch?v=d2xQQItnMys
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Sylvain Corlay, Yann Lechelle & Alexander CS Hendorf - Open-source Business
 
-**Sylvain Corlay, Open-source Business**
+**Sylvain Corlay**
 
 `PyData` · `PyData` · `2025` · `32 min`
 

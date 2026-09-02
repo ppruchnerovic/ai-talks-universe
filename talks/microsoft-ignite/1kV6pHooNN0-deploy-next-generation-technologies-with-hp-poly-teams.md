@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Greg Baribault", "Brandon Rebbe"]
 channel: "Microsoft Events"
 duration_min: 16
 published_at: 2024-11-20T13:50:58Z
 video_id: 1kV6pHooNN0
+url: https://www.youtube.com/watch?v=1kV6pHooNN0
 youtube_url: https://www.youtube.com/watch?v=1kV6pHooNN0
 tags: ["AI", "Brandon Rebbe", "Collaborative Work Management", "Deploy next generation technologies with HP | Poly Teams solutions | ODFP949", "Devices", "English (US)", "Enterprise work management", "Foundational (100)", "Greg Baribault", "Microsoft Teams", "ODFP949", "Pre-recorded", "Technical", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Deploy next generation technologies with HP | Poly Teams solutions | ODFP949
 
-**Speaker not identified**
+**Greg Baribault, Brandon Rebbe**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `16 min`
 

@@ -12,6 +12,7 @@ channel: "NDC Conferences"
 duration_min: 63
 published_at: 2026-05-27T15:00:27Z
 video_id: 6yyMKvprds4
+url: https://www.youtube.com/watch?v=6yyMKvprds4
 youtube_url: https://www.youtube.com/watch?v=6yyMKvprds4
 tags: ["DevOps", "Tools", "Workskills", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Adam Gardner"]
 transcript: true

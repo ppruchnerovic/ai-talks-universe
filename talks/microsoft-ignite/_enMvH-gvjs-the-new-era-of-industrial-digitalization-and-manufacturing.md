@@ -12,6 +12,7 @@ channel: "Microsoft Events"
 duration_min: 10
 published_at: 2024-11-21T10:34:08Z
 video_id: _enMvH-gvjs
+url: https://www.youtube.com/watch?v=_enMvH-gvjs
 youtube_url: https://www.youtube.com/watch?v=_enMvH-gvjs
 tags: ["AI", "BRKFP380", "Breakout", "Developer", "English (US)", "Foundational (100)", "Ganesh Sivaraman", "James McKenna", "Microsoft Edge", "Microsoft Edge for Business", "Power Apps", "Power Platform", "Sean Parham", "Technical", "The new era of industrial digitalization and manufacturing innovation | BRKFP380", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false

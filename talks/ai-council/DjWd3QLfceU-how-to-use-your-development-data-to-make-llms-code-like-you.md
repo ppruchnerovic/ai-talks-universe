@@ -7,11 +7,12 @@ conference_name: "AI Council (formerly Data Council)"
 category: "AI engineering & agents"
 edition: "Data Council / AI Council"
 year: 2024
-speakers: []
+speakers: ["Tyler Dunn"]
 channel: "AI Council"
 duration_min: 26
 published_at: 2024-04-19T05:00:04Z
 video_id: DjWd3QLfceU
+url: https://www.youtube.com/watch?v=DjWd3QLfceU
 youtube_url: https://www.youtube.com/watch?v=DjWd3QLfceU
 tags: ["machine learning", "computer vision", "AI"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # How to Use Your Development Data to Make LLMs Code Like You and Your Team
 
-**Speaker not identified**
+**Tyler Dunn**
 
 `AI Council (formerly Data Council)` · `Data Council / AI Council` · `2024` · `26 min`
 

@@ -12,6 +12,7 @@ channel: "InfoQ"
 duration_min: 50
 published_at: 2024-11-19T11:30:31Z
 video_id: lYa9qiM_ZvE
+url: https://www.youtube.com/watch?v=lYa9qiM_ZvE
 youtube_url: https://www.youtube.com/watch?v=lYa9qiM_ZvE
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Large Language Models", "LLMs", "Software Architecture", "InfoQ", "QCon London", "Transcript"]
 transcript: false

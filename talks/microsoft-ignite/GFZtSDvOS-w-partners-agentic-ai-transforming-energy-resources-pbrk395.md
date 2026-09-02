@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2025"
 year: 2025
-speakers: []
+speakers: ["Stephanie Comardelle", "Mike Rossi", "Rob Schapiro"]
 channel: "Microsoft Events"
 duration_min: 45
 published_at: 2025-11-24T13:25:12Z
 video_id: GFZtSDvOS-w
+url: https://www.youtube.com/watch?v=GFZtSDvOS-w
 youtube_url: https://www.youtube.com/watch?v=GFZtSDvOS-w
 tags: ["Energy and Resources", "English (US)", "Microsoft AI Cloud Partner Program", "Mike Rossi", "Other", "PBRK395", "Partner Business", "Partners + Agentic AI: Transforming Energy & Resources | PBRK395", "Rob Schapiro", "Stephanie Comardelle", "ab9db9a9-062f-4471-a1f2-27a3808d06fe_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Partners + Agentic AI: Transforming Energy & Resources | PBRK395
 
-**Speaker not identified**
+**Stephanie Comardelle, Mike Rossi, Rob Schapiro**
 
 `Microsoft Ignite` · `Ignite 2025` · `2025` · `45 min`
 

@@ -7,11 +7,12 @@ conference_name: "Microsoft Ignite"
 category: "Vendor & platform"
 edition: "Ignite 2024"
 year: 2024
-speakers: []
+speakers: ["Daniel Pickworth", "Sundar Raghavan"]
 channel: "Microsoft Events"
 duration_min: 46
 published_at: 2024-11-20T13:45:47Z
 video_id: N685aElPewE
+url: https://www.youtube.com/watch?v=N685aElPewE
 youtube_url: https://www.youtube.com/watch?v=N685aElPewE
 tags: ["BRK160", "Breakout", "Business Applications", "Business Applications-Curated", "Daniel Pickworth", "Edgar Wilson II", "English (US)", "Sundar Raghavan", "Technical", "Unleash next-level customer service with Copilot and agents in Dynamics 365 | BRK160", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
 transcript: false
@@ -19,7 +20,7 @@ transcript: false
 
 # Unleash next-level customer service with Copilot and agents in Dynamics 365 | BRK160
 
-**Speaker not identified**
+**Daniel Pickworth, Sundar Raghavan**
 
 `Microsoft Ignite` · `Ignite 2024` · `2024` · `46 min`
 
