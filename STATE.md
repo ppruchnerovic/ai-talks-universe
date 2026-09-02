@@ -31,8 +31,8 @@ new here is the catalogue layer, because there is no agenda API.
 | Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. Rewritten 2026-09-01 around a retrieval ladder that costs ~17k tokens a question instead of ~150k — see *Making the skill affordable*. Revised 2026-09-02 (section F): no hard-coded counts (`query.py --stats` instead), search the topic's words not the question, `url` rather than a YouTube template, `~` timestamps cited as approximate, `year` is the edition's, `-n` is a budget. |
 | Transcripts | **3,174 of 9,048** over 35 conferences — 2,946 with exact timings (four of them held back from the index as ASR failures) and 228 estimated, from infoq.com. Before InfoQ: 2,946 of 8,822, all exact. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete**: of its 2,942 talks, 2,914 have a transcript and 28 have no captions, so nothing is pending. `I1GvlW1H4WI` entered the scope when the year-from-title fallback was fixed and was fetched for one credit — see *The pre-2023 cut*. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
-| Workflows | Both run. `pages.yml` was rewritten on 2026-09-02: it now runs `tools/assemble_site.sh` and pushes only what the browser fetches to `gh-pages` as one orphan commit — 249 MB instead of the whole 411 MB repo. **Not yet verified live**: the rewrite is on the `infoq-presentations` branch and has not been through a push to `main`; watch the first deploy's `du` lines and load the site afterwards. `kb-refresh.yml` pushes a review branch instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
-| Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages`. Until the new `pages.yml` has run once it is still the old whole-repo mirror. |
+| Workflows | Both run. `pages.yml` was rewritten on 2026-09-02: it now runs `tools/assemble_site.sh` and pushes only what the browser fetches to `gh-pages` as one orphan commit — 249 MB instead of the whole 411 MB repo. **Verified live 2026-09-02**: the merge of `infoq-presentations` was its first deploy — the assemble step reported 250 MB (transcripts 199 MB, tindex 46 MB, search-meta.json 5.7 MB), `gh-pages` is one orphan commit, and the `load` and `moments` suites pass 34 of 34 against the published site. `kb-refresh.yml` pushes a review branch instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
+| Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages` — since 2026-09-02 the assembled 250 MB site rather than a mirror of the repository. |
 
 ## What the collection runs actually got
 
@@ -1313,10 +1313,12 @@ name exists.
 7. ~~**Work the 2026-09-02 review**, in its own order.~~ **Done** — A–F and
    the docs pass, nine commits on `infoq-presentations`, every test green; see
    *Status* under *Review of 2026-09-02*.
-8. **Merge `infoq-presentations` to `main` and watch the first `pages.yml`
-   run**: it is the rewritten workflow's first deploy. Read the `du` lines in
-   the *Assemble the site* step (expect ~249 MB), then load the site and use
-   "Find this in the talk" once.
+8. ~~**Merge `infoq-presentations` to `main` and watch the first `pages.yml`
+   run.**~~ **Done** 2026-09-02, merge `bd13f989`. The assemble step reported
+   250 MB, `gh-pages` is a single orphan commit, the live manifest carries
+   `"stemmed": true`, and `KB_URL=https://ppruchnerovic.github.io/ai-talks-universe/
+   node run.js load moments` passes 34 of 34 — "Find this in the talk" served
+   three moments from the published transcripts. Nothing is pending.
 
 ## Handoff — running a transcript extraction
 
