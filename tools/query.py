@@ -16,9 +16,13 @@ Two layers are searched and merged:
     python3 query.py --list-categories     # what --category accepts
 
 FTS5 syntax works: quoted "exact phrase", OR, NOT, prefix*. A query written in
-that syntax is run exactly as typed. A bare multi-word query is ANDed first and,
-only if that matches nothing, retried as an OR of its content words — which is
-what makes a natural-language question answerable.
+that syntax is run exactly as typed. A bare query is read as its content words
+— "how do you evaluate agents in production" is `evaluate agents production` —
+and a talk is a hit when every one of those words appears somewhere in it, in
+its metadata or in what was said. When no talk has all of them, the commonest
+word is dropped and the search retried, one word at a time, and stderr says
+which words were dropped. That is what makes a natural-language question
+answerable without letting its filler words rank the answer.
 """
 
 from __future__ import annotations
@@ -26,6 +30,7 @@ from __future__ import annotations
 import argparse
 import difflib
 import json
+import math
 import os
 import re
 import sqlite3
@@ -58,6 +63,33 @@ W_SEG = 0.7
 # talk in the pool is scored on the same basis and the maxima are the real ones.
 MOMENTS = 4
 
+# Passages overlap at a half-passage stride (build_index.PASSAGE_STRIDE), so a
+# phrase straddling a boundary still shares one passage. The cost is that the
+# best moment of a talk usually has a twin covering the same seconds; the
+# window function takes a few extra and the overlapping ones are dropped here.
+MOMENT_CANDIDATES = MOMENTS * 3
+
+# The segment layer is scored on the OR of the query's words, and a talk that
+# says them *together* — inside one passage — is promoted over one that merely
+# says each of them somewhere. Same constants as index.html's passageFactor,
+# so the two rankers agree on this by construction rather than by test.
+PASSAGE_W = 1.6
+SATURATE = math.log(4)
+
+# Words that describe the question rather than the topic. atu.STOPWORDS holds
+# the grammatical ones ("how", "do", "you", "in"); these are the ones a
+# question about a corpus of talks adds — "what do people say about agent
+# reliability" is a query about agent reliability. Applied to queries only, so
+# the index and the browser are unchanged and a talk titled "People" is still
+# findable by an explicit search for it.
+QUERY_STOPWORDS = set("""
+people say says said saying talk talks talked talking speak speaks spoke spoken think thinks
+thought thoughts discuss discusses discussed discussion discussions mention mentions mentioned
+cover covers covered speaker speakers presenter presenters presentation presentations session
+sessions conference conferences someone anyone somebody anybody something anything everything
+everyone opinion opinions view views position positions argue argues argued claim claims
+""".split())
+
 # A pasted blob is a real query shape, and FTS5 evaluates every repeated term
 # again: `agent` ×400 took over two minutes. Terms are de-duplicated (AND and OR
 # are idempotent, so that cannot change a result) and then capped.
@@ -73,6 +105,10 @@ M0, M1 = "\x02", "\x03"
 # layer name each one is reported under.
 FTS_COLUMNS = ("title", "description", "tags", "speakers", "conference_name")
 LAYERS = ("title", "description", "tags", "speakers", "conference")
+
+# Two passages closer than this, in words, cover the same speech — the
+# overlap build_index.PASSAGE_STRIDE creates on purpose.
+PASSAGE_SPAN = 25
 
 # 128 + SIGPIPE and 128 + SIGINT, which is what a shell reports for a process
 # killed by either signal — the closest thing to a right answer for `| head`.
@@ -95,10 +131,30 @@ WORD_RE = re.compile(r"[\w'+#.-]+")
 SCAN_RE = re.compile(r'"[^"]*"\*?|[()]|,|[^\s()",]+')
 
 
+def is_stop(word: str) -> bool:
+    w = word.lower()
+    return w in atu.STOPWORDS or w in QUERY_STOPWORDS
+
+
+def quoted(word: str) -> str:
+    return '"' + word.replace('"', '""') + '"'
+
+
 class Parsed(NamedTuple):
+    """What was typed, as FTS5 will see it.
+
+    `strict` is the expression run as typed for explicit syntax, and the AND
+    of the content words for a bare query. `terms` are those content words —
+    empty for explicit syntax, which is never relaxed because it says what it
+    wants. `relaxed` is their OR, which excerpt.py falls back to inside one
+    talk, where a ~25-word passage rarely holds all of a question's words.
+    """
     strict: str
-    relaxed: str | None
-    relaxed_terms: tuple[str, ...]
+    terms: tuple[str, ...]
+
+    @property
+    def relaxed(self) -> str | None:
+        return " OR ".join(quoted(t) for t in self.terms) if len(self.terms) > 1 else None
 
 
 def dedupe(items: list[str], key=None) -> list[str]:
@@ -172,36 +228,117 @@ def explicit_query(raw: str) -> str:
 
 
 def parse_query(raw: str) -> Parsed:
-    """Turn what was typed into the strict query, and the relaxation to try.
+    """Turn what was typed into the words to search for.
 
-    Explicit FTS5 syntax is never relaxed: it says what it wants. A bare query
-    gets the documented AND, plus an OR of its content words to fall back on —
-    still ranked, so a talk matching more of them, and matching them close
-    together, still wins.
+    Explicit FTS5 syntax is run as typed. A bare query is reduced to its
+    content words — the stopwords are dropped *before* the strict form is
+    built, not only from the relaxed one, because "how do you evaluate agents
+    in production" ANDed whole matched four metadata-only talks on "how",
+    "do", "you" and "in" and never reached the transcripts, where seven words
+    never share a 25-word passage. Only when every word is a stopword are
+    they all kept, so a search for "the thing" still searches for something.
     """
     if EXPLICIT_RE.search(raw):
-        return Parsed(explicit_query(raw), None, ())
+        return Parsed(explicit_query(raw), ())
     words = cap(dedupe(WORD_RE.findall(raw)))
     if not words:
         raise SystemExit("empty query")
-    strict = " AND ".join(f'"{w}"' for w in words)
-    if len(words) == 1:
-        return Parsed(strict, None, ())
-    content = [w for w in words if w.lower() not in atu.STOPWORDS] or words
-    return Parsed(strict, " OR ".join(f'"{w}"' for w in content), tuple(content))
+    content = [w for w in words if not is_stop(w)] or words
+    return Parsed(" AND ".join(quoted(w) for w in content), tuple(content))
 
 
 # ── the search ───────────────────────────────────────────────────────────────
 
 
-def search(con, q: str, limit: int, filters: dict) -> list[dict]:
-    where, params = [], {"q": q}
-    for col, val in filters.items():
-        if val is not None and val != "":
-            where.append(f"t.{col} = :{col}")
-            params[col] = val
-    clause = (" AND " + " AND ".join(where)) if where else ""
+class Filters(NamedTuple):
+    """The WHERE fragment for the talks table, aliased `t`, and its binds."""
+    clause: str
+    params: dict
 
+
+def build_filters(conference=None, category=None, year=None, min_year=None,
+                  transcript=False) -> Filters:
+    where, params = [], {}
+    for col, vals in (("conference", conference), ("category", category), ("year", year)):
+        vals = [v for v in (vals or []) if v is not None and v != ""]
+        if vals:
+            keys = [f"{col}{i}" for i in range(len(vals))]
+            where.append(f"t.{col} IN ({', '.join(':' + k for k in keys)})")
+            params.update(zip(keys, vals))
+    if min_year:
+        where.append("t.year >= :min_year")
+        params["min_year"] = min_year
+    if transcript:
+        where.append("t.has_transcript = 1")
+    return Filters((" AND " + " AND ".join(where)) if where else "", params)
+
+
+def talks_saying(con, term: str) -> set[int]:
+    """Every talk in which this word appears — in its metadata or on stage.
+
+    This is the gate index.html applies ("every query term must appear
+    somewhere"), and it is what lets both layers be scored on the OR of the
+    words without a common word pulling in the whole corpus: the OR ranks,
+    the gate decides who is ranked. Two lookups a word, under 30 ms each on
+    the commonest words in the corpus.
+    """
+    q = quoted(term)
+    ids = {r[0] for r in con.execute("SELECT rowid FROM talks_fts WHERE talks_fts MATCH ?", (q,))}
+    ids |= {r[0] for r in con.execute(
+        "SELECT DISTINCT talk_n FROM segments WHERE rowid IN "
+        "(SELECT rowid FROM segments_fts WHERE segments_fts MATCH ?)", (q,))}
+    return ids
+
+
+class Result(NamedTuple):
+    hits: list[dict]
+    dropped: tuple[str, ...]      # words relaxed away, commonest first
+
+
+def search(con, parsed: Parsed, limit: int, filters: Filters) -> Result:
+    """Rank the talks that answer the query, relaxing it one word at a time.
+
+    Explicit FTS5 syntax is run as typed on both layers: it says what it
+    wants and is never relaxed. A bare query is its content words, and a talk
+    qualifies when every word appears somewhere in it. When no talk has all
+    of them, the word present in the most talks is dropped and the gate
+    re-applied — a single wrong word in a question then costs that word, not
+    the whole question, and the OR-of-everything cliff that once ranked "Your
+    People Are The Future Of Your Brand" first for "what do people say about
+    agent reliability" is gone. What was dropped is returned, to be said.
+    """
+    if not parsed.terms:
+        return Result(rank(con, parsed.strict, None, None, limit, filters), ())
+
+    present = {t: talks_saying(con, t) for t in parsed.terms}
+    if filters.clause:
+        allowed = {r[0] for r in con.execute(f"SELECT t.n FROM talks t WHERE 1=1{filters.clause}",
+                                             filters.params)}
+        present = {t: ids & allowed for t, ids in present.items()}
+    kept, dropped = list(parsed.terms), []
+    pool = set.intersection(*(present[t] for t in kept))
+    while not pool and len(kept) > 1:
+        commonest = max(kept, key=lambda t: len(present[t]))
+        kept.remove(commonest)
+        dropped.append(commonest)
+        pool = set.intersection(*(present[t] for t in kept))
+    if not pool:
+        return Result([], tuple(dropped))
+    expr = " OR ".join(quoted(t) for t in kept)
+    together = " AND ".join(quoted(t) for t in kept) if len(kept) > 1 else None
+    return Result(rank(con, expr, together, pool, limit, filters), tuple(dropped))
+
+
+def rank(con, q: str, together_q: str | None, pool: set[int] | None, limit: int,
+         filters: Filters) -> list[dict]:
+    """Score both layers on `q`, blend, and return the top `limit` with details.
+
+    `pool`, when given, is the set of talks the gate admitted; rows outside it
+    are discarded. `together_q` is the AND of the words, counted per talk over
+    the passages, which is what promotes a talk that says them in one breath.
+    """
+    params = {"q": q, **filters.params}
+    clause = filters.clause
     hits: dict[int, dict] = {}
 
     # No LIMIT on either pool: the metadata layer is at most one row per talk,
@@ -217,34 +354,53 @@ def search(con, q: str, limit: int, filters: dict) -> list[dict]:
         rows = con.execute(meta_sql, params).fetchall()
     except sqlite3.OperationalError as e:
         raise SystemExit(f"bad query: {e}")
-    for n, rank in rows:
-        hits[n] = {"n": n, "meta": -rank, "seg": 0.0, "moments": []}
+    for n, r in rows:
+        if pool is None or n in pool:
+            hits[n] = {"n": n, "meta": -r, "seg": 0.0, "moments": []}
 
-    seg_join = "JOIN talks t ON t.n = s.talk_n" if where else ""
+    seg_join = "JOIN talks t ON t.n = s.talk_n" if clause else ""
     seg_sql = f"""
-        SELECT n, seg, start, rank FROM (
-            SELECT n, seg, start, rank,
+        SELECT n, seg, start, pos, rank FROM (
+            SELECT n, seg, start, pos, rank,
                    ROW_NUMBER() OVER (PARTITION BY n ORDER BY rank) AS rn
             FROM (
-                SELECT s.talk_n AS n, s.rowid AS seg, s.start AS start,
+                SELECT s.talk_n AS n, s.rowid AS seg, s.start AS start, s.pos AS pos,
                        bm25(segments_fts) AS rank
                 FROM segments_fts JOIN segments s ON s.rowid = segments_fts.rowid
                 {seg_join}
                 WHERE segments_fts MATCH :q{clause}
             )
-        ) WHERE rn <= {MOMENTS} ORDER BY rank
+        ) WHERE rn <= {MOMENT_CANDIDATES} ORDER BY rank
     """
     try:
         seg_rows = con.execute(seg_sql, params).fetchall()
     except sqlite3.OperationalError:
         seg_rows = []
 
-    for n, seg, start, rank in seg_rows:
+    taken: dict[int, list[int]] = {}
+    for n, seg, start, pos, r in seg_rows:
+        if pool is not None and n not in pool:
+            continue
         h = hits.setdefault(n, {"n": n, "meta": 0.0, "seg": 0.0, "moments": []})
+        if len(h["moments"]) >= MOMENTS:
+            continue
+        # An overlapping passage is the same moment said twice.
+        if any(abs(pos - p) < PASSAGE_SPAN for p in taken.get(n, ())):
+            continue
+        taken.setdefault(n, []).append(pos)
         h["moments"].append({"start": start, "text": "", "seg": seg})
         # Diminishing returns: the second and third time a phrase is spoken
         # says less than the first, and a long talk should not win on volume.
-        h["seg"] += -rank / (len(h["moments"]) ** 0.5)
+        h["seg"] += -r / (len(h["moments"]) ** 0.5)
+
+    if together_q and hits:
+        counts = dict(con.execute(
+            "SELECT s.talk_n, count(*) FROM segments_fts JOIN segments s "
+            "ON s.rowid = segments_fts.rowid WHERE segments_fts MATCH ? GROUP BY s.talk_n",
+            (together_q,)).fetchall())
+        for n, h in hits.items():
+            h["together"] = counts.get(n, 0)
+            h["seg"] *= 1 + PASSAGE_W * min(1.0, math.log1p(h["together"]) / SATURATE)
 
     top_meta = max((h["meta"] for h in hits.values()), default=0.0) or 1.0
     top_seg = max((h["seg"] for h in hits.values()), default=0.0) or 1.0
@@ -270,7 +426,7 @@ def add_details(con, q: str, ranked: list[dict]) -> None:
     indexed column can be asked, which is what tells us what actually matched.
     """
     cols = ("id title speakers conference conference_name category edition year channel tags "
-            "duration_min published_at url youtube_url has_transcript").split()
+            "duration_min published_at url youtube_url has_transcript timing").split()
     for h in ranked:
         row = con.execute(f"SELECT {','.join(cols)} FROM talks WHERE n=?", (h["n"],)).fetchone()
         h.update(dict(zip(cols, row)))
@@ -380,8 +536,16 @@ BOLD, DIM, YELLOW, CYAN, OFF = (
     "\033[1m", "\033[2m", "\033[33m", "\033[36m", "\033[0m")
 
 
-def fmt_ts(sec: float) -> str:
-    return f"{int(sec) // 60}:{int(sec) % 60:02d}"
+def fmt_ts(sec: float, timing: str | None = "exact") -> str:
+    """m:ss — prefixed `~` when the position is interpolated, not measured.
+
+    InfoQ's transcripts and kome.ai's arrive as prose with no caption timings,
+    and their starts are estimated from word position across the runtime. A
+    reader citing "at 12:34" from one of those is citing a guess; the marker
+    is what tells them so.
+    """
+    stamp = f"{int(sec) // 60}:{int(sec) % 60:02d}"
+    return f"~{stamp}" if timing == "estimated" else stamp
 
 
 def clean_snip(s: str, base: str = "") -> str:
@@ -417,7 +581,7 @@ def render(hits: list[dict], show_moments: bool) -> None:
             print(f"   {DIM}{f'[{label}] ' if label else ''}{clean_snip(body, DIM)}{OFF}")
         if show_moments and h["moments"]:
             for m in h["moments"]:
-                print(f"   {CYAN}{fmt_ts(m['start'])}{OFF} {clean_snip(m['text'])}")
+                print(f"   {CYAN}{fmt_ts(m['start'], h['timing'])}{OFF} {clean_snip(m['text'])}")
                 # `&t=` is a YouTube parameter. An InfoQ presentation page
                 # ignores it, so that hit gets the page and the timestamp above
                 # it rather than a link that pretends to seek.
@@ -432,7 +596,7 @@ def render(hits: list[dict], show_moments: bool) -> None:
 # — on a 12-hit result set those fields are most of the bytes and none of the
 # decision.
 BRIEF = ("id title speakers conference year duration_min url "
-         "has_transcript score snippet snippet_from matched").split()
+         "has_transcript timing score snippet snippet_from matched").split()
 
 # Moments shown per hit under --brief. One passage says whether the talk is
 # about the query; the fourth says it again.
@@ -441,7 +605,7 @@ BRIEF_MOMENTS = 2
 
 def emit_json(hits: list[dict], brief: bool = False) -> None:
     for h in hits:
-        for k in ("n", "meta", "seg"):
+        for k in ("n", "meta", "seg", "together"):
             h.pop(k, None)
         h["tags"] = [x for x in (h["tags"] or "").split(", ") if x]
         h["speakers"] = [x for x in (h["speakers"] or "").split(", ") if x]
@@ -487,9 +651,13 @@ def main() -> None:
     ap.add_argument("query", nargs="*", help='what to search for; FTS5 syntax works')
     ap.add_argument("-n", "--limit", type=positive_int, default=10,
                     help="how many results to show (default 10)")
-    ap.add_argument("--conference", help="conference slug or name, e.g. ai-engineer")
-    ap.add_argument("--category", help='e.g. "AI security"')
-    ap.add_argument("--year", type=year_int)
+    ap.add_argument("--conference", action="append",
+                    help="conference slug or name, e.g. ai-engineer; repeatable")
+    ap.add_argument("--category", action="append", help='e.g. "AI security"; repeatable')
+    ap.add_argument("--year", type=year_int, action="append", help="repeatable")
+    ap.add_argument("--min-year", type=year_int, metavar="YYYY", help="this year onwards")
+    ap.add_argument("--transcript", action="store_true",
+                    help="only talks with a transcript — the ones that can be quoted")
     ap.add_argument("--list-conferences", action="store_true",
                     help="print the conferences --conference accepts, and exit")
     ap.add_argument("--list-categories", action="store_true",
@@ -514,17 +682,19 @@ def main() -> None:
         ap.error("a query is required "
                  "(or --list-conferences / --list-categories to see the filters)")
 
-    filters = {
-        "conference": resolve(con, "conference", args.conference, "--list-conferences"),
-        "category": resolve(con, "category", args.category, "--list-categories"),
-        "year": resolve(con, "year", args.year, None),
-    }
+    filters = build_filters(
+        conference=[resolve(con, "conference", c, "--list-conferences") for c in args.conference or []],
+        category=[resolve(con, "category", c, "--list-categories") for c in args.category or []],
+        year=[resolve(con, "year", y, None) for y in args.year or []],
+        min_year=args.min_year,
+        transcript=args.transcript,
+    )
     parsed = parse_query(" ".join(args.query))
-    hits = search(con, parsed.strict, args.limit, filters)
-    if not hits and parsed.relaxed:
-        warn("nothing matches every term — relaxed to any of: "
-             + ", ".join(parsed.relaxed_terms))
-        hits = search(con, parsed.relaxed, args.limit, filters)
+    hits, dropped = search(con, parsed, args.limit, filters)
+    if dropped:
+        kept = [t for t in parsed.terms if t not in dropped]
+        warn(f"no talk has every word — dropped {', '.join(dropped)} (the commonest); "
+             f"searched for: {' '.join(kept)}")
 
     if args.ids:
         # So that reading the hits is a pipe rather than eight ids retyped:

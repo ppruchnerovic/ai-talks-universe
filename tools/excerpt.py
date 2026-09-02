@@ -197,8 +197,10 @@ def hit_starts(con, talk_n: int, parsed, limit: int) -> list[float]:
 def passages(con, talk: dict, parsed, window: float, limit: int,
              opening: float) -> tuple[list[dict], int]:
     """The windows worth printing, and how many words the transcript has."""
+    # The primary tiling only: the bridge passages overlap it, and read back
+    # in sequence they would say everything twice.
     segs = con.execute(
-        "SELECT start, text FROM segments WHERE talk_n=? ORDER BY start", (talk["n"],)
+        "SELECT start, text FROM segments WHERE talk_n=? AND bridge=0 ORDER BY pos", (talk["n"],)
     ).fetchall()
     if not segs:
         return [], 0

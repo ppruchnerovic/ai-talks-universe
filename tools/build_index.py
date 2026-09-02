@@ -51,7 +51,8 @@ CREATE TABLE talks (
     edition TEXT, year INTEGER, channel TEXT, tags TEXT, duration_min INTEGER,
     published_at TEXT, url TEXT, youtube_url TEXT, page_url TEXT,
     availability TEXT, priority INTEGER,
-    has_transcript INTEGER, transcript_words INTEGER
+    has_transcript INTEGER, transcript_words INTEGER,
+    timing TEXT            -- 'exact' or 'estimated'; NULL without a transcript
 );
 CREATE INDEX idx_talks_conf ON talks(conference);
 
@@ -63,8 +64,12 @@ CREATE VIRTUAL TABLE talks_fts USING fts5(
     tokenize='porter unicode61'
 );
 
+-- One row per passage. `pos` is the word offset the passage starts at and
+-- `bridge` marks the half-stride tiling that overlaps the primary one — see
+-- PASSAGE_STRIDE. Readers that want the transcript back whole take bridge = 0.
 CREATE TABLE segments (
-    rowid INTEGER PRIMARY KEY, talk_n INTEGER, start REAL, text TEXT
+    rowid INTEGER PRIMARY KEY, talk_n INTEGER, start REAL, pos INTEGER,
+    bridge INTEGER, text TEXT
 );
 CREATE INDEX idx_segments_talk ON segments(talk_n);
 
@@ -79,7 +84,16 @@ CREATE VIRTUAL TABLE segments_fts USING fts5(
 # YouTube's captions arrive as ~6-word lines, where "spec driven development" is
 # spoken across three of them and matches none. Deep links are unaffected — the
 # browser reads the raw caption files.
-PASSAGE_WORDS = 25
+#
+# Passages are cut on words, not caption lines, at exactly PASSAGE_WORDS, and
+# a second tiling is laid over the first at half a passage's offset. A phrase
+# or a pair of terms straddling a boundary of one tiling sits inside a passage
+# of the other, so what "said together" catches no longer depends on where the
+# cut happened to fall. The SQLite index carries both tilings (`bridge` = 1
+# for the offset one) and roughly doubles; the browser index keeps counting
+# positions in the primary tiling alone, so tindex/ is unchanged.
+PASSAGE_WORDS = 24
+PASSAGE_STRIDE = PASSAGE_WORDS // 2
 
 # A transcript that says almost nothing across a long talk is an ASR failure,
 # not a transcript. Four files here are YouTube's Hindi mis-detection on English
@@ -159,20 +173,44 @@ def meta_size_report(size: int, desc_chars: int) -> str:
     return f"{stands} — under by {mib(left)} ({left:,} bytes)."
 
 
-def to_passages(segs: list[dict]) -> list[dict]:
-    out: list[dict] = []
-    texts: list[str] = []
-    start, words = 0.0, 0
+def timed_words(segs: list[dict]) -> list[tuple[float, str]]:
+    """Every word of the transcript with a start, interpolated inside its line.
+
+    A caption line is ~6 words over ~3 seconds, so a passage that begins
+    mid-line starts within a second of where it should; an InfoQ segment is
+    25 words of prose whose timing was already interpolated, so the error is
+    the same one it carried in.
+    """
+    out = []
     for s in segs:
-        if not texts:
-            start = s["start"]
-        texts.append(s["text"])
-        words += len(s["text"].split())
-        if words >= PASSAGE_WORDS:
-            out.append({"start": start, "text": " ".join(texts)})
-            texts, words = [], 0
-    if texts:
-        out.append({"start": start, "text": " ".join(texts)})
+        ws = s["text"].split()
+        if not ws:
+            continue
+        dur = float(s.get("duration") or 0)
+        for i, w in enumerate(ws):
+            out.append((s["start"] + dur * i / len(ws), w))
+    return out
+
+
+def to_passages(segs: list[dict]) -> list[dict]:
+    """The transcript as overlapping passages: {start, pos, bridge, text}.
+
+    Tile k starts at word PASSAGE_STRIDE * k and runs PASSAGE_WORDS words, so
+    even tiles are a plain non-overlapping tiling and odd ones (`bridge`) sit
+    across their boundaries. A tail shorter than a stride is not emitted as a
+    passage of its own — the previous tile already covers it, and a
+    three-word document would outscore everything under BM25's length
+    normalisation — unless it is the only tile there is.
+    """
+    words = timed_words(segs)
+    out: list[dict] = []
+    for k in range(0, max(1, (len(words) + PASSAGE_STRIDE - 1) // PASSAGE_STRIDE)):
+        pos = PASSAGE_STRIDE * k
+        if pos >= len(words) or (pos and len(words) - pos < PASSAGE_STRIDE):
+            break
+        chunk = words[pos:pos + PASSAGE_WORDS]
+        out.append({"start": round(chunk[0][0], 2), "pos": pos, "bridge": k % 2,
+                    "text": " ".join(w for _, w in chunk)})
     return out
 
 
@@ -201,8 +239,8 @@ def index_length(toks: list[str], words: int) -> int:
     return len(toks)
 
 
-def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int]:
-    """Text, passages and word count — or three empty values.
+def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, list[dict], int, str | None]:
+    """Text, passages, word count and timing — or four empty values.
 
     The word count is zeroed along with the text, not kept. It is what reaches
     search-meta.json as `w`, and the browser gates the transcript badge, the
@@ -212,14 +250,15 @@ def transcript_text(vid: str, duration_min: int | None = None) -> tuple[str, lis
     """
     tr = atu.load_transcript(vid)
     if not tr:
-        return "", [], 0
+        return "", [], 0, None
     segs = tr.get("segments", [])
     words = tr.get("word_count", 0)
     why = held_back(words, duration_min)
     if why:
         HELD_BACK[vid] = why
-        return "", [], 0
-    return " ".join(s["text"] for s in segs), to_passages(segs), words
+        return "", [], 0, None
+    return (" ".join(s["text"] for s in segs), to_passages(segs), words,
+            tr.get("timing") or "exact")
 
 
 def clip(text: str, n: int) -> str:
@@ -237,27 +276,28 @@ def build_sqlite(talks: list[dict]) -> tuple[int, int]:
     n_tr = 0
     seg_rowid = 0
     for n, t in enumerate(talks, 1):
-        text, segs, words = transcript_text(t["id"], t["duration_min"])
+        text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
         if text:
             n_tr += 1
         speakers = ", ".join(t["speakers"])
         tags = ", ".join(t["tags"])
         con.execute(
-            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+            "INSERT INTO talks VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
             (n, t["id"], t["title"], t["description"], speakers, t["conference"],
              t["conference_name"], t["category"], t["edition"], t["year"], t["channel"],
              tags, t["duration_min"], t["published_at"], t["url"], t["youtube_url"],
-             t["page_url"], t["availability"], t["priority"], 1 if text else 0, words),
+             t["page_url"], t["availability"], t["priority"], 1 if text else 0, words,
+             timing if text else None),
         )
         con.execute(
             "INSERT INTO talks_fts (rowid, title, description, tags, speakers, conference_name)"
             " VALUES (?,?,?,?,?,?)",
             (n, t["title"], t["description"], tags, speakers, t["conference_name"]),
         )
-        for s in segs:
-            seg_rowid += 1
-            con.execute("INSERT INTO segments VALUES (?,?,?,?)",
-                        (seg_rowid, n, s["start"], s["text"]))
+        con.executemany("INSERT INTO segments VALUES (?,?,?,?,?,?)",
+                        [(seg_rowid + i, n, s["start"], s["pos"], s["bridge"], s["text"])
+                         for i, s in enumerate(segs, 1)])
+        seg_rowid += len(segs)
 
     con.execute("INSERT INTO segments_fts(segments_fts) VALUES('rebuild')")
     # Stamped last, so a build that died half-way leaves a file atu.db_stale()
@@ -334,7 +374,7 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
     doc_len: dict[int, int] = {}
 
     for n, t in enumerate(talks, 1):
-        text, segs, words = transcript_text(t["id"], t["duration_min"])
+        text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
         meta.append({
             "i": n,
             "v": t["video_id"],
@@ -356,6 +396,10 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
             # youtube.com/watch?v= on 8,000 records of a file that ships to
             # every visitor.
             **({"l": t["url"]} if not t["youtube_url"] and t["url"] else {}),
+            # Only for transcripts whose timings are interpolated from word
+            # position rather than read off a caption track, so the moments
+            # can say "~12:34" rather than claim a second they never measured.
+            **({"x": 1} if text and timing == "estimated" else {}),
         })
         if not text:
             continue
@@ -363,7 +407,9 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
         doc_len[n] = index_length(toks, words)
         for term, tf in collections.Counter(toks).items():
             postings[term][n] = tf
-        for i, s in enumerate(segs):
+        # Positions index the primary tiling only, so the browser's postings
+        # are the same size and shape as before the bridge passages existed.
+        for i, s in enumerate(p for p in segs if not p["bridge"]):
             for term in set(atu.tokenize(s["text"])):
                 positions[term].setdefault(n, []).append(i)
 

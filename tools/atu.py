@@ -342,7 +342,7 @@ def human_size(n: float) -> str:
 # database built by an older script is recognised as stale rather than opened
 # and queried: the day `url` was added to `talks`, every search died with
 # "no such column: url" until someone knew to delete the file by hand.
-DB_SCHEMA_VERSION = 4
+DB_SCHEMA_VERSION = 5
 
 
 def db_stale() -> str | None:
