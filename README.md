@@ -149,6 +149,10 @@ speaker; a seeded or InfoQ talk carries the one its programme stated.
 
 ```
 ├── index.html                     zero-install search UI (GitHub Pages)
+├── ARCHITECTURE.md                diagrams: pipeline, data flow, routes, rankers, CI; the design decisions
+├── STATE.md                       where things stand, and the handoff for the next run
+├── TODO.md                        what is open
+├── HISTORY.md                     dated write-ups of every session's work
 ├── conferences.json               the registry — what to read, and how to filter it
 ├── ai-conferences.md              the human curation behind that registry
 ├── data/
