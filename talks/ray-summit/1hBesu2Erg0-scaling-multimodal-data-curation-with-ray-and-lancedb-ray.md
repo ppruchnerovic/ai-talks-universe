@@ -4,7 +4,7 @@ title: "Scaling Multimodal Data Curation with Ray and LanceDB | Ray Summit 2025"
 slug: scaling-multimodal-data-curation-with-ray-and-lancedb-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

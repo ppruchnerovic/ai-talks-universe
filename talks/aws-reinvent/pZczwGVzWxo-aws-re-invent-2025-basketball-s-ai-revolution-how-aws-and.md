@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Basketball's AI Revolution: How AWS and the NBA Are
 slug: aws-re-invent-2025-basketball-s-ai-revolution-how-aws-and
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

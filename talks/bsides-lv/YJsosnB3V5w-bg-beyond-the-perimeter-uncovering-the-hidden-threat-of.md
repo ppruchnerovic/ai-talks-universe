@@ -4,7 +4,7 @@ title: "BG - Beyond the Perimeter Uncovering the Hidden Threat of Data Exfiltrat
 slug: bg-beyond-the-perimeter-uncovering-the-hidden-threat-of
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "From Copy-Paste to Composition: Building Agents Like Real Software"
 slug: from-copy-paste-to-composition-building-agents-like-real
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Jake Mannix"]

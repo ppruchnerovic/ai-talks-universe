@@ -4,7 +4,7 @@ title: "The Build-Operate Divide: Bridging Product Vision and AI Operational Rea
 slug: the-build-operate-divide-bridging-product-vision-and-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

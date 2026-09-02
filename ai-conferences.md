@@ -38,7 +38,7 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - YouTube: https://www.youtube.com/@tessl-ai
 - Tessl's conference on AI-native software development. ✅ free.
 
-## AI engineering & agents (top picks)
+## Practitioner AI conferences (top picks)
 
 ### LangChain Interrupt
 - Site: https://interrupt.langchain.com/
@@ -110,7 +110,7 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - YouTube: https://www.youtube.com/c/AppliedMachineLearningDays (now branded "AMLD Intelligence Summit")
 - EPFL Lausanne (Feb); Europe's largest applied-ML event, applied-research/industry mix. ✅ free.
 
-## Software dev conferences with strong AI tracks
+## General software conferences with strong AI tracks
 
 ### GOTO Conferences
 - Site: https://gotopia.tech/
@@ -147,7 +147,7 @@ Verified 2026-08-30. Availability legend: **✅ free** = full talks openly on Yo
 - YouTube: https://www.youtube.com/@GitHub — [Universe 2025](https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC) · [Universe 2024](https://www.youtube.com/playlist?list=PL0lo9MOBetEF_de7yKAWpnMkTsKH6aJ4P)
 - The key event for AI-assisted development (Copilot, agentic coding). ⚠️ partial — keynotes + curated sessions on YouTube; full breakout catalog via the (free) registration portal.
 
-## AI security
+## Security conferences
 
 The corpus keeps talks from 2023 onwards; **CAMLIS, DEF CON AI Village and
 BSides Las Vegas** are the exception and keep their whole back catalogue
@@ -209,7 +209,7 @@ also most of what these three have — 36 of DEF CON AI Village's 37 talks are
 - YouTube: https://www.youtube.com/@OneRSAC
 - World's largest security conference with a big AI security track. ⚠️ partial — keynotes/highlights on YouTube; most breakouts in the registration-gated site library.
 
-## Big vendor & platform events (AI adoption at scale)
+## Vendor events (AI adoption at scale)
 
 ### Microsoft Build
 - Site: https://build.microsoft.com/
@@ -266,7 +266,7 @@ also most of what these three have — 36 of DEF CON AI Village's 37 talks are
 - YouTube: https://www.youtube.com/@Salesforce — [Dreamforce 2025 keynotes](https://www.youtube.com/playlist?list=PLnobS_RgN7JZhBxLcql2XQ8U2iLxVfEdM)
 - AI/Agentforce-heavy enterprise conference. ⚠️ partial — keynotes on YouTube; 500+ breakouts on Salesforce+ (free account required).
 
-## Broader industry & business AI
+## Business & industry events
 
 ### Web Summit
 - Site: https://websummit.com

@@ -4,7 +4,7 @@ title: "Local models, developer control, and the future of AI runtimes | BRK235"
 slug: local-models-developer-control-and-the-future-of-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Michael Chiang", "Parth Sareen"]

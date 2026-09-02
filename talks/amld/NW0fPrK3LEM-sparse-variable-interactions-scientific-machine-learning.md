@@ -4,7 +4,7 @@ title: "Sparse variable interactions | Scientific Machine Learning | Krithika Ma
 slug: sparse-variable-interactions-scientific-machine-learning
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Krithika Manohar"]

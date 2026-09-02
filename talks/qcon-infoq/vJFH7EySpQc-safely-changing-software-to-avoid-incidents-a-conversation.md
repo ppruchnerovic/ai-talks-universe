@@ -4,7 +4,7 @@ title: "Safely Changing Software to Avoid Incidents: A Conversation with Justin 
 slug: safely-changing-software-to-avoid-incidents-a-conversation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

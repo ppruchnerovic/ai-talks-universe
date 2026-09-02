@@ -4,7 +4,7 @@ title: "Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD -
 slug: every-solo-agent-builder-eventually-reinvents-a-worse
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sumaiya Shrabony"]

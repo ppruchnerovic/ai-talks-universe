@@ -4,7 +4,7 @@ title: "AI, Purpose, and the Future of Telecommunication with Ulrich Irnich, CIO
 slug: ai-purpose-and-the-future-of-telecommunication-with-ulrich
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []

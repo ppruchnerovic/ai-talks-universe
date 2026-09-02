@@ -4,7 +4,7 @@ title: "Agentic DevOps with GitHub Copilot | STUDIO43"
 slug: agentic-devops-with-github-copilot-studio43
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Martin Woodward"]

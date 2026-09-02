@@ -4,7 +4,7 @@ title: "Why Eval++ Is the Next Great Compute Primitive — Sunil Pai & Matt Care
 slug: why-eval-is-the-next-great-compute-primitive-sunil-pai-matt
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sunil Pai", "Matt Carey"]

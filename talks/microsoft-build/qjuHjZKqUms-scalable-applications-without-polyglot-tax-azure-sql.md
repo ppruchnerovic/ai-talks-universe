@@ -4,7 +4,7 @@ title: "Scalable Applications Without Polyglot tax: Azure SQL Hyperscale | OD824
 slug: scalable-applications-without-polyglot-tax-azure-sql
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

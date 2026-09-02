@@ -4,7 +4,7 @@ title: "[Session] Generating Use Case Specific MCP Servers with Josh Dzielak at 
 slug: session-generating-use-case-specific-mcp-servers-with-josh
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

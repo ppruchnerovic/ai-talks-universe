@@ -4,7 +4,7 @@ title: "Most AI Agents Are Useless. Let’s Fix That"
 slug: most-ai-agents-are-useless-lets-fix-that
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Bilge Yücel"]

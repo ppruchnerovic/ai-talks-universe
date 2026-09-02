@@ -4,7 +4,7 @@ title: "Agent-Based Hyperparameter Optimization for Gradient Boosted Trees [PyCo
 slug: agent-based-hyperparameter-optimization-for-gradient
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Huijo Kim"]

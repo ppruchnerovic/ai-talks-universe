@@ -4,7 +4,7 @@ title: "Google Gemini: Open Source and Deep Thinking Models with Sam Witteveen"
 slug: google-gemini-open-source-and-deep-thinking-models-with-sam
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

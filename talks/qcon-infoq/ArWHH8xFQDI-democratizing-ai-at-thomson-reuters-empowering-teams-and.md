@@ -4,7 +4,7 @@ title: "Democratizing AI at Thomson Reuters: Empowering Teams and Driving Innova
 slug: democratizing-ai-at-thomson-reuters-empowering-teams-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Omer Madmon:A Game-Theoretic Perspective on the Recommender (Eco-)System
 slug: omer-madmon-a-game-theoretic-perspective-on-the-recommender
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

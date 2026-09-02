@@ -4,7 +4,7 @@ title: "​Large-scale refactors with Agents, Robert Brennan, CEO of OpenHands"
 slug: large-scale-refactors-with-agents-robert-brennan-ceo-of
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

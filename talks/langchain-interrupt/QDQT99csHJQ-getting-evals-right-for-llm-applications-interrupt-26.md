@@ -4,7 +4,7 @@ title: "Getting Evals Right for LLM Applications | Interrupt 26"
 slug: getting-evals-right-for-llm-applications-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Connect to and manage any data anywhere in Microsoft OneLake | BRK221"
 slug: connect-to-and-manage-any-data-anywhere-in-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dipti Borkar", "Joshua Caplan", "Paul Purvis", "Adi Regev", "Clay Yeaman"]

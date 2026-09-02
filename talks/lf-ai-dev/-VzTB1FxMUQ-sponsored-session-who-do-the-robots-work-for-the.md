@@ -4,7 +4,7 @@ title: "Sponsored Session: Who Do the Robots Work For? The Surprisingly Simple A
 slug: sponsored-session-who-do-the-robots-work-for-the
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Q&A | James Kirkpatrick, Isomorphic Labs"
 slug: q-a-james-kirkpatrick-isomorphic-labs
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["James Kirkpatrick"]

@@ -4,7 +4,7 @@ title: "Reinvent employee helpdesk experiences with generative AI | BRK162"
 slug: reinvent-employee-helpdesk-experiences-with-generative-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Natasha Fattedad", "Phil Gillingham", "Alan Ross"]

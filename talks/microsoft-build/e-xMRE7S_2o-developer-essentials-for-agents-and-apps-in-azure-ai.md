@@ -4,7 +4,7 @@ title: "Developer essentials for agents and apps in Azure AI Foundry | BRK154"
 slug: developer-essentials-for-agents-and-apps-in-azure-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

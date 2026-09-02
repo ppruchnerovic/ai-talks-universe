@@ -4,7 +4,7 @@ title: "AI development with VS Code for the Web | DEM513"
 slug: ai-development-with-vs-code-for-the-web-dem513
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Ship it! Building Production Ready Agents — Mike Chambers, AWS"
 slug: ship-it-building-production-ready-agents-mike-chambers-aws
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mike Chambers"]

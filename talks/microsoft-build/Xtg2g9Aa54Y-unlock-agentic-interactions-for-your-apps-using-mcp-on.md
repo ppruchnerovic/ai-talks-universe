@@ -4,7 +4,7 @@ title: "Unlock agentic interactions for your apps using MCP on Windows | BRK229"
 slug: unlock-agentic-interactions-for-your-apps-using-mcp-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

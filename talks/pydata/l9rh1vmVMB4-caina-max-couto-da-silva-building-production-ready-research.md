@@ -4,7 +4,7 @@ title: "Cainã Max Couto da Silva-Building Production-Ready Research AI Assistan
 slug: caina-max-couto-da-silva-building-production-ready-research
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

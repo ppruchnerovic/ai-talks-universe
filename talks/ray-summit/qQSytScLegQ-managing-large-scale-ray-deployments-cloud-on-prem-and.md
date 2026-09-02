@@ -4,7 +4,7 @@ title: "Managing Large-Scale Ray Deployments: Cloud, On-Prem, and Kubernetes | R
 slug: managing-large-scale-ray-deployments-cloud-on-prem-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

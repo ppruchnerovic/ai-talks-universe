@@ -4,7 +4,7 @@ title: "Frontier Feud: Anthropic, Google DeepMind, Meta FAIR, Thinking Machines 
 slug: frontier-feud-anthropic-google-deepmind-meta-fair-thinking
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Barr Yaron"]

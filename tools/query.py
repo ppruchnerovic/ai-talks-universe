@@ -7,7 +7,8 @@ Two layers are searched and merged:
     which also gives the timestamp — and a deep link — for each hit.
 
     python3 query.py "context engineering"
-    python3 query.py "prompt injection" --category "AI security"
+    python3 query.py "prompt injection" --category security   # one word of a label suffices
+    python3 query.py "agents" --category security --topic agents   # security-conference speakers on agents
     python3 query.py "agent memory" --topic "RAG, retrieval & knowledge"
     python3 query.py "agents in production" --conference langchain-interrupt
     python3 query.py "evals" --year 2026 -n 20
@@ -737,7 +738,10 @@ def main() -> None:
                     help="how many results to show (default 10)")
     ap.add_argument("--conference", action="append",
                     help="conference slug or name, e.g. ai-engineer; repeatable")
-    ap.add_argument("--category", action="append", help='e.g. "AI security"; repeatable')
+    ap.add_argument("--category", action="append",
+                    help='conference type, the kind of venue a talk was given at — one of '
+                         'five registry labels, e.g. "Security conferences" or just '
+                         '"security"; repeatable. For what a talk is *about*, see --topic')
     ap.add_argument("--topic", action="append",
                     help='a per-talk topic, e.g. "evals" or "RAG, retrieval & knowledge"; '
                          'repeatable, any of them admits a talk — see --list-topics')
@@ -748,7 +752,7 @@ def main() -> None:
     ap.add_argument("--list-conferences", action="store_true",
                     help="print the conferences --conference accepts, and exit")
     ap.add_argument("--list-categories", action="store_true",
-                    help="print the categories --category accepts, and exit")
+                    help="print the conference types --category accepts, and exit")
     ap.add_argument("--list-topics", action="store_true",
                     help="print the topics --topic accepts, with how many talks carry "
                          "each, and exit")

@@ -4,7 +4,7 @@ title: "Building AI-native at enterprise scale: monday.com, Doctolib, and Delive
 slug: building-ai-native-at-enterprise-scale-monday-com-doctolib
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "An inside look at how GitHub uses LLMs, fine-tuning, and prompt engineer
 slug: an-inside-look-at-how-github-uses-llms-fine-tuning-and
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Evaluating AI Search: A Practical Framework for Augmented AI Systems —
 slug: evaluating-ai-search-a-practical-framework-for-augmented-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

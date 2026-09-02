@@ -4,7 +4,7 @@ title: "Full Workshop: Realtime Voice AI — Mark Backman, Daily"
 slug: full-workshop-realtime-voice-ai-mark-backman-daily
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Backman"]

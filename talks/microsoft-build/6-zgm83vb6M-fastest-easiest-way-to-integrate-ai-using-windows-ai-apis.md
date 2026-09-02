@@ -4,7 +4,7 @@ title: "Fastest & easiest way to integrate AI using Windows AI APIs | BRK224"
 slug: fastest-easiest-way-to-integrate-ai-using-windows-ai-apis
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

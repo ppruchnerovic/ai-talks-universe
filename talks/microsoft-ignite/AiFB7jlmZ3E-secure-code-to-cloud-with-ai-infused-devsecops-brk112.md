@@ -4,7 +4,7 @@ title: "Secure code to cloud with AI infused DevSecOps | BRK112"
 slug: secure-code-to-cloud-with-ai-infused-devsecops-brk112
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oz Wilder", "Charlie Doubek", "Marcelo Oliveira", "Manuel Sanchez Rodriguez"]

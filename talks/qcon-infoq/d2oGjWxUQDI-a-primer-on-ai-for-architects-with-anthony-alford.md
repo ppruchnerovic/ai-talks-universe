@@ -4,7 +4,7 @@ title: "A Primer on AI for Architects with Anthony Alford"
 slug: a-primer-on-ai-for-architects-with-anthony-alford
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

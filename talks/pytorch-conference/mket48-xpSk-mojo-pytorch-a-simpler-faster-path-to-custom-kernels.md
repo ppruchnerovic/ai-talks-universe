@@ -4,7 +4,7 @@ title: "Mojo + PyTorch: A Simpler, Faster Path To Custom Kernels - Spenser Bauma
 slug: mojo-pytorch-a-simpler-faster-path-to-custom-kernels
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Spenser Bauman"]

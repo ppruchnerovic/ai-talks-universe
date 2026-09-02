@@ -4,7 +4,7 @@ title: "SaTML 2023 - Nandakumar - PolyKervNets: Activation-free Neural Networks 
 slug: satml-2023-nandakumar-polykervnets-activation-free-neural
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []

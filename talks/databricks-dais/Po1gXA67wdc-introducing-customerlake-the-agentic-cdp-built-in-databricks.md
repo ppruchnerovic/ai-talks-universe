@@ -4,7 +4,7 @@ title: "Introducing CustomerLake – the agentic CDP built in Databricks"
 slug: introducing-customerlake-the-agentic-cdp-built-in-databricks
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Tasso Argyros"]

@@ -4,7 +4,7 @@ title: "Machine Learning for Entertainment Challenges and Opportunities"
 slug: machine-learning-for-entertainment-challenges-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

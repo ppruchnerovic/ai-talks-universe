@@ -4,7 +4,7 @@ title: "Type Systems You Might Not Know (But Will Love)"
 slug: type-systems-you-might-not-know-but-will-love
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Veit Heller"]

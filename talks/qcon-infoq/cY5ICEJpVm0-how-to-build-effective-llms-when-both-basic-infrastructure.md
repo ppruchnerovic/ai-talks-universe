@@ -4,7 +4,7 @@ title: "How to Build Effective LLMs When Both Basic Infrastructure and Model Tra
 slug: how-to-build-effective-llms-when-both-basic-infrastructure
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

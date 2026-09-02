@@ -4,7 +4,7 @@ title: "Scott and Mark learn to Vibe Check with Cassidy Williams | LIVE114"
 slug: scott-and-mark-learn-to-vibe-check-with-cassidy-williams
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Hanselman", "Cassidy Williams"]

@@ -4,7 +4,7 @@ title: "Automate e-mail doc and image processing with GPT in Power Automate | BR
 slug: automate-e-mail-doc-and-image-processing-with-gpt-in-power
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Gwenael Bego", "Maria Remolina Gutierrez"]

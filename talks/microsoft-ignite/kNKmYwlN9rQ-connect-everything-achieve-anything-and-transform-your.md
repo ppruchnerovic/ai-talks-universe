@@ -4,7 +4,7 @@ title: "Connect everything achieve anything and transform your enterprise | BRKS
 slug: connect-everything-achieve-anything-and-transform-your
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Anirban Majumdar", "Sivakumar N"]

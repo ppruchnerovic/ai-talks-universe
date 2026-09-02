@@ -4,7 +4,7 @@ title: "Running open large language models in production with Ollama and serverl
 slug: running-open-large-language-models-in-production-with
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Wietse Venema"]

@@ -4,7 +4,7 @@ title: "Talent Acquisition: Putting People First in the Age of AI"
 slug: talent-acquisition-putting-people-first-in-the-age-of-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

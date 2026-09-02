@@ -4,7 +4,7 @@ title: "Agentic Engineering: Notes from Building and Shipping with Agents - Mats
 slug: agentic-engineering-notes-from-building-and-shipping-with
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Mats Oustad"]

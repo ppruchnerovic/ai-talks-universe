@@ -4,7 +4,7 @@ title: "Unlock Your First AI Solution with Microsoft Azure and UnifyCloud | OD12
 slug: unlock-your-first-ai-solution-with-microsoft-azure-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vivek Bhatnagar", "Joshua Huang"]

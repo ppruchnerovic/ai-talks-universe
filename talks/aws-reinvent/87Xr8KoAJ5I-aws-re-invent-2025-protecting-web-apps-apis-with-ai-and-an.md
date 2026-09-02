@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Protecting web apps & APIs with AI and an as-a-Serv
 slug: aws-re-invent-2025-protecting-web-apps-apis-with-ai-and-an
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

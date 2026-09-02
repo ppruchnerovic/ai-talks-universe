@@ -4,7 +4,7 @@ title: "LLM-generated Code and Open Source License Compliance: How Big Is the Pr
 slug: llm-generated-code-and-open-source-license-compliance-how
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Oscar Enrique Goñi"]

@@ -4,7 +4,7 @@ title: "Roei Amit - How to Get over your malicious extensions using deep learnin
 slug: roei-amit-how-to-get-over-your-malicious-extensions-using
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Roei Amit"]

@@ -4,7 +4,7 @@ title: "Sean Roberts - AX⚡️DX High voltage dev workflows | DevCon Fall 2025"
 slug: sean-roberts-axdx-high-voltage-dev-workflows-devcon-fall
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Sean Roberts"]

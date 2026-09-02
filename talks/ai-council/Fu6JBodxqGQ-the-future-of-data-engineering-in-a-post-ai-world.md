@@ -4,7 +4,7 @@ title: "The Future of Data Engineering in a Post-AI World"
 slug: the-future-of-data-engineering-in-a-post-ai-world
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Michelle Ufford Winters"]

@@ -4,7 +4,7 @@ title: "Break down risk siloes and build up code to cloud security posture | BRK
 slug: break-down-risk-siloes-and-build-up-code-to-cloud-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Preetham Anand Naik", "Yuri Diogenes"]

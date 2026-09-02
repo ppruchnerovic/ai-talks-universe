@@ -4,7 +4,7 @@ title: "TEDAI Vienna Panel - What Actually Is the Good Life We Want to Create Wi
 slug: tedai-vienna-panel-what-actually-is-the-good-life-we-want
 conference: tedai-vienna
 conference_name: "TEDAI Vienna"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "TEDAI Vienna 2025"
 year: 2025
 speakers: []

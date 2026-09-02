@@ -4,7 +4,7 @@ title: "Improving RAG by Reranking & Fine-Tuning | Ayush Chaurasia, LanceDB"
 slug: improving-rag-by-reranking-fine-tuning-ayush-chaurasia
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Ayush Chaurasia"]

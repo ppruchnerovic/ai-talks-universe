@@ -4,7 +4,7 @@ title: "Take AI agents from prototype to production with OpenTelemetry | ODSP909
 slug: take-ai-agents-from-prototype-to-production-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Harry Kimpel"]

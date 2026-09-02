@@ -4,7 +4,7 @@ title: "How the Coalition for Secure AI Prepares Defenders"
 slug: how-the-coalition-for-secure-ai-prepares-defenders
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

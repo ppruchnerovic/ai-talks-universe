@@ -4,7 +4,7 @@ title: "The Key to Remote Vehicle Control: Autonomous Driving Domain Controller"
 slug: the-key-to-remote-vehicle-control-autonomous-driving-domain
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []

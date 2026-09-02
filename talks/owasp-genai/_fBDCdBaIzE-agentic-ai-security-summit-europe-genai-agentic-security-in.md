@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: GenAi Agentic Security In Practice"
 slug: agentic-ai-security-summit-europe-genai-agentic-security-in
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

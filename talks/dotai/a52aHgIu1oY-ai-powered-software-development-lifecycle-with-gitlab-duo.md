@@ -4,7 +4,7 @@ title: "AI-Powered Software Development Lifecycle with GitLab Duo - AI Action Su
 slug: ai-powered-software-development-lifecycle-with-gitlab-duo
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Salahddine Aberkan"]

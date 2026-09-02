@@ -4,7 +4,7 @@ title: "Beyond REST: .NET Apps That Talk to Hardware | DEM365"
 slug: beyond-rest-net-apps-that-talk-to-hardware-dem365
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jared Rhodes"]

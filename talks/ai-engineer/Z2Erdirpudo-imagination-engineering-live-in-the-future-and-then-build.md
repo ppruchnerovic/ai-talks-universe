@@ -4,7 +4,7 @@ title: "Imagination Engineering: \"Live in the future and then build what's miss
 slug: imagination-engineering-live-in-the-future-and-then-build
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

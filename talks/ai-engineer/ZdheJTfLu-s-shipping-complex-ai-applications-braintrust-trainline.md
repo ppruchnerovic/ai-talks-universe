@@ -4,7 +4,7 @@ title: "Shipping complex AI applications — Braintrust & Trainline"
 slug: shipping-complex-ai-applications-braintrust-trainline
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Trading Desks to Clinical Trials: Parallels in Applied Vertical AI — A
 slug: trading-desks-to-clinical-trials-parallels-in-applied
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ayush Bhardwaj"]

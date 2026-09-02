@@ -4,7 +4,7 @@ title: "AI Dev 25 | Matt Palmer: Idea to app—shipping fast with Replit"
 slug: ai-dev-25-matt-palmer-idea-to-appshipping-fast-with-replit
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

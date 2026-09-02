@@ -4,7 +4,7 @@ title: "Ed Chi - Google Gemini Era: Bringing AI to Universal Assistant and the R
 slug: ed-chi-google-gemini-era-bringing-ai-to-universal-assistant
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Ed Chi"]

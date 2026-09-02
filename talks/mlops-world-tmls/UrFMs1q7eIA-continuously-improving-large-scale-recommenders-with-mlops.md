@@ -4,7 +4,7 @@ title: "Continuously Improving Large Scale Recommenders with MLOps Tools and Pra
 slug: continuously-improving-large-scale-recommenders-with-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

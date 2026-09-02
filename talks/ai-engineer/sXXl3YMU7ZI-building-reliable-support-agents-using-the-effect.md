@@ -4,7 +4,7 @@ title: "Building Reliable Support Agents Using the Effect Typescript Library - M
 slug: building-reliable-support-agents-using-the-effect
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michael Fester"]

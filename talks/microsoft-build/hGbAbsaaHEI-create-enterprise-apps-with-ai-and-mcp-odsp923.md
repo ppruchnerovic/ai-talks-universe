@@ -4,7 +4,7 @@ title: "Create enterprise apps with AI and MCP | ODSP923"
 slug: create-enterprise-apps-with-ai-and-mcp-odsp923
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jason Beres"]

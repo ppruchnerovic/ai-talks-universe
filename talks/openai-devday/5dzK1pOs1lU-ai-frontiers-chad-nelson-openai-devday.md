@@ -4,7 +4,7 @@ title: "AI Frontiers: Chad Nelson (OpenAI DevDay)"
 slug: ai-frontiers-chad-nelson-openai-devday
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []

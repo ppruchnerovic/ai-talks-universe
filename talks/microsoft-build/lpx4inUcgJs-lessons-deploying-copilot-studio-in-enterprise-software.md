@@ -4,7 +4,7 @@ title: "Lessons: Deploying Copilot Studio in enterprise software environments | 
 slug: lessons-deploying-copilot-studio-in-enterprise-software
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

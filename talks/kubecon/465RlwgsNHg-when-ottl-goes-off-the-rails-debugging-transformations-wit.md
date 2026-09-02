@@ -4,7 +4,7 @@ title: "When OTTL Goes Off the Rails: Debugging Transformations wit... Edmo Vame
 slug: when-ottl-goes-off-the-rails-debugging-transformations-wit
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

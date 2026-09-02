@@ -4,7 +4,7 @@ title: "Efficient Reinforcement Learning – Rhythm Garg & Linden Li, Applied Co
 slug: efficient-reinforcement-learning-rhythm-garg-linden-li
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rhythm Garg", "Linden Li"]

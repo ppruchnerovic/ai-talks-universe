@@ -4,7 +4,7 @@ title: "Orchestrate E2E automation and build adaptive AI agents with UiPath | BR
 slug: orchestrate-e2e-automation-and-build-adaptive-ai-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

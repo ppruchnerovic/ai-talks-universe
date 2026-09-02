@@ -4,7 +4,7 @@ title: "Legal Agency: Building Domain Specific Agents for Enterprise"
 slug: legal-agency-building-domain-specific-agents-for-enterprise
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Niko Grupen"]

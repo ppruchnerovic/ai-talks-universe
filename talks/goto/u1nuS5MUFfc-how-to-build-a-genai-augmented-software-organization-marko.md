@@ -4,7 +4,7 @@ title: "How To Build a GenAI-Augmented Software Organization • Marko Klemetti 
 slug: how-to-build-a-genai-augmented-software-organization-marko
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Marko Klemetti", "Kris Jenkins"]

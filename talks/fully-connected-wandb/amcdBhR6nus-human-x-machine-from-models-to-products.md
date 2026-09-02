@@ -4,7 +4,7 @@ title: "Human x Machine: From Models to Products"
 slug: human-x-machine-from-models-to-products
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

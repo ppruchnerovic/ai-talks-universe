@@ -4,7 +4,7 @@ title: "Practical GenAI: Building a Chatbot Using Spring AI • Rod Johnson • 
 slug: practical-genai-building-a-chatbot-using-spring-ai-rod
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Rod Johnson"]

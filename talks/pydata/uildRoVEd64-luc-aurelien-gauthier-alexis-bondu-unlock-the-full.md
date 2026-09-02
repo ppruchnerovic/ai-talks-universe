@@ -4,7 +4,7 @@ title: "Luc-Aurélien Gauthier & Alexis Bondu - Unlock the full predictive power
 slug: luc-aurelien-gauthier-alexis-bondu-unlock-the-full
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

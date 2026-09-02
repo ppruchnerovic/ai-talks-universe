@@ -4,7 +4,7 @@ title: "Build AI agents grounded with your data using Firebase Data Connect"
 slug: build-ai-agents-grounded-with-your-data-using-firebase-data
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

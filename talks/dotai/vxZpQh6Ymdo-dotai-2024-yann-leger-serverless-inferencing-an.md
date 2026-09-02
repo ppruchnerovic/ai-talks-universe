@@ -4,7 +4,7 @@ title: "dotAI 2024 - Yann Léger - Serverless inferencing: an infrastructure poi
 slug: dotai-2024-yann-leger-serverless-inferencing-an
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Yann Léger"]

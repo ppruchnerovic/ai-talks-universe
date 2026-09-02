@@ -4,7 +4,7 @@ title: "Keynote- Noor Aftab- The Next Commit_ Building Inclusive, Data-Driven Ec
 slug: keynote-noor-aftab-the-next-commit-building-inclusive-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

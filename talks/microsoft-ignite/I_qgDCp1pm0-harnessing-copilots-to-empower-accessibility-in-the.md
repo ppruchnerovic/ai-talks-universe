@@ -4,7 +4,7 @@ title: "Harnessing Copilots to Empower Accessibility in the Workplace | BRK355"
 slug: harnessing-copilots-to-empower-accessibility-in-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Anna Cook", "Hiren Shukla"]

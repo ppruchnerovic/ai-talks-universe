@@ -4,7 +4,7 @@ title: "FinOps for AI Agents: Who Spent All the Tokens? — Tisha Chawla & Sushe
 slug: finops-for-ai-agents-who-spent-all-the-tokens-tisha-chawla
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tisha Chawla", "Susheem Koul"]

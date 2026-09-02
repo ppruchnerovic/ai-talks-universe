@@ -4,7 +4,7 @@ title: "Introducing Azure AI Foundry Agent Service to scale your AI agents | BRK
 slug: introducing-azure-ai-foundry-agent-service-to-scale-your-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mads Bolaris", "Marco Casalaina", "Brian King", "Lambert Ninteman"]

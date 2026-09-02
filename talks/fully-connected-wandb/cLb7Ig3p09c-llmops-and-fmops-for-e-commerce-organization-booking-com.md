@@ -4,7 +4,7 @@ title: "LLMOps and FMOps for e-commerce organization Booking.com"
 slug: llmops-and-fmops-for-e-commerce-organization-booking-com
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

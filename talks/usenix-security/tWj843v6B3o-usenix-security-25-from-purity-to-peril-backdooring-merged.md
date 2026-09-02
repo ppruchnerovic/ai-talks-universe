@@ -4,7 +4,7 @@ title: "USENIX Security '25 - From Purity to Peril: Backdooring Merged Models Fr
 slug: usenix-security-25-from-purity-to-peril-backdooring-merged
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

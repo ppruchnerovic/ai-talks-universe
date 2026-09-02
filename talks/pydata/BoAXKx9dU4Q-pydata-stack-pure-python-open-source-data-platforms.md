@@ -4,7 +4,7 @@ title: "PyData Stack: Pure Python open source data platforms"
 slug: pydata-stack-pure-python-open-source-data-platforms
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Eric Thanenthiran"]

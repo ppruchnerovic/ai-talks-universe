@@ -4,7 +4,7 @@ title: "RAG: from dumb implementation to serious results by Guillaume Laforge"
 slug: rag-from-dumb-implementation-to-serious-results-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Laforge"]

@@ -4,7 +4,7 @@ title: "Enable AI trust through automated classification and labeling | BRKSP475
 slug: enable-ai-trust-through-automated-classification-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cliff Embry", "Dan Holland"]

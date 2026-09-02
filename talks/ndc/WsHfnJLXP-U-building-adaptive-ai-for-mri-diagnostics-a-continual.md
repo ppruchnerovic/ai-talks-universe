@@ -4,7 +4,7 @@ title: "Building Adaptive AI for MRI Diagnostics: A Continual Learning Case Stud
 slug: building-adaptive-ai-for-mri-diagnostics-a-continual
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []

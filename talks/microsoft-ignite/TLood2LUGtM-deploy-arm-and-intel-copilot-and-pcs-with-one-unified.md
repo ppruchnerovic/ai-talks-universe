@@ -4,7 +4,7 @@ title: "Deploy ARM and Intel Copilot and PCs with one unified approach | ODSP151
 slug: deploy-arm-and-intel-copilot-and-pcs-with-one-unified
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Daniel Wyness"]

@@ -4,7 +4,7 @@ title: "Microsoft 365 Copilot and agent updates for everyone | STUDIO38"
 slug: microsoft-365-copilot-and-agent-updates-for-everyone
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jeremy Chapman"]

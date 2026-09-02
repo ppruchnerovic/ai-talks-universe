@@ -4,7 +4,7 @@ title: "The Death of Classical Computer Science • Matt Welsh & Julian Wood"
 slug: the-death-of-classical-computer-science-matt-welsh-julian
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Matt Welsh", "Julian Wood"]

@@ -4,7 +4,7 @@ title: "how to build a cult | james hawkins (posthog)"
 slug: how-to-build-a-cult-james-hawkins-posthog
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Artificial Intelligence in Healthcare: From Promise to Practice"
 slug: artificial-intelligence-in-healthcare-from-promise-to
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

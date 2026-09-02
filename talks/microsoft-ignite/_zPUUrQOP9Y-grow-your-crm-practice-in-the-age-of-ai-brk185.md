@@ -4,7 +4,7 @@ title: "Grow your CRM practice in the age of AI | BRK185"
 slug: grow-your-crm-practice-in-the-age-of-ai-brk185
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matthew Davis", "Keith Overa", "Girish Smith"]

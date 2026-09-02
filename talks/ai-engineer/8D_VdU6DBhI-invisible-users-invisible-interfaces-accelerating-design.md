@@ -4,7 +4,7 @@ title: "Invisible Users, Invisible Interfaces: Accelerating Design Iteration wit
 slug: invisible-users-invisible-interfaces-accelerating-design
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Invisible Users", "Alex Liss"]

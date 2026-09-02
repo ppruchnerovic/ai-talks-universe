@@ -4,7 +4,7 @@ title: "Develop faster with AI in Android Studio"
 slug: develop-faster-with-ai-in-android-studio
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Trevor Johns", "Sandhya Mohan", "Simona Milanovic"]

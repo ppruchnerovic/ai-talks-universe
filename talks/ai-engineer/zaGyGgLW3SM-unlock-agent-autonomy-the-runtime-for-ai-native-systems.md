@@ -4,7 +4,7 @@ title: "Unlock Agent Autonomy: The Runtime for AI-Native Systems — Tushar Jain
 slug: unlock-agent-autonomy-the-runtime-for-ai-native-systems
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tushar Jain"]

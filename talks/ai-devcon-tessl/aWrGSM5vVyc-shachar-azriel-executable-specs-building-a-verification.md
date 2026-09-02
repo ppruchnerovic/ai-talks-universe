@@ -4,7 +4,7 @@ title: "Shachar Azriel - Executable Specs: Building a Verification Layer for Age
 slug: shachar-azriel-executable-specs-building-a-verification
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Shachar Azriel"]

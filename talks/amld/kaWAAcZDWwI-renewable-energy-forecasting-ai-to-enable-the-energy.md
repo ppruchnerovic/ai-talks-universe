@@ -4,7 +4,7 @@ title: "Renewable Energy Forecasting | AI to Enable the Energy Transition | Geor
 slug: renewable-energy-forecasting-ai-to-enable-the-energy
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Georges Kariniotakis"]

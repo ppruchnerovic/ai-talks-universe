@@ -4,7 +4,7 @@ title: "[Session] Multi Agent Collaboration in MCP with Nicholas Aldridge from A
 slug: session-multi-agent-collaboration-in-mcp-with-nicholas
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Boost your coding productivity with Github Copilot Agent"
 slug: boost-your-coding-productivity-with-github-copilot-agent
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

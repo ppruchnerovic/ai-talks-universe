@@ -4,7 +4,7 @@ title: "Accessible Data Visualizations"
 slug: accessible-data-visualizations
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Maris Nieuwenhuis"]

@@ -4,7 +4,7 @@ title: "Building serverless intelligent apps with Flex Consumption and GPUs | BR
 slug: building-serverless-intelligent-apps-with-flex-consumption
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Simon Jakesch", "Abhay Pradhan", "Paul Yuknewicz"]

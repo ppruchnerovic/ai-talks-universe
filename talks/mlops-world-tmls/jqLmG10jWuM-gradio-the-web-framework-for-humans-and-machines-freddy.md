@@ -4,7 +4,7 @@ title: "Gradio: The Web Framework for Humans and Machines | Freddy Boulton, Hugg
 slug: gradio-the-web-framework-for-humans-and-machines-freddy
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Freddy Boulton", "Hugging Face"]

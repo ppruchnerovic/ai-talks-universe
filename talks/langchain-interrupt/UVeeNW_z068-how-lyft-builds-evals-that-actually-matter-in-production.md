@@ -4,7 +4,7 @@ title: "How Lyft Builds Evals That Actually Matter in Production | Interrupt 26"
 slug: how-lyft-builds-evals-that-actually-matter-in-production
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

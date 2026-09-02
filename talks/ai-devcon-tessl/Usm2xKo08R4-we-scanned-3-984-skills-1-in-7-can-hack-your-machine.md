@@ -4,7 +4,7 @@ title: "We Scanned 3,984 Skills — 1 in 7 Can Hack Your Machine"
 slug: we-scanned-3-984-skills-1-in-7-can-hack-your-machine
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Explore the Agentic Capabilities of Amazon Quick Su
 slug: aws-re-invent-2025-explore-the-agentic-capabilities-of
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "SIG API Machinery: SIG Updates and Deep Dive in the AI/ML Era - Stefan S
 slug: sig-api-machinery-sig-updates-and-deep-dive-in-the-ai-ml
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Stefan Schimanski"]

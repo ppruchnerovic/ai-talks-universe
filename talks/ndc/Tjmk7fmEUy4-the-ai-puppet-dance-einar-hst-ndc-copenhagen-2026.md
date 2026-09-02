@@ -4,7 +4,7 @@ title: "The AI puppet dance - Einar Høst - NDC Copenhagen 2026"
 slug: the-ai-puppet-dance-einar-hst-ndc-copenhagen-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Einar Høst"]

@@ -4,7 +4,7 @@ title: "Visual Studio Code for IT pros who like sleep | BRK111"
 slug: visual-studio-code-for-it-pros-who-like-sleep-brk111
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Liam Hampton"]

@@ -4,7 +4,7 @@ title: "SQL+Vector: Empower AI Apps With Relational Vector Database, Dr. Cheng T
 slug: sql-vector-empower-ai-apps-with-relational-vector-database
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

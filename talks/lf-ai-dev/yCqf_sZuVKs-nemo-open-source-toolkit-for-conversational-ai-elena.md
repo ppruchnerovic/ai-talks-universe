@@ -4,7 +4,7 @@ title: "NeMo: Open Source Toolkit for Conversational AI - Elena Rastorgueva, NVI
 slug: nemo-open-source-toolkit-for-conversational-ai-elena
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Elena Rastorgueva"]

@@ -4,7 +4,7 @@ title: "\"Would YOU Survive the Titanic?\", with ML and .NET - Simon Painter - N
 slug: would-you-survive-the-titanic-with-ml-and-net-simon-painter
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Simon Painter"]

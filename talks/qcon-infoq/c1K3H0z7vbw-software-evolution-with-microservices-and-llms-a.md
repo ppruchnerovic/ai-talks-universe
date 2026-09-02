@@ -4,7 +4,7 @@ title: "Software Evolution with Microservices and LLMs: A Conversation with Chri
 slug: software-evolution-with-microservices-and-llms-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

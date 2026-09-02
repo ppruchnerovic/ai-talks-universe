@@ -4,7 +4,7 @@ title: "Predicting Patient Treatment Outcomes | AI in Genomics | Charlotte Bunne
 slug: predicting-patient-treatment-outcomes-ai-in-genomics
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Predicting Patient Treatment Outcomes", "Charlotte Bunne"]

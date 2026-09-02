@@ -4,7 +4,7 @@ title: "Drive Growth, Profitability and Resilience with Agentic Supply Chains | 
 slug: drive-growth-profitability-and-resilience-with-agentic
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Chris Burchett", "Armando Duran", "Yury Gomez"]

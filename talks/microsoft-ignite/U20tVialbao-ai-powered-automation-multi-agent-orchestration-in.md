@@ -4,7 +4,7 @@ title: "AI powered automation & multi-agent orchestration in Microsoft Foundry |
 slug: ai-powered-automation-multi-agent-orchestration-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Christof Gebhart", "Shawn Henry", "Tina Manghnani", "Mark Wallace"]

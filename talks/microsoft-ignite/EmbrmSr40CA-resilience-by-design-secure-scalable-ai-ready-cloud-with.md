@@ -4,7 +4,7 @@ title: "Resilience by design: Secure, scalable, AI-ready cloud with Azure | BRK2
 slug: resilience-by-design-secure-scalable-ai-ready-cloud-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gargi Banerjee", "Molina Sharma"]

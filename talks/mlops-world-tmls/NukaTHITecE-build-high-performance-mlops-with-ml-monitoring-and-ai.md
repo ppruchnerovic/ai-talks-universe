@@ -4,7 +4,7 @@ title: "Build High Performance MLOps With ML Monitoring and AI Explainability"
 slug: build-high-performance-mlops-with-ml-monitoring-and-ai
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Platform Engineering 101: Building Internal Developer Platforms by Maart
 slug: platform-engineering-101-building-internal-developer
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Maarten Vandeperre"]

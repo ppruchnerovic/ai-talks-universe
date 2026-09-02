@@ -4,7 +4,7 @@ title: "Accelerating the LLM Lifecycle on the Cloud - Luca Antiga, Lightning AI"
 slug: accelerating-the-llm-lifecycle-on-the-cloud-luca-antiga
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Luca Antiga"]

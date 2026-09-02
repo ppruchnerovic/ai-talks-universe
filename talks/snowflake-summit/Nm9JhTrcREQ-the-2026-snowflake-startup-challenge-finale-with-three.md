@@ -4,7 +4,7 @@ title: "The 2026 Snowflake Startup Challenge Finale with Three Visionary Teams"
 slug: the-2026-snowflake-startup-challenge-finale-with-three
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2026"
 year: 2026
 speakers: []

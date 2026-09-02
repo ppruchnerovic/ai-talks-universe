@@ -4,7 +4,7 @@ title: "Tracking Knowledge Diversity in LLM-Generated Responses. [PyCon DE & PyD
 slug: tracking-knowledge-diversity-in-llm-generated-responses
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sarah Masud"]

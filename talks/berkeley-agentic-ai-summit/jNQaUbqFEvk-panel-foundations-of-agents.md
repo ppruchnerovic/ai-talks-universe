@@ -4,7 +4,7 @@ title: "Panel: Foundations of Agents"
 slug: panel-foundations-of-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []

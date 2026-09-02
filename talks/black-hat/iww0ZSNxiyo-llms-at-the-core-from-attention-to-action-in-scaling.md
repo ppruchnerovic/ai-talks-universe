@@ -4,7 +4,7 @@ title: "LLMs at the Core: From Attention to Action in Scaling Security Teams"
 slug: llms-at-the-core-from-attention-to-action-in-scaling
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []

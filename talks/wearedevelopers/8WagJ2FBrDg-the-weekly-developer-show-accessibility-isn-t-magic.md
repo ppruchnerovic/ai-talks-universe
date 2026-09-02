@@ -4,7 +4,7 @@ title: "The weekly developer show: Accessibility isn't magic, Longevity & DevRel
 slug: the-weekly-developer-show-accessibility-isn-t-magic
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

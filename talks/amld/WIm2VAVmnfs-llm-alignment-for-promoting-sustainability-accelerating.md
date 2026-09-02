@@ -4,7 +4,7 @@ title: "LLM Alignment for Promoting Sustainability | Accelerating Climate Change
 slug: llm-alignment-for-promoting-sustainability-accelerating
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Cesar Ilharco"]

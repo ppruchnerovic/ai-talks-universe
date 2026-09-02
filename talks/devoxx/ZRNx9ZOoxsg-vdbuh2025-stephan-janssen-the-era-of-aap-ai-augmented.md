@@ -4,7 +4,7 @@ title: "[VDBUH2025] Stephan Janssen - The Era of AAP: Ai Augmented Programming u
 slug: vdbuh2025-stephan-janssen-the-era-of-aap-ai-augmented
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Stephan Janssen"]

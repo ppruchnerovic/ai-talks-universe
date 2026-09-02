@@ -4,7 +4,7 @@ title: "Edge Orchestration for the Physical World: Connecting Cameras, Sensors, 
 slug: edge-orchestration-for-the-physical-world-connecting
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Irina Terekhova"]

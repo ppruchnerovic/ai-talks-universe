@@ -4,7 +4,7 @@ title: "How Docusign innovates intelligent agreement management with Azure | BRK
 slug: how-docusign-innovates-intelligent-agreement-management
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Deborah Chen", "Kunal Mukerjee", "Olivia Shone"]

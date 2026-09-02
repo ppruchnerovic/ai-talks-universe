@@ -4,7 +4,7 @@ title: "Lauren Putvin - Exploratory Data Analysis Why and How in Python - DEF CO
 slug: lauren-putvin-exploratory-data-analysis-why-and-how-in
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Lauren Putvin"]

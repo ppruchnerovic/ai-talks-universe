@@ -4,7 +4,7 @@ title: "Building the platform for agent coordination — Tom Moor, Linear"
 slug: building-the-platform-for-agent-coordination-tom-moor-linear
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tom Moor"]

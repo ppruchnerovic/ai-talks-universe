@@ -4,7 +4,7 @@ title: "Media literacy in the age of AI"
 slug: media-literacy-in-the-age-of-ai
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2024
 speakers: []

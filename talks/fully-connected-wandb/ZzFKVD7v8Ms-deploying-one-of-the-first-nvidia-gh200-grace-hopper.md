@@ -4,7 +4,7 @@ title: "Deploying one of the first NVIDIA GH200 Grace Hopper Superchip Clusters 
 slug: deploying-one-of-the-first-nvidia-gh200-grace-hopper
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

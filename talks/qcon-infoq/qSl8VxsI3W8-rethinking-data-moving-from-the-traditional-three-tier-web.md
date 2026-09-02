@@ -4,7 +4,7 @@ title: "Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Cli
 slug: rethinking-data-moving-from-the-traditional-three-tier-web
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

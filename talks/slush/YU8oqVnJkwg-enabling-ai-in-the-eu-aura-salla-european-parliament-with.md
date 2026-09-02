@@ -4,7 +4,7 @@ title: "Enabling AI in the EU | Aura Salla (European Parliament) with Magnus Ham
 slug: enabling-ai-in-the-eu-aura-salla-european-parliament-with
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Aura Salla"]

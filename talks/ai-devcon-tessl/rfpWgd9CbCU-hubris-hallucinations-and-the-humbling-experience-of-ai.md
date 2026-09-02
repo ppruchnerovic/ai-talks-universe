@@ -4,7 +4,7 @@ title: "Hubris, Hallucinations, and the Humbling Experience of AI Engineering wi
 slug: hubris-hallucinations-and-the-humbling-experience-of-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

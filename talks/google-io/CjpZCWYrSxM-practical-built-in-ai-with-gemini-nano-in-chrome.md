@@ -4,7 +4,7 @@ title: "Practical built-in AI with Gemini Nano in Chrome"
 slug: practical-built-in-ai-with-gemini-nano-in-chrome
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

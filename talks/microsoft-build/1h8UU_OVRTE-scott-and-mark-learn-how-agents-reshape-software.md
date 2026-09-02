@@ -4,7 +4,7 @@ title: "Scott and Mark learn...how agents reshape software engineering | BRK247"
 slug: scott-and-mark-learn-how-agents-reshape-software
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mark Russinovich", "Scott Hanselman"]

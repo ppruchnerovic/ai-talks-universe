@@ -4,7 +4,7 @@ title: "Demystify Zero Trust with Intune: cloud-connected, secure, and AI-ready 
 slug: demystify-zero-trust-with-intune-cloud-connected-secure-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lior Bela", "Sangeetha Visweswaran"]

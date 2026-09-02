@@ -4,7 +4,7 @@ title: "Smartwatches-sleep, Burnout prevention | AI and Sleep | Max Grossenbache
 slug: smartwatches-sleep-burnout-prevention-ai-and-sleep-max
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Max Grossenbacher"]

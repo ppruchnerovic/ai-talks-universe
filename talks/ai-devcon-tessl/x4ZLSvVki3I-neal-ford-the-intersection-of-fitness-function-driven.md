@@ -4,7 +4,7 @@ title: "Neal Ford - The Intersection of Fitness Function driven Architecture and
 slug: neal-ford-the-intersection-of-fitness-function-driven
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Neal Ford"]

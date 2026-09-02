@@ -4,7 +4,7 @@ title: "Domagoj Marić - Modern Web Data Extraction: Techniques, Tools, Legal an
 slug: domagoj-maric-modern-web-data-extraction-techniques-tools
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

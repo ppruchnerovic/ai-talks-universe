@@ -4,7 +4,7 @@ title: "AI Your Way with All-In-One Access"
 slug: ai-your-way-with-all-in-one-access
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Yusuf Ozuysal"]

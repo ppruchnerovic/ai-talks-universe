@@ -4,7 +4,7 @@ title: "The Importance and Elegance of Polars Expressions"
 slug: the-importance-and-elegance-of-polars-expressions
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jeroen Janssens"]

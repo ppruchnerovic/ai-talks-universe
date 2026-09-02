@@ -4,7 +4,7 @@ title: "Building an Agentic Video Editor for Mass Consumer — Ekaterina Deyneka
 slug: building-an-agentic-video-editor-for-mass-consumer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ekaterina Deyneka"]

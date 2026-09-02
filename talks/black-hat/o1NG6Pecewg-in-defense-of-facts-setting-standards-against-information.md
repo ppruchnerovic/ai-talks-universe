@@ -4,7 +4,7 @@ title: "In Defense of Facts: Setting Standards Against Information Threats"
 slug: in-defense-of-facts-setting-standards-against-information
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

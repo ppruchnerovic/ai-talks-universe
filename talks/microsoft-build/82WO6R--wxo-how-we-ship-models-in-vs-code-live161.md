@@ -4,7 +4,7 @@ title: "How we ship models in VS Code | LIVE161"
 slug: how-we-ship-models-in-vs-code-live161
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Julia Kasper", "Seth Juarez"]

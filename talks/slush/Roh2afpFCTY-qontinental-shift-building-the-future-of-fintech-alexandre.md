@@ -4,7 +4,7 @@ title: "Qontinental Shift: Building the Future of Fintech | Alexandre Prot (Qont
 slug: qontinental-shift-building-the-future-of-fintech-alexandre
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Alexandre Prot"]

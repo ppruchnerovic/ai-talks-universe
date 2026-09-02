@@ -4,7 +4,7 @@ title: "Yuan Emily Xue - The Exam Before Enterprise Deployment"
 slug: yuan-emily-xue-the-exam-before-enterprise-deployment
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Yuan Emily Xue"]

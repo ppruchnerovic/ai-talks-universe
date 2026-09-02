@@ -4,7 +4,7 @@ title: "Transform industrial operations with SymphonyAI IRIS Foundry | ODSP1455"
 slug: transform-industrial-operations-with-symphonyai-iris
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

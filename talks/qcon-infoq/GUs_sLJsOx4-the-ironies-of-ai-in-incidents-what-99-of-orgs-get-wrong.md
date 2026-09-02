@@ -4,7 +4,7 @@ title: "The Ironies of AI in Incidents: What 99% of Orgs Get WRONG"
 slug: the-ironies-of-ai-in-incidents-what-99-of-orgs-get-wrong
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

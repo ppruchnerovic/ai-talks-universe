@@ -4,7 +4,7 @@ title: ".NET 11 in depth: Runtime, libraries, and SDK for the AI era | OD806"
 slug: net-11-in-depth-runtime-libraries-and-sdk-for-the-ai-era
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

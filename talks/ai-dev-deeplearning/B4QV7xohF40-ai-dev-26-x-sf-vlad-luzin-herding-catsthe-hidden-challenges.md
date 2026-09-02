@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Vlad Luzin: Herding Cats—The Hidden Challenges of Mul
 slug: ai-dev-26-x-sf-vlad-luzin-herding-catsthe-hidden-challenges
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

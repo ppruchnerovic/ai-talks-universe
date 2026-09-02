@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Surviving in Dark Forest: Towards Evading the Atta
 slug: usenix-security-25-surviving-in-dark-forest-towards-evading
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

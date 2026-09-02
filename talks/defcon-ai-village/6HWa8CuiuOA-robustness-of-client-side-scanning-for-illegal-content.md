@@ -4,7 +4,7 @@ title: "Robustness of client-side scanning for illegal content detection on E2EE
 slug: robustness-of-client-side-scanning-for-illegal-content
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2021
 speakers: ["Shubham Jain"]

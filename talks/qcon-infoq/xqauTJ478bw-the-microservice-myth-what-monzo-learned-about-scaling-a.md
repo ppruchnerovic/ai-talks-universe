@@ -4,7 +4,7 @@ title: "The Microservice Myth: What Monzo Learned About Scaling a Bank"
 slug: the-microservice-myth-what-monzo-learned-about-scaling-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

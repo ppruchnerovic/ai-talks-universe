@@ -4,7 +4,7 @@ title: "Arm Neoverse-powered Microsoft Azure Cobalt 100 VMs | ODFP923"
 slug: arm-neoverse-powered-microsoft-azure-cobalt-100-vms-odfp923
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Bhumik Patel"]

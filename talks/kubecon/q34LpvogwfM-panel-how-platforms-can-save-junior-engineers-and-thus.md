@@ -4,7 +4,7 @@ title: "Panel: How Platforms Can Save Junior Engineers (and Thus... Jennifer R, 
 slug: panel-how-platforms-can-save-junior-engineers-and-thus
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

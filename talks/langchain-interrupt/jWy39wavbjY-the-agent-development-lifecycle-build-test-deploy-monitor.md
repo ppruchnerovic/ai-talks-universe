@@ -4,7 +4,7 @@ title: "The Agent Development Lifecycle: Build, Test, Deploy, Monitor | Interrup
 slug: the-agent-development-lifecycle-build-test-deploy-monitor
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

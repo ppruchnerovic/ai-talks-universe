@@ -4,7 +4,7 @@ title: "Mental Reset: How To Rethink Your User Flow in the Age of MCP & ChatGPT 
 slug: mental-reset-how-to-rethink-your-user-flow-in-the-age-of
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Erica Beavers"]

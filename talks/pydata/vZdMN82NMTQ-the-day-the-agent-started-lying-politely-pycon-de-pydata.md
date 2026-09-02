@@ -4,7 +4,7 @@ title: "The Day the Agent Started Lying (Politely) [PyCon DE & PyData 2026]"
 slug: the-day-the-agent-started-lying-politely-pycon-de-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Asya Melnik"]

@@ -4,7 +4,7 @@ title: "Content Creation: Using Stability AI's Visual Models for Marketing | DEM
 slug: content-creation-using-stability-ai-s-visual-models-for
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Pandas + Vector Search on GPU: How to Ensure Compatibility"
 slug: pandas-vector-search-on-gpu-how-to-ensure-compatibility
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

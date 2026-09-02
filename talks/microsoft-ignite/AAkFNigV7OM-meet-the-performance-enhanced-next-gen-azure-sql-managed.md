@@ -4,7 +4,7 @@ title: "Meet the performance-enhanced next gen Azure SQL Managed Instance | BRK1
 slug: meet-the-performance-enhanced-next-gen-azure-sql-managed
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Anitha Adusumilli", "Aditya Badramraju", "Troy Brovold", "Craig Henninger"]

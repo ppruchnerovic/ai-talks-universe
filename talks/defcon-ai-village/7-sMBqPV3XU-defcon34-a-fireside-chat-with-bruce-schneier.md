@@ -4,7 +4,7 @@ title: "DEFCON34: A Fireside chat with Bruce Schneier"
 slug: defcon34-a-fireside-chat-with-bruce-schneier
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2026
 speakers: []

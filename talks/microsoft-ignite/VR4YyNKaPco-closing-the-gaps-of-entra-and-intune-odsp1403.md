@@ -4,7 +4,7 @@ title: "Closing the gaps of Entra and Intune | ODSP1403"
 slug: closing-the-gaps-of-entra-and-intune-odsp1403
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Stefan Schoenleber"]

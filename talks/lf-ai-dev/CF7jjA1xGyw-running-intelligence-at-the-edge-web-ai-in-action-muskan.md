@@ -4,7 +4,7 @@ title: "Running Intelligence at the Edge: Web AI in Action - Muskan Jain, Indepe
 slug: running-intelligence-at-the-edge-web-ai-in-action-muskan
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Muskan Jain"]

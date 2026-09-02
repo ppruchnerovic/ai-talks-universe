@@ -4,7 +4,7 @@ title: "WG-Batch Updates: What’s New and What Is Next? - Yuki Iwai, CyberAgent
 slug: wg-batch-updates-whats-new-and-what-is-next-yuki-iwai
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Yuki Iwai"]

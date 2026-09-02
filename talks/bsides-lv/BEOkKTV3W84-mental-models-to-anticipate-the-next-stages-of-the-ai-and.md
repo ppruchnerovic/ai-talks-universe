@@ -4,7 +4,7 @@ title: "Mental Models to Anticipate the Next Stages of the AI and Cybersecurity 
 slug: mental-models-to-anticipate-the-next-stages-of-the-ai-and
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

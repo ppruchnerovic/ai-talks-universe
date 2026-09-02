@@ -4,7 +4,7 @@ title: "Softness at Work: Weakness or the Ultimate Leadership Asset?"
 slug: softness-at-work-weakness-or-the-ultimate-leadership-asset
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

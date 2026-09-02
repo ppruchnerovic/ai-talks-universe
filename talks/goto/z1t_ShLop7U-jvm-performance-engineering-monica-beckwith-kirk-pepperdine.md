@@ -4,7 +4,7 @@ title: "JVM Performance Engineering • Monica Beckwith & Kirk Pepperdine"
 slug: jvm-performance-engineering-monica-beckwith-kirk-pepperdine
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Monica Beckwith", "Kirk Pepperdine"]

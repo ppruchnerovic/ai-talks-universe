@@ -4,7 +4,7 @@ title: "Marco Gorelli - The Polars vs SQL differences nobody is talking about | 
 slug: marco-gorelli-the-polars-vs-sql-differences-nobody-is
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Marco Gorelli"]

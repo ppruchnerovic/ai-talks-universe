@@ -4,7 +4,7 @@ title: "[Roundtable] Why Financial Services Companies are Investing in MCP"
 slug: roundtable-why-financial-services-companies-are-investing
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

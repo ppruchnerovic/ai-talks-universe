@@ -4,7 +4,7 @@ title: "Unlock new business value with SAP and Microsoft with connected AI | BRK
 slug: unlock-new-business-value-with-sap-and-microsoft-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Christoph Ruehle", "Walter Sun"]

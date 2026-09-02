@@ -4,7 +4,7 @@ title: "David Brochart - Parallel processing using CRDTs"
 slug: david-brochart-parallel-processing-using-crdts
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["David Brochart"]

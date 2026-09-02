@@ -4,7 +4,7 @@ title: "More than DataFrames: Data Pipelines with the Swiss Army Knife DuckDB"
 slug: more-than-dataframes-data-pipelines-with-the-swiss-army
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Mehdi Ouazza"]

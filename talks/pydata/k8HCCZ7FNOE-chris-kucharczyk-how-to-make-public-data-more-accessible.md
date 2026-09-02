@@ -4,7 +4,7 @@ title: "Chris Kucharczyk - How to make public data more accessible with \"baked\
 slug: chris-kucharczyk-how-to-make-public-data-more-accessible
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Chris Kucharczyk"]

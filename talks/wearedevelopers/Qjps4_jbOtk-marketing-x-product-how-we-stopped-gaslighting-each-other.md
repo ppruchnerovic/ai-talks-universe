@@ -4,7 +4,7 @@ title: "Marketing x Product: How We Stopped Gaslighting Each Other and Built AI 
 slug: marketing-x-product-how-we-stopped-gaslighting-each-other
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ariel Shulman", "Yanay Sela"]

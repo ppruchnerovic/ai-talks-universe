@@ -4,7 +4,7 @@ title: "Viktor Kessler - Zero Trust with Iceberg REST Catalog and Policy Engines
 slug: viktor-kessler-zero-trust-with-iceberg-rest-catalog-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Viktor Kessler"]

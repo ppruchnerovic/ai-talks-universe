@@ -4,7 +4,7 @@ title: "Scalable feature engineering with Hamilton on Ray at StitchFix"
 slug: scalable-feature-engineering-with-hamilton-on-ray-at
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Innovate with AI at Enterprise Scale​ | BRK410"
 slug: innovate-with-ai-at-enterprise-scale-brk410
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Surojit Chatterjee", "Amee Desjourdy", "Heena Purohit", "Hans Yang"]

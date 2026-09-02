@@ -4,7 +4,7 @@ title: "How Product and Research Build Together at the Frontier | Hex"
 slug: how-product-and-research-build-together-at-the-frontier-hex
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

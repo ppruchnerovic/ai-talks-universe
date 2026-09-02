@@ -4,7 +4,7 @@ title: "Explore GenAI for customer support with Elastic Support Assistant | ODFP
 slug: explore-genai-for-customer-support-with-elastic-support
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Chris Blaisure"]

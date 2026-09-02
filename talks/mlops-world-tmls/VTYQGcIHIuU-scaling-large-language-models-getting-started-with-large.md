@@ -4,7 +4,7 @@ title: "Scaling Large Language Models: Getting Started with Large-Scale Parallel
 slug: scaling-large-language-models-getting-started-with-large
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Empowering Agents with Knowledge Graphs using Neo4j MCB Servers — Jaso
 slug: empowering-agents-with-knowledge-graphs-using-neo4j-mcb
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Jason Koo"]

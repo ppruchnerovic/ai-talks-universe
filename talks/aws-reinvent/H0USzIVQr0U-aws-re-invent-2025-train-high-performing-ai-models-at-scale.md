@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Train high-performing AI models at scale on AWS (AI
 slug: aws-re-invent-2025-train-high-performing-ai-models-at-scale
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

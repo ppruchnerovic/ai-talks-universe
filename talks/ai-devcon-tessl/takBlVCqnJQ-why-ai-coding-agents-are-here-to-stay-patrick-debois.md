@@ -4,7 +4,7 @@ title: "Why AI Coding Agents Are Here To Stay | Patrick Debois"
 slug: why-ai-coding-agents-are-here-to-stay-patrick-debois
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Patrick Debois"]

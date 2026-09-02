@@ -4,7 +4,7 @@ title: "GPUs on Kubernetes: What Actually Happens When You Request Nvidia... Gul
 slug: gpus-on-kubernetes-what-actually-happens-when-you-request
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

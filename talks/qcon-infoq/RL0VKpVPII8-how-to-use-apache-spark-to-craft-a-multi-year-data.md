@@ -4,7 +4,7 @@ title: "How to Use Apache Spark to Craft a Multi-Year Data Regression Testing an
 slug: how-to-use-apache-spark-to-craft-a-multi-year-data
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

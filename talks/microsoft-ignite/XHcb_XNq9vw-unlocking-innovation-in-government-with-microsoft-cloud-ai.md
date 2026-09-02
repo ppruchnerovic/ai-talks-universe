@@ -4,7 +4,7 @@ title: "Unlocking Innovation in Government with Microsoft Cloud & AI | BRK370"
 slug: unlocking-innovation-in-government-with-microsoft-cloud-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Doyle", "Kunal Modi", "Chris Nikola", "Cole Swain"]

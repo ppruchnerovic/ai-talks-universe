@@ -4,7 +4,7 @@ title: "OmnibusCyber: a schema-ready strongly typed database to model all cyber 
 slug: omnibuscyber-a-schema-ready-strongly-typed-database-to
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

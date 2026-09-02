@@ -4,7 +4,7 @@ title: "The Unreasonable Effectiveness of Separating the Task from the Model —
 slug: the-unreasonable-effectiveness-of-separating-the-task-from
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Maxime Rivest", "Isaac Miller"]

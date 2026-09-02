@@ -4,7 +4,7 @@ title: "Shaping Cybersecurity: How Regulation Shapes Operational Cyber Defense"
 slug: shaping-cybersecurity-how-regulation-shapes-operational
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []

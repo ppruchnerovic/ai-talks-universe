@@ -4,7 +4,7 @@ title: "Benchmarking Coding Agents on New vs Legacy Codebases — Denys Linkov, 
 slug: benchmarking-coding-agents-on-new-vs-legacy-codebases-denys
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Denys Linkov"]

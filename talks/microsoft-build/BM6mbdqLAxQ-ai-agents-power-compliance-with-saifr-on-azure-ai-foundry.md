@@ -4,7 +4,7 @@ title: "AI Agents Power Compliance with Saifr on Azure AI Foundry | DEM588"
 slug: ai-agents-power-compliance-with-saifr-on-azure-ai-foundry
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

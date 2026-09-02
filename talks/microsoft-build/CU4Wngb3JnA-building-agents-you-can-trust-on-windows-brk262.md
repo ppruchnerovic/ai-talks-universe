@@ -4,7 +4,7 @@ title: "Building Agents You Can Trust on Windows | BRK262"
 slug: building-agents-you-can-trust-on-windows-brk262
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Kirupa Chinnathambi", "Stuart Schaefer", "Patrick Nikoletich"]

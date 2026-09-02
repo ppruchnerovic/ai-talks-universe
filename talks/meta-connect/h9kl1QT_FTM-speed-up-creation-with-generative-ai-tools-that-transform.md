@@ -4,7 +4,7 @@ title: "Speed Up Creation with Generative AI Tools that Transform World Building
 slug: speed-up-creation-with-generative-ai-tools-that-transform
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Connect 2025"
 year: 2025
 speakers: []

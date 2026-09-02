@@ -4,7 +4,7 @@ title: "Making my Apache Spark™ talk more interesting using AI [PyCon DE & PyD
 slug: making-my-apache-sparktm-talk-more-interesting-using-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Celeste Horgan"]

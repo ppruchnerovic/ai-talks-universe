@@ -4,7 +4,7 @@ title: "Unite teams and tools with Miro and Microsoft | ODSP1444"
 slug: unite-teams-and-tools-with-miro-and-microsoft-odsp1444
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["David Ross"]

@@ -4,7 +4,7 @@ title: "Building an A/B Testing Framework with NiceGUI"
 slug: building-an-a-b-testing-framework-with-nicegui
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Wessel van de Goor"]

@@ -4,7 +4,7 @@ title: "Knowledge in Copilot Studio | OD812"
 slug: knowledge-in-copilot-studio-od812
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

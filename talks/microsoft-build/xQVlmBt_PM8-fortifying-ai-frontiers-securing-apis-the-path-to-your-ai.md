@@ -4,7 +4,7 @@ title: "Fortifying AI Frontiers - Securing APIs the path to your AI app | DEM551
 slug: fortifying-ai-frontiers-securing-apis-the-path-to-your-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

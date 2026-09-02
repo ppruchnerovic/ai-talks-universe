@@ -4,7 +4,7 @@ title: "DSPy: The End of Prompt Engineering - Kevin Madura, AlixPartners"
 slug: dspy-the-end-of-prompt-engineering-kevin-madura-alixpartners
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kevin Madura"]

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025-The AI revolution in customer support: Building predi
 slug: aws-re-invent-2025-the-ai-revolution-in-customer-support
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

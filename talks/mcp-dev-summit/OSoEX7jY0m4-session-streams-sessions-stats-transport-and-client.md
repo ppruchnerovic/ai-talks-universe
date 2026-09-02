@@ -4,7 +4,7 @@ title: "[Session] Streams, Sessions, Stats Transport and Client Behaviour in Pra
 slug: session-streams-sessions-stats-transport-and-client
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

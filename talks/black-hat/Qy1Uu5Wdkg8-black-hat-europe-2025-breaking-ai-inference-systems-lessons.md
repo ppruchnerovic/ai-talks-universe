@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Breaking AI Inference Systems: Lessons From Pwn2
 slug: black-hat-europe-2025-breaking-ai-inference-systems-lessons
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Revolutionize enterprise computing Snapdragon X Series | ODFP915"
 slug: revolutionize-enterprise-computing-snapdragon-x-series
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

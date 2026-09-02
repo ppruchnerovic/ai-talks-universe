@@ -4,7 +4,7 @@ title: "Navigating AI, Platform Engineering, and Staff-Plus: InfoQ Dev Summit Bo
 slug: navigating-ai-platform-engineering-and-staff-plus-infoq-dev
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

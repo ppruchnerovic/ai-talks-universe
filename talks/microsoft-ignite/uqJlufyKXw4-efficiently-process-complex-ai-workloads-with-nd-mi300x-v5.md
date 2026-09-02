@@ -4,7 +4,7 @@ title: "Efficiently process complex AI workloads with ND MI300X v5 technology | 
 slug: efficiently-process-complex-ai-workloads-with-nd-mi300x-v5
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Locky Ainley", "Mahesh Balasubramanian"]

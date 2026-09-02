@@ -4,7 +4,7 @@ title: "Building next-level conversational AI apps with .NET and Aspire - Steve 
 slug: building-next-level-conversational-ai-apps-with-net-and
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Steve Sanderson"]

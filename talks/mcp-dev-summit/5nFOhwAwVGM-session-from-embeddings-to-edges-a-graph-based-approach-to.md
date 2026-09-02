@@ -4,7 +4,7 @@ title: "[Session] From Embeddings to Edges: A Graph Based Approach to Tool Selec
 slug: session-from-embeddings-to-edges-a-graph-based-approach-to
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

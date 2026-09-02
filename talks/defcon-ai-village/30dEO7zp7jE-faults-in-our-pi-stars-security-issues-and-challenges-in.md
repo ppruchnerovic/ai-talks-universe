@@ -4,7 +4,7 @@ title: "Faults in our Pi Stars: Security Issues and Challenges in Deep Reinforce
 slug: faults-in-our-pi-stars-security-issues-and-challenges-in
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

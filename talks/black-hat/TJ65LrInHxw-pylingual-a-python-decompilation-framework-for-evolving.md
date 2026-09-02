@@ -4,7 +4,7 @@ title: "PyLingual: A Python Decompilation Framework for Evolving Python Versions
 slug: pylingual-a-python-decompilation-framework-for-evolving
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

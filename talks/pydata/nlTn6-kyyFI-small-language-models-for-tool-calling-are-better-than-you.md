@@ -4,7 +4,7 @@ title: "Small Language Models for Tool Calling Are Better Than You Think [PyCon 
 slug: small-language-models-for-tool-calling-are-better-than-you
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Gabi Kadlecova"]

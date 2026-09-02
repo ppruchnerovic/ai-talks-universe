@@ -4,7 +4,7 @@ title: "USENIX Security '25 - ELFuzz: Efficient Input Generation via LLM-driven 
 slug: usenix-security-25-elfuzz-efficient-input-generation-via
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

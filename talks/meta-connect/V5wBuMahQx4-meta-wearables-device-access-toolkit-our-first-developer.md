@@ -4,7 +4,7 @@ title: "Meta Wearables Device Access Toolkit, Our First Developer Toolkit for AI
 slug: meta-wearables-device-access-toolkit-our-first-developer
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Connect 2025"
 year: 2025
 speakers: []

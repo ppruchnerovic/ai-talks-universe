@@ -4,7 +4,7 @@ title: "Building Intelligent Research Agents with Manus - Ivan Leo, Manus AI (no
 slug: building-intelligent-research-agents-with-manus-ivan-leo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ivan Leo"]

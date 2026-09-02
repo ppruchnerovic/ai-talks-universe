@@ -4,7 +4,7 @@ title: "How Building with AI Can Double the Throughput of Your Engineering Team 
 slug: how-building-with-ai-can-double-the-throughput-of-your
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Brian Scanlan"]

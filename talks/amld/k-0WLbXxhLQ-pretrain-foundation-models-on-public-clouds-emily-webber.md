@@ -4,7 +4,7 @@ title: "Pretrain Foundation Models on Public Clouds | Emily Webber"
 slug: pretrain-foundation-models-on-public-clouds-emily-webber
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Emily Webber"]

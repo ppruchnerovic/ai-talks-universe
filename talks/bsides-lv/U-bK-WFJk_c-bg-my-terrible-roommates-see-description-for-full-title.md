@@ -4,7 +4,7 @@ title: "BG - My Terrible Roommates (see description for full title)"
 slug: bg-my-terrible-roommates-see-description-for-full-title
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: ["My Terrible Roommates"]

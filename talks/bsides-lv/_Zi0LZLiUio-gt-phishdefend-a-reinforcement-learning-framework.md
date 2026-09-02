@@ -4,7 +4,7 @@ title: "GT - PhishDefend: A Reinforcement Learning Framework"
 slug: gt-phishdefend-a-reinforcement-learning-framework
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

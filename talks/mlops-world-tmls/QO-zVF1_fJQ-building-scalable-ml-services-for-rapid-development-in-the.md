@@ -4,7 +4,7 @@ title: "Building scalable ML services for rapid development in the health and we
 slug: building-scalable-ml-services-for-rapid-development-in-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

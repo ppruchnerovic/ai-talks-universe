@@ -4,7 +4,7 @@ title: "Beyond Transcription: Building Voice AI That Understands Conversations ‚
 slug: beyond-transcription-building-voice-ai-that-understands
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Herv√© Bredin"]

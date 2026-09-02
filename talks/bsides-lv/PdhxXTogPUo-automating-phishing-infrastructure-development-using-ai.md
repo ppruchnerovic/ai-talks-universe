@@ -4,7 +4,7 @@ title: "Automating Phishing Infrastructure Development Using AI Agents"
 slug: automating-phishing-infrastructure-development-using-ai
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

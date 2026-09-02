@@ -4,7 +4,7 @@ title: "How ML, NLP, & 5 mins of Playtime Help Parents, Caregivers, & Children E
 slug: how-ml-nlp-5-mins-of-playtime-help-parents-caregivers
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Keynote: Machines, Learning, and Machine Learning - Dylan Beattie - NDC 
 slug: keynote-machines-learning-and-machine-learning-dylan
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Dylan Beattie"]

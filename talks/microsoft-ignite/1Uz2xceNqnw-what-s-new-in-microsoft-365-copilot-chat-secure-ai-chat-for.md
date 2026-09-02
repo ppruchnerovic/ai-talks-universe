@@ -4,7 +4,7 @@ title: "What's new in Microsoft 365 Copilot Chat: Secure AI chat for everyone | 
 slug: what-s-new-in-microsoft-365-copilot-chat-secure-ai-chat-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

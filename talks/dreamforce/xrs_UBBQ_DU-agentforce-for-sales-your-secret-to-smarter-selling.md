@@ -4,7 +4,7 @@ title: "Agentforce for Sales: Your Secret to Smarter Selling | Dreamforce 2025"
 slug: agentforce-for-sales-your-secret-to-smarter-selling
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

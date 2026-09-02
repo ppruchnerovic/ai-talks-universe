@@ -4,7 +4,7 @@ title: "How Open Frontier Labs Actually Train Their Models | Prime Intellect"
 slug: how-open-frontier-labs-actually-train-their-models-prime
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Prime Intellect"]

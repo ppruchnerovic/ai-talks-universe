@@ -4,7 +4,7 @@ title: "Beyond Kafka and S3: Python Data Pipelines with HTTP-Native Bytestreams 
 slug: beyond-kafka-and-s3-python-data-pipelines-with-http-native
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Johannes Dröge"]

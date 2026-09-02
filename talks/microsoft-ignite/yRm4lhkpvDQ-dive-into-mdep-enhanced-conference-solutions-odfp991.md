@@ -4,7 +4,7 @@ title: "Dive Into MDEP-enhanced conference solutions | ODFP991"
 slug: dive-into-mdep-enhanced-conference-solutions-odfp991
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ryan Yu"]

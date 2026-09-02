@@ -4,7 +4,7 @@ title: "Identity for AI Agents - Patrick Riley & Carlos Galan, Auth0"
 slug: identity-for-ai-agents-patrick-riley-carlos-galan-auth0
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Riley", "Carlos Galan"]

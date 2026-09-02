@@ -4,7 +4,7 @@ title: "Building Agents (the hard parts!) - Rita Kozlov, Cloudflare"
 slug: building-agents-the-hard-parts-rita-kozlov-cloudflare
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rita Kozlov"]

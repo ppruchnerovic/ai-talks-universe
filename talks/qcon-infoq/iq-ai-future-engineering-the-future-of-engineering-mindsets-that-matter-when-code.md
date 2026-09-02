@@ -4,7 +4,7 @@ title: "The Future of Engineering: Mindsets That Matter When Code Isn’t Enough
 slug: the-future-of-engineering-mindsets-that-matter-when-code
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Ben Greene"]

@@ -4,7 +4,7 @@ title: "Jacob Tomlinson+Naty Clementi-GPU Python 4 the Real World: Practical Ste
 slug: jacob-tomlinson-naty-clementi-gpu-python-4-the-real-world
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

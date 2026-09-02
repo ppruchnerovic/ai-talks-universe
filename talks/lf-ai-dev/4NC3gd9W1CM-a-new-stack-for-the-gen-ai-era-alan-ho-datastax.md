@@ -4,7 +4,7 @@ title: "A New Stack for the Gen AI Era - Alan Ho, DataStax"
 slug: a-new-stack-for-the-gen-ai-era-alan-ho-datastax
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Alan Ho"]

@@ -4,7 +4,7 @@ title: "Can LLMs Write Fast Multi-GPU Kernels? — Simran Arora, Together AI"
 slug: can-llms-write-fast-multi-gpu-kernels-simran-arora-together
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Simran Arora"]

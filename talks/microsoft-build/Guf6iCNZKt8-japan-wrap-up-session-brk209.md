@@ -4,7 +4,7 @@ title: "Japan Wrap-up Session | BRK209"
 slug: japan-wrap-up-session-brk209
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Tadashi Okazaki"]

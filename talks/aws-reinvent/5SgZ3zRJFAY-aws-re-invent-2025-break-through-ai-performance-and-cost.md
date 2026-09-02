@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Break through AI performance and cost barriers with
 slug: aws-re-invent-2025-break-through-ai-performance-and-cost
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

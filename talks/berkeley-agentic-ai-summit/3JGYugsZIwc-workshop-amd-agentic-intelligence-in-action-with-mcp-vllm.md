@@ -4,7 +4,7 @@ title: "Workshop: AMD: Agentic Intelligence in Action with MCP, vLLM and Pydanti
 slug: workshop-amd-agentic-intelligence-in-action-with-mcp-vllm
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []

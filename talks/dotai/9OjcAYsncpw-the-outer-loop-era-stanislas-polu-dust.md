@@ -4,7 +4,7 @@ title: "The Outer-Loop Era - Stanislas Polu - Dust"
 slug: the-outer-loop-era-stanislas-polu-dust
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Stanislas Polu"]

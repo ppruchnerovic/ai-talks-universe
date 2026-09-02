@@ -4,7 +4,7 @@ title: "Emulating Real-World PII with a Large-Scale Synthetic Dataset to Audit L
 slug: emulating-real-world-pii-with-a-large-scale-synthetic
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

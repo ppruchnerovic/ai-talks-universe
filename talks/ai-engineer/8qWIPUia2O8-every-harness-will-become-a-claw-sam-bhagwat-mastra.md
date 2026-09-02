@@ -4,7 +4,7 @@ title: "Every Harness Will Become A Claw — Sam Bhagwat, Mastra"
 slug: every-harness-will-become-a-claw-sam-bhagwat-mastra
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sam Bhagwat"]

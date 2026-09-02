@@ -4,7 +4,7 @@ title: "MCP: Origins and Requests For Startups — Theodora Chu, Model Context P
 slug: mcp-origins-and-requests-for-startups-theodora-chu-model
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Theodora Chu"]

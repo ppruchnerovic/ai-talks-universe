@@ -4,7 +4,7 @@ title: "Your Enterprise RAG Has No Legal Basis"
 slug: your-enterprise-rag-has-no-legal-basis
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["David Klemme", "Tilman Mürle"]

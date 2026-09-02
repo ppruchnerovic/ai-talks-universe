@@ -4,7 +4,7 @@ title: "Stop Burning Tokens: Why self-improvement needs domain expertise first -
 slug: stop-burning-tokens-why-self-improvement-needs-domain
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Annabell Schäfer"]

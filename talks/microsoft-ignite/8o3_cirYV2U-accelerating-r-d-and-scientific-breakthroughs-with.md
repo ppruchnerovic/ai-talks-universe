@@ -4,7 +4,7 @@ title: "Accelerating R&D and scientific breakthroughs with Microsoft Discovery |
 slug: accelerating-r-d-and-scientific-breakthroughs-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Link", "Auloke Mathur", "Julie Mijajlovic", "Prashant Varshney"]

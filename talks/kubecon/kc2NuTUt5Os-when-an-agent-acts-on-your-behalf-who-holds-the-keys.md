@@ -4,7 +4,7 @@ title: "When an Agent Acts on Your Behalf, Who Holds the Keys? - Mariusz Sabath 
 slug: when-an-agent-acts-on-your-behalf-who-holds-the-keys
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Mariusz Sabath", "Maia Iyer"]

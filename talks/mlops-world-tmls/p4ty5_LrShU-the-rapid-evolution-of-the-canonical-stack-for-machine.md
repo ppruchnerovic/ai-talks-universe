@@ -4,7 +4,7 @@ title: "The Rapid Evolution of the Canonical Stack for Machine Learning"
 slug: the-rapid-evolution-of-the-canonical-stack-for-machine
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

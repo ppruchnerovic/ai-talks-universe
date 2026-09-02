@@ -4,7 +4,7 @@ title: "Cheuk Ting Ho - Do you know how well your model is doing? Evaluate your 
 slug: cheuk-ting-ho-do-you-know-how-well-your-model-is-doing
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Cheuk Ting Ho"]

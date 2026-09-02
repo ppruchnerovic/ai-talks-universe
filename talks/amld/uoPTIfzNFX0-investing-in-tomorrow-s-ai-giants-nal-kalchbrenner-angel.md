@@ -4,7 +4,7 @@ title: "Investing in Tomorrow's AI Giants/Nal Kalchbrenner, Angel Investor & Flo
 slug: investing-in-tomorrow-s-ai-giants-nal-kalchbrenner-angel
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Panel Discussion: Building an Enterprise Platform for Pro... Jothsna P, 
 slug: panel-discussion-building-an-enterprise-platform-for-pro
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []

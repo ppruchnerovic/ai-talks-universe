@@ -4,7 +4,7 @@ title: "Seamless AI, Real Results: Copilot in the Flow of Office | STUDIO42"
 slug: seamless-ai-real-results-copilot-in-the-flow-of-office
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ryan Roslansky"]

@@ -4,7 +4,7 @@ title: "Jerry Liu, Co-Founder, LlamaIndex: Building an Advanced Knowledge Assist
 slug: jerry-liu-co-founder-llamaindex-building-an-advanced
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

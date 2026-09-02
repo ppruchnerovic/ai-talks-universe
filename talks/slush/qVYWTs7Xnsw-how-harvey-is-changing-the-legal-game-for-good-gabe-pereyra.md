@@ -4,7 +4,7 @@ title: "How Harvey is Changing the Legal Game for Good | Gabe Pereyra (Harvey)"
 slug: how-harvey-is-changing-the-legal-game-for-good-gabe-pereyra
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Gabe Pereyra"]

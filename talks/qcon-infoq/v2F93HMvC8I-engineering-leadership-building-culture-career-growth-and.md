@@ -4,7 +4,7 @@ title: "Engineering Leadership: Building Culture, Career Growth, and Ownership"
 slug: engineering-leadership-building-culture-career-growth-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

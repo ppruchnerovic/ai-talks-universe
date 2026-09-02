@@ -4,7 +4,7 @@ title: "Matthias Lubken - Piece of PI – Embedding The OpenClaw Coding Agent In
 slug: matthias-lubken-piece-of-pi-embedding-the-openclaw-coding
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Matthias Lubken"]

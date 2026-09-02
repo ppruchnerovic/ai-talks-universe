@@ -4,7 +4,7 @@ title: "Beyond The Hype: Every Day, Real World Uses for Copilot - Rob Conery - N
 slug: beyond-the-hype-every-day-real-world-uses-for-copilot-rob
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Rob Conery"]

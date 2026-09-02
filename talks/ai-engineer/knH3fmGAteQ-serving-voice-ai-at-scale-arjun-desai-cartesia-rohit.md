@@ -4,7 +4,7 @@ title: "Serving Voice AI at Scale — Arjun Desai (Cartesia) & Rohit Talluri (AW
 slug: serving-voice-ai-at-scale-arjun-desai-cartesia-rohit
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Arjun Desai"]

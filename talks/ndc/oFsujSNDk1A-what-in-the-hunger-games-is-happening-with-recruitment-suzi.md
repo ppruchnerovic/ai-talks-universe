@@ -4,7 +4,7 @@ title: "What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-A
 slug: what-in-the-hunger-games-is-happening-with-recruitment-suzi
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Boost cloud and AI ROI using Microsoft Marketplace | BRK215"
 slug: boost-cloud-and-ai-roi-using-microsoft-marketplace-brk215
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matt Hillegass", "Rajesh Ramankutty"]

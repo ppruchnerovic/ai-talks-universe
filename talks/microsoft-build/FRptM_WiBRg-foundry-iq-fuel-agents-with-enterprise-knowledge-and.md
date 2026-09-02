@@ -4,7 +4,7 @@ title: "Foundry IQ: Fuel agents with enterprise knowledge and agentic retrieval 
 slug: foundry-iq-fuel-agents-with-enterprise-knowledge-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Pablo Castro"]

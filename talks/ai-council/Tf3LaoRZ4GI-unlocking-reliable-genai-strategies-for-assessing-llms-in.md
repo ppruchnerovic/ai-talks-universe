@@ -4,7 +4,7 @@ title: "Unlocking Reliable GenAI: Strategies for Assessing LLMs in Real-World Ap
 slug: unlocking-reliable-genai-strategies-for-assessing-llms-in
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Dhruv Singh"]

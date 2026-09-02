@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Research agents in action: From complex business ch
 slug: aws-re-invent-2025-research-agents-in-action-from-complex
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

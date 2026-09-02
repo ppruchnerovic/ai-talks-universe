@@ -4,7 +4,7 @@ title: "Super-Secret Next Big Thing for DuckDB"
 slug: super-secret-next-big-thing-for-duckdb
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

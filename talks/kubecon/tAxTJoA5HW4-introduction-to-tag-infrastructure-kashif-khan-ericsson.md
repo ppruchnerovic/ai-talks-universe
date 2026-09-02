@@ -4,7 +4,7 @@ title: "Introduction To Tag Infrastructure - Kashif Khan, Ericsson & Dylan Page,
 slug: introduction-to-tag-infrastructure-kashif-khan-ericsson
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Kashif Khan"]

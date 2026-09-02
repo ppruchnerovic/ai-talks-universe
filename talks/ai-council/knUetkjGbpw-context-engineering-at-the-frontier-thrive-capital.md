@@ -4,7 +4,7 @@ title: "Context Engineering at the Frontier | Thrive Capital"
 slug: context-engineering-at-the-frontier-thrive-capital
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Thrive Capital"]

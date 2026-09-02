@@ -4,7 +4,7 @@ title: "Building my own (accurate!) Spotify Wrapped by Iulia Feroli"
 slug: building-my-own-accurate-spotify-wrapped-by-iulia-feroli
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Iulia Feroli"]

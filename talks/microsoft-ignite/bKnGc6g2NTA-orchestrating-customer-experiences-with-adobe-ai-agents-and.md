@@ -4,7 +4,7 @@ title: "Orchestrating Customer Experiences with Adobe AI Agents and Microsoft Fo
 slug: orchestrating-customer-experiences-with-adobe-ai-agents-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Anoop Sahgal", "Siddhartha Srivastava"]

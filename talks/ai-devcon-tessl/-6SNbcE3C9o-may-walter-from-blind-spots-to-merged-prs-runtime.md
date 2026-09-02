@@ -4,7 +4,7 @@ title: "May Walter - From Blind Spots to Merged PRs: Runtime Intelligence for Co
 slug: may-walter-from-blind-spots-to-merged-prs-runtime
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["May Walter"]

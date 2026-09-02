@@ -4,7 +4,7 @@ title: "Daniel Jones & Tomasz Maj - More software, faster - Odevo's AI Native tr
 slug: daniel-jones-tomasz-maj-more-software-faster-odevo-s-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Daniel Jones", "Tomasz Maj"]

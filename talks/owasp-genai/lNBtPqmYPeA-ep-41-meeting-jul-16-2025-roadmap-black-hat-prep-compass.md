@@ -4,7 +4,7 @@ title: "Ep.41 Meeting Jul 16 2025: Roadmap, Black Hat Prep & Compass Launch"
 slug: ep-41-meeting-jul-16-2025-roadmap-black-hat-prep-compass
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

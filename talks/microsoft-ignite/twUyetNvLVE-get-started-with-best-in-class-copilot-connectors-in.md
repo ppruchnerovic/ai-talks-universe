@@ -4,7 +4,7 @@ title: "Get started with best-in-class Copilot connectors in Copilot Studio | BR
 slug: get-started-with-best-in-class-copilot-connectors-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sabin Nair", "Nithin Ravindra"]

@@ -4,7 +4,7 @@ title: "Unleash next-level customer service with Copilot and agents in Dynamics 
 slug: unleash-next-level-customer-service-with-copilot-and-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Daniel Pickworth", "Sundar Raghavan"]

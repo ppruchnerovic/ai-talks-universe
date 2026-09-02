@@ -4,7 +4,7 @@ title: "[VDBUH2025] Simone De Gijt - wAIred! Learn with(out) AI"
 slug: vdbuh2025-simone-de-gijt-waired-learn-with-out-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Simone De Gijt"]

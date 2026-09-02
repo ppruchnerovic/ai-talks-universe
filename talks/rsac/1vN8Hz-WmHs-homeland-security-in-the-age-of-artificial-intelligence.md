@@ -4,7 +4,7 @@ title: "Homeland Security in the Age of Artificial Intelligence"
 slug: homeland-security-in-the-age-of-artificial-intelligence
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Rumman Chowdhury"]

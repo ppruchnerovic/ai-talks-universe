@@ -4,7 +4,7 @@ title: "Copilot in Excel: transforming data analysis | BRK282"
 slug: copilot-in-excel-transforming-data-analysis-brk282
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Carlos Otero", "Avani Reddy", "Tejas Varia"]

@@ -4,7 +4,7 @@ title: "Govern AI models, tools, and agents with Azure API Management | OD831"
 slug: govern-ai-models-tools-and-agents-with-azure-api-management
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Anish Tallapureddy", "Mike Budzynski"]

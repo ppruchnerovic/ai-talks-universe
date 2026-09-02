@@ -4,7 +4,7 @@ title: "Startups shipping at scale with Google DeepMind"
 slug: startups-shipping-at-scale-with-google-deepmind
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Logan Kilpatrick", "Michele Catasta", "Bianca Rangecroft", "Jay Wu"]

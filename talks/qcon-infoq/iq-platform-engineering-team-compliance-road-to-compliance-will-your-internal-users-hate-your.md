@@ -4,7 +4,7 @@ title: "Road to Compliance: Will Your Internal Users Hate Your Platform Team?"
 slug: road-to-compliance-will-your-internal-users-hate-your
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Davide de Paolis"]

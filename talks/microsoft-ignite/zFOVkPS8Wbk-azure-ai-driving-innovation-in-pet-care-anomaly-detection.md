@@ -4,7 +4,7 @@ title: "Azure AI: Driving innovation in pet care anomaly detection and beyond | 
 slug: azure-ai-driving-innovation-in-pet-care-anomaly-detection
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sharmila Chockalingam", "Julio Figueroa", "Michael Fitzke", "Raj Madhavan"]

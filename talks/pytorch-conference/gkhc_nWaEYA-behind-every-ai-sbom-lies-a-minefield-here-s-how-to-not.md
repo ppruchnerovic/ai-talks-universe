@@ -4,7 +4,7 @@ title: "Behind Every AI SBOM Lies a Minefield: Here's How to Not Step... - Matth
 slug: behind-every-ai-sbom-lies-a-minefield-here-s-how-to-not
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Matthew Crawford", "Jimmy Ahlberg"]

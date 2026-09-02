@@ -4,7 +4,7 @@ title: "Ansh Kanwar, Reltio Keynote: The New rules of data intelligence in the a
 slug: ansh-kanwar-reltio-keynote-the-new-rules-of-data
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []

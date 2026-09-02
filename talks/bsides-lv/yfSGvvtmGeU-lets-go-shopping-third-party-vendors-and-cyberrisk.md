@@ -4,7 +4,7 @@ title: "Let’s Go Shopping: Third-Party Vendors and CyberRisk"
 slug: lets-go-shopping-third-party-vendors-and-cyberrisk
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

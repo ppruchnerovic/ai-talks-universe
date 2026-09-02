@@ -4,7 +4,7 @@ title: "The Art of Data: Reimagining Creative Processes with Data Culture"
 slug: the-art-of-data-reimagining-creative-processes-with-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Michael Cohen"]

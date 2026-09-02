@@ -4,7 +4,7 @@ title: "Balancing Privacy & Utility: Efficient PII Detection and Replacement in 
 slug: balancing-privacy-utility-efficient-pii-detection-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

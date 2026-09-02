@@ -4,7 +4,7 @@ title: "What Claude Code Can Do That You Haven't Tried - Gui Ferreira - NDC AI 2
 slug: what-claude-code-can-do-that-you-haven-t-tried-gui-ferreira
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gui Ferreira"]

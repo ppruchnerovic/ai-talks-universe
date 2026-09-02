@@ -4,7 +4,7 @@ title: "How to Build Your Own AI Data Center in 2025 — Paul Gilbert, Arista Ne
 slug: how-to-build-your-own-ai-data-center-in-2025-paul-gilbert
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Paul Gilbert"]

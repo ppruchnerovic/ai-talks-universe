@@ -4,7 +4,7 @@ title: "USENIX Security '25 - SoK: Efficiency Robustness of Dynamic Deep Learnin
 slug: usenix-security-25-sok-efficiency-robustness-of-dynamic
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

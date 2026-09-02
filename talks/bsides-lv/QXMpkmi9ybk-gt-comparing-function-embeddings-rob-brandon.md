@@ -4,7 +4,7 @@ title: "GT - Comparing Function Embeddings - Rob Brandon"
 slug: gt-comparing-function-embeddings-rob-brandon
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Comparing Function Embeddings", "Rob Brandon"]

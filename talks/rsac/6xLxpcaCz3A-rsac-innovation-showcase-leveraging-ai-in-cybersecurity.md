@@ -4,7 +4,7 @@ title: "RSAC Innovation Showcase: Leveraging AI in Cybersecurity Workflows"
 slug: rsac-innovation-showcase-leveraging-ai-in-cybersecurity
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Sid Trivedi"]

@@ -4,7 +4,7 @@ title: "Empowering care teams with Dragon Copilot, an AI clinical assistant | BR
 slug: empowering-care-teams-with-dragon-copilot-an-ai-clinical
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["James Jeffries", "Maria Jumawan"]

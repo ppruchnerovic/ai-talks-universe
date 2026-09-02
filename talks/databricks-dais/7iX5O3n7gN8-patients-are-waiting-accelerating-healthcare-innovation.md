@@ -4,7 +4,7 @@ title: "Patients Are Waiting...Accelerating Healthcare Innovation with Data, AI 
 slug: patients-are-waiting-accelerating-healthcare-innovation
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

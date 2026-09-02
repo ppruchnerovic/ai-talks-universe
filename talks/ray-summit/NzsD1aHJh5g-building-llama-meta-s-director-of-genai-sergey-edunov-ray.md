@@ -4,7 +4,7 @@ title: "Building LLaMA: Meta's Director of GenAI Sergey Edunov | Ray Summit 2024
 slug: building-llama-meta-s-director-of-genai-sergey-edunov-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

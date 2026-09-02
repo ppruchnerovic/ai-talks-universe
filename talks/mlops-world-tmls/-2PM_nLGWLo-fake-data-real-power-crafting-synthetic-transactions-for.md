@@ -4,7 +4,7 @@ title: "Fake Data, Real Power: Crafting Synthetic Transactions for Bulletproof A
 slug: fake-data-real-power-crafting-synthetic-transactions-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Bhavana Sajja"]

@@ -4,7 +4,7 @@ title: "Accelerating developer productivity with Windows 365 | OD855"
 slug: accelerating-developer-productivity-with-windows-365-od855
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Roop Kiran Chevuri", "Phil Gerity"]

@@ -4,7 +4,7 @@ title: "Microsoft Fabric IQ: Turning unified data into unified intelligence | BR
 slug: microsoft-fabric-iq-turning-unified-data-into-unified
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yitzhak Kesselman", "Chafia Aouissi", "Tony de Bos", "Tessa Kloster"]

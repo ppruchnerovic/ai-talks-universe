@@ -4,7 +4,7 @@ title: "Federated llm-d: Elevating Distributed Inference Beyond Clus... Madhuri 
 slug: federated-llm-d-elevating-distributed-inference-beyond-clus
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: []

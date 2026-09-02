@@ -4,7 +4,7 @@ title: "Rowan McAllister, Waymo: Behavior models for interactive AV forecasting 
 slug: rowan-mcallister-waymo-behavior-models-for-interactive-av
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2024
 speakers: []

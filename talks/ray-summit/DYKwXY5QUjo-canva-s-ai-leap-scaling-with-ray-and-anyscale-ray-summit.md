@@ -4,7 +4,7 @@ title: "Canva's AI Leap: Scaling with Ray and Anyscale | Ray Summit 2024"
 slug: canva-s-ai-leap-scaling-with-ray-and-anyscale-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

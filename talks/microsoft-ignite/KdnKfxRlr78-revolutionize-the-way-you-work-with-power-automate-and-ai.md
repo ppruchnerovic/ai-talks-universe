@@ -4,7 +4,7 @@ title: "Revolutionize the way you work with Power Automate and AI | BRK175"
 slug: revolutionize-the-way-you-work-with-power-automate-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Joe Fernandez"]

@@ -4,7 +4,7 @@ title: "Episode 13: Meeting April 25 2024 - v2 Updates, RSA Planning, New Websit
 slug: episode-13-meeting-april-25-2024-v2-updates-rsa-planning
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Evaluating Risk-Based Authentication Effectiveness in Production 2FA Sys
 slug: evaluating-risk-based-authentication-effectiveness-in
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Steven Leung"]

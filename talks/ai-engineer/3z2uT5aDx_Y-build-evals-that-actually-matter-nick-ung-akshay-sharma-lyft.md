@@ -4,7 +4,7 @@ title: "Build Evals That Actually Matter - Nick Ung & Akshay Sharma, Lyft"
 slug: build-evals-that-actually-matter-nick-ung-akshay-sharma-lyft
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Ung"]

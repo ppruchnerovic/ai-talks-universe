@@ -4,7 +4,7 @@ title: "Verifiable Environments for AI in Biology — Kenny Workman, LatchBio"
 slug: verifiable-environments-for-ai-in-biology-kenny-workman
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kenny Workman"]

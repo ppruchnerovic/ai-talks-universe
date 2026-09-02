@@ -4,7 +4,7 @@ title: "The Future Roadmap for the Composable Data Stack"
 slug: the-future-roadmap-for-the-composable-data-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "What Actually Happens When You Give a Dev Team Claude Code for a Day - S
 slug: what-actually-happens-when-you-give-a-dev-team-claude-code
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Stian Håklev"]

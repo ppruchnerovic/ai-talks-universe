@@ -4,7 +4,7 @@ title: "Teaching Exotic Programming Languages to Large Language Models by Alessa
 slug: teaching-exotic-programming-languages-to-large-language
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandro Giagnorio"]

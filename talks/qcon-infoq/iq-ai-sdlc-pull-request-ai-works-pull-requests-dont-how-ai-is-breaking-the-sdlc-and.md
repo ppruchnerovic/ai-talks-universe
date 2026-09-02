@@ -4,7 +4,7 @@ title: "AI Works, Pull Requests Don’t: How AI is Breaking the SDLC and What to
 slug: ai-works-pull-requests-dont-how-ai-is-breaking-the-sdlc-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Michael Webster"]

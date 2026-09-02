@@ -4,7 +4,7 @@ title: "BONUS EPISODE: 76 Malicious AI Skills Were Hiding in Plain Sight"
 slug: bonus-episode-76-malicious-ai-skills-were-hiding-in-plain
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

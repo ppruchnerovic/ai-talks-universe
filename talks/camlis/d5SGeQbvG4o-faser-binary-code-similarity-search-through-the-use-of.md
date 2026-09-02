@@ -4,7 +4,7 @@ title: "FASER: Binary Code Similarity Search through the use of Intermediate Rep
 slug: faser-binary-code-similarity-search-through-the-use-of
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

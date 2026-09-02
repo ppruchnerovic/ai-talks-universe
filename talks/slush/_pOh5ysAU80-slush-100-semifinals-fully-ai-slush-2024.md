@@ -4,7 +4,7 @@ title: "Slush 100 Semifinals | FULLY AI | Slush 2024"
 slug: slush-100-semifinals-fully-ai-slush-2024
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

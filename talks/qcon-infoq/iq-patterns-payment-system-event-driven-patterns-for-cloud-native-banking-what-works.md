@@ -4,7 +4,7 @@ title: "Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?
 slug: event-driven-patterns-for-cloud-native-banking-what-works
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Chris Tacey-Green"]

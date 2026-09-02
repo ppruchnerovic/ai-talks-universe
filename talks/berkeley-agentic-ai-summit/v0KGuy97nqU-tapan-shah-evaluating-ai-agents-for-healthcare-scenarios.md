@@ -4,7 +4,7 @@ title: "Tapan Shah - Evaluating AI Agents for Healthcare: Scenarios, Metrics and
 slug: tapan-shah-evaluating-ai-agents-for-healthcare-scenarios
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Tapan Shah"]

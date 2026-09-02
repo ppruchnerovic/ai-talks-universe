@@ -4,7 +4,7 @@ title: "Build AI Apps fast with GitHub and Microsoft Foundry in action | BRK110"
 slug: build-ai-apps-fast-with-github-and-microsoft-foundry-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kate Catlin", "Facundo Santiago"]

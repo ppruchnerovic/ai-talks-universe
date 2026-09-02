@@ -4,7 +4,7 @@ title: "Ramesh Raskar - The Agentic Web and the Bazaar Era of AI"
 slug: ramesh-raskar-the-agentic-web-and-the-bazaar-era-of-ai
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ramesh Raskar"]

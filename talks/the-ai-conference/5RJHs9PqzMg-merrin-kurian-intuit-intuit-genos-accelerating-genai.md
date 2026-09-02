@@ -4,7 +4,7 @@ title: "Merrin Kurian, Intuit: Intuit GenOS: Accelerating GenAI powered experien
 slug: merrin-kurian-intuit-intuit-genos-accelerating-genai
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

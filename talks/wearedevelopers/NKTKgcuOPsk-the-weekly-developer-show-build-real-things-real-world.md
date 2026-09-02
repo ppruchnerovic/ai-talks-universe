@@ -4,7 +4,7 @@ title: "The weekly developer show: Build Real Things: Real-World Problems That B
 slug: the-weekly-developer-show-build-real-things-real-world
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

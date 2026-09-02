@@ -4,7 +4,7 @@ title: "From rows to reasoning: Designing databases for AI apps and agents | BRK
 slug: from-rows-to-reasoning-designing-databases-for-ai-apps-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Charles Feddersen", "Abe Omorogbe"]

@@ -4,7 +4,7 @@ title: "LLMbotomy: Shutting the Trojan Backdoors"
 slug: llmbotomy-shutting-the-trojan-backdoors
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

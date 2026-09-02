@@ -4,7 +4,7 @@ title: "Accelerate Partner Impact in Every Industry with AI | PBRK388"
 slug: accelerate-partner-impact-in-every-industry-with-ai-pbrk388
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kathleen Mitford", "Satish Thomas", "Colin Fleming", "Ihab Foudeh", "Sunil Senan"]

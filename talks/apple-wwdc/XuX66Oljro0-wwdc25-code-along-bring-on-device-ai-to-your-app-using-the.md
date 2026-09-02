@@ -4,7 +4,7 @@ title: "WWDC25: Code-along: Bring on-device AI to your app using the Foundation 
 slug: wwdc25-code-along-bring-on-device-ai-to-your-app-using-the
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []

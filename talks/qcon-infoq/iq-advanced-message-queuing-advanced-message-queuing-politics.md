@@ -4,7 +4,7 @@ title: "Advanced Message Queuing Politics"
 slug: advanced-message-queuing-politics
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["John O'Hara"]

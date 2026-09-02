@@ -4,7 +4,7 @@ title: "Great Products Need Closer Collaboration Between Product, Engineering an
 slug: great-products-need-closer-collaboration-between-product
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "What’s new in Azure Local | BRK147"
 slug: whats-new-in-azure-local-brk147
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Meena Gowdar", "Mohamed Khalid", "Dean Paron"]

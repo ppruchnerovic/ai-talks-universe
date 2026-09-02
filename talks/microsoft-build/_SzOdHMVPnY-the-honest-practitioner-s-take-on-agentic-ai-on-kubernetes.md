@@ -4,7 +4,7 @@ title: "The honest practitioner's take on agentic AI on Kubernetes | BRK222"
 slug: the-honest-practitioner-s-take-on-agentic-ai-on-kubernetes
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Lachlan Evenson"]

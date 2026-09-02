@@ -4,7 +4,7 @@ title: "Keynote: The Physical Turing Test: Solving General Purpose Robotics - Ji
 slug: keynote-the-physical-turing-test-solving-general-purpose
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jim Fan"]

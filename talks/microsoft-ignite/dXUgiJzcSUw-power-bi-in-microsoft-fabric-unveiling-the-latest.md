@@ -4,7 +4,7 @@ title: "Power BI in Microsoft Fabric: unveiling the latest innovations | BRK202"
 slug: power-bi-in-microsoft-fabric-unveiling-the-latest
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mohammad Ali", "Kimberly Manis"]

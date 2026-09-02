@@ -4,7 +4,7 @@ title: "Special Topics in Kernels, RL, Reward Hacking in Agents — Daniel Han, 
 slug: special-topics-in-kernels-rl-reward-hacking-in-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Daniel Han"]

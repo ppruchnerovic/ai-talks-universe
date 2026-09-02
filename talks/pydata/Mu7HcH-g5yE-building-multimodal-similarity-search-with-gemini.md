@@ -4,7 +4,7 @@ title: "Building Multimodal Similarity Search with Gemini"
 slug: building-multimodal-similarity-search-with-gemini
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

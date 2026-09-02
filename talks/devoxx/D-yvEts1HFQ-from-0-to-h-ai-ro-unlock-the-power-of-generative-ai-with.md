@@ -4,7 +4,7 @@ title: "From 0 to H AI ro: Unlock the power of generative AI with Kotlin, LangCh
 slug: from-0-to-h-ai-ro-unlock-the-power-of-generative-ai-with
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

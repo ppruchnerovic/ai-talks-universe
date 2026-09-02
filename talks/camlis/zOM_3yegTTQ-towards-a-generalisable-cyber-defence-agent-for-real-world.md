@@ -4,7 +4,7 @@ title: "Towards a Generalisable Cyber Defence Agent for Real-World Computer Netw
 slug: towards-a-generalisable-cyber-defence-agent-for-real-world
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Tim Dudman"]

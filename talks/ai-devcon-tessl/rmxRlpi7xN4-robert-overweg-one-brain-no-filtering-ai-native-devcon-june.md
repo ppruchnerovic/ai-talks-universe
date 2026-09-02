@@ -4,7 +4,7 @@ title: "Robert Overweg - One Brain, No Filtering - AI Native DevCon June 2026"
 slug: robert-overweg-one-brain-no-filtering-ai-native-devcon-june
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Robert Overweg", "One Brain"]

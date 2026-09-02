@@ -4,7 +4,7 @@ title: "Breaking the Black Box: Why Testing Generative AI Is Full Spectrum - Jas
 slug: breaking-the-black-box-why-testing-generative-ai-is-full
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jason Ross"]

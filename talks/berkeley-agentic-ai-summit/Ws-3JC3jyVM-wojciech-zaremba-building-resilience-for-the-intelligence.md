@@ -4,7 +4,7 @@ title: "Wojciech Zaremba - Building Resilience for the Intelligence Age"
 slug: wojciech-zaremba-building-resilience-for-the-intelligence
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Wojciech Zaremba"]

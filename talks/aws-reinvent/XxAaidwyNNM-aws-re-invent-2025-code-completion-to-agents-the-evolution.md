@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Code completion to agents: The evolution of develop
 slug: aws-re-invent-2025-code-completion-to-agents-the-evolution
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

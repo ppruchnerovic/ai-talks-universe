@@ -4,7 +4,7 @@ title: "Under the hood for startups: How Google DeepMind makes modeling decision
 slug: under-the-hood-for-startups-how-google-deepmind-makes
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Olivier Lacombe", "Rohan Doshi", "Kate Olszewska", "Andrew Carr", "Naina Raisinghani"]

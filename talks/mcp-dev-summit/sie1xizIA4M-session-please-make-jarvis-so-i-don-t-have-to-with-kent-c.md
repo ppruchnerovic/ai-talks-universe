@@ -4,7 +4,7 @@ title: "[Session] Please Make Jarvis So I Don't Have To with Kent C. Dodds from 
 slug: session-please-make-jarvis-so-i-don-t-have-to-with-kent-c
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "BG - Wolves in Windows Clothing: Weaponizing Trusted Services for Stealt
 slug: bg-wolves-in-windows-clothing-weaponizing-trusted-services
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

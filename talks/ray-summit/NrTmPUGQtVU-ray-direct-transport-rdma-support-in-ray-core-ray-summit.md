@@ -4,7 +4,7 @@ title: "Ray Direct Transport: RDMA Support in Ray Core | Ray Summit 2025"
 slug: ray-direct-transport-rdma-support-in-ray-core-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "The Hidden Cost of AI Coding: Technical Debt You Can’t See"
 slug: the-hidden-cost-of-ai-coding-technical-debt-you-cant-see
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Maish Saidel-Keesing"]

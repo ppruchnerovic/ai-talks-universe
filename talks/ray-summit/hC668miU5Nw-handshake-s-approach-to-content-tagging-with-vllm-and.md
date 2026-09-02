@@ -4,7 +4,7 @@ title: "Handshake's Approach to Content Tagging with vLLM and Anyscale | Ray Sum
 slug: handshake-s-approach-to-content-tagging-with-vllm-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

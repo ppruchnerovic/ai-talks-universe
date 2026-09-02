@@ -4,7 +4,7 @@ title: "Are Frameworks like React Redundant in an AI World?"
 slug: are-frameworks-like-react-redundant-in-an-ai-world
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Claude Code best practices | Code w/ Claude"
 slug: claude-code-best-practices-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []

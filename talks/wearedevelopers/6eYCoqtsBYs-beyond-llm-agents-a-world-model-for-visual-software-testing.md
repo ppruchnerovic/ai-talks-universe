@@ -4,7 +4,7 @@ title: "Beyond LLM Agents: A World Model for Visual Software Testing"
 slug: beyond-llm-agents-a-world-model-for-visual-software-testing
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Manuel Weichselbaum"]

@@ -4,7 +4,7 @@ title: "Agentic workflow powered by Dagger with Kambui Nurse"
 slug: agentic-workflow-powered-by-dagger-with-kambui-nurse
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

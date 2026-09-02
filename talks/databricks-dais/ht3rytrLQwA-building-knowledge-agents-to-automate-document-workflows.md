@@ -4,7 +4,7 @@ title: "Building Knowledge Agents to Automate Document Workflows"
 slug: building-knowledge-agents-to-automate-document-workflows
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

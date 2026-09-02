@@ -4,7 +4,7 @@ title: "So You’ve Decided to Do a Technical Migration"
 slug: so-youve-decided-to-do-a-technical-migration
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sophie Koonin"]

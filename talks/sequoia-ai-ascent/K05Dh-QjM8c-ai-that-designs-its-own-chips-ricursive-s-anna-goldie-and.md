@@ -4,7 +4,7 @@ title: "AI That Designs Its Own Chips: Ricursive's Anna Goldie and Azalia Mirhos
 slug: ai-that-designs-its-own-chips-ricursive-s-anna-goldie-and
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

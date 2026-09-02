@@ -4,7 +4,7 @@ title: "React AI - Jim Manico - NDC AI 2025"
 slug: react-ai-jim-manico-ndc-ai-2025
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jim Manico"]

@@ -4,7 +4,7 @@ title: "Postgres and OpenAI - a match made in Azure - Giorgi Dalakishvili - NDC 
 slug: postgres-and-openai-a-match-made-in-azure-giorgi
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Giorgi Dalakishvili"]

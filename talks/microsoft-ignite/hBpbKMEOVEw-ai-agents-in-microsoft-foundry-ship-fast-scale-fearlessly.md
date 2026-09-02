@@ -4,7 +4,7 @@ title: "AI agents in Microsoft Foundry ship fast scale fearlessly | BRK189"
 slug: ai-agents-in-microsoft-foundry-ship-fast-scale-fearlessly
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yina Arenas", "David Feldman", "Mark Oost", "Tina Schuman", "Elijah Straight"]

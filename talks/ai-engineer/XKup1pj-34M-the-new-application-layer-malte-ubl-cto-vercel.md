@@ -4,7 +4,7 @@ title: "The New Application Layer - Malte Ubl, CTO Vercel"
 slug: the-new-application-layer-malte-ubl-cto-vercel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Malte Ubl"]

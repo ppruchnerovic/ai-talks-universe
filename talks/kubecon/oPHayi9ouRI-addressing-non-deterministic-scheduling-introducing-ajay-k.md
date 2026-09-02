@@ -4,7 +4,7 @@ title: "Addressing Non-Deterministic Scheduling: Introducing... Ajay K, Sreeram 
 slug: addressing-non-deterministic-scheduling-introducing-ajay-k
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

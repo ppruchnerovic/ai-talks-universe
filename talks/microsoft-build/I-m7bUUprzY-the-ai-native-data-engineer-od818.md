@@ -4,7 +4,7 @@ title: "The AI-native Data Engineer | OD818"
 slug: the-ai-native-data-engineer-od818
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Piero Morano", "Raki Rahman"]

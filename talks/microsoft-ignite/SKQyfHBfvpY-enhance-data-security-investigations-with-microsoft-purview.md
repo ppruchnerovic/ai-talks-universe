@@ -4,7 +4,7 @@ title: "Enhance data security investigations with Microsoft Purview | BRK256"
 slug: enhance-data-security-investigations-with-microsoft-purview
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Katerina Athanasiou", "Christophe Fiessinger", "Daniel Gawarecki", "Caroline Lee"]

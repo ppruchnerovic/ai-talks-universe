@@ -4,7 +4,7 @@ title: "Katelyn Lesse – Evolving Claude APIs for Agents, Anthropic"
 slug: katelyn-lesse-evolving-claude-apis-for-agents-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Katelyn Lesse"]

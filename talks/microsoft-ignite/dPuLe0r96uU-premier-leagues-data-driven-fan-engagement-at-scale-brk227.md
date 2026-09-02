@@ -4,7 +4,7 @@ title: "Premier League’s data-driven fan engagement at scale | BRK227"
 slug: premier-leagues-data-driven-fan-engagement-at-scale-brk227
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Darren Hardman", "Simon Brown", "Pedro Gomes", "Akash Jain"]

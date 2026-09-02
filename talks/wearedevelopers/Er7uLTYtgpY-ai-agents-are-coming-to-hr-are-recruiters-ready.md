@@ -4,7 +4,7 @@ title: "AI Agents Are Coming to HR: Are Recruiters Ready?"
 slug: ai-agents-are-coming-to-hr-are-recruiters-ready
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

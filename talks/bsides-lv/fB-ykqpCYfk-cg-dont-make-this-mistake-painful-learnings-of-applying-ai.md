@@ -4,7 +4,7 @@ title: "CG - Don’t Make This Mistake: Painful Learnings of Applying AI in Secu
 slug: cg-dont-make-this-mistake-painful-learnings-of-applying-ai
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

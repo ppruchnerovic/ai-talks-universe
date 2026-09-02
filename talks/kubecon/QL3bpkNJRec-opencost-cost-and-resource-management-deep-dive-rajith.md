@@ -4,7 +4,7 @@ title: "OpenCost - Cost and Resource Management Deep Dive - Rajith Attapattu, Ra
 slug: opencost-cost-and-resource-management-deep-dive-rajith
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Rajith Attapattu"]

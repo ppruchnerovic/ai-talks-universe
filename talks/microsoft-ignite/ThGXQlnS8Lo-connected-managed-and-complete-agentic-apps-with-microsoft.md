@@ -4,7 +4,7 @@ title: "Connected managed and complete agentic apps with Microsoft Foundry | BRK
 slug: connected-managed-and-complete-agentic-apps-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Robert Finlayson", "Shawn Henry", "Mike Hulme", "Balan Subramanian"]

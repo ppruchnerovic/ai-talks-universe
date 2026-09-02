@@ -4,7 +4,7 @@ title: "Microsoft Build 2026 | Satya Nadella Opening Keynote"
 slug: microsoft-build-2026-satya-nadella-opening-keynote
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

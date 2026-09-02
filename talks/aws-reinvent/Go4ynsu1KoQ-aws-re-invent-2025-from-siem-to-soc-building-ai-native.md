@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - From SIEM to SOC: Building AI-Native Security in th
 slug: aws-re-invent-2025-from-siem-to-soc-building-ai-native
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "SaTML 2023 - Hojjat Aghakhani - VENOMAVE: Targeted Poisoning Against Spe
 slug: satml-2023-hojjat-aghakhani-venomave-targeted-poisoning
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Hojjat Aghakhani"]

@@ -4,7 +4,7 @@ title: "dotAI 2024 - Ori Pekelman - AI deployment strategies: balancing efficien
 slug: dotai-2024-ori-pekelman-ai-deployment-strategies-balancing
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Ori Pekelman"]

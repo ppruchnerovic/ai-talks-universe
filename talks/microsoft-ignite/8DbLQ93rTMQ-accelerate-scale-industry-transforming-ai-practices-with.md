@@ -4,7 +4,7 @@ title: "Accelerate & Scale Industry transforming AI Practices with Microsoft | B
 slug: accelerate-scale-industry-transforming-ai-practices-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Stephen Boyle", "Erica Volini"]

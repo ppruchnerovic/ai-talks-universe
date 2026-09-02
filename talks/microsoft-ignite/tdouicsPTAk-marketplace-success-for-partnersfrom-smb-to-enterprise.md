@@ -4,7 +4,7 @@ title: "Marketplace success for partners—from SMB to enterprise | PBRK424"
 slug: marketplace-success-for-partnersfrom-smb-to-enterprise
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jason Graefe"]

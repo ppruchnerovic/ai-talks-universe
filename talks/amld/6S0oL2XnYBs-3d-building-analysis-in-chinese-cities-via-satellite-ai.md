@@ -4,7 +4,7 @@ title: "3D Building Analysis in Chinese Cities via Satellite | AI from the Sky |
 slug: 3d-building-analysis-in-chinese-cities-via-satellite-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sebastiano Papini"]

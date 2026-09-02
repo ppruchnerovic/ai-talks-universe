@@ -4,7 +4,7 @@ title: "How Meta Engineered Orion: 11 MCUs, Silicon Carbide, and the Death of So
 slug: how-meta-engineered-orion-11-mcus-silicon-carbide-and-the
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

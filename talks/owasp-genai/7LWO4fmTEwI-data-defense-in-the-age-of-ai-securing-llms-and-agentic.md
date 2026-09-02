@@ -4,7 +4,7 @@ title: "Data Defense in the Age of AI Securing LLMs and Agentic Applications"
 slug: data-defense-in-the-age-of-ai-securing-llms-and-agentic
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

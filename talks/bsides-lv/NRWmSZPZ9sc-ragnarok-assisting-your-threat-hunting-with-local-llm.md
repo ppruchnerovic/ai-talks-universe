@@ -4,7 +4,7 @@ title: "RAGnarok: Assisting Your Threat Hunting with Local LLM"
 slug: ragnarok-assisting-your-threat-hunting-with-local-llm
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

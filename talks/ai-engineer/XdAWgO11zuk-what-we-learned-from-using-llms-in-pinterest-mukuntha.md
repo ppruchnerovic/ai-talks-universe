@@ -4,7 +4,7 @@ title: "What We Learned from Using LLMs in Pinterest — Mukuntha Narayanan, Han
 slug: what-we-learned-from-using-llms-in-pinterest-mukuntha
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mukuntha Narayanan"]

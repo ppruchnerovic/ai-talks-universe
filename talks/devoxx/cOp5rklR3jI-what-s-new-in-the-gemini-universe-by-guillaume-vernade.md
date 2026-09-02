@@ -4,7 +4,7 @@ title: "What's new in the Gemini universe? by Guillaume Vernade"
 slug: what-s-new-in-the-gemini-universe-by-guillaume-vernade
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Vernade"]

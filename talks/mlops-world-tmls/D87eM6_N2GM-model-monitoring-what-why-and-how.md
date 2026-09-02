@@ -4,7 +4,7 @@ title: "Model Monitoring: What, Why, and How"
 slug: model-monitoring-what-why-and-how
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

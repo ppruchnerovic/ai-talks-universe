@@ -4,7 +4,7 @@ title: "Cloud Native Theater | Cloud Native University: AI + Kubernetes: What Be
 slug: cloud-native-theater-cloud-native-university-ai-kubernetes
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

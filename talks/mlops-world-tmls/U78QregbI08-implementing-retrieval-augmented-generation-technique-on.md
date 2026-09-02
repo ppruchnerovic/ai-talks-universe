@@ -4,7 +4,7 @@ title: "Implementing Retrieval Augmented Generation Technique on Unstructured an
 slug: implementing-retrieval-augmented-generation-technique-on
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: ["Syed Shariyar Murtaza"]

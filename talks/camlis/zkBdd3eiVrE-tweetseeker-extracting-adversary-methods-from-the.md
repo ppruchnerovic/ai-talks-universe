@@ -4,7 +4,7 @@ title: "TweetSeeker: Extracting Adversary Methods from the Twitterverse"
 slug: tweetseeker-extracting-adversary-methods-from-the
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

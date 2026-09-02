@@ -4,7 +4,7 @@ title: "Cybersecurity and Infrastructure Security Agency (CISA)"
 slug: cybersecurity-and-infrastructure-security-agency-cisa
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Building Scalable AI Infrastructure with Kuberay and Kubernetes | Ray Su
 slug: building-scalable-ai-infrastructure-with-kuberay-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

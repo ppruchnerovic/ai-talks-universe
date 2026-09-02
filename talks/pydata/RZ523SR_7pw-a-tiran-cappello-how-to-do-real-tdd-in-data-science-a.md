@@ -4,7 +4,7 @@ title: "A. Tiran-Cappello - How to do real TDD in data science? A journey from p
 slug: a-tiran-cappello-how-to-do-real-tdd-in-data-science-a
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

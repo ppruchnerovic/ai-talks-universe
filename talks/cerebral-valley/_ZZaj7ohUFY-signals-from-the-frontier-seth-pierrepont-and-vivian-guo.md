@@ -4,7 +4,7 @@ title: "Signals from the Frontier: Seth Pierrepont and Vivian Guo (ICONIQ) at CV
 slug: signals-from-the-frontier-seth-pierrepont-and-vivian-guo
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []

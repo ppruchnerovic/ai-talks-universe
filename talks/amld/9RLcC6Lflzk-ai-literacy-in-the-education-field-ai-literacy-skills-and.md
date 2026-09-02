@@ -4,7 +4,7 @@ title: "AI Literacy in the Education Field | AI Literacy, Skills and Readiness |
 slug: ai-literacy-in-the-education-field-ai-literacy-skills-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Lesley Wilton"]

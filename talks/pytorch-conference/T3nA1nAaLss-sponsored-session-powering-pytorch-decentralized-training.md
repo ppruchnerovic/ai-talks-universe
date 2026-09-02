@@ -4,7 +4,7 @@ title: "Sponsored Session: Powering PyTorch: Decentralized Training for an Energ
 slug: sponsored-session-powering-pytorch-decentralized-training
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Greg Osuri"]

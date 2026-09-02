@@ -4,7 +4,7 @@ title: "Flaky Tests: Reclaim Your Build & Developer Productivity"
 slug: flaky-tests-reclaim-your-build-developer-productivity
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "SaTML 2023 - Florian Jaeckle - Neural Lower Bounds For Verification"
 slug: satml-2023-florian-jaeckle-neural-lower-bounds-for
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Florian Jaeckle"]

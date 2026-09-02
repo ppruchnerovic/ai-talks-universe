@@ -4,7 +4,7 @@ title: "Panel Discussion: The Impact of AI Regulation on Open Innovation in AI"
 slug: panel-discussion-the-impact-of-ai-regulation-on-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []

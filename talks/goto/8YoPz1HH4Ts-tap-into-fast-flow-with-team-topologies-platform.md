@@ -4,7 +4,7 @@ title: "Tap Into Fast Flow with Team Topologies & Platform Engineering • Manue
 slug: tap-into-fast-flow-with-team-topologies-platform
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Manuel Pais", "Julian Wood"]

@@ -4,7 +4,7 @@ title: "How I deleted 95% of my agent skills and got better results — Nick Nis
 slug: how-i-deleted-95-of-my-agent-skills-and-got-better-results
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Nisi"]

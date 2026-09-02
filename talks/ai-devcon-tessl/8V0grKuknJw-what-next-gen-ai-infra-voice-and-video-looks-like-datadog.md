@@ -4,7 +4,7 @@ title: "What Next Gen AI Infra, Voice and Video Looks Like | Datadog, Eleven Lab
 slug: what-next-gen-ai-infra-voice-and-video-looks-like-datadog
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

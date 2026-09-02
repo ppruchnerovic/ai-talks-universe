@@ -4,7 +4,7 @@ title: "Secure and govern data in Microsoft 365 Copilot and beyond | BRK321"
 slug: secure-and-govern-data-in-microsoft-365-copilot-and-beyond
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Charley Barth", "Shukra Kichambare", "Aashish Ramdas", "Manjunatha Sivanna", "Tina Ying"]

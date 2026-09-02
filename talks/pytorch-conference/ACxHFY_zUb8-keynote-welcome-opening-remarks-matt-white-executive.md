@@ -4,7 +4,7 @@ title: "Keynote: Welcome & Opening Remarks - Matt White, Executive Director, PyT
 slug: keynote-welcome-opening-remarks-matt-white-executive
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Matt White"]

@@ -4,7 +4,7 @@ title: "The AI that solves the market: A new era in forecasting with natural lan
 slug: the-ai-that-solves-the-market-a-new-era-in-forecasting-with
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

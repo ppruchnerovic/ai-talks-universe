@@ -4,7 +4,7 @@ title: "Skill issue: Lessons from skilling up coding agents to use Langfuse - Ma
 slug: skill-issue-lessons-from-skilling-up-coding-agents-to-use
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Marc Klingen"]

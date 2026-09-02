@@ -4,7 +4,7 @@ title: "When Space Weather Breaks Your GPS: Building an Explainable Early Warnin
 slug: when-space-weather-breaks-your-gps-building-an-explainable
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Vincenzo Ventriglia"]

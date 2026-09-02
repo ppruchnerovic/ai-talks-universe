@@ -4,7 +4,7 @@ title: "SECRETS ARE LIES, SHARING IS CARING, PRIVACY IS THEFT"
 slug: secrets-are-lies-sharing-is-caring-privacy-is-theft
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

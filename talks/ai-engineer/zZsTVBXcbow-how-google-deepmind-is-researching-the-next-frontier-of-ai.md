@@ -4,7 +4,7 @@ title: "How Google DeepMind is researching the next Frontier of AI for Gemini â€
 slug: how-google-deepmind-is-researching-the-next-frontier-of-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raia Hadsell"]

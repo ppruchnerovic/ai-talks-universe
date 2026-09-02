@@ -4,7 +4,7 @@ title: "The State of AI Code Quality: Hype vs Reality — Itamar Friedman, Qodo"
 slug: the-state-of-ai-code-quality-hype-vs-reality-itamar
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Itamar Friedman"]

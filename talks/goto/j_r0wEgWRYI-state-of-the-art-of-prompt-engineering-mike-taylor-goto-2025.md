@@ -4,7 +4,7 @@ title: "State of the Art of Prompt Engineering • Mike Taylor • GOTO 2025"
 slug: state-of-the-art-of-prompt-engineering-mike-taylor-goto-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Mike Taylor"]

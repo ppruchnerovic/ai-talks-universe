@@ -4,7 +4,7 @@ title: "Data-intensive AI Training and Inferencing with Azure Blob Storage | BRK
 slug: data-intensive-ai-training-and-inferencing-with-azure-blob
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

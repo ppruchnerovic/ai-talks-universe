@@ -4,7 +4,7 @@ title: "Generally AI Episode 4: Sold Out!"
 slug: generally-ai-episode-4-sold-out
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

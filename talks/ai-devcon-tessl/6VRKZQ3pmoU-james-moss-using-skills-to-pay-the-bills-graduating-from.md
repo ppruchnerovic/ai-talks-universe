@@ -4,7 +4,7 @@ title: "James Moss - Using skills to pay the bills: graduating from solo hacks t
 slug: james-moss-using-skills-to-pay-the-bills-graduating-from
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["James Moss"]

@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Reinventing Agentic AI Security With Architectural 
 slug: black-hat-usa-2025-reinventing-agentic-ai-security-with
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

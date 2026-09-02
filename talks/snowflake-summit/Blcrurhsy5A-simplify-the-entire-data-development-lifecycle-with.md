@@ -4,7 +4,7 @@ title: "Simplify The Entire Data Development Lifecycle with Snowflake CoCo"
 slug: simplify-the-entire-data-development-lifecycle-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2026"
 year: 2026
 speakers: []

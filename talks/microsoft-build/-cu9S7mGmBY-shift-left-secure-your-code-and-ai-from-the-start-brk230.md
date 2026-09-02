@@ -4,7 +4,7 @@ title: "Shift Left: Secure Your Code and AI from the Start | BRK230"
 slug: shift-left-secure-your-code-and-ai-from-the-start-brk230
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

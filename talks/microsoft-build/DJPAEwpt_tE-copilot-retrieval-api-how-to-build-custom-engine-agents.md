@@ -4,7 +4,7 @@ title: "Copilot Retrieval API & how to build Custom Engine Agents with RAG | OD8
 slug: copilot-retrieval-api-how-to-build-custom-engine-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

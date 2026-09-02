@@ -4,7 +4,7 @@ title: "Agentic analytics with Power BI and Microsoft Fabric | OD817"
 slug: agentic-analytics-with-power-bi-and-microsoft-fabric-od817
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Emily Lisa", "Sujata Narayana"]

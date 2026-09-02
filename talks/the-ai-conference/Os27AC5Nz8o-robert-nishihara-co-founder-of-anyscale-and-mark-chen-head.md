@@ -4,7 +4,7 @@ title: "Robert Nishihara, Co-founder of Anyscale, and Mark Chen, Head of Frontie
 slug: robert-nishihara-co-founder-of-anyscale-and-mark-chen-head
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Dave Farley - Vibe Coding - Is this really the best we can do? - AI Nati
 slug: dave-farley-vibe-coding-is-this-really-the-best-we-can-do
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Dave Farley", "Vibe Coding"]

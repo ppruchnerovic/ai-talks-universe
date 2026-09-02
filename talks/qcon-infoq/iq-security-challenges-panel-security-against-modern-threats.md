@@ -4,7 +4,7 @@ title: "Panel: Security against Modern Threats"
 slug: panel-security-against-modern-threats
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sonya Moisset", "Andra Lezza", "Stefania Chaplin", "Celine Pypaert", "Emma Yuan Fang"]

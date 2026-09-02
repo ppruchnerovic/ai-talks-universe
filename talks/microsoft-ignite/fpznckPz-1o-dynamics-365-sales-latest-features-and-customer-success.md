@@ -4,7 +4,7 @@ title: "Dynamics 365 Sales: Latest features and customer success | BRK163"
 slug: dynamics-365-sales-latest-features-and-customer-success
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kareem Amin", "Dan Grapengiesser", "Keith Mescha", "Jayme Mesecher", "James Nakashima"]

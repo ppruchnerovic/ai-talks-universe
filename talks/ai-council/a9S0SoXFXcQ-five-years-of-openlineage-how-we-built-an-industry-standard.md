@@ -4,7 +4,7 @@ title: "Five years of OpenLineage: How we built an industry standard and why age
 slug: five-years-of-openlineage-how-we-built-an-industry-standard
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

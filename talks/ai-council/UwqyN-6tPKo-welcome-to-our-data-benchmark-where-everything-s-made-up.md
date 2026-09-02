@@ -4,7 +4,7 @@ title: "Welcome to Our Data Benchmark, Where Everything's Made Up and the Points
 slug: welcome-to-our-data-benchmark-where-everything-s-made-up
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

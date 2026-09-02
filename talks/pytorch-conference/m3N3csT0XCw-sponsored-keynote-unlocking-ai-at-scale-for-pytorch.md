@@ -4,7 +4,7 @@ title: "Sponsored Keynote: Unlocking AI at Scale for PyTorch Developers - Jeff G
 slug: sponsored-keynote-unlocking-ai-at-scale-for-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jeff Gehlhaar"]

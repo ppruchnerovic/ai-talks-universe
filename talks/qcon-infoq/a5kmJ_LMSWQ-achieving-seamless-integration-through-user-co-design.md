@@ -4,7 +4,7 @@ title: "Achieving Seamless Integration Through User Co-Design"
 slug: achieving-seamless-integration-through-user-co-design
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

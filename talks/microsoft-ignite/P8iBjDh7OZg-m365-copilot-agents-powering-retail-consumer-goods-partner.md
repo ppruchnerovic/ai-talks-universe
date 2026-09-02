@@ -4,7 +4,7 @@ title: "M365 Copilot Agents: Powering Retail & Consumer Goods Partner Success | 
 slug: m365-copilot-agents-powering-retail-consumer-goods-partner
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mo Cherif", "Jane Koh"]

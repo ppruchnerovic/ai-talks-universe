@@ -4,7 +4,7 @@ title: "From Blind Spots to Merged PRs: Continuous Agentic Performance Optimizat
 slug: from-blind-spots-to-merged-prs-continuous-agentic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["May Walter"]

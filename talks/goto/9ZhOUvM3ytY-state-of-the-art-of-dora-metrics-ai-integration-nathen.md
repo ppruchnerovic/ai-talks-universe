@@ -4,7 +4,7 @@ title: "State of the Art of DORA Metrics & AI Integration • Nathen Harvey & Ch
 slug: state-of-the-art-of-dora-metrics-ai-integration-nathen
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Nathen Harvey"]

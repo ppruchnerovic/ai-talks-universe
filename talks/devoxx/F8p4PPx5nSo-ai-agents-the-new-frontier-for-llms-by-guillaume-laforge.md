@@ -4,7 +4,7 @@ title: "AI Agents, the New Frontier for LLMs by Guillaume Laforge"
 slug: ai-agents-the-new-frontier-for-llms-by-guillaume-laforge
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Laforge"]

@@ -4,7 +4,7 @@ title: "Coding and Personal Agents with Ollama | LIVE145"
 slug: coding-and-personal-agents-with-ollama-live145
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Michael Chiang", "Parth Sareen", "John Maeda"]

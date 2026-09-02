@@ -4,7 +4,7 @@ title: "Your AI Agents Are Overprivileged: The Case for Fine-Grained Authorizati
 slug: your-ai-agents-are-overprivileged-the-case-for-fine-grained
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Ashish Jha"]

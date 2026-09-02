@@ -4,7 +4,7 @@ title: "Scaling Machine Learning at Tripadvisor: Our Journey with Ray and Anysca
 slug: scaling-machine-learning-at-tripadvisor-our-journey-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

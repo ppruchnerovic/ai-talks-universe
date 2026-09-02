@@ -4,7 +4,7 @@ title: "Model Context Protocol (MCP): The future of user interactions? by Jonas 
 slug: model-context-protocol-mcp-the-future-of-user-interactions
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Jonas Bandi"]

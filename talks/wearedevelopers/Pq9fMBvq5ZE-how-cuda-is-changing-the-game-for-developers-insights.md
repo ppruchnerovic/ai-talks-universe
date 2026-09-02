@@ -4,7 +4,7 @@ title: "How CUDA is Changing the Game for Developers | Insights directly from NV
 slug: how-cuda-is-changing-the-game-for-developers-insights
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

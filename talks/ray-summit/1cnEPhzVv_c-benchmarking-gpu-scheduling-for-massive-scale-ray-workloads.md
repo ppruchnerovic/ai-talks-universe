@@ -4,7 +4,7 @@ title: "Benchmarking GPU Scheduling for Massive-Scale Ray Workloads at Minimal C
 slug: benchmarking-gpu-scheduling-for-massive-scale-ray-workloads
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

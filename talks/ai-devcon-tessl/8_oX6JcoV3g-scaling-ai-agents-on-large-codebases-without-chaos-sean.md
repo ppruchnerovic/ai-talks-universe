@@ -4,7 +4,7 @@ title: "Scaling AI Agents on Large Codebases Without Chaos | Sean Roberts"
 slug: scaling-ai-agents-on-large-codebases-without-chaos-sean
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Sean Roberts"]

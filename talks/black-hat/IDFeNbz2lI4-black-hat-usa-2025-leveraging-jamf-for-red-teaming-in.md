@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Leveraging Jamf for Red Teaming in Enterprise Envir
 slug: black-hat-usa-2025-leveraging-jamf-for-red-teaming-in
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

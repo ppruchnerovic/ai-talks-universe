@@ -4,7 +4,7 @@ title: "Building GTM AI Agents: Lessons from Deploying to 6,000 Users — Sait I
 slug: building-gtm-ai-agents-lessons-from-deploying-to-6-000
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sait Izmit"]

@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Digital Analytics and ML Pipelines for Online Gamin
 slug: devoxx-greece-2025-digital-analytics-and-ml-pipelines-for
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

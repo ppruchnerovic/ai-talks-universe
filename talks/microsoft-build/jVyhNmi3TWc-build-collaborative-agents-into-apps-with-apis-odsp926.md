@@ -4,7 +4,7 @@ title: "Build collaborative agents into apps with APIs | ODSP926"
 slug: build-collaborative-agents-into-apps-with-apis-odsp926
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Edo Segal", "Ziv Navoth"]

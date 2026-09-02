@@ -4,7 +4,7 @@ title: "3 Ways to Rebuild the Data Stack for Agents"
 slug: 3-ways-to-rebuild-the-data-stack-for-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jordan Tigani"]

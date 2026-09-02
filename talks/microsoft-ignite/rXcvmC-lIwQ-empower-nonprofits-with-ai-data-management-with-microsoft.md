@@ -4,7 +4,7 @@ title: "Empower Nonprofits with AI: Data Management with Microsoft Fabric | BRK2
 slug: empower-nonprofits-with-ai-data-management-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Ghazai", "Clark Osborne", "Sean Riordan", "Dr. Bryan Zimmerman"]

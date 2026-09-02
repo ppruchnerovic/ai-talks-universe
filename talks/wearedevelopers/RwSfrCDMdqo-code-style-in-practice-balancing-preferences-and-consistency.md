@@ -4,7 +4,7 @@ title: "Code Style in Practice: Balancing Preferences and Consistency"
 slug: code-style-in-practice-balancing-preferences-and-consistency
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Angelika Shvets"]

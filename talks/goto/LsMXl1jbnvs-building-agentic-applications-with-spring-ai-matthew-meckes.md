@@ -4,7 +4,7 @@ title: "Building Agentic Applications with Spring AI • Matthew Meckes • GOTO
 slug: building-agentic-applications-with-spring-ai-matthew-meckes
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Matthew Meckes"]

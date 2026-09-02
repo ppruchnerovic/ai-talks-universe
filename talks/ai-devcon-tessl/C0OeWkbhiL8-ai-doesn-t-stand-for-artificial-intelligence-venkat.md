@@ -4,7 +4,7 @@ title: "\"AI Doesn't Stand for Artificial Intelligence\" — Venkat Subramaniam 
 slug: ai-doesn-t-stand-for-artificial-intelligence-venkat
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

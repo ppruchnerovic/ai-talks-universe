@@ -4,7 +4,7 @@ title: "vLLM TPU: A new unified-backend supporting Pytorch and JAX natively on T
 slug: vllm-tpu-a-new-unified-backend-supporting-pytorch-and-jax
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

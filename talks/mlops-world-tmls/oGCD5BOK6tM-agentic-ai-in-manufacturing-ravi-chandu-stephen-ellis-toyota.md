@@ -4,7 +4,7 @@ title: "Agentic AI in Manufacturing | Ravi Chandu & Stephen Ellis, Toyota"
 slug: agentic-ai-in-manufacturing-ravi-chandu-stephen-ellis-toyota
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Ravi Chandu", "Stephen Ellis"]

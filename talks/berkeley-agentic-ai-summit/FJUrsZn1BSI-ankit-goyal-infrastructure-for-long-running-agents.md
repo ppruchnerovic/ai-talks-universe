@@ -4,7 +4,7 @@ title: "Ankit Goyal - Infrastructure for Long Running Agents"
 slug: ankit-goyal-infrastructure-for-long-running-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Ankit Goyal"]

@@ -4,7 +4,7 @@ title: "Founder Mental Health | Annu Nieminen (Upright)"
 slug: founder-mental-health-annu-nieminen-upright
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Annu Nieminen"]

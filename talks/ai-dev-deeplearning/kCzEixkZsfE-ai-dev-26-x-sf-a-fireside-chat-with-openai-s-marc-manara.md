@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | A Fireside Chat with OpenAI's Marc Manara"
 slug: ai-dev-26-x-sf-a-fireside-chat-with-openai-s-marc-manara
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

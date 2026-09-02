@@ -4,7 +4,7 @@ title: "Building Alice’s Brain: an AI Sales Rep that Learns Like a Human - She
 slug: building-alices-brain-an-ai-sales-rep-that-learns-like-a
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

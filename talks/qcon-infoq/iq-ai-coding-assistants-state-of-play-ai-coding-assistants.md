@@ -4,7 +4,7 @@ title: "State of Play: AI Coding Assistants"
 slug: state-of-play-ai-coding-assistants
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Birgitta Böckeler"]

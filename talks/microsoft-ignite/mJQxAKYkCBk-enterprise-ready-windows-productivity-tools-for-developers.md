@@ -4,7 +4,7 @@ title: "Enterprise ready Windows productivity tools for Developers and IT Pros |
 slug: enterprise-ready-windows-productivity-tools-for-developers
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Craig Loewen", "Clint Rutkas"]

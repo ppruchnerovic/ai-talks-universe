@@ -4,7 +4,7 @@ title: "Microsoft Foundry: The AI app and agent factory | STUDIO31"
 slug: microsoft-foundry-the-ai-app-and-agent-factory-studio31
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yina Arenas"]

@@ -4,7 +4,7 @@ title: "The Next Game Engine Won't Have a Manual — Arturo Nunez, Nereu"
 slug: the-next-game-engine-won-t-have-a-manual-arturo-nunez-nereu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arturo Nunez"]

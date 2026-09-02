@@ -4,7 +4,7 @@ title: "How to Align AI Capabilities with Product Strategy so You Can Innovate"
 slug: how-to-align-ai-capabilities-with-product-strategy-so-you
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Noelle Saldana"]

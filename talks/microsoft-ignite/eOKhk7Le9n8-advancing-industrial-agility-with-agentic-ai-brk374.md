@@ -4,7 +4,7 @@ title: "Advancing Industrial Agility with Agentic AI | BRK374"
 slug: advancing-industrial-agility-with-agentic-ai-brk374
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Johannes Bernstein", "Adam Bogobowicz"]

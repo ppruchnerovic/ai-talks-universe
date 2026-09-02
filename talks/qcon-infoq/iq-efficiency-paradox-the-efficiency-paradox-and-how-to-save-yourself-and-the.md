@@ -4,7 +4,7 @@ title: "The Efficiency Paradox and How to Save Yourself and the World"
 slug: the-efficiency-paradox-and-how-to-save-yourself-and-the
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Holly Cummins"]

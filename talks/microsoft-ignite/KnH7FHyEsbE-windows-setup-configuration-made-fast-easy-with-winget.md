@@ -4,7 +4,7 @@ title: "Windows setup & configuration made fast & easy with WinGet | BRK335"
 slug: windows-setup-configuration-made-fast-easy-with-winget
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Demitrius Nelon"]

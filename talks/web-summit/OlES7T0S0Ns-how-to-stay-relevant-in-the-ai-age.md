@@ -4,7 +4,7 @@ title: "How to stay relevant in the AI age"
 slug: how-to-stay-relevant-in-the-ai-age
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []

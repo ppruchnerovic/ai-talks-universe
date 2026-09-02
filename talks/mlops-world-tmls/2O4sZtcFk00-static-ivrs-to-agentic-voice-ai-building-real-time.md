@@ -4,7 +4,7 @@ title: "Static IVRs to Agentic Voice AI: Building Real-Time Intelligent Conversa
 slug: static-ivrs-to-agentic-voice-ai-building-real-time
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Pablo Salvador Lopez"]

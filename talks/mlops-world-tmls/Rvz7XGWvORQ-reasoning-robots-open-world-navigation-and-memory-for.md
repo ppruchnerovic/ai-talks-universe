@@ -4,7 +4,7 @@ title: "Reasoning Robots: Open World Navigation and Memory for Agentic Robots"
 slug: reasoning-robots-open-world-navigation-and-memory-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

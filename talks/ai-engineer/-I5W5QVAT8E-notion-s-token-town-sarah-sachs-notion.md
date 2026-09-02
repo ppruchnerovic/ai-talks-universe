@@ -4,7 +4,7 @@ title: "Notion's Token Town — Sarah Sachs, Notion"
 slug: notion-s-token-town-sarah-sachs-notion
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Notion's Token Town", "Sarah Sachs"]

@@ -4,7 +4,7 @@ title: "The Signal Layer: What to Build When Anything Can Be Built — Lena Hall
 slug: the-signal-layer-what-to-build-when-anything-can-be-built
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lena Hall"]

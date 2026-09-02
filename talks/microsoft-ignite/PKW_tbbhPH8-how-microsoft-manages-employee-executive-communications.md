@@ -4,7 +4,7 @@ title: "How Microsoft manages employee & executive communications with AI | BRK2
 slug: how-microsoft-manages-employee-executive-communications
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Cirone", "Jason Mayans"]

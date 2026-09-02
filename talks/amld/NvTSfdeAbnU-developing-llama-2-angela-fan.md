@@ -4,7 +4,7 @@ title: "Developing Llama 2 | Angela Fan"
 slug: developing-llama-2-angela-fan
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Angela Fan"]

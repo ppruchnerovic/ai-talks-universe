@@ -4,7 +4,7 @@ title: "PyTorch Symmetric Memory: A New Programming Paradigm for Distributed AI 
 slug: pytorch-symmetric-memory-a-new-programming-paradigm-for
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []

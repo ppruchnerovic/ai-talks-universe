@@ -4,7 +4,7 @@ title: "From Self-driving to Autonomous Voice Agents — Brooke Hopkins, Coval"
 slug: from-self-driving-to-autonomous-voice-agents-brooke-hopkins
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Brooke Hopkins"]

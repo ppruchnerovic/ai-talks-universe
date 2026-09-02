@@ -4,7 +4,7 @@ title: "The New Primitives: Building AI Native Software — Kwindla Kramer, Dail
 slug: the-new-primitives-building-ai-native-software-kwindla
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kwindla Kramer"]

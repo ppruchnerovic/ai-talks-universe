@@ -4,7 +4,7 @@ title: "Integrating AI into Your Java Applications: Spring AI Deep Dive with RAG
 slug: integrating-ai-into-your-java-applications-spring-ai-deep
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Christian Tzolov"]

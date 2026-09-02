@@ -4,7 +4,7 @@ title: "Microsoft Defender: Building the agentic SOC with guest Allie Mellen | B
 slug: microsoft-defender-building-the-agentic-soc-with-guest
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rob Lefferts", "Corina Feuerstein", "Allie Mellen"]

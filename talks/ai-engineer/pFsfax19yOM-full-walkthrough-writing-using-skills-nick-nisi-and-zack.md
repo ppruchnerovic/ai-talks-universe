@@ -4,7 +4,7 @@ title: "Full Walkthrough: Writing & Using Skills — Nick Nisi and Zack Proser"
 slug: full-walkthrough-writing-using-skills-nick-nisi-and-zack
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Nisi", "Zack Proser"]

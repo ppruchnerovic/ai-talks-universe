@@ -4,7 +4,7 @@ title: "SaTML 2023 - Arif - Reprogrammable-FL: Improving Utility-Priv Tradeoff i
 slug: satml-2023-arif-reprogrammable-fl-improving-utility-priv
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []

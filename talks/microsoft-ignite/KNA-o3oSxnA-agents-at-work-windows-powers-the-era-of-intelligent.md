@@ -4,7 +4,7 @@ title: "Agents at Work: Windows Powers the Era of Intelligent Productivity | BRK
 slug: agents-at-work-windows-powers-the-era-of-intelligent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Phil Gerity", "Stefan Kinnestrand", "Navjot Virk"]

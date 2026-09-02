@@ -4,7 +4,7 @@ title: "Towards a Trustworthy and Resilient Machine Learning Classifier - a Case
 slug: towards-a-trustworthy-and-resilient-machine-learning
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

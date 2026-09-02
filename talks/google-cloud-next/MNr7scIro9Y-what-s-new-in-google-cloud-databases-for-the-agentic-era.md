@@ -4,7 +4,7 @@ title: "What's new in Google Cloud databases for the agentic era"
 slug: what-s-new-in-google-cloud-databases-for-the-agentic-era
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Sailesh Krishnamurthy", "Raj Pai", "Samuel Moses", "Wenzhe Cao"]

@@ -4,7 +4,7 @@ title: "Why Your Agent Disagrees With Itself (And What To Do About It) - Diane L
 slug: why-your-agent-disagrees-with-itself-and-what-to-do-about
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Diane Lin"]

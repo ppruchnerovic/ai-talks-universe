@@ -4,7 +4,7 @@ title: "Scaling Uber's Metric System from Elasticsearch to Pinot | Uber"
 slug: scaling-uber-s-metric-system-from-elasticsearch-to-pinot
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

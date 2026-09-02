@@ -4,7 +4,7 @@ title: "Wei Zhan - E2E Autonomy Without Imitation"
 slug: wei-zhan-e2e-autonomy-without-imitation
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Wei Zhan"]

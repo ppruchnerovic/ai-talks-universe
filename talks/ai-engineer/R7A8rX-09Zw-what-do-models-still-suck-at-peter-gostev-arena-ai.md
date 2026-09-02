@@ -4,7 +4,7 @@ title: "What Do Models Still Suck At? - Peter Gostev, Arena.ai, BullshitBench"
 slug: what-do-models-still-suck-at-peter-gostev-arena-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Peter Gostev"]

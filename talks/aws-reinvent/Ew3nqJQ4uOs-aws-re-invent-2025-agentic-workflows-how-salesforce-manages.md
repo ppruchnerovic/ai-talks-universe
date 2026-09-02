@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic Workflows: How Salesforce Manages 1000+ Clu
 slug: aws-re-invent-2025-agentic-workflows-how-salesforce-manages
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

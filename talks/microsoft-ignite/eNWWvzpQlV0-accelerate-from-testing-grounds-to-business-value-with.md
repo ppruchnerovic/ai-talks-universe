@@ -4,7 +4,7 @@ title: "Accelerate from testing grounds to business value with GenAI in motion |
 slug: accelerate-from-testing-grounds-to-business-value-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lutz Beck", "Jens Krueger", "Michael Sicker"]

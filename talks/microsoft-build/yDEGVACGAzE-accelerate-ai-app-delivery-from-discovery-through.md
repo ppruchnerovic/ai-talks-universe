@@ -4,7 +4,7 @@ title: "Accelerate AI app delivery from discovery through deployment with market
 slug: accelerate-ai-app-delivery-from-discovery-through
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Securing AI Pipelines: Real-World Attacks on Kubernetes-Based AI Infrast
 slug: securing-ai-pipelines-real-world-attacks-on-kubernetes
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Abhinav Sharma"]

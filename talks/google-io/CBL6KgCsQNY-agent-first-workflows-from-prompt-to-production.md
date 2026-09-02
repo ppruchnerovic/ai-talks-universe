@@ -4,7 +4,7 @@ title: "Agent-first workflows from prompt to production"
 slug: agent-first-workflows-from-prompt-to-production
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Richard Seroter", "Christina Lin", "Denise Kwan"]

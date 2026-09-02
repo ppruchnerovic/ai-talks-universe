@@ -4,7 +4,7 @@ title: "Active Graph Agent Runtime (BabyAGI 4) — Yohei Nakajima, Untapped Capi
 slug: active-graph-agent-runtime-babyagi-4-yohei-nakajima
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Yohei Nakajima"]

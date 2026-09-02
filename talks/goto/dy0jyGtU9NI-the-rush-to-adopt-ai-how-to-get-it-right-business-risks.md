@@ -4,7 +4,7 @@ title: "The Rush to Adopt AI: How to Get it Right & Business Risks • Nick Selb
 slug: the-rush-to-adopt-ai-how-to-get-it-right-business-risks
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Nick Selby", "Sarah Wells"]

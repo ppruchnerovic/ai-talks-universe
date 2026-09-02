@@ -4,7 +4,7 @@ title: "Data to Defense: Generative AI and RAG Powering Real-Time Threat Respons
 slug: data-to-defense-generative-ai-and-rag-powering-real-time
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

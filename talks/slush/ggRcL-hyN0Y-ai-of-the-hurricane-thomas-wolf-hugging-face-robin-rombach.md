@@ -4,7 +4,7 @@ title: "AI of the Hurricane | Thomas Wolf (Hugging Face) & Robin Rombach (Black 
 slug: ai-of-the-hurricane-thomas-wolf-hugging-face-robin-rombach
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Thomas Wolf"]

@@ -4,7 +4,7 @@ title: "GT - Hacking Things That Think"
 slug: gt-hacking-things-that-think
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: ["Hacking Things That Think"]

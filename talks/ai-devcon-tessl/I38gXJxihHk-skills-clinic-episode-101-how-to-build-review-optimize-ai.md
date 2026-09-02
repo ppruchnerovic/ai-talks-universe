@@ -4,7 +4,7 @@ title: "Skills Clinic Episode 101: How to Build, Review & Optimize AI Agent Skil
 slug: skills-clinic-episode-101-how-to-build-review-optimize-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

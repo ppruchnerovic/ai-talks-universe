@@ -4,7 +4,7 @@ title: "Scaling LLMs on Google Cloud: Synergy Between Ray, TPU, and GKE | Ray Su
 slug: scaling-llms-on-google-cloud-synergy-between-ray-tpu-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

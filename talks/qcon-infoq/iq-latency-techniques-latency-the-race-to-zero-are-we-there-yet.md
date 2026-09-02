@@ -4,7 +4,7 @@ title: "Latency: the Race to Zero...Are We There Yet?"
 slug: latency-the-race-to-zero-are-we-there-yet
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Amir Langer"]

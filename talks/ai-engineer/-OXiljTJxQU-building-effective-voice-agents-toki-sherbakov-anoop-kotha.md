@@ -4,7 +4,7 @@ title: "Building Effective Voice Agents — Toki Sherbakov + Anoop Kotha, OpenAI
 slug: building-effective-voice-agents-toki-sherbakov-anoop-kotha
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Toki Sherbakov", "Anoop Kotha"]

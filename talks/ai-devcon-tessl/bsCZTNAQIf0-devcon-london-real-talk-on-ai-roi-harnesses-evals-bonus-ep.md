@@ -4,7 +4,7 @@ title: "DevCon London: Real Talk on AI ROI, Harnesses & Evals (BONUS EP)"
 slug: devcon-london-real-talk-on-ai-roi-harnesses-evals-bonus-ep
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

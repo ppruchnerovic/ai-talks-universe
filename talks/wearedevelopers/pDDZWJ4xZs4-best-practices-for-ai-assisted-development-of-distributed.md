@@ -4,7 +4,7 @@ title: "Best Practices for AI-Assisted Development of Distributed Systems"
 slug: best-practices-for-ai-assisted-development-of-distributed
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Przemysław Ładyński"]

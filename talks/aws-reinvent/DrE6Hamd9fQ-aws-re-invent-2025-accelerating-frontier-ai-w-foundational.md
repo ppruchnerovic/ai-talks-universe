@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 -Accelerating Frontier AI w/ Foundational Platform Ar
 slug: aws-re-invent-2025-accelerating-frontier-ai-w-foundational
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

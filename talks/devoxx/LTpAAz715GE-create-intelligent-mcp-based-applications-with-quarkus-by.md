@@ -4,7 +4,7 @@ title: "Create Intelligent MCP based applications with Quarkus by Dimitris Andre
 slug: create-intelligent-mcp-based-applications-with-quarkus-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Dimitris Andreadis"]

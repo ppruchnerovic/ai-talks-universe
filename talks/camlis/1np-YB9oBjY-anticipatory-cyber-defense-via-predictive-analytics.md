@@ -4,7 +4,7 @@ title: "Anticipatory Cyber Defense via Predictive Analytics, Machines Learning a
 slug: anticipatory-cyber-defense-via-predictive-analytics
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

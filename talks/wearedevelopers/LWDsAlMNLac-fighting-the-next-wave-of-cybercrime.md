@@ -4,7 +4,7 @@ title: "Fighting the Next Wave of Cybercrime"
 slug: fighting-the-next-wave-of-cybercrime
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Michele Zuccala", "Misha Bragin", "Ross Kukulinski", "Frank Schlesinger", "Tomislav Tipurić"]

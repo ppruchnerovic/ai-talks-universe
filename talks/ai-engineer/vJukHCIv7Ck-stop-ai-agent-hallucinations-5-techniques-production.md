@@ -4,7 +4,7 @@ title: "Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Eliza
 slug: stop-ai-agent-hallucinations-5-techniques-production
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Elizabeth Fuentes"]

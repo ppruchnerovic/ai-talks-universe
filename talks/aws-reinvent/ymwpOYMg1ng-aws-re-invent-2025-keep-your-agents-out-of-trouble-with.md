@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Keep Your Agents Out of Trouble with Amazon Bedrock
 slug: aws-re-invent-2025-keep-your-agents-out-of-trouble-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Use VS Code to build AI apps and agents | BRK117"
 slug: use-vs-code-to-build-ai-apps-and-agents-brk117
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

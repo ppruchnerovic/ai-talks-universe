@@ -4,7 +4,7 @@ title: "Everything That Happens to Data Before Model Input During Training"
 slug: everything-that-happens-to-data-before-model-input-during
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

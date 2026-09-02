@@ -4,7 +4,7 @@ title: "AI Make Developers More Productive? Data from a 100k Engineer Stanford S
 slug: ai-make-developers-more-productive-data-from-a-100k
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Yegor Denisov"]

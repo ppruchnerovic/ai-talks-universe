@@ -4,7 +4,7 @@ title: "Build AI Agents with Azure Logic Apps | DEM546"
 slug: build-ai-agents-with-azure-logic-apps-dem546
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

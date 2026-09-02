@@ -4,7 +4,7 @@ title: "The Promise of Trustworthy AI by César Soto Valero"
 slug: the-promise-of-trustworthy-ai-by-cesar-soto-valero
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["César Soto Valero"]

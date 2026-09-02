@@ -4,7 +4,7 @@ title: "How We Build Effective Agents: Barry Zhang, Anthropic"
 slug: how-we-build-effective-agents-barry-zhang-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

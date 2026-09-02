@@ -4,7 +4,7 @@ title: "See what’s new with Microsoft 365 Copilot role-based agents | BRK161"
 slug: see-whats-new-with-microsoft-365-copilot-role-based-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Aaron Bjork", "Karan Nigam", "Jason Pappas"]

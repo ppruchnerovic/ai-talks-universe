@@ -4,7 +4,7 @@ title: "Advances in Visual Pretraining for LLMS | Neil Houlsby"
 slug: advances-in-visual-pretraining-for-llms-neil-houlsby
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Neil Houlsby"]

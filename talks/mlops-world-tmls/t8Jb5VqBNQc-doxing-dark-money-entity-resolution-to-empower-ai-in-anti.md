@@ -4,7 +4,7 @@ title: "Doxing Dark Money: Entity Resolution to Empower AI in Anti-Fraud | Paco 
 slug: doxing-dark-money-entity-resolution-to-empower-ai-in-anti
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Paco Nathan"]

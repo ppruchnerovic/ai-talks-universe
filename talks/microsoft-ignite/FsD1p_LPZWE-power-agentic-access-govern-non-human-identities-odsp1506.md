@@ -4,7 +4,7 @@ title: "Power Agentic Access. Govern Non-Human Identities | ODSP1506"
 slug: power-agentic-access-govern-non-human-identities-odsp1506
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yonit Glozshtein"]

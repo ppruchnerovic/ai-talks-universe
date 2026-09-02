@@ -4,7 +4,7 @@ title: "Multi-agents in action with 3 AI agents, 3 frameworks, tools & models | 
 slug: multi-agents-in-action-with-3-ai-agents-3-frameworks-tools
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vini Soto", "Jan Kalis"]

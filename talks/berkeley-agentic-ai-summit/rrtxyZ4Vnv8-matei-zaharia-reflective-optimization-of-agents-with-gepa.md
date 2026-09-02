@@ -4,7 +4,7 @@ title: "Matei Zaharia - Reflective Optimization of Agents with GEPA and DSPy"
 slug: matei-zaharia-reflective-optimization-of-agents-with-gepa
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Matei Zaharia"]

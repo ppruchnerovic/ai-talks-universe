@@ -4,7 +4,7 @@ title: "Atefeh Mohajeri Moghaddam, Nokie Bell Labs"
 slug: atefeh-mohajeri-moghaddam-nokie-bell-labs
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

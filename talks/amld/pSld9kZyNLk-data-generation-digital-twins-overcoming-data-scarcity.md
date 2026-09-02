@@ -4,7 +4,7 @@ title: "Data Generation: Digital Twins | Overcoming Data Scarcity | Loris Roveda
 slug: data-generation-digital-twins-overcoming-data-scarcity
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Loris Roveda"]

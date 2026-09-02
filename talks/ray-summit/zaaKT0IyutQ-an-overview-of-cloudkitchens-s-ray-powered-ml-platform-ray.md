@@ -4,7 +4,7 @@ title: "An Overview of CloudKitchens's Ray-Powered ML Platform | Ray Summit 2024
 slug: an-overview-of-cloudkitchens-s-ray-powered-ml-platform-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

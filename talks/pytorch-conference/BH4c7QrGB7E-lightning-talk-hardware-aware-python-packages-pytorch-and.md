@@ -4,7 +4,7 @@ title: "Lightning Talk: Hardware-Aware Python Packages ~ PyTorch and... - Jonath
 slug: lightning-talk-hardware-aware-python-packages-pytorch-and
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Jonathan Dekhtiar", "Eli Uriegas"]

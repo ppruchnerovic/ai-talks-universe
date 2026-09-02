@@ -4,7 +4,7 @@ title: "Keynote: Enterprise MCP - The Data Plane for Autonomous Agents - Adam Se
 slug: keynote-enterprise-mcp-the-data-plane-for-autonomous-agents
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Adam Seligman", "Zayne Turner"]

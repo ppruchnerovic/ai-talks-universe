@@ -4,7 +4,7 @@ title: "The weekly developer show: Is AI replacing developers?, Stopping bots, A
 slug: the-weekly-developer-show-is-ai-replacing-developers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

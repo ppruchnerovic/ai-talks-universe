@@ -4,7 +4,7 @@ title: "Go beyond AI-hype to build systems you can trust and track | BRKSP480"
 slug: go-beyond-ai-hype-to-build-systems-you-can-trust-and-track
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Parker Johnston", "Chris Thompson"]

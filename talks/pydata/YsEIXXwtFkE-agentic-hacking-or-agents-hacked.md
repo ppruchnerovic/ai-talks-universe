@@ -4,7 +4,7 @@ title: "Agentic Hacking or Agents Hacked"
 slug: agentic-hacking-or-agents-hacked
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

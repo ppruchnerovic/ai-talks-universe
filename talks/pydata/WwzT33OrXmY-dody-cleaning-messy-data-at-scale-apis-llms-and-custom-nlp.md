@@ -4,7 +4,7 @@ title: "Dody - Cleaning Messy Data at Scale: APIs, LLMs, and Custom NLP Pipeline
 slug: dody-cleaning-messy-data-at-scale-apis-llms-and-custom-nlp
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

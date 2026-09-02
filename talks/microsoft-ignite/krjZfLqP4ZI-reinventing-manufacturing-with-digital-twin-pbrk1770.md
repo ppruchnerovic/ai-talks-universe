@@ -4,7 +4,7 @@ title: "Reinventing Manufacturing with Digital Twin | PBRK1770"
 slug: reinventing-manufacturing-with-digital-twin-pbrk1770
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gaurica Chacko", "Aniket Deshpande", "Jonathan Hobgood", "Todd Mersch", "Prasad Satyavolu"]

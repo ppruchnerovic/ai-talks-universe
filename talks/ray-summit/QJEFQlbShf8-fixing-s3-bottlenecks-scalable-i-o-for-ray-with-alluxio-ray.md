@@ -4,7 +4,7 @@ title: "Fixing S3 Bottlenecks: Scalable I/O for Ray with Alluxio | Ray Summit 20
 slug: fixing-s3-bottlenecks-scalable-i-o-for-ray-with-alluxio-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

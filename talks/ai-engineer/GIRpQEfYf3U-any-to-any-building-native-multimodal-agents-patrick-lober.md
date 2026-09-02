@@ -4,7 +4,7 @@ title: "Any-to-Any: Building Native Multimodal Agents - Patrick Löber, Google D
 slug: any-to-any-building-native-multimodal-agents-patrick-lober
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Löber"]

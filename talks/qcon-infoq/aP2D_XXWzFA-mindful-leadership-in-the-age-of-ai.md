@@ -4,7 +4,7 @@ title: "Mindful Leadership in the Age of AI"
 slug: mindful-leadership-in-the-age-of-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

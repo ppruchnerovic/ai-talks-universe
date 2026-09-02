@@ -4,7 +4,7 @@ title: "Multi-agent applications in production - Google @ FC London '25"
 slug: multi-agent-applications-in-production-google-fc-london-25
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

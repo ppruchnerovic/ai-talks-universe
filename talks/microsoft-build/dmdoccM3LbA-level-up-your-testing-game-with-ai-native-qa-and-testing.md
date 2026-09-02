@@ -4,7 +4,7 @@ title: "Level up your testing game with AI-native QA and testing automation | OD
 slug: level-up-your-testing-game-with-ai-native-qa-and-testing
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

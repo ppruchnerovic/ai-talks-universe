@@ -4,7 +4,7 @@ title: "Supercharged profiling: Finding performance bugs with agents | DEM300"
 slug: supercharged-profiling-finding-performance-bugs-with-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Nik Karpinsky"]

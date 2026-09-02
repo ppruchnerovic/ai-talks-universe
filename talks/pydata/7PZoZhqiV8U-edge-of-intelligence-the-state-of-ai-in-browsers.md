@@ -4,7 +4,7 @@ title: "Edge of Intelligence: The State of AI in Browsers"
 slug: edge-of-intelligence-the-state-of-ai-in-browsers
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Johannes Kolbe"]

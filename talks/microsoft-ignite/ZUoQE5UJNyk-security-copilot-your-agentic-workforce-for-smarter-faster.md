@@ -4,7 +4,7 @@ title: "Security Copilot: Your agentic workforce for smarter faster defense | BR
 slug: security-copilot-your-agentic-workforce-for-smarter-faster
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lizzie Heinze", "Sarat Subramaniam"]

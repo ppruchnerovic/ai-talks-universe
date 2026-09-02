@@ -4,7 +4,7 @@ title: "How Rubrik Unlocked AI at Scale with Ray Serve | Ray Summit 2024"
 slug: how-rubrik-unlocked-ai-at-scale-with-ray-serve-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

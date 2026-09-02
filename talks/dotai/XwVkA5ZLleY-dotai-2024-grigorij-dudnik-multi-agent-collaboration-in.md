@@ -4,7 +4,7 @@ title: "dotAI 2024 - Grigorij Dudnik - Multi-agent collaboration in practice: ma
 slug: dotai-2024-grigorij-dudnik-multi-agent-collaboration-in
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Grigorij Dudnik"]

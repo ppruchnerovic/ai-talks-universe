@@ -4,7 +4,7 @@ title: "Feature Engineering Pipeline: Pandas, Dynamic Iceberg Table, And Cortex 
 slug: feature-engineering-pipeline-pandas-dynamic-iceberg-table
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

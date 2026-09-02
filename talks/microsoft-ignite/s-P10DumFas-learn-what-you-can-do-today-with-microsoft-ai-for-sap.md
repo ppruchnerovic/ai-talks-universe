@@ -4,7 +4,7 @@ title: "Learn what you can do today with Microsoft AI for SAP applications | BRK
 slug: learn-what-you-can-do-today-with-microsoft-ai-for-sap
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Holger Bruchelt", "Robert Hernandez", "Rima Reyes"]

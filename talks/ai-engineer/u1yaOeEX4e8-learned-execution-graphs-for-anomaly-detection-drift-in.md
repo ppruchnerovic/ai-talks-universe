@@ -4,7 +4,7 @@ title: "Learned Execution Graphs for Anomaly Detection & Drift in APIs — Ritvi
 slug: learned-execution-graphs-for-anomaly-detection-drift-in
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ritvik Pandya"]

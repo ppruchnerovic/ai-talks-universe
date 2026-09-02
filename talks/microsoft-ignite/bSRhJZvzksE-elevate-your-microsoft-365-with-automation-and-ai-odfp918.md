@@ -4,7 +4,7 @@ title: "Elevate your Microsoft 365 with automation and AI | ODFP918"
 slug: elevate-your-microsoft-365-with-automation-and-ai-odfp918
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rick Scanlan"]

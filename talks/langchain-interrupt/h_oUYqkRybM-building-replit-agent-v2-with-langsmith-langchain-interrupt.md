@@ -4,7 +4,7 @@ title: "Building Replit Agent V2 with LangSmith | LangChain Interrupt"
 slug: building-replit-agent-v2-with-langsmith-langchain-interrupt
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

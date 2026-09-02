@@ -4,7 +4,7 @@ title: "Our Agentic Era: Building Accessible and Responsible AI for Everyone | B
 slug: our-agentic-era-building-accessible-and-responsible-ai-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Natasha Crampton"]

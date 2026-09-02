@@ -4,7 +4,7 @@ title: "Democratizing Digital Maps: How Protomaps Changes the Game"
 slug: democratizing-digital-maps-how-protomaps-changes-the-game
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Veit Schiele"]

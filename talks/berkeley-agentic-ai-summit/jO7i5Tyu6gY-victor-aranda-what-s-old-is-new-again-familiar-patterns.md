@@ -4,7 +4,7 @@ title: "Victor Aranda - What's Old Is New Again; Familiar Patterns Emerging in t
 slug: victor-aranda-what-s-old-is-new-again-familiar-patterns
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Victor Aranda"]

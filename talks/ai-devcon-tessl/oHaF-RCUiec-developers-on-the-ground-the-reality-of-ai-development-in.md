@@ -4,7 +4,7 @@ title: "Developers on the Ground: The Reality of AI Development in 2025"
 slug: developers-on-the-ground-the-reality-of-ai-development-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

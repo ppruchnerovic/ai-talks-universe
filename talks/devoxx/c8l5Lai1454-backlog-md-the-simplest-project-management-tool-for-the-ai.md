@@ -4,7 +4,7 @@ title: "Backlog.md: The simplest project management tool for the AI Era by Alex 
 slug: backlog-md-the-simplest-project-management-tool-for-the-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alex Gavrilescu"]

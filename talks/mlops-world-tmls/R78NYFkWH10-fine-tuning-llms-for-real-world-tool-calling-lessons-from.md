@@ -4,7 +4,7 @@ title: "Fine-Tuning LLMs for Real-World Tool Calling: Lessons from tau2-bench"
 slug: fine-tuning-llms-for-real-world-tool-calling-lessons-from
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

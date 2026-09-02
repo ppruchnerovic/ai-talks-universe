@@ -4,7 +4,7 @@ title: "The AI Recruiter: Why Talent Teams Need to Start Building Their Own Tool
 slug: the-ai-recruiter-why-talent-teams-need-to-start-building
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Keynote: The AI Cocktail - Malte Pietsch, CTO & Co-founder, deepset"
 slug: keynote-the-ai-cocktail-malte-pietsch-cto-co-founder-deepset
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Malte Pietsch"]

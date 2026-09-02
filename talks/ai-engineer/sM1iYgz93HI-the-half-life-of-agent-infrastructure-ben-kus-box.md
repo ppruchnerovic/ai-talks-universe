@@ -4,7 +4,7 @@ title: "The Half Life of Agent Infrastructure — Ben Kus, Box"
 slug: the-half-life-of-agent-infrastructure-ben-kus-box
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ben Kus"]

@@ -4,7 +4,7 @@ title: "Inference at record speed with Azure ND Virtual Machines | BRK180"
 slug: inference-at-record-speed-with-azure-nd-virtual-machines
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Hugo Affaticati", "Nitin Nagarkatte"]

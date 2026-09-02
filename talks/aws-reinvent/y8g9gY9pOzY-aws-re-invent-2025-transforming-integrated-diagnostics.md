@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Transforming Integrated Diagnostics: Philips' AI Jo
 slug: aws-re-invent-2025-transforming-integrated-diagnostics
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

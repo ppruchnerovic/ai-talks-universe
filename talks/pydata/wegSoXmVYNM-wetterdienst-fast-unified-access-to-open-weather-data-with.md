@@ -4,7 +4,7 @@ title: "Wetterdienst: Fast, Unified Access to Open Weather Data with Polars [PyC
 slug: wetterdienst-fast-unified-access-to-open-weather-data-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

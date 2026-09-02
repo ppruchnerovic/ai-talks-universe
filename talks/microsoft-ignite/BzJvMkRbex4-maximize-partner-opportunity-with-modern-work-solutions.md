@@ -4,7 +4,7 @@ title: "Maximize partner opportunity with Modern Work solutions powered by AI | 
 slug: maximize-partner-opportunity-with-modern-work-solutions
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Julia Bowser", "Lars Johnson", "Mayank Kapur", "Chris Large", "Uriel Rootshtain"]

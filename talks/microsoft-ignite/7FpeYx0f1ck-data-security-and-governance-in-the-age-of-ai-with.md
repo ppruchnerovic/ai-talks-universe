@@ -4,7 +4,7 @@ title: "Data security and governance in the age of AI with Microsoft Purview | B
 slug: data-security-and-governance-in-the-age-of-ai-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rohan Kumar", "Rudra Mitra"]

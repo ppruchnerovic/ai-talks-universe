@@ -4,7 +4,7 @@ title: "Abraham Leal, ML Engineer, Weights & Biases: Automating Improvement in G
 slug: abraham-leal-ml-engineer-weights-biases-automating
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

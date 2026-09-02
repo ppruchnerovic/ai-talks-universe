@@ -4,7 +4,7 @@ title: "On Engineering AI Systems that Endure The Bitter Lesson - Omar Khattab, 
 slug: on-engineering-ai-systems-that-endure-the-bitter-lesson
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Omar Khattab"]

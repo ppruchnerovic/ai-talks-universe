@@ -4,7 +4,7 @@ title: "AI Evals Done Right: From Vibes to Confident Decisions [PyCon DE & PyDat
 slug: ai-evals-done-right-from-vibes-to-confident-decisions-pycon
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Martin Seeler"]

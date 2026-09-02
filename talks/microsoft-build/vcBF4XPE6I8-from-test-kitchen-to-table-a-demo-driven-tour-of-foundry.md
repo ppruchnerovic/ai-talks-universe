@@ -4,7 +4,7 @@ title: "From Test Kitchen to Table: A Demo-driven Tour of Foundry Portal for AI 
 slug: from-test-kitchen-to-table-a-demo-driven-tour-of-foundry
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Nitya Narasimhan"]

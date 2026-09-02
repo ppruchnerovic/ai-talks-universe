@@ -4,7 +4,7 @@ title: "Curl: Private LLMs through Wavelet-Encoded Look-Up Tables"
 slug: curl-private-llms-through-wavelet-encoded-look-up-tables
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

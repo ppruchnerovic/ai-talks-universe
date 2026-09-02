@@ -4,7 +4,7 @@ title: "Generative AI Weaponized: Why Zero Trust Isn’t Enough"
 slug: generative-ai-weaponized-why-zero-trust-isnt-enough
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

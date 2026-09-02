@@ -4,7 +4,7 @@ title: "Fireside Chat with Sounil Yu and Rob Lee"
 slug: fireside-chat-with-sounil-yu-and-rob-lee
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

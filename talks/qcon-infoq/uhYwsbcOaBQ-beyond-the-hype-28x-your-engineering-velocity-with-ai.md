@@ -4,7 +4,7 @@ title: "Beyond the Hype: 28x Your Engineering Velocity with AI"
 slug: beyond-the-hype-28x-your-engineering-velocity-with-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

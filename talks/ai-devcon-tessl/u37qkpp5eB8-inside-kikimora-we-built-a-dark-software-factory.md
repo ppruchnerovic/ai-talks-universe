@@ -4,7 +4,7 @@ title: "Inside Kikimora: We Built a Dark Software Factory"
 slug: inside-kikimora-we-built-a-dark-software-factory
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

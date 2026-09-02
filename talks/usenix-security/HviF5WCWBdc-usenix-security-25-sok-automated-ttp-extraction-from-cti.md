@@ -4,7 +4,7 @@ title: "USENIX Security '25 - SoK: Automated TTP Extraction from CTI Reports –
 slug: usenix-security-25-sok-automated-ttp-extraction-from-cti
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

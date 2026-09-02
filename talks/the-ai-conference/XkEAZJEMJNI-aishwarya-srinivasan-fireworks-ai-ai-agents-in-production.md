@@ -4,7 +4,7 @@ title: "Aishwarya Srinivasan, Fireworks AI: AI Agents in Production: Systems Des
 slug: aishwarya-srinivasan-fireworks-ai-ai-agents-in-production
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []

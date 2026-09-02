@@ -4,7 +4,7 @@ title: "Empower Business Users with AI driven insights in Microsoft Fabric | BRK
 slug: empower-business-users-with-ai-driven-insights-in-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lada Hill", "Amir Jafari", "Maya Shenhav"]

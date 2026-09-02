@@ -4,7 +4,7 @@ title: "AI observability for LLM optimization on Azure | ODFP963"
 slug: ai-observability-for-llm-optimization-on-azure-odfp963
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

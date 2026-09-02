@@ -4,7 +4,7 @@ title: "Add Useful AI to Your Web App (Not Just Chatbots) â€¢ Steve Sanderson â€
 slug: add-useful-ai-to-your-web-app-not-just-chatbots-steve
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Steve Sanderson"]

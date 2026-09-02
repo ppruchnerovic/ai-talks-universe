@@ -4,7 +4,7 @@ title: "From ethical principles to technical requirements | Operationalize AI Go
 slug: from-ethical-principles-to-technical-requirements
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mattia Ferrini"]

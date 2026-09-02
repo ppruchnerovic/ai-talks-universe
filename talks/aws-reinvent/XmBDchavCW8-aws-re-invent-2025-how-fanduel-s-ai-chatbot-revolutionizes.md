@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - How FanDuel's AI Chatbot Revolutionizes Sports Bett
 slug: aws-re-invent-2025-how-fanduel-s-ai-chatbot-revolutionizes
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Scott and Mark learn to Vibe Check with Simon Willison | LIVE113"
 slug: scott-and-mark-learn-to-vibe-check-with-simon-willison
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Hanselman", "Simon Willison"]

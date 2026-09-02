@@ -4,7 +4,7 @@ title: "Scaling API Independence: Mocking, Contract Testing & Observability in L
 slug: scaling-api-independence-mocking-contract-testing
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Tom Akehurst"]

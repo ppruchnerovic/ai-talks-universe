@@ -4,7 +4,7 @@ title: "How Stripe Moves Petabytes of Data with 5.5 Nines of Reliability"
 slug: how-stripe-moves-petabytes-of-data-with-5-5-nines-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

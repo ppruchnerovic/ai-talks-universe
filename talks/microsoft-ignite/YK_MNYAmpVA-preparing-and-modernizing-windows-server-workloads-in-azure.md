@@ -4,7 +4,7 @@ title: "Preparing and modernizing Windows Server workloads in Azure | BRK142"
 slug: preparing-and-modernizing-windows-server-workloads-in-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dan Cuomo", "Jeff Woolsey"]

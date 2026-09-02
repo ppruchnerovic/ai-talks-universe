@@ -4,7 +4,7 @@ title: "AI Dev 25 | João Moura & Graham Steele: Real AI Agents in Action Autom
 slug: ai-dev-25-joao-moura-graham-steele-real-ai-agents-in-action
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

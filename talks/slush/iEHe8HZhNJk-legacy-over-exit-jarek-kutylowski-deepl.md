@@ -4,7 +4,7 @@ title: "Legacy Over Exit | Jarek Kutylowski (DeepL)"
 slug: legacy-over-exit-jarek-kutylowski-deepl
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Legacy Over Exit", "Jarek Kutylowski"]

@@ -4,7 +4,7 @@ title: "Drive Copilot adoption with strategies that scale | BRKSP450"
 slug: drive-copilot-adoption-with-strategies-that-scale-brksp450
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Fox"]

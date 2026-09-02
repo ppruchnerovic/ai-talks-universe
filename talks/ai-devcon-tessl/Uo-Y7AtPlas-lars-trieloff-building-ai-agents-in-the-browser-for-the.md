@@ -4,7 +4,7 @@ title: "Lars Trieloff - Building AI agents in the browser, for the browser, of t
 slug: lars-trieloff-building-ai-agents-in-the-browser-for-the
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Lars Trieloff"]

@@ -4,7 +4,7 @@ title: "One Hack to Rule Them All: Pervasive Account Takeovers in Integration Pl
 slug: one-hack-to-rule-them-all-pervasive-account-takeovers-in
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

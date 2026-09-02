@@ -4,7 +4,7 @@ title: "From Arc to Dia: Lessons learned building AI Browsers – Samir Mody, Th
 slug: from-arc-to-dia-lessons-learned-building-ai-browsers-samir
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Samir Mody"]

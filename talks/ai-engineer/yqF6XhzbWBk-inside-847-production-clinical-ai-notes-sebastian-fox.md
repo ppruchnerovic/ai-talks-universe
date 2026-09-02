@@ -4,7 +4,7 @@ title: "Inside 847 Production Clinical AI Notes — Sebastian Fox, Composo"
 slug: inside-847-production-clinical-ai-notes-sebastian-fox
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sebastian Fox"]

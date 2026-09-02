@@ -4,7 +4,7 @@ title: "Your Survival Guide to AI in Software Development by Rafik FERROUKH"
 slug: your-survival-guide-to-ai-in-software-development-by-rafik
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

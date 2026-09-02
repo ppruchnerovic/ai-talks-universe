@@ -4,7 +4,7 @@ title: "How AI Rewrites Product Strategy | Romain Huet (OpenAI)"
 slug: how-ai-rewrites-product-strategy-romain-huet-openai
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Romain Huet"]

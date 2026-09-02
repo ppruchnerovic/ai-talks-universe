@@ -4,7 +4,7 @@ title: "Homoglyph-Based Attacks: Circumventing LLM Detectors - Aldan Creo -NDC S
 slug: homoglyph-based-attacks-circumventing-llm-detectors-aldan
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []

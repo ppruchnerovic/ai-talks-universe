@@ -4,7 +4,7 @@ title: "Building a Holistic SQL Chatbot that Solves Real Problems for People in 
 slug: building-a-holistic-sql-chatbot-that-solves-real-problems
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []

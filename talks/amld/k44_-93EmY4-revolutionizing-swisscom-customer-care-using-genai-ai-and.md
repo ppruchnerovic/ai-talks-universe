@@ -4,7 +4,7 @@ title: "Revolutionizing Swisscom Customer Care using GenAI | AI and Connectivity
 slug: revolutionizing-swisscom-customer-care-using-genai-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

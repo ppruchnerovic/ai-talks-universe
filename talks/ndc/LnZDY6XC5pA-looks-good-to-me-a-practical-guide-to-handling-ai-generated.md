@@ -4,7 +4,7 @@ title: "\"Looks Good to Me\": A Practical Guide to Handling AI-Generated Code - 
 slug: looks-good-to-me-a-practical-guide-to-handling-ai-generated
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Roman Zhukov"]

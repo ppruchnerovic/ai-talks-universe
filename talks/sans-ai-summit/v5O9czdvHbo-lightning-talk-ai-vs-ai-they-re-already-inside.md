@@ -4,7 +4,7 @@ title: "Lightning Talk: AI vs. AI: They're Already Inside"
 slug: lightning-talk-ai-vs-ai-they-re-already-inside
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Move from cloud to AI-first and seize the next frontier for partners | B
 slug: move-from-cloud-to-ai-first-and-seize-the-next-frontier-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sophie Daval", "Eric Gourmelen"]

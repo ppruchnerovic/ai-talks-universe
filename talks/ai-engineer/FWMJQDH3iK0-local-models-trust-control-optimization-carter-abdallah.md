@@ -4,7 +4,7 @@ title: "Local Models: Trust, Control, Optimization — Carter Abdallah, NVIDIA"
 slug: local-models-trust-control-optimization-carter-abdallah
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Carter Abdallah"]

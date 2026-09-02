@@ -4,7 +4,7 @@ title: "Richmond Alake - Building Memory Augmented Agents with MemoRizz | DevCon
 slug: richmond-alake-building-memory-augmented-agents-with
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Richmond Alake"]

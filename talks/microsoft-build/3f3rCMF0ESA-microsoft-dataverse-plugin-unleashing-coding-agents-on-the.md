@@ -4,7 +4,7 @@ title: "Microsoft Dataverse plugin: unleashing coding agents on the enterprise |
 slug: microsoft-dataverse-plugin-unleashing-coding-agents-on-the
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Kent Weare", "Suyash Kshirsagar"]

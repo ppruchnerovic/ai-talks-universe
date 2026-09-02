@@ -4,7 +4,7 @@ title: "Introducing Code Assist: Build Applications Faster with AI by Marc Gueur
 slug: introducing-code-assist-build-applications-faster-with-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Marc Gueury", "John Karasoulos"]

@@ -4,7 +4,7 @@ title: "Collaborate with a team of agents to build intelligent solutions | BRK12
 slug: collaborate-with-a-team-of-agents-to-build-intelligent
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

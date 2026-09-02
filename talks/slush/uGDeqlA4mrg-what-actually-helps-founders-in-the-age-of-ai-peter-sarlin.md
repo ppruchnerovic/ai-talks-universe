@@ -4,7 +4,7 @@ title: "What Actually Helps Founders in the Age of AI | Peter Sarlin (Silo AI)"
 slug: what-actually-helps-founders-in-the-age-of-ai-peter-sarlin
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Peter Sarlin"]

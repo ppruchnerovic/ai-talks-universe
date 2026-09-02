@@ -4,7 +4,7 @@ title: "Hosting, AI Workloads, and the Future of DevOps- Raph Terrier & Hazal Me
 slug: hosting-ai-workloads-and-the-future-of-devops-raph-terrier
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Extend GitHub Copilot with the Copilot SDK | LIVE151"
 slug: extend-github-copilot-with-the-copilot-sdk-live151
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Patrick Nikoletich", "Burke Holland"]

@@ -4,7 +4,7 @@ title: "The Rise of CaaS: Context-as-a-Service for Agentic AI — Omer Primor, B
 slug: the-rise-of-caas-context-as-a-service-for-agentic-ai-omer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Omer Primor"]

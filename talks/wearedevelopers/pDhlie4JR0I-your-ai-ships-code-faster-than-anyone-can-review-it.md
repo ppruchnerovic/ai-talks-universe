@@ -4,7 +4,7 @@ title: "Your AI Ships Code Faster Than Anyone Can Review It"
 slug: your-ai-ships-code-faster-than-anyone-can-review-it
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rasmus Klärck"]

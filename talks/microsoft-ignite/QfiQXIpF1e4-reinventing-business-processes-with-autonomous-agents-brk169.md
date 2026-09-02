@@ -4,7 +4,7 @@ title: "Reinventing business processes with autonomous agents | BRK169"
 slug: reinventing-business-processes-with-autonomous-agents-brk169
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Karan Nigam", "Ray Smith"]

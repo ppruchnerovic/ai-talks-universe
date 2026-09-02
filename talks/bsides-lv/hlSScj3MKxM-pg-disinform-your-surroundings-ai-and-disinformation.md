@@ -4,7 +4,7 @@ title: "PG - Disinform your Surroundings: AI and disinformation campaigns"
 slug: pg-disinform-your-surroundings-ai-and-disinformation
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

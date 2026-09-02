@@ -4,7 +4,7 @@ title: "Unlock industrial AI transformation opportunities and growth | BRK268"
 slug: unlock-industrial-ai-transformation-opportunities-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dayan Rodriguez", "Ayora Berry", "Julián Gil", "Matthew Hansen", "Kaivan Karimi", "John Reed"]

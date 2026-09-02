@@ -4,7 +4,7 @@ title: "Taking your AI to the edge with .NET MAUI | OD803"
 slug: taking-your-ai-to-the-edge-with-net-maui-od803
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Gerald Versluis"]

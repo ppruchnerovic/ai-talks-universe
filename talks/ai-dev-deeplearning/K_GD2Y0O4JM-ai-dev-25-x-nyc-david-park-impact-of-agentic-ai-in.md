@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | David Park: Impact of Agentic AI in Financial Services
 slug: ai-dev-25-x-nyc-david-park-impact-of-agentic-ai-in
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

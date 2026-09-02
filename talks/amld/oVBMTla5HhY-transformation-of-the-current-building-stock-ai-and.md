@@ -4,7 +4,7 @@ title: "Transformation of the Current Building Stock | AI and Decarbonisation | 
 slug: transformation-of-the-current-building-stock-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Kristina Orehounig"]

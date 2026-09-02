@@ -4,7 +4,7 @@ title: "7 Anti-Lessons from Building a PydanticAI Agent: Mistakes We Made So You
 slug: 7-anti-lessons-from-building-a-pydanticai-agent-mistakes-we
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Joshua Görner"]

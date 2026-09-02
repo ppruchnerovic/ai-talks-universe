@@ -4,7 +4,7 @@ title: "Prem Akkaraju, CEO, Stability AI & Nick Ni, Sr. Director of Product Mark
 slug: prem-akkaraju-ceo-stability-ai-nick-ni-sr-director-of
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

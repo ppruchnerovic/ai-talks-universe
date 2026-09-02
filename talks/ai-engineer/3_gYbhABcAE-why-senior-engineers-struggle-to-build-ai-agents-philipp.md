@@ -4,7 +4,7 @@ title: "Why (Senior) Engineers Struggle to Build AI Agents — Philipp Schmid, G
 slug: why-senior-engineers-struggle-to-build-ai-agents-philipp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Philipp Schmid"]

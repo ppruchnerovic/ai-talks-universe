@@ -4,7 +4,7 @@ title: "Discover, govern, and scale Azure resources with HashiCorp Terraform | O
 slug: discover-govern-and-scale-azure-resources-with-hashicorp
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Kerim Satirli"]

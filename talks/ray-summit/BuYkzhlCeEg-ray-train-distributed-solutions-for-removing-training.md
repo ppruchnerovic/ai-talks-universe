@@ -4,7 +4,7 @@ title: "Ray Train: Distributed Solutions for Removing Training Bottlenecks | Ray
 slug: ray-train-distributed-solutions-for-removing-training
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

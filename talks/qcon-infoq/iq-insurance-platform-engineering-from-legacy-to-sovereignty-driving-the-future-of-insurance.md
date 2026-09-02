@@ -4,7 +4,7 @@ title: "From Legacy to Sovereignty: Driving the Future of Insurance through Plat
 slug: from-legacy-to-sovereignty-driving-the-future-of-insurance
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Sergiu Petean"]

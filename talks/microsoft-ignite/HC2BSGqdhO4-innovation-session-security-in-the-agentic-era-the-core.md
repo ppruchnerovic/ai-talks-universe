@@ -4,7 +4,7 @@ title: "Innovation Session: Security in the Agentic Era – the Core Primitive |
 slug: innovation-session-security-in-the-agentic-era-the-core
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Charlie Bell", "Vasu Jakkal"]

@@ -4,7 +4,7 @@ title: "Personalising adaptive interventions with machine learning | AI and Slee
 slug: personalising-adaptive-interventions-with-machine-learning
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Radoslava Svihrová"]

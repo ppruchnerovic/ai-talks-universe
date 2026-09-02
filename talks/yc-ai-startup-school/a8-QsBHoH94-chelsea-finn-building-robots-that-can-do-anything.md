@@ -4,7 +4,7 @@ title: "Chelsea Finn: Building Robots That Can Do Anything"
 slug: chelsea-finn-building-robots-that-can-do-anything
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []

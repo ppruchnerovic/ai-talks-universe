@@ -4,7 +4,7 @@ title: "Q&A | The Path to Superintelligence - A dream for Europe or a nightmare?
 slug: q-a-the-path-to-superintelligence-a-dream-for-europe-or-a
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: []

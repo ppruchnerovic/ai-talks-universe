@@ -4,7 +4,7 @@ title: "Episode 111 | Open AI’s Hack of Hugging Face"
 slug: episode-111-open-ais-hack-of-hugging-face
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

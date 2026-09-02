@@ -4,7 +4,7 @@ title: "Security for AI and Agent Augmented Coding on Windows | OD853"
 slug: security-for-ai-and-agent-augmented-coding-on-windows-od853
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Klorida Miraj", "Nazmus Sakib"]

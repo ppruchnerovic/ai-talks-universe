@@ -4,7 +4,7 @@ title: "Don't let your AI agents go rogue, govern with Azure API Management | BR
 slug: don-t-let-your-ai-agents-go-rogue-govern-with-azure-api
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mike Budzynski", "Anish Tallapureddy"]

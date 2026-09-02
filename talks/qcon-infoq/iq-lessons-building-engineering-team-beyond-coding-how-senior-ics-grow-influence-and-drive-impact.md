@@ -4,7 +4,7 @@ title: "Beyond Coding: How Senior ICs Grow Influence and Drive Impact"
 slug: beyond-coding-how-senior-ics-grow-influence-and-drive-impact
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Kasia Trapszo"]

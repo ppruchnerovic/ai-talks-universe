@@ -4,7 +4,7 @@ title: "Active Learning | Overcoming Data Scarcity | Igor Susmelj"
 slug: active-learning-overcoming-data-scarcity-igor-susmelj
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Igor Susmelj"]

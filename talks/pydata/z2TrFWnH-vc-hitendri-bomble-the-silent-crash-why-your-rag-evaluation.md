@@ -4,7 +4,7 @@ title: "Hitendri Bomble-The Silent Crash:Why Your RAG Evaluation Metrics Are Lyi
 slug: hitendri-bomble-the-silent-crash-why-your-rag-evaluation
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

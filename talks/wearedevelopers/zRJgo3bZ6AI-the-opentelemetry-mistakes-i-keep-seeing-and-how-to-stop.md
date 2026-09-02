@@ -4,7 +4,7 @@ title: "The OpenTelemetry mistakes I keep seeing (and how to stop making them)"
 slug: the-opentelemetry-mistakes-i-keep-seeing-and-how-to-stop
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Juraci Paixão Kröhling"]

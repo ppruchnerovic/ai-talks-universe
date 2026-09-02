@@ -4,7 +4,7 @@ title: "Technical deep dive on Managed Instance for App Service | BRK102"
 slug: technical-deep-dive-on-managed-instance-for-app-service
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Hunter", "Gaurav Seth", "Andrew Westgarth"]

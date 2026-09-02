@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Discovering React2Shell: JavaScript’s Long-Await
 slug: black-hat-asia-2026-discovering-react2shell-javascripts
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

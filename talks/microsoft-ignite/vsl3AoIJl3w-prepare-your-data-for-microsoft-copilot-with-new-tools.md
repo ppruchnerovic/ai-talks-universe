@@ -4,7 +4,7 @@ title: "Prepare your data for Microsoft Copilot with new tools | BRK272"
 slug: prepare-your-data-for-microsoft-copilot-with-new-tools
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Minasyan", "Alex Pozin", "Erica Toelle"]

@@ -4,7 +4,7 @@ title: "Why Faster AI Development Often Increases Rework | Cian Clarke"
 slug: why-faster-ai-development-often-increases-rework-cian-clarke
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Cian Clarke"]

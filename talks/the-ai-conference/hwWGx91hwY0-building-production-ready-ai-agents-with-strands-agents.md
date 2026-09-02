@@ -4,7 +4,7 @@ title: "Building Production-Ready AI Agents with Strands Agents — Du’An Ligh
 slug: building-production-ready-ai-agents-with-strands-agents
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

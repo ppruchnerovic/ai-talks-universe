@@ -4,7 +4,7 @@ title: "GitHub's Former CEO On What AI Competition Means for IDEs"
 slug: github-s-former-ceo-on-what-ai-competition-means-for-ides
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

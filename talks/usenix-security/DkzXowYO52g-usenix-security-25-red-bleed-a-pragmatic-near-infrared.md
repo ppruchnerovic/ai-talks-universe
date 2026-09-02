@@ -4,7 +4,7 @@ title: "USENIX Security '25- Red Bleed: A Pragmatic Near-Infrared Presentation A
 slug: usenix-security-25-red-bleed-a-pragmatic-near-infrared
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

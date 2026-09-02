@@ -4,7 +4,7 @@ title: "Confidential AI with Ubuntu on Azure | ODFP929"
 slug: confidential-ai-with-ubuntu-on-azure-odfp929
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Everything I Know About Data Science I Learned from Model Railroading | 
 slug: everything-i-know-about-data-science-i-learned-from-model
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Vibe Coding Your First LLM End-to-End Application | Greg Loughnane & Chr
 slug: vibe-coding-your-first-llm-end-to-end-application-greg
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Greg Loughnane", "Chris Alexiuk"]

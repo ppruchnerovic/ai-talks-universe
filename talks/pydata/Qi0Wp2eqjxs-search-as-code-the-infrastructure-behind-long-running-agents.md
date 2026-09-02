@@ -4,7 +4,7 @@ title: "Search as Code: The Infrastructure Behind Long-Running Agents"
 slug: search-as-code-the-infrastructure-behind-long-running-agents
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

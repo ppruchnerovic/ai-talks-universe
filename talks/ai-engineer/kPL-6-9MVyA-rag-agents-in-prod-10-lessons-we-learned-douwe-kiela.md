@@ -4,7 +4,7 @@ title: "RAG Agents in Prod: 10 Lessons We Learned — Douwe Kiela, creator of RA
 slug: rag-agents-in-prod-10-lessons-we-learned-douwe-kiela
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Douwe Kiela"]

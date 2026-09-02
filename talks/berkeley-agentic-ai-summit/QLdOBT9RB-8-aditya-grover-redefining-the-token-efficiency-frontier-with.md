@@ -4,7 +4,7 @@ title: "Aditya Grover - Redefining the Token Efficiency Frontier with Diffusion 
 slug: aditya-grover-redefining-the-token-efficiency-frontier-with
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Aditya Grover"]

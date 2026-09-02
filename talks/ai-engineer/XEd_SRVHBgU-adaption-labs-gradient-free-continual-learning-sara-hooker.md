@@ -4,7 +4,7 @@ title: "Adaption Labs: Gradient-Free Continual Learning — Sara Hooker, Adaptio
 slug: adaption-labs-gradient-free-continual-learning-sara-hooker
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sara Hooker"]

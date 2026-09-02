@@ -4,7 +4,7 @@ title: "3 ingredients for building reliable enterprise agents - Harrison Chase, 
 slug: 3-ingredients-for-building-reliable-enterprise-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Harrison Chase"]

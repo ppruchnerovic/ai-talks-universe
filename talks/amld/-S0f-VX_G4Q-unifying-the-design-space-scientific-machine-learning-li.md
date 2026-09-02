@@ -4,7 +4,7 @@ title: "Unifying the design space | Scientific Machine Learning | Li Zheng"
 slug: unifying-the-design-space-scientific-machine-learning-li
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Li Zheng"]

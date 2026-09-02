@@ -4,7 +4,7 @@ title: "Creating Collective Insight on AI Literacy | AI Literacy, Skills and Rea
 slug: creating-collective-insight-on-ai-literacy-ai-literacy
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Johannes Schleiss"]

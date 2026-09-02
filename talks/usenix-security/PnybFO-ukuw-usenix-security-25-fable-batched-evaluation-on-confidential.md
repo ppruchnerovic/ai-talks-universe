@@ -4,7 +4,7 @@ title: "USENIX Security '25 - FABLE: Batched Evaluation on Confidential Lookup T
 slug: usenix-security-25-fable-batched-evaluation-on-confidential
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

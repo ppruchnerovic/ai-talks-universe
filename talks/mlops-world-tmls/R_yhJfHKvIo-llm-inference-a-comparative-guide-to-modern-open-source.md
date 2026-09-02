@@ -4,7 +4,7 @@ title: "LLM Inference: A Comparative Guide to Modern Open-Source Runtimes | Alek
 slug: llm-inference-a-comparative-guide-to-modern-open-source
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Aleksandr Shirokov"]

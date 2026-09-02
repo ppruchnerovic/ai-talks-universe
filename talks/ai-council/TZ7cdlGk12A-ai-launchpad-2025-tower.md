@@ -4,7 +4,7 @@ title: "AI Launchpad 2025: Tower"
 slug: ai-launchpad-2025-tower
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Serhii Sokolenko"]

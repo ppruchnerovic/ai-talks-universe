@@ -4,7 +4,7 @@ title: "Preview: What’s new with Azure Databases and SQL Server | STUDIO32"
 slug: preview-whats-new-with-azure-databases-and-sql-server
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shireesh Thota"]

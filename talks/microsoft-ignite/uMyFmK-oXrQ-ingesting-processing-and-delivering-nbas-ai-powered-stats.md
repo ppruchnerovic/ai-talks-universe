@@ -4,7 +4,7 @@ title: "Ingesting processing and delivering NBA’s AI-powered stats features | 
 slug: ingesting-processing-and-delivering-nbas-ai-powered-stats
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jasmine Greenaway", "Charlie Rohlf"]

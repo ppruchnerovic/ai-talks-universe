@@ -4,7 +4,7 @@ title: "The Agent Behind the Curtain: Building the Oz Cloud Agent Platform — S
 slug: the-agent-behind-the-curtain-building-the-oz-cloud-agent
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Safia Abdalla"]

@@ -4,7 +4,7 @@ title: "Cybersecurity, Trust and Resilience: A European Perspective"
 slug: cybersecurity-trust-and-resilience-a-european-perspective
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: ["Lynn Doan"]

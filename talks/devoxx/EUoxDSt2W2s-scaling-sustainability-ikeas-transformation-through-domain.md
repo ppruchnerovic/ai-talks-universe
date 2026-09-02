@@ -4,7 +4,7 @@ title: "Scaling Sustainability: IKEA’s Transformation through Domain-Driven De
 slug: scaling-sustainability-ikeas-transformation-through-domain
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

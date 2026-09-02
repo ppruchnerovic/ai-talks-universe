@@ -4,7 +4,7 @@ title: "GraphRAG methods to create optimized LLM context windows for Retrieval â
 slug: graphrag-methods-to-create-optimized-llm-context-windows
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jonathan Larson"]

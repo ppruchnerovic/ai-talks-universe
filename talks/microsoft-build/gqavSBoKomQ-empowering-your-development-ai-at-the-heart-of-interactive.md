@@ -4,7 +4,7 @@ title: "Empowering your development: AI at the heart of interactive learning | D
 slug: empowering-your-development-ai-at-the-heart-of-interactive
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

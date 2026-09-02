@@ -4,7 +4,7 @@ title: "Rules for Understanding Language Models"
 slug: rules-for-understanding-language-models
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Naomi Saphra"]

@@ -4,7 +4,7 @@ title: "SecTor 2025 | Investigate & Respond to Attacks on GenAI Chatbots"
 slug: sector-2025-investigate-respond-to-attacks-on-genai-chatbots
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

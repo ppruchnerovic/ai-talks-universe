@@ -4,7 +4,7 @@ title: "Agentic Evaluations at Scale, For Everybody — Nicholas Kang & Michael 
 slug: agentic-evaluations-at-scale-for-everybody-nicholas-kang
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nicholas Kang", "Michael Aaron"]

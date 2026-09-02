@@ -4,7 +4,7 @@ title: "Pushing limits of supercomputing innovation on Azure AI Infra | BRK181"
 slug: pushing-limits-of-supercomputing-innovation-on-azure-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Hugo Affaticati", "Nitin Nagarkatte"]

@@ -4,7 +4,7 @@ title: "Fireside Chat on the State of FM Training Report"
 slug: fireside-chat-on-the-state-of-fm-training-report
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

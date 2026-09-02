@@ -4,7 +4,7 @@ title: "USENIX Security '25 - CAMP in the Odyssey: Provably Robust Reinforcement
 slug: usenix-security-25-camp-in-the-odyssey-provably-robust
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

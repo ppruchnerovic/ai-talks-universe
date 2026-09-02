@@ -4,7 +4,7 @@ title: "Engineering the Future in the Age of Digital Product Innovation | BRK376
 slug: engineering-the-future-in-the-age-of-digital-product
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Simon Floyd", "Dennis Goetting", "Heather Kerrick", "Alfonso Rodriguez"]

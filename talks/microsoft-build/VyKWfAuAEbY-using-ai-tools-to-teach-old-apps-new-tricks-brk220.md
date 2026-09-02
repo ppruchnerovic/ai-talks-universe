@@ -4,7 +4,7 @@ title: "Using AI tools to teach old apps new tricks | BRK220"
 slug: using-ai-tools-to-teach-old-apps-new-tricks-brk220
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Nish Anil"]

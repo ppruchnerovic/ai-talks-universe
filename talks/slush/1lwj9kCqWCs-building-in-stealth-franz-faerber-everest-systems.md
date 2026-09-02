@@ -4,7 +4,7 @@ title: "Building in Stealth | Franz Faerber (Everest Systems)"
 slug: building-in-stealth-franz-faerber-everest-systems
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Franz Faerber"]

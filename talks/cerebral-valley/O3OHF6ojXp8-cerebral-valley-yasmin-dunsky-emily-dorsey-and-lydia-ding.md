@@ -4,7 +4,7 @@ title: "Cerebral Valley: Yasmin Dunsky, Emily Dorsey, and Lydia Ding with James 
 slug: cerebral-valley-yasmin-dunsky-emily-dorsey-and-lydia-ding
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []

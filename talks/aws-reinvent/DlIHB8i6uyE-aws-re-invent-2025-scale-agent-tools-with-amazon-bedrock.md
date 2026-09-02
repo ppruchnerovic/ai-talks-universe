@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scale agent tools with Amazon Bedrock AgentCore Gat
 slug: aws-re-invent-2025-scale-agent-tools-with-amazon-bedrock
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

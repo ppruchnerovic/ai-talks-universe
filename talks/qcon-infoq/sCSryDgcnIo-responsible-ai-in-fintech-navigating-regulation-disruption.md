@@ -4,7 +4,7 @@ title: "Responsible AI in FinTech: Navigating Regulation & Disruption"
 slug: responsible-ai-in-fintech-navigating-regulation-disruption
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

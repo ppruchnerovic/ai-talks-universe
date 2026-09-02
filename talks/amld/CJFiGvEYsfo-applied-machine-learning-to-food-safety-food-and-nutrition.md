@@ -4,7 +4,7 @@ title: "Applied Machine Learning to Food Safety | Food and Nutrition | Ine HJ Va
 slug: applied-machine-learning-to-food-safety-food-and-nutrition
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

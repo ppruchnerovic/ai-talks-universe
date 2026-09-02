@@ -4,7 +4,7 @@ title: "Multi-GPU Communication Libraries for Scaling HPC and AI Workloads | NVI
 slug: multi-gpu-communication-libraries-for-scaling-hpc-and-ai
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

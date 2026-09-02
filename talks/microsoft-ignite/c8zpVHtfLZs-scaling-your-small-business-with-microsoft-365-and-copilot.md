@@ -4,7 +4,7 @@ title: "Scaling your small business with Microsoft 365 and Copilot | BRK299"
 slug: scaling-your-small-business-with-microsoft-365-and-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bryan Allen", "Anna Montgomery"]

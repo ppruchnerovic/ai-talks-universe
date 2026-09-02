@@ -4,7 +4,7 @@ title: "Embrace the opportunities of the AI-enabled partner of the future | BRKF
 slug: embrace-the-opportunities-of-the-ai-enabled-partner-of-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Angela Byers"]

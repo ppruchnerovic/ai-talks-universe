@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Securing data for your AI workloads with tokenizati
 slug: aws-re-invent-2025-securing-data-for-your-ai-workloads-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Modern data modern apps: Innovation with Microsoft Databases | BRK134"
 slug: modern-data-modern-apps-innovation-with-microsoft-databases
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shireesh Thota", "Charles Feddersen", "Kirill Gavrylyuk", "Priya Sathy", "Shivakumar Vaithyanathan"]

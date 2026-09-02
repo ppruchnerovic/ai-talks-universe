@@ -4,7 +4,7 @@ title: "Lightning Talk: Flex Attention for Inference - Boyuan Feng & Driss Guess
 slug: lightning-talk-flex-attention-for-inference-boyuan-feng
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Boyuan Feng", "Driss Guessous"]

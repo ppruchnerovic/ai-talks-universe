@@ -4,7 +4,7 @@ title: "Modern Data Management How to Set Your Data Team Up for Success | Select
 slug: modern-data-management-how-to-set-your-data-team-up-for
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["Select Star"]

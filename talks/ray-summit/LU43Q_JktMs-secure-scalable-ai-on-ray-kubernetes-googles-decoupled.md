@@ -4,7 +4,7 @@ title: "Secure & Scalable AI on Ray + Kubernetes: Google’s Decoupled Agent Pat
 slug: secure-scalable-ai-on-ray-kubernetes-googles-decoupled
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

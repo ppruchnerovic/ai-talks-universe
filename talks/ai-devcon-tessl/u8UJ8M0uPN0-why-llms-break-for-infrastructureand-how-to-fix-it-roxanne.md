@@ -4,7 +4,7 @@ title: "Why LLMs Break for Infrastructure—and How to Fix It Roxanne Fischer"
 slug: why-llms-break-for-infrastructureand-how-to-fix-it-roxanne
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

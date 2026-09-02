@@ -4,7 +4,7 @@ title: "Stop routing docstrings to 70B models with on-device AI on Snapdragon | 
 slug: stop-routing-docstrings-to-70b-models-with-on-device-ai-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Alberto Martinez"]

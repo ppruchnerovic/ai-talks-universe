@@ -4,7 +4,7 @@ title: "[Session] Typed Composition with MCP - Solomon Hykes from Dagger"
 slug: session-typed-composition-with-mcp-solomon-hykes-from-dagger
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Nobel Laureate John Jumper: AI is Revolutionizing Scientific Discovery"
 slug: nobel-laureate-john-jumper-ai-is-revolutionizing-scientific
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []

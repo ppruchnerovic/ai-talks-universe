@@ -4,7 +4,7 @@ title: "Function Calling for LLMs: RAG without a Vector Database"
 slug: function-calling-for-llms-rag-without-a-vector-database
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Jim Dowling"]

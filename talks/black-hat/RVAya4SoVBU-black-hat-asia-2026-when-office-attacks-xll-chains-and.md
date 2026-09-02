@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | When Office Attacks: XLL Chains and Enterprise EDR
 slug: black-hat-asia-2026-when-office-attacks-xll-chains-and
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

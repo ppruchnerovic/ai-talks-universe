@@ -4,7 +4,7 @@ title: "What’s New in Azure Data: HorizonDB and Rayfin | LIVE143"
 slug: whats-new-in-azure-data-horizondb-and-rayfin-live143
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

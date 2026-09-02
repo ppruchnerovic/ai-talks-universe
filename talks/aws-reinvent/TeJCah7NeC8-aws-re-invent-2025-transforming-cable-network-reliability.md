@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Transforming Cable Network Reliability with Agentic
 slug: aws-re-invent-2025-transforming-cable-network-reliability
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

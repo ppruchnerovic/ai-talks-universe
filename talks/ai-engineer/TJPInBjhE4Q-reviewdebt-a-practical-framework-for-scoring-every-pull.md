@@ -4,7 +4,7 @@ title: "ReviewDebt: a practical framework for scoring every pull request — Sac
 slug: reviewdebt-a-practical-framework-for-scoring-every-pull
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sachin Gupta"]

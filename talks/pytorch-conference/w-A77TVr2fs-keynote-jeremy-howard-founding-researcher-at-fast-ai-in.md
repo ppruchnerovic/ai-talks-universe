@@ -4,7 +4,7 @@ title: "Keynote: Jeremy Howard, Founding Researcher at fast.ai in Conversation w
 slug: keynote-jeremy-howard-founding-researcher-at-fast-ai-in
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []

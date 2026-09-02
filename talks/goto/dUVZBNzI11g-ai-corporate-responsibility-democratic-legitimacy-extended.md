@@ -4,7 +4,7 @@ title: "AI, Corporate Responsibility & Democratic Legitimacy: Extended Q&A • J
 slug: ai-corporate-responsibility-democratic-legitimacy-extended
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Joanna Bryson"]

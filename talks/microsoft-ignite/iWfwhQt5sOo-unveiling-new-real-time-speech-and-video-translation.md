@@ -4,7 +4,7 @@ title: "Unveiling new real time speech and video translation innovations | BRK10
 slug: unveiling-new-real-time-speech-and-video-translation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Beth Adamo Lenhoff", "Jacky Kang", "Dong Li"]

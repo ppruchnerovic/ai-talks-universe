@@ -4,7 +4,7 @@ title: "Workshop: Build AI Agents That Survive Failure by Temporal"
 slug: workshop-build-ai-agents-that-survive-failure-by-temporal
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []

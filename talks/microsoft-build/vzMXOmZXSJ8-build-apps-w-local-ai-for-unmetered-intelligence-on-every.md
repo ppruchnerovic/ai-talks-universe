@@ -4,7 +4,7 @@ title: "Build Apps w/ Local AI for Unmetered Intelligence on every Windows PC | 
 slug: build-apps-w-local-ai-for-unmetered-intelligence-on-every
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Anastasiya Tarnouskaya", "Aditi Narvekar", "Jordi Janer"]

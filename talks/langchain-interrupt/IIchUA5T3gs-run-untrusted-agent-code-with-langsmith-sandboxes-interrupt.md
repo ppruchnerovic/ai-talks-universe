@@ -4,7 +4,7 @@ title: "Run Untrusted Agent Code with LangSmith Sandboxes | Interrupt 26"
 slug: run-untrusted-agent-code-with-langsmith-sandboxes-interrupt
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "The Future of Kubernetes Node Lifecycle - Lucy Sweet, Uber & Dawn Chen, 
 slug: the-future-of-kubernetes-node-lifecycle-lucy-sweet-uber
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Lucy Sweet"]

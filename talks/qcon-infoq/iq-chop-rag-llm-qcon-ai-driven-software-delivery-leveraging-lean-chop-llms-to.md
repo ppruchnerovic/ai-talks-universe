@@ -4,7 +4,7 @@ title: "AI-Driven Software Delivery: Leveraging Lean, ChOP & LLMs to Create More
 slug: ai-driven-software-delivery-leveraging-lean-chop-llms-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Wesley Reisz"]

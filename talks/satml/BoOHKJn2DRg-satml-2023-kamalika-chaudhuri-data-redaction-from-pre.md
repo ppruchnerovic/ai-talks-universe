@@ -4,7 +4,7 @@ title: "SaTML 2023 - Kamalika Chaudhuri - Data Redaction from Pre-trained GANs"
 slug: satml-2023-kamalika-chaudhuri-data-redaction-from-pre
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Kamalika Chaudhuri"]

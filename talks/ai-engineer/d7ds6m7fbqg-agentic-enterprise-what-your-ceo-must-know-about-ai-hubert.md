@@ -4,7 +4,7 @@ title: "Agentic Enterprise - What your CEO must know about AI - Hubert Misztela"
 slug: agentic-enterprise-what-your-ceo-must-know-about-ai-hubert
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Agentic Enterprise", "Hubert Misztela"]

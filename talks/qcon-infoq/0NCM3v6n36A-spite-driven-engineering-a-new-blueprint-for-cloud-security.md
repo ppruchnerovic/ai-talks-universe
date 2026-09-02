@@ -4,7 +4,7 @@ title: "Spite-Driven Engineering: A New Blueprint for Cloud Security in the AI N
 slug: spite-driven-engineering-a-new-blueprint-for-cloud-security
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

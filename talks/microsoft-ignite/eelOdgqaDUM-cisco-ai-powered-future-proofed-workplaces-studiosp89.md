@@ -4,7 +4,7 @@ title: "Cisco AI Powered Future-Proofed Workplaces | STUDIOSP89"
 slug: cisco-ai-powered-future-proofed-workplaces-studiosp89
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tom Richards"]

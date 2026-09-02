@@ -4,7 +4,7 @@ title: "Permissions: Centralized or Decentralized? Both!"
 slug: permissions-centralized-or-decentralized-both
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Sarah Cecchetti"]

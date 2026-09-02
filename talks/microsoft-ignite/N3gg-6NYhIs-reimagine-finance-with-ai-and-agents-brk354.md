@@ -4,7 +4,7 @@ title: "Reimagine Finance with AI and Agents | BRK354"
 slug: reimagine-finance-with-ai-and-agents-brk354
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sigita Cepaitiene", "Matt Jutila", "April Olson"]

@@ -4,7 +4,7 @@ title: "Optimizing Model Training End-to-End: A Tiny MoE Case Study Lambda"
 slug: optimizing-model-training-end-to-end-a-tiny-moe-case-study
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

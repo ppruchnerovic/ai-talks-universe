@@ -4,7 +4,7 @@ title: "Keynote: Cyber Threats in the Age of AI"
 slug: keynote-cyber-threats-in-the-age-of-ai
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

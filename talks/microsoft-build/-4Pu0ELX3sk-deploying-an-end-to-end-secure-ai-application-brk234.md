@@ -4,7 +4,7 @@ title: "Deploying an end-to-end secure AI application | BRK234"
 slug: deploying-an-end-to-end-secure-ai-application-brk234
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

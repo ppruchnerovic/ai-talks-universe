@@ -4,7 +4,7 @@ title: "Doors of (AI)pportunity: The Front and Backdoors of LLMs - Kasimir Schul
 slug: doors-of-ai-pportunity-the-front-and-backdoors-of-llms
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Doors of", "Kasimir Schulz", "Kenneth Yeung"]

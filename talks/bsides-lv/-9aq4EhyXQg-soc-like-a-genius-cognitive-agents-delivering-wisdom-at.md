@@ -4,7 +4,7 @@ title: "SOC Like a Genius: Cognitive Agents Delivering Wisdom at Scale"
 slug: soc-like-a-genius-cognitive-agents-delivering-wisdom-at
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

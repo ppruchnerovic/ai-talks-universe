@@ -4,7 +4,7 @@ title: "Environmentally sustainable computational science | Environmentally Sust
 slug: environmentally-sustainable-computational-science
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Loïc Lannelongue"]

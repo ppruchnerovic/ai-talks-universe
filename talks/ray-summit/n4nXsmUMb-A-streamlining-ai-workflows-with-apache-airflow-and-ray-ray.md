@@ -4,7 +4,7 @@ title: "Streamlining AI Workflows with Apache Airflow and Ray | Ray Summit 2024"
 slug: streamlining-ai-workflows-with-apache-airflow-and-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

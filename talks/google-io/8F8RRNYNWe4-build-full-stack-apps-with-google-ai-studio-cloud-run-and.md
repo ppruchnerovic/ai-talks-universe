@@ -4,7 +4,7 @@ title: "Build full-stack apps with Google AI Studio, Cloud Run, and Cloud SQL"
 slug: build-full-stack-apps-with-google-ai-studio-cloud-run-and
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Shambhu Hegde", "Justin Mahood", "Sara Ford"]

@@ -4,7 +4,7 @@ title: "Harnessing EDA & Workflows to Build Real World GenAI Apps • Uma Ramado
 slug: harnessing-eda-workflows-to-build-real-world-genai-apps-uma
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Uma Ramadoss", "Veda Raman"]

@@ -4,7 +4,7 @@ title: "Visualizing robot minds, and other fun stuff by Alessandro Giusti"
 slug: visualizing-robot-minds-and-other-fun-stuff-by-alessandro
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Alessandro Giusti"]

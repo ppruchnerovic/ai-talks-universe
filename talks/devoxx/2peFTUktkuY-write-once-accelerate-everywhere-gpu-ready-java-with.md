@@ -4,7 +4,7 @@ title: "Write Once, Accelerate Everywhere: GPU-Ready Java with TornadoVM by Than
 slug: write-once-accelerate-everywhere-gpu-ready-java-with
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Thanos Stratikopoulos"]

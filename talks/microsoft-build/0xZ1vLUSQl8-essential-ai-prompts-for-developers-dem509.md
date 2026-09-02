@@ -4,7 +4,7 @@ title: "Essential AI Prompts for Developers | DEM509"
 slug: essential-ai-prompts-for-developers-dem509
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

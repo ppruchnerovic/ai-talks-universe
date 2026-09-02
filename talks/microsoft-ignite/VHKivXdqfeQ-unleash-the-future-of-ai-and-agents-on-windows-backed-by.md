@@ -4,7 +4,7 @@ title: "Unleash the future of AI and agents on Windows backed by security | BRK3
 slug: unleash-the-future-of-ai-and-agents-on-windows-backed-by
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sasha Sproch", "Donald Thompson"]

@@ -4,7 +4,7 @@ title: "Kafka for Architects • Ekaterina Gorshkova & Viktor Gamov • GOTO 202
 slug: kafka-for-architects-ekaterina-gorshkova-viktor-gamov-goto
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ekaterina Gorshkova", "Viktor Gamov"]

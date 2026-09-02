@@ -4,7 +4,7 @@ title: "Keynote: vLLM & Deepspeed Updates - Simon Mo & Tunji Ruwase"
 slug: keynote-vllm-deepspeed-updates-simon-mo-tunji-ruwase
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Simon Mo", "Tunji Ruwase"]

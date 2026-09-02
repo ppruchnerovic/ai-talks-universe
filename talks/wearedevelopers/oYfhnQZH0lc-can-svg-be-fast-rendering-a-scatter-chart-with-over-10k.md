@@ -4,7 +4,7 @@ title: "Can SVG be fast? Rendering a scatter chart with over 10k points"
 slug: can-svg-be-fast-rendering-a-scatter-chart-with-over-10k
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Bernardo Belchior"]

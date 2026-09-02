@@ -4,7 +4,7 @@ title: "Resilience, Observability and Unintended Consequences of Automation"
 slug: resilience-observability-and-unintended-consequences-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

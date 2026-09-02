@@ -4,7 +4,7 @@ title: "The Protocol Behind the Curtain: What MCP Really Exposes"
 slug: the-protocol-behind-the-curtain-what-mcp-really-exposes
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

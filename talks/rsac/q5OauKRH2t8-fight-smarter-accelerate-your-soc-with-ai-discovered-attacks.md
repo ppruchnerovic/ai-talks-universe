@@ -4,7 +4,7 @@ title: "Fight Smarter: Accelerate Your SOC with AI Discovered Attacks"
 slug: fight-smarter-accelerate-your-soc-with-ai-discovered-attacks
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Mike Nichols"]

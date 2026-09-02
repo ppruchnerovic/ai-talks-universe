@@ -4,7 +4,7 @@ title: "Trust at the Edge: Navigating GenAI Innovation and Security - Threat Def
 slug: trust-at-the-edge-navigating-genai-innovation-and-security
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Sandy Dunn"]

@@ -4,7 +4,7 @@ title: "How Foundry integrates with open-source frameworks and tools | DEM333"
 slug: how-foundry-integrates-with-open-source-frameworks-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Facundo Santiago", "Nagkumar Arkalgud"]

@@ -4,7 +4,7 @@ title: "Reimagining employee experience with AI and agents | BRK283"
 slug: reimagining-employee-experience-with-ai-and-agents-brk283
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Christopher Fernandez", "Kirk Gregersen", "Lucy Hitz", "Sunita Khatri", "Karyl Singh"]

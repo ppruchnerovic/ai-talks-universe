@@ -4,7 +4,7 @@ title: "Innovating industries with AI by converging OT & IT data with Hitachi | 
 slug: innovating-industries-with-ai-by-converging-ot-it-data-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dr. Chetan Gupta"]

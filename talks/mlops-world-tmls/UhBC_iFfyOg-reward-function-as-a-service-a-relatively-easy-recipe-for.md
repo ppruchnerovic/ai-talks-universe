@@ -4,7 +4,7 @@ title: "Reward Function As A Service: A (Relatively) Easy Recipe for Training Yo
 slug: reward-function-as-a-service-a-relatively-easy-recipe-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Minimizing Compute Costs: When When Should We Run More Expensive Malware
 slug: minimizing-compute-costs-when-when-should-we-run-more
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

@@ -4,7 +4,7 @@ title: "Multi-agent patterns in VS Code you won't learn from docs | BRK201"
 slug: multi-agent-patterns-in-vs-code-you-won-t-learn-from-docs
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Julia Kasper", "Harald Kirschner", "Burke Holland", "Kent Dodds", "Christian Reddington", "Pierce Boggan"]

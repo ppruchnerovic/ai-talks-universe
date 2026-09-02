@@ -4,7 +4,7 @@ title: "Secure By Design: Architecting cloud and AI workloads from the perspecti
 slug: secure-by-design-architecting-cloud-and-ai-workloads-from
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["N. Godec"]

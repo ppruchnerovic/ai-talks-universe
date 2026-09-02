@@ -4,7 +4,7 @@ title: "Patrick Debois - The Rise of Agent Enablement - AI Native DevCon June 20
 slug: patrick-debois-the-rise-of-agent-enablement-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Patrick Debois"]

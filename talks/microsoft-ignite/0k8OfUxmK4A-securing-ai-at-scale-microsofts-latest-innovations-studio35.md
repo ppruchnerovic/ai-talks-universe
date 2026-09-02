@@ -4,7 +4,7 @@ title: "Securing AI at Scale: Microsoft’s Latest Innovations | STUDIO35"
 slug: securing-ai-at-scale-microsofts-latest-innovations-studio35
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Herain Oberoi"]

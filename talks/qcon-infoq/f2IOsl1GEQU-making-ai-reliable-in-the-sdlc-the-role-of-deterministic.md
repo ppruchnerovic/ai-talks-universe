@@ -4,7 +4,7 @@ title: "Making AI Reliable in the SDLC: The Role of Deterministic Context at Sca
 slug: making-ai-reliable-in-the-sdlc-the-role-of-deterministic
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Tribal Dungeons of Global Shipping: AI Agents at Global Scale — Dmitry
 slug: tribal-dungeons-of-global-shipping-ai-agents-at-global
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dmitry Buykin"]

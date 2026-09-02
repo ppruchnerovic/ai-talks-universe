@@ -4,7 +4,7 @@ title: "The State of AI Powered Search and Retrieval — Frank Liu, MongoDB (pre
 slug: the-state-of-ai-powered-search-and-retrieval-frank-liu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Frank Liu"]

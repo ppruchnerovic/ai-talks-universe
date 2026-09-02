@@ -4,7 +4,7 @@ title: "Exploring Agentic AI Security with OWASP: Insecure Agent Hackathon Apr 1
 slug: exploring-agentic-ai-security-with-owasp-insecure-agent
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

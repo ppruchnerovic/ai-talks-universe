@@ -4,7 +4,7 @@ title: "Unlock efficiency with process intelligence automation & app dev | ODFP9
 slug: unlock-efficiency-with-process-intelligence-automation-app
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andy Hayes"]

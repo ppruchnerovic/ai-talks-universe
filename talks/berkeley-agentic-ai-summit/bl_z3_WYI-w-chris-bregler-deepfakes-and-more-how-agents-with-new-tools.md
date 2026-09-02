@@ -4,7 +4,7 @@ title: "Chris Bregler - Deepfakes and More: How Agents with New Tools Can Mitiga
 slug: chris-bregler-deepfakes-and-more-how-agents-with-new-tools
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Chris Bregler"]

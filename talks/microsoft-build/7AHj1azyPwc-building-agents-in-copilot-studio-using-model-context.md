@@ -4,7 +4,7 @@ title: "Building agents in Copilot Studio using Model Context Protocol open stan
 slug: building-agents-in-copilot-studio-using-model-context
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

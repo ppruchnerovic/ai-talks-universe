@@ -4,7 +4,7 @@ title: "Sarmad Qadri, CEO, LastMile AI: Generative AI Development for Software E
 slug: sarmad-qadri-ceo-lastmile-ai-generative-ai-development-for
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

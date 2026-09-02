@@ -4,7 +4,7 @@ title: "The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Gra
 slug: the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kathryn Grayson Nanz"]

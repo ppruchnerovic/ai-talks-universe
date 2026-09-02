@@ -4,7 +4,7 @@ title: "Modernize ERP through RISE with SAP and the Microsoft Cloud | BRK161"
 slug: modernize-erp-through-rise-with-sap-and-the-microsoft-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Wael Elkabbany", "Hiren Shah"]

@@ -4,7 +4,7 @@ title: "A Typo Led to the Creation of Spring Cloud Contract • Marcin Grzejszcz
 slug: a-typo-led-to-the-creation-of-spring-cloud-contract-marcin
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Marcin Grzejszczak", "Jakub Pilimon"]

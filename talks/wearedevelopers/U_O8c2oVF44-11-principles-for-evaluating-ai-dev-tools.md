@@ -4,7 +4,7 @@ title: "11 Principles for Evaluating AI Dev Tools"
 slug: 11-principles-for-evaluating-ai-dev-tools
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Nnenna Ndukwe"]

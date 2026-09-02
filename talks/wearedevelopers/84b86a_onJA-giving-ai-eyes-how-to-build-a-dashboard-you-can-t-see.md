@@ -4,7 +4,7 @@ title: "Giving AI eyes: How to build a dashboard you can't see"
 slug: giving-ai-eyes-how-to-build-a-dashboard-you-can-t-see
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Josh Hobson"]

@@ -4,7 +4,7 @@ title: "FastCFE- A counterfactual explainer using reinforcement learning"
 slug: fastcfe-a-counterfactual-explainer-using-reinforcement
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

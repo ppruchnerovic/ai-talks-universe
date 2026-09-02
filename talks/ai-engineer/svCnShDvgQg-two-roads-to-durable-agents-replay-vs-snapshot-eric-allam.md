@@ -4,7 +4,7 @@ title: "Two Roads to Durable Agents: Replay vs. Snapshot — Eric Allam, CEO, Tr
 slug: two-roads-to-durable-agents-replay-vs-snapshot-eric-allam
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eric Allam"]

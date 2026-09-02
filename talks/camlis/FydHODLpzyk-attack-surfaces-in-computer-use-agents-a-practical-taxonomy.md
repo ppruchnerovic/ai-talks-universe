@@ -4,7 +4,7 @@ title: "Attack Surfaces in Computer Use Agents: A Practical Taxonomy"
 slug: attack-surfaces-in-computer-use-agents-a-practical-taxonomy
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Daniel Jones"]

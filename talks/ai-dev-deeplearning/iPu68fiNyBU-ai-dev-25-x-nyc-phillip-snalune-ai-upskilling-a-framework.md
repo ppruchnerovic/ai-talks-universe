@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Phillip Snalune: AI Upskilling: A Framework Agnostic P
 slug: ai-dev-25-x-nyc-phillip-snalune-ai-upskilling-a-framework
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Building and Evaluating Agents | Anish Shah, Weights & Biases"
 slug: building-and-evaluating-agents-anish-shah-weights-biases
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Anish Shah"]

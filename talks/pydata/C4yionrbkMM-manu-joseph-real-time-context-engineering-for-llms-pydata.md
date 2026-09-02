@@ -4,7 +4,7 @@ title: "Manu Joseph - Real-Time Context Engineering for LLMs | PyData Amsterdam 
 slug: manu-joseph-real-time-context-engineering-for-llms-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Manu Joseph"]

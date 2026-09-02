@@ -4,7 +4,7 @@ title: "Unlocking business value with data and AI powered finance and tax | ODFP
 slug: unlocking-business-value-with-data-and-ai-powered-finance
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lakshmi Achia"]

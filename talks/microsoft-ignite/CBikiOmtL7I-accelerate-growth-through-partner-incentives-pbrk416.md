@@ -4,7 +4,7 @@ title: "Accelerate Growth through Partner Incentives | PBRK416"
 slug: accelerate-growth-through-partner-incentives-pbrk416
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Adrian Buxton", "Uriel Rootshtain", "Meera Venkatesh"]

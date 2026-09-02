@@ -4,7 +4,7 @@ title: "How Roblox Trains 3D Foundation Models with Ray | Ray Summit 2025"
 slug: how-roblox-trains-3d-foundation-models-with-ray-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

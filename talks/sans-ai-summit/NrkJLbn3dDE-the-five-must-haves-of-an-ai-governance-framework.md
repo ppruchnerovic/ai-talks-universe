@@ -4,7 +4,7 @@ title: "The Five Must-Haves of an AI Governance Framework"
 slug: the-five-must-haves-of-an-ai-governance-framework
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

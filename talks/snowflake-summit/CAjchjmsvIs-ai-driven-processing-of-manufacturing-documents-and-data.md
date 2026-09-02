@@ -4,7 +4,7 @@ title: "AI-Driven Processing Of Manufacturing Documents And Data With Document A
 slug: ai-driven-processing-of-manufacturing-documents-and-data
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

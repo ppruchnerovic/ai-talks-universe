@@ -4,7 +4,7 @@ title: "Sponsored Session: Beyond Code Completion: The Shift of AI Programming f
 slug: sponsored-session-beyond-code-completion-the-shift-of-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []

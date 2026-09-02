@@ -4,7 +4,7 @@ title: "Top 3 AI use cases shaping the future of customer experience | ODSP1425"
 slug: top-3-ai-use-cases-shaping-the-future-of-customer
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jake Showalter"]

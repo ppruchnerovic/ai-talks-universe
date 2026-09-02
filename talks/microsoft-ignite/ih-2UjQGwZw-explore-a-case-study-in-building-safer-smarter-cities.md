@@ -4,7 +4,7 @@ title: "Explore a case study in building safer smarter cities | STUDIOSP65"
 slug: explore-a-case-study-in-building-safer-smarter-cities
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Andrew Hester"]

@@ -4,7 +4,7 @@ title: "Augmenting Large Language Models with Chemistry Tools | Scientific Machi
 slug: augmenting-large-language-models-with-chemistry-tools
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Andres M Bran"]

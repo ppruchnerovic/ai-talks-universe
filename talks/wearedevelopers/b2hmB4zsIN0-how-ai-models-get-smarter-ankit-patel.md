@@ -4,7 +4,7 @@ title: "How AI Models Get Smarter - Ankit Patel"
 slug: how-ai-models-get-smarter-ankit-patel
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ankit Patel"]

@@ -4,7 +4,7 @@ title: "AI for nurses: Restoring the human connection with Dragon Copilot | BRK3
 slug: ai-for-nurses-restoring-the-human-connection-with-dragon
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Darren Batara", "Umesh Rustogi"]

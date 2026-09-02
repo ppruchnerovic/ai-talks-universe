@@ -4,7 +4,7 @@ title: "Fireside Chat: Quantum as part of the AI Stack. A Conversation with CEO 
 slug: fireside-chat-quantum-as-part-of-the-ai-stack-a
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

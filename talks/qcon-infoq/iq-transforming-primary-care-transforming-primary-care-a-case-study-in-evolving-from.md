@@ -4,7 +4,7 @@ title: "Transforming Primary Care: a Case Study in Evolving from Start-Up to Sca
 slug: transforming-primary-care-a-case-study-in-evolving-from
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Leander Vanderbijl"]

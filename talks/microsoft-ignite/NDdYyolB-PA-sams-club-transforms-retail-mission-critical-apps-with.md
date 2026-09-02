@@ -4,7 +4,7 @@ title: "Sam’s Club transforms retail mission-critical apps with Azure | BRK155
 slug: sams-club-transforms-retail-mission-critical-apps-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gautam Chandra", "Justine Cocchi"]

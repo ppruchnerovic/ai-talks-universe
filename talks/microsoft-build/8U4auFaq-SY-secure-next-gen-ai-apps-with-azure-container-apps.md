@@ -4,7 +4,7 @@ title: "Secure Next-Gen AI Apps with Azure Container Apps Serverless GPUs | BRK1
 slug: secure-next-gen-ai-apps-with-azure-container-apps
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

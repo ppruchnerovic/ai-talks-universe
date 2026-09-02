@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Deep Dive into Deloitte's Amazon Neptune GenAI Secu
 slug: aws-re-invent-2025-deep-dive-into-deloitte-s-amazon-neptune
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

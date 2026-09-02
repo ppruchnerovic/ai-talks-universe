@@ -4,7 +4,7 @@ title: "Sourav Saha - Lessons in optimizing a large-scale pandas application usi
 slug: sourav-saha-lessons-in-optimizing-a-large-scale-pandas
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sourav Saha"]

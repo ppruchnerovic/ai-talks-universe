@@ -4,7 +4,7 @@ title: "Why Context Beats Model Choice for AI Agents"
 slug: why-context-beats-model-choice-for-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

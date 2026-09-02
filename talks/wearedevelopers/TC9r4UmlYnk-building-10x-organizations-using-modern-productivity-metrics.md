@@ -4,7 +4,7 @@ title: "Building 10x Organizations Using Modern Productivity Metrics"
 slug: building-10x-organizations-using-modern-productivity-metrics
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Justin Reock"]

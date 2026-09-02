@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Transforming from SaaS to multi-tenant agentic SaaS
 slug: aws-re-invent-2025-transforming-from-saas-to-multi-tenant
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

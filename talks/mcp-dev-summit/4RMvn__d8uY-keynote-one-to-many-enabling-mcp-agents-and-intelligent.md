@@ -4,7 +4,7 @@ title: "Keynote: One-To-Many: Enabling MCP, Agents, and Intelligent Systems... O
 slug: keynote-one-to-many-enabling-mcp-agents-and-intelligent
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - FinOps 3.0: Cost Intelligence for the AI Era (AIM26
 slug: aws-re-invent-2025-finops-3-0-cost-intelligence-for-the-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

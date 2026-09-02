@@ -4,7 +4,7 @@ title: "Partner: Innovate with Low-Code AI and agents | PBRK326"
 slug: partner-innovate-with-low-code-ai-and-agents-pbrk326
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Courtney Lanza", "Paula Nobre Santos", "Saurabh Swarup"]

@@ -4,7 +4,7 @@ title: "From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale 
 slug: from-skeptic-to-superpower-realworld-ai-coding-workflows
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mario Toffia", "Priyanka Sharma"]

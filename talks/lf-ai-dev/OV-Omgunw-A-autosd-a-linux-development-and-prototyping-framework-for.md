@@ -4,7 +4,7 @@ title: "AutoSD: A Linux Development and Prototyping Framework for... Alessandro 
 slug: autosd-a-linux-development-and-prototyping-framework-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []

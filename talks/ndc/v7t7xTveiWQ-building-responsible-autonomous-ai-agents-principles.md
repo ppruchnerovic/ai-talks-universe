@@ -4,7 +4,7 @@ title: "Building Responsible Autonomous AI Agents: Principles, Patterns, and Pra
 slug: building-responsible-autonomous-ai-agents-principles
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Will Velida"]

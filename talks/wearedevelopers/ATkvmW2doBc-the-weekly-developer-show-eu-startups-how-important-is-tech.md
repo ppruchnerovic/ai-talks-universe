@@ -4,7 +4,7 @@ title: "The weekly developer show: EU Startups, How Important is Tech Regulation
 slug: the-weekly-developer-show-eu-startups-how-important-is-tech
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

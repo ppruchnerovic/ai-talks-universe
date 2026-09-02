@@ -4,7 +4,7 @@ title: "Completing the Rewrite from Hell: Five Years of Technical Debt and How W
 slug: completing-the-rewrite-from-hell-five-years-of-technical
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aaron Stannard"]

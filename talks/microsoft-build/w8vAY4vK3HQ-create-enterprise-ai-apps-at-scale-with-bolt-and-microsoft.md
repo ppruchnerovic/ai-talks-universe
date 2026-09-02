@@ -4,7 +4,7 @@ title: "Create enterprise AI apps at scale with Bolt and Microsoft | ODSP940"
 slug: create-enterprise-ai-apps-at-scale-with-bolt-and-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["William Sayer", "Joe Keyes"]

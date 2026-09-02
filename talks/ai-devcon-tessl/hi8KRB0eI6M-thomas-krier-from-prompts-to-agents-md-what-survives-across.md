@@ -4,7 +4,7 @@ title: "Thomas Krier - From Prompts to AGENTS.md: What Survives Across Thousands
 slug: thomas-krier-from-prompts-to-agents-md-what-survives-across
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Thomas Krier"]

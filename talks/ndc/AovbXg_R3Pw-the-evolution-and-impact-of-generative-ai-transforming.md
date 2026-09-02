@@ -4,7 +4,7 @@ title: "The Evolution and Impact of Generative AI: Transforming Creativity and O
 slug: the-evolution-and-impact-of-generative-ai-transforming
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []

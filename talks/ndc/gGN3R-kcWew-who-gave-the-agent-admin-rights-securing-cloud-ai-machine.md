@@ -4,7 +4,7 @@ title: "Who Gave the Agent Admin Rights?! Securing Cloud & AI Machine Identities
 slug: who-gave-the-agent-admin-rights-securing-cloud-ai-machine
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Bodhisattva Das"]

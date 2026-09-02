@@ -4,7 +4,7 @@ title: "AI-Enabled Organisations: From Strategy to Practice"
 slug: ai-enabled-organisations-from-strategy-to-practice
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Benedikt Höck", "Chris Daden", "Lars Rogge", "Damiana Casile"]

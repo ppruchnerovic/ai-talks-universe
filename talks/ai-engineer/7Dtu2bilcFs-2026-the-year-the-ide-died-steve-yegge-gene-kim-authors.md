@@ -4,7 +4,7 @@ title: "2026: The Year The IDE Died — Steve Yegge & Gene Kim, Authors, Vibe Co
 slug: 2026-the-year-the-ide-died-steve-yegge-gene-kim-authors
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Steve Yegge", "Gene Kim"]

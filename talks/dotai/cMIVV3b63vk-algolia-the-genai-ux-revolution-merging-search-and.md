@@ -4,7 +4,7 @@ title: "Algolia & The GenAI UX Revolution: Merging Search and Conversation at do
 slug: algolia-the-genai-ux-revolution-merging-search-and
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2026
 speakers: ["Xavier Grand"]

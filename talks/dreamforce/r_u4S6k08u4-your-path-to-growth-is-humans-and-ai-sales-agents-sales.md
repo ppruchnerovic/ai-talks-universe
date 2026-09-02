@@ -4,7 +4,7 @@ title: "Your Path to Growth Is Humans and AI Sales Agents | Sales Keynote, Dream
 slug: your-path-to-growth-is-humans-and-ai-sales-agents-sales
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

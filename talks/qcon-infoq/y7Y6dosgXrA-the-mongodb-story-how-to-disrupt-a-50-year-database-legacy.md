@@ -4,7 +4,7 @@ title: "The MongoDB Story: How to Disrupt a 50-Year Database Legacy"
 slug: the-mongodb-story-how-to-disrupt-a-50-year-database-legacy
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "KV Cache-Aware Routing and P/D Disaggregation on Kubernetes — Yuchen F
 slug: kv-cache-aware-routing-and-p-d-disaggregation-on-kubernetes
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Yuchen Fama", "Ashish Kamra"]

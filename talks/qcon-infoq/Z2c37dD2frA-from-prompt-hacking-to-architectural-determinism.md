@@ -4,7 +4,7 @@ title: "From Prompt Hacking to Architectural Determinism: Engineering Reliable G
 slug: from-prompt-hacking-to-architectural-determinism
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "The New Org Chart: When AI Joins the Workforce"
 slug: the-new-org-chart-when-ai-joins-the-workforce
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Avani Prabhakar", "Benjamin Mann", "Nils Berger", "Damiana Casile"]

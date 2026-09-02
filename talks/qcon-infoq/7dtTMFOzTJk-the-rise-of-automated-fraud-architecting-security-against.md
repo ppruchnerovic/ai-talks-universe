@@ -4,7 +4,7 @@ title: "The Rise of Automated Fraud: Architecting Security Against \"AI Slop\""
 slug: the-rise-of-automated-fraud-architecting-security-against
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

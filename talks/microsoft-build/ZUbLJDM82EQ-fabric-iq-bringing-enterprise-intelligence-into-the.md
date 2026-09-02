@@ -4,7 +4,7 @@ title: "Fabric IQ: Bringing enterprise intelligence into the developer workflow 
 slug: fabric-iq-bringing-enterprise-intelligence-into-the
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Yitzhak Kesselman", "Tessa Kloster"]

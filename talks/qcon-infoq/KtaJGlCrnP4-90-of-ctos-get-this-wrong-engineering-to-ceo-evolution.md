@@ -4,7 +4,7 @@ title: "90% of CTOs Get This WRONG: Engineering to CEO Evolution"
 slug: 90-of-ctos-get-this-wrong-engineering-to-ceo-evolution
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

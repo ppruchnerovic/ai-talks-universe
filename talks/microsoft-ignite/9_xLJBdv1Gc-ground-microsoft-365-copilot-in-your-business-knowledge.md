@@ -4,7 +4,7 @@ title: "Ground Microsoft 365 Copilot in your business knowledge | BRK275"
 slug: ground-microsoft-365-copilot-in-your-business-knowledge
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mike Bassani", "Jenn Cockrell"]

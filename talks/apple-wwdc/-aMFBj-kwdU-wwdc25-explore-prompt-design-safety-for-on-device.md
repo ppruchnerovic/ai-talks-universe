@@ -4,7 +4,7 @@ title: "WWDC25: Explore prompt design & safety for on-device foundation models |
 slug: wwdc25-explore-prompt-design-safety-for-on-device
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []

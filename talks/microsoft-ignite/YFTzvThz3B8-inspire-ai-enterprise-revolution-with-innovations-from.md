@@ -4,7 +4,7 @@ title: "Inspire AI enterprise revolution with innovations from NVIDIA startups |
 slug: inspire-ai-enterprise-revolution-with-innovations-from
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrew Gostine", "Vibhor Gupta", "Jennifer Hoskins", "Lauren Nemeth"]

@@ -4,7 +4,7 @@ title: "Back to the Roots: Testing in the Age of AI"
 slug: back-to-the-roots-testing-in-the-age-of-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jakub Janczyk"]

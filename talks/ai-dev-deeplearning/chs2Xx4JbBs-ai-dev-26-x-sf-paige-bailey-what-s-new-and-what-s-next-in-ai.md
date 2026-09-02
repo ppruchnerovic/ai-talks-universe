@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Paige Bailey: What's New and What's Next in AI"
 slug: ai-dev-26-x-sf-paige-bailey-what-s-new-and-what-s-next-in-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

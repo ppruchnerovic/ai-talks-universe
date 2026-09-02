@@ -4,7 +4,7 @@ title: "More Than a Vibe: AI-Driven SQL That Actually Works"
 slug: more-than-a-vibe-ai-driven-sql-that-actually-works
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jacob Matson"]

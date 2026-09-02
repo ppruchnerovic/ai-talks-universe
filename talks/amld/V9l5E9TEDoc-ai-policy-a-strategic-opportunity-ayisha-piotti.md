@@ -4,7 +4,7 @@ title: "AI Policy – a strategic opportunity | Ayisha Piotti"
 slug: ai-policy-a-strategic-opportunity-ayisha-piotti
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Ayisha Piotti"]

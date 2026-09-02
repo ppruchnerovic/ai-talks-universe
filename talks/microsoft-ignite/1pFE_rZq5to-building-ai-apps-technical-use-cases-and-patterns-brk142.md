@@ -4,7 +4,7 @@ title: "Building AI apps: Technical use cases and patterns | BRK142"
 slug: building-ai-apps-technical-use-cases-and-patterns-brk142
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dan Gartner", "Devanshi Joshi", "Amanda Whaley"]

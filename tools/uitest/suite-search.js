@@ -60,8 +60,11 @@ L.suite('search', async browser => {
   await L.search(page, 'agent');
   const agentMarks = await page.$$eval('#results mark',
     ms => [...new Set(ms.map(m => m.textContent.toLowerCase()))]);
+  // A hyphenated compound ("multi-agent") is marked whole when one of its
+  // parts matches — that is the highlighter's rule — so the test is that
+  // some part of every mark starts with the stem, never a bare "management".
   L.check('a prefix hit is highlighted at the stem',
-    agentMarks.every(m => m.startsWith('agent')), agentMarks.join(','));
+    agentMarks.every(m => m.split(/[.\-]+/).some(p => p.startsWith('agent'))), agentMarks.join(','));
 
   // ---------- stemming ----------
   // talks.db tokenises with Porter; the browser index is keyed on the same
@@ -113,8 +116,7 @@ L.suite('search', async browser => {
   const confHits = await count(confName);
   L.check(`a conference name ("${confName}") returns hits`, confHits > 0, `${confHits}`);
 
-  const category = [...new Set(meta.talks.map(t => t.g).filter(Boolean))][0];
-  L.check(`a category ("${category}") returns hits`, await count(category) > 0);
+  // The conference type is a filter, not a searched field — see suite-filters.
 
   const tagged = meta.talks.find(t => (t.a || []).length);
   if (tagged) {

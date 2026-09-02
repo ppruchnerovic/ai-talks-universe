@@ -4,7 +4,7 @@ title: "Nobody Cares It’s Blockchain: How Lugano Made Digital Tokens Mainstrea
 slug: nobody-cares-its-blockchain-how-lugano-made-digital-tokens
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["S. Gamba", "G. Perletti"]

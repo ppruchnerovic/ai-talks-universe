@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Human Agency in AI: Balancing Automation, Oversight
 slug: aws-re-invent-2025-human-agency-in-ai-balancing-automation
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

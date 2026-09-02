@@ -4,7 +4,7 @@ title: "Countering China's “Typhoon” Threats Targeting US Critical Infrastru
 slug: countering-china-s-typhoon-threats-targeting-us-critical
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []

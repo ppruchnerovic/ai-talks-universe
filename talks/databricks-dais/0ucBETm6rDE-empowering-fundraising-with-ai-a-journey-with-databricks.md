@@ -4,7 +4,7 @@ title: "Empowering Fundraising With AI: A Journey With Databricks Mosaic AI"
 slug: empowering-fundraising-with-ai-a-journey-with-databricks
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

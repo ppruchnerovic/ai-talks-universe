@@ -4,7 +4,7 @@ title: "Intro to Agent Builder"
 slug: intro-to-agent-builder
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []

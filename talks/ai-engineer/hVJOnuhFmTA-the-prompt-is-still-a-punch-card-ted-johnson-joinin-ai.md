@@ -4,7 +4,7 @@ title: "The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI"
 slug: the-prompt-is-still-a-punch-card-ted-johnson-joinin-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ted Johnson"]

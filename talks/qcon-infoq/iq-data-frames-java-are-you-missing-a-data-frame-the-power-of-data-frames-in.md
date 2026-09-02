@@ -4,7 +4,7 @@ title: "Are You Missing a Data Frame? The Power of Data Frames in Java"
 slug: are-you-missing-a-data-frame-the-power-of-data-frames-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Vladimir Zakharov"]

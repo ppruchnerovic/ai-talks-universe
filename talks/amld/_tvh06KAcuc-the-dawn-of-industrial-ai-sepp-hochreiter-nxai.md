@@ -4,7 +4,7 @@ title: "The Dawn of Industrial AI / Sepp Hochreiter, NXAI"
 slug: the-dawn-of-industrial-ai-sepp-hochreiter-nxai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2025
 speakers: []

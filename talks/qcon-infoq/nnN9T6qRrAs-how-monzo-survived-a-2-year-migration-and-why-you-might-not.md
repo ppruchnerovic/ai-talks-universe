@@ -4,7 +4,7 @@ title: "How Monzo Survived a 2-Year Migration (and Why You Might Not)"
 slug: how-monzo-survived-a-2-year-migration-and-why-you-might-not
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

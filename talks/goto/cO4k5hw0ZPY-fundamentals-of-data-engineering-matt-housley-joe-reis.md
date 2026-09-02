@@ -4,7 +4,7 @@ title: "Fundamentals of Data Engineering • Matt Housley & Joe Reis"
 slug: fundamentals-of-data-engineering-matt-housley-joe-reis
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Matt Housley", "Joe Reis"]

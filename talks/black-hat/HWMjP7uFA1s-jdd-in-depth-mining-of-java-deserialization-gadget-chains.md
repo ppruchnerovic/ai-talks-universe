@@ -4,7 +4,7 @@ title: "JDD: In-depth Mining of Java Deserialization Gadget Chains"
 slug: jdd-in-depth-mining-of-java-deserialization-gadget-chains
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

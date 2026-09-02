@@ -4,7 +4,7 @@ title: "From Code to Cause: Building a Sustainable Future with Tech"
 slug: from-code-to-cause-building-a-sustainable-future-with-tech
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

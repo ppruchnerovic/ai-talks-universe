@@ -4,7 +4,7 @@ title: "Smart API sandboxes: why? what? how? by Laurent Broudoux"
 slug: smart-api-sandboxes-why-what-how-by-laurent-broudoux
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Laurent Broudoux"]

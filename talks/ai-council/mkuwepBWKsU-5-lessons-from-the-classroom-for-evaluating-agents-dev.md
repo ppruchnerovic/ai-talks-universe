@@ -4,7 +4,7 @@ title: "5 Lessons from the Classroom for Evaluating Agents | Dev Interrupted"
 slug: 5-lessons-from-the-classroom-for-evaluating-agents-dev
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

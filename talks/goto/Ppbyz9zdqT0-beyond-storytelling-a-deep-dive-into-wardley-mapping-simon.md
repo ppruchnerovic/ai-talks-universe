@@ -4,7 +4,7 @@ title: "Beyond Storytelling: A Deep Dive into Wardley Mapping • Simon Wardley 
 slug: beyond-storytelling-a-deep-dive-into-wardley-mapping-simon
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Simon Wardley"]

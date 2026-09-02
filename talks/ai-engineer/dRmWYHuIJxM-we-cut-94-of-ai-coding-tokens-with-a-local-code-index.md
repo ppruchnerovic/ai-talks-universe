@@ -4,7 +4,7 @@ title: "We Cut 94% of AI Coding Tokens With a Local Code Index - Rajkumar Sakthi
 slug: we-cut-94-of-ai-coding-tokens-with-a-local-code-index
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rajkumar Sakthivel"]

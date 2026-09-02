@@ -4,7 +4,7 @@ title: "Build Partner Advantage: Drive Key AI Use-Cases with Azure Tech Stack | 
 slug: build-partner-advantage-drive-key-ai-use-cases-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ashley Asdourian", "Tim Denley", "Don Scott"]

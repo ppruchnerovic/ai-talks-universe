@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Tyler Slaton: Build User Facing Agentic Applications w
 slug: ai-dev-25-x-nyc-tyler-slaton-build-user-facing-agentic
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

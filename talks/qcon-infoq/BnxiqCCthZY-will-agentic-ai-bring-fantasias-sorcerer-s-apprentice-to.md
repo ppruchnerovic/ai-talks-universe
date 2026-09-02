@@ -4,7 +4,7 @@ title: "Will Agentic AI Bring Fantasia’s Sorcerer's Apprentice to Life?: A Con
 slug: will-agentic-ai-bring-fantasias-sorcerer-s-apprentice-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

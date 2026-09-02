@@ -4,7 +4,7 @@ title: "The End of Apps — Kitze, Sizzy.co"
 slug: the-end-of-apps-kitze-sizzy-co
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

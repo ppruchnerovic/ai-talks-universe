@@ -4,7 +4,7 @@ title: "State of the Art of Platform Engineering • Abby Bangser & Charles Humb
 slug: state-of-the-art-of-platform-engineering-abby-bangser
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Abby Bangser"]

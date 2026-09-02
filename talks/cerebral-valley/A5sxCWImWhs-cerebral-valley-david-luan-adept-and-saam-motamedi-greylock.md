@@ -4,7 +4,7 @@ title: "Cerebral Valley: David Luan (Adept) and Saam Motamedi (Greylock) with Er
 slug: cerebral-valley-david-luan-adept-and-saam-motamedi-greylock
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []

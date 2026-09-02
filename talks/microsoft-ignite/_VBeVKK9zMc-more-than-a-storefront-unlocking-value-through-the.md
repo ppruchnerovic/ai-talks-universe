@@ -4,7 +4,7 @@ title: "More than a storefront unlocking value through the marketplace | BRK125"
 slug: more-than-a-storefront-unlocking-value-through-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Anthony Joseph", "Will Kearl", "Jatin Suri", "Diego Tamburini"]

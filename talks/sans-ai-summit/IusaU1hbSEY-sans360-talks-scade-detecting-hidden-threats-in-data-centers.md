@@ -4,7 +4,7 @@ title: "SANS360 Talks | SCADE Detecting Hidden Threats in Data Centers"
 slug: sans360-talks-scade-detecting-hidden-threats-in-data-centers
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

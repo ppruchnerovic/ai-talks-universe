@@ -4,7 +4,7 @@ title: "Secure access for AI agents with Microsoft Entra | BRK265"
 slug: secure-access-for-ai-agents-with-microsoft-entra-brk265
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alex Simons", "Sharon Sandhu", "Ehud Itshaki"]

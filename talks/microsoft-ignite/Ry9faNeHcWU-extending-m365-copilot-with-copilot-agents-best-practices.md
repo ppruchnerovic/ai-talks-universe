@@ -4,7 +4,7 @@ title: "Extending M365 Copilot with Copilot agents: Best practices | BRK170"
 slug: extending-m365-copilot-with-copilot-agents-best-practices
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Aaron Purcell", "Dewain Robinson", "Hazim Sharafeldin"]

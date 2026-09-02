@@ -4,7 +4,7 @@ title: "Shipping custom models at scale from fine-tuning to inference | BRK234"
 slug: shipping-custom-models-at-scale-from-fine-tuning-to
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rob Ferguson", "Daniel Han", "Mark Saroufin"]

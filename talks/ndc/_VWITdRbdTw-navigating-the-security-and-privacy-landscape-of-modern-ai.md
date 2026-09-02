@@ -4,7 +4,7 @@ title: "Navigating the Security and Privacy Landscape of Modern AI - Vera Rimmer
 slug: navigating-the-security-and-privacy-landscape-of-modern-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Vera Rimmer"]

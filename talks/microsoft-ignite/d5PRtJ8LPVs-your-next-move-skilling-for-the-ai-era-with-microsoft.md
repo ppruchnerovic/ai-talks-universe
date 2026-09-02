@@ -4,7 +4,7 @@ title: "Your Next Move: Skilling for the AI Era with Microsoft | STUDIO52"
 slug: your-next-move-skilling-for-the-ai-era-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jeana Jorgensen"]

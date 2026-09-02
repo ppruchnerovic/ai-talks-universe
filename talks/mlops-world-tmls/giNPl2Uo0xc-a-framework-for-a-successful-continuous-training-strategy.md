@@ -4,7 +4,7 @@ title: "A Framework for a Successful Continuous Training Strategy"
 slug: a-framework-for-a-successful-continuous-training-strategy
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Or Itzary"]

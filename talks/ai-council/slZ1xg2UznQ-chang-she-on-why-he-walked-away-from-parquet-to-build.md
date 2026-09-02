@@ -4,7 +4,7 @@ title: "Chang She on Why He Walked Away from Parquet to Build LanceDB"
 slug: chang-she-on-why-he-walked-away-from-parquet-to-build
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Transform transportation with AI drive efficiency and satisfaction | ODF
 slug: transform-transportation-with-ai-drive-efficiency-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sean Morris", "Andrea Rosales"]

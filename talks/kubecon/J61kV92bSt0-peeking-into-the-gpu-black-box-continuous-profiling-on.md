@@ -4,7 +4,7 @@ title: "Peeking Into the GPU Black Box: Continuous Profiling on Kubernetes With 
 slug: peeking-into-the-gpu-black-box-continuous-profiling-on
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Zahari Dichev"]

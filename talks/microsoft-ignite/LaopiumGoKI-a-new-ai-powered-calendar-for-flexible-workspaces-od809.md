@@ -4,7 +4,7 @@ title: "A new AI powered calendar for flexible workspaces | OD809"
 slug: a-new-ai-powered-calendar-for-flexible-workspaces-od809
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Grimaldi", "Vani Soff"]

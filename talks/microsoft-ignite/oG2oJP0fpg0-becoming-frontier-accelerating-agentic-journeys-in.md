@@ -4,7 +4,7 @@ title: "Becoming frontier: Accelerating agentic journeys in financial services |
 slug: becoming-frontier-accelerating-agentic-journeys-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Adrian Crockett", "Jared Lambert", "Hemanth Sundararaj", "Adam Wheat"]

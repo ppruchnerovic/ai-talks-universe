@@ -4,7 +4,7 @@ title: "Innovative Energy Solutions: Gen AI and Copilot in Action | BRK255"
 slug: innovative-energy-solutions-gen-ai-and-copilot-in-action
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Todd Nelson", "Vishal Sabharwal"]

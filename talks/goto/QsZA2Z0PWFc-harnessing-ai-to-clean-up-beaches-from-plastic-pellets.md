@@ -4,7 +4,7 @@ title: "Harnessing AI to Clean up Beaches from Plastic Pellets • Signe Simonse
 slug: harnessing-ai-to-clean-up-beaches-from-plastic-pellets
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Signe Simonsen", "Julian Wood"]

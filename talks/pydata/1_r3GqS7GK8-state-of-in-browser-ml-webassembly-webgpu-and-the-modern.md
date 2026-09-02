@@ -4,7 +4,7 @@ title: "State of In-Browser ML: WebAssembly, WebGPU, and the Modern Stack [PyCon
 slug: state-of-in-browser-ml-webassembly-webgpu-and-the-modern
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Oleh Kostromin"]

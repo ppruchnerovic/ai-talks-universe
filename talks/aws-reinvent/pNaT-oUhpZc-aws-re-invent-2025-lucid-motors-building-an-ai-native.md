@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Lucid Motors: Building an AI-native Finance Functio
 slug: aws-re-invent-2025-lucid-motors-building-an-ai-native
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

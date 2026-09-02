@@ -4,7 +4,7 @@ title: "Inside Mercedes-Benz: How CIO Katrin Lehmann is Empowering 5k+ Developer
 slug: inside-mercedes-benz-how-cio-katrin-lehmann-is-empowering
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

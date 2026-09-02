@@ -4,7 +4,7 @@ title: "Turn foundation models into production AI on Microsoft Foundry | BRKSP91
 slug: turn-foundation-models-into-production-ai-on-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vivek Chauhan", "Jetashree Ravi", "Alicia Frame"]

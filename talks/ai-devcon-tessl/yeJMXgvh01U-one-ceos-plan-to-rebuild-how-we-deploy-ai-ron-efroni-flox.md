@@ -4,7 +4,7 @@ title: "One CEO’s Plan to Rebuild How We Deploy AI | Ron Efroni & Flox"
 slug: one-ceos-plan-to-rebuild-how-we-deploy-ai-ron-efroni-flox
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

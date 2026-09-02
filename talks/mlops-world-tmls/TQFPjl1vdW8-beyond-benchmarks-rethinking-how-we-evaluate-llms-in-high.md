@@ -4,7 +4,7 @@ title: "Beyond Benchmarks: Rethinking How We Evaluate LLMs in High-Stakes Enviro
 slug: beyond-benchmarks-rethinking-how-we-evaluate-llms-in-high
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

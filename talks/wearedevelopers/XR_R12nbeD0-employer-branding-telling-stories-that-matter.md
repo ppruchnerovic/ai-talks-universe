@@ -4,7 +4,7 @@ title: "Employer Branding: Telling Stories That Matter"
 slug: employer-branding-telling-stories-that-matter
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

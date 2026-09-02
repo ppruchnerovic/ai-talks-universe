@@ -4,7 +4,7 @@ title: "Create apps with M365 Copilot and App Builder | BRK275"
 slug: create-apps-with-m365-copilot-and-app-builder-brk275
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Emma Cooper", "Clay Wesener"]

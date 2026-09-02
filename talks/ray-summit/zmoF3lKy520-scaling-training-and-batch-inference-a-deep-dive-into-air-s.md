@@ -4,7 +4,7 @@ title: "Scaling Training and Batch Inference- A Deep Dive into AIR's Data Proces
 slug: scaling-training-and-batch-inference-a-deep-dive-into-air-s
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

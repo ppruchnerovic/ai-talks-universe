@@ -4,7 +4,7 @@ title: "AI in GTM at Notion — Flora Liu"
 slug: ai-in-gtm-at-notion-flora-liu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Flora Liu"]

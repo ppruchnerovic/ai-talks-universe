@@ -4,7 +4,7 @@ title: "Team Temperature: How to Control High Engagement, Prevent Burnout and ..
 slug: team-temperature-how-to-control-high-engagement-prevent
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []

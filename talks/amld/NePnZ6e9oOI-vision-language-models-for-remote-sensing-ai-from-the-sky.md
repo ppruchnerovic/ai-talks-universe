@@ -4,7 +4,7 @@ title: "Vision-language models for remote sensing | AI from the Sky | Valerie Ze
 slug: vision-language-models-for-remote-sensing-ai-from-the-sky
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Valerie Zermatten"]

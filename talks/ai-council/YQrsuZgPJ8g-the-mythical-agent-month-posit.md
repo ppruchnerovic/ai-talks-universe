@@ -4,7 +4,7 @@ title: "The Mythical Agent-Month | Posit"
 slug: the-mythical-agent-month-posit
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

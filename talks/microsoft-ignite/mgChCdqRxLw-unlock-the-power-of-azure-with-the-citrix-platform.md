@@ -4,7 +4,7 @@ title: "Unlock the power of Azure with the Citrix platform multiplier | BRKSP466
 slug: unlock-the-power-of-azure-with-the-citrix-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shawn Bass"]

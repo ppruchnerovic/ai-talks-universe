@@ -4,7 +4,7 @@ title: "Humans in the Loop: Engineering Leadership in a Chaotic Industry"
 slug: humans-in-the-loop-engineering-leadership-in-a-chaotic
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Michelle Brush"]

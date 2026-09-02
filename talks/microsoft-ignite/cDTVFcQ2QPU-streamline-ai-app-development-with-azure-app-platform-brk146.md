@@ -4,7 +4,7 @@ title: "Streamline AI App development with Azure App Platform | BRK146"
 slug: streamline-ai-app-development-with-azure-app-platform-brk146
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Scott Hunter", "Abdul Rehman", "Anthony Shaw", "Naga Surendran"]

@@ -4,7 +4,7 @@ title: "AI and Agent Observability in Azure AI Foundry and Azure Monitor | BRK16
 slug: ai-and-agent-observability-in-azure-ai-foundry-and-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

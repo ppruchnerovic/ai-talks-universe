@@ -4,7 +4,7 @@ title: "The Form of AI"
 slug: the-form-of-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Savannah Kunovsky"]

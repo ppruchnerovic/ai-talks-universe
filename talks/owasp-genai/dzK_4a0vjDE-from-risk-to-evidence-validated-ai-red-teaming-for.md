@@ -4,7 +4,7 @@ title: "From Risk to Evidence Validated AI Red Teaming for Regulated Environment
 slug: from-risk-to-evidence-validated-ai-red-teaming-for
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["John Sotiropoulos"]

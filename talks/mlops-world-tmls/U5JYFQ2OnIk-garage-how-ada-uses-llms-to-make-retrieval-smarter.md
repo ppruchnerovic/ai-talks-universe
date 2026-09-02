@@ -4,7 +4,7 @@ title: "GARAGe: How ADA Uses LLMs to Make Retrieval Smarter"
 slug: garage-how-ada-uses-llms-to-make-retrieval-smarter
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

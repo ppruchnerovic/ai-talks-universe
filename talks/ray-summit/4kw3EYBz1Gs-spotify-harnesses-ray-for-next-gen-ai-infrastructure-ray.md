@@ -4,7 +4,7 @@ title: "Spotify Harnesses Ray for Next-Gen AI Infrastructure | Ray Summit 2024"
 slug: spotify-harnesses-ray-for-next-gen-ai-infrastructure-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Local AI development with Foundry Local and .NET Aspire | DEM520"
 slug: local-ai-development-with-foundry-local-and-net-aspire
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

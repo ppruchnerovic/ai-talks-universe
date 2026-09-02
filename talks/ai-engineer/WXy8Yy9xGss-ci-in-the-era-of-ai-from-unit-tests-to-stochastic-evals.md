@@ -4,7 +4,7 @@ title: "CI in the Era of AI: From Unit Tests to Stochastic Evals — Nathan Sobo
 slug: ci-in-the-era-of-ai-from-unit-tests-to-stochastic-evals
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nathan Sobo"]

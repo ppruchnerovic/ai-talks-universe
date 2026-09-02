@@ -4,7 +4,7 @@ title: "GF - You’ve Gained +2 Perception! Leveling Up Your Red Team with a New
 slug: gf-youve-gained-2-perception-leveling-up-your-red-team-with
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

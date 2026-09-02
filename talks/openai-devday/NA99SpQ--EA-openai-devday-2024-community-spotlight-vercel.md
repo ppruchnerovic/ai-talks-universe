@@ -4,7 +4,7 @@ title: "OpenAI DevDay 2024 | Community Spotlight | Vercel"
 slug: openai-devday-2024-community-spotlight-vercel
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2024"
 year: 2024
 speakers: []

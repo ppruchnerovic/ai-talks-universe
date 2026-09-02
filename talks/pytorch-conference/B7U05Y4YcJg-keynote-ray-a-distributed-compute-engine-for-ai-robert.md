@@ -4,7 +4,7 @@ title: "Keynote: Ray: A Distributed Compute Engine for AI - Robert Nishihara & I
 slug: keynote-ray-a-distributed-compute-engine-for-ai-robert
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Robert Nishihara", "Ion Stoica"]

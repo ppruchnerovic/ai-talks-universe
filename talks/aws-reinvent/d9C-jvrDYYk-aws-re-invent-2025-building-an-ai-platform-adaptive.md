@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building an AI platform: Adaptive teaching to insti
 slug: aws-re-invent-2025-building-an-ai-platform-adaptive
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

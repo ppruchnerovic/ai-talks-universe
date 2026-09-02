@@ -4,7 +4,7 @@ title: "The fundamentals of Agentic Coding (AKA Vibe Coding) - Theodor René Car
 slug: the-fundamentals-of-agentic-coding-aka-vibe-coding-theodor
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Theodor René Carlsen"]

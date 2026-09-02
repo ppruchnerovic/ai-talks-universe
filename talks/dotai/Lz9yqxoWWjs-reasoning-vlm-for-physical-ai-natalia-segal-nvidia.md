@@ -4,7 +4,7 @@ title: "Reasoning VLM for Physical AI - Natalia Segal - NVIDIA"
 slug: reasoning-vlm-for-physical-ai-natalia-segal-nvidia
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Natalia Segal"]

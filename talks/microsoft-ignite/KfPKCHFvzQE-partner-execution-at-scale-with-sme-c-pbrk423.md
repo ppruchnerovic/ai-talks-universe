@@ -4,7 +4,7 @@ title: "Partner Execution at scale with SME&C | PBRK423"
 slug: partner-execution-at-scale-with-sme-c-pbrk423
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alexandra Zagury", "Gustavo Fuchs", "Harpreet Girn", "Bart van der Knaap"]

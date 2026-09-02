@@ -4,7 +4,7 @@ title: "A million agents is all you need | BRKSP460"
 slug: a-million-agents-is-all-you-need-brksp460
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Risto Miikkulainen"]

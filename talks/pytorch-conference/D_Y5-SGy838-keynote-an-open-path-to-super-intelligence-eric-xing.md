@@ -4,7 +4,7 @@ title: "Keynote: An OPEN Path to Super Intelligence - Eric Xing"
 slug: keynote-an-open-path-to-super-intelligence-eric-xing
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Eric Xing"]

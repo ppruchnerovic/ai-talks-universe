@@ -4,7 +4,7 @@ title: "Effective agent design patterns in production — Laurie Voss, LlamaInde
 slug: effective-agent-design-patterns-in-production-laurie-voss
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Laurie Voss"]

@@ -4,7 +4,7 @@ title: "Backing the future of innovation | LIVE110"
 slug: backing-the-future-of-innovation-live110
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Charles Lamanna"]

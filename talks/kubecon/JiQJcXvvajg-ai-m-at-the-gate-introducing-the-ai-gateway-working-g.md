@@ -4,7 +4,7 @@ title: "AI'm at the Gate! Introducing the AI Gateway Working G... Morgan Foster,
 slug: ai-m-at-the-gate-introducing-the-ai-gateway-working-g
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

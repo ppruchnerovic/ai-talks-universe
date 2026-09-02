@@ -4,7 +4,7 @@ title: "The Eyes Are The (Context) Window to The Soul: How Windsurf Gets to Know
 slug: the-eyes-are-the-context-window-to-the-soul-how-windsurf
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sam Fertig"]

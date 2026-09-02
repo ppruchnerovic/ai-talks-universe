@@ -4,7 +4,7 @@ title: "Your Agent Failed in Prod. Good Luck Reproducing It. - Tisha Chawla & Su
 slug: your-agent-failed-in-prod-good-luck-reproducing-it-tisha
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tisha Chawla"]

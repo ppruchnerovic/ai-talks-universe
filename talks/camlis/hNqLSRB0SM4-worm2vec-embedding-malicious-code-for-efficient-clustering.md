@@ -4,7 +4,7 @@ title: "Worm2Vec: Embedding Malicious Code for Efficient Clustering & Classifica
 slug: worm2vec-embedding-malicious-code-for-efficient-clustering
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

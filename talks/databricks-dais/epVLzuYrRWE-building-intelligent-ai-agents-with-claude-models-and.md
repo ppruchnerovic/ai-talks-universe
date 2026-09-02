@@ -4,7 +4,7 @@ title: "Building Intelligent AI Agents With Claude Models and Databricks Mosaic 
 slug: building-intelligent-ai-agents-with-claude-models-and
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

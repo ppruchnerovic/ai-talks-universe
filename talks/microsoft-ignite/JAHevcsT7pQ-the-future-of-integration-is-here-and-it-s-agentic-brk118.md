@@ -4,7 +4,7 @@ title: "The future of integration is here and it's agentic | BRK118"
 slug: the-future-of-integration-is-here-and-it-s-agentic-brk118
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pratik Shinde", "Eric Summers", "Divya Swarnkar", "Kent Weare"]

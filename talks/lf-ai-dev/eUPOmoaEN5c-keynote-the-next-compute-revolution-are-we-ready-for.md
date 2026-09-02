@@ -4,7 +4,7 @@ title: "Keynote: The Next Compute Revolution: Are We Ready for Quantum? - Jennif
 slug: keynote-the-next-compute-revolution-are-we-ready-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Jennifer Prendki"]

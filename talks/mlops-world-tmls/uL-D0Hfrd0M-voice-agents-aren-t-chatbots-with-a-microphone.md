@@ -4,7 +4,7 @@ title: "Voice Agents Aren't Chatbots With a Microphone"
 slug: voice-agents-aren-t-chatbots-with-a-microphone
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

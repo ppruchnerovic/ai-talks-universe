@@ -4,7 +4,7 @@ title: "Run PyTorch natively on Windows on Arm using GitHub Runners | ODFP974"
 slug: run-pytorch-natively-on-windows-on-arm-using-github-runners
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Toad: Your AI Coding Agent Deserves a Better User Interface • Will McG
 slug: toad-your-ai-coding-agent-deserves-a-better-user-interface
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: []

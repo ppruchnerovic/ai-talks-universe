@@ -4,7 +4,7 @@ title: "Proactive Customer Experiences with Service AI Agents | Agentforce Servi
 slug: proactive-customer-experiences-with-service-ai-agents
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: ["Agentforce Service"]

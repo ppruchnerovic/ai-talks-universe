@@ -4,7 +4,7 @@ title: "Ship faster with Claude Code and Cowork in Microsoft Foundry | DEMSP388"
 slug: ship-faster-with-claude-code-and-cowork-in-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Caroline Matthews"]

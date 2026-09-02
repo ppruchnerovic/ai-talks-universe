@@ -4,7 +4,7 @@ title: "[Session] Building and Deploying Remote MCP Servers with Dina Kozlov fro
 slug: session-building-and-deploying-remote-mcp-servers-with-dina
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

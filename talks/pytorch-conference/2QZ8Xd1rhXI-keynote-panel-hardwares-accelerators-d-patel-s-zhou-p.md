@@ -4,7 +4,7 @@ title: "Keynote Panel: Hardwares & Accelerators - D Patel, S Zhou, P Salanki, N 
 slug: keynote-panel-hardwares-accelerators-d-patel-s-zhou-p
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["D Patel"]

@@ -4,7 +4,7 @@ title: "Migrate to build run and secure Generative AI | BRK227"
 slug: migrate-to-build-run-and-secure-generative-ai-brk227
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Raushni Gupta", "Gopal Shankar", "Bob Ward"]

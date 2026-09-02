@@ -4,7 +4,7 @@ title: "STOIC Security: Shielding Your Generative AI App from the Five Deadly Ri
 slug: stoic-security-shielding-your-generative-ai-app-from-the
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jeff Watkins"]

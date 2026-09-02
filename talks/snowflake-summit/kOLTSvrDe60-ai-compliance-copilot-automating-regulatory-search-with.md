@@ -4,7 +4,7 @@ title: "AI Compliance Copilot: Automating Regulatory Search With Snowflake Corte
 slug: ai-compliance-copilot-automating-regulatory-search-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

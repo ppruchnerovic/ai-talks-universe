@@ -4,7 +4,7 @@ title: "First Steps Toward Automated AI Research — Richard Socher, CEO Recursi
 slug: first-steps-toward-automated-ai-research-richard-socher-ceo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Richard Socher"]

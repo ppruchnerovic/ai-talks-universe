@@ -4,7 +4,7 @@ title: "Building a smart simple more secure frontline | BRK284"
 slug: building-a-smart-simple-more-secure-frontline-brk284
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Zoe Hawtof", "Navjot Marwaha"]

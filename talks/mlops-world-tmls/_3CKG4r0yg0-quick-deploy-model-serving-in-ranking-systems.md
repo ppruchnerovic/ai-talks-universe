@@ -4,7 +4,7 @@ title: "Quick Deploy Model Serving in Ranking Systems"
 slug: quick-deploy-model-serving-in-ranking-systems
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

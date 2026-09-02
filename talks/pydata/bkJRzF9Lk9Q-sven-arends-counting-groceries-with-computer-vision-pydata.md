@@ -4,7 +4,7 @@ title: "Sven Arends - Counting Groceries with Computer Vision | PyData Amsterdam
 slug: sven-arends-counting-groceries-with-computer-vision-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sven Arends"]

@@ -4,7 +4,7 @@ title: "[Keynote] Scaling Commerice Interactivity Lessons from Shopify's Impleme
 slug: keynote-scaling-commerice-interactivity-lessons-from
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

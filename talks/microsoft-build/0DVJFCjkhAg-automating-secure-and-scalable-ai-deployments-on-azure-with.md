@@ -4,7 +4,7 @@ title: "Automating Secure and Scalable AI Deployments on Azure with HashiCorp | 
 slug: automating-secure-and-scalable-ai-deployments-on-azure-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Nnenna Ndukwe - Separation of Agentic Concerns: Why 1 AI Can't Rule Your
 slug: nnenna-ndukwe-separation-of-agentic-concerns-why-1-ai-can-t
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Nnenna Ndukwe"]

@@ -4,7 +4,7 @@ title: "From prompt to production: Scale agentic AI with NVIDIA and Azure | BRKS
 slug: from-prompt-to-production-scale-agentic-ai-with-nvidia-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matheen Raza"]

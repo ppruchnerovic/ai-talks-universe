@@ -4,7 +4,7 @@ title: "Sebastiano Milardo & Pietro Piccini - Architecting Scalable Multi-Modal 
 slug: sebastiano-milardo-pietro-piccini-architecting-scalable
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sebastiano Milardo", "Pietro Piccini"]

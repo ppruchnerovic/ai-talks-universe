@@ -4,7 +4,7 @@ title: "Foundry Control Plane: Managing AI agents at scale | BRK202"
 slug: foundry-control-plane-managing-ai-agents-at-scale-brk202
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mehrnoosh Sameki", "Peter Simones", "Jaspreet Singh"]

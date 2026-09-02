@@ -4,7 +4,7 @@ title: "Data Mesh\" Buzzword or the Right Guide Towards a Tactical Recipe to Imp
 slug: data-mesh-buzzword-or-the-right-guide-towards-a-tactical
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Stefania Olafsdóttir"]

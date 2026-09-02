@@ -4,7 +4,7 @@ title: "How Meta Scaling AI-Native Engineering Tripled Code Coverage (And Cut Sl
 slug: how-meta-scaling-ai-native-engineering-tripled-code
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

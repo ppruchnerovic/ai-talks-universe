@@ -4,7 +4,7 @@ title: "Anthropic's CCA Exam as a Field-Guide for Agentic Engineering — Frank 
 slug: anthropic-s-cca-exam-as-a-field-guide-for-agentic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Frank Coyle"]

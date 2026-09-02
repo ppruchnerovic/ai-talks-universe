@@ -4,7 +4,7 @@ title: "OM1: Modular by Design, Hardware-Agnostic by Default. Your gateway to ne
 slug: om1-modular-by-design-hardware-agnostic-by-default-your
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Prachi Sethi"]

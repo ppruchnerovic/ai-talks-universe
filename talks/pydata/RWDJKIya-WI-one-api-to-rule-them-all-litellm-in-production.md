@@ -4,7 +4,7 @@ title: "One API to Rule Them All? LiteLLM in Production"
 slug: one-api-to-rule-them-all-litellm-in-production
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Alina Dallmann"]

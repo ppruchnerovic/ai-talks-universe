@@ -4,7 +4,7 @@ title: "Prepare for the Autonomous Era in ITOps | ODSP1478"
 slug: prepare-for-the-autonomous-era-in-itops-odsp1478
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jason Kikta"]

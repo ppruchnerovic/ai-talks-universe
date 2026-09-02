@@ -4,7 +4,7 @@ title: "Building Protected MCP Servers — Den Delimarsky and Julia Kasper, MCP 
 slug: building-protected-mcp-servers-den-delimarsky-and-julia
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Den Delimarsky", "Julia Kasper"]

@@ -4,7 +4,7 @@ title: "Lightning Talk: What's New in Torch.onnx - Maanav Dalal & Justin Chu, Mi
 slug: lightning-talk-what-s-new-in-torch-onnx-maanav-dalal-justin
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Maanav Dalal", "Justin Chu"]

@@ -4,7 +4,7 @@ title: "Introduction To the Linux Boot Process - Angelina Vu & Karissa Sanchez, 
 slug: introduction-to-the-linux-boot-process-angelina-vu-karissa
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Angelina Vu", "Karissa Sanchez"]

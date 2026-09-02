@@ -4,7 +4,7 @@ title: "Nasdaq: Secure Innovation with PostgreSQL on Azure | STUDIO34"
 slug: nasdaq-secure-innovation-with-postgresql-on-azure-studio34
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Charles Feddersen", "Mohsin Shafqat"]

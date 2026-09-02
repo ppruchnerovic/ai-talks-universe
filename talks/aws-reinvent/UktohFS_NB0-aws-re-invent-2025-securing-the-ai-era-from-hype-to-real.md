@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Securing the AI Era: From Hype to Real-World Defens
 slug: aws-re-invent-2025-securing-the-ai-era-from-hype-to-real
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -171,7 +171,7 @@
       <code>"prompt injection"</code>, <code>context engineering</code>.</p>
     <div class="filters">
       <select id="f-conf" aria-label="Filter by conference"><option value="">All conferences</option></select>
-      <select id="f-cat" aria-label="Filter by category"><option value="">All categories</option></select>
+      <select id="f-cat" aria-label="Filter by conference type"><option value="">All conference types</option></select>
       <select id="f-topic" aria-label="Filter by topic"><option value="">All topics</option></select>
       <select id="f-year" aria-label="Filter by year"><option value="">All years</option></select>
       <select id="f-sort" aria-label="Sort results">
@@ -210,7 +210,7 @@ const el = { q: $('#q'), res: $('#results'), status: $('#status'), sub: $('#sub'
 //   i  dense index (also the key used by the transcript postings)
 //   v  YouTube video id      t  title            d  description (clipped)
 //   s  speakers              c  conference name  cs conference slug
-//   g  category              e  edition          y  year
+//   g  conference type (the registry `category`)   e  edition   y  year
 //   m  duration in minutes   a  tags             p  published_at
 //   u  conference site       w  transcript word count (0 = not fetched)
 //   k  topics — the per-talk facet, as indices into the file's `topics`
@@ -384,7 +384,9 @@ async function boot() {
       tags:       new Set(tokenize((t.a || []).join(' '))),
       speakers:   new Set(tokenize((t.s || []).join(' '))),
       conference: new Set(tokenize(`${t.c || ''} ${t.e || ''}`)),
-      category:   new Set(tokenize(t.g || '')),
+      // The conference type (t.g) is a filter, never a field: a venue label is
+      // not evidence about a talk, and scoring it made "security" match every
+      // talk at ten security conferences. Topics stay out for the same reason.
     };
     // The description's terms live in the shards, whole; what this file
     // carries is a clip for display. Only without an index at all is the clip
@@ -422,7 +424,7 @@ function fillFilters() {
   [...new Set(TALKS.map(t => t.g).filter(Boolean))].sort()
     .forEach(v => $('#f-cat').add(new Option(v, v)));
   // Topics are multi-valued, so the options are the union of every talk's
-  // list — and, unlike the category, a talk may match several of them.
+  // list — and, unlike the conference type, a talk may match several of them.
   [...new Set(TALKS.flatMap(t => t.k || []))].sort()
     .forEach(v => $('#f-topic').add(new Option(v, v)));
   [...new Set(TALKS.map(t => t.y).filter(Boolean))].sort((a, b) => b - a)
@@ -452,7 +454,7 @@ async function loadShards(terms) {
 const shardOf = term => SHARDS.get(shardKeyOf(term));
 
 // ---------- scoring ----------
-const W = { title: 9, tags: 5, speakers: 4, conference: 3, category: 2, abstract: 2 };
+const W = { title: 9, tags: 5, speakers: 4, conference: 3, abstract: 2 };
 
 // Talks whose metadata says the term, description included when the shard
 // for it has loaded — and it has, by the time anything is scored.

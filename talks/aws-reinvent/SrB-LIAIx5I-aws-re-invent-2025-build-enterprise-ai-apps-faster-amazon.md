@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build Enterprise AI Apps Faster: Amazon Bedrock's M
 slug: aws-re-invent-2025-build-enterprise-ai-apps-faster-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

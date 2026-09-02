@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - AI, Cloud & Public Sector Transformation: PwC & AWS
 slug: aws-re-invent-2025-ai-cloud-public-sector-transformation
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

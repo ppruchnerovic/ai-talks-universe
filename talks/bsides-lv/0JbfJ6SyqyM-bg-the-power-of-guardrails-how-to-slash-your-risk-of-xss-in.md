@@ -4,7 +4,7 @@ title: "BG - The power of guardrails: How to slash your risk of XSS in half"
 slug: bg-the-power-of-guardrails-how-to-slash-your-risk-of-xss-in
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2021
 speakers: []

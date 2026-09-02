@@ -4,7 +4,7 @@ title: "Ojas Ankurbhai Ramwala - Explainable AI for Biomedical Image Processing 
 slug: ojas-ankurbhai-ramwala-explainable-ai-for-biomedical-image
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Ojas Ankurbhai Ramwala"]

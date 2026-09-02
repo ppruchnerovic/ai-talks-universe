@@ -4,7 +4,7 @@ title: "Keynote - Build-to-own AI: Agentic Development for Humans"
 slug: keynote-build-to-own-ai-agentic-development-for-humans
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

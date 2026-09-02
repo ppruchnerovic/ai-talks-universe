@@ -4,7 +4,7 @@ title: "Live coding session with Boris Cherny and Jarred Sumner"
 slug: live-coding-session-with-boris-cherny-and-jarred-sumner
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []

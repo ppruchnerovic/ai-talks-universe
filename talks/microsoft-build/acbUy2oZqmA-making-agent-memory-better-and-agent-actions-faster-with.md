@@ -4,7 +4,7 @@ title: "Making Agent Memory Better and Agent Actions Faster with TypeAgent | DEM
 slug: making-agent-memory-better-and-agent-actions-faster-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

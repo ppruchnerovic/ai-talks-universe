@@ -4,7 +4,7 @@ title: "Security and Architecture: to Betray One is to Destroy Both"
 slug: security-and-architecture-to-betray-one-is-to-destroy-both
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Shana Dacres-Lawrence"]

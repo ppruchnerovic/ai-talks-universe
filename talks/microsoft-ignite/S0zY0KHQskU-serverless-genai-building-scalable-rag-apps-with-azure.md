@@ -4,7 +4,7 @@ title: "Serverless GenAI: building scalable RAG apps with Azure Cosmos DB | BRK1
 slug: serverless-genai-building-scalable-rag-apps-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Bhaskar Bhatt", "James Codella", "Zhe Li"]

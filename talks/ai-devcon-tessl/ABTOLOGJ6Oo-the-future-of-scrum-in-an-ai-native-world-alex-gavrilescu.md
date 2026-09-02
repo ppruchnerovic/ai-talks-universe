@@ -4,7 +4,7 @@ title: "The Future of Scrum in an AI-Native World | Alex Gavrilescu"
 slug: the-future-of-scrum-in-an-ai-native-world-alex-gavrilescu
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Alex Gavrilescu"]

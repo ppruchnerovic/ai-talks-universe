@@ -4,7 +4,7 @@ title: "The State of Venture Capital in Cybersecurity"
 slug: the-state-of-venture-capital-in-cybersecurity
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

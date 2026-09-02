@@ -4,7 +4,7 @@ title: "Meeting January 04, 2024 - OWASP Top 10 For LLM Applications"
 slug: meeting-january-04-2024-owasp-top-10-for-llm-applications
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

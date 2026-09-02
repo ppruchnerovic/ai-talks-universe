@@ -4,7 +4,7 @@ title: "When Your AI Agent Runs for 16 Days Straight | Factory"
 slug: when-your-ai-agent-runs-for-16-days-straight-factory
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

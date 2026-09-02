@@ -4,7 +4,7 @@ title: "Holistic Engineering: Organic Problem Solving for Complex Evolving Syste
 slug: holistic-engineering-organic-problem-solving-for-complex
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Vanessa Formicola"]

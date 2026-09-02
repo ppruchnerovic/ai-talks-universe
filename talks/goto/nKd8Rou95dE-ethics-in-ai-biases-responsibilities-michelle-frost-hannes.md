@@ -4,7 +4,7 @@ title: "Ethics in AI: Biases & Responsibilities • Michelle Frost & Hannes Lowe
 slug: ethics-in-ai-biases-responsibilities-michelle-frost-hannes
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Michelle Frost", "Hannes Lowette"]

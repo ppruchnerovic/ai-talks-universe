@@ -4,7 +4,7 @@ title: "The Power of Low Latency Data for AI Apps"
 slug: the-power-of-low-latency-data-for-ai-apps
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Darlene Volas"]

@@ -4,7 +4,7 @@ title: "How to Kill the Code Review — Ankit Jain, Aviator"
 slug: how-to-kill-the-code-review-ankit-jain-aviator
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ankit Jain"]

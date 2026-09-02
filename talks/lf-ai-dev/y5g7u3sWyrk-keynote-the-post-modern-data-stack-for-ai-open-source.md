@@ -4,7 +4,7 @@ title: "Keynote: The Post-Modern Data Stack for AI: Open Source Foundations for 
 slug: keynote-the-post-modern-data-stack-for-ai-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []

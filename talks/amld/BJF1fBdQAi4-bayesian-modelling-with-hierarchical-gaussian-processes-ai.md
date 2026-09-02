@@ -4,7 +4,7 @@ title: "Bayesian Modelling with Hierarchical Gaussian Processes | AI for Drug Di
 slug: bayesian-modelling-with-hierarchical-gaussian-processes-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Damian Roqueiro"]

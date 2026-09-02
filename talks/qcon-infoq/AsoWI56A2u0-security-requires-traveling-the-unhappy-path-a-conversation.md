@@ -4,7 +4,7 @@ title: "Security Requires Traveling the Unhappy Path - A Conversation with Rober
 slug: security-requires-traveling-the-unhappy-path-a-conversation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "[Full Workshop] Vibe Coding at Scale: Customizing AI Assistants for Ente
 slug: full-workshop-vibe-coding-at-scale-customizing-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Boomi Agentstudio- Govern Your AI Agents with Agent
 slug: aws-re-invent-2025-boomi-agentstudio-govern-your-ai-agents
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

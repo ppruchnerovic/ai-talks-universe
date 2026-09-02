@@ -4,7 +4,7 @@ title: "Spec-Driven Development with AI Agents From High-Level Requirements to W
 slug: spec-driven-development-with-ai-agents-from-high-level
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Anton Arhipov"]

@@ -4,7 +4,7 @@ title: "Secure your entire cloud application lifecycle | ODFP990"
 slug: secure-your-entire-cloud-application-lifecycle-odfp990
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

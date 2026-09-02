@@ -4,7 +4,7 @@ title: "How to Finetune Your LLMs and Evaluate Performance"
 slug: how-to-finetune-your-llms-and-evaluate-performance
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

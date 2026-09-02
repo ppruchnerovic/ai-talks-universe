@@ -4,7 +4,7 @@ title: "Data Intelligence for Marketing Breakout: Agentic Systems for Bayesian M
 slug: data-intelligence-for-marketing-breakout-agentic-systems
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

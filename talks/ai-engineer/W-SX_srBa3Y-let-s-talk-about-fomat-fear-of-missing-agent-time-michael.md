@@ -4,7 +4,7 @@ title: "Let's Talk About FOMAT: Fear of Missing Agent Time — Michael Richman, 
 slug: let-s-talk-about-fomat-fear-of-missing-agent-time-michael
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michael Richman"]

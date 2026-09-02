@@ -4,7 +4,7 @@ title: "SaTML 2023 - Teresa Datta - Position: Tensions Between the Proxies of Hu
 slug: satml-2023-teresa-datta-position-tensions-between-the
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Teresa Datta"]

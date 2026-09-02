@@ -4,7 +4,7 @@ title: "Client side Web AI agents to build smarter future user experiences"
 slug: client-side-web-ai-agents-to-build-smarter-future-user
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

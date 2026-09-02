@@ -4,7 +4,7 @@ title: "Measuring Agents With Interactive Evaluations"
 slug: measuring-agents-with-interactive-evaluations
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []

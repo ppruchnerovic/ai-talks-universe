@@ -4,7 +4,7 @@ title: "The Signal Layer: What to Build When Anything Can Be Built"
 slug: the-signal-layer-what-to-build-when-anything-can-be-built
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Lena Hall"]

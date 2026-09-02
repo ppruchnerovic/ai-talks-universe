@@ -4,7 +4,7 @@ title: "Inside Lakebase: fully-managed serverless Postgres – Nikita Shamgunov,
 slug: inside-lakebase-fully-managed-serverless-postgres-nikita
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Nikita Shamgunov"]

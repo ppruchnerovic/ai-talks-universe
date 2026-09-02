@@ -4,7 +4,7 @@ title: "Producing the World's Cheapest Tokens: A How-to Guide"
 slug: producing-the-world-s-cheapest-tokens-a-how-to-guide
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Meryem Arik"]

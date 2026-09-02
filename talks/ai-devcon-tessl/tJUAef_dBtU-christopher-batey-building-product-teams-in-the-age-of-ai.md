@@ -4,7 +4,7 @@ title: "Christopher Batey - Building Product Teams in the Age of AI: What We Had
 slug: christopher-batey-building-product-teams-in-the-age-of-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Christopher Batey"]

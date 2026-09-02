@@ -4,7 +4,7 @@ title: "Advanced RAG Panel"
 slug: advanced-rag-panel
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

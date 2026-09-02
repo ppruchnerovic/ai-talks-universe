@@ -4,7 +4,7 @@ title: "Leadership Panel — RSAC 365 Virtual Seminar: Securing Cyber-Physical S
 slug: leadership-panel-rsac-365-virtual-seminar-securing-cyber
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

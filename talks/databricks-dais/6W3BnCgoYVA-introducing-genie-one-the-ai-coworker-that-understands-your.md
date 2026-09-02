@@ -4,7 +4,7 @@ title: "Introducing Genie One: the AI coworker that understands your data (with 
 slug: introducing-genie-one-the-ai-coworker-that-understands-your
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Ken Wong"]

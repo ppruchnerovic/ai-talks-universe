@@ -4,7 +4,7 @@ title: "Hiring is Broken: Why CVs Don't Predict Performance Anymore"
 slug: hiring-is-broken-why-cvs-don-t-predict-performance-anymore
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

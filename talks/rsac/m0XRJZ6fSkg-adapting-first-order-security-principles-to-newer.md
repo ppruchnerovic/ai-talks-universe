@@ -4,7 +4,7 @@ title: "Adapting First Order Security Principles to Newer Architectural Trends"
 slug: adapting-first-order-security-principles-to-newer
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Char Sample"]

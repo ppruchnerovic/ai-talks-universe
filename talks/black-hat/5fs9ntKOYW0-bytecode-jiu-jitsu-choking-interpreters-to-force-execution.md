@@ -4,7 +4,7 @@ title: "Bytecode Jiu-Jitsu: Choking Interpreters to Force Execution of Malicious
 slug: bytecode-jiu-jitsu-choking-interpreters-to-force-execution
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

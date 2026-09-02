@@ -4,7 +4,7 @@ title: "Prompt to Pipeline: Building with Google's Gen Media Stack — Paige & G
 slug: prompt-to-pipeline-building-with-google-s-gen-media-stack
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

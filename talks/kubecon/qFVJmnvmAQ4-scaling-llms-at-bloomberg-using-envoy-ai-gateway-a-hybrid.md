@@ -4,7 +4,7 @@ title: "Scaling LLMs at Bloomberg Using Envoy AI Gateway: A Hybrid Cloud Approac
 slug: scaling-llms-at-bloomberg-using-envoy-ai-gateway-a-hybrid
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Xiaolin Lin", "Aaron Choo"]

@@ -4,7 +4,7 @@ title: "Is this the beginning or is this the end for end-to-end vision models ? 
 slug: is-this-the-beginning-or-is-this-the-end-for-end-to-end
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Ani Kembhavi"]

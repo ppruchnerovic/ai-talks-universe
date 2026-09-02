@@ -4,7 +4,7 @@ title: "There may not be intelligent life in our Universe after all by Robert Pa
 slug: there-may-not-be-intelligent-life-in-our-universe-after-all
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Robert Pabst"]

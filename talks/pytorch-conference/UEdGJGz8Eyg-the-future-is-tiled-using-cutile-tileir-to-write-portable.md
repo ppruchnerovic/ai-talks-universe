@@ -4,7 +4,7 @@ title: "The Future Is Tiled: Using CuTile & TileIR To Write Portable, High-perfo
 slug: the-future-is-tiled-using-cutile-tileir-to-write-portable
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []

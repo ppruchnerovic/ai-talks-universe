@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Erik Thorelli: Deploying AI Code Review at Scale"
 slug: ai-dev-26-x-sf-erik-thorelli-deploying-ai-code-review-at
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

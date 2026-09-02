@@ -4,7 +4,7 @@ title: "Sleep: How AI can help? | AI and Sleep| Francesca Faraci"
 slug: sleep-how-ai-can-help-ai-and-sleep-francesca-faraci
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Francesca Faraci"]

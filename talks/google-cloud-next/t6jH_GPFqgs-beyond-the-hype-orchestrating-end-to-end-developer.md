@@ -4,7 +4,7 @@ title: "Beyond the hype: Orchestrating end-to-end developer workflows with agent
 slug: beyond-the-hype-orchestrating-end-to-end-developer
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Ricky Robinett", "Aaron Wanjala", "Azim Shaik"]

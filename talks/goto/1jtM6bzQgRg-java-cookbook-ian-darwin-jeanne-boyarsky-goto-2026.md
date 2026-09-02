@@ -4,7 +4,7 @@ title: "Java Cookbook • Ian Darwin & Jeanne Boyarsky • GOTO 2026"
 slug: java-cookbook-ian-darwin-jeanne-boyarsky-goto-2026
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Java Cookbook", "Ian Darwin", "Jeanne Boyarsky"]

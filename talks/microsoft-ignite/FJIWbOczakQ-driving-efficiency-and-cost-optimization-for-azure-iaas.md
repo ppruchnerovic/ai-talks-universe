@@ -4,7 +4,7 @@ title: "Driving efficiency and cost optimization for Azure IaaS deployments | BR
 slug: driving-efficiency-and-cost-optimization-for-azure-iaas
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yuemin Lu", "Rajeesh Ramachandran", "Sam Shteingart"]

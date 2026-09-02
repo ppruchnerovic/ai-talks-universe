@@ -4,7 +4,7 @@ title: "Claude Agent SDK [Full Workshop] — Thariq Shihipar, Anthropic"
 slug: claude-agent-sdk-full-workshop-thariq-shihipar-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thariq Shihipar"]

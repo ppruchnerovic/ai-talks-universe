@@ -4,7 +4,7 @@ title: "Building, securing and governing AI infrastructure in the Era of Agentic
 slug: building-securing-and-governing-ai-infrastructure-in-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rob Nertney"]

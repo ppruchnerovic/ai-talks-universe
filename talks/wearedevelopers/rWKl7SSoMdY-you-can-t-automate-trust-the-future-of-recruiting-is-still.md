@@ -4,7 +4,7 @@ title: "You Can't Automate Trust — The Future of Recruiting is Still Human"
 slug: you-can-t-automate-trust-the-future-of-recruiting-is-still
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mahmoud Aly"]

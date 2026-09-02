@@ -4,7 +4,7 @@ title: "Seungrok Jung, AMD: AMD x Hugging Face :Deploying large language models 
 slug: seungrok-jung-amd-amd-x-hugging-face-deploying-large
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

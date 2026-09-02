@@ -4,7 +4,7 @@ title: "Llama Best Practices: Fine-tuning Llama Models in the Real World"
 slug: llama-best-practices-fine-tuning-llama-models-in-the-real
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Connect 2025"
 year: 2025
 speakers: []

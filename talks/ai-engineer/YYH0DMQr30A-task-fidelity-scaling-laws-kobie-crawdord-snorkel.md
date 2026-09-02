@@ -4,7 +4,7 @@ title: "Task Fidelity Scaling Laws — Kobie Crawdord, Snorkel"
 slug: task-fidelity-scaling-laws-kobie-crawdord-snorkel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kobie Crawdord"]

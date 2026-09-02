@@ -4,7 +4,7 @@ title: "Building an AI-Powered Personal Companion Mobile App - Gerald Versluis -
 slug: building-an-ai-powered-personal-companion-mobile-app-gerald
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gerald Versluis"]

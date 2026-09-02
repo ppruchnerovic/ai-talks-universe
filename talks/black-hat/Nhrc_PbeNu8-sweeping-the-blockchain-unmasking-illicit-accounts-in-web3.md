@@ -4,7 +4,7 @@ title: "Sweeping the Blockchain: Unmasking Illicit Accounts in Web3 Scams"
 slug: sweeping-the-blockchain-unmasking-illicit-accounts-in-web3
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Integrating Gen AI into business-ready applications to accelerate ROI | 
 slug: integrating-gen-ai-into-business-ready-applications-to
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrew Grimes"]

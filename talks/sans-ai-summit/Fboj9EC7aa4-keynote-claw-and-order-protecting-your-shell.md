@@ -4,7 +4,7 @@ title: "Keynote: Claw and Order: Protecting Your Shell"
 slug: keynote-claw-and-order-protecting-your-shell
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

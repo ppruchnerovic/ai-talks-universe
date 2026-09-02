@@ -4,7 +4,7 @@ title: "Unify your entire data estate on a single, AI-ready data lake | OD815"
 slug: unify-your-entire-data-estate-on-a-single-ai-ready-data
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Miquella de Boer", "Wee Hyong Tok", "Josh Caplan", "Dipti Borkar"]

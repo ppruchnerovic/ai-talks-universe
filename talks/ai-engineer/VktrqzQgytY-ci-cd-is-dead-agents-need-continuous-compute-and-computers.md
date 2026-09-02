@@ -4,7 +4,7 @@ title: "CI/CD Is Dead, Agents Need Continuous Compute and Computers — Hugo San
 slug: ci-cd-is-dead-agents-need-continuous-compute-and-computers
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hugo Santos", "Madison Faulkner"]

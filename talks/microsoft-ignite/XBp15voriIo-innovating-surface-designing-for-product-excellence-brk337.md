@@ -4,7 +4,7 @@ title: "Innovating Surface: Designing for product excellence​ | BRK337"
 slug: innovating-surface-designing-for-product-excellence-brk337
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Carlos Carrasco"]

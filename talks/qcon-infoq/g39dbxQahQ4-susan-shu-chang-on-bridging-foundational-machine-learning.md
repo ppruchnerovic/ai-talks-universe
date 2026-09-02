@@ -4,7 +4,7 @@ title: "Susan Shu Chang on Bridging Foundational Machine Learning and Generative
 slug: susan-shu-chang-on-bridging-foundational-machine-learning
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

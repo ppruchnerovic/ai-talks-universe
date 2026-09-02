@@ -4,7 +4,7 @@ title: "Netflix Engineering Director: Why Code Scales Systems, But Clarity Scale
 slug: netflix-engineering-director-why-code-scales-systems-but
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

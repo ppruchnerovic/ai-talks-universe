@@ -4,7 +4,7 @@ title: "Consumer Choice Models with PyMC Marketing"
 slug: consumer-choice-models-with-pymc-marketing
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nathaniel Forde"]

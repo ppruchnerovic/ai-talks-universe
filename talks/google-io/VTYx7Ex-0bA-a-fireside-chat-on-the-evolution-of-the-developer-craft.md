@@ -4,7 +4,7 @@ title: "A fireside chat on the evolution of the developer craft"
 slug: a-fireside-chat-on-the-evolution-of-the-developer-craft
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Addy Osmani", "Richard Seroter", "Aja Hammerly", "Ciera Jaspan"]

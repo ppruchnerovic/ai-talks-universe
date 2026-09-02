@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Amazon Bedrock Agents and AgentCore Design Patterns
 slug: aws-re-invent-2025-amazon-bedrock-agents-and-agentcore
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

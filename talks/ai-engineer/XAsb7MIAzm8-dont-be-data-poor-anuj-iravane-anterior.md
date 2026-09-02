@@ -4,7 +4,7 @@ title: "Don’t be data poor — Anuj Iravane, Anterior"
 slug: dont-be-data-poor-anuj-iravane-anterior
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anuj Iravane"]

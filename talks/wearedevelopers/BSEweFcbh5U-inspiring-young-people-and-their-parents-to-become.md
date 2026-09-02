@@ -4,7 +4,7 @@ title: "Inspiring Young People (and Their Parents) to Become Programmers - Cassa
 slug: inspiring-young-people-and-their-parents-to-become
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Inspiring Young People", "Cassandra Chin"]

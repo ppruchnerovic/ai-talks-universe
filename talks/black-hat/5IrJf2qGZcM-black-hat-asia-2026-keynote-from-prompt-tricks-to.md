@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Keynote: From Prompt Tricks to Autonomous Hackers"
 slug: black-hat-asia-2026-keynote-from-prompt-tricks-to
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

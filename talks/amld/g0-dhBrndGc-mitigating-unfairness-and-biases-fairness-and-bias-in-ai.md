@@ -4,7 +4,7 @@ title: "Mitigating Unfairness and Biases | Fairness and Bias in AI | Alejandro J
 slug: mitigating-unfairness-and-biases-fairness-and-bias-in-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Alejandro Jesús Castañeira Rodriguez"]

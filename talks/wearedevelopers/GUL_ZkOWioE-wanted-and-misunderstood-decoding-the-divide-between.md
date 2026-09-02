@@ -4,7 +4,7 @@ title: "#Wanted and #Misunderstood: Decoding the Divide Between Developers and H
 slug: wanted-and-misunderstood-decoding-the-divide-between
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []

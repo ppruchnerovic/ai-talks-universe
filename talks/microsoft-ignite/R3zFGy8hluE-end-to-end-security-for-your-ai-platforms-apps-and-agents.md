@@ -4,7 +4,7 @@ title: "End-to-end security for your AI platforms apps and agents | BRK267"
 slug: end-to-end-security-for-your-ai-platforms-apps-and-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lou Adesida", "Neta Haiby", "Herain Oberoi"]

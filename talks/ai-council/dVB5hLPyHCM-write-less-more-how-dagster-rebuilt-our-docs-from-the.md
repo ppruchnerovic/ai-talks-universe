@@ -4,7 +4,7 @@ title: "Write Less More: How Dagster Rebuilt Our Docs From the Ground Up"
 slug: write-less-more-how-dagster-rebuilt-our-docs-from-the
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Pedram Navid"]

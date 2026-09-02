@@ -4,7 +4,7 @@ title: "Securing Private Wireless: From Design to Deployment | BRK384"
 slug: securing-private-wireless-from-design-to-deployment-brk384
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Krishnan Jagannathan", "Rick Lievano"]

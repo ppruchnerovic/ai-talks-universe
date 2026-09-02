@@ -4,7 +4,7 @@ title: "Agentic employees in world's most downloaded FinTech app"
 slug: agentic-employees-in-world-s-most-downloaded-fintech-app
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sasa Fajkovic"]

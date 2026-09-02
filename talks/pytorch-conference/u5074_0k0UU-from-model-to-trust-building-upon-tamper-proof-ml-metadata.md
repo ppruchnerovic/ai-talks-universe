@@ -4,7 +4,7 @@ title: "From Model To Trust: Building Upon Tamper-proof ML Metadata Records - Mi
 slug: from-model-to-trust-building-upon-tamper-proof-ml-metadata
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Mihai Maruseac"]

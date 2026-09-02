@@ -4,7 +4,7 @@ title: "OAKS: Open Agentic Knowledge Stack"
 slug: oaks-open-agentic-knowledge-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Alexy Khrabrov"]

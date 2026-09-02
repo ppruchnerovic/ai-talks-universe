@@ -4,7 +4,7 @@ title: "Edge for Business: safeguard against cyber threats and AI risks | OD852"
 slug: edge-for-business-safeguard-against-cyber-threats-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lindsay Kubasik"]

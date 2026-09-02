@@ -4,7 +4,7 @@ title: "From Writing Code to Designing Systems: How the Developer Role is Changi
 slug: from-writing-code-to-designing-systems-how-the-developer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chris Noring"]

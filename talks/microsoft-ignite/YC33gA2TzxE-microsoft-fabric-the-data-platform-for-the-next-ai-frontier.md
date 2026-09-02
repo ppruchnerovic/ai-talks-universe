@@ -4,7 +4,7 @@ title: "Microsoft Fabric: The data platform for the next AI frontier | BRK224"
 slug: microsoft-fabric-the-data-platform-for-the-next-ai-frontier
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Amir Netz"]

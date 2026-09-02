@@ -4,7 +4,7 @@ title: "Keynote: Zero to 50 ExaFLOPS in Under a Year: Lessons from the Trenches 
 slug: keynote-zero-to-50-exaflops-in-under-a-year-lessons-from
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Hagay Lupesko"]

@@ -4,7 +4,7 @@ title: "From Code to Strategy: Drive Organizational Impact Through Strategic Con
 slug: from-code-to-strategy-drive-organizational-impact-through
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

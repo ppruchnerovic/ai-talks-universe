@@ -4,7 +4,7 @@ title: "One Size Fits None: How Platform Engineering Must Evolve • William Riz
 slug: one-size-fits-none-how-platform-engineering-must-evolve
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["William Rizzo", "Colin Griffin"]

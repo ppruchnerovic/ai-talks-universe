@@ -4,7 +4,7 @@ title: "The Web Browser Is All You Need - Paul Klein IV, Browserbase"
 slug: the-web-browser-is-all-you-need-paul-klein-iv-browserbase
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

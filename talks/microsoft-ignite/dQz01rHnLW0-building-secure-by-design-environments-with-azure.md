@@ -4,7 +4,7 @@ title: "Building secure-by-design environments with Azure capabilities | ODSP150
 slug: building-secure-by-design-environments-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gal Gideon Ordo"]

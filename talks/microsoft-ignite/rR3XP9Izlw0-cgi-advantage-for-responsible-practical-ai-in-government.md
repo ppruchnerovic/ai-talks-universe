@@ -4,7 +4,7 @@ title: "CGI Advantage for responsible practical AI in government | ODSP1456"
 slug: cgi-advantage-for-responsible-practical-ai-in-government
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lance Schone"]

@@ -4,7 +4,7 @@ title: "Why MCP and ChatGPT Apps Use Double Iframes — Frédéric Barthelet, Al
 slug: why-mcp-and-chatgpt-apps-use-double-iframes-frederic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Frédéric Barthelet"]

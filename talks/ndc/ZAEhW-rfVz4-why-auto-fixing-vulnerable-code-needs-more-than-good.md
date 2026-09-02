@@ -4,7 +4,7 @@ title: "Why Auto-Fixing Vulnerable Code Needs More Than Good Intentions - Spyros
 slug: why-auto-fixing-vulnerable-code-needs-more-than-good
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Spyros Gasteratos"]

@@ -4,7 +4,7 @@ title: "Laser Beams & Light Streams: Building Affordable Light-Based Hardware Se
 slug: laser-beams-light-streams-building-affordable-light-based
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

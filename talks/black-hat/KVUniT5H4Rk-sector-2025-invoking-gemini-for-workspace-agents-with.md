@@ -4,7 +4,7 @@ title: "SecTor 2025 | Invoking Gemini for Workspace Agents with Simple Google Ca
 slug: sector-2025-invoking-gemini-for-workspace-agents-with
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

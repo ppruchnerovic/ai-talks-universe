@@ -4,7 +4,7 @@ title: "Improved Scheduling Flexibility with Label Selectors in Ray | Ray Summit
 slug: improved-scheduling-flexibility-with-label-selectors-in-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

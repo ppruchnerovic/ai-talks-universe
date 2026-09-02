@@ -4,7 +4,7 @@ title: "Student to Startup | LIVE142"
 slug: student-to-startup-live142
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Alycea Adams", "Tom Davis"]

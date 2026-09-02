@@ -4,7 +4,7 @@ title: "Fireside Chat with Lukas Biewald and Manuvir Das"
 slug: fireside-chat-with-lukas-biewald-and-manuvir-das
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

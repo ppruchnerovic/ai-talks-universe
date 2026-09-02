@@ -4,7 +4,7 @@ title: "The Creator of Spring on Why AI Coding Agents Will Wreck Your Codebase (
 slug: the-creator-of-spring-on-why-ai-coding-agents-will-wreck
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

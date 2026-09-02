@@ -4,7 +4,7 @@ title: "What to Do About Hackathons in the Time of Agents - Mike Swift"
 slug: what-to-do-about-hackathons-in-the-time-of-agents-mike-swift
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Mike Swift"]

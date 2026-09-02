@@ -4,7 +4,7 @@ title: "Low-level Embodied Intelligence with Foundation Models | Fei Xia"
 slug: low-level-embodied-intelligence-with-foundation-models-fei
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Fei Xia"]

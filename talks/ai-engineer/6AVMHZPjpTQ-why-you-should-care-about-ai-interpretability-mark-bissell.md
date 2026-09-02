@@ -4,7 +4,7 @@ title: "Why you should care about AI interpretability - Mark Bissell, Goodfire A
 slug: why-you-should-care-about-ai-interpretability-mark-bissell
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Bissell"]

@@ -4,7 +4,7 @@ title: "From DevOps to Scaled DevOps: How We’re Rebuilding Continuous Delivery
 slug: from-devops-to-scaled-devops-how-were-rebuilding-continuous
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dominik Krichbaum"]

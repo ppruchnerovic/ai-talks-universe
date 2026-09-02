@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Beyond a Chatbot: How to Build Intelligent Agent Me
 slug: aws-re-invent-2025-beyond-a-chatbot-how-to-build
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

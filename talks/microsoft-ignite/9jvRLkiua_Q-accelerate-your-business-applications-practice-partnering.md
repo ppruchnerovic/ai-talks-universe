@@ -4,7 +4,7 @@ title: "Accelerate your Business Applications practice: Partnering for success |
 slug: accelerate-your-business-applications-practice-partnering
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Bryan Goode"]

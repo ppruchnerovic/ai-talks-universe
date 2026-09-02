@@ -4,7 +4,7 @@ title: "N. M. Thiéry - Sharing computational course material at larger scale: a
 slug: n-m-thiery-sharing-computational-course-material-at-larger
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["N. M. Thiéry"]

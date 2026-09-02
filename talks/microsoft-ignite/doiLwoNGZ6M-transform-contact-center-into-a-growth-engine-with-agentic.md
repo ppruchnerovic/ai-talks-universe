@@ -4,7 +4,7 @@ title: "Transform contact center into a growth engine with agentic CX | PBRK360"
 slug: transform-contact-center-into-a-growth-engine-with-agentic
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alpana Bajaj", "April Delsing", "Peng Geng", "Diana Tram Nguyen", "Karl Phenix"]

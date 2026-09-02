@@ -4,7 +4,7 @@ title: "The Last Mile Still Belongs to Humans | Maksim Shaposhnikov"
 slug: the-last-mile-still-belongs-to-humans-maksim-shaposhnikov
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Maksim Shaposhnikov"]

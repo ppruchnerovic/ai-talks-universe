@@ -4,7 +4,7 @@ title: "Verl: A Flexible and Efficient RL Framework for LLMs - Hongpeng Guo & Zi
 slug: verl-a-flexible-and-efficient-rl-framework-for-llms
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Hongpeng Guo", "Ziheng Jiang"]

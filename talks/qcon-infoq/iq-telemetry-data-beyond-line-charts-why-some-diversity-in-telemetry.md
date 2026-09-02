@@ -4,7 +4,7 @@ title: "Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Lon
 slug: beyond-line-charts-why-some-diversity-in-telemetry
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Yao Yue"]

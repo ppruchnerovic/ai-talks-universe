@@ -4,7 +4,7 @@ title: "Using Edge Machine Learning to save power and development time - Eirik M
 slug: using-edge-machine-learning-to-save-power-and-development
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2024
 speakers: ["Eirik Midttun"]

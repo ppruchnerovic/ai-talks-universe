@@ -4,7 +4,7 @@ title: "The MCP Gateway Pattern Big Enterprises Are Quietly Adopting"
 slug: the-mcp-gateway-pattern-big-enterprises-are-quietly-adopting
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

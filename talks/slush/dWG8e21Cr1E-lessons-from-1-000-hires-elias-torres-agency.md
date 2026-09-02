@@ -4,7 +4,7 @@ title: "Lessons from 1,000 Hires | Elias Torres (Agency)"
 slug: lessons-from-1-000-hires-elias-torres-agency
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Elias Torres"]

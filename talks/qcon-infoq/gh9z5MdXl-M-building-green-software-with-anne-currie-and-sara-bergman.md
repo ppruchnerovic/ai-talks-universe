@@ -4,7 +4,7 @@ title: "Building Green Software with Anne Currie and Sara Bergman"
 slug: building-green-software-with-anne-currie-and-sara-bergman
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "More Than Query Future Directions of Query Languages, from SQL to Morel"
 slug: more-than-query-future-directions-of-query-languages-from
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Julian Hyde"]

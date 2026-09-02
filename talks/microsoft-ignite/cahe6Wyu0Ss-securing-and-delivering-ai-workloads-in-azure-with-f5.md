@@ -4,7 +4,7 @@ title: "Securing and delivering AI workloads in Azure with F5 | ODFP942"
 slug: securing-and-delivering-ai-workloads-in-azure-with-f5
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kunal Anand"]

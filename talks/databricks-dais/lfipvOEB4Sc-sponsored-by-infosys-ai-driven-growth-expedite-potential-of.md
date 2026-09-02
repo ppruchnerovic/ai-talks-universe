@@ -4,7 +4,7 @@ title: "Sponsored by: Infosys | AI-Driven Growth: Expedite Potential of Agentic 
 slug: sponsored-by-infosys-ai-driven-growth-expedite-potential-of
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

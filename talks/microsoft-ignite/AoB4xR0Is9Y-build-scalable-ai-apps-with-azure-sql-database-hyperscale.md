@@ -4,7 +4,7 @@ title: "Build scalable AI apps with Azure SQL Database Hyperscale | BRK126"
 slug: build-scalable-ai-apps-with-azure-sql-database-hyperscale
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Aditya Badramraju", "Dmitry Borodin", "Britt Ewen", "Anna Hoffman", "Ross Jenkins"]

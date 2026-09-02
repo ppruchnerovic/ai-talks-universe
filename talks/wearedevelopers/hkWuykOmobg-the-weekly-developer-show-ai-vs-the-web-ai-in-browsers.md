@@ -4,7 +4,7 @@ title: "The weekly developer show: AI vs the Web & AI in Browsers"
 slug: the-weekly-developer-show-ai-vs-the-web-ai-in-browsers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

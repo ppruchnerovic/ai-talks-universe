@@ -4,7 +4,7 @@ title: "GTM Is You - Victoria Melnikova, Evil Martians"
 slug: gtm-is-you-victoria-melnikova-evil-martians
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Victoria Melnikova"]

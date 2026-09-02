@@ -4,7 +4,7 @@ title: "Data science in containers: the good, the bad, and the ugly"
 slug: data-science-in-containers-the-good-the-bad-and-the-ugly
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jérôme Petazzoni"]

@@ -4,7 +4,7 @@ title: "Denis Akhiyarov - Are Small LLMs Ready for Coding Agents?"
 slug: denis-akhiyarov-are-small-llms-ready-for-coding-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Denis Akhiyarov"]

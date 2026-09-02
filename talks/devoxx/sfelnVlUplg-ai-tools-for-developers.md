@@ -4,7 +4,7 @@ title: "AI Tools for Developers"
 slug: ai-tools-for-developers
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

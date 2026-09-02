@@ -4,7 +4,7 @@ title: "AI solutions built to power industrial innovation and sovereign control 
 slug: ai-solutions-built-to-power-industrial-innovation-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Inbal Sagiv"]

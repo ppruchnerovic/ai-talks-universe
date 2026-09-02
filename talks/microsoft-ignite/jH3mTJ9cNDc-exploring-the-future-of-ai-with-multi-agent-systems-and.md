@@ -4,7 +4,7 @@ title: "Exploring the future of AI with multi-agent systems and LLMs in action |
 slug: exploring-the-future-of-ai-with-multi-agent-systems-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Marco Casalaina", "Babak Hodjat"]

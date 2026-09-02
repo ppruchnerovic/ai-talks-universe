@@ -4,7 +4,7 @@ title: "Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft"
 slug: don-t-let-the-llm-drive-ornella-bahidika-joel-allou
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ornella Bahidika"]

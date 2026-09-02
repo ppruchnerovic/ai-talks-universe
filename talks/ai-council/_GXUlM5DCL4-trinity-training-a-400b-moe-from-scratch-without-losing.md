@@ -4,7 +4,7 @@ title: "Trinity: Training a 400B MoE from Scratch Without Losing Your Mind | Arc
 slug: trinity-training-a-400b-moe-from-scratch-without-losing
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

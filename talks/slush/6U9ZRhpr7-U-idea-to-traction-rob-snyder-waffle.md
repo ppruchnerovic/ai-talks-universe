@@ -4,7 +4,7 @@ title: "Idea to Traction | Rob Snyder (Waffle)"
 slug: idea-to-traction-rob-snyder-waffle
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Rob Snyder"]

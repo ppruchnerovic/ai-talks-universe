@@ -4,7 +4,7 @@ title: "Stop using Node.js like in 2020! What changed and what you can do today 
 slug: stop-using-node-js-like-in-2020-what-changed-and-what-you
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alfonso Graziano"]

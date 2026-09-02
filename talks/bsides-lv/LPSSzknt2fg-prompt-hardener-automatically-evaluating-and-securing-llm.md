@@ -4,7 +4,7 @@ title: "Prompt Hardener – Automatically Evaluating and Securing LLM System Pro
 slug: prompt-hardener-automatically-evaluating-and-securing-llm
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: ["Prompt Hardener"]

@@ -4,7 +4,7 @@ title: "NVIDIA GTC Keynote 2026"
 slug: nvidia-gtc-keynote-2026
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []

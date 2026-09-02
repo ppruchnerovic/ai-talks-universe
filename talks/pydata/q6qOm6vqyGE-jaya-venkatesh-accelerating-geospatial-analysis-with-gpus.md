@@ -4,7 +4,7 @@ title: "Jaya Venkatesh-Accelerating Geospatial Analysis with GPUs-PyData Boston 
 slug: jaya-venkatesh-accelerating-geospatial-analysis-with-gpus
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

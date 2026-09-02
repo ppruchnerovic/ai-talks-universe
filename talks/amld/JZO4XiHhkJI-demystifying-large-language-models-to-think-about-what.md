@@ -4,7 +4,7 @@ title: "Demystifying Large Language Models to Think about What Comes Next | Edwa
 slug: demystifying-large-language-models-to-think-about-what
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Edward Grefenstette"]

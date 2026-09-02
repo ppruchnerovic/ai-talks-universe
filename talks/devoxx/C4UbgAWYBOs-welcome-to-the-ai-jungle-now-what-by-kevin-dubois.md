@@ -4,7 +4,7 @@ title: "Welcome to the AI jungle! Now what? by Kevin Dubois"
 slug: welcome-to-the-ai-jungle-now-what-by-kevin-dubois
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Kevin Dubois"]

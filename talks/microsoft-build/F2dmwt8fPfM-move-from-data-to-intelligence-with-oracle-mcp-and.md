@@ -4,7 +4,7 @@ title: "Move from data to intelligence with Oracle MCP and Microsoft IQ | ODSP91
 slug: move-from-data-to-intelligence-with-oracle-mcp-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jeff Smith", "Ram Kakani"]

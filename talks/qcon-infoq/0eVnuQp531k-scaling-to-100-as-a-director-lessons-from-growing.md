@@ -4,7 +4,7 @@ title: "Scaling to 100+ as a Director: Lessons from Growing Engineering Organiza
 slug: scaling-to-100-as-a-director-lessons-from-growing
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Thiago Ghisi"]

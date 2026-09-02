@@ -4,7 +4,7 @@ title: "Building Agentic AI Systems with AWS Serverless • Uma Ramadoss • GOT
 slug: building-agentic-ai-systems-with-aws-serverless-uma
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Uma Ramadoss"]

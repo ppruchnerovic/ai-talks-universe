@@ -4,7 +4,7 @@ title: "GenAI for Enterprise: Intelligent Apps and Agents with Dataverse & MCP |
 slug: genai-for-enterprise-intelligent-apps-and-agents-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

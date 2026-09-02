@@ -4,7 +4,7 @@ title: "The spectrum of agents with Copilot Studio | BRK168"
 slug: the-spectrum-of-agents-with-copilot-studio-brk168
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Thomas Abel", "Jonathan Beck", "Jack Rowbotham"]

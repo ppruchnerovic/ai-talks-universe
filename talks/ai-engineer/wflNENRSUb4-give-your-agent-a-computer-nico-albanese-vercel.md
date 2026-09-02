@@ -4,7 +4,7 @@ title: "Give Your Agent a Computer — Nico Albanese, Vercel"
 slug: give-your-agent-a-computer-nico-albanese-vercel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nico Albanese"]

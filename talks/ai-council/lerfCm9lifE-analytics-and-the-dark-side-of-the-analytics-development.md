@@ -4,7 +4,7 @@ title: "Analytics and the Dark Side of the Analytics Development Lifecycle"
 slug: analytics-and-the-dark-side-of-the-analytics-development
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ori Soen"]

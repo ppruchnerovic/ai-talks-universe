@@ -4,7 +4,7 @@ title: "Generative AI - Architectures and applications in depth by K, Mavrodimit
 slug: generative-ai-architectures-and-applications-in-depth-by-k
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []

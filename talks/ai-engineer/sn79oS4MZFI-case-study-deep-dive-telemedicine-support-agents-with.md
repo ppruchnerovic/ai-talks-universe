@@ -4,7 +4,7 @@ title: "Case Study + Deep Dive: Telemedicine Support Agents with LangGraph/MCP -
 slug: case-study-deep-dive-telemedicine-support-agents-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dan Mason"]

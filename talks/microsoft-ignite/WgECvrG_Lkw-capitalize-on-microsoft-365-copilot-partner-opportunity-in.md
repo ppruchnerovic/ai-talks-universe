@@ -4,7 +4,7 @@ title: "Capitalize on Microsoft 365 Copilot partner opportunity in Enterprise | 
 slug: capitalize-on-microsoft-365-copilot-partner-opportunity-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ananthram Balakrishnan", "Danny Burlage", "Uriel Rootshtain", "Gloria Sanchez", "Ryan Toenies"]

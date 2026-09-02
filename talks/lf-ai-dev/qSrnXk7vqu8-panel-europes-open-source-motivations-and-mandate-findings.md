@@ -4,7 +4,7 @@ title: "Panel: Europe’s Open Source Motivations and Mandate: Findings From the
 slug: panel-europes-open-source-motivations-and-mandate-findings
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []

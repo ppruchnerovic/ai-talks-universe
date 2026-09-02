@@ -4,7 +4,7 @@ title: "Let your agentic apps talk with Azure Speech | BRK198"
 slug: let-your-agentic-apps-talk-with-azure-speech-brk198
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jacky Kang"]

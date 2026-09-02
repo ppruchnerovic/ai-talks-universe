@@ -4,7 +4,7 @@ title: "Deploy Local AI Models in Enterprise with Windows ML | BRK329"
 slug: deploy-local-ai-models-in-enterprise-with-windows-ml-brk329
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Andrew Leader", "Anastasiya Tarnouskaya"]

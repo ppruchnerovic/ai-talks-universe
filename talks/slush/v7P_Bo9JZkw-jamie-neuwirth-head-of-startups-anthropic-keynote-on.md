@@ -4,7 +4,7 @@ title: "Jamie Neuwirth: Head of Startups @Anthropic, Keynote on Startup Scaling 
 slug: jamie-neuwirth-head-of-startups-anthropic-keynote-on
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

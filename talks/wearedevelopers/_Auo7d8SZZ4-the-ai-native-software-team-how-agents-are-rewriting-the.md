@@ -4,7 +4,7 @@ title: "The AI-Native Software Team: How Agents Are Rewriting the SDLC"
 slug: the-ai-native-software-team-how-agents-are-rewriting-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcin Wawryszczuk"]

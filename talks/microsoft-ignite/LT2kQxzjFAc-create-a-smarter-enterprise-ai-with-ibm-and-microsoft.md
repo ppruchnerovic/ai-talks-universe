@@ -4,7 +4,7 @@ title: "Create a smarter enterprise AI with IBM and Microsoft | STUDIOSP85"
 slug: create-a-smarter-enterprise-ai-with-ibm-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Evaluating Open-Source Local LLMs: A Comparative Analysis with Proprieta
 slug: evaluating-open-source-local-llms-a-comparative-analysis
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []

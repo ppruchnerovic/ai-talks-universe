@@ -4,7 +4,7 @@ title: "From theory to reality: How AI transforms network operations | ODSP1420"
 slug: from-theory-to-reality-how-ai-transforms-network-operations
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Phillip Gervasi"]

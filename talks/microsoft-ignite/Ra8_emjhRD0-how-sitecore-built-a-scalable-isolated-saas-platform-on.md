@@ -4,7 +4,7 @@ title: "How Sitecore built a scalable isolated SaaS platform on Azure | BRK133"
 slug: how-sitecore-built-a-scalable-isolated-saas-platform-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Deborah Chen", "Jeffrey Ilse", "Andrew Liu"]

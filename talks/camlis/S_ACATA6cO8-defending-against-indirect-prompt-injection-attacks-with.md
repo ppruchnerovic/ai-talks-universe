@@ -4,7 +4,7 @@ title: "Defending Against Indirect Prompt Injection Attacks With Spotlighting"
 slug: defending-against-indirect-prompt-injection-attacks-with
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

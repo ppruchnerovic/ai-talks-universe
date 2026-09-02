@@ -4,7 +4,7 @@ title: "Building Employee Experience Through Everyday Interactions"
 slug: building-employee-experience-through-everyday-interactions
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

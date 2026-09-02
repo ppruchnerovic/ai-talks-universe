@@ -4,7 +4,7 @@ title: "PostgresML: Leveraging Postgres as a Vector Database for AI"
 slug: postgresml-leveraging-postgres-as-a-vector-database-for-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

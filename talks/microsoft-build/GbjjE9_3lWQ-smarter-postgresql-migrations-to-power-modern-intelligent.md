@@ -4,7 +4,7 @@ title: "Smarter PostgreSQL migrations to power modern, intelligent apps | OD822"
 slug: smarter-postgresql-migrations-to-power-modern-intelligent
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

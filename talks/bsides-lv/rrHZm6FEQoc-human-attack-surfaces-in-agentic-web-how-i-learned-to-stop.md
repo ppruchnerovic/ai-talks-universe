@@ -4,7 +4,7 @@ title: "Human Attack Surfaces in Agentic Web: How I Learned to Stop Worrying and
 slug: human-attack-surfaces-in-agentic-web-how-i-learned-to-stop
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

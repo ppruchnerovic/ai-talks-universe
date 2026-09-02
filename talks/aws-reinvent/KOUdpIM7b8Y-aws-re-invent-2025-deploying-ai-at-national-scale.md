@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Deploying AI at National Scale: Architectures and L
 slug: aws-re-invent-2025-deploying-ai-at-national-scale
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Supercharge your AI coding workflow with Chrome DevTools for agents"
 slug: supercharge-your-ai-coding-workflow-with-chrome-devtools
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Matthias Rohmer"]

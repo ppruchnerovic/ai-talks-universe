@@ -4,7 +4,7 @@ title: "Make Legal Write Your Evals: Building Jade, Chime’s Financial Copilot 
 slug: make-legal-write-your-evals-building-jade-chimes-financial
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

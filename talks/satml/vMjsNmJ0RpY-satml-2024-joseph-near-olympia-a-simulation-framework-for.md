@@ -4,7 +4,7 @@ title: "SaTML 2024 - Joseph Near - OLYMPIA: A Simulation Framework for Evaluatin
 slug: satml-2024-joseph-near-olympia-a-simulation-framework-for
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Joseph Near"]

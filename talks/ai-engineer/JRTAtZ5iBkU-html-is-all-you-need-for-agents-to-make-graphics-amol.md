@@ -4,7 +4,7 @@ title: "HTML is All You Need (for Agents to Make Graphics) - Amol Kapoor, Nori"
 slug: html-is-all-you-need-for-agents-to-make-graphics-amol
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Amol Kapoor"]

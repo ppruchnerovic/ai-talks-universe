@@ -4,7 +4,7 @@ title: "Crafting Intelligent Agents with Context Engineering - Carly Richmond - 
 slug: crafting-intelligent-agents-with-context-engineering-carly
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Carly Richmond"]

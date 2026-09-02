@@ -4,7 +4,7 @@ title: "NTT DATA interview title | STUDIOSP83"
 slug: ntt-data-interview-title-studiosp83
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brandon Lee", "Aishwarya Singh"]

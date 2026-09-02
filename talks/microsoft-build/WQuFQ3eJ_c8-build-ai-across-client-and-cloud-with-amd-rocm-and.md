@@ -4,7 +4,7 @@ title: "Build AI across client and cloud with AMD ROCm and Microsoft | BRKSP93"
 slug: build-ai-across-client-and-cloud-with-amd-rocm-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Anush Elangovan"]

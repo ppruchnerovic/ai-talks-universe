@@ -4,7 +4,7 @@ title: "Redefining virtualization with the alternative VM platform you seek | OD
 slug: redefining-virtualization-with-the-alternative-vm-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jeff Ready"]

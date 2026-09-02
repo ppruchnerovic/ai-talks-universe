@@ -4,7 +4,7 @@ title: "Zifan Wang - Agent Safety: From Red Teaming to Oversight"
 slug: zifan-wang-agent-safety-from-red-teaming-to-oversight
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Zifan Wang"]

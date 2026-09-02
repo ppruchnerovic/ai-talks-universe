@@ -4,7 +4,7 @@ title: "Observe and control agents across any framework with open source tools |
 slug: observe-and-control-agents-across-any-framework-with-open
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sarah Bird", "Sandeep Atluri", "Mehrnoosh Sameki"]

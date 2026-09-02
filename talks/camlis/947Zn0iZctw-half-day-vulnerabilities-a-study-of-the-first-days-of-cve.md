@@ -4,7 +4,7 @@ title: "Half-Day Vulnerabilities: A Study of the First Days of CVE Entries (CAML
 slug: half-day-vulnerabilities-a-study-of-the-first-days-of-cve
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

@@ -4,7 +4,7 @@ title: "Building an AI Agent for Natural Language to SQL Query Execution on Live
 slug: building-an-ai-agent-for-natural-language-to-sql-query
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

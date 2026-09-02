@@ -4,7 +4,7 @@ title: "Demystifying Parallel Programming in Python: from CPU to quantum process
 slug: demystifying-parallel-programming-in-python-from-cpu-to
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Gaël Pegliasco"]

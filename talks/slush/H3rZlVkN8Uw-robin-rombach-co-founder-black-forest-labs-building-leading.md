@@ -4,7 +4,7 @@ title: "Robin Rombach: Co-founder @Black Forest Labs, Building Leading AI Models
 slug: robin-rombach-co-founder-black-forest-labs-building-leading
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

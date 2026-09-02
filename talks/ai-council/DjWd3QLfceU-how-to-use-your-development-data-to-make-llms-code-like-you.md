@@ -4,7 +4,7 @@ title: "How to Use Your Development Data to Make LLMs Code Like You and Your Tea
 slug: how-to-use-your-development-data-to-make-llms-code-like-you
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Tyler Dunn"]

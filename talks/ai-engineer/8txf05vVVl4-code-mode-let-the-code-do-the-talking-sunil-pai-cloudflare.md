@@ -4,7 +4,7 @@ title: "Code Mode: Let the Code do the Talking - Sunil Pai, Cloudflare"
 slug: code-mode-let-the-code-do-the-talking-sunil-pai-cloudflare
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sunil Pai"]

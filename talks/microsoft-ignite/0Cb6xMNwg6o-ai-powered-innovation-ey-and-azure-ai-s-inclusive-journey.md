@@ -4,7 +4,7 @@ title: "AI powered innovation: EY and Azure AI's inclusive journey | BRK116"
 slug: ai-powered-innovation-ey-and-azure-ai-s-inclusive-journey
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["John Franzen", "Ailsa Leen", "David Mondello", "Heather Tartaglia"]

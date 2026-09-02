@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - An Autonomous Mom: Revolutionizing Wind Farm Manage
 slug: devoxx-greece-2025-an-autonomous-mom-revolutionizing-wind
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

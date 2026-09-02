@@ -4,7 +4,7 @@ title: "Remote MCPs: What we learned from shipping — John Welsh, Anthropic"
 slug: remote-mcps-what-we-learned-from-shipping-john-welsh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["John Welsh"]

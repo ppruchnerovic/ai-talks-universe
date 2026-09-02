@@ -4,7 +4,7 @@ title: "Let's Create a GitHub Copilot Extension! with Nick Taylor"
 slug: let-s-create-a-github-copilot-extension-with-nick-taylor
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Give legacy phones a second life in a modern Microsoft Teams world | ODF
 slug: give-legacy-phones-a-second-life-in-a-modern-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

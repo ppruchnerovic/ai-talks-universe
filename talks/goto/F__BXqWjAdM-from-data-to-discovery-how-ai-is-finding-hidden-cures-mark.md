@@ -4,7 +4,7 @@ title: "From Data to Discovery: How AI Is Finding Hidden Cures • Mark Rickmeie
 slug: from-data-to-discovery-how-ai-is-finding-hidden-cures-mark
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Mark Rickmeier", "Brian Martin"]

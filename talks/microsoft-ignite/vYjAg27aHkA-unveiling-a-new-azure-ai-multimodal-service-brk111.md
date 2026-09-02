@@ -4,7 +4,7 @@ title: "Unveiling a new Azure AI multimodal service | BRK111"
 slug: unveiling-a-new-azure-ai-multimodal-service-brk111
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Selena Cameron", "Marco Casalaina", "Evan Kahan", "Vinod Kurpad"]

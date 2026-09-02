@@ -4,7 +4,7 @@ title: "The Future of AI-Powered Customer Research with Listen Labs’s Florian 
 slug: the-future-of-ai-powered-customer-research-with-listen
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

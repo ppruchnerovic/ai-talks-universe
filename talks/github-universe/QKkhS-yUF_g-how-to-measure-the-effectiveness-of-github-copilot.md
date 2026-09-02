@@ -4,7 +4,7 @@ title: "How to measure the effectiveness of GitHub Copilot"
 slug: how-to-measure-the-effectiveness-of-github-copilot
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []

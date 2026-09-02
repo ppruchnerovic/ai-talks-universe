@@ -4,7 +4,7 @@ title: "Running LLMs on your iPhone: 40 tok/s Gemma 4 with MLX — Adrien Grondi
 slug: running-llms-on-your-iphone-40-tok-s-gemma-4-with-mlx
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Adrien Grondin"]

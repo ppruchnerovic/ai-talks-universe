@@ -4,7 +4,7 @@ title: "PyData 2077: a data science future retrospective"
 slug: pydata-2077-a-data-science-future-retrospective
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Laura Summers"]

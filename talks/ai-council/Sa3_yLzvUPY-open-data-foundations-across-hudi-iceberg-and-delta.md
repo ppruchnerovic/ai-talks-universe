@@ -4,7 +4,7 @@ title: "Open Data Foundations across Hudi, Iceberg and Delta"
 slug: open-data-foundations-across-hudi-iceberg-and-delta
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Kyle Weller"]

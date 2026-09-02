@@ -4,7 +4,7 @@ title: "Neural Jump ODEs, Forecasting Capabilities in LOBs | Advances of ML Appr
 slug: neural-jump-odes-forecasting-capabilities-in-lobs-advances
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Florian Krach"]

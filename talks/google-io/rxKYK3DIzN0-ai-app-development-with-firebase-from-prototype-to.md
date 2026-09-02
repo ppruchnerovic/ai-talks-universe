@@ -4,7 +4,7 @@ title: "AI app development with Firebase, from prototype to production"
 slug: ai-app-development-with-firebase-from-prototype-to
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

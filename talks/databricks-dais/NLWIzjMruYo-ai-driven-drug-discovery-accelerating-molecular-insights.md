@@ -4,7 +4,7 @@ title: "AI-Driven Drug Discovery: Accelerating Molecular Insights With NVIDIA an
 slug: ai-driven-drug-discovery-accelerating-molecular-insights
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

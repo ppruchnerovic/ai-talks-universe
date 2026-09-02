@@ -4,7 +4,7 @@ title: "The Myth of 100% Utilization: The Neuroscience of Productive Teams"
 slug: the-myth-of-100-utilization-the-neuroscience-of-productive
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

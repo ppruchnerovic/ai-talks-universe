@@ -4,7 +4,7 @@ title: "The Cutting Edge of AI: From LLMs to Multimodal Intelligence by Emmanoui
 slug: the-cutting-edge-of-ai-from-llms-to-multimodal-intelligence
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Emmanouil Tavlakis"]

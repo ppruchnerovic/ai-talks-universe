@@ -4,7 +4,7 @@ title: "Hello World, Meet the Spanimals: Observability for Beginners - Tiffany J
 slug: hello-world-meet-the-spanimals-observability-for-beginners
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Hello World", "Tiffany Jernigan", "Matthias Haeussler"]

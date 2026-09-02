@@ -4,7 +4,7 @@ title: "Unlock the power of AI with Azure NetApp Files and NVIDIA | ODFP963"
 slug: unlock-the-power-of-ai-with-azure-netapp-files-and-nvidia
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

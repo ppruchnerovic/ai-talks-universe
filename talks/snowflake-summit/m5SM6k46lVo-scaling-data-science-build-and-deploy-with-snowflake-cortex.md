@@ -4,7 +4,7 @@ title: "Scaling Data Science: Build And Deploy With Snowflake Cortex And Snowfla
 slug: scaling-data-science-build-and-deploy-with-snowflake-cortex
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

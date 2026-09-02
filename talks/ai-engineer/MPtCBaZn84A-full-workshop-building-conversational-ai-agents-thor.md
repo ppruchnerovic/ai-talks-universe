@@ -4,7 +4,7 @@ title: "[Full Workshop] Building Conversational AI Agents - Thor Schaeff, Eleven
 slug: full-workshop-building-conversational-ai-agents-thor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Thor Schaeff"]

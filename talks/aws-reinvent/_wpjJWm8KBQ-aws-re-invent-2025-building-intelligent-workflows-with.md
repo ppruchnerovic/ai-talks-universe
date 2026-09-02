@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI
 slug: aws-re-invent-2025-building-intelligent-workflows-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

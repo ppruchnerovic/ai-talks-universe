@@ -4,7 +4,7 @@ title: "Baby's First 100 MLSec Words"
 slug: baby-s-first-100-mlsec-words
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

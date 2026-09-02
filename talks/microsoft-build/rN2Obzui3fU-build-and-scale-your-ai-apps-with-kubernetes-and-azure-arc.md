@@ -4,7 +4,7 @@ title: "Build and scale your AI apps with Kubernetes and Azure Arc | BRK188"
 slug: build-and-scale-your-ai-apps-with-kubernetes-and-azure-arc
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

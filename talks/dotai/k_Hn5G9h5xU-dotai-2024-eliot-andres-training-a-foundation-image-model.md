@@ -4,7 +4,7 @@ title: "dotAI 2024 - Eliot Andres - Training a foundation image model and deploy
 slug: dotai-2024-eliot-andres-training-a-foundation-image-model
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Eliot Andres"]

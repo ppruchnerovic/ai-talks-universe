@@ -4,7 +4,7 @@ title: "Tal Leibovich - From Noisy Distorted data sets to excellent prediction m
 slug: tal-leibovich-from-noisy-distorted-data-sets-to-excellent
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Tal Leibovich"]

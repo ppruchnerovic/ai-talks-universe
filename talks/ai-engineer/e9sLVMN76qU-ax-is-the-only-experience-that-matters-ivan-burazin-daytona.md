@@ -4,7 +4,7 @@ title: "AX is the only Experience that Matters - Ivan Burazin, Daytona"
 slug: ax-is-the-only-experience-that-matters-ivan-burazin-daytona
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ivan Burazin"]

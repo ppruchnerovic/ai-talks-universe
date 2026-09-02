@@ -4,7 +4,7 @@ title: "Health Insurance Appeals with Generative AI: From Lab to Production • 
 slug: health-insurance-appeals-with-generative-ai-from-lab-to
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Holden Karau"]

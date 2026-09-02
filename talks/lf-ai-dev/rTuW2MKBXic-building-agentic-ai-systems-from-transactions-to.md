@@ -4,7 +4,7 @@ title: "Building Agentic AI Systems: From Transactions To Conversations - Richar
 slug: building-agentic-ai-systems-from-transactions-to
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Richard Li"]

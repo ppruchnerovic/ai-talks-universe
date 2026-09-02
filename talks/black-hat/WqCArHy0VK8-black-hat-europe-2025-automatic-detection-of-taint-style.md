@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Automatic Detection of Taint-Style Vulnerabiliti
 slug: black-hat-europe-2025-automatic-detection-of-taint-style
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

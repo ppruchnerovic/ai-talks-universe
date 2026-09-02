@@ -4,7 +4,7 @@ title: "From cloud to edge: Building and shipping Edge AI apps with Microsoft Fo
 slug: from-cloud-to-edge-building-and-shipping-edge-ai-apps-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lior Kamrat", "Sam Kemp", "Gautham Krishnamurthy", "Raji Rajagopalan"]

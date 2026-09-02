@@ -4,7 +4,7 @@ title: "The Agent Awakens: Collaborative Development with Copilot - Christopher 
 slug: the-agent-awakens-collaborative-development-with-copilot
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Christopher Harrison"]

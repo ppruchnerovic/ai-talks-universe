@@ -4,7 +4,7 @@ title: "What if the harness mattered more than the model? - Aditya Bhargava, Ets
 slug: what-if-the-harness-mattered-more-than-the-model-aditya
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aditya Bhargava"]

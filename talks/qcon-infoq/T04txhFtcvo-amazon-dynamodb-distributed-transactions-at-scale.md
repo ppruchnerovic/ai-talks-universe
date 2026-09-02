@@ -4,7 +4,7 @@ title: "Amazon DynamoDB Distributed Transactions at Scale"
 slug: amazon-dynamodb-distributed-transactions-at-scale
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

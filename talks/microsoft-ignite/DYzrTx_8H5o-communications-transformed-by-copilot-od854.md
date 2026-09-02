@@ -4,7 +4,7 @@ title: "Communications transformed by Copilot | OD854"
 slug: communications-transformed-by-copilot-od854
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

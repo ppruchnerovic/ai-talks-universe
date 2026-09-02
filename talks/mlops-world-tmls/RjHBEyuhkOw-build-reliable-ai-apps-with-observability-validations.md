@@ -4,7 +4,7 @@ title: "Build Reliable AI Apps with Observability, Validations & Evaluations | P
 slug: build-reliable-ai-apps-with-observability-validations
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Pratik Verma"]

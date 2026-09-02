@@ -4,7 +4,7 @@ title: "The weekly developer show: SEO, GEO, AI Slop & More"
 slug: the-weekly-developer-show-seo-geo-ai-slop-more
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

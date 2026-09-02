@@ -4,7 +4,7 @@ title: "Build for the Memo, Not the Demo — Shawn Chan, China Resources Holding
 slug: build-for-the-memo-not-the-demo-shawn-chan-china-resources
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shawn Chan"]

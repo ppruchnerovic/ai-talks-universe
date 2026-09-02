@@ -4,7 +4,7 @@ title: "Transform manufacturing with digital twins and real-time simulation | ST
 slug: transform-manufacturing-with-digital-twins-and-real-time
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Donald Ferguson", "Ganesh Sivaraman"]

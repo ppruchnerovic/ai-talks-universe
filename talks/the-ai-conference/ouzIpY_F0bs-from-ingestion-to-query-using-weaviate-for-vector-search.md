@@ -4,7 +4,7 @@ title: "From Ingestion to Query: Using Weaviate for Vector Search — Adam Chan 
 slug: from-ingestion-to-query-using-weaviate-for-vector-search
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Adam Chan"]

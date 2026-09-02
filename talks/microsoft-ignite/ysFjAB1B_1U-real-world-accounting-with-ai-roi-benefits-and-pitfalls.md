@@ -4,7 +4,7 @@ title: "Real world accounting with AI: ROI benefits and pitfalls | ODFP972"
 slug: real-world-accounting-with-ai-roi-benefits-and-pitfalls
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Aaron Harris"]

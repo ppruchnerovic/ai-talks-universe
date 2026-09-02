@@ -4,7 +4,7 @@ title: "Transform your agentic apps with voice in Foundry | BRK144"
 slug: transform-your-agentic-apps-with-voice-in-foundry-brk144
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

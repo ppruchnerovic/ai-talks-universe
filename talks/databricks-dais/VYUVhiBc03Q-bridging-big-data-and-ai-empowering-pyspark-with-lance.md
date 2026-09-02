@@ -4,7 +4,7 @@ title: "Bridging Big Data and AI: Empowering PySpark With Lance Format for Multi
 slug: bridging-big-data-and-ai-empowering-pyspark-with-lance
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

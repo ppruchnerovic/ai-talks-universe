@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Private Investigator: Extracting Personally Identi
 slug: usenix-security-25-private-investigator-extracting
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

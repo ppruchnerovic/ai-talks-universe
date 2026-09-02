@@ -4,7 +4,7 @@ title: "Unlock the power of Real-Time Intelligence in the era of AI | BRK226"
 slug: unlock-the-power-of-real-time-intelligence-in-the-era-of-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yitzhak Kesselman", "Fred Bellio", "Tessa Kloster", "Bharathi Rajan", "Ashokkan Somuveerappan", "Will Thompson"]

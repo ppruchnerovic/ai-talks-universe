@@ -4,7 +4,7 @@ title: "Jack Ye - Supercharging Multimodal Feature Engineering | PyData Seattle 
 slug: jack-ye-supercharging-multimodal-feature-engineering-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jack Ye"]

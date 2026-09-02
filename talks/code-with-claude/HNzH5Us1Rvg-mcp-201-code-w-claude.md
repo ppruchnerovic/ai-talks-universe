@@ -4,7 +4,7 @@ title: "MCP 201 | Code w/ Claude"
 slug: mcp-201-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []

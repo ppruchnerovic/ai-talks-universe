@@ -4,7 +4,7 @@ title: "dotAI 2024 - Neil Zeghidour - Multimodal language models"
 slug: dotai-2024-neil-zeghidour-multimodal-language-models
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Neil Zeghidour"]

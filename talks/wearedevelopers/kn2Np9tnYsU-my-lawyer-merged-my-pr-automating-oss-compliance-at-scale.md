@@ -4,7 +4,7 @@ title: "My Lawyer Merged My PR: Automating OSS Compliance at Scale"
 slug: my-lawyer-merged-my-pr-automating-oss-compliance-at-scale
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Uwe Korn"]

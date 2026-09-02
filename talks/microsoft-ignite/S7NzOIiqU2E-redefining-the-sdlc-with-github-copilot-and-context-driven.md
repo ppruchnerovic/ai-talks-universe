@@ -4,7 +4,7 @@ title: "Redefining the SDLC with GitHub Copilot and Context-Driven AI | ODSP1414
 slug: redefining-the-sdlc-with-github-copilot-and-context-driven
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jon Perkins"]

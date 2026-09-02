@@ -4,7 +4,7 @@ title: "The Agent Interface Layer: Protocols, Tools and Trust Boundaries"
 slug: the-agent-interface-layer-protocols-tools-and-trust
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["David Soria Parra", "Malte Ubl", "Taroon Mandhana", "Duan Lightfoot"]

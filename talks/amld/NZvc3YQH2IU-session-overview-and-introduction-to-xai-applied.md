@@ -4,7 +4,7 @@ title: "Session overview and introduction to XAI | Applied Explainable AI | Alan
 slug: session-overview-and-introduction-to-xai-applied
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Alan Perotti"]

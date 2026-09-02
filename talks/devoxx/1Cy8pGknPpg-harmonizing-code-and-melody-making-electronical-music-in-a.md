@@ -4,7 +4,7 @@ title: "Harmonizing Code and Melody: making electronical music in a matter of sp
 slug: harmonizing-code-and-melody-making-electronical-music-in-a
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Jan Van Wassenhov"]

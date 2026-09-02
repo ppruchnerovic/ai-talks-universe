@@ -4,7 +4,7 @@ title: "Joe Pringle - Computer Vision Data Version Control and Reproducibility a
 slug: joe-pringle-computer-vision-data-version-control-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Joe Pringle"]

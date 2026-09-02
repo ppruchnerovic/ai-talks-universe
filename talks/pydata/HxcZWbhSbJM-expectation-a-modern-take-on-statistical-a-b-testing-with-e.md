@@ -4,7 +4,7 @@ title: "expectation: A modern take on statistical A/B testing with e-values and 
 slug: expectation-a-modern-take-on-statistical-a-b-testing-with-e
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jako Rostami"]

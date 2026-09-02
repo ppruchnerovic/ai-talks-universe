@@ -4,7 +4,7 @@ title: "Build AI that understands your business | ODSP1462"
 slug: build-ai-that-understands-your-business-odsp1462
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oren Eini"]

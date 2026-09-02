@@ -4,7 +4,7 @@ title: "AI Agents for data: get insights, not SQL - Claire Gouze - nao"
 slug: ai-agents-for-data-get-insights-not-sql-claire-gouze-nao
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Claire Gouze"]

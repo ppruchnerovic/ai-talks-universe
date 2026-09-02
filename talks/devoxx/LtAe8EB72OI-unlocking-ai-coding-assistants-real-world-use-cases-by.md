@@ -4,7 +4,7 @@ title: "Unlocking AI Coding Assistants: Real World Use Cases by Gunter Rotsaert"
 slug: unlocking-ai-coding-assistants-real-world-use-cases-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Gunter Rotsaert"]

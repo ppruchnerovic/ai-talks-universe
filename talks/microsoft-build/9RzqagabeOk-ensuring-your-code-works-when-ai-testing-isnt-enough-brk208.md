@@ -4,7 +4,7 @@ title: "Ensuring your code works when AI testing isn’t enough | BRK208"
 slug: ensuring-your-code-works-when-ai-testing-isnt-enough-brk208
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Simon Willison"]

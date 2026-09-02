@@ -4,7 +4,7 @@ title: "Data Generation: GANs & Diffusion Models | Overcoming Data Scarcity | Ma
 slug: data-generation-gans-diffusion-models-overcoming-data
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Matteo Matteucci"]

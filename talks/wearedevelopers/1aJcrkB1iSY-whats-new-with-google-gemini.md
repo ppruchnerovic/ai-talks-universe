@@ -4,7 +4,7 @@ title: "What’s New with Google Gemini?"
 slug: whats-new-with-google-gemini
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

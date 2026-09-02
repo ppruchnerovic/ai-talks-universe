@@ -4,7 +4,7 @@ title: "Aashutosh Nema - From Hype to Impact: Bringing Agentic AI to Existing Sy
 slug: aashutosh-nema-from-hype-to-impact-bringing-agentic-ai-to
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Aashutosh Nema"]

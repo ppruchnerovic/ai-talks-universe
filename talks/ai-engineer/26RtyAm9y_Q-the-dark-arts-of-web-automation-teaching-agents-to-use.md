@@ -4,7 +4,7 @@ title: "The Dark Arts of Web Automation: Teaching Agents to Use Websites Like Hu
 slug: the-dark-arts-of-web-automation-teaching-agents-to-use
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Corey Gallon"]

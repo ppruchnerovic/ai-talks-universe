@@ -4,7 +4,7 @@ title: "Advancing Windows device security through Surface innovation | BRK338"
 slug: advancing-windows-device-security-through-surface
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["David Abzarian", "Karan Dhillon"]

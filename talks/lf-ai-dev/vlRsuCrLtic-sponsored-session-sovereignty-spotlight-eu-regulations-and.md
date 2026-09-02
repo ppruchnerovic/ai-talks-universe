@@ -4,7 +4,7 @@ title: "Sponsored Session: Sovereignty Spotlight: EU Regulations and the... Stef
 slug: sponsored-session-sovereignty-spotlight-eu-regulations-and
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []

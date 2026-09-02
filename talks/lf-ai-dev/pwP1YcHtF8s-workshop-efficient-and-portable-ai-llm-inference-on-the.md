@@ -4,7 +4,7 @@ title: "Workshop: Efficient and Portable AI / LLM Inference on the Edge Cloud - 
 slug: workshop-efficient-and-portable-ai-llm-inference-on-the
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Xiaowei Hu"]

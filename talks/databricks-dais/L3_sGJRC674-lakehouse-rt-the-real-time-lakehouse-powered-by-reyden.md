@@ -4,7 +4,7 @@ title: "Lakehouse//RT, the real-time Lakehouse powered by Reyden — Reynold Xin
 slug: lakehouse-rt-the-real-time-lakehouse-powered-by-reyden
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Reynold Xin"]

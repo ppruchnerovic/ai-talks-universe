@@ -4,7 +4,7 @@ title: "Supercharge your JVM performance with Project Leyden"
 slug: supercharge-your-jvm-performance-with-project-leyden
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ana Maria Mihalceanu"]

@@ -4,7 +4,7 @@ title: "SaTML 2023 - Zico Kolter - Robustness in Machine Learning: A Five-Year R
 slug: satml-2023-zico-kolter-robustness-in-machine-learning-a
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Zico Kolter"]

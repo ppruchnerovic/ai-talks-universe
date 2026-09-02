@@ -4,7 +4,7 @@ title: "The weekly developer show: Exploring Accessibility in Web Development | 
 slug: the-weekly-developer-show-exploring-accessibility-in-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

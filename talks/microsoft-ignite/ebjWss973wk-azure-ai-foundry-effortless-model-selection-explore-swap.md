@@ -4,7 +4,7 @@ title: "Azure AI Foundry: Effortless model selection - explore swap & scale fast
 slug: azure-ai-foundry-effortless-model-selection-explore-swap
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kenji Motohashi", "Facundo Santiago", "Saumil Shrivastava"]

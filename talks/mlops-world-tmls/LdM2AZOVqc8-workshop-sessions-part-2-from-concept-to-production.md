@@ -4,7 +4,7 @@ title: "Workshop Sessions: Part 2 From Concept to Production - Template for the 
 slug: workshop-sessions-part-2-from-concept-to-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

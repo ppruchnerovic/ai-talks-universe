@@ -4,7 +4,7 @@ title: "Bolster your data security in the AI era with Microsoft and Netskope | O
 slug: bolster-your-data-security-in-the-ai-era-with-microsoft-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ankur Chadda"]

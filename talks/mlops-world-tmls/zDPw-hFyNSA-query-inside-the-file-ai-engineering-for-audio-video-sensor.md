@@ -4,7 +4,7 @@ title: "Query Inside the File: AI Engineering for Audio, Video & Sensor Data | D
 slug: query-inside-the-file-ai-engineering-for-audio-video-sensor
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Dmitry Petrov"]

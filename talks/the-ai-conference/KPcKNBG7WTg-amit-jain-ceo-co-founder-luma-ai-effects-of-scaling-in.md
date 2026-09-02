@@ -4,7 +4,7 @@ title: "Amit Jain, CEO & Co-Founder, Luma AI: Effects of Scaling in World Model 
 slug: amit-jain-ceo-co-founder-luma-ai-effects-of-scaling-in
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

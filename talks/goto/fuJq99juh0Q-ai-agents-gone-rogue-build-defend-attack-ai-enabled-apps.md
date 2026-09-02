@@ -4,7 +4,7 @@ title: "AI Agents Gone Rogue? Build, Defend & Attack AI-Enabled Apps • Katie P
 slug: ai-agents-gone-rogue-build-defend-attack-ai-enabled-apps
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: []

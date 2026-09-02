@@ -4,7 +4,7 @@ title: "Emulated: The Data for Fully Autonomous Software Engineers and Companies
 slug: emulated-the-data-for-fully-autonomous-software-engineers
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joseph Wang"]

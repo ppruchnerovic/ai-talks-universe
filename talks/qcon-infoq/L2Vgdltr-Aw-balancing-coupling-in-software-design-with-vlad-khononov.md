@@ -4,7 +4,7 @@ title: "Balancing Coupling in Software Design with Vlad Khononov"
 slug: balancing-coupling-in-software-design-with-vlad-khononov
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

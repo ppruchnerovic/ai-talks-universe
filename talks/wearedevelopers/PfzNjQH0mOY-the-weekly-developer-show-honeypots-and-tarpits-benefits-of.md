@@ -4,7 +4,7 @@ title: "The weekly developer show: Honeypots and tarpits, Benefits of building y
 slug: the-weekly-developer-show-honeypots-and-tarpits-benefits-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

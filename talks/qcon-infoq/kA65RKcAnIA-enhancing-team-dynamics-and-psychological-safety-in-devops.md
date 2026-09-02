@@ -4,7 +4,7 @@ title: "Enhancing Team Dynamics and Psychological Safety in DevOps with Brittany
 slug: enhancing-team-dynamics-and-psychological-safety-in-devops
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

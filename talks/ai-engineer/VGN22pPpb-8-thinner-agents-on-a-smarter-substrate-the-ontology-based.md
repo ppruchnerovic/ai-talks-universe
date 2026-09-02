@@ -4,7 +4,7 @@ title: "Thinner Agents on a Smarter Substrate: The Ontology-based Semantic Layer
 slug: thinner-agents-on-a-smarter-substrate-the-ontology-based
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Emil Eifrem"]

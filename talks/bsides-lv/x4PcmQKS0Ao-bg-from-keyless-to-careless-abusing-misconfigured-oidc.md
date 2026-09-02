@@ -4,7 +4,7 @@ title: "BG - From keyless to careless: Abusing misconfigured OIDC authentication
 slug: bg-from-keyless-to-careless-abusing-misconfigured-oidc
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

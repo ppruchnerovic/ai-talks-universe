@@ -4,7 +4,7 @@ title: "The weekly developer show: Modern DevOps for IoT Devices and More"
 slug: the-weekly-developer-show-modern-devops-for-iot-devices-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

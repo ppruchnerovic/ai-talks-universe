@@ -4,7 +4,7 @@ title: "Edo Liberty on Vector Databases for Successful Adoption of Generative AI
 slug: edo-liberty-on-vector-databases-for-successful-adoption-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

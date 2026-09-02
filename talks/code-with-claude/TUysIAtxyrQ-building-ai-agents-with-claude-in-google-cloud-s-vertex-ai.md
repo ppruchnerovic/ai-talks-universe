@@ -4,7 +4,7 @@ title: "Building AI agents with Claude in Google Cloud's Vertex AI | Code w/ Cla
 slug: building-ai-agents-with-claude-in-google-cloud-s-vertex-ai
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []

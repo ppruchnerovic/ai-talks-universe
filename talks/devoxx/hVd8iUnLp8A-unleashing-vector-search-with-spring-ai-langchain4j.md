@@ -4,7 +4,7 @@ title: "Unleashing Vector Search with Spring AI, LangChain4J, Hibernate Vector, 
 slug: unleashing-vector-search-with-spring-ai-langchain4j
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

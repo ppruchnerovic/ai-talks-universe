@@ -4,7 +4,7 @@ title: "RSAC 365 Innovation Showcase: Identity Security in the World of AI"
 slug: rsac-365-innovation-showcase-identity-security-in-the-world
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Jenny Brock"]

@@ -4,7 +4,7 @@ title: "Why Distributed Locks are a Trap (and How to Avoid Them)"
 slug: why-distributed-locks-are-a-trap-and-how-to-avoid-them
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

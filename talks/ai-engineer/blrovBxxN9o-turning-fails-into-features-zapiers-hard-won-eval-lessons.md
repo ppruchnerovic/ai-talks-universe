@@ -4,7 +4,7 @@ title: "Turning Fails into Features: Zapier’s Hard-Won Eval Lessons — Rafal 
 slug: turning-fails-into-features-zapiers-hard-won-eval-lessons
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rafal Willinski"]

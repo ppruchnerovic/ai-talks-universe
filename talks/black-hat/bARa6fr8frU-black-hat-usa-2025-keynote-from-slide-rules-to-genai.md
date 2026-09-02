@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 Keynote | From Slide Rules to GenAi"
 slug: black-hat-usa-2025-keynote-from-slide-rules-to-genai
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Applied generative AI for protein engineering | AI and the Molecular Wor
 slug: applied-generative-ai-for-protein-engineering-ai-and-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Franziska Geiger"]

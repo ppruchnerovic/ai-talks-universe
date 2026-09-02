@@ -4,7 +4,7 @@ title: "A Developer's Guide to Not Getting Replaced by Agents"
 slug: a-developer-s-guide-to-not-getting-replaced-by-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

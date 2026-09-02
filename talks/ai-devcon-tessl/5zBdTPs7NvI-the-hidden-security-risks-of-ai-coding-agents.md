@@ -4,7 +4,7 @@ title: "The Hidden Security Risks of AI Coding Agents"
 slug: the-hidden-security-risks-of-ai-coding-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

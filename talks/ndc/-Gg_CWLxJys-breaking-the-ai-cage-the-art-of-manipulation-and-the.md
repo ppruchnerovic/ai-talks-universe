@@ -4,7 +4,7 @@ title: "Breaking the AI Cage: The Art of Manipulation and the Reality of Risk - 
 slug: breaking-the-ai-cage-the-art-of-manipulation-and-the
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

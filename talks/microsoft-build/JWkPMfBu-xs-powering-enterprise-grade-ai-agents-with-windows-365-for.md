@@ -4,7 +4,7 @@ title: "Powering enterprise-grade AI agents with Windows 365 for Agents | OD852"
 slug: powering-enterprise-grade-ai-agents-with-windows-365-for
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Joydeep Mukherjee", "Sam Shapiro"]

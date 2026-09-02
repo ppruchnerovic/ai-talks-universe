@@ -4,7 +4,7 @@ title: "Building MCP at the Speed of Hype: Principles That Outlast the Trends [P
 slug: building-mcp-at-the-speed-of-hype-principles-that-outlast
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Rahkakavee Baskaran"]

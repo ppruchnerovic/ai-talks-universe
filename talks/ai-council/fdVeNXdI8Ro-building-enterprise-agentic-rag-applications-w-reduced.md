@@ -4,7 +4,7 @@ title: "Building Enterprise Agentic RAG Applications w/ Reduced Hallucinations"
 slug: building-enterprise-agentic-rag-applications-w-reduced
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ofer Mendelevitch"]

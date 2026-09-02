@@ -4,7 +4,7 @@ title: "The Devil is in the (Micro-) Architectures: Uncovering New Side-Channel 
 slug: the-devil-is-in-the-micro-architectures-uncovering-new-side
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

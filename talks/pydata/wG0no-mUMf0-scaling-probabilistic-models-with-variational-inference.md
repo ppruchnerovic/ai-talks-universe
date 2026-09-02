@@ -4,7 +4,7 @@ title: "Scaling Probabilistic Models with Variational Inference"
 slug: scaling-probabilistic-models-with-variational-inference
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Dr. Juan Orduz"]

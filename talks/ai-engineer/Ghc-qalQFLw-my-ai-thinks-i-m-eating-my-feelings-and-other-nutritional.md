@@ -4,7 +4,7 @@ title: "My AI Thinks I'm Eating My Feelings (and Other Nutritional Insights) - R
 slug: my-ai-thinks-i-m-eating-my-feelings-and-other-nutritional
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rami Alhamad"]

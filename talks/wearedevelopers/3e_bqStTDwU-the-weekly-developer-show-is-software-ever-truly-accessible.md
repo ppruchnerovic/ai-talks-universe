@@ -4,7 +4,7 @@ title: "The weekly developer show: Is Software Ever Truly Accessible?"
 slug: the-weekly-developer-show-is-software-ever-truly-accessible
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Real Copilot adoption journeys that worked | BRK291"
 slug: real-copilot-adoption-journeys-that-worked-brk291
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Emma Devine", "Kristin Ginn", "Teresa Kesselring", "Silvia Neumann"]

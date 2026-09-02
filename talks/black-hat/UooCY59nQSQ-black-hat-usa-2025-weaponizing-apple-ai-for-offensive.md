@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Weaponizing Apple AI for Offensive Operations"
 slug: black-hat-usa-2025-weaponizing-apple-ai-for-offensive
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

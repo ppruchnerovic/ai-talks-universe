@@ -4,7 +4,7 @@ title: "Azure Partner Success: Driving Innovation Together | PBRK233"
 slug: azure-partner-success-driving-innovation-together-pbrk233
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nina Harding", "Zia Mansoor", "Cyril Belikoff", "Sanjay Mehta", "Thomas Shea"]

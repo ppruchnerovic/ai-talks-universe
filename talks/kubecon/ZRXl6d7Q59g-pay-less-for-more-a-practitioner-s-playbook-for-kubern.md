@@ -4,7 +4,7 @@ title: "Pay Less for More: A Practitioner's Playbook for Kubern... Malgorzata Wi
 slug: pay-less-for-more-a-practitioner-s-playbook-for-kubern
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

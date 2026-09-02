@@ -4,7 +4,7 @@ title: "Achieving Product Market Fit | Courtney Fukuda (Metropolis)"
 slug: achieving-product-market-fit-courtney-fukuda-metropolis
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Courtney Fukuda"]

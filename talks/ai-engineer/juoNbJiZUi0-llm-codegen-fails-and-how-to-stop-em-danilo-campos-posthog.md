@@ -4,7 +4,7 @@ title: "LLM codegen fails and how to stop 'em — Danilo Campos, PostHog"
 slug: llm-codegen-fails-and-how-to-stop-em-danilo-campos-posthog
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Danilo Campos"]

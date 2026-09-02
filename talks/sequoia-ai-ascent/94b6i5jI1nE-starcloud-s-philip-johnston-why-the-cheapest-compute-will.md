@@ -4,7 +4,7 @@ title: "Starcloud's Philip Johnston: Why the Cheapest Compute Will Be in Space"
 slug: starcloud-s-philip-johnston-why-the-cheapest-compute-will
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

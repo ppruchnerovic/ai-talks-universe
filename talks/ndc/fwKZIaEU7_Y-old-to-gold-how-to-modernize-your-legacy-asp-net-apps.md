@@ -4,7 +4,7 @@ title: "Old to Gold: How to Modernize Your Legacy ASP.NET Apps Gradually - Jonat
 slug: old-to-gold-how-to-modernize-your-legacy-asp-net-apps
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jonathan J Tower"]

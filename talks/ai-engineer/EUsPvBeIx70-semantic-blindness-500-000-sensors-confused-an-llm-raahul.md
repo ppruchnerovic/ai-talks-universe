@@ -4,7 +4,7 @@ title: "Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Van
 slug: semantic-blindness-500-000-sensors-confused-an-llm-raahul
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raahul Singh"]

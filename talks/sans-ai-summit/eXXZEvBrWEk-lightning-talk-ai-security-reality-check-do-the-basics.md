@@ -4,7 +4,7 @@ title: "Lightning Talk: AI Security Reality Check: Do the Basics"
 slug: lightning-talk-ai-security-reality-check-do-the-basics
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

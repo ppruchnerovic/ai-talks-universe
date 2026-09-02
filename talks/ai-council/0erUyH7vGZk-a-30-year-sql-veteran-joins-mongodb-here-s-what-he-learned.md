@@ -4,7 +4,7 @@ title: "A 30-Year SQL Veteran Joins MongoDB — Here's What He Learned"
 slug: a-30-year-sql-veteran-joins-mongodb-here-s-what-he-learned
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Franck Pachot"]

@@ -4,7 +4,7 @@ title: "Text-to-SQL Is Not the Answer: How to Effectively Use AI for Analytics"
 slug: text-to-sql-is-not-the-answer-how-to-effectively-use-ai-for
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Dillon Morrison"]

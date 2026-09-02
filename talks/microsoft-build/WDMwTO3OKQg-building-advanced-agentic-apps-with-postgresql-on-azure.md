@@ -4,7 +4,7 @@ title: "Building advanced agentic apps with PostgreSQL on Azure | BRK211"
 slug: building-advanced-agentic-apps-with-postgresql-on-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

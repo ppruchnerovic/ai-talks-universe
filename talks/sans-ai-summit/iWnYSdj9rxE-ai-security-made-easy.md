@@ -4,7 +4,7 @@ title: "AI Security Made Easy"
 slug: ai-security-made-easy
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

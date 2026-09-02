@@ -4,7 +4,7 @@ title: "Milvus Vector Database: Unlocking the Future of Open Source Vector Datab
 slug: milvus-vector-database-unlocking-the-future-of-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Frank Liu"]

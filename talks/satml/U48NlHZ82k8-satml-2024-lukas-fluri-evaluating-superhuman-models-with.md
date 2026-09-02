@@ -4,7 +4,7 @@ title: "SaTML 2024 - Lukas Fluri - Evaluating Superhuman Models with Consistency
 slug: satml-2024-lukas-fluri-evaluating-superhuman-models-with
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Lukas Fluri"]

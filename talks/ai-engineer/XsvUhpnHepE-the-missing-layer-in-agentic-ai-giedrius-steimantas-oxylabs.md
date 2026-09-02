@@ -4,7 +4,7 @@ title: "The Missing Layer in Agentic AI — Giedrius Šteimantas, Oxylabs"
 slug: the-missing-layer-in-agentic-ai-giedrius-steimantas-oxylabs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

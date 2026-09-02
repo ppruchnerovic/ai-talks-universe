@@ -4,7 +4,7 @@ title: "[Session] Beyond API Wrappers: Workflow-Based MCP Servers with Elicitati
 slug: session-beyond-api-wrappers-workflow-based-mcp-servers-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

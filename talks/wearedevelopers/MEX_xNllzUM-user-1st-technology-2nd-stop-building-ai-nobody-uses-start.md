@@ -4,7 +4,7 @@ title: "User 1st! Technology 2nd! Stop building AI nobody uses - start deliverin
 slug: user-1st-technology-2nd-stop-building-ai-nobody-uses-start
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mateusz Gren", "Peter Hock"]

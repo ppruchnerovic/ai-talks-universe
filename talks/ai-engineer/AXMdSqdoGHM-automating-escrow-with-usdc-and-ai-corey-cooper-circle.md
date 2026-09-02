@@ -4,7 +4,7 @@ title: "Automating Escrow with USDC and AI - Corey Cooper, Circle"
 slug: automating-escrow-with-usdc-and-ai-corey-cooper-circle
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Corey Cooper"]

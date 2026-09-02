@@ -4,7 +4,7 @@ title: "AI customization: Tailoring models for your enterprise | BRK123"
 slug: ai-customization-tailoring-models-for-your-enterprise-brk123
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Yina Arenas", "Vijay Aski"]

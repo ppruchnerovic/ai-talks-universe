@@ -4,7 +4,7 @@ title: "Hurricane Response With Cortex AI: How TECO Restored Power To 600,000 Ho
 slug: hurricane-response-with-cortex-ai-how-teco-restored-power
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

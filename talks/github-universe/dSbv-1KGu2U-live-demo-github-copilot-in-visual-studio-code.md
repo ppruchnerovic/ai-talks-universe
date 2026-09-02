@@ -4,7 +4,7 @@ title: "Live demo: GitHub Copilot in Visual Studio Code"
 slug: live-demo-github-copilot-in-visual-studio-code
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []

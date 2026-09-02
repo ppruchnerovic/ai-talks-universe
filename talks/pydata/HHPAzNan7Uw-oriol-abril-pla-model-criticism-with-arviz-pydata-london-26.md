@@ -4,7 +4,7 @@ title: "Oriol Abril-Pla - Model criticism with ArviZ | Pydata London 26"
 slug: oriol-abril-pla-model-criticism-with-arviz-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Agentic RAG: 95% is NOT 100%. Nailing GenAI Precision in Production"
 slug: agentic-rag-95-is-not-100-nailing-genai-precision-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

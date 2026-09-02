@@ -4,7 +4,7 @@ title: "How a Netflix Side Project Became the Universal Standard for Data Tables
 slug: how-a-netflix-side-project-became-the-universal-standard
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ryan Blue"]

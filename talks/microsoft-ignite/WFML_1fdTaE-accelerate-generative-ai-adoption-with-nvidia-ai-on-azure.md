@@ -4,7 +4,7 @@ title: "Accelerate generative AI adoption with NVIDIA AI on Azure | BRKFP387"
 slug: accelerate-generative-ai-adoption-with-nvidia-ai-on-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dave Salvator"]

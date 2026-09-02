@@ -4,7 +4,7 @@ title: "The One Skill Senior Engineers Are Missing in the AI Era"
 slug: the-one-skill-senior-engineers-are-missing-in-the-ai-era
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Harness AI innovation to power a collaborative journey | ODFP977"
 slug: harness-ai-innovation-to-power-a-collaborative-journey
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kyle Aruda"]

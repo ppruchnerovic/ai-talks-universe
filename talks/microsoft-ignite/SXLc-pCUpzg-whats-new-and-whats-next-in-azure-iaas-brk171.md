@@ -4,7 +4,7 @@ title: "What’s new and what’s next in Azure IaaS | BRK171"
 slug: whats-new-and-whats-next-in-azure-iaas-brk171
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Igal Figlin", "Narayan Annamalai", "Aung Oo"]

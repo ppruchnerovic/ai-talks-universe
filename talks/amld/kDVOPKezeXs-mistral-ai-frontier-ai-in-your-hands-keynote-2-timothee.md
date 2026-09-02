@@ -4,7 +4,7 @@ title: "Mistral AI: Frontier AI in your hands | Keynote 2 | Timothée Lacroix"
 slug: mistral-ai-frontier-ai-in-your-hands-keynote-2-timothee
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Timothée Lacroix"]

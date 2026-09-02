@@ -4,7 +4,7 @@ title: "Rise of the AI Architect — Clay Bavor, Cofounder, Sierra w/ Alessio Fa
 slug: rise-of-the-ai-architect-clay-bavor-cofounder-sierra-w
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Clay Bavor"]

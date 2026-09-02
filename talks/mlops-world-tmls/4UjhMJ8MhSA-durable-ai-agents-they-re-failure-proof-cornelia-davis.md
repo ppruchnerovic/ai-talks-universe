@@ -4,7 +4,7 @@ title: "Durable AI Agents — They're Failure Proof | Cornelia Davis, Temporal l
 slug: durable-ai-agents-they-re-failure-proof-cornelia-davis
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Cornelia Davis"]

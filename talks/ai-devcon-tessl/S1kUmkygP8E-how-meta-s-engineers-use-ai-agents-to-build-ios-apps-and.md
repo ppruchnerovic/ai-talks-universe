@@ -4,7 +4,7 @@ title: "How Meta's Engineers Use AI Agents to Build iOS Apps (And What You Can L
 slug: how-meta-s-engineers-use-ai-agents-to-build-ios-apps-and
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

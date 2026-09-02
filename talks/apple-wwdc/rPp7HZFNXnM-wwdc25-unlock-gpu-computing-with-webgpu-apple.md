@@ -4,7 +4,7 @@ title: "WWDC25: Unlock GPU computing with WebGPU | Apple"
 slug: wwdc25-unlock-gpu-computing-with-webgpu-apple
 conference: apple-wwdc
 conference_name: "Apple WWDC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "WWDC25"
 year: 2025
 speakers: []

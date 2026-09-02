@@ -4,7 +4,7 @@ title: "Why your AI code doesn’t ship: Closing the gap to production | BRK200"
 slug: why-your-ai-code-doesnt-ship-closing-the-gap-to-production
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mario Rodriguez", "Evan Boyle"]

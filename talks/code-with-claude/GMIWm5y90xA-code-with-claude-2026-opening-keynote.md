@@ -4,7 +4,7 @@ title: "Code with Claude 2026: Opening Keynote"
 slug: code-with-claude-2026-opening-keynote
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []

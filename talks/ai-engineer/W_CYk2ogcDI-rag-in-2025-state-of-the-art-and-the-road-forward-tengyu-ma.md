@@ -4,7 +4,7 @@ title: "RAG in 2025: State of the Art and the Road Forward — Tengyu Ma, MongoD
 slug: rag-in-2025-state-of-the-art-and-the-road-forward-tengyu-ma
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tengyu Ma"]

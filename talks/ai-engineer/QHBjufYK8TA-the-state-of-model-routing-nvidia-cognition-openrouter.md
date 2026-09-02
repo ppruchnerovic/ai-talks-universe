@@ -4,7 +4,7 @@ title: "The State of Model Routing — NVIDIA, Cognition, OpenRouter"
 slug: the-state-of-model-routing-nvidia-cognition-openrouter
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

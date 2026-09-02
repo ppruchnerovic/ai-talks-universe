@@ -4,7 +4,7 @@ title: "How Command A is changing the game for enterprise AI adoption | ODFP961"
 slug: how-command-a-is-changing-the-game-for-enterprise-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

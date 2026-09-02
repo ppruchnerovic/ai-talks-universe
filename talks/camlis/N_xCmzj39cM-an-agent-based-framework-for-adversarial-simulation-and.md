@@ -4,7 +4,7 @@ title: "An Agent-Based Framework for Adversarial Simulation and Blue Teaming"
 slug: an-agent-based-framework-for-adversarial-simulation-and
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Gary Lopez Munoz"]

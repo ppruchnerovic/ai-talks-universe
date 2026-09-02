@@ -4,7 +4,7 @@ title: "Techniques to satellite observation of condensation trails | AI in Aviat
 slug: techniques-to-satellite-observation-of-condensation-trails
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Rémi Chevallier"]

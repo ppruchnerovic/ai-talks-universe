@@ -4,7 +4,7 @@ title: "Everything You Need To Know About Agent Observability — Danny Gollapal
 slug: everything-you-need-to-know-about-agent-observability-danny
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Danny Gollapalli", "Zubin Koticha"]

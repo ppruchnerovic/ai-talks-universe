@@ -4,7 +4,7 @@ title: "From Friction to Flow: How Great DevEx Makes Everything Awesome"
 slug: from-friction-to-flow-how-great-devex-makes-everything
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Nicole Forsgren"]

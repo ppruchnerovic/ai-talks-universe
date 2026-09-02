@@ -4,7 +4,7 @@ title: "Bending a Public MCP Server Without Breaking It — Nimrod Hauser, Baz"
 slug: bending-a-public-mcp-server-without-breaking-it-nimrod
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nimrod Hauser"]

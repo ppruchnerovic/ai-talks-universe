@@ -4,7 +4,7 @@ title: "The Tessl Agent: Build Your Software Factory on Autopilot"
 slug: the-tessl-agent-build-your-software-factory-on-autopilot
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

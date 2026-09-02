@@ -4,7 +4,7 @@ title: "Redefining Developer Workflows in the AI Era with MCP | Steve Manuel"
 slug: redefining-developer-workflows-in-the-ai-era-with-mcp-steve
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Steve Manuel"]

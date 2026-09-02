@@ -4,7 +4,7 @@ title: "Prototyping as Leadership: How a CTO Ships with AI Agents — Hursh Agra
 slug: prototyping-as-leadership-how-a-cto-ships-with-ai-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hursh Agrawal"]

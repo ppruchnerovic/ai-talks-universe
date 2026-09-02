@@ -4,7 +4,7 @@ title: "Turn the tables with GenAI on your advanced threat response model | ODFP
 slug: turn-the-tables-with-genai-on-your-advanced-threat-response
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

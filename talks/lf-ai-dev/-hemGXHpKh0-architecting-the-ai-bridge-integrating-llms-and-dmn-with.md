@@ -4,7 +4,7 @@ title: "Architecting the AI Bridge: Integrating LLMs and DMN With Drools, Sp... 
 slug: architecting-the-ai-bridge-integrating-llms-and-dmn-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []

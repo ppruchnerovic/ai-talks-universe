@@ -4,7 +4,7 @@ title: "Pretraining on AMD MI300X using ScalarLM"
 slug: pretraining-on-amd-mi300x-using-scalarlm
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

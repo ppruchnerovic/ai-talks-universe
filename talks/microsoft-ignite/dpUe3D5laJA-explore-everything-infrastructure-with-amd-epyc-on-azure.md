@@ -4,7 +4,7 @@ title: "Explore everything infrastructure with AMD EPYC on Azure | BRKFP366"
 slug: explore-everything-infrastructure-with-amd-epyc-on-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sean Kerr", "Stefanie Lemon"]

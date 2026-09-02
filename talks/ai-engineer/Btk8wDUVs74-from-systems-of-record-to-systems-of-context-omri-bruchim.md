@@ -4,7 +4,7 @@ title: "From Systems of Record to Systems of Context — Omri Bruchim & Tomer As
 slug: from-systems-of-record-to-systems-of-context-omri-bruchim
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Omri Bruchim", "Tomer Ast"]

@@ -4,7 +4,7 @@ title: "Bo Li - Guarding the Future: Advancing Risk Assessment, Safety Alignment
 slug: bo-li-guarding-the-future-advancing-risk-assessment-safety
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Bo Li"]

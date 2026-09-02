@@ -4,7 +4,7 @@ title: "NoLoJS: Avoiding JavaScript Cruft with HTML and CSS"
 slug: nolojs-avoiding-javascript-cruft-with-html-and-css
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

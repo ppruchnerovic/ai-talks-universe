@@ -4,7 +4,7 @@ title: "An Information Security Approach to Feature Engineering"
 slug: an-information-security-approach-to-feature-engineering
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

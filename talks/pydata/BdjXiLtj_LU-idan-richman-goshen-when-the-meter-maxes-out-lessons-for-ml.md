@@ -4,7 +4,7 @@ title: "Idan Richman Goshen - When the Meter Maxes Out- Lessons for ML Systems i
 slug: idan-richman-goshen-when-the-meter-maxes-out-lessons-for-ml
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Idan Richman Goshen"]

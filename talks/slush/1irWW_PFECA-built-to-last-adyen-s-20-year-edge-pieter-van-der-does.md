@@ -4,7 +4,7 @@ title: "Built to Last: Adyen's 20-Year Edge | Pieter van der Does (Adyen) & Jaso
 slug: built-to-last-adyen-s-20-year-edge-pieter-van-der-does
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Pieter van der Does"]

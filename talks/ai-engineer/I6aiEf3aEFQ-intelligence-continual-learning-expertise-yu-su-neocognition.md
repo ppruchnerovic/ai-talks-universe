@@ -4,7 +4,7 @@ title: "Intelligence + Continual Learning = Expertise — Yu Su, NeoCognition"
 slug: intelligence-continual-learning-expertise-yu-su-neocognition
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Yu Su"]

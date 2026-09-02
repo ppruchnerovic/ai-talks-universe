@@ -4,7 +4,7 @@ title: "The weekly developer show: Markdown, Liquid and Checkouts"
 slug: the-weekly-developer-show-markdown-liquid-and-checkouts
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

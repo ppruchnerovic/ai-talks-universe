@@ -4,7 +4,7 @@ title: "Architecture for Flow • Susanne Kaiser & James Lewis • GOTO 2026"
 slug: architecture-for-flow-susanne-kaiser-james-lewis-goto-2026
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Susanne Kaiser", "James Lewis"]

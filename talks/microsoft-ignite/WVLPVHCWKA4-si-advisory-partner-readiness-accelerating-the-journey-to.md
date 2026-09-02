@@ -4,7 +4,7 @@ title: "SI & Advisory Partner Readiness: Accelerating the Journey to Frontier | 
 slug: si-advisory-partner-readiness-accelerating-the-journey-to
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Stephen Boyle", "Maisa Penha", "Justin Slade"]

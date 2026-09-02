@@ -4,7 +4,7 @@ title: "How to Secure Agents using OAuth — Jared Hanson (Keycard, Passport.js)
 slug: how-to-secure-agents-using-oauth-jared-hanson-keycard
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jared Hanson"]

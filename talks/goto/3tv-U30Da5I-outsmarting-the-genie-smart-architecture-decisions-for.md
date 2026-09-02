@@ -4,7 +4,7 @@ title: "Outsmarting the Genie: Smart Architecture Decisions for GenAI Apps • G
 slug: outsmarting-the-genie-smart-architecture-decisions-for
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Gillian Armstrong"]

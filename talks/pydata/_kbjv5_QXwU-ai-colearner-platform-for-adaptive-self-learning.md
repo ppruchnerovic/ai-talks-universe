@@ -4,7 +4,7 @@ title: "AI Colearner Platform for Adaptive Self-Learning"
 slug: ai-colearner-platform-for-adaptive-self-learning
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

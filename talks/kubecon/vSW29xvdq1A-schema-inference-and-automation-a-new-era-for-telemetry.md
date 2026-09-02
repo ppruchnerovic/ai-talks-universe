@@ -4,7 +4,7 @@ title: "Schema Inference and Automation: A New Era for Telemetry Mana... Nicolas
 slug: schema-inference-and-automation-a-new-era-for-telemetry
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

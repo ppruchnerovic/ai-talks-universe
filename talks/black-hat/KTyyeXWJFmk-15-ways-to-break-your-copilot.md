@@ -4,7 +4,7 @@ title: "15 Ways to Break Your Copilot"
 slug: 15-ways-to-break-your-copilot
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

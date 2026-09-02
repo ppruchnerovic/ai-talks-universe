@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Elevate Streaming Quality with AI: Prime Video's In
 slug: aws-re-invent-2025-elevate-streaming-quality-with-ai-prime
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

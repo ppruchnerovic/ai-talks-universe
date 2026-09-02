@@ -4,7 +4,7 @@ title: "AI-Driven Multi-Document Correlation for Financial Compliance - Varsha S
 slug: ai-driven-multi-document-correlation-for-financial
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Varsha Shah"]

@@ -4,7 +4,7 @@ title: "Do You Know What Your ML Is Doing?"
 slug: do-you-know-what-your-ml-is-doing
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

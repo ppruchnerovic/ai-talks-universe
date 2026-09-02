@@ -4,7 +4,7 @@ title: "Software Security for Developers • Laur Spilca & Thomas Vitale • GOT
 slug: software-security-for-developers-laur-spilca-thomas-vitale
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Laur Spilca", "Thomas Vitale"]

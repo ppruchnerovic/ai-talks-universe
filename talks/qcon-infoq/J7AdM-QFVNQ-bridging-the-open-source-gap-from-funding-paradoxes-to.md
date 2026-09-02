@@ -4,7 +4,7 @@ title: "Bridging the Open Source Gap: From Funding Paradoxes to Digital Sovereig
 slug: bridging-the-open-source-gap-from-funding-paradoxes-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

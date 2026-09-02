@@ -4,7 +4,7 @@ title: "Agentic Enterprise Excellence | Manufacturing Keynote, Dreamforce 2025"
 slug: agentic-enterprise-excellence-manufacturing-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: ["Agentic Enterprise Excellence"]

@@ -4,7 +4,7 @@ title: "Partner: Accelerating partner growth with Cloud and AI Endpoints | PBRK3
 slug: partner-accelerating-partner-growth-with-cloud-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cynthia Batzli", "Sydney Carey", "Mario De Ridder", "Jay Parekh"]

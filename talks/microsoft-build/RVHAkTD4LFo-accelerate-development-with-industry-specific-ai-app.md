@@ -4,7 +4,7 @@ title: "Accelerate development with industry-specific AI app generation | DEMFP7
 slug: accelerate-development-with-industry-specific-ai-app
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

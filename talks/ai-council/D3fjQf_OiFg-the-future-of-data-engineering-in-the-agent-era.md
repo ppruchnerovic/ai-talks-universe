@@ -4,7 +4,7 @@ title: "The Future of Data Engineering in the Agent Era"
 slug: the-future-of-data-engineering-in-the-agent-era
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Diptanu Gon Choudhury"]

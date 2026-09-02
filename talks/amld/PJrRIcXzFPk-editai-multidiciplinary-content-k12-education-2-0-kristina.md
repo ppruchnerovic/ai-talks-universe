@@ -4,7 +4,7 @@ title: "EditAI: multidiciplinary content K12 | Education 2.0 | Kristina Jonkuvie
 slug: editai-multidiciplinary-content-k12-education-2-0-kristina
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Kristina Jonkuviene"]

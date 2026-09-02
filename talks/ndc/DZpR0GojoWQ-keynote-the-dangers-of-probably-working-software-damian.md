@@ -4,7 +4,7 @@ title: "Keynote: The dangers of probably-working software - Damian Brady - NDC L
 slug: keynote-the-dangers-of-probably-working-software-damian
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Damian Brady"]

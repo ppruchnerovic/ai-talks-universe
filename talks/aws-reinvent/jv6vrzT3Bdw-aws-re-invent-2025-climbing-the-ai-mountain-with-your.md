@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Climbing the AI Mountain With Your Security Team (S
 slug: aws-re-invent-2025-climbing-the-ai-mountain-with-your
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

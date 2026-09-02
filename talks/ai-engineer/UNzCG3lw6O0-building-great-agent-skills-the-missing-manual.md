@@ -4,7 +4,7 @@ title: "Building Great Agent Skills: The Missing Manual"
 slug: building-great-agent-skills-the-missing-manual
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

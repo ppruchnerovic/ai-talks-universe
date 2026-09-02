@@ -4,7 +4,7 @@ title: "Build persistent and scalable AI agent memory with TiDB | ODSP918"
 slug: build-persistent-and-scalable-ai-agent-memory-with-tidb
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Ravish Patel"]

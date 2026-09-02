@@ -4,7 +4,7 @@ title: "The Dirty Secret of Forward Deployed Engineering — Natalie Meurer, Sie
 slug: the-dirty-secret-of-forward-deployed-engineering-natalie
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Natalie Meurer"]

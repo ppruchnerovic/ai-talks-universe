@@ -4,7 +4,7 @@ title: "How 11x Rebuilt Their Alice Agent: From ReAct to Multi-Agent with LangGr
 slug: how-11x-rebuilt-their-alice-agent-from-react-to-multi-agent
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

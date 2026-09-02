@@ -4,7 +4,7 @@ title: "Ten years of building open source standards: From Parquet to Arrow to Op
 slug: ten-years-of-building-open-source-standards-from-parquet-to
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

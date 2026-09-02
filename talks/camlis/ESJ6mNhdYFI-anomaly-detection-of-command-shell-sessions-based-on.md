@@ -4,7 +4,7 @@ title: "Anomaly Detection of Command Shell Sessions based on DistilBERT: Unsuper
 slug: anomaly-detection-of-command-shell-sessions-based-on
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

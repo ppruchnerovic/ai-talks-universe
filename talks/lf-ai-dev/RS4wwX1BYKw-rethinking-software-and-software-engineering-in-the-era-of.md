@@ -4,7 +4,7 @@ title: "Rethinking Software and Software Engineering in the Era of Foundation Mo
 slug: rethinking-software-and-software-engineering-in-the-era-of
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Ahmed E. Hassan"]

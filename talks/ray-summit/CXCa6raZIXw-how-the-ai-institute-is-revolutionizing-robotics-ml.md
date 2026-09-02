@@ -4,7 +4,7 @@ title: "How The AI Institute is Revolutionizing Robotics ML Training | Ray Summi
 slug: how-the-ai-institute-is-revolutionizing-robotics-ml
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

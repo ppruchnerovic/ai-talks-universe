@@ -4,7 +4,7 @@ title: "From Pipelines to Agents: Manage Data and AI on One Platform for Maximum
 slug: from-pipelines-to-agents-manage-data-and-ai-on-one-platform
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

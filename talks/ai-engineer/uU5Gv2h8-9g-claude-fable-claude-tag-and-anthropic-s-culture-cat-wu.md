@@ -4,7 +4,7 @@ title: "Claude Fable, Claude Tag, and Anthropic's Culture — Cat Wu & Thariq Sh
 slug: claude-fable-claude-tag-and-anthropic-s-culture-cat-wu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Claude Fable"]

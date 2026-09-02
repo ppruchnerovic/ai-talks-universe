@@ -4,7 +4,7 @@ title: "Workshop: Auth0/Okta: AI Agents That Interact With the World Around Them
 slug: workshop-auth0-okta-ai-agents-that-interact-with-the-world
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: []

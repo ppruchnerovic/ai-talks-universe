@@ -4,7 +4,7 @@ title: "What Lies Beneath the Surface? Evaluating LLMs for Offensive Cyber Capab
 slug: what-lies-beneath-the-surface-evaluating-llms-for-offensive
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

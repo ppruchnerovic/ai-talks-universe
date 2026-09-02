@@ -4,7 +4,7 @@ title: "Introducing the new Azure Copilot for the new era of Intelligent Agents 
 slug: introducing-the-new-azure-copilot-for-the-new-era-of
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Annie Pearl", "Demi Ajayi", "Ruhiyyih Mahalati"]

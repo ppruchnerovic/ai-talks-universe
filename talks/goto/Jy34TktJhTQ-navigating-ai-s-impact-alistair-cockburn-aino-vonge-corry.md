@@ -4,7 +4,7 @@ title: "Navigating AI's Impact • Alistair Cockburn & Aino Vonge Corry"
 slug: navigating-ai-s-impact-alistair-cockburn-aino-vonge-corry
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Alistair Cockburn", "Aino Vonge Corry"]

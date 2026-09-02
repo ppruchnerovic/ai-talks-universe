@@ -4,7 +4,7 @@ title: "Scale agentic AI cost‑efficiently on Azure with Arm Cobalt VMs | DEMSP
 slug: scale-agentic-ai-costefficiently-on-azure-with-arm-cobalt
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sameer Nori", "Pranay Bakre", "Govardhani Babu"]

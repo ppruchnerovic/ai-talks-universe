@@ -4,7 +4,7 @@ title: "Rate-limiting using eBPF and Istio: How to protect your SaaS customers f
 slug: rate-limiting-using-ebpf-and-istio-how-to-protect-your-saas
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jan Mensch"]

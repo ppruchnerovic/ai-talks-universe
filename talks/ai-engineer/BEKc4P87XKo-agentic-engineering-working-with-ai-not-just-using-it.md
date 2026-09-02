@@ -4,7 +4,7 @@ title: "Agentic Engineering: Working With AI, Not Just Using It — Brendan O'Le
 slug: agentic-engineering-working-with-ai-not-just-using-it
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

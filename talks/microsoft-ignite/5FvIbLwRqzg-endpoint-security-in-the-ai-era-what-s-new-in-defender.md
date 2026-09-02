@@ -4,7 +4,7 @@ title: "Endpoint security in the AI era: What's new in Defender | BRK240"
 slug: endpoint-security-in-the-ai-era-what-s-new-in-defender
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dana Bargury Shina", "Kim Kischel"]

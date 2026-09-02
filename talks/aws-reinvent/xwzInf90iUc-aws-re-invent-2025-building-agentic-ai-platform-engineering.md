@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building agentic AI platform engineering solutions 
 slug: aws-re-invent-2025-building-agentic-ai-platform-engineering
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

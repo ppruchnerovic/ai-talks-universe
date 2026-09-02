@@ -4,7 +4,7 @@ title: "Building a 10 person unicorn - Max Brodeur-Urbas, Gumloop"
 slug: building-a-10-person-unicorn-max-brodeur-urbas-gumloop
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

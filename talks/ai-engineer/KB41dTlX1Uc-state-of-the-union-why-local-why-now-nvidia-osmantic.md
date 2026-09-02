@@ -4,7 +4,7 @@ title: "State of the Union: Why Local, Why Now — NVIDIA, Osmantic, Roboflow, E
 slug: state-of-the-union-why-local-why-now-nvidia-osmantic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

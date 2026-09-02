@@ -4,7 +4,7 @@ title: "Transforming Life Sciences: AI, Vibe Coding, and Drug Development Accele
 slug: transforming-life-sciences-ai-vibe-coding-and-drug
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

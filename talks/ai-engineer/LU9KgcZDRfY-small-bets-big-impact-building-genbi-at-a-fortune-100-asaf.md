@@ -4,7 +4,7 @@ title: "Small Bets, Big Impact Building GenBI at a Fortune 100 – Asaf Bord, No
 slug: small-bets-big-impact-building-genbi-at-a-fortune-100-asaf
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Northwestern Mutual"]

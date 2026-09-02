@@ -4,7 +4,7 @@ title: "Recsys Keynote: Improving Recommendation Systems & Search in the Age of 
 slug: recsys-keynote-improving-recommendation-systems-search-in
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eugene Yan"]

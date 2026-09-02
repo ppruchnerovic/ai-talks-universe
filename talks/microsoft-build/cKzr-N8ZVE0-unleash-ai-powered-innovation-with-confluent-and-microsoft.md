@@ -4,7 +4,7 @@ title: "Unleash AI-Powered Innovation with Confluent and Microsoft Azure | ODFP9
 slug: unleash-ai-powered-innovation-with-confluent-and-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

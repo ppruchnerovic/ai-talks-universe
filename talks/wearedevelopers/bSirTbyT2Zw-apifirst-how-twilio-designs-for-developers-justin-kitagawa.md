@@ -4,7 +4,7 @@ title: "API‑First: How Twilio Designs for Developers - Justin Kitagawa"
 slug: apifirst-how-twilio-designs-for-developers-justin-kitagawa
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Justin Kitagawa"]

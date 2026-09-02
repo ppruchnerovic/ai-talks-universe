@@ -4,7 +4,7 @@ title: "Hello, Quantum World! by Jules May"
 slug: hello-quantum-world-by-jules-may
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Jules May"]

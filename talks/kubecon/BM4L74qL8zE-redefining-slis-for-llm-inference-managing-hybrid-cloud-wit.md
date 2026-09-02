@@ -4,7 +4,7 @@ title: "Redefining SLIs for LLM Inference: Managing Hybrid Cloud wit... Christop
 slug: redefining-slis-for-llm-inference-managing-hybrid-cloud-wit
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

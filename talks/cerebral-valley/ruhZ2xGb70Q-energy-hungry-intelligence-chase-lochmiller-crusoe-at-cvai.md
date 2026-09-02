@@ -4,7 +4,7 @@ title: "Energy Hungry Intelligence: Chase Lochmiller (Crusoe) at CVAI London"
 slug: energy-hungry-intelligence-chase-lochmiller-crusoe-at-cvai
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []

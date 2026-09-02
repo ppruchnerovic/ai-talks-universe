@@ -4,7 +4,7 @@ title: "The future of software development"
 slug: the-future-of-software-development
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Logan Kilpatrick", "Tulsee Doshi", "Varun Mohan", "Michael Gerstenhaber"]

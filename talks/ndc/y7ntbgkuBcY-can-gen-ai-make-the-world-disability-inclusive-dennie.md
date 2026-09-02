@@ -4,7 +4,7 @@ title: "Can Gen AI make the world Disability inclusive? - Dennie Declercq - NDC 
 slug: can-gen-ai-make-the-world-disability-inclusive-dennie
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Dennie Declercq"]

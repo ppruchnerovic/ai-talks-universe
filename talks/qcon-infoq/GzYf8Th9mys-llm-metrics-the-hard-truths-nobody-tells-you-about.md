@@ -4,7 +4,7 @@ title: "LLM Metrics: The Hard Truths Nobody Tells You About Production AI"
 slug: llm-metrics-the-hard-truths-nobody-tells-you-about
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Unlock Claude in Microsoft Foundry | ODSP934"
 slug: unlock-claude-in-microsoft-foundry-odsp934
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Caroline Matthews", "Keiji Kanazawa"]

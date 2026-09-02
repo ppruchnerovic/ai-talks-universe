@@ -4,7 +4,7 @@ title: "NLP and Graph-Based Product Tracing in Supply Chains"
 slug: nlp-and-graph-based-product-tracing-in-supply-chains
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

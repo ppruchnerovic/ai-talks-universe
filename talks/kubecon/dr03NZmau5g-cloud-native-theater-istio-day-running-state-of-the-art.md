@@ -4,7 +4,7 @@ title: "Cloud Native Theater | Istio Day: Running State of the Art Inference... 
 slug: cloud-native-theater-istio-day-running-state-of-the-art
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

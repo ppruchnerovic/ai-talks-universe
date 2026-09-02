@@ -4,7 +4,7 @@ title: "Simplify data collaboration and build AI apps with Snowflake | ODFP969"
 slug: simplify-data-collaboration-and-build-ai-apps-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

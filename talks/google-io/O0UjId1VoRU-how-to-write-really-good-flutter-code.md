@@ -4,7 +4,7 @@ title: "How to write really good Flutter code"
 slug: how-to-write-really-good-flutter-code
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Mariam Hasnany", "Eric Windmill", "John Ryan"]

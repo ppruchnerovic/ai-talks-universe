@@ -4,7 +4,7 @@ title: "How Snowflake Uses Model Registry And Model Serving For Securing AI Agen
 slug: how-snowflake-uses-model-registry-and-model-serving-for
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "How Levi’s is transforming their IT estate with Azure | BRK156"
 slug: how-levis-is-transforming-their-it-estate-with-azure-brk156
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Maria Bledsoe", "Shawn Harris", "Michael Womack"]

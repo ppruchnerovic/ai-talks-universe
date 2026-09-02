@@ -4,7 +4,7 @@ title: "Building Impact Through Developer Communities | DEM377"
 slug: building-impact-through-developer-communities-dem377
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rie Merritt", "Stephen Simon", "Prashant G Bhoyar", "Mitchel Sellers"]

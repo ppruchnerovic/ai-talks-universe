@@ -4,7 +4,7 @@ title: "When Should You Use an Agent? Architectural Trade-offs in Agentic System
 slug: when-should-you-use-an-agent-architectural-trade-offs-in
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Matheus Guimaraes"]

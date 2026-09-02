@@ -4,7 +4,7 @@ title: "Teradata activates AI for CX with MCP: Real-time intelligence engine | O
 slug: teradata-activates-ai-for-cx-with-mcp-real-time
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vidhan Bhonsle"]

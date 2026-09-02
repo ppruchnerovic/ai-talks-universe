@@ -4,7 +4,7 @@ title: "Sovereign Escape Velocity: Ownership w Open Models — Gus Martins, & Ia
 slug: sovereign-escape-velocity-ownership-w-open-models-gus
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gus Martins"]

@@ -4,7 +4,7 @@ title: "Building SOTA Search: It’s Ranking All the Way Down"
 slug: building-sota-search-its-ranking-all-the-way-down
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["David Karam"]

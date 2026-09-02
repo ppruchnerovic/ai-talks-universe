@@ -4,7 +4,7 @@ title: "Dark Factory: OpenClaw Ships Faster Than You Can Read the Diff — Vince
 slug: dark-factory-openclaw-ships-faster-than-you-can-read-the
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vincent Koc"]

@@ -4,7 +4,7 @@ title: "What’s new in Copilot Studio​ | BRK140"
 slug: whats-new-in-copilot-studio-brk140
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

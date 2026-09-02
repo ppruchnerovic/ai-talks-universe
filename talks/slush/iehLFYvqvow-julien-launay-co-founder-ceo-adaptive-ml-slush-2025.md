@@ -4,7 +4,7 @@ title: "Julien Launay, Co-founder & CEO, Adaptive ML | Slush 2025"
 slug: julien-launay-co-founder-ceo-adaptive-ml-slush-2025
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Julien Launay"]

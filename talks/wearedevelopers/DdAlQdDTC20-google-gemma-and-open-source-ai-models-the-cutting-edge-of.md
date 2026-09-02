@@ -4,7 +4,7 @@ title: "Google Gemma and Open Source AI Models: The Cutting Edge of AI"
 slug: google-gemma-and-open-source-ai-models-the-cutting-edge-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

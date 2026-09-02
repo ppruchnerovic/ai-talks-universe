@@ -4,7 +4,7 @@ title: "Your Finance Agent's Bottleneck Is You — Ramana Siddanth Emani, Audito
 slug: your-finance-agent-s-bottleneck-is-you-ramana-siddanth
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ramana Siddanth Emani"]

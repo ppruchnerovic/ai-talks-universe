@@ -4,7 +4,7 @@ title: "How the Guardian measured rhetorics toward immigration in Parliament"
 slug: how-the-guardian-measured-rhetorics-toward-immigration-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

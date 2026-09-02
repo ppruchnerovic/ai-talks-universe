@@ -4,7 +4,7 @@ title: "Building AI Agents with Real ROI in the Enterprise SDLC: Bruno (Booking.
 slug: building-ai-agents-with-real-roi-in-the-enterprise-sdlc
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

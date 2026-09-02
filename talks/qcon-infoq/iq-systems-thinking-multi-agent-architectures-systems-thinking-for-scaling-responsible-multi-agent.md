@@ -4,7 +4,7 @@ title: "Systems Thinking for Scaling Responsible Multi-Agent Architectures"
 slug: systems-thinking-for-scaling-responsible-multi-agent
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Nimisha Asthagiri"]

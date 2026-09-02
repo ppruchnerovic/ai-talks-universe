@@ -4,7 +4,7 @@ title: "Boost productivity with Copilot in Microsoft 365 apps | BRK285"
 slug: boost-productivity-with-copilot-in-microsoft-365-apps-brk285
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Howard Crow", "Derek Snyder"]

@@ -4,7 +4,7 @@ title: "Build AI apps and unlock the power of your data with Azure Databricks | 
 slug: build-ai-apps-and-unlock-the-power-of-your-data-with-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

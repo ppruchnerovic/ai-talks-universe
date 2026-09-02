@@ -4,7 +4,7 @@ title: "Critical Use of MLOps in Finance Using Cloud-Managed ML Services That Sc
 slug: critical-use-of-mlops-in-finance-using-cloud-managed-ml
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Vinnie Saini"]

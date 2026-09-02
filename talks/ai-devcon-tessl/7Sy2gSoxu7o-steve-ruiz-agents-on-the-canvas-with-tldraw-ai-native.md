@@ -4,7 +4,7 @@ title: "Steve Ruiz - Agents on the canvas with tldraw - AI Native DevCon June 20
 slug: steve-ruiz-agents-on-the-canvas-with-tldraw-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Steve Ruiz"]

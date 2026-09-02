@@ -4,7 +4,7 @@ title: "Scaling Agents on Kubernetes with acpx and ACP — Onur Solmaz, OpenClaw
 slug: scaling-agents-on-kubernetes-with-acpx-and-acp-onur-solmaz
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Onur Solmaz"]

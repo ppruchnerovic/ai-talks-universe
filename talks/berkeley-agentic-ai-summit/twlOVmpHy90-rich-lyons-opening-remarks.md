@@ -4,7 +4,7 @@ title: "Rich Lyons - Opening Remarks"
 slug: rich-lyons-opening-remarks
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Rich Lyons"]

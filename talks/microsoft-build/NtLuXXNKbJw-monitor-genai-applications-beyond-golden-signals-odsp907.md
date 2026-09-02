@@ -4,7 +4,7 @@ title: "Monitor GenAI applications beyond golden signals | ODSP907"
 slug: monitor-genai-applications-beyond-golden-signals-odsp907
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

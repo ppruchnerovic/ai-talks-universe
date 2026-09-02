@@ -4,7 +4,7 @@ title: "Cloud Native Theater | EnvoyCon: External Processing, Internal Leverage:
 slug: cloud-native-theater-envoycon-external-processing-internal
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

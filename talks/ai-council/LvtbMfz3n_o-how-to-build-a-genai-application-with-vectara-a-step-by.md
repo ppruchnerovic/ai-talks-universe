@@ -4,7 +4,7 @@ title: "How to build a GenAI Application with Vectara - a Step-by-Step Guide"
 slug: how-to-build-a-genai-application-with-vectara-a-step-by
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Ofer Mendelevitch"]

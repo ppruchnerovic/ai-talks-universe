@@ -4,7 +4,7 @@ title: "Beyond “System Complete”: Shipping Globally with Agentic Commerce Or
 slug: beyond-system-complete-shipping-globally-with-agentic
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

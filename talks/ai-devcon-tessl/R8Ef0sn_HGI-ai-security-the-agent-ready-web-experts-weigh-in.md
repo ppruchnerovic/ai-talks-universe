@@ -4,7 +4,7 @@ title: "AI Security & the Agent-Ready Web: Experts Weigh In"
 slug: ai-security-the-agent-ready-web-experts-weigh-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

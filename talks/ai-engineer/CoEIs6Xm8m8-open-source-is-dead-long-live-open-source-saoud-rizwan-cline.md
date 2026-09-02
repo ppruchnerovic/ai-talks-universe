@@ -4,7 +4,7 @@ title: "Open Source Is Dead. Long Live Open Source. — Saoud Rizwan, Cline"
 slug: open-source-is-dead-long-live-open-source-saoud-rizwan-cline
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Saoud Rizwan"]

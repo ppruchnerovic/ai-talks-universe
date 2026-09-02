@@ -4,7 +4,7 @@ title: "Young Minds : Designing Engaging Child-Friendly Tech by Isra Chahrazed G
 slug: young-minds-designing-engaging-child-friendly-tech-by-isra
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Isra Chahrazed Goumiri"]

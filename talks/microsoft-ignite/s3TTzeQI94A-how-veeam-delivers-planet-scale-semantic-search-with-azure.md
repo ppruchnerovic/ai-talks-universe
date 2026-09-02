@@ -4,7 +4,7 @@ title: "How Veeam delivers planet-scale semantic search with Azure Cosmos DB | B
 slug: how-veeam-delivers-planet-scale-semantic-search-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["James Codella", "Johan Huttenga", "James Nguyen", "Zachary Rossman"]

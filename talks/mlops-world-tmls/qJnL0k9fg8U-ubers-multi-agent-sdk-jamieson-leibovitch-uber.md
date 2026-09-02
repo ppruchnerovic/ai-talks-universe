@@ -4,7 +4,7 @@ title: "Uber’s Multi-Agent SDK | Jamieson Leibovitch, Uber"
 slug: ubers-multi-agent-sdk-jamieson-leibovitch-uber
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Jamieson Leibovitch"]

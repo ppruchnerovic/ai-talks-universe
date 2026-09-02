@@ -4,7 +4,7 @@ title: "From Automation to Augmentation: AI Coaches That Amplify Expertise • M
 slug: from-automation-to-augmentation-ai-coaches-that-amplify
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Mike Amundsen"]

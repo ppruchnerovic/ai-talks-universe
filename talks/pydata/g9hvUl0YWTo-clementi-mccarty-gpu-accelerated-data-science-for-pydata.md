@@ -4,7 +4,7 @@ title: "Clementi, McCarty - GPU-Accelerated Data Science for PyData Users | PyDa
 slug: clementi-mccarty-gpu-accelerated-data-science-for-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

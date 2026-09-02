@@ -4,7 +4,7 @@ title: "Production software keeps breaking and it will only get worse — Anish 
 slug: production-software-keeps-breaking-and-it-will-only-get
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Anish Agarwal"]

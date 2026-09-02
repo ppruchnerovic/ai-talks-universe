@@ -4,7 +4,7 @@ title: "Teaching Coding Agents to do Spreadsheets - Nuno Campos, Witan Labs"
 slug: teaching-coding-agents-to-do-spreadsheets-nuno-campos-witan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nuno Campos"]

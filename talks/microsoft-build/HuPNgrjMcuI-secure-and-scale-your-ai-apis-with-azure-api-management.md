@@ -4,7 +4,7 @@ title: "Secure and scale your AI APIs with Azure API Management | BRK184"
 slug: secure-and-scale-your-ai-apis-with-azure-api-management
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "USENIX Security '25 - ALERT: Machine Learning-Enhanced Risk Estimation f
 slug: usenix-security-25-alert-machine-learning-enhanced-risk
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

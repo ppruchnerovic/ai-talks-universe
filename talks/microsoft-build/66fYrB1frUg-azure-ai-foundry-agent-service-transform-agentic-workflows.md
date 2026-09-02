@@ -4,7 +4,7 @@ title: "Azure AI Foundry Agent Service: Transform agentic workflows | BRK149"
 slug: azure-ai-foundry-agent-service-transform-agentic-workflows
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

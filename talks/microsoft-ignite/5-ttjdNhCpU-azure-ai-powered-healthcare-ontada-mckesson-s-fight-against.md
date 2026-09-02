@@ -4,7 +4,7 @@ title: "Azure AI powered healthcare: Ontada McKesson's fight against cancer | BR
 slug: azure-ai-powered-healthcare-ontada-mckesson-s-fight-against
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jay Hugalavalli", "Amit Mukherjee", "Wanmei Ou", "Xuhui Quan"]

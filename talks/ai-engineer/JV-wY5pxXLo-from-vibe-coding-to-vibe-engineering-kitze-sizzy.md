@@ -4,7 +4,7 @@ title: "From Vibe Coding To Vibe Engineering – Kitze, Sizzy"
 slug: from-vibe-coding-to-vibe-engineering-kitze-sizzy
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Data + AI Summit Keynote 2026 | Day 1"
 slug: data-ai-summit-keynote-2026-day-1
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Ali Ghodsi"]

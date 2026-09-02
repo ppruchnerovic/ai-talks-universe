@@ -4,7 +4,7 @@ title: "Climate analytics, current and future health threats | AI in Public Heal
 slug: climate-analytics-current-and-future-health-threats-ai-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christopher Irrgang"]

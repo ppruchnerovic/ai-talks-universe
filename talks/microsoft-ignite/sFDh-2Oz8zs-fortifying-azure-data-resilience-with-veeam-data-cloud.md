@@ -4,7 +4,7 @@ title: "Fortifying Azure Data Resilience with Veeam Data Cloud | ODFP988"
 slug: fortifying-azure-data-resilience-with-veeam-data-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Johan Huttenga", "Saurabh Sensharma"]

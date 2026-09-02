@@ -4,7 +4,7 @@ title: "Better Together: Copilot Studio & Microsoft Foundry | ODSP1460"
 slug: better-together-copilot-studio-microsoft-foundry-odsp1460
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

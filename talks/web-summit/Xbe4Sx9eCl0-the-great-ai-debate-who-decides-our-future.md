@@ -4,7 +4,7 @@ title: "The great AI debate: Who decides our future?"
 slug: the-great-ai-debate-who-decides-our-future
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []

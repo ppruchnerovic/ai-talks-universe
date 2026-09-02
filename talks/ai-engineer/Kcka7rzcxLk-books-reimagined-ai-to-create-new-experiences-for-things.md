@@ -4,7 +4,7 @@ title: "Books reimagined: AI to create new experiences for things you know — L
 slug: books-reimagined-ai-to-create-new-experiences-for-things
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Lukasz Gandecki"]

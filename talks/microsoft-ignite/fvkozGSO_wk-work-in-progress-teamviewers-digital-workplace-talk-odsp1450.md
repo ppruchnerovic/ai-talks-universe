@@ -4,7 +4,7 @@ title: "Work in progress: TeamViewer’s digital workplace talk | ODSP1450"
 slug: work-in-progress-teamviewers-digital-workplace-talk-odsp1450
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oliver Steil"]

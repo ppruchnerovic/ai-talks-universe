@@ -4,7 +4,7 @@ title: "Your Personal Open-Source Humanoid Robot for $8,999 — JX Mo, K-Scale L
 slug: your-personal-open-source-humanoid-robot-for-8-999-jx-mo-k
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

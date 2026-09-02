@@ -4,7 +4,7 @@ title: "Licensing in open source AI: selected legal topics | Open-Source AI Mode
 slug: licensing-in-open-source-ai-selected-legal-topics-open
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Michel Jaccard"]

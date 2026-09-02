@@ -4,7 +4,7 @@ title: "The LLM Evolution: From Sequence Imitation to Verifiable Reasoning"
 slug: the-llm-evolution-from-sequence-imitation-to-verifiable
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Kamen Petroff"]

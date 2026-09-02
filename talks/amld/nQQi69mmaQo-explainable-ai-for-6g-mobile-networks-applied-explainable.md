@@ -4,7 +4,7 @@ title: "Explainable AI for 6G Mobile Networks | Applied Explainable AI | Claudio
 slug: explainable-ai-for-6g-mobile-networks-applied-explainable
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Claudio Fiandrino"]

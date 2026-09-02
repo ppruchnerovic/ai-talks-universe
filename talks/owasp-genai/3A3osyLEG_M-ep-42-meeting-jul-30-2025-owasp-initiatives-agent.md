@@ -4,7 +4,7 @@ title: "Ep.42 Meeting Jul 30 2025: OWASP Initiatives, Agent Protection, and Blac
 slug: ep-42-meeting-jul-30-2025-owasp-initiatives-agent
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

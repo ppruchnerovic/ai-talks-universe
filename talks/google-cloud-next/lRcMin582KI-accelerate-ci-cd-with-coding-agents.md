@@ -4,7 +4,7 @@ title: "Accelerate CI/CD with coding agents"
 slug: accelerate-ci-cd-with-coding-agents
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Haroon Chaudhry", "Yeshwanth Gunasekaran"]

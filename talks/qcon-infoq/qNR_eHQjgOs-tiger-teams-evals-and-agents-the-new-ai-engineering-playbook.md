@@ -4,7 +4,7 @@ title: "Tiger Teams, Evals and Agents: The New AI Engineering Playbook"
 slug: tiger-teams-evals-and-agents-the-new-ai-engineering-playbook
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

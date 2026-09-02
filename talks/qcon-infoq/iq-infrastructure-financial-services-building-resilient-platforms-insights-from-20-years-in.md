@@ -4,7 +4,7 @@ title: "Building Resilient Platforms: Insights from 20+ Years in Mission-Critica
 slug: building-resilient-platforms-insights-from-20-years-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Matthew Liste"]

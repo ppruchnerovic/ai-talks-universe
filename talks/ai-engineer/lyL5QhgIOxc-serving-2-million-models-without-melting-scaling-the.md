@@ -4,7 +4,7 @@ title: "Serving 2 Million Models Without Melting: Scaling the Hugging Face Hub â
 slug: serving-2-million-models-without-melting-scaling-the
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arek Borucki"]

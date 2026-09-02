@@ -4,7 +4,7 @@ title: "Perception Agents — Antje Barth, Amazon AGI Lab"
 slug: perception-agents-antje-barth-amazon-agi-lab
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Antje Barth"]

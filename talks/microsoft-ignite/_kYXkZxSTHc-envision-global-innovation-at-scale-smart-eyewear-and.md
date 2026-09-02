@@ -4,7 +4,7 @@ title: "Envision global innovation at scale: Smart eyewear and connected retail 
 slug: envision-global-innovation-at-scale-smart-eyewear-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Luna", "Alfredo Patron"]

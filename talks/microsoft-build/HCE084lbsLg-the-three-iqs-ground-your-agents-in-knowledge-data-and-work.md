@@ -4,7 +4,7 @@ title: "The Three IQs: Ground Your Agents in Knowledge, Data, and Work | LIVE171
 slug: the-three-iqs-ground-your-agents-in-knowledge-data-and-work
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Marco Casalaina", "Ayca Bas"]

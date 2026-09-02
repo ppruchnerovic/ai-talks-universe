@@ -4,7 +4,7 @@ title: "Lightning Talk: K8s Issue #52757: Sharing GPUs Among Multiple Containers
 slug: lightning-talk-k8s-issue-52757-sharing-gpus-among-multiple
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Xiao Zhang"]

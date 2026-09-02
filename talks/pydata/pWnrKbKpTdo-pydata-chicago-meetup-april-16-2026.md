@@ -4,7 +4,7 @@ title: "PyData Chicago Meetup: April 16, 2026"
 slug: pydata-chicago-meetup-april-16-2026
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

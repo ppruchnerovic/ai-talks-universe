@@ -4,7 +4,7 @@ title: "Recursive Model Improvement — Lee Robinson, Cursor, SpaceXAI"
 slug: recursive-model-improvement-lee-robinson-cursor-spacexai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lee Robinson"]

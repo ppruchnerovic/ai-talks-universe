@@ -4,7 +4,7 @@ title: "How AI is transforming the migration economic opportunity for partners |
 slug: how-ai-is-transforming-the-migration-economic-opportunity
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Tony Guidi", "Omar Khan", "Pankaj Srivastava"]

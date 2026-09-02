@@ -4,7 +4,7 @@ title: "When Agents Meet Legacy: Never Change a Running System"
 slug: when-agents-meet-legacy-never-change-a-running-system
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Michael Friedrich"]

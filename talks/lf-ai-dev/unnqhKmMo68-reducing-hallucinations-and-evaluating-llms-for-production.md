@@ -4,7 +4,7 @@ title: "Reducing Hallucinations and Evaluating LLMs for Production - Divyansh Ch
 slug: reducing-hallucinations-and-evaluating-llms-for-production
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Divyansh Chaurasia"]

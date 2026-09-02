@@ -4,7 +4,7 @@ title: "What 500+ Production Environments Taught Us About Shipping AI Agents"
 slug: what-500-production-environments-taught-us-about-shipping
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Liran Hason"]

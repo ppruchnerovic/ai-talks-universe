@@ -4,7 +4,7 @@ title: "AI Red Teaming Agent: Azure AI Foundry — Nagkumar Arkalgud & Keiji Kan
 slug: ai-red-teaming-agent-azure-ai-foundry-nagkumar-arkalgud
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nagkumar Arkalgud", "Keiji Kanazawa"]

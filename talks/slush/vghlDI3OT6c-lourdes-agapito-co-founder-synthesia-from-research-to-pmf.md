@@ -4,7 +4,7 @@ title: "Lourdes Agapito: Co-founder @Synthesia, From Research to PMF, Developing
 slug: lourdes-agapito-co-founder-synthesia-from-research-to-pmf
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

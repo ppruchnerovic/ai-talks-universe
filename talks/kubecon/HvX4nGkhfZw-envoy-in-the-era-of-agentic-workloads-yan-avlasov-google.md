@@ -4,7 +4,7 @@ title: "Envoy in the Era of Agentic Workloads - Yan Avlasov, Google & Erica Hugh
 slug: envoy-in-the-era-of-agentic-workloads-yan-avlasov-google
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Yan Avlasov"]

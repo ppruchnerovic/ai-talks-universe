@@ -4,7 +4,7 @@ title: "Codex, Behind the Harness — Dominik Kundel, OpenAI"
 slug: codex-behind-the-harness-dominik-kundel-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dominik Kundel"]

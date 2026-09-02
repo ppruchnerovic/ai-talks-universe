@@ -4,7 +4,7 @@ title: "Shipping with Confidence: Observability and Quality at Scale"
 slug: shipping-with-confidence-observability-and-quality-at-scale
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Mirko Novakovic", "Prince Kohli", "Daniel Gebler", "Christian Heilmann"]

@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Letting AI Interface with Your App using MCPs by Ke
 slug: devoxx-greece-2025-letting-ai-interface-with-your-app-using
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Kent. C. Dodds"]

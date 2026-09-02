@@ -4,7 +4,7 @@ title: "Databricks on Databricks: Transforming the Sales Experience using GenAI 
 slug: databricks-on-databricks-transforming-the-sales-experience
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

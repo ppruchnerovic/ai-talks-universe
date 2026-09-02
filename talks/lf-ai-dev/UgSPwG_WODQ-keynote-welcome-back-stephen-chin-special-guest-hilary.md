@@ -4,7 +4,7 @@ title: "Keynote: Welcome Back - Stephen Chin, & Special Guest Hilary Carter"
 slug: keynote-welcome-back-stephen-chin-special-guest-hilary
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Stephen Chin"]

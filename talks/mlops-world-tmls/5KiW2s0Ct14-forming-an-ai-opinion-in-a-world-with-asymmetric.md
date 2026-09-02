@@ -4,7 +4,7 @@ title: "Forming an AI Opinion in a World With Asymmetric Information | Denys Lin
 slug: forming-an-ai-opinion-in-a-world-with-asymmetric
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Denys Linkov"]

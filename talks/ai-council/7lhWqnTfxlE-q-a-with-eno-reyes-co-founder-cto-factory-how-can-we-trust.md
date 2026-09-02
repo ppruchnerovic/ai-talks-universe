@@ -4,7 +4,7 @@ title: "Q&A with Eno Reyes, Co-founder & CTO, Factory: How can we trust deployin
 slug: q-a-with-eno-reyes-co-founder-cto-factory-how-can-we-trust
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

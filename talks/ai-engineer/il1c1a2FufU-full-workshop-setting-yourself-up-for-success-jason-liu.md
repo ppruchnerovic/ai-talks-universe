@@ -4,7 +4,7 @@ title: "Full Workshop: Setting Yourself Up for Success —Jason Liu, OpenAI Code
 slug: full-workshop-setting-yourself-up-for-success-jason-liu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "How Harvey Built Reliable AI Agents with LangSmith & Custom Tools"
 slug: how-harvey-built-reliable-ai-agents-with-langsmith-custom
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

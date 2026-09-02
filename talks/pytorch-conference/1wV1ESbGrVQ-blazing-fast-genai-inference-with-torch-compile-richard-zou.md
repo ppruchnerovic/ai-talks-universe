@@ -4,7 +4,7 @@ title: "Blazing Fast GenAI Inference With Torch.compile - Richard Zou, Meta"
 slug: blazing-fast-genai-inference-with-torch-compile-richard-zou
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Richard Zou"]

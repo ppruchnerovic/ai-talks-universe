@@ -4,7 +4,7 @@ title: "Spotlight on Databricks | Code w/ Claude"
 slug: spotlight-on-databricks-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []

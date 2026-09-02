@@ -4,7 +4,7 @@ title: "SaTML 2024 - Somesh Jha - Keynote - Watermarking (The State of the Union
 slug: satml-2024-somesh-jha-keynote-watermarking-the-state-of-the
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Somesh Jha"]

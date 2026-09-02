@@ -4,7 +4,7 @@ title: "Reaching Quantum's Escape Velocity | Mark Thompson (PsiQuantum)"
 slug: reaching-quantum-s-escape-velocity-mark-thompson-psiquantum
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Reaching Quantum's Escape Velocity", "Mark Thompson"]

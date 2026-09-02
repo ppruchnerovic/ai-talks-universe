@@ -4,7 +4,7 @@ title: "The Art of Staying Secure | Gianni Cuozzo (Exein) with Elena Moneta (Bal
 slug: the-art-of-staying-secure-gianni-cuozzo-exein-with-elena
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Gianni Cuozzo"]

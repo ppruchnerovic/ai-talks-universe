@@ -4,7 +4,7 @@ title: "Human-in-the-Loop Automation with n8n — Liam McGarrigle"
 slug: human-in-the-loop-automation-with-n8n-liam-mcgarrigle
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

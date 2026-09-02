@@ -4,7 +4,7 @@ title: "From DVDs to Global Streaming: How Netflix’s Commerce Architecture Act
 slug: from-dvds-to-global-streaming-how-netflixs-commerce
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Kasia Trapszo"]

@@ -4,7 +4,7 @@ title: "Bring AI chips to life with Synopsys Cloud | ODFP983"
 slug: bring-ai-chips-to-life-with-synopsys-cloud-odfp983
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

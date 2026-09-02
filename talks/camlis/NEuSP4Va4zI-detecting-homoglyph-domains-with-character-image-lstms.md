@@ -4,7 +4,7 @@ title: "Detecting Homoglyph Domains with Character Image LSTMs (CAMLIS 2022)"
 slug: detecting-homoglyph-domains-with-character-image-lstms
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

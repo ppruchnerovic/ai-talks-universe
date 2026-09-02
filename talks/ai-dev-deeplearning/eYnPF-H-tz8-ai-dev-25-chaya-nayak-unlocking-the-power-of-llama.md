@@ -4,7 +4,7 @@ title: "AI Dev 25 | Chaya Nayak: Unlocking the Power of Llama"
 slug: ai-dev-25-chaya-nayak-unlocking-the-power-of-llama
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

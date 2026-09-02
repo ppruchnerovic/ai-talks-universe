@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - NFL Next Gen Stats: Decoding Defensive Coverage Usi
 slug: aws-re-invent-2025-nfl-next-gen-stats-decoding-defensive
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

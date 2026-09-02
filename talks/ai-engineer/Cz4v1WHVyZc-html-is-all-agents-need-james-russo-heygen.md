@@ -4,7 +4,7 @@ title: "HTML Is All Agents Need — James Russo, HeyGen"
 slug: html-is-all-agents-need-james-russo-heygen
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["James Russo"]

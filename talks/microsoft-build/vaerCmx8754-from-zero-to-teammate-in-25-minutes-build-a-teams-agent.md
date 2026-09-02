@@ -4,7 +4,7 @@ title: "From zero to teammate in 25 minutes: Build a Teams agent live | DEM332"
 slug: from-zero-to-teammate-in-25-minutes-build-a-teams-agent
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Aamir Jawaid", "Umang Sehgal"]

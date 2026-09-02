@@ -4,7 +4,7 @@ title: "Getting Started with Distributed Multi-GPU Libraries for Scalable AI and
 slug: getting-started-with-distributed-multi-gpu-libraries-for
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Do microservices' benefits supersede their caveats? A conversation with 
 slug: do-microservices-benefits-supersede-their-caveats-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

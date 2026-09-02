@@ -4,7 +4,7 @@ title: "Red Teaming AI Red Teaming"
 slug: red-teaming-ai-red-teaming
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Subhabrata Majumdar"]

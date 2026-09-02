@@ -4,7 +4,7 @@ title: "Ship fast, stay secure: from code to runtime | OD841"
 slug: ship-fast-stay-secure-from-code-to-runtime-od841
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["James Brotsos"]

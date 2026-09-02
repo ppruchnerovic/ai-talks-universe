@@ -4,7 +4,7 @@ title: "Jay Chia, Eventual: How to Build a Multimodal Data Lake"
 slug: jay-chia-eventual-how-to-build-a-multimodal-data-lake
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2026
 speakers: []

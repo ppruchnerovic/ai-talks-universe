@@ -4,7 +4,7 @@ title: "Nasdaq Boardvantage: AI-driven governance on PostgreSQL and Microsoft Fo
 slug: nasdaq-boardvantage-ai-driven-governance-on-postgresql-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Charles Feddersen", "Mohsin Shafqat"]

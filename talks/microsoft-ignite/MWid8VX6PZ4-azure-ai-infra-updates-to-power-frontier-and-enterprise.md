@@ -4,7 +4,7 @@ title: "Azure AI Infra updates to power frontier and enterprise workloads | BRK1
 slug: azure-ai-infra-updates-to-power-frontier-and-enterprise
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Param Shah", "Matt Vegas"]

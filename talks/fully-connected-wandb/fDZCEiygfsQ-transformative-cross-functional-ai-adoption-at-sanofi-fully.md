@@ -4,7 +4,7 @@ title: "Transformative & cross-functional AI adoption at Sanofi: Fully Connected
 slug: transformative-cross-functional-ai-adoption-at-sanofi-fully
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

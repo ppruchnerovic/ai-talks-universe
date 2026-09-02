@@ -4,7 +4,7 @@ title: "Panel: From Risk to Resilience , Securing Agentic Frontiers"
 slug: panel-from-risk-to-resilience-securing-agentic-frontiers
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

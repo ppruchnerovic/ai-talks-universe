@@ -4,7 +4,7 @@ title: "The Evolving Role of Emojis in Investigations and Data Security"
 slug: the-evolving-role-of-emojis-in-investigations-and-data
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Julie Lewis", "Digital Mountain"]

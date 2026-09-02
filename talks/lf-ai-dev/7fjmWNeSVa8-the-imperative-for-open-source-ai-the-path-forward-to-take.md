@@ -4,7 +4,7 @@ title: "The Imperative for Open Source AI - The Path Forward to Take Down t... E
 slug: the-imperative-for-open-source-ai-the-path-forward-to-take
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []

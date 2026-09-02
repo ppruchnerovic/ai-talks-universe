@@ -4,7 +4,7 @@ title: "How Microsoft Developers Use AI in Real-World Coding | BRK103"
 slug: how-microsoft-developers-use-ai-in-real-world-coding-brk103
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

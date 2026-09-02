@@ -4,7 +4,7 @@ title: "Luminal - Search-Based Deep Learning Compilers - Joe Fioti"
 slug: luminal-search-based-deep-learning-compilers-joe-fioti
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Joe Fioti"]

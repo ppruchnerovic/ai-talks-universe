@@ -4,7 +4,7 @@ title: "Boris Lau-Let Me Structure Freely_ How to Improve LLM Structured Output 
 slug: boris-lau-let-me-structure-freely-how-to-improve-llm
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

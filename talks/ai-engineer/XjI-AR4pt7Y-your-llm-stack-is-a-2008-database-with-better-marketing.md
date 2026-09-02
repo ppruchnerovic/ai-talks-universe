@@ -4,7 +4,7 @@ title: "Your LLM Stack Is a 2008 Database With Better Marketing — Lovina Dmell
 slug: your-llm-stack-is-a-2008-database-with-better-marketing
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lovina Dmello"]

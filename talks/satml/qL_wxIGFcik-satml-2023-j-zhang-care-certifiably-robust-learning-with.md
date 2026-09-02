@@ -4,7 +4,7 @@ title: "SaTML 2023 - J. Zhang - CARE: Certifiably Robust Learning with Reasoning
 slug: satml-2023-j-zhang-care-certifiably-robust-learning-with
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["J. Zhang"]

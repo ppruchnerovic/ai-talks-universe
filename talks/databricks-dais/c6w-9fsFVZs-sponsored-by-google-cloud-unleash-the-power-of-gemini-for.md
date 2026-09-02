@@ -4,7 +4,7 @@ title: "Sponsored by: Google Cloud | Unleash the power of Gemini for Databricks"
 slug: sponsored-by-google-cloud-unleash-the-power-of-gemini-for
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

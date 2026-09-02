@@ -4,7 +4,7 @@ title: "Keynote: Learnings from Studying 800 Generative AI Open Source Repos - C
 slug: keynote-learnings-from-studying-800-generative-ai-open
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Chip Huyen"]

@@ -4,7 +4,7 @@ title: "Building Human-Centered Engineering Cultures with Leadership, Diversity,
 slug: building-human-centered-engineering-cultures-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

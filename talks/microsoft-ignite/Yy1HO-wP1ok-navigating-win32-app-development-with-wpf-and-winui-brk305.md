@@ -4,7 +4,7 @@ title: "Navigating Win32 App Development with WPF and WinUI | BRK305"
 slug: navigating-win32-app-development-with-wpf-and-winui-brk305
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Chigusa Sansen", "Jeffrey Stall"]

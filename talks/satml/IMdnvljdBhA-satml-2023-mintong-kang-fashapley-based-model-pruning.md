@@ -4,7 +4,7 @@ title: "SaTML 2023 - Mintong Kang - FaShapley Based Model Pruning Towards Certif
 slug: satml-2023-mintong-kang-fashapley-based-model-pruning
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Mintong Kang"]

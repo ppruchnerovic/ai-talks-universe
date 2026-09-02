@@ -4,7 +4,7 @@ title: "Security Firewall for Agents — Ryan Dahl, Deno"
 slug: security-firewall-for-agents-ryan-dahl-deno
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ryan Dahl"]

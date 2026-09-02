@@ -4,7 +4,7 @@ title: "Ono Gantsog - From Noisy Sensors to Events | Pydata London 26"
 slug: ono-gantsog-from-noisy-sensors-to-events-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ono Gantsog"]

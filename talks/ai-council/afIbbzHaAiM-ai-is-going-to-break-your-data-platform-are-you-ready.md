@@ -4,7 +4,7 @@ title: "AI is Going to Break Your Data Platform - Are You Ready?"
 slug: ai-is-going-to-break-your-data-platform-are-you-ready
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Doron Porat"]

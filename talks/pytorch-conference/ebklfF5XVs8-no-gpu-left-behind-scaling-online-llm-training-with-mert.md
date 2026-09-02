@@ -4,7 +4,7 @@ title: "No GPU Left Behind: Scaling Online LLM Training With... - Mert Toslali &
 slug: no-gpu-left-behind-scaling-online-llm-training-with-mert
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Mert Toslali", "Yu Chin Fabian Lim"]

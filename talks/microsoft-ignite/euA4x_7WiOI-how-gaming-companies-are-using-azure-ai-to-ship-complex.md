@@ -4,7 +4,7 @@ title: "How Gaming companies are using Azure & AI to ship complex games | BRK356
 slug: how-gaming-companies-are-using-azure-ai-to-ship-complex
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dan Gartner", "Jon Kefaloukos"]

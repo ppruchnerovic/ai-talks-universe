@@ -4,7 +4,7 @@ title: "AIQSpecFlow: Improves and automates your agile process of specification 
 slug: aiqspecflow-improves-and-automates-your-agile-process-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rene Schenk"]

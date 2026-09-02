@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Alex Ker: How Open source Models Actually Run AI Codin
 slug: ai-dev-25-x-nyc-alex-ker-how-open-source-models-actually
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

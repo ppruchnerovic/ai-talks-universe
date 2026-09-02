@@ -4,7 +4,7 @@ title: "Frontier Partners: Delivering agents to accelerate Industrial AI | PBRK3
 slug: frontier-partners-delivering-agents-to-accelerate
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Howard Heppelmann", "Prateek Kathpal", "Ward Lawrence"]

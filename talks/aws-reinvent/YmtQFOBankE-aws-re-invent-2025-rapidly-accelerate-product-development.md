@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Rapidly accelerate product development and launches
 slug: aws-re-invent-2025-rapidly-accelerate-product-development
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

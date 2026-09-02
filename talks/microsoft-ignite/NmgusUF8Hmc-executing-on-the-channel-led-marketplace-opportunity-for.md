@@ -4,7 +4,7 @@ title: "Executing on the channel-led marketplace opportunity for partners | PBRK
 slug: executing-on-the-channel-led-marketplace-opportunity-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

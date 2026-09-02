@@ -4,7 +4,7 @@ title: "DuckDB + PostgreSQL: Building a Data Warehouse Inside Your Favorite Data
 slug: duckdb-postgresql-building-a-data-warehouse-inside-your
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marco Slot"]

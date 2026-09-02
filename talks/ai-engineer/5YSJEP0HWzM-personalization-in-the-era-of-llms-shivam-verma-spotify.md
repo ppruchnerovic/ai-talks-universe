@@ -4,7 +4,7 @@ title: "Personalization in the Era of LLMs - Shivam Verma, Spotify"
 slug: personalization-in-the-era-of-llms-shivam-verma-spotify
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shivam Verma"]

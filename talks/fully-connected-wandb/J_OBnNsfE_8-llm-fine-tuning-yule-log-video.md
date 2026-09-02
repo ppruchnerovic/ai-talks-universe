@@ -4,7 +4,7 @@ title: "LLM-Fine Tuning Yule Log Video"
 slug: llm-fine-tuning-yule-log-video
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "AI in High-Stakes Industries: Lessons Learned"
 slug: ai-in-high-stakes-industries-lessons-learned
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alexandre Guenoun", "Nicolò Robba", "Tomislav Tipurić"]

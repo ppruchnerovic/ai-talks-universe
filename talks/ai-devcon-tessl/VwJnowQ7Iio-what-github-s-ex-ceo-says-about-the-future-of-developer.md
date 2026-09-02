@@ -4,7 +4,7 @@ title: "What GitHub's Ex-CEO Says About the Future of Developer Skills"
 slug: what-github-s-ex-ceo-says-about-the-future-of-developer
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

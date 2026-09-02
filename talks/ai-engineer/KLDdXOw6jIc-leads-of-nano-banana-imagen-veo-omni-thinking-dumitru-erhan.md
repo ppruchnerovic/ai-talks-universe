@@ -4,7 +4,7 @@ title: "Leads of Nano Banana, Imagen, Veo, Omni/Thinking — Dumitru Erhan, Shan
 slug: leads-of-nano-banana-imagen-veo-omni-thinking-dumitru-erhan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dumitru Erhan"]

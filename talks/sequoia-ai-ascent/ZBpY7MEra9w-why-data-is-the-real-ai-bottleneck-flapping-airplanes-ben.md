@@ -4,7 +4,7 @@ title: "Why Data Is the Real AI Bottleneck: Flapping Airplanes' Ben and Asher Sp
 slug: why-data-is-the-real-ai-bottleneck-flapping-airplanes-ben
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

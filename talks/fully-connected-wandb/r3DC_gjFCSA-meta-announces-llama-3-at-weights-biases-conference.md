@@ -4,7 +4,7 @@ title: "Meta Announces Llama 3 at Weights & Biases’ conference"
 slug: meta-announces-llama-3-at-weights-biases-conference
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

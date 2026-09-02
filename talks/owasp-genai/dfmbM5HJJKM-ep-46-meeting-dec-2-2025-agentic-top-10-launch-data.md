@@ -4,7 +4,7 @@ title: "Ep.46 Meeting Dec 2 2025: Agentic Top 10 launch, Data Security Data Coll
 slug: ep-46-meeting-dec-2-2025-agentic-top-10-launch-data
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

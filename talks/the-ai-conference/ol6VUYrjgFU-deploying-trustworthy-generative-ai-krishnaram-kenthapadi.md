@@ -4,7 +4,7 @@ title: "Deploying Trustworthy Generative AI, Krishnaram Kenthapadi, Chief Scient
 slug: deploying-trustworthy-generative-ai-krishnaram-kenthapadi
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

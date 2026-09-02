@@ -4,7 +4,7 @@ title: "Customized AI that understands your business with Copilot Tuning ​ | B
 slug: customized-ai-that-understands-your-business-with-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Khushboo Aggarwal", "Kalyan Ayloo", "Ranveer Chandra", "Tanaya Yadav"]

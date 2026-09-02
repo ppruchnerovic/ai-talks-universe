@@ -4,7 +4,7 @@ title: "Lightning Talk: Challenges and Standardization in PyTorch Ecosystem... -
 slug: lightning-talk-challenges-and-standardization-in-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Zesheng Zong", "Ashok Emani"]

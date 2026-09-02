@@ -4,7 +4,7 @@ title: "From AI Conversations to Data-Driven Decisions: Unlocking the Future of 
 slug: from-ai-conversations-to-data-driven-decisions-unlocking
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []

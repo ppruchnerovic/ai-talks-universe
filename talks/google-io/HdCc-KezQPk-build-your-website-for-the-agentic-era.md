@@ -4,7 +4,7 @@ title: "Build your website for the agentic era"
 slug: build-your-website-for-the-agentic-era
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kasper Kulikowski"]

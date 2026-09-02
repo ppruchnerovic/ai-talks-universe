@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: ASI:04 Agentic Supply Chain"
 slug: agentic-ai-security-summit-europe-asi-04-agentic-supply
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

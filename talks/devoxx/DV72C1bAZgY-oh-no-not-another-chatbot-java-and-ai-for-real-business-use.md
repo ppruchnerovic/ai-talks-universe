@@ -4,7 +4,7 @@ title: "Oh No, Not Another Chatbot - Java and AI for Real Business Use Cases by 
 slug: oh-no-not-another-chatbot-java-and-ai-for-real-business-use
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Sandra Ahlgrimm"]

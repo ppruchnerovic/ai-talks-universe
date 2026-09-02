@@ -4,7 +4,7 @@ title: "How AI Will Bring Computing to Everyone • Matt Welsh • GOTO 2024"
 slug: how-ai-will-bring-computing-to-everyone-matt-welsh-goto-2024
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Matt Welsh"]

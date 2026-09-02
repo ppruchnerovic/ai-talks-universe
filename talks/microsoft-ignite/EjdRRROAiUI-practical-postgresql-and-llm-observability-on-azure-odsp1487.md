@@ -4,7 +4,7 @@ title: "Practical PostgreSQL and LLM observability on Azure | ODSP1487"
 slug: practical-postgresql-and-llm-observability-on-azure-odsp1487
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

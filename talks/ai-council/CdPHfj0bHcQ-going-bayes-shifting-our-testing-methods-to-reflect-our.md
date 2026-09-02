@@ -4,7 +4,7 @@ title: "Going Bayes: Shifting our Testing Methods to Reflect our Priorities"
 slug: going-bayes-shifting-our-testing-methods-to-reflect-our
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Joseph Powers"]

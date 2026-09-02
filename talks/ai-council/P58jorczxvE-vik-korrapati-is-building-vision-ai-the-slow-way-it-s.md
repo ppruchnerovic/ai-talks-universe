@@ -4,7 +4,7 @@ title: "Vik Korrapati is building vision AI the slow way. It's working."
 slug: vik-korrapati-is-building-vision-ai-the-slow-way-it-s
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

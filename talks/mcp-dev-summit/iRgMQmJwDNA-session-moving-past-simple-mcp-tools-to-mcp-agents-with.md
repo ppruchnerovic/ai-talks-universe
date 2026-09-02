@@ -4,7 +4,7 @@ title: "[Session] Moving Past Simple MCP Tools to MCP Agents with Darren Shepher
 slug: session-moving-past-simple-mcp-tools-to-mcp-agents-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

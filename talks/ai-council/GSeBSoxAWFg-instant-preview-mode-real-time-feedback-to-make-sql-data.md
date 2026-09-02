@@ -4,7 +4,7 @@ title: "Instant Preview Mode Real Time Feedback to Make SQL Data Exploration Fly
 slug: instant-preview-mode-real-time-feedback-to-make-sql-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hamilton Ulmer"]

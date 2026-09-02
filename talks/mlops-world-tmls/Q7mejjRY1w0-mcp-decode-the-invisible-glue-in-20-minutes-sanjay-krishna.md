@@ -4,7 +4,7 @@ title: "MCP: Decode the Invisible Glue in 20 Minutes | Sanjay Krishna Anbalagan,
 slug: mcp-decode-the-invisible-glue-in-20-minutes-sanjay-krishna
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sanjay Krishna Anbalagan"]

@@ -4,7 +4,7 @@ title: "Applying Intuition | Qasar Younis (Applied Intuition)"
 slug: applying-intuition-qasar-younis-applied-intuition
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Applying Intuition", "Qasar Younis"]

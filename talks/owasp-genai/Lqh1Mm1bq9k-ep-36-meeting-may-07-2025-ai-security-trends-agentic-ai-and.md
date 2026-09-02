@@ -4,7 +4,7 @@ title: "Ep.36 Meeting May 07 2025: AI Security Trends, Agentic AI, and Post-RSA 
 slug: ep-36-meeting-may-07-2025-ai-security-trends-agentic-ai-and
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

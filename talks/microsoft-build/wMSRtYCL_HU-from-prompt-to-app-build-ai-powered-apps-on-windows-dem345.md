@@ -4,7 +4,7 @@ title: "From prompt to app, build AI powered apps on Windows | DEM345"
 slug: from-prompt-to-app-build-ai-powered-apps-on-windows-dem345
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Nikola Metulev", "Lei Xu"]

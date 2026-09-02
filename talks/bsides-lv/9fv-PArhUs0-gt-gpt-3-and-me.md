@@ -4,7 +4,7 @@ title: "GT - GPT-3 and me"
 slug: gt-gpt-3-and-me
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2022
 speakers: []

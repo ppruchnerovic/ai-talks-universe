@@ -4,7 +4,7 @@ title: "Meet verl: An RL Framework for LLM Reasoning & Tool Use | Ray Summit 202
 slug: meet-verl-an-rl-framework-for-llm-reasoning-tool-use-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

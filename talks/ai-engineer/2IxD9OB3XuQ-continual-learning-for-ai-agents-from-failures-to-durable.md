@@ -4,7 +4,7 @@ title: "Continual Learning for AI Agents: From Failures to Durable Improvements 
 slug: continual-learning-for-ai-agents-from-failures-to-durable
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Soheil Feizi"]

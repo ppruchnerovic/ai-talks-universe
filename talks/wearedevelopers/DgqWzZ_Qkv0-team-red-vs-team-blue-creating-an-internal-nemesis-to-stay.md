@@ -4,7 +4,7 @@ title: "Team Red vs. Team Blue: Creating an Internal Nemesis to Stay Competitive
 slug: team-red-vs-team-blue-creating-an-internal-nemesis-to-stay
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []

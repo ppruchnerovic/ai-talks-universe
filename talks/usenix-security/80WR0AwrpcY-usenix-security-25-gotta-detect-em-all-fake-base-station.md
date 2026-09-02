@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Gotta Detect 'Em All: Fake Base Station and Multi-
 slug: usenix-security-25-gotta-detect-em-all-fake-base-station
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

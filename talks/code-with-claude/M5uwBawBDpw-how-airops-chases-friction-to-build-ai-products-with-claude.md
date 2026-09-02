@@ -4,7 +4,7 @@ title: "How AirOps chases friction to build AI products with Claude"
 slug: how-airops-chases-friction-to-build-ai-products-with-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

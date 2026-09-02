@@ -4,7 +4,7 @@ title: "Beyond Webhooks: The Future of Scalable API Event Delivery"
 slug: beyond-webhooks-the-future-of-scalable-api-event-delivery
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Phil Leggetter"]

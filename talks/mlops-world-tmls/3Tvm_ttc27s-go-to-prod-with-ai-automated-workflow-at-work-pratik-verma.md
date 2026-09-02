@@ -4,7 +4,7 @@ title: "Go to Prod With AI Automated Workflow at Work | Pratik Verma, Okahu.ai"
 slug: go-to-prod-with-ai-automated-workflow-at-work-pratik-verma
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Pratik Verma"]

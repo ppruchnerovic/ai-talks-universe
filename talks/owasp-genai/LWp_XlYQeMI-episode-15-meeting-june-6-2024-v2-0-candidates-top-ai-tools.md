@@ -4,7 +4,7 @@ title: "Episode 15: Meeting June 6 2024 - v2.0 Candidates, Top AI Tools List, CS
 slug: episode-15-meeting-june-6-2024-v2-0-candidates-top-ai-tools
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

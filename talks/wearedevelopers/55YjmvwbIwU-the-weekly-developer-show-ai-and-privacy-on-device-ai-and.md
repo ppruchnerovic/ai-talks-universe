@@ -4,7 +4,7 @@ title: "The weekly developer show: AI and Privacy, On-Device AI and More"
 slug: the-weekly-developer-show-ai-and-privacy-on-device-ai-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

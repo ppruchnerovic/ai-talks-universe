@@ -4,7 +4,7 @@ title: "Building and evaluating AI agents with Foundry Agent Service | ODSP1411"
 slug: building-and-evaluating-ai-agents-with-foundry-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Katherin Madche"]

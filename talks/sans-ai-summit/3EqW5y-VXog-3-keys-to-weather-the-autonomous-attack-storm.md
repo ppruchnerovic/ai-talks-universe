@@ -4,7 +4,7 @@ title: "3 Keys to Weather the Autonomous Attack Storm"
 slug: 3-keys-to-weather-the-autonomous-attack-storm
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

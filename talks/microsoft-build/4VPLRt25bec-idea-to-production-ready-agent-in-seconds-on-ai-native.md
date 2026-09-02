@@ -4,7 +4,7 @@ title: "Idea to production-ready agent in seconds on AI-native runtime | BRK221"
 slug: idea-to-production-ready-agent-in-seconds-on-ai-native
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Devanshi Joshi", "Simon Jakesch", "Gopi Prashanth"]

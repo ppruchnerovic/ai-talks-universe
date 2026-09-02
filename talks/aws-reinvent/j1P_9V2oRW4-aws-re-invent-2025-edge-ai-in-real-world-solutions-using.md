@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Edge AI in Real-World Solutions using AWS SageMaker
 slug: aws-re-invent-2025-edge-ai-in-real-world-solutions-using
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

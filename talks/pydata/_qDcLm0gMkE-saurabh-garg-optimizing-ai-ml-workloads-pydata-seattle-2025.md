@@ -4,7 +4,7 @@ title: "Saurabh Garg - Optimizing AI/ML Workloads | PyData Seattle 2025"
 slug: saurabh-garg-optimizing-ai-ml-workloads-pydata-seattle-2025
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Saurabh Garg"]

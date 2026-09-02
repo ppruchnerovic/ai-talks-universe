@@ -4,7 +4,7 @@ title: "AI Amplifies Team Strengths and Weaknesses in Software Development"
 slug: ai-amplifies-team-strengths-and-weaknesses-in-software
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

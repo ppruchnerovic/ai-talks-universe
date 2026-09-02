@@ -4,7 +4,7 @@ title: "The 50-State Plan: Public-Private Models for AI Infrastructure and Unive
 slug: the-50-state-plan-public-private-models-for-ai
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []

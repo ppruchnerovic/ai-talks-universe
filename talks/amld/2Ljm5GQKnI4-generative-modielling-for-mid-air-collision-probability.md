@@ -4,7 +4,7 @@ title: "Generative Modielling for Mid-Air Collision Probability Estimation | AI 
 slug: generative-modielling-for-mid-air-collision-probability
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Timothé Krauth"]

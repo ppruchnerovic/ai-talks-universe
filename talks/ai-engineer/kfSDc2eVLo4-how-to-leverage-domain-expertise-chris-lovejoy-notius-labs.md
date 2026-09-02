@@ -4,7 +4,7 @@ title: "How to Leverage Domain Expertise — Chris Lovejoy, Notius Labs"
 slug: how-to-leverage-domain-expertise-chris-lovejoy-notius-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chris Lovejoy"]

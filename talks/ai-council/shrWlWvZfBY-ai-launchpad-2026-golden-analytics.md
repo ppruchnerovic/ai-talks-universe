@@ -4,7 +4,7 @@ title: "AI Launchpad 2026: Golden Analytics"
 slug: ai-launchpad-2026-golden-analytics
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

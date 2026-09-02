@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Work AI that Works: Real Stories & Outcomes of Agen
 slug: aws-re-invent-2025-work-ai-that-works-real-stories-outcomes
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

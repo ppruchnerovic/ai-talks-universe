@@ -4,7 +4,7 @@ title: "From Mixture of Experts to Mixture of Agents with Super Fast Inference -
 slug: from-mixture-of-experts-to-mixture-of-agents-with-super
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Daniel Kim", "Daria Soboleva"]

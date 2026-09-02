@@ -4,7 +4,7 @@ title: "The AI Velocity Trap: Shipping Faster Without Breaking More"
 slug: the-ai-velocity-trap-shipping-faster-without-breaking-more
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ohans Emmanuel"]

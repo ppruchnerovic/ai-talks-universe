@@ -4,7 +4,7 @@ title: "From SaaS to Agentic Platforms: Where the Next Software Advantage Lies"
 slug: from-saas-to-agentic-platforms-where-the-next-software
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

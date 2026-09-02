@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scaling support, compliance, & productivity with co
 slug: aws-re-invent-2025-scaling-support-compliance-productivity
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

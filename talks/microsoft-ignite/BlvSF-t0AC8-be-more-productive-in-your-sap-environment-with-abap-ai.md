@@ -4,7 +4,7 @@ title: "Be more productive in your SAP Environment with ABAP AI model in VS Code
 slug: be-more-productive-in-your-sap-environment-with-abap-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

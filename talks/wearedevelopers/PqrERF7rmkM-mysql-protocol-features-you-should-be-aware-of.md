@@ -4,7 +4,7 @@ title: "MySQL Protocol Features You Should Be Aware Of"
 slug: mysql-protocol-features-you-should-be-aware-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniël van Eeden"]

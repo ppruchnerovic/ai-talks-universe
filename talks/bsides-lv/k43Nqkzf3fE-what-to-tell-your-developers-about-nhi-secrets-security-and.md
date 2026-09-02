@@ -4,7 +4,7 @@ title: "What to Tell Your Developers About NHI Secrets Security and Governance"
 slug: what-to-tell-your-developers-about-nhi-secrets-security-and
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

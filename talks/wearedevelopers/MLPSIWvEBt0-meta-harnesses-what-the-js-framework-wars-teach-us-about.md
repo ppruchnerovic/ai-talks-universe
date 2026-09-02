@@ -4,7 +4,7 @@ title: "Meta Harnesses: What the JS Framework Wars Teach Us About What Is Next f
 slug: meta-harnesses-what-the-js-framework-wars-teach-us-about
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Victor Savkin"]

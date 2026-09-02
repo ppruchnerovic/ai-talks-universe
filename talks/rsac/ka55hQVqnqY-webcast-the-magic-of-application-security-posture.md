@@ -4,7 +4,7 @@ title: "Webcast: The Magic of Application Security Posture Management and its Fu
 slug: webcast-the-magic-of-application-security-posture
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Vandana Verma Sehgal"]

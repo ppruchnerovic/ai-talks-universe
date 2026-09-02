@@ -4,7 +4,7 @@ title: "The Building Blocks of GTM Orchestration — Arman Vaziri, Ramp"
 slug: the-building-blocks-of-gtm-orchestration-arman-vaziri-ramp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arman Vaziri"]

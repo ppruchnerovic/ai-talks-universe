@@ -4,7 +4,7 @@ title: "Your Platform is Not an Island: Embracing Evolution in Your Ecosystem"
 slug: your-platform-is-not-an-island-embracing-evolution-in-your
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Rachael Wonnacott"]

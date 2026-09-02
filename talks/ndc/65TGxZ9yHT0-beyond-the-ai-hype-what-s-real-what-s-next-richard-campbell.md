@@ -4,7 +4,7 @@ title: "Beyond the AI Hype: What's Real, What's Next - Richard Campbell - NDC Lo
 slug: beyond-the-ai-hype-what-s-real-what-s-next-richard-campbell
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Richard Campbell"]

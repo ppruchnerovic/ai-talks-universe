@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Eda Zhou & Mahdi Ghodsi: Building Personal AI Agents wi
 slug: ai-dev-26-x-sf-eda-zhou-mahdi-ghodsi-building-personal-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

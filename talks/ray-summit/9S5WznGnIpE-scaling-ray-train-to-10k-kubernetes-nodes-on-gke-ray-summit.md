@@ -4,7 +4,7 @@ title: "Scaling Ray Train to 10K Kubernetes Nodes on GKE | Ray Summit 2024"
 slug: scaling-ray-train-to-10k-kubernetes-nodes-on-gke-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

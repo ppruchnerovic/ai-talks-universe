@@ -4,7 +4,7 @@ title: "Secure the work with Citrix | STUDIOSP61"
 slug: secure-the-work-with-citrix-studiosp61
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

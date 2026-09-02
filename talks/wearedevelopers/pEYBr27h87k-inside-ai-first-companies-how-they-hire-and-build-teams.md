@@ -4,7 +4,7 @@ title: "Inside AI-First Companies: How They Hire and Build Teams"
 slug: inside-ai-first-companies-how-they-hire-and-build-teams
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AI Literacy in the Political Landscape | AI Literacy, Skills and Readine
 slug: ai-literacy-in-the-political-landscape-ai-literacy-skills
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mike Bernd"]

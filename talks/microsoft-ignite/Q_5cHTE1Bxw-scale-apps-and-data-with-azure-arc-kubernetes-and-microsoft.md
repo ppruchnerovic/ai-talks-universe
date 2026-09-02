@@ -4,7 +4,7 @@ title: "Scale apps and data with Azure Arc Kubernetes and Microsoft Fabric | BRK
 slug: scale-apps-and-data-with-azure-arc-kubernetes-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Francisco Cabrera", "Lior Kamrat"]

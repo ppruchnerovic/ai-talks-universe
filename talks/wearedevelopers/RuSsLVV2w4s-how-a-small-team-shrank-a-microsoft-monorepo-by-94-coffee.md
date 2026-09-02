@@ -4,7 +4,7 @@ title: "How a Small Team Shrank a Microsoft Monorepo by 94% - Coffee with Develo
 slug: how-a-small-team-shrank-a-microsoft-monorepo-by-94-coffee
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []

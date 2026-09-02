@@ -4,7 +4,7 @@ title: "Scaling Inference Deployments with NVIDIA Triton Inference Server and Ra
 slug: scaling-inference-deployments-with-nvidia-triton-inference
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

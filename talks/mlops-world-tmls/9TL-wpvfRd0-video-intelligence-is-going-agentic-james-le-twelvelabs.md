@@ -4,7 +4,7 @@ title: "Video Intelligence Is Going Agentic | James Le, TwelveLabs"
 slug: video-intelligence-is-going-agentic-james-le-twelvelabs
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["James Le"]

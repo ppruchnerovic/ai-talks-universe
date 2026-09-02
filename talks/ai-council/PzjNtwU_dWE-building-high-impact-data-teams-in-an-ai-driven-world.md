@@ -4,7 +4,7 @@ title: "Building High-Impact Data Teams in an AI-Driven World"
 slug: building-high-impact-data-teams-in-an-ai-driven-world
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Alexa Garrison"]

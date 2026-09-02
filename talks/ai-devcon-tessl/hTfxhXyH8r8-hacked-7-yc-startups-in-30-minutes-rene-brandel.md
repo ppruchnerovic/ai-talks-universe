@@ -4,7 +4,7 @@ title: "Hacked 7 YC Startups in 30 Minutes | René Brandel"
 slug: hacked-7-yc-startups-in-30-minutes-rene-brandel
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["René Brandel"]

@@ -4,7 +4,7 @@ title: "Moving from Playing with AI to Implementing AI - Lee Stott"
 slug: moving-from-playing-with-ai-to-implementing-ai-lee-stott
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Lee Stott"]

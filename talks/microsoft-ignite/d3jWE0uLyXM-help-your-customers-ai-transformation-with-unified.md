@@ -4,7 +4,7 @@ title: "Help your customers’ AI transformation with unified analytics | BRK210
 slug: help-your-customers-ai-transformation-with-unified
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ashley Asdourian"]

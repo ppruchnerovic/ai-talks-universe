@@ -4,7 +4,7 @@ title: "From one person to 80: Scaling a hypergrowth engineering org with Claude
 slug: from-one-person-to-80-scaling-a-hypergrowth-engineering-org
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

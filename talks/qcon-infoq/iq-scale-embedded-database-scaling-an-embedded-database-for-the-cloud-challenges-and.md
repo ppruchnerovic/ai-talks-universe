@@ -4,7 +4,7 @@ title: "Scaling an Embedded Database for the Cloud – Challenges and Trade-Offs
 slug: scaling-an-embedded-database-for-the-cloud-challenges-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Stephanie Wang"]

@@ -4,7 +4,7 @@ title: "Claude Is in Copilot. Here's What That Actually Means | LIVE168"
 slug: claude-is-in-copilot-here-s-what-that-actually-means-live168
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Tyler Leonhardt", "Burke Holland"]

@@ -4,7 +4,7 @@ title: "Unified Stream/Batch Execution with Ibis"
 slug: unified-stream-batch-execution-with-ibis
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Deepyaman Datta"]

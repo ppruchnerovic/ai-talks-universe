@@ -4,7 +4,7 @@ title: "Mind the Gap (In your Agent Observability) — Amy Boyd & Nitya Narasimh
 slug: mind-the-gap-in-your-agent-observability-amy-boyd-nitya
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Amy Boyd", "Nitya Narasimhan"]

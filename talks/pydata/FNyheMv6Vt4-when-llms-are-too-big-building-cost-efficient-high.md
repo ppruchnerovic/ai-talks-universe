@@ -4,7 +4,7 @@ title: "When LLMs Are Too Big: Building Cost-Efficient High-Throughput ML System
 slug: when-llms-are-too-big-building-cost-efficient-high
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Tobias Senst"]

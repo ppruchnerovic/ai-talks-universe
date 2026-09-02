@@ -4,7 +4,7 @@ title: "Can you really trust AI to optimize your Cloud? | ODSP1433"
 slug: can-you-really-trust-ai-to-optimize-your-cloud-odsp1433
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Suresh Mathew"]

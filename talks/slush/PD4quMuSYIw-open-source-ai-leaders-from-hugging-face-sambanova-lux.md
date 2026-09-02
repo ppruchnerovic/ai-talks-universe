@@ -4,7 +4,7 @@ title: "Open Source AI: Leaders from Hugging Face, SambaNova & Lux Capital on De
 slug: open-source-ai-leaders-from-hugging-face-sambanova-lux
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

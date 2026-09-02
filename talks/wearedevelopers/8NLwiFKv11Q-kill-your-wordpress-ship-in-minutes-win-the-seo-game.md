@@ -4,7 +4,7 @@ title: "Kill Your WordPress. Ship in Minutes. Win the SEO game."
 slug: kill-your-wordpress-ship-in-minutes-win-the-seo-game
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Malte Lensch"]

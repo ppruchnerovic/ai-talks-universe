@@ -4,7 +4,7 @@ title: "Building Intelligent .NET MAUI Apps with ML.NET - Pieter Nijs - NDC Cope
 slug: building-intelligent-net-maui-apps-with-ml-net-pieter-nijs
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Pieter Nijs"]

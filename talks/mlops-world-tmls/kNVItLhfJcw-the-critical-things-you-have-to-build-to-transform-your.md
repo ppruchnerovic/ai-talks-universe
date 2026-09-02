@@ -4,7 +4,7 @@ title: "The Critical Things You Have to Build to Transform Your Company to be ML
 slug: the-critical-things-you-have-to-build-to-transform-your
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Yuval Fernbach"]

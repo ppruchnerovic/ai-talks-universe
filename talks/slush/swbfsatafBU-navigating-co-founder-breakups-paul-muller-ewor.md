@@ -4,7 +4,7 @@ title: "Navigating Co-founder Breakups | Paul Müller (EWOR)"
 slug: navigating-co-founder-breakups-paul-muller-ewor
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Navigating Co-founder Breakups", "Paul Müller"]

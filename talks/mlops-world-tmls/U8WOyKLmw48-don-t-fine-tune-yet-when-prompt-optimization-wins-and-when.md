@@ -4,7 +4,7 @@ title: "Don't Fine-Tune Yet: When Prompt Optimization Wins (and When It Doesn't)
 slug: don-t-fine-tune-yet-when-prompt-optimization-wins-and-when
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

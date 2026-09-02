@@ -4,7 +4,7 @@ title: "The Secret Sauce for Deploying LLM Applications into Production"
 slug: the-secret-sauce-for-deploying-llm-applications-into
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Josh Reini"]

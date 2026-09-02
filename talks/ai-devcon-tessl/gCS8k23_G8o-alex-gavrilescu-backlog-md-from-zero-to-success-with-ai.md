@@ -4,7 +4,7 @@ title: "Alex Gavrilescu - Backlog md: From zero to success with AI Agents | DevC
 slug: alex-gavrilescu-backlog-md-from-zero-to-success-with-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Alex Gavrilescu"]

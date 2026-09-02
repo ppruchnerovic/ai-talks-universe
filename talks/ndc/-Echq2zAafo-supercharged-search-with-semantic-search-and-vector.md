@@ -4,7 +4,7 @@ title: "Supercharged Search with Semantic Search and Vector Embeddings - Giorgi 
 slug: supercharged-search-with-semantic-search-and-vector
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Giorgi Dalakishvili"]

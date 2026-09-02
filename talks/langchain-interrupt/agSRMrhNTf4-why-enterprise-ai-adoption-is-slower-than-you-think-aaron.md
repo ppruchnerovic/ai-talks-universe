@@ -4,7 +4,7 @@ title: "Why Enterprise AI Adoption Is Slower Than You Think — Aaron Levie (Box
 slug: why-enterprise-ai-adoption-is-slower-than-you-think-aaron
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: ["Aaron Levie"]

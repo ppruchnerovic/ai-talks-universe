@@ -4,7 +4,7 @@ title: "From code to real results, AI impact with Foundry Models | BRK191"
 slug: from-code-to-real-results-ai-impact-with-foundry-models
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Banta", "Nikhil Kumar", "Naomi Moneypenny"]

@@ -4,7 +4,7 @@ title: "SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi De
 slug: swe-marathon-evaluating-coding-agents-at-billion-token
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rishi Desai"]

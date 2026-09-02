@@ -4,7 +4,7 @@ title: "60% Faster Time-to-Interview: Transforming Hiring with AI Agents with La
 slug: 60-faster-time-to-interview-transforming-hiring-with-ai
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

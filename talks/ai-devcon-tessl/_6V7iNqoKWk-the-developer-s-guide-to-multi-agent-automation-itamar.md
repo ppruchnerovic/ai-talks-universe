@@ -4,7 +4,7 @@ title: "The Developer's Guide to Multi-Agent Automation | Itamar Friedman and Ro
 slug: the-developer-s-guide-to-multi-agent-automation-itamar
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Itamar Friedman", "Robert Brennan"]

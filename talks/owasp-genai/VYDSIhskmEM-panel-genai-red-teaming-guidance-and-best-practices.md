@@ -4,7 +4,7 @@ title: "Panel GenAI Red Teaming guidance and best practices"
 slug: panel-genai-red-teaming-guidance-and-best-practices
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

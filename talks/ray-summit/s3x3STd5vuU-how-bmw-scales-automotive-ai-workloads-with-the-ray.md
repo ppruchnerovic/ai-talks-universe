@@ -4,7 +4,7 @@ title: "How BMW Scales Automotive AI Workloads with the Ray Framework | Ray Summ
 slug: how-bmw-scales-automotive-ai-workloads-with-the-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Product-First Engineers: Why Your Code-First Mindset Fails"
 slug: product-first-engineers-why-your-code-first-mindset-fails
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

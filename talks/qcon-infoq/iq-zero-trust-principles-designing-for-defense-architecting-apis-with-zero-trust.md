@@ -4,7 +4,7 @@ title: "Designing for Defense: Architecting APIs with Zero Trust Principles"
 slug: designing-for-defense-architecting-apis-with-zero-trust
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - June 2025"
 year: 2025
 speakers: ["Nivedita Murthy", "Zsolt Németh", "Katie Paxton-Fear", "Ben Bridts", "Renato Losio"]

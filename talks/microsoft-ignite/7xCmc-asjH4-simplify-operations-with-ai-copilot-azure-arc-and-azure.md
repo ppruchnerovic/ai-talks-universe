@@ -4,7 +4,7 @@ title: "Simplify operations with AI: Copilot Azure Arc and Azure Monitor | BRK21
 slug: simplify-operations-with-ai-copilot-azure-arc-and-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Tom Jackson", "Carl Lingenfelter"]

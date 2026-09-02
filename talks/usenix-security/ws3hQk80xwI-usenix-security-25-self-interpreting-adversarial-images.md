@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Self-interpreting Adversarial Images"
 slug: usenix-security-25-self-interpreting-adversarial-images
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: ["Self-interpreting Adversarial Images"]

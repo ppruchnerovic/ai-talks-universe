@@ -4,7 +4,7 @@ title: "Event Streaming for Multi-Agentic Generative AI Workflows • Mary Grygl
 slug: event-streaming-for-multi-agentic-generative-ai-workflows
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Mary Grygleski"]

@@ -4,7 +4,7 @@ title: "Scale small and medium businesses with Agentic ERP | BRK356"
 slug: scale-small-and-medium-businesses-with-agentic-erp-brk356
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bryan Goode", "Kurt Juvyns", "Tom Paquin"]

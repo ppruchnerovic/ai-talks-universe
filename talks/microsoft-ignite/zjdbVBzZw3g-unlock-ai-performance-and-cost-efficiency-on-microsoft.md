@@ -4,7 +4,7 @@ title: "Unlock AI performance and cost efficiency on Microsoft Azure | BRKSP482"
 slug: unlock-ai-performance-and-cost-efficiency-on-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mayunk Jain", "Stefanie Lemon"]

@@ -4,7 +4,7 @@ title: "Build Dynamic Products, and Stop the AI Sideshow — Eliza Cabrera (Work
 slug: build-dynamic-products-and-stop-the-ai-sideshow-eliza
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eliza Cabrera"]

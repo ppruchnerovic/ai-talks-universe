@@ -4,7 +4,7 @@ title: "Anyscale's Governance Suite for Scalable AI Platforms | Ray Summit 2024"
 slug: anyscale-s-governance-suite-for-scalable-ai-platforms-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

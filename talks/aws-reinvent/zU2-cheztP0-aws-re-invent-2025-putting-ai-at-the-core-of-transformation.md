@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Putting AI at the core of transformation (AIM427)"
 slug: aws-re-invent-2025-putting-ai-at-the-core-of-transformation
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

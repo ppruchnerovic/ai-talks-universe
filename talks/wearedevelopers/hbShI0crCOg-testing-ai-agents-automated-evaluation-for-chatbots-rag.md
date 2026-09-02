@@ -4,7 +4,7 @@ title: "Testing AI Agents: Automated Evaluation for Chatbots & RAG Systems"
 slug: testing-ai-agents-automated-evaluation-for-chatbots-rag
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sebastian Messingfeld"]

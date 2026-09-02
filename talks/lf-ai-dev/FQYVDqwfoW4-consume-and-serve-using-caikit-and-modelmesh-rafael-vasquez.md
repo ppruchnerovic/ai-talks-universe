@@ -4,7 +4,7 @@ title: "Consume and Serve Using Caikit and ModelMesh - Rafael Vasquez & Christia
 slug: consume-and-serve-using-caikit-and-modelmesh-rafael-vasquez
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Rafael Vasquez", "Christian Kadner"]

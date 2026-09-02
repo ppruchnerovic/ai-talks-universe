@@ -4,7 +4,7 @@ title: "Expand local AI reach with Windows ML | OD851"
 slug: expand-local-ai-reach-with-windows-ml-od851
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Andrew Leader", "Maha Bayana"]

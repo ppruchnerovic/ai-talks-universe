@@ -4,7 +4,7 @@ title: "SaTML 2024 - Eleanor Clifford - Backdoors in compiled neural networks"
 slug: satml-2024-eleanor-clifford-backdoors-in-compiled-neural
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Eleanor Clifford"]

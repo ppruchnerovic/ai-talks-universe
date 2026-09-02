@@ -4,7 +4,7 @@ title: "The GCP Jenga Tower: Hacking Millions of Google's Servers With a Single 
 slug: the-gcp-jenga-tower-hacking-millions-of-google-s-servers
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

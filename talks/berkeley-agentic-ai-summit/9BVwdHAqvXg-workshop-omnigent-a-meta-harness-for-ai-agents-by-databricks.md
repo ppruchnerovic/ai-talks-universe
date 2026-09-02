@@ -4,7 +4,7 @@ title: "Workshop: Omnigent - A Meta Harness for AI Agents by Databricks"
 slug: workshop-omnigent-a-meta-harness-for-ai-agents-by-databricks
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "The weekly developer show: Spicy Vanilla Web, CSS Magic & More"
 slug: the-weekly-developer-show-spicy-vanilla-web-css-magic-more
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

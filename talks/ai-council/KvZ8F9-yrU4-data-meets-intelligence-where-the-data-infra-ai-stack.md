@@ -4,7 +4,7 @@ title: "Data Meets Intelligence: Where the Data Infra & AI Stack Converge"
 slug: data-meets-intelligence-where-the-data-infra-ai-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Naveen Rao"]

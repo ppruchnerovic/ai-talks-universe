@@ -4,7 +4,7 @@ title: "Why Do We Need an Agent Framework? • Rod Johnson • GOTO 2025"
 slug: why-do-we-need-an-agent-framework-rod-johnson-goto-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Rod Johnson"]

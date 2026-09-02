@@ -4,7 +4,7 @@ title: "Xcode development redefAIned"
 slug: xcode-development-redefained
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["MIlan Todorović"]

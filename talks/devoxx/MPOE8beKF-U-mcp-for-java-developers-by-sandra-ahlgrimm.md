@@ -4,7 +4,7 @@ title: "MCP for Java developers by Sandra Ahlgrimm"
 slug: mcp-for-java-developers-by-sandra-ahlgrimm
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Sandra Ahlgrimm"]

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Scaling GenAI on AWS Without Breaking the Bank thro
 slug: aws-re-invent-2025-scaling-genai-on-aws-without-breaking
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

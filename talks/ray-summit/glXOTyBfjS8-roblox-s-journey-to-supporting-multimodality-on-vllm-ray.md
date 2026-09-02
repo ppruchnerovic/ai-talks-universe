@@ -4,7 +4,7 @@ title: "Roblox's Journey to Supporting Multimodality on vLLM | Ray Summit 2024"
 slug: roblox-s-journey-to-supporting-multimodality-on-vllm-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

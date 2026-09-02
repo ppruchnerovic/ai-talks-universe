@@ -4,7 +4,7 @@ title: "The Ironies of A^2 I^2"
 slug: the-ironies-of-a-2-i-2
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["J. Paul Reed"]

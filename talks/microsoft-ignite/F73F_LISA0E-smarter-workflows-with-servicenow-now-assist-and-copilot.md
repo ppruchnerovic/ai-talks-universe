@@ -4,7 +4,7 @@ title: "Smarter workflows with ServiceNow Now Assist and Copilot integration | O
 slug: smarter-workflows-with-servicenow-now-assist-and-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Richard Norton"]

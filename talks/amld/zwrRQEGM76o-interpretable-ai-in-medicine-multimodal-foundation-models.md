@@ -4,7 +4,7 @@ title: "Interpretable AI in Medicine | Multimodal Foundation Models in Oncology 
 slug: interpretable-ai-in-medicine-multimodal-foundation-models
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mauricio Reyes"]

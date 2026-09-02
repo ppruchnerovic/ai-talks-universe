@@ -4,7 +4,7 @@ title: "Who Owns AI Ethics? Building Accountable Teams in the Age of Machine Lea
 slug: who-owns-ai-ethics-building-accountable-teams-in-the-age-of
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

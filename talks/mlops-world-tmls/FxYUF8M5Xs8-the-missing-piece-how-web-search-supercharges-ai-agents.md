@@ -4,7 +4,7 @@ title: "The Missing Piece: How Web Search Supercharges AI Agents | Noah Nefsky, 
 slug: the-missing-piece-how-web-search-supercharges-ai-agents
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Noah Nefsky"]

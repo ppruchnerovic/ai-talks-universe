@@ -4,7 +4,7 @@ title: "9 Lessons Learned from Deploying GenAI at Scale • Garth Gilmour & Stua
 slug: 9-lessons-learned-from-deploying-genai-at-scale-garth
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Garth Gilmour", "Stuart Greenlees"]

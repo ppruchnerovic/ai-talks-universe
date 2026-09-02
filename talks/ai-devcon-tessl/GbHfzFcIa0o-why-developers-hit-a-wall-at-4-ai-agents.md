@@ -4,7 +4,7 @@ title: "Why Developers Hit a Wall at 4 AI Agents"
 slug: why-developers-hit-a-wall-at-4-ai-agents
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

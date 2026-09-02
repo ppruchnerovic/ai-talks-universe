@@ -4,7 +4,7 @@ title: "Chi Wang - MassGen: Frontier Multi-Agent Scaling in Open Source"
 slug: chi-wang-massgen-frontier-multi-agent-scaling-in-open-source
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Chi Wang"]

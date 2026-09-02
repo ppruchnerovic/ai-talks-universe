@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Rectifying Privacy and Efficacy Measurements in Ma
 slug: usenix-security-25-rectifying-privacy-and-efficacy
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

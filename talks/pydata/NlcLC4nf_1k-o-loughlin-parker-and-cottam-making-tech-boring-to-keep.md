@@ -4,7 +4,7 @@ title: "O'Loughlin, Parker and Cottam - Making tech boring to keep data exciting
 slug: o-loughlin-parker-and-cottam-making-tech-boring-to-keep
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

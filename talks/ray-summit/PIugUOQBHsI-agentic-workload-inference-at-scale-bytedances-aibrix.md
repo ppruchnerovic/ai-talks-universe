@@ -4,7 +4,7 @@ title: "Agentic Workload Inference at Scale: ByteDance’s AIBrix & DeerFlow | R
 slug: agentic-workload-inference-at-scale-bytedances-aibrix
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

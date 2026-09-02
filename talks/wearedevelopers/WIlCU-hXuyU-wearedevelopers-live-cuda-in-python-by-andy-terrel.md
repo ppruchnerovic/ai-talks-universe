@@ -4,7 +4,7 @@ title: "WeAreDevelopers LIVE - CUDA in Python by Andy Terrel"
 slug: wearedevelopers-live-cuda-in-python-by-andy-terrel
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Andy Terrel"]

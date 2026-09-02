@@ -4,7 +4,7 @@ title: "The Human Element in AI: Why People Still Matter in a Machine-Led Era"
 slug: the-human-element-in-ai-why-people-still-matter-in-a
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

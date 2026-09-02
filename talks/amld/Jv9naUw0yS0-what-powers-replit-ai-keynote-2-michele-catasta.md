@@ -4,7 +4,7 @@ title: "What powers Replit AI? | Keynote 2| Michele Catasta"
 slug: what-powers-replit-ai-keynote-2-michele-catasta
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Michele Catasta"]

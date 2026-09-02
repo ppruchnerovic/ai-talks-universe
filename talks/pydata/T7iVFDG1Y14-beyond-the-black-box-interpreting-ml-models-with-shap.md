@@ -4,7 +4,7 @@ title: "Beyond the Black Box: Interpreting ML models with SHAP"
 slug: beyond-the-black-box-interpreting-ml-models-with-shap
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Avik Basu"]

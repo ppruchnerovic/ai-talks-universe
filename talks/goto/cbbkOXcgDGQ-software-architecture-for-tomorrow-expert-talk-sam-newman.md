@@ -4,7 +4,7 @@ title: "Software Architecture for Tomorrow: Expert Talk • Sam Newman & Julian 
 slug: software-architecture-for-tomorrow-expert-talk-sam-newman
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Sam Newman", "Julian Wood"]

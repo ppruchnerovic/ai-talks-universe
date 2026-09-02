@@ -4,7 +4,7 @@ title: "Don’t Page the Planet: Trust-Weighted Ops Decisions | Eric Reese, Best
 slug: dont-page-the-planet-trust-weighted-ops-decisions-eric
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Eric Reese"]

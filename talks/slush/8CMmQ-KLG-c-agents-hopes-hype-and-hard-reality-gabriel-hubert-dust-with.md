@@ -4,7 +4,7 @@ title: "Agents: Hopes, Hype and Hard Reality | Gabriel Hubert (Dust) with Julien
 slug: agents-hopes-hype-and-hard-reality-gabriel-hubert-dust-with
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Gabriel Hubert"]

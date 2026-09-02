@@ -4,7 +4,7 @@ title: "Events Sourcing with Kafka at Scale"
 slug: events-sourcing-with-kafka-at-scale
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Alex Martin"]

@@ -4,7 +4,7 @@ title: "Lightning Talk: AI In The SOC Without Losing The Plot"
 slug: lightning-talk-ai-in-the-soc-without-losing-the-plot
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

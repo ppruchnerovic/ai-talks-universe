@@ -4,7 +4,7 @@ title: "Innovate with Oracle Database@Azure and native Azure AI services | ODSP1
 slug: innovate-with-oracle-database-azure-and-native-azure-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Muneer Mirza"]

@@ -4,7 +4,7 @@ title: "Drive innovation with AI, hybrid cloud, and Copilot+ in Dell AI PCs | ST
 slug: drive-innovation-with-ai-hybrid-cloud-and-copilot-in-dell
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kenny Lowe"]

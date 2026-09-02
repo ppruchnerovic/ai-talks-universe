@@ -4,7 +4,7 @@ title: "Snowflake Summit 2026 Builder Keynote"
 slug: snowflake-summit-2026-builder-keynote
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Write-Ahead Intent Log: a Foundation for Efficient CDC at Scale"
 slug: write-ahead-intent-log-a-foundation-for-efficient-cdc-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Vinay Chella", "Akshat Goel"]

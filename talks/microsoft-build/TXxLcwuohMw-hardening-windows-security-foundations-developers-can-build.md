@@ -4,7 +4,7 @@ title: "Hardening Windows: Security Foundations Developers Can Build On | OD859"
 slug: hardening-windows-security-foundations-developers-can-build
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jason Fisher", "Mariam Gewida", "Jeffrey Sutherland", "Jordan Geurten"]

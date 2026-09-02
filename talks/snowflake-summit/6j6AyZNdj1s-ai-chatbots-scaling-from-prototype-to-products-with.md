@@ -4,7 +4,7 @@ title: "AI Chatbots: Scaling From Prototype To Products With Snowflake Cortex LL
 slug: ai-chatbots-scaling-from-prototype-to-products-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

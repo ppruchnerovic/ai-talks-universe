@@ -4,7 +4,7 @@ title: "Oleg Šelajev - You're absolutely right, it was your home directory! - A
 slug: oleg-selajev-you-re-absolutely-right-it-was-your-home
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Hijacking Google’s CI/CD Through Prompt Injection:The New Era of AI-Ba
 slug: hijacking-googles-ci-cd-through-prompt-injection-the-new
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

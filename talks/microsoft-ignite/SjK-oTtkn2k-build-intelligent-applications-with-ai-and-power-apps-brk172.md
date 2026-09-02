@@ -4,7 +4,7 @@ title: "Build Intelligent Applications with AI and Power Apps | BRK172"
 slug: build-intelligent-applications-with-ai-and-power-apps-brk172
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Evan Lew", "Leon Welicki"]

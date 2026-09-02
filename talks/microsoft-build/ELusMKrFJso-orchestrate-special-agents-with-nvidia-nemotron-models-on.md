@@ -4,7 +4,7 @@ title: "Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKS
 slug: orchestrate-special-agents-with-nvidia-nemotron-models-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Aysen Ilkbahar"]

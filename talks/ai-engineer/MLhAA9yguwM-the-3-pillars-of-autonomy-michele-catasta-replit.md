@@ -4,7 +4,7 @@ title: "The 3 Pillars of Autonomy – Michele Catasta, Replit"
 slug: the-3-pillars-of-autonomy-michele-catasta-replit
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Michele Catasta"]

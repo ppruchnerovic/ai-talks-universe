@@ -4,7 +4,7 @@ title: "How we made Trail of Bits AI-Native (so far) | Trail of Bits"
 slug: how-we-made-trail-of-bits-ai-native-so-far-trail-of-bits
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Trail of Bits"]

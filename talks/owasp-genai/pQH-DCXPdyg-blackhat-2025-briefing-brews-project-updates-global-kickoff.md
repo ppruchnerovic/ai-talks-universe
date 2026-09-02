@@ -4,7 +4,7 @@ title: "BlackHat 2025 Briefing & Brews: Project Updates, Global Kickoff, How to 
 slug: blackhat-2025-briefing-brews-project-updates-global-kickoff
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

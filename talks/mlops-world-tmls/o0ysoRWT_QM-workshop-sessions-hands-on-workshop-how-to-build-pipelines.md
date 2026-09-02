@@ -4,7 +4,7 @@ title: "Workshop Sessions: Hands on Workshop - How to Build Pipelines with Kubef
 slug: workshop-sessions-hands-on-workshop-how-to-build-pipelines
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

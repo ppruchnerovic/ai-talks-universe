@@ -4,7 +4,7 @@ title: "How Structures Affect Outcomes: Software Insights • Elisabeth Hendrick
 slug: how-structures-affect-outcomes-software-insights-elisabeth
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Elisabeth Hendrickson"]

@@ -4,7 +4,7 @@ title: "Netflix's Big Bet: One model to rule recommendations: Yesu Feng, Netflix
 slug: netflix-s-big-bet-one-model-to-rule-recommendations-yesu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

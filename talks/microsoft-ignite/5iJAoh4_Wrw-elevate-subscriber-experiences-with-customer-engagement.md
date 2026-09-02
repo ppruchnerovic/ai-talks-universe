@@ -4,7 +4,7 @@ title: "Elevate subscriber experiences with Customer Engagement Platform | BRK25
 slug: elevate-subscriber-experiences-with-customer-engagement
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rick Lievano", "Mustafa Oyumi", "Lionel Schonberg"]

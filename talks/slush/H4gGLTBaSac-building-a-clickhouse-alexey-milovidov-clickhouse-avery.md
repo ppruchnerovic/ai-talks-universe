@@ -4,7 +4,7 @@ title: "Building a ClickHouse | Alexey Milovidov (ClickHouse) & Avery Klemmer (T
 slug: building-a-clickhouse-alexey-milovidov-clickhouse-avery
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Alexey Milovidov"]

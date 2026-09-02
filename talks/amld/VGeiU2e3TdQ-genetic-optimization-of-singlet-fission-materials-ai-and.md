@@ -4,7 +4,7 @@ title: "Genetic Optimization of Singlet Fission Materials | AI and the Molecular
 slug: genetic-optimization-of-singlet-fission-materials-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Luca Schaufelberger"]

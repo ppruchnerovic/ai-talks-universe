@@ -4,7 +4,7 @@ title: "Building solution practices for Microsoft Cloud for Sustainability | BRK
 slug: building-solution-practices-for-microsoft-cloud-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Shelly Bakke", "Arminder Singh"]

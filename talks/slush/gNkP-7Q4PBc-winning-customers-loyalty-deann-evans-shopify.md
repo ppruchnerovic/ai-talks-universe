@@ -4,7 +4,7 @@ title: "Winning Customers & Loyalty | Deann Evans (Shopify)"
 slug: winning-customers-loyalty-deann-evans-shopify
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Deann Evans"]

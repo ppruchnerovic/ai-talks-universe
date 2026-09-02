@@ -4,7 +4,7 @@ title: "Let's build an AI agent - Phil Nash - NDC Copenhagen 2026"
 slug: let-s-build-an-ai-agent-phil-nash-ndc-copenhagen-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Phil Nash"]

@@ -4,7 +4,7 @@ title: "Empowering the financial services partner ecosystem with Generative AI |
 slug: empowering-the-financial-services-partner-ecosystem-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Adrian Crockett", "Nick Reed"]

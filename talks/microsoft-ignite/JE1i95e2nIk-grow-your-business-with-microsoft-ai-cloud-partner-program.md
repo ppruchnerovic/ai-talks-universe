@@ -4,7 +4,7 @@ title: "Grow your business with Microsoft AI Cloud Partner Program | PBRK415-R1"
 slug: grow-your-business-with-microsoft-ai-cloud-partner-program
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

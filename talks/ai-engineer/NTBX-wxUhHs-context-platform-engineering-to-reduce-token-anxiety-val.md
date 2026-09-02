@@ -4,7 +4,7 @@ title: "Context Platform Engineering to Reduce Token Anxiety — Val Bercovici, 
 slug: context-platform-engineering-to-reduce-token-anxiety-val
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Val Bercovici"]

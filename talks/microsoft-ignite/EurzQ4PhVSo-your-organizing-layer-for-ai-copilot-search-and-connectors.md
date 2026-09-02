@@ -4,7 +4,7 @@ title: "Your organizing layer for AI: Copilot Search and connectors ​ | BRK283
 slug: your-organizing-layer-for-ai-copilot-search-and-connectors
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rishabh Agrawal", "Bill Baer", "Jyoti Pal", "Soujanya Srivalli"]

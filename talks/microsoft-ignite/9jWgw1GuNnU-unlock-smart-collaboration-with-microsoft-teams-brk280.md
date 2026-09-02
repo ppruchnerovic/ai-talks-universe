@@ -4,7 +4,7 @@ title: "Unlock smart collaboration with Microsoft Teams | BRK280"
 slug: unlock-smart-collaboration-with-microsoft-teams-brk280
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ilya Bukshteyn", "Pete Daderko", "Kerry Perez Heffernan"]

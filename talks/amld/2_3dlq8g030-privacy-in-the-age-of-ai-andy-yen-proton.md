@@ -4,7 +4,7 @@ title: "Privacy in the age of AI | Andy Yen, Proton"
 slug: privacy-in-the-age-of-ai-andy-yen-proton
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Andy Yen"]

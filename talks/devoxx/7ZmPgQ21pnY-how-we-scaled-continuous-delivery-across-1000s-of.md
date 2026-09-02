@@ -4,7 +4,7 @@ title: "How we scaled Continuous Delivery across 1000s of Developers and 100s of
 slug: how-we-scaled-continuous-delivery-across-1000s-of
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

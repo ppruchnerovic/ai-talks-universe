@@ -4,7 +4,7 @@ title: "Build and customize local AI into enterprise apps with Windows AI APIs |
 slug: build-and-customize-local-ai-into-enterprise-apps-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

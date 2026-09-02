@@ -4,7 +4,7 @@ title: "Compiling Workflows into Databases: the Architecture That Shouldn't Work
 slug: compiling-workflows-into-databases-the-architecture-that
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Jeremy Edberg", "Qian Li"]

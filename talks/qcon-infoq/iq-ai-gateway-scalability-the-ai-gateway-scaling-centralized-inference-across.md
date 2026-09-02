@@ -4,7 +4,7 @@ title: "The AI Gateway: Scaling Centralized Inference across Decentralized Teams
 slug: the-ai-gateway-scaling-centralized-inference-across
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Meryem Arik"]

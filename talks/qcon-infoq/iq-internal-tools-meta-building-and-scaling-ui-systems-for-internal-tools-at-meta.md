@@ -4,7 +4,7 @@ title: "Building and Scaling UI Systems for Internal Tools at Meta"
 slug: building-and-scaling-ui-systems-for-internal-tools-at-meta
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Cindy Zhang"]

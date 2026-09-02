@@ -4,7 +4,7 @@ title: "The New Stack and Ops for AI"
 slug: the-new-stack-and-ops-for-ai
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2023"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Build an end-to-end agentic automation for your system in 15 mins | DEM5
 slug: build-an-end-to-end-agentic-automation-for-your-system-in
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

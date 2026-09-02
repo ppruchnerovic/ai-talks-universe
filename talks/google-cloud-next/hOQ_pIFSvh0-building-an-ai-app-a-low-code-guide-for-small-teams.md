@@ -4,7 +4,7 @@ title: "Building an AI app: A low-code guide for small teams"
 slug: building-an-ai-app-a-low-code-guide-for-small-teams
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Yoav Eilat", "Rahul Deshmukh", "Diego Gamboa"]

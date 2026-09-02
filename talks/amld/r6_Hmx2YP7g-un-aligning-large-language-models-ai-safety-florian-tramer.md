@@ -4,7 +4,7 @@ title: "Un-aligning large language models | AI Safety | Florian Tramèr"
 slug: un-aligning-large-language-models-ai-safety-florian-tramer
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Florian Tramèr"]

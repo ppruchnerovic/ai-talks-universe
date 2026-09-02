@@ -4,7 +4,7 @@ title: "Beyond DALL-E: Advanced Image Generation Workflows with ComfyUI"
 slug: beyond-dall-e-advanced-image-generation-workflows-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["René Fa"]

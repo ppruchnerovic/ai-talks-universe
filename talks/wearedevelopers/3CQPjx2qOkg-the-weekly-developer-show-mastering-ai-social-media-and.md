@@ -4,7 +4,7 @@ title: "The weekly developer show: Mastering AI, Social Media, and Developer Too
 slug: the-weekly-developer-show-mastering-ai-social-media-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

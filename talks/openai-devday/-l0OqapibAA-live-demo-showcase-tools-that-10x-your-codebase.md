@@ -4,7 +4,7 @@ title: "Live Demo Showcase: Tools That 10x Your Codebase"
 slug: live-demo-showcase-tools-that-10x-your-codebase
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []

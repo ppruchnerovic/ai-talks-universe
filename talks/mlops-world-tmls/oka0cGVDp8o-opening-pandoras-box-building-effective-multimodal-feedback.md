@@ -4,7 +4,7 @@ title: "Opening Pandora’s Box: Building Effective Multimodal Feedback Loops | 
 slug: opening-pandoras-box-building-effective-multimodal-feedback
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Denise Kutnick"]

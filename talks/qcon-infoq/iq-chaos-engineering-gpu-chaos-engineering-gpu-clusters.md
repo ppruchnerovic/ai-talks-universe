@@ -4,7 +4,7 @@ title: "Chaos Engineering GPU Clusters"
 slug: chaos-engineering-gpu-clusters
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Bryan Oliver"]

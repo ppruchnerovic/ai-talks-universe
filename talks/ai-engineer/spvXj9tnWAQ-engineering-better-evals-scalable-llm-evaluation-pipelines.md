@@ -4,7 +4,7 @@ title: "Engineering Better Evals: Scalable LLM Evaluation Pipelines That Work â€
 slug: engineering-better-evals-scalable-llm-evaluation-pipelines
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dat Ngo"]

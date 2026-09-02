@@ -4,7 +4,7 @@ title: "Designing for Agents Will Make You Better at Designing for Humans"
 slug: designing-for-agents-will-make-you-better-at-designing-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dana Lawson"]

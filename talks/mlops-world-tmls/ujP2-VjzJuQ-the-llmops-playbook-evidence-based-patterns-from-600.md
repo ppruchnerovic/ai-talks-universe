@@ -4,7 +4,7 @@ title: "The LLMOps Playbook: Evidence-Based Patterns from 600+ Implementations"
 slug: the-llmops-playbook-evidence-based-patterns-from-600
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

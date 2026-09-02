@@ -4,7 +4,7 @@ title: "Cerebral Valley: Shane Orlick (Jasper) and Cristóbal Valenzuela (Runway
 slug: cerebral-valley-shane-orlick-jasper-and-cristobal
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []

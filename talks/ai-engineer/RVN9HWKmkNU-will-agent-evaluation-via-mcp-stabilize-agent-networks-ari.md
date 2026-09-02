@@ -4,7 +4,7 @@ title: "Will Agent evaluation via MCP Stabilize Agent Networks? - Ari Heljakka"
 slug: will-agent-evaluation-via-mcp-stabilize-agent-networks-ari
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ari Heljakka"]

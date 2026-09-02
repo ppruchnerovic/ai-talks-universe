@@ -4,7 +4,7 @@ title: "From MCP and Vibe Coding to Harness Engineering: How Did AI Native Engin
 slug: from-mcp-and-vibe-coding-to-harness-engineering-how-did-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Computer Use at the Edge of the Statistical Precipice — Pierluca D'Oro
 slug: computer-use-at-the-edge-of-the-statistical-precipice
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Leading AI Change — The Human Side of Responsible Deployment"
 slug: leading-ai-change-the-human-side-of-responsible-deployment
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

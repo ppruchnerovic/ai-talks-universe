@@ -4,7 +4,7 @@ title: "IT Excellence in the AI era: Copilot and agents, impact and control | BR
 slug: it-excellence-in-the-ai-era-copilot-and-agents-impact-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ronil Dhruva", "Shilpi Sinha"]

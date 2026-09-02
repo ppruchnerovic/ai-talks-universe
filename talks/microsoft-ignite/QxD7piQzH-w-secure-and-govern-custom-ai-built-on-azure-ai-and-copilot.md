@@ -4,7 +4,7 @@ title: "Secure and govern custom AI built on Azure AI and Copilot Studio | BRK32
 slug: secure-and-govern-custom-ai-built-on-azure-ai-and-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Neta Haiby", "John Israel", "Shilpa Ranganathan", "Greg Schellenberg", "Gopal Shankar"]

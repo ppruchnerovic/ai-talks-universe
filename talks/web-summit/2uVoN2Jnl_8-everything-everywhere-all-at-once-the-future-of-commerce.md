@@ -4,7 +4,7 @@ title: "Everything everywhere all at once: The future of commerce & creativity"
 slug: everything-everywhere-all-at-once-the-future-of-commerce
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2025
 speakers: []

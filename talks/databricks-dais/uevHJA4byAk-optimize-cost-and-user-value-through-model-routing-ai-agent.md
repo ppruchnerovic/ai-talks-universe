@@ -4,7 +4,7 @@ title: "Optimize Cost and User Value Through Model Routing AI Agent"
 slug: optimize-cost-and-user-value-through-model-routing-ai-agent
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

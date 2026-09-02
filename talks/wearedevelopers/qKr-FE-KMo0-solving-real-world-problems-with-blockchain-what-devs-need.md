@@ -4,7 +4,7 @@ title: "Solving Real-World Problems with Blockchain: What Devs Need to Know Now"
 slug: solving-real-world-problems-with-blockchain-what-devs-need
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

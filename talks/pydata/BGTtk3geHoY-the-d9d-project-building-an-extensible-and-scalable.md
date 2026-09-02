@@ -4,7 +4,7 @@ title: "The d9d Project: Building an extensible and scalable distributed trainin
 slug: the-d9d-project-building-an-extensible-and-scalable
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

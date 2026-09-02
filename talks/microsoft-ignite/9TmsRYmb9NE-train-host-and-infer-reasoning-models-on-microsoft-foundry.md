@@ -4,7 +4,7 @@ title: "Train host and infer reasoning models on Microsoft Foundry | BRK210"
 slug: train-host-and-infer-reasoning-models-on-microsoft-foundry
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vijay Aski", "Chris Lauren", "Ankit Parag Shah", "Wei Wei"]

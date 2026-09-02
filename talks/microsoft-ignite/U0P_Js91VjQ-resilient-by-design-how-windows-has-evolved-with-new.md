@@ -4,7 +4,7 @@ title: "Resilient by design: How Windows has evolved with new recovery tools | B
 slug: resilient-by-design-how-windows-has-evolved-with-new
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kristian Andaker", "Tom Bouathong", "Aaron Farmer"]

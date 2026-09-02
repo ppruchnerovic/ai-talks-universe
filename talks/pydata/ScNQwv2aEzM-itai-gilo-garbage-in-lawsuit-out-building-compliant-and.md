@@ -4,7 +4,7 @@ title: "Itai Gilo-Garbage In, Lawsuit Out_ Building Compliant and Reproducible M
 slug: itai-gilo-garbage-in-lawsuit-out-building-compliant-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

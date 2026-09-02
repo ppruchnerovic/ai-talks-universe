@@ -4,7 +4,7 @@ title: "Keynote, Day 1: \"Secure AI\" is 20 years old"
 slug: keynote-day-1-secure-ai-is-20-years-old
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

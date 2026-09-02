@@ -4,7 +4,7 @@ title: "Evals Are Not Unit Tests — Ido Pesok, Vercel v0"
 slug: evals-are-not-unit-tests-ido-pesok-vercel-v0
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ido Pesok"]

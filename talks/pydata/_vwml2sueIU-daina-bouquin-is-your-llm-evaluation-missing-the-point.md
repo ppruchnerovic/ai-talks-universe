@@ -4,7 +4,7 @@ title: "Daina Bouquin-Is Your LLM Evaluation Missing the Point---PyData Boston 2
 slug: daina-bouquin-is-your-llm-evaluation-missing-the-point
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Microsoft Marketplace: Your trusted source for cloud solutions, AI apps,
 slug: microsoft-marketplace-your-trusted-source-for-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cyril Belikoff"]

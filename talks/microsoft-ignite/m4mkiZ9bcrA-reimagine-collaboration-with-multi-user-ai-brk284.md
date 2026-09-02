@@ -4,7 +4,7 @@ title: "Reimagine collaboration with multi-user AI | BRK284"
 slug: reimagine-collaboration-with-multi-user-ai-brk284
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Russell Dicker", "Pete Daderko"]

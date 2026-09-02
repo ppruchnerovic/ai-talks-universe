@@ -4,7 +4,7 @@ title: "What is Local-first Web Development?"
 slug: what-is-local-first-web-development
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alexander Opalic"]

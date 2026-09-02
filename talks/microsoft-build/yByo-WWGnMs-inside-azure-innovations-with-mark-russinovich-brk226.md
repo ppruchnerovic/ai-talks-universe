@@ -4,7 +4,7 @@ title: "Inside Azure innovations with Mark Russinovich | BRK226"
 slug: inside-azure-innovations-with-mark-russinovich-brk226
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mark Russinovich"]

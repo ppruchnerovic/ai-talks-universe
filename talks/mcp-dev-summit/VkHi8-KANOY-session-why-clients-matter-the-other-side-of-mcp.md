@@ -4,7 +4,7 @@ title: "[Session] Why Clients Matter: The Other Side of MCP"
 slug: session-why-clients-matter-the-other-side-of-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

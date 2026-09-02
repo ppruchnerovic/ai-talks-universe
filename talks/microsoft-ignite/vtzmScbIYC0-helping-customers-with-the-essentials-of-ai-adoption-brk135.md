@@ -4,7 +4,7 @@ title: "Helping customers with the essentials of AI adoption | BRK135"
 slug: helping-customers-with-the-essentials-of-ai-adoption-brk135
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Cyril Belikoff", "David Seda"]

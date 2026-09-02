@@ -4,7 +4,7 @@ title: "Detecting hand-crafted social engineering emails with a bleeding-edge ne
 slug: detecting-hand-crafted-social-engineering-emails-with-a
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

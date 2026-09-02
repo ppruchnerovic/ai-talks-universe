@@ -4,7 +4,7 @@ title: "Using AI in Talent Teams: What Works, What Doesn’t"
 slug: using-ai-in-talent-teams-what-works-what-doesnt
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

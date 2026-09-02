@@ -4,7 +4,7 @@ title: "Dmitry Petrov - From SQL to Python: Building Data Context for Agents and
 slug: dmitry-petrov-from-sql-to-python-building-data-context-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Dmitry Petrov"]

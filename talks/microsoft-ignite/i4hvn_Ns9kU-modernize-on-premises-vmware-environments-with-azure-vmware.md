@@ -4,7 +4,7 @@ title: "Modernize on-premises VMware environments with Azure VMware Solution | B
 slug: modernize-on-premises-vmware-environments-with-azure-vmware
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Gruenemeier", "Christophe Herrbach"]

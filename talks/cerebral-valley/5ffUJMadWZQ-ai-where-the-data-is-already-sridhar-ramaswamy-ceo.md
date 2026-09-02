@@ -4,7 +4,7 @@ title: "AI Where the Data Is Already: Sridhar Ramaswamy (CEO, Snowflake) in conv
 slug: ai-where-the-data-is-already-sridhar-ramaswamy-ceo
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []

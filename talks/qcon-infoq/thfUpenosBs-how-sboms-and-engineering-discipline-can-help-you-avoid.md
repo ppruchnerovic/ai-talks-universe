@@ -4,7 +4,7 @@ title: "How SBOMs and Engineering Discipline Can Help You Avoid Trivy’s Compro
 slug: how-sboms-and-engineering-discipline-can-help-you-avoid
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

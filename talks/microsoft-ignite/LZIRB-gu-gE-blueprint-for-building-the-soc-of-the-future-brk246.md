@@ -4,7 +4,7 @@ title: "Blueprint for Building the SOC of the Future | BRK246"
 slug: blueprint-for-building-the-soc-of-the-future-brk246
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gary Berletti", "Matt Graham", "Raviv Tamir"]

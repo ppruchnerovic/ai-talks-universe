@@ -4,7 +4,7 @@ title: "Build agent-first solutions with Power Platform and Copilot Studio | BRK
 slug: build-agent-first-solutions-with-power-platform-and-copilot
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

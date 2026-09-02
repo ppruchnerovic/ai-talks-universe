@@ -4,7 +4,7 @@ title: "Windows & Intune: Enabling the Sustainable Enterprise of the Future | OD
 slug: windows-intune-enabling-the-sustainable-enterprise-of-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Serah Delaini", "Ugochi Nweze"]

@@ -4,7 +4,7 @@ title: "Microservices Platforms: When Team Topologies Meets Microservices Patter
 slug: microservices-platforms-when-team-topologies-meets
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Chris Richardson"]

@@ -4,7 +4,7 @@ title: "The future is now, with Compose and AI on Android XR"
 slug: the-future-is-now-with-compose-and-ai-on-android-xr
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

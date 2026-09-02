@@ -4,7 +4,7 @@ title: "State of the Art of Spring AI • Josh Long • GOTO 2025"
 slug: state-of-the-art-of-spring-ai-josh-long-goto-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Josh Long"]

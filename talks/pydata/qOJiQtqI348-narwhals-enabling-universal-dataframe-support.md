@@ -4,7 +4,7 @@ title: "Narwhals: enabling universal dataframe support"
 slug: narwhals-enabling-universal-dataframe-support
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Marco Gorelli"]

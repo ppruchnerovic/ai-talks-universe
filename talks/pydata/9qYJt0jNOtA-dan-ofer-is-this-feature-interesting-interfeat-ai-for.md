@@ -4,7 +4,7 @@ title: "Dan Ofer: Is This Feature Interesting? Interfeat: AI for Insight Discove
 slug: dan-ofer-is-this-feature-interesting-interfeat-ai-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

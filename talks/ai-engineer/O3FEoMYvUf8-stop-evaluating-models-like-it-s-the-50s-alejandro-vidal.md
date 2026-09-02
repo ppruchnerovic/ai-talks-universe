@@ -4,7 +4,7 @@ title: "Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers"
 slug: stop-evaluating-models-like-it-s-the-50s-alejandro-vidal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alejandro Vidal"]

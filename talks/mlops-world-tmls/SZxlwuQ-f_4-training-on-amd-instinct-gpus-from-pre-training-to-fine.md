@@ -4,7 +4,7 @@ title: "Training on AMD Instinct GPUs: From Pre-training to Fine-tuning and Post
 slug: training-on-amd-instinct-gpus-from-pre-training-to-fine
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

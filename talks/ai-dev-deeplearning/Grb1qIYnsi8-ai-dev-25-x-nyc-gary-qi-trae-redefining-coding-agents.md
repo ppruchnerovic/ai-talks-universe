@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Gary Qi: TRAE: Redefining Coding Agents"
 slug: ai-dev-25-x-nyc-gary-qi-trae-redefining-coding-agents
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

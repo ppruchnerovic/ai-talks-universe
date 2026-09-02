@@ -4,7 +4,7 @@ title: "Boost productivity with Microsoft Fabric​ Copilot and AI | BRK197"
 slug: boost-productivity-with-microsoft-fabric-copilot-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mohammad Ali", "Nellie Gustafsson"]

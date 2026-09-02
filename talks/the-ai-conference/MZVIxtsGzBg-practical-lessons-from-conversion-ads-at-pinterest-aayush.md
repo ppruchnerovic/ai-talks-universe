@@ -4,7 +4,7 @@ title: "Practical Lessons From Conversion Ads at Pinterest, Aayush Mudgal, Pinte
 slug: practical-lessons-from-conversion-ads-at-pinterest-aayush
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "If You Can’t Test It, Don’t Deploy It: The New Rule of AI Developmen
 slug: if-you-cant-test-it-dont-deploy-it-the-new-rule-of-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

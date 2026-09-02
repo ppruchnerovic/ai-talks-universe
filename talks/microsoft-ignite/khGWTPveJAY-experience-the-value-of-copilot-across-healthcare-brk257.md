@@ -4,7 +4,7 @@ title: "Experience the value of Copilot across healthcare | BRK257"
 slug: experience-the-value-of-copilot-across-healthcare-brk257
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

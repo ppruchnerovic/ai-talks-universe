@@ -4,7 +4,7 @@ title: "Ray: Last Year’s Progress and the Road Ahead | Ray Summit 2025"
 slug: ray-last-years-progress-and-the-road-ahead-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

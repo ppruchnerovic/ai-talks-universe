@@ -4,7 +4,7 @@ title: "Innovation Session: Agents at work: Shaping the future of business | BRK
 slug: innovation-session-agents-at-work-shaping-the-future-of
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bryan Goode", "Dan Lewis", "Aghogho Biakolo", "Kendra Springer"]

@@ -4,7 +4,7 @@ title: "Ray Summit 2025 Keynote: Vehicle Intelligence at Scale with Peter Ludwig
 slug: ray-summit-2025-keynote-vehicle-intelligence-at-scale-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

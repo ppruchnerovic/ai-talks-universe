@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - From Static to Dynamic: Fortive’s Next-Gen AI Pla
 slug: aws-re-invent-2025-from-static-to-dynamic-fortives-next-gen
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

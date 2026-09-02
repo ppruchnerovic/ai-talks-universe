@@ -4,7 +4,7 @@ title: "AI for Energy: From advanced operations to emissions management | BRK365
 slug: ai-for-energy-from-advanced-operations-to-emissions
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Todd Inlander", "Hany Soliman"]

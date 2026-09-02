@@ -4,7 +4,7 @@ title: "Using autonomous SRE to move from alerts to action | OD800"
 slug: using-autonomous-sre-to-move-from-alerts-to-action-od800
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vyom Nagrani", "Deepthi Chelupati"]

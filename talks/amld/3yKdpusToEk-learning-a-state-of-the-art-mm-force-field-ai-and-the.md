@@ -4,7 +4,7 @@ title: "Learning a State of the Art MM Force Field | AI and the Molecular World 
 slug: learning-a-state-of-the-art-mm-force-field-ai-and-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Leif Seute"]

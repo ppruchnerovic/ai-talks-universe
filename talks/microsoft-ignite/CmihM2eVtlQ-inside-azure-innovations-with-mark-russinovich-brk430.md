@@ -4,7 +4,7 @@ title: "Inside Azure Innovations with Mark Russinovich | BRK430"
 slug: inside-azure-innovations-with-mark-russinovich-brk430
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mark Russinovich"]

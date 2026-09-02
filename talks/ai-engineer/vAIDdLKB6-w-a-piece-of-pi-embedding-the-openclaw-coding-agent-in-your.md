@@ -4,7 +4,7 @@ title: "A Piece of Pi: Embedding The OpenClaw Coding Agent In Your Product — M
 slug: a-piece-of-pi-embedding-the-openclaw-coding-agent-in-your
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matthias Luebken"]

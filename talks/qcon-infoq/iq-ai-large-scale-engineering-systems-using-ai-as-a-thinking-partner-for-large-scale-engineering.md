@@ -4,7 +4,7 @@ title: "Using AI as a Thinking Partner for Large-Scale Engineering Systems"
 slug: using-ai-as-a-thinking-partner-for-large-scale-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Julie Qiu"]

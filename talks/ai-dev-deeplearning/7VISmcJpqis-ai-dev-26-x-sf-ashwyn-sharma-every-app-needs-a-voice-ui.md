@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Ashwyn Sharma: Every App Needs a Voice UI. Here's How t
 slug: ai-dev-26-x-sf-ashwyn-sharma-every-app-needs-a-voice-ui
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

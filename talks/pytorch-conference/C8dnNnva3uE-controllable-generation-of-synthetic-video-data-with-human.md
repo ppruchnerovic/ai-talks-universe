@@ -4,7 +4,7 @@ title: "Controllable Generation of Synthetic Video Data With Human Motion - Vacl
 slug: controllable-generation-of-synthetic-video-data-with-human
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Vaclav Knapp"]

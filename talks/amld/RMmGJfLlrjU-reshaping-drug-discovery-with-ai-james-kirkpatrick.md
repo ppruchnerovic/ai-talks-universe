@@ -4,7 +4,7 @@ title: "Reshaping Drug Discovery with AI | James Kirkpatrick, Isomorphic Labs"
 slug: reshaping-drug-discovery-with-ai-james-kirkpatrick
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["James Kirkpatrick"]

@@ -4,7 +4,7 @@ title: "From Perception to Autonomy: Building Agentic Edge AI Robots with ROS 2"
 slug: from-perception-to-autonomy-building-agentic-edge-ai-robots
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Moe Sani"]

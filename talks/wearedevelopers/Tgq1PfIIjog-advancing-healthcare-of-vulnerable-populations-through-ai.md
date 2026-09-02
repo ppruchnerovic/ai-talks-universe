@@ -4,7 +4,7 @@ title: "Advancing Healthcare of Vulnerable Populations Through AI and Wearable D
 slug: advancing-healthcare-of-vulnerable-populations-through-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: []

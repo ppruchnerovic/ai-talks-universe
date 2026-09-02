@@ -4,7 +4,7 @@ title: "GPU Training Failures that Hide From Your Dashboard"
 slug: gpu-training-failures-that-hide-from-your-dashboard
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

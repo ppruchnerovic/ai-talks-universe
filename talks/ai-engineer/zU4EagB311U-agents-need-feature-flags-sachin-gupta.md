@@ -4,7 +4,7 @@ title: "Agents Need Feature Flags - Sachin Gupta"
 slug: agents-need-feature-flags-sachin-gupta
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sachin Gupta"]

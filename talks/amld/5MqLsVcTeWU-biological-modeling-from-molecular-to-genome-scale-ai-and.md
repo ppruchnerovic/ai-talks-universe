@@ -4,7 +4,7 @@ title: "Biological modeling from molecular to genome scale | AI and the Molecula
 slug: biological-modeling-from-molecular-to-genome-scale-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Brian Hie"]

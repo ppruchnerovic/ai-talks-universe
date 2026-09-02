@@ -4,7 +4,7 @@ title: "Sponsored Session: Building Community in the Age of AI - Brian Proffitt,
 slug: sponsored-session-building-community-in-the-age-of-ai-brian
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Brian Proffitt"]

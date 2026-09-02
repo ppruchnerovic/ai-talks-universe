@@ -4,7 +4,7 @@ title: "Rémi Flamary - Optimal Transport in Python: A Practical Introduction wi
 slug: remi-flamary-optimal-transport-in-python-a-practical
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Rémi Flamary"]

@@ -4,7 +4,7 @@ title: "Unlocking the AI Black Box: Building Trust in the Era of Agentic Product
 slug: unlocking-the-ai-black-box-building-trust-in-the-era-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Harry Kimpel", "Jemiah Sius"]

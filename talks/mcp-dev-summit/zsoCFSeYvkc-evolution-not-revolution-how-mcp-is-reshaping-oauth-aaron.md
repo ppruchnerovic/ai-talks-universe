@@ -4,7 +4,7 @@ title: "Evolution, Not Revolution: How MCP Is Reshaping OAuth - Aaron Parecki, O
 slug: evolution-not-revolution-how-mcp-is-reshaping-oauth-aaron
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Aaron Parecki"]

@@ -4,7 +4,7 @@ title: "Štěpán Procházka - LLMs, the do-it-yourself edition (PyData Prague #
 slug: stepan-prochazka-llms-the-do-it-yourself-edition-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

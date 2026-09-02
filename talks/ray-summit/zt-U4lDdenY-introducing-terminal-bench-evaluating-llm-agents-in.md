@@ -4,7 +4,7 @@ title: "Introducing Terminal-Bench: Evaluating LLM Agents in Realistic Terminal 
 slug: introducing-terminal-bench-evaluating-llm-agents-in
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

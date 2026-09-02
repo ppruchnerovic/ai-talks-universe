@@ -4,7 +4,7 @@ title: "The Why and How of WebMCP - Alex Nahas"
 slug: the-why-and-how-of-webmcp-alex-nahas
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Alex Nahas"]

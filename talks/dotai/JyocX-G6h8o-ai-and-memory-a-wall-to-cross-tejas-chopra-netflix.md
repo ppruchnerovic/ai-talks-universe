@@ -4,7 +4,7 @@ title: "AI and memory: A wall to cross! - Tejas Chopra - Netflix"
 slug: ai-and-memory-a-wall-to-cross-tejas-chopra-netflix
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Tejas Chopra"]

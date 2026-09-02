@@ -4,7 +4,7 @@ title: "Coupling, Cohesion and Change, The Blueprint of Modern Software Design b
 slug: coupling-cohesion-and-change-the-blueprint-of-modern
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Boyen van Gorp"]

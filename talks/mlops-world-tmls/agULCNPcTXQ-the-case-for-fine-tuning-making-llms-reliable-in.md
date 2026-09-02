@@ -4,7 +4,7 @@ title: "The Case for Fine-Tuning: Making LLMs Reliable in Specialized Domains"
 slug: the-case-for-fine-tuning-making-llms-reliable-in
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

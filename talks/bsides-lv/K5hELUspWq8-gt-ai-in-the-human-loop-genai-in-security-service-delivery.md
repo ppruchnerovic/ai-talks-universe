@@ -4,7 +4,7 @@ title: "GT - AI in the human loop: GenAI in security service delivery"
 slug: gt-ai-in-the-human-loop-genai-in-security-service-delivery
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

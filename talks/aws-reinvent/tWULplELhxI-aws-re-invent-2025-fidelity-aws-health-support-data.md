@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Fidelity: AWS Health & Support Data Pipelines to Ge
 slug: aws-re-invent-2025-fidelity-aws-health-support-data
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

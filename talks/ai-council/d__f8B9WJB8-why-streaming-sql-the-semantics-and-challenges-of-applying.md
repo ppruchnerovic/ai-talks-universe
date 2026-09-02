@@ -4,7 +4,7 @@ title: "Why Streaming SQL? The Semantics and Challenges of Applying SQL to Unbou
 slug: why-streaming-sql-the-semantics-and-challenges-of-applying
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Micah Wylde"]

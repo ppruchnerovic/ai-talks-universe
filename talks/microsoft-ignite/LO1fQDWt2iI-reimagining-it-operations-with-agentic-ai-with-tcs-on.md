@@ -4,7 +4,7 @@ title: "Reimagining IT operations with agentic AI with TCS on Microsoft Azure | 
 slug: reimagining-it-operations-with-agentic-ai-with-tcs-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Deepraj Khot"]

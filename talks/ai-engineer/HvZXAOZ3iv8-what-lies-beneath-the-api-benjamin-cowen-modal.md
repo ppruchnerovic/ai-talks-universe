@@ -4,7 +4,7 @@ title: "What Lies Beneath the API — Benjamin Cowen, Modal"
 slug: what-lies-beneath-the-api-benjamin-cowen-modal
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benjamin Cowen"]

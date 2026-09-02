@@ -4,7 +4,7 @@ title: "From Manual to LLMs: Scaling Product Categorization"
 slug: from-manual-to-llms-scaling-product-categorization
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Ansgar Grüne"]

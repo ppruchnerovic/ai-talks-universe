@@ -4,7 +4,7 @@ title: "Training Models on the Cloud without Changing a Single Line of Code with
 slug: training-models-on-the-cloud-without-changing-a-single-line
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

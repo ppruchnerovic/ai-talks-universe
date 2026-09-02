@@ -4,7 +4,7 @@ title: "Optimize with Security Copilot: Real-world insights and expert advice | 
 slug: optimize-with-security-copilot-real-world-insights-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jay James", "Dennis Mercer"]

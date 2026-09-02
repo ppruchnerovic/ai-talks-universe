@@ -4,7 +4,7 @@ title: "Unlock efficiencies with Windows 365 Frontline & Cloud PC devices | BRK3
 slug: unlock-efficiencies-with-windows-365-frontline-cloud-pc
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tristan Scott", "David Wells"]

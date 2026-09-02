@@ -4,7 +4,7 @@ title: "Bridging Kernel Space and AI: Building an MCP Server for Linux Scheduler
 slug: bridging-kernel-space-and-ai-building-an-mcp-server-for
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

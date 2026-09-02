@@ -4,7 +4,7 @@ title: "Agent Mode in Action: AI Coding with Vibe and Spec-Driven Flows | BRK102
 slug: agent-mode-in-action-ai-coding-with-vibe-and-spec-driven
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

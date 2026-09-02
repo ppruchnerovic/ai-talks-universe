@@ -4,7 +4,7 @@ title: "Achieving Sustainable Mental Peace in Software Engineering with Help fro
 slug: achieving-sustainable-mental-peace-in-software-engineering
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

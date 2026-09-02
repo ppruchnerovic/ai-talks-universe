@@ -4,7 +4,7 @@ title: "Bridging AI Implementation Gap Strategies for Embedding Data Professiona
 slug: bridging-ai-implementation-gap-strategies-for-embedding
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Josh Curl"]

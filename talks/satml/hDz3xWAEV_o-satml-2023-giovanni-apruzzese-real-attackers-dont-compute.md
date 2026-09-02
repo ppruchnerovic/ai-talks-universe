@@ -4,7 +4,7 @@ title: "SaTML 2023 - Giovanni Apruzzese - Real Attackers Don’t Compute Gradien
 slug: satml-2023-giovanni-apruzzese-real-attackers-dont-compute
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Giovanni Apruzzese"]

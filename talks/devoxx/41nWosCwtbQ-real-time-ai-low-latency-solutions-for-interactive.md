@@ -4,7 +4,7 @@ title: "Real-Time AI: Low Latency Solutions for Interactive Applications by Luca
 slug: real-time-ai-low-latency-solutions-for-interactive
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Luca Vajani"]

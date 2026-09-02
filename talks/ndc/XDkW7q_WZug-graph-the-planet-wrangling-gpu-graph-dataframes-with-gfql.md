@@ -4,7 +4,7 @@ title: "Graph the planet: Wrangling GPU graph dataframes with GFQL - Sindre Bred
 slug: graph-the-planet-wrangling-gpu-graph-dataframes-with-gfql
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Sindre Breda"]

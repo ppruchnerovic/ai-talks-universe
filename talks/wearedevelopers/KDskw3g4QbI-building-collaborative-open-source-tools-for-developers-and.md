@@ -4,7 +4,7 @@ title: "Building Collaborative Open Source tools for Developers and Designers"
 slug: building-collaborative-open-source-tools-for-developers-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

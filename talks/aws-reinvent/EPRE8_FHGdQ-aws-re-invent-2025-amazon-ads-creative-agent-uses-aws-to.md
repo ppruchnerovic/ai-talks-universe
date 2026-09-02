@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Amazon Ads Creative Agent uses AWS to democratize a
 slug: aws-re-invent-2025-amazon-ads-creative-agent-uses-aws-to
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Tiny, Framework-Aware Code Diffusion: Training a Mixture-of-Experts on a
 slug: tiny-framework-aware-code-diffusion-training-a-mixture-of
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

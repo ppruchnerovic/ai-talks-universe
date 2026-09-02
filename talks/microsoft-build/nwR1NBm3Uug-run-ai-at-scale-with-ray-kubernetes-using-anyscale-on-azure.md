@@ -4,7 +4,7 @@ title: "Run AI at scale with Ray + Kubernetes using Anyscale on Azure | ODSP914"
 slug: run-ai-at-scale-with-ray-kubernetes-using-anyscale-on-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Katarina Stanley", "Daniel Arrizza"]

@@ -4,7 +4,7 @@ title: "Workshop Sessions: Fixing Data Quality at Scale with Data Observability"
 slug: workshop-sessions-fixing-data-quality-at-scale-with-data
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "TypeScript updates: Latest Features and What's next | LIVE155"
 slug: typescript-updates-latest-features-and-what-s-next-live155
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Daniel Rosenwasser", "Seth Juarez"]

@@ -4,7 +4,7 @@ title: "AI in Production: How to juggle high stakes and real time - AI Action Su
 slug: ai-in-production-how-to-juggle-high-stakes-and-real-time-ai
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: []

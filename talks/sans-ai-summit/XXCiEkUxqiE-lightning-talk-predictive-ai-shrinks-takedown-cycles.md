@@ -4,7 +4,7 @@ title: "Lightning Talk: Predictive AI Shrinks Takedown Cycles"
 slug: lightning-talk-predictive-ai-shrinks-takedown-cycles
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

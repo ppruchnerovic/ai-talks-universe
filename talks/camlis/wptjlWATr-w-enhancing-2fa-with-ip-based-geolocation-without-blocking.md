@@ -4,7 +4,7 @@ title: "Enhancing 2FA with IP-based geolocation without blocking all your users 
 slug: enhancing-2fa-with-ip-based-geolocation-without-blocking
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

@@ -4,7 +4,7 @@ title: "AI Challenges and Collaborations | Keynote 3 | Daniel Dobos"
 slug: ai-challenges-and-collaborations-keynote-3-daniel-dobos
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Daniel Dobos"]

@@ -4,7 +4,7 @@ title: "Apply orchestration patterns for production AI agents | ODSP906"
 slug: apply-orchestration-patterns-for-production-ai-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Cliff Simpkins"]

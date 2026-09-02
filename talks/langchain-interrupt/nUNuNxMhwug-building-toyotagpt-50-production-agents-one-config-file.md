@@ -4,7 +4,7 @@ title: "Building ToyotaGPT: 50+ Production Agents, One Config File, Zero Archite
 slug: building-toyotagpt-50-production-agents-one-config-file
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

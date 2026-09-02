@@ -4,7 +4,7 @@ title: "Theme Systems at Scale: How to Build Highly Customizable Software"
 slug: theme-systems-at-scale-how-to-build-highly-customizable
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Guilherme Carreiro"]

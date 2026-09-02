@@ -4,7 +4,7 @@ title: "RAG in 2025: State of the Art and the Road Forward"
 slug: rag-in-2025-state-of-the-art-and-the-road-forward
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Tengyu Ma"]

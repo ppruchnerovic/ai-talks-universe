@@ -4,7 +4,7 @@ title: "How Netflix Built a Single Model for Search & Recommendations"
 slug: how-netflix-built-a-single-model-for-search-recommendations
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Bob Lord - Misinformation Keynote - DEF CON 27 AI Village"
 slug: bob-lord-misinformation-keynote-def-con-27-ai-village
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Bob Lord"]

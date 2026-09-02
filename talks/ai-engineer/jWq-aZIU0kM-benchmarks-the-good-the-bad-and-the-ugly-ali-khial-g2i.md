@@ -4,7 +4,7 @@ title: "Benchmarks: The Good, the Bad, and the Ugly — Ali Khial, G2i"
 slug: benchmarks-the-good-the-bad-and-the-ugly-ali-khial-g2i
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ali Khial"]

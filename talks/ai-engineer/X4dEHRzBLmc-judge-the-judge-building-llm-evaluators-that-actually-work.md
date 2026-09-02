@@ -4,7 +4,7 @@ title: "Judge the Judge: Building LLM Evaluators That Actually Work with GEPA â€
 slug: judge-the-judge-building-llm-evaluators-that-actually-work
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mahmoud Mabrouk"]

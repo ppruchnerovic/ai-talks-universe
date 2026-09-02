@@ -4,7 +4,7 @@ title: "The blueprint for intelligent AI agents backed by PostgreSQL | BRK130"
 slug: the-blueprint-for-intelligent-ai-agents-backed-by
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sharon Chen", "Maxim Lukiyanov", "Abe Omorogbe"]

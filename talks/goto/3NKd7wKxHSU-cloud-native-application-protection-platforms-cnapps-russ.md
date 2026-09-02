@@ -4,7 +4,7 @@ title: "Cloud Native Application Protection Platforms (CNAPPs) • Russ Miles & 
 slug: cloud-native-application-protection-platforms-cnapps-russ
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Russ Miles", "James Lewis"]

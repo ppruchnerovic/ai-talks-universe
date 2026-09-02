@@ -4,7 +4,7 @@ title: "Llama Best Practices: Unlock Rich Insights From Rich Documents"
 slug: llama-best-practices-unlock-rich-insights-from-rich
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Connect 2025"
 year: 2025
 speakers: []

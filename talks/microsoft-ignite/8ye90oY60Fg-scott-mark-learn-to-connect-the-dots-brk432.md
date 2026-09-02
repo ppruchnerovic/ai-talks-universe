@@ -4,7 +4,7 @@ title: "Scott & Mark learn to connect the dots | BRK432"
 slug: scott-mark-learn-to-connect-the-dots-brk432
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mark Russinovich", "Scott Hanselman"]

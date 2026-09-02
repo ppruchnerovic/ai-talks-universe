@@ -4,7 +4,7 @@ title: "Pinto & Dave - Mapping the local heat transition | Pydata London 26"
 slug: pinto-dave-mapping-the-local-heat-transition-pydata-london
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

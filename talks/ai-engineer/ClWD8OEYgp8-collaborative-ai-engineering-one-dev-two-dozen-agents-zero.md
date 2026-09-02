@@ -4,7 +4,7 @@ title: "Collaborative AI Engineering: One Dev, Two Dozen Agents, Zero Alignment 
 slug: collaborative-ai-engineering-one-dev-two-dozen-agents-zero
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Maggie Appleton"]

@@ -4,7 +4,7 @@ title: "Build and deploy responsible agentic AI with Microsoft Copilot | BRKSP47
 slug: build-and-deploy-responsible-agentic-ai-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Manpreet Singh", "Reed Wiedower"]

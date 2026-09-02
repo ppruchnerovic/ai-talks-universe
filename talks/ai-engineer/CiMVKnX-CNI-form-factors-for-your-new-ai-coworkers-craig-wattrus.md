@@ -4,7 +4,7 @@ title: "Form factors for your new AI coworkers — Craig Wattrus, Flatfile"
 slug: form-factors-for-your-new-ai-coworkers-craig-wattrus
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Craig Wattrus"]

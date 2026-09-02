@@ -4,7 +4,7 @@ title: "Fine Tuning the Enterprise: Reinforcement Learning in Practice"
 slug: fine-tuning-the-enterprise-reinforcement-learning-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Wenjie Zi", "Will Hang"]

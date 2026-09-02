@@ -4,7 +4,7 @@ title: "Agentic AI Tools for Partner-Led Migration and Modernization Success | P
 slug: agentic-ai-tools-for-partner-led-migration-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Maria Bledsoe", "Mike Hulme", "Falgun Patel", "Satheesh Sebastian"]

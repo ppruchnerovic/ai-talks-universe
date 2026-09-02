@@ -4,7 +4,7 @@ title: "Nick Larew, Senior Engineer, MongoDB: Knowledge Is the New Uranium"
 slug: nick-larew-senior-engineer-mongodb-knowledge-is-the-new
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "SANS360 Talks | Change the Game: Build an Al Powered SOC"
 slug: sans360-talks-change-the-game-build-an-al-powered-soc
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

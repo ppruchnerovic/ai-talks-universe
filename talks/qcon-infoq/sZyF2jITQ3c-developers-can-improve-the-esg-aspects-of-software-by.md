@@ -4,7 +4,7 @@ title: "Developers Can Improve the ESG Aspects of Software By Tackling Early Eth
 slug: developers-can-improve-the-esg-aspects-of-software-by
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

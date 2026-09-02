@@ -4,7 +4,7 @@ title: "Workshop Sessions: Complete ML Lifecycle with MLflow - Learn it's Four C
 slug: workshop-sessions-complete-ml-lifecycle-with-mlflow-learn
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

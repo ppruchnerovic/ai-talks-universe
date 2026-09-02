@@ -4,7 +4,7 @@ title: "Love Language Models: George Arison (Grindr) in conversation with Madeli
 slug: love-language-models-george-arison-grindr-in-conversation
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []

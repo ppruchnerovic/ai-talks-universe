@@ -4,7 +4,7 @@ title: "The three laws of Scalable Engineering by Jacopo Nardiello"
 slug: the-three-laws-of-scalable-engineering-by-jacopo-nardiello
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Jacopo Nardiello"]

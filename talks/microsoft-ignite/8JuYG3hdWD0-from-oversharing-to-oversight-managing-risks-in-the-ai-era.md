@@ -4,7 +4,7 @@ title: "From oversharing to oversight: Managing risks in the AI era ​ | BRK293
 slug: from-oversharing-to-oversight-managing-risks-in-the-ai-era
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sophie Ke", "David Minasyan", "Erica Toelle"]

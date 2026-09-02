@@ -4,7 +4,7 @@ title: "Microsoft Build 2026 Day 2 LIVE | GitHub Copilot, VS Code, Foundry & Com
 slug: microsoft-build-2026-day-2-live-github-copilot-vs-code
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

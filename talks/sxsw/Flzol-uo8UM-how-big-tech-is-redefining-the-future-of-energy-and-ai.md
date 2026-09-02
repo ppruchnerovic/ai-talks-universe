@@ -4,7 +4,7 @@ title: "How Big Tech is Redefining the Future of Energy and AI"
 slug: how-big-tech-is-redefining-the-future-of-energy-and-ai
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "How to use Data Science Superpowers in real life, a Bayesian perspective
 slug: how-to-use-data-science-superpowers-in-real-life-a-bayesian
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tim Lenzen"]

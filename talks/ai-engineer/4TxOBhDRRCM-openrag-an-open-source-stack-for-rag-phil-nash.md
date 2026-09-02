@@ -4,7 +4,7 @@ title: "OpenRAG: An open-source stack for RAG — Phil Nash"
 slug: openrag-an-open-source-stack-for-rag-phil-nash
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Nash"]

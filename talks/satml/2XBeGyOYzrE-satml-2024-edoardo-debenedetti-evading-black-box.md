@@ -4,7 +4,7 @@ title: "SaTML 2024 - Edoardo Debenedetti - Evading Black-box Classifiers Without
 slug: satml-2024-edoardo-debenedetti-evading-black-box
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Edoardo Debenedetti"]

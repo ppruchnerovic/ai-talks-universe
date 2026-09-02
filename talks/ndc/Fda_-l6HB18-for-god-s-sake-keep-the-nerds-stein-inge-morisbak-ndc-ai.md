@@ -4,7 +4,7 @@ title: "For God's sake, keep the nerds! - Stein Inge Morisbak - NDC AI 2026"
 slug: for-god-s-sake-keep-the-nerds-stein-inge-morisbak-ndc-ai
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Stein Inge Morisbak"]

@@ -4,7 +4,7 @@ title: "The Competitive Advantage of Curious Organizations"
 slug: the-competitive-advantage-of-curious-organizations
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

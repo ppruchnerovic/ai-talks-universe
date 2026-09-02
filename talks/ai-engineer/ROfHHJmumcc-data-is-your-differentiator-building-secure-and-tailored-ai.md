@@ -4,7 +4,7 @@ title: "Data is Your Differentiator: Building Secure and Tailored AI Systems —
 slug: data-is-your-differentiator-building-secure-and-tailored-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mani Khanuja"]

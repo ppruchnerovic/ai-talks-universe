@@ -4,7 +4,7 @@ title: "Building the next generation of computer use agents - H Company @ Fully 
 slug: building-the-next-generation-of-computer-use-agents-h
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

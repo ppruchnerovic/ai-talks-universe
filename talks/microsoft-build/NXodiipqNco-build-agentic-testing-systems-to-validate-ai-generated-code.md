@@ -4,7 +4,7 @@ title: "Build agentic testing systems to validate AI generated code | ODSP912"
 slug: build-agentic-testing-systems-to-validate-ai-generated-code
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

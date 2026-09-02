@@ -4,7 +4,7 @@ title: "Enhancing Airline Forecasting with Machine Learning | AI in Aviation | M
 slug: enhancing-airline-forecasting-with-machine-learning-ai-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Marta Ribeiro"]

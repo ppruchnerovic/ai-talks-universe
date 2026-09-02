@@ -4,7 +4,7 @@ title: "Scott and Mark learn to Vibe Check with Steve Sanderson | LIVE116"
 slug: scott-and-mark-learn-to-vibe-check-with-steve-sanderson
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Hanselman", "Steve Sanderson"]

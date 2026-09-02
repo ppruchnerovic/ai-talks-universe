@@ -4,7 +4,7 @@ title: "Robotics: why now? - Quan Vuong and Jost Tobias Springberg, Physical Int
 slug: robotics-why-now-quan-vuong-and-jost-tobias-springberg
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Quan Vuong", "Jost Tobias Springberg"]

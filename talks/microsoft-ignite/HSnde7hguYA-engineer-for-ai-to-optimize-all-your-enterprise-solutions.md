@@ -4,7 +4,7 @@ title: "Engineer for AI to optimize all your enterprise solutions | ODFP941"
 slug: engineer-for-ai-to-optimize-all-your-enterprise-solutions
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Manuel Cubillo"]

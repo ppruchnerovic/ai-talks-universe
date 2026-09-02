@@ -4,7 +4,7 @@ title: "The Population Test Your Agent Must Pass | Maria Gorinova"
 slug: the-population-test-your-agent-must-pass-maria-gorinova
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Maria Gorinova"]

@@ -4,7 +4,7 @@ title: "Align of Sight Sponsor ActiveFence HD 720p"
 slug: align-of-sight-sponsor-activefence-hd-720p
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

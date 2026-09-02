@@ -4,7 +4,7 @@ title: "The AI bugpocalypse is here. Now what? - Jack Cable, Corridor"
 slug: the-ai-bugpocalypse-is-here-now-what-jack-cable-corridor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jack Cable"]

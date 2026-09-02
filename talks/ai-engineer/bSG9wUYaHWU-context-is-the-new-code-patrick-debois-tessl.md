@@ -4,7 +4,7 @@ title: "Context Is the New Code — Patrick Debois, Tessl"
 slug: context-is-the-new-code-patrick-debois-tessl
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Debois"]

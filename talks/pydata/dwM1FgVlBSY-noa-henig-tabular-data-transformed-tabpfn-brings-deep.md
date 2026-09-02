@@ -4,7 +4,7 @@ title: "Noa Henig:Tabular data Transformed? TabPFN Brings Deep Learning to the T
 slug: noa-henig-tabular-data-transformed-tabpfn-brings-deep
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

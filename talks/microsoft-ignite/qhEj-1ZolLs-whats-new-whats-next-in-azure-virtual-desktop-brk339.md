@@ -4,7 +4,7 @@ title: "What’s new & what’s next in Azure Virtual Desktop​ | BRK339"
 slug: whats-new-whats-next-in-azure-virtual-desktop-brk339
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Roop Kiran Chevuri", "Mark Douglas", "Eric Orman"]

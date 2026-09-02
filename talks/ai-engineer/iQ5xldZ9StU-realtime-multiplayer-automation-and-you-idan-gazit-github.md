@@ -4,7 +4,7 @@ title: "Realtime multiplayer, automation, and you! — Idan Gazit, GitHub"
 slug: realtime-multiplayer-automation-and-you-idan-gazit-github
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Idan Gazit"]

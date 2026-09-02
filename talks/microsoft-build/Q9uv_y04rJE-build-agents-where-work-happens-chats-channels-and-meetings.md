@@ -4,7 +4,7 @@ title: "Build agents where work happens: chats channels and meetings in Microsof
 slug: build-agents-where-work-happens-chats-channels-and-meetings
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Umang Sehgal", "Lily Du"]

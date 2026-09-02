@@ -4,7 +4,7 @@ title: "Developers guide to building your own agents | BRK167"
 slug: developers-guide-to-building-your-own-agents-brk167
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matthew Barbour", "Sébastien Levert", "Jeremy Thake"]

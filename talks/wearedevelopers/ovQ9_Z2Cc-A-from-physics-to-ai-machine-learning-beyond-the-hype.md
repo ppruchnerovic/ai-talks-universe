@@ -4,7 +4,7 @@ title: "From Physics to AI: Machine Learning Beyond the Hype"
 slug: from-physics-to-ai-machine-learning-beyond-the-hype
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

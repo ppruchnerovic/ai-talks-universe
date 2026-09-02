@@ -4,7 +4,7 @@ title: "Text2VLM: Adapting Text-Only Datasets to Evaluate Alignment Training in 
 slug: text2vlm-adapting-text-only-datasets-to-evaluate-alignment
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Jake Thomas"]

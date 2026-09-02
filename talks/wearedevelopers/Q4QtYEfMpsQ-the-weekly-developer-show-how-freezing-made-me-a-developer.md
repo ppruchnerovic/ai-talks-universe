@@ -4,7 +4,7 @@ title: "The weekly developer show: How freezing made me a developer"
 slug: the-weekly-developer-show-how-freezing-made-me-a-developer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

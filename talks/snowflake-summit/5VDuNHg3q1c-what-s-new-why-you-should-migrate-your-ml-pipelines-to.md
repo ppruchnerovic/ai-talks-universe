@@ -4,7 +4,7 @@ title: "What's New: Why You Should Migrate Your ML Pipelines To Snowflake ML"
 slug: what-s-new-why-you-should-migrate-your-ml-pipelines-to
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Break boundaries with Gemini in Chrome DevTools"
 slug: break-boundaries-with-gemini-in-chrome-devtools
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Matthias Rohmer"]

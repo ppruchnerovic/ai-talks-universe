@@ -4,7 +4,7 @@ title: "Onboarding a Developer with AI: A Better First-Day Experience | DEM367"
 slug: onboarding-a-developer-with-ai-a-better-first-day
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Michel Hubert"]

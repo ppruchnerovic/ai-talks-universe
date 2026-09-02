@@ -4,7 +4,7 @@ title: "Grow your business with Google Play"
 slug: grow-your-business-with-google-play
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Phalene Gowling", "Lidia Gaymond"]

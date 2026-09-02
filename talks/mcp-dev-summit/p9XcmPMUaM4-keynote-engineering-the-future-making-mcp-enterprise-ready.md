@@ -4,7 +4,7 @@ title: "[Keynote] Engineering the Future-Making MCP Enterprise Ready for Finance
 slug: keynote-engineering-the-future-making-mcp-enterprise-ready
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: ["Shawn Edwards"]

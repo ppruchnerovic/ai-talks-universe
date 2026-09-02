@@ -4,7 +4,7 @@ title: "Serverless Apps on Cloudflare • Ashley Peacock & Ricky Robinett"
 slug: serverless-apps-on-cloudflare-ashley-peacock-ricky-robinett
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Ashley Peacock", "Ricky Robinett"]

@@ -4,7 +4,7 @@ title: "Orchestrating Agents at Scale"
 slug: orchestrating-agents-at-scale
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []

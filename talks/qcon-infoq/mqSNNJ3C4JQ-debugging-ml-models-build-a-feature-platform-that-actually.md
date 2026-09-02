@@ -4,7 +4,7 @@ title: "Debugging ML Models? Build a Feature Platform That Actually Works"
 slug: debugging-ml-models-build-a-feature-platform-that-actually
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

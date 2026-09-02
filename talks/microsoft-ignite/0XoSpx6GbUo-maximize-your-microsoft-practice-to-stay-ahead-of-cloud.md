@@ -4,7 +4,7 @@ title: "Maximize your Microsoft practice to stay ahead of cloud competition | BR
 slug: maximize-your-microsoft-practice-to-stay-ahead-of-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Scott Orrange", "Mike Tolsma"]

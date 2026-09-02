@@ -4,7 +4,7 @@ title: "AI use cases in Microsoft Teams Integrated Contact Center | ODSP1465"
 slug: ai-use-cases-in-microsoft-teams-integrated-contact-center
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Preston Martin"]

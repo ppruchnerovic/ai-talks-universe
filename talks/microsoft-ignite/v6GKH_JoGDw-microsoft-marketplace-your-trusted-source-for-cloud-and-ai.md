@@ -4,7 +4,7 @@ title: "Microsoft Marketplace: Your trusted source for cloud and AI solutions | 
 slug: microsoft-marketplace-your-trusted-source-for-cloud-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Elizabeth Beals", "Maximilian Kaczynski", "Will Kearl"]

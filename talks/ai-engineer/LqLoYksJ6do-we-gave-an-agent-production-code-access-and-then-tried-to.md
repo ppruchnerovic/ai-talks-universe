@@ -4,7 +4,7 @@ title: "We Gave an Agent Production Code Access and Then Tried to Sleep at Night
 slug: we-gave-an-agent-production-code-access-and-then-tried-to
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Moritz Johner"]

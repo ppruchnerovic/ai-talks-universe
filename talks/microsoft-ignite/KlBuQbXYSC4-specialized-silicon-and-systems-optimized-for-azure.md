@@ -4,7 +4,7 @@ title: "Specialized silicon and systems optimized for Azure infrastructure | BRK
 slug: specialized-silicon-and-systems-optimized-for-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Saurabh Dighe", "Gohar Waqar"]

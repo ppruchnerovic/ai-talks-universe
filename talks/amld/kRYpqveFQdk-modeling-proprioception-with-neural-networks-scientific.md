@@ -4,7 +4,7 @@ title: "Modeling proprioception with neural networks | Scientific Machine Learni
 slug: modeling-proprioception-with-neural-networks-scientific
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Adriana Perez Rotondo"]

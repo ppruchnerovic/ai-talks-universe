@@ -4,7 +4,7 @@ title: "Defense against the dark arts of AI: The playbook for a sovereign model-
 slug: defense-against-the-dark-arts-of-ai-the-playbook-for-a
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: []

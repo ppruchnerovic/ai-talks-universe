@@ -4,7 +4,7 @@ title: "Systematic Approaches and Creativity; Building DoorDash's ML Platform Du
 slug: systematic-approaches-and-creativity-building-doordash-s-ml
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

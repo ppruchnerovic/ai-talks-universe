@@ -4,7 +4,7 @@ title: "Engineer Burnout? Gen AI for Sustainable Mental Peace"
 slug: engineer-burnout-gen-ai-for-sustainable-mental-peace
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Deep Backdoors in Deep Reinforcement Learning Agents"
 slug: deep-backdoors-in-deep-reinforcement-learning-agents
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

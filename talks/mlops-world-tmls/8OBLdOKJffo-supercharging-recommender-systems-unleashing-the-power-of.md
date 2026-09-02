@@ -4,7 +4,7 @@ title: "Supercharging Recommender Systems: Unleashing the Power of Distributed M
 slug: supercharging-recommender-systems-unleashing-the-power-of
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: []

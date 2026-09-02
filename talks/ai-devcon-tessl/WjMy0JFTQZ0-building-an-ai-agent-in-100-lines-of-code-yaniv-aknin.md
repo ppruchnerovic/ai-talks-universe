@@ -4,7 +4,7 @@ title: "Building an AI Agent in 100 Lines of Code | Yaniv Aknin"
 slug: building-an-ai-agent-in-100-lines-of-code-yaniv-aknin
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Yaniv Aknin"]

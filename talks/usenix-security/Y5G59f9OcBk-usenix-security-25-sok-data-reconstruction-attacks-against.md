@@ -4,7 +4,7 @@ title: "USENIX Security '25 - SoK: Data Reconstruction Attacks Against Machine L
 slug: usenix-security-25-sok-data-reconstruction-attacks-against
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

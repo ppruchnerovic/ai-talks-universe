@@ -4,7 +4,7 @@ title: "Generative ML to model cellular perturbations | AI for Drug Discovery | 
 slug: generative-ml-to-model-cellular-perturbations-ai-for-drug
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mohammad Lotfollahi"]

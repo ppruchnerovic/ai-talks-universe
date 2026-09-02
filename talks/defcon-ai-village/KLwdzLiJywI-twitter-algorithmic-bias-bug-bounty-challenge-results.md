@@ -4,7 +4,7 @@ title: "Twitter Algorithmic Bias Bug Bounty Challenge Results"
 slug: twitter-algorithmic-bias-bug-bounty-challenge-results
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2021
 speakers: []

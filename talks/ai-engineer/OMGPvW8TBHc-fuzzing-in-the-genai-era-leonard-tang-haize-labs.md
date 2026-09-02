@@ -4,7 +4,7 @@ title: "Fuzzing in the GenAI Era — Leonard Tang, Haize Labs"
 slug: fuzzing-in-the-genai-era-leonard-tang-haize-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Leonard Tang"]

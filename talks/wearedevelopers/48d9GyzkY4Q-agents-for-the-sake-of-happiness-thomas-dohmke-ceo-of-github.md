@@ -4,7 +4,7 @@ title: "Agents for the Sake of Happiness - Thomas Dohmke, CEO of GitHub"
 slug: agents-for-the-sake-of-happiness-thomas-dohmke-ceo-of-github
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Thomas Dohmke"]

@@ -4,7 +4,7 @@ title: "Coding Agents Don't Scale Themselves. Neither Do Your Teams. — Patrick
 slug: coding-agents-don-t-scale-themselves-neither-do-your-teams
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Patrick Debois"]

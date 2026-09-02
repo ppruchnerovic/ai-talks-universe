@@ -4,7 +4,7 @@ title: "DuckDB Co-Creator Hannes Mühleisen on Why Single-Node Beats Distributed
 slug: duckdb-co-creator-hannes-muhleisen-on-why-single-node-beats
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hannes Mühleisen"]

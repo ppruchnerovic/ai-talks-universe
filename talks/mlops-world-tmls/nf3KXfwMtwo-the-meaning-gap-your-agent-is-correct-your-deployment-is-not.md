@@ -4,7 +4,7 @@ title: "The Meaning Gap: Your Agent Is Correct. Your Deployment Is Not."
 slug: the-meaning-gap-your-agent-is-correct-your-deployment-is-not
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

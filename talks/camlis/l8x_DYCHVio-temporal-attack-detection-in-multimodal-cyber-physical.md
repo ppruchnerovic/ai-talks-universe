@@ -4,7 +4,7 @@ title: "Temporal Attack Detection in Multimodal Cyber-Physical Systems with Stic
 slug: temporal-attack-detection-in-multimodal-cyber-physical
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

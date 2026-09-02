@@ -4,7 +4,7 @@ title: "The Power of RAG at Scale: A Year of Explosive Growth and Observab... Ri
 slug: the-power-of-rag-at-scale-a-year-of-explosive-growth-and
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []

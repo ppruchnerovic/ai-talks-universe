@@ -4,7 +4,7 @@ title: "SaTML 2023 - Stephen Casper - SoK: Toward Transparent AI: Interpreting t
 slug: satml-2023-stephen-casper-sok-toward-transparent-ai
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Stephen Casper"]

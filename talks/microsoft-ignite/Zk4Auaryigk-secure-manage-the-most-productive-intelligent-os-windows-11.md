@@ -4,7 +4,7 @@ title: "Secure & Manage the Most Productive Intelligent OS: Windows 11 | BRK346"
 slug: secure-manage-the-most-productive-intelligent-os-windows-11
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cassidy Fein", "Kurt Stevenson"]

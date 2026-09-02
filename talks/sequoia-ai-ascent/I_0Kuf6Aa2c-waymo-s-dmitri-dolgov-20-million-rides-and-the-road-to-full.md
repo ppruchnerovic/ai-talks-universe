@@ -4,7 +4,7 @@ title: "Waymo's Dmitri Dolgov: 20 Million Rides and the Road to Full Autonomy"
 slug: waymo-s-dmitri-dolgov-20-million-rides-and-the-road-to-full
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "From Code to Care: Empowering Healthcare with Agentic AI | BRK373"
 slug: from-code-to-care-empowering-healthcare-with-agentic-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Andrew Soltan", "Naveen Valluri"]

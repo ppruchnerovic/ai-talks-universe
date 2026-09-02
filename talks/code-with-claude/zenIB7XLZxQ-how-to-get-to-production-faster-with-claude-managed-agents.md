@@ -4,7 +4,7 @@ title: "How to get to production faster with Claude Managed Agents"
 slug: how-to-get-to-production-faster-with-claude-managed-agents
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

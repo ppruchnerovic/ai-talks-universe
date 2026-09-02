@@ -4,7 +4,7 @@ title: "Ship Real Agents: Hands-On Evals for Agentic Applications — Laurie Vos
 slug: ship-real-agents-hands-on-evals-for-agentic-applications
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Laurie Voss"]

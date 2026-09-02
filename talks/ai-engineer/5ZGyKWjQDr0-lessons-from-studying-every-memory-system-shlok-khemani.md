@@ -4,7 +4,7 @@ title: "Lessons from Studying Every Memory System — Shlok Khemani, Independent
 slug: lessons-from-studying-every-memory-system-shlok-khemani
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Shlok Khemani"]

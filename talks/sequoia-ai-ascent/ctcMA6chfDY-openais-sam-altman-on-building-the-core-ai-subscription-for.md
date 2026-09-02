@@ -4,7 +4,7 @@ title: "OpenAI’s Sam Altman on Building the ‘Core AI Subscription’ for You
 slug: openais-sam-altman-on-building-the-core-ai-subscription-for
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

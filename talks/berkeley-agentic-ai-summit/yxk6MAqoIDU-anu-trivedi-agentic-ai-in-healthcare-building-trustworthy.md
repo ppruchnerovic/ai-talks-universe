@@ -4,7 +4,7 @@ title: "Anu Trivedi - Agentic AI in Healthcare: Building Trustworthy Autonomy at
 slug: anu-trivedi-agentic-ai-in-healthcare-building-trustworthy
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Anu Trivedi"]

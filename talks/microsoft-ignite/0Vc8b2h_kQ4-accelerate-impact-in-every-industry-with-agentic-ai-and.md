@@ -4,7 +4,7 @@ title: "Accelerate Impact in Every Industry with Agentic AI and Shared Learnings
 slug: accelerate-impact-in-every-industry-with-agentic-ai-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kathleen Mitford", "Mark Austin", "Oliver Ganschar", "Jason Gowans"]

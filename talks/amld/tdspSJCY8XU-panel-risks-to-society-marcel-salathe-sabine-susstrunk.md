@@ -4,7 +4,7 @@ title: "Panel Risks to Society | Marcel Salathé, Sabine Süsstrunk, Gaétan de 
 slug: panel-risks-to-society-marcel-salathe-sabine-susstrunk
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Marcel Salathé"]

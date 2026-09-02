@@ -4,7 +4,7 @@ title: "A New Era for Generalist Robotics: The Rise of Humanoids | NVIDIA GTC 20
 slug: a-new-era-for-generalist-robotics-the-rise-of-humanoids
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

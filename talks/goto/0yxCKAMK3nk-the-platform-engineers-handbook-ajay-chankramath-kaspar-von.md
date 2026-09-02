@@ -4,7 +4,7 @@ title: "The Platform Engineer’s Handbook • Ajay Chankramath & Kaspar von Gr�
 slug: the-platform-engineers-handbook-ajay-chankramath-kaspar-von
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ajay Chankramath", "Kaspar von Grünberg"]

@@ -4,7 +4,7 @@ title: "Accelerate AI/ML development with AI Unlimited on Microsoft Fabric | ODF
 slug: accelerate-ai-ml-development-with-ai-unlimited-on-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Janeth Graziani"]

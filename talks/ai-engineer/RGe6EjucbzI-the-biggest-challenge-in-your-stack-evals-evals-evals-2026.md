@@ -4,7 +4,7 @@ title: "\"The biggest challenge in your stack? Evals, Evals, Evals\" - 2026 Stat
 slug: the-biggest-challenge-in-your-stack-evals-evals-evals-2026
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

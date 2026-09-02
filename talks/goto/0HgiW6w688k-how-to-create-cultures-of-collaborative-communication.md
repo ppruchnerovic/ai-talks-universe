@@ -4,7 +4,7 @@ title: "How to Create Cultures of Collaborative Communication • Jessie Shterns
 slug: how-to-create-cultures-of-collaborative-communication
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Jessie Shternshus"]

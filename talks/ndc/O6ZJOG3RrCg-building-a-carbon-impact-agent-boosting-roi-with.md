@@ -4,7 +4,7 @@ title: "Building a Carbon Impact Agent: Boosting ROI with Sustainable AI in... -
 slug: building-a-carbon-impact-agent-boosting-roi-with
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Darshna Shah"]

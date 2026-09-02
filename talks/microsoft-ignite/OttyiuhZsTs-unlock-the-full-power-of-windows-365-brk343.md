@@ -4,7 +4,7 @@ title: "Unlock the full power of Windows 365 | BRK343"
 slug: unlock-the-full-power-of-windows-365-brk343
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kenneth Pan", "Matt Harkness", "Gaurav Kapoor", "Scott Manchester", "Fabrizio Salvatore"]

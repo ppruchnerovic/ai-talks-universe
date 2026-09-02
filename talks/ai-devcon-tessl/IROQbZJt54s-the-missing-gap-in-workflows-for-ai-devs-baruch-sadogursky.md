@@ -4,7 +4,7 @@ title: "The Missing Gap In Workflows For AI Devs | Baruch Sadogursky"
 slug: the-missing-gap-in-workflows-for-ai-devs-baruch-sadogursky
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Baruch Sadogursky"]

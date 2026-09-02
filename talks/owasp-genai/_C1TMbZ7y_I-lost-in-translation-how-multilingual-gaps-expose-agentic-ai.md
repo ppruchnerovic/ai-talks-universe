@@ -4,7 +4,7 @@ title: "Lost in Translation How Multilingual Gaps Expose Agentic AI to Real Worl
 slug: lost-in-translation-how-multilingual-gaps-expose-agentic-ai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Collaborating with Agents in your Software Dev Workflow - Jon Peck & Chr
 slug: collaborating-with-agents-in-your-software-dev-workflow-jon
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jon Peck", "Christopher Harrison"]

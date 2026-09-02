@@ -4,7 +4,7 @@ title: "GitHub Copilot and VS Code: Your AI thought partner | BRK152"
 slug: github-copilot-and-vs-code-your-ai-thought-partner-brk152
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Damian Brady", "Brigit Murtaugh"]

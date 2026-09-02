@@ -4,7 +4,7 @@ title: "Don’t be LLaMe – The basics of attacking LLMs in your Red Team exerc
 slug: dont-be-llame-the-basics-of-attacking-llms-in-your-red-team
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

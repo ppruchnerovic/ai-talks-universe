@@ -4,7 +4,7 @@ title: "Azure AI Search: RAG for better results larger scale faster answers | BR
 slug: azure-ai-search-rag-for-better-results-larger-scale-faster
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Pablo Castro"]

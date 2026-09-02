@@ -4,7 +4,7 @@ title: "Lightning Talk: What Got Us Here Will Get Us There"
 slug: lightning-talk-what-got-us-here-will-get-us-there
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

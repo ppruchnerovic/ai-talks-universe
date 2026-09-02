@@ -4,7 +4,7 @@ title: "How to Spinout | Stephen Whitworth (incident.io)"
 slug: how-to-spinout-stephen-whitworth-incident-io
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stephen Whitworth"]

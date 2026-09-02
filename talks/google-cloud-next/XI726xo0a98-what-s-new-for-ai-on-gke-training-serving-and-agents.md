@@ -4,7 +4,7 @@ title: "What's new for AI on GKE: Training, serving, and agents"
 slug: what-s-new-for-ai-on-gke-training-serving-and-agents
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Nathan Beach", "Myle Ott"]

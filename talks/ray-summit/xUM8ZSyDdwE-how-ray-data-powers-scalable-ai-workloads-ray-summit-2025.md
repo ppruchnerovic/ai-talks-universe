@@ -4,7 +4,7 @@ title: "How Ray Data Powers Scalable AI Workloads | Ray Summit 2025"
 slug: how-ray-data-powers-scalable-ai-workloads-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

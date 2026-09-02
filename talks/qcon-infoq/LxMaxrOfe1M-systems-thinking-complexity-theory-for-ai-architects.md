@@ -4,7 +4,7 @@ title: "Systems Thinking & Complexity Theory for AI Architects"
 slug: systems-thinking-complexity-theory-for-ai-architects
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

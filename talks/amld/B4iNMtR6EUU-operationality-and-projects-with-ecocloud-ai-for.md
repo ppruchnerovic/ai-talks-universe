@@ -4,7 +4,7 @@ title: "Operationality and projects with EcoCloud | AI for Sustainability | Xavi
 slug: operationality-and-projects-with-ecocloud-ai-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Xavier Ouvrard"]

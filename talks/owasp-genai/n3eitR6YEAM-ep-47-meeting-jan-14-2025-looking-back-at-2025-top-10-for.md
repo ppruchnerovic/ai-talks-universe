@@ -4,7 +4,7 @@ title: "Ep.47 Meeting Jan 14 2025: looking back at 2025, Top 10 for LLM 2026, in
 slug: ep-47-meeting-jan-14-2025-looking-back-at-2025-top-10-for
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Thwarting Key Extraction and Supply Chain attacks by Detonating GPUs"
 slug: thwarting-key-extraction-and-supply-chain-attacks-by
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

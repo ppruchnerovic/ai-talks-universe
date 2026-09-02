@@ -4,7 +4,7 @@ title: "Predictive Maintenance: a case study on Metro do Porto | Applied Explain
 slug: predictive-maintenance-a-case-study-on-metro-do-porto
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Rita P. Ribeiro"]

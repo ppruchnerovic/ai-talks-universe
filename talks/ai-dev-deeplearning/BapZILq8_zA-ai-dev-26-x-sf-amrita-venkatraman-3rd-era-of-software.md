@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Amrita Venkatraman: 3rd Era of Software Development"
 slug: ai-dev-26-x-sf-amrita-venkatraman-3rd-era-of-software
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

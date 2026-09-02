@@ -4,7 +4,7 @@ title: "Crafting Intelligent Applications with Quarkus/LangChain4j by Georgios a
 slug: crafting-intelligent-applications-with-quarkus-langchain4j
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []

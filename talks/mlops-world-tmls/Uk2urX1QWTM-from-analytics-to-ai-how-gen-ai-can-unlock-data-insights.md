@@ -4,7 +4,7 @@ title: "From Analytics to AI: How Gen AI Can Unlock Data Insights & Transform De
 slug: from-analytics-to-ai-how-gen-ai-can-unlock-data-insights
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

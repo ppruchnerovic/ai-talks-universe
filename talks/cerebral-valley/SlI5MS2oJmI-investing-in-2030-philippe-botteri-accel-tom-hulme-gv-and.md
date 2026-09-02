@@ -4,7 +4,7 @@ title: "Investing in 2030: Philippe Botteri (Accel), Tom Hulme (GV), and Jan Ham
 slug: investing-in-2030-philippe-botteri-accel-tom-hulme-gv-and
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []

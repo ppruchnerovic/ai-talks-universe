@@ -4,7 +4,7 @@ title: "Rediscovering single-node processing: When does it make sense to move fr
 slug: rediscovering-single-node-processing-when-does-it-make
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jonas Böer"]

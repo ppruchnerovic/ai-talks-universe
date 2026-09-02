@@ -4,7 +4,7 @@ title: "Effective AI Red Teaming Best Practices With Krishna Sankar - GenAI Secu
 slug: effective-ai-red-teaming-best-practices-with-krishna-sankar
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

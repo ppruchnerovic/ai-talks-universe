@@ -4,7 +4,7 @@ title: "Strategies for LLM Evals (GuideLLM, lm-eval-harness, OpenAI Evals Worksh
 slug: strategies-for-llm-evals-guidellm-lm-eval-harness-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Taylor Jordan Smith"]

@@ -4,7 +4,7 @@ title: "[Session] Why is MCP Auth Hard and What Are We Planning to Do About It"
 slug: session-why-is-mcp-auth-hard-and-what-are-we-planning-to-do
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

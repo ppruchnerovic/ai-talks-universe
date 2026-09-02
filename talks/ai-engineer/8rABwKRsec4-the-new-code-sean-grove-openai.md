@@ -4,7 +4,7 @@ title: "The New Code — Sean Grove, OpenAI"
 slug: the-new-code-sean-grove-openai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sean Grove"]

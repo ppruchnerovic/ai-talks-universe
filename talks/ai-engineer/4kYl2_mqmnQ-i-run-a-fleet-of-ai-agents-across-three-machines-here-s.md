@@ -4,7 +4,7 @@ title: "I Run a Fleet of AI Agents Across Three Machines. Here's What Broke. - K
 slug: i-run-a-fleet-of-ai-agents-across-three-machines-here-s
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kyle Jaejun Lee"]

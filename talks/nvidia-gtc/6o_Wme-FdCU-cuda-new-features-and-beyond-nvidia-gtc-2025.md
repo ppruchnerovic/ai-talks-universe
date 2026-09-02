@@ -4,7 +4,7 @@ title: "CUDA: New Features and Beyond | NVIDIA GTC 2025"
 slug: cuda-new-features-and-beyond-nvidia-gtc-2025
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

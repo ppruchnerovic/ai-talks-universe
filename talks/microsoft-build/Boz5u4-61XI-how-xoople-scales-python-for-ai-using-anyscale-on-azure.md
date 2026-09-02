@@ -4,7 +4,7 @@ title: "How Xoople Scales Python for AI using Anyscale on Azure | LIVE148"
 slug: how-xoople-scales-python-for-ai-using-anyscale-on-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Milos Colic", "Nate Waters"]

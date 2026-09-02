@@ -4,7 +4,7 @@ title: "Transforming search and discovery using LLMs — Tejaswi & Vinesh, Insta
 slug: transforming-search-and-discovery-using-llms-tejaswi-vinesh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

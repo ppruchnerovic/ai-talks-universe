@@ -4,7 +4,7 @@ title: "AI translation: Breaking down language barriers | BRK107"
 slug: ai-translation-breaking-down-language-barriers-brk107
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

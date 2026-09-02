@@ -4,7 +4,7 @@ title: "MLOps isn't that hard: Modular Stack with Open-Source Tools"
 slug: mlops-isn-t-that-hard-modular-stack-with-open-source-tools
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Eric Sondhi: Small AI: The Next Big Thing"
 slug: ai-dev-25-x-nyc-eric-sondhi-small-ai-the-next-big-thing
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

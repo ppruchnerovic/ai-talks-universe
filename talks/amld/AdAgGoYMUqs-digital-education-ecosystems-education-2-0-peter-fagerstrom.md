@@ -4,7 +4,7 @@ title: "Digital education ecosystems | Education 2.0 | Peter Fagerstrom"
 slug: digital-education-ecosystems-education-2-0-peter-fagerstrom
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Peter Fagerstrom"]

@@ -4,7 +4,7 @@ title: "Building Production ML Monitoring from Scratch Live Coding Session"
 slug: building-production-ml-monitoring-from-scratch-live-coding
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Alon Gubkin"]

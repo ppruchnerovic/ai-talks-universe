@@ -4,7 +4,7 @@ title: "Expertise in action: Microsoft Credentials for the AI frontier | STUDIO5
 slug: expertise-in-action-microsoft-credentials-for-the-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Elisa Graceffo"]

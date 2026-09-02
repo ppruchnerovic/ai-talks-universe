@@ -4,7 +4,7 @@ title: "Responsible AI is saving lives with Centru AI | STUDIO49"
 slug: responsible-ai-is-saving-lives-with-centru-ai-studio49
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "The Base Model Is Dead — Varun Singh, Arcee AI"
 slug: the-base-model-is-dead-varun-singh-arcee-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Varun Singh"]

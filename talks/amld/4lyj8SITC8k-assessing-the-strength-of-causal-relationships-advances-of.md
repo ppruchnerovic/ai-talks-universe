@@ -4,7 +4,7 @@ title: "Assessing the Strength of Causal Relationships | Advances of ML Approach
 slug: assessing-the-strength-of-causal-relationships-advances-of
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Angelika Romanou"]

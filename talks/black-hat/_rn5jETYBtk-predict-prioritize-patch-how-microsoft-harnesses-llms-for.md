@@ -4,7 +4,7 @@ title: "Predict, Prioritize, Patch: How Microsoft Harnesses LLMs for Security Re
 slug: predict-prioritize-patch-how-microsoft-harnesses-llms-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

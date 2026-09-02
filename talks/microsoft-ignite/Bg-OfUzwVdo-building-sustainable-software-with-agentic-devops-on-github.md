@@ -4,7 +4,7 @@ title: "Building Sustainable Software with Agentic DevOps on GitHub | BRK218"
 slug: building-sustainable-software-with-agentic-devops-on-github
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Martin Woodward"]

@@ -4,7 +4,7 @@ title: "The Robots are coming for your job, and that's okay - Elmer Thomas and M
 slug: the-robots-are-coming-for-your-job-and-that-s-okay-elmer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Elmer Thomas", "Maria Bermudez"]

@@ -4,7 +4,7 @@ title: "Don’t you forget NLP: prompt injection using repeated sequences in Cha
 slug: dont-you-forget-nlp-prompt-injection-using-repeated
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

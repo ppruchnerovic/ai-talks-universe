@@ -4,7 +4,7 @@ title: "Get the most of your enterprise knowledge with Copilot Studio | BRK181"
 slug: get-the-most-of-your-enterprise-knowledge-with-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Julie Koesmarno", "Rakesh Krishnan", "Mike Walker"]

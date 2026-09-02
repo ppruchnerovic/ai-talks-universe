@@ -4,7 +4,7 @@ title: "Boosting vLLM Inference on Huawei NPU with Ray Compiled Graphs — Huawe
 slug: boosting-vllm-inference-on-huawei-npu-with-ray-compiled
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

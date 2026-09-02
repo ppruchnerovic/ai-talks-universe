@@ -4,7 +4,7 @@ title: "Accelerating Partner Impact in ASIA for Enterprise Customers​ | PBRK43
 slug: accelerating-partner-impact-in-asia-for-enterprise
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jaron Cohen", "Heather Gordon", "Mark Iles", "Jessica Krol"]

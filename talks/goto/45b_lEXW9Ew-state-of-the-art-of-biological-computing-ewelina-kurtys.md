@@ -4,7 +4,7 @@ title: "State of the Art of Biological Computing • Ewelina Kurtys & Charles Hu
 slug: state-of-the-art-of-biological-computing-ewelina-kurtys
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ewelina Kurtys"]

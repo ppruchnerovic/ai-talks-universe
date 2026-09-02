@@ -4,7 +4,7 @@ title: "Gut Feeling vs. Tech: Who Should Decide Who We Hire?"
 slug: gut-feeling-vs-tech-who-should-decide-who-we-hire
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

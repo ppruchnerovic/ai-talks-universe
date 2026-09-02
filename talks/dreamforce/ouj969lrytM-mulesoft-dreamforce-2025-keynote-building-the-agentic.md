@@ -4,7 +4,7 @@ title: "MuleSoft Dreamforce 2025 Keynote: Building the Agentic Enterprise"
 slug: mulesoft-dreamforce-2025-keynote-building-the-agentic
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

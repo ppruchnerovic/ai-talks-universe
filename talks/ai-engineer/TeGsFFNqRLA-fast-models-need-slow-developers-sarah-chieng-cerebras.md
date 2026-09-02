@@ -4,7 +4,7 @@ title: "Fast Models Need Slow Developers — Sarah Chieng, Cerebras"
 slug: fast-models-need-slow-developers-sarah-chieng-cerebras
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sarah Chieng"]

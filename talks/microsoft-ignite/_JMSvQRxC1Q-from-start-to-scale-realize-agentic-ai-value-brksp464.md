@@ -4,7 +4,7 @@ title: "From start to scale: Realize agentic AI value | BRKSP464"
 slug: from-start-to-scale-realize-agentic-ai-value-brksp464
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kim Allison", "Charlie Doubek", "Geoff Newman"]

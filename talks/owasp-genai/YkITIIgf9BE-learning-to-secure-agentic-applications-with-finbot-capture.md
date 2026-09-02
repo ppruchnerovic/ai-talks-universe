@@ -4,7 +4,7 @@ title: "Learning to Secure Agentic Applications with FinBot Capture The Flag (CT
 slug: learning-to-secure-agentic-applications-with-finbot-capture
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

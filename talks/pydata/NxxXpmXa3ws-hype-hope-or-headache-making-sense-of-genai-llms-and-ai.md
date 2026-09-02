@@ -4,7 +4,7 @@ title: "Hype, Hope, or Headache? Making Sense of GenAI, LLMs, and AI Agents with
 slug: hype-hope-or-headache-making-sense-of-genai-llms-and-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Neubauer"]

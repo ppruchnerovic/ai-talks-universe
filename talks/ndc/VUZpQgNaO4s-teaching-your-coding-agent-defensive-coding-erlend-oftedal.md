@@ -4,7 +4,7 @@ title: "Teaching your coding agent defensive coding - Erlend Oftedal - NDC AI 20
 slug: teaching-your-coding-agent-defensive-coding-erlend-oftedal
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Erlend Oftedal"]

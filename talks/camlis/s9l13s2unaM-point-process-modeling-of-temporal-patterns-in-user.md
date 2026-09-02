@@ -4,7 +4,7 @@ title: "Point process modeling of temporal patterns in user authentication behav
 slug: point-process-modeling-of-temporal-patterns-in-user
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

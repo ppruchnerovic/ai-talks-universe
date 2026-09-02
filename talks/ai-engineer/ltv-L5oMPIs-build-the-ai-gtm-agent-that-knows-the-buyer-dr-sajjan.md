@@ -4,7 +4,7 @@ title: "Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Pos
 slug: build-the-ai-gtm-agent-that-knows-the-buyer-dr-sajjan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dr. Sajjan Kanukolanu"]

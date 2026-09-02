@@ -4,7 +4,7 @@ title: "Ep. 28: Meeting Jan 15 2025 - Red Teaming, Deepfake, RSA 2025 Updates An
 slug: ep-28-meeting-jan-15-2025-red-teaming-deepfake-rsa-2025
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: ["Red Teaming"]

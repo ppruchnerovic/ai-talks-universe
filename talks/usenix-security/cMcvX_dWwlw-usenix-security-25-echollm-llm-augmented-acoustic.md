@@ -4,7 +4,7 @@ title: "USENIX Security '25 - EchoLLM: LLM-Augmented Acoustic Eavesdropping Atta
 slug: usenix-security-25-echollm-llm-augmented-acoustic
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

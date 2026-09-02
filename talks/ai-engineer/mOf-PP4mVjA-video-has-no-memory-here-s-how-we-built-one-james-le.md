@@ -4,7 +4,7 @@ title: "Video Has No Memory. Here's How We Built One. — James Le, TwelveLabs"
 slug: video-has-no-memory-here-s-how-we-built-one-james-le
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["James Le"]

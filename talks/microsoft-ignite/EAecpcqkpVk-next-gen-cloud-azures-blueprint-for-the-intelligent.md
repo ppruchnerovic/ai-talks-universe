@@ -4,7 +4,7 @@ title: "Next-Gen Cloud: Azure’s Blueprint for the Intelligent Resilient Enterp
 slug: next-gen-cloud-azures-blueprint-for-the-intelligent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jeremy Winter"]

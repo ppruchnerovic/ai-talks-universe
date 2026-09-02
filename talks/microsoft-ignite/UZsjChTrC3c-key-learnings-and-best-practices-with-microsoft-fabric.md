@@ -4,7 +4,7 @@ title: "Key learnings and best practices with Microsoft Fabric migrations | ODSP
 slug: key-learnings-and-best-practices-with-microsoft-fabric
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Varun Chawla"]

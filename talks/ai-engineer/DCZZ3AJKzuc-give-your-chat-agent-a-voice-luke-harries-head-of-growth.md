@@ -4,7 +4,7 @@ title: "Give Your Chat Agent a Voice — Luke Harries, Head of Growth, ElevenLab
 slug: give-your-chat-agent-a-voice-luke-harries-head-of-growth
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Luke Harries"]

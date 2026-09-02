@@ -4,7 +4,7 @@ title: "Accelerate Copilot adoption with WalkMe | ODFP989"
 slug: accelerate-copilot-adoption-with-walkme-odfp989
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Arik Abel"]

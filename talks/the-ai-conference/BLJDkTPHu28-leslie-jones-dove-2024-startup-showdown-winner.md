@@ -4,7 +4,7 @@ title: "Leslie Jones-Dove | 2024 Startup Showdown Winner"
 slug: leslie-jones-dove-2024-startup-showdown-winner
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2024
 speakers: []

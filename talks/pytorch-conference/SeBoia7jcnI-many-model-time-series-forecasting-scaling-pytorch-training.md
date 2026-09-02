@@ -4,7 +4,7 @@ title: "“Many-model” Time Series Forecasting: Scaling PyTorch Training Acros
 slug: many-model-time-series-forecasting-scaling-pytorch-training
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []

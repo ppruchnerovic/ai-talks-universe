@@ -4,7 +4,7 @@ title: "Is HR dead? The Bold Future of HR Tech"
 slug: is-hr-dead-the-bold-future-of-hr-tech
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

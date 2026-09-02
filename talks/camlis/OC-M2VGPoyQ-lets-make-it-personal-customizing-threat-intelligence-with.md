@@ -4,7 +4,7 @@ title: "Let’s Make it Personal: Customizing Threat Intelligence with Metric Le
 slug: lets-make-it-personal-customizing-threat-intelligence-with
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

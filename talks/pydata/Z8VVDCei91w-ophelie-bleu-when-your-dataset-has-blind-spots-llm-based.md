@@ -4,7 +4,7 @@ title: "Ophelie Bleu - When Your Dataset Has Blind Spots LLM-Based Data Augmenta
 slug: ophelie-bleu-when-your-dataset-has-blind-spots-llm-based
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ophelie Bleu"]

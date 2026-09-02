@@ -4,7 +4,7 @@ title: "AI, Risk, and the Future-Ready Workforce: How Enterprises Win the Next D
 slug: ai-risk-and-the-future-ready-workforce-how-enterprises-win
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

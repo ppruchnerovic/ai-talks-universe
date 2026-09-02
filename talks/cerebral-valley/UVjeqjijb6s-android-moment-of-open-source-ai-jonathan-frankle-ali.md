@@ -4,7 +4,7 @@ title: "Android Moment of Open Source AI: Jonathan Frankle, Ali Farhadi, Laurens
 slug: android-moment-of-open-source-ai-jonathan-frankle-ali
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []

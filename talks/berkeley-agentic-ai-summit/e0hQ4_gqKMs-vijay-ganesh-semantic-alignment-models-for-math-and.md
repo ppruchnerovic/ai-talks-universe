@@ -4,7 +4,7 @@ title: "Vijay Ganesh - Semantic Alignment Models for Math and Software Engineeri
 slug: vijay-ganesh-semantic-alignment-models-for-math-and
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Vijay Ganesh"]

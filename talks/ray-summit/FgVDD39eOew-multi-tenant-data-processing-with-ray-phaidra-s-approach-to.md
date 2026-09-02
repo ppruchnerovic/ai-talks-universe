@@ -4,7 +4,7 @@ title: "Multi-tenant Data Processing with Ray: Phaidra's Approach to Industrial 
 slug: multi-tenant-data-processing-with-ray-phaidra-s-approach-to
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

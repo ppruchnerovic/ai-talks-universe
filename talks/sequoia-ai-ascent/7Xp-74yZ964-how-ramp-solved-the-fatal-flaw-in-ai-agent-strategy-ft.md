@@ -4,7 +4,7 @@ title: "How Ramp solved the Fatal Flaw in AI Agent Strategy ft. Rahul Sengottuve
 slug: how-ramp-solved-the-fatal-flaw-in-ai-agent-strategy-ft
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

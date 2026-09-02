@@ -4,7 +4,7 @@ title: "Defending against a tidal wave of AI attacks with Lakewatch, the agentic
 slug: defending-against-a-tidal-wave-of-ai-attacks-with-lakewatch
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Andrew Krioukov"]

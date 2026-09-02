@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Breaking conversational barriers through multi-moda
 slug: devoxx-greece-2025-breaking-conversational-barriers-through
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

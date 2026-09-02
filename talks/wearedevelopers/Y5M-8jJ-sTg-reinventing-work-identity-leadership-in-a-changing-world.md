@@ -4,7 +4,7 @@ title: "Reinventing Work, Identity & Leadership in a Changing World"
 slug: reinventing-work-identity-leadership-in-a-changing-world
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

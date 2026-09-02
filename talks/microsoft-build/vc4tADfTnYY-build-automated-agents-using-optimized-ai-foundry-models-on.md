@@ -4,7 +4,7 @@ title: "Build automated agents using optimized AI Foundry models on Snapdragon |
 slug: build-automated-agents-using-optimized-ai-foundry-models-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Meghana Sreenivasa Rao", "Darren Oberst"]

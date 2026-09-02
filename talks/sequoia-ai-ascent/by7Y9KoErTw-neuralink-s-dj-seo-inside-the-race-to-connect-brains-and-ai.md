@@ -4,7 +4,7 @@ title: "Neuralink's DJ Seo: Inside the Race to Connect Brains and AI"
 slug: neuralink-s-dj-seo-inside-the-race-to-connect-brains-and-ai
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

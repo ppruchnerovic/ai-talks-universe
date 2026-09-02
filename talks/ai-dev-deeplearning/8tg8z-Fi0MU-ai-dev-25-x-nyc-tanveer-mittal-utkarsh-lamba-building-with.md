@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Tanveer Mittal, Utkarsh Lamba: Building with the Claud
 slug: ai-dev-25-x-nyc-tanveer-mittal-utkarsh-lamba-building-with
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: ["Tanveer Mittal"]

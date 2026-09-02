@@ -4,7 +4,7 @@ title: "Ambient Agents and the New Agent Inbox ft. Harrison Chase"
 slug: ambient-agents-and-the-new-agent-inbox-ft-harrison-chase
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

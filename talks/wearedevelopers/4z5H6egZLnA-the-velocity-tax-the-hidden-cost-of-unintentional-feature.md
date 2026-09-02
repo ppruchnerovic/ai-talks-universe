@@ -4,7 +4,7 @@ title: "The Velocity Tax: The Hidden Cost of Unintentional Feature Alignment"
 slug: the-velocity-tax-the-hidden-cost-of-unintentional-feature
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tushar Gupta"]

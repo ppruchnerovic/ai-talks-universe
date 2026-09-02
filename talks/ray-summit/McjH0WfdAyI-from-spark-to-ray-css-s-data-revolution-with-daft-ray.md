@@ -4,7 +4,7 @@ title: "From Spark to Ray: CSS's Data Revolution with Daft | Ray Summit 2024"
 slug: from-spark-to-ray-css-s-data-revolution-with-daft-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

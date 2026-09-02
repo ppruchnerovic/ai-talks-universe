@@ -4,7 +4,7 @@ title: "Exploring Millions of High-dimensional Datapoints in the Browser for Ear
 slug: exploring-millions-of-high-dimensional-datapoints-in-the
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Matthias Orlowski"]

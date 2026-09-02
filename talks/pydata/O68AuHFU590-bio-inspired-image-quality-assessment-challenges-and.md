@@ -4,7 +4,7 @@ title: "Bio-Inspired Image Quality Assessment: Challenges and Solutions."
 slug: bio-inspired-image-quality-assessment-challenges-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

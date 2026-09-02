@@ -4,7 +4,7 @@ title: "A Super Simple Introduction to AI and Generative AI | Pierre Vandergheyn
 slug: a-super-simple-introduction-to-ai-and-generative-ai-pierre
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Pierre Vandergheynst"]

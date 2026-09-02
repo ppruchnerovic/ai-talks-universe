@@ -4,7 +4,7 @@ title: "Embrace unified digital resilience with Cisco and Microsoft | BRKSP483"
 slug: embrace-unified-digital-resilience-with-cisco-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Richard Diver", "Anthony Pierce"]

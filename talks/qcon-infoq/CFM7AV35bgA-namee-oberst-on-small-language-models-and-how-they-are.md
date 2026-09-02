@@ -4,7 +4,7 @@ title: "Namee Oberst on Small Language Models and How They are Enabling AI-Power
 slug: namee-oberst-on-small-language-models-and-how-they-are
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

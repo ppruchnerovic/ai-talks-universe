@@ -4,7 +4,7 @@ title: "Vibe Engineering Effect Apps — Michael Arnaldi, Effectful"
 slug: vibe-engineering-effect-apps-michael-arnaldi-effectful
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Michael Arnaldi"]

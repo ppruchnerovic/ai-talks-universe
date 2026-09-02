@@ -4,7 +4,7 @@ title: "Unlocking Partner Growth: Harnessing Digital Sovereignty in Europe | PBR
 slug: unlocking-partner-growth-harnessing-digital-sovereignty-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Chris Boar", "Alistair Speirs"]

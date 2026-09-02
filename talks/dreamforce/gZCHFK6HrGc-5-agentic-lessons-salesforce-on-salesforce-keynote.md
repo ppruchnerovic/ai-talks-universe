@@ -4,7 +4,7 @@ title: "5 Agentic Lessons | Salesforce-on-Salesforce Keynote, Dreamforce 2025"
 slug: 5-agentic-lessons-salesforce-on-salesforce-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

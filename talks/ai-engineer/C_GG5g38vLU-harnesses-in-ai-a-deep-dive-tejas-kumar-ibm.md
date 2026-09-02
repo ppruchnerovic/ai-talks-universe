@@ -4,7 +4,7 @@ title: "Harnesses in AI: A Deep Dive — Tejas Kumar, IBM"
 slug: harnesses-in-ai-a-deep-dive-tejas-kumar-ibm
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tejas Kumar"]

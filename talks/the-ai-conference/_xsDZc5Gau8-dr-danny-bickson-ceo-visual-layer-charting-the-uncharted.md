@@ -4,7 +4,7 @@ title: "Dr. Danny Bickson, CEO, Visual Layer: Charting the uncharted:user videos
 slug: dr-danny-bickson-ceo-visual-layer-charting-the-uncharted
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

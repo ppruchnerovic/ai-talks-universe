@@ -4,7 +4,7 @@ title: "Gabriela Kadlecová - Training Small Language Models with Knowledge Dist
 slug: gabriela-kadlecova-training-small-language-models-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Gabriela Kadlecová"]

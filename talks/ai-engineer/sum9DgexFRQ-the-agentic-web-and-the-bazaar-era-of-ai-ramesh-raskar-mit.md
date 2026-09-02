@@ -4,7 +4,7 @@ title: "The Agentic Web and the Bazaar Era of AI - Ramesh Raskar, MIT Media Lab"
 slug: the-agentic-web-and-the-bazaar-era-of-ai-ramesh-raskar-mit
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ramesh Raskar"]

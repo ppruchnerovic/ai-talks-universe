@@ -4,7 +4,7 @@ title: "AI frontier in Foundry Labs: Experiment today lead tomorrow | BRK204"
 slug: ai-frontier-in-foundry-labs-experiment-today-lead-tomorrow
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ashley Llorens", "Marco Casalaina", "Shannon Monroe"]

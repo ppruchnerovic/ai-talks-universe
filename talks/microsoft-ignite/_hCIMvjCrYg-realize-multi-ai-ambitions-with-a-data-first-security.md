@@ -4,7 +4,7 @@ title: "Realize multi-AI ambitions with a data-first security approach | BRKSP47
 slug: realize-multi-ai-ambitions-with-a-data-first-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brian Vecci"]

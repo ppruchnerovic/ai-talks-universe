@@ -4,7 +4,7 @@ title: "GT - F Your ML Model"
 slug: gt-f-your-ml-model
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

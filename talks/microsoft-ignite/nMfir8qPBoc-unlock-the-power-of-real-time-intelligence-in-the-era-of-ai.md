@@ -4,7 +4,7 @@ title: "Unlock the power of Real-Time Intelligence in the era of AI | BRK199"
 slug: unlock-the-power-of-real-time-intelligence-in-the-era-of-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Yitzhak Kesselman", "Tessa Kloster", "Niraj Revankar", "Vijay Sankaran", "Ksenia Suresh"]

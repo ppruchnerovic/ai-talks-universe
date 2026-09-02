@@ -4,7 +4,7 @@ title: "SharePoint: The Knowledge Platform for Copilot and Agents | BRK288"
 slug: sharepoint-the-knowledge-platform-for-copilot-and-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Adam Harmetz", "John Mighell"]

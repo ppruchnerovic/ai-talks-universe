@@ -4,7 +4,7 @@ title: "Lila Tretikov: Partner @NEA, Product Differentiation, User Adoption & AI
 slug: lila-tretikov-partner-nea-product-differentiation-user
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

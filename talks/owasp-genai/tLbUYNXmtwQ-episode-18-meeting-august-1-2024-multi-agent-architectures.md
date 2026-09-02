@@ -4,7 +4,7 @@ title: "Episode 18: Meeting August 1 2024: Multi-Agent Architectures In AI"
 slug: episode-18-meeting-august-1-2024-multi-agent-architectures
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

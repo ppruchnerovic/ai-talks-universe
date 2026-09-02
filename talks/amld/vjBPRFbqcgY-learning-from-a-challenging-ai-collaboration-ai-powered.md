@@ -4,7 +4,7 @@ title: "Learning from a challenging AI collaboration | AI-Powered Projects | Dan
 slug: learning-from-a-challenging-ai-collaboration-ai-powered
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Daniel Dobos"]

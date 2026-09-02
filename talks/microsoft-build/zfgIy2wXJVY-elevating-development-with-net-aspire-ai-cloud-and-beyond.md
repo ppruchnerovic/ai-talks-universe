@@ -4,7 +4,7 @@ title: "Elevating Development with .NET Aspire: AI Cloud and Beyond | BRK106"
 slug: elevating-development-with-net-aspire-ai-cloud-and-beyond
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

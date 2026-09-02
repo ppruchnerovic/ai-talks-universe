@@ -4,7 +4,7 @@ title: "Complementing LLM with agentic AI: a Quarkus story on AI by Mario Fusco 
 slug: complementing-llm-with-agentic-ai-a-quarkus-story-on-ai-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mario Fusco Daniele Zonca"]

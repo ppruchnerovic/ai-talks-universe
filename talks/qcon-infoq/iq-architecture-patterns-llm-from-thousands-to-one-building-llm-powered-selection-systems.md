@@ -4,7 +4,7 @@ title: "From Thousands to One: Building LLM-Powered Selection Systems"
 slug: from-thousands-to-one-building-llm-powered-selection-systems
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Jendrik Jördening"]

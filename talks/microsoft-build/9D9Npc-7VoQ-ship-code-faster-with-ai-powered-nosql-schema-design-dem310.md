@@ -4,7 +4,7 @@ title: "Ship code faster with AI-powered NoSQL schema design | DEM310"
 slug: ship-code-faster-with-ai-powered-nosql-schema-design-dem310
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Marko Hotti", "Sergiy Smyrnov"]

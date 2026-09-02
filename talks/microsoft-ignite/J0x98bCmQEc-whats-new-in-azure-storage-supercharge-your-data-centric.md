@@ -4,7 +4,7 @@ title: "Whatâ€™s new in Azure Storage: Supercharge your data centric workloadsâ€
 slug: whats-new-in-azure-storage-supercharge-your-data-centric
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Aung Oo", "Lena Ye"]

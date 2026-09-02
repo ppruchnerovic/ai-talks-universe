@@ -4,7 +4,7 @@ title: "Post-Processing and Visualization of Astrophysical Data with PyPLUTO [Py
 slug: post-processing-and-visualization-of-astrophysical-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Giancarlo Mattia"]

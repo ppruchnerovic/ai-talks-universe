@@ -4,7 +4,7 @@ title: "Nour El Mawass & Miklos Erdelyi - Documents Meet LLMs: Tales from the Tr
 slug: nour-el-mawass-miklos-erdelyi-documents-meet-llms-tales
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Nour El Mawass", "Miklos Erdelyi"]

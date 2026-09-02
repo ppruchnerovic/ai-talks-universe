@@ -4,7 +4,7 @@ title: "Building Software That Survives • Michael Nygard & Charles Humble"
 slug: building-software-that-survives-michael-nygard-charles
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Michael Nygard"]

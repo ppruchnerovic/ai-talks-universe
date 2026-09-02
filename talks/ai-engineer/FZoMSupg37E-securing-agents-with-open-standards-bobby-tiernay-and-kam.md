@@ -4,7 +4,7 @@ title: "Securing Agents with Open Standards — Bobby Tiernay and Kam Sween, Aut
 slug: securing-agents-with-open-standards-bobby-tiernay-and-kam
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Bobby Tiernay", "Kam Sween"]

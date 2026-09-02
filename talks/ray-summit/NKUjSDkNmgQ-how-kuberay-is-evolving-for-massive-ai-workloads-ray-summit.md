@@ -4,7 +4,7 @@ title: "How KubeRay Is Evolving for Massive AI Workloads | Ray Summit 2025"
 slug: how-kuberay-is-evolving-for-massive-ai-workloads-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

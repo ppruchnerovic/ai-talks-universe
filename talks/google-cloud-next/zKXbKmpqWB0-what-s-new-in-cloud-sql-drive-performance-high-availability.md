@@ -4,7 +4,7 @@ title: "What's new in Cloud SQL: Drive performance, high availability, and secur
 slug: what-s-new-in-cloud-sql-drive-performance-high-availability
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Bala Narasimhan", "Itay Maoz", "Abhishek Kumar"]

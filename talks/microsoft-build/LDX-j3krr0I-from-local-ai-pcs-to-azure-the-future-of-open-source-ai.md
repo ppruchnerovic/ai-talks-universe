@@ -4,7 +4,7 @@ title: "From local AI PCs to Azure: The future of open-source AI development | L
 slug: from-local-ai-pcs-to-azure-the-future-of-open-source-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Adrian Macias"]

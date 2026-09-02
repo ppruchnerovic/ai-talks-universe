@@ -4,7 +4,7 @@ title: "Chris Heilmann Agents for a more accessible web agentconf berlin"
 slug: chris-heilmann-agents-for-a-more-accessible-web-agentconf
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

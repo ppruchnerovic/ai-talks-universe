@@ -4,7 +4,7 @@ title: "The Cyber Threat Intelligence Landscape after Three Years of GenAI"
 slug: the-cyber-threat-intelligence-landscape-after-three-years
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

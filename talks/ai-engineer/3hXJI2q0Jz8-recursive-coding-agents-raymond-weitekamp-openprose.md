@@ -4,7 +4,7 @@ title: "Recursive Coding Agents - Raymond Weitekamp, OpenProse"
 slug: recursive-coding-agents-raymond-weitekamp-openprose
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raymond Weitekamp"]

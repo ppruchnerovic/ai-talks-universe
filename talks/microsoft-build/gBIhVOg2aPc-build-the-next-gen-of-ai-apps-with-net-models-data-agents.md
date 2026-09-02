@@ -4,7 +4,7 @@ title: "Build the next gen of AI apps with .NET: Models Data Agents & More | BRK
 slug: build-the-next-gen-of-ai-apps-with-net-models-data-agents
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

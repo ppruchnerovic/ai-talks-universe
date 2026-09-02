@@ -4,7 +4,7 @@ title: "Move AI workflows from test to production on Microsoft Foundry | DEMSP38
 slug: move-ai-workflows-from-test-to-production-on-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vignesh Sridhar"]

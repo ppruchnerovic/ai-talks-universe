@@ -4,7 +4,7 @@ title: "FLUX, Open Research, and the Future of Visual AI — Stephen Batifol, Bl
 slug: flux-open-research-and-the-future-of-visual-ai-stephen
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stephen Batifol"]

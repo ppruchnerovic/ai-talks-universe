@@ -4,7 +4,7 @@ title: "Why Observability Matters (More!) with AI Applications"
 slug: why-observability-matters-more-with-ai-applications
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Sally O'Malley"]

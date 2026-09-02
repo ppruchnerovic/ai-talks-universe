@@ -4,7 +4,7 @@ title: "Tammuz Dubnov - When Our PM Started Writing Code: What Merge Rate Taught
 slug: tammuz-dubnov-when-our-pm-started-writing-code-what-merge
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Tammuz Dubnov"]
