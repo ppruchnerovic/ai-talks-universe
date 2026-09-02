@@ -15,6 +15,7 @@ video_id: iq-parallel-agents-production
 url: https://www.infoq.com/presentations/parallel-agents-production/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

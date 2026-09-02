@@ -15,6 +15,7 @@ video_id: nrzFMR3Cq74
 url: https://www.youtube.com/watch?v=nrzFMR3Cq74
 youtube_url: https://www.youtube.com/watch?v=nrzFMR3Cq74
 tags: ["Developer Productivity", "AIBias", "Software Engineering", "Engineering Culture Podcast", "Team Work", "developer experience", "productivity", "diversity", "equity", "psychological safety"]
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: xkbu_ix1nWU
 url: https://www.youtube.com/watch?v=xkbu_ix1nWU
 youtube_url: https://www.youtube.com/watch?v=xkbu_ix1nWU
 tags: ["Databricks"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

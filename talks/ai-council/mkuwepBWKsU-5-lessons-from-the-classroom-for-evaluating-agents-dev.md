@@ -15,6 +15,7 @@ video_id: mkuwepBWKsU
 url: https://www.youtube.com/watch?v=mkuwepBWKsU
 youtube_url: https://www.youtube.com/watch?v=mkuwepBWKsU
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: LD0Emp7Gr40
 url: https://www.youtube.com/watch?v=LD0Emp7Gr40
 youtube_url: https://www.youtube.com/watch?v=LD0Emp7Gr40
 tags: ["688f492a-8f41-4f7d-b17e-35c445373b2f_Segment", "Abe Omorogbe", "BRK130", "English (US)", "Maxim Lukiyanov", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Database for PostgreSQL", "Sharon Chen", "Technical", "The blueprint for intelligent AI agents backed by PostgreSQL | BRK130", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

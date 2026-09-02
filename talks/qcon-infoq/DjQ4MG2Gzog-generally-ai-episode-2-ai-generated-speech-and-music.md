@@ -15,6 +15,7 @@ video_id: DjQ4MG2Gzog
 url: https://www.youtube.com/watch?v=DjQ4MG2Gzog
 youtube_url: https://www.youtube.com/watch?v=DjQ4MG2Gzog
 tags: ["AI", "Music", "Generally AI"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: NJg0am4QQ8g
 url: https://www.youtube.com/watch?v=NJg0am4QQ8g
 youtube_url: https://www.youtube.com/watch?v=NJg0am4QQ8g
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

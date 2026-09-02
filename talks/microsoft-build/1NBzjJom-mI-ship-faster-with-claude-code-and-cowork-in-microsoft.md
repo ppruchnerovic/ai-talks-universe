@@ -15,6 +15,7 @@ video_id: 1NBzjJom-mI
 url: https://www.youtube.com/watch?v=1NBzjJom-mI
 youtube_url: https://www.youtube.com/watch?v=1NBzjJom-mI
 tags: ["46e9fb81-4bb9-4d1c-a5e4-ca32bd1bb8ff_M9Z7-DEMSP388-1", "AI", "Agents", "Caroline Matthews", "DEMSP388", "Developer", "Ship faster with Claude Code and Cowork in Microsoft Foundry | DEMSP388", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

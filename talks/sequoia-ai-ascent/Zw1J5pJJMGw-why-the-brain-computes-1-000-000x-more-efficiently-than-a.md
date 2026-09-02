@@ -15,6 +15,7 @@ video_id: Zw1J5pJJMGw
 url: https://www.youtube.com/watch?v=Zw1J5pJJMGw
 youtube_url: https://www.youtube.com/watch?v=Zw1J5pJJMGw
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

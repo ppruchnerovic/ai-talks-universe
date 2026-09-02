@@ -15,6 +15,7 @@ video_id: s49sgre_04c
 url: https://www.youtube.com/watch?v=s49sgre_04c
 youtube_url: https://www.youtube.com/watch?v=s49sgre_04c
 tags: []
+topics: ["Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

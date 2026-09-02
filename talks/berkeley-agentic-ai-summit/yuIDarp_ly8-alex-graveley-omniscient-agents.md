@@ -15,6 +15,7 @@ video_id: yuIDarp_ly8
 url: https://www.youtube.com/watch?v=yuIDarp_ly8
 youtube_url: https://www.youtube.com/watch?v=yuIDarp_ly8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

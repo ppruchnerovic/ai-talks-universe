@@ -15,6 +15,7 @@ video_id: knCF9uZThns
 url: https://www.youtube.com/watch?v=knCF9uZThns
 youtube_url: https://www.youtube.com/watch?v=knCF9uZThns
 tags: ["Developer Experience", "AI Coding Assistants"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

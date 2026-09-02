@@ -15,6 +15,7 @@ video_id: aC6xuKBVHD4
 url: https://www.youtube.com/watch?v=aC6xuKBVHD4
 youtube_url: https://www.youtube.com/watch?v=aC6xuKBVHD4
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

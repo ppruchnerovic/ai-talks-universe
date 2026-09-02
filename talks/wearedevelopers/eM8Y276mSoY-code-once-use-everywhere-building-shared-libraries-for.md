@@ -15,6 +15,7 @@ video_id: eM8Y276mSoY
 url: https://www.youtube.com/watch?v=eM8Y276mSoY
 youtube_url: https://www.youtube.com/watch?v=eM8Y276mSoY
 tags: ["Software Architecture", "Java", "Spring", "Spring Boot"]
+topics: []
 transcript: true
 ---
 

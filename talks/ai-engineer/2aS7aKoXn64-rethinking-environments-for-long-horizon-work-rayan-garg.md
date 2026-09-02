@@ -15,6 +15,7 @@ video_id: 2aS7aKoXn64
 url: https://www.youtube.com/watch?v=2aS7aKoXn64
 youtube_url: https://www.youtube.com/watch?v=2aS7aKoXn64
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

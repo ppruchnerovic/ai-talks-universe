@@ -15,6 +15,7 @@ video_id: BiTu9o1koyY
 url: https://www.youtube.com/watch?v=BiTu9o1koyY
 youtube_url: https://www.youtube.com/watch?v=BiTu9o1koyY
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-panel-modern-data-architectures
 url: https://www.infoq.com/presentations/panel-modern-data-architectures/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

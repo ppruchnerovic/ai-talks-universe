@@ -15,6 +15,7 @@ video_id: jT5yIs8tvgQ
 url: https://www.youtube.com/watch?v=jT5yIs8tvgQ
 youtube_url: https://www.youtube.com/watch?v=jT5yIs8tvgQ
 tags: ["Cloud & AI Infrastructure", "Automation", "DevOps", "DevSecOps", "GitOps", "Infrastructure", "Infrastructure as Code (IaC)"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: JyocX-G6h8o
 url: https://www.youtube.com/watch?v=JyocX-G6h8o
 youtube_url: https://www.youtube.com/watch?v=JyocX-G6h8o
 tags: []
+topics: []
 transcript: false
 ---
 

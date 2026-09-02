@@ -15,6 +15,7 @@ video_id: LInp7g_JcC4
 url: https://www.youtube.com/watch?v=LInp7g_JcC4
 youtube_url: https://www.youtube.com/watch?v=LInp7g_JcC4
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

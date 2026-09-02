@@ -15,6 +15,7 @@ video_id: -561cZmir5Q
 url: https://www.youtube.com/watch?v=-561cZmir5Q
 youtube_url: https://www.youtube.com/watch?v=-561cZmir5Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

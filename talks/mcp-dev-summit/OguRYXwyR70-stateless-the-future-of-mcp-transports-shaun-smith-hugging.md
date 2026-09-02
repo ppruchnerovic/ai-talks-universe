@@ -15,6 +15,7 @@ video_id: OguRYXwyR70
 url: https://www.youtube.com/watch?v=OguRYXwyR70
 youtube_url: https://www.youtube.com/watch?v=OguRYXwyR70
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

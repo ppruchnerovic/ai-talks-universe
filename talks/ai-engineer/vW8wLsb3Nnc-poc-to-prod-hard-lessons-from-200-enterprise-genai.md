@@ -15,6 +15,7 @@ video_id: vW8wLsb3Nnc
 url: https://www.youtube.com/watch?v=vW8wLsb3Nnc
 youtube_url: https://www.youtube.com/watch?v=vW8wLsb3Nnc
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: yXX81E3cD_w
 url: https://www.youtube.com/watch?v=yXX81E3cD_w
 youtube_url: https://www.youtube.com/watch?v=yXX81E3cD_w
 tags: ["talent", "recruiting", "hiring", "remote", "global hiring", "future of work", "leadership", "organization", "business", "HR", "people"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

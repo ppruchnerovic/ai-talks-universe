@@ -15,6 +15,7 @@ video_id: iq-architecting-deletion-system
 url: https://www.infoq.com/presentations/architecting-deletion-system/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

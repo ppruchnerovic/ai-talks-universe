@@ -15,6 +15,7 @@ video_id: Wo1lxiR9azE
 url: https://www.youtube.com/watch?v=Wo1lxiR9azE
 youtube_url: https://www.youtube.com/watch?v=Wo1lxiR9azE
 tags: []
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

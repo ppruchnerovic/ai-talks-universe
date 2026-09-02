@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-lessons
 url: https://www.infoq.com/presentations/platform-engineering-lessons/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

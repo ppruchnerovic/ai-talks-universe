@@ -15,6 +15,7 @@ video_id: HtiPffkyGrs
 url: https://www.youtube.com/watch?v=HtiPffkyGrs
 youtube_url: https://www.youtube.com/watch?v=HtiPffkyGrs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-advanced-message-queuing
 url: https://www.infoq.com/presentations/advanced-message-queuing/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

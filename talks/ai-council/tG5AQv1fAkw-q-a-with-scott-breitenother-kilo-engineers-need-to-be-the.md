@@ -15,6 +15,7 @@ video_id: tG5AQv1fAkw
 url: https://www.youtube.com/watch?v=tG5AQv1fAkw
 youtube_url: https://www.youtube.com/watch?v=tG5AQv1fAkw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

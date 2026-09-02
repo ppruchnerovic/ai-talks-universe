@@ -15,6 +15,7 @@ video_id: D87eM6_N2GM
 url: https://www.youtube.com/watch?v=D87eM6_N2GM
 youtube_url: https://www.youtube.com/watch?v=D87eM6_N2GM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Model Monitoring", "monitoring", "models", "ml models", "machine learning models", "Model Monitoring: What", "Why", "and How", "Verta Inc."]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

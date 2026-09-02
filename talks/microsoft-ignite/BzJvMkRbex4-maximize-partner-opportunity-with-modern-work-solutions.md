@@ -15,6 +15,7 @@ video_id: BzJvMkRbex4
 url: https://www.youtube.com/watch?v=BzJvMkRbex4
 youtube_url: https://www.youtube.com/watch?v=BzJvMkRbex4
 tags: ["BRK298", "Breakout", "Chris Large", "English (US)", "Foundational (100)", "Julia Bowser", "Lars Johnson", "Maximize partner opportunity with Modern Work solutions powered by AI | BRK298", "Mayank Kapur", "Modern Work", "Modern Work-Curated", "Partner Business", "Solution Area", "Uriel Rootshtain", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

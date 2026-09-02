@@ -15,6 +15,7 @@ video_id: Eb6gDc7q_WI
 url: https://www.youtube.com/watch?v=Eb6gDc7q_WI
 youtube_url: https://www.youtube.com/watch?v=Eb6gDc7q_WI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Developing a Data-Centric NLP Machine Learning Pipeline", "NLP Machine Learning Pipeline", "nlp", "natural language processing"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: QEUseCP6zPI
 url: https://www.youtube.com/watch?v=QEUseCP6zPI
 youtube_url: https://www.youtube.com/watch?v=QEUseCP6zPI
 tags: ["UX", "AI", "Embedded", "IoT", "UI", "3D Modeling", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Leanora Horne"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

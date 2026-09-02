@@ -15,6 +15,7 @@ video_id: MtmoTYZnN4I
 url: https://www.youtube.com/watch?v=MtmoTYZnN4I
 youtube_url: https://www.youtube.com/watch?v=MtmoTYZnN4I
 tags: ["Languages & Runtimes", "JavaScript", "Node.js", "TypeScript"]
+topics: []
 transcript: true
 ---
 

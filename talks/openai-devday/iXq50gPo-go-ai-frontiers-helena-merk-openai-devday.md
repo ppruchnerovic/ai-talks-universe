@@ -15,6 +15,7 @@ video_id: iXq50gPo-go
 url: https://www.youtube.com/watch?v=iXq50gPo-go
 youtube_url: https://www.youtube.com/watch?v=iXq50gPo-go
 tags: []
+topics: []
 transcript: false
 ---
 

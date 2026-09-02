@@ -15,6 +15,7 @@ video_id: OK5xPUuco6o
 url: https://www.youtube.com/watch?v=OK5xPUuco6o
 youtube_url: https://www.youtube.com/watch?v=OK5xPUuco6o
 tags: ["Shivay Lamba", "AI", "Security", "OpenFGA", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

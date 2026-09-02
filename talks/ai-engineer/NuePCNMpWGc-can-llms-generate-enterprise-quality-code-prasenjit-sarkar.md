@@ -15,6 +15,7 @@ video_id: NuePCNMpWGc
 url: https://www.youtube.com/watch?v=NuePCNMpWGc
 youtube_url: https://www.youtube.com/watch?v=NuePCNMpWGc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

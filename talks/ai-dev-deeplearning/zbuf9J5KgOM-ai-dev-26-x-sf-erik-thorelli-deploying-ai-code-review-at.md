@@ -15,6 +15,7 @@ video_id: zbuf9J5KgOM
 url: https://www.youtube.com/watch?v=zbuf9J5KgOM
 youtube_url: https://www.youtube.com/watch?v=zbuf9J5KgOM
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

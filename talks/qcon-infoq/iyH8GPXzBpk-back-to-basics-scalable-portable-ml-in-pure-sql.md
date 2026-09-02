@@ -15,6 +15,7 @@ video_id: iyH8GPXzBpk
 url: https://www.youtube.com/watch?v=iyH8GPXzBpk
 youtube_url: https://www.youtube.com/watch?v=iyH8GPXzBpk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Project Management", "Data Warehousing", "Agile"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: a9ciMeRQHEk
 url: https://www.youtube.com/watch?v=a9ciMeRQHEk
 youtube_url: https://www.youtube.com/watch?v=a9ciMeRQHEk
 tags: ["ainativedev"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

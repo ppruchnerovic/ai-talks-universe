@@ -15,6 +15,7 @@ video_id: wYSncx9zLIU
 url: https://www.youtube.com/watch?v=wYSncx9zLIU
 youtube_url: https://www.youtube.com/watch?v=wYSncx9zLIU
 tags: ["Google I/O 2026", "AI Innovation", "Gemini 3", "Agentic AI", "Google Keynote", "Live Stream", "Android 17", "Artificial Intelligence", "Machine Learning", "Future of Tech", "Google Developers", "Shoreline Amphitheatre", "Gemini API", "Agentic Coding", "Multimodal AI", "Neural Networks", "Deep Learning", "Cloud Computing", "Generative AI", "Robotics", "Smart Home", "Google Assistant", "Tech Trends 2026", "Developer Conference", "Digital Assembly Lines", "Open Models", "Gemma 3", "Tech Event", "Virtual Event", "Innovation"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

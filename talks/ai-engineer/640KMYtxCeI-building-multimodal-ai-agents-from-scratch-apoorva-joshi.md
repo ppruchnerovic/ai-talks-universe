@@ -15,6 +15,7 @@ video_id: 640KMYtxCeI
 url: https://www.youtube.com/watch?v=640KMYtxCeI
 youtube_url: https://www.youtube.com/watch?v=640KMYtxCeI
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

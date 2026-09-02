@@ -15,6 +15,7 @@ video_id: twlOVmpHy90
 url: https://www.youtube.com/watch?v=twlOVmpHy90
 youtube_url: https://www.youtube.com/watch?v=twlOVmpHy90
 tags: []
+topics: []
 transcript: true
 ---
 

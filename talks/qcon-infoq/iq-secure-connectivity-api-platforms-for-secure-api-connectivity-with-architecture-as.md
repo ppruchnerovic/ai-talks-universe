@@ -15,6 +15,7 @@ video_id: iq-secure-connectivity-api
 url: https://www.infoq.com/presentations/secure-connectivity-api/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

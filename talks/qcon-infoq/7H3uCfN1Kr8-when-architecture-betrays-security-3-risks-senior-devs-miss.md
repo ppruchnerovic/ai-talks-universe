@@ -15,6 +15,7 @@ video_id: 7H3uCfN1Kr8
 url: https://www.youtube.com/watch?v=7H3uCfN1Kr8
 youtube_url: https://www.youtube.com/watch?v=7H3uCfN1Kr8
 tags: ["InfoQ", "QCon London", "Transcript", "Software Architecture", "Security", "Software Security", "Cyber Security"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

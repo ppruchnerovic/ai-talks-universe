@@ -15,6 +15,7 @@ video_id: XmcDFCrOXUg
 url: https://www.youtube.com/watch?v=XmcDFCrOXUg
 youtube_url: https://www.youtube.com/watch?v=XmcDFCrOXUg
 tags: ["3ba13f34-b43e-4706-b5eb-d9f0f8936dd5_Segment", "BRK270", "English (US)", "Innovating with confidence: Accelerating with Compliance in the age of Agents | BRK270", "Manny Sahota", "Rahul Srivastava", "Secure your data", "Sri Lakshmi Kotwal", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: OtcmVTamHW8
 url: https://www.youtube.com/watch?v=OtcmVTamHW8
 youtube_url: https://www.youtube.com/watch?v=OtcmVTamHW8
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

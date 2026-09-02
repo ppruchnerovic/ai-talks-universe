@@ -15,6 +15,7 @@ video_id: 1irWW_PFECA
 url: https://www.youtube.com/watch?v=1irWW_PFECA
 youtube_url: https://www.youtube.com/watch?v=1irWW_PFECA
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: []
 transcript: false
 ---
 

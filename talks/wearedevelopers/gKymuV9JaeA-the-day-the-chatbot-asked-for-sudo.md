@@ -15,6 +15,7 @@ video_id: gKymuV9JaeA
 url: https://www.youtube.com/watch?v=gKymuV9JaeA
 youtube_url: https://www.youtube.com/watch?v=gKymuV9JaeA
 tags: ["Security & Privacy", "AGI (Artificial General Intelligence)", "AI Standards", "Security"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

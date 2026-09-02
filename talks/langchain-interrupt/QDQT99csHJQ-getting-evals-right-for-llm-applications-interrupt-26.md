@@ -15,6 +15,7 @@ video_id: QDQT99csHJQ
 url: https://www.youtube.com/watch?v=QDQT99csHJQ
 youtube_url: https://www.youtube.com/watch?v=QDQT99csHJQ
 tags: ["LangChain", "LangSmith", "AI evals", "LLM evaluation", "data science", "AI engineering", "Shreya Shankar", "Hamel Husain", "Parlance Labs", "agent evals", "LLM judges", "eval design", "Interrupt conference", "AI observability", "synthetic data", "metric design"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

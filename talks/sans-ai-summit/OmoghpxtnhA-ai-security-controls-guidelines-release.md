@@ -15,6 +15,7 @@ video_id: OmoghpxtnhA
 url: https://www.youtube.com/watch?v=OmoghpxtnhA
 youtube_url: https://www.youtube.com/watch?v=OmoghpxtnhA
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

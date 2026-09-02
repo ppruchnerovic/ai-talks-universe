@@ -15,6 +15,7 @@ video_id: iq-inclusive-leadership
 url: https://www.infoq.com/presentations/inclusive-leadership/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

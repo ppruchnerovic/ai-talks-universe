@@ -15,6 +15,7 @@ video_id: jIgj_nVqjog
 url: https://www.youtube.com/watch?v=jIgj_nVqjog
 youtube_url: https://www.youtube.com/watch?v=jIgj_nVqjog
 tags: ["Artificial Intelligence", "InfoQ", "QCon London", "Transcript", "RAG", "vLLM", "LLMOps", "Vector Database", "Retrieval Augmented Generation", "Large Language Models", "LLMs", "Vector Search"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

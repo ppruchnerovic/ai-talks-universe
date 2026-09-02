@@ -15,6 +15,7 @@ video_id: xkPZq_dnYBo
 url: https://www.youtube.com/watch?v=xkPZq_dnYBo
 youtube_url: https://www.youtube.com/watch?v=xkPZq_dnYBo
 tags: ["AI Engineering", "AI Models", "LLMOps", "Open Source"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

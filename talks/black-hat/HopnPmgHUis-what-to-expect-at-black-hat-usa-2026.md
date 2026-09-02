@@ -15,6 +15,7 @@ video_id: HopnPmgHUis
 url: https://www.youtube.com/watch?v=HopnPmgHUis
 youtube_url: https://www.youtube.com/watch?v=HopnPmgHUis
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

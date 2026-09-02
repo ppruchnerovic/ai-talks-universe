@@ -15,6 +15,7 @@ video_id: QVQPhOHBWBk
 url: https://www.youtube.com/watch?v=QVQPhOHBWBk
 youtube_url: https://www.youtube.com/watch?v=QVQPhOHBWBk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Serverless", "Software Architecture", "Cloud Computing", "Data", "FaaS", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

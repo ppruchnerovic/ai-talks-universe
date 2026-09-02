@@ -15,6 +15,7 @@ video_id: TtLUI9_KA78
 url: https://www.youtube.com/watch?v=TtLUI9_KA78
 youtube_url: https://www.youtube.com/watch?v=TtLUI9_KA78
 tags: []
+topics: []
 transcript: false
 ---
 

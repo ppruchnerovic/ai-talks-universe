@@ -15,6 +15,7 @@ video_id: 4l-PnH0UUrY
 url: https://www.youtube.com/watch?v=4l-PnH0UUrY
 youtube_url: https://www.youtube.com/watch?v=4l-PnH0UUrY
 tags: ["Quality & Reliability", "AI Models", "Quality Assurance (QA)", "Testing"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

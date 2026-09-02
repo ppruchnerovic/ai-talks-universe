@@ -15,6 +15,7 @@ video_id: GoQzVjk8rzc
 url: https://www.youtube.com/watch?v=GoQzVjk8rzc
 youtube_url: https://www.youtube.com/watch?v=GoQzVjk8rzc
 tags: ["AI", "Architecture", "Machine Learning", "Tools", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Emmz Rendle"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

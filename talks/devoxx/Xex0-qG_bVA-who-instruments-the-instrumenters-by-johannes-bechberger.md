@@ -15,6 +15,7 @@ video_id: Xex0-qG_bVA
 url: https://www.youtube.com/watch?v=Xex0-qG_bVA
 youtube_url: https://www.youtube.com/watch?v=Xex0-qG_bVA
 tags: []
+topics: []
 transcript: false
 ---
 

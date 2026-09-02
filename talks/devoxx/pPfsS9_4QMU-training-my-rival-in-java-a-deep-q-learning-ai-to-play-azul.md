@@ -15,6 +15,7 @@ video_id: pPfsS9_4QMU
 url: https://www.youtube.com/watch?v=pPfsS9_4QMU
 youtube_url: https://www.youtube.com/watch?v=pPfsS9_4QMU
 tags: []
+topics: []
 transcript: true
 ---
 

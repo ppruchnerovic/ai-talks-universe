@@ -15,6 +15,7 @@ video_id: iq-ebpf-ai-gateway-kubernetes-security
 url: https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

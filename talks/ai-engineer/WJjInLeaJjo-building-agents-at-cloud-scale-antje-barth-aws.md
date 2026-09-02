@@ -15,6 +15,7 @@ video_id: WJjInLeaJjo
 url: https://www.youtube.com/watch?v=WJjInLeaJjo
 youtube_url: https://www.youtube.com/watch?v=WJjInLeaJjo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

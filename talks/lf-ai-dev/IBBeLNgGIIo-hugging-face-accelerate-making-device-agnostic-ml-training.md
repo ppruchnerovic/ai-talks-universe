@@ -15,6 +15,7 @@ video_id: IBBeLNgGIIo
 url: https://www.youtube.com/watch?v=IBBeLNgGIIo
 youtube_url: https://www.youtube.com/watch?v=IBBeLNgGIIo
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

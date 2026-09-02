@@ -15,6 +15,7 @@ video_id: XjI-AR4pt7Y
 url: https://www.youtube.com/watch?v=XjI-AR4pt7Y
 youtube_url: https://www.youtube.com/watch?v=XjI-AR4pt7Y
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

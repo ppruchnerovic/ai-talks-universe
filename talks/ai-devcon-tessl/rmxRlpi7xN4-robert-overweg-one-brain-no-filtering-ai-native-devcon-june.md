@@ -15,6 +15,7 @@ video_id: rmxRlpi7xN4
 url: https://www.youtube.com/watch?v=rmxRlpi7xN4
 youtube_url: https://www.youtube.com/watch?v=rmxRlpi7xN4
 tags: ["AI DevCon", "AI Native DevCon", "AI innovation", "Obsidian", "Obsidian vs Notion", "OpenClaw", "ainativedev", "collaborative intelligence", "enterprise knowledge", "how does OpenClaw work", "knowledge management", "one brain concept", "one brain concept explained", "structured vaults", "what is a multiplayer brain"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 1uhV9yR-WZg
 url: https://www.youtube.com/watch?v=1uhV9yR-WZg
 youtube_url: https://www.youtube.com/watch?v=1uhV9yR-WZg
 tags: ["JavaScript", "Security", "GenAI", "OWASP", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Ramona Schwering"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

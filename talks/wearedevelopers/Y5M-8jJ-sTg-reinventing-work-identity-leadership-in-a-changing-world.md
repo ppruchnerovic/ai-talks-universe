@@ -15,6 +15,7 @@ video_id: Y5M-8jJ-sTg
 url: https://www.youtube.com/watch?v=Y5M-8jJ-sTg
 youtube_url: https://www.youtube.com/watch?v=Y5M-8jJ-sTg
 tags: ["work", "identity", "leadership", "future of work", "people", "culture", "talent", "cross-generation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

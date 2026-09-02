@@ -15,6 +15,7 @@ video_id: 5dcIBBroDTE
 url: https://www.youtube.com/watch?v=5dcIBBroDTE
 youtube_url: https://www.youtube.com/watch?v=5dcIBBroDTE
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

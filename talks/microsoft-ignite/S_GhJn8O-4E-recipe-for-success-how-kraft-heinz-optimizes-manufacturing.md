@@ -15,6 +15,7 @@ video_id: S_GhJn8O-4E
 url: https://www.youtube.com/watch?v=S_GhJn8O-4E
 youtube_url: https://www.youtube.com/watch?v=S_GhJn8O-4E
 tags: ["Alkesh Ladva", "BRK138", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Arc", "Oliver Ganschar", "Recipe for success: How Kraft Heinz optimizes manufacturing with AI | BRK138", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

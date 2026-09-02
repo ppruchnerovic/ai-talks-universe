@@ -15,6 +15,7 @@ video_id: GZo6vqPRrqI
 url: https://www.youtube.com/watch?v=GZo6vqPRrqI
 youtube_url: https://www.youtube.com/watch?v=GZo6vqPRrqI
 tags: ["Backend & APIs", "AI Standards", "APIs", "Agentic AI", "REST"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

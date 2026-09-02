@@ -15,6 +15,7 @@ video_id: RWDJKIya-WI
 url: https://www.youtube.com/watch?v=RWDJKIya-WI
 youtube_url: https://www.youtube.com/watch?v=RWDJKIya-WI
 tags: ["API gateway", "Conference", "Docker deployment", "LLM observability", "LLM production", "LiteLLM", "OpenAI API", "PostgreSQL", "PyConDE", "PyData", "Python", "RAG system", "Redis", "Tech Talk", "budget management", "cost tracking", "enterprise AI", "model routing", "multi-provider LLM"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

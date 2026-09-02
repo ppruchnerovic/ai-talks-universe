@@ -15,6 +15,7 @@ video_id: JodINm7redQ
 url: https://www.youtube.com/watch?v=JodINm7redQ
 youtube_url: https://www.youtube.com/watch?v=JodINm7redQ
 tags: []
+topics: []
 transcript: false
 ---
 

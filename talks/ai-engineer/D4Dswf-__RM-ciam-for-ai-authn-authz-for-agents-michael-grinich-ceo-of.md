@@ -15,6 +15,7 @@ video_id: D4Dswf-__RM
 url: https://www.youtube.com/watch?v=D4Dswf-__RM
 youtube_url: https://www.youtube.com/watch?v=D4Dswf-__RM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

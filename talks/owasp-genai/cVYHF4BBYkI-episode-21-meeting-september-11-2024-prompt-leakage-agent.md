@@ -15,6 +15,7 @@ video_id: cVYHF4BBYkI
 url: https://www.youtube.com/watch?v=cVYHF4BBYkI
 youtube_url: https://www.youtube.com/watch?v=cVYHF4BBYkI
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

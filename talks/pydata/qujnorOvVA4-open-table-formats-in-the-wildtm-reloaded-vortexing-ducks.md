@@ -15,6 +15,7 @@ video_id: qujnorOvVA4
 url: https://www.youtube.com/watch?v=qujnorOvVA4
 youtube_url: https://www.youtube.com/watch?v=qujnorOvVA4
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

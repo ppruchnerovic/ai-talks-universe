@@ -15,6 +15,7 @@ video_id: tNDbpnmlsQk
 url: https://www.youtube.com/watch?v=tNDbpnmlsQk
 youtube_url: https://www.youtube.com/watch?v=tNDbpnmlsQk
 tags: ["Java", "InfoQ Dev Summit", "Case Study", "Netflix", "Concurrency", "Software Architecture", "InfoQ", "Transcript", "Virtual Threads", "Backend Engineering"]
+topics: []
 transcript: true
 ---
 

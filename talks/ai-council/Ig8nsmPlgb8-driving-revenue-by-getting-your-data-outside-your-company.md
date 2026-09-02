@@ -15,6 +15,7 @@ video_id: Ig8nsmPlgb8
 url: https://www.youtube.com/watch?v=Ig8nsmPlgb8
 youtube_url: https://www.youtube.com/watch?v=Ig8nsmPlgb8
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

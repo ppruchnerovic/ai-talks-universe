@@ -15,6 +15,7 @@ video_id: cFJH00a12lo
 url: https://www.youtube.com/watch?v=cFJH00a12lo
 youtube_url: https://www.youtube.com/watch?v=cFJH00a12lo
 tags: ["7bace723-06e7-4e23-96cb-248706475d82_Segment", "Andrew Soltan", "BRK373", "English (US)", "From Code to Care: Empowering Healthcare with Agentic AI | BRK373", "Healthcare and Life Sciences", "Innovate with Azure AI apps and agents", "Naveen Valluri", "Signature pass", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

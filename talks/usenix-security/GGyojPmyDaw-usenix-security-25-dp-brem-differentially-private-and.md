@@ -15,6 +15,7 @@ video_id: GGyojPmyDaw
 url: https://www.youtube.com/watch?v=GGyojPmyDaw
 youtube_url: https://www.youtube.com/watch?v=GGyojPmyDaw
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

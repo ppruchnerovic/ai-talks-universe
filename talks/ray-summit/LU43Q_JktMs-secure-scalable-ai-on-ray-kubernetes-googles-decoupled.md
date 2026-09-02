@@ -15,6 +15,7 @@ video_id: LU43Q_JktMs
 url: https://www.youtube.com/watch?v=LU43Q_JktMs
 youtube_url: https://www.youtube.com/watch?v=LU43Q_JktMs
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

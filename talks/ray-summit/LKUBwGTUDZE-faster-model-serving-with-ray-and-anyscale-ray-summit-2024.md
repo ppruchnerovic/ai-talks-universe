@@ -15,6 +15,7 @@ video_id: LKUBwGTUDZE
 url: https://www.youtube.com/watch?v=LKUBwGTUDZE
 youtube_url: https://www.youtube.com/watch?v=LKUBwGTUDZE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

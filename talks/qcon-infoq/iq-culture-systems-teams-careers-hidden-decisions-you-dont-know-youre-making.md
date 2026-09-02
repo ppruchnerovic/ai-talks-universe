@@ -15,6 +15,7 @@ video_id: iq-culture-systems-teams-careers
 url: https://www.infoq.com/presentations/culture-systems-teams-careers/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

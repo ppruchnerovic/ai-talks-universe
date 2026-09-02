@@ -15,6 +15,7 @@ video_id: IGWVGw8tzbM
 url: https://www.youtube.com/watch?v=IGWVGw8tzbM
 youtube_url: https://www.youtube.com/watch?v=IGWVGw8tzbM
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

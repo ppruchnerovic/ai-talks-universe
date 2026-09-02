@@ -15,6 +15,7 @@ video_id: LafpndhNC_E
 url: https://www.youtube.com/watch?v=LafpndhNC_E
 youtube_url: https://www.youtube.com/watch?v=LafpndhNC_E
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

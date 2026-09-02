@@ -15,6 +15,7 @@ video_id: 4yeO-165LRc
 url: https://www.youtube.com/watch?v=4yeO-165LRc
 youtube_url: https://www.youtube.com/watch?v=4yeO-165LRc
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

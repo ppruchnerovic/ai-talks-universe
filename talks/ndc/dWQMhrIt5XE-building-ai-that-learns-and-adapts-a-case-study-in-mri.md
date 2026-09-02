@@ -15,6 +15,7 @@ video_id: dWQMhrIt5XE
 url: https://www.youtube.com/watch?v=dWQMhrIt5XE
 youtube_url: https://www.youtube.com/watch?v=dWQMhrIt5XE
 tags: ["AI", "Architecture", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Agata Chudzińska", "Agata Chudzinska"]
+topics: []
 transcript: true
 ---
 

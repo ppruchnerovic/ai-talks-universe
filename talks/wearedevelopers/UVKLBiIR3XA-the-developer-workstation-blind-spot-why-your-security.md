@@ -15,6 +15,7 @@ video_id: UVKLBiIR3XA
 url: https://www.youtube.com/watch?v=UVKLBiIR3XA
 youtube_url: https://www.youtube.com/watch?v=UVKLBiIR3XA
 tags: ["Security & Privacy", "AI Coding Assistants", "DevSecOps", "Safety", "Secure Coding", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

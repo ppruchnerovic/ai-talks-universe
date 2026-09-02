@@ -15,6 +15,7 @@ video_id: snpkULBzido
 url: https://www.youtube.com/watch?v=snpkULBzido
 youtube_url: https://www.youtube.com/watch?v=snpkULBzido
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-agentic-compute
 url: https://www.infoq.com/presentations/agentic-compute/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

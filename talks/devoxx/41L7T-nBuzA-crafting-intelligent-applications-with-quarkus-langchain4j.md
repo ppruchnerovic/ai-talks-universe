@@ -15,6 +15,7 @@ video_id: 41L7T-nBuzA
 url: https://www.youtube.com/watch?v=41L7T-nBuzA
 youtube_url: https://www.youtube.com/watch?v=41L7T-nBuzA
 tags: []
+topics: []
 transcript: false
 ---
 

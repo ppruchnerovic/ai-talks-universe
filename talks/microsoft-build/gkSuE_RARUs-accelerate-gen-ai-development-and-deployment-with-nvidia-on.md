@@ -15,6 +15,7 @@ video_id: gkSuE_RARUs
 url: https://www.youtube.com/watch?v=gkSuE_RARUs
 youtube_url: https://www.youtube.com/watch?v=gkSuE_RARUs
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

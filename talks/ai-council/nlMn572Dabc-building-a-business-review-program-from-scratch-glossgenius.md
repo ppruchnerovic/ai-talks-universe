@@ -15,6 +15,7 @@ video_id: nlMn572Dabc
 url: https://www.youtube.com/watch?v=nlMn572Dabc
 youtube_url: https://www.youtube.com/watch?v=nlMn572Dabc
 tags: ["business reviews", "metrics", "KPIs", "analytics"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Ru_Ay9C4weA
 url: https://www.youtube.com/watch?v=Ru_Ay9C4weA
 youtube_url: https://www.youtube.com/watch?v=Ru_Ay9C4weA
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

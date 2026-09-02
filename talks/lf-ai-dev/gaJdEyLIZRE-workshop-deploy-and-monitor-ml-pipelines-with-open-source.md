@@ -15,6 +15,7 @@ video_id: gaJdEyLIZRE
 url: https://www.youtube.com/watch?v=gaJdEyLIZRE
 youtube_url: https://www.youtube.com/watch?v=gaJdEyLIZRE
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

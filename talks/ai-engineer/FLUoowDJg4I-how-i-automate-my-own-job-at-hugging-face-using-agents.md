@@ -15,6 +15,7 @@ video_id: FLUoowDJg4I
 url: https://www.youtube.com/watch?v=FLUoowDJg4I
 youtube_url: https://www.youtube.com/watch?v=FLUoowDJg4I
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

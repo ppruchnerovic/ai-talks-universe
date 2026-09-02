@@ -15,6 +15,7 @@ video_id: n9rjuBuShko
 url: https://www.youtube.com/watch?v=n9rjuBuShko
 youtube_url: https://www.youtube.com/watch?v=n9rjuBuShko
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

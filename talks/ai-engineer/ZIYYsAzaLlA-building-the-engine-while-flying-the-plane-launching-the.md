@@ -15,6 +15,7 @@ video_id: ZIYYsAzaLlA
 url: https://www.youtube.com/watch?v=ZIYYsAzaLlA
 youtube_url: https://www.youtube.com/watch?v=ZIYYsAzaLlA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

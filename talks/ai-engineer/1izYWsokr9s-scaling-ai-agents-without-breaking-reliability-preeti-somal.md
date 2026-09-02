@@ -15,6 +15,7 @@ video_id: 1izYWsokr9s
 url: https://www.youtube.com/watch?v=1izYWsokr9s
 youtube_url: https://www.youtube.com/watch?v=1izYWsokr9s
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

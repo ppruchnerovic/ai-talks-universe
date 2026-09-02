@@ -15,6 +15,7 @@ video_id: VRIXSkiPRT8
 url: https://www.youtube.com/watch?v=VRIXSkiPRT8
 youtube_url: https://www.youtube.com/watch?v=VRIXSkiPRT8
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

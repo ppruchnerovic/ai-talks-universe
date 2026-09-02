@@ -15,6 +15,7 @@ video_id: gAjwsmSvtIM
 url: https://www.youtube.com/watch?v=gAjwsmSvtIM
 youtube_url: https://www.youtube.com/watch?v=gAjwsmSvtIM
 tags: ["AI Engineering", "AI Models", "Large Language Models (LLMs)", "Small Language Models (SLMs)", "Software Architecture", "System Design"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

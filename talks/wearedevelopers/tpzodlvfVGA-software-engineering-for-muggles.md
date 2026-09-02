@@ -15,6 +15,7 @@ video_id: tpzodlvfVGA
 url: https://www.youtube.com/watch?v=tpzodlvfVGA
 youtube_url: https://www.youtube.com/watch?v=tpzodlvfVGA
 tags: ["People & Culture", "Communication", "Soft Skills"]
+topics: []
 transcript: true
 ---
 

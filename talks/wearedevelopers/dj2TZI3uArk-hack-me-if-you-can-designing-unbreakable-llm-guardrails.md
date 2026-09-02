@@ -15,6 +15,7 @@ video_id: dj2TZI3uArk
 url: https://www.youtube.com/watch?v=dj2TZI3uArk
 youtube_url: https://www.youtube.com/watch?v=dj2TZI3uArk
 tags: ["Security & Privacy", "AI Standards", "Safety"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

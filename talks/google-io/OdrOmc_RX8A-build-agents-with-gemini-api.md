@@ -15,6 +15,7 @@ video_id: OdrOmc_RX8A
 url: https://www.youtube.com/watch?v=OdrOmc_RX8A
 youtube_url: https://www.youtube.com/watch?v=OdrOmc_RX8A
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Stack - AI;", "ct:Event - Technical Session;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

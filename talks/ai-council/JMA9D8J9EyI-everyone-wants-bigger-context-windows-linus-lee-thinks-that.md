@@ -15,6 +15,7 @@ video_id: JMA9D8J9EyI
 url: https://www.youtube.com/watch?v=JMA9D8J9EyI
 youtube_url: https://www.youtube.com/watch?v=JMA9D8J9EyI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

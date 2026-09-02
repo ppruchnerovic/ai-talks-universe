@@ -15,6 +15,7 @@ video_id: GOXxAUtrB8c
 url: https://www.youtube.com/watch?v=GOXxAUtrB8c
 youtube_url: https://www.youtube.com/watch?v=GOXxAUtrB8c
 tags: ["Courtney Yatteau", "Web", "AI", "Gaming", "JavaScript", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

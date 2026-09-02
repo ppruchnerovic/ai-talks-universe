@@ -15,6 +15,7 @@ video_id: GJX19pNhmSw
 url: https://www.youtube.com/watch?v=GJX19pNhmSw
 youtube_url: https://www.youtube.com/watch?v=GJX19pNhmSw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

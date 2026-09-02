@@ -15,6 +15,7 @@ video_id: m4dijprtNMQ
 url: https://www.youtube.com/watch?v=m4dijprtNMQ
 youtube_url: https://www.youtube.com/watch?v=m4dijprtNMQ
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

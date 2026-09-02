@@ -15,6 +15,7 @@ video_id: pEXoiFbgE2U
 url: https://www.youtube.com/watch?v=pEXoiFbgE2U
 youtube_url: https://www.youtube.com/watch?v=pEXoiFbgE2U
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

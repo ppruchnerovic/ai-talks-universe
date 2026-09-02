@@ -15,6 +15,7 @@ video_id: bxuU-jtHJbY
 url: https://www.youtube.com/watch?v=bxuU-jtHJbY
 youtube_url: https://www.youtube.com/watch?v=bxuU-jtHJbY
 tags: ["Mobile", ".NET", "AI", "Cross-Platform", "Fun", "Microsoft", "UI", "UX", "GenAI", "MAUI", "NDC", "Conferences", "2026", "Live", "Copenhagen", "Denmark", "Gerald Versluis"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

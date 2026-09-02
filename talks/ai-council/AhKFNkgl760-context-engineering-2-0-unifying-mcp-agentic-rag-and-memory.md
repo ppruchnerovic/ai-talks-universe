@@ -15,6 +15,7 @@ video_id: AhKFNkgl760
 url: https://www.youtube.com/watch?v=AhKFNkgl760
 youtube_url: https://www.youtube.com/watch?v=AhKFNkgl760
 tags: ["AI"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

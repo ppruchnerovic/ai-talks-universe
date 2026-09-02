@@ -15,6 +15,7 @@ video_id: Ac4LiuoJT20
 url: https://www.youtube.com/watch?v=Ac4LiuoJT20
 youtube_url: https://www.youtube.com/watch?v=Ac4LiuoJT20
 tags: []
+topics: []
 transcript: false
 ---
 

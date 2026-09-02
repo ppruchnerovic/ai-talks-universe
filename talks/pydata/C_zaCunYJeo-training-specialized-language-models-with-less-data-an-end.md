@@ -15,6 +15,7 @@ video_id: C_zaCunYJeo
 url: https://www.youtube.com/watch?v=C_zaCunYJeo
 youtube_url: https://www.youtube.com/watch?v=C_zaCunYJeo
 tags: ["AI deployment", "Conference", "LLM fine-tuning", "Llama models", "NLP", "PII redaction", "PyConDE", "PyData", "Python", "Tech Talk", "conference talk", "data efficiency", "expert agents", "local AI", "machine learning", "model distillation", "privacy-preserving AI", "production ML", "small language models", "synthetic data"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

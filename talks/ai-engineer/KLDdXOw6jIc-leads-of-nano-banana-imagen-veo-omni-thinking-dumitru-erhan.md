@@ -15,6 +15,7 @@ video_id: KLDdXOw6jIc
 url: https://www.youtube.com/watch?v=KLDdXOw6jIc
 youtube_url: https://www.youtube.com/watch?v=KLDdXOw6jIc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Prompting & context engineering"]
 transcript: true
 ---
 

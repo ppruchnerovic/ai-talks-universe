@@ -15,6 +15,7 @@ video_id: 3DzkRYuyuJ8
 url: https://www.youtube.com/watch?v=3DzkRYuyuJ8
 youtube_url: https://www.youtube.com/watch?v=3DzkRYuyuJ8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "Vibe Coding", "TypeScript", "JavaScript", "Microsoft MVP", "AR", "VR", "Copilot", "OpenAI", "We Are Developers", "Programming", "Software Development", "Tech News", "AI Agents", "Machine Learning", "Developer Trends", "Coding"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

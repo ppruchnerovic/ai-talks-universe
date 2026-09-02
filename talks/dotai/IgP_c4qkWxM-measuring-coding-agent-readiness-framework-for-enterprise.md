@@ -15,6 +15,7 @@ video_id: IgP_c4qkWxM
 url: https://www.youtube.com/watch?v=IgP_c4qkWxM
 youtube_url: https://www.youtube.com/watch?v=IgP_c4qkWxM
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

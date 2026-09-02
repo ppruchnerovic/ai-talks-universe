@@ -15,6 +15,7 @@ video_id: S66a51BuOIo
 url: https://www.youtube.com/watch?v=S66a51BuOIo
 youtube_url: https://www.youtube.com/watch?v=S66a51BuOIo
 tags: ["GenAI", "Architecture", "DevOps", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark"]
+topics: []
 transcript: true
 ---
 

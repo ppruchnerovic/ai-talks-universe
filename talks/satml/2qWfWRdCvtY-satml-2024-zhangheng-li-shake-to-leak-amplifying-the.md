@@ -15,6 +15,7 @@ video_id: 2qWfWRdCvtY
 url: https://www.youtube.com/watch?v=2qWfWRdCvtY
 youtube_url: https://www.youtube.com/watch?v=2qWfWRdCvtY
 tags: []
+topics: ["Governance, ethics & regulation", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

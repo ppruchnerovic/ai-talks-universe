@@ -15,6 +15,7 @@ video_id: iq-llm-ai-agents
 url: https://www.infoq.com/presentations/llm-ai-agents/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

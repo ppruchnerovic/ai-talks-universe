@@ -15,6 +15,7 @@ video_id: Oh3MaO-Z-4w
 url: https://www.youtube.com/watch?v=Oh3MaO-Z-4w
 youtube_url: https://www.youtube.com/watch?v=Oh3MaO-Z-4w
 tags: []
+topics: []
 transcript: true
 ---
 

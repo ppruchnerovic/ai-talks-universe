@@ -15,6 +15,7 @@ video_id: pJ8YPFlzGOo
 url: https://www.youtube.com/watch?v=pJ8YPFlzGOo
 youtube_url: https://www.youtube.com/watch?v=pJ8YPFlzGOo
 tags: ["cloud", "DevOps", "Platform Engineering", "Multi-cloud", "Resilience", "AI", "FinOps", "Sovereignty", "Cloud architecture", "The InfoQ Podcast", "Trends Report 2026"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

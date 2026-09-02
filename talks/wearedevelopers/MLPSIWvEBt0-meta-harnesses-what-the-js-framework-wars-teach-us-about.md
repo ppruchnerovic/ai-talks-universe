@@ -15,6 +15,7 @@ video_id: MLPSIWvEBt0
 url: https://www.youtube.com/watch?v=MLPSIWvEBt0
 youtube_url: https://www.youtube.com/watch?v=MLPSIWvEBt0
 tags: ["Strategy & Innovation"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

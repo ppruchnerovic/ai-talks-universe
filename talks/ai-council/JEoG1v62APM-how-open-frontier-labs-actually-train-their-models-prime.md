@@ -15,6 +15,7 @@ video_id: JEoG1v62APM
 url: https://www.youtube.com/watch?v=JEoG1v62APM
 youtube_url: https://www.youtube.com/watch?v=JEoG1v62APM
 tags: ["AI"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 3vh4UA4FOrU
 url: https://www.youtube.com/watch?v=3vh4UA4FOrU
 youtube_url: https://www.youtube.com/watch?v=3vh4UA4FOrU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

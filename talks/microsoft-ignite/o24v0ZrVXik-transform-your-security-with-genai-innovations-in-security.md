@@ -15,6 +15,7 @@ video_id: o24v0ZrVXik
 url: https://www.youtube.com/watch?v=o24v0ZrVXik
 youtube_url: https://www.youtube.com/watch?v=o24v0ZrVXik
 tags: ["AI", "AI Security", "Automation", "BRK307", "Breakout", "Copilot for Security", "Data Security", "Dilip Radhakrishnan", "Dorothy Li", "Emily Longman", "English (US)", "GenAI", "Intermediate (200)", "Security", "Technical", "Transform your security with GenAI innovations in Security Copilot | BRK307", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

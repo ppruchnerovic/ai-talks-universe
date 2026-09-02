@@ -15,6 +15,7 @@ video_id: Q4QtYEfMpsQ
 url: https://www.youtube.com/watch?v=Q4QtYEfMpsQ
 youtube_url: https://www.youtube.com/watch?v=Q4QtYEfMpsQ
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

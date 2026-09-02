@@ -15,6 +15,7 @@ video_id: eg6EFeGSx6M
 url: https://www.youtube.com/watch?v=eg6EFeGSx6M
 youtube_url: https://www.youtube.com/watch?v=eg6EFeGSx6M
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Felix GV", "Olimpiu Pop", "VeniceDB", "RocksDB", "DuckDB", "Apache Kafka", "Apache Pinot", "Apache Zookeeper", "Apache Helix", "Data Flow", "Chaos Engineering", "Data Systems", "Apache Iceberg", "CAP Theorem", "Microservices", "Distributed Systems"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

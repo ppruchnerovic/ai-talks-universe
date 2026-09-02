@@ -15,6 +15,7 @@ video_id: oNERioZEJiw
 url: https://www.youtube.com/watch?v=oNERioZEJiw
 youtube_url: https://www.youtube.com/watch?v=oNERioZEJiw
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

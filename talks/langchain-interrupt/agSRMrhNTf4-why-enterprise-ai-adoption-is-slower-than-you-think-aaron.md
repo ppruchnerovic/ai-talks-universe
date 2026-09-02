@@ -15,6 +15,7 @@ video_id: agSRMrhNTf4
 url: https://www.youtube.com/watch?v=agSRMrhNTf4
 youtube_url: https://www.youtube.com/watch?v=agSRMrhNTf4
 tags: ["Aaron Levie", "Box AI", "Harrison Chase", "LangChain", "LangGraph", "enterprise AI agents", "AI in the enterprise", "knowledge work AI", "coding agents", "AI agent harness", "Deep Agents", "MCP", "Model Context Protocol", "headless software", "Jevons paradox", "AI adoption", "enterprise software", "agentic AI", "multi-model agents", "token costs", "LangSmith", "AI keynote", "LangChain conference"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

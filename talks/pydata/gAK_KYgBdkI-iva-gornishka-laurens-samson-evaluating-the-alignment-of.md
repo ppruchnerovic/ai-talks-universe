@@ -15,6 +15,7 @@ video_id: gAK_KYgBdkI
 url: https://www.youtube.com/watch?v=gAK_KYgBdkI
 youtube_url: https://www.youtube.com/watch?v=gAK_KYgBdkI
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

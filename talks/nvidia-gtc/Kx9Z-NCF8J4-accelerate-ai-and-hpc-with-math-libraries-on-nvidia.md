@@ -15,6 +15,7 @@ video_id: Kx9Z-NCF8J4
 url: https://www.youtube.com/watch?v=Kx9Z-NCF8J4
 youtube_url: https://www.youtube.com/watch?v=Kx9Z-NCF8J4
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 4XciSKk-Rek
 url: https://www.youtube.com/watch?v=4XciSKk-Rek
 youtube_url: https://www.youtube.com/watch?v=4XciSKk-Rek
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

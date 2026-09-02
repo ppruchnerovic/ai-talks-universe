@@ -15,6 +15,7 @@ video_id: YlS2K18OqYY
 url: https://www.youtube.com/watch?v=YlS2K18OqYY
 youtube_url: https://www.youtube.com/watch?v=YlS2K18OqYY
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

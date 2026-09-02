@@ -15,6 +15,7 @@ video_id: FURcBVNuK0U
 url: https://www.youtube.com/watch?v=FURcBVNuK0U
 youtube_url: https://www.youtube.com/watch?v=FURcBVNuK0U
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

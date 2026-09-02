@@ -15,6 +15,7 @@ video_id: NYtQuneZMXc
 url: https://www.youtube.com/watch?v=NYtQuneZMXc
 youtube_url: https://www.youtube.com/watch?v=NYtQuneZMXc
 tags: []
+topics: []
 transcript: false
 ---
 

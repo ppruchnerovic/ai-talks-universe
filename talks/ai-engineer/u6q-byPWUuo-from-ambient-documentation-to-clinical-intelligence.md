@@ -15,6 +15,7 @@ video_id: u6q-byPWUuo
 url: https://www.youtube.com/watch?v=u6q-byPWUuo
 youtube_url: https://www.youtube.com/watch?v=u6q-byPWUuo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

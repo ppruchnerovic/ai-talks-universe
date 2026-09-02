@@ -15,6 +15,7 @@ video_id: o-y1HJ6buGQ
 url: https://www.youtube.com/watch?v=o-y1HJ6buGQ
 youtube_url: https://www.youtube.com/watch?v=o-y1HJ6buGQ
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

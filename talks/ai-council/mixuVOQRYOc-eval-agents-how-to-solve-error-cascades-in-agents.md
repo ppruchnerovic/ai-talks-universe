@@ -15,6 +15,7 @@ video_id: mixuVOQRYOc
 url: https://www.youtube.com/watch?v=mixuVOQRYOc
 youtube_url: https://www.youtube.com/watch?v=mixuVOQRYOc
 tags: ["eval agents", "AI testing", "multi turn AI systems", "ChatGPT", "artificial intelligence", "machine learning", "AI agents", "quality assurance", "AI evaluation", "agent testing", "AI reliability", "error cascades", "trajectory evaluation", "Python tutorial", "conversational AI testing", "dialogue evaluation", "multi modal evaluation", "human evaluation", "automated evaluation", "benchmark testing", "performance metrics", "evaluation frameworks"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

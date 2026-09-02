@@ -15,6 +15,7 @@ video_id: kn2Np9tnYsU
 url: https://www.youtube.com/watch?v=kn2Np9tnYsU
 youtube_url: https://www.youtube.com/watch?v=kn2Np9tnYsU
 tags: ["DevOps", "Automation", "CI/CD", "Compliance", "Developer Experience (DevEx)", "GitHub Actions", "Open Source", "SBOM"]
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

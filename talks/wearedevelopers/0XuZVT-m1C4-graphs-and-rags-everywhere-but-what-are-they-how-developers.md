@@ -15,6 +15,7 @@ video_id: 0XuZVT-m1C4
 url: https://www.youtube.com/watch?v=0XuZVT-m1C4
 youtube_url: https://www.youtube.com/watch?v=0XuZVT-m1C4
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "Graph Databases", "Neo4j", "Machine Learning", "RAG", "Graph RAG", "Developers", "AI Search", "Knowledge Graphs", "Data Science", "LLM", "Retrieval-Augmented Generation", "Open Source AI", "Software Development", "Graph Querying"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

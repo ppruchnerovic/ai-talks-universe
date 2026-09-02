@@ -15,6 +15,7 @@ video_id: YXowceUKYJI
 url: https://www.youtube.com/watch?v=YXowceUKYJI
 youtube_url: https://www.youtube.com/watch?v=YXowceUKYJI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

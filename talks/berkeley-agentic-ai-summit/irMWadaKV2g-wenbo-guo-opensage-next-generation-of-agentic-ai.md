@@ -15,6 +15,7 @@ video_id: irMWadaKV2g
 url: https://www.youtube.com/watch?v=irMWadaKV2g
 youtube_url: https://www.youtube.com/watch?v=irMWadaKV2g
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

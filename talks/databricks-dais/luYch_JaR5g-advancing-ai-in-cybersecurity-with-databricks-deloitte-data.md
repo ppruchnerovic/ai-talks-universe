@@ -15,6 +15,7 @@ video_id: luYch_JaR5g
 url: https://www.youtube.com/watch?v=luYch_JaR5g
 youtube_url: https://www.youtube.com/watch?v=luYch_JaR5g
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

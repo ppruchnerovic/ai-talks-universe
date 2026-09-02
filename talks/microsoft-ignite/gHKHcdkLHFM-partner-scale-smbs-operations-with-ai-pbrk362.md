@@ -15,6 +15,7 @@ video_id: gHKHcdkLHFM
 url: https://www.youtube.com/watch?v=gHKHcdkLHFM
 youtube_url: https://www.youtube.com/watch?v=gHKHcdkLHFM
 tags: ["Agentic business applications", "Agentic business applications:Dynamics 365", "English (US)", "Levent Bakirci", "Maria Paloma Alarco Rodriguez Larrain", "Microsoft AI Cloud Partner Program", "PBRK362", "Partner Business", "Partner: Scale SMBs Operations with AI | PBRK362", "Rob Young", "Tom Paquin", "a711e2ec-4577-4469-af57-b1da9410cafd_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

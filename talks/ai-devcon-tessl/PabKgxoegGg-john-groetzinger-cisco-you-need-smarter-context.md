@@ -15,6 +15,7 @@ video_id: PabKgxoegGg
 url: https://www.youtube.com/watch?v=PabKgxoegGg
 youtube_url: https://www.youtube.com/watch?v=PabKgxoegGg
 tags: []
+topics: []
 transcript: true
 ---
 

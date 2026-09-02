@@ -15,6 +15,7 @@ video_id: SlMqsayqUHM
 url: https://www.youtube.com/watch?v=SlMqsayqUHM
 youtube_url: https://www.youtube.com/watch?v=SlMqsayqUHM
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

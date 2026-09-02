@@ -15,6 +15,7 @@ video_id: bFBNXIoLkW4
 url: https://www.youtube.com/watch?v=bFBNXIoLkW4
 youtube_url: https://www.youtube.com/watch?v=bFBNXIoLkW4
 tags: ["AI Native DevCon 2026", "AI agent security", "AI agents", "AI development", "AI development best practices", "AI security", "AI workloads", "DevRel", "Docker", "Oleg Šelajev", "Testcontainers", "ainativedev", "how to secure AI workloads", "preventing AI mishaps", "sandbox isolation"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

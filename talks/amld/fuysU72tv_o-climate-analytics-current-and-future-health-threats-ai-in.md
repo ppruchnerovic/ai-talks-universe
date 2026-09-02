@@ -15,6 +15,7 @@ video_id: fuysU72tv_o
 url: https://www.youtube.com/watch?v=fuysU72tv_o
 youtube_url: https://www.youtube.com/watch?v=fuysU72tv_o
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: x3tS2SzpA1c
 url: https://www.youtube.com/watch?v=x3tS2SzpA1c
 youtube_url: https://www.youtube.com/watch?v=x3tS2SzpA1c
 tags: []
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

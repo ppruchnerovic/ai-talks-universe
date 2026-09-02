@@ -15,6 +15,7 @@ video_id: 2EKGeJ9wEpQ
 url: https://www.youtube.com/watch?v=2EKGeJ9wEpQ
 youtube_url: https://www.youtube.com/watch?v=2EKGeJ9wEpQ
 tags: ["generative AI", "data products", "machine learning", "data privacy", "AI"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Ph-zrJNhl_M
 url: https://www.youtube.com/watch?v=Ph-zrJNhl_M
 youtube_url: https://www.youtube.com/watch?v=Ph-zrJNhl_M
 tags: ["Accelerate Secure AI: Microsoft’s Security Advantage for Partners | PBRK272", "Ann Choi", "English (US)", "Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK272", "PBRK272_v1", "Partner Business", "Protect cloud AI platform and apps", "Secure your data", "Steve Dispensa", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

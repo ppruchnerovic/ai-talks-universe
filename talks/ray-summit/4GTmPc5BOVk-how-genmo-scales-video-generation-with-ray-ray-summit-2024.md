@@ -15,6 +15,7 @@ video_id: 4GTmPc5BOVk
 url: https://www.youtube.com/watch?v=4GTmPc5BOVk
 youtube_url: https://www.youtube.com/watch?v=4GTmPc5BOVk
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

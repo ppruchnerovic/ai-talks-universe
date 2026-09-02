@@ -15,6 +15,7 @@ video_id: oxD3urMx3_8
 url: https://www.youtube.com/watch?v=oxD3urMx3_8
 youtube_url: https://www.youtube.com/watch?v=oxD3urMx3_8
 tags: []
+topics: []
 transcript: true
 ---
 

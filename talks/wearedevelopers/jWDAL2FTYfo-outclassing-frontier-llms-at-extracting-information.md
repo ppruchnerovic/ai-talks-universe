@@ -15,6 +15,7 @@ video_id: jWDAL2FTYfo
 url: https://www.youtube.com/watch?v=jWDAL2FTYfo
 youtube_url: https://www.youtube.com/watch?v=jWDAL2FTYfo
 tags: ["AI Engineering", "JSON", "Large Language Models (LLMs)", "Retrieval-Augmented Generation (RAG)", "AI Models"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

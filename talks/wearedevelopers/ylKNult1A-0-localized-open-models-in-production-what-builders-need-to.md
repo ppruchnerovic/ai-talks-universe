@@ -15,6 +15,7 @@ video_id: ylKNult1A-0
 url: https://www.youtube.com/watch?v=ylKNult1A-0
 youtube_url: https://www.youtube.com/watch?v=ylKNult1A-0
 tags: ["AI Engineering"]
+topics: []
 transcript: true
 ---
 

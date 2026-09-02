@@ -15,6 +15,7 @@ video_id: pArFDv2YARM
 url: https://www.youtube.com/watch?v=pArFDv2YARM
 youtube_url: https://www.youtube.com/watch?v=pArFDv2YARM
 tags: ["Azure Partner Success: Driving Innovation Together | PBRK233", "Microsoft AI Cloud Partner Program", "Migrate and modernize your estate", "PBRK233", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

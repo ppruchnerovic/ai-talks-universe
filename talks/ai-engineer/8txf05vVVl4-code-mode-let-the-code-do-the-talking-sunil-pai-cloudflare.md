@@ -15,6 +15,7 @@ video_id: 8txf05vVVl4
 url: https://www.youtube.com/watch?v=8txf05vVVl4
 youtube_url: https://www.youtube.com/watch?v=8txf05vVVl4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

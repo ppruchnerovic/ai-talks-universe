@@ -15,6 +15,7 @@ video_id: VP2OlIXVMa0
 url: https://www.youtube.com/watch?v=VP2OlIXVMa0
 youtube_url: https://www.youtube.com/watch?v=VP2OlIXVMa0
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

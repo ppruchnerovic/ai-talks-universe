@@ -15,6 +15,7 @@ video_id: kWOQS3XPZ10
 url: https://www.youtube.com/watch?v=kWOQS3XPZ10
 youtube_url: https://www.youtube.com/watch?v=kWOQS3XPZ10
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

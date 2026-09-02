@@ -15,6 +15,7 @@ video_id: pIPtpBZ6TKk
 url: https://www.youtube.com/watch?v=pIPtpBZ6TKk
 youtube_url: https://www.youtube.com/watch?v=pIPtpBZ6TKk
 tags: []
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

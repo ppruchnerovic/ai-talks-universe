@@ -15,6 +15,7 @@ video_id: iq-infrastructure-ai-agent-development
 url: https://www.infoq.com/presentations/infrastructure-ai-agent-development/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

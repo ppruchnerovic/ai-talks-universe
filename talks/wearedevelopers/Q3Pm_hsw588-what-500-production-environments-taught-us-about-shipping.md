@@ -15,6 +15,7 @@ video_id: Q3Pm_hsw588
 url: https://www.youtube.com/watch?v=Q3Pm_hsw588
 youtube_url: https://www.youtube.com/watch?v=Q3Pm_hsw588
 tags: ["AI Agents", "Agents", "Agentic AI", "Multi-Agent Systems", "Observability"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

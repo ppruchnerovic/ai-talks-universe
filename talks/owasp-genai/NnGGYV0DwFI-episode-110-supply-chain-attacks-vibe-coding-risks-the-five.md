@@ -15,6 +15,7 @@ video_id: NnGGYV0DwFI
 url: https://www.youtube.com/watch?v=NnGGYV0DwFI
 youtube_url: https://www.youtube.com/watch?v=NnGGYV0DwFI
 tags: []
+topics: ["Coding assistants & agents", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-trust-security-cloud-native
 url: https://www.infoq.com/presentations/trust-security-cloud-native/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: FMJeLTB2qtY
 url: https://www.youtube.com/watch?v=FMJeLTB2qtY
 youtube_url: https://www.youtube.com/watch?v=FMJeLTB2qtY
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

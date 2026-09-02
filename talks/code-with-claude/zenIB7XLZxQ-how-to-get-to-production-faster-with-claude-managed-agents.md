@@ -15,6 +15,7 @@ video_id: zenIB7XLZxQ
 url: https://www.youtube.com/watch?v=zenIB7XLZxQ
 youtube_url: https://www.youtube.com/watch?v=zenIB7XLZxQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

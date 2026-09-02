@@ -15,6 +15,7 @@ video_id: YmtQFOBankE
 url: https://www.youtube.com/watch?v=YmtQFOBankE
 youtube_url: https://www.youtube.com/watch?v=YmtQFOBankE
 tags: []
+topics: []
 transcript: false
 ---
 

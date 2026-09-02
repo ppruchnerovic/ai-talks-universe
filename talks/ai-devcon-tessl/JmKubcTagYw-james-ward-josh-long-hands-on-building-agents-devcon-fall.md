@@ -15,6 +15,7 @@ video_id: JmKubcTagYw
 url: https://www.youtube.com/watch?v=JmKubcTagYw
 youtube_url: https://www.youtube.com/watch?v=JmKubcTagYw
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

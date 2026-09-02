@@ -15,6 +15,7 @@ video_id: zYqhUmZLbu4
 url: https://www.youtube.com/watch?v=zYqhUmZLbu4
 youtube_url: https://www.youtube.com/watch?v=zYqhUmZLbu4
 tags: ["Backend & APIs", "APIs", "ASP.NET", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

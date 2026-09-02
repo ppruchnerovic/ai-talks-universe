@@ -15,6 +15,7 @@ video_id: OnM7sWLnAfw
 url: https://www.youtube.com/watch?v=OnM7sWLnAfw
 youtube_url: https://www.youtube.com/watch?v=OnM7sWLnAfw
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

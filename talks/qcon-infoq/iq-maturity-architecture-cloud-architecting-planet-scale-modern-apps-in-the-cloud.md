@@ -15,6 +15,7 @@ video_id: iq-maturity-architecture-cloud
 url: https://www.infoq.com/presentations/maturity-architecture-cloud/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

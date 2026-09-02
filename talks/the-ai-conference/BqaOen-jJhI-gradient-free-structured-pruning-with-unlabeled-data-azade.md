@@ -15,6 +15,7 @@ video_id: BqaOen-jJhI
 url: https://www.youtube.com/watch?v=BqaOen-jJhI
 youtube_url: https://www.youtube.com/watch?v=BqaOen-jJhI
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

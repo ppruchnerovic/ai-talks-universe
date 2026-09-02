@@ -15,6 +15,7 @@ video_id: 0kZC1o4ttAQ
 url: https://www.youtube.com/watch?v=0kZC1o4ttAQ
 youtube_url: https://www.youtube.com/watch?v=0kZC1o4ttAQ
 tags: ["QCon AI", "InfoQ", "Transcript", "Context Engineering", "Prompt Engineering", "Software Architecture", "Stateful AI", "Apache Flink", "Apache Kafka", "Distributed Systems", "AI Agents"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: false
 ---
 

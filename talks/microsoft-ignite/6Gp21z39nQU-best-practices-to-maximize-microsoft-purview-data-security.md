@@ -15,6 +15,7 @@ video_id: 6Gp21z39nQU
 url: https://www.youtube.com/watch?v=6Gp21z39nQU
 youtube_url: https://www.youtube.com/watch?v=6Gp21z39nQU
 tags: ["Aashish Ramdas", "Antonio Maio", "BRK255", "Best practices to maximize Microsoft Purview data security solutions | BRK255", "English (US)", "Nick Caromano", "Scott Whittington", "Secure your data", "Technical", "Vivian Ma", "dafc9e42-b84e-4ff8-930c-05d5ffd13087_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

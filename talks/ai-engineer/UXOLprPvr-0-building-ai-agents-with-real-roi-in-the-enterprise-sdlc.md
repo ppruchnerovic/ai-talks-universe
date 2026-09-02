@@ -15,6 +15,7 @@ video_id: UXOLprPvr-0
 url: https://www.youtube.com/watch?v=UXOLprPvr-0
 youtube_url: https://www.youtube.com/watch?v=UXOLprPvr-0
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

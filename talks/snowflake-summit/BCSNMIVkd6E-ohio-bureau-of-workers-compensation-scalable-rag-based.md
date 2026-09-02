@@ -15,6 +15,7 @@ video_id: BCSNMIVkd6E
 url: https://www.youtube.com/watch?v=BCSNMIVkd6E
 youtube_url: https://www.youtube.com/watch?v=BCSNMIVkd6E
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

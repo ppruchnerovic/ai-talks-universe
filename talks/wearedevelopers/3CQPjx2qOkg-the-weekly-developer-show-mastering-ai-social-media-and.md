@@ -15,6 +15,7 @@ video_id: 3CQPjx2qOkg
 url: https://www.youtube.com/watch?v=3CQPjx2qOkg
 youtube_url: https://www.youtube.com/watch?v=3CQPjx2qOkg
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "Developer Tools", "Social Media", "Programming", "Software Engineering", "Web Development", "AI Agents", "Tech Industry", "Developer Community", "Digital Transformation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

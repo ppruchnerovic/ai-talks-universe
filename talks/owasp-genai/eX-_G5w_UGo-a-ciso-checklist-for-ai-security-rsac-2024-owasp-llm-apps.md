@@ -15,6 +15,7 @@ video_id: eX-_G5w_UGo
 url: https://www.youtube.com/watch?v=eX-_G5w_UGo
 youtube_url: https://www.youtube.com/watch?v=eX-_G5w_UGo
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

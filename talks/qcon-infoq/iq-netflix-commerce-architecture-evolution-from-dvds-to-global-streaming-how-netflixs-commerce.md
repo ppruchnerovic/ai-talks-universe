@@ -15,6 +15,7 @@ video_id: iq-netflix-commerce-architecture-evolution
 url: https://www.infoq.com/presentations/netflix-commerce-architecture-evolution/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

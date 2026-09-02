@@ -15,6 +15,7 @@ video_id: B6qqvzac4z0
 url: https://www.youtube.com/watch?v=B6qqvzac4z0
 youtube_url: https://www.youtube.com/watch?v=B6qqvzac4z0
 tags: ["data tools", "data products", "business intelligence"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

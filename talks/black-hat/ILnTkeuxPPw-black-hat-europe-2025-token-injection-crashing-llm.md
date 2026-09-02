@@ -15,6 +15,7 @@ video_id: ILnTkeuxPPw
 url: https://www.youtube.com/watch?v=ILnTkeuxPPw
 youtube_url: https://www.youtube.com/watch?v=ILnTkeuxPPw
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

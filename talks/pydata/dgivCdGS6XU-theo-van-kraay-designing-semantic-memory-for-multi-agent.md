@@ -15,6 +15,7 @@ video_id: dgivCdGS6XU
 url: https://www.youtube.com/watch?v=dgivCdGS6XU
 youtube_url: https://www.youtube.com/watch?v=dgivCdGS6XU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

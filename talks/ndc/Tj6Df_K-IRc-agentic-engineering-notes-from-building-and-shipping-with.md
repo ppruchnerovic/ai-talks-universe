@@ -15,6 +15,7 @@ video_id: Tj6Df_K-IRc
 url: https://www.youtube.com/watch?v=Tj6Df_K-IRc
 youtube_url: https://www.youtube.com/watch?v=Tj6Df_K-IRc
 tags: ["AI-Assisted Development", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Mats Oustad"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

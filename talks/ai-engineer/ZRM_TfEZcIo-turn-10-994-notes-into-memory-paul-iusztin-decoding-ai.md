@@ -15,6 +15,7 @@ video_id: ZRM_TfEZcIo
 url: https://www.youtube.com/watch?v=ZRM_TfEZcIo
 youtube_url: https://www.youtube.com/watch?v=ZRM_TfEZcIo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

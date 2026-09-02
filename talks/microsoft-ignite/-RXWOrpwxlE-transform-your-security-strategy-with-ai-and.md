@@ -15,6 +15,7 @@ video_id: -RXWOrpwxlE
 url: https://www.youtube.com/watch?v=-RXWOrpwxlE
 youtube_url: https://www.youtube.com/watch?v=-RXWOrpwxlE
 tags: ["AI", "Administration", "Copilot for Security", "Data governance", "Identity and network access", "Microsoft Defender XDR", "Microsoft Defender for Endpoint", "Microsoft Entra", "Microsoft Purview", "ODFP980", "Transform your security strategy with AI and platformization | ODFP980", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

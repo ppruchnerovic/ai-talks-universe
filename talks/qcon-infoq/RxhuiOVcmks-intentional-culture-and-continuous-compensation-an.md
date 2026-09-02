@@ -15,6 +15,7 @@ video_id: RxhuiOVcmks
 url: https://www.youtube.com/watch?v=RxhuiOVcmks
 youtube_url: https://www.youtube.com/watch?v=RxhuiOVcmks
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

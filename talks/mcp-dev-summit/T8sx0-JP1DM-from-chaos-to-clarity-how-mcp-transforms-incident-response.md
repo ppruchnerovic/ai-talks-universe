@@ -15,6 +15,7 @@ video_id: T8sx0-JP1DM
 url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 youtube_url: https://www.youtube.com/watch?v=T8sx0-JP1DM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

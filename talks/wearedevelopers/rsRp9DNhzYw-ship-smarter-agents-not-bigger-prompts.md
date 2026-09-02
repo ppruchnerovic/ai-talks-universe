@@ -15,6 +15,7 @@ video_id: rsRp9DNhzYw
 url: https://www.youtube.com/watch?v=rsRp9DNhzYw
 youtube_url: https://www.youtube.com/watch?v=rsRp9DNhzYw
 tags: ["AI Agents", "AI Coding Assistants", "AI Models", "AI Standards", "Agents", "Agentic AI", "Prompt Engineering"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

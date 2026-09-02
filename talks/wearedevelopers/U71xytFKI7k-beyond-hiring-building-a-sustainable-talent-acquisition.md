@@ -15,6 +15,7 @@ video_id: U71xytFKI7k
 url: https://www.youtube.com/watch?v=U71xytFKI7k
 youtube_url: https://www.youtube.com/watch?v=U71xytFKI7k
 tags: ["talent acquisition", "leadership", "people", "deutsche bahn", "recruiting", "retention", "employer branding", "innovation", "hiring"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

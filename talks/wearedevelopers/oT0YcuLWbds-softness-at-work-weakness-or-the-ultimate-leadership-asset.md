@@ -15,6 +15,7 @@ video_id: oT0YcuLWbds
 url: https://www.youtube.com/watch?v=oT0YcuLWbds
 youtube_url: https://www.youtube.com/watch?v=oT0YcuLWbds
 tags: ["softness at work", "leadership asset", "HR podcast", "somatic coaching", "business psychologist", "empathy in business", "self respect tips", "AI impact HR", "failure culture", "company culture", "human connection", "performance driven teams", "emotional regulation", "professional development", "mindset transformation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

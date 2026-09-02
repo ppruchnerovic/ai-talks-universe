@@ -15,6 +15,7 @@ video_id: nC418kwKyLM
 url: https://www.youtube.com/watch?v=nC418kwKyLM
 youtube_url: https://www.youtube.com/watch?v=nC418kwKyLM
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - AI PA Keynote;", "ct:Stack - AI;"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

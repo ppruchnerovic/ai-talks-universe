@@ -15,6 +15,7 @@ video_id: vM_Gbx-c2Qs
 url: https://www.youtube.com/watch?v=vM_Gbx-c2Qs
 youtube_url: https://www.youtube.com/watch?v=vM_Gbx-c2Qs
 tags: []
+topics: []
 transcript: true
 ---
 

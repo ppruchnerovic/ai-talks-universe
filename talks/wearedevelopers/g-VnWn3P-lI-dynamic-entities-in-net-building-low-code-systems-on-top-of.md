@@ -15,6 +15,7 @@ video_id: g-VnWn3P-lI
 url: https://www.youtube.com/watch?v=g-VnWn3P-lI
 youtube_url: https://www.youtube.com/watch?v=g-VnWn3P-lI
 tags: ["Languages & Runtimes", "Low Code/No Code", ".NET"]
+topics: []
 transcript: true
 ---
 

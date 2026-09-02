@@ -15,6 +15,7 @@ video_id: N2kn4UybFBI
 url: https://www.youtube.com/watch?v=N2kn4UybFBI
 youtube_url: https://www.youtube.com/watch?v=N2kn4UybFBI
 tags: ["AI", "Database", "Linux", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "United Kingdom", "England", "Great Britain", "Dotan Horovits"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

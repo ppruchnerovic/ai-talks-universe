@@ -15,6 +15,7 @@ video_id: _luS8kXwCh8
 url: https://www.youtube.com/watch?v=_luS8kXwCh8
 youtube_url: https://www.youtube.com/watch?v=_luS8kXwCh8
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

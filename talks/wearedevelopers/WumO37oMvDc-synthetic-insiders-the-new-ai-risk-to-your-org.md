@@ -15,6 +15,7 @@ video_id: WumO37oMvDc
 url: https://www.youtube.com/watch?v=WumO37oMvDc
 youtube_url: https://www.youtube.com/watch?v=WumO37oMvDc
 tags: ["Security & Privacy", "AI Models", "Agentic AI", "Future of Work", "Multi-Agent Systems", "Security"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: DN96gLScLgI
 url: https://www.youtube.com/watch?v=DN96gLScLgI
 youtube_url: https://www.youtube.com/watch?v=DN96gLScLgI
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

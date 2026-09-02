@@ -15,6 +15,7 @@ video_id: i1uPAN6uW4s
 url: https://www.youtube.com/watch?v=i1uPAN6uW4s
 youtube_url: https://www.youtube.com/watch?v=i1uPAN6uW4s
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

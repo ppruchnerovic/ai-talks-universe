@@ -15,6 +15,7 @@ video_id: 3SKFDlKVHKM
 url: https://www.youtube.com/watch?v=3SKFDlKVHKM
 youtube_url: https://www.youtube.com/watch?v=3SKFDlKVHKM
 tags: ["English (US)", "Sarah Bird", "Seth Juarez", "Studio", "Studio23", "Trustworthy AI using Azure AI | Studio23", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

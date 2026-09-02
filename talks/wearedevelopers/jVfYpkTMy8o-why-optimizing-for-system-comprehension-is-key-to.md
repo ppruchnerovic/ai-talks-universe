@@ -15,6 +15,7 @@ video_id: jVfYpkTMy8o
 url: https://www.youtube.com/watch?v=jVfYpkTMy8o
 youtube_url: https://www.youtube.com/watch?v=jVfYpkTMy8o
 tags: ["Software Architecture", "AI Models", "Data", "Developer Experience (DevEx)"]
+topics: []
 transcript: true
 ---
 

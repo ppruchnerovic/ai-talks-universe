@@ -15,6 +15,7 @@ video_id: qoal4Camxa8
 url: https://www.youtube.com/watch?v=qoal4Camxa8
 youtube_url: https://www.youtube.com/watch?v=qoal4Camxa8
 tags: ["Security & Privacy", "AI Standards", "Security", "Software Architecture"]
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

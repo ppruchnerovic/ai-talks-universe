@@ -15,6 +15,7 @@ video_id: n-38S-opN20
 url: https://www.youtube.com/watch?v=n-38S-opN20
 youtube_url: https://www.youtube.com/watch?v=n-38S-opN20
 tags: ["Security & Privacy", "Infosec", "Large Language Models (LLMs)", "Security"]
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: B2tYHneKpi8
 url: https://www.youtube.com/watch?v=B2tYHneKpi8
 youtube_url: https://www.youtube.com/watch?v=B2tYHneKpi8
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

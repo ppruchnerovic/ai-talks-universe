@@ -15,6 +15,7 @@ video_id: W5k-Rbou4t4
 url: https://www.youtube.com/watch?v=W5k-Rbou4t4
 youtube_url: https://www.youtube.com/watch?v=W5k-Rbou4t4
 tags: ["AI Engineering", "Agentic AI", "Retrieval-Augmented Generation (RAG)"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

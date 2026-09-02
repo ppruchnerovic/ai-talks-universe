@@ -15,6 +15,7 @@ video_id: g2RjFw4C2oE
 url: https://www.youtube.com/watch?v=g2RjFw4C2oE
 youtube_url: https://www.youtube.com/watch?v=g2RjFw4C2oE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "generative AI", "scam baiting", "developers", "creative technology", "real-time voice AI", "LLMs", "GPT", "character design", "voice cloning", "ethical AI", "scam prevention", "O2", "VCCP", "Faith AI", "podcast for developers", "scam detection", "creative coding", "tech for good", "audio AI"]
+topics: ["Governance, ethics & regulation", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: P03FcpYo-cs
 url: https://www.youtube.com/watch?v=P03FcpYo-cs
 youtube_url: https://www.youtube.com/watch?v=P03FcpYo-cs
 tags: ["Languages & Runtimes", "Best Practices", "Compilers", "Go"]
+topics: []
 transcript: true
 ---
 

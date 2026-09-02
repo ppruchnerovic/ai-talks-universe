@@ -15,6 +15,7 @@ video_id: GmAQKINjv1E
 url: https://www.youtube.com/watch?v=GmAQKINjv1E
 youtube_url: https://www.youtube.com/watch?v=GmAQKINjv1E
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

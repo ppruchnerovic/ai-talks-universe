@@ -15,6 +15,7 @@ video_id: u7k1l_qkQH8
 url: https://www.youtube.com/watch?v=u7k1l_qkQH8
 youtube_url: https://www.youtube.com/watch?v=u7k1l_qkQH8
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOOT Book Club", "Jim Ledin", "Modern Computer Architecture", "Computer Architecture", "Computer Organization", "Hardware", "Hardware Foundations", "GPU", "Microchips", "AI Datacenters"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

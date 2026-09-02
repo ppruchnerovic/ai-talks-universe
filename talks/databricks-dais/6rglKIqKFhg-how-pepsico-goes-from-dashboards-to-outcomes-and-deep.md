@@ -15,6 +15,7 @@ video_id: 6rglKIqKFhg
 url: https://www.youtube.com/watch?v=6rglKIqKFhg
 youtube_url: https://www.youtube.com/watch?v=6rglKIqKFhg
 tags: ["Databricks"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

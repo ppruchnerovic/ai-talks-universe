@@ -15,6 +15,7 @@ video_id: zRO5mX-dFRw
 url: https://www.youtube.com/watch?v=zRO5mX-dFRw
 youtube_url: https://www.youtube.com/watch?v=zRO5mX-dFRw
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

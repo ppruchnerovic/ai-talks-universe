@@ -15,6 +15,7 @@ video_id: bcgfs78Gv-0
 url: https://www.youtube.com/watch?v=bcgfs78Gv-0
 youtube_url: https://www.youtube.com/watch?v=bcgfs78Gv-0
 tags: []
+topics: []
 transcript: false
 ---
 

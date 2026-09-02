@@ -15,6 +15,7 @@ video_id: _3YWkkEnKoU
 url: https://www.youtube.com/watch?v=_3YWkkEnKoU
 youtube_url: https://www.youtube.com/watch?v=_3YWkkEnKoU
 tags: ["AI Agents", "AI Coding Assistants", "DevOps"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

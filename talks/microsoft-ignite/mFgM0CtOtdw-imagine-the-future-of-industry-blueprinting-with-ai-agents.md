@@ -15,6 +15,7 @@ video_id: mFgM0CtOtdw
 url: https://www.youtube.com/watch?v=mFgM0CtOtdw
 youtube_url: https://www.youtube.com/watch?v=mFgM0CtOtdw
 tags: ["English (US)", "Imagine the future of industry blueprinting with AI agents | STUDIOSP87", "Innovate with Azure AI apps and agents", "STUDIOSP87", "STUDIOSP87_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

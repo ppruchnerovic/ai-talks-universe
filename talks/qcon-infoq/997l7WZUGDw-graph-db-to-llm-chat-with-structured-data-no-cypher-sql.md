@@ -15,6 +15,7 @@ video_id: 997l7WZUGDw
 url: https://www.youtube.com/watch?v=997l7WZUGDw
 youtube_url: https://www.youtube.com/watch?v=997l7WZUGDw
 tags: ["InfoQ Dev Summit", "QCon", "Knowlegde Graph", "Graph Database", "GenAI", "LLMs", "Large Language Models", "NoSQL", "Database", "InfoQ", "Transcript", "Software Architecture", "Generative AI", "Neo4J"]
+topics: ["Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

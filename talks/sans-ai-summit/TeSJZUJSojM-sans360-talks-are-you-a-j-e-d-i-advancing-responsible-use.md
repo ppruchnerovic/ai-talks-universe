@@ -15,6 +15,7 @@ video_id: TeSJZUJSojM
 url: https://www.youtube.com/watch?v=TeSJZUJSojM
 youtube_url: https://www.youtube.com/watch?v=TeSJZUJSojM
 tags: []
+topics: []
 transcript: false
 ---
 

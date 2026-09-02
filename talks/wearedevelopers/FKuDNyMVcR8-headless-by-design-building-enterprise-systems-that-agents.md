@@ -15,6 +15,7 @@ video_id: FKuDNyMVcR8
 url: https://www.youtube.com/watch?v=FKuDNyMVcR8
 youtube_url: https://www.youtube.com/watch?v=FKuDNyMVcR8
 tags: ["Software Architecture", "AI Models", "Agents", "Agentic AI", "Developer Experience (DevEx)", "DevSecOps", "Digital Transformation", "Infrastructure", "Slack", "Vibe Coding"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

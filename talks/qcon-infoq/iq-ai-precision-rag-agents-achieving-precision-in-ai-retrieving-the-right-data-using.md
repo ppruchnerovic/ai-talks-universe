@@ -15,6 +15,7 @@ video_id: iq-ai-precision-rag-agents
 url: https://www.infoq.com/presentations/ai-precision-rag-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: aSva_3CCGTU
 url: https://www.youtube.com/watch?v=aSva_3CCGTU
 youtube_url: https://www.youtube.com/watch?v=aSva_3CCGTU
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

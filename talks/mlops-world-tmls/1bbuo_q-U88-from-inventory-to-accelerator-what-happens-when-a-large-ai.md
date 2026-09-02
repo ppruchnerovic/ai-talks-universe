@@ -15,6 +15,7 @@ video_id: 1bbuo_q-U88
 url: https://www.youtube.com/watch?v=1bbuo_q-U88
 youtube_url: https://www.youtube.com/watch?v=1bbuo_q-U88
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

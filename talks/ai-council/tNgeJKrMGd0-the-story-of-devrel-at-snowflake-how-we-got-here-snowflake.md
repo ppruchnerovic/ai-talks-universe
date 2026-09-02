@@ -15,6 +15,7 @@ video_id: tNgeJKrMGd0
 url: https://www.youtube.com/watch?v=tNgeJKrMGd0
 youtube_url: https://www.youtube.com/watch?v=tNgeJKrMGd0
 tags: ["Developer Relations", "snowflake", "DevRel"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

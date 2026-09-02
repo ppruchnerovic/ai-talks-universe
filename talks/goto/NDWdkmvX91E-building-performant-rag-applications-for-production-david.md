@@ -15,6 +15,7 @@ video_id: NDWdkmvX91E
 url: https://www.youtube.com/watch?v=NDWdkmvX91E
 youtube_url: https://www.youtube.com/watch?v=NDWdkmvX91E
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

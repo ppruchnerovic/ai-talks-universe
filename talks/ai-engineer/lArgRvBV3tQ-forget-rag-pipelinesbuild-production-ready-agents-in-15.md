@@ -15,6 +15,7 @@ video_id: lArgRvBV3tQ
 url: https://www.youtube.com/watch?v=lArgRvBV3tQ
 youtube_url: https://www.youtube.com/watch?v=lArgRvBV3tQ
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

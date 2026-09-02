@@ -15,6 +15,7 @@ video_id: n2GO1EN5If8
 url: https://www.youtube.com/watch?v=n2GO1EN5If8
 youtube_url: https://www.youtube.com/watch?v=n2GO1EN5If8
 tags: ["dataops", "dashboards", "analytics"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

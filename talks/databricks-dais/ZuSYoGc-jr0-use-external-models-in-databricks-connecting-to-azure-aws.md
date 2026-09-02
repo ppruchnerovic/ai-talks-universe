@@ -15,6 +15,7 @@ video_id: ZuSYoGc-jr0
 url: https://www.youtube.com/watch?v=ZuSYoGc-jr0
 youtube_url: https://www.youtube.com/watch?v=ZuSYoGc-jr0
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: vd6Hfb9WW_o
 url: https://www.youtube.com/watch?v=vd6Hfb9WW_o
 youtube_url: https://www.youtube.com/watch?v=vd6Hfb9WW_o
 tags: ["Data & Databases", "AI Coding Assistants", "Databases"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Data engineering & MLOps"]
 transcript: true
 ---
 

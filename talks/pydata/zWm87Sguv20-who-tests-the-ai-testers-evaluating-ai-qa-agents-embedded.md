@@ -15,6 +15,7 @@ video_id: zWm87Sguv20
 url: https://www.youtube.com/watch?v=zWm87Sguv20
 youtube_url: https://www.youtube.com/watch?v=zWm87Sguv20
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

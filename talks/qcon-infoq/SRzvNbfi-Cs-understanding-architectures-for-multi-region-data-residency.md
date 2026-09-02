@@ -15,6 +15,7 @@ video_id: SRzvNbfi-Cs
 url: https://www.youtube.com/watch?v=SRzvNbfi-Cs
 youtube_url: https://www.youtube.com/watch?v=SRzvNbfi-Cs
 tags: ["Software Architecture", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Storage", "Data", "InfoQ", "QCon San Francisco", "Transcript"]
+topics: []
 transcript: false
 ---
 

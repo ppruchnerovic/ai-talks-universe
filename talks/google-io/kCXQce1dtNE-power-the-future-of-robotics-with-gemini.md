@@ -15,6 +15,7 @@ video_id: kCXQce1dtNE
 url: https://www.youtube.com/watch?v=kCXQce1dtNE
 youtube_url: https://www.youtube.com/watch?v=kCXQce1dtNE
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - AI;"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

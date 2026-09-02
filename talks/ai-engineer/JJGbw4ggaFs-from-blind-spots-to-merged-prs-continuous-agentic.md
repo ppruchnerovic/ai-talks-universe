@@ -15,6 +15,7 @@ video_id: JJGbw4ggaFs
 url: https://www.youtube.com/watch?v=JJGbw4ggaFs
 youtube_url: https://www.youtube.com/watch?v=JJGbw4ggaFs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

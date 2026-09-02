@@ -15,6 +15,7 @@ video_id: ERJkorlDymY
 url: https://www.youtube.com/watch?v=ERJkorlDymY
 youtube_url: https://www.youtube.com/watch?v=ERJkorlDymY
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

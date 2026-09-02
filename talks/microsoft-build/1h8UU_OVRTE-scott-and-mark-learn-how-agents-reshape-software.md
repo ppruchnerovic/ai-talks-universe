@@ -15,6 +15,7 @@ video_id: 1h8UU_OVRTE
 url: https://www.youtube.com/watch?v=1h8UU_OVRTE
 youtube_url: https://www.youtube.com/watch?v=1h8UU_OVRTE
 tags: ["Agentic SDLC", "Agents", "BRK247", "BRK247_v1", "Dev Tools", "Developer", "Mark Russinovich", "Scott Hanselman", "Scott and Mark learn...how agents reshape software engineering | BRK247", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

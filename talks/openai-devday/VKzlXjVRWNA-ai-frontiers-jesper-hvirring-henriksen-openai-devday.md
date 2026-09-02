@@ -15,6 +15,7 @@ video_id: VKzlXjVRWNA
 url: https://www.youtube.com/watch?v=VKzlXjVRWNA
 youtube_url: https://www.youtube.com/watch?v=VKzlXjVRWNA
 tags: []
+topics: []
 transcript: false
 ---
 

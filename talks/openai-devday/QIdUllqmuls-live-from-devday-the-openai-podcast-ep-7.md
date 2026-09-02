@@ -15,6 +15,7 @@ video_id: QIdUllqmuls
 url: https://www.youtube.com/watch?v=QIdUllqmuls
 youtube_url: https://www.youtube.com/watch?v=QIdUllqmuls
 tags: []
+topics: []
 transcript: false
 ---
 

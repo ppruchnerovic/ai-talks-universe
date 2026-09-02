@@ -15,6 +15,7 @@ video_id: iq-ai-gateway-scalability
 url: https://www.infoq.com/presentations/ai-gateway-scalability/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

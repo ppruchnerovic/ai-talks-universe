@@ -15,6 +15,7 @@ video_id: Ld4fW-DVrLI
 url: https://www.youtube.com/watch?v=Ld4fW-DVrLI
 youtube_url: https://www.youtube.com/watch?v=Ld4fW-DVrLI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

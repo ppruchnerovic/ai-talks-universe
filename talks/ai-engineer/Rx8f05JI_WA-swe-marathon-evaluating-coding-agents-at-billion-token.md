@@ -15,6 +15,7 @@ video_id: Rx8f05JI_WA
 url: https://www.youtube.com/watch?v=Rx8f05JI_WA
 youtube_url: https://www.youtube.com/watch?v=Rx8f05JI_WA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

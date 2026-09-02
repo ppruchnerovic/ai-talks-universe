@@ -15,6 +15,7 @@ video_id: nO1xx169WF4
 url: https://www.youtube.com/watch?v=nO1xx169WF4
 youtube_url: https://www.youtube.com/watch?v=nO1xx169WF4
 tags: ["ad tech", "data engineering", "infrastructure", "real-time platform"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

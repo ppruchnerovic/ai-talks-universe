@@ -15,6 +15,7 @@ video_id: 31GUkCBD-Uc
 url: https://www.youtube.com/watch?v=31GUkCBD-Uc
 youtube_url: https://www.youtube.com/watch?v=31GUkCBD-Uc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: true
 ---
 

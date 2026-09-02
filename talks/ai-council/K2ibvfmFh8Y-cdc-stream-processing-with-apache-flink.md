@@ -15,6 +15,7 @@ video_id: K2ibvfmFh8Y
 url: https://www.youtube.com/watch?v=K2ibvfmFh8Y
 youtube_url: https://www.youtube.com/watch?v=K2ibvfmFh8Y
 tags: ["Apache Kafka", "SQL", "data streaming", "cdc"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

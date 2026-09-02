@@ -15,6 +15,7 @@ video_id: qv1771pMwSQ
 url: https://www.youtube.com/watch?v=qv1771pMwSQ
 youtube_url: https://www.youtube.com/watch?v=qv1771pMwSQ
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-disaggregation-industrial-systems
 url: https://www.infoq.com/presentations/disaggregation-industrial-systems/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

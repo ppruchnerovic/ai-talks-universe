@@ -15,6 +15,7 @@ video_id: uQEvIZKUyCc
 url: https://www.youtube.com/watch?v=uQEvIZKUyCc
 youtube_url: https://www.youtube.com/watch?v=uQEvIZKUyCc
 tags: ["4ce5f64d-3565-4d14-8010-32ad80dc7524_M9Z7-DEM340-1", "Agent 365", "Build work-ready agents with Foundry + Work IQ govern with Agent 365 | DEM340", "Context Engineer", "DEM340", "Foundry IQ", "Governance", "Grounding", "Microsoft Foundry", "Responsible AI", "Srikumar Nair", "Work IQ", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

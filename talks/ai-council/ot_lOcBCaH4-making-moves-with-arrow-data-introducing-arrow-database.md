@@ -15,6 +15,7 @@ video_id: ot_lOcBCaH4
 url: https://www.youtube.com/watch?v=ot_lOcBCaH4
 youtube_url: https://www.youtube.com/watch?v=ot_lOcBCaH4
 tags: ["apache arrow", "data API", "SQL", "data engineering", "infrastructure"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

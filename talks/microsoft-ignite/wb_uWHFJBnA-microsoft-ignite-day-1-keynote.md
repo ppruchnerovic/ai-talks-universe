@@ -15,6 +15,7 @@ video_id: wb_uWHFJBnA
 url: https://www.youtube.com/watch?v=wb_uWHFJBnA
 youtube_url: https://www.youtube.com/watch?v=wb_uWHFJBnA
 tags: ["Microsoft", "Microsoft Ignite", "#MSIgnite", "AI"]
+topics: []
 transcript: false
 ---
 

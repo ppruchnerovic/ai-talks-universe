@@ -15,6 +15,7 @@ video_id: 82g667Cw_Pw
 url: https://www.youtube.com/watch?v=82g667Cw_Pw
 youtube_url: https://www.youtube.com/watch?v=82g667Cw_Pw
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

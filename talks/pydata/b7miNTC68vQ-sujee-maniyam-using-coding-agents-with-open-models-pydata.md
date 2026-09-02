@@ -15,6 +15,7 @@ video_id: b7miNTC68vQ
 url: https://www.youtube.com/watch?v=b7miNTC68vQ
 youtube_url: https://www.youtube.com/watch?v=b7miNTC68vQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

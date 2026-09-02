@@ -15,6 +15,7 @@ video_id: NCwhMeAERMY
 url: https://www.youtube.com/watch?v=NCwhMeAERMY
 youtube_url: https://www.youtube.com/watch?v=NCwhMeAERMY
 tags: []
+topics: []
 transcript: true
 ---
 

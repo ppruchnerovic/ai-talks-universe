@@ -15,6 +15,7 @@ video_id: 1eNznlNuJBQ
 url: https://www.youtube.com/watch?v=1eNznlNuJBQ
 youtube_url: https://www.youtube.com/watch?v=1eNznlNuJBQ
 tags: ["Languages & Runtimes", "C++", "Java", "JVM"]
+topics: []
 transcript: true
 ---
 

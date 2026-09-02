@@ -15,6 +15,7 @@ video_id: hjsO72uf6bE
 url: https://www.youtube.com/watch?v=hjsO72uf6bE
 youtube_url: https://www.youtube.com/watch?v=hjsO72uf6bE
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-chop-rag-llm-qcon
 url: https://www.infoq.com/presentations/chop-rag-llm-qcon/
 youtube_url: null
 tags: []
+topics: ["Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

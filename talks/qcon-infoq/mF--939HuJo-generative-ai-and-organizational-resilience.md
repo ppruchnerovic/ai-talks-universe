@@ -15,6 +15,7 @@ video_id: mF--939HuJo
 url: https://www.youtube.com/watch?v=mF--939HuJo
 youtube_url: https://www.youtube.com/watch?v=mF--939HuJo
 tags: ["Generative AI", "GenAI", "Agile", "Artificial Intelligence", "AI", "Resilience", "Organization", "Software Architecture", "InfoQ", "QCon San Francisco", "Transcript"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

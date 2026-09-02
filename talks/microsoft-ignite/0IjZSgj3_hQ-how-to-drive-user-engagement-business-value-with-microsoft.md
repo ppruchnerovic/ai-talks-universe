@@ -15,6 +15,7 @@ video_id: 0IjZSgj3_hQ
 url: https://www.youtube.com/watch?v=0IjZSgj3_hQ
 youtube_url: https://www.youtube.com/watch?v=0IjZSgj3_hQ
 tags: ["AI", "Adoption", "Alyson Ginesta", "BRK277", "Breakout", "Copilot for M365", "Cynthia Johnson", "English (US)", "How to drive user engagement & business value with Microsoft 365 Copilot | BRK277", "Intermediate (200)", "Jesus Barrera Ramos", "Martina Grom", "Microsoft 365", "Modern Work", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

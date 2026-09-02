@@ -15,6 +15,7 @@ video_id: r305-aQTaU0
 url: https://www.youtube.com/watch?v=r305-aQTaU0
 youtube_url: https://www.youtube.com/watch?v=r305-aQTaU0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

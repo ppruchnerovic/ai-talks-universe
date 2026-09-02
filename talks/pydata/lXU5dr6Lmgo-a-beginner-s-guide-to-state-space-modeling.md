@@ -15,6 +15,7 @@ video_id: lXU5dr6Lmgo
 url: https://www.youtube.com/watch?v=lXU5dr6Lmgo
 youtube_url: https://www.youtube.com/watch?v=lXU5dr6Lmgo
 tags: ["ARIMA", "Bayesian statistics", "Conference", "JAX", "Kalman filter", "PyConDE", "PyData", "PyData Berlin", "PyMC", "Python", "Tech Talk", "forecasting", "hierarchical models", "machine learning", "probabilistic programming", "state space models", "statistical modeling", "time series analysis", "tutorial"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

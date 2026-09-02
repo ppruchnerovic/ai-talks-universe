@@ -15,6 +15,7 @@ video_id: mxjiSCnrb3c
 url: https://www.youtube.com/watch?v=mxjiSCnrb3c
 youtube_url: https://www.youtube.com/watch?v=mxjiSCnrb3c
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

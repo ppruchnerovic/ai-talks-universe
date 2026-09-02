@@ -15,6 +15,7 @@ video_id: Qvp9vw4jJQ8
 url: https://www.youtube.com/watch?v=Qvp9vw4jJQ8
 youtube_url: https://www.youtube.com/watch?v=Qvp9vw4jJQ8
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

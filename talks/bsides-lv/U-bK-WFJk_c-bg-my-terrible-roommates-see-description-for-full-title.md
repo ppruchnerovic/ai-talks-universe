@@ -15,6 +15,7 @@ video_id: U-bK-WFJk_c
 url: https://www.youtube.com/watch?v=U-bK-WFJk_c
 youtube_url: https://www.youtube.com/watch?v=U-bK-WFJk_c
 tags: ["RV7BRK"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: strioMkVv_Q
 url: https://www.youtube.com/watch?v=strioMkVv_Q
 youtube_url: https://www.youtube.com/watch?v=strioMkVv_Q
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

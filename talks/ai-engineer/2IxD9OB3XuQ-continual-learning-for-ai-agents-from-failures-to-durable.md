@@ -15,6 +15,7 @@ video_id: 2IxD9OB3XuQ
 url: https://www.youtube.com/watch?v=2IxD9OB3XuQ
 youtube_url: https://www.youtube.com/watch?v=2IxD9OB3XuQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

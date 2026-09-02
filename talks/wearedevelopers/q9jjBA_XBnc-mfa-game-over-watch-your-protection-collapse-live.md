@@ -15,6 +15,7 @@ video_id: q9jjBA_XBnc
 url: https://www.youtube.com/watch?v=q9jjBA_XBnc
 youtube_url: https://www.youtube.com/watch?v=q9jjBA_XBnc
 tags: ["Security & Privacy", "Authentication", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Mg08QTBILWU
 url: https://www.youtube.com/watch?v=Mg08QTBILWU
 youtube_url: https://www.youtube.com/watch?v=Mg08QTBILWU
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

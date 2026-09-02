@@ -15,6 +15,7 @@ video_id: RuSsLVV2w4s
 url: https://www.youtube.com/watch?v=RuSsLVV2w4s
 youtube_url: https://www.youtube.com/watch?v=RuSsLVV2w4s
 tags: ["AI", "DevRel", "Software Architecture", "Cloud Computing", "DevOps", "Developer Tools", "Developer News", "Tech Careers", "Job Market", "Coding Tutorials", "Web Development", "Mobile Development", "Data Science", "Machine Learning", "Cybersecurity", "IoT", "Blockchain", "AR/VR", "UI/UX Design", "Agile Methodologies", "Tech Conferences", "Tech Interviews", "Career Advice", "Developer Jobs", "Git", "Microsoft", "Monorepo", "Repository Management", "Remote Work", "Software Development", "Coding", "GitHub", "Case Study"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

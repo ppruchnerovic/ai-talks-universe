@@ -15,6 +15,7 @@ video_id: JA1rrdMLmew
 url: https://www.youtube.com/watch?v=JA1rrdMLmew
 youtube_url: https://www.youtube.com/watch?v=JA1rrdMLmew
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

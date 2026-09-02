@@ -15,6 +15,7 @@ video_id: yudsZy37qFI
 url: https://www.youtube.com/watch?v=yudsZy37qFI
 youtube_url: https://www.youtube.com/watch?v=yudsZy37qFI
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

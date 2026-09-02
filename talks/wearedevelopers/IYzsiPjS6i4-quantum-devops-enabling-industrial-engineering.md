@@ -15,6 +15,7 @@ video_id: IYzsiPjS6i4
 url: https://www.youtube.com/watch?v=IYzsiPjS6i4
 youtube_url: https://www.youtube.com/watch?v=IYzsiPjS6i4
 tags: ["Emerging Technologies", "DevOps", "Integration", "NVIDIA", "Quantum", "Systems Programming"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

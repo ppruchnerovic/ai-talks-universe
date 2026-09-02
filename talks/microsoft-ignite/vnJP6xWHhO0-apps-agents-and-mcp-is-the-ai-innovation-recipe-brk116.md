@@ -15,6 +15,7 @@ video_id: vnJP6xWHhO0
 url: https://www.youtube.com/watch?v=vnJP6xWHhO0
 youtube_url: https://www.youtube.com/watch?v=vnJP6xWHhO0
 tags: ["Apps agents and MCP is the AI innovation recipe | BRK116", "BRK116", "Devanshi Joshi", "English (US)", "Innovate with Azure AI apps and agents", "Jordan Selig", "Jun Yoshida", "Nir Mashkowski", "Technical", "f3419a72-5c04-4622-bdd9-b4d43f865d1f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

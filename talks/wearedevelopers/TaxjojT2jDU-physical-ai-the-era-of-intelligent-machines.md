@@ -15,6 +15,7 @@ video_id: TaxjojT2jDU
 url: https://www.youtube.com/watch?v=TaxjojT2jDU
 youtube_url: https://www.youtube.com/watch?v=TaxjojT2jDU
 tags: ["Emerging Technologies"]
+topics: []
 transcript: true
 ---
 

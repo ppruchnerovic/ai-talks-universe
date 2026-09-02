@@ -15,6 +15,7 @@ video_id: iq-migration-micro-frontend
 url: https://www.infoq.com/presentations/migration-micro-frontend/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

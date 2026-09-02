@@ -15,6 +15,7 @@ video_id: eKufcHpo2ro
 url: https://www.youtube.com/watch?v=eKufcHpo2ro
 youtube_url: https://www.youtube.com/watch?v=eKufcHpo2ro
 tags: ["AI", "Azure Databricks", "BRK203", "Breakout", "BusinessIntelligence", "Data", "Data-Curated", "DataAnalytics", "English (US)", "Intermediate (200)", "Lakehouse", "Lindsey Allen", "Microsoft Fabric", "PowerBI", "Supercharge your lakehouse with Azure Databricks and Microsoft Fabric | BRK203", "Technical", "UnityCatalog", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

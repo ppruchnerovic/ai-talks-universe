@@ -15,6 +15,7 @@ video_id: HXOLm51b82M
 url: https://www.youtube.com/watch?v=HXOLm51b82M
 youtube_url: https://www.youtube.com/watch?v=HXOLm51b82M
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

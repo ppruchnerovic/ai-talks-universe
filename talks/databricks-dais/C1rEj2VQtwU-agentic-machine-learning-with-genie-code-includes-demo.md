@@ -15,6 +15,7 @@ video_id: C1rEj2VQtwU
 url: https://www.youtube.com/watch?v=C1rEj2VQtwU
 youtube_url: https://www.youtube.com/watch?v=C1rEj2VQtwU
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

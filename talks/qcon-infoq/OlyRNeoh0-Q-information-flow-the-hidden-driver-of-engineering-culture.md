@@ -15,6 +15,7 @@ video_id: OlyRNeoh0-Q
 url: https://www.youtube.com/watch?v=OlyRNeoh0-Q
 youtube_url: https://www.youtube.com/watch?v=OlyRNeoh0-Q
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: kWqi4mY3YfU
 url: https://www.youtube.com/watch?v=kWqi4mY3YfU
 youtube_url: https://www.youtube.com/watch?v=kWqi4mY3YfU
 tags: ["Emerging Technologies", "AWS", "IBM", "Quantum"]
+topics: []
 transcript: true
 ---
 

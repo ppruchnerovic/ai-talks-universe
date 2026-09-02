@@ -15,6 +15,7 @@ video_id: ObNKGf9YR0g
 url: https://www.youtube.com/watch?v=ObNKGf9YR0g
 youtube_url: https://www.youtube.com/watch?v=ObNKGf9YR0g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

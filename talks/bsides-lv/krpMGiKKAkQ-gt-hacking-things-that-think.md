@@ -15,6 +15,7 @@ video_id: krpMGiKKAkQ
 url: https://www.youtube.com/watch?v=krpMGiKKAkQ
 youtube_url: https://www.youtube.com/watch?v=krpMGiKKAkQ
 tags: ["WRFBJB"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

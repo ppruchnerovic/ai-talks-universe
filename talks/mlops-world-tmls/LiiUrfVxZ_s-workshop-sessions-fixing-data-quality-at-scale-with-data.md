@@ -15,6 +15,7 @@ video_id: LiiUrfVxZ_s
 url: https://www.youtube.com/watch?v=LiiUrfVxZ_s
 youtube_url: https://www.youtube.com/watch?v=LiiUrfVxZ_s
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Fixing Data Quality at Scale with Data Observability", "Fixing Data Quality at Scale with Data Observability"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

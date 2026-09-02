@@ -15,6 +15,7 @@ video_id: fpznckPz-1o
 url: https://www.youtube.com/watch?v=fpznckPz-1o
 youtube_url: https://www.youtube.com/watch?v=fpznckPz-1o
 tags: ["AI", "Adoption", "BRK163", "Breakout", "Business Applications", "Business Applications-Curated", "Copilot", "Dan Grapengiesser", "Dynamics 365", "Dynamics 365 Sales: Latest features and customer success | BRK163", "English (US)", "James Nakashima", "Jayme Mesecher", "Kareem Amin", "Keith Mescha", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: cRAB2kkvh-4
 url: https://www.youtube.com/watch?v=cRAB2kkvh-4
 youtube_url: https://www.youtube.com/watch?v=cRAB2kkvh-4
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: q-ntX4DLW_c
 url: https://www.youtube.com/watch?v=q-ntX4DLW_c
 youtube_url: https://www.youtube.com/watch?v=q-ntX4DLW_c
 tags: ["AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

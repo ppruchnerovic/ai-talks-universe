@@ -15,6 +15,7 @@ video_id: eLQAJqydXqY
 url: https://www.youtube.com/watch?v=eLQAJqydXqY
 youtube_url: https://www.youtube.com/watch?v=eLQAJqydXqY
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

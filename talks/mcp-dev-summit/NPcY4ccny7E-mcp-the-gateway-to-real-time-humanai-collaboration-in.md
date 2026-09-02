@@ -15,6 +15,7 @@ video_id: NPcY4ccny7E
 url: https://www.youtube.com/watch?v=NPcY4ccny7E
 youtube_url: https://www.youtube.com/watch?v=NPcY4ccny7E
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

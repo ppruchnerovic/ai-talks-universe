@@ -15,6 +15,7 @@ video_id: iq-holistic-engineering
 url: https://www.infoq.com/presentations/holistic-engineering/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

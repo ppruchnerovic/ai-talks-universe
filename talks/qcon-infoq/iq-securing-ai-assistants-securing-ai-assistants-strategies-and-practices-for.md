@@ -15,6 +15,7 @@ video_id: iq-securing-ai-assistants
 url: https://www.infoq.com/presentations/securing-ai-assistants/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: IaqOY9Udvug
 url: https://www.youtube.com/watch?v=IaqOY9Udvug
 youtube_url: https://www.youtube.com/watch?v=IaqOY9Udvug
 tags: ["AI", "LLM", "Data", "API", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Chris Auld"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

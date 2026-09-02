@@ -15,6 +15,7 @@ video_id: IGo225tfF2I
 url: https://www.youtube.com/watch?v=IGo225tfF2I
 youtube_url: https://www.youtube.com/watch?v=IGo225tfF2I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

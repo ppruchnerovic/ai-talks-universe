@@ -15,6 +15,7 @@ video_id: m5yMJZX_cFs
 url: https://www.youtube.com/watch?v=m5yMJZX_cFs
 youtube_url: https://www.youtube.com/watch?v=m5yMJZX_cFs
 tags: ["Enterprise MCP", "MCP adoption", "MCP"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

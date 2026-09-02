@@ -15,6 +15,7 @@ video_id: Yphdry8ttAQ
 url: https://www.youtube.com/watch?v=Yphdry8ttAQ
 youtube_url: https://www.youtube.com/watch?v=Yphdry8ttAQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

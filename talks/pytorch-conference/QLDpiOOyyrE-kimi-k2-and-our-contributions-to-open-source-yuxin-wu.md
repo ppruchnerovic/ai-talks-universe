@@ -15,6 +15,7 @@ video_id: QLDpiOOyyrE
 url: https://www.youtube.com/watch?v=QLDpiOOyyrE
 youtube_url: https://www.youtube.com/watch?v=QLDpiOOyyrE
 tags: []
+topics: []
 transcript: false
 ---
 

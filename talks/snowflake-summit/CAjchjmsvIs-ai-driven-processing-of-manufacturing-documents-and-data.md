@@ -15,6 +15,7 @@ video_id: CAjchjmsvIs
 url: https://www.youtube.com/watch?v=CAjchjmsvIs
 youtube_url: https://www.youtube.com/watch?v=CAjchjmsvIs
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

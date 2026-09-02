@@ -15,6 +15,7 @@ video_id: Uob57jY6qX4
 url: https://www.youtube.com/watch?v=Uob57jY6qX4
 youtube_url: https://www.youtube.com/watch?v=Uob57jY6qX4
 tags: ["AI", "Artificial Intelligence", "Generative AI", "Data Engineering", "Cyber Security", "RAG", "LLM", "Data Protection", "MLOps"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

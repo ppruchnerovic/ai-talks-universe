@@ -15,6 +15,7 @@ video_id: -6SNbcE3C9o
 url: https://www.youtube.com/watch?v=-6SNbcE3C9o
 youtube_url: https://www.youtube.com/watch?v=-6SNbcE3C9o
 tags: ["AI DevCon", "AI DevCon London 2026", "N+1 queries", "ainativedev", "benefits of actionable reports", "coding agents", "database indexes", "fixing N+1 queries", "performance optimization", "runtime intelligence", "sprint planning", "vendor neutral"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: p1CmPZ2j6Lk
 url: https://www.youtube.com/watch?v=p1CmPZ2j6Lk
 youtube_url: https://www.youtube.com/watch?v=p1CmPZ2j6Lk
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

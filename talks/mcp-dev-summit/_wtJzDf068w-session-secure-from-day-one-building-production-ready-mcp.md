@@ -15,6 +15,7 @@ video_id: _wtJzDf068w
 url: https://www.youtube.com/watch?v=_wtJzDf068w
 youtube_url: https://www.youtube.com/watch?v=_wtJzDf068w
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

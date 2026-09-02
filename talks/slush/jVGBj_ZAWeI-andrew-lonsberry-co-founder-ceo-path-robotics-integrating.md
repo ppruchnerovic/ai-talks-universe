@@ -15,6 +15,7 @@ video_id: jVGBj_ZAWeI
 url: https://www.youtube.com/watch?v=jVGBj_ZAWeI
 youtube_url: https://www.youtube.com/watch?v=jVGBj_ZAWeI
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

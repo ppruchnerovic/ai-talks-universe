@@ -15,6 +15,7 @@ video_id: iq-efficiency-paradox
 url: https://www.infoq.com/presentations/efficiency-paradox/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

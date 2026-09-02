@@ -15,6 +15,7 @@ video_id: AAm9mhhrNec
 url: https://www.youtube.com/watch?v=AAm9mhhrNec
 youtube_url: https://www.youtube.com/watch?v=AAm9mhhrNec
 tags: ["461b8b54-3434-4287-ab4c-ce91f162332b_Segment", "Ashokkan Somuveerappan", "BRK226", "Bharathi Rajan", "English (US)", "Fred Bellio", "Technical", "Tessa Kloster", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "Unlock the power of Real-Time Intelligence in the era of AI | BRK226", "Will Thompson", "Yitzhak Kesselman", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

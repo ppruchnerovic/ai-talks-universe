@@ -15,6 +15,7 @@ video_id: Dbr8jmtfZ7Q
 url: https://www.youtube.com/watch?v=Dbr8jmtfZ7Q
 youtube_url: https://www.youtube.com/watch?v=Dbr8jmtfZ7Q
 tags: ["metric trees", "analytics", "data analysis"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

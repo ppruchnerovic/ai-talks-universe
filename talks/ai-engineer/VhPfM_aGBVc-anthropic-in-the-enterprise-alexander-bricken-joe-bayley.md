@@ -15,6 +15,7 @@ video_id: VhPfM_aGBVc
 url: https://www.youtube.com/watch?v=VhPfM_aGBVc
 youtube_url: https://www.youtube.com/watch?v=VhPfM_aGBVc
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

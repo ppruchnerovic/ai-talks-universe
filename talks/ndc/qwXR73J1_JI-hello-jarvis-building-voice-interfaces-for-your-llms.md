@@ -15,6 +15,7 @@ video_id: qwXR73J1_JI
 url: https://www.youtube.com/watch?v=qwXR73J1_JI
 youtube_url: https://www.youtube.com/watch?v=qwXR73J1_JI
 tags: ["AI", "UI", "UX", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "Great Britain", "United Kingdom", "Nathaniel Okenwa"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

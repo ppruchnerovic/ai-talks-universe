@@ -15,6 +15,7 @@ video_id: qW02tbK9t0A
 url: https://www.youtube.com/watch?v=qW02tbK9t0A
 youtube_url: https://www.youtube.com/watch?v=qW02tbK9t0A
 tags: []
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

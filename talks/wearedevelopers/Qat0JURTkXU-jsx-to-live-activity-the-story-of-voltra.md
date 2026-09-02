@@ -15,6 +15,7 @@ video_id: Qat0JURTkXU
 url: https://www.youtube.com/watch?v=Qat0JURTkXU
 youtube_url: https://www.youtube.com/watch?v=Qat0JURTkXU
 tags: ["Frontend, Web & Mobile", "Cross-Platform", "iOS", "React Native"]
+topics: []
 transcript: true
 ---
 

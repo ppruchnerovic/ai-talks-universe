@@ -15,6 +15,7 @@ video_id: fWY1FQwpWkY
 url: https://www.youtube.com/watch?v=fWY1FQwpWkY
 youtube_url: https://www.youtube.com/watch?v=fWY1FQwpWkY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

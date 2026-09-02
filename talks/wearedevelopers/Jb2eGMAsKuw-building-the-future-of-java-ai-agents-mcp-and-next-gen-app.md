@@ -15,6 +15,7 @@ video_id: Jb2eGMAsKuw
 url: https://www.youtube.com/watch?v=Jb2eGMAsKuw
 youtube_url: https://www.youtube.com/watch?v=Jb2eGMAsKuw
 tags: ["AI Agents", "AI Coding Assistants", "Java", "LangChain", "Large Language Models (LLMs)", "Quarkus"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: ACxHFY_zUb8
 url: https://www.youtube.com/watch?v=ACxHFY_zUb8
 youtube_url: https://www.youtube.com/watch?v=ACxHFY_zUb8
 tags: []
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

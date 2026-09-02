@@ -15,6 +15,7 @@ video_id: iq-cultural-alignment
 url: https://www.infoq.com/presentations/cultural-alignment/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

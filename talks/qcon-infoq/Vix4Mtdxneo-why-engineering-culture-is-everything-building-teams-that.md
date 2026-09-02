@@ -15,6 +15,7 @@ video_id: Vix4Mtdxneo
 url: https://www.youtube.com/watch?v=Vix4Mtdxneo
 youtube_url: https://www.youtube.com/watch?v=Vix4Mtdxneo
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

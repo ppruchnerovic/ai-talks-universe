@@ -15,6 +15,7 @@ video_id: TQWWkaSEmVo
 url: https://www.youtube.com/watch?v=TQWWkaSEmVo
 youtube_url: https://www.youtube.com/watch?v=TQWWkaSEmVo
 tags: []
+topics: []
 transcript: false
 ---
 

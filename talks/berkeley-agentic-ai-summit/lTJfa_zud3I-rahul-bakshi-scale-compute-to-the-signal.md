@@ -15,6 +15,7 @@ video_id: lTJfa_zud3I
 url: https://www.youtube.com/watch?v=lTJfa_zud3I
 youtube_url: https://www.youtube.com/watch?v=lTJfa_zud3I
 tags: []
+topics: []
 transcript: true
 ---
 

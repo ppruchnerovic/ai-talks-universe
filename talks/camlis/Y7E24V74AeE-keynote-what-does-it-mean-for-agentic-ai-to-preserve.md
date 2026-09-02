@@ -15,6 +15,7 @@ video_id: Y7E24V74AeE
 url: https://www.youtube.com/watch?v=Y7E24V74AeE
 youtube_url: https://www.youtube.com/watch?v=Y7E24V74AeE
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

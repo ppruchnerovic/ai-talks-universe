@@ -15,6 +15,7 @@ video_id: UKJE1eJYtkA
 url: https://www.youtube.com/watch?v=UKJE1eJYtkA
 youtube_url: https://www.youtube.com/watch?v=UKJE1eJYtkA
 tags: ["860ad794-701e-4c5f-b0f1-5cbf7570f128_Segment", "BRK228", "English (US)", "Jai Maldonado", "Mark Brown", "Real-time analytics and AI apps with Cosmos DB in Fabric | BRK228", "Technical", "Unify your data platform", "Unify your data platform:Azure CosmosDB", "Unify your data platform:Microsoft Fabric", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

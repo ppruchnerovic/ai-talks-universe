@@ -15,6 +15,7 @@ video_id: ROFC-dQ421A
 url: https://www.youtube.com/watch?v=ROFC-dQ421A
 youtube_url: https://www.youtube.com/watch?v=ROFC-dQ421A
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

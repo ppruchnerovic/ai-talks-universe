@@ -15,6 +15,7 @@ video_id: GQHwVhbVZz8
 url: https://www.youtube.com/watch?v=GQHwVhbVZz8
 youtube_url: https://www.youtube.com/watch?v=GQHwVhbVZz8
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

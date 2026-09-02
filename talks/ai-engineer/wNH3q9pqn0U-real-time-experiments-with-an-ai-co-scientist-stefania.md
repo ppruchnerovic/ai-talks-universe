@@ -15,6 +15,7 @@ video_id: wNH3q9pqn0U
 url: https://www.youtube.com/watch?v=wNH3q9pqn0U
 youtube_url: https://www.youtube.com/watch?v=wNH3q9pqn0U
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

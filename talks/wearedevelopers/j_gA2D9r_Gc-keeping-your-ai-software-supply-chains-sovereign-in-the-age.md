@@ -15,6 +15,7 @@ video_id: j_gA2D9r_Gc
 url: https://www.youtube.com/watch?v=j_gA2D9r_Gc
 youtube_url: https://www.youtube.com/watch?v=j_gA2D9r_Gc
 tags: ["Strategy & Innovation", "Open Source", "Product Strategy", "Reliability"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

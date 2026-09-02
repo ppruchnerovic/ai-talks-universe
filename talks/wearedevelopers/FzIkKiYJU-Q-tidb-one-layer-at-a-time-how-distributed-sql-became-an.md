@@ -15,6 +15,7 @@ video_id: FzIkKiYJU-Q
 url: https://www.youtube.com/watch?v=FzIkKiYJU-Q
 youtube_url: https://www.youtube.com/watch?v=FzIkKiYJU-Q
 tags: ["Data & Databases", "Agentic AI", "Databases", "Distributed Systems", "Multi-Cloud", "Open Source", "Scaling", "SQL", "Vector Databases"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

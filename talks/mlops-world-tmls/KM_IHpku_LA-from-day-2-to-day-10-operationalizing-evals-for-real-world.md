@@ -15,6 +15,7 @@ video_id: KM_IHpku_LA
 url: https://www.youtube.com/watch?v=KM_IHpku_LA
 youtube_url: https://www.youtube.com/watch?v=KM_IHpku_LA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

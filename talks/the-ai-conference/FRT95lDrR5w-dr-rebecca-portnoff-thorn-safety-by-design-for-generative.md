@@ -15,6 +15,7 @@ video_id: FRT95lDrR5w
 url: https://www.youtube.com/watch?v=FRT95lDrR5w
 youtube_url: https://www.youtube.com/watch?v=FRT95lDrR5w
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

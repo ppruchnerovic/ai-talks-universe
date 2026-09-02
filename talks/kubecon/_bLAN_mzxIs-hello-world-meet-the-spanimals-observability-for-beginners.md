@@ -15,6 +15,7 @@ video_id: _bLAN_mzxIs
 url: https://www.youtube.com/watch?v=_bLAN_mzxIs
 youtube_url: https://www.youtube.com/watch?v=_bLAN_mzxIs
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

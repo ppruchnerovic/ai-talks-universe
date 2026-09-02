@@ -15,6 +15,7 @@ video_id: WE_Gnowy3uw
 url: https://www.youtube.com/watch?v=WE_Gnowy3uw
 youtube_url: https://www.youtube.com/watch?v=WE_Gnowy3uw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

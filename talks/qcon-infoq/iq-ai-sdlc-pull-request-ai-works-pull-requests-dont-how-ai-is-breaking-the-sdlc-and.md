@@ -15,6 +15,7 @@ video_id: iq-ai-sdlc-pull-request
 url: https://www.infoq.com/presentations/ai-sdlc-pull-request/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

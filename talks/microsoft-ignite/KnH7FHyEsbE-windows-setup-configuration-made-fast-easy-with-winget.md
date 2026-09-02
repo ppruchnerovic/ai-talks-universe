@@ -15,6 +15,7 @@ video_id: KnH7FHyEsbE
 url: https://www.youtube.com/watch?v=KnH7FHyEsbE
 youtube_url: https://www.youtube.com/watch?v=KnH7FHyEsbE
 tags: ["8bc0af69-a415-413a-84f0-ee5806ad5708_Segment", "BRK335", "Demitrius Nelon", "English (US)", "Scale with cloud and AI endpoints", "Technical", "Windows setup & configuration made fast & easy with WinGet | BRK335", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

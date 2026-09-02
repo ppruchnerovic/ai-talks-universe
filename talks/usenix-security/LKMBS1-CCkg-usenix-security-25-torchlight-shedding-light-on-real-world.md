@@ -15,6 +15,7 @@ video_id: LKMBS1-CCkg
 url: https://www.youtube.com/watch?v=LKMBS1-CCkg
 youtube_url: https://www.youtube.com/watch?v=LKMBS1-CCkg
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

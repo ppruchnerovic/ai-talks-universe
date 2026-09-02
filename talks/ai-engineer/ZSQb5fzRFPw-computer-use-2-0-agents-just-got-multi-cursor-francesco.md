@@ -15,6 +15,7 @@ video_id: ZSQb5fzRFPw
 url: https://www.youtube.com/watch?v=ZSQb5fzRFPw
 youtube_url: https://www.youtube.com/watch?v=ZSQb5fzRFPw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

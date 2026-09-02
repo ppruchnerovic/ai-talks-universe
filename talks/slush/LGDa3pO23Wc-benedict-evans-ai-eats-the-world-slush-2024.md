@@ -15,6 +15,7 @@ video_id: LGDa3pO23Wc
 url: https://www.youtube.com/watch?v=LGDa3pO23Wc
 youtube_url: https://www.youtube.com/watch?v=LGDa3pO23Wc
 tags: []
+topics: []
 transcript: false
 ---
 

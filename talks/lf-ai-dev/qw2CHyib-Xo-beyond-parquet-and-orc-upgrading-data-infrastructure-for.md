@@ -15,6 +15,7 @@ video_id: qw2CHyib-Xo
 url: https://www.youtube.com/watch?v=qw2CHyib-Xo
 youtube_url: https://www.youtube.com/watch?v=qw2CHyib-Xo
 tags: []
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

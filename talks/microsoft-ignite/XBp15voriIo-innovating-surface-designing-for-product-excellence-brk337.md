@@ -15,6 +15,7 @@ video_id: XBp15voriIo
 url: https://www.youtube.com/watch?v=XBp15voriIo
 youtube_url: https://www.youtube.com/watch?v=XBp15voriIo
 tags: ["BRK337", "BRK337_v1", "Carlos Carrasco", "English (US)", "Innovating Surface: Designing for product excellence​ | BRK337", "Robyn McLaughlin", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

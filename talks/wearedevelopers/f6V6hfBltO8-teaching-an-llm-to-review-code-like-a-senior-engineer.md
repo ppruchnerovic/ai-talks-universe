@@ -15,6 +15,7 @@ video_id: f6V6hfBltO8
 url: https://www.youtube.com/watch?v=f6V6hfBltO8
 youtube_url: https://www.youtube.com/watch?v=f6V6hfBltO8
 tags: ["Developer Experience", "Code Generation", "Code Reviews", "Large Language Models (LLMs)"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

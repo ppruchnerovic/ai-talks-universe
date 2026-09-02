@@ -15,6 +15,7 @@ video_id: dTRL3tlaj5g
 url: https://www.youtube.com/watch?v=dTRL3tlaj5g
 youtube_url: https://www.youtube.com/watch?v=dTRL3tlaj5g
 tags: ["BRK162", "English (US)", "How to modernize Oracle workloads on Azure | BRK162", "Kalyan Kaki", "Migrate and modernize your estate", "Migrate and modernize your estate:Oracle Database@Azure​", "Technical", "Tushar Pandit", "b5221297-0c9f-4dfb-983c-df58eeb66a4e_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

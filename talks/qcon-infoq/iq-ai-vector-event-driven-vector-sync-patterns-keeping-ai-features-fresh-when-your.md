@@ -15,6 +15,7 @@ video_id: iq-ai-vector-event-driven
 url: https://www.infoq.com/presentations/ai-vector-event-driven/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gORZlaRLYPM
 url: https://www.youtube.com/watch?v=gORZlaRLYPM
 youtube_url: https://www.youtube.com/watch?v=gORZlaRLYPM
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

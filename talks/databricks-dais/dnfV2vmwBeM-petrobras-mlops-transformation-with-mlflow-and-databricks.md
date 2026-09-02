@@ -15,6 +15,7 @@ video_id: dnfV2vmwBeM
 url: https://www.youtube.com/watch?v=dnfV2vmwBeM
 youtube_url: https://www.youtube.com/watch?v=dnfV2vmwBeM
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

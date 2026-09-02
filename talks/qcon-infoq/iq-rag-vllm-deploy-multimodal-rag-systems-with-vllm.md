@@ -15,6 +15,7 @@ video_id: iq-rag-vllm
 url: https://www.infoq.com/presentations/rag-vllm/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

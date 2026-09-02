@@ -15,6 +15,7 @@ video_id: 4ynkbF7oImM
 url: https://www.youtube.com/watch?v=4ynkbF7oImM
 youtube_url: https://www.youtube.com/watch?v=4ynkbF7oImM
 tags: ["Agentic business applications", "English (US)", "Jake Showalter", "ODSP1425", "ODSP1425_v1", "Retail and Consumer Goods", "Technical", "Top 3 AI use cases shaping the future of customer experience | ODSP1425", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

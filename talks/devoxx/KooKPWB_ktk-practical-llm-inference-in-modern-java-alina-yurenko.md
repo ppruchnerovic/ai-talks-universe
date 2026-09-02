@@ -15,6 +15,7 @@ video_id: KooKPWB_ktk
 url: https://www.youtube.com/watch?v=KooKPWB_ktk
 youtube_url: https://www.youtube.com/watch?v=KooKPWB_ktk
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

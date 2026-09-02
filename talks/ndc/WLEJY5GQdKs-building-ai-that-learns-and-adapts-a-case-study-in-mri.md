@@ -15,6 +15,7 @@ video_id: WLEJY5GQdKs
 url: https://www.youtube.com/watch?v=WLEJY5GQdKs
 youtube_url: https://www.youtube.com/watch?v=WLEJY5GQdKs
 tags: ["AI", "Architecture", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Agata Chudzińska"]
+topics: []
 transcript: false
 ---
 

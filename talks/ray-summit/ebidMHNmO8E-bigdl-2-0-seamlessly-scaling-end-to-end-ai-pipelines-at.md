@@ -15,6 +15,7 @@ video_id: ebidMHNmO8E
 url: https://www.youtube.com/watch?v=ebidMHNmO8E
 youtube_url: https://www.youtube.com/watch?v=ebidMHNmO8E
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

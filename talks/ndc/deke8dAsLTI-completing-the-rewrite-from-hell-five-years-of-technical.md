@@ -15,6 +15,7 @@ video_id: deke8dAsLTI
 url: https://www.youtube.com/watch?v=deke8dAsLTI
 youtube_url: https://www.youtube.com/watch?v=deke8dAsLTI
 tags: ["Architecture", ".NET", "Continuous Delivery", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Aaron Stannard"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: HNdEmnvMvGE
 url: https://www.youtube.com/watch?v=HNdEmnvMvGE
 youtube_url: https://www.youtube.com/watch?v=HNdEmnvMvGE
 tags: []
+topics: []
 transcript: false
 ---
 

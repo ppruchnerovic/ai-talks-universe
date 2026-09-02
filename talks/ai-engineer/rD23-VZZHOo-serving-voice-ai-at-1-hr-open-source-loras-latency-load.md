@@ -15,6 +15,7 @@ video_id: rD23-VZZHOo
 url: https://www.youtube.com/watch?v=rD23-VZZHOo
 youtube_url: https://www.youtube.com/watch?v=rD23-VZZHOo
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

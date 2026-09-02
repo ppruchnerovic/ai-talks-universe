@@ -15,6 +15,7 @@ video_id: lnBD6FajaHQ
 url: https://www.youtube.com/watch?v=lnBD6FajaHQ
 youtube_url: https://www.youtube.com/watch?v=lnBD6FajaHQ
 tags: ["Frontend, Web & Mobile", "JavaScript", "React", "TypeScript"]
+topics: []
 transcript: true
 ---
 

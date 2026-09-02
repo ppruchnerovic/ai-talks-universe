@@ -15,6 +15,7 @@ video_id: J_OBnNsfE_8
 url: https://www.youtube.com/watch?v=J_OBnNsfE_8
 youtube_url: https://www.youtube.com/watch?v=J_OBnNsfE_8
 tags: ["yule log", "yule log christmas music", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: XBaznoTRDFI
 url: https://www.youtube.com/watch?v=XBaznoTRDFI
 youtube_url: https://www.youtube.com/watch?v=XBaznoTRDFI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

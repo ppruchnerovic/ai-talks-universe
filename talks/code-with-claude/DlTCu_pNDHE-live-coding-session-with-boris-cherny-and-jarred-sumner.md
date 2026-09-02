@@ -15,6 +15,7 @@ video_id: DlTCu_pNDHE
 url: https://www.youtube.com/watch?v=DlTCu_pNDHE
 youtube_url: https://www.youtube.com/watch?v=DlTCu_pNDHE
 tags: []
+topics: []
 transcript: true
 ---
 

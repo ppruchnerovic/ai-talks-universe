@@ -15,6 +15,7 @@ video_id: 0U46-wl4azs
 url: https://www.youtube.com/watch?v=0U46-wl4azs
 youtube_url: https://www.youtube.com/watch?v=0U46-wl4azs
 tags: ["ainativedev"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

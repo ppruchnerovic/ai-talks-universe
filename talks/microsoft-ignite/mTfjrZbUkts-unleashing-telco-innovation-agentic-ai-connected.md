@@ -15,6 +15,7 @@ video_id: mTfjrZbUkts
 url: https://www.youtube.com/watch?v=mTfjrZbUkts
 youtube_url: https://www.youtube.com/watch?v=mTfjrZbUkts
 tags: ["BRK385", "English (US)", "Gustavo do Couto Duarte", "Mathew George", "Rick Lievano", "Technical", "Telecommunications", "Unify your data platform", "Unleashing Telco Innovation: Agentic AI & Connected Intelligence | BRK385", "f01db261-8f0a-4bcf-b868-f82a827f05d0_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

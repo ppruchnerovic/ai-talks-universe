@@ -15,6 +15,7 @@ video_id: gmTHs5T_YAE
 url: https://www.youtube.com/watch?v=gmTHs5T_YAE
 youtube_url: https://www.youtube.com/watch?v=gmTHs5T_YAE
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

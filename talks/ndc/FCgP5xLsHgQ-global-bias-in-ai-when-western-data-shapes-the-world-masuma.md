@@ -15,6 +15,7 @@ video_id: FCgP5xLsHgQ
 url: https://www.youtube.com/watch?v=FCgP5xLsHgQ
 youtube_url: https://www.youtube.com/watch?v=FCgP5xLsHgQ
 tags: ["AI", "Ethics", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenahgen", "Denmark", "Masuma Shariff"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

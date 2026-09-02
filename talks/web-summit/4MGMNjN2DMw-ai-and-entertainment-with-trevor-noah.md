@@ -15,6 +15,7 @@ video_id: 4MGMNjN2DMw
 url: https://www.youtube.com/watch?v=4MGMNjN2DMw
 youtube_url: https://www.youtube.com/watch?v=4MGMNjN2DMw
 tags: ["web summit", "web summit conference lisbon", "web summit paddy", "web summit youtube", "web summit lisboa", "Lisbon", "Lisboa"]
+topics: []
 transcript: false
 ---
 

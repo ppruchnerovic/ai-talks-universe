@@ -15,6 +15,7 @@ video_id: Er7uLTYtgpY
 url: https://www.youtube.com/watch?v=Er7uLTYtgpY
 youtube_url: https://www.youtube.com/watch?v=Er7uLTYtgpY
 tags: ["AI", "agents", "automation", "recruiting", "hiring", "recruitment", "AI agents", "agentic AI", "recruiters", "HR", "people", "vibe coding"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

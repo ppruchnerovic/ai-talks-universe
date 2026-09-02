@@ -15,6 +15,7 @@ video_id: uv8va8bIqus
 url: https://www.youtube.com/watch?v=uv8va8bIqus
 youtube_url: https://www.youtube.com/watch?v=uv8va8bIqus
 tags: ["NVIDIA", "NVIDIA GTC 2026"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

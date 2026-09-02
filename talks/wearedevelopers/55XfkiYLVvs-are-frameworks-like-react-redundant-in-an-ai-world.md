@@ -15,6 +15,7 @@ video_id: 55XfkiYLVvs
 url: https://www.youtube.com/watch?v=55XfkiYLVvs
 youtube_url: https://www.youtube.com/watch?v=55XfkiYLVvs
 tags: ["AI", "DevRel", "Software Architecture", "Cloud Computing", "DevOps", "Developer Tools", "Developer News", "Tech Careers", "Job Market", "Coding Tutorials", "Web Development", "Mobile Development", "Data Science", "Machine Learning", "Cybersecurity", "IoT", "Blockchain", "AR/VR", "UI/UX Design", "Agile Methodologies", "Tech Conferences", "Tech Interviews", "Career Advice", "Developer Jobs"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

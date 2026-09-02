@@ -15,6 +15,7 @@ video_id: Tv71-g75OgU
 url: https://www.youtube.com/watch?v=Tv71-g75OgU
 youtube_url: https://www.youtube.com/watch?v=Tv71-g75OgU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

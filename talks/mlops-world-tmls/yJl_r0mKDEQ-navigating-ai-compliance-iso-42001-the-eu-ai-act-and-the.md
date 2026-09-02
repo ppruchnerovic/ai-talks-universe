@@ -15,6 +15,7 @@ video_id: yJl_r0mKDEQ
 url: https://www.youtube.com/watch?v=yJl_r0mKDEQ
 youtube_url: https://www.youtube.com/watch?v=yJl_r0mKDEQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

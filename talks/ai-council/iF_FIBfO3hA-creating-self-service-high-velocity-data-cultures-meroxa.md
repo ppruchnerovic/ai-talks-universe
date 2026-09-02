@@ -15,6 +15,7 @@ video_id: iF_FIBfO3hA
 url: https://www.youtube.com/watch?v=iF_FIBfO3hA
 youtube_url: https://www.youtube.com/watch?v=iF_FIBfO3hA
 tags: ["data platforms", "data culture"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

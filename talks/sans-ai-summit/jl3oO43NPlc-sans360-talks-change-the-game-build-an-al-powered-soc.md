@@ -15,6 +15,7 @@ video_id: jl3oO43NPlc
 url: https://www.youtube.com/watch?v=jl3oO43NPlc
 youtube_url: https://www.youtube.com/watch?v=jl3oO43NPlc
 tags: []
+topics: []
 transcript: false
 ---
 

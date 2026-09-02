@@ -15,6 +15,7 @@ video_id: Hc-EH-NfbRg
 url: https://www.youtube.com/watch?v=Hc-EH-NfbRg
 youtube_url: https://www.youtube.com/watch?v=Hc-EH-NfbRg
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

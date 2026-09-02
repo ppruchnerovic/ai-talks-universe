@@ -15,6 +15,7 @@ video_id: gCS8k23_G8o
 url: https://www.youtube.com/watch?v=gCS8k23_G8o
 youtube_url: https://www.youtube.com/watch?v=gCS8k23_G8o
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

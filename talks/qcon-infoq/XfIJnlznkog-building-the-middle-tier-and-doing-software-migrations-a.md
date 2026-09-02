@@ -15,6 +15,7 @@ video_id: XfIJnlznkog
 url: https://www.youtube.com/watch?v=XfIJnlznkog
 youtube_url: https://www.youtube.com/watch?v=XfIJnlznkog
 tags: []
+topics: []
 transcript: false
 ---
 

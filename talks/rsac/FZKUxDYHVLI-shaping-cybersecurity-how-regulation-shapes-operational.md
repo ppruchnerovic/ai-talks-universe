@@ -15,6 +15,7 @@ video_id: FZKUxDYHVLI
 url: https://www.youtube.com/watch?v=FZKUxDYHVLI
 youtube_url: https://www.youtube.com/watch?v=FZKUxDYHVLI
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

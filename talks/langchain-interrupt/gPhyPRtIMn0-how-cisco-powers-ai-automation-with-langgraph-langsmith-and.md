@@ -15,6 +15,7 @@ video_id: gPhyPRtIMn0
 url: https://www.youtube.com/watch?v=gPhyPRtIMn0
 youtube_url: https://www.youtube.com/watch?v=gPhyPRtIMn0
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

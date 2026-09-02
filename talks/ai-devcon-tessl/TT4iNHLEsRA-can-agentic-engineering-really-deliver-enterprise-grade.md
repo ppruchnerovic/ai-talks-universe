@@ -15,6 +15,7 @@ video_id: TT4iNHLEsRA
 url: https://www.youtube.com/watch?v=TT4iNHLEsRA
 youtube_url: https://www.youtube.com/watch?v=TT4iNHLEsRA
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

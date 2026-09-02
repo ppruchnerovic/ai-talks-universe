@@ -15,6 +15,7 @@ video_id: 3Y8aq_ofEVs
 url: https://www.youtube.com/watch?v=3Y8aq_ofEVs
 youtube_url: https://www.youtube.com/watch?v=3Y8aq_ofEVs
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

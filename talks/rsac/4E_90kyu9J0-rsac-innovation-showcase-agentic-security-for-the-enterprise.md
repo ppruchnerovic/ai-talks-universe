@@ -15,6 +15,7 @@ video_id: 4E_90kyu9J0
 url: https://www.youtube.com/watch?v=4E_90kyu9J0
 youtube_url: https://www.youtube.com/watch?v=4E_90kyu9J0
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

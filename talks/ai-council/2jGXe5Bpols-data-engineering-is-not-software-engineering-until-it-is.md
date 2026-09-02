@@ -15,6 +15,7 @@ video_id: 2jGXe5Bpols
 url: https://www.youtube.com/watch?v=2jGXe5Bpols
 youtube_url: https://www.youtube.com/watch?v=2jGXe5Bpols
 tags: ["software engineering", "data engineering", "career development", "ChatGPT", "artificial intelligence", "machine learning", "dbt", "engineering practices", "code branching", "unit testing", "feedback loops", "pull request reviews", "Python tutorial", "software development lifecycle", "agile methodologies", "DevOps", "continuous integration", "continuous deployment", "code quality", "technical debt", "refactoring", "design patterns", "system design"]
+topics: ["AI in the SDLC & engineering orgs", "Data engineering & MLOps"]
 transcript: false
 ---
 

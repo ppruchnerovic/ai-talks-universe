@@ -15,6 +15,7 @@ video_id: 62OI_y-KRlw
 url: https://www.youtube.com/watch?v=62OI_y-KRlw
 youtube_url: https://www.youtube.com/watch?v=62OI_y-KRlw
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: false
 ---
 

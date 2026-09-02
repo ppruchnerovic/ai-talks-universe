@@ -15,6 +15,7 @@ video_id: ywH6SrutWag
 url: https://www.youtube.com/watch?v=ywH6SrutWag
 youtube_url: https://www.youtube.com/watch?v=ywH6SrutWag
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

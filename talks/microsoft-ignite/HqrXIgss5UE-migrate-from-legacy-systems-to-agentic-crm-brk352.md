@@ -15,6 +15,7 @@ video_id: HqrXIgss5UE
 url: https://www.youtube.com/watch?v=HqrXIgss5UE
 youtube_url: https://www.youtube.com/watch?v=HqrXIgss5UE
 tags: ["Abi Sridhar", "Agentic business applications", "BRK352", "BRK352_v1", "Christian Lewis", "English (US)", "Marty Priest", "Migrate from legacy systems to agentic CRM | BRK352", "Nitasha Chopra", "Partner Business", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

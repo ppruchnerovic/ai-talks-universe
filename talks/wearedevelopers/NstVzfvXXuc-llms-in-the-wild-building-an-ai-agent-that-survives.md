@@ -15,6 +15,7 @@ video_id: NstVzfvXXuc
 url: https://www.youtube.com/watch?v=NstVzfvXXuc
 youtube_url: https://www.youtube.com/watch?v=NstVzfvXXuc
 tags: ["AI Agents", "Agents", "Agentic AI", "Large Language Models (LLMs)", "LLMOps", "Retrieval-Augmented Generation (RAG)"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: YZHPEkfy2kc
 url: https://www.youtube.com/watch?v=YZHPEkfy2kc
 youtube_url: https://www.youtube.com/watch?v=YZHPEkfy2kc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

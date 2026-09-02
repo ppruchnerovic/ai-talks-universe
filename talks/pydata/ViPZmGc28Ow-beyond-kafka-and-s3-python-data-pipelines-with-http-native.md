@@ -15,6 +15,7 @@ video_id: ViPZmGc28Ow
 url: https://www.youtube.com/watch?v=ViPZmGc28Ow
 youtube_url: https://www.youtube.com/watch?v=ViPZmGc28Ow
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 0wp24T9Usac
 url: https://www.youtube.com/watch?v=0wp24T9Usac
 youtube_url: https://www.youtube.com/watch?v=0wp24T9Usac
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

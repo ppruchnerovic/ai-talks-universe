@@ -15,6 +15,7 @@ video_id: Kwo4ltNroak
 url: https://www.youtube.com/watch?v=Kwo4ltNroak
 youtube_url: https://www.youtube.com/watch?v=Kwo4ltNroak
 tags: ["Lambda", "Kappa", "data engineering", "batch processing", "realtime processing"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: sKH8283CFzs
 url: https://www.youtube.com/watch?v=sKH8283CFzs
 youtube_url: https://www.youtube.com/watch?v=sKH8283CFzs
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

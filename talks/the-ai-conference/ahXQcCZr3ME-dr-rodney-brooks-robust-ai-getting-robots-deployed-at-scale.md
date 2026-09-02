@@ -15,6 +15,7 @@ video_id: ahXQcCZr3ME
 url: https://www.youtube.com/watch?v=ahXQcCZr3ME
 youtube_url: https://www.youtube.com/watch?v=ahXQcCZr3ME
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

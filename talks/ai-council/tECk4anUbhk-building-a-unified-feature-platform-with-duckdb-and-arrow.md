@@ -15,6 +15,7 @@ video_id: tECk4anUbhk
 url: https://www.youtube.com/watch?v=tECk4anUbhk
 youtube_url: https://www.youtube.com/watch?v=tECk4anUbhk
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: FiifFvLV3e4
 url: https://www.youtube.com/watch?v=FiifFvLV3e4
 youtube_url: https://www.youtube.com/watch?v=FiifFvLV3e4
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

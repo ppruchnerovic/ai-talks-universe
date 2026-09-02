@@ -15,6 +15,7 @@ video_id: 5YSJEP0HWzM
 url: https://www.youtube.com/watch?v=5YSJEP0HWzM
 youtube_url: https://www.youtube.com/watch?v=5YSJEP0HWzM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

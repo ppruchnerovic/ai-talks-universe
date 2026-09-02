@@ -15,6 +15,7 @@ video_id: lfEjSOsWvoY
 url: https://www.youtube.com/watch?v=lfEjSOsWvoY
 youtube_url: https://www.youtube.com/watch?v=lfEjSOsWvoY
 tags: ["Agentic business applications", "ComputerTalk ice Contact Center demo for chatbot and live chat | ODSP1482", "English (US)", "Mike Kraybill", "ODSP1482", "ODSP1482_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

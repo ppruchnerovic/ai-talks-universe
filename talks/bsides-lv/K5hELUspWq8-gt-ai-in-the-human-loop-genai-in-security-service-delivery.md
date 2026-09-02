@@ -15,6 +15,7 @@ video_id: K5hELUspWq8
 url: https://www.youtube.com/watch?v=K5hELUspWq8
 youtube_url: https://www.youtube.com/watch?v=K5hELUspWq8
 tags: ["ZSLBCG"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: SbsBwHgLarU
 url: https://www.youtube.com/watch?v=SbsBwHgLarU
 youtube_url: https://www.youtube.com/watch?v=SbsBwHgLarU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

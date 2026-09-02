@@ -15,6 +15,7 @@ video_id: LNki_OFpxf0
 url: https://www.youtube.com/watch?v=LNki_OFpxf0
 youtube_url: https://www.youtube.com/watch?v=LNki_OFpxf0
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

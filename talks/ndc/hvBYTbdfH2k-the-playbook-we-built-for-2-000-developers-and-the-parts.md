@@ -15,6 +15,7 @@ video_id: hvBYTbdfH2k
 url: https://www.youtube.com/watch?v=hvBYTbdfH2k
 youtube_url: https://www.youtube.com/watch?v=hvBYTbdfH2k
 tags: ["AI-Assisted Development", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Håkon Eriksson", "Øyvind Viken"]
+topics: []
 transcript: true
 ---
 

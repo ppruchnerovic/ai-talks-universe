@@ -15,6 +15,7 @@ video_id: eiP7ZLRYgc4
 url: https://www.youtube.com/watch?v=eiP7ZLRYgc4
 youtube_url: https://www.youtube.com/watch?v=eiP7ZLRYgc4
 tags: ["AI Agents", "Agents"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

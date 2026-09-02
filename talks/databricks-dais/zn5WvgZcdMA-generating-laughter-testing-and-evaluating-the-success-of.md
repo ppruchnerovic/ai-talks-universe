@@ -15,6 +15,7 @@ video_id: zn5WvgZcdMA
 url: https://www.youtube.com/watch?v=zn5WvgZcdMA
 youtube_url: https://www.youtube.com/watch?v=zn5WvgZcdMA
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

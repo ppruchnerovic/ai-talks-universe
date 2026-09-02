@@ -15,6 +15,7 @@ video_id: DXEsG3Vo6F4
 url: https://www.youtube.com/watch?v=DXEsG3Vo6F4
 youtube_url: https://www.youtube.com/watch?v=DXEsG3Vo6F4
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-innovation-2025
 url: https://www.infoq.com/presentations/ai-innovation-2025/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

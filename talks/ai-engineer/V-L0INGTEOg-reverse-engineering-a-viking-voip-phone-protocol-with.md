@@ -15,6 +15,7 @@ video_id: V-L0INGTEOg
 url: https://www.youtube.com/watch?v=V-L0INGTEOg
 youtube_url: https://www.youtube.com/watch?v=V-L0INGTEOg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

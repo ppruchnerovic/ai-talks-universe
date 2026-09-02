@@ -15,6 +15,7 @@ video_id: VRWrA_KhHwU
 url: https://www.youtube.com/watch?v=VRWrA_KhHwU
 youtube_url: https://www.youtube.com/watch?v=VRWrA_KhHwU
 tags: []
+topics: []
 transcript: true
 ---
 

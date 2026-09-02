@@ -15,6 +15,7 @@ video_id: czfKC-p79tA
 url: https://www.youtube.com/watch?v=czfKC-p79tA
 youtube_url: https://www.youtube.com/watch?v=czfKC-p79tA
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

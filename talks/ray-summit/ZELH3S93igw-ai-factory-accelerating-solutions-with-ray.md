@@ -15,6 +15,7 @@ video_id: ZELH3S93igw
 url: https://www.youtube.com/watch?v=ZELH3S93igw
 youtube_url: https://www.youtube.com/watch?v=ZELH3S93igw
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

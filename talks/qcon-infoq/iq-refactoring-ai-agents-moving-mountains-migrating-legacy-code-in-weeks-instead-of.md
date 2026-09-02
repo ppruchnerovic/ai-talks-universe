@@ -15,6 +15,7 @@ video_id: iq-refactoring-ai-agents
 url: https://www.infoq.com/presentations/refactoring-ai-agents/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: _34LbyYNoqU
 url: https://www.youtube.com/watch?v=_34LbyYNoqU
 youtube_url: https://www.youtube.com/watch?v=_34LbyYNoqU
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

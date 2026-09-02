@@ -15,6 +15,7 @@ video_id: eRaay8rBU_I
 url: https://www.youtube.com/watch?v=eRaay8rBU_I
 youtube_url: https://www.youtube.com/watch?v=eRaay8rBU_I
 tags: ["AI Agents", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

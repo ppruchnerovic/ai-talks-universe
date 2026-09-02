@@ -15,6 +15,7 @@ video_id: PoQymqm7cNo
 url: https://www.youtube.com/watch?v=PoQymqm7cNo
 youtube_url: https://www.youtube.com/watch?v=PoQymqm7cNo
 tags: ["Backend & APIs", "APIs", "Microservices"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

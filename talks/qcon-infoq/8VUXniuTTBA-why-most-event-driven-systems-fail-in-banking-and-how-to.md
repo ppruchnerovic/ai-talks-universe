@@ -15,6 +15,7 @@ video_id: 8VUXniuTTBA
 url: https://www.youtube.com/watch?v=8VUXniuTTBA
 youtube_url: https://www.youtube.com/watch?v=8VUXniuTTBA
 tags: ["InfoQ DevSummit", "InfoQ", "Transcript", "Software Architecture", "Banking", "Event Driven Architecture", "Cloud Native", "Event Driven Patterns", "Case Study", "Project Management", "Patterns", "Agile", "FinTech", "System Design"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

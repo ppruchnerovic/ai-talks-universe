@@ -15,6 +15,7 @@ video_id: UVjeqjijb6s
 url: https://www.youtube.com/watch?v=UVjeqjijb6s
 youtube_url: https://www.youtube.com/watch?v=UVjeqjijb6s
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

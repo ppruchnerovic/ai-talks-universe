@@ -15,6 +15,7 @@ video_id: 01yeO-1RUcg
 url: https://www.youtube.com/watch?v=01yeO-1RUcg
 youtube_url: https://www.youtube.com/watch?v=01yeO-1RUcg
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

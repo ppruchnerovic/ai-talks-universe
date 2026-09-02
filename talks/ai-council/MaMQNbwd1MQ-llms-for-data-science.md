@@ -15,6 +15,7 @@ video_id: MaMQNbwd1MQ
 url: https://www.youtube.com/watch?v=MaMQNbwd1MQ
 youtube_url: https://www.youtube.com/watch?v=MaMQNbwd1MQ
 tags: ["data science tutorial", "LLM for data science", "AI tutorial", "ChatGPT", "artificial intelligence", "machine learning", "Python tutorial", "AI assistance", "coding with AI", "automation", "productivity tools", "data analysis", "rectangling data", "text analysis", "natural language processing", "data preprocessing", "feature engineering", "model building", "model evaluation", "statistical analysis", "exploratory data analysis", "data visualization", "machine learning workflows"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: P1DAxnR1fzw
 url: https://www.youtube.com/watch?v=P1DAxnR1fzw
 youtube_url: https://www.youtube.com/watch?v=P1DAxnR1fzw
 tags: [".NET", "AI", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "LLM", "Isaac Levin"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

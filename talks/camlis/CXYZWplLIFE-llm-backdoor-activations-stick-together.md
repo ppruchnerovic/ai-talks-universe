@@ -15,6 +15,7 @@ video_id: CXYZWplLIFE
 url: https://www.youtube.com/watch?v=CXYZWplLIFE
 youtube_url: https://www.youtube.com/watch?v=CXYZWplLIFE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

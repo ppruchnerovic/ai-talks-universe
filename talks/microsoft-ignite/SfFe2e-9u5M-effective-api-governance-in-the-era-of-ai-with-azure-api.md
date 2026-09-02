@@ -15,6 +15,7 @@ video_id: SfFe2e-9u5M
 url: https://www.youtube.com/watch?v=SfFe2e-9u5M
 youtube_url: https://www.youtube.com/watch?v=SfFe2e-9u5M
 tags: ["AI", "API", "Apps", "Apps-Curated", "BRK143", "Breakout", "Effective API governance in the era of AI with Azure API Management | BRK143", "English (US)", "Intermediate (200)", "Julia Kasper", "Mike Budzynski", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

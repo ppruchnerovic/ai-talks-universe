@@ -15,6 +15,7 @@ video_id: XLEYtv3cMlw
 url: https://www.youtube.com/watch?v=XLEYtv3cMlw
 youtube_url: https://www.youtube.com/watch?v=XLEYtv3cMlw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

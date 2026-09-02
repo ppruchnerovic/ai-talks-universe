@@ -15,6 +15,7 @@ video_id: w851hfWRwbs
 url: https://www.youtube.com/watch?v=w851hfWRwbs
 youtube_url: https://www.youtube.com/watch?v=w851hfWRwbs
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

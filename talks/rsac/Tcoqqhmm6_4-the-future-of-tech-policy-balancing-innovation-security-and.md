@@ -15,6 +15,7 @@ video_id: Tcoqqhmm6_4
 url: https://www.youtube.com/watch?v=Tcoqqhmm6_4
 youtube_url: https://www.youtube.com/watch?v=Tcoqqhmm6_4
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

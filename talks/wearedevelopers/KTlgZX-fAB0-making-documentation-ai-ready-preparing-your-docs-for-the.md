@@ -15,6 +15,7 @@ video_id: KTlgZX-fAB0
 url: https://www.youtube.com/watch?v=KTlgZX-fAB0
 youtube_url: https://www.youtube.com/watch?v=KTlgZX-fAB0
 tags: ["Developer Experience", "Documentation"]
+topics: []
 transcript: true
 ---
 

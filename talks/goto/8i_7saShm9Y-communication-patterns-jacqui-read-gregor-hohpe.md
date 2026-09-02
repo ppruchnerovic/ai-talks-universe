@@ -15,6 +15,7 @@ video_id: 8i_7saShm9Y
 url: https://www.youtube.com/watch?v=8i_7saShm9Y
 youtube_url: https://www.youtube.com/watch?v=8i_7saShm9Y
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

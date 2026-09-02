@@ -15,6 +15,7 @@ video_id: KO7tFKkzkmo
 url: https://www.youtube.com/watch?v=KO7tFKkzkmo
 youtube_url: https://www.youtube.com/watch?v=KO7tFKkzkmo
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

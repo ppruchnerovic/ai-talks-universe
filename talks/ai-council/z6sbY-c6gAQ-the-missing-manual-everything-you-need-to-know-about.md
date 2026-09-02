@@ -15,6 +15,7 @@ video_id: z6sbY-c6gAQ
 url: https://www.youtube.com/watch?v=z6sbY-c6gAQ
 youtube_url: https://www.youtube.com/watch?v=z6sbY-c6gAQ
 tags: ["optimization", "big data", "data storage", "analytics", "snowflake"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

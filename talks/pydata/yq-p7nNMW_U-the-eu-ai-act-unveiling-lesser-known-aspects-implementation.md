@@ -15,6 +15,7 @@ video_id: yq-p7nNMW_U
 url: https://www.youtube.com/watch?v=yq-p7nNMW_U
 youtube_url: https://www.youtube.com/watch?v=yq-p7nNMW_U
 tags: ["AI auditing", "AI ethics", "AI fairness", "AI policy", "AI regulation", "Conference", "EU AI Act", "European AI regulation", "GDPR", "PyConDE", "PyData", "Python", "Tech Talk", "algorithmic accountability", "biometric identification", "high-risk AI systems", "law enforcement AI", "machine learning governance", "regulatory compliance", "tech policy"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

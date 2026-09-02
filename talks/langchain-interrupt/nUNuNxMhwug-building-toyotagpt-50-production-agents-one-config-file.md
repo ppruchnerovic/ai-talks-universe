@@ -15,6 +15,7 @@ video_id: nUNuNxMhwug
 url: https://www.youtube.com/watch?v=nUNuNxMhwug
 youtube_url: https://www.youtube.com/watch?v=nUNuNxMhwug
 tags: ["Toyota", "ToyotaGPT", "LangGraph", "LangSmith", "LangChain", "AI agents", "enterprise AI", "Toyota Production System", "TPS", "Kaizen", "Jidoka", "Andon board", "Genchi Gembutsu", "agent platform", "RAG", "production agents", "Kordel France", "Ravi Chandu Ummadisetti", "agentic AI", "multi-agent systems", "AI for manufacturing", "GearPull", "MCP", "skills engine", "Interrupt conference"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

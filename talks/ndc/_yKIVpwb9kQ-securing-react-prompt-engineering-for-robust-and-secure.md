@@ -15,6 +15,7 @@ video_id: _yKIVpwb9kQ
 url: https://www.youtube.com/watch?v=_yKIVpwb9kQ
 youtube_url: https://www.youtube.com/watch?v=_yKIVpwb9kQ
 tags: ["Jim Manico", "Application Security", "Security", "AI", "XSS", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo"]
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Sklj8FxBmuE
 url: https://www.youtube.com/watch?v=Sklj8FxBmuE
 youtube_url: https://www.youtube.com/watch?v=Sklj8FxBmuE
 tags: ["Frontend, Web & Mobile", "AI Standards", "Generative AI (GenAI)", "React", "Vue.js"]
+topics: []
 transcript: true
 ---
 

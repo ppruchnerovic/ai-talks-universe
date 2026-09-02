@@ -15,6 +15,7 @@ video_id: EmgLPwmhBD8
 url: https://www.youtube.com/watch?v=EmgLPwmhBD8
 youtube_url: https://www.youtube.com/watch?v=EmgLPwmhBD8
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

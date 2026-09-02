@@ -15,6 +15,7 @@ video_id: 8kMaTybvDUw
 url: https://www.youtube.com/watch?v=8kMaTybvDUw
 youtube_url: https://www.youtube.com/watch?v=8kMaTybvDUw
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

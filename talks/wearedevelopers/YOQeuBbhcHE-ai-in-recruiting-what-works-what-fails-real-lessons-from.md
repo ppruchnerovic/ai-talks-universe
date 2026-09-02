@@ -15,6 +15,7 @@ video_id: YOQeuBbhcHE
 url: https://www.youtube.com/watch?v=YOQeuBbhcHE
 youtube_url: https://www.youtube.com/watch?v=YOQeuBbhcHE
 tags: ["Talent Strategy", "HR", "Talent & Recruiting"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

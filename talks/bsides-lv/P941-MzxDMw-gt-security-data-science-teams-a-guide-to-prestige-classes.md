@@ -15,6 +15,7 @@ video_id: P941-MzxDMw
 url: https://www.youtube.com/watch?v=P941-MzxDMw
 youtube_url: https://www.youtube.com/watch?v=P941-MzxDMw
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Zk4Auaryigk
 url: https://www.youtube.com/watch?v=Zk4Auaryigk
 youtube_url: https://www.youtube.com/watch?v=Zk4Auaryigk
 tags: ["BRK346", "BRK346_v1", "Cassidy Fein", "English (US)", "Kurt Stevenson", "Scale with cloud and AI endpoints", "Secure & Manage the Most Productive Intelligent OS: Windows 11 | BRK346", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

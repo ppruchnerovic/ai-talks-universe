@@ -15,6 +15,7 @@ video_id: O6ZJOG3RrCg
 url: https://www.youtube.com/watch?v=O6ZJOG3RrCg
 youtube_url: https://www.youtube.com/watch?v=O6ZJOG3RrCg
 tags: ["AI", "Architecture", "Cloud", "Ethics", "Work skills", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Darshna Shah"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

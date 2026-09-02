@@ -15,6 +15,7 @@ video_id: buEKMi4tAew
 url: https://www.youtube.com/watch?v=buEKMi4tAew
 youtube_url: https://www.youtube.com/watch?v=buEKMi4tAew
 tags: ["API documentation", "Conference", "Diataxis", "HoloViz", "Panel", "PyCon", "PyConDE", "PyData", "Python", "Tech Talk", "developer tools", "documentation", "documentation framework", "hvPlot", "maintainer tips", "open source", "software documentation", "technical writing", "tutorial writing"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: McB4Sth3_Ss
 url: https://www.youtube.com/watch?v=McB4Sth3_Ss
 youtube_url: https://www.youtube.com/watch?v=McB4Sth3_Ss
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

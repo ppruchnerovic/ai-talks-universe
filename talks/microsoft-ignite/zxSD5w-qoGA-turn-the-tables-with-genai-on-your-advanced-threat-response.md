@@ -15,6 +15,7 @@ video_id: zxSD5w-qoGA
 url: https://www.youtube.com/watch?v=zxSD5w-qoGA
 youtube_url: https://www.youtube.com/watch?v=zxSD5w-qoGA
 tags: ["AI", "Chris McHenry", "Copilot", "Intermediate (200)", "ODFP926", "Pre-recorded", "Security", "Technical", "Turn the tables with GenAI on your advanced threat response model | ODFP926", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

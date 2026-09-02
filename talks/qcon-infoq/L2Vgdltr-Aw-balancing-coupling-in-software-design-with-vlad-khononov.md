@@ -15,6 +15,7 @@ video_id: L2Vgdltr-Aw
 url: https://www.youtube.com/watch?v=L2Vgdltr-Aw
 youtube_url: https://www.youtube.com/watch?v=L2Vgdltr-Aw
 tags: []
+topics: []
 transcript: false
 ---
 

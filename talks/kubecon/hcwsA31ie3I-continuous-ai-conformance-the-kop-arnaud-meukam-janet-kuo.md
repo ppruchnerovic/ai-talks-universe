@@ -15,6 +15,7 @@ video_id: hcwsA31ie3I
 url: https://www.youtube.com/watch?v=hcwsA31ie3I
 youtube_url: https://www.youtube.com/watch?v=hcwsA31ie3I
 tags: []
+topics: []
 transcript: true
 ---
 

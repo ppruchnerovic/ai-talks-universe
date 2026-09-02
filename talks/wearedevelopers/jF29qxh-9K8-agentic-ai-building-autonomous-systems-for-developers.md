@@ -15,6 +15,7 @@ video_id: jF29qxh-9K8
 url: https://www.youtube.com/watch?v=jF29qxh-9K8
 youtube_url: https://www.youtube.com/watch?v=jF29qxh-9K8
 tags: ["AI Agents", "AI Coding Assistants", "Software Architecture"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

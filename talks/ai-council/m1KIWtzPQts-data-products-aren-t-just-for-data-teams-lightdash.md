@@ -15,6 +15,7 @@ video_id: m1KIWtzPQts
 url: https://www.youtube.com/watch?v=m1KIWtzPQts
 youtube_url: https://www.youtube.com/watch?v=m1KIWtzPQts
 tags: ["data tools", "data teams", "data products"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: RS4DmYTvHIo
 url: https://www.youtube.com/watch?v=RS4DmYTvHIo
 youtube_url: https://www.youtube.com/watch?v=RS4DmYTvHIo
 tags: ["Frontend, Web & Mobile", "Accessibility", "CI/CD", "Cypress", "Playwright", "Testing", "TypeScript"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

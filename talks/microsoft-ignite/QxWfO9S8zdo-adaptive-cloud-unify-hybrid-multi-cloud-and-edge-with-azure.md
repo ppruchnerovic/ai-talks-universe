@@ -15,6 +15,7 @@ video_id: QxWfO9S8zdo
 url: https://www.youtube.com/watch?v=QxWfO9S8zdo
 youtube_url: https://www.youtube.com/watch?v=QxWfO9S8zdo
 tags: ["AI", "Adaptive cloud: Unify hybrid multi-cloud and edge with Azure Arc | BRK235", "Angie Tran", "Azure Arc", "Azure Monitor", "BRK235", "Bernardo Caldas", "Breakout", "Cloud Management", "Copilot", "English (US)", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Multicloud", "Satya Vel", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

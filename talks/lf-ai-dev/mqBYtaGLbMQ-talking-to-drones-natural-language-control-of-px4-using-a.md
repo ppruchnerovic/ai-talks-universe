@@ -15,6 +15,7 @@ video_id: mqBYtaGLbMQ
 url: https://www.youtube.com/watch?v=mqBYtaGLbMQ
 youtube_url: https://www.youtube.com/watch?v=mqBYtaGLbMQ
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

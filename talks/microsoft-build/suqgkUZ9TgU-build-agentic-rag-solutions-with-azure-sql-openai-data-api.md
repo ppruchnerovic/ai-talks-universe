@@ -15,6 +15,7 @@ video_id: suqgkUZ9TgU
 url: https://www.youtube.com/watch?v=suqgkUZ9TgU
 youtube_url: https://www.youtube.com/watch?v=suqgkUZ9TgU
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

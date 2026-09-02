@@ -15,6 +15,7 @@ video_id: baPvHB27gwY
 url: https://www.youtube.com/watch?v=baPvHB27gwY
 youtube_url: https://www.youtube.com/watch?v=baPvHB27gwY
 tags: ["AI agent architectures pitfalls and real-world business impact | BRK114", "Adam Orentlicher", "BRK114", "English (US)", "Innovate with Azure AI apps and agents", "Luis Héctor Chávez", "Mark Austin", "Naga Surendran", "Technical", "e55c598d-33e9-4cfa-a68d-f834c7e0b30d_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

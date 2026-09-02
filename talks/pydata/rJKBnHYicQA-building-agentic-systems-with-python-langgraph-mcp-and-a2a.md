@@ -15,6 +15,7 @@ video_id: rJKBnHYicQA
 url: https://www.youtube.com/watch?v=rJKBnHYicQA
 youtube_url: https://www.youtube.com/watch?v=rJKBnHYicQA
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: UlRg3vPGhVY
 url: https://www.youtube.com/watch?v=UlRg3vPGhVY
 youtube_url: https://www.youtube.com/watch?v=UlRg3vPGhVY
 tags: ["GenAI Security", "Agentic", "Top 10", "OWASP", "Threat Modeling", "Community", "Hackathons", "LLM", "large language model", "AI", "artificial intelligence", "cybersecurity", "exploring"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

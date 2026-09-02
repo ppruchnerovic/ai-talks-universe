@@ -15,6 +15,7 @@ video_id: SJM81afqSgY
 url: https://www.youtube.com/watch?v=SJM81afqSgY
 youtube_url: https://www.youtube.com/watch?v=SJM81afqSgY
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

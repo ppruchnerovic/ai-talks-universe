@@ -15,6 +15,7 @@ video_id: -L0uv4vsjig
 url: https://www.youtube.com/watch?v=-L0uv4vsjig
 youtube_url: https://www.youtube.com/watch?v=-L0uv4vsjig
 tags: ["rewards", "compensation", "culture", "leadership", "people", "workspace", "salary", "transparency", "remote work", "flexibility", "reward systems", "employee experience", "paychecks", "talent attraction"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

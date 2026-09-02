@@ -15,6 +15,7 @@ video_id: cTK_rEPlY40
 url: https://www.youtube.com/watch?v=cTK_rEPlY40
 youtube_url: https://www.youtube.com/watch?v=cTK_rEPlY40
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

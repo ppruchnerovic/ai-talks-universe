@@ -15,6 +15,7 @@ video_id: iq-c-sharp-startup
 url: https://www.infoq.com/presentations/c-sharp-startup/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

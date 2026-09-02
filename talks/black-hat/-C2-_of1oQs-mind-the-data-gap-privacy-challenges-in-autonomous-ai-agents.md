@@ -15,6 +15,7 @@ video_id: -C2-_of1oQs
 url: https://www.youtube.com/watch?v=-C2-_of1oQs
 youtube_url: https://www.youtube.com/watch?v=-C2-_of1oQs
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

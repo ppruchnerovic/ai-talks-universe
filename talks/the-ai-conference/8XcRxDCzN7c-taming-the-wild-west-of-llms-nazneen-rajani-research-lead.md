@@ -15,6 +15,7 @@ video_id: 8XcRxDCzN7c
 url: https://www.youtube.com/watch?v=8XcRxDCzN7c
 youtube_url: https://www.youtube.com/watch?v=8XcRxDCzN7c
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

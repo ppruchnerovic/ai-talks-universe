@@ -15,6 +15,7 @@ video_id: JpXlTDQHEoo
 url: https://www.youtube.com/watch?v=JpXlTDQHEoo
 youtube_url: https://www.youtube.com/watch?v=JpXlTDQHEoo
 tags: ["AI", "Claude Code", "Claude", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Aleksander Stensby"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

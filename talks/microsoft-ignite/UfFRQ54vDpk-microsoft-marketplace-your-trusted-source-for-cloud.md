@@ -15,6 +15,7 @@ video_id: UfFRQ54vDpk
 url: https://www.youtube.com/watch?v=UfFRQ54vDpk
 youtube_url: https://www.youtube.com/watch?v=UfFRQ54vDpk
 tags: ["Cyril Belikoff", "English (US)", "Microsoft Marketplace: Your trusted source for cloud solutions AI apps and agents​ | STUDIO47", "Other", "STUDIO47", "STUDIO47_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

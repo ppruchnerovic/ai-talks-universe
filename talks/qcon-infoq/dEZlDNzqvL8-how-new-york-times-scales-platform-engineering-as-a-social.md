@@ -15,6 +15,7 @@ video_id: dEZlDNzqvL8
 url: https://www.youtube.com/watch?v=dEZlDNzqvL8
 youtube_url: https://www.youtube.com/watch?v=dEZlDNzqvL8
 tags: ["DevOps", "InfoQ Dev Summit", "Platform Engineering", "The New York Times", "Case Study", "Sociotehnical Systems", "Leadership", "Culture", "InfoQ", "Transcript", "Artificial Intelligence", "QCon", "Software Architecture", "SRE"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

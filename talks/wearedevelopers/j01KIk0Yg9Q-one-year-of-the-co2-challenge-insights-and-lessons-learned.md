@@ -15,6 +15,7 @@ video_id: j01KIk0Yg9Q
 url: https://www.youtube.com/watch?v=j01KIk0Yg9Q
 youtube_url: https://www.youtube.com/watch?v=j01KIk0Yg9Q
 tags: ["Strategy & Innovation", "Best Practices", "Climate & Green Tech"]
+topics: []
 transcript: true
 ---
 

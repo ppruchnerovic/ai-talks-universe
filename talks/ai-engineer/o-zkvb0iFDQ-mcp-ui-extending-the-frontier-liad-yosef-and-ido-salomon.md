@@ -15,6 +15,7 @@ video_id: o-zkvb0iFDQ
 url: https://www.youtube.com/watch?v=o-zkvb0iFDQ
 youtube_url: https://www.youtube.com/watch?v=o-zkvb0iFDQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

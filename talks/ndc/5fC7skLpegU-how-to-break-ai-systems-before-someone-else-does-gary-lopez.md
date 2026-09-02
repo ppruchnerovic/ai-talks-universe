@@ -15,6 +15,7 @@ video_id: 5fC7skLpegU
 url: https://www.youtube.com/watch?v=5fC7skLpegU
 youtube_url: https://www.youtube.com/watch?v=5fC7skLpegU
 tags: ["AI", "ML", "Security", "Security Tooling", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "United Kingdom", "UK", "Gary Lopez", "Amanda Minnich", "Dr Amanda Minnich"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

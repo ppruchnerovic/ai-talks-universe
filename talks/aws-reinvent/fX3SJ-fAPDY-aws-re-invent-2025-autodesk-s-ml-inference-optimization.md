@@ -15,6 +15,7 @@ video_id: fX3SJ-fAPDY
 url: https://www.youtube.com/watch?v=fX3SJ-fAPDY
 youtube_url: https://www.youtube.com/watch?v=fX3SJ-fAPDY
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

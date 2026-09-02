@@ -15,6 +15,7 @@ video_id: 2HNSG990Ew8
 url: https://www.youtube.com/watch?v=2HNSG990Ew8
 youtube_url: https://www.youtube.com/watch?v=2HNSG990Ew8
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

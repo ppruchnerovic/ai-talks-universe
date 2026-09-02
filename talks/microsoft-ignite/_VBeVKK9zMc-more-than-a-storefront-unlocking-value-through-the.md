@@ -15,6 +15,7 @@ video_id: _VBeVKK9zMc
 url: https://www.youtube.com/watch?v=_VBeVKK9zMc
 youtube_url: https://www.youtube.com/watch?v=_VBeVKK9zMc
 tags: ["AI", "Anthony Joseph", "BRK125", "Breakout", "Diego Tamburini", "English (US)", "Intermediate (200)", "Jatin Suri", "Marketplace", "More than a storefront unlocking value through the marketplace | BRK125", "Technical", "Version v2", "Will Kearl", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

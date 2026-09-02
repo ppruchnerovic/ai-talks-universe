@@ -15,6 +15,7 @@ video_id: AlJ1af9875E
 url: https://www.youtube.com/watch?v=AlJ1af9875E
 youtube_url: https://www.youtube.com/watch?v=AlJ1af9875E
 tags: []
+topics: []
 transcript: false
 ---
 

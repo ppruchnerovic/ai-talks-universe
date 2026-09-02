@@ -15,6 +15,7 @@ video_id: gBI-uOq9btU
 url: https://www.youtube.com/watch?v=gBI-uOq9btU
 youtube_url: https://www.youtube.com/watch?v=gBI-uOq9btU
 tags: ["AI", "Architecture", "Machine Learning", "ML", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "Agata Chudzińska"]
+topics: []
 transcript: true
 ---
 

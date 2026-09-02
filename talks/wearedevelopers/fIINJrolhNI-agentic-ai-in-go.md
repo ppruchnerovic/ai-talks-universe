@@ -15,6 +15,7 @@ video_id: fIINJrolhNI
 url: https://www.youtube.com/watch?v=fIINJrolhNI
 youtube_url: https://www.youtube.com/watch?v=fIINJrolhNI
 tags: ["AI Agents", "Agentic AI", "Go", "Innovation", "Multi-Agent Systems"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

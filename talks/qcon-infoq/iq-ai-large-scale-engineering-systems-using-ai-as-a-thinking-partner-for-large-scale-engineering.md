@@ -15,6 +15,7 @@ video_id: iq-ai-large-scale-engineering-systems
 url: https://www.infoq.com/presentations/ai-large-scale-engineering-systems/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: mP93EX_rvRk
 url: https://www.youtube.com/watch?v=mP93EX_rvRk
 youtube_url: https://www.youtube.com/watch?v=mP93EX_rvRk
 tags: []
+topics: []
 transcript: false
 ---
 

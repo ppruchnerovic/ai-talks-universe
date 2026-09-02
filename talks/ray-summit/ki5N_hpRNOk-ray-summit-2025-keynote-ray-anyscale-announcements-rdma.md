@@ -15,6 +15,7 @@ video_id: ki5N_hpRNOk
 url: https://www.youtube.com/watch?v=ki5N_hpRNOk
 youtube_url: https://www.youtube.com/watch?v=ki5N_hpRNOk
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

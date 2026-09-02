@@ -15,6 +15,7 @@ video_id: iq-panel-positive-culture
 url: https://www.infoq.com/presentations/panel-positive-culture/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

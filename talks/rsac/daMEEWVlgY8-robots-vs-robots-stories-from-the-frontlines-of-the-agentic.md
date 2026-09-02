@@ -15,6 +15,7 @@ video_id: daMEEWVlgY8
 url: https://www.youtube.com/watch?v=daMEEWVlgY8
 youtube_url: https://www.youtube.com/watch?v=daMEEWVlgY8
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: true
 ---
 

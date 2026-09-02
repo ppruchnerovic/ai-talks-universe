@@ -15,6 +15,7 @@ video_id: x2zvki_VlRE
 url: https://www.youtube.com/watch?v=x2zvki_VlRE
 youtube_url: https://www.youtube.com/watch?v=x2zvki_VlRE
 tags: []
+topics: []
 transcript: false
 ---
 

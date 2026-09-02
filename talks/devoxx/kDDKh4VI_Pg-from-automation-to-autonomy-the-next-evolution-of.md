@@ -15,6 +15,7 @@ video_id: kDDKh4VI_Pg
 url: https://www.youtube.com/watch?v=kDDKh4VI_Pg
 youtube_url: https://www.youtube.com/watch?v=kDDKh4VI_Pg
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

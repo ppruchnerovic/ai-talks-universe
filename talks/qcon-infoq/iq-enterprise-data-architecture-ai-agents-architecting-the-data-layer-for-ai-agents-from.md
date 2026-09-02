@@ -15,6 +15,7 @@ video_id: iq-enterprise-data-architecture-ai-agents
 url: https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: NxDjrec1VHA
 url: https://www.youtube.com/watch?v=NxDjrec1VHA
 youtube_url: https://www.youtube.com/watch?v=NxDjrec1VHA
 tags: ["Data Streaming", "QCon San Francisco", "Stream Processing", "Apache Kafka", "Apache Flink", "Data Engineering", "Distributed Systems", "ExactlyOnce", "Software Architecture", "Patterns", "InfoQ", "Transcript"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

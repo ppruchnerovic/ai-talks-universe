@@ -15,6 +15,7 @@ video_id: MvuRFCtsicI
 url: https://www.youtube.com/watch?v=MvuRFCtsicI
 youtube_url: https://www.youtube.com/watch?v=MvuRFCtsicI
 tags: ["Security & Privacy", "Cryptography", "Quantum", "TypeScript"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

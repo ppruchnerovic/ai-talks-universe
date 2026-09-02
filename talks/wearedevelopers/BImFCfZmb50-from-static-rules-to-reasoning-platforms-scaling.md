@@ -15,6 +15,7 @@ video_id: BImFCfZmb50
 url: https://www.youtube.com/watch?v=BImFCfZmb50
 youtube_url: https://www.youtube.com/watch?v=BImFCfZmb50
 tags: ["DevOps", "Agentic AI", "ArgoCD", "CI/CD", "Internal Platforms"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

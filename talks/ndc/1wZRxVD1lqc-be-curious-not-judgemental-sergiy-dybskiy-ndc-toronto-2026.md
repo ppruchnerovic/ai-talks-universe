@@ -15,6 +15,7 @@ video_id: 1wZRxVD1lqc
 url: https://www.youtube.com/watch?v=1wZRxVD1lqc
 youtube_url: https://www.youtube.com/watch?v=1wZRxVD1lqc
 tags: ["Work skills", "Tools", "GenAI", "Soft Skills", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Sergiy Dybskiy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

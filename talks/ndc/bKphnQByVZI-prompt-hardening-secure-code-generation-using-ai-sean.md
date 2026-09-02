@@ -15,6 +15,7 @@ video_id: bKphnQByVZI
 url: https://www.youtube.com/watch?v=bKphnQByVZI
 youtube_url: https://www.youtube.com/watch?v=bKphnQByVZI
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

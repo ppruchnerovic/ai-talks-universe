@@ -15,6 +15,7 @@ video_id: z0R6JFHbyPc
 url: https://www.youtube.com/watch?v=z0R6JFHbyPc
 youtube_url: https://www.youtube.com/watch?v=z0R6JFHbyPc
 tags: ["Advancing Confidential Computing: Bosch Microsoft Azure & Intel TDX | ODSP1515", "English (US)", "Manufacturing and Mobility", "ODSP1515", "ODSP1515_v1", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

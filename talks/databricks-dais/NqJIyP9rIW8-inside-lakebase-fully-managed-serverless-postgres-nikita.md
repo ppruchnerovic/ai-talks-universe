@@ -15,6 +15,7 @@ video_id: NqJIyP9rIW8
 url: https://www.youtube.com/watch?v=NqJIyP9rIW8
 youtube_url: https://www.youtube.com/watch?v=NqJIyP9rIW8
 tags: ["Databricks"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

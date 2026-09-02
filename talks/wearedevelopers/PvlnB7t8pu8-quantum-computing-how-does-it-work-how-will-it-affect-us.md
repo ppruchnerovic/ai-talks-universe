@@ -15,6 +15,7 @@ video_id: PvlnB7t8pu8
 url: https://www.youtube.com/watch?v=PvlnB7t8pu8
 youtube_url: https://www.youtube.com/watch?v=PvlnB7t8pu8
 tags: ["Emerging Technologies", "Cryptography", "Quantum", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

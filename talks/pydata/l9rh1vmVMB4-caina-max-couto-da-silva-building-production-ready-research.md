@@ -15,6 +15,7 @@ video_id: l9rh1vmVMB4
 url: https://www.youtube.com/watch?v=l9rh1vmVMB4
 youtube_url: https://www.youtube.com/watch?v=l9rh1vmVMB4
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: SS13OVZktQQ
 url: https://www.youtube.com/watch?v=SS13OVZktQQ
 youtube_url: https://www.youtube.com/watch?v=SS13OVZktQQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

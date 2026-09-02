@@ -15,6 +15,7 @@ video_id: C37Wag4cuhU
 url: https://www.youtube.com/watch?v=C37Wag4cuhU
 youtube_url: https://www.youtube.com/watch?v=C37Wag4cuhU
 tags: ["AI", "AI Agent", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Marina Santos Haguen"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

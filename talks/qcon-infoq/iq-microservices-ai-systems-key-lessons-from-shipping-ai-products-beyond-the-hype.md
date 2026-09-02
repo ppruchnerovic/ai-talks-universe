@@ -15,6 +15,7 @@ video_id: iq-microservices-ai-systems
 url: https://www.infoq.com/presentations/microservices-ai-systems/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

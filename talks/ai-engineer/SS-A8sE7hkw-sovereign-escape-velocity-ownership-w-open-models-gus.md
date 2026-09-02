@@ -15,6 +15,7 @@ video_id: SS-A8sE7hkw
 url: https://www.youtube.com/watch?v=SS-A8sE7hkw
 youtube_url: https://www.youtube.com/watch?v=SS-A8sE7hkw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

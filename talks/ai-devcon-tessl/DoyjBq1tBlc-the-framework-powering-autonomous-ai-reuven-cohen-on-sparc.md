@@ -15,6 +15,7 @@ video_id: DoyjBq1tBlc
 url: https://www.youtube.com/watch?v=DoyjBq1tBlc
 youtube_url: https://www.youtube.com/watch?v=DoyjBq1tBlc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: HmNLgId-RoI
 url: https://www.youtube.com/watch?v=HmNLgId-RoI
 youtube_url: https://www.youtube.com/watch?v=HmNLgId-RoI
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

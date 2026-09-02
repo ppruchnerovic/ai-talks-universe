@@ -15,6 +15,7 @@ video_id: KWmkMV0FNwQ
 url: https://www.youtube.com/watch?v=KWmkMV0FNwQ
 youtube_url: https://www.youtube.com/watch?v=KWmkMV0FNwQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

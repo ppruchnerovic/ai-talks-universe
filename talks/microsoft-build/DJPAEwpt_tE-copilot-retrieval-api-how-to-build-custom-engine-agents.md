@@ -15,6 +15,7 @@ video_id: DJPAEwpt_tE
 url: https://www.youtube.com/watch?v=DJPAEwpt_tE
 youtube_url: https://www.youtube.com/watch?v=DJPAEwpt_tE
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

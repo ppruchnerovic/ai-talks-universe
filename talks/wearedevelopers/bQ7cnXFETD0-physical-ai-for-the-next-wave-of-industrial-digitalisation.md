@@ -15,6 +15,7 @@ video_id: bQ7cnXFETD0
 url: https://www.youtube.com/watch?v=bQ7cnXFETD0
 youtube_url: https://www.youtube.com/watch?v=bQ7cnXFETD0
 tags: ["AI Engineering", "AI Standards", "Open Source", "OpenAI", "Robotics"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

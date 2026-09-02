@@ -15,6 +15,7 @@ video_id: Nx-011g0710
 url: https://www.youtube.com/watch?v=Nx-011g0710
 youtube_url: https://www.youtube.com/watch?v=Nx-011g0710
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

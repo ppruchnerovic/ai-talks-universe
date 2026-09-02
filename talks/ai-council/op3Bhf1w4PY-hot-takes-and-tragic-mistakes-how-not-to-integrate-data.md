@@ -15,6 +15,7 @@ video_id: op3Bhf1w4PY
 url: https://www.youtube.com/watch?v=op3Bhf1w4PY
 youtube_url: https://www.youtube.com/watch?v=op3Bhf1w4PY
 tags: ["dev teams", "data products", "data science"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

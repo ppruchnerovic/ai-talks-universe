@@ -15,6 +15,7 @@ video_id: c8gymd2UVZc
 url: https://www.youtube.com/watch?v=c8gymd2UVZc
 youtube_url: https://www.youtube.com/watch?v=c8gymd2UVZc
 tags: ["BRK350", "Breakout", "English (US)", "Intermediate (200)", "Marketplace", "Mike Mason", "Olivia Nix", "Partner Business", "Partner Program", "Software Company", "Version v0", "What’s new in ISV Success - AI benefits for software companies and more | BRK350", "Yvonne Muench", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

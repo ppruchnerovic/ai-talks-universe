@@ -15,6 +15,7 @@ video_id: LxMaxrOfe1M
 url: https://www.youtube.com/watch?v=LxMaxrOfe1M
 youtube_url: https://www.youtube.com/watch?v=LxMaxrOfe1M
 tags: ["Software Architecture", "InfoQ Dev Summit", "Systems Thinking", "Multi-Agent Systems", "QCon", "InfoQ", "Transcript", "Design Systems", "Best Practices", "AI Agents", "Web Development", "Artificial Intelligence"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

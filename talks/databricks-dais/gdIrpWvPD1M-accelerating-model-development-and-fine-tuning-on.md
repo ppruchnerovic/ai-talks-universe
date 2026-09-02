@@ -15,6 +15,7 @@ video_id: gdIrpWvPD1M
 url: https://www.youtube.com/watch?v=gdIrpWvPD1M
 youtube_url: https://www.youtube.com/watch?v=gdIrpWvPD1M
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

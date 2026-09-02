@@ -15,6 +15,7 @@ video_id: 6Tpm4m1YxHk
 url: https://www.youtube.com/watch?v=6Tpm4m1YxHk
 youtube_url: https://www.youtube.com/watch?v=6Tpm4m1YxHk
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

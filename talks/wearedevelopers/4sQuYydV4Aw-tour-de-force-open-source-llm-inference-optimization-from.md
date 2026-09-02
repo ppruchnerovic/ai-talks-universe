@@ -15,6 +15,7 @@ video_id: 4sQuYydV4Aw
 url: https://www.youtube.com/watch?v=4sQuYydV4Aw
 youtube_url: https://www.youtube.com/watch?v=4sQuYydV4Aw
 tags: ["AI Engineering", "Azure", "Generative AI (GenAI)", "Infrastructure", "LLMOps", "Python", "Software Architecture"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

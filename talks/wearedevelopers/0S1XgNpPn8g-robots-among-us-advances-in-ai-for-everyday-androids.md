@@ -15,6 +15,7 @@ video_id: 0S1XgNpPn8g
 url: https://www.youtube.com/watch?v=0S1XgNpPn8g
 youtube_url: https://www.youtube.com/watch?v=0S1XgNpPn8g
 tags: ["Emerging Technologies", "AI Models", "Model Training", "Reinforcement Learning", "Robotics"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

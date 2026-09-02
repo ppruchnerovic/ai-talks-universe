@@ -15,6 +15,7 @@ video_id: KRgKiac6vDo
 url: https://www.youtube.com/watch?v=KRgKiac6vDo
 youtube_url: https://www.youtube.com/watch?v=KRgKiac6vDo
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

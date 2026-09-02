@@ -15,6 +15,7 @@ video_id: iq-streaming-application-aws-infrastructure
 url: https://www.infoq.com/presentations/streaming-application-aws-infrastructure/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

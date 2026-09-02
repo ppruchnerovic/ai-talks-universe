@@ -15,6 +15,7 @@ video_id: jebp4V0vh30
 url: https://www.youtube.com/watch?v=jebp4V0vh30
 youtube_url: https://www.youtube.com/watch?v=jebp4V0vh30
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: PwhlxJrjQgQ
 url: https://www.youtube.com/watch?v=PwhlxJrjQgQ
 youtube_url: https://www.youtube.com/watch?v=PwhlxJrjQgQ
 tags: ["AI"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Coding assistants & agents", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

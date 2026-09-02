@@ -15,6 +15,7 @@ video_id: DIIteghPGx4
 url: https://www.youtube.com/watch?v=DIIteghPGx4
 youtube_url: https://www.youtube.com/watch?v=DIIteghPGx4
 tags: ["NVIDIA", "NVIDIA GTC 2026"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

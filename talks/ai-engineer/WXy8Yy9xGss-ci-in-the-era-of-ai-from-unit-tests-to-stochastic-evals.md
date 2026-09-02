@@ -15,6 +15,7 @@ video_id: WXy8Yy9xGss
 url: https://www.youtube.com/watch?v=WXy8Yy9xGss
 youtube_url: https://www.youtube.com/watch?v=WXy8Yy9xGss
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

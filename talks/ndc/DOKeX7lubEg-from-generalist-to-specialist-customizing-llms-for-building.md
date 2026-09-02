@@ -15,6 +15,7 @@ video_id: DOKeX7lubEg
 url: https://www.youtube.com/watch?v=DOKeX7lubEg
 youtube_url: https://www.youtube.com/watch?v=DOKeX7lubEg
 tags: ["AI", "GenAI", "LLM", "RAG", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Malte Loller-Andersen"]
+topics: []
 transcript: false
 ---
 

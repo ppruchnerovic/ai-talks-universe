@@ -15,6 +15,7 @@ video_id: xOlj0rgu_G4
 url: https://www.youtube.com/watch?v=xOlj0rgu_G4
 youtube_url: https://www.youtube.com/watch?v=xOlj0rgu_G4
 tags: ["SSJKFW"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

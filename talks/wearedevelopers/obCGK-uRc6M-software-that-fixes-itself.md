@@ -15,6 +15,7 @@ video_id: obCGK-uRc6M
 url: https://www.youtube.com/watch?v=obCGK-uRc6M
 youtube_url: https://www.youtube.com/watch?v=obCGK-uRc6M
 tags: ["Quality & Reliability"]
+topics: []
 transcript: true
 ---
 

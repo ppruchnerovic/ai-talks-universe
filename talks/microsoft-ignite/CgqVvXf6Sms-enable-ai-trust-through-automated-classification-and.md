@@ -15,6 +15,7 @@ video_id: CgqVvXf6Sms
 url: https://www.youtube.com/watch?v=CgqVvXf6Sms
 youtube_url: https://www.youtube.com/watch?v=CgqVvXf6Sms
 tags: ["638dbb4c-a2ce-44fa-aa3f-b02ba5cbfd83_Segment", "BRKSP475", "Cliff Embry", "Dan Holland", "Enable AI trust through automated classification and labeling | BRKSP475", "English (US)", "Protect cloud AI platform and apps", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

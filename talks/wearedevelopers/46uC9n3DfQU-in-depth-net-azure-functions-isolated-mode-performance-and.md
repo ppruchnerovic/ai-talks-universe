@@ -15,6 +15,7 @@ video_id: 46uC9n3DfQU
 url: https://www.youtube.com/watch?v=46uC9n3DfQU
 youtube_url: https://www.youtube.com/watch?v=46uC9n3DfQU
 tags: ["Languages & Runtimes", "Agentic AI", "Azure", ".NET", "Performance"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

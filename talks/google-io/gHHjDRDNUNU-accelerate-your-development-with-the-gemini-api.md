@@ -15,6 +15,7 @@ video_id: gHHjDRDNUNU
 url: https://www.youtube.com/watch?v=gHHjDRDNUNU
 youtube_url: https://www.youtube.com/watch?v=gHHjDRDNUNU
 tags: []
+topics: []
 transcript: false
 ---
 

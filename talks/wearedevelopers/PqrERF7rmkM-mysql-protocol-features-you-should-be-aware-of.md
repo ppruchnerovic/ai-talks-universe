@@ -15,6 +15,7 @@ video_id: PqrERF7rmkM
 url: https://www.youtube.com/watch?v=PqrERF7rmkM
 youtube_url: https://www.youtube.com/watch?v=PqrERF7rmkM
 tags: ["Data & Databases", "Databases", "MySQL", "Networking", "SQL"]
+topics: []
 transcript: true
 ---
 

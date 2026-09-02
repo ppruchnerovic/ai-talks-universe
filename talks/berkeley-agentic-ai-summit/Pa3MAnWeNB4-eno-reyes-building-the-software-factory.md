@@ -15,6 +15,7 @@ video_id: Pa3MAnWeNB4
 url: https://www.youtube.com/watch?v=Pa3MAnWeNB4
 youtube_url: https://www.youtube.com/watch?v=Pa3MAnWeNB4
 tags: []
+topics: []
 transcript: true
 ---
 

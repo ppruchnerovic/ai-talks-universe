@@ -15,6 +15,7 @@ video_id: tEHzFedonNc
 url: https://www.youtube.com/watch?v=tEHzFedonNc
 youtube_url: https://www.youtube.com/watch?v=tEHzFedonNc
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Prompting & context engineering"]
 transcript: false
 ---
 

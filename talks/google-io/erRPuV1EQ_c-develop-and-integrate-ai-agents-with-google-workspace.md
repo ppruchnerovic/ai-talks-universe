@@ -15,6 +15,7 @@ video_id: erRPuV1EQ_c
 url: https://www.youtube.com/watch?v=erRPuV1EQ_c
 youtube_url: https://www.youtube.com/watch?v=erRPuV1EQ_c
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Enterprise agentic workflows", "Google Docs agent API", "Gmail Agent API", "Google Agent AI integration", "A2A Protocol", "Agent Development Kit (ADK)", "Google Workspace developer platform"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

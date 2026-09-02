@@ -15,6 +15,7 @@ video_id: anI4Hr-ag80
 url: https://www.youtube.com/watch?v=anI4Hr-ag80
 youtube_url: https://www.youtube.com/watch?v=anI4Hr-ag80
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

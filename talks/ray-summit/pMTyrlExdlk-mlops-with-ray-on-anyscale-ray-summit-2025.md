@@ -15,6 +15,7 @@ video_id: pMTyrlExdlk
 url: https://www.youtube.com/watch?v=pMTyrlExdlk
 youtube_url: https://www.youtube.com/watch?v=pMTyrlExdlk
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

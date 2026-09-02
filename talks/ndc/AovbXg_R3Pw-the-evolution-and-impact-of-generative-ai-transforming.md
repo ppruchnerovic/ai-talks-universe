@@ -15,6 +15,7 @@ video_id: AovbXg_R3Pw
 url: https://www.youtube.com/watch?v=AovbXg_R3Pw
 youtube_url: https://www.youtube.com/watch?v=AovbXg_R3Pw
 tags: ["AI", "Machine Learning", "People", "Security", "GenAI", "ML", "ChatGPT", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Vanessa Van Beek"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

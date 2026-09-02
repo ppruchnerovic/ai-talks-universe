@@ -15,6 +15,7 @@ video_id: ZChIK-Fildc
 url: https://www.youtube.com/watch?v=ZChIK-Fildc
 youtube_url: https://www.youtube.com/watch?v=ZChIK-Fildc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

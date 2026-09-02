@@ -15,6 +15,7 @@ video_id: MfaRnbg217g
 url: https://www.youtube.com/watch?v=MfaRnbg217g
 youtube_url: https://www.youtube.com/watch?v=MfaRnbg217g
 tags: []
+topics: []
 transcript: false
 ---
 

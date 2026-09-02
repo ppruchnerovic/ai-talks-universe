@@ -15,6 +15,7 @@ video_id: EL123UNokkI
 url: https://www.youtube.com/watch?v=EL123UNokkI
 youtube_url: https://www.youtube.com/watch?v=EL123UNokkI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

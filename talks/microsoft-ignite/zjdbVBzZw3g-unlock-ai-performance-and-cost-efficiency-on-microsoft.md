@@ -15,6 +15,7 @@ video_id: zjdbVBzZw3g
 url: https://www.youtube.com/watch?v=zjdbVBzZw3g
 youtube_url: https://www.youtube.com/watch?v=zjdbVBzZw3g
 tags: ["BRKSP482", "English (US)", "Innovate with Azure AI apps and agents", "Mayunk Jain", "Stefanie Lemon", "Technical", "Unlock AI performance and cost efficiency on Microsoft Azure | BRKSP482", "f5n1", "f63e91d9-33e2-41db-a356-629dd3354a4d_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

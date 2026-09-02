@@ -15,6 +15,7 @@ video_id: ulTTDSGuAYI
 url: https://www.youtube.com/watch?v=ulTTDSGuAYI
 youtube_url: https://www.youtube.com/watch?v=ulTTDSGuAYI
 tags: ["AI Engineering"]
+topics: []
 transcript: true
 ---
 

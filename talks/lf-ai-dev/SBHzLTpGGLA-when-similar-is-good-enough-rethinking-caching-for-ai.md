@@ -15,6 +15,7 @@ video_id: SBHzLTpGGLA
 url: https://www.youtube.com/watch?v=SBHzLTpGGLA
 youtube_url: https://www.youtube.com/watch?v=SBHzLTpGGLA
 tags: []
+topics: []
 transcript: true
 ---
 

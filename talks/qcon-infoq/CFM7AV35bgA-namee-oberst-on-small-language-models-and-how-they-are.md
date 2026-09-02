@@ -15,6 +15,7 @@ video_id: CFM7AV35bgA
 url: https://www.youtube.com/watch?v=CFM7AV35bgA
 youtube_url: https://www.youtube.com/watch?v=CFM7AV35bgA
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

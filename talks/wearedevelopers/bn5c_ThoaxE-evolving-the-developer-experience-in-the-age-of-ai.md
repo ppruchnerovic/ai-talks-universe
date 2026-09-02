@@ -15,6 +15,7 @@ video_id: bn5c_ThoaxE
 url: https://www.youtube.com/watch?v=bn5c_ThoaxE
 youtube_url: https://www.youtube.com/watch?v=bn5c_ThoaxE
 tags: ["Developer Experience", "Advocacy", "Career Development", "Developer Experience (DevEx)", "DevRel & Advocacy"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

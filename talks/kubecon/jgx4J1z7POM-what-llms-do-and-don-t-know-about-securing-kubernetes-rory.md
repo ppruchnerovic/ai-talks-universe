@@ -15,6 +15,7 @@ video_id: jgx4J1z7POM
 url: https://www.youtube.com/watch?v=jgx4J1z7POM
 youtube_url: https://www.youtube.com/watch?v=jgx4J1z7POM
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

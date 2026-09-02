@@ -15,6 +15,7 @@ video_id: u82r_eqUaiI
 url: https://www.youtube.com/watch?v=u82r_eqUaiI
 youtube_url: https://www.youtube.com/watch?v=u82r_eqUaiI
 tags: ["data engineering", "infrastructure", "open source", "Apache Pinot", "elasticsearch"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: mhZ1It6lb4M
 url: https://www.youtube.com/watch?v=mhZ1It6lb4M
 youtube_url: https://www.youtube.com/watch?v=mhZ1It6lb4M
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

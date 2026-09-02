@@ -15,6 +15,7 @@ video_id: mav15aW9lLM
 url: https://www.youtube.com/watch?v=mav15aW9lLM
 youtube_url: https://www.youtube.com/watch?v=mav15aW9lLM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-local-ai-browser-inference-privacy
 url: https://www.infoq.com/presentations/local-ai-browser-inference-privacy/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

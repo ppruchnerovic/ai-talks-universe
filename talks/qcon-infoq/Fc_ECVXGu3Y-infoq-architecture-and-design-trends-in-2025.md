@@ -15,6 +15,7 @@ video_id: Fc_ECVXGu3Y
 url: https://www.youtube.com/watch?v=Fc_ECVXGu3Y
 youtube_url: https://www.youtube.com/watch?v=Fc_ECVXGu3Y
 tags: ["Software Architecture", "AI", "Resilience", "Platform Engineering", "InfoQ Trends Report", "Cell-Based Architecture", "Sustainable Computing", "InfoQ Trends Report 2025", "AI Architecture", "Edge", "Green Software", "Retrieval-Augmented Generation", "Emerging Technologies", "The InfoQ Podcast", "Large language models", "Data"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

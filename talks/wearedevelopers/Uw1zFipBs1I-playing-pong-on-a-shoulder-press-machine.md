@@ -15,6 +15,7 @@ video_id: Uw1zFipBs1I
 url: https://www.youtube.com/watch?v=Uw1zFipBs1I
 youtube_url: https://www.youtube.com/watch?v=Uw1zFipBs1I
 tags: ["Emerging Technologies", "Internet of Things (IoT)"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: JOye06P5JZI
 url: https://www.youtube.com/watch?v=JOye06P5JZI
 youtube_url: https://www.youtube.com/watch?v=JOye06P5JZI
 tags: ["Airflow", "Conference", "GPT-4", "LLM", "OpenAI", "PyConDE", "PyData", "PyData Berlin 2025", "PySpark", "Python", "Tech Talk", "batch processing", "cost optimization", "embeddings", "large language models", "machine learning at scale", "product categorization", "production ML", "prompt engineering", "text classification"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

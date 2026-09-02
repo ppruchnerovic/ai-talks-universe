@@ -15,6 +15,7 @@ video_id: KY3tOCPhUgI
 url: https://www.youtube.com/watch?v=KY3tOCPhUgI
 youtube_url: https://www.youtube.com/watch?v=KY3tOCPhUgI
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation", "Prompting & context engineering", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

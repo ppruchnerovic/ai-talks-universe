@@ -15,6 +15,7 @@ video_id: wl8FCp5-ftw
 url: https://www.youtube.com/watch?v=wl8FCp5-ftw
 youtube_url: https://www.youtube.com/watch?v=wl8FCp5-ftw
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: FMEW8cgzmsc
 url: https://www.youtube.com/watch?v=FMEW8cgzmsc
 youtube_url: https://www.youtube.com/watch?v=FMEW8cgzmsc
 tags: ["AI", "Agents", "DEM306", "GitHub", "OM1: Modular by Design Hardware-Agnostic by Default. Your gateway to next-gen robotics | DEM306", "OSS", "Prachi Sethi", "build", "build 2026", "f9818341-9d02-497c-9b46-cb5f25533179_M9Z7-DEM306-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

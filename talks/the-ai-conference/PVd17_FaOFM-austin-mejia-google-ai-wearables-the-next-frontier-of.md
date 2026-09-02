@@ -15,6 +15,7 @@ video_id: PVd17_FaOFM
 url: https://www.youtube.com/watch?v=PVd17_FaOFM
 youtube_url: https://www.youtube.com/watch?v=PVd17_FaOFM
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

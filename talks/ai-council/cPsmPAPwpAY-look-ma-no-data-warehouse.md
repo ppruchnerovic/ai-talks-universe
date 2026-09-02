@@ -15,6 +15,7 @@ video_id: cPsmPAPwpAY
 url: https://www.youtube.com/watch?v=cPsmPAPwpAY
 youtube_url: https://www.youtube.com/watch?v=cPsmPAPwpAY
 tags: ["DuckDB", "Apache Iceberg", "cost optimization", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "cloud alternative", "open source", "data lakehouse", "data warehouse alternative", "Python tutorial", "embedded analytics", "serverless analytics", "portable analytics", "SQL analytics", "analytical database", "columnar storage", "query optimization", "performance tuning", "memory management", "local analytics"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

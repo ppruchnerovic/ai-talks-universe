@@ -15,6 +15,7 @@ video_id: sd9qXrxCVAI
 url: https://www.youtube.com/watch?v=sd9qXrxCVAI
 youtube_url: https://www.youtube.com/watch?v=sd9qXrxCVAI
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: MGdiao3YRuo
 url: https://www.youtube.com/watch?v=MGdiao3YRuo
 youtube_url: https://www.youtube.com/watch?v=MGdiao3YRuo
 tags: ["owasp", "genai", "security", "project", "ai exchange", "red teaming", "generative ai", "bad actors", "advantage", "efforts", "giving"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

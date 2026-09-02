@@ -15,6 +15,7 @@ video_id: iq-llm-data-code-model-prompt
 url: https://www.infoq.com/presentations/llm-data-code-model-prompt/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: l8x_DYCHVio
 url: https://www.youtube.com/watch?v=l8x_DYCHVio
 youtube_url: https://www.youtube.com/watch?v=l8x_DYCHVio
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: bUJgirn4_yc
 url: https://www.youtube.com/watch?v=bUJgirn4_yc
 youtube_url: https://www.youtube.com/watch?v=bUJgirn4_yc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

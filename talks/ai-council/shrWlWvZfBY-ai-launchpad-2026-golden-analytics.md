@@ -15,6 +15,7 @@ video_id: shrWlWvZfBY
 url: https://www.youtube.com/watch?v=shrWlWvZfBY
 youtube_url: https://www.youtube.com/watch?v=shrWlWvZfBY
 tags: ["AI"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

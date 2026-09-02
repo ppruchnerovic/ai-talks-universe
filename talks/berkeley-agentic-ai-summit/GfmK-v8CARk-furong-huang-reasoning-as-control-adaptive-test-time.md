@@ -15,6 +15,7 @@ video_id: GfmK-v8CARk
 url: https://www.youtube.com/watch?v=GfmK-v8CARk
 youtube_url: https://www.youtube.com/watch?v=GfmK-v8CARk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

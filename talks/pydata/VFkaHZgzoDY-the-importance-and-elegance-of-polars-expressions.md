@@ -15,6 +15,7 @@ video_id: VFkaHZgzoDY
 url: https://www.youtube.com/watch?v=VFkaHZgzoDY
 youtube_url: https://www.youtube.com/watch?v=VFkaHZgzoDY
 tags: ["Conference", "Jeroen Janssens", "Polars", "PyConDE", "PyData", "Python", "Python Polars", "Python conference", "Tech Talk", "data manipulation", "data science", "data transformation", "data wrangling", "dataframes", "expressions", "intermediate Python", "lazy evaluation", "pandas alternative", "query optimization"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

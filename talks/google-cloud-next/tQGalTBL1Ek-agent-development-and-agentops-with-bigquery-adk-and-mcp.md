@@ -15,6 +15,7 @@ video_id: tQGalTBL1Ek
 url: https://www.youtube.com/watch?v=tQGalTBL1Ek
 youtube_url: https://www.youtube.com/watch?v=tQGalTBL1Ek
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

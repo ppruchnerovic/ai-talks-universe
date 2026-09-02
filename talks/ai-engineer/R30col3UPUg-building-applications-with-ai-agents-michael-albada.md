@@ -15,6 +15,7 @@ video_id: R30col3UPUg
 url: https://www.youtube.com/watch?v=R30col3UPUg
 youtube_url: https://www.youtube.com/watch?v=R30col3UPUg
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

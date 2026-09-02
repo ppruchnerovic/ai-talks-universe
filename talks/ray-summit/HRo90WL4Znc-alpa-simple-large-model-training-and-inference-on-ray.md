@@ -15,6 +15,7 @@ video_id: HRo90WL4Znc
 url: https://www.youtube.com/watch?v=HRo90WL4Znc
 youtube_url: https://www.youtube.com/watch?v=HRo90WL4Znc
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

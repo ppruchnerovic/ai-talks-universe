@@ -15,6 +15,7 @@ video_id: PtEPACeBLbI
 url: https://www.youtube.com/watch?v=PtEPACeBLbI
 youtube_url: https://www.youtube.com/watch?v=PtEPACeBLbI
 tags: ["AI", "Fun", "Azure", "NDC", "Conferences", "2026", "Live", "London", "UK", "United Kingdom", "England", "Alan Smith"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

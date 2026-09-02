@@ -15,6 +15,7 @@ video_id: 4vX2NJgKc14
 url: https://www.youtube.com/watch?v=4vX2NJgKc14
 youtube_url: https://www.youtube.com/watch?v=4vX2NJgKc14
 tags: ["AI", "GenAI", "Ethics", "People", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Denmark", "Matthijs van der Veer"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

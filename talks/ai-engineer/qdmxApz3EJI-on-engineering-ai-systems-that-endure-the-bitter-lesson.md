@@ -15,6 +15,7 @@ video_id: qdmxApz3EJI
 url: https://www.youtube.com/watch?v=qdmxApz3EJI
 youtube_url: https://www.youtube.com/watch?v=qdmxApz3EJI
 tags: []
+topics: ["Data engineering & MLOps", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

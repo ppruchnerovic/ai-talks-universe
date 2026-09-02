@@ -15,6 +15,7 @@ video_id: gdi95CKeQL4
 url: https://www.youtube.com/watch?v=gdi95CKeQL4
 youtube_url: https://www.youtube.com/watch?v=gdi95CKeQL4
 tags: ["BRK305", "BRK305_v1", "Build A365-Ready Agents for the Enterprise | BRK305", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "English (US)", "Innovate with low-code AI and agents", "James Oleinik", "Robert Bruckner", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

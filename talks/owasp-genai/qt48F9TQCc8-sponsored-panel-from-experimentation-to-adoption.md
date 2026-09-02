@@ -15,6 +15,7 @@ video_id: qt48F9TQCc8
 url: https://www.youtube.com/watch?v=qt48F9TQCc8
 youtube_url: https://www.youtube.com/watch?v=qt48F9TQCc8
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

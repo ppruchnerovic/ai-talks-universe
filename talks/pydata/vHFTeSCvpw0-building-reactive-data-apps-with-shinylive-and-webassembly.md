@@ -15,6 +15,7 @@ video_id: vHFTeSCvpw0
 url: https://www.youtube.com/watch?v=vHFTeSCvpw0
 youtube_url: https://www.youtube.com/watch?v=vHFTeSCvpw0
 tags: ["Conference", "FastAPI", "GitHub Pages", "Parquet", "PyConDE", "PyData", "PyData Berlin", "Pyodide", "Python", "Shinylive", "Tech Talk", "WebAssembly", "browser-based apps", "data science", "data visualization", "reactive programming", "serverless", "static deployment", "web development"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

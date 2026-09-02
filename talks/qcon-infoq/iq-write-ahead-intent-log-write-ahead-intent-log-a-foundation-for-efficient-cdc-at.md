@@ -15,6 +15,7 @@ video_id: iq-write-ahead-intent-log
 url: https://www.infoq.com/presentations/write-ahead-intent-log/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

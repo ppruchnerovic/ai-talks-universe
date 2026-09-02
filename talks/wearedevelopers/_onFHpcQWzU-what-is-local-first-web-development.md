@@ -15,6 +15,7 @@ video_id: _onFHpcQWzU
 url: https://www.youtube.com/watch?v=_onFHpcQWzU
 youtube_url: https://www.youtube.com/watch?v=_onFHpcQWzU
 tags: ["Frontend, Web & Mobile", "Progressive Web Apps (PWAs)", "Vue.js"]
+topics: []
 transcript: true
 ---
 

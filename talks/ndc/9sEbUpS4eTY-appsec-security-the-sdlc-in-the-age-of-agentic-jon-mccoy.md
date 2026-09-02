@@ -15,6 +15,7 @@ video_id: 9sEbUpS4eTY
 url: https://www.youtube.com/watch?v=9sEbUpS4eTY
 youtube_url: https://www.youtube.com/watch?v=9sEbUpS4eTY
 tags: ["Security", "Application Security", "SDLC", "AppSec", "Machine Learning", "AI", "ML", "Architecture", "OWASP", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

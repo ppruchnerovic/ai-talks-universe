@@ -15,6 +15,7 @@ video_id: wBo59ck-74A
 url: https://www.youtube.com/watch?v=wBo59ck-74A
 youtube_url: https://www.youtube.com/watch?v=wBo59ck-74A
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "Is Your ML Model Trustworthy?", "mlops community", "ml model"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

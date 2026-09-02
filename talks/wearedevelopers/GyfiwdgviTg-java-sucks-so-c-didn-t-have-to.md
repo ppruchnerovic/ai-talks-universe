@@ -15,6 +15,7 @@ video_id: GyfiwdgviTg
 url: https://www.youtube.com/watch?v=GyfiwdgviTg
 youtube_url: https://www.youtube.com/watch?v=GyfiwdgviTg
 tags: ["Languages & Runtimes", "C#", "Java"]
+topics: []
 transcript: true
 ---
 

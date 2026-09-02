@@ -15,6 +15,7 @@ video_id: hMlLw1LeIK8
 url: https://www.youtube.com/watch?v=hMlLw1LeIK8
 youtube_url: https://www.youtube.com/watch?v=hMlLw1LeIK8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

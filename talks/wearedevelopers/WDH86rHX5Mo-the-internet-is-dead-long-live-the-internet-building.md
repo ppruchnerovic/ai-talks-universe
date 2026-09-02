@@ -15,6 +15,7 @@ video_id: WDH86rHX5Mo
 url: https://www.youtube.com/watch?v=WDH86rHX5Mo
 youtube_url: https://www.youtube.com/watch?v=WDH86rHX5Mo
 tags: ["Developer Experience", "Accessibility", "Advocacy", "Agentic AI", "Diversity & Inclusion"]
+topics: []
 transcript: true
 ---
 

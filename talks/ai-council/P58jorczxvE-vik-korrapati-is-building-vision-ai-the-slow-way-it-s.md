@@ -15,6 +15,7 @@ video_id: P58jorczxvE
 url: https://www.youtube.com/watch?v=P58jorczxvE
 youtube_url: https://www.youtube.com/watch?v=P58jorczxvE
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

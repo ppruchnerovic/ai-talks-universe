@@ -15,6 +15,7 @@ video_id: ZKqV1Ok-2-c
 url: https://www.youtube.com/watch?v=ZKqV1Ok-2-c
 youtube_url: https://www.youtube.com/watch?v=ZKqV1Ok-2-c
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

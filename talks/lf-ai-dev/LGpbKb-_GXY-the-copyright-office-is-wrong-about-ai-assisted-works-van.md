@@ -15,6 +15,7 @@ video_id: LGpbKb-_GXY
 url: https://www.youtube.com/watch?v=LGpbKb-_GXY
 youtube_url: https://www.youtube.com/watch?v=LGpbKb-_GXY
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

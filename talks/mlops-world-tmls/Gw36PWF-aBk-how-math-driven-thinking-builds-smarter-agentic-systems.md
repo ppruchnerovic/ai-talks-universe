@@ -15,6 +15,7 @@ video_id: Gw36PWF-aBk
 url: https://www.youtube.com/watch?v=Gw36PWF-aBk
 youtube_url: https://www.youtube.com/watch?v=Gw36PWF-aBk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: igsAMZWH1e4
 url: https://www.youtube.com/watch?v=igsAMZWH1e4
 youtube_url: https://www.youtube.com/watch?v=igsAMZWH1e4
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 4YS02WZw29g
 url: https://www.youtube.com/watch?v=4YS02WZw29g
 youtube_url: https://www.youtube.com/watch?v=4YS02WZw29g
 tags: ["Google DeepMind", "Gemini 2.0", "Imagen 3", "ChatGPT", "artificial intelligence", "machine learning", "Veo", "Google AI", "AI tutorial", "image generation", "video AI", "AI tools", "generative AI", "multimodal AI", "Python tutorial", "computer vision", "natural language processing", "creative AI", "content generation", "visual AI", "video generation", "image synthesis", "AI creativity", "neural networks", "foundation models"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

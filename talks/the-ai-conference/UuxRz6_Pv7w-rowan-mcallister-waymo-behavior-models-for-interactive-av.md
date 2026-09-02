@@ -15,6 +15,7 @@ video_id: UuxRz6_Pv7w
 url: https://www.youtube.com/watch?v=UuxRz6_Pv7w
 youtube_url: https://www.youtube.com/watch?v=UuxRz6_Pv7w
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: HJm-luyvVR8
 url: https://www.youtube.com/watch?v=HJm-luyvVR8
 youtube_url: https://www.youtube.com/watch?v=HJm-luyvVR8
 tags: []
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

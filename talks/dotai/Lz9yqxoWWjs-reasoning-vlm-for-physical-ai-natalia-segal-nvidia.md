@@ -15,6 +15,7 @@ video_id: Lz9yqxoWWjs
 url: https://www.youtube.com/watch?v=Lz9yqxoWWjs
 youtube_url: https://www.youtube.com/watch?v=Lz9yqxoWWjs
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

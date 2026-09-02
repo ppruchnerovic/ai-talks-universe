@@ -15,6 +15,7 @@ video_id: Wkpt2MDCaxI
 url: https://www.youtube.com/watch?v=Wkpt2MDCaxI
 youtube_url: https://www.youtube.com/watch?v=Wkpt2MDCaxI
 tags: ["AI"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

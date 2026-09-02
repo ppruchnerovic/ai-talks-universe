@@ -15,6 +15,7 @@ video_id: ig1qKrgOa7U
 url: https://www.youtube.com/watch?v=ig1qKrgOa7U
 youtube_url: https://www.youtube.com/watch?v=ig1qKrgOa7U
 tags: ["AI", "Administration", "Adoption", "Azure Virtual Desktop", "BRKFP368", "Lead in AI's next wave with future focused ArrowSphere Assistant | BRKFP368", "Medium-sized businesses", "Product management", "SMB", "Small and medium-sized businesses", "Small businesses", "Task Management", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-5-principles-llm-behavior
 url: https://www.infoq.com/presentations/5-principles-llm-behavior/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

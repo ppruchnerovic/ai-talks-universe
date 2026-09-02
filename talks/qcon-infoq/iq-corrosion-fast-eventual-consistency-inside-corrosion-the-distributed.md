@@ -15,6 +15,7 @@ video_id: iq-corrosion
 url: https://www.infoq.com/presentations/corrosion/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

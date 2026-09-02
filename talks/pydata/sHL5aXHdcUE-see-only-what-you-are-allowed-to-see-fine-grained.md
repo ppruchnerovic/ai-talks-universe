@@ -15,6 +15,7 @@ video_id: sHL5aXHdcUE
 url: https://www.youtube.com/watch?v=sHL5aXHdcUE
 youtube_url: https://www.youtube.com/watch?v=sHL5aXHdcUE
 tags: ["Conference", "Google Zanzibar", "OpenFGA", "PyConDE", "PyData", "Python", "Python SDK", "ReBAC", "Tech Talk", "access control", "authorization patterns", "data security", "fine-grained authorization", "hands-on tutorial", "microservices", "permission management", "relationship-based access control", "row-level security"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: hVJOnuhFmTA
 url: https://www.youtube.com/watch?v=hVJOnuhFmTA
 youtube_url: https://www.youtube.com/watch?v=hVJOnuhFmTA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

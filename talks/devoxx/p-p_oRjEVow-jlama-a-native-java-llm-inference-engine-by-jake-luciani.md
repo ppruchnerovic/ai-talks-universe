@@ -15,6 +15,7 @@ video_id: p-p_oRjEVow
 url: https://www.youtube.com/watch?v=p-p_oRjEVow
 youtube_url: https://www.youtube.com/watch?v=p-p_oRjEVow
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

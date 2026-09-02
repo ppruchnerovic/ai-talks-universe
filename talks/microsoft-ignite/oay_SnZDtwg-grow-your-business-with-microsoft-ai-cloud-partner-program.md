@@ -15,6 +15,7 @@ video_id: oay_SnZDtwg
 url: https://www.youtube.com/watch?v=oay_SnZDtwg
 youtube_url: https://www.youtube.com/watch?v=oay_SnZDtwg
 tags: ["Andrew Smith", "BRK347", "Breakout", "Dan Rippey", "English (US)", "Foundational (100)", "Grow your business with Microsoft AI Cloud Partner Program | BRK347", "Partner Business", "Partner Program", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

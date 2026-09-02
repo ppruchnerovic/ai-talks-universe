@@ -15,6 +15,7 @@ video_id: iMC_Um32UTQ
 url: https://www.youtube.com/watch?v=iMC_Um32UTQ
 youtube_url: https://www.youtube.com/watch?v=iMC_Um32UTQ
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

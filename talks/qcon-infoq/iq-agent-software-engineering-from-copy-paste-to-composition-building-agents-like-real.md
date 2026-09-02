@@ -15,6 +15,7 @@ video_id: iq-agent-software-engineering
 url: https://www.infoq.com/presentations/agent-software-engineering/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

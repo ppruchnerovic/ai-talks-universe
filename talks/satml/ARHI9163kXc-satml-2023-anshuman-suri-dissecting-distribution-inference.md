@@ -15,6 +15,7 @@ video_id: ARHI9163kXc
 url: https://www.youtube.com/watch?v=ARHI9163kXc
 youtube_url: https://www.youtube.com/watch?v=ARHI9163kXc
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

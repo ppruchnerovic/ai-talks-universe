@@ -15,6 +15,7 @@ video_id: pn2voTq4mxY
 url: https://www.youtube.com/watch?v=pn2voTq4mxY
 youtube_url: https://www.youtube.com/watch?v=pn2voTq4mxY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

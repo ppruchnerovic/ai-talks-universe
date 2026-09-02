@@ -15,6 +15,7 @@ video_id: AMiyLItEtLA
 url: https://www.youtube.com/watch?v=AMiyLItEtLA
 youtube_url: https://www.youtube.com/watch?v=AMiyLItEtLA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

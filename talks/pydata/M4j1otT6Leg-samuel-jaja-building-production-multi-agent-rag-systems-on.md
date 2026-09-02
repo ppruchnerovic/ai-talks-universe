@@ -15,6 +15,7 @@ video_id: M4j1otT6Leg
 url: https://www.youtube.com/watch?v=M4j1otT6Leg
 youtube_url: https://www.youtube.com/watch?v=M4j1otT6Leg
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

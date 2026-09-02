@@ -15,6 +15,7 @@ video_id: nCeUgrWjBMo
 url: https://www.youtube.com/watch?v=nCeUgrWjBMo
 youtube_url: https://www.youtube.com/watch?v=nCeUgrWjBMo
 tags: ["Frontend, Web & Mobile", "AI Models", "Agents", "Agentic AI", "Android", "iOS", "WebAssembly"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

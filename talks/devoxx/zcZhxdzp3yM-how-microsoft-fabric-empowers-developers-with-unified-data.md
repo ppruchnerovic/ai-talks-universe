@@ -15,6 +15,7 @@ video_id: zcZhxdzp3yM
 url: https://www.youtube.com/watch?v=zcZhxdzp3yM
 youtube_url: https://www.youtube.com/watch?v=zcZhxdzp3yM
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

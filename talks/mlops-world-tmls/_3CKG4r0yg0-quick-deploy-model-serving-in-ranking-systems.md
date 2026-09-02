@@ -15,6 +15,7 @@ video_id: _3CKG4r0yg0
 url: https://www.youtube.com/watch?v=_3CKG4r0yg0
 youtube_url: https://www.youtube.com/watch?v=_3CKG4r0yg0
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Quick Deploy Model Serving in Ranking Systems", "Quick Deploy Model Serving", "Ranking Systems", "Model Serving", "Quick Deploy"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

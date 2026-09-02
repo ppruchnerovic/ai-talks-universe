@@ -15,6 +15,7 @@ video_id: Fp-31qAW1PQ
 url: https://www.youtube.com/watch?v=Fp-31qAW1PQ
 youtube_url: https://www.youtube.com/watch?v=Fp-31qAW1PQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

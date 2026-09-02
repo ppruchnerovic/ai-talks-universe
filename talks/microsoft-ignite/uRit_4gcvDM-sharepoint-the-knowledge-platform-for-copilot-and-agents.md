@@ -15,6 +15,7 @@ video_id: uRit_4gcvDM
 url: https://www.youtube.com/watch?v=uRit_4gcvDM
 youtube_url: https://www.youtube.com/watch?v=uRit_4gcvDM
 tags: ["0a8ccd33-9398-4131-9642-df1d69be4e7c_Segment", "Adam Harmetz", "BRK288", "Copilot and agents at work", "English (US)", "John Mighell", "SharePoint: The Knowledge Platform for Copilot and Agents | BRK288", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

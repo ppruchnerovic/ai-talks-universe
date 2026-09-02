@@ -15,6 +15,7 @@ video_id: -QFHIoCo-Ko
 url: https://www.youtube.com/watch?v=-QFHIoCo-Ko
 youtube_url: https://www.youtube.com/watch?v=-QFHIoCo-Ko
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

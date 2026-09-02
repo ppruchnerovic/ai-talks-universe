@@ -15,6 +15,7 @@ video_id: CacuArdL0w8
 url: https://www.youtube.com/watch?v=CacuArdL0w8
 youtube_url: https://www.youtube.com/watch?v=CacuArdL0w8
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

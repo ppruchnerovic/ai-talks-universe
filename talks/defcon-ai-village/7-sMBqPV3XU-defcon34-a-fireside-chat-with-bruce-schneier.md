@@ -15,6 +15,7 @@ video_id: 7-sMBqPV3XU
 url: https://www.youtube.com/watch?v=7-sMBqPV3XU
 youtube_url: https://www.youtube.com/watch?v=7-sMBqPV3XU
 tags: ["defcon", "defcon34", "AI Village", "AI Safety"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: N1BVYjvGlYU
 url: https://www.youtube.com/watch?v=N1BVYjvGlYU
 youtube_url: https://www.youtube.com/watch?v=N1BVYjvGlYU
 tags: ["The InfoQ Podcast", "Database", "Data Augmentation", "Large Language Models"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

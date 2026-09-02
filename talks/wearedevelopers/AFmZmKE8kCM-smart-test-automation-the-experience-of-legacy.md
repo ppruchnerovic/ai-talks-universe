@@ -15,6 +15,7 @@ video_id: AFmZmKE8kCM
 url: https://www.youtube.com/watch?v=AFmZmKE8kCM
 youtube_url: https://www.youtube.com/watch?v=AFmZmKE8kCM
 tags: ["Quality & Reliability", "Automation Testing", "Best Practices", "C#", "Integration Testing", "Legacy", "PostgreSQL", "Software Architecture", "Testing"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

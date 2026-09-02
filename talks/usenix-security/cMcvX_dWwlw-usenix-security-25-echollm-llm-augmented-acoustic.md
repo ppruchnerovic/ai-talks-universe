@@ -15,6 +15,7 @@ video_id: cMcvX_dWwlw
 url: https://www.youtube.com/watch?v=cMcvX_dWwlw
 youtube_url: https://www.youtube.com/watch?v=cMcvX_dWwlw
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

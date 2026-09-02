@@ -15,6 +15,7 @@ video_id: TaPAlEkBSVQ
 url: https://www.youtube.com/watch?v=TaPAlEkBSVQ
 youtube_url: https://www.youtube.com/watch?v=TaPAlEkBSVQ
 tags: []
+topics: []
 transcript: false
 ---
 

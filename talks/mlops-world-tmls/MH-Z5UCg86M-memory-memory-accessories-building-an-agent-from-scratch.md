@@ -15,6 +15,7 @@ video_id: MH-Z5UCg86M
 url: https://www.youtube.com/watch?v=MH-Z5UCg86M
 youtube_url: https://www.youtube.com/watch?v=MH-Z5UCg86M
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

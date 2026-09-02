@@ -15,6 +15,7 @@ video_id: bB13DIlbRYs
 url: https://www.youtube.com/watch?v=bB13DIlbRYs
 youtube_url: https://www.youtube.com/watch?v=bB13DIlbRYs
 tags: []
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

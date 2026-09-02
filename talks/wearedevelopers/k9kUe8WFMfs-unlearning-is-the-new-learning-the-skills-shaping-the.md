@@ -15,6 +15,7 @@ video_id: k9kUe8WFMfs
 url: https://www.youtube.com/watch?v=k9kUe8WFMfs
 youtube_url: https://www.youtube.com/watch?v=k9kUe8WFMfs
 tags: ["unlearning", "learning", "people", "culture", "hr", "leadership", "future of work", "skills", "resilience", "uncertainty", "failure culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: DrygcOI-kG8
 url: https://www.youtube.com/watch?v=DrygcOI-kG8
 youtube_url: https://www.youtube.com/watch?v=DrygcOI-kG8
 tags: []
+topics: []
 transcript: false
 ---
 

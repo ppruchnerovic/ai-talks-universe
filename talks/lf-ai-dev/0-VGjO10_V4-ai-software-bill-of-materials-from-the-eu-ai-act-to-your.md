@@ -15,6 +15,7 @@ video_id: 0-VGjO10_V4
 url: https://www.youtube.com/watch?v=0-VGjO10_V4
 youtube_url: https://www.youtube.com/watch?v=0-VGjO10_V4
 tags: []
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

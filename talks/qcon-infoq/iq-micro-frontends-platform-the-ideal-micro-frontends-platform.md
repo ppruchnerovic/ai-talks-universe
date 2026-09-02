@@ -15,6 +15,7 @@ video_id: iq-micro-frontends-platform
 url: https://www.infoq.com/presentations/micro-frontends-platform/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

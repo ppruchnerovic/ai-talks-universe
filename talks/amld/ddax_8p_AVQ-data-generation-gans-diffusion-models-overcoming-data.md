@@ -15,6 +15,7 @@ video_id: ddax_8p_AVQ
 url: https://www.youtube.com/watch?v=ddax_8p_AVQ
 youtube_url: https://www.youtube.com/watch?v=ddax_8p_AVQ
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

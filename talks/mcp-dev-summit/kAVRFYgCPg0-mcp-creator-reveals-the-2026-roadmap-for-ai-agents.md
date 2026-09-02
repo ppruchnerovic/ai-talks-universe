@@ -15,6 +15,7 @@ video_id: kAVRFYgCPg0
 url: https://www.youtube.com/watch?v=kAVRFYgCPg0
 youtube_url: https://www.youtube.com/watch?v=kAVRFYgCPg0
 tags: ["Model Context Protocol", "Agentic AI", "Claude", "Anthropic", "Context bloat", "David Soria Parra"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

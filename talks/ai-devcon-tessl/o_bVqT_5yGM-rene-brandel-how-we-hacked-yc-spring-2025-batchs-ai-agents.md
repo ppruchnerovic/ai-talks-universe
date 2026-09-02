@@ -15,6 +15,7 @@ video_id: o_bVqT_5yGM
 url: https://www.youtube.com/watch?v=o_bVqT_5yGM
 youtube_url: https://www.youtube.com/watch?v=o_bVqT_5yGM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

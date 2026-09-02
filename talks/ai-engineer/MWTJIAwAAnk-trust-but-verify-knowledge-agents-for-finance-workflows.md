@@ -15,6 +15,7 @@ video_id: MWTJIAwAAnk
 url: https://www.youtube.com/watch?v=MWTJIAwAAnk
 youtube_url: https://www.youtube.com/watch?v=MWTJIAwAAnk
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

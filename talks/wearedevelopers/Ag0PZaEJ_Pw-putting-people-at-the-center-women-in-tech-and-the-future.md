@@ -15,6 +15,7 @@ video_id: Ag0PZaEJ_Pw
 url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
 youtube_url: https://www.youtube.com/watch?v=Ag0PZaEJ_Pw
 tags: ["women in tech", "HR leadership", "tech careers for women", "gender diversity in tech", "STEM education", "mentoring in STEM", "female developers", "team building strategies", "AI in HR", "workplace diversity", "career advancement", "employer branding"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

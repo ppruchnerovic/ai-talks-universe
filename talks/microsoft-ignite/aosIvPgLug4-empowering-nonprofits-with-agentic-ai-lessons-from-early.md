@@ -15,6 +15,7 @@ video_id: aosIvPgLug4
 url: https://www.youtube.com/watch?v=aosIvPgLug4
 youtube_url: https://www.youtube.com/watch?v=aosIvPgLug4
 tags: ["4f894c39-af62-4e0a-a4df-188930748563_Segment", "BRK380", "Empowering Nonprofits with Agentic AI: Lessons from early adopters | BRK380", "English (US)", "Morteza Ghazai", "Nonprofit", "Signature pass", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

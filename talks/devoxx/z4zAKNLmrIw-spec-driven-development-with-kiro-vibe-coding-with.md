@@ -15,6 +15,7 @@ video_id: z4zAKNLmrIw
 url: https://www.youtube.com/watch?v=z4zAKNLmrIw
 youtube_url: https://www.youtube.com/watch?v=z4zAKNLmrIw
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: xThutcsIQLA
 url: https://www.youtube.com/watch?v=xThutcsIQLA
 youtube_url: https://www.youtube.com/watch?v=xThutcsIQLA
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

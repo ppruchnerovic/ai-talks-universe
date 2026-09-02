@@ -15,6 +15,7 @@ video_id: bKaB90ytoxk
 url: https://www.youtube.com/watch?v=bKaB90ytoxk
 youtube_url: https://www.youtube.com/watch?v=bKaB90ytoxk
 tags: ["Engineering Leadership", "Metrics", "Site Reliability Engineering (SRE)", "Software Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

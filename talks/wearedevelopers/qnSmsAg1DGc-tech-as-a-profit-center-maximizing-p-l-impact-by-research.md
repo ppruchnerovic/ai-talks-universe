@@ -15,6 +15,7 @@ video_id: qnSmsAg1DGc
 url: https://www.youtube.com/watch?v=qnSmsAg1DGc
 youtube_url: https://www.youtube.com/watch?v=qnSmsAg1DGc
 tags: ["Strategy & Innovation", "Compliance", "Entrepreneurship", "Fundraising", "Startups"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: aqmpZocmR8o
 url: https://www.youtube.com/watch?v=aqmpZocmR8o
 youtube_url: https://www.youtube.com/watch?v=aqmpZocmR8o
 tags: ["Google", "developers"]
+topics: []
 transcript: true
 ---
 

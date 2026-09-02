@@ -15,6 +15,7 @@ video_id: 2CXn-CByNoo
 url: https://www.youtube.com/watch?v=2CXn-CByNoo
 youtube_url: https://www.youtube.com/watch?v=2CXn-CByNoo
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: eaUL-V58woU
 url: https://www.youtube.com/watch?v=eaUL-V58woU
 youtube_url: https://www.youtube.com/watch?v=eaUL-V58woU
 tags: ["Security", "GenAI", "NDC", "Conferences", "LLM", "Fun", "Copenhagen", "Live", "Niels Tanis", "Software"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

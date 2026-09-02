@@ -15,6 +15,7 @@ video_id: YnNF55QV0zs
 url: https://www.youtube.com/watch?v=YnNF55QV0zs
 youtube_url: https://www.youtube.com/watch?v=YnNF55QV0zs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

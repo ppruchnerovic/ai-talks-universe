@@ -15,6 +15,7 @@ video_id: kiuJRPQQ73I
 url: https://www.youtube.com/watch?v=kiuJRPQQ73I
 youtube_url: https://www.youtube.com/watch?v=kiuJRPQQ73I
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: false
 ---
 

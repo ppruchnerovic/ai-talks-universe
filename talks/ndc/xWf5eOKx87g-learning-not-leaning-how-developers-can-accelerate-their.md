@@ -15,6 +15,7 @@ video_id: xWf5eOKx87g
 url: https://www.youtube.com/watch?v=xWf5eOKx87g
 youtube_url: https://www.youtube.com/watch?v=xWf5eOKx87g
 tags: [".NET", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Emma Burstow"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-llm-large-scale-applications
 url: https://www.infoq.com/presentations/llm-large-scale-applications/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

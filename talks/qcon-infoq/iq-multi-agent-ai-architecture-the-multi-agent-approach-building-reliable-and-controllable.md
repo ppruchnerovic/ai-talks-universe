@@ -15,6 +15,7 @@ video_id: iq-multi-agent-ai-architecture
 url: https://www.infoq.com/presentations/multi-agent-ai-architecture/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

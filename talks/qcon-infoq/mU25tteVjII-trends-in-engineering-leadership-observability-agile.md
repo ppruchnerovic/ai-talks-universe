@@ -15,6 +15,7 @@ video_id: mU25tteVjII
 url: https://www.youtube.com/watch?v=mU25tteVjII
 youtube_url: https://www.youtube.com/watch?v=mU25tteVjII
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

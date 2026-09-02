@@ -15,6 +15,7 @@ video_id: rbTaEsieWsU
 url: https://www.youtube.com/watch?v=rbTaEsieWsU
 youtube_url: https://www.youtube.com/watch?v=rbTaEsieWsU
 tags: []
+topics: []
 transcript: false
 ---
 

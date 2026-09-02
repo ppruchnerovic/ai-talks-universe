@@ -15,6 +15,7 @@ video_id: iq-zero-trust-principles
 url: https://www.infoq.com/presentations/zero-trust-principles/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

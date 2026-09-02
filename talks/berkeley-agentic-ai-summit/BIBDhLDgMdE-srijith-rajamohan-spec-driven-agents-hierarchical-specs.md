@@ -15,6 +15,7 @@ video_id: BIBDhLDgMdE
 url: https://www.youtube.com/watch?v=BIBDhLDgMdE
 youtube_url: https://www.youtube.com/watch?v=BIBDhLDgMdE
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: J6hpb-DE7M8
 url: https://www.youtube.com/watch?v=J6hpb-DE7M8
 youtube_url: https://www.youtube.com/watch?v=J6hpb-DE7M8
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

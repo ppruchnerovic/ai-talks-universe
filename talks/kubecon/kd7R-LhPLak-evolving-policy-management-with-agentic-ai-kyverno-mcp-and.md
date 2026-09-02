@@ -15,6 +15,7 @@ video_id: kd7R-LhPLak
 url: https://www.youtube.com/watch?v=kd7R-LhPLak
 youtube_url: https://www.youtube.com/watch?v=kd7R-LhPLak
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

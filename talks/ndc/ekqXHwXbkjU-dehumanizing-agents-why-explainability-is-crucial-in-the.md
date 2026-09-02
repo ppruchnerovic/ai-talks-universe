@@ -15,6 +15,7 @@ video_id: ekqXHwXbkjU
 url: https://www.youtube.com/watch?v=ekqXHwXbkjU
 youtube_url: https://www.youtube.com/watch?v=ekqXHwXbkjU
 tags: ["AI", "Ethics", "Machine Learning", "GenAI", "ML", "LLM", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Lucía Conde-Moreno"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

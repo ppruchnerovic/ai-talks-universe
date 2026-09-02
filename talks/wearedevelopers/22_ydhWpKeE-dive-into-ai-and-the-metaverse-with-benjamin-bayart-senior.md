@@ -15,6 +15,7 @@ video_id: 22_ydhWpKeE
 url: https://www.youtube.com/watch?v=22_ydhWpKeE
 youtube_url: https://www.youtube.com/watch?v=22_ydhWpKeE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

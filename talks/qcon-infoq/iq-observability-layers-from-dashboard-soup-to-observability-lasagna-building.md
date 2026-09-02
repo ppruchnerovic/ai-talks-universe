@@ -15,6 +15,7 @@ video_id: iq-observability-layers
 url: https://www.infoq.com/presentations/observability-layers/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

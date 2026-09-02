@@ -15,6 +15,7 @@ video_id: JT3OzDKrucU
 url: https://www.youtube.com/watch?v=JT3OzDKrucU
 youtube_url: https://www.youtube.com/watch?v=JT3OzDKrucU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

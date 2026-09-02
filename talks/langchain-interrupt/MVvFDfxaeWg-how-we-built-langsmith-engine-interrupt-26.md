@@ -15,6 +15,7 @@ video_id: MVvFDfxaeWg
 url: https://www.youtube.com/watch?v=MVvFDfxaeWg
 youtube_url: https://www.youtube.com/watch?v=MVvFDfxaeWg
 tags: ["LangChain", "LangSmith", "agent observability", "LLM evaluation", "evals for LLMs", "agent debugging", "agent improvement loop", "LLM tracing", "online evalu…LangSmith Engine", "online evaluators", "offline evals", "ground truth dataset", "agent regressions", "deep agents", "production AI agents", "prompt engineering", "AI engineering", "autonomous agents", "self-improving agents", "Interrupt conference", "LangSmith sandbox", "building AI agents", "LangSmith Engine"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

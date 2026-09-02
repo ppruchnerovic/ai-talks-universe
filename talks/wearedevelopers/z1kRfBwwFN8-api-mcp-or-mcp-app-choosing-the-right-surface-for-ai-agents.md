@@ -15,6 +15,7 @@ video_id: z1kRfBwwFN8
 url: https://www.youtube.com/watch?v=z1kRfBwwFN8
 youtube_url: https://www.youtube.com/watch?v=z1kRfBwwFN8
 tags: ["AI Agents", "AI Coding Assistants", "AI Models", "AI Standards", "Anthropic", "APIs", "Agents", "Agentic AI", "Autonomous Systems", "Best Practices", "Case Study", "Claude", "Code Generation", "Developer Experience (DevEx)", "Documentation", "Future of Work", "Generative AI (GenAI)", "Integration", "LangChain", "Large Language Models (LLMs)", "LLMOps", "Prompt Engineering"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: SbXFI5IyjL8
 url: https://www.youtube.com/watch?v=SbXFI5IyjL8
 youtube_url: https://www.youtube.com/watch?v=SbXFI5IyjL8
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Data Analysis", "Database", "InfoQ", "QCon", "Transcript"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

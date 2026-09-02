@@ -15,6 +15,7 @@ video_id: ESbWpPT_9-o
 url: https://www.youtube.com/watch?v=ESbWpPT_9-o
 youtube_url: https://www.youtube.com/watch?v=ESbWpPT_9-o
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

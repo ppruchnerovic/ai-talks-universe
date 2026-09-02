@@ -15,6 +15,7 @@ video_id: DKTVl1gwvCw
 url: https://www.youtube.com/watch?v=DKTVl1gwvCw
 youtube_url: https://www.youtube.com/watch?v=DKTVl1gwvCw
 tags: ["WLWZN8"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

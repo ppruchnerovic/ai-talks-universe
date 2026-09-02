@@ -15,6 +15,7 @@ video_id: mpLhEa1VBoI
 url: https://www.youtube.com/watch?v=mpLhEa1VBoI
 youtube_url: https://www.youtube.com/watch?v=mpLhEa1VBoI
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

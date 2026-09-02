@@ -15,6 +15,7 @@ video_id: -EEYh1Twefs
 url: https://www.youtube.com/watch?v=-EEYh1Twefs
 youtube_url: https://www.youtube.com/watch?v=-EEYh1Twefs
 tags: ["AI"]
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

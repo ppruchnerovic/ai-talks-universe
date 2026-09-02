@@ -15,6 +15,7 @@ video_id: ObAJIOJrcK8
 url: https://www.youtube.com/watch?v=ObAJIOJrcK8
 youtube_url: https://www.youtube.com/watch?v=ObAJIOJrcK8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

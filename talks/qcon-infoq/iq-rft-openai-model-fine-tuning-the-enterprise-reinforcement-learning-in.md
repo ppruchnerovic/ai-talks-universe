@@ -15,6 +15,7 @@ video_id: iq-rft-openai-model
 url: https://www.infoq.com/presentations/rft-openai-model/
 youtube_url: null
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

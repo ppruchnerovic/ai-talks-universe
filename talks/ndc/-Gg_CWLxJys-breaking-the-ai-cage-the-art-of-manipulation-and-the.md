@@ -15,6 +15,7 @@ video_id: -Gg_CWLxJys
 url: https://www.youtube.com/watch?v=-Gg_CWLxJys
 youtube_url: https://www.youtube.com/watch?v=-Gg_CWLxJys
 tags: ["Security", "AI", "AI-Powered", "Web", "App", "application", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Stök ."]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

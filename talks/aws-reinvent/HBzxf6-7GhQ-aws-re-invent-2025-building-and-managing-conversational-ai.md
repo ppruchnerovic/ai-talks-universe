@@ -15,6 +15,7 @@ video_id: HBzxf6-7GhQ
 url: https://www.youtube.com/watch?v=HBzxf6-7GhQ
 youtube_url: https://www.youtube.com/watch?v=HBzxf6-7GhQ
 tags: []
+topics: []
 transcript: false
 ---
 

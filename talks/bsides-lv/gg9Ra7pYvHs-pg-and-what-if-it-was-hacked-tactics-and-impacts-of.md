@@ -15,6 +15,7 @@ video_id: gg9Ra7pYvHs
 url: https://www.youtube.com/watch?v=gg9Ra7pYvHs
 youtube_url: https://www.youtube.com/watch?v=gg9Ra7pYvHs
 tags: ["AXJ8CR"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: wcwN7hxqTkg
 url: https://www.youtube.com/watch?v=wcwN7hxqTkg
 youtube_url: https://www.youtube.com/watch?v=wcwN7hxqTkg
 tags: ["T77AHF"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

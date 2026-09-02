@@ -15,6 +15,7 @@ video_id: PEU4uDzurvc
 url: https://www.youtube.com/watch?v=PEU4uDzurvc
 youtube_url: https://www.youtube.com/watch?v=PEU4uDzurvc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

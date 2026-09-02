@@ -15,6 +15,7 @@ video_id: Gpjr-PlehnQ
 url: https://www.youtube.com/watch?v=Gpjr-PlehnQ
 youtube_url: https://www.youtube.com/watch?v=Gpjr-PlehnQ
 tags: ["AI"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

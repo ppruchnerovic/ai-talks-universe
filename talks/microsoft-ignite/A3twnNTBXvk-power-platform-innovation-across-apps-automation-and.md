@@ -15,6 +15,7 @@ video_id: A3twnNTBXvk
 url: https://www.youtube.com/watch?v=A3twnNTBXvk
 youtube_url: https://www.youtube.com/watch?v=A3twnNTBXvk
 tags: ["3b38c76c-e082-4331-8ac7-e3f419e10516_Segment", "BRK324", "English (US)", "Innovate with low-code AI and agents", "Marc Schweigert", "Power Platform: Innovation across apps automation and portals | BRK324", "Technical", "Tiffany Treacy", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

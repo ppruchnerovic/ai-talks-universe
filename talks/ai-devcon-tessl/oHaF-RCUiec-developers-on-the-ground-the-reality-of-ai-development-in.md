@@ -15,6 +15,7 @@ video_id: oHaF-RCUiec
 url: https://www.youtube.com/watch?v=oHaF-RCUiec
 youtube_url: https://www.youtube.com/watch?v=oHaF-RCUiec
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

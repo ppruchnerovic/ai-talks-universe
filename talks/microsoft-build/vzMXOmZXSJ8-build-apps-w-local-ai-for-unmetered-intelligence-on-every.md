@@ -15,6 +15,7 @@ video_id: vzMXOmZXSJ8
 url: https://www.youtube.com/watch?v=vzMXOmZXSJ8
 youtube_url: https://www.youtube.com/watch?v=vzMXOmZXSJ8
 tags: ["C#", "Python"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

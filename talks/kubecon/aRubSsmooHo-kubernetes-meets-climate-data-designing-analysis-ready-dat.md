@@ -15,6 +15,7 @@ video_id: aRubSsmooHo
 url: https://www.youtube.com/watch?v=aRubSsmooHo
 youtube_url: https://www.youtube.com/watch?v=aRubSsmooHo
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

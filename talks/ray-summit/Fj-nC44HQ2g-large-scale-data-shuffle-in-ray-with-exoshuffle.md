@@ -15,6 +15,7 @@ video_id: Fj-nC44HQ2g
 url: https://www.youtube.com/watch?v=Fj-nC44HQ2g
 youtube_url: https://www.youtube.com/watch?v=Fj-nC44HQ2g
 tags: []
+topics: []
 transcript: false
 ---
 

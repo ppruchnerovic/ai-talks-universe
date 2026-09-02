@@ -15,6 +15,7 @@ video_id: zs6-dPhtKB8
 url: https://www.youtube.com/watch?v=zs6-dPhtKB8
 youtube_url: https://www.youtube.com/watch?v=zs6-dPhtKB8
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

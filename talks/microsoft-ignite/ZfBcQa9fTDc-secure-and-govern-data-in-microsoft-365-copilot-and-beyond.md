@@ -15,6 +15,7 @@ video_id: ZfBcQa9fTDc
 url: https://www.youtube.com/watch?v=ZfBcQa9fTDc
 youtube_url: https://www.youtube.com/watch?v=ZfBcQa9fTDc
 tags: ["AI", "Aashish Ramdas", "BRK321", "Breakout", "Charley Barth", "Copilot for Security", "Data Security", "English (US)", "Intermediate (200)", "Manjunatha Sivanna", "Microsoft 365", "Secure and govern data in Microsoft 365 Copilot and beyond | BRK321", "Security", "Security-Curated", "Shukra Kichambare", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

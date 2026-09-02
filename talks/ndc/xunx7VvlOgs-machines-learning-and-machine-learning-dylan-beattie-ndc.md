@@ -15,6 +15,7 @@ video_id: xunx7VvlOgs
 url: https://www.youtube.com/watch?v=xunx7VvlOgs
 youtube_url: https://www.youtube.com/watch?v=xunx7VvlOgs
 tags: ["Machine Learning", "AI", "Soft Skills", "Tooling", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "ML", "ChatGPT", "CoPilot"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

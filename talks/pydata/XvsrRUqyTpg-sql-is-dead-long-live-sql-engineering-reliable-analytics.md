@@ -15,6 +15,7 @@ video_id: XvsrRUqyTpg
 url: https://www.youtube.com/watch?v=XvsrRUqyTpg
 youtube_url: https://www.youtube.com/watch?v=XvsrRUqyTpg
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

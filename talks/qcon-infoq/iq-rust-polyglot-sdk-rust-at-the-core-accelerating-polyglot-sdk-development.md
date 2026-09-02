@@ -15,6 +15,7 @@ video_id: iq-rust-polyglot-sdk
 url: https://www.infoq.com/presentations/rust-polyglot-sdk/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

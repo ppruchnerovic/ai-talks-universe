@@ -15,6 +15,7 @@ video_id: 5NN6lVE4Jvc
 url: https://www.youtube.com/watch?v=5NN6lVE4Jvc
 youtube_url: https://www.youtube.com/watch?v=5NN6lVE4Jvc
 tags: ["Arm Neoverse-powered Microsoft Azure Cobalt 100 VMs | ODFP923", "Bhumik Patel", "Deployment", "Developer", "Foundational (100)", "ODFP923", "Pre-recorded", "Sustainability", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -37,7 +37,7 @@ Ask the index, which takes a second:
 
 ```bash
 cd tools
-python3 query.py --stats             # talks, transcripts, conferences, per year and per conference
+python3 query.py --stats             # talks, transcripts, conferences, per year, per conference, per topic
 ```
 
 Four properties change how you should answer, and all are visible in the data:
@@ -79,7 +79,7 @@ tenth of that.
 ```bash
 cd tools
 python3 query.py "context engineering" -n 15 --brief
-python3 query.py --list-conferences        # valid slugs; --list-categories too
+python3 query.py --list-conferences        # valid slugs; --list-categories and --list-topics too
 ```
 
 **Search for the topic's words, not for the question.** A bare query is
@@ -114,9 +114,21 @@ safe inside an OR chain. Run a second, narrower query only when the first
 comes back thin, or misses a vocabulary you can see is missing.
 
 Useful flags: `--conference langchain-interrupt` (repeatable), `--category
-"AI security"`, `--year 2026` (repeatable), `--min-year 2025`, `--transcript`,
+"AI security"`, `--topic evals` (repeatable; `--list-topics` prints the
+fifteen), `--year 2026` (repeatable), `--min-year 2025`, `--transcript`,
 `-n 25`, `--ids`. To compare conferences or years, re-run with different
 `--conference` / `--year` rather than eyeballing one ranked list.
+
+`--topic` is a per-talk facet — fifteen subjects such as *Agents &
+orchestration*, *Evals, observability & reliability*, *RAG, retrieval &
+knowledge*, *Security, safety & red teaming* — derived by keyword rules from
+each talk's title, tags and description, never from its transcript. A talk
+may carry several, and about a fifth carry none (keynotes, panels, talks
+with no description), so it narrows a search rather than replacing one:
+`query.py "memory" --topic agents` is memory as an agent concern, `--topic
+rag` memory as retrieval. One word of a topic's name resolves when it is
+unambiguous (`evals`, `rag`, `security`); `--brief` prints each hit's topics,
+which is a cheap way to see what a result set is actually about.
 
 ### 2. Read what those talks actually say
 

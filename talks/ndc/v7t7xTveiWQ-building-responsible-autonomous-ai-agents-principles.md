@@ -15,6 +15,7 @@ video_id: v7t7xTveiWQ
 url: https://www.youtube.com/watch?v=v7t7xTveiWQ
 youtube_url: https://www.youtube.com/watch?v=v7t7xTveiWQ
 tags: ["AI", "Ethics", "Fun", "NDC", "Conferences", "2026", "Live", "Sydney", "Australia", "Will Velida"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

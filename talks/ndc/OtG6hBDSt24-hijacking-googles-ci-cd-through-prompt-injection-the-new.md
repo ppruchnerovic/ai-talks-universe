@@ -15,6 +15,7 @@ video_id: OtG6hBDSt24
 url: https://www.youtube.com/watch?v=OtG6hBDSt24
 youtube_url: https://www.youtube.com/watch?v=OtG6hBDSt24
 tags: ["Application Security", "Architecture", "DevOps", "Supply Chain", "Testing", "CI/CD", "CI/CD Pipeline", "AI", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Mackenzie Jackson"]
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: FqtfNxSzpW4
 url: https://www.youtube.com/watch?v=FqtfNxSzpW4
 youtube_url: https://www.youtube.com/watch?v=FqtfNxSzpW4
 tags: ["Agile", "Architecture", "Cloud", "Database", "Security", "GenAI", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Ashish Jha"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

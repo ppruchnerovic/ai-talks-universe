@@ -15,6 +15,7 @@ video_id: uS7QLgj1jUY
 url: https://www.youtube.com/watch?v=uS7QLgj1jUY
 youtube_url: https://www.youtube.com/watch?v=uS7QLgj1jUY
 tags: ["AI skill security risks", "AI-native development", "Agent Scan tool", "Anthropic best practices", "How does Tessl improve skills?", "Progressive disclosure", "Security in AI skills", "Skill improvement", "Skill vulnerabilities", "Snyk skill review", "Snyk skills", "Tessl review commands", "Tessl review process", "What is Snyk Agent Scan?", "ainativedev"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

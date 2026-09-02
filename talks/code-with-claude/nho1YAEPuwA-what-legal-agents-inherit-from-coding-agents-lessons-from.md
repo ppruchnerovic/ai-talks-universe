@@ -15,6 +15,7 @@ video_id: nho1YAEPuwA
 url: https://www.youtube.com/watch?v=nho1YAEPuwA
 youtube_url: https://www.youtube.com/watch?v=nho1YAEPuwA
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

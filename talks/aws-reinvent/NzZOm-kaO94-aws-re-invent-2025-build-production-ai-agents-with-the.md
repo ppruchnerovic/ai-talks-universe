@@ -15,6 +15,7 @@ video_id: NzZOm-kaO94
 url: https://www.youtube.com/watch?v=NzZOm-kaO94
 youtube_url: https://www.youtube.com/watch?v=NzZOm-kaO94
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

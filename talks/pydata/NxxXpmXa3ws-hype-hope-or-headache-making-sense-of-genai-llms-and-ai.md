@@ -15,6 +15,7 @@ video_id: NxxXpmXa3ws
 url: https://www.youtube.com/watch?v=NxxXpmXa3ws
 youtube_url: https://www.youtube.com/watch?v=NxxXpmXa3ws
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

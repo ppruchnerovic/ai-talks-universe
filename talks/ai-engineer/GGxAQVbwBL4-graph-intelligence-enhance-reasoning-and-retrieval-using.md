@@ -15,6 +15,7 @@ video_id: GGxAQVbwBL4
 url: https://www.youtube.com/watch?v=GGxAQVbwBL4
 youtube_url: https://www.youtube.com/watch?v=GGxAQVbwBL4
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

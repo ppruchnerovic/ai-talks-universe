@@ -15,6 +15,7 @@ video_id: Jigo5fkA1gM
 url: https://www.youtube.com/watch?v=Jigo5fkA1gM
 youtube_url: https://www.youtube.com/watch?v=Jigo5fkA1gM
 tags: ["Application Security", "Fun", "Programming", "LLM", "NDC", "Conferences", "Security", "2026", "Live", "Oslo", "Norway", "Sean Sinclair"]
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

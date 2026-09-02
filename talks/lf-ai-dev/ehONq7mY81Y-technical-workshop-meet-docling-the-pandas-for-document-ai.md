@@ -15,6 +15,7 @@ video_id: ehONq7mY81Y
 url: https://www.youtube.com/watch?v=ehONq7mY81Y
 youtube_url: https://www.youtube.com/watch?v=ehONq7mY81Y
 tags: []
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

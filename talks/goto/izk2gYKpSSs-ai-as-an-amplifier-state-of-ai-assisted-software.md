@@ -15,6 +15,7 @@ video_id: izk2gYKpSSs
 url: https://www.youtube.com/watch?v=izk2gYKpSSs
 youtube_url: https://www.youtube.com/watch?v=izk2gYKpSSs
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "DORA", "DORA Metrics", "Nathen Harvey", "AI Adoption", "DevOps", "Accelerate", "Change", "Software Delivery", "CI/CD", "Continuous Delivery", "Continuous Integration"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

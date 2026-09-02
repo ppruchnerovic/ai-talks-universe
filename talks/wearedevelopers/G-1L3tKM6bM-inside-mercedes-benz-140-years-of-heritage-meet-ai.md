@@ -15,6 +15,7 @@ video_id: G-1L3tKM6bM
 url: https://www.youtube.com/watch?v=G-1L3tKM6bM
 youtube_url: https://www.youtube.com/watch?v=G-1L3tKM6bM
 tags: ["AI Standards", "Best Practices", "Developer Experience (DevEx)", "Generative AI (GenAI)", "Innovation"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

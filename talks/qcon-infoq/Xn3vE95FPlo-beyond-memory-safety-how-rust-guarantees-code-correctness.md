@@ -15,6 +15,7 @@ video_id: Xn3vE95FPlo
 url: https://www.youtube.com/watch?v=Xn3vE95FPlo
 youtube_url: https://www.youtube.com/watch?v=Xn3vE95FPlo
 tags: ["InfoQ Dev Summit", "InfoQ", "Transcript", "Software Development", "Memory Safety", "Rust Language", "System Programming", "Reliability", "Software Architecture", "Coding"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

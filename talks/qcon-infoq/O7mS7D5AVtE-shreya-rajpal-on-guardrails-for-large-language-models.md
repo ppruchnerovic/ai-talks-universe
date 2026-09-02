@@ -15,6 +15,7 @@ video_id: O7mS7D5AVtE
 url: https://www.youtube.com/watch?v=O7mS7D5AVtE
 youtube_url: https://www.youtube.com/watch?v=O7mS7D5AVtE
 tags: ["AI", "Large Language Models", "the InfoQ Podcast", "Generally AI"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

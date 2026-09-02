@@ -15,6 +15,7 @@ video_id: BoOHKJn2DRg
 url: https://www.youtube.com/watch?v=BoOHKJn2DRg
 youtube_url: https://www.youtube.com/watch?v=BoOHKJn2DRg
 tags: []
+topics: []
 transcript: false
 ---
 

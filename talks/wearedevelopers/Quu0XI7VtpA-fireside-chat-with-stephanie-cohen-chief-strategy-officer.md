@@ -15,6 +15,7 @@ video_id: Quu0XI7VtpA
 url: https://www.youtube.com/watch?v=Quu0XI7VtpA
 youtube_url: https://www.youtube.com/watch?v=Quu0XI7VtpA
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

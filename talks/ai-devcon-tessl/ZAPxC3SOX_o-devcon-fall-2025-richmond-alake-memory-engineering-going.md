@@ -15,6 +15,7 @@ video_id: ZAPxC3SOX_o
 url: https://www.youtube.com/watch?v=ZAPxC3SOX_o
 youtube_url: https://www.youtube.com/watch?v=ZAPxC3SOX_o
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

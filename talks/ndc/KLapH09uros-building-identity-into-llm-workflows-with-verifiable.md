@@ -15,6 +15,7 @@ video_id: KLapH09uros
 url: https://www.youtube.com/watch?v=KLapH09uros
 youtube_url: https://www.youtube.com/watch?v=KLapH09uros
 tags: ["Security", "AI", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Ben Dechrai"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

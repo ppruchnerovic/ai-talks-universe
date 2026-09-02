@@ -15,6 +15,7 @@ video_id: 19l6sLyR3zo
 url: https://www.youtube.com/watch?v=19l6sLyR3zo
 youtube_url: https://www.youtube.com/watch?v=19l6sLyR3zo
 tags: ["DevOps", "SDLC", "Security Tooling", "AI", "CI/CD", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Niek Palm"]
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

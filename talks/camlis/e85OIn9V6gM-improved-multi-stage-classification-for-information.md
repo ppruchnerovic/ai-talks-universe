@@ -15,6 +15,7 @@ video_id: e85OIn9V6gM
 url: https://www.youtube.com/watch?v=e85OIn9V6gM
 youtube_url: https://www.youtube.com/watch?v=e85OIn9V6gM
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: p0RmkpovCvo
 url: https://www.youtube.com/watch?v=p0RmkpovCvo
 youtube_url: https://www.youtube.com/watch?v=p0RmkpovCvo
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

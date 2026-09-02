@@ -15,6 +15,7 @@ video_id: 7ELb0d_Eigo
 url: https://www.youtube.com/watch?v=7ELb0d_Eigo
 youtube_url: https://www.youtube.com/watch?v=7ELb0d_Eigo
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

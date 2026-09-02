@@ -15,6 +15,7 @@ video_id: iq-ai-coding-agents-copilot
 url: https://www.infoq.com/presentations/ai-coding-agents-copilot/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

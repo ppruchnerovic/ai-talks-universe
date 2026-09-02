@@ -15,6 +15,7 @@ video_id: w-A77TVr2fs
 url: https://www.youtube.com/watch?v=w-A77TVr2fs
 youtube_url: https://www.youtube.com/watch?v=w-A77TVr2fs
 tags: []
+topics: []
 transcript: false
 ---
 

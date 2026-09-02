@@ -15,6 +15,7 @@ video_id: KnaT7utCvl8
 url: https://www.youtube.com/watch?v=KnaT7utCvl8
 youtube_url: https://www.youtube.com/watch?v=KnaT7utCvl8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

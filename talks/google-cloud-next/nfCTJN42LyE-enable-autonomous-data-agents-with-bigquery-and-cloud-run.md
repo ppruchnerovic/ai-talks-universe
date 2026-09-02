@@ -15,6 +15,7 @@ video_id: nfCTJN42LyE
 url: https://www.youtube.com/watch?v=nfCTJN42LyE
 youtube_url: https://www.youtube.com/watch?v=nfCTJN42LyE
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

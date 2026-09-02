@@ -15,6 +15,7 @@ video_id: 3C-6STonTLU
 url: https://www.youtube.com/watch?v=3C-6STonTLU
 youtube_url: https://www.youtube.com/watch?v=3C-6STonTLU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

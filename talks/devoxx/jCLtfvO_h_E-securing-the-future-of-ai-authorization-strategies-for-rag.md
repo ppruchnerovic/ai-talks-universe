@@ -15,6 +15,7 @@ video_id: jCLtfvO_h_E
 url: https://www.youtube.com/watch?v=jCLtfvO_h_E
 youtube_url: https://www.youtube.com/watch?v=jCLtfvO_h_E
 tags: []
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Q4-pAzSnkD8
 url: https://www.youtube.com/watch?v=Q4-pAzSnkD8
 youtube_url: https://www.youtube.com/watch?v=Q4-pAzSnkD8
 tags: ["BRK159", "Brad Haeberle", "Breakout", "Business Applications", "Business Applications-Curated", "Elevating frontline operations with generative AI and Dynamics 365 | BRK159", "English (US)", "Hector Garcia Tellado", "Ronit Bohrer Hillel", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

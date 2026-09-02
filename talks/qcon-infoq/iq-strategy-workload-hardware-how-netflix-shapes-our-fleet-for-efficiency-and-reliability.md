@@ -15,6 +15,7 @@ video_id: iq-strategy-workload-hardware
 url: https://www.infoq.com/presentations/strategy-workload-hardware/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

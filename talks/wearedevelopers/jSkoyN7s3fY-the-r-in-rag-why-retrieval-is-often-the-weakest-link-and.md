@@ -15,6 +15,7 @@ video_id: jSkoyN7s3fY
 url: https://www.youtube.com/watch?v=jSkoyN7s3fY
 youtube_url: https://www.youtube.com/watch?v=jSkoyN7s3fY
 tags: ["AI Engineering", "AI Models", "Embeddings", "Fine-Tuning", "Retrieval-Augmented Generation (RAG)"]
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

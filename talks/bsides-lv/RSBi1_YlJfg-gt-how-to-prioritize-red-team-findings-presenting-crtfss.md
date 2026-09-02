@@ -15,6 +15,7 @@ video_id: RSBi1_YlJfg
 url: https://www.youtube.com/watch?v=RSBi1_YlJfg
 youtube_url: https://www.youtube.com/watch?v=RSBi1_YlJfg
 tags: ["bslv2023-GT-2023-UDG97C", "bslv", "bsideslv", "ground truth", "gt", "bsides las vegas", "bsides las vegas 2023", "UDG97C"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

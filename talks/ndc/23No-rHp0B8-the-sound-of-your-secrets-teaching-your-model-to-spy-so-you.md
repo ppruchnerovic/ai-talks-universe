@@ -15,6 +15,7 @@ video_id: 23No-rHp0B8
 url: https://www.youtube.com/watch?v=23No-rHp0B8
 youtube_url: https://www.youtube.com/watch?v=23No-rHp0B8
 tags: ["Security", "Architecture", "Big Data", "Design", "Machine Learning", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "David vonThenen"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

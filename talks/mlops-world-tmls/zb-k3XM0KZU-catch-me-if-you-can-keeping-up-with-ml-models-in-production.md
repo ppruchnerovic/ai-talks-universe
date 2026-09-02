@@ -15,6 +15,7 @@ video_id: zb-k3XM0KZU
 url: https://www.youtube.com/watch?v=zb-k3XM0KZU
 youtube_url: https://www.youtube.com/watch?v=zb-k3XM0KZU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Catch Me If You Can: Keeping Up With ML Models in Production", "Models in Production", "Keeping Up With ML Models in Production", "Keeping Up With ML Models"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

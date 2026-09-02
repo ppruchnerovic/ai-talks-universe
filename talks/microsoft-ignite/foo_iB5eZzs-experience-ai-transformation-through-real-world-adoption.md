@@ -15,6 +15,7 @@ video_id: foo_iB5eZzs
 url: https://www.youtube.com/watch?v=foo_iB5eZzs
 youtube_url: https://www.youtube.com/watch?v=foo_iB5eZzs
 tags: ["9a28a5a4-cc73-404b-959d-4a3d08e8376c_Segment", "Agentic business applications", "BRKSP481", "Betsy Pridmore", "English (US)", "Experience AI transformation through real-world adoption and insights | BRKSP481", "Retail and Consumer Goods", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

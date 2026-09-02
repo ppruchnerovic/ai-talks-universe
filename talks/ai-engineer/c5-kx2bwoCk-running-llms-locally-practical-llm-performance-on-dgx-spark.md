@@ -15,6 +15,7 @@ video_id: c5-kx2bwoCk
 url: https://www.youtube.com/watch?v=c5-kx2bwoCk
 youtube_url: https://www.youtube.com/watch?v=c5-kx2bwoCk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: sgifUs3JSac
 url: https://www.youtube.com/watch?v=sgifUs3JSac
 youtube_url: https://www.youtube.com/watch?v=sgifUs3JSac
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

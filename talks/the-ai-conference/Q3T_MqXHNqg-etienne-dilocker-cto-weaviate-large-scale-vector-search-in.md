@@ -15,6 +15,7 @@ video_id: Q3T_MqXHNqg
 url: https://www.youtube.com/watch?v=Q3T_MqXHNqg
 youtube_url: https://www.youtube.com/watch?v=Q3T_MqXHNqg
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

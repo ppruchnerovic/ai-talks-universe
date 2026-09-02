@@ -15,6 +15,7 @@ video_id: X1-46O03ltI
 url: https://www.youtube.com/watch?v=X1-46O03ltI
 youtube_url: https://www.youtube.com/watch?v=X1-46O03ltI
 tags: []
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

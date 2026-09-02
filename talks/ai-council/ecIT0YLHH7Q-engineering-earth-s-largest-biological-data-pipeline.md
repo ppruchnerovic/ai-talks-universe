@@ -15,6 +15,7 @@ video_id: ecIT0YLHH7Q
 url: https://www.youtube.com/watch?v=ecIT0YLHH7Q
 youtube_url: https://www.youtube.com/watch?v=ecIT0YLHH7Q
 tags: ["bioinformatics", "life sciences", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "big data", "biological data", "genomics", "computational biology", "digital twin", "foundation models", "Python tutorial", "sequence analysis", "structural biology", "systems biology", "proteomics", "metabolomics", "transcriptomics", "phylogenetics", "evolution", "drug discovery", "personalized medicine", "precision medicine", "clinical trials"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

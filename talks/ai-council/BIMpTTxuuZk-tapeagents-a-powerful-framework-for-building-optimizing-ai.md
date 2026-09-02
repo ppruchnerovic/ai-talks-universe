@@ -15,6 +15,7 @@ video_id: BIMpTTxuuZk
 url: https://www.youtube.com/watch?v=BIMpTTxuuZk
 youtube_url: https://www.youtube.com/watch?v=BIMpTTxuuZk
 tags: ["ServiceNow", "AI agents", "ChatGPT", "artificial intelligence", "machine learning", "AI framework", "open source", "agent development", "AI development", "tape system", "debugging", "replay analysis", "Python tutorial", "agent framework", "enterprise automation", "workflow automation", "IT service management", "incident management", "change management", "problem management", "knowledge management", "service catalog", "request fulfillment"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

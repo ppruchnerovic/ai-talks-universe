@@ -15,6 +15,7 @@ video_id: bFGAwRq4oG0
 url: https://www.youtube.com/watch?v=bFGAwRq4oG0
 youtube_url: https://www.youtube.com/watch?v=bFGAwRq4oG0
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "ArcticDB", "Database", "Python", "Database Design", "Performance", "Scalability", "InfoQ", "QCon London", "Transcript"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: zSeXDcnAe0s
 url: https://www.youtube.com/watch?v=zSeXDcnAe0s
 youtube_url: https://www.youtube.com/watch?v=zSeXDcnAe0s
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

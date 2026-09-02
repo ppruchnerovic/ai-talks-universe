@@ -15,6 +15,7 @@ video_id: Fk-NEdW_QJs
 url: https://www.youtube.com/watch?v=Fk-NEdW_QJs
 youtube_url: https://www.youtube.com/watch?v=Fk-NEdW_QJs
 tags: ["Aditi Gupta", "Analytics", "Arun Ulagaratchagan", "BRK188", "Bob Ward", "Breakout", "Charles Feddersen", "Data", "Data-Curated", "English (US)", "Fuel AI innovation with Azure Databases | BRK188", "Intermediate (200)", "James Codella", "PhD", "SQL", "Shireesh Thota", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

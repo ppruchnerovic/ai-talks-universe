@@ -15,6 +15,7 @@ video_id: gV5NEo8-LFI
 url: https://www.youtube.com/watch?v=gV5NEo8-LFI
 youtube_url: https://www.youtube.com/watch?v=gV5NEo8-LFI
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

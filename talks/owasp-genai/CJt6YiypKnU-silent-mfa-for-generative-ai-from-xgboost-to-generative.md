@@ -15,6 +15,7 @@ video_id: CJt6YiypKnU
 url: https://www.youtube.com/watch?v=CJt6YiypKnU
 youtube_url: https://www.youtube.com/watch?v=CJt6YiypKnU
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

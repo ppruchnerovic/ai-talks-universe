@@ -15,6 +15,7 @@ video_id: iq-ai-agentic-recommendations-semantic-ids
 url: https://www.infoq.com/presentations/ai-agentic-recommendations-semantic-ids/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

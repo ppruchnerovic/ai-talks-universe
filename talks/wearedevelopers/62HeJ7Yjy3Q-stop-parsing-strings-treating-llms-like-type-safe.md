@@ -15,6 +15,7 @@ video_id: 62HeJ7Yjy3Q
 url: https://www.youtube.com/watch?v=62HeJ7Yjy3Q
 youtube_url: https://www.youtube.com/watch?v=62HeJ7Yjy3Q
 tags: ["AI Engineering", "AI Standards", "Large Language Models (LLMs)", "Python", "Software Architecture"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

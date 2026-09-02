@@ -15,6 +15,7 @@ video_id: fMtRrwhCfAA
 url: https://www.youtube.com/watch?v=fMtRrwhCfAA
 youtube_url: https://www.youtube.com/watch?v=fMtRrwhCfAA
 tags: ["AI", "Andrii Mykhailiuk", "BRK259", "Breakout", "Copilot", "Elevate the retail experience with the Personalized Shopping Agent | BRK259", "English (US)", "Foundational (100)", "Industry", "Industry-Curated", "Microsoft Cloud for Retail", "Pepijn Richter", "Power Apps", "Technical", "Version v1", "Vishal Sarkar", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

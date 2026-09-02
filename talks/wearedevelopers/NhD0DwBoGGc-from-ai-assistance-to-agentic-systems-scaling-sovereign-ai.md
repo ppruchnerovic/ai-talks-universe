@@ -15,6 +15,7 @@ video_id: NhD0DwBoGGc
 url: https://www.youtube.com/watch?v=NhD0DwBoGGc
 youtube_url: https://www.youtube.com/watch?v=NhD0DwBoGGc
 tags: ["AI Agents", "Agentic AI", "Infrastructure", "Innovation", "Multi-Agent Systems", "Scaling"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

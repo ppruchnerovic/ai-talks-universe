@@ -15,6 +15,7 @@ video_id: nlGqajJEsWs
 url: https://www.youtube.com/watch?v=nlGqajJEsWs
 youtube_url: https://www.youtube.com/watch?v=nlGqajJEsWs
 tags: ["Azure", "Microsoft", "Tech", "Technology", "Dev", "Development", "Cloud Computing", "GitHub", "VS Code", "AI", "Microsoft AI", "Visual Studio", "Windows", "Community"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

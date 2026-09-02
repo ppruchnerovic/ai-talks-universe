@@ -15,6 +15,7 @@ video_id: PKW_tbbhPH8
 url: https://www.youtube.com/watch?v=PKW_tbbhPH8
 youtube_url: https://www.youtube.com/watch?v=PKW_tbbhPH8
 tags: ["BRK297", "Copilot and agents at work", "English (US)", "How Microsoft manages employee & executive communications with AI | BRK297", "Jason Mayans", "John Cirone", "Technical", "aa706deb-a2d3-40a5-9fe0-bf8659bbef9f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

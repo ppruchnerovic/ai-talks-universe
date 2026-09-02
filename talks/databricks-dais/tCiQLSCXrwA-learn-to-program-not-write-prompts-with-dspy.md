@@ -15,6 +15,7 @@ video_id: tCiQLSCXrwA
 url: https://www.youtube.com/watch?v=tCiQLSCXrwA
 youtube_url: https://www.youtube.com/watch?v=tCiQLSCXrwA
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

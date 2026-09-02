@@ -15,6 +15,7 @@ video_id: iq-ai-coding-assistants
 url: https://www.infoq.com/presentations/ai-coding-assistants/
 youtube_url: null
 tags: []
+topics: ["Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

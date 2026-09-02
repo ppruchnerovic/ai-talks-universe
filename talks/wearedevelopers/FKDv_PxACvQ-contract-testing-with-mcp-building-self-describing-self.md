@@ -15,6 +15,7 @@ video_id: FKDv_PxACvQ
 url: https://www.youtube.com/watch?v=FKDv_PxACvQ
 youtube_url: https://www.youtube.com/watch?v=FKDv_PxACvQ
 tags: ["Quality & Reliability", "Generative AI (GenAI)", "Quality Assurance (QA)", "Testing"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

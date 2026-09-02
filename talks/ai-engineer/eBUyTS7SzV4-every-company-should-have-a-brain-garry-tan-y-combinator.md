@@ -15,6 +15,7 @@ video_id: eBUyTS7SzV4
 url: https://www.youtube.com/watch?v=eBUyTS7SzV4
 youtube_url: https://www.youtube.com/watch?v=eBUyTS7SzV4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: zemBW3diXIs
 url: https://www.youtube.com/watch?v=zemBW3diXIs
 youtube_url: https://www.youtube.com/watch?v=zemBW3diXIs
 tags: ["GitHub", "GitHub Copilot", "Low Latency", "Software Architecture", "HTTP2", "Large Language Models", "LLMs", "Scalability", "AI", "Artificial Intelligence", "Performance", "InfoQ", "QCon San Francisco", "Transcript", "Availability"]
+topics: ["Coding assistants & agents", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

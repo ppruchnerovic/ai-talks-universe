@@ -15,6 +15,7 @@ video_id: J-9EbJBxcbg
 url: https://www.youtube.com/watch?v=J-9EbJBxcbg
 youtube_url: https://www.youtube.com/watch?v=J-9EbJBxcbg
 tags: []
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

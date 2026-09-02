@@ -15,6 +15,7 @@ video_id: z6mgrQCg1NM
 url: https://www.youtube.com/watch?v=z6mgrQCg1NM
 youtube_url: https://www.youtube.com/watch?v=z6mgrQCg1NM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

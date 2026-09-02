@@ -15,6 +15,7 @@ video_id: McTAqeWJcsk
 url: https://www.youtube.com/watch?v=McTAqeWJcsk
 youtube_url: https://www.youtube.com/watch?v=McTAqeWJcsk
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

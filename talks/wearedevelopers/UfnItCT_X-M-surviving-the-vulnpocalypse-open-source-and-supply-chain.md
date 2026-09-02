@@ -15,6 +15,7 @@ video_id: UfnItCT_X-M
 url: https://www.youtube.com/watch?v=UfnItCT_X-M
 youtube_url: https://www.youtube.com/watch?v=UfnItCT_X-M
 tags: ["Security & Privacy", "AI Models", "Anthropic", "Security"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

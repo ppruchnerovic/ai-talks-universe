@@ -15,6 +15,7 @@ video_id: g2qrMnvvL6E
 url: https://www.youtube.com/watch?v=g2qrMnvvL6E
 youtube_url: https://www.youtube.com/watch?v=g2qrMnvvL6E
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science"]
 transcript: true
 ---
 

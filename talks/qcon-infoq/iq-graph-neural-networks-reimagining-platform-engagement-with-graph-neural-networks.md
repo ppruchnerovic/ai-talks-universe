@@ -15,6 +15,7 @@ video_id: iq-graph-neural-networks
 url: https://www.infoq.com/presentations/graph-neural-networks/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

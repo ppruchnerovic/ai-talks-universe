@@ -15,6 +15,7 @@ video_id: ZKagb-ZkNnI
 url: https://www.youtube.com/watch?v=ZKagb-ZkNnI
 youtube_url: https://www.youtube.com/watch?v=ZKagb-ZkNnI
 tags: ["mcp", "model context protocol", "ai agents", "ai for devs"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: -SwVFHhtYho
 url: https://www.youtube.com/watch?v=-SwVFHhtYho
 youtube_url: https://www.youtube.com/watch?v=-SwVFHhtYho
 tags: ["AI", "Accelerate AI/ML development with AI Unlimited on Microsoft Fabric | ODFP995", "Advanced (300)", "Developer", "Janeth Graziani", "ODFP995", "Pre-recorded", "Responsible AI", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

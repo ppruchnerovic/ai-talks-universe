@@ -15,6 +15,7 @@ video_id: iq-ai-hardware-tokenomics
 url: https://www.infoq.com/presentations/ai-hardware-tokenomics/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

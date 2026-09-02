@@ -15,6 +15,7 @@ video_id: z38zHsLnBVk
 url: https://www.youtube.com/watch?v=z38zHsLnBVk
 youtube_url: https://www.youtube.com/watch?v=z38zHsLnBVk
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Prompting & context engineering"]
 transcript: true
 ---
 

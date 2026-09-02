@@ -15,6 +15,7 @@ video_id: 4XaMAwp5iOI
 url: https://www.youtube.com/watch?v=4XaMAwp5iOI
 youtube_url: https://www.youtube.com/watch?v=4XaMAwp5iOI
 tags: ["AI Agents", "APIs", "AWS", "Agents", "Agentic AI", "Azure", "Digital Transformation", "Distributed Systems", "Infrastructure", "Innovation"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

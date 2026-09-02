@@ -15,6 +15,7 @@ video_id: vPrYHZ6KXCE
 url: https://www.youtube.com/watch?v=vPrYHZ6KXCE
 youtube_url: https://www.youtube.com/watch?v=vPrYHZ6KXCE
 tags: ["Web Development", "QCon London", "InfoQ", "Transcript", "WASM", "FaaS", "Function as a Service", "Software Development", "Software Architecture", "WebAssembly", "Serverless"]
+topics: []
 transcript: true
 ---
 

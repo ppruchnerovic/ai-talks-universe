@@ -15,6 +15,7 @@ video_id: yNpUhturXpo
 url: https://www.youtube.com/watch?v=yNpUhturXpo
 youtube_url: https://www.youtube.com/watch?v=yNpUhturXpo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

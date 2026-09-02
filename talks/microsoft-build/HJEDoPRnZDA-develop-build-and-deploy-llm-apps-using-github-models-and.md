@@ -15,6 +15,7 @@ video_id: HJEDoPRnZDA
 url: https://www.youtube.com/watch?v=HJEDoPRnZDA
 youtube_url: https://www.youtube.com/watch?v=HJEDoPRnZDA
 tags: []
+topics: []
 transcript: false
 ---
 

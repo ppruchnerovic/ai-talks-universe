@@ -15,6 +15,7 @@ video_id: FEqZyVT6dSo
 url: https://www.youtube.com/watch?v=FEqZyVT6dSo
 youtube_url: https://www.youtube.com/watch?v=FEqZyVT6dSo
 tags: ["Agile", "NDC", "conferences", "2024", "Live", "Fun", "Porto", "Tomas Lekavičius"]
+topics: []
 transcript: false
 ---
 

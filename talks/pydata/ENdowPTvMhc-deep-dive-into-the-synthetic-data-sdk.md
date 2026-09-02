@@ -15,6 +15,7 @@ video_id: ENdowPTvMhc
 url: https://www.youtube.com/watch?v=ENdowPTvMhc
 youtube_url: https://www.youtube.com/watch?v=ENdowPTvMhc
 tags: ["Conference", "GDPR", "Mostly AI", "PyConDE", "PyData", "Python", "SDK tutorial", "Tech Talk", "bias mitigation", "data anonymization", "data privacy", "data science", "differential privacy", "fairness in AI", "machine learning", "open source", "privacy preserving AI", "synthetic data", "tabular data"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

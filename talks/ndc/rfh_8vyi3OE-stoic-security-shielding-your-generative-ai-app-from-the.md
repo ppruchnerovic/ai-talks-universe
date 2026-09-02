@@ -15,6 +15,7 @@ video_id: rfh_8vyi3OE
 url: https://www.youtube.com/watch?v=rfh_8vyi3OE
 youtube_url: https://www.youtube.com/watch?v=rfh_8vyi3OE
 tags: ["AI", "ML", "Machine Learning", "SDLC", "OWASP", "Supply Chain", "LLM", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "UK", "England", "United Kingdom", "Jeff Watkins"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

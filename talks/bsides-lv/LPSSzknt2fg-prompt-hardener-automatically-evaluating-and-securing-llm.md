@@ -15,6 +15,7 @@ video_id: LPSSzknt2fg
 url: https://www.youtube.com/watch?v=LPSSzknt2fg
 youtube_url: https://www.youtube.com/watch?v=LPSSzknt2fg
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

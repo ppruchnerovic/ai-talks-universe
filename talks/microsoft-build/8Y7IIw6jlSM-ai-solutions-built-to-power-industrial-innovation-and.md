@@ -15,6 +15,7 @@ video_id: 8Y7IIw6jlSM
 url: https://www.youtube.com/watch?v=8Y7IIw6jlSM
 youtube_url: https://www.youtube.com/watch?v=8Y7IIw6jlSM
 tags: ["AI solutions built to power industrial innovation and sovereign control | OD839", "Agents & Apps", "Azure", "Azure Local", "Enterprise", "Foundry Local", "Governance", "Inbal Sagiv", "Local AI", "OD839", "OD839_v1", "Security", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

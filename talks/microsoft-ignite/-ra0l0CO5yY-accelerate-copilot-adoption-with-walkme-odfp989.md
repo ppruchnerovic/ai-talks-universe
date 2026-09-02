@@ -15,6 +15,7 @@ video_id: -ra0l0CO5yY
 url: https://www.youtube.com/watch?v=-ra0l0CO5yY
 youtube_url: https://www.youtube.com/watch?v=-ra0l0CO5yY
 tags: ["Accelerate Copilot adoption with WalkMe | ODFP989", "Copilot", "Copilot for M365", "Enterprise work management", "Foundational (100)", "Microsoft 365", "Microsoft Copilot", "ODFP989", "Pre-recorded", "Product management", "Program management", "Task Management", "Technical", "Work management", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

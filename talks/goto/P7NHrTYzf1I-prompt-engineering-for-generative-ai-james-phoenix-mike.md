@@ -15,6 +15,7 @@ video_id: P7NHrTYzf1I
 url: https://www.youtube.com/watch?v=P7NHrTYzf1I
 youtube_url: https://www.youtube.com/watch?v=P7NHrTYzf1I
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Multimodal, vision, speech & robotics", "Prompting & context engineering"]
 transcript: false
 ---
 

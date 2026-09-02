@@ -15,6 +15,7 @@ video_id: XKaAX1psMBg
 url: https://www.youtube.com/watch?v=XKaAX1psMBg
 youtube_url: https://www.youtube.com/watch?v=XKaAX1psMBg
 tags: ["Automation", "Boosting visibility efficiency with cloud usage optimization as code | ODFP982", "English (US)", "Intermediate (200)", "ODFP982", "Pre-recorded", "Technical", "Umair Khan", "Van Wolfe", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

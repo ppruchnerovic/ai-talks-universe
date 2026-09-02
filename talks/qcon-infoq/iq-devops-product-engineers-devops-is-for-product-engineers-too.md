@@ -15,6 +15,7 @@ video_id: iq-devops-product-engineers
 url: https://www.infoq.com/presentations/devops-product-engineers/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

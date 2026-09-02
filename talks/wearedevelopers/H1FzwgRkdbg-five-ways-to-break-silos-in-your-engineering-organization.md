@@ -15,6 +15,7 @@ video_id: H1FzwgRkdbg
 url: https://www.youtube.com/watch?v=H1FzwgRkdbg
 youtube_url: https://www.youtube.com/watch?v=H1FzwgRkdbg
 tags: ["People & Culture", "Collaboration", "Community", "People & Culture"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

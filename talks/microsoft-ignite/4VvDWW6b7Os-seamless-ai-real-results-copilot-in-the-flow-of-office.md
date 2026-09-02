@@ -15,6 +15,7 @@ video_id: 4VvDWW6b7Os
 url: https://www.youtube.com/watch?v=4VvDWW6b7Os
 youtube_url: https://www.youtube.com/watch?v=4VvDWW6b7Os
 tags: ["English (US)", "Other", "Ryan Roslansky", "STUDIO42", "STUDIO42_v3", "Seamless AI Real Results: Copilot in the Flow of Office | STUDIO42", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

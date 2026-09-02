@@ -15,6 +15,7 @@ video_id: AXdrdpdtshk
 url: https://www.youtube.com/watch?v=AXdrdpdtshk
 youtube_url: https://www.youtube.com/watch?v=AXdrdpdtshk
 tags: ["tech", "IT", "code", "future", "coding", "programmer", "software", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "tech talks", "sustainability", "cause", "green tech", "climate change", "leadership"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

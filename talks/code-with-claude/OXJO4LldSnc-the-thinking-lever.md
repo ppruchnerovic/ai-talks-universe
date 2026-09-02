@@ -15,6 +15,7 @@ video_id: OXJO4LldSnc
 url: https://www.youtube.com/watch?v=OXJO4LldSnc
 youtube_url: https://www.youtube.com/watch?v=OXJO4LldSnc
 tags: []
+topics: []
 transcript: true
 ---
 

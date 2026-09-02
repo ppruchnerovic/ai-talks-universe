@@ -15,6 +15,7 @@ video_id: 444R5smOleA
 url: https://www.youtube.com/watch?v=444R5smOleA
 youtube_url: https://www.youtube.com/watch?v=444R5smOleA
 tags: ["hr", "tech", "events", "tech topics", "mental health", "career growth"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

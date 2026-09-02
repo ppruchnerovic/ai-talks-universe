@@ -15,6 +15,7 @@ video_id: V7TBEILIhyY
 url: https://www.youtube.com/watch?v=V7TBEILIhyY
 youtube_url: https://www.youtube.com/watch?v=V7TBEILIhyY
 tags: ["AI Engineering", "Agentic AI", "Databricks"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

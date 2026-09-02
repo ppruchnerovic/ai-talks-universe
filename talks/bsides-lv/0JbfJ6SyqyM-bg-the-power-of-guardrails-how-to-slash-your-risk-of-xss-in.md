@@ -15,6 +15,7 @@ video_id: 0JbfJ6SyqyM
 url: https://www.youtube.com/watch?v=0JbfJ6SyqyM
 youtube_url: https://www.youtube.com/watch?v=0JbfJ6SyqyM
 tags: ["bslv2021-bg-power_of_guardrails-1046725"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

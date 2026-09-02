@@ -15,6 +15,7 @@ video_id: rLL44bevXhk
 url: https://www.youtube.com/watch?v=rLL44bevXhk
 youtube_url: https://www.youtube.com/watch?v=rLL44bevXhk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

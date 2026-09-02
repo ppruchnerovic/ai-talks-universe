@@ -15,6 +15,7 @@ video_id: GIRpQEfYf3U
 url: https://www.youtube.com/watch?v=GIRpQEfYf3U
 youtube_url: https://www.youtube.com/watch?v=GIRpQEfYf3U
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

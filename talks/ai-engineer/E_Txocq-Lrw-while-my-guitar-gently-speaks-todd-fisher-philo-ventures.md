@@ -15,6 +15,7 @@ video_id: E_Txocq-Lrw
 url: https://www.youtube.com/watch?v=E_Txocq-Lrw
 youtube_url: https://www.youtube.com/watch?v=E_Txocq-Lrw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

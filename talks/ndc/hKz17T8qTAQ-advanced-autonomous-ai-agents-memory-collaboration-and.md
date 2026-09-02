@@ -15,6 +15,7 @@ video_id: hKz17T8qTAQ
 url: https://www.youtube.com/watch?v=hKz17T8qTAQ
 youtube_url: https://www.youtube.com/watch?v=hKz17T8qTAQ
 tags: ["AI", "ML", "Machine Learning", "Security", "Architecture", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United", "Kingdom", "Andreas Wänqvist"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

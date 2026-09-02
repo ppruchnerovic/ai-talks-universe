@@ -15,6 +15,7 @@ video_id: BTwVhkQcg7g
 url: https://www.youtube.com/watch?v=BTwVhkQcg7g
 youtube_url: https://www.youtube.com/watch?v=BTwVhkQcg7g
 tags: ["Databricks tutorial", "Apache Iceberg", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "big data", "database tutorial", "SQL tutorial", "analytics", "table formats", "data lakehouse", "open source", "modern data stack", "Netflix", "Python", "unified analytics platform", "Apache Spark", "MLflow", "Delta Lake", "collaborative workspace", "notebook computing", "cluster computing", "auto scaling", "job scheduling", "workflow orchestration", "data governance"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

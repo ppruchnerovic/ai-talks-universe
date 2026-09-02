@@ -15,6 +15,7 @@ video_id: _vaIfRXXiIY
 url: https://www.youtube.com/watch?v=_vaIfRXXiIY
 youtube_url: https://www.youtube.com/watch?v=_vaIfRXXiIY
 tags: ["AI", "Cloud", "Machine Learning", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Robert Koch"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

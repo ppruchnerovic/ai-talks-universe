@@ -15,6 +15,7 @@ video_id: d92zoTmg-qo
 url: https://www.youtube.com/watch?v=d92zoTmg-qo
 youtube_url: https://www.youtube.com/watch?v=d92zoTmg-qo
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI coding tools", "GitHub Copilot", "COBOL migration", "developer productivity", "DevOps Microsoft", "legacy code modernization", "software engineering chat", "developer learning", "reverse engineering COBOL", "programming best practices", "mainframe to cloud", "coding culture insights"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: false
 ---
 

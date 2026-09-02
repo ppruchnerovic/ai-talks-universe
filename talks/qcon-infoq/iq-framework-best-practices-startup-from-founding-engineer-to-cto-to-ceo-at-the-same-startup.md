@@ -15,6 +15,7 @@ video_id: iq-framework-best-practices-startup
 url: https://www.infoq.com/presentations/framework-best-practices-startup/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

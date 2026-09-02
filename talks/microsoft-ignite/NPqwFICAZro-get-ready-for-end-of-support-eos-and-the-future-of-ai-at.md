@@ -15,6 +15,7 @@ video_id: NPqwFICAZro
 url: https://www.youtube.com/watch?v=NPqwFICAZro
 youtube_url: https://www.youtube.com/watch?v=NPqwFICAZro
 tags: ["Aria Hanson", "BRK287", "Breakout", "English (US)", "Get ready for End of Support (EOS) and the future of AI at work with Windows 11 and | BRK287", "Intermediate (200)", "Kurt Stevenson", "Modern Work", "Modern Work-Curated", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

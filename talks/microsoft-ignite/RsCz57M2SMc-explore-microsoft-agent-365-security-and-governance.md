@@ -15,6 +15,7 @@ video_id: RsCz57M2SMc
 url: https://www.youtube.com/watch?v=RsCz57M2SMc
 youtube_url: https://www.youtube.com/watch?v=RsCz57M2SMc
 tags: ["BRK269", "BRK269_v1", "English (US)", "Explore Microsoft Agent 365 security and governance capabilities | BRK269", "Irina Nechaeva", "Joanne Marone", "Kim Kischel", "Protect cloud AI platform and apps", "Shilpa Ranganathan", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

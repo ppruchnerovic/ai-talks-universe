@@ -15,6 +15,7 @@ video_id: iq-context-engineering-data
 url: https://www.infoq.com/presentations/context-engineering-data/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: true
 ---
 

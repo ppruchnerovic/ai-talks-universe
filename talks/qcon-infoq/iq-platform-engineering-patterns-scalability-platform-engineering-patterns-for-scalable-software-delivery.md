@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-patterns-scalability
 url: https://www.infoq.com/presentations/platform-engineering-patterns-scalability/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

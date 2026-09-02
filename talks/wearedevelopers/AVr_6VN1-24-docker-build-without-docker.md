@@ -15,6 +15,7 @@ video_id: AVr_6VN1-24
 url: https://www.youtube.com/watch?v=AVr_6VN1-24
 youtube_url: https://www.youtube.com/watch?v=AVr_6VN1-24
 tags: ["DevOps", "Containers", "DevOps", "Docker", "Linux"]
+topics: []
 transcript: true
 ---
 

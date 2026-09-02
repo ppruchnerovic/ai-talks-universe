@@ -15,6 +15,7 @@ video_id: MwGWkRitj-U
 url: https://www.youtube.com/watch?v=MwGWkRitj-U
 youtube_url: https://www.youtube.com/watch?v=MwGWkRitj-U
 tags: ["English (US)", "Other", "Preview: What’s new with Azure Databases and SQL Server | STUDIO32", "STUDIO32", "STUDIO32_v1", "Shireesh Thota", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

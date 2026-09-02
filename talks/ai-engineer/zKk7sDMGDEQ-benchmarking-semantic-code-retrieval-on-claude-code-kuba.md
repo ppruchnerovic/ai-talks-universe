@@ -15,6 +15,7 @@ video_id: zKk7sDMGDEQ
 url: https://www.youtube.com/watch?v=zKk7sDMGDEQ
 youtube_url: https://www.youtube.com/watch?v=zKk7sDMGDEQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

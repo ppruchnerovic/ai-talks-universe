@@ -15,6 +15,7 @@ video_id: m5HiwDNUsJM
 url: https://www.youtube.com/watch?v=m5HiwDNUsJM
 youtube_url: https://www.youtube.com/watch?v=m5HiwDNUsJM
 tags: ["Security & Privacy", "AppSec", "Authentication", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

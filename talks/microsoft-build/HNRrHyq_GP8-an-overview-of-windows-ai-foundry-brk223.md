@@ -15,6 +15,7 @@ video_id: HNRrHyq_GP8
 url: https://www.youtube.com/watch?v=HNRrHyq_GP8
 youtube_url: https://www.youtube.com/watch?v=HNRrHyq_GP8
 tags: []
+topics: []
 transcript: false
 ---
 

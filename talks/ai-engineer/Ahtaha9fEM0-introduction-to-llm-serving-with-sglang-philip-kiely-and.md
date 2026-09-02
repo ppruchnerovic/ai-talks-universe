@@ -15,6 +15,7 @@ video_id: Ahtaha9fEM0
 url: https://www.youtube.com/watch?v=Ahtaha9fEM0
 youtube_url: https://www.youtube.com/watch?v=Ahtaha9fEM0
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

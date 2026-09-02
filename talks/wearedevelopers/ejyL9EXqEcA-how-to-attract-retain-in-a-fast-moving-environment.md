@@ -15,6 +15,7 @@ video_id: ejyL9EXqEcA
 url: https://www.youtube.com/watch?v=ejyL9EXqEcA
 youtube_url: https://www.youtube.com/watch?v=ejyL9EXqEcA
 tags: ["Talent Strategy", "Analytics", "Communication", "People & Culture", "Performance", "Talent & Recruiting"]
+topics: []
 transcript: true
 ---
 

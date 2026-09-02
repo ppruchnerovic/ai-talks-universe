@@ -15,6 +15,7 @@ video_id: FkArgOq2d1A
 url: https://www.youtube.com/watch?v=FkArgOq2d1A
 youtube_url: https://www.youtube.com/watch?v=FkArgOq2d1A
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

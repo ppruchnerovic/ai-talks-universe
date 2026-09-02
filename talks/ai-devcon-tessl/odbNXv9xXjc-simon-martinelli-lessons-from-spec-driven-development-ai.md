@@ -15,6 +15,7 @@ video_id: odbNXv9xXjc
 url: https://www.youtube.com/watch?v=odbNXv9xXjc
 youtube_url: https://www.youtube.com/watch?v=odbNXv9xXjc
 tags: ["AI DevCon 2026", "AI Unified Process", "AI and specification alignment", "AI code generation", "AI code generation examples", "AI in software engineering", "Java development", "Java development insights", "SysML use cases", "SysML use cases in AI", "ainativedev", "business applications", "software modernization", "spec-driven development", "what is the AI Unified Process"]
+topics: ["AI in the SDLC & engineering orgs", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

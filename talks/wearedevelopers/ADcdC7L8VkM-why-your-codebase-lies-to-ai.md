@@ -15,6 +15,7 @@ video_id: ADcdC7L8VkM
 url: https://www.youtube.com/watch?v=ADcdC7L8VkM
 youtube_url: https://www.youtube.com/watch?v=ADcdC7L8VkM
 tags: ["AI Engineering", "AI Coding Assistants", "AI Standards", "Anthropic", "Agents", "Case Study", "Claude", "Copilot", "DeepSeek", "Developer Experience (DevEx)", "GitHub", "GitLab", "Heroku", "Jira", "OpenAI", "Product Management", "Project Management", "Startups", "VS Code"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

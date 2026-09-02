@@ -15,6 +15,7 @@ video_id: 2p2ErKRELHM
 url: https://www.youtube.com/watch?v=2p2ErKRELHM
 youtube_url: https://www.youtube.com/watch?v=2p2ErKRELHM
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

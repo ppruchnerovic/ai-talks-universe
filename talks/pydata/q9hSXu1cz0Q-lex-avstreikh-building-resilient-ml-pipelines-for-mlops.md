@@ -15,6 +15,7 @@ video_id: q9hSXu1cz0Q
 url: https://www.youtube.com/watch?v=q9hSXu1cz0Q
 youtube_url: https://www.youtube.com/watch?v=q9hSXu1cz0Q
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

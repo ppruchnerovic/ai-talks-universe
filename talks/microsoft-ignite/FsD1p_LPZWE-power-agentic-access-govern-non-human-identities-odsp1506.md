@@ -15,6 +15,7 @@ video_id: FsD1p_LPZWE
 url: https://www.youtube.com/watch?v=FsD1p_LPZWE
 youtube_url: https://www.youtube.com/watch?v=FsD1p_LPZWE
 tags: ["English (US)", "ODSP1506", "ODSP1506_v1", "Power Agentic Access. Govern Non-Human Identities | ODSP1506", "Protect cloud AI platform and apps", "Technical", "Yonit Glozshtein", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

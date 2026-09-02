@@ -15,6 +15,7 @@ video_id: eOeelv5CjXg
 url: https://www.youtube.com/watch?v=eOeelv5CjXg
 youtube_url: https://www.youtube.com/watch?v=eOeelv5CjXg
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Laur Spilca", "Laurentiu Spilca", "Thomas Vitale", "Software Security", "Security", "PKI", "Public Key", "Java", "Encryption"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gNu0su2QrNA
 url: https://www.youtube.com/watch?v=gNu0su2QrNA
 youtube_url: https://www.youtube.com/watch?v=gNu0su2QrNA
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Jeff Watkins"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

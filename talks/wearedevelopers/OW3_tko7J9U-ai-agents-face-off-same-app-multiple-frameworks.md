@@ -15,6 +15,7 @@ video_id: OW3_tko7J9U
 url: https://www.youtube.com/watch?v=OW3_tko7J9U
 youtube_url: https://www.youtube.com/watch?v=OW3_tko7J9U
 tags: ["Frontend, Web & Mobile", "Agentic AI", "Android", "Claude", "Flutter", "React Native"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: nx5_7Cptvpc
 url: https://www.youtube.com/watch?v=nx5_7Cptvpc
 youtube_url: https://www.youtube.com/watch?v=nx5_7Cptvpc
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: GpbmI5NtuSQ
 url: https://www.youtube.com/watch?v=GpbmI5NtuSQ
 youtube_url: https://www.youtube.com/watch?v=GpbmI5NtuSQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: LZWWjmbst-M
 url: https://www.youtube.com/watch?v=LZWWjmbst-M
 youtube_url: https://www.youtube.com/watch?v=LZWWjmbst-M
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

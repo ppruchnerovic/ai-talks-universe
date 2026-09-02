@@ -15,6 +15,7 @@ video_id: sV7pGLYmwdQ
 url: https://www.youtube.com/watch?v=sV7pGLYmwdQ
 youtube_url: https://www.youtube.com/watch?v=sV7pGLYmwdQ
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

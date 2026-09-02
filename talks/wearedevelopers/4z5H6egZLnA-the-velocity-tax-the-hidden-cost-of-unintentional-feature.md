@@ -15,6 +15,7 @@ video_id: 4z5H6egZLnA
 url: https://www.youtube.com/watch?v=4z5H6egZLnA
 youtube_url: https://www.youtube.com/watch?v=4z5H6egZLnA
 tags: ["Software Architecture", "Clean Code", "Event-Driven Architecture (EDA)", "Microservices", "Software Architecture", "System Design"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-food-image-generation
 url: https://www.infoq.com/presentations/ai-food-image-generation/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

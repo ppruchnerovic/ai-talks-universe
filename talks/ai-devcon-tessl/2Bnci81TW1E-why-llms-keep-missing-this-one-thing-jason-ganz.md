@@ -15,6 +15,7 @@ video_id: 2Bnci81TW1E
 url: https://www.youtube.com/watch?v=2Bnci81TW1E
 youtube_url: https://www.youtube.com/watch?v=2Bnci81TW1E
 tags: ["ainativedev"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

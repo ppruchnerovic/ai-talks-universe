@@ -15,6 +15,7 @@ video_id: 5HasfiWOB2g
 url: https://www.youtube.com/watch?v=5HasfiWOB2g
 youtube_url: https://www.youtube.com/watch?v=5HasfiWOB2g
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: mDJSH40ufRY
 url: https://www.youtube.com/watch?v=mDJSH40ufRY
 youtube_url: https://www.youtube.com/watch?v=mDJSH40ufRY
 tags: ["AI", "ML"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

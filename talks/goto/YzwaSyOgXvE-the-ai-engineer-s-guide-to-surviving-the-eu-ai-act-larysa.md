@@ -15,6 +15,7 @@ video_id: YzwaSyOgXvE
 url: https://www.youtube.com/watch?v=YzwaSyOgXvE
 youtube_url: https://www.youtube.com/watch?v=YzwaSyOgXvE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Larysa Visengeriyeva", "Barbara Lampl", "EU AI Act", "AI Act", "AI Engineer", "Engineer's Guide", "CRISP-ML", "Data Governance", "Compliance", "MLOps", "MLSecOps", "Machine Learning", "Data Science", "Regulation"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

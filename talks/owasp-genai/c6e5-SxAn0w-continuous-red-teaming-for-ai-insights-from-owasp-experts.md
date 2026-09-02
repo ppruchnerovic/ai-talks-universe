@@ -15,6 +15,7 @@ video_id: c6e5-SxAn0w
 url: https://www.youtube.com/watch?v=c6e5-SxAn0w
 youtube_url: https://www.youtube.com/watch?v=c6e5-SxAn0w
 tags: ["ai security", "genai security", "podcast", "jailbreaks", "data poisoning", "retrieval-augmented generation", "AI", "OWASP"]
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

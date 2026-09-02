@@ -15,6 +15,7 @@ video_id: YEo5hTP4sVA
 url: https://www.youtube.com/watch?v=YEo5hTP4sVA
 youtube_url: https://www.youtube.com/watch?v=YEo5hTP4sVA
 tags: ["14d9f60c-50f6-4804-afa8-91f872f63302_Segment", "Andrea Rubin", "BRK301", "English (US)", "Erica Arnold", "Making AI easier with Surface Copilot+ PCs and natural input | BRK301", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: OXMMN-XbxwA
 url: https://www.youtube.com/watch?v=OXMMN-XbxwA
 youtube_url: https://www.youtube.com/watch?v=OXMMN-XbxwA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

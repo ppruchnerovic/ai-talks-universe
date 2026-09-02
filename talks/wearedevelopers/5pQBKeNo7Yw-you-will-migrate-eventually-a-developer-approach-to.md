@@ -15,6 +15,7 @@ video_id: 5pQBKeNo7Yw
 url: https://www.youtube.com/watch?v=5pQBKeNo7Yw
 youtube_url: https://www.youtube.com/watch?v=5pQBKeNo7Yw
 tags: ["Engineering Leadership", "Business Models", "DevOps"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

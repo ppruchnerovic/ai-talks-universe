@@ -15,6 +15,7 @@ video_id: 9NzN6DBZ_Qk
 url: https://www.youtube.com/watch?v=9NzN6DBZ_Qk
 youtube_url: https://www.youtube.com/watch?v=9NzN6DBZ_Qk
 tags: ["Arjun Oberoi", "BRKSP474", "BRKSP474_v1", "Daniel Daesung Kim", "English (US)", "Fuel Innovation: Red Bull Microsoft and AMD ignite new wave of creators | BRKSP474", "Gauthier Hautin", "Jessica Hawk", "Josh Hort", "Migrate and modernize your estate", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

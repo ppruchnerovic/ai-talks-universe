@@ -15,6 +15,7 @@ video_id: L-J29rWtnkY
 url: https://www.youtube.com/watch?v=L-J29rWtnkY
 youtube_url: https://www.youtube.com/watch?v=L-J29rWtnkY
 tags: ["AI", "Architecture", "Cloud", "Continuous Delivery", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Luise Freese"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

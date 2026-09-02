@@ -15,6 +15,7 @@ video_id: okSgumIGLBY
 url: https://www.youtube.com/watch?v=okSgumIGLBY
 youtube_url: https://www.youtube.com/watch?v=okSgumIGLBY
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

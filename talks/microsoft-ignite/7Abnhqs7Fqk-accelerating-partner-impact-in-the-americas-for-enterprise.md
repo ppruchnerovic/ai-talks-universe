@@ -15,6 +15,7 @@ video_id: 7Abnhqs7Fqk
 url: https://www.youtube.com/watch?v=7Abnhqs7Fqk
 youtube_url: https://www.youtube.com/watch?v=7Abnhqs7Fqk
 tags: ["Accelerating Partner Impact in the Americas for Enterprise Customers​ | PBRK435", "Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "PBRK435", "Secure your data", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

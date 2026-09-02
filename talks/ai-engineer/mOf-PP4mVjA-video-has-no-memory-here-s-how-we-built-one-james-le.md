@@ -15,6 +15,7 @@ video_id: mOf-PP4mVjA
 url: https://www.youtube.com/watch?v=mOf-PP4mVjA
 youtube_url: https://www.youtube.com/watch?v=mOf-PP4mVjA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

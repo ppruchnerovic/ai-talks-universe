@@ -15,6 +15,7 @@ video_id: 5MC-P33ng1k
 url: https://www.youtube.com/watch?v=5MC-P33ng1k
 youtube_url: https://www.youtube.com/watch?v=5MC-P33ng1k
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

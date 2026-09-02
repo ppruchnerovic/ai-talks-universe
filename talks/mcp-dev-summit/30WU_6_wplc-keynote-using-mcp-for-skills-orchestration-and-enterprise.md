@@ -15,6 +15,7 @@ video_id: 30WU_6_wplc
 url: https://www.youtube.com/watch?v=30WU_6_wplc
 youtube_url: https://www.youtube.com/watch?v=30WU_6_wplc
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

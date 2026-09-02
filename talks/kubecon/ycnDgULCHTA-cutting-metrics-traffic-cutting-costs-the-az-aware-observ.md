@@ -15,6 +15,7 @@ video_id: ycnDgULCHTA
 url: https://www.youtube.com/watch?v=ycnDgULCHTA
 youtube_url: https://www.youtube.com/watch?v=ycnDgULCHTA
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Fsx36ZTGMag
 url: https://www.youtube.com/watch?v=Fsx36ZTGMag
 youtube_url: https://www.youtube.com/watch?v=Fsx36ZTGMag
 tags: []
+topics: []
 transcript: false
 ---
 

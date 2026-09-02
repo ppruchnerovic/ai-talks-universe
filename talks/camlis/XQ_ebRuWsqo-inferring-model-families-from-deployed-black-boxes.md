@@ -15,6 +15,7 @@ video_id: XQ_ebRuWsqo
 url: https://www.youtube.com/watch?v=XQ_ebRuWsqo
 youtube_url: https://www.youtube.com/watch?v=XQ_ebRuWsqo
 tags: ["camlis", "camlis2018"]
+topics: []
 transcript: false
 ---
 

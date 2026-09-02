@@ -15,6 +15,7 @@ video_id: 32LMicc0gRA
 url: https://www.youtube.com/watch?v=32LMicc0gRA
 youtube_url: https://www.youtube.com/watch?v=32LMicc0gRA
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Database", "Database Design", "OLTP", "TigerBeetle"]
+topics: []
 transcript: false
 ---
 

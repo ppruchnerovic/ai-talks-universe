@@ -15,6 +15,7 @@ video_id: 3-W0Et-X5Ew
 url: https://www.youtube.com/watch?v=3-W0Et-X5Ew
 youtube_url: https://www.youtube.com/watch?v=3-W0Et-X5Ew
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

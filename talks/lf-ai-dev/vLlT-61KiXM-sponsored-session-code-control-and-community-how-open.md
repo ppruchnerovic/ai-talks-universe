@@ -15,6 +15,7 @@ video_id: vLlT-61KiXM
 url: https://www.youtube.com/watch?v=vLlT-61KiXM
 youtube_url: https://www.youtube.com/watch?v=vLlT-61KiXM
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

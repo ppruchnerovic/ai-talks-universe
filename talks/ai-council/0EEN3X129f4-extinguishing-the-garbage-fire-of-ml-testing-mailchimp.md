@@ -15,6 +15,7 @@ video_id: 0EEN3X129f4
 url: https://www.youtube.com/watch?v=0EEN3X129f4
 youtube_url: https://www.youtube.com/watch?v=0EEN3X129f4
 tags: ["Data Science", "MLOps", "Data Engineering", "model testing"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

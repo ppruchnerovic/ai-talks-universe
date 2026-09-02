@@ -15,6 +15,7 @@ video_id: TTZuUlZcFhc
 url: https://www.youtube.com/watch?v=TTZuUlZcFhc
 youtube_url: https://www.youtube.com/watch?v=TTZuUlZcFhc
 tags: ["AI", "Large Language Models", "Security", "OWASP", "InfoQ Podcasts", "Software Development"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

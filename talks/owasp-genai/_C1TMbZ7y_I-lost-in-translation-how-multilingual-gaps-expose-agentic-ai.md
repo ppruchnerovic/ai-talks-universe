@@ -15,6 +15,7 @@ video_id: _C1TMbZ7y_I
 url: https://www.youtube.com/watch?v=_C1TMbZ7y_I
 youtube_url: https://www.youtube.com/watch?v=_C1TMbZ7y_I
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-meta-orion-ar-glasses
 url: https://www.infoq.com/presentations/meta-orion-ar-glasses/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

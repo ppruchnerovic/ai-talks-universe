@@ -15,6 +15,7 @@ video_id: yNQWjCGHV88
 url: https://www.youtube.com/watch?v=yNQWjCGHV88
 youtube_url: https://www.youtube.com/watch?v=yNQWjCGHV88
 tags: ["data science", "building startups", "dj patil", "whitehouse", "U.S. Chief Data Scientist"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

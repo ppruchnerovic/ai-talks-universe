@@ -15,6 +15,7 @@ video_id: 6ST8fCdVxX4
 url: https://www.youtube.com/watch?v=6ST8fCdVxX4
 youtube_url: https://www.youtube.com/watch?v=6ST8fCdVxX4
 tags: ["Admin Copilot", "BRK286", "Breakout", "Copilot", "Empowering IT with the latest Microsoft 365 innovation | BRK286", "English (US)", "Intermediate (200)", "James Bell", "Jed Brown", "Microsoft 365", "Modern Work", "Technical", "Version v4", "Windows 11", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

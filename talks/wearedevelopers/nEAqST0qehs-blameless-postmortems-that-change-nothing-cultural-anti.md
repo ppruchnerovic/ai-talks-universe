@@ -15,6 +15,7 @@ video_id: nEAqST0qehs
 url: https://www.youtube.com/watch?v=nEAqST0qehs
 youtube_url: https://www.youtube.com/watch?v=nEAqST0qehs
 tags: ["Engineering Leadership", "DevOps", "Reliability", "Site Reliability Engineering (SRE)"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

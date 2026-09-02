@@ -15,6 +15,7 @@ video_id: V979Wd1gmTU
 url: https://www.youtube.com/watch?v=V979Wd1gmTU
 youtube_url: https://www.youtube.com/watch?v=V979Wd1gmTU
 tags: ["YC", "Y Combinator"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

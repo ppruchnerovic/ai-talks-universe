@@ -15,6 +15,7 @@ video_id: fB-ykqpCYfk
 url: https://www.youtube.com/watch?v=fB-ykqpCYfk
 youtube_url: https://www.youtube.com/watch?v=fB-ykqpCYfk
 tags: ["YWF8HQ"]
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

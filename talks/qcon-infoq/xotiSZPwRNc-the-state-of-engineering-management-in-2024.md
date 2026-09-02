@@ -15,6 +15,7 @@ video_id: xotiSZPwRNc
 url: https://www.youtube.com/watch?v=xotiSZPwRNc
 youtube_url: https://www.youtube.com/watch?v=xotiSZPwRNc
 tags: []
+topics: []
 transcript: false
 ---
 

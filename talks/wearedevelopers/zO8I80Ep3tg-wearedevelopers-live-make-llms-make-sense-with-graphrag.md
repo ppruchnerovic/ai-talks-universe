@@ -15,6 +15,7 @@ video_id: zO8I80Ep3tg
 url: https://www.youtube.com/watch?v=zO8I80Ep3tg
 youtube_url: https://www.youtube.com/watch?v=zO8I80Ep3tg
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

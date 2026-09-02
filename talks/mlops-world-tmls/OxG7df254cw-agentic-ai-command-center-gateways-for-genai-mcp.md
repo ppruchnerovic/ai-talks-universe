@@ -15,6 +15,7 @@ video_id: OxG7df254cw
 url: https://www.youtube.com/watch?v=OxG7df254cw
 youtube_url: https://www.youtube.com/watch?v=OxG7df254cw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

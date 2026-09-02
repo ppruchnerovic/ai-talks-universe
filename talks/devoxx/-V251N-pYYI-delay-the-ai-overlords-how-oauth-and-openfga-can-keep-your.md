@@ -15,6 +15,7 @@ video_id: -V251N-pYYI
 url: https://www.youtube.com/watch?v=-V251N-pYYI
 youtube_url: https://www.youtube.com/watch?v=-V251N-pYYI
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

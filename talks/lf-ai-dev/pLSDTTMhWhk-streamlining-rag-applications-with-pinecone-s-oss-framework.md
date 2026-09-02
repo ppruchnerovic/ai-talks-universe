@@ -15,6 +15,7 @@ video_id: pLSDTTMhWhk
 url: https://www.youtube.com/watch?v=pLSDTTMhWhk
 youtube_url: https://www.youtube.com/watch?v=pLSDTTMhWhk
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

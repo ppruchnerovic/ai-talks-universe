@@ -15,6 +15,7 @@ video_id: nS5WbYp6Y6Q
 url: https://www.youtube.com/watch?v=nS5WbYp6Y6Q
 youtube_url: https://www.youtube.com/watch?v=nS5WbYp6Y6Q
 tags: ["QCon AI", "InfoQ", "Transcript", "Artificial Intelligence", "AI Agents", "SDLC", "Software Development", "Software Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: BbOsfkQRrik
 url: https://www.youtube.com/watch?v=BbOsfkQRrik
 youtube_url: https://www.youtube.com/watch?v=BbOsfkQRrik
 tags: ["9483dcd9-e862-4021-866e-694f48ca2438_Segment", "BRKSP468", "English (US)", "Jayanth Yajaman", "Manufacturing and Mobility", "Migrate and modernize your estate", "Power next-gen AI innovation with Azure Local | BRKSP468", "Stuart Mcrae", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

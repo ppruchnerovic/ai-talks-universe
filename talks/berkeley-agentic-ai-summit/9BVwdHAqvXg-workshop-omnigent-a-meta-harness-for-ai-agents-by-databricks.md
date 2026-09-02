@@ -15,6 +15,7 @@ video_id: 9BVwdHAqvXg
 url: https://www.youtube.com/watch?v=9BVwdHAqvXg
 youtube_url: https://www.youtube.com/watch?v=9BVwdHAqvXg
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

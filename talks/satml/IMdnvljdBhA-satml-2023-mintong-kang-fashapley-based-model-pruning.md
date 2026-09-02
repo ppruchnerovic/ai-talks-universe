@@ -15,6 +15,7 @@ video_id: IMdnvljdBhA
 url: https://www.youtube.com/watch?v=IMdnvljdBhA
 youtube_url: https://www.youtube.com/watch?v=IMdnvljdBhA
 tags: []
+topics: []
 transcript: false
 ---
 

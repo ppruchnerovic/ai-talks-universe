@@ -15,6 +15,7 @@ video_id: SKDJo2CopRs
 url: https://www.youtube.com/watch?v=SKDJo2CopRs
 youtube_url: https://www.youtube.com/watch?v=SKDJo2CopRs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: J8M1RHVmvIE
 url: https://www.youtube.com/watch?v=J8M1RHVmvIE
 youtube_url: https://www.youtube.com/watch?v=J8M1RHVmvIE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

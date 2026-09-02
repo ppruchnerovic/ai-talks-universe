@@ -15,6 +15,7 @@ video_id: qNa2eZjgi-4
 url: https://www.youtube.com/watch?v=qNa2eZjgi-4
 youtube_url: https://www.youtube.com/watch?v=qNa2eZjgi-4
 tags: ["Bayesian statistics", "Conference", "Media Mix Modeling", "PyConDE", "PyData", "PyMC", "PyMC Marketing", "Python", "Tech Talk", "budget allocation", "causal inference", "conference talk", "data science", "marketing ROI", "marketing analytics", "probabilistic programming", "risk optimization", "uncertainty quantification"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

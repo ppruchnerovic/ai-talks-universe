@@ -15,6 +15,7 @@ video_id: T7iVFDG1Y14
 url: https://www.youtube.com/watch?v=T7iVFDG1Y14
 youtube_url: https://www.youtube.com/watch?v=T7iVFDG1Y14
 tags: ["Conference", "DeepSHAP", "PyCon", "PyConDE", "PyData", "PyTorch", "Python", "SHAP", "Shapley values", "Tech Talk", "TreeSHAP", "XAI", "XGBoost", "data science", "explainable AI", "feature importance", "machine learning interpretability", "model explainability", "neural networks"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: -kdrM_JgwiY
 url: https://www.youtube.com/watch?v=-kdrM_JgwiY
 youtube_url: https://www.youtube.com/watch?v=-kdrM_JgwiY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

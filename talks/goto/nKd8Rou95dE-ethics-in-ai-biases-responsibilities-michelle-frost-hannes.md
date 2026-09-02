@@ -15,6 +15,7 @@ video_id: nKd8Rou95dE
 url: https://www.youtube.com/watch?v=nKd8Rou95dE
 youtube_url: https://www.youtube.com/watch?v=nKd8Rou95dE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

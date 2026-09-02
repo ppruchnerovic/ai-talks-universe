@@ -15,6 +15,7 @@ video_id: cX4LRUZDuwc
 url: https://www.youtube.com/watch?v=cX4LRUZDuwc
 youtube_url: https://www.youtube.com/watch?v=cX4LRUZDuwc
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

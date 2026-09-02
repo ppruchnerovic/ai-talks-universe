@@ -15,6 +15,7 @@ video_id: qJ3PWyx7w2Q
 url: https://www.youtube.com/watch?v=qJ3PWyx7w2Q
 youtube_url: https://www.youtube.com/watch?v=qJ3PWyx7w2Q
 tags: ["data pipelines", "data streaming", "open source tools"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

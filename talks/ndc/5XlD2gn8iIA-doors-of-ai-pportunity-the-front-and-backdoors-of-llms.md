@@ -15,6 +15,7 @@ video_id: 5XlD2gn8iIA
 url: https://www.youtube.com/watch?v=5XlD2gn8iIA
 youtube_url: https://www.youtube.com/watch?v=5XlD2gn8iIA
 tags: ["Security", "AI", "CPU", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Kasimir Schulz", "Kenneth Yeung"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: ffNeV4DpNzg
 url: https://www.youtube.com/watch?v=ffNeV4DpNzg
 youtube_url: https://www.youtube.com/watch?v=ffNeV4DpNzg
 tags: []
+topics: []
 transcript: false
 ---
 

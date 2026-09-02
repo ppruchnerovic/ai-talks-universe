@@ -15,6 +15,7 @@ video_id: OtZnGP14b0Q
 url: https://www.youtube.com/watch?v=OtZnGP14b0Q
 youtube_url: https://www.youtube.com/watch?v=OtZnGP14b0Q
 tags: ["AI Engineering", "Agentic AI", "Automation", "Reinforcement Learning", "Small Language Models (SLMs)"]
+topics: ["Agents & orchestration", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

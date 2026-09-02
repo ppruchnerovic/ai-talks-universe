@@ -15,6 +15,7 @@ video_id: SewGbEAx548
 url: https://www.youtube.com/watch?v=SewGbEAx548
 youtube_url: https://www.youtube.com/watch?v=SewGbEAx548
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

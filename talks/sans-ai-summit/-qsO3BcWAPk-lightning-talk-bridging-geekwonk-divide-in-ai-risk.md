@@ -15,6 +15,7 @@ video_id: -qsO3BcWAPk
 url: https://www.youtube.com/watch?v=-qsO3BcWAPk
 youtube_url: https://www.youtube.com/watch?v=-qsO3BcWAPk
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: []
 transcript: true
 ---
 

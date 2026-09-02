@@ -15,6 +15,7 @@ video_id: ADI8zrdmN_4
 url: https://www.youtube.com/watch?v=ADI8zrdmN_4
 youtube_url: https://www.youtube.com/watch?v=ADI8zrdmN_4
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

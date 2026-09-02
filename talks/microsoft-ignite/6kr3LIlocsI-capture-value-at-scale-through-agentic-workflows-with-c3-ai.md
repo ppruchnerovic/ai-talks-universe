@@ -15,6 +15,7 @@ video_id: 6kr3LIlocsI
 url: https://www.youtube.com/watch?v=6kr3LIlocsI
 youtube_url: https://www.youtube.com/watch?v=6kr3LIlocsI
 tags: ["4836c716-ede9-4dd1-81ba-3bfc45ff7516_Segment", "BRKSP479", "Capture value at scale through agentic workflows with C3 AI | BRKSP479", "English (US)", "Innovate with low-code AI and agents", "John Abelt", "Manufacturing and Mobility", "Nikhil Krishnan", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

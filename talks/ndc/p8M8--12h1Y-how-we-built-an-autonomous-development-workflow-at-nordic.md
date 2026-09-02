@@ -15,6 +15,7 @@ video_id: p8M8--12h1Y
 url: https://www.youtube.com/watch?v=p8M8--12h1Y
 youtube_url: https://www.youtube.com/watch?v=p8M8--12h1Y
 tags: ["AI", "AI Assisted Development", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Hallstein Brøtan"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

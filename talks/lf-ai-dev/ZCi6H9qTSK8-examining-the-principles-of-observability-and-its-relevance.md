@@ -15,6 +15,7 @@ video_id: ZCi6H9qTSK8
 url: https://www.youtube.com/watch?v=ZCi6H9qTSK8
 youtube_url: https://www.youtube.com/watch?v=ZCi6H9qTSK8
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

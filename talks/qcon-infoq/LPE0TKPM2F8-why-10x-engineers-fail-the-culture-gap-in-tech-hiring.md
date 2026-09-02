@@ -15,6 +15,7 @@ video_id: LPE0TKPM2F8
 url: https://www.youtube.com/watch?v=LPE0TKPM2F8
 youtube_url: https://www.youtube.com/watch?v=LPE0TKPM2F8
 tags: ["QCon London", "InfoQ", "Transcript", "Culture", "Hiring", "Software Engineering", "Engineering Leadership", "Tech Hiring", "System Design"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

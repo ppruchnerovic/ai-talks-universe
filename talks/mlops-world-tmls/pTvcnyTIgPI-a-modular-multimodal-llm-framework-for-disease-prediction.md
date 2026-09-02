@@ -15,6 +15,7 @@ video_id: pTvcnyTIgPI
 url: https://www.youtube.com/watch?v=pTvcnyTIgPI
 youtube_url: https://www.youtube.com/watch?v=pTvcnyTIgPI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: TJPInBjhE4Q
 url: https://www.youtube.com/watch?v=TJPInBjhE4Q
 youtube_url: https://www.youtube.com/watch?v=TJPInBjhE4Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

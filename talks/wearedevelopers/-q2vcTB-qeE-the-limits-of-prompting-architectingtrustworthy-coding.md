@@ -15,6 +15,7 @@ video_id: -q2vcTB-qeE
 url: https://www.youtube.com/watch?v=-q2vcTB-qeE
 youtube_url: https://www.youtube.com/watch?v=-q2vcTB-qeE
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

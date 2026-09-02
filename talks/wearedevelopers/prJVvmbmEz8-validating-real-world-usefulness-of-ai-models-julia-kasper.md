@@ -15,6 +15,7 @@ video_id: prJVvmbmEz8
 url: https://www.youtube.com/watch?v=prJVvmbmEz8
 youtube_url: https://www.youtube.com/watch?v=prJVvmbmEz8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: yuRWKWagzok
 url: https://www.youtube.com/watch?v=yuRWKWagzok
 youtube_url: https://www.youtube.com/watch?v=yuRWKWagzok
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

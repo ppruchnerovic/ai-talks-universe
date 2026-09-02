@@ -15,6 +15,7 @@ video_id: GtBVrn094qM
 url: https://www.youtube.com/watch?v=GtBVrn094qM
 youtube_url: https://www.youtube.com/watch?v=GtBVrn094qM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

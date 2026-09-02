@@ -15,6 +15,7 @@ video_id: KA6tiBsl7Js
 url: https://www.youtube.com/watch?v=KA6tiBsl7Js
 youtube_url: https://www.youtube.com/watch?v=KA6tiBsl7Js
 tags: ["generative AI", "search", "NLP", "natural-language search"]
+topics: []
 transcript: false
 ---
 

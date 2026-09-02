@@ -15,6 +15,7 @@ video_id: iq-ai-virtual-care
 url: https://www.infoq.com/presentations/ai-virtual-care/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: wRBDzv9Ai7E
 url: https://www.youtube.com/watch?v=wRBDzv9Ai7E
 youtube_url: https://www.youtube.com/watch?v=wRBDzv9Ai7E
 tags: ["Languages & Runtimes", "Rust", "Runtimes", "WebAssembly"]
+topics: []
 transcript: true
 ---
 

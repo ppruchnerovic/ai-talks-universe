@@ -15,6 +15,7 @@ video_id: VX4qE02JcF8
 url: https://www.youtube.com/watch?v=VX4qE02JcF8
 youtube_url: https://www.youtube.com/watch?v=VX4qE02JcF8
 tags: ["TDD", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Venkat Subramaniam", "AI"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: IeBDjcCo1sw
 url: https://www.youtube.com/watch?v=IeBDjcCo1sw
 youtube_url: https://www.youtube.com/watch?v=IeBDjcCo1sw
 tags: ["camlis", "camlis2019"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

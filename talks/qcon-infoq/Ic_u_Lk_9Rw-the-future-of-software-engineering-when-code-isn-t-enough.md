@@ -15,6 +15,7 @@ video_id: Ic_u_Lk_9Rw
 url: https://www.youtube.com/watch?v=Ic_u_Lk_9Rw
 youtube_url: https://www.youtube.com/watch?v=Ic_u_Lk_9Rw
 tags: ["QCon San Fracisco", "InfoQ", "Transcript", "Software Development", "Artificial Intelligence", "Software Engineering", "Software Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

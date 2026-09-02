@@ -15,6 +15,7 @@ video_id: XEd_SRVHBgU
 url: https://www.youtube.com/watch?v=XEd_SRVHBgU
 youtube_url: https://www.youtube.com/watch?v=XEd_SRVHBgU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

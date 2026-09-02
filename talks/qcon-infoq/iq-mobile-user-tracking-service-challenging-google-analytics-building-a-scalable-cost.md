@@ -15,6 +15,7 @@ video_id: iq-mobile-user-tracking-service
 url: https://www.infoq.com/presentations/mobile-user-tracking-service/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: genftMsFV8E
 url: https://www.youtube.com/watch?v=genftMsFV8E
 youtube_url: https://www.youtube.com/watch?v=genftMsFV8E
 tags: ["Backend & APIs", "APIs", "Jakarta EE", "Java", "Microservices", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

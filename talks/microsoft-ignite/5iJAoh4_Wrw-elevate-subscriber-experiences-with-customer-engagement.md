@@ -15,6 +15,7 @@ video_id: 5iJAoh4_Wrw
 url: https://www.youtube.com/watch?v=5iJAoh4_Wrw
 youtube_url: https://www.youtube.com/watch?v=5iJAoh4_Wrw
 tags: ["AI", "BRK253", "Breakout", "Elevate subscriber experiences with Customer Engagement Platform | BRK253", "English (US)", "Industry", "Industry-Curated", "Intermediate (200)", "Liliana Schwartz-Brunner", "Lionel Schonberg", "Mustafa Oyumi", "Power Platform", "Rick Lievano", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

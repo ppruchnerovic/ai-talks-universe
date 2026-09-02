@@ -15,6 +15,7 @@ video_id: uWnUnMphmPM
 url: https://www.youtube.com/watch?v=uWnUnMphmPM
 youtube_url: https://www.youtube.com/watch?v=uWnUnMphmPM
 tags: ["Richard Campbell", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "AI", "Ethics", "People", "Security"]
+topics: []
 transcript: true
 ---
 

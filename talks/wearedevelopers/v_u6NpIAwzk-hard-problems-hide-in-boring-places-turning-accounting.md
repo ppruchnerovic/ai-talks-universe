@@ -15,6 +15,7 @@ video_id: v_u6NpIAwzk
 url: https://www.youtube.com/watch?v=v_u6NpIAwzk
 youtube_url: https://www.youtube.com/watch?v=v_u6NpIAwzk
 tags: ["AI Engineering", "Automation", "Data", "Large Language Models (LLMs)", "Security", "Software Architecture"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: IisxwCmHS9I
 url: https://www.youtube.com/watch?v=IisxwCmHS9I
 youtube_url: https://www.youtube.com/watch?v=IisxwCmHS9I
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

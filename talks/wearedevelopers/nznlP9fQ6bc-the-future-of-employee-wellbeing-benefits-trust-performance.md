@@ -15,6 +15,7 @@ video_id: nznlP9fQ6bc
 url: https://www.youtube.com/watch?v=nznlP9fQ6bc
 youtube_url: https://www.youtube.com/watch?v=nznlP9fQ6bc
 tags: ["wellbeing", "future of work", "employee", "trust", "benefits", "corporate benefits", "wellbeing initiatives", "performance", "sustainable performance"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

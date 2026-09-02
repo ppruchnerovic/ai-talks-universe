@@ -15,6 +15,7 @@ video_id: sx-DLGXv49g
 url: https://www.youtube.com/watch?v=sx-DLGXv49g
 youtube_url: https://www.youtube.com/watch?v=sx-DLGXv49g
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

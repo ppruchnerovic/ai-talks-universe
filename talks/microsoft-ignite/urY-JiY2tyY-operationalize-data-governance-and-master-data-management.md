@@ -15,6 +15,7 @@ video_id: urY-JiY2tyY
 url: https://www.youtube.com/watch?v=urY-JiY2tyY
 youtube_url: https://www.youtube.com/watch?v=urY-JiY2tyY
 tags: ["AI", "Copilot", "Data governance", "English (US)", "Intermediate (200)", "ODFP932", "Operationalize data governance and master data management with GenAI | ODFP932", "Pre-recorded", "Responsible AI", "Technical", "Tim Ward", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

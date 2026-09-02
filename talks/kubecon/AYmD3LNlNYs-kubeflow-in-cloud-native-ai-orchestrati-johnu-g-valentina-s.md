@@ -15,6 +15,7 @@ video_id: AYmD3LNlNYs
 url: https://www.youtube.com/watch?v=AYmD3LNlNYs
 youtube_url: https://www.youtube.com/watch?v=AYmD3LNlNYs
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

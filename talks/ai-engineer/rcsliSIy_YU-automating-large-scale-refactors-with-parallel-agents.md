@@ -15,6 +15,7 @@ video_id: rcsliSIy_YU
 url: https://www.youtube.com/watch?v=rcsliSIy_YU
 youtube_url: https://www.youtube.com/watch?v=rcsliSIy_YU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

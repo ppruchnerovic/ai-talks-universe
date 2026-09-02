@@ -15,6 +15,7 @@ video_id: khVX_BUnEwU
 url: https://www.youtube.com/watch?v=khVX_BUnEwU
 youtube_url: https://www.youtube.com/watch?v=khVX_BUnEwU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

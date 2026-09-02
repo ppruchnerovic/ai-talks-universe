@@ -15,6 +15,7 @@ video_id: 13EDVjfWKJM
 url: https://www.youtube.com/watch?v=13EDVjfWKJM
 youtube_url: https://www.youtube.com/watch?v=13EDVjfWKJM
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

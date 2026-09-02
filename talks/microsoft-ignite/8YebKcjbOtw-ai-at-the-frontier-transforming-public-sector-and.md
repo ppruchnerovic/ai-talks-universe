@@ -15,6 +15,7 @@ video_id: 8YebKcjbOtw
 url: https://www.youtube.com/watch?v=8YebKcjbOtw
 youtube_url: https://www.youtube.com/watch?v=8YebKcjbOtw
 tags: ["AI at the Frontier: Transforming Public Sector and Healthcare | STUDIO44", "Cornelis Hertogh", "English (US)", "Other", "STUDIO44", "STUDIO44_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

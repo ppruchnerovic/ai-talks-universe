@@ -15,6 +15,7 @@ video_id: yu2Ot3lTNfU
 url: https://www.youtube.com/watch?v=yu2Ot3lTNfU
 youtube_url: https://www.youtube.com/watch?v=yu2Ot3lTNfU
 tags: ["LLMs", "Large Language Models", "Meta", "Facebook", "QCon San Francisco", "InfoQ", "Transcript", "AI", "Artificial Intelligence", "Case Study", "LLM Serving", "AI Infrastructure", "Software Architecture"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

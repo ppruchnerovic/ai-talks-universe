@@ -15,6 +15,7 @@ video_id: DcsQ9ca41Js
 url: https://www.youtube.com/watch?v=DcsQ9ca41Js
 youtube_url: https://www.youtube.com/watch?v=DcsQ9ca41Js
 tags: []
+topics: []
 transcript: false
 ---
 

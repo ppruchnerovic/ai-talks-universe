@@ -15,6 +15,7 @@ video_id: _lkRRoJgDXM
 url: https://www.youtube.com/watch?v=_lkRRoJgDXM
 youtube_url: https://www.youtube.com/watch?v=_lkRRoJgDXM
 tags: ["QCon AI", "InfoQ", "Transcript", "Large language models", "LLMs", "Artificial Intelligence", "Machine Learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

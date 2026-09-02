@@ -15,6 +15,7 @@ video_id: 4D7U9BinPYc
 url: https://www.youtube.com/watch?v=4D7U9BinPYc
 youtube_url: https://www.youtube.com/watch?v=4D7U9BinPYc
 tags: ["Languages & Runtimes", "Best Practices", "C++", "Safety", "Secure Coding", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: _h8sn3tudYo
 url: https://www.youtube.com/watch?v=_h8sn3tudYo
 youtube_url: https://www.youtube.com/watch?v=_h8sn3tudYo
 tags: ["AI Engineering", "AI Models", "Gemini", "OpenAI"]
+topics: []
 transcript: true
 ---
 

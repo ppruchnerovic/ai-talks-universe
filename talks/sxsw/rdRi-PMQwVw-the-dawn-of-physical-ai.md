@@ -15,6 +15,7 @@ video_id: rdRi-PMQwVw
 url: https://www.youtube.com/watch?v=rdRi-PMQwVw
 youtube_url: https://www.youtube.com/watch?v=rdRi-PMQwVw
 tags: []
+topics: []
 transcript: false
 ---
 

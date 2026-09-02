@@ -15,6 +15,7 @@ video_id: 3Hd-QL0fwaI
 url: https://www.youtube.com/watch?v=3Hd-QL0fwaI
 youtube_url: https://www.youtube.com/watch?v=3Hd-QL0fwaI
 tags: ["LLM Deployment", "Self Hosting AI", "Software Architecture", "Large Language Models", "LLMs", "Deployment", "Artificial Intelligence", "Machine Learning", "QCon San Francisco", "InfoQ", "Transcript", "Cloud Computing"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

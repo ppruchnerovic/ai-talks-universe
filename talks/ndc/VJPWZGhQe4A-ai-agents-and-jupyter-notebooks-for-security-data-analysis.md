@@ -15,6 +15,7 @@ video_id: VJPWZGhQe4A
 url: https://www.youtube.com/watch?v=VJPWZGhQe4A
 youtube_url: https://www.youtube.com/watch?v=VJPWZGhQe4A
 tags: ["ML", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Roberto Rodriguez"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

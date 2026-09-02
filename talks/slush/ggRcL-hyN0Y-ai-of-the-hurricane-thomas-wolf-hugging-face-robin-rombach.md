@@ -15,6 +15,7 @@ video_id: ggRcL-hyN0Y
 url: https://www.youtube.com/watch?v=ggRcL-hyN0Y
 youtube_url: https://www.youtube.com/watch?v=ggRcL-hyN0Y
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 6NC9laD5OHY
 url: https://www.youtube.com/watch?v=6NC9laD5OHY
 youtube_url: https://www.youtube.com/watch?v=6NC9laD5OHY
 tags: ["Frontend, Web & Mobile", "APIs", "TypeScript"]
+topics: []
 transcript: true
 ---
 

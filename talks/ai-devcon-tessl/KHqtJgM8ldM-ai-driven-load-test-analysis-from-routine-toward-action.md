@@ -15,6 +15,7 @@ video_id: KHqtJgM8ldM
 url: https://www.youtube.com/watch?v=KHqtJgM8ldM
 youtube_url: https://www.youtube.com/watch?v=KHqtJgM8ldM
 tags: ["ainativedev"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

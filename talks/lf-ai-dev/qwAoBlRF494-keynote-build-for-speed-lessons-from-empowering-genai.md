@@ -15,6 +15,7 @@ video_id: qwAoBlRF494
 url: https://www.youtube.com/watch?v=qwAoBlRF494
 youtube_url: https://www.youtube.com/watch?v=qwAoBlRF494
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

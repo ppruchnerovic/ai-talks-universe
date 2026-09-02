@@ -15,6 +15,7 @@ video_id: _Xs7r9d86qQ
 url: https://www.youtube.com/watch?v=_Xs7r9d86qQ
 youtube_url: https://www.youtube.com/watch?v=_Xs7r9d86qQ
 tags: ["AWS Lambda", "Conference", "FastAPI", "NLP", "OpenVINO", "Postgres", "PyConDE", "PyData", "Python", "Tech Talk", "aviation", "embeddings", "hybrid search", "machine learning", "pgvector", "reranking", "semantic search", "vector database"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

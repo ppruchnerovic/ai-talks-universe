@@ -15,6 +15,7 @@ video_id: LWDsAlMNLac
 url: https://www.youtube.com/watch?v=LWDsAlMNLac
 youtube_url: https://www.youtube.com/watch?v=LWDsAlMNLac
 tags: ["Security & Privacy"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

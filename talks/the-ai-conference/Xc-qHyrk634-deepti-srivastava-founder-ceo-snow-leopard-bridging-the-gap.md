@@ -15,6 +15,7 @@ video_id: Xc-qHyrk634
 url: https://www.youtube.com/watch?v=Xc-qHyrk634
 youtube_url: https://www.youtube.com/watch?v=Xc-qHyrk634
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

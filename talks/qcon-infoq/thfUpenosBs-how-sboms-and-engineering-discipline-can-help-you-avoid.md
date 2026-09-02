@@ -15,6 +15,7 @@ video_id: thfUpenosBs
 url: https://www.youtube.com/watch?v=thfUpenosBs
 youtube_url: https://www.youtube.com/watch?v=thfUpenosBs
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

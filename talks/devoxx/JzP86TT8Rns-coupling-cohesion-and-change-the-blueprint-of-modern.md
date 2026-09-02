@@ -15,6 +15,7 @@ video_id: JzP86TT8Rns
 url: https://www.youtube.com/watch?v=JzP86TT8Rns
 youtube_url: https://www.youtube.com/watch?v=JzP86TT8Rns
 tags: []
+topics: []
 transcript: true
 ---
 

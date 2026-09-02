@@ -15,6 +15,7 @@ video_id: NhBULvX8BvE
 url: https://www.youtube.com/watch?v=NhBULvX8BvE
 youtube_url: https://www.youtube.com/watch?v=NhBULvX8BvE
 tags: ["retention", "talent attraction", "employer branding", "mindset", "hr", "people", "recruiting", "career development", "branding", "employer", "people strategy", "branding strategy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

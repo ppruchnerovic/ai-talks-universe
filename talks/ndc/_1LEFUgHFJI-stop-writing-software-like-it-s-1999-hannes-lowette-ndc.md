@@ -15,6 +15,7 @@ video_id: _1LEFUgHFJI
 url: https://www.youtube.com/watch?v=_1LEFUgHFJI
 youtube_url: https://www.youtube.com/watch?v=_1LEFUgHFJI
 tags: ["Architecture", "Big Data", "Cloud", "DevOps", "Microservices", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "CPU", "GPU", "Hannes Lowette"]
+topics: []
 transcript: true
 ---
 

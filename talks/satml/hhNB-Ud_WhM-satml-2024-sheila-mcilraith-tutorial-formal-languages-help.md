@@ -15,6 +15,7 @@ video_id: hhNB-Ud_WhM
 url: https://www.youtube.com/watch?v=hhNB-Ud_WhM
 youtube_url: https://www.youtube.com/watch?v=hhNB-Ud_WhM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: ghQ-tHO4iCI
 url: https://www.youtube.com/watch?v=ghQ-tHO4iCI
 youtube_url: https://www.youtube.com/watch?v=ghQ-tHO4iCI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

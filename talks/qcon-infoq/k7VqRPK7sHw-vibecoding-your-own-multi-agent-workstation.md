@@ -15,6 +15,7 @@ video_id: k7VqRPK7sHw
 url: https://www.youtube.com/watch?v=k7VqRPK7sHw
 youtube_url: https://www.youtube.com/watch?v=k7VqRPK7sHw
 tags: ["Vibe Coding", "AI Agents", "Multi Agent Systems", "Generative AI", "Developer Tools", "Open Source", "Software Engineering", "AI Engineering"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

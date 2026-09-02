@@ -15,6 +15,7 @@ video_id: 50T27Wc-ntk
 url: https://www.youtube.com/watch?v=50T27Wc-ntk
 youtube_url: https://www.youtube.com/watch?v=50T27Wc-ntk
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

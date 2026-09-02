@@ -15,6 +15,7 @@ video_id: UsMDkEsR-ok
 url: https://www.youtube.com/watch?v=UsMDkEsR-ok
 youtube_url: https://www.youtube.com/watch?v=UsMDkEsR-ok
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

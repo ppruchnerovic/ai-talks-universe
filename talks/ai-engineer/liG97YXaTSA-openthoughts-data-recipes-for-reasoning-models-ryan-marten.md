@@ -15,6 +15,7 @@ video_id: liG97YXaTSA
 url: https://www.youtube.com/watch?v=liG97YXaTSA
 youtube_url: https://www.youtube.com/watch?v=liG97YXaTSA
 tags: []
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

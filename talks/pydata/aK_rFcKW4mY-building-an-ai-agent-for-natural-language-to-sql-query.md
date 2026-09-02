@@ -15,6 +15,7 @@ video_id: aK_rFcKW4mY
 url: https://www.youtube.com/watch?v=aK_rFcKW4mY
 youtube_url: https://www.youtube.com/watch?v=aK_rFcKW4mY
 tags: ["AI agents", "Conference", "LangChain", "LangGraph", "LangSmith", "NL2SQL", "PostgreSQL", "PyConDE", "PyData", "Python", "RAG", "SQL generation", "SciPy", "Tech Talk", "database automation", "machine learning", "natural language to SQL", "production AI", "tutorial"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

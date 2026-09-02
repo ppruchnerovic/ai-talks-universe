@@ -15,6 +15,7 @@ video_id: c675KAlmo8k
 url: https://www.youtube.com/watch?v=c675KAlmo8k
 youtube_url: https://www.youtube.com/watch?v=c675KAlmo8k
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

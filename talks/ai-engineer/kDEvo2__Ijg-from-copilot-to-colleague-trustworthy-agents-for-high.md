@@ -15,6 +15,7 @@ video_id: kDEvo2__Ijg
 url: https://www.youtube.com/watch?v=kDEvo2__Ijg
 youtube_url: https://www.youtube.com/watch?v=kDEvo2__Ijg
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

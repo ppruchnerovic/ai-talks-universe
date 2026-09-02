@@ -15,6 +15,7 @@ video_id: XcI81nVWmWU
 url: https://www.youtube.com/watch?v=XcI81nVWmWU
 youtube_url: https://www.youtube.com/watch?v=XcI81nVWmWU
 tags: ["AI", "Automation", "Data", "Design systems for every user including people and LLMs | ODSP916", "Developer", "Guust Ysebie", "ODSP916", "ODSP916_v1", "Platform Engineering", "Reliability", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-devex-highlights
 url: https://www.infoq.com/presentations/devex-highlights/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

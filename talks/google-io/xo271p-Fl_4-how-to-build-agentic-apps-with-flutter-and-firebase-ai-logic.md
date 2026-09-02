@@ -15,6 +15,7 @@ video_id: xo271p-Fl_4
 url: https://www.youtube.com/watch?v=xo271p-Fl_4
 youtube_url: https://www.youtube.com/watch?v=xo271p-Fl_4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

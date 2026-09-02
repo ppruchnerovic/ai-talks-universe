@@ -15,6 +15,7 @@ video_id: Ptux_zUZReQ
 url: https://www.youtube.com/watch?v=Ptux_zUZReQ
 youtube_url: https://www.youtube.com/watch?v=Ptux_zUZReQ
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

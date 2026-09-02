@@ -15,6 +15,7 @@ video_id: B-0vrx-5wr4
 url: https://www.youtube.com/watch?v=B-0vrx-5wr4
 youtube_url: https://www.youtube.com/watch?v=B-0vrx-5wr4
 tags: []
+topics: []
 transcript: false
 ---
 

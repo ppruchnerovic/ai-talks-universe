@@ -15,6 +15,7 @@ video_id: DcGd21KYJNc
 url: https://www.youtube.com/watch?v=DcGd21KYJNc
 youtube_url: https://www.youtube.com/watch?v=DcGd21KYJNc
 tags: ["Security & Privacy"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

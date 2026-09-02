@@ -15,6 +15,7 @@ video_id: TgSEdc2Pu_I
 url: https://www.youtube.com/watch?v=TgSEdc2Pu_I
 youtube_url: https://www.youtube.com/watch?v=TgSEdc2Pu_I
 tags: ["AI Agents", "Anthropic", "AWS", "Agents", "Agentic AI", "CDK", "Event-Driven Architecture (EDA)"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

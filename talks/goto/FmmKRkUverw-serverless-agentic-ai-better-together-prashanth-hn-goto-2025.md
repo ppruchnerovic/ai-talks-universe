@@ -15,6 +15,7 @@ video_id: FmmKRkUverw
 url: https://www.youtube.com/watch?v=FmmKRkUverw
 youtube_url: https://www.youtube.com/watch?v=FmmKRkUverw
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

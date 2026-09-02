@@ -15,6 +15,7 @@ video_id: lyL5QhgIOxc
 url: https://www.youtube.com/watch?v=lyL5QhgIOxc
 youtube_url: https://www.youtube.com/watch?v=lyL5QhgIOxc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

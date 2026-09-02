@@ -15,6 +15,7 @@ video_id: KPcKNBG7WTg
 url: https://www.youtube.com/watch?v=KPcKNBG7WTg
 youtube_url: https://www.youtube.com/watch?v=KPcKNBG7WTg
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

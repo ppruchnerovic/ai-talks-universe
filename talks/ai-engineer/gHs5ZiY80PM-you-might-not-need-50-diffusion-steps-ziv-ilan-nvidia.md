@@ -15,6 +15,7 @@ video_id: gHs5ZiY80PM
 url: https://www.youtube.com/watch?v=gHs5ZiY80PM
 youtube_url: https://www.youtube.com/watch?v=gHs5ZiY80PM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

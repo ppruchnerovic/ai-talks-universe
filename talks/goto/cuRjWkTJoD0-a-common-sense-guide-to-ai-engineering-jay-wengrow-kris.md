@@ -15,6 +15,7 @@ video_id: cuRjWkTJoD0
 url: https://www.youtube.com/watch?v=cuRjWkTJoD0
 youtube_url: https://www.youtube.com/watch?v=cuRjWkTJoD0
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "AI Engineering", "Common-Sense", "Jay Wengrow", "Kris Jenkins", "AI Agents", "Multi-Agentic"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

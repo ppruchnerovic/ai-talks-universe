@@ -15,6 +15,7 @@ video_id: CoEIs6Xm8m8
 url: https://www.youtube.com/watch?v=CoEIs6Xm8m8
 youtube_url: https://www.youtube.com/watch?v=CoEIs6Xm8m8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

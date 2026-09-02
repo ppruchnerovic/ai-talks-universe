@@ -15,6 +15,7 @@ video_id: iq-ai-platforms-reliability
 url: https://www.infoq.com/presentations/ai-platforms-reliability/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

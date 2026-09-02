@@ -15,6 +15,7 @@ video_id: Xfl50508LZM
 url: https://www.youtube.com/watch?v=Xfl50508LZM
 youtube_url: https://www.youtube.com/watch?v=Xfl50508LZM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

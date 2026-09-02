@@ -15,6 +15,7 @@ video_id: Ghc-qalQFLw
 url: https://www.youtube.com/watch?v=Ghc-qalQFLw
 youtube_url: https://www.youtube.com/watch?v=Ghc-qalQFLw
 tags: []
+topics: []
 transcript: false
 ---
 

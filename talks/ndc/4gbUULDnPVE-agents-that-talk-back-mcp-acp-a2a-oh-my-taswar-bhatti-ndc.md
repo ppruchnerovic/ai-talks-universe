@@ -15,6 +15,7 @@ video_id: 4gbUULDnPVE
 url: https://www.youtube.com/watch?v=4gbUULDnPVE
 youtube_url: https://www.youtube.com/watch?v=4gbUULDnPVE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

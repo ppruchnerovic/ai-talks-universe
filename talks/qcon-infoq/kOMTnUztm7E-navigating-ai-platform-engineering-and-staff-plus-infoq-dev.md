@@ -15,6 +15,7 @@ video_id: kOMTnUztm7E
 url: https://www.youtube.com/watch?v=kOMTnUztm7E
 youtube_url: https://www.youtube.com/watch?v=kOMTnUztm7E
 tags: ["Software Architecture", "Software Development", "Software Engineering", "InfoQ", "InfoQ DevSummit", "InfoQ DevSummit Boston"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 8bLOMUInqYM
 url: https://www.youtube.com/watch?v=8bLOMUInqYM
 youtube_url: https://www.youtube.com/watch?v=8bLOMUInqYM
 tags: ["Languages & Runtimes", "APIs", "Best Practices", "Developer Experience (DevEx)", "NVIDIA", "Performance", "Python"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

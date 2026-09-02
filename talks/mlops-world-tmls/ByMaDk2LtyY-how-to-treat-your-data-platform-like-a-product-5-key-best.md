@@ -15,6 +15,7 @@ video_id: ByMaDk2LtyY
 url: https://www.youtube.com/watch?v=ByMaDk2LtyY
 youtube_url: https://www.youtube.com/watch?v=ByMaDk2LtyY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

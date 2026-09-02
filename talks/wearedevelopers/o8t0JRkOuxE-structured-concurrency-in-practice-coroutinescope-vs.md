@@ -15,6 +15,7 @@ video_id: o8t0JRkOuxE
 url: https://www.youtube.com/watch?v=o8t0JRkOuxE
 youtube_url: https://www.youtube.com/watch?v=o8t0JRkOuxE
 tags: ["Languages & Runtimes", "Concurrency", "Java", "Kotlin", "Spring Boot"]
+topics: []
 transcript: true
 ---
 

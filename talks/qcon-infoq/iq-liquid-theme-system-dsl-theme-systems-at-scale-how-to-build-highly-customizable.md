@@ -15,6 +15,7 @@ video_id: iq-liquid-theme-system-dsl
 url: https://www.infoq.com/presentations/liquid-theme-system-dsl/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

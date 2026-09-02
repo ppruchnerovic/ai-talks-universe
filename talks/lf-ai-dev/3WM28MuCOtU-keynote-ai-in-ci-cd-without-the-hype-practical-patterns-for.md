@@ -15,6 +15,7 @@ video_id: 3WM28MuCOtU
 url: https://www.youtube.com/watch?v=3WM28MuCOtU
 youtube_url: https://www.youtube.com/watch?v=3WM28MuCOtU
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: NnSBat37v7o
 url: https://www.youtube.com/watch?v=NnSBat37v7o
 youtube_url: https://www.youtube.com/watch?v=NnSBat37v7o
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

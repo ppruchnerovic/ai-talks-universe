@@ -15,6 +15,7 @@ video_id: gCKO72VZqb4
 url: https://www.youtube.com/watch?v=gCKO72VZqb4
 youtube_url: https://www.youtube.com/watch?v=gCKO72VZqb4
 tags: ["AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz"]
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

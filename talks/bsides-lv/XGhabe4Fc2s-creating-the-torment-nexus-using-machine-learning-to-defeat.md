@@ -15,6 +15,7 @@ video_id: XGhabe4Fc2s
 url: https://www.youtube.com/watch?v=XGhabe4Fc2s
 youtube_url: https://www.youtube.com/watch?v=XGhabe4Fc2s
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

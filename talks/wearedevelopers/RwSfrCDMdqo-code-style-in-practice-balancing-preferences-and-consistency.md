@@ -15,6 +15,7 @@ video_id: RwSfrCDMdqo
 url: https://www.youtube.com/watch?v=RwSfrCDMdqo
 youtube_url: https://www.youtube.com/watch?v=RwSfrCDMdqo
 tags: ["Developer Experience", "Clean Code", "Developer Experience (DevEx)", "Legacy", "Motivation", "People & Culture"]
+topics: []
 transcript: true
 ---
 

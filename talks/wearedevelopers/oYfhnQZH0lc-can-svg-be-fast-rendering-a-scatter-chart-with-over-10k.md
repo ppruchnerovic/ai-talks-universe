@@ -15,6 +15,7 @@ video_id: oYfhnQZH0lc
 url: https://www.youtube.com/watch?v=oYfhnQZH0lc
 youtube_url: https://www.youtube.com/watch?v=oYfhnQZH0lc
 tags: ["Frontend, Web & Mobile", "JavaScript", "React", "TypeScript"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: BtNeNUajJg8
 url: https://www.youtube.com/watch?v=BtNeNUajJg8
 youtube_url: https://www.youtube.com/watch?v=BtNeNUajJg8
 tags: ["AI Tools", "AI Agents", "AI Fundamentals", "AI Data", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Alan Smith"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 9tgpLC4MNMU
 url: https://www.youtube.com/watch?v=9tgpLC4MNMU
 youtube_url: https://www.youtube.com/watch?v=9tgpLC4MNMU
 tags: ["AI Agents", "APIs", "Agents", "Agentic AI", "Web Standards", "Web3"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

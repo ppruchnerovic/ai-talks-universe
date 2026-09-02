@@ -15,6 +15,7 @@ video_id: VdzduFZi-GI
 url: https://www.youtube.com/watch?v=VdzduFZi-GI
 youtube_url: https://www.youtube.com/watch?v=VdzduFZi-GI
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

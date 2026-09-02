@@ -15,6 +15,7 @@ video_id: WJRdLNhrsLQ
 url: https://www.youtube.com/watch?v=WJRdLNhrsLQ
 youtube_url: https://www.youtube.com/watch?v=WJRdLNhrsLQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

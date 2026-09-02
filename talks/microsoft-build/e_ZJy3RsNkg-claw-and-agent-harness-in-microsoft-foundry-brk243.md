@@ -15,6 +15,7 @@ video_id: e_ZJy3RsNkg
 url: https://www.youtube.com/watch?v=e_ZJy3RsNkg
 youtube_url: https://www.youtube.com/watch?v=e_ZJy3RsNkg
 tags: ["Agent Observability", "Agents", "Amanda Foster", "BRK243", "Claw and agent harness in Microsoft Foundry | BRK243", "Claws", "Evaluations", "GitHub Copilot", "Glenn Condron", "MCP", "Microsoft Foundry", "OSS", "Openclaw", "Shawn Henry", "build", "build 2026", "ce857844-2448-482c-a66b-efa81e214b35_M9Z7-BRK243-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

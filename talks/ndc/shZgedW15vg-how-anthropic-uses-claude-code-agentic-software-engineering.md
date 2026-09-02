@@ -15,6 +15,7 @@ video_id: shZgedW15vg
 url: https://www.youtube.com/watch?v=shZgedW15vg
 youtube_url: https://www.youtube.com/watch?v=shZgedW15vg
 tags: ["AI", "Claude Code", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Daisy Hollman"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

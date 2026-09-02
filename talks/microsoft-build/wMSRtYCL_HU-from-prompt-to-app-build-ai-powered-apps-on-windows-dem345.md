@@ -15,6 +15,7 @@ video_id: wMSRtYCL_HU
 url: https://www.youtube.com/watch?v=wMSRtYCL_HU
 youtube_url: https://www.youtube.com/watch?v=wMSRtYCL_HU
 tags: ["C#", "C++"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

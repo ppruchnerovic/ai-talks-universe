@@ -15,6 +15,7 @@ video_id: KydLIMzGHcs
 url: https://www.youtube.com/watch?v=KydLIMzGHcs
 youtube_url: https://www.youtube.com/watch?v=KydLIMzGHcs
 tags: ["Autopatch", "BRK288", "Breakout", "Copilot", "English (US)", "Intermediate (200)", "Intune", "Leo Brito", "Modern Work", "Modern Work-Curated", "Technical", "Transform end-user computing experiences with Windows Windows 365 and Intune | BRK288", "Windows 10", "Windows 11", "Windows 365", "Windows in the Cloud", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: jB-OCXeEtrE
 url: https://www.youtube.com/watch?v=jB-OCXeEtrE
 youtube_url: https://www.youtube.com/watch?v=jB-OCXeEtrE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Nick Selby", "Sarah Wells", "Governance", "AI Governance", "Risk of AI", "Threat Modeling", "Infosec", "Reducing Risk", "Data Processing"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

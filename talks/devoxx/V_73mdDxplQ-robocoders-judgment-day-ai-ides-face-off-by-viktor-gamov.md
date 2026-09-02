@@ -15,6 +15,7 @@ video_id: V_73mdDxplQ
 url: https://www.youtube.com/watch?v=V_73mdDxplQ
 youtube_url: https://www.youtube.com/watch?v=V_73mdDxplQ
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

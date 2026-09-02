@@ -15,6 +15,7 @@ video_id: AjUUorlK-KU
 url: https://www.youtube.com/watch?v=AjUUorlK-KU
 youtube_url: https://www.youtube.com/watch?v=AjUUorlK-KU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

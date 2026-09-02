@@ -15,6 +15,7 @@ video_id: LB64QnwhLZM
 url: https://www.youtube.com/watch?v=LB64QnwhLZM
 youtube_url: https://www.youtube.com/watch?v=LB64QnwhLZM
 tags: ["C#"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: nzDPYlNXRf0
 url: https://www.youtube.com/watch?v=nzDPYlNXRf0
 youtube_url: https://www.youtube.com/watch?v=nzDPYlNXRf0
 tags: ["35984817-c07b-4b72-a5f0-2f8a6803325d_M9Z7-BRK228-1", "Adity Agarwal", "Azure Copilot", "BRK228", "Modern resiliency from build to recovery through Agentic AI | BRK228", "OSS", "Resiliency", "Rochak Mittal", "Shobhit Garg", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: TrXi3naD6Og
 url: https://www.youtube.com/watch?v=TrXi3naD6Og
 youtube_url: https://www.youtube.com/watch?v=TrXi3naD6Og
 tags: ["YC", "Y Combinator"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

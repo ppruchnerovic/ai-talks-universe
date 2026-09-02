@@ -15,6 +15,7 @@ video_id: iq-transforming-primary-care
 url: https://www.infoq.com/presentations/transforming-primary-care/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

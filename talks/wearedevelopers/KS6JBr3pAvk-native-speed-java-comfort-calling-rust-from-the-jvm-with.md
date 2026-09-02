@@ -15,6 +15,7 @@ video_id: KS6JBr3pAvk
 url: https://www.youtube.com/watch?v=KS6JBr3pAvk
 youtube_url: https://www.youtube.com/watch?v=KS6JBr3pAvk
 tags: ["Languages & Runtimes", "Java", "JVM", "Performance", "Rust"]
+topics: []
 transcript: true
 ---
 

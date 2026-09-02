@@ -15,6 +15,7 @@ video_id: XkEAZJEMJNI
 url: https://www.youtube.com/watch?v=XkEAZJEMJNI
 youtube_url: https://www.youtube.com/watch?v=XkEAZJEMJNI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

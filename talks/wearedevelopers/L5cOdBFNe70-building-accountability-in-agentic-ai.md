@@ -15,6 +15,7 @@ video_id: L5cOdBFNe70
 url: https://www.youtube.com/watch?v=L5cOdBFNe70
 youtube_url: https://www.youtube.com/watch?v=L5cOdBFNe70
 tags: ["Strategy & Innovation"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

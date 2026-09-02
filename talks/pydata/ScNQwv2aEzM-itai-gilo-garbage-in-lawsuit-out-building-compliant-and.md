@@ -15,6 +15,7 @@ video_id: ScNQwv2aEzM
 url: https://www.youtube.com/watch?v=ScNQwv2aEzM
 youtube_url: https://www.youtube.com/watch?v=ScNQwv2aEzM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: true
 ---
 

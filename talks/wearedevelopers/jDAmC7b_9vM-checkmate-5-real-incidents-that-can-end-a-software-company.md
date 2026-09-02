@@ -15,6 +15,7 @@ video_id: jDAmC7b_9vM
 url: https://www.youtube.com/watch?v=jDAmC7b_9vM
 youtube_url: https://www.youtube.com/watch?v=jDAmC7b_9vM
 tags: ["Security & Privacy", "AppSec", "Cloud Security", "Infosec", "Secure Coding", "Security"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

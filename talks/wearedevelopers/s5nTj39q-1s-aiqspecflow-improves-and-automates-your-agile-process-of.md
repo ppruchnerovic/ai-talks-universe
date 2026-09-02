@@ -15,6 +15,7 @@ video_id: s5nTj39q-1s
 url: https://www.youtube.com/watch?v=s5nTj39q-1s
 youtube_url: https://www.youtube.com/watch?v=s5nTj39q-1s
 tags: ["Quality & Reliability", "Automation", "Business Intelligence", "Quality Assurance (QA)", "Tooling"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

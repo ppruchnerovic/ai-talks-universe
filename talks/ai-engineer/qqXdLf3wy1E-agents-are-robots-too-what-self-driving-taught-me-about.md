@@ -15,6 +15,7 @@ video_id: qqXdLf3wy1E
 url: https://www.youtube.com/watch?v=qqXdLf3wy1E
 youtube_url: https://www.youtube.com/watch?v=qqXdLf3wy1E
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

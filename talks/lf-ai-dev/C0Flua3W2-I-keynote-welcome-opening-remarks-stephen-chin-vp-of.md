@@ -15,6 +15,7 @@ video_id: C0Flua3W2-I
 url: https://www.youtube.com/watch?v=C0Flua3W2-I
 youtube_url: https://www.youtube.com/watch?v=C0Flua3W2-I
 tags: []
+topics: []
 transcript: false
 ---
 

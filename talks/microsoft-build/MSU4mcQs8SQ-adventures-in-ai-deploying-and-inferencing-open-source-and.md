@@ -15,6 +15,7 @@ video_id: MSU4mcQs8SQ
 url: https://www.youtube.com/watch?v=MSU4mcQs8SQ
 youtube_url: https://www.youtube.com/watch?v=MSU4mcQs8SQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

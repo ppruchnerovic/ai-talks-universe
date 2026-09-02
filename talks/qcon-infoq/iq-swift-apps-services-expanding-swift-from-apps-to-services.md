@@ -15,6 +15,7 @@ video_id: iq-swift-apps-services
 url: https://www.infoq.com/presentations/swift-apps-services/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

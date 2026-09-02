@@ -15,6 +15,7 @@ video_id: 7jMOuZOnOAg
 url: https://www.youtube.com/watch?v=7jMOuZOnOAg
 youtube_url: https://www.youtube.com/watch?v=7jMOuZOnOAg
 tags: ["AI", "AI Development", "AI-Curated", "Agents", "Application Development", "Azure AI", "Azure AI Studio", "Azure OpenAI", "AzureCosmosDB", "BRK117", "Breakout", "Copilot", "CopilotStack", "DataServices", "Developer", "GenerativeAI", "Lessons from Toyota for building durable multi-agent copilots | BRK117", "Toyota", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

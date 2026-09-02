@@ -15,6 +15,7 @@ video_id: Dqx1tJ_PsAA
 url: https://www.youtube.com/watch?v=Dqx1tJ_PsAA
 youtube_url: https://www.youtube.com/watch?v=Dqx1tJ_PsAA
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

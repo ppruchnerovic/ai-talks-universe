@@ -15,6 +15,7 @@ video_id: iq-revolut-devops-automation
 url: https://www.infoq.com/presentations/revolut-devops-automation/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

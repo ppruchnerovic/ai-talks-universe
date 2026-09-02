@@ -15,6 +15,7 @@ video_id: 10mmzRXbEPc
 url: https://www.youtube.com/watch?v=10mmzRXbEPc
 youtube_url: https://www.youtube.com/watch?v=10mmzRXbEPc
 tags: []
+topics: []
 transcript: false
 ---
 

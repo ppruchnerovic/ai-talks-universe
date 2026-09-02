@@ -15,6 +15,7 @@ video_id: 6telp96NAkw
 url: https://www.youtube.com/watch?v=6telp96NAkw
 youtube_url: https://www.youtube.com/watch?v=6telp96NAkw
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

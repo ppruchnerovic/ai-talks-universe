@@ -15,6 +15,7 @@ video_id: balbP8OQX2M
 url: https://www.youtube.com/watch?v=balbP8OQX2M
 youtube_url: https://www.youtube.com/watch?v=balbP8OQX2M
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "William Rizzo", "Colin Griffin", "Platform Engineering", "CNCF", "CNCF White Paper", "CNCF Maturity Model"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

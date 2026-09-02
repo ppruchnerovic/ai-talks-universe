@@ -15,6 +15,7 @@ video_id: vmlyP862lB8
 url: https://www.youtube.com/watch?v=vmlyP862lB8
 youtube_url: https://www.youtube.com/watch?v=vmlyP862lB8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: dRsjO-88nBs
 url: https://www.youtube.com/watch?v=dRsjO-88nBs
 youtube_url: https://www.youtube.com/watch?v=dRsjO-88nBs
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

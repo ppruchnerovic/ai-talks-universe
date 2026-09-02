@@ -15,6 +15,7 @@ video_id: VQ11yE0jJ74
 url: https://www.youtube.com/watch?v=VQ11yE0jJ74
 youtube_url: https://www.youtube.com/watch?v=VQ11yE0jJ74
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

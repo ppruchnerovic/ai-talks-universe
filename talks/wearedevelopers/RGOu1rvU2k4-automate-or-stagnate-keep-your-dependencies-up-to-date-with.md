@@ -15,6 +15,7 @@ video_id: RGOu1rvU2k4
 url: https://www.youtube.com/watch?v=RGOu1rvU2k4
 youtube_url: https://www.youtube.com/watch?v=RGOu1rvU2k4
 tags: ["DevOps", "Automation", "DevOps", "Security"]
+topics: []
 transcript: true
 ---
 

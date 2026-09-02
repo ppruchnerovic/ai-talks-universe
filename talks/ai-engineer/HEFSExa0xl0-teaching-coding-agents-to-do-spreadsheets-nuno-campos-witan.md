@@ -15,6 +15,7 @@ video_id: HEFSExa0xl0
 url: https://www.youtube.com/watch?v=HEFSExa0xl0
 youtube_url: https://www.youtube.com/watch?v=HEFSExa0xl0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

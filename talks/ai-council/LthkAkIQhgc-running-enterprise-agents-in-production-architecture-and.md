@@ -15,6 +15,7 @@ video_id: LthkAkIQhgc
 url: https://www.youtube.com/watch?v=LthkAkIQhgc
 youtube_url: https://www.youtube.com/watch?v=LthkAkIQhgc
 tags: ["AI"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

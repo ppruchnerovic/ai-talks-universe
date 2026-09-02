@@ -15,6 +15,7 @@ video_id: u06ybMn4W1s
 url: https://www.youtube.com/watch?v=u06ybMn4W1s
 youtube_url: https://www.youtube.com/watch?v=u06ybMn4W1s
 tags: ["Burke Holland", "Justin Chen", "LIVE154", "LIVE154_v1", "Your Browser Lives in VS Code Now | LIVE154", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: ZquMucBZnaQ
 url: https://www.youtube.com/watch?v=ZquMucBZnaQ
 youtube_url: https://www.youtube.com/watch?v=ZquMucBZnaQ
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

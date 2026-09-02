@@ -15,6 +15,7 @@ video_id: K4pmOWD_8Gc
 url: https://www.youtube.com/watch?v=K4pmOWD_8Gc
 youtube_url: https://www.youtube.com/watch?v=K4pmOWD_8Gc
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: LME5JAEpEr0
 url: https://www.youtube.com/watch?v=LME5JAEpEr0
 youtube_url: https://www.youtube.com/watch?v=LME5JAEpEr0
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

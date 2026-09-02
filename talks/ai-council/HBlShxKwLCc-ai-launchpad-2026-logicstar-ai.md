@@ -15,6 +15,7 @@ video_id: HBlShxKwLCc
 url: https://www.youtube.com/watch?v=HBlShxKwLCc
 youtube_url: https://www.youtube.com/watch?v=HBlShxKwLCc
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

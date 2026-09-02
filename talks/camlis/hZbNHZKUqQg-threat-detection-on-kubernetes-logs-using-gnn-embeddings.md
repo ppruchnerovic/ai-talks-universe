@@ -15,6 +15,7 @@ video_id: hZbNHZKUqQg
 url: https://www.youtube.com/watch?v=hZbNHZKUqQg
 youtube_url: https://www.youtube.com/watch?v=hZbNHZKUqQg
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: mYVifhjBacQ
 url: https://www.youtube.com/watch?v=mYVifhjBacQ
 youtube_url: https://www.youtube.com/watch?v=mYVifhjBacQ
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

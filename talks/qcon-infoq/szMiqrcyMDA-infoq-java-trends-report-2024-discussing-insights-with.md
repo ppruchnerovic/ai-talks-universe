@@ -15,6 +15,7 @@ video_id: szMiqrcyMDA
 url: https://www.youtube.com/watch?v=szMiqrcyMDA
 youtube_url: https://www.youtube.com/watch?v=szMiqrcyMDA
 tags: []
+topics: []
 transcript: false
 ---
 

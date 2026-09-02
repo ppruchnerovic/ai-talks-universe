@@ -15,6 +15,7 @@ video_id: VkHi8-KANOY
 url: https://www.youtube.com/watch?v=VkHi8-KANOY
 youtube_url: https://www.youtube.com/watch?v=VkHi8-KANOY
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

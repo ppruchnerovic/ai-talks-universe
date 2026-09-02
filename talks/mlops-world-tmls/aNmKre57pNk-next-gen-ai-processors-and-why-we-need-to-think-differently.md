@@ -15,6 +15,7 @@ video_id: aNmKre57pNk
 url: https://www.youtube.com/watch?v=aNmKre57pNk
 youtube_url: https://www.youtube.com/watch?v=aNmKre57pNk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

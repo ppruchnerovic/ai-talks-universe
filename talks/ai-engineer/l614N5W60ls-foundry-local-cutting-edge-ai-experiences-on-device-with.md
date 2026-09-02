@@ -15,6 +15,7 @@ video_id: l614N5W60ls
 url: https://www.youtube.com/watch?v=l614N5W60ls
 youtube_url: https://www.youtube.com/watch?v=l614N5W60ls
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

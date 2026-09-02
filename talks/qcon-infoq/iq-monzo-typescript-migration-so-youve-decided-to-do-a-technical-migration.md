@@ -15,6 +15,7 @@ video_id: iq-monzo-typescript-migration
 url: https://www.infoq.com/presentations/monzo-typescript-migration/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

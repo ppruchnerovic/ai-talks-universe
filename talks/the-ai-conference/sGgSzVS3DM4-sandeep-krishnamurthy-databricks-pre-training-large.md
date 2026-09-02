@@ -15,6 +15,7 @@ video_id: sGgSzVS3DM4
 url: https://www.youtube.com/watch?v=sGgSzVS3DM4
 youtube_url: https://www.youtube.com/watch?v=sGgSzVS3DM4
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

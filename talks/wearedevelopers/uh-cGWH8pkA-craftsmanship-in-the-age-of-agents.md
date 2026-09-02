@@ -15,6 +15,7 @@ video_id: uh-cGWH8pkA
 url: https://www.youtube.com/watch?v=uh-cGWH8pkA
 youtube_url: https://www.youtube.com/watch?v=uh-cGWH8pkA
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "AI Standards"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

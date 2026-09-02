@@ -15,6 +15,7 @@ video_id: GPG4bMUapZc
 url: https://www.youtube.com/watch?v=GPG4bMUapZc
 youtube_url: https://www.youtube.com/watch?v=GPG4bMUapZc
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Nt87zSqfk-o
 url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 youtube_url: https://www.youtube.com/watch?v=Nt87zSqfk-o
 tags: ["C#", "C++"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: DdAlQdDTC20
 url: https://www.youtube.com/watch?v=DdAlQdDTC20
 youtube_url: https://www.youtube.com/watch?v=DdAlQdDTC20
 tags: ["conference", "congress", "Europe", "technology", "IT", "people", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "open source AI", "Google Gemma", "Google Gemini", "AI models explained", "Clement Farabet interview", "Coffee with Developers", "AI development tips", "generative AI models", "AI Studio Google", "local vs cloud AI", "Gemma community", "AI agent risks", "AI for developers", "Gemini API", "future of AI"]
+topics: []
 transcript: false
 ---
 

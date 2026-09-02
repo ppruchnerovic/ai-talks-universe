@@ -15,6 +15,7 @@ video_id: o3gmwzo-Mik
 url: https://www.youtube.com/watch?v=o3gmwzo-Mik
 youtube_url: https://www.youtube.com/watch?v=o3gmwzo-Mik
 tags: []
+topics: []
 transcript: false
 ---
 

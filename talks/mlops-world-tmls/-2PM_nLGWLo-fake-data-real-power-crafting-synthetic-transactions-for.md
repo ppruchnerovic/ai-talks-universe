@@ -15,6 +15,7 @@ video_id: -2PM_nLGWLo
 url: https://www.youtube.com/watch?v=-2PM_nLGWLo
 youtube_url: https://www.youtube.com/watch?v=-2PM_nLGWLo
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

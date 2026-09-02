@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-sociotechnical
 url: https://www.infoq.com/presentations/platform-engineering-sociotechnical/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

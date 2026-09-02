@@ -15,6 +15,7 @@ video_id: w7IMuYsBNr8
 url: https://www.youtube.com/watch?v=w7IMuYsBNr8
 youtube_url: https://www.youtube.com/watch?v=w7IMuYsBNr8
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: y6IS0pKiAes
 url: https://www.youtube.com/watch?v=y6IS0pKiAes
 youtube_url: https://www.youtube.com/watch?v=y6IS0pKiAes
 tags: ["Burke Holland", "Evan Boyle", "LIVE152", "LIVE152_v1", "What's new in GitHub Copilot CLI? | LIVE152", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

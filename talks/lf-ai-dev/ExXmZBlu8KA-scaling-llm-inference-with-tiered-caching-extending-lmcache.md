@@ -15,6 +15,7 @@ video_id: ExXmZBlu8KA
 url: https://www.youtube.com/watch?v=ExXmZBlu8KA
 youtube_url: https://www.youtube.com/watch?v=ExXmZBlu8KA
 tags: []
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

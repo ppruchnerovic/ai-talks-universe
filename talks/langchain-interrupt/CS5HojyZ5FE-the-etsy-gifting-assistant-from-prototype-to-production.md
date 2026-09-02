@@ -15,6 +15,7 @@ video_id: CS5HojyZ5FE
 url: https://www.youtube.com/watch?v=CS5HojyZ5FE
 youtube_url: https://www.youtube.com/watch?v=CS5HojyZ5FE
 tags: ["LangChain", "LangGraph", "LangSmith", "AI agents", "Etsy", "gifting assistant", "conversational AI", "ReAct agent", "LLM evaluation", "agent deployment", "AI engineering", "Interrupt conference", "production AI", "LLM judge", "agent observability", "agentic AI", "AI search"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

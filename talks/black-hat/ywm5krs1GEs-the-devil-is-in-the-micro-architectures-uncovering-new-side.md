@@ -15,6 +15,7 @@ video_id: ywm5krs1GEs
 url: https://www.youtube.com/watch?v=ywm5krs1GEs
 youtube_url: https://www.youtube.com/watch?v=ywm5krs1GEs
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

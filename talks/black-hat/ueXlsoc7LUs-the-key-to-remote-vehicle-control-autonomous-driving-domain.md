@@ -15,6 +15,7 @@ video_id: ueXlsoc7LUs
 url: https://www.youtube.com/watch?v=ueXlsoc7LUs
 youtube_url: https://www.youtube.com/watch?v=ueXlsoc7LUs
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

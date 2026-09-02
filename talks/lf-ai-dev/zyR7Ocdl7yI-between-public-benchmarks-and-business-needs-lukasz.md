@@ -15,6 +15,7 @@ video_id: zyR7Ocdl7yI
 url: https://www.youtube.com/watch?v=zyR7Ocdl7yI
 youtube_url: https://www.youtube.com/watch?v=zyR7Ocdl7yI
 tags: []
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

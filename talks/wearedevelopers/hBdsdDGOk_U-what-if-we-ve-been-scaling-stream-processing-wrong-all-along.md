@@ -15,6 +15,7 @@ video_id: hBdsdDGOk_U
 url: https://www.youtube.com/watch?v=hBdsdDGOk_U
 youtube_url: https://www.youtube.com/watch?v=hBdsdDGOk_U
 tags: ["Data & Databases", "Apache Kafka", "Kotlin", "Software Architecture", "Streaming"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

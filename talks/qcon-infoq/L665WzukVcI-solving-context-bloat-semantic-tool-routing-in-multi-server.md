@@ -15,6 +15,7 @@ video_id: L665WzukVcI
 url: https://www.youtube.com/watch?v=L665WzukVcI
 youtube_url: https://www.youtube.com/watch?v=L665WzukVcI
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Model Context Protocol", "AI Engineering", "AI Architecture", "Software Engineering", "Claude"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

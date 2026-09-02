@@ -15,6 +15,7 @@ video_id: 5dCAmSDOAjI
 url: https://www.youtube.com/watch?v=5dCAmSDOAjI
 youtube_url: https://www.youtube.com/watch?v=5dCAmSDOAjI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: CLskAsoUgEc
 url: https://www.youtube.com/watch?v=CLskAsoUgEc
 youtube_url: https://www.youtube.com/watch?v=CLskAsoUgEc
 tags: ["Google Search", "search algorithms", "information retrieval", "ChatGPT", "artificial intelligence", "machine learning", "search engine", "ranking algorithms", "search optimization", "relevance", "trustworthiness", "recency", "diversity", "Python tutorial", "web crawling", "indexing", "query processing", "search quality", "user intent", "semantic search", "personalization", "machine learning ranking", "neural information retrieval", "knowledge graphs"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

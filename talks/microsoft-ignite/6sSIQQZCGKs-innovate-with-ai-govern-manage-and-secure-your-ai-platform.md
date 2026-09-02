@@ -15,6 +15,7 @@ video_id: 6sSIQQZCGKs
 url: https://www.youtube.com/watch?v=6sSIQQZCGKs
 youtube_url: https://www.youtube.com/watch?v=6sSIQQZCGKs
 tags: ["AI", "Adoption", "Azure", "BRK131", "Breakout", "Deployment", "English (US)", "Innovate with AI: govern manage and secure your AI platform | BRK131", "Intermediate (200)", "Praveen Gururaja", "Rajani Janaki Ram", "Stephen Sumner", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

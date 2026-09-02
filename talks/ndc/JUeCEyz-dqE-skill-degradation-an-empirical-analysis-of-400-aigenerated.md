@@ -15,6 +15,7 @@ video_id: JUeCEyz-dqE
 url: https://www.youtube.com/watch?v=JUeCEyz-dqE
 youtube_url: https://www.youtube.com/watch?v=JUeCEyz-dqE
 tags: ["Application Security", "Experience report", "People", "AI", "ML", "Machine Learning", "Security", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United Kingdom", "Pedram Hayati"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

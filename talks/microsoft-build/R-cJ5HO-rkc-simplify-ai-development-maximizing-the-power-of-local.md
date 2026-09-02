@@ -15,6 +15,7 @@ video_id: R-cJ5HO-rkc
 url: https://www.youtube.com/watch?v=R-cJ5HO-rkc
 youtube_url: https://www.youtube.com/watch?v=R-cJ5HO-rkc
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: KU_EECNK30I
 url: https://www.youtube.com/watch?v=KU_EECNK30I
 youtube_url: https://www.youtube.com/watch?v=KU_EECNK30I
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

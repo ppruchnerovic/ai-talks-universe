@@ -15,6 +15,7 @@ video_id: Apn27gAoutE
 url: https://www.youtube.com/watch?v=Apn27gAoutE
 youtube_url: https://www.youtube.com/watch?v=Apn27gAoutE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

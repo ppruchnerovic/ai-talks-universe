@@ -15,6 +15,7 @@ video_id: F1dHd--VsKU
 url: https://www.youtube.com/watch?v=F1dHd--VsKU
 youtube_url: https://www.youtube.com/watch?v=F1dHd--VsKU
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

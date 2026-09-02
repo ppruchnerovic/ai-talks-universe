@@ -15,6 +15,7 @@ video_id: Sm5x2ItO5os
 url: https://www.youtube.com/watch?v=Sm5x2ItO5os
 youtube_url: https://www.youtube.com/watch?v=Sm5x2ItO5os
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

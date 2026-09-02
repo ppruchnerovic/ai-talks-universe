@@ -15,6 +15,7 @@ video_id: eVilVfM7hFA
 url: https://www.youtube.com/watch?v=eVilVfM7hFA
 youtube_url: https://www.youtube.com/watch?v=eVilVfM7hFA
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

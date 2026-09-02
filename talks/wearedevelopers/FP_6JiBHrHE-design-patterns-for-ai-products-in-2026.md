@@ -15,6 +15,7 @@ video_id: FP_6JiBHrHE
 url: https://www.youtube.com/watch?v=FP_6JiBHrHE
 youtube_url: https://www.youtube.com/watch?v=FP_6JiBHrHE
 tags: ["Frontend, Web & Mobile", "Generative AI (GenAI)", "Workflows"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

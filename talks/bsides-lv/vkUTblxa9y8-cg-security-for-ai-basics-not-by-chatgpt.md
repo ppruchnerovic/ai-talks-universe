@@ -15,6 +15,7 @@ video_id: vkUTblxa9y8
 url: https://www.youtube.com/watch?v=vkUTblxa9y8
 youtube_url: https://www.youtube.com/watch?v=vkUTblxa9y8
 tags: ["Q3AXGD"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

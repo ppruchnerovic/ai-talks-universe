@@ -15,6 +15,7 @@ video_id: kCJ8CV94KZM
 url: https://www.youtube.com/watch?v=kCJ8CV94KZM
 youtube_url: https://www.youtube.com/watch?v=kCJ8CV94KZM
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Essential Workshop to Exploratory Data Analysis and Feature Engineering", "Essential Workshop to Exploratory Data Analysis and Feature Engineering", "Data Analysis"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

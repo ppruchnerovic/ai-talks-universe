@@ -15,6 +15,7 @@ video_id: f_5b_qanhzg
 url: https://www.youtube.com/watch?v=f_5b_qanhzg
 youtube_url: https://www.youtube.com/watch?v=f_5b_qanhzg
 tags: []
+topics: []
 transcript: false
 ---
 

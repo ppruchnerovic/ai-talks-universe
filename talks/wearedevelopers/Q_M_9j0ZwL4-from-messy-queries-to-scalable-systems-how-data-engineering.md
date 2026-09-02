@@ -15,6 +15,7 @@ video_id: Q_M_9j0ZwL4
 url: https://www.youtube.com/watch?v=Q_M_9j0ZwL4
 youtube_url: https://www.youtube.com/watch?v=Q_M_9j0ZwL4
 tags: ["Data & Databases", "Business Intelligence", "Chaos Engineering", "Data", "Databases", "Digital Transformation"]
+topics: ["AI in the SDLC & engineering orgs", "Data engineering & MLOps"]
 transcript: true
 ---
 

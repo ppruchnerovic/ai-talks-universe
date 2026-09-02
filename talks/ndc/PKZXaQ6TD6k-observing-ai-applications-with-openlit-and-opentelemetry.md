@@ -15,6 +15,7 @@ video_id: PKZXaQ6TD6k
 url: https://www.youtube.com/watch?v=PKZXaQ6TD6k
 youtube_url: https://www.youtube.com/watch?v=PKZXaQ6TD6k
 tags: ["llm", "Typescript", "AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "UK", "England", "United Kingdom", "Carly Richmond"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

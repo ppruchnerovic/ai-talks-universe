@@ -15,6 +15,7 @@ video_id: HUrHMyb_D84
 url: https://www.youtube.com/watch?v=HUrHMyb_D84
 youtube_url: https://www.youtube.com/watch?v=HUrHMyb_D84
 tags: ["AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 5ffUJMadWZQ
 url: https://www.youtube.com/watch?v=5ffUJMadWZQ
 youtube_url: https://www.youtube.com/watch?v=5ffUJMadWZQ
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

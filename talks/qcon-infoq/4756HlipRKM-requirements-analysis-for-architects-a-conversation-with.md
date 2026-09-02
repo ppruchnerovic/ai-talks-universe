@@ -15,6 +15,7 @@ video_id: 4756HlipRKM
 url: https://www.youtube.com/watch?v=4756HlipRKM
 youtube_url: https://www.youtube.com/watch?v=4756HlipRKM
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: FaX4fpEdOlw
 url: https://www.youtube.com/watch?v=FaX4fpEdOlw
 youtube_url: https://www.youtube.com/watch?v=FaX4fpEdOlw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

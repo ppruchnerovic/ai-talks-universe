@@ -15,6 +15,7 @@ video_id: s_hSPBYQ3BA
 url: https://www.youtube.com/watch?v=s_hSPBYQ3BA
 youtube_url: https://www.youtube.com/watch?v=s_hSPBYQ3BA
 tags: ["AI"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

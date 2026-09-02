@@ -15,6 +15,7 @@ video_id: _5cMQtgGUKQ
 url: https://www.youtube.com/watch?v=_5cMQtgGUKQ
 youtube_url: https://www.youtube.com/watch?v=_5cMQtgGUKQ
 tags: ["curiosity", "organizations", "people", "culture", "competitive advantage", "HR", "recruiting", "transformation"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

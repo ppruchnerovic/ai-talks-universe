@@ -15,6 +15,7 @@ video_id: z-4IrgpFYg8
 url: https://www.youtube.com/watch?v=z-4IrgpFYg8
 youtube_url: https://www.youtube.com/watch?v=z-4IrgpFYg8
 tags: ["Backend & APIs", "APIs", "Communication", "Data", "Developer Experience (DevEx)", "Event-Driven Architecture (EDA)", "Infrastructure", "Integration", "Scaling", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

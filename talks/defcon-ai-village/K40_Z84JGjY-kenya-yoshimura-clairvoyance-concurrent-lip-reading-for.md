@@ -15,6 +15,7 @@ video_id: K40_Z84JGjY
 url: https://www.youtube.com/watch?v=K40_Z84JGjY
 youtube_url: https://www.youtube.com/watch?v=K40_Z84JGjY
 tags: []
+topics: []
 transcript: false
 ---
 

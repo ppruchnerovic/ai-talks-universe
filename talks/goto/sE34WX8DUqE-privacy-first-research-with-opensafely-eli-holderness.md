@@ -15,6 +15,7 @@ video_id: sE34WX8DUqE
 url: https://www.youtube.com/watch?v=sE34WX8DUqE
 youtube_url: https://www.youtube.com/watch?v=sE34WX8DUqE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

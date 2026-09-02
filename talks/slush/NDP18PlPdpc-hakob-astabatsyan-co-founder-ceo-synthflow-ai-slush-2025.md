@@ -15,6 +15,7 @@ video_id: NDP18PlPdpc
 url: https://www.youtube.com/watch?v=NDP18PlPdpc
 youtube_url: https://www.youtube.com/watch?v=NDP18PlPdpc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

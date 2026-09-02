@@ -15,6 +15,7 @@ video_id: SUEBH-0oi-A
 url: https://www.youtube.com/watch?v=SUEBH-0oi-A
 youtube_url: https://www.youtube.com/watch?v=SUEBH-0oi-A
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

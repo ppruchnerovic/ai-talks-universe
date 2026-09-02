@@ -15,6 +15,7 @@ video_id: K7dBRuSDWTw
 url: https://www.youtube.com/watch?v=K7dBRuSDWTw
 youtube_url: https://www.youtube.com/watch?v=K7dBRuSDWTw
 tags: ["AI", "Claude", "Code", "Claude Code", "MCP", "GitHub", "Slack", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Aleksander Stensby"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: K0XVIaJ9gFQ
 url: https://www.youtube.com/watch?v=K0XVIaJ9gFQ
 youtube_url: https://www.youtube.com/watch?v=K0XVIaJ9gFQ
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

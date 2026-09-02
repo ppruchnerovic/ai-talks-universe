@@ -15,6 +15,7 @@ video_id: FneX7J4Zj_k
 url: https://www.youtube.com/watch?v=FneX7J4Zj_k
 youtube_url: https://www.youtube.com/watch?v=FneX7J4Zj_k
 tags: ["AI", "Apps", "BRK150", "Breakout", "Divya Swarnkar", "English (US)", "Intermediate (200)", "Kent Weare", "Modernize enterprise integration with Azure Integration Services | BRK150", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

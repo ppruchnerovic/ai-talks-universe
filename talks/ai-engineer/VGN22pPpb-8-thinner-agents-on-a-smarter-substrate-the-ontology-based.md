@@ -15,6 +15,7 @@ video_id: VGN22pPpb-8
 url: https://www.youtube.com/watch?v=VGN22pPpb-8
 youtube_url: https://www.youtube.com/watch?v=VGN22pPpb-8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

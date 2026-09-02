@@ -15,6 +15,7 @@ video_id: iq-migration-mobile-application
 url: https://www.infoq.com/presentations/migration-mobile-application/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

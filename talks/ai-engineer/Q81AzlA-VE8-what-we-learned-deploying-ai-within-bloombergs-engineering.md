@@ -15,6 +15,7 @@ video_id: Q81AzlA-VE8
 url: https://www.youtube.com/watch?v=Q81AzlA-VE8
 youtube_url: https://www.youtube.com/watch?v=Q81AzlA-VE8
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

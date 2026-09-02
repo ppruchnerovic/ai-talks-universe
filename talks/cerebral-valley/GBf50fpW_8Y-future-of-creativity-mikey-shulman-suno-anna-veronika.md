@@ -15,6 +15,7 @@ video_id: GBf50fpW_8Y
 url: https://www.youtube.com/watch?v=GBf50fpW_8Y
 youtube_url: https://www.youtube.com/watch?v=GBf50fpW_8Y
 tags: []
+topics: []
 transcript: false
 ---
 

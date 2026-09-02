@@ -15,6 +15,7 @@ video_id: 9TmsRYmb9NE
 url: https://www.youtube.com/watch?v=9TmsRYmb9NE
 youtube_url: https://www.youtube.com/watch?v=9TmsRYmb9NE
 tags: ["5368a6bd-d266-4693-b486-d0a75ad0ecb7_Segment", "Ankit Parag Shah", "BRK210", "Chris Lauren", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Technical", "Train host and infer reasoning models on Microsoft Foundry | BRK210", "Vijay Aski", "Wei Wei", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: BAhI87RS-DQ
 url: https://www.youtube.com/watch?v=BAhI87RS-DQ
 youtube_url: https://www.youtube.com/watch?v=BAhI87RS-DQ
 tags: ["NVIDIA", "AI Literacy"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

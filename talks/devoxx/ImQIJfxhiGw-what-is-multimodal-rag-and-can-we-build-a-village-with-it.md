@@ -15,6 +15,7 @@ video_id: ImQIJfxhiGw
 url: https://www.youtube.com/watch?v=ImQIJfxhiGw
 youtube_url: https://www.youtube.com/watch?v=ImQIJfxhiGw
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

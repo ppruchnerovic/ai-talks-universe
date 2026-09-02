@@ -15,6 +15,7 @@ video_id: NQpHwy87S4U
 url: https://www.youtube.com/watch?v=NQpHwy87S4U
 youtube_url: https://www.youtube.com/watch?v=NQpHwy87S4U
 tags: ["English (US)", "Jean Lawrence", "Liliana Schwartz-Brunner", "Lindsay Berg", "Microsoft AI Cloud Partner Program", "Other", "PBRK392", "Partner Business", "Partners are Redefining Telecom Operations with Agentic AI | PBRK392", "Telecommunications", "a1a9f5d5-7cb2-4dcc-859c-ce61091d52f0_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

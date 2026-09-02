@@ -15,6 +15,7 @@ video_id: fx5K_FRQ2eg
 url: https://www.youtube.com/watch?v=fx5K_FRQ2eg
 youtube_url: https://www.youtube.com/watch?v=fx5K_FRQ2eg
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: XrlMC5sM68I
 url: https://www.youtube.com/watch?v=XrlMC5sM68I
 youtube_url: https://www.youtube.com/watch?v=XrlMC5sM68I
 tags: ["Cloud & AI Infrastructure", "Business Models", "NVIDIA", "OpenShift"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

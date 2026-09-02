@@ -15,6 +15,7 @@ video_id: wyW6hQGZxgY
 url: https://www.youtube.com/watch?v=wyW6hQGZxgY
 youtube_url: https://www.youtube.com/watch?v=wyW6hQGZxgY
 tags: ["#DataTeams", "data product requests", "SQL"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: cd782AupxTc
 url: https://www.youtube.com/watch?v=cd782AupxTc
 youtube_url: https://www.youtube.com/watch?v=cd782AupxTc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

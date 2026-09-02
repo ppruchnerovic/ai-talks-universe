@@ -15,6 +15,7 @@ video_id: MLPrgiR5VQM
 url: https://www.youtube.com/watch?v=MLPrgiR5VQM
 youtube_url: https://www.youtube.com/watch?v=MLPrgiR5VQM
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

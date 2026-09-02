@@ -15,6 +15,7 @@ video_id: F1DYkY1BlfM
 url: https://www.youtube.com/watch?v=F1DYkY1BlfM
 youtube_url: https://www.youtube.com/watch?v=F1DYkY1BlfM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: uPr-7YBe7ME
 url: https://www.youtube.com/watch?v=uPr-7YBe7ME
 youtube_url: https://www.youtube.com/watch?v=uPr-7YBe7ME
 tags: ["Betsy Weber", "Fernanda Herger", "Jeremy Sinclair", "LIVE176", "LIVE176_v1", "Priyanka Shah", "So you want to become an MVP? | LIVE176", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

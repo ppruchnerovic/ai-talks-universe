@@ -15,6 +15,7 @@ video_id: Flzol-uo8UM
 url: https://www.youtube.com/watch?v=Flzol-uo8UM
 youtube_url: https://www.youtube.com/watch?v=Flzol-uo8UM
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

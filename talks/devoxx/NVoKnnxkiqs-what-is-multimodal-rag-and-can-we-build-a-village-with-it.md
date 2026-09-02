@@ -15,6 +15,7 @@ video_id: NVoKnnxkiqs
 url: https://www.youtube.com/watch?v=NVoKnnxkiqs
 youtube_url: https://www.youtube.com/watch?v=NVoKnnxkiqs
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

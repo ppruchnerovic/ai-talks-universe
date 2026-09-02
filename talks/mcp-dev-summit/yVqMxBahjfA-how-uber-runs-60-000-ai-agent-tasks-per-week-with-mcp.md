@@ -15,6 +15,7 @@ video_id: yVqMxBahjfA
 url: https://www.youtube.com/watch?v=yVqMxBahjfA
 youtube_url: https://www.youtube.com/watch?v=yVqMxBahjfA
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

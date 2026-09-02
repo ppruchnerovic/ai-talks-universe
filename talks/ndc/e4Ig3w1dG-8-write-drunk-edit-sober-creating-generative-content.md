@@ -15,6 +15,7 @@ video_id: e4Ig3w1dG-8
 url: https://www.youtube.com/watch?v=e4Ig3w1dG-8
 youtube_url: https://www.youtube.com/watch?v=e4Ig3w1dG-8
 tags: ["GenAI", "AI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Matthijs van der Veer"]
+topics: []
 transcript: true
 ---
 

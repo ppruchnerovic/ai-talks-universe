@@ -15,6 +15,7 @@ video_id: m0Le7rXlsNs
 url: https://www.youtube.com/watch?v=m0Le7rXlsNs
 youtube_url: https://www.youtube.com/watch?v=m0Le7rXlsNs
 tags: ["AI", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "SSD", "Coding", "Jerry Nixon"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

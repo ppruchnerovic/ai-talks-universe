@@ -15,6 +15,7 @@ video_id: dP6PhNHUrks
 url: https://www.youtube.com/watch?v=dP6PhNHUrks
 youtube_url: https://www.youtube.com/watch?v=dP6PhNHUrks
 tags: ["gut feeling", "hr", "talent intelligence", "workforce planning", "leadership", "talent acquisition", "strategy", "people", "skills", "future skills", "workforce", "employees", "talent", "AI", "automation", "future of hr"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

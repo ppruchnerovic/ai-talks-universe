@@ -15,6 +15,7 @@ video_id: 3EqW5y-VXog
 url: https://www.youtube.com/watch?v=3EqW5y-VXog
 youtube_url: https://www.youtube.com/watch?v=3EqW5y-VXog
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

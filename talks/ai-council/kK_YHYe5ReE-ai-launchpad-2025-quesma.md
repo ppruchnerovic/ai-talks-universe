@@ -15,6 +15,7 @@ video_id: kK_YHYe5ReE
 url: https://www.youtube.com/watch?v=kK_YHYe5ReE
 youtube_url: https://www.youtube.com/watch?v=kK_YHYe5ReE
 tags: ["startup", "database gateway", "legacy modernization", "ChatGPT", "artificial intelligence", "machine learning", "database migration", "SQL", "data migration", "Python", "enterprise software", "system integration", "legacy systems", "modernization strategy", "database compatibility", "data transformation", "migration tools", "enterprise adoption", "customer success", "technical sales", "solution architecture", "implementation services"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

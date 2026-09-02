@@ -15,6 +15,7 @@ video_id: rJj_ATWUrng
 url: https://www.youtube.com/watch?v=rJj_ATWUrng
 youtube_url: https://www.youtube.com/watch?v=rJj_ATWUrng
 tags: ["RAG", "retrieval augmented generation", "ChatGPT", "LLM", "OpenAI", "artificial intelligence", "machine learning", "natural language processing", "AI programming", "Python", "deep learning", "language models", "generative AI", "vector database", "semantic search", "embeddings", "knowledge graphs", "document processing", "information retrieval", "AI chatbots", "conversational AI", "prompt engineering", "fine tuning", "transformer models", "BERT", "GPT", "neural search", "similarity search", "content generation", "AI workflow", "automation"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: aEvfLBYN-As
 url: https://www.youtube.com/watch?v=aEvfLBYN-As
 youtube_url: https://www.youtube.com/watch?v=aEvfLBYN-As
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "MLOps at Acerta - Automation of the Machine Learning life cycle for Manufacturing", "MLOps at Acerta", "Acerta", "Automation of the Machine Learning life cycle", "ml automation", "scalability", "Software Engineering", "Cloud computing", "Product management"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

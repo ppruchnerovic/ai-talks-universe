@@ -15,6 +15,7 @@ video_id: mDBU6GbvrB8
 url: https://www.youtube.com/watch?v=mDBU6GbvrB8
 youtube_url: https://www.youtube.com/watch?v=mDBU6GbvrB8
 tags: ["Languages & Runtimes", "TypeScript"]
+topics: []
 transcript: true
 ---
 

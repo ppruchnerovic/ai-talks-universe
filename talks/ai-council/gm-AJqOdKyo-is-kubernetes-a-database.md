@@ -15,6 +15,7 @@ video_id: gm-AJqOdKyo
 url: https://www.youtube.com/watch?v=gm-AJqOdKyo
 youtube_url: https://www.youtube.com/watch?v=gm-AJqOdKyo
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

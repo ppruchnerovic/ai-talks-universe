@@ -15,6 +15,7 @@ video_id: s3P2d6DfHxA
 url: https://www.youtube.com/watch?v=s3P2d6DfHxA
 youtube_url: https://www.youtube.com/watch?v=s3P2d6DfHxA
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

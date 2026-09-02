@@ -15,6 +15,7 @@ video_id: SRdmJ_c0Mz4
 url: https://www.youtube.com/watch?v=SRdmJ_c0Mz4
 youtube_url: https://www.youtube.com/watch?v=SRdmJ_c0Mz4
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

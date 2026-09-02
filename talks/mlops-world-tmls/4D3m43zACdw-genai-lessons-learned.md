@@ -15,6 +15,7 @@ video_id: 4D3m43zACdw
 url: https://www.youtube.com/watch?v=4D3m43zACdw
 youtube_url: https://www.youtube.com/watch?v=4D3m43zACdw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

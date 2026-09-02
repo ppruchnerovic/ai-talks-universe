@@ -15,6 +15,7 @@ video_id: hacEQHHhu2Q
 url: https://www.youtube.com/watch?v=hacEQHHhu2Q
 youtube_url: https://www.youtube.com/watch?v=hacEQHHhu2Q
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

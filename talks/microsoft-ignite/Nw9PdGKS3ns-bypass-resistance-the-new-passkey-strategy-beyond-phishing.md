@@ -15,6 +15,7 @@ video_id: Nw9PdGKS3ns
 url: https://www.youtube.com/watch?v=Nw9PdGKS3ns
 youtube_url: https://www.youtube.com/watch?v=Nw9PdGKS3ns
 tags: ["Ali Adib", "Bypass resistance: the new passkey strategy beyond phishing resistance | ODSP1441", "English (US)", "Financial Services", "Kenn Chong", "ODSP1441", "ODSP1441_v3", "Protect cloud AI platform and apps", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Cc0_nyxROBA
 url: https://www.youtube.com/watch?v=Cc0_nyxROBA
 youtube_url: https://www.youtube.com/watch?v=Cc0_nyxROBA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

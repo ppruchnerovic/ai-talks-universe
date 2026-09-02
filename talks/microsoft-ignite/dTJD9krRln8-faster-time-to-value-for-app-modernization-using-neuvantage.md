@@ -15,6 +15,7 @@ video_id: dTJD9krRln8
 url: https://www.youtube.com/watch?v=dTJD9krRln8
 youtube_url: https://www.youtube.com/watch?v=dTJD9krRln8
 tags: ["Agentic business applications", "English (US)", "Faster time-to-value for app modernization using NeuVantage AI | ODSP1432", "Hiren Dhaduk", "Matthew Wendel", "Migrate and modernize your estate", "ODSP1432", "ODSP1432_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

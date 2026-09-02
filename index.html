@@ -102,7 +102,13 @@
   .b.conf:hover { border-color: var(--accent-line); }
   .b.tag { cursor: pointer; }
   .b.tag:hover { border-color: var(--accent-line); color: var(--accent); }
-  .b.tag:focus-visible, .b.conf:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  /* A topic chip sets the Topic filter, the way the conference badge sets its
+     filter; a tag chip runs a search. Outlined rather than filled, so the two
+     kinds of chip read differently. */
+  .b.topic { cursor: pointer; background: none; border-color: var(--border); color: var(--muted); }
+  .b.topic:hover { border-color: var(--accent-line); color: var(--accent); }
+  .b.tag:focus-visible, .b.conf:focus-visible, .b.topic:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px; }
   .absw { margin-bottom: 13px; }
   .abs { font-size: 0.9rem; color: var(--muted); white-space: pre-wrap; }
   /* Collapsed to a few lines; the button below only appears when there is
@@ -166,6 +172,7 @@
     <div class="filters">
       <select id="f-conf" aria-label="Filter by conference"><option value="">All conferences</option></select>
       <select id="f-cat" aria-label="Filter by category"><option value="">All categories</option></select>
+      <select id="f-topic" aria-label="Filter by topic"><option value="">All topics</option></select>
       <select id="f-year" aria-label="Filter by year"><option value="">All years</option></select>
       <select id="f-sort" aria-label="Sort results">
         <option value="rel">Most relevant</option>
@@ -206,6 +213,8 @@ const el = { q: $('#q'), res: $('#results'), status: $('#status'), sub: $('#sub'
 //   g  category              e  edition          y  year
 //   m  duration in minutes   a  tags             p  published_at
 //   u  conference site       w  transcript word count (0 = not fetched)
+//   k  topics — the per-talk facet, as indices into the file's `topics`
+//      list; absent when the talk has none. Resolved to names at boot.
 //   l  the talk's own page, only when there is no YouTube video to link
 //   x  1 when the transcript's timings are interpolated, not measured
 // The description here is a display clip. Its terms are searched through the
@@ -362,8 +371,10 @@ async function boot() {
   MANIFEST = manifest;
   if (MANIFEST) STOP = new Set(MANIFEST.stopwords);
   TALKS = meta.talks;
+  const TOPIC_NAMES = meta.topics || [];
   TALKS.forEach(t => {
     BY_N.set(t.i, t);
+    t.k = (t.k || []).map(i => TOPIC_NAMES[i]).filter(Boolean);
     t._hay = [t.t, t.d, (t.a || []).join(' '), (t.s || []).join(' '), t.c, t.e]
       .join('   ').toLowerCase();
     // Per-field token sets. Matching on tokens rather than raw substrings is what
@@ -410,6 +421,10 @@ function fillFilters() {
     .forEach(([slug, name]) => $('#f-conf').add(new Option(name, slug)));
   [...new Set(TALKS.map(t => t.g).filter(Boolean))].sort()
     .forEach(v => $('#f-cat').add(new Option(v, v)));
+  // Topics are multi-valued, so the options are the union of every talk's
+  // list — and, unlike the category, a talk may match several of them.
+  [...new Set(TALKS.flatMap(t => t.k || []))].sort()
+    .forEach(v => $('#f-topic').add(new Option(v, v)));
   [...new Set(TALKS.map(t => t.y).filter(Boolean))].sort((a, b) => b - a)
     .forEach(v => $('#f-year').add(new Option(v, v)));
 }
@@ -641,6 +656,8 @@ function card(hit, q) {
     t.w && !ALL_TR ? `<span class="b">transcript</span>` : '',
     // Buttons rather than styled spans: a chip that runs a search has to be
     // reachable by keyboard, not only by mouse.
+    ...(t.k || []).map(x =>
+      `<button type="button" class="b topic" data-topic="${esc(x)}">${esc(x)}</button>`),
     ...(t.a || []).slice(0, 6).map(x =>
       `<button type="button" class="b tag" data-tag="${esc(x)}">#${esc(x)}</button>`)
   ].join('');
@@ -686,8 +703,10 @@ function render(result) {
   let hits = result ? result.hits.slice() : TALKS.map(t => ({ t, score: 0 }));
 
   const fc = $('#f-conf').value, fg = $('#f-cat').value, fy = $('#f-year').value;
+  const fk = $('#f-topic').value;
   const trOnly = !$('#f-tr').hidden && $('#f-tr').classList.contains('on');
   hits = hits.filter(h => (!fc || h.t.cs === fc) && (!fg || h.t.g === fg) &&
+                          (!fk || (h.t.k || []).includes(fk)) &&
                           (!fy || String(h.t.y) === fy) && (!trOnly || h.t.w > 0));
 
   const byTitle = (a, b) => a.t.t.localeCompare(b.t.t);
@@ -798,13 +817,13 @@ async function run() {
 }
 
 el.q.addEventListener('input', () => { shown = PAGE; clearTimeout(timer); timer = setTimeout(run, 140); });
-['f-conf', 'f-cat', 'f-year', 'f-sort'].forEach(id =>
+['f-conf', 'f-cat', 'f-topic', 'f-year', 'f-sort'].forEach(id =>
   $('#' + id).addEventListener('change', () => { shown = PAGE; run(); }));
 $('#f-tr').addEventListener('click', e => {
   e.currentTarget.classList.toggle('on'); shown = PAGE; run();
 });
 $('#clear').addEventListener('click', () => {
-  el.q.value = ''; ['f-conf', 'f-cat', 'f-year'].forEach(id => $('#' + id).value = '');
+  el.q.value = ''; ['f-conf', 'f-cat', 'f-topic', 'f-year'].forEach(id => $('#' + id).value = '');
   $('#f-sort').value = 'rel'; $('#f-tr').classList.remove('on'); shown = PAGE; run();
 });
 el.more.addEventListener('click', () => { shown += PAGE; render(currentResult); });
@@ -817,6 +836,11 @@ el.res.addEventListener('click', async e => {
   const conf = e.target.closest('.conf');
   if (conf) {
     $('#f-conf').value = conf.dataset.conf; shown = PAGE; run();
+    window.scrollTo({ top: 0, behavior: 'smooth' }); return;
+  }
+  const topic = e.target.closest('.topic');
+  if (topic) {
+    $('#f-topic').value = topic.dataset.topic; shown = PAGE; run();
     window.scrollTo({ top: 0, behavior: 'smooth' }); return;
   }
   const tag = e.target.closest('.tag');
@@ -862,7 +886,7 @@ document.addEventListener('keydown', e => {
 function writeHash() {
   const p = new URLSearchParams();
   if (el.q.value.trim()) p.set('q', el.q.value.trim());
-  [['conf', 'f-conf'], ['cat', 'f-cat'], ['year', 'f-year']].forEach(([k, id]) => {
+  [['conf', 'f-conf'], ['cat', 'f-cat'], ['topic', 'f-topic'], ['year', 'f-year']].forEach(([k, id]) => {
     if ($('#' + id).value) p.set(k, $('#' + id).value);
   });
   if ($('#f-tr').classList.contains('on')) p.set('tr', '1');
@@ -875,6 +899,7 @@ function readHash() {
   el.q.value = p.get('q') || '';
   if (p.get('conf')) $('#f-conf').value = p.get('conf');
   if (p.get('cat')) $('#f-cat').value = p.get('cat');
+  if (p.get('topic')) $('#f-topic').value = p.get('topic');
   if (p.get('year')) $('#f-year').value = p.get('year');
   if (['rel', 'new', 'title'].includes(p.get('sort'))) $('#f-sort').value = p.get('sort');
   if (p.get('tr') && !$('#f-tr').hidden) $('#f-tr').classList.add('on');

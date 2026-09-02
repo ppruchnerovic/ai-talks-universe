@@ -15,6 +15,7 @@ video_id: ItewChEfpDY
 url: https://www.youtube.com/watch?v=ItewChEfpDY
 youtube_url: https://www.youtube.com/watch?v=ItewChEfpDY
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: imejbnfQFJA
 url: https://www.youtube.com/watch?v=imejbnfQFJA
 youtube_url: https://www.youtube.com/watch?v=imejbnfQFJA
 tags: ["AI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Venkat Subramaniam"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Z36r5WakqDk
 url: https://www.youtube.com/watch?v=Z36r5WakqDk
 youtube_url: https://www.youtube.com/watch?v=Z36r5WakqDk
 tags: ["Software Architecture", "QCon London", "API", "Mocking", "Contract Testing", "Observability", "Microservices", "Monitoring", "InfoQ", "Transcript", "Performance"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: YTL5aFjfj08
 url: https://www.youtube.com/watch?v=YTL5aFjfj08
 youtube_url: https://www.youtube.com/watch?v=YTL5aFjfj08
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: L6_NiGIEXZQ
 url: https://www.youtube.com/watch?v=L6_NiGIEXZQ
 youtube_url: https://www.youtube.com/watch?v=L6_NiGIEXZQ
 tags: []
+topics: []
 transcript: false
 ---
 

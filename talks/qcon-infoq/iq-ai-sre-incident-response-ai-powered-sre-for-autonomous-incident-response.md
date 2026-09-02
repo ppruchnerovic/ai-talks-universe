@@ -15,6 +15,7 @@ video_id: iq-ai-sre-incident-response
 url: https://www.infoq.com/presentations/ai-sre-incident-response/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

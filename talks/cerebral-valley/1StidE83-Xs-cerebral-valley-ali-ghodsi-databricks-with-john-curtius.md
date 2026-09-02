@@ -15,6 +15,7 @@ video_id: 1StidE83-Xs
 url: https://www.youtube.com/watch?v=1StidE83-Xs
 youtube_url: https://www.youtube.com/watch?v=1StidE83-Xs
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

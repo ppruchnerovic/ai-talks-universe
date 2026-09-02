@@ -15,6 +15,7 @@ video_id: F__BXqWjAdM
 url: https://www.youtube.com/watch?v=F__BXqWjAdM
 youtube_url: https://www.youtube.com/watch?v=F__BXqWjAdM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Mark Rickmeier", "Brian Martin", "Big Data", "Data", "Graph Database", "Rare Hopes", "Humanity", "Good News", "Hidden Cures"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

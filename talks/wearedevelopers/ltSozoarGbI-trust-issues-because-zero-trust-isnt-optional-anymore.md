@@ -15,6 +15,7 @@ video_id: ltSozoarGbI
 url: https://www.youtube.com/watch?v=ltSozoarGbI
 youtube_url: https://www.youtube.com/watch?v=ltSozoarGbI
 tags: ["Security & Privacy", "Cloud Security", "Docker", "Infrastructure", "JavaScript", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

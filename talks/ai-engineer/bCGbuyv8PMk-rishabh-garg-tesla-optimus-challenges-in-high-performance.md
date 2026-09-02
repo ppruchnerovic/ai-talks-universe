@@ -15,6 +15,7 @@ video_id: bCGbuyv8PMk
 url: https://www.youtube.com/watch?v=bCGbuyv8PMk
 youtube_url: https://www.youtube.com/watch?v=bCGbuyv8PMk
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: XAfYRWCiYTk
 url: https://www.youtube.com/watch?v=XAfYRWCiYTk
 youtube_url: https://www.youtube.com/watch?v=XAfYRWCiYTk
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

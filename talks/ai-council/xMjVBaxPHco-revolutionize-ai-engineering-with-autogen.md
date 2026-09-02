@@ -15,6 +15,7 @@ video_id: xMjVBaxPHco
 url: https://www.youtube.com/watch?v=xMjVBaxPHco
 youtube_url: https://www.youtube.com/watch?v=xMjVBaxPHco
 tags: ["Microsoft AutoGen", "AI automation", "AI agents", "ChatGPT", "artificial intelligence", "machine learning", "automation framework", "AI development", "agent systems", "project timelines", "model accuracy", "cost reduction", "intelligent solutions", "Python tutorial", "multi agent systems", "conversational AI", "code generation", "automated testing", "collaborative AI", "agent orchestration", "task delegation", "workflow automation"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

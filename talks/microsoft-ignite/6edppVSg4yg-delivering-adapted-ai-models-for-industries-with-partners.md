@@ -15,6 +15,7 @@ video_id: 6edppVSg4yg
 url: https://www.youtube.com/watch?v=6edppVSg4yg
 youtube_url: https://www.youtube.com/watch?v=6edppVSg4yg
 tags: ["AI", "Azure", "BRK267", "Breakout", "Copilot", "Delivering adapted AI models for industries with partners | BRK267", "English (US)", "ISV", "Industry", "Industry for Partner", "Industry-Curated", "Intermediate (200)", "Merav Davidson", "Partner Business", "SI", "Software Company", "Solution Area", "Vall Herard", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

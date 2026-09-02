@@ -15,6 +15,7 @@ video_id: p7pKa2H1008
 url: https://www.youtube.com/watch?v=p7pKa2H1008
 youtube_url: https://www.youtube.com/watch?v=p7pKa2H1008
 tags: ["AI", "BRK306", "Breakout", "Copilot", "Craig Loewen", "English (US)", "Enhance IT Pro and Developer productivity with new improvements to advanced tools on | BRK306", "Intermediate (200)", "Kayla Cinnamon", "Microsoft 365", "Modern Work", "Technical", "Version v0", "Windows", "Windows Developer", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

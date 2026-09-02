@@ -15,6 +15,7 @@ video_id: gQzGSnu-yGA
 url: https://www.youtube.com/watch?v=gQzGSnu-yGA
 youtube_url: https://www.youtube.com/watch?v=gQzGSnu-yGA
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

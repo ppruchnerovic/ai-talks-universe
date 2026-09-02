@@ -15,6 +15,7 @@ video_id: WAI28NM0ASI
 url: https://www.youtube.com/watch?v=WAI28NM0ASI
 youtube_url: https://www.youtube.com/watch?v=WAI28NM0ASI
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

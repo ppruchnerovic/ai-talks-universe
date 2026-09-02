@@ -15,6 +15,7 @@ video_id: N4GgGBKnHe4
 url: https://www.youtube.com/watch?v=N4GgGBKnHe4
 youtube_url: https://www.youtube.com/watch?v=N4GgGBKnHe4
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Android PA Keynote;", "ct:Stack - Android;"]
+topics: []
 transcript: true
 ---
 

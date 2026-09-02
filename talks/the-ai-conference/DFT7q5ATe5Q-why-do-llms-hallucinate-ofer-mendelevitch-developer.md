@@ -15,6 +15,7 @@ video_id: DFT7q5ATe5Q
 url: https://www.youtube.com/watch?v=DFT7q5ATe5Q
 youtube_url: https://www.youtube.com/watch?v=DFT7q5ATe5Q
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

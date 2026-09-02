@@ -15,6 +15,7 @@ video_id: tWULplELhxI
 url: https://www.youtube.com/watch?v=tWULplELhxI
 youtube_url: https://www.youtube.com/watch?v=tWULplELhxI
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 1T7UNFdsBIA
 url: https://www.youtube.com/watch?v=1T7UNFdsBIA
 youtube_url: https://www.youtube.com/watch?v=1T7UNFdsBIA
 tags: ["data warehouses", "DuckDB", "analytics", "data streaming"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

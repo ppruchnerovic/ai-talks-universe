@@ -15,6 +15,7 @@ video_id: aMPfb6TVfA4
 url: https://www.youtube.com/watch?v=aMPfb6TVfA4
 youtube_url: https://www.youtube.com/watch?v=aMPfb6TVfA4
 tags: ["BRK321", "English (US)", "From flows to agents: Modernizing with Copilot Studio + Power Automate | BRK321", "Innovate with low-code AI and agents", "Jonathan Kendall", "Mustapha Lazrek", "Technical", "f5n1", "fa9483e2-2a01-481d-95bc-958cccb41ca5_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

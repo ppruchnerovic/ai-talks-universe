@@ -15,6 +15,7 @@ video_id: KdnKfxRlr78
 url: https://www.youtube.com/watch?v=KdnKfxRlr78
 youtube_url: https://www.youtube.com/watch?v=KdnKfxRlr78
 tags: ["BRK175", "Breakout", "Business Applications", "Business Applications-Curated", "English (US)", "Foundational (100)", "Heather Orta-Olmo", "Joe Fernandez", "Revolutionize the way you work with Power Automate and AI | BRK175", "Taiki Yoshida", "Technical", "Tjerrie Smit", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

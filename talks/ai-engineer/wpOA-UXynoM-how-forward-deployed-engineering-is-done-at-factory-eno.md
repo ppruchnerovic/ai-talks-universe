@@ -15,6 +15,7 @@ video_id: wpOA-UXynoM
 url: https://www.youtube.com/watch?v=wpOA-UXynoM
 youtube_url: https://www.youtube.com/watch?v=wpOA-UXynoM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

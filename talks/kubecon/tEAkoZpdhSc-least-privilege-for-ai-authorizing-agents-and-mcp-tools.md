@@ -15,6 +15,7 @@ video_id: tEAkoZpdhSc
 url: https://www.youtube.com/watch?v=tEAkoZpdhSc
 youtube_url: https://www.youtube.com/watch?v=tEAkoZpdhSc
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

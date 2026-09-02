@@ -15,6 +15,7 @@ video_id: -Sgj_qyfNmw
 url: https://www.youtube.com/watch?v=-Sgj_qyfNmw
 youtube_url: https://www.youtube.com/watch?v=-Sgj_qyfNmw
 tags: ["Security & Privacy", "Cloud Security", "Security"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

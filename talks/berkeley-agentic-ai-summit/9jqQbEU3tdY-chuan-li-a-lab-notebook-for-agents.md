@@ -15,6 +15,7 @@ video_id: 9jqQbEU3tdY
 url: https://www.youtube.com/watch?v=9jqQbEU3tdY
 youtube_url: https://www.youtube.com/watch?v=9jqQbEU3tdY
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

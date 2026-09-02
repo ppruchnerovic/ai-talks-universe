@@ -15,6 +15,7 @@ video_id: 3RfynkHV_XA
 url: https://www.youtube.com/watch?v=3RfynkHV_XA
 youtube_url: https://www.youtube.com/watch?v=3RfynkHV_XA
 tags: []
+topics: []
 transcript: true
 ---
 

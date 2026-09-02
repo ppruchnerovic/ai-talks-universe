@@ -15,6 +15,7 @@ video_id: capTmZrKDmM
 url: https://www.youtube.com/watch?v=capTmZrKDmM
 youtube_url: https://www.youtube.com/watch?v=capTmZrKDmM
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: RTEtMMJXPUo
 url: https://www.youtube.com/watch?v=RTEtMMJXPUo
 youtube_url: https://www.youtube.com/watch?v=RTEtMMJXPUo
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

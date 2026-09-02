@@ -15,6 +15,7 @@ video_id: XlAIgmi_Vow
 url: https://www.youtube.com/watch?v=XlAIgmi_Vow
 youtube_url: https://www.youtube.com/watch?v=XlAIgmi_Vow
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

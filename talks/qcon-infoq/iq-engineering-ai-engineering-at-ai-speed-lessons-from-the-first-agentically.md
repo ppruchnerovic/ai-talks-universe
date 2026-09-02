@@ -15,6 +15,7 @@ video_id: iq-engineering-ai
 url: https://www.infoq.com/presentations/engineering-ai/
 youtube_url: null
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

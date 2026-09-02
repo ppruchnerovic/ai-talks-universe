@@ -15,6 +15,7 @@ video_id: CqWpJFK-hOo
 url: https://www.youtube.com/watch?v=CqWpJFK-hOo
 youtube_url: https://www.youtube.com/watch?v=CqWpJFK-hOo
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

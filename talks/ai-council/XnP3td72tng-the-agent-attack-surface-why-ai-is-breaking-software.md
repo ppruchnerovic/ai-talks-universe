@@ -15,6 +15,7 @@ video_id: XnP3td72tng
 url: https://www.youtube.com/watch?v=XnP3td72tng
 youtube_url: https://www.youtube.com/watch?v=XnP3td72tng
 tags: ["AI"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

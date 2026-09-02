@@ -15,6 +15,7 @@ video_id: sqvxKIPB8W4
 url: https://www.youtube.com/watch?v=sqvxKIPB8W4
 youtube_url: https://www.youtube.com/watch?v=sqvxKIPB8W4
 tags: ["2765a725-7d43-4d08-a725-a1069974f007_Segment", "Alexander Hughes", "Ashish Agrawal", "BRK203", "Building autonomous enterprise agents with reasoning | BRK203", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Jennifer Marsman", "Naomi Moneypenny", "Technical", "Zachary Ziegler", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: o53onmgnQDU
 url: https://www.youtube.com/watch?v=o53onmgnQDU
 youtube_url: https://www.youtube.com/watch?v=o53onmgnQDU
 tags: ["SQL tutorial", "DuckDB", "database tutorial", "ChatGPT", "artificial intelligence", "machine learning", "data analysis", "Python tutorial", "data science", "analytics", "embedded database", "OLAP", "analytical database", "data processing", "query optimization", "vectorized query processing", "in memory database", "columnar storage", "analytical queries", "data exploration", "interactive analytics", "SQL performance", "query engine", "database internals", "data warehouse", "business intelligence"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

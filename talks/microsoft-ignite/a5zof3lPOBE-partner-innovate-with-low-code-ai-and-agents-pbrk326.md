@@ -15,6 +15,7 @@ video_id: a5zof3lPOBE
 url: https://www.youtube.com/watch?v=a5zof3lPOBE
 youtube_url: https://www.youtube.com/watch?v=a5zof3lPOBE
 tags: ["Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Power Apps", "Microsoft AI Cloud Partner Program", "PBRK326", "Partner: Innovate with Low-Code AI and agents | PBRK326", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

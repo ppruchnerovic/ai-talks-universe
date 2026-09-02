@@ -15,6 +15,7 @@ video_id: 05043f3GseE
 url: https://www.youtube.com/watch?v=05043f3GseE
 youtube_url: https://www.youtube.com/watch?v=05043f3GseE
 tags: []
+topics: []
 transcript: true
 ---
 

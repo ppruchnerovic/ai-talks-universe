@@ -15,6 +15,7 @@ video_id: iC9F7Az5olQ
 url: https://www.youtube.com/watch?v=iC9F7Az5olQ
 youtube_url: https://www.youtube.com/watch?v=iC9F7Az5olQ
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

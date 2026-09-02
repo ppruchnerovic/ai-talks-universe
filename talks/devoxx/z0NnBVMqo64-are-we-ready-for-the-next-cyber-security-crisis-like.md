@@ -15,6 +15,7 @@ video_id: z0NnBVMqo64
 url: https://www.youtube.com/watch?v=z0NnBVMqo64
 youtube_url: https://www.youtube.com/watch?v=z0NnBVMqo64
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

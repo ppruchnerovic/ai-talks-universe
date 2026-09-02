@@ -15,6 +15,7 @@ video_id: _KAXZtMSDlo
 url: https://www.youtube.com/watch?v=_KAXZtMSDlo
 youtube_url: https://www.youtube.com/watch?v=_KAXZtMSDlo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

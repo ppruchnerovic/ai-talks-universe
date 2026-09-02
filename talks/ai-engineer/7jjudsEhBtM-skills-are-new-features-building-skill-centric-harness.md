@@ -15,6 +15,7 @@ video_id: 7jjudsEhBtM
 url: https://www.youtube.com/watch?v=7jjudsEhBtM
 youtube_url: https://www.youtube.com/watch?v=7jjudsEhBtM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

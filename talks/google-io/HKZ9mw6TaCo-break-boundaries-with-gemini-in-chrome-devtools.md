@@ -15,6 +15,7 @@ video_id: HKZ9mw6TaCo
 url: https://www.youtube.com/watch?v=HKZ9mw6TaCo
 youtube_url: https://www.youtube.com/watch?v=HKZ9mw6TaCo
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

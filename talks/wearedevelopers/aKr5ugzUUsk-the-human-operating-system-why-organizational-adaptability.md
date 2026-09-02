@@ -15,6 +15,7 @@ video_id: aKr5ugzUUsk
 url: https://www.youtube.com/watch?v=aKr5ugzUUsk
 youtube_url: https://www.youtube.com/watch?v=aKr5ugzUUsk
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: CTLa_p6iOiY
 url: https://www.youtube.com/watch?v=CTLa_p6iOiY
 youtube_url: https://www.youtube.com/watch?v=CTLa_p6iOiY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

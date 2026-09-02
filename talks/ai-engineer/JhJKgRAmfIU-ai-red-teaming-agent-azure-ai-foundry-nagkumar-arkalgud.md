@@ -15,6 +15,7 @@ video_id: JhJKgRAmfIU
 url: https://www.youtube.com/watch?v=JhJKgRAmfIU
 youtube_url: https://www.youtube.com/watch?v=JhJKgRAmfIU
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: nKKNrgGuU8M
 url: https://www.youtube.com/watch?v=nKKNrgGuU8M
 youtube_url: https://www.youtube.com/watch?v=nKKNrgGuU8M
 tags: ["Application Security", "Security Tooling", "SDLC", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Simona Toader"]
+topics: ["AI in the SDLC & engineering orgs", "Security, safety & red teaming"]
 transcript: true
 ---
 

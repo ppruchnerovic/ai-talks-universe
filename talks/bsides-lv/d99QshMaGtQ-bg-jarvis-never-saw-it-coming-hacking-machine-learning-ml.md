@@ -15,6 +15,7 @@ video_id: d99QshMaGtQ
 url: https://www.youtube.com/watch?v=d99QshMaGtQ
 youtube_url: https://www.youtube.com/watch?v=d99QshMaGtQ
 tags: ["bslv", "bslv2018", "bsideslv", "bsideslv2018", "bg", "breaking ground"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 2_2yQ_b9fgs
 url: https://www.youtube.com/watch?v=2_2yQ_b9fgs
 youtube_url: https://www.youtube.com/watch?v=2_2yQ_b9fgs
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

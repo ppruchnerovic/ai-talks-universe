@@ -15,6 +15,7 @@ video_id: b23ZV37_9Hw
 url: https://www.youtube.com/watch?v=b23ZV37_9Hw
 youtube_url: https://www.youtube.com/watch?v=b23ZV37_9Hw
 tags: ["API", "Agent Observability", "Chu Lahlou", "DEM331", "DEM331_v1", "Enterprise", "Foundry IQ", "Governance", "Grounding", "Microsoft Foundry", "Turn APIs tools and data into real agent velocity | DEM331", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

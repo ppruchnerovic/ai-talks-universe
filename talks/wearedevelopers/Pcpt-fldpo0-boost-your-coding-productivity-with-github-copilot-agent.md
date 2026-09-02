@@ -15,6 +15,7 @@ video_id: Pcpt-fldpo0
 url: https://www.youtube.com/watch?v=Pcpt-fldpo0
 youtube_url: https://www.youtube.com/watch?v=Pcpt-fldpo0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

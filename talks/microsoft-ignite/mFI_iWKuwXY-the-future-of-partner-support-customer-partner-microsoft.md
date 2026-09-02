@@ -15,6 +15,7 @@ video_id: mFI_iWKuwXY
 url: https://www.youtube.com/watch?v=mFI_iWKuwXY
 youtube_url: https://www.youtube.com/watch?v=mFI_iWKuwXY
 tags: ["4fd6f810-adb4-413c-891c-201a0b0d6d4b_Segment", "Chris O'Brien", "Dan Rippey", "English (US)", "Joanna Rudy Khatri", "Michael Waiters", "Microsoft AI Cloud Partner Program", "PBRK422", "Partner Business", "The Future of Partner Support - Customer + Partner + Microsoft | PBRK422", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

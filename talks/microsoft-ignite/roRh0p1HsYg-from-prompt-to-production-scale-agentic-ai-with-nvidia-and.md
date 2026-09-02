@@ -15,6 +15,7 @@ video_id: roRh0p1HsYg
 url: https://www.youtube.com/watch?v=roRh0p1HsYg
 youtube_url: https://www.youtube.com/watch?v=roRh0p1HsYg
 tags: ["Agentic business applications", "BRKSP477", "English (US)", "From prompt to production: Scale agentic AI with NVIDIA and Azure | BRKSP477", "Matheen Raza", "Technical", "Telecommunications", "bd841413-405b-4bb4-8db8-bbe8e3b528e4_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

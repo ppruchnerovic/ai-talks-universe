@@ -15,6 +15,7 @@ video_id: z2ppHjPRTjQ
 url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 youtube_url: https://www.youtube.com/watch?v=z2ppHjPRTjQ
 tags: [".NET", "C#"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

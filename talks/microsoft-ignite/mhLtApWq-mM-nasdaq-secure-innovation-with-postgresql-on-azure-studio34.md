@@ -15,6 +15,7 @@ video_id: mhLtApWq-mM
 url: https://www.youtube.com/watch?v=mhLtApWq-mM
 youtube_url: https://www.youtube.com/watch?v=mhLtApWq-mM
 tags: ["Charles Feddersen", "English (US)", "Mohsin Shafqat", "Nasdaq: Secure Innovation with PostgreSQL on Azure | STUDIO34", "Other", "STUDIO34", "STUDIO34_v1", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

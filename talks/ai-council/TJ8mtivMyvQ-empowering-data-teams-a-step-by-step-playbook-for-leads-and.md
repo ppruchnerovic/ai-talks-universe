@@ -15,6 +15,7 @@ video_id: TJ8mtivMyvQ
 url: https://www.youtube.com/watch?v=TJ8mtivMyvQ
 youtube_url: https://www.youtube.com/watch?v=TJ8mtivMyvQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

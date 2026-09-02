@@ -15,6 +15,7 @@ video_id: qLqttdO33UM
 url: https://www.youtube.com/watch?v=qLqttdO33UM
 youtube_url: https://www.youtube.com/watch?v=qLqttdO33UM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

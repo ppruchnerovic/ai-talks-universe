@@ -15,6 +15,7 @@ video_id: HS8BvnGdehQ
 url: https://www.youtube.com/watch?v=HS8BvnGdehQ
 youtube_url: https://www.youtube.com/watch?v=HS8BvnGdehQ
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "Anthropic", "Agents", "Agentic AI", "Code Generation", "Innovation", "OpenAI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

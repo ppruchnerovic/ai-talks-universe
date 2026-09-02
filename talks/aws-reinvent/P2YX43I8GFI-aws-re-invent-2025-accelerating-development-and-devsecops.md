@@ -15,6 +15,7 @@ video_id: P2YX43I8GFI
 url: https://www.youtube.com/watch?v=P2YX43I8GFI
 youtube_url: https://www.youtube.com/watch?v=P2YX43I8GFI
 tags: []
+topics: []
 transcript: false
 ---
 

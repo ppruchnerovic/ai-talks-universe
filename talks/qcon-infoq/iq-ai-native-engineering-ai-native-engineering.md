@@ -15,6 +15,7 @@ video_id: iq-ai-native-engineering
 url: https://www.infoq.com/presentations/ai-native-engineering/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

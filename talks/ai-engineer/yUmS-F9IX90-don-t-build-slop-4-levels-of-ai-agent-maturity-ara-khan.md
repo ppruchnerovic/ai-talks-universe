@@ -15,6 +15,7 @@ video_id: yUmS-F9IX90
 url: https://www.youtube.com/watch?v=yUmS-F9IX90
 youtube_url: https://www.youtube.com/watch?v=yUmS-F9IX90
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

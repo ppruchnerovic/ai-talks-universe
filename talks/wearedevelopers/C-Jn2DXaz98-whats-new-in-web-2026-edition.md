@@ -15,6 +15,7 @@ video_id: C-Jn2DXaz98
 url: https://www.youtube.com/watch?v=C-Jn2DXaz98
 youtube_url: https://www.youtube.com/watch?v=C-Jn2DXaz98
 tags: ["Frontend, Web & Mobile", "Agentic AI", "CSS", "JavaScript", "Progressive Web Apps (PWAs)", "Web Standards", "WebNN"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: c2fLLS7np3Y
 url: https://www.youtube.com/watch?v=c2fLLS7np3Y
 youtube_url: https://www.youtube.com/watch?v=c2fLLS7np3Y
 tags: ["monday.com", "Sidekick AI", "Deep Agents", "LangChain", "AI agents", "agentic systems", "multi-agent architecture", "tool discovery", "deferred tools", "context pollution", "LangSmith sandbox", "self-healing agents", "production AI", "AI assistant", "Interrupt conference", "Omri Bruchim", "sub-agents", "middleware", "code-writing agent", "LLM hallucination", "agent recovery", "progressive disclosure", "ReAct loop", "AI work platform"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

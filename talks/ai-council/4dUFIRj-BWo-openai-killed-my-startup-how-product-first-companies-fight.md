@@ -15,6 +15,7 @@ video_id: 4dUFIRj-BWo
 url: https://www.youtube.com/watch?v=4dUFIRj-BWo
 youtube_url: https://www.youtube.com/watch?v=4dUFIRj-BWo
 tags: ["AI business", "product strategy", "model centric approach", "ChatGPT", "artificial intelligence", "machine learning", "competitive advantage", "tech strategy", "business model", "AI market", "innovation", "distribution moat", "AI economics", "model differentiation", "startup strategy", "Python", "AI product management", "go to market strategy", "AI adoption", "digital transformation", "business intelligence", "market analysis", "competitive intelligence", "strategic planning", "technology roadmap"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

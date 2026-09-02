@@ -15,6 +15,7 @@ video_id: VTYx7Ex-0bA
 url: https://www.youtube.com/watch?v=VTYx7Ex-0bA
 youtube_url: https://www.youtube.com/watch?v=VTYx7Ex-0bA
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Professional Development;"]
+topics: []
 transcript: true
 ---
 

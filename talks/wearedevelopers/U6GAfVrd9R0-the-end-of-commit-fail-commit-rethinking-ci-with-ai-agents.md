@@ -15,6 +15,7 @@ video_id: U6GAfVrd9R0
 url: https://www.youtube.com/watch?v=U6GAfVrd9R0
 youtube_url: https://www.youtube.com/watch?v=U6GAfVrd9R0
 tags: ["DevOps", "Automation", "CI/CD", "DevOps", "GitHub Actions", "Site Reliability Engineering (SRE)"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

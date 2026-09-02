@@ -15,6 +15,7 @@ video_id: P_RI1kCkRbo
 url: https://www.youtube.com/watch?v=P_RI1kCkRbo
 youtube_url: https://www.youtube.com/watch?v=P_RI1kCkRbo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

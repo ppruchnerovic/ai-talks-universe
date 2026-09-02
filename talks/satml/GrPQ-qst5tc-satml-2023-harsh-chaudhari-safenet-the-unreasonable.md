@@ -15,6 +15,7 @@ video_id: GrPQ-qst5tc
 url: https://www.youtube.com/watch?v=GrPQ-qst5tc
 youtube_url: https://www.youtube.com/watch?v=GrPQ-qst5tc
 tags: []
+topics: []
 transcript: false
 ---
 

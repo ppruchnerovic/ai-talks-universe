@@ -15,6 +15,7 @@ video_id: PfZZ1qkfTsU
 url: https://www.youtube.com/watch?v=PfZZ1qkfTsU
 youtube_url: https://www.youtube.com/watch?v=PfZZ1qkfTsU
 tags: ["healthcare data", "FHIR", "HL7", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "medical data", "HIPAA", "health informatics", "medical informatics", "healthcare IT", "X12", "CCDA", "TMSIS", "payers", "providers", "Python", "electronic health records", "clinical data", "patient data", "healthcare analytics", "population health", "quality measures", "outcomes research", "clinical decision support", "predictive analytics"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

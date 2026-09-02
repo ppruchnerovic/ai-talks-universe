@@ -15,6 +15,7 @@ video_id: T5fQEcvd15A
 url: https://www.youtube.com/watch?v=T5fQEcvd15A
 youtube_url: https://www.youtube.com/watch?v=T5fQEcvd15A
 tags: ["KYAVDB"]
+topics: []
 transcript: false
 ---
 

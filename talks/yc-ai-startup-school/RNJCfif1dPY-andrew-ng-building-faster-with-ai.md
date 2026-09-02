@@ -15,6 +15,7 @@ video_id: RNJCfif1dPY
 url: https://www.youtube.com/watch?v=RNJCfif1dPY
 youtube_url: https://www.youtube.com/watch?v=RNJCfif1dPY
 tags: ["YC", "Y Combinator"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: kH5VBCjoRLE
 url: https://www.youtube.com/watch?v=kH5VBCjoRLE
 youtube_url: https://www.youtube.com/watch?v=kH5VBCjoRLE
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

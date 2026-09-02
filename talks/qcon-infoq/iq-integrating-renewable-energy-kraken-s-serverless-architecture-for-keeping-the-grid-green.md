@@ -15,6 +15,7 @@ video_id: iq-integrating-renewable-energy
 url: https://www.infoq.com/presentations/integrating-renewable-energy/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

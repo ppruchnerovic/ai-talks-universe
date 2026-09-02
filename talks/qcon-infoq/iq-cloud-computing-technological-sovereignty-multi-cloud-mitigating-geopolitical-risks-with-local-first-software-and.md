@@ -15,6 +15,7 @@ video_id: iq-cloud-computing-technological-sovereignty-multi-cloud
 url: https://www.infoq.com/presentations/cloud-computing-technological-sovereignty-multi-cloud/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

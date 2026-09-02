@@ -15,6 +15,7 @@ video_id: FXYom-EA3Lk
 url: https://www.youtube.com/watch?v=FXYom-EA3Lk
 youtube_url: https://www.youtube.com/watch?v=FXYom-EA3Lk
 tags: ["AI skills", "CI/CD integration", "Marc explains Skill Optimizer", "Tessl Skill Optimizer setup", "Tessl plugin", "agentic coding", "ainativedev", "best practices", "context engineering", "evaluate AI agent skills", "how to improve AI skills", "optimizing skills with Tessl", "skill evaluation", "software optimization", "what is skill optimization"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

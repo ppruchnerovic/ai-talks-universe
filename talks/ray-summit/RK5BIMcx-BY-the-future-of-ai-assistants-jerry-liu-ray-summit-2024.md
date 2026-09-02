@@ -15,6 +15,7 @@ video_id: RK5BIMcx-BY
 url: https://www.youtube.com/watch?v=RK5BIMcx-BY
 youtube_url: https://www.youtube.com/watch?v=RK5BIMcx-BY
 tags: []
+topics: []
 transcript: false
 ---
 

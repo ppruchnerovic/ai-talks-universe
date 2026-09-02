@@ -15,6 +15,7 @@ video_id: MXEG_r04bY8
 url: https://www.youtube.com/watch?v=MXEG_r04bY8
 youtube_url: https://www.youtube.com/watch?v=MXEG_r04bY8
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

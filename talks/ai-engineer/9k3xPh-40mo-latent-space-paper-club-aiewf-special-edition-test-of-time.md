@@ -15,6 +15,7 @@ video_id: 9k3xPh-40mo
 url: https://www.youtube.com/watch?v=9k3xPh-40mo
 youtube_url: https://www.youtube.com/watch?v=9k3xPh-40mo
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

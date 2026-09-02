@@ -15,6 +15,7 @@ video_id: SrB-LIAIx5I
 url: https://www.youtube.com/watch?v=SrB-LIAIx5I
 youtube_url: https://www.youtube.com/watch?v=SrB-LIAIx5I
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: tWMZWTulDrM
 url: https://www.youtube.com/watch?v=tWMZWTulDrM
 youtube_url: https://www.youtube.com/watch?v=tWMZWTulDrM
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: false
 ---
 

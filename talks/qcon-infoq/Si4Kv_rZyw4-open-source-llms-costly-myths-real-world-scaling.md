@@ -15,6 +15,7 @@ video_id: Si4Kv_rZyw4
 url: https://www.youtube.com/watch?v=Si4Kv_rZyw4
 youtube_url: https://www.youtube.com/watch?v=Si4Kv_rZyw4
 tags: ["InfoQ", "InfoQ Dev Summit", "Artificial Intelligence", "Machine Learning", "Open Source", "Large Language Models", "LLMs", "Transcript"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

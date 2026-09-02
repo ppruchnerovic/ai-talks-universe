@@ -15,6 +15,7 @@ video_id: IvE8n-ylFYY
 url: https://www.youtube.com/watch?v=IvE8n-ylFYY
 youtube_url: https://www.youtube.com/watch?v=IvE8n-ylFYY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

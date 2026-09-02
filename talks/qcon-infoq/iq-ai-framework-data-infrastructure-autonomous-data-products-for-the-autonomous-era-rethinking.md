@@ -15,6 +15,7 @@ video_id: iq-ai-framework-data-infrastructure
 url: https://www.infoq.com/presentations/ai-framework-data-infrastructure/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: kf7joG8VQT4
 url: https://www.youtube.com/watch?v=kf7joG8VQT4
 youtube_url: https://www.youtube.com/watch?v=kf7joG8VQT4
 tags: ["InfoQ Live", "AI Agents", "Agentic AI", "LLMs", "Large Language Models", "Model Context Protocol", "MCP", "Virtual Panel", "InfoQ", "Artificial Intelligence", "Transcript"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

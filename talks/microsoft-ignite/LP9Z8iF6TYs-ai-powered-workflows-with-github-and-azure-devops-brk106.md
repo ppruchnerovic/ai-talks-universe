@@ -15,6 +15,7 @@ video_id: LP9Z8iF6TYs
 url: https://www.youtube.com/watch?v=LP9Z8iF6TYs
 youtube_url: https://www.youtube.com/watch?v=LP9Z8iF6TYs
 tags: ["8f3a68bd-3ac2-4ccc-bb74-5b19fca00f99_Segment", "AI-powered workflows with GitHub and Azure DevOps | BRK106", "BRK106", "Dan Hellem", "Dave Burnison", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

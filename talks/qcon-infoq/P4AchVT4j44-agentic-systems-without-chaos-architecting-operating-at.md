@@ -15,6 +15,7 @@ video_id: P4AchVT4j44
 url: https://www.youtube.com/watch?v=P4AchVT4j44
 youtube_url: https://www.youtube.com/watch?v=P4AchVT4j44
 tags: ["InfoQ Podcast", "InfoQ", "AI", "Artificial Intelligence", "AgenticAI", "AIArchitecture", "AutonomousSystems", "SoftwareArchitecture", "AIOperatingModel", "AIPlatforms", "EnterpriseAI", "AIGovernance", "AIEngineering", "AIObservability", "AIWorkflows", "AIInfrastructure", "PlatformEngineering", "AIInnovation", "NextGenArchitecture"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

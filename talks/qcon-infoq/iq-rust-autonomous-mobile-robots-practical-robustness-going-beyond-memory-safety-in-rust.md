@@ -15,6 +15,7 @@ video_id: iq-rust-autonomous-mobile-robots
 url: https://www.infoq.com/presentations/rust-autonomous-mobile-robots/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

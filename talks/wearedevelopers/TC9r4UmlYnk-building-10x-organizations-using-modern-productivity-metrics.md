@@ -15,6 +15,7 @@ video_id: TC9r4UmlYnk
 url: https://www.youtube.com/watch?v=TC9r4UmlYnk
 youtube_url: https://www.youtube.com/watch?v=TC9r4UmlYnk
 tags: ["Engineering Leadership", "AI Models", "DORA Metrics", "Generative AI (GenAI)", "Metrics", "Product Strategy", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

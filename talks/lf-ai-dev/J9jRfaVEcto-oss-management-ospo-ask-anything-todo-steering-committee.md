@@ -15,6 +15,7 @@ video_id: J9jRfaVEcto
 url: https://www.youtube.com/watch?v=J9jRfaVEcto
 youtube_url: https://www.youtube.com/watch?v=J9jRfaVEcto
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

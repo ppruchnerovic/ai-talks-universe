@@ -15,6 +15,7 @@ video_id: sPCdZO8-vNc
 url: https://www.youtube.com/watch?v=sPCdZO8-vNc
 youtube_url: https://www.youtube.com/watch?v=sPCdZO8-vNc
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

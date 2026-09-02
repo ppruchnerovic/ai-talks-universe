@@ -15,6 +15,7 @@ video_id: 03l29gJXpCE
 url: https://www.youtube.com/watch?v=03l29gJXpCE
 youtube_url: https://www.youtube.com/watch?v=03l29gJXpCE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

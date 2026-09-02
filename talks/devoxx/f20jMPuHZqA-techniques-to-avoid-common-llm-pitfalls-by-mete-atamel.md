@@ -15,6 +15,7 @@ video_id: f20jMPuHZqA
 url: https://www.youtube.com/watch?v=f20jMPuHZqA
 youtube_url: https://www.youtube.com/watch?v=f20jMPuHZqA
 tags: []
+topics: ["Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

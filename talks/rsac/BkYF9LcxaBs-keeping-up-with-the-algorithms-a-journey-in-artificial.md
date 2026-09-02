@@ -15,6 +15,7 @@ video_id: BkYF9LcxaBs
 url: https://www.youtube.com/watch?v=BkYF9LcxaBs
 youtube_url: https://www.youtube.com/watch?v=BkYF9LcxaBs
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

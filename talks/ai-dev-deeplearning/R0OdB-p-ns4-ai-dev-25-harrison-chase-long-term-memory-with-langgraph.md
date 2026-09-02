@@ -15,6 +15,7 @@ video_id: R0OdB-p-ns4
 url: https://www.youtube.com/watch?v=R0OdB-p-ns4
 youtube_url: https://www.youtube.com/watch?v=R0OdB-p-ns4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

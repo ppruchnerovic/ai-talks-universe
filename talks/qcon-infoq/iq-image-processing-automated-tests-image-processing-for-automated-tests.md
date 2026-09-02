@@ -15,6 +15,7 @@ video_id: iq-image-processing-automated-tests
 url: https://www.infoq.com/presentations/image-processing-automated-tests/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

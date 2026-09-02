@@ -15,6 +15,7 @@ video_id: 1pTpvHHFaE8
 url: https://www.youtube.com/watch?v=1pTpvHHFaE8
 youtube_url: https://www.youtube.com/watch?v=1pTpvHHFaE8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Multi armed Bandits in Production at Stitch Fix", "Stitch Fix", "Production", "Production at Stitch Fix", "Stitch Fix experimentation platform", "integrate sophisticated contextual bandit", "Data Scientists", "Multi-armed bandits"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

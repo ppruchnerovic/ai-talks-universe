@@ -15,6 +15,7 @@ video_id: PEJakKxVh1c
 url: https://www.youtube.com/watch?v=PEJakKxVh1c
 youtube_url: https://www.youtube.com/watch?v=PEJakKxVh1c
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

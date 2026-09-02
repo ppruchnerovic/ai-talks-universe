@@ -15,6 +15,7 @@ video_id: BFiS2nMdV1A
 url: https://www.youtube.com/watch?v=BFiS2nMdV1A
 youtube_url: https://www.youtube.com/watch?v=BFiS2nMdV1A
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

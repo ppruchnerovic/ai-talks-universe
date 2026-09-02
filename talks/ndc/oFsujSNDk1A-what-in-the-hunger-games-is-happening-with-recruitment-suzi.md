@@ -15,6 +15,7 @@ video_id: oFsujSNDk1A
 url: https://www.youtube.com/watch?v=oFsujSNDk1A
 youtube_url: https://www.youtube.com/watch?v=oFsujSNDk1A
 tags: ["People", "Agile", "Ethics", "Fun", "Soft Skills", "NDC", "Conferences", "2026", "Live", "London", "UK", "England", "United Kingdom", "Suzi Edwards-Alexander"]
+topics: []
 transcript: true
 ---
 

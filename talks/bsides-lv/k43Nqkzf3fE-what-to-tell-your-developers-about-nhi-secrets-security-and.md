@@ -15,6 +15,7 @@ video_id: k43Nqkzf3fE
 url: https://www.youtube.com/watch?v=k43Nqkzf3fE
 youtube_url: https://www.youtube.com/watch?v=k43Nqkzf3fE
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

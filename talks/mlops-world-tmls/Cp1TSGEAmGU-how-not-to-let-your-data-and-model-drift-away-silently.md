@@ -15,6 +15,7 @@ video_id: Cp1TSGEAmGU
 url: https://www.youtube.com/watch?v=Cp1TSGEAmGU
 youtube_url: https://www.youtube.com/watch?v=Cp1TSGEAmGU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "How Not to Let Your Data and Model Drift Away Silently", "data drift", "model drift", "Data and Model Drift", "data analysis"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

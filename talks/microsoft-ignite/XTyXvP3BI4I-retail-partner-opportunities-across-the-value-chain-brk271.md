@@ -15,6 +15,7 @@ video_id: XTyXvP3BI4I
 url: https://www.youtube.com/watch?v=XTyXvP3BI4I
 youtube_url: https://www.youtube.com/watch?v=XTyXvP3BI4I
 tags: ["AI", "Azure", "BRK271", "Breakout", "Copilot", "English (US)", "ISV", "Industry", "Industry for Partner", "Intermediate (200)", "Kathie Johnson", "Lindsay Berg", "Partner Business", "Retail", "Retail partner opportunities across the value chain | BRK271", "Roy Capon", "SI", "Software Company", "Solution Area", "Sue McMahon", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

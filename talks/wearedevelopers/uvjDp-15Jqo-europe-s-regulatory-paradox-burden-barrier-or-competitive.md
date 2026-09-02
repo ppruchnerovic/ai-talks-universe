@@ -15,6 +15,7 @@ video_id: uvjDp-15Jqo
 url: https://www.youtube.com/watch?v=uvjDp-15Jqo
 youtube_url: https://www.youtube.com/watch?v=uvjDp-15Jqo
 tags: ["Software Architecture"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

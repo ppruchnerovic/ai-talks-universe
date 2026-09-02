@@ -15,6 +15,7 @@ video_id: 1ZdY6vaU60s
 url: https://www.youtube.com/watch?v=1ZdY6vaU60s
 youtube_url: https://www.youtube.com/watch?v=1ZdY6vaU60s
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iFxaXAoHrzg
 url: https://www.youtube.com/watch?v=iFxaXAoHrzg
 youtube_url: https://www.youtube.com/watch?v=iFxaXAoHrzg
 tags: ["leadership", "transformation", "AI", "people", "HR", "skills", "future of work"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Wixymss7NYM
 url: https://www.youtube.com/watch?v=Wixymss7NYM
 youtube_url: https://www.youtube.com/watch?v=Wixymss7NYM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-yk-meta-tracing-jit-compiler
 url: https://www.infoq.com/presentations/yk-meta-tracing-jit-compiler/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

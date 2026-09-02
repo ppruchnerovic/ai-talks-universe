@@ -15,6 +15,7 @@ video_id: vZdMN82NMTQ
 url: https://www.youtube.com/watch?v=vZdMN82NMTQ
 youtube_url: https://www.youtube.com/watch?v=vZdMN82NMTQ
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

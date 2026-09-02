@@ -15,6 +15,7 @@ video_id: 6OgJVtdajik
 url: https://www.youtube.com/watch?v=6OgJVtdajik
 youtube_url: https://www.youtube.com/watch?v=6OgJVtdajik
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: gw35PigLgao
 url: https://www.youtube.com/watch?v=gw35PigLgao
 youtube_url: https://www.youtube.com/watch?v=gw35PigLgao
 tags: ["Languages & Runtimes", "C#", "Clean Code", "Code Generation", ".NET"]
+topics: []
 transcript: true
 ---
 

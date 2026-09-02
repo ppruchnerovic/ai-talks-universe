@@ -15,6 +15,7 @@ video_id: iq-solving-cloud-infrastructure
 url: https://www.infoq.com/presentations/solving-cloud-infrastructure/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 7lhWqnTfxlE
 url: https://www.youtube.com/watch?v=7lhWqnTfxlE
 youtube_url: https://www.youtube.com/watch?v=7lhWqnTfxlE
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

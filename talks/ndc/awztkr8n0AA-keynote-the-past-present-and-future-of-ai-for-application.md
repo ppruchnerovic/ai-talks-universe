@@ -15,6 +15,7 @@ video_id: awztkr8n0AA
 url: https://www.youtube.com/watch?v=awztkr8n0AA
 youtube_url: https://www.youtube.com/watch?v=awztkr8n0AA
 tags: ["AI", "C Code", "UI", "LLM", "Chat GPT", "NDC", "Conferences", "2025", "Live", "Fun", "London"]
+topics: []
 transcript: false
 ---
 

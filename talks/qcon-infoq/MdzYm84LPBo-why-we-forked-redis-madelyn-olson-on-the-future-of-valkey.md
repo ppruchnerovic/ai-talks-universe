@@ -15,6 +15,7 @@ video_id: MdzYm84LPBo
 url: https://www.youtube.com/watch?v=MdzYm84LPBo
 youtube_url: https://www.youtube.com/watch?v=MdzYm84LPBo
 tags: ["Valkey", "Redis", "SoftwareArchitecture", "SystemsEngineering", "OpenSource", "TheInfoQPodcast", "Distributed Cache"]
+topics: []
 transcript: true
 ---
 

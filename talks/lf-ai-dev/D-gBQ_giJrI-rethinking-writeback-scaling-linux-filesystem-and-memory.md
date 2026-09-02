@@ -15,6 +15,7 @@ video_id: D-gBQ_giJrI
 url: https://www.youtube.com/watch?v=D-gBQ_giJrI
 youtube_url: https://www.youtube.com/watch?v=D-gBQ_giJrI
 tags: []
+topics: []
 transcript: false
 ---
 

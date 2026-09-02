@@ -15,6 +15,7 @@ video_id: -YPRALPdso8
 url: https://www.youtube.com/watch?v=-YPRALPdso8
 youtube_url: https://www.youtube.com/watch?v=-YPRALPdso8
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 5iqMTP9Ja5k
 url: https://www.youtube.com/watch?v=5iqMTP9Ja5k
 youtube_url: https://www.youtube.com/watch?v=5iqMTP9Ja5k
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Unscripted", "Will McGugan", "Olimpiu Pop", "Python Programming", "Toad", "Rich", "Textual", "Batrachian", "AI Interface", "Agentic AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

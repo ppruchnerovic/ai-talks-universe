@@ -15,6 +15,7 @@ video_id: FxwkjmKJdC0
 url: https://www.youtube.com/watch?v=FxwkjmKJdC0
 youtube_url: https://www.youtube.com/watch?v=FxwkjmKJdC0
 tags: ["8ecd703c-41d3-46bd-a16f-514c6f175947_Segment", "Anastasiya Tarnouskaya", "Andrew Leader", "BRK329", "Deploy Local AI Models in Enterprise with Windows ML | BRK329", "English (US)", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

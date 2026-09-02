@@ -15,6 +15,7 @@ video_id: Vb1bf3bFJFI
 url: https://www.youtube.com/watch?v=Vb1bf3bFJFI
 youtube_url: https://www.youtube.com/watch?v=Vb1bf3bFJFI
 tags: ["OpenAI tutorial", "Responses API", "AI agents", "ChatGPT", "artificial intelligence", "machine learning", "AI programming tutorial", "AI development", "API tutorial", "agent API", "multi step workflows", "state management", "semantic streaming", "Python tutorial", "developer tools", "API integration", "OpenAI API", "GPT API", "function calling", "tool use", "conversational AI", "chatbot development", "AI application development", "real time AI", "streaming responses"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

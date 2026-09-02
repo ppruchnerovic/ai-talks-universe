@@ -15,6 +15,7 @@ video_id: zFBEXnLNKC0
 url: https://www.youtube.com/watch?v=zFBEXnLNKC0
 youtube_url: https://www.youtube.com/watch?v=zFBEXnLNKC0
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

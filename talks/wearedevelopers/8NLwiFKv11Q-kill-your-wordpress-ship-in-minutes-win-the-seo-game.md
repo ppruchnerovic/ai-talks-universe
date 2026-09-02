@@ -15,6 +15,7 @@ video_id: 8NLwiFKv11Q
 url: https://www.youtube.com/watch?v=8NLwiFKv11Q
 youtube_url: https://www.youtube.com/watch?v=8NLwiFKv11Q
 tags: ["Developer Experience", "AI Coding Assistants", "AI Models", "Case Study", "CI/CD", "Developer Experience (DevEx)", "Productivity", "SEO", "WordPress"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

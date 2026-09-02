@@ -15,6 +15,7 @@ video_id: IROQbZJt54s
 url: https://www.youtube.com/watch?v=IROQbZJt54s
 youtube_url: https://www.youtube.com/watch?v=IROQbZJt54s
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

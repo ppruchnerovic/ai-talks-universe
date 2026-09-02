@@ -15,6 +15,7 @@ video_id: J7AdM-QFVNQ
 url: https://www.youtube.com/watch?v=J7AdM-QFVNQ
 youtube_url: https://www.youtube.com/watch?v=J7AdM-QFVNQ
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

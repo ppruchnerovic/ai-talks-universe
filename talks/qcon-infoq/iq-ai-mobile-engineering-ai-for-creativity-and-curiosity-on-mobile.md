@@ -15,6 +15,7 @@ video_id: iq-ai-mobile
 url: https://www.infoq.com/presentations/ai-mobile/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

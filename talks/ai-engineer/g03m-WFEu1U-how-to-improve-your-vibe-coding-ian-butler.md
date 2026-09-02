@@ -15,6 +15,7 @@ video_id: g03m-WFEu1U
 url: https://www.youtube.com/watch?v=g03m-WFEu1U
 youtube_url: https://www.youtube.com/watch?v=g03m-WFEu1U
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

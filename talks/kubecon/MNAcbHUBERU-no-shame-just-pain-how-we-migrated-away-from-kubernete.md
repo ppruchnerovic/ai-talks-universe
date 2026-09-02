@@ -15,6 +15,7 @@ video_id: MNAcbHUBERU
 url: https://www.youtube.com/watch?v=MNAcbHUBERU
 youtube_url: https://www.youtube.com/watch?v=MNAcbHUBERU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

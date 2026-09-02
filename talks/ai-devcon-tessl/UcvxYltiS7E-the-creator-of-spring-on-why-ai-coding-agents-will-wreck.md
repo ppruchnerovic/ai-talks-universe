@@ -15,6 +15,7 @@ video_id: UcvxYltiS7E
 url: https://www.youtube.com/watch?v=UcvxYltiS7E
 youtube_url: https://www.youtube.com/watch?v=UcvxYltiS7E
 tags: ["AI coding agents", "AI coding agents risks", "AI failure patterns", "AInativeDev", "Embabel", "Embabel framework", "Java vs Python", "MCP skepticism", "Simon Maple interview", "Spring Framework creator", "Why Java over Python for AI", "agentic development", "enterprise AI", "vibe coding"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

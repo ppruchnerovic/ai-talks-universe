@@ -15,6 +15,7 @@ video_id: iq-principal-engineer-path
 url: https://www.infoq.com/presentations/principal-engineer-path/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

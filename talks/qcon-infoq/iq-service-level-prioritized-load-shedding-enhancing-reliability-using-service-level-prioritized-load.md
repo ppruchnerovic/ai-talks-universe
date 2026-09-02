@@ -15,6 +15,7 @@ video_id: iq-service-level-prioritized-load-shedding
 url: https://www.infoq.com/presentations/service-level-prioritized-load-shedding/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

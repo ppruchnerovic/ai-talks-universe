@@ -15,6 +15,7 @@ video_id: J61kV92bSt0
 url: https://www.youtube.com/watch?v=J61kV92bSt0
 youtube_url: https://www.youtube.com/watch?v=J61kV92bSt0
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Ouw0VBPbdP4
 url: https://www.youtube.com/watch?v=Ouw0VBPbdP4
 youtube_url: https://www.youtube.com/watch?v=Ouw0VBPbdP4
 tags: ["Close the gap with intelligent discovery agents | STUDIOSP66", "English (US)", "Innovate with Azure AI apps and agents", "Parker Johnston", "STUDIOSP66", "STUDIOSP66_v3", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

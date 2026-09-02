@@ -15,6 +15,7 @@ video_id: RR6AUoM4IJM
 url: https://www.youtube.com/watch?v=RR6AUoM4IJM
 youtube_url: https://www.youtube.com/watch?v=RR6AUoM4IJM
 tags: ["teamwork", "teams", "productivity", "psychological safety", "creativity", "AI", "prototying", "AI Code generation", "Engineering Culture Podcast", "engineeringleadership", "softwarearchitecture", "aifordevelopers"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

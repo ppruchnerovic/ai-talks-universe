@@ -15,6 +15,7 @@ video_id: lEEgkXuA_XU
 url: https://www.youtube.com/watch?v=lEEgkXuA_XU
 youtube_url: https://www.youtube.com/watch?v=lEEgkXuA_XU
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

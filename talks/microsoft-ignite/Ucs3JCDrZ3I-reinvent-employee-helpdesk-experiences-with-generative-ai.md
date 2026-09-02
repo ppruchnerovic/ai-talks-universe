@@ -15,6 +15,7 @@ video_id: Ucs3JCDrZ3I
 url: https://www.youtube.com/watch?v=Ucs3JCDrZ3I
 youtube_url: https://www.youtube.com/watch?v=Ucs3JCDrZ3I
 tags: ["Alan Ross", "BRK162", "Breakout", "Business Applications", "English (US)", "Natasha Fattedad", "Phil Gillingham", "Reinvent employee helpdesk experiences with generative AI | BRK162", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

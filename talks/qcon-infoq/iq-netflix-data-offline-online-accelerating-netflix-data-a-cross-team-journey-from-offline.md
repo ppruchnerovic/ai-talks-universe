@@ -15,6 +15,7 @@ video_id: iq-netflix-data-offline-online
 url: https://www.infoq.com/presentations/netflix-data-offline-online/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

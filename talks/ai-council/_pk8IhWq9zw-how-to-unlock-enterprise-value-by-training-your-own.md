@@ -15,6 +15,7 @@ video_id: _pk8IhWq9zw
 url: https://www.youtube.com/watch?v=_pk8IhWq9zw
 youtube_url: https://www.youtube.com/watch?v=_pk8IhWq9zw
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

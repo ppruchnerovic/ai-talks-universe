@@ -15,6 +15,7 @@ video_id: iq-llm-graph-database
 url: https://www.infoq.com/presentations/llm-graph-database/
 youtube_url: null
 tags: []
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

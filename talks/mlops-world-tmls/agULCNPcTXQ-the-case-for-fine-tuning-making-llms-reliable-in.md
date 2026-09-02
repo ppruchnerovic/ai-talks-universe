@@ -15,6 +15,7 @@ video_id: agULCNPcTXQ
 url: https://www.youtube.com/watch?v=agULCNPcTXQ
 youtube_url: https://www.youtube.com/watch?v=agULCNPcTXQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

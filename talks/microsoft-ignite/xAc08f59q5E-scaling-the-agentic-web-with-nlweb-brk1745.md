@@ -15,6 +15,7 @@ video_id: xAc08f59q5E
 url: https://www.youtube.com/watch?v=xAc08f59q5E
 youtube_url: https://www.youtube.com/watch?v=xAc08f59q5E
 tags: ["BRK1745", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Scaling the Agentic Web with NLWeb | BRK1745", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

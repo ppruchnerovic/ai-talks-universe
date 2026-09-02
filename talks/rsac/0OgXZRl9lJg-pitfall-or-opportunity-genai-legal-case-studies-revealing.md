@@ -15,6 +15,7 @@ video_id: 0OgXZRl9lJg
 url: https://www.youtube.com/watch?v=0OgXZRl9lJg
 youtube_url: https://www.youtube.com/watch?v=0OgXZRl9lJg
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

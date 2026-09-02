@@ -15,6 +15,7 @@ video_id: hX1hUU-WqjI
 url: https://www.youtube.com/watch?v=hX1hUU-WqjI
 youtube_url: https://www.youtube.com/watch?v=hX1hUU-WqjI
 tags: ["Data & Databases", "Data", "Data Lakes"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

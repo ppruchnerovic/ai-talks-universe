@@ -15,6 +15,7 @@ video_id: rcrl8-CudVw
 url: https://www.youtube.com/watch?v=rcrl8-CudVw
 youtube_url: https://www.youtube.com/watch?v=rcrl8-CudVw
 tags: []
+topics: []
 transcript: true
 ---
 

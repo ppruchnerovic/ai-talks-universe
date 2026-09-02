@@ -15,6 +15,7 @@ video_id: RBqQssM_Suo
 url: https://www.youtube.com/watch?v=RBqQssM_Suo
 youtube_url: https://www.youtube.com/watch?v=RBqQssM_Suo
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

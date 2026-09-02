@@ -15,6 +15,7 @@ video_id: Brd-p6N0alI
 url: https://www.youtube.com/watch?v=Brd-p6N0alI
 youtube_url: https://www.youtube.com/watch?v=Brd-p6N0alI
 tags: []
+topics: []
 transcript: false
 ---
 

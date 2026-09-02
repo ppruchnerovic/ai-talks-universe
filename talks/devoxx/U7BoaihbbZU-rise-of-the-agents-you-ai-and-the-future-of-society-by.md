@@ -15,6 +15,7 @@ video_id: U7BoaihbbZU
 url: https://www.youtube.com/watch?v=U7BoaihbbZU
 youtube_url: https://www.youtube.com/watch?v=U7BoaihbbZU
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

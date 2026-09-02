@@ -15,6 +15,7 @@ video_id: RL0VKpVPII8
 url: https://www.youtube.com/watch?v=RL0VKpVPII8
 youtube_url: https://www.youtube.com/watch?v=RL0VKpVPII8
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

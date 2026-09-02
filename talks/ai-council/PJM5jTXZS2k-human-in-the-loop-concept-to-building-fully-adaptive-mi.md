@@ -15,6 +15,7 @@ video_id: PJM5jTXZS2k
 url: https://www.youtube.com/watch?v=PJM5jTXZS2k
 youtube_url: https://www.youtube.com/watch?v=PJM5jTXZS2k
 tags: ["Machine Learning", "AI", "MLOps"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

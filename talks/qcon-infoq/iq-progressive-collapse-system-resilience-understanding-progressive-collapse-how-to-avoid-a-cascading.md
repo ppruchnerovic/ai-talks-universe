@@ -15,6 +15,7 @@ video_id: iq-progressive-collapse-system-resilience
 url: https://www.infoq.com/presentations/progressive-collapse-system-resilience/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

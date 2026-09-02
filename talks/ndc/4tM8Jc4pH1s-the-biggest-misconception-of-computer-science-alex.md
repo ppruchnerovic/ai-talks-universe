@@ -15,6 +15,7 @@ video_id: 4tM8Jc4pH1s
 url: https://www.youtube.com/watch?v=4tM8Jc4pH1s
 youtube_url: https://www.youtube.com/watch?v=4tM8Jc4pH1s
 tags: ["Concurrency", "C++", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Toronto", "Canada", "Alex Dathskovsky"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

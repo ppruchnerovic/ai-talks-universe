@@ -15,6 +15,7 @@ video_id: VYWSAPLXtEs
 url: https://www.youtube.com/watch?v=VYWSAPLXtEs
 youtube_url: https://www.youtube.com/watch?v=VYWSAPLXtEs
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

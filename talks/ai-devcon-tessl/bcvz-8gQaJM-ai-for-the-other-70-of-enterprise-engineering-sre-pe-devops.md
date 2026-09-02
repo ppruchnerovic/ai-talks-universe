@@ -15,6 +15,7 @@ video_id: bcvz-8gQaJM
 url: https://www.youtube.com/watch?v=bcvz-8gQaJM
 youtube_url: https://www.youtube.com/watch?v=bcvz-8gQaJM
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

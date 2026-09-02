@@ -15,6 +15,7 @@ video_id: WzF5XpzkZeg
 url: https://www.youtube.com/watch?v=WzF5XpzkZeg
 youtube_url: https://www.youtube.com/watch?v=WzF5XpzkZeg
 tags: ["AI", ".NET", "Web", "API", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Steven Sanderson", "Steve Sanderson"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: ku7MjmBMvxM
 url: https://www.youtube.com/watch?v=ku7MjmBMvxM
 youtube_url: https://www.youtube.com/watch?v=ku7MjmBMvxM
 tags: ["DevOps", "Automation", "CI/CD", "DevOps", "Scaling"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

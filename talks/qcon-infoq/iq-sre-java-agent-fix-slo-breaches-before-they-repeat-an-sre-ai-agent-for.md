@@ -15,6 +15,7 @@ video_id: iq-sre-java-agent
 url: https://www.infoq.com/presentations/sre-java-agent/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

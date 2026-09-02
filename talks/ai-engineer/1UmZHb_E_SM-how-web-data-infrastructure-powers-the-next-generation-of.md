@@ -15,6 +15,7 @@ video_id: 1UmZHb_E_SM
 url: https://www.youtube.com/watch?v=1UmZHb_E_SM
 youtube_url: https://www.youtube.com/watch?v=1UmZHb_E_SM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

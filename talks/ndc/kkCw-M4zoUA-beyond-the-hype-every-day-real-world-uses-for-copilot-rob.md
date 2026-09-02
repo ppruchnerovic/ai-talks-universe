@@ -15,6 +15,7 @@ video_id: kkCw-M4zoUA
 url: https://www.youtube.com/watch?v=kkCw-M4zoUA
 youtube_url: https://www.youtube.com/watch?v=kkCw-M4zoUA
 tags: []
+topics: []
 transcript: false
 ---
 

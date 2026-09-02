@@ -15,6 +15,7 @@ video_id: iq-patterns-ai-native-development
 url: https://www.infoq.com/presentations/patterns-ai-native-development/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: LIYZemVCgiM
 url: https://www.youtube.com/watch?v=LIYZemVCgiM
 youtube_url: https://www.youtube.com/watch?v=LIYZemVCgiM
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

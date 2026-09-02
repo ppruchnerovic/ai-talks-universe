@@ -15,6 +15,7 @@ video_id: NHNdbMsP2Iw
 url: https://www.youtube.com/watch?v=NHNdbMsP2Iw
 youtube_url: https://www.youtube.com/watch?v=NHNdbMsP2Iw
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

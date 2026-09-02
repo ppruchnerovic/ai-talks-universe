@@ -15,6 +15,7 @@ video_id: VIxBxR7G6Ys
 url: https://www.youtube.com/watch?v=VIxBxR7G6Ys
 youtube_url: https://www.youtube.com/watch?v=VIxBxR7G6Ys
 tags: ["camlis", "camlis2019"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

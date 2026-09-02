@@ -15,6 +15,7 @@ video_id: nKZVd8r89nI
 url: https://www.youtube.com/watch?v=nKZVd8r89nI
 youtube_url: https://www.youtube.com/watch?v=nKZVd8r89nI
 tags: ["AI", "Tools", "Aaron Powell", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia"]
+topics: []
 transcript: true
 ---
 

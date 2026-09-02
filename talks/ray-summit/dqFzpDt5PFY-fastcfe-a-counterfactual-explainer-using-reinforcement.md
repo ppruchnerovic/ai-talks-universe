@@ -15,6 +15,7 @@ video_id: dqFzpDt5PFY
 url: https://www.youtube.com/watch?v=dqFzpDt5PFY
 youtube_url: https://www.youtube.com/watch?v=dqFzpDt5PFY
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

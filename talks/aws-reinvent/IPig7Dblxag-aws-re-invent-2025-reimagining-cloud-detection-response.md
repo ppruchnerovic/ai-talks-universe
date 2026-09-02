@@ -15,6 +15,7 @@ video_id: IPig7Dblxag
 url: https://www.youtube.com/watch?v=IPig7Dblxag
 youtube_url: https://www.youtube.com/watch?v=IPig7Dblxag
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

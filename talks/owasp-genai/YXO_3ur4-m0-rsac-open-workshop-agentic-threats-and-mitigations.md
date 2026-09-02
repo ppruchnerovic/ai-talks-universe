@@ -15,6 +15,7 @@ video_id: YXO_3ur4-m0
 url: https://www.youtube.com/watch?v=YXO_3ur4-m0
 youtube_url: https://www.youtube.com/watch?v=YXO_3ur4-m0
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

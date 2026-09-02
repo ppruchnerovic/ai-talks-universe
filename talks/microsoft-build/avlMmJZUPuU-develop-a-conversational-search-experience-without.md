@@ -15,6 +15,7 @@ video_id: avlMmJZUPuU
 url: https://www.youtube.com/watch?v=avlMmJZUPuU
 youtube_url: https://www.youtube.com/watch?v=avlMmJZUPuU
 tags: ["Azure", "Develop a conversational search experience without rebuilding your app | ODSP922", "Entra", "Foundry Agents", "Foundry IQ", "GitHub", "GitHub Copilot", "Greg Crist", "ODSP922", "ODSP922_v1", "Observability", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

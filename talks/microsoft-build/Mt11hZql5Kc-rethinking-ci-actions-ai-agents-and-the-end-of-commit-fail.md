@@ -15,6 +15,7 @@ video_id: Mt11hZql5Kc
 url: https://www.youtube.com/watch?v=Mt11hZql5Kc
 youtube_url: https://www.youtube.com/watch?v=Mt11hZql5Kc
 tags: ["079bf23f-302e-4b23-bc15-add6bb85deee_M9Z7-DEM301-1", "Agentic SDLC", "Agents", "DEM301", "Denizhan Yigitbas", "DevTools", "Developer", "GitHub", "GitHub Actions", "GitHub Copilot", "GitHub Copilot CLI", "GitHub Enterprise", "MCP", "OSS", "OSS CI/CD Libraries", "Rethinking CI: Actions AI Agents and the End of Commit-Fail-Commit | DEM301", "Salil Subbakrishna", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

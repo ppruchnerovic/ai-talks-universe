@@ -15,6 +15,7 @@ video_id: 6Wgg7DIY29E
 url: https://www.youtube.com/watch?v=6Wgg7DIY29E
 youtube_url: https://www.youtube.com/watch?v=6Wgg7DIY29E
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

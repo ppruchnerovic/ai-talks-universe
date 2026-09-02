@@ -15,6 +15,7 @@ video_id: mYSRn6PC1mc
 url: https://www.youtube.com/watch?v=mYSRn6PC1mc
 youtube_url: https://www.youtube.com/watch?v=mYSRn6PC1mc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

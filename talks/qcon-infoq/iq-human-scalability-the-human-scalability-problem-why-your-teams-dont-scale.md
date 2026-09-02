@@ -15,6 +15,7 @@ video_id: iq-human-scalability
 url: https://www.infoq.com/presentations/human-scalability/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

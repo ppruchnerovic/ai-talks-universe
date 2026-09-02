@@ -15,6 +15,7 @@ video_id: VLNH5rDsdN8
 url: https://www.youtube.com/watch?v=VLNH5rDsdN8
 youtube_url: https://www.youtube.com/watch?v=VLNH5rDsdN8
 tags: ["Languages & Runtimes", "C#", "Distributed Systems", "Performance", "Scaling", "Software Architecture", "SQL", "Streaming", "System Design", "Threat Modelling"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

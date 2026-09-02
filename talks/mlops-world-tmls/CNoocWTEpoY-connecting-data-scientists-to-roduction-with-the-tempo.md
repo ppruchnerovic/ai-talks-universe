@@ -15,6 +15,7 @@ video_id: CNoocWTEpoY
 url: https://www.youtube.com/watch?v=CNoocWTEpoY
 youtube_url: https://www.youtube.com/watch?v=CNoocWTEpoY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Connecting Data Scientists to roduction with the Tempo Python SDK", "Tempo Python SDK", "Connecting Data Scientists", "python"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: QCpyyAcwsKk
 url: https://www.youtube.com/watch?v=QCpyyAcwsKk
 youtube_url: https://www.youtube.com/watch?v=QCpyyAcwsKk
 tags: ["Software Architecture", "Artificial Intelligence", "InfoQ", "InfoQ Dev Summit", "Transcript"]
+topics: []
 transcript: false
 ---
 

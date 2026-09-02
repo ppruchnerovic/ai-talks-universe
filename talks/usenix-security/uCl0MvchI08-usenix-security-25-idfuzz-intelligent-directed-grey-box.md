@@ -15,6 +15,7 @@ video_id: uCl0MvchI08
 url: https://www.youtube.com/watch?v=uCl0MvchI08
 youtube_url: https://www.youtube.com/watch?v=uCl0MvchI08
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

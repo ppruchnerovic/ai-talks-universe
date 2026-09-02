@@ -15,6 +15,7 @@ video_id: FEVFMXvwPuM
 url: https://www.youtube.com/watch?v=FEVFMXvwPuM
 youtube_url: https://www.youtube.com/watch?v=FEVFMXvwPuM
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

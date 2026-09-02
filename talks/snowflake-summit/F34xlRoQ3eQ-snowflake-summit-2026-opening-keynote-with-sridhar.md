@@ -15,6 +15,7 @@ video_id: F34xlRoQ3eQ
 url: https://www.youtube.com/watch?v=F34xlRoQ3eQ
 youtube_url: https://www.youtube.com/watch?v=F34xlRoQ3eQ
 tags: ["Snowflake", "Snowflake data warehouse", "Snowflake computing", "Snowflake company", "Snowflake database", "Snowflake cloud", "Data warehouse", "Business software", "Data warehousing", "Cloud storage", "cloud computing", "Data Science", "Data Engineering", "The Data Cloud", "big data", "artificial intelligence", "data scientist", "predictive analytics", "business intelligence", "data economy", "Data driven economy", "Data cloud", "data lake", "Data Warehouse"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: true
 ---
 

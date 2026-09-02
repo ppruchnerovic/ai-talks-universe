@@ -15,6 +15,7 @@ video_id: qdh_x-uRs9g
 url: https://www.youtube.com/watch?v=qdh_x-uRs9g
 youtube_url: https://www.youtube.com/watch?v=qdh_x-uRs9g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

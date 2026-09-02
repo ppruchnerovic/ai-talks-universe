@@ -15,6 +15,7 @@ video_id: aXYQGsk5BxY
 url: https://www.youtube.com/watch?v=aXYQGsk5BxY
 youtube_url: https://www.youtube.com/watch?v=aXYQGsk5BxY
 tags: ["English (US)", "Jason Kikta", "Modernize SecOps with a unified platform", "ODSP1478", "ODSP1478_v1", "Prepare for the Autonomous Era in ITOps | ODSP1478", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 84Vtz2IL1Ug
 url: https://www.youtube.com/watch?v=84Vtz2IL1Ug
 youtube_url: https://www.youtube.com/watch?v=84Vtz2IL1Ug
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

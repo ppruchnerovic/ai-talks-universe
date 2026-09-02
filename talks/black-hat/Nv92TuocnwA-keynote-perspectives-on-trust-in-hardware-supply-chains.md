@@ -15,6 +15,7 @@ video_id: Nv92TuocnwA
 url: https://www.youtube.com/watch?v=Nv92TuocnwA
 youtube_url: https://www.youtube.com/watch?v=Nv92TuocnwA
 tags: []
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

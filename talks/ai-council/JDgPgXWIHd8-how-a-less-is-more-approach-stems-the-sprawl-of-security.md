@@ -15,6 +15,7 @@ video_id: JDgPgXWIHd8
 url: https://www.youtube.com/watch?v=JDgPgXWIHd8
 youtube_url: https://www.youtube.com/watch?v=JDgPgXWIHd8
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-otel-slm-ai
 url: https://www.infoq.com/presentations/otel-slm-ai/
 youtube_url: null
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

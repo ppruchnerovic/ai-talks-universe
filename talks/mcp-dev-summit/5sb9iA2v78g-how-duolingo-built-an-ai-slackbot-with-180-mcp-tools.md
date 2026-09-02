@@ -15,6 +15,7 @@ video_id: 5sb9iA2v78g
 url: https://www.youtube.com/watch?v=5sb9iA2v78g
 youtube_url: https://www.youtube.com/watch?v=5sb9iA2v78g
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

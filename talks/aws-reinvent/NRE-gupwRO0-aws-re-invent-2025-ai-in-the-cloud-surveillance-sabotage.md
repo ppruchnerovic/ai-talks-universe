@@ -15,6 +15,7 @@ video_id: NRE-gupwRO0
 url: https://www.youtube.com/watch?v=NRE-gupwRO0
 youtube_url: https://www.youtube.com/watch?v=NRE-gupwRO0
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

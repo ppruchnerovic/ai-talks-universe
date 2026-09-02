@@ -15,6 +15,7 @@ video_id: AoisAy_LGpI
 url: https://www.youtube.com/watch?v=AoisAy_LGpI
 youtube_url: https://www.youtube.com/watch?v=AoisAy_LGpI
 tags: []
+topics: []
 transcript: true
 ---
 

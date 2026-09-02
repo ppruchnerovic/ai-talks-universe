@@ -15,6 +15,7 @@ video_id: WIm2VAVmnfs
 url: https://www.youtube.com/watch?v=WIm2VAVmnfs
 youtube_url: https://www.youtube.com/watch?v=WIm2VAVmnfs
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

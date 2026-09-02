@@ -15,6 +15,7 @@ video_id: eXwqw2RSen8
 url: https://www.youtube.com/watch?v=eXwqw2RSen8
 youtube_url: https://www.youtube.com/watch?v=eXwqw2RSen8
 tags: ["03f5e863-141c-4040-9521-28c0a4efa710_Segment", "April Yoho", "BRK108", "Collin McNeese", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:GitHub", "Secure compliant and fast with GitHub | BRK108", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

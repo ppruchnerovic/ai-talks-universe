@@ -15,6 +15,7 @@ video_id: grdoOC1BT1s
 url: https://www.youtube.com/watch?v=grdoOC1BT1s
 youtube_url: https://www.youtube.com/watch?v=grdoOC1BT1s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

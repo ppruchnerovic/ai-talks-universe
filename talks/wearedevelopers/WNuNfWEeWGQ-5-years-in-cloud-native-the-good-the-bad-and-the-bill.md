@@ -15,6 +15,7 @@ video_id: WNuNfWEeWGQ
 url: https://www.youtube.com/watch?v=WNuNfWEeWGQ
 youtube_url: https://www.youtube.com/watch?v=WNuNfWEeWGQ
 tags: ["Cloud & AI Infrastructure", "Cloud Security", "DevOps", "Google Cloud (GCP)", "Infrastructure", "Microservices", "MongoDB", "Performance", "Security"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

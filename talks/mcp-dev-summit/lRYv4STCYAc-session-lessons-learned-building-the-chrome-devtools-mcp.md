@@ -15,6 +15,7 @@ video_id: lRYv4STCYAc
 url: https://www.youtube.com/watch?v=lRYv4STCYAc
 youtube_url: https://www.youtube.com/watch?v=lRYv4STCYAc
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

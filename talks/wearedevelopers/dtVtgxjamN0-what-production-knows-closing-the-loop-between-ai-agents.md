@@ -15,6 +15,7 @@ video_id: dtVtgxjamN0
 url: https://www.youtube.com/watch?v=dtVtgxjamN0
 youtube_url: https://www.youtube.com/watch?v=dtVtgxjamN0
 tags: ["AI Agents", "Agents", "Agentic AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

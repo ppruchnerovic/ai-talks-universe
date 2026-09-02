@@ -15,6 +15,7 @@ video_id: 6bAqIO7wGxk
 url: https://www.youtube.com/watch?v=6bAqIO7wGxk
 youtube_url: https://www.youtube.com/watch?v=6bAqIO7wGxk
 tags: ["Security & Privacy", "AI Models", "Deep Learning", "Privacy", "Security"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: C1NivhYS1sI
 url: https://www.youtube.com/watch?v=C1NivhYS1sI
 youtube_url: https://www.youtube.com/watch?v=C1NivhYS1sI
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: HyKX9Yi8gQY
 url: https://www.youtube.com/watch?v=HyKX9Yi8gQY
 youtube_url: https://www.youtube.com/watch?v=HyKX9Yi8gQY
 tags: ["Frontend, Web & Mobile", "CSS", "Design Systems", "HTML", "Storybook", "UI/UX"]
+topics: []
 transcript: true
 ---
 

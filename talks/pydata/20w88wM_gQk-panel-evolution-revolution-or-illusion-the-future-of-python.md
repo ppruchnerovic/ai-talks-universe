@@ -15,6 +15,7 @@ video_id: 20w88wM_gQk
 url: https://www.youtube.com/watch?v=20w88wM_gQk
 youtube_url: https://www.youtube.com/watch?v=20w88wM_gQk
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

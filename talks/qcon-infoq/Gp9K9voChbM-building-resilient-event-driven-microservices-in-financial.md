@@ -15,6 +15,7 @@ video_id: Gp9K9voChbM
 url: https://www.youtube.com/watch?v=Gp9K9voChbM
 youtube_url: https://www.youtube.com/watch?v=Gp9K9voChbM
 tags: ["Software Architecture", "Kafka", "Microservices", "JPMorgan", "LegacyMigration", "The InfoQ Podcast", "Observability", "Event Driven Architecture"]
+topics: ["AI in the SDLC & engineering orgs", "Data engineering & MLOps", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

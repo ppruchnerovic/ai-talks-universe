@@ -15,6 +15,7 @@ video_id: ewtOo0scUh0
 url: https://www.youtube.com/watch?v=ewtOo0scUh0
 youtube_url: https://www.youtube.com/watch?v=ewtOo0scUh0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

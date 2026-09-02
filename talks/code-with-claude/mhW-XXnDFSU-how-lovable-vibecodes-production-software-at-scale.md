@@ -15,6 +15,7 @@ video_id: mhW-XXnDFSU
 url: https://www.youtube.com/watch?v=mhW-XXnDFSU
 youtube_url: https://www.youtube.com/watch?v=mhW-XXnDFSU
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

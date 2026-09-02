@@ -15,6 +15,7 @@ video_id: 7vMeQMaOCyw
 url: https://www.youtube.com/watch?v=7vMeQMaOCyw
 youtube_url: https://www.youtube.com/watch?v=7vMeQMaOCyw
 tags: ["Llama Stack", "Meta AI", "LLM applications", "ChatGPT", "artificial intelligence", "machine learning", "AI programming tutorial", "Python tutorial", "production AI", "natural language processing", "AI development", "generative AI", "software development lifecycle", "AI deployment", "open source AI", "model fine tuning", "inference optimization", "AI frameworks", "model serving", "API development", "cloud deployment", "edge deployment", "model quantization", "distributed inference"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

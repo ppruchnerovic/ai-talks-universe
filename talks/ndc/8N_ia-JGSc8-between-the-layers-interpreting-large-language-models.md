@@ -15,6 +15,7 @@ video_id: 8N_ia-JGSc8
 url: https://www.youtube.com/watch?v=8N_ia-JGSc8
 youtube_url: https://www.youtube.com/watch?v=8N_ia-JGSc8
 tags: ["Machine Learning", "AI", "Ethics", "GenAI", "ML", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "United Kingdom", "UK", "Great Britain", "Michelle Frost"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

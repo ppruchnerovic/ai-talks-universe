@@ -15,6 +15,7 @@ video_id: lp0pswT_FEI
 url: https://www.youtube.com/watch?v=lp0pswT_FEI
 youtube_url: https://www.youtube.com/watch?v=lp0pswT_FEI
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

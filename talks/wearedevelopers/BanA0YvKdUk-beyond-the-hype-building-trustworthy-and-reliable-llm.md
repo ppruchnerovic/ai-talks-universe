@@ -15,6 +15,7 @@ video_id: BanA0YvKdUk
 url: https://www.youtube.com/watch?v=BanA0YvKdUk
 youtube_url: https://www.youtube.com/watch?v=BanA0YvKdUk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

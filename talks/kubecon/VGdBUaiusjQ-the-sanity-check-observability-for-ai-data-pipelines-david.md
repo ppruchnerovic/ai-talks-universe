@@ -15,6 +15,7 @@ video_id: VGdBUaiusjQ
 url: https://www.youtube.com/watch?v=VGdBUaiusjQ
 youtube_url: https://www.youtube.com/watch?v=VGdBUaiusjQ
 tags: []
+topics: ["Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

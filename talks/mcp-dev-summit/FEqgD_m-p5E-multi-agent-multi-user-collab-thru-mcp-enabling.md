@@ -15,6 +15,7 @@ video_id: FEqgD_m-p5E
 url: https://www.youtube.com/watch?v=FEqgD_m-p5E
 youtube_url: https://www.youtube.com/watch?v=FEqgD_m-p5E
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

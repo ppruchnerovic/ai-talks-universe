@@ -15,6 +15,7 @@ video_id: mvkAnYYeB0M
 url: https://www.youtube.com/watch?v=mvkAnYYeB0M
 youtube_url: https://www.youtube.com/watch?v=mvkAnYYeB0M
 tags: ["Burke Holland", "Extend GitHub Copilot with the Copilot SDK | LIVE151", "LIVE151", "LIVE151_v1", "Patrick Nikoletich", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

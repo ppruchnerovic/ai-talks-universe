@@ -15,6 +15,7 @@ video_id: W1MiZChnkfA
 url: https://www.youtube.com/watch?v=W1MiZChnkfA
 youtube_url: https://www.youtube.com/watch?v=W1MiZChnkfA
 tags: []
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

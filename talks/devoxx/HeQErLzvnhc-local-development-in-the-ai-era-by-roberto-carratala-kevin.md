@@ -15,6 +15,7 @@ video_id: HeQErLzvnhc
 url: https://www.youtube.com/watch?v=HeQErLzvnhc
 youtube_url: https://www.youtube.com/watch?v=HeQErLzvnhc
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: GIP8FxCHUUM
 url: https://www.youtube.com/watch?v=GIP8FxCHUUM
 youtube_url: https://www.youtube.com/watch?v=GIP8FxCHUUM
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: BrzB-1Nqg0w
 url: https://www.youtube.com/watch?v=BrzB-1Nqg0w
 youtube_url: https://www.youtube.com/watch?v=BrzB-1Nqg0w
 tags: ["owasp", "genai security project", "ai security", "agent ai", "ai agents", "NYC", "Apr 1", "insecure agent hackathon", "hackathon"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-systems-privacy-security
 url: https://www.infoq.com/presentations/ai-systems-privacy-security/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

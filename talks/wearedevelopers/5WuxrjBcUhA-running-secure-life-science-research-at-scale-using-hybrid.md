@@ -15,6 +15,7 @@ video_id: 5WuxrjBcUhA
 url: https://www.youtube.com/watch?v=5WuxrjBcUhA
 youtube_url: https://www.youtube.com/watch?v=5WuxrjBcUhA
 tags: ["Cloud & AI Infrastructure", "AI Models", "ArgoCD", "Best Practices", "Docker", "GitOps", "Helm", "InfluxDB", "Infrastructure", "Infrastructure as Code (IaC)", "Multi-Cloud"]
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

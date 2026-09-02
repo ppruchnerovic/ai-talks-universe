@@ -15,6 +15,7 @@ video_id: EZzXG7Z-POE
 url: https://www.youtube.com/watch?v=EZzXG7Z-POE
 youtube_url: https://www.youtube.com/watch?v=EZzXG7Z-POE
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

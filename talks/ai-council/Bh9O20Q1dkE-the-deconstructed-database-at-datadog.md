@@ -15,6 +15,7 @@ video_id: Bh9O20Q1dkE
 url: https://www.youtube.com/watch?v=Bh9O20Q1dkE
 youtube_url: https://www.youtube.com/watch?v=Bh9O20Q1dkE
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

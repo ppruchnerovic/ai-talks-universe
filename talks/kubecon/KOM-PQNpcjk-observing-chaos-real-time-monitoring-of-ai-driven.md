@@ -15,6 +15,7 @@ video_id: KOM-PQNpcjk
 url: https://www.youtube.com/watch?v=KOM-PQNpcjk
 youtube_url: https://www.youtube.com/watch?v=KOM-PQNpcjk
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

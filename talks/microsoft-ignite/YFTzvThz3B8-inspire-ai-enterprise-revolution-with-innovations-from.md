@@ -15,6 +15,7 @@ video_id: YFTzvThz3B8
 url: https://www.youtube.com/watch?v=YFTzvThz3B8
 youtube_url: https://www.youtube.com/watch?v=YFTzvThz3B8
 tags: ["Andrew Gostine", "BRKFP381", "Breakout", "English (US)", "Foundational (100)", "Inspire AI enterprise revolution with innovations from NVIDIA startups | BRKFP381", "Jennifer Hoskins", "Lauren Nemeth", "Technical", "Version v0", "Vibhor Gupta", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

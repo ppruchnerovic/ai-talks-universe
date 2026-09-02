@@ -15,6 +15,7 @@ video_id: CzM3cW6FdBs
 url: https://www.youtube.com/watch?v=CzM3cW6FdBs
 youtube_url: https://www.youtube.com/watch?v=CzM3cW6FdBs
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

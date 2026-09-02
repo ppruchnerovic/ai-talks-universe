@@ -15,6 +15,7 @@ video_id: 4okkSoARikg
 url: https://www.youtube.com/watch?v=4okkSoARikg
 youtube_url: https://www.youtube.com/watch?v=4okkSoARikg
 tags: ["AI Agents", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "AI Standards", "Cross-Platform", "Developer Experience (DevEx)", "FinTech"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: mV1S4bsZW0k
 url: https://www.youtube.com/watch?v=mV1S4bsZW0k
 youtube_url: https://www.youtube.com/watch?v=mV1S4bsZW0k
 tags: ["Engineering Leadership", "AI Models", "AI Standards", "Developer Experience (DevEx)"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

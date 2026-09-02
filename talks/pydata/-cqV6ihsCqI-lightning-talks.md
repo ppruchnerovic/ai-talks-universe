@@ -15,6 +15,7 @@ video_id: -cqV6ihsCqI
 url: https://www.youtube.com/watch?v=-cqV6ihsCqI
 youtube_url: https://www.youtube.com/watch?v=-cqV6ihsCqI
 tags: ["Career Development", "Code Security", "Community Building", "Conference", "Cron Expressions", "Developer Tools", "Documentation", "Handwriting Recognition", "Lightning Talks", "Machine Learning", "NeoVim", "Open Source", "Pandas", "PyConDE", "PyData", "PyTorch", "Python", "Tech Talk"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

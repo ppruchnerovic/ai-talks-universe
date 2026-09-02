@@ -15,6 +15,7 @@ video_id: OfO-fH79NZY
 url: https://www.youtube.com/watch?v=OfO-fH79NZY
 youtube_url: https://www.youtube.com/watch?v=OfO-fH79NZY
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

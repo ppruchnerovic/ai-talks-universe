@@ -15,6 +15,7 @@ video_id: 1tcir8BPP3M
 url: https://www.youtube.com/watch?v=1tcir8BPP3M
 youtube_url: https://www.youtube.com/watch?v=1tcir8BPP3M
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Pedram Hayati"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

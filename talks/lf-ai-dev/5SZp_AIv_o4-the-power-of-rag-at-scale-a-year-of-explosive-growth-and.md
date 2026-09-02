@@ -15,6 +15,7 @@ video_id: 5SZp_AIv_o4
 url: https://www.youtube.com/watch?v=5SZp_AIv_o4
 youtube_url: https://www.youtube.com/watch?v=5SZp_AIv_o4
 tags: []
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

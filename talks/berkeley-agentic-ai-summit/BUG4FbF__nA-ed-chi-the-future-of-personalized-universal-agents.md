@@ -15,6 +15,7 @@ video_id: BUG4FbF__nA
 url: https://www.youtube.com/watch?v=BUG4FbF__nA
 youtube_url: https://www.youtube.com/watch?v=BUG4FbF__nA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-infrastructure-scaling-architecture
 url: https://www.infoq.com/presentations/ai-infrastructure-scaling-architecture/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

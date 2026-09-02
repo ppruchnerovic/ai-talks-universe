@@ -15,6 +15,7 @@ video_id: sgrsopf-fzo
 url: https://www.youtube.com/watch?v=sgrsopf-fzo
 youtube_url: https://www.youtube.com/watch?v=sgrsopf-fzo
 tags: []
+topics: []
 transcript: false
 ---
 

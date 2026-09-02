@@ -15,6 +15,7 @@ video_id: pTmqsWqHlYQ
 url: https://www.youtube.com/watch?v=pTmqsWqHlYQ
 youtube_url: https://www.youtube.com/watch?v=pTmqsWqHlYQ
 tags: ["Career & Growth", "Career Development"]
+topics: []
 transcript: true
 ---
 

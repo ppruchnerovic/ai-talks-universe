@@ -15,6 +15,7 @@ video_id: iL2McWODDnc
 url: https://www.youtube.com/watch?v=iL2McWODDnc
 youtube_url: https://www.youtube.com/watch?v=iL2McWODDnc
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

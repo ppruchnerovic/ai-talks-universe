@@ -15,6 +15,7 @@ video_id: 4ND6lCzofrM
 url: https://www.youtube.com/watch?v=4ND6lCzofrM
 youtube_url: https://www.youtube.com/watch?v=4ND6lCzofrM
 tags: ["Generally AI", "AI", "InfoQ Podcast"]
+topics: []
 transcript: false
 ---
 

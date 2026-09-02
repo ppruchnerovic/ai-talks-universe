@@ -15,6 +15,7 @@ video_id: 8uTU388vyVU
 url: https://www.youtube.com/watch?v=8uTU388vyVU
 youtube_url: https://www.youtube.com/watch?v=8uTU388vyVU
 tags: ["Cloud & AI Infrastructure", "Containers"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

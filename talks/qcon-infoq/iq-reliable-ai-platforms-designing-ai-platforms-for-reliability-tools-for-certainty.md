@@ -15,6 +15,7 @@ video_id: iq-reliable-ai-platforms
 url: https://www.infoq.com/presentations/reliable-ai-platforms/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: xdNIsi19GMs
 url: https://www.youtube.com/watch?v=xdNIsi19GMs
 youtube_url: https://www.youtube.com/watch?v=xdNIsi19GMs
 tags: []
+topics: []
 transcript: false
 ---
 

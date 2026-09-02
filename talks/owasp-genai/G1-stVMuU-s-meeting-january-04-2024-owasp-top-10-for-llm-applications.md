@@ -15,6 +15,7 @@ video_id: G1-stVMuU-s
 url: https://www.youtube.com/watch?v=G1-stVMuU-s
 youtube_url: https://www.youtube.com/watch?v=G1-stVMuU-s
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

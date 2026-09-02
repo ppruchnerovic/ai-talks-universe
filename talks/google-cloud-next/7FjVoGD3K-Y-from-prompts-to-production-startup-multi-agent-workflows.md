@@ -15,6 +15,7 @@ video_id: 7FjVoGD3K-Y
 url: https://www.youtube.com/watch?v=7FjVoGD3K-Y
 youtube_url: https://www.youtube.com/watch?v=7FjVoGD3K-Y
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

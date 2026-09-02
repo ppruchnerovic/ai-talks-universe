@@ -15,6 +15,7 @@ video_id: YN04nNsg_L4
 url: https://www.youtube.com/watch?v=YN04nNsg_L4
 youtube_url: https://www.youtube.com/watch?v=YN04nNsg_L4
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: P-GbREWc-qI
 url: https://www.youtube.com/watch?v=P-GbREWc-qI
 youtube_url: https://www.youtube.com/watch?v=P-GbREWc-qI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

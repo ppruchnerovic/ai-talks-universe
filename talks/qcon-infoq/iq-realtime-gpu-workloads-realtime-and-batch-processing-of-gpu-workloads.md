@@ -15,6 +15,7 @@ video_id: iq-realtime-gpu-workloads
 url: https://www.infoq.com/presentations/realtime-gpu-workloads/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

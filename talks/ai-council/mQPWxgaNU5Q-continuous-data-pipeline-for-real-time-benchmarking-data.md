@@ -15,6 +15,7 @@ video_id: mQPWxgaNU5Q
 url: https://www.youtube.com/watch?v=mQPWxgaNU5Q
 youtube_url: https://www.youtube.com/watch?v=mQPWxgaNU5Q
 tags: ["benchmarking", "analytics", "data set"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

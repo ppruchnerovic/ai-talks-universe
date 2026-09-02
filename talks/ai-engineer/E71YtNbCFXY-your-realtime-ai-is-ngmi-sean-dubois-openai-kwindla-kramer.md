@@ -15,6 +15,7 @@ video_id: E71YtNbCFXY
 url: https://www.youtube.com/watch?v=E71YtNbCFXY
 youtube_url: https://www.youtube.com/watch?v=E71YtNbCFXY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: PTOhmXjFpXM
 url: https://www.youtube.com/watch?v=PTOhmXjFpXM
 youtube_url: https://www.youtube.com/watch?v=PTOhmXjFpXM
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

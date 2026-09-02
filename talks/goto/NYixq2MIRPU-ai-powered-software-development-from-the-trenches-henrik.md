@@ -15,6 +15,7 @@ video_id: NYixq2MIRPU
 url: https://www.youtube.com/watch?v=NYixq2MIRPU
 youtube_url: https://www.youtube.com/watch?v=NYixq2MIRPU
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

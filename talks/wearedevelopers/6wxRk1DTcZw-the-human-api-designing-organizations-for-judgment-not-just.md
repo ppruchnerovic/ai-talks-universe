@@ -15,6 +15,7 @@ video_id: 6wxRk1DTcZw
 url: https://www.youtube.com/watch?v=6wxRk1DTcZw
 youtube_url: https://www.youtube.com/watch?v=6wxRk1DTcZw
 tags: ["People & Culture", "Generative AI (GenAI)", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

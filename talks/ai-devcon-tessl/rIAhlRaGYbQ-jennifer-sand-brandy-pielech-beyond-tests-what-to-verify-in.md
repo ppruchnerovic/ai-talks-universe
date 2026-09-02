@@ -15,6 +15,7 @@ video_id: rIAhlRaGYbQ
 url: https://www.youtube.com/watch?v=rIAhlRaGYbQ
 youtube_url: https://www.youtube.com/watch?v=rIAhlRaGYbQ
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

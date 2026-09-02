@@ -15,6 +15,7 @@ video_id: kUDXvURx-yk
 url: https://www.youtube.com/watch?v=kUDXvURx-yk
 youtube_url: https://www.youtube.com/watch?v=kUDXvURx-yk
 tags: ["AI", "Agents", "Apply orchestration patterns for production AI agents | ODSP906", "Azure DevOps", "Cliff Simpkins", "Developer", "Enterprise", "GitHub", "GitHub Copilot", "MS Teams", "ODSP906", "ODSP906_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

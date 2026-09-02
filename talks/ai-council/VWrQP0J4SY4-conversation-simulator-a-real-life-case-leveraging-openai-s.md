@@ -15,6 +15,7 @@ video_id: VWrQP0J4SY4
 url: https://www.youtube.com/watch?v=VWrQP0J4SY4
 youtube_url: https://www.youtube.com/watch?v=VWrQP0J4SY4
 tags: ["openAI", "API", "Generative AI", "LLM", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

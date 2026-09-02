@@ -15,6 +15,7 @@ video_id: uGhHeYZ4zGg
 url: https://www.youtube.com/watch?v=uGhHeYZ4zGg
 youtube_url: https://www.youtube.com/watch?v=uGhHeYZ4zGg
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

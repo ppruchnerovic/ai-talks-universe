@@ -15,6 +15,7 @@ video_id: KpRmVMTS3b0
 url: https://www.youtube.com/watch?v=KpRmVMTS3b0
 youtube_url: https://www.youtube.com/watch?v=KpRmVMTS3b0
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

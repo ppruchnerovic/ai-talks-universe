@@ -15,6 +15,7 @@ video_id: DFCgpnKUmm4
 url: https://www.youtube.com/watch?v=DFCgpnKUmm4
 youtube_url: https://www.youtube.com/watch?v=DFCgpnKUmm4
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

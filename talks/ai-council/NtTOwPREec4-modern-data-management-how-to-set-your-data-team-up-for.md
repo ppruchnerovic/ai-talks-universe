@@ -15,6 +15,7 @@ video_id: NtTOwPREec4
 url: https://www.youtube.com/watch?v=NtTOwPREec4
 youtube_url: https://www.youtube.com/watch?v=NtTOwPREec4
 tags: ["data discovery", "change management", "data management", "data teams"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

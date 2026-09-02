@@ -15,6 +15,7 @@ video_id: ZpRsjGkwWbA
 url: https://www.youtube.com/watch?v=ZpRsjGkwWbA
 youtube_url: https://www.youtube.com/watch?v=ZpRsjGkwWbA
 tags: ["72c792a0-dea6-43bb-ab10-ae8ee4de54b2_Segment", "Amit Shah", "BRK100", "Best practices to modernize your apps and databases at scale | BRK100", "English (US)", "John Yokim", "Marc Gunter", "Migrate and modernize your estate", "Mike Hulme", "Modernize SecOps with a unified platform", "Modernize SecOps with a unified platform:GitHub", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

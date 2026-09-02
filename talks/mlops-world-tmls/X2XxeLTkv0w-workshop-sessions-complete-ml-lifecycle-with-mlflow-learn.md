@@ -15,6 +15,7 @@ video_id: X2XxeLTkv0w
 url: https://www.youtube.com/watch?v=X2XxeLTkv0w
 youtube_url: https://www.youtube.com/watch?v=X2XxeLTkv0w
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "Workshop Sessions: Complete ML Lifecycle with MLflow - Learn it's Four Components", "Complete ML Lifecycle with MLflow - Learn it's Four Components", "Complete ML Lifecycle with MLflow", "ml lifecycle", "mlflow"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

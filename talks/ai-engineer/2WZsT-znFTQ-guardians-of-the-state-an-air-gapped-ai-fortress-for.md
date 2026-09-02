@@ -15,6 +15,7 @@ video_id: 2WZsT-znFTQ
 url: https://www.youtube.com/watch?v=2WZsT-znFTQ
 youtube_url: https://www.youtube.com/watch?v=2WZsT-znFTQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

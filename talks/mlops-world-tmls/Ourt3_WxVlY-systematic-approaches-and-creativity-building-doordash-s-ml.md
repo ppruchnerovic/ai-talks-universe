@@ -15,6 +15,7 @@ video_id: Ourt3_WxVlY
 url: https://www.youtube.com/watch?v=Ourt3_WxVlY
 youtube_url: https://www.youtube.com/watch?v=Ourt3_WxVlY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Systematic Approaches and Creativity; Building DoorDash's ML Platform During the Pandemic", "Systematic Approaches and Creativity", "Building DoorDash's ML Platform", "DoorDash's ML Platform"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Ocu4JRFrraQ
 url: https://www.youtube.com/watch?v=Ocu4JRFrraQ
 youtube_url: https://www.youtube.com/watch?v=Ocu4JRFrraQ
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Ksc_MaiNqeU
 url: https://www.youtube.com/watch?v=Ksc_MaiNqeU
 youtube_url: https://www.youtube.com/watch?v=Ksc_MaiNqeU
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

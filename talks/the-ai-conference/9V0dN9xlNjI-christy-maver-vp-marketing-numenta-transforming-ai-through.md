@@ -15,6 +15,7 @@ video_id: 9V0dN9xlNjI
 url: https://www.youtube.com/watch?v=9V0dN9xlNjI
 youtube_url: https://www.youtube.com/watch?v=9V0dN9xlNjI
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

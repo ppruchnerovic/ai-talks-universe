@@ -15,6 +15,7 @@ video_id: ICA8-d_Nt9Q
 url: https://www.youtube.com/watch?v=ICA8-d_Nt9Q
 youtube_url: https://www.youtube.com/watch?v=ICA8-d_Nt9Q
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

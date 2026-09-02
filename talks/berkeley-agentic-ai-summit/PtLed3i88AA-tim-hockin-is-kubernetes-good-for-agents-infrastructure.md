@@ -15,6 +15,7 @@ video_id: PtLed3i88AA
 url: https://www.youtube.com/watch?v=PtLed3i88AA
 youtube_url: https://www.youtube.com/watch?v=PtLed3i88AA
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

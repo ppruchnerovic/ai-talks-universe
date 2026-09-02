@@ -15,6 +15,7 @@ video_id: iq-arcticdb-db-no-server
 url: https://www.infoq.com/presentations/arcticdb-db-no-server/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

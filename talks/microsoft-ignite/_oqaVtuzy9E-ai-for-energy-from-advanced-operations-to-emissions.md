@@ -15,6 +15,7 @@ video_id: _oqaVtuzy9E
 url: https://www.youtube.com/watch?v=_oqaVtuzy9E
 youtube_url: https://www.youtube.com/watch?v=_oqaVtuzy9E
 tags: ["0fc4e101-3ac9-4764-b3ed-265ec28185bf_Segment", "AI for Energy: From advanced operations to emissions management | BRK365", "BRK365", "Copilot and agents at work", "Energy and Resources", "English (US)", "Hany Soliman", "Signature pass", "Technical", "Todd Inlander", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

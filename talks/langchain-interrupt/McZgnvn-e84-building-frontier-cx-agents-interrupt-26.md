@@ -15,6 +15,7 @@ video_id: McZgnvn-e84
 url: https://www.youtube.com/watch?v=McZgnvn-e84
 youtube_url: https://www.youtube.com/watch?v=McZgnvn-e84
 tags: ["LangChain", "Interrupt", "Interrupt2026", "agentic AI", "AI agents", "LLM", "LangGraph", "multi-agent systems", "customer experience", "Cisco", "enterprise AI", "AI in production", "agentic workflows", "AI-native workflows", "large language models", "AI architecture", "supervisor agent", "planner agent", "subgraph", "RAG", "AI adoption", "machine learning", "AI strategy", "business AI", "B2B AI", "self-correcting agents", "AI orchestration", "agent framework", "Carlos Pereira", "keynote"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: HYCwP8Myldg
 url: https://www.youtube.com/watch?v=HYCwP8Myldg
 youtube_url: https://www.youtube.com/watch?v=HYCwP8Myldg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

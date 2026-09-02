@@ -15,6 +15,7 @@ video_id: BJo9Y6GGnS0
 url: https://www.youtube.com/watch?v=BJo9Y6GGnS0
 youtube_url: https://www.youtube.com/watch?v=BJo9Y6GGnS0
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

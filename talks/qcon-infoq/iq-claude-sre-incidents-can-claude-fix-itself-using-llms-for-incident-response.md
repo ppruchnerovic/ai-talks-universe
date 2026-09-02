@@ -15,6 +15,7 @@ video_id: iq-claude-sre-incidents
 url: https://www.infoq.com/presentations/claude-sre-incidents/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: ovhQMuKLcpI
 url: https://www.youtube.com/watch?v=ovhQMuKLcpI
 youtube_url: https://www.youtube.com/watch?v=ovhQMuKLcpI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

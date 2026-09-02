@@ -15,6 +15,7 @@ video_id: HeMXu7sboSs
 url: https://www.youtube.com/watch?v=HeMXu7sboSs
 youtube_url: https://www.youtube.com/watch?v=HeMXu7sboSs
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

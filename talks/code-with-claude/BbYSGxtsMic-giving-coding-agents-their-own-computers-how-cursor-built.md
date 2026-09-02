@@ -15,6 +15,7 @@ video_id: BbYSGxtsMic
 url: https://www.youtube.com/watch?v=BbYSGxtsMic
 youtube_url: https://www.youtube.com/watch?v=BbYSGxtsMic
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

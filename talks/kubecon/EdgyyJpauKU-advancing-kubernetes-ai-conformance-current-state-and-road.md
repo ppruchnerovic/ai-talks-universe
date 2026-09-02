@@ -15,6 +15,7 @@ video_id: EdgyyJpauKU
 url: https://www.youtube.com/watch?v=EdgyyJpauKU
 youtube_url: https://www.youtube.com/watch?v=EdgyyJpauKU
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

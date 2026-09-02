@@ -15,6 +15,7 @@ video_id: Mvcxa35_PMA
 url: https://www.youtube.com/watch?v=Mvcxa35_PMA
 youtube_url: https://www.youtube.com/watch?v=Mvcxa35_PMA
 tags: ["AI Tools and Data", "AI Agents", "AI Fundamentals", "NDC", "conferences", "2026", "Live", "Fun", "Oslo", "Norway", "LLM", "MCP", "Code", "AI", "OpenAI", "Alan Smith"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

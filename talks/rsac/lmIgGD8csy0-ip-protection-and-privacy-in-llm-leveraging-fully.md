@@ -15,6 +15,7 @@ video_id: lmIgGD8csy0
 url: https://www.youtube.com/watch?v=lmIgGD8csy0
 youtube_url: https://www.youtube.com/watch?v=lmIgGD8csy0
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

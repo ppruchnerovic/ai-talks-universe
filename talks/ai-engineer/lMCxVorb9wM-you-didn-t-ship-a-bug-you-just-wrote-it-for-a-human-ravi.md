@@ -15,6 +15,7 @@ video_id: lMCxVorb9wM
 url: https://www.youtube.com/watch?v=lMCxVorb9wM
 youtube_url: https://www.youtube.com/watch?v=lMCxVorb9wM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

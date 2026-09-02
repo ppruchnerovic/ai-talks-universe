@@ -15,6 +15,7 @@ video_id: B9xgGZnghoA
 url: https://www.youtube.com/watch?v=B9xgGZnghoA
 youtube_url: https://www.youtube.com/watch?v=B9xgGZnghoA
 tags: ["AI", "Accelerate AI Innovation with Microsoft Cloud for Financial Services | BRK258", "BRK258", "Breakout", "English (US)", "Foundational (100)", "Industry", "Industry-Curated", "Jared Lambert", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

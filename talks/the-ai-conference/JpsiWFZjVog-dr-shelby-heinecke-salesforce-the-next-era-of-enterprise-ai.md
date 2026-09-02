@@ -15,6 +15,7 @@ video_id: JpsiWFZjVog
 url: https://www.youtube.com/watch?v=JpsiWFZjVog
 youtube_url: https://www.youtube.com/watch?v=JpsiWFZjVog
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

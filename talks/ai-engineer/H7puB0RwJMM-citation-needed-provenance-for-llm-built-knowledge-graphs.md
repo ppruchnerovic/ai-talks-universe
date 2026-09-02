@@ -15,6 +15,7 @@ video_id: H7puB0RwJMM
 url: https://www.youtube.com/watch?v=H7puB0RwJMM
 youtube_url: https://www.youtube.com/watch?v=H7puB0RwJMM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -11,6 +11,14 @@ Current state is `STATE.md`; the rules and the shape of the system are
 
 ## Cheap, and worth doing next
 
+- **Read twenty random titles per topic.** The topic facet is keyword rules,
+  and the numbers (`sync_catalog.py` prints the distribution) say how many
+  talks each rule catches, not whether it caught the right ones. Nobody has
+  yet sat down with `query.py --topic <name> -n 20` for each of the fifteen
+  and marked what is mis-shelved; that reading is what tunes a phrase list.
+  The likeliest offenders are the broad ones — *Enterprise adoption &
+  strategy*, *Science, healthcare & applied ML*. *The topic facet — built*.
+
 - **26 Supadata transcripts carry double-escaped HTML entities** — `&amp;#39;`
   where the caption has an apostrophe. A search hole (the stemmer sees `amp`
   and `39`) and a display one in the markdown. Fix is local and costs no

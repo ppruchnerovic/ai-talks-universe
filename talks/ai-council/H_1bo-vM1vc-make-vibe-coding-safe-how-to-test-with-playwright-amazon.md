@@ -15,6 +15,7 @@ video_id: H_1bo-vM1vc
 url: https://www.youtube.com/watch?v=H_1bo-vM1vc
 youtube_url: https://www.youtube.com/watch?v=H_1bo-vM1vc
 tags: ["AI"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

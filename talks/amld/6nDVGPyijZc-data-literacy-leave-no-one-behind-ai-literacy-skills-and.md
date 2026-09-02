@@ -15,6 +15,7 @@ video_id: 6nDVGPyijZc
 url: https://www.youtube.com/watch?v=6nDVGPyijZc
 youtube_url: https://www.youtube.com/watch?v=6nDVGPyijZc
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

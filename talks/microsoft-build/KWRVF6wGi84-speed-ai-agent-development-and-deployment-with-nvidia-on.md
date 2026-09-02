@@ -15,6 +15,7 @@ video_id: KWRVF6wGi84
 url: https://www.youtube.com/watch?v=KWRVF6wGi84
 youtube_url: https://www.youtube.com/watch?v=KWRVF6wGi84
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

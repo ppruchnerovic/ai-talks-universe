@@ -15,6 +15,7 @@ video_id: -Echq2zAafo
 url: https://www.youtube.com/watch?v=-Echq2zAafo
 youtube_url: https://www.youtube.com/watch?v=-Echq2zAafo
 tags: [".NET", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Denmark", "Giorgi Dalakishvili"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

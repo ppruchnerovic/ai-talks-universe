@@ -15,6 +15,7 @@ video_id: 428TOmEMVnU
 url: https://www.youtube.com/watch?v=428TOmEMVnU
 youtube_url: https://www.youtube.com/watch?v=428TOmEMVnU
 tags: ["Employer Branding", "Employee advocacy", "HR", "culture", "culture programs", "corporate", "people", "trust", "credibility", "ambassadors", "authenticity"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

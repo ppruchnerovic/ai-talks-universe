@@ -15,6 +15,7 @@ video_id: rX1yGxJijsI
 url: https://www.youtube.com/watch?v=rX1yGxJijsI
 youtube_url: https://www.youtube.com/watch?v=rX1yGxJijsI
 tags: ["nbev", "open source", "software engineering", "software development"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Ntk5MIe3ejg
 url: https://www.youtube.com/watch?v=Ntk5MIe3ejg
 youtube_url: https://www.youtube.com/watch?v=Ntk5MIe3ejg
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: false
 ---
 

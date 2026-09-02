@@ -15,6 +15,7 @@ video_id: fnLBmfsI_Fg
 url: https://www.youtube.com/watch?v=fnLBmfsI_Fg
 youtube_url: https://www.youtube.com/watch?v=fnLBmfsI_Fg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

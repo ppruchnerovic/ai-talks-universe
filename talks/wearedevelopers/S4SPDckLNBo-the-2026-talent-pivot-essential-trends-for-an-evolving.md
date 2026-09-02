@@ -15,6 +15,7 @@ video_id: S4SPDckLNBo
 url: https://www.youtube.com/watch?v=S4SPDckLNBo
 youtube_url: https://www.youtube.com/watch?v=S4SPDckLNBo
 tags: ["Talent Strategy", "HR"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

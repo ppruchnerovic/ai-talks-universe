@@ -15,6 +15,7 @@ video_id: yCIl1-dIVnc
 url: https://www.youtube.com/watch?v=yCIl1-dIVnc
 youtube_url: https://www.youtube.com/watch?v=yCIl1-dIVnc
 tags: ["AI", "Artificial Intelligence", "Generative AI", "LLM", "Software Engineering", "Machine Learning", "AI Architecture", "Claude", "Anthropic"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

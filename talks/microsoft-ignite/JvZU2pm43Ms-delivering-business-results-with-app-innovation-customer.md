@@ -15,6 +15,7 @@ video_id: JvZU2pm43Ms
 url: https://www.youtube.com/watch?v=JvZU2pm43Ms
 youtube_url: https://www.youtube.com/watch?v=JvZU2pm43Ms
 tags: ["Abhay Pradhan", "Apps", "Azure OpenAI", "AzureOpenAI", "BRK144", "Breakout", "Delivering business results with app innovation: Customer insights | BRK144", "English (US)", "GenAI", "GenerativeAI", "Intermediate (200)", "John Lolis", "Melba Swapna", "Mike Hulme", "Sandeep Sahasrabudhe", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

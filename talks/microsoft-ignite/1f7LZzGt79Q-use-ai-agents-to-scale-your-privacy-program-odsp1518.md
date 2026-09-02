@@ -15,6 +15,7 @@ video_id: 1f7LZzGt79Q
 url: https://www.youtube.com/watch?v=1f7LZzGt79Q
 youtube_url: https://www.youtube.com/watch?v=1f7LZzGt79Q
 tags: ["English (US)", "Kevin Jones", "ODSP1518", "ODSP1518_v2", "Ojas Rege", "Secure your data", "Technical", "Telecommunications", "Use AI agents to scale your privacy program | ODSP1518", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

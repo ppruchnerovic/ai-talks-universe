@@ -15,6 +15,7 @@ video_id: xD9IzJJy5k0
 url: https://www.youtube.com/watch?v=xD9IzJJy5k0
 youtube_url: https://www.youtube.com/watch?v=xD9IzJJy5k0
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

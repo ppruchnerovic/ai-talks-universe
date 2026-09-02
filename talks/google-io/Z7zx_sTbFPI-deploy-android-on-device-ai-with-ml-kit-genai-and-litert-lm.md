@@ -15,6 +15,7 @@ video_id: Z7zx_sTbFPI
 url: https://www.youtube.com/watch?v=Z7zx_sTbFPI
 youtube_url: https://www.youtube.com/watch?v=Z7zx_sTbFPI
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

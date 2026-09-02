@@ -15,6 +15,7 @@ video_id: GbjjE9_3lWQ
 url: https://www.youtube.com/watch?v=GbjjE9_3lWQ
 youtube_url: https://www.youtube.com/watch?v=GbjjE9_3lWQ
 tags: ["Azure Database for PostgreSQL", "CP&D", "OD822", "OD822_v1", "Smarter PostgreSQL migrations to power modern intelligent apps | OD822", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

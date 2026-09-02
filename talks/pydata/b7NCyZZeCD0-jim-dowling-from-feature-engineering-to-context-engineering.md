@@ -15,6 +15,7 @@ video_id: b7NCyZZeCD0
 url: https://www.youtube.com/watch?v=b7NCyZZeCD0
 youtube_url: https://www.youtube.com/watch?v=b7NCyZZeCD0
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: false
 ---
 

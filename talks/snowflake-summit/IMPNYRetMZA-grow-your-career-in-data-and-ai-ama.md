@@ -15,6 +15,7 @@ video_id: IMPNYRetMZA
 url: https://www.youtube.com/watch?v=IMPNYRetMZA
 youtube_url: https://www.youtube.com/watch?v=IMPNYRetMZA
 tags: []
+topics: []
 transcript: false
 ---
 

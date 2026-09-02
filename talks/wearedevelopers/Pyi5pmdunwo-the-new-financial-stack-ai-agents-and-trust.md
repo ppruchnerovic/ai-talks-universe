@@ -15,6 +15,7 @@ video_id: Pyi5pmdunwo
 url: https://www.youtube.com/watch?v=Pyi5pmdunwo
 youtube_url: https://www.youtube.com/watch?v=Pyi5pmdunwo
 tags: ["Strategy & Innovation"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

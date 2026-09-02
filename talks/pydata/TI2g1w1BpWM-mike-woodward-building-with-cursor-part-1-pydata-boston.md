@@ -15,6 +15,7 @@ video_id: TI2g1w1BpWM
 url: https://www.youtube.com/watch?v=TI2g1w1BpWM
 youtube_url: https://www.youtube.com/watch?v=TI2g1w1BpWM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

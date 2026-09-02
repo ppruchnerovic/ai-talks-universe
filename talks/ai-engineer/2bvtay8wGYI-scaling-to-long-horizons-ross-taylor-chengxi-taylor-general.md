@@ -15,6 +15,7 @@ video_id: 2bvtay8wGYI
 url: https://www.youtube.com/watch?v=2bvtay8wGYI
 youtube_url: https://www.youtube.com/watch?v=2bvtay8wGYI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: DgqWzZ_Qkv0
 url: https://www.youtube.com/watch?v=DgqWzZ_Qkv0
 youtube_url: https://www.youtube.com/watch?v=DgqWzZ_Qkv0
 tags: ["people", "WeAreDevelopers", "wearedevelopers", "leadership strategies", "HR professionals", "workplace innovation", "modern workplaces", "Cappuccino with HR", "burnout", "wellbeing", "team red", "team blue", "innovator's dilemma", "disruption", "AI", "diversity", "strategy", "innovation"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

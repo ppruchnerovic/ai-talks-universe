@@ -15,6 +15,7 @@ video_id: 33QaXP1d9Q8
 url: https://www.youtube.com/watch?v=33QaXP1d9Q8
 youtube_url: https://www.youtube.com/watch?v=33QaXP1d9Q8
 tags: ["Build 2026 podcast with Satya Nadella Sarah Guo and Elad Gil from No Priors and Swyx | LIVE100", "LIVE100", "LIVE100_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026", "swyx (Shawn Wang)"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: T5fyscsZ1Gc
 url: https://www.youtube.com/watch?v=T5fyscsZ1Gc
 youtube_url: https://www.youtube.com/watch?v=T5fyscsZ1Gc
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

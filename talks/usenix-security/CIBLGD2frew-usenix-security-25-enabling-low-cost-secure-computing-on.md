@@ -15,6 +15,7 @@ video_id: CIBLGD2frew
 url: https://www.youtube.com/watch?v=CIBLGD2frew
 youtube_url: https://www.youtube.com/watch?v=CIBLGD2frew
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

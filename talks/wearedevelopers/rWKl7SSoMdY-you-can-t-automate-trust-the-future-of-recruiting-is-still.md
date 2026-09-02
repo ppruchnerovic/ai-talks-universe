@@ -15,6 +15,7 @@ video_id: rWKl7SSoMdY
 url: https://www.youtube.com/watch?v=rWKl7SSoMdY
 youtube_url: https://www.youtube.com/watch?v=rWKl7SSoMdY
 tags: ["People & Culture", "Talent & Recruiting"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: xa-jd8zrF2U
 url: https://www.youtube.com/watch?v=xa-jd8zrF2U
 youtube_url: https://www.youtube.com/watch?v=xa-jd8zrF2U
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

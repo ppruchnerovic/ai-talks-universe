@@ -15,6 +15,7 @@ video_id: KXwPJvdWFJQ
 url: https://www.youtube.com/watch?v=KXwPJvdWFJQ
 youtube_url: https://www.youtube.com/watch?v=KXwPJvdWFJQ
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

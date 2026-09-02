@@ -15,6 +15,7 @@ video_id: VfUTkoYWsPQ
 url: https://www.youtube.com/watch?v=VfUTkoYWsPQ
 youtube_url: https://www.youtube.com/watch?v=VfUTkoYWsPQ
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

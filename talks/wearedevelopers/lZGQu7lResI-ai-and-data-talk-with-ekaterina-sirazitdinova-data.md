@@ -15,6 +15,7 @@ video_id: lZGQu7lResI
 url: https://www.youtube.com/watch?v=lZGQu7lResI
 youtube_url: https://www.youtube.com/watch?v=lZGQu7lResI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

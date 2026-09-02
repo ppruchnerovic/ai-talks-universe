@@ -15,6 +15,7 @@ video_id: _BRhRh7mOX0
 url: https://www.youtube.com/watch?v=_BRhRh7mOX0
 youtube_url: https://www.youtube.com/watch?v=_BRhRh7mOX0
 tags: []
+topics: ["Enterprise adoption & strategy", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

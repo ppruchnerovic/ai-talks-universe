@@ -15,6 +15,7 @@ video_id: o9DIvmMitlk
 url: https://www.youtube.com/watch?v=o9DIvmMitlk
 youtube_url: https://www.youtube.com/watch?v=o9DIvmMitlk
 tags: ["AI", "Cloud", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Mete Atamel"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

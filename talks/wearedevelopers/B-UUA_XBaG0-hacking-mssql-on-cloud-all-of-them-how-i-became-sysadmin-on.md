@@ -15,6 +15,7 @@ video_id: B-UUA_XBaG0
 url: https://www.youtube.com/watch?v=B-UUA_XBaG0
 youtube_url: https://www.youtube.com/watch?v=B-UUA_XBaG0
 tags: ["Security & Privacy", "Cloud Security", "Databases", "Microsoft SQL Server", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

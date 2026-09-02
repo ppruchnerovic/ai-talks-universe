@@ -15,6 +15,7 @@ video_id: 8OftmdJRCMg
 url: https://www.youtube.com/watch?v=8OftmdJRCMg
 youtube_url: https://www.youtube.com/watch?v=8OftmdJRCMg
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Java", "InfoQ", "Transcript"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Md5vww4ardo
 url: https://www.youtube.com/watch?v=Md5vww4ardo
 youtube_url: https://www.youtube.com/watch?v=Md5vww4ardo
 tags: []
+topics: []
 transcript: false
 ---
 

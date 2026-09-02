@@ -15,6 +15,7 @@ video_id: Q8f6LG3ZlF0
 url: https://www.youtube.com/watch?v=Q8f6LG3ZlF0
 youtube_url: https://www.youtube.com/watch?v=Q8f6LG3ZlF0
 tags: ["BRK240", "Breakout", "David Maltz", "English (US)", "Infrastructure", "Narayan Annamalai", "Technical", "Unveiling the latest in Azure Networking for a secure connected cloud | BRK240", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

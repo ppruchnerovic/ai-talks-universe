@@ -15,6 +15,7 @@ video_id: XX3-wWuyeqs
 url: https://www.youtube.com/watch?v=XX3-wWuyeqs
 youtube_url: https://www.youtube.com/watch?v=XX3-wWuyeqs
 tags: ["AI", "AI-Curated", "BRK110", "Breakout", "English (US)", "Jennifer Marsman", "Marco Casalaina", "Solving the unsolvable: o1 models for breakthrough reasoning on Azure | BRK110", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

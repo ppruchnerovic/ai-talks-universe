@@ -15,6 +15,7 @@ video_id: erD447IIJ1A
 url: https://www.youtube.com/watch?v=erD447IIJ1A
 youtube_url: https://www.youtube.com/watch?v=erD447IIJ1A
 tags: ["Strategy & Innovation", "Design Systems", "Figma", "Software Architecture", "Startups", "UI/UX"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 4aB7yJvheJE
 url: https://www.youtube.com/watch?v=4aB7yJvheJE
 youtube_url: https://www.youtube.com/watch?v=4aB7yJvheJE
 tags: ["AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United Kingdom", "Simon Painter"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

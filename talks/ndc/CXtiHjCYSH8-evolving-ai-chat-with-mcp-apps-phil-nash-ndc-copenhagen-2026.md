@@ -15,6 +15,7 @@ video_id: CXtiHjCYSH8
 url: https://www.youtube.com/watch?v=CXtiHjCYSH8
 youtube_url: https://www.youtube.com/watch?v=CXtiHjCYSH8
 tags: ["AI", "Web", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Phil Nash"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

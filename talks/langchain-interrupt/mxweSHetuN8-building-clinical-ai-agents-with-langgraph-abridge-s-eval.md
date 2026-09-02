@@ -15,6 +15,7 @@ video_id: mxweSHetuN8
 url: https://www.youtube.com/watch?v=mxweSHetuN8
 youtube_url: https://www.youtube.com/watch?v=mxweSHetuN8
 tags: ["Abridge", "Janie Lee", "healthcare AI", "clinical AI", "LangGraph", "LangSmith", "LangChain", "AI agents", "LLM evaluation", "LLM judges", "APO", "reference-free judge", "reference-based judge", "HIPAA", "PHI", "patient safety", "clinical notes", "ambient AI", "electronic health record", "EHR", "hallucination detection", "AI in healthcare", "evals", "production AI", "Interrupt conference"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

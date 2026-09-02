@@ -15,6 +15,7 @@ video_id: CrqPcIZOOXA
 url: https://www.youtube.com/watch?v=CrqPcIZOOXA
 youtube_url: https://www.youtube.com/watch?v=CrqPcIZOOXA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

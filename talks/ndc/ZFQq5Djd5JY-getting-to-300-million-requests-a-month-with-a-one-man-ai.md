@@ -15,6 +15,7 @@ video_id: ZFQq5Djd5JY
 url: https://www.youtube.com/watch?v=ZFQq5Djd5JY
 youtube_url: https://www.youtube.com/watch?v=ZFQq5Djd5JY
 tags: ["DevOps", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "London", "Rob Frelow"]
+topics: []
 transcript: false
 ---
 

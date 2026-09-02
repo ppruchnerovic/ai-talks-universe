@@ -15,6 +15,7 @@ video_id: GMIWm5y90xA
 url: https://www.youtube.com/watch?v=GMIWm5y90xA
 youtube_url: https://www.youtube.com/watch?v=GMIWm5y90xA
 tags: []
+topics: []
 transcript: false
 ---
 

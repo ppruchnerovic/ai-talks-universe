@@ -15,6 +15,7 @@ video_id: JKJk3rfJTQk
 url: https://www.youtube.com/watch?v=JKJk3rfJTQk
 youtube_url: https://www.youtube.com/watch?v=JKJk3rfJTQk
 tags: ["HPMCNK"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

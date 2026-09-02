@@ -15,6 +15,7 @@ video_id: WBIDeWorHRg
 url: https://www.youtube.com/watch?v=WBIDeWorHRg
 youtube_url: https://www.youtube.com/watch?v=WBIDeWorHRg
 tags: ["People & Culture", "Agentic AI", "Business Intelligence", "Employer Branding", "Future of Work", "Mobility", "Motivation", "People & Culture", "Startups", "Talent & Recruiting", "Tools"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

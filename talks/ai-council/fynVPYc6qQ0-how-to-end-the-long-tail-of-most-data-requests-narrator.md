@@ -15,6 +15,7 @@ video_id: fynVPYc6qQ0
 url: https://www.youtube.com/watch?v=fynVPYc6qQ0
 youtube_url: https://www.youtube.com/watch?v=fynVPYc6qQ0
 tags: ["AI algorithms", "SQL", "data analyst"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

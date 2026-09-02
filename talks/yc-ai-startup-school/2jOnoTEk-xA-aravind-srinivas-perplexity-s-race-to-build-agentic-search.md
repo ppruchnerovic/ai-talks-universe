@@ -15,6 +15,7 @@ video_id: 2jOnoTEk-xA
 url: https://www.youtube.com/watch?v=2jOnoTEk-xA
 youtube_url: https://www.youtube.com/watch?v=2jOnoTEk-xA
 tags: ["YC", "Y Combinator"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

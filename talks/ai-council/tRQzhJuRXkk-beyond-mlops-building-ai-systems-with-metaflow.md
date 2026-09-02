@@ -15,6 +15,7 @@ video_id: tRQzhJuRXkk
 url: https://www.youtube.com/watch?v=tRQzhJuRXkk
 youtube_url: https://www.youtube.com/watch?v=tRQzhJuRXkk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

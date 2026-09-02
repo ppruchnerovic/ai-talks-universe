@@ -15,6 +15,7 @@ video_id: 6X76sL0p3uA
 url: https://www.youtube.com/watch?v=6X76sL0p3uA
 youtube_url: https://www.youtube.com/watch?v=6X76sL0p3uA
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

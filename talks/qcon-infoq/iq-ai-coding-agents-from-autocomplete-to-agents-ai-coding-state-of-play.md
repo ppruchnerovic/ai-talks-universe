@@ -15,6 +15,7 @@ video_id: iq-ai-coding-agents
 url: https://www.infoq.com/presentations/ai-coding-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

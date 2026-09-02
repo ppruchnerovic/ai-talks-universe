@@ -15,6 +15,7 @@ video_id: yoONZwV2smc
 url: https://www.youtube.com/watch?v=yoONZwV2smc
 youtube_url: https://www.youtube.com/watch?v=yoONZwV2smc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

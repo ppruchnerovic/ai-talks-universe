@@ -15,6 +15,7 @@ video_id: 2xAd6U-lF7Y
 url: https://www.youtube.com/watch?v=2xAd6U-lF7Y
 youtube_url: https://www.youtube.com/watch?v=2xAd6U-lF7Y
 tags: ["AI", "Artificial intelligence and the Microsoft ecoverse | ODFP975", "Copilot", "Dominick Raimato", "Foundational (100)", "Michael Heath", "ODFP975", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

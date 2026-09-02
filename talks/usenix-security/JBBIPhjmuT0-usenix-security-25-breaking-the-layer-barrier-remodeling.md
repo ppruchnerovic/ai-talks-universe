@@ -15,6 +15,7 @@ video_id: JBBIPhjmuT0
 url: https://www.youtube.com/watch?v=JBBIPhjmuT0
 youtube_url: https://www.youtube.com/watch?v=JBBIPhjmuT0
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

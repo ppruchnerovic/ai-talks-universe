@@ -15,6 +15,7 @@ video_id: g_er19gTEYo
 url: https://www.youtube.com/watch?v=g_er19gTEYo
 youtube_url: https://www.youtube.com/watch?v=g_er19gTEYo
 tags: ["Machine Learning", "Data Science", "model explainability", "SHAP", "model testing"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Xhg070uGXuE
 url: https://www.youtube.com/watch?v=Xhg070uGXuE
 youtube_url: https://www.youtube.com/watch?v=Xhg070uGXuE
 tags: ["natural language interface", "search", "generative AI"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

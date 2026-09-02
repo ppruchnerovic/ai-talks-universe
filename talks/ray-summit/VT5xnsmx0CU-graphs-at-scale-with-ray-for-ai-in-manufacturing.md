@@ -15,6 +15,7 @@ video_id: VT5xnsmx0CU
 url: https://www.youtube.com/watch?v=VT5xnsmx0CU
 youtube_url: https://www.youtube.com/watch?v=VT5xnsmx0CU
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

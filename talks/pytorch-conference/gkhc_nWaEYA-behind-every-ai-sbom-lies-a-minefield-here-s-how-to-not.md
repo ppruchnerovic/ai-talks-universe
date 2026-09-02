@@ -15,6 +15,7 @@ video_id: gkhc_nWaEYA
 url: https://www.youtube.com/watch?v=gkhc_nWaEYA
 youtube_url: https://www.youtube.com/watch?v=gkhc_nWaEYA
 tags: []
+topics: []
 transcript: false
 ---
 

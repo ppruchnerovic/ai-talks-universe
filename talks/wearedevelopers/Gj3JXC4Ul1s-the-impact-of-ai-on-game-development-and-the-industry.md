@@ -15,6 +15,7 @@ video_id: Gj3JXC4Ul1s
 url: https://www.youtube.com/watch?v=Gj3JXC4Ul1s
 youtube_url: https://www.youtube.com/watch?v=Gj3JXC4Ul1s
 tags: ["Strategy & Innovation"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

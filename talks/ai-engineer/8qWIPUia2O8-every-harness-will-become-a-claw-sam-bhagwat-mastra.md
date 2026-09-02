@@ -15,6 +15,7 @@ video_id: 8qWIPUia2O8
 url: https://www.youtube.com/watch?v=8qWIPUia2O8
 youtube_url: https://www.youtube.com/watch?v=8qWIPUia2O8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

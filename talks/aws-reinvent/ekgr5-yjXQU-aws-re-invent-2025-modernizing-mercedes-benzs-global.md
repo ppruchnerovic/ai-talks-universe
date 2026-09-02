@@ -15,6 +15,7 @@ video_id: ekgr5-yjXQU
 url: https://www.youtube.com/watch?v=ekgr5-yjXQU
 youtube_url: https://www.youtube.com/watch?v=ekgr5-yjXQU
 tags: []
+topics: []
 transcript: false
 ---
 

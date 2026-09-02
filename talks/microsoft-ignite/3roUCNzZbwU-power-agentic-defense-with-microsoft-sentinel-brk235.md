@@ -15,6 +15,7 @@ video_id: 3roUCNzZbwU
 url: https://www.youtube.com/watch?v=3roUCNzZbwU
 youtube_url: https://www.youtube.com/watch?v=3roUCNzZbwU
 tags: ["BRK235", "English (US)", "Evangeline White", "Krishna Kumar Parthasarathy", "Modernize SecOps with a unified platform", "Power agentic defense with Microsoft Sentinel | BRK235", "Reena Pathak", "Scott Woodgate", "Technical", "de1760f8-7548-4587-8a53-ba90c6a8b7cb_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

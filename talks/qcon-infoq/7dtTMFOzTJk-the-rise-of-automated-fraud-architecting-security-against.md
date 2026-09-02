@@ -15,6 +15,7 @@ video_id: 7dtTMFOzTJk
 url: https://www.youtube.com/watch?v=7dtTMFOzTJk
 youtube_url: https://www.youtube.com/watch?v=7dtTMFOzTJk
 tags: ["Deepfake", "Disinformation", "AI", "Artificial Intelligence", "Generative AI", "QCon AI", "InfoQ", "Transcript", "Best Practices", "Cyber Security", "Zero Trust"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 
