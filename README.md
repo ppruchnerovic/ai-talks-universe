@@ -4,9 +4,10 @@ A searchable knowledge base of recorded talks from the world's AI conferences �
 titles, descriptions, speakers, conference and year, recording links and, where
 they have been fetched, full timestamped transcripts.
 
-**8,822 talks from 53 conferences.** The curated list of which conferences and
-why is [`ai-conferences.md`](ai-conferences.md); its machine-readable mirror,
-which the pipeline actually reads, is [`conferences.json`](conferences.json).
+**9,048 talks from 53 conferences, 3,174 of them with a full transcript.** The
+curated list of which conferences and why is
+[`ai-conferences.md`](ai-conferences.md); its machine-readable mirror, which
+the pipeline actually reads, is [`conferences.json`](conferences.json).
 
 Browse it at <https://ppruchnerovic.github.io/ai-talks-universe/> — no install,
 works on a phone, and the URL carries the search so you can send someone a link
@@ -94,7 +95,8 @@ Because not every record is a YouTube one any more, a talk now carries both a
 `url` — the canonical link, the video where there is a video and the talk's own
 page where InfoQ is all there is — and a `youtube_url` that is `null` unless
 there really is one. Anything building a `&t=` deep link, an embed or a
-thumbnail has to ask for the latter.
+thumbnail has to ask for the latter. The CSV follows the JSON: its link column
+is `url` (it was `youtube_url`), and for an InfoQ-only talk it holds the page.
 
 ### What survives into the corpus
 
@@ -123,8 +125,25 @@ passes the floor — enrichment is what resolves a year — and enumeration cach
 every year regardless, so the floor is a re-derivation away from being moved:
 `sync_catalog.py --no-min-year` rebuilds with the whole catalogue.
 
-Of 17,677 videos enumerated, 8,822 survive. `sync_catalog.py` prints exactly
+Of 17,677 videos enumerated, 8,826 survive; with the 222 presentations that
+exist only on infoq.com the corpus is 9,048. `sync_catalog.py` prints exactly
 what each conference dropped and why, the year floor included.
+
+### Who gave the talk
+
+YouTube has no speaker field, so the name is read out of what the channel
+wrote. A description that states it under a `Speaker(s):` heading wins —
+Microsoft's channels write that heading in Unicode bold with one bulleted name
+a line, MLOps World puts the name on the line after it — and failing that the
+title is read for the shapes conferences actually use: `Topic — Name & Name,
+Company`, `Topic by Name and Name`, `[Tag] Name - Topic`. A segment is a name
+only if every part of it passes a deliberately narrow test (two to four
+capitalised words, none of them a role, a brand word or the conference's own
+name), and a "name" that recurs across a tenth of a conference is treated as
+its host or its brand and dropped. The rule is conservative on purpose:
+`speakers` is weighted four times a description word in both rankers, and one
+false positive lands under every talk that carries it. 55% of talks have a
+speaker; a seeded or InfoQ talk carries the one its programme stated.
 
 ## Layout
 
@@ -140,7 +159,8 @@ what each conference dropped and why, the year floor included.
 │   ├── transcripts/<video_id>.json  exact caption timings, one file per talk
 │   ├── talks.db                   SQLite + FTS5, used by query.py (gitignored)
 │   ├── search-meta.json           compact metadata the browser loads up front
-│   └── tindex/                    transcript inverted index, sharded, lazy-loaded
+│   └── tindex/                    stemmed inverted index over transcripts and
+│                                  descriptions, sharded, lazy-loaded
 ├── talks/<conf>/<video_id>-<slug>.md   one readable file per talk
 └── tools/
     ├── atu.py                     shared helpers, and the AI-relevance test
@@ -155,6 +175,10 @@ what each conference dropped and why, the year floor included.
     ├── refresh_report.py          field coverage before vs after a refresh
     ├── test_fetch_transcripts.py  offline checks for the quota bookkeeping
     ├── test_excerpt.py            offline checks for the excerpt budget
+    ├── test_query.py              offline checks for the query parser and id resolution
+    ├── test_infoq.py              offline checks for the InfoQ fold-in
+    ├── test_speakers.py           offline checks for the speaker extraction
+    ├── test_stem.py               the Python and JavaScript stemmers agree
     └── uitest/                    browser tests for index.html
 ```
 
@@ -182,7 +206,13 @@ you have searched for something, since what it finds are the moments matching
 your query.
 
 Multi-word searches rank talks that say the words *together*, in one passage,
-above talks that merely say each of them somewhere.
+above talks that merely say each of them somewhere. Words are matched on their
+stem, so "evaluate", "evaluation" and "evaluating" are one search, as they are
+in the CLI. Every word has to appear somewhere in a talk — its metadata, its
+whole description or its transcript — and when no talk has all of them the
+page drops one word at a time (a word no talk says first, then the commonest)
+and says which in the status line, instead of showing nothing. A moment whose
+timing was interpolated rather than measured is shown as `~12:34`.
 
 ### From the terminal
 
@@ -196,16 +226,27 @@ python3 query.py "evals" --year 2026 --json          # for scripts and agents
 
 Both the descriptions and the transcripts are searched. Transcript hits carry
 the timestamp, so results deep-link into the video, and each result says which
-layer matched. FTS5 syntax works: `"exact phrase"`, `OR`, `NOT`, `prefix*`, and
-is always taken literally. A bare multi-word query is ANDed first and relaxed to
-an OR of its terms only if that matches nothing, so a natural-language question
-still returns ranked results — it says on stderr when it relaxes.
+layer matched; a timestamp printed `~12:34` is interpolated from word position
+rather than read off a caption track. FTS5 syntax works: `"exact phrase"`,
+`OR`, `NOT`, `prefix*`, and is always taken literally — a hyphenated or
+punctuated term inside it (`gpt-4 OR claude`, `c++ OR rust`) is quoted for
+you, since FTS5 would otherwise read the hyphen as syntax. A bare query is
+reduced to its content words ("what do people say about agent reliability"
+searches for `agent reliability`) and a talk qualifies when every word appears
+somewhere in it, metadata or transcript; when no talk has them all, a word no
+talk says at all is dropped first, then the commonest, one at a time, and
+stderr says which — so a question with a typo in it costs the typo, not the
+question.
 
-`--conference` and `--category` are case- and separator-insensitive and suggest
-near misses; `--list-conferences` and `--list-categories` print the valid
-values. `--brief` drops the fields and the extra transcript moments that help
-you *read* a result but not *choose* one, which is about a fifth of the bytes;
-`--ids` prints nothing but the video ids, to pipe into the next command.
+`--conference`, `--category` and `--year` are repeatable, case- and
+separator-insensitive and suggest near misses; `--min-year` takes a year
+onwards; `--transcript` keeps only talks that can be quoted;
+`--list-conferences` and `--list-categories` print the valid values. `--stats`
+prints what the corpus is — talks, transcripts, conferences, per year and per
+conference — from the index rather than from anyone's memory. `--brief` drops
+the fields and the extra transcript moments that help you *read* a result but
+not *choose* one, which is about a fifth of the bytes; `--ids` prints nothing
+but the video ids, to pipe into the next command.
 
 ### Reading a talk without reading all of it
 
@@ -266,6 +307,30 @@ rerunning gives byte-identical output, so a git diff shows exactly what the
 conferences changed. That holds literally, including `talks.json`'s
 `generated_at`, which advances only when the corpus actually changes rather than
 on every run. `build_index.py --help` lists its flags without rebuilding.
+`talks.db` is derived and gitignored: `query.py` and `excerpt.py` build it on
+first use and rebuild it by themselves when its schema version or the corpus
+under it has moved on, saying so on stderr.
+
+The browser index is keyed on Porter stems — the same stemmer FTS5's `porter`
+tokeniser applies to `talks.db`, implemented once in Python for the build and
+once in JavaScript for the query, with `test_stem.py` proving the two agree on
+every word in the corpus. Each shard entry carries the transcript postings and,
+new since 2026-09-02, the postings of the *whole* description, so the 300
+characters `search-meta.json` ships are a display clip and no longer a limit
+on what a search can find.
+
+### What gets published
+
+`pages.yml` does not publish the repository. On every push to `main` it runs
+`tools/assemble_site.sh`, which copies exactly what the browser fetches —
+`index.html`, `search-meta.json`, `tindex/`, `transcripts/` and the
+`ai-conferences.md` the footer links to — and pushes that tree to `gh-pages`
+as a single orphan commit, so the branch has no history and its size is the
+site's: about 250 MB, against the 411 MB a mirror of the whole repository had
+reached and GitHub Pages' 1 GB ceiling. The `du` lines in the workflow log are
+the size report. The uitest `navigation` suite assembles and serves the same
+tree, so a file the page needs that the script forgets fails a test rather
+than a visitor.
 
 A transcript is indexed as content only if it says something. A file below ten
 words a minute, over a talk of five minutes or more, is an ASR failure rather
@@ -415,8 +480,8 @@ exists. Within a priority it takes the longest talks first.
 
 It selects on year too, because on AI topics a 2023 talk is rarely worth a unit
 of an allowance that refills over hours. `--year 2026` (repeatable) or
-`--min-year 2026` keeps only those years — 2,942 of the 8,822 talks are 2026,
-of which 2,914 have a transcript and 28 have no captions, so none is waiting on
+`--min-year 2026` keeps only those years — 2,964 of the 9,048 talks are 2026,
+of which 2,936 have a transcript and 28 have no captions, so none is waiting on
 a fetch — and a talk whose year is not known yet is left out unless
 `--include-unknown-year` says otherwise. This is a selection filter and removes
 nothing: `query.py --year` reads every year the corpus has. What the corpus
@@ -575,6 +640,23 @@ every error in it is quiet and expensive. A block recorded as a miss loses a
 talk permanently; an estimate returned under `--source exact` mislabels one; a
 talk dropped because its proxy was benched costs a fetch nobody notices.
 
+### The query parser, the speakers, the stemmers
+
+```bash
+cd tools && python3 test_query.py                 # ~0.1s, no database
+cd tools && python3 test_speakers.py              # ~0.1s, no corpus
+cd tools && python3 test_stem.py                  # ~6s; reads the corpus, runs node if present
+```
+
+`test_query.py` holds the OR chains the skill recommends and the ids that
+once cut short at a hyphen. `test_speakers.py` holds each shape a speaker is
+read from and the false positives the rules exist to stop — a brand or a job
+title in that field ranks under every talk that carries it. `test_stem.py`
+runs the JavaScript stemmer out of `index.html` under node over every token in
+the corpus and diffs it against the Python one, because a disagreement is a
+silent miss: a shard keyed on one spelling of a stem, a query asking for the
+other.
+
 ### The excerpt budget
 
 ```bash
@@ -597,7 +679,7 @@ looks exactly like a search with no results.
 ```bash
 cd tools/uitest
 npm install            # playwright + chromium, ignored by git
-node run.js            # 172 checks, about three minutes
+node run.js            # 183 checks, about four minutes
 node run.js search filters      # just those suites
 ```
 
@@ -607,7 +689,7 @@ and exits non-zero if anything failed. Every check prints what it actually saw.
 | Suite | Covers |
 |---|---|
 | `load` | catalogue loads, filters built from the data, one card end to end |
-| `search` | every field, phrases, prefixes, the transcript layer, tokenising |
+| `search` | every field, phrases, prefixes, stems, relaxation, the description tail beyond the clip, the transcript layer, tokenising |
 | `controls` | pagination, description unfold, tag chips, `/` shortcut |
 | `filters` | conference / category / year, the three sorts, Reset, the shareable hash |
 | `moments` | "Find this in the talk" — ranking, deep links, caching |

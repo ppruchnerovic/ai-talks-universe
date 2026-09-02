@@ -16,18 +16,20 @@ new here is the catalogue layer, because there is no agenda API.
 | Piece | State |
 |---|---|
 | Registry (`conferences.json`) | Done. **53 conferences, 84 sources** — 83 YouTube listings and one `"type": "videos"` seed — mirrored from `ai-conferences.md`; `check_registry.py` passes. Seven conferences added 2026-09-01, see *The seven conferences added on 2026-09-01*. |
-| Enumeration (`sync_catalog.py`) | Done. **17,677 videos** cached in `data/catalog/`, **8,822 surviving talks** — 9,325 before the 2023 year floor, see *The pre-2023 cut*. 8,464 of them enumerated from YouTube, 358 seeded — see *The WeAreDevelopers import*. |
+| Enumeration (`sync_catalog.py`) | Done. **17,677 videos** cached in `data/catalog/`, **8,826 surviving talks** — 9,325 before the 2023 year floor, see *The pre-2023 cut* — plus **222 InfoQ-only presentations**, **9,048 in the corpus**. 8,468 of them enumerated from YouTube, 358 seeded — see *The WeAreDevelopers import*. |
+| Speakers | **4,982 of 9,048 (55%)** since 2026-09-02, up from 3,447 (38%): the bold-Unicode `Speakers:` heading Microsoft's channels use, the `A & B, Company` and `by A and B` title shapes. See *Review of 2026-09-02*, section D, and `test_speakers.py`. |
 | Enrichment (`enrich.py`) | Done for the 2026 scope. **9,598 videos via the Data API**, in one run. See *What the collection runs actually got*. |
-| Per-talk markdown | Done. 8,822 files, regenerated from `talks.json` on every sync. |
-| Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. Since 2026-09-02 the passages overlap at a half-passage stride and `talks.db` carries `PRAGMA user_version` (`atu.DB_SCHEMA_VERSION`, now 5) — 379 MiB, 45 s to build, and `atu.connect()` rebuilds it by itself when it is stale. See *Review of 2026-09-02*, C.4 and A.1. |
-| CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. `--brief` and `--ids` were added for the skill — see *Making the skill affordable*. Rewritten 2026-09-02 around a gate on content words with progressive relaxation, plus `--transcript`, `--min-year`, repeatable `--conference`/`--category`/`--year` and a `~` on estimated timestamps — see *Review of 2026-09-02*, section C. |
+| Per-talk markdown | Done. 9,048 files, regenerated from `talks.json` on every sync. |
+| Search indexes (`build_index.py`) | Done. SQLite FTS5 + sharded browser index. Since 2026-09-02 the passages overlap at a half-passage stride and `talks.db` carries `PRAGMA user_version` (`atu.DB_SCHEMA_VERSION`, now 5) — 379 MiB, 48 s to build, and `atu.connect()` rebuilds it by itself when it is stale. The browser index is **keyed on Porter stems** (`atu.stem()`, memoised; the same function in JavaScript inside `index.html`, `test_stem.py` diffs them over the corpus vocabulary) and carries the **whole description's postings** per stem (`d`) plus the metadata document frequency (`m`): 46 MB in 712 shards, 52,327 stems, 35,352 of them in descriptions; `search-meta.json` 5.6 MiB, 94% of its trigger, now display-only. Byte-identical run to run. See *Review of 2026-09-02*, sections C and E. |
+| CLI (`query.py`) | Done, and its ranking was rebalanced — see *Design decisions*. `--brief` and `--ids` were added for the skill — see *Making the skill affordable*. Rewritten 2026-09-02 around a gate on content words with progressive relaxation, plus `--transcript`, `--min-year`, repeatable `--conference`/`--category`/`--year` and a `~` on estimated timestamps — see *Review of 2026-09-02*, section C. Later the same day: relaxation drops a word **no talk says** before the commonest one (a typo used to take the real word with it), and `--stats` prints the corpus's counts from the index so the skill quotes nothing from memory. |
 | Excerpting (`excerpt.py`) | Done, 2026-09-01. Windowed passages instead of whole transcripts; **100% of the passages `query.py` ranks survive, on 17% of the words**. See *Making the skill affordable*. |
-| Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. |
-| Browser UI tests (`tools/uitest/`) | **172 checks over 9 suites, 0 failing, none skipped** (2026-09-01). Both previously-failing checks were faults in the checks rather than the site and are fixed; each was proven to fail under mutation — see *The bug list, worked*. |
+| Browser UI (`index.html`) | Done. Conference / category / year facets, passage-level ranking. Since 2026-09-02: queries and index share one Porter stemmer, descriptions are searched whole through the shards rather than on their first 300 characters, a query no talk fully matches relaxes one word at a time and says so in the status line, highlighting is token-exact on stems, and an interpolated moment is shown as `~12:34`. See *Review of 2026-09-02*, section E. |
+| Browser UI tests (`tools/uitest/`) | **183 checks over 9 suites, 0 failing, none skipped** (2026-09-02). New since the 172: stems, relaxation, the description tail beyond the clip, the `~` mark, and the `load` suite's title-link check now accepts an InfoQ page when newest-first puts one on top — it had been asserting YouTube since before InfoQ existed. Ranking agreement margins 9, 10, 8, 8, 9, 8, 10, 9 of 10 against a threshold of 4 (were 10, 9, 6, 6, 10, 6, 10, 9). |
 | Excerpt tests (`tools/test_excerpt.py`) | Done. **14 offline checks** over window selection and merging — no corpus, no network, 0.1s. |
+| Other offline tests | `test_query.py` (23, the parser and id resolution), `test_infoq.py` (the fold-in), `test_speakers.py` (19, every speaker shape and the false positives), `test_stem.py` (both stemmers over all 103,551 corpus tokens; skips its node half if node is missing). All green. |
 | Fetcher tests (`tools/test_fetch_transcripts.py`) | Done. **128 offline checks** over the pool, the routes, the year selection, the four failure classes, the off-IP lease rule and the caption-language selection. |
-| Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. Rewritten 2026-09-01 around a retrieval ladder that costs ~17k tokens a question instead of ~150k — see *Making the skill affordable*. |
-| Transcripts | **2,946 of 8,822**, all exact timings, over 35 conferences. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete**: of its 2,942 talks, 2,914 have a transcript and 28 have no captions, so nothing is pending. `I1GvlW1H4WI` entered the scope when the year-from-title fallback was fixed and was fetched for one credit — see *The pre-2023 cut*. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
+| Claude Code skill | Done — `ai-conference-talks`, in `.claude/skills/`. Rewritten 2026-09-01 around a retrieval ladder that costs ~17k tokens a question instead of ~150k — see *Making the skill affordable*. Revised 2026-09-02 (section F): no hard-coded counts (`query.py --stats` instead), search the topic's words not the question, `url` rather than a YouTube template, `~` timestamps cited as approximate, `year` is the edition's, `-n` is a budget. |
+| Transcripts | **3,174 of 9,048** over 35 conferences — 2,946 with exact timings (four of them held back from the index as ASR failures) and 228 estimated, from infoq.com. Before InfoQ: 2,946 of 8,822, all exact. ai-engineer 540, wearedevelopers 433, pydata 205, microsoft-build 187, berkeley-agentic-ai-summit 159, kubecon 151, ndc 149, ai-devcon-tessl 132, qcon-infoq 106, ai-council 94, mcp-dev-summit 84, devoxx 79. **The 2026 scope is complete**: of its 2,942 talks, 2,914 have a transcript and 28 have no captions, so nothing is pending. `I1GvlW1H4WI` entered the scope when the year-from-title fallback was fixed and was fetched for one credit — see *The pre-2023 cut*. The 422-talk backlog the seven new conferences created was fetched the same day — see *Closing the 422*. Twelve are `hi` and cannot be improved — see *Bug 7 cannot be fixed by refetching*. What is left is pre-2026 and deliberately unfetched — see *Collection is scoped to 2026*. |
 | Imports (`import_kb.py`) | Done for WeAreDevelopers World Congress 2026: 358 talks and their transcripts, from `../presentations/kb`. Offline and rerunnable. |
 | Workflows | Both run. `pages.yml` was rewritten on 2026-09-02: it now runs `tools/assemble_site.sh` and pushes only what the browser fetches to `gh-pages` as one orphan commit — 249 MB instead of the whole 411 MB repo. **Not yet verified live**: the rewrite is on the `infoq-presentations` branch and has not been through a push to `main`; watch the first deploy's `du` lines and load the site afterwards. `kb-refresh.yml` pushes a review branch instead of committing to `main`, after the run that did — see *The CI refresh regression*. |
 | Published site | **Live** at <https://ppruchnerovic.github.io/ai-talks-universe/>, served from `gh-pages`. Until the new `pages.yml` has run once it is still the old whole-repo mirror. |
@@ -886,12 +888,13 @@ Work them in the order given. The first block is bugs; the second is the site;
 the third and fourth are accuracy; the last is the skill, which should be
 edited only after the tools it describes have changed.
 
-### Status at the end of the first session — 2026-09-02
+### Status — 2026-09-02, after the second session
 
-Six commits on `infoq-presentations`, `d8c2c138` through `d830dc0a`, one per
-block. Every offline test passes (`test_query.py` is new, 23 checks) and the
-`ranking`, `search` and `navigation` browser suites pass 61 of 61. Nothing is
-merged to `main` and nothing has been pushed.
+**Every block of this review is done.** The first session left six commits on
+`infoq-presentations`, `d8c2c138` through `d830dc0a`, one per block A–C; the
+second added D, E, and F with the docs pass. Every offline test passes and the
+full browser suite passes 183 of 183 with nothing skipped. Nothing is merged to
+`main` and nothing has been pushed — that is *Next steps* 8.
 
 | Block | State |
 |---|---|
@@ -900,17 +903,18 @@ merged to `main` and nothing has been pushed.
 | **A.5–A.6** fetcher | **Done.** `RateLimited(TransientError)` with `Retry-After`; `YTDLP_NETWORK_RE`; kome transient after retries; `egress_blocked` riding along so a verdict after a block still benches; `--probe` gets the real misses; `enrich.BLOCK_MARKERS` anchored; `--out` mkdirs; `--limit`+`--retry-after` prints a note; README worker default. One existing test changed meaning: a persistent supadata 429 is now asserted *not* to be a block. |
 | **B** site | **Done** in the tree, **not yet run in CI** — see the Workflows row above. `tools/assemble_site.sh` is shared by `pages.yml` and the new checks at the end of `suite-navigation.js`. `_site/` is gitignored. |
 | **C.1–C.6** ranking | **Done.** Details in the `d830dc0a` commit message. Measured: the eight ranking queries keep 6–10 of their previous top 10; browser agreement margins 10, 9, 6, 6, 10, 6, 10, 9 of 10 (threshold 4) — "fine tuning" and "retrieval augmented generation" each fell from 8 to 6, still comfortably green, both re-read by hand and good on both sides. `PASSAGE_WORDS` is 24 (was 25) so the stride divides evenly; `tindex/` and `search-meta.json` were regenerated and committed (`x: 1` on the 44 estimated-timing talks, which `index.html` does not read yet). |
-| **D** speakers | **Not started.** Nothing in `sync_catalog.py`'s speaker code has changed. |
-| **E** browser | **Not started.** `index.html` is untouched by this session except that it now receives `x` in the meta. |
-| **F** skill | **Not started.** `SKILL.md` still quotes 2,942 of 8,822 and the YouTube-only deep-link template; `query.py --stats` does not exist yet. |
-| Docs pass | **Not started.** README's header count (8,822; it is 9,048 with 3,174 transcripts), its `pages.yml` paragraph under *Rebuilding*, the CSV rename sentence, the new `query.py` flags and relaxation wording under *From the terminal*, `test_query.py` in the *Layout* and *Testing* sections; this file's table counts and *Numbers to refresh*. |
+| **D** speakers | **Done.** NFKC before the heading regex, the bullet and bare lines under it, `&`/`and`/`+` splits with the every-part rule, the `by Name` tail, `[TAG]` stripping, role words in `NOT_A_NAME`. 1,557 talks gained a speaker; missing fell 5,601 → 4,066. The one real name lost is Charles Humble, named on 19 GOTO talks and therefore over the 10% host ceiling. `test_speakers.py`. |
+| **E** browser | **Done.** Porter stemming on both sides (`atu.stem()`, the JS twin, `test_stem.py`); description postings and the metadata df in the shards, so the 300-character clip is display only; relaxation with a status-line note, typo first then commonest — the same fix went into `query.py`, whose relaxation used to drop the real word and keep the typo; token-exact highlighting on stems; `~` on estimated moments. The single-use term cut stays for transcript-only terms; a term in even one description is kept. |
+| **F** skill | **Done.** `query.py --stats` exists (`--json` too) and the skill sends the model there instead of quoting a count; the rest of the list in section F is in the text. |
+| Docs pass | **Done.** README header, *Who gave the talk*, the CSV column, *From the terminal*, the browser paragraph, *What gets published*, the stemmer paragraph under *Rebuilding*, the new tests in *Layout* and *Testing*, the 2026 counts; this file's tables. |
 
-What a clean session needs to know before touching D–F:
+What the second session learned, for whoever touches these next:
 
-* **Verify before you start**: `cd tools && python3 test_query.py && python3 test_excerpt.py && python3 test_infoq.py && python3 test_fetch_transcripts.py`, then `cd uitest && node run.js ranking search navigation`. The first `query.py` call rebuilds `talks.db` (45 s) because `data/transcripts/` or `talks.json` will be newer than whatever DB is on disk — that is `atu.db_stale()` working, not a fault.
-* **D is a data change as well as a code change.** After editing `speakers_from_title` / `speakers_from_description`, run `python3 sync_catalog.py` (offline, ~20 s) and read the `speakers` diff per conference in `data/talks.json` before committing; the review's table gives the expected recoveries (~1,057 from the bold-Unicode heading, ~440 from `&`/`and` splits) and the false positives that the every-part rule exists to stop. Then `build_index.py` and commit `data/` + `talks/`.
-* **E changes `tindex/` shape** (stemmed terms, description postings) — regenerate with `build_index.py`, run `ranking` and `search`, and expect the `search` suite's tokenising checks to need reading: "a prefix hit is highlighted at the stem" and the `rag`-inside-`program` trap must still hold under stemming. The `x` flag from C.5 is there for E to render `~` on estimated moments.
-* **F last**, and `--stats` first within it, so the skill can say "run `query.py --stats`" instead of quoting a number that is already stale.
+* **Verify with**: `cd tools && python3 test_query.py && python3 test_excerpt.py && python3 test_infoq.py && python3 test_speakers.py && python3 test_stem.py && python3 test_fetch_transcripts.py`, then `cd uitest && node run.js` (all nine suites, about four minutes). The first `query.py` call rebuilds `talks.db` (48 s) if `data/transcripts/` or `talks.json` is newer than the DB on disk — `atu.db_stale()` working, not a fault.
+* **The speaker rules are exact on their line arithmetic.** `DESC_SPEAKER_RE` must use `[ \t]*` after the colon, not `\s*` — `\s*` eats the newline and hands "* Joshua Corbett" to the name test, which rejects the bullet — and the line after the heading is counted from `m.end()`, not `m.start()`, because the pattern's leading `^\s*` matches the blank lines above the heading. Both mistakes were made and each looked like "the heading is never found".
+* **`build_index.py` must iterate the shard terms sorted.** A set's order differs run to run, and the build's byte-identity — which the README promises and the review verified — quietly went with it until two consecutive builds were diffed.
+* **The stemmer is memoised** (`functools.lru_cache`): un-memoised it took the build from 48 s to 1 m 54 s on ~30 million transcript tokens.
+* **Relaxation order matters in both rankers**: "drop the commonest word" on `kubernetes zzzz` dropped *kubernetes*, since the typo is present in zero talks and so is never the commonest. A word present nowhere goes first.
 
 ### A. Bugs that break the documented workflow
 
@@ -1239,8 +1243,9 @@ name exists.
    They degrade to `SKIP` rather than failing when a fixture has not been
    collected yet, so a green run on a thin corpus is weaker evidence than a
    green run on a full one — read the skip count, not just the failures. The
-   last full run skipped **nothing**, which is the strongest that evidence has
-   been: every conditional fixture now exists in the corpus.
+   last full run (2026-09-02, 183 checks) skipped **nothing**, which is the
+   strongest that evidence has been: every conditional fixture now exists in
+   the corpus.
 4. ~~**Fetch the 422 pending 2026 talks, then rebuild and commit.**~~ **Done**
    on 2026-09-01 — 420 fetched, 2 genuine misses, indexed and verified; see
    *Closing the 422* for what it cost and what it taught. The one talk that
@@ -1268,7 +1273,7 @@ name exists.
    for v in d.values(): print(v.get('detail'))   # NOT 'reason' — see below
    EOF
 
-   cd uitest && node run.js && cd ..        # 172 checks; read the skip count too
+   cd uitest && node run.js && cd ..        # 183 checks; read the skip count too
    ```
 
    The fetch should report **422 selected** — `berkeley-agentic-ai-summit` 159,
@@ -1305,10 +1310,9 @@ name exists.
    than it was: 503 of those videos are now below the corpus floor and no longer
    in `talks.json` at all, though enrichment still reads them from
    `data/catalog/`, which is what would let the floor move back down.
-7. **Work the 2026-09-02 review**, in its own order. **A, B and C are done**
-   (six commits on `infoq-presentations`, tests green); **D, E, F and the docs
-   pass remain** — see *Status at the end of the first session* under *Review
-   of 2026-09-02* for exactly where each stands and what to check first.
+7. ~~**Work the 2026-09-02 review**, in its own order.~~ **Done** — A–F and
+   the docs pass, nine commits on `infoq-presentations`, every test green; see
+   *Status* under *Review of 2026-09-02*.
 8. **Merge `infoq-presentations` to `main` and watch the first `pages.yml`
    run**: it is the rewritten workflow's first deploy. Read the `du` lines in
    the *Assemble the site* step (expect ~249 MB), then load the site and use
@@ -1705,7 +1709,9 @@ OAuth *and* permission to edit the video, so third-party talks return 403.
 
 ## Numbers to refresh when the corpus changes
 
-`README.md` states 8,822 talks / 53 conferences / 17,677 enumerated, and how
+`query.py --stats` prints the talk, transcript, conference and year counts
+from the index, per year and per conference — start there. `README.md` states
+9,048 talks / 3,174 transcripts / 53 conferences / 17,677 enumerated, and how
 many of them are 2026 and how many of those are transcribed; this file states
 transcript, description, year, tag and speaker coverage, the per-conference
 transcript split, the 2026 pending backlog, the passage count, the credits
