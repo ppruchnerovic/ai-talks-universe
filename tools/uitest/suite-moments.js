@@ -80,8 +80,13 @@ L.suite('moments', async browser => {
     L.check('at most six passages are shown', mo.n > 0 && mo.n <= 6,
       `${mo.n} moments: ${mo.stamps.join(', ')}`);
     L.check('timestamps read as m:ss and ascend',
-      mo.stamps.every(s => /^\d+:\d{2}$/.test(s)) && secs.every((v, i) => i === 0 || secs[i - 1] < v),
+      mo.stamps.every(s => /^~?\d+:\d{2}$/.test(s)) && secs.every((v, i) => i === 0 || secs[i - 1] < v),
       mo.stamps.join(', '));
+    // `x` in the meta marks a transcript whose timings were interpolated from
+    // word position; its stamps must say so, and a measured one must not.
+    const approx = !!(meta.talks.find(t => t.i === pick.n) || {}).x;
+    L.check(`an ${approx ? 'interpolated' : 'measured'} transcript ${approx ? 'is' : 'is not'} marked "~"`,
+      mo.stamps.every(s => s.startsWith('~') === approx), mo.stamps.join(', '));
     L.check('each timestamp deep-links into the recording at that second',
       mo.hrefs.every(h => h === `https://www.youtube.com/watch?v=${pick.v}&t=${+h.match(/t=(\d+)s/)[1]}s`),
       mo.hrefs[0]);

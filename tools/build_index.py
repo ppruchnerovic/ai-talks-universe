@@ -7,11 +7,13 @@ Two independent indexes from the same corpus:
                          can open a database. Includes a per-passage index, so
                          a hit points at the exact second in the video.
 
-  data/search-meta.json  Every talk's metadata + description, compact keys.
-  data/tindex/*.json     Small enough for a browser to load up front. The
-  data/tindex/_manifest  transcript inverted index is sharded by the first two
-                         letters of a term and fetched lazily, so the site
-                         needs no backend.
+  data/search-meta.json  Every talk's metadata + a display clip of its
+                         description, compact keys. Small enough for a
+                         browser to load up front.
+  data/tindex/*.json     The inverted index — transcript passages and the
+  data/tindex/_manifest  full descriptions, stemmed — sharded by the first
+                         two letters of a term and fetched lazily, so the
+                         site needs no backend.
 
     python3 build_index.py             # rebuild both indexes into data/
     python3 build_index.py --help      # the flags, without rebuilding anything
@@ -129,11 +131,12 @@ MIN_RATED_MINUTES = 5
 TOKEN_SHARE_FLOOR = 0.25
 TOKENS_PER_WORD = 0.42
 
-# How much of a description reaches the browser's up-front payload. The full
-# text stays in talks.json, the markdown and talks.db; this only caps what every
-# visitor downloads before typing anything. YouTube descriptions run long and
-# repetitive (the same channel boilerplate under 400 talks), so the tail is
-# mostly cost.
+# How much of a description reaches the browser's up-front payload — for
+# display only. The description's *terms* are all in the sharded index (see
+# build_browser_index), so this clip decides what a card shows before "Show
+# full description", not what a search can find. The full text stays in
+# talks.json, the markdown and talks.db; this only caps what every visitor
+# downloads before typing anything.
 META_DESC_CHARS = 300
 
 # What "too big" means for search-meta.json, spelled out so nobody has to
@@ -146,8 +149,10 @@ META_DESC_CHARS = 300
 #
 # Crossing it is not a failure, it is a prompt: halve META_DESC_CHARS. That is
 # what 1200 -> 600 did last time, taking the file from 7.3 MiB to 5.4 MiB, and
-# what 600 -> 300 did when seven new conferences took it to 7.8 MiB.
-# The run prints where the file stands against this line either way.
+# what 600 -> 300 did when seven new conferences took it to 7.8 MiB. Since the
+# description terms moved into the shards, halving it costs a shorter card and
+# nothing in recall. The run prints where the file stands against this line
+# either way.
 META_SIZE_TRIGGER_BYTES = 6 * 1024 * 1024  # 6 MiB = 6,291,456 bytes
 
 
@@ -337,7 +342,7 @@ def shard_key(term: str) -> str:
     free, since tokenize() drops anything shorter than two characters and the
     shortest possible query term is therefore exactly a whole key.
     """
-    return shard_char(term[0]) + shard_char(term[1])
+    return shard_char(term[0]) + shard_char(term[1])  # atu.stems() keeps len >= 2
 
 
 B36 = "0123456789abcdefghijklmnopqrstuvwxyz"
@@ -367,14 +372,49 @@ def encode_positions(seg_ids: list[int]) -> str:
     return ".".join(parts)
 
 
+def meta_stems(t: dict) -> set[str]:
+    """Every stem in a talk's metadata, full description included.
+
+    This is the browser's document frequency for the metadata layer, computed
+    here because the browser no longer holds the full description: it sees a
+    display clip, and the description's terms reach it through the shards.
+    The fields are the ones index.html scores, tokenised the same way.
+    """
+    parts = (t["title"], " ".join(t["tags"]), " ".join(t["speakers"]),
+             f'{t["conference_name"]} {t["edition"] or ""}', t["category"] or "",
+             t["description"])
+    return set(atu.stems(" ".join(p for p in parts if p)))
+
+
 def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) -> dict:
+    """search-meta.json and the shards.
+
+    Everything in the shards is keyed on Porter stems — atu.stem(), which
+    index.html reproduces — so "evaluate" and "evaluation" are one key, as
+    they are in talks.db. A shard entry carries up to three things:
+
+      f, p   transcript idf and postings, [talk n, tf, passage positions]
+      d      description postings, [talk n, tf] — the whole description,
+             not the display clip search-meta.json carries
+      m      how many talks say the term anywhere in their metadata,
+             description included: the browser's idf for that layer
+
+    A term said once in one transcript and in no description is left out, as
+    before; a term in even one description is kept, since it was findable
+    through the clip and must stay so.
+    """
     meta = []
     postings: dict[str, dict[int, int]] = collections.defaultdict(dict)
     positions: dict[str, dict[int, list[int]]] = collections.defaultdict(dict)
+    desc_post: dict[str, dict[int, int]] = collections.defaultdict(dict)
+    meta_df: collections.Counter = collections.Counter()
     doc_len: dict[int, int] = {}
 
     for n, t in enumerate(talks, 1):
         text, segs, words, timing = transcript_text(t["id"], t["duration_min"])
+        meta_df.update(meta_stems(t))
+        for term, tf in collections.Counter(atu.stems(t["description"])).items():
+            desc_post[term][n] = tf
         meta.append({
             "i": n,
             "v": t["video_id"],
@@ -403,37 +443,47 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
         })
         if not text:
             continue
-        toks = atu.tokenize(text)
+        toks = atu.stems(text)
         doc_len[n] = index_length(toks, words)
         for term, tf in collections.Counter(toks).items():
             postings[term][n] = tf
         # Positions index the primary tiling only, so the browser's postings
         # are the same size and shape as before the bridge passages existed.
         for i, s in enumerate(p for p in segs if not p["bridge"]):
-            for term in set(atu.tokenize(s["text"])):
+            for term in set(atu.stems(s["text"])):
                 positions[term].setdefault(n, []).append(i)
 
     atu.write_json(atu.SEARCH_META, {"talks": meta}, compact=True)
 
     if atu.TINDEX.exists():
         shutil.rmtree(atu.TINDEX)
-    if not postings:
-        return {"terms": 0, "shards": 0, "docs": 0}
+    if not postings and not desc_post:
+        return {"terms": 0, "shards": 0, "docs": 0, "desc_terms": 0}
 
     n_docs = len(doc_len)
-    avg_len = sum(doc_len.values()) / n_docs
+    avg_len = sum(doc_len.values()) / n_docs if n_docs else 0
 
     shards: dict[str, dict] = collections.defaultdict(dict)
-    for term, docs in postings.items():
-        if len(docs) == 1 and max(docs.values()) < 2:
-            continue  # a term used once in one talk is noise, not a search key
-        idf = math.log(1 + (n_docs - len(docs) + 0.5) / (len(docs) + 0.5))
-        pos = positions.get(term, {})
-        shards[shard_key(term)][term] = {
-            "f": round(idf, 4),
-            "p": [[tid, tf, encode_positions(pos.get(tid, []))]
-                  for tid, tf in sorted(docs.items(), key=lambda kv: -kv[1])],
-        }
+    desc_terms = 0
+    # Sorted, so the build is byte-identical run to run — a set's order is not.
+    for term in sorted(set(postings) | set(desc_post)):
+        docs = postings.get(term, {})
+        described = desc_post.get(term, {})
+        if not described and len(docs) == 1 and max(docs.values()) < 2:
+            continue  # a term said once in one talk is noise, not a search key
+        entry: dict = {}
+        if docs:
+            idf = math.log(1 + (n_docs - len(docs) + 0.5) / (len(docs) + 0.5))
+            pos = positions.get(term, {})
+            entry["f"] = round(idf, 4)
+            entry["p"] = [[tid, tf, encode_positions(pos.get(tid, []))]
+                          for tid, tf in sorted(docs.items(), key=lambda kv: -kv[1])]
+        if described:
+            desc_terms += 1
+            entry["d"] = [[tid, tf] for tid, tf in sorted(described.items())]
+        if meta_df.get(term):
+            entry["m"] = meta_df[term]
+        shards[shard_key(term)][term] = entry
 
     for key, terms in shards.items():
         atu.write_json(atu.TINDEX / f"{key}.json", terms, compact=True)
@@ -444,8 +494,10 @@ def build_browser_index(talks: list[dict], desc_chars: int = META_DESC_CHARS) ->
         "avg_doc_len": round(avg_len, 2),
         "doc_len": doc_len,
         "stopwords": sorted(atu.STOPWORDS),
+        "stemmed": True,
     }, compact=True)
-    return {"terms": sum(len(v) for v in shards.values()), "shards": len(shards), "docs": n_docs}
+    return {"terms": sum(len(v) for v in shards.values()), "shards": len(shards),
+            "docs": n_docs, "desc_terms": desc_terms}
 
 
 def parse_args(argv: list[str]) -> argparse.Namespace:
@@ -518,7 +570,8 @@ def main(argv: list[str] | None = None) -> None:
     if stats["shards"]:
         total = sum(p.stat().st_size for p in atu.TINDEX.glob("*.json"))
         print(f"  data/tindex/           {atu.human_size(total)} in {stats['shards']} shards, "
-              f"{stats['terms']:,} terms over {stats['docs']} transcripts")
+              f"{stats['terms']:,} stems — {stats['desc_terms']:,} of them in descriptions, "
+              f"transcript postings over {stats['docs']} talks")
     else:
         print("  data/tindex/           (empty — no transcripts fetched yet)")
     print(f"\n{meta_size_report(meta_size, args.desc_chars)}")

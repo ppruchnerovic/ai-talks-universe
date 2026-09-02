@@ -76,8 +76,11 @@ L.suite('load', async browser => {
     findLink: !!c.querySelector('.mo-load'),
   }));
   const firstTalk = byN.get((await L.cardNs(page))[0]);
-  L.check('the title links to the YouTube recording',
-    a.href === `https://www.youtube.com/watch?v=${firstTalk.v}`, a.href);
+  // `l` is the talk's own page, present only when there is no YouTube video —
+  // an InfoQ presentation. Newest-first browsing can put one of those first.
+  const expectHref = firstTalk.l || `https://www.youtube.com/watch?v=${firstTalk.v}`;
+  L.check(`the title links to the recording (${firstTalk.l ? "the talk's own page" : 'YouTube'})`,
+    a.href === expectHref, a.href);
   L.check('external links open in a new tab with noopener',
     a.target === '_blank' && a.rel === 'noopener');
   L.check('the conference badge carries the slug the filter uses',

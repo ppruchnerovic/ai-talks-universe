@@ -318,9 +318,14 @@ def search(con, parsed: Parsed, limit: int, filters: Filters) -> Result:
     kept, dropped = list(parsed.terms), []
     pool = set.intersection(*(present[t] for t in kept))
     while not pool and len(kept) > 1:
-        commonest = max(kept, key=lambda t: len(present[t]))
-        kept.remove(commonest)
-        dropped.append(commonest)
+        # A word no talk says at all — a typo, usually — cannot narrow anything
+        # and only empties the gate, so it goes first. After that the word
+        # present in the most talks goes, since it is the likeliest to be the
+        # question's furniture rather than its subject.
+        absent = [t for t in kept if not present[t]]
+        drop = absent[0] if absent else max(kept, key=lambda t: len(present[t]))
+        kept.remove(drop)
+        dropped.append(drop)
         pool = set.intersection(*(present[t] for t in kept))
     if not pool:
         return Result([], tuple(dropped))
@@ -529,6 +534,42 @@ def resolve(con, col: str, value, listing: str | None):
     raise SystemExit("\n".join(lines))
 
 
+def stats(con) -> dict:
+    """What the corpus is, counted from the index rather than remembered.
+
+    The skill used to quote "2,942 of 8,822" and was wrong within a week; a
+    number a model reads should come from the data it is about to search.
+    Transcripts are counted as talks.db counts them — a file below the wpm
+    floor is on disk but is not content, and is not counted here either.
+    """
+    total, with_tr = con.execute("SELECT count(*), sum(has_transcript) FROM talks").fetchone()
+    exact, = con.execute("SELECT count(*) FROM talks WHERE timing = 'exact'").fetchone()
+    years = [{"year": y, "talks": n, "transcripts": t} for y, n, t in con.execute(
+        "SELECT year, count(*), sum(has_transcript) FROM talks GROUP BY year "
+        "ORDER BY year IS NULL, year DESC")]
+    confs = [{"conference": c, "name": name, "talks": n, "transcripts": t} for c, name, n, t in con.execute(
+        "SELECT conference, max(conference_name), count(*), sum(has_transcript) FROM talks "
+        "GROUP BY conference ORDER BY count(*) DESC, conference")]
+    return {"talks": total, "transcripts": with_tr, "transcripts_exact_timing": exact,
+            "transcripts_estimated_timing": with_tr - exact,
+            "conferences": len(confs), "years": years, "by_conference": confs}
+
+
+def print_stats(con) -> None:
+    st = stats(con)
+    ys = [y["year"] for y in st["years"] if y["year"]]
+    print(f"{st['talks']:,} talks · {st['transcripts']:,} with a transcript "
+          f"({st['transcripts_exact_timing']:,} exact timings, "
+          f"{st['transcripts_estimated_timing']:,} estimated) · "
+          f"{st['conferences']} conferences · {min(ys)}–{max(ys)}")
+    print("\nyear    talks  transcripts")
+    for y in st["years"]:
+        print(f"{str(y['year'] or '?'):<6} {y['talks']:>6}  {y['transcripts']:>6}")
+    print("\nconference                    talks  transcripts")
+    for c in st["by_conference"]:
+        print(f"{c['conference']:<28} {c['talks']:>6}  {c['transcripts']:>6}")
+
+
 # ── output ───────────────────────────────────────────────────────────────────
 
 
@@ -662,6 +703,9 @@ def main() -> None:
                     help="print the conferences --conference accepts, and exit")
     ap.add_argument("--list-categories", action="store_true",
                     help="print the categories --category accepts, and exit")
+    ap.add_argument("--stats", action="store_true",
+                    help="how many talks, transcripts, conferences and years the corpus "
+                         "has, per year and per conference, and exit (--json for data)")
     ap.add_argument("--no-moments", dest="moments", action="store_false",
                     help="hide the timestamped transcript hits")
     ap.add_argument("--json", action="store_true")
@@ -675,12 +719,19 @@ def main() -> None:
     # when the schema or the corpus has moved on — see atu.db_stale().
     con = atu.connect()
 
+    if args.stats:
+        if args.json:
+            json.dump(stats(con), sys.stdout, indent=1)
+            print()
+        else:
+            print_stats(con)
+        return
     if args.list_conferences or args.list_categories:
         print_facet(con, "conference" if args.list_conferences else "category")
         return
     if not args.query:
         ap.error("a query is required "
-                 "(or --list-conferences / --list-categories to see the filters)")
+                 "(or --stats / --list-conferences / --list-categories to see the corpus)")
 
     filters = build_filters(
         conference=[resolve(con, "conference", c, "--list-conferences") for c in args.conference or []],

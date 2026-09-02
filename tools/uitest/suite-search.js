@@ -63,6 +63,29 @@ L.suite('search', async browser => {
   L.check('a prefix hit is highlighted at the stem',
     agentMarks.every(m => m.startsWith('agent')), agentMarks.join(','));
 
+  // ---------- stemming ----------
+  // talks.db tokenises with Porter; the browser index is keyed on the same
+  // stems, so an inflection is not a different search.
+  const nEvaluate = await count('evaluate');
+  const nEvaluation = await count('evaluation');
+  L.check('"evaluate" and "evaluation" are one search',
+    nEvaluate > 0 && nEvaluate === nEvaluation, `evaluate=${nEvaluate} evaluation=${nEvaluation}`);
+  await L.search(page, 'evaluating');
+  const evMarks = await page.$$eval('#results mark',
+    ms => [...new Set(ms.map(m => m.textContent.toLowerCase()))]);
+  L.check('an inflected query highlights every inflection it matched, as whole words',
+    evMarks.length > 0 && evMarks.every(m => m.startsWith('evalu')), evMarks.join(','));
+
+  // ---------- relaxation ----------
+  await L.search(page, 'kubernetes zzzqqqxyzzy');
+  const relaxed = (await L.statusText(page)).trim();
+  L.check('a word no talk says is dropped rather than emptying the result',
+    (await L.resultCount(page)) === n && /dropped/.test(relaxed) && /zzzqqqxyzzy/.test(relaxed),
+    relaxed.slice(0, 120));
+  await L.search(page, 'kubernetes');
+  L.check('a query that needs no relaxing says nothing about it',
+    !/dropped/.test(await L.statusText(page)));
+
   // ---------- quoted phrase ----------
   await L.search(page, '"prompt injection"');
   const phraseN = await L.resultCount(page);
@@ -115,6 +138,31 @@ L.suite('search', async browser => {
     else L.skip('a description-only word is searchable', 'no such word found');
   } else {
     L.skip('descriptions are searched', 'descriptions not collected yet — run enrich.py');
+  }
+
+  // The browser holds a 300-character clip of each description; the rest of
+  // the text is searchable only if the shards really carry it. A word from the
+  // tail of a long description that appears nowhere in the up-front payload
+  // is findable only through them.
+  const deep = await page.evaluate(async () => {
+    const full = await fetch('data/talks.json').then(r => r.json());
+    const meta = await fetch('data/search-meta.json').then(r => r.json());
+    const hay = new Set(meta.talks.flatMap(t =>
+      [t.t, t.d, (t.a || []).join(' '), (t.s || []).join(' '), t.c, t.e].join(' ')
+        .toLowerCase().match(/[a-z]+/g) || []));
+    for (const t of full.talks) {
+      if ((t.description || '').length < 900) continue;
+      const tail = t.description.slice(600).toLowerCase();
+      const w = (tail.match(/\b[a-z]{9,}\b/g) || []).find(x => !hay.has(x));
+      if (w) return { w, id: t.id };
+    }
+    return null;
+  });
+  if (deep) {
+    L.check(`a word beyond the description clip ("${deep.w}") is found through the shards`,
+      await count(deep.w) > 0, `from ${deep.id}`);
+  } else {
+    L.skip('a word beyond the description clip is searchable', 'no long description with a unique tail word');
   }
 
   // ---------- the transcript layer ----------

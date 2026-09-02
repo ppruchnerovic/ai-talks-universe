@@ -7,6 +7,7 @@ anywhere.
 from __future__ import annotations
 
 import argparse
+import functools
 import json
 import pathlib
 import re
@@ -172,6 +173,176 @@ def tokenize(text: str) -> list[str]:
             for part in re.split(r"[.\-]+", t):
                 if len(part) >= 2 and part not in STOPWORDS and part != t:
                     out.append(part)
+    return out
+
+
+# --- stemming -------------------------------------------------------------------
+#
+# talks.db tokenises with FTS5's `porter unicode61`, so query.py finds
+# "evaluation" for "evaluate". The browser index had no stemmer, so index.html
+# did not — and its prefix rule fired only when the exact key was absent, and
+# then took an arbitrary first twelve keys of the shard. This is Porter's 1980
+# algorithm, step for step; index.html carries the same function in JavaScript
+# and test_stem.py checks the two agree on every word in the corpus, because
+# the failure would be silent: a shard keyed on one spelling of a stem and a
+# query asking for the other simply match nothing.
+#
+# Only [a-z]* words are stemmed. tokenize() emits tokens that may carry digits,
+# `+`, `#`, `.` or `-` ("gpt-4", "c++", ".net"), and those pass through
+# untouched: Porter is defined on English words, and a stem of "c++" is "c++".
+
+_VOWELS = set("aeiou")
+
+
+def _is_consonant(w: str, i: int) -> bool:
+    c = w[i]
+    if c in _VOWELS:
+        return False
+    if c == "y":
+        return i == 0 or not _is_consonant(w, i - 1)
+    return True
+
+
+def _measure(stem: str) -> int:
+    """The m of Porter's [C](VC){m}[V]: how many VC sequences the stem has."""
+    m = 0
+    i = 0
+    n = len(stem)
+    while i < n and _is_consonant(stem, i):
+        i += 1
+    while i < n:
+        while i < n and not _is_consonant(stem, i):
+            i += 1
+        if i >= n:
+            break
+        m += 1
+        while i < n and _is_consonant(stem, i):
+            i += 1
+    return m
+
+
+def _has_vowel(stem: str) -> bool:
+    return any(not _is_consonant(stem, i) for i in range(len(stem)))
+
+
+def _ends_double_consonant(w: str) -> bool:
+    return len(w) >= 2 and w[-1] == w[-2] and _is_consonant(w, len(w) - 1)
+
+
+def _ends_cvc(w: str) -> bool:
+    """…consonant-vowel-consonant, the last not w, x or y."""
+    if len(w) < 3:
+        return False
+    if not (_is_consonant(w, len(w) - 1) and not _is_consonant(w, len(w) - 2)
+            and _is_consonant(w, len(w) - 3)):
+        return False
+    return w[-1] not in "wxy"
+
+
+def _replace(w: str, suffix: str, repl: str, min_m: int = 0) -> str | None:
+    """w with suffix swapped for repl, if the stem before it has m > min_m - 1."""
+    if not w.endswith(suffix):
+        return None
+    stem = w[:len(w) - len(suffix)]
+    if _measure(stem) >= min_m:
+        return stem + repl
+    return w
+
+
+_STEP2 = (("ational", "ate"), ("tional", "tion"), ("enci", "ence"), ("anci", "ance"),
+          ("izer", "ize"), ("bli", "ble"), ("alli", "al"), ("entli", "ent"), ("eli", "e"),
+          ("ousli", "ous"), ("ization", "ize"), ("ation", "ate"), ("ator", "ate"),
+          ("alism", "al"), ("iveness", "ive"), ("fulness", "ful"), ("ousness", "ous"),
+          ("aliti", "al"), ("iviti", "ive"), ("biliti", "ble"), ("logi", "log"))
+_STEP3 = (("icate", "ic"), ("ative", ""), ("alize", "al"), ("iciti", "ic"), ("ical", "ic"),
+          ("ful", ""), ("ness", ""))
+_STEP4 = ("al", "ance", "ence", "er", "ic", "able", "ible", "ant", "ement", "ment", "ent",
+          "ion", "ou", "ism", "ate", "iti", "ous", "ive", "ize")
+
+
+@functools.lru_cache(maxsize=None)
+def stem(word: str) -> str:
+    """Porter-stem one lowercase English word; anything else is returned as is.
+
+    Memoised: the corpus has ~30 million transcript tokens and ~100 thousand
+    distinct ones, and stemming each token afresh took the index build from
+    48 s to nearly two minutes.
+    """
+    w = word
+    if len(w) <= 2 or not w.isascii() or not w.isalpha():
+        return w
+    # Step 1a
+    if w.endswith("sses"):
+        w = w[:-2]
+    elif w.endswith("ies"):
+        w = w[:-2]
+    elif w.endswith("ss"):
+        pass
+    elif w.endswith("s"):
+        w = w[:-1]
+    # Step 1b
+    if w.endswith("eed"):
+        if _measure(w[:-3]) > 0:
+            w = w[:-1]
+    else:
+        stripped = None
+        if w.endswith("ed") and _has_vowel(w[:-2]):
+            stripped = w[:-2]
+        elif w.endswith("ing") and _has_vowel(w[:-3]):
+            stripped = w[:-3]
+        if stripped is not None:
+            w = stripped
+            if w.endswith(("at", "bl", "iz")):
+                w += "e"
+            elif _ends_double_consonant(w) and w[-1] not in "lsz":
+                w = w[:-1]
+            elif _measure(w) == 1 and _ends_cvc(w):
+                w += "e"
+    # Step 1c
+    if w.endswith("y") and _has_vowel(w[:-1]):
+        w = w[:-1] + "i"
+    # Step 2
+    for suffix, repl in _STEP2:
+        if w.endswith(suffix):
+            if _measure(w[:-len(suffix)]) > 0:
+                w = w[:-len(suffix)] + repl
+            break
+    # Step 3
+    for suffix, repl in _STEP3:
+        if w.endswith(suffix):
+            if _measure(w[:-len(suffix)]) > 0:
+                w = w[:-len(suffix)] + repl
+            break
+    # Step 4
+    for suffix in _STEP4:
+        if w.endswith(suffix):
+            base = w[:-len(suffix)]
+            if _measure(base) > 1 and (suffix != "ion" or (base and base[-1] in "st")):
+                w = base
+            break
+    # Step 5a
+    if w.endswith("e"):
+        base = w[:-1]
+        m = _measure(base)
+        if m > 1 or (m == 1 and not _ends_cvc(base)):
+            w = base
+    # Step 5b
+    if _measure(w) > 1 and _ends_double_consonant(w) and w.endswith("l"):
+        w = w[:-1]
+    return w
+
+
+def stems(text: str) -> list[str]:
+    """tokenize(), then stem each token — what the browser index is keyed on.
+
+    A stem shorter than two characters is dropped ("ies" stems to "i"), so
+    that every key has the two characters build_index.shard_key() reads.
+    """
+    out = []
+    for t in tokenize(text):
+        s = stem(t)
+        if len(s) >= 2:
+            out.append(s)
     return out
 
 
