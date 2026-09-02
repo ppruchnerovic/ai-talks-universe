@@ -15,6 +15,7 @@ video_id: LDP50108ByU
 url: https://www.youtube.com/watch?v=LDP50108ByU
 youtube_url: https://www.youtube.com/watch?v=LDP50108ByU
 tags: ["Conference", "DuckDB", "ETL", "Parquet", "PyCon", "PyConDE", "PyData", "Pydantic", "Python", "TCP streams", "Tech Talk", "async Python", "batch processing", "data architecture", "data engineering", "data pipelines", "data validation", "industrial data", "on-premise"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

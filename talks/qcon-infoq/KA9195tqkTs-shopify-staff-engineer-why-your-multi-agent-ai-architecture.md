@@ -15,6 +15,7 @@ video_id: KA9195tqkTs
 url: https://www.youtube.com/watch?v=KA9195tqkTs
 youtube_url: https://www.youtube.com/watch?v=KA9195tqkTs
 tags: ["InfoQ", "Transcript", "QCon AI New York", "QCon AI", "Multi-Agent Systems", "Shopify", "Case Study", "Artificial Intelligence", "AI Agents", "Generative AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: true
 ---
 

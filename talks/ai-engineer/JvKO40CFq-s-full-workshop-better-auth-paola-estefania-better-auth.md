@@ -15,6 +15,7 @@ video_id: JvKO40CFq-s
 url: https://www.youtube.com/watch?v=JvKO40CFq-s
 youtube_url: https://www.youtube.com/watch?v=JvKO40CFq-s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

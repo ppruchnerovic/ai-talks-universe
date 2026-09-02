@@ -15,6 +15,7 @@ video_id: lerfCm9lifE
 url: https://www.youtube.com/watch?v=lerfCm9lifE
 youtube_url: https://www.youtube.com/watch?v=lerfCm9lifE
 tags: ["analytics engineering", "data governance", "ChatGPT", "artificial intelligence", "machine learning", "business intelligence", "analytics development", "data teams", "analytics workflow", "data warehouse bottlenecks", "Python tutorial", "data modeling", "data quality", "data lineage", "metadata management", "data catalogs", "self service analytics", "data democratization", "analytics best practices", "data architecture", "modern data stack"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

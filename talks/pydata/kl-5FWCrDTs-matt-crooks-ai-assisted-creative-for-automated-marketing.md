@@ -15,6 +15,7 @@ video_id: kl-5FWCrDTs
 url: https://www.youtube.com/watch?v=kl-5FWCrDTs
 youtube_url: https://www.youtube.com/watch?v=kl-5FWCrDTs
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

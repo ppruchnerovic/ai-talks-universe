@@ -15,6 +15,7 @@ video_id: UZugswTUXtw
 url: https://www.youtube.com/watch?v=UZugswTUXtw
 youtube_url: https://www.youtube.com/watch?v=UZugswTUXtw
 tags: ["Culture", "Software Architecture", "Software Testing", "Generative AI", "Quality Engineering", "Test Automation", "InfoQ", "InfoQ Dev Summit", "Transcript", "Software Development", "Automated testing", "Automation"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

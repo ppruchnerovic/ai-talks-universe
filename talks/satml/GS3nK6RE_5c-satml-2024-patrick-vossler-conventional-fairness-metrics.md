@@ -15,6 +15,7 @@ video_id: GS3nK6RE_5c
 url: https://www.youtube.com/watch?v=GS3nK6RE_5c
 youtube_url: https://www.youtube.com/watch?v=GS3nK6RE_5c
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

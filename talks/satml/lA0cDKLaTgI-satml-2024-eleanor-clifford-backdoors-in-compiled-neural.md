@@ -15,6 +15,7 @@ video_id: lA0cDKLaTgI
 url: https://www.youtube.com/watch?v=lA0cDKLaTgI
 youtube_url: https://www.youtube.com/watch?v=lA0cDKLaTgI
 tags: []
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

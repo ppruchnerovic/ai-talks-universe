@@ -15,6 +15,7 @@ video_id: 5ogQiejLbl4
 url: https://www.youtube.com/watch?v=5ogQiejLbl4
 youtube_url: https://www.youtube.com/watch?v=5ogQiejLbl4
 tags: ["Talent Strategy", "HR"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

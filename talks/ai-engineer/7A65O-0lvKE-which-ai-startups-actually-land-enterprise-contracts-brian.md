@@ -15,6 +15,7 @@ video_id: 7A65O-0lvKE
 url: https://www.youtube.com/watch?v=7A65O-0lvKE
 youtube_url: https://www.youtube.com/watch?v=7A65O-0lvKE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

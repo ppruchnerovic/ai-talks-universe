@@ -15,6 +15,7 @@ video_id: rdYtKpbFv8Q
 url: https://www.youtube.com/watch?v=rdYtKpbFv8Q
 youtube_url: https://www.youtube.com/watch?v=rdYtKpbFv8Q
 tags: []
+topics: ["Data engineering & MLOps", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

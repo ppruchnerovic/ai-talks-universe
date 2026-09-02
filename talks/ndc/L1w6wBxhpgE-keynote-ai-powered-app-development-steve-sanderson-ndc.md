@@ -15,6 +15,7 @@ video_id: L1w6wBxhpgE
 url: https://www.youtube.com/watch?v=L1w6wBxhpgE
 youtube_url: https://www.youtube.com/watch?v=L1w6wBxhpgE
 tags: ["AI", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Great Britain", "Steve Sanderson"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

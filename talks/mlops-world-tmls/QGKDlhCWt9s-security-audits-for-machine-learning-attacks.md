@@ -15,6 +15,7 @@ video_id: QGKDlhCWt9s
 url: https://www.youtube.com/watch?v=QGKDlhCWt9s
 youtube_url: https://www.youtube.com/watch?v=QGKDlhCWt9s
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Security Audits for Machine Learning Attacks", "Security Audits", "Machine Learning Attacks", "ml attacks"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

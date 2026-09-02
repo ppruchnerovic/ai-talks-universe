@@ -15,6 +15,7 @@ video_id: L7Y_53PRPGM
 url: https://www.youtube.com/watch?v=L7Y_53PRPGM
 youtube_url: https://www.youtube.com/watch?v=L7Y_53PRPGM
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

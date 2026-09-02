@@ -15,6 +15,7 @@ video_id: XP7i024IAPI
 url: https://www.youtube.com/watch?v=XP7i024IAPI
 youtube_url: https://www.youtube.com/watch?v=XP7i024IAPI
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

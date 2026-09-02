@@ -15,6 +15,7 @@ video_id: Q62xf95xQZo
 url: https://www.youtube.com/watch?v=Q62xf95xQZo
 youtube_url: https://www.youtube.com/watch?v=Q62xf95xQZo
 tags: ["streaming", "data trends", "data mesh", "SQL"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

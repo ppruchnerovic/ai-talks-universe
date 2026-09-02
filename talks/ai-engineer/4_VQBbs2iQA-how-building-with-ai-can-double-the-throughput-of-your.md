@@ -15,6 +15,7 @@ video_id: 4_VQBbs2iQA
 url: https://www.youtube.com/watch?v=4_VQBbs2iQA
 youtube_url: https://www.youtube.com/watch?v=4_VQBbs2iQA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

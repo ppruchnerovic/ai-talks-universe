@@ -15,6 +15,7 @@ video_id: IJ9NWjtM9_M
 url: https://www.youtube.com/watch?v=IJ9NWjtM9_M
 youtube_url: https://www.youtube.com/watch?v=IJ9NWjtM9_M
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: alVIYAu51V8
 url: https://www.youtube.com/watch?v=alVIYAu51V8
 youtube_url: https://www.youtube.com/watch?v=alVIYAu51V8
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

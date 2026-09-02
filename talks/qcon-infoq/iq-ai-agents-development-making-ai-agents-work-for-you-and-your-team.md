@@ -15,6 +15,7 @@ video_id: iq-ai-agents-development
 url: https://www.infoq.com/presentations/ai-agents-development/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

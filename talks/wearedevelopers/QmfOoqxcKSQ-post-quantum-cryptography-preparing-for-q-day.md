@@ -15,6 +15,7 @@ video_id: QmfOoqxcKSQ
 url: https://www.youtube.com/watch?v=QmfOoqxcKSQ
 youtube_url: https://www.youtube.com/watch?v=QmfOoqxcKSQ
 tags: ["Security & Privacy", "Quantum", "Security", "Web Standards"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

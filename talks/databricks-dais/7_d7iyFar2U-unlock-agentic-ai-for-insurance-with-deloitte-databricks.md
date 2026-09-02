@@ -15,6 +15,7 @@ video_id: 7_d7iyFar2U
 url: https://www.youtube.com/watch?v=7_d7iyFar2U
 youtube_url: https://www.youtube.com/watch?v=7_d7iyFar2U
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

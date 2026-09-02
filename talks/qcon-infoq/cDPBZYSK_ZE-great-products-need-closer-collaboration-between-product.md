@@ -15,6 +15,7 @@ video_id: cDPBZYSK_ZE
 url: https://www.youtube.com/watch?v=cDPBZYSK_ZE
 youtube_url: https://www.youtube.com/watch?v=cDPBZYSK_ZE
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

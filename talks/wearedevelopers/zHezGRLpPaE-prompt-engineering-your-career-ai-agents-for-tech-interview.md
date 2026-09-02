@@ -15,6 +15,7 @@ video_id: zHezGRLpPaE
 url: https://www.youtube.com/watch?v=zHezGRLpPaE
 youtube_url: https://www.youtube.com/watch?v=zHezGRLpPaE
 tags: ["Career & Growth", "Career Development", "Prompt Engineering"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: XsEBpU1lrhs
 url: https://www.youtube.com/watch?v=XsEBpU1lrhs
 youtube_url: https://www.youtube.com/watch?v=XsEBpU1lrhs
 tags: ["AI"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

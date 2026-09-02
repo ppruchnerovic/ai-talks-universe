@@ -15,6 +15,7 @@ video_id: Ki980nV0__0
 url: https://www.youtube.com/watch?v=Ki980nV0__0
 youtube_url: https://www.youtube.com/watch?v=Ki980nV0__0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

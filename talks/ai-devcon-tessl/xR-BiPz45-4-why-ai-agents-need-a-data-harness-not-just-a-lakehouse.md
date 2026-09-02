@@ -15,6 +15,7 @@ video_id: xR-BiPz45-4
 url: https://www.youtube.com/watch?v=xR-BiPz45-4
 youtube_url: https://www.youtube.com/watch?v=xR-BiPz45-4
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: xVK29ANv5WY
 url: https://www.youtube.com/watch?v=xVK29ANv5WY
 youtube_url: https://www.youtube.com/watch?v=xVK29ANv5WY
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

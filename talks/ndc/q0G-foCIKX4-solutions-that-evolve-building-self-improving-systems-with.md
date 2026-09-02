@@ -15,6 +15,7 @@ video_id: q0G-foCIKX4
 url: https://www.youtube.com/watch?v=q0G-foCIKX4
 youtube_url: https://www.youtube.com/watch?v=q0G-foCIKX4
 tags: ["AI", "Architecture", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "Great Britain", "UK", "United Kingdom", "Barry Stahl"]
+topics: []
 transcript: true
 ---
 

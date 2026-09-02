@@ -15,6 +15,7 @@ video_id: x8BQM-q0mAo
 url: https://www.youtube.com/watch?v=x8BQM-q0mAo
 youtube_url: https://www.youtube.com/watch?v=x8BQM-q0mAo
 tags: ["Apache Arrow", "Apache Parquet", "open source", "data lineage"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: RW3UovSd_tc
 url: https://www.youtube.com/watch?v=RW3UovSd_tc
 youtube_url: https://www.youtube.com/watch?v=RW3UovSd_tc
 tags: ["Connect manage and scale your Copilot agents | STUDIOSP84", "English (US)", "Nigel Cain", "STUDIOSP84", "STUDIOSP84_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

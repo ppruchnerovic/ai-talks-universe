@@ -15,6 +15,7 @@ video_id: 89BK7xYZHZM
 url: https://www.youtube.com/watch?v=89BK7xYZHZM
 youtube_url: https://www.youtube.com/watch?v=89BK7xYZHZM
 tags: ["Software Architecture", "Communication", "Project Management", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

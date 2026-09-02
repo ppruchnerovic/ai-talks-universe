@@ -15,6 +15,7 @@ video_id: wXeHChqpxDo
 url: https://www.youtube.com/watch?v=wXeHChqpxDo
 youtube_url: https://www.youtube.com/watch?v=wXeHChqpxDo
 tags: ["Arun Ulag", "BRK1702", "BRK1702_v2", "English (US)", "Innovation Session: Microsoft Fabric and Azure Databases - the data estate for AI | BRK1702", "Michel Porter", "Signature pass", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

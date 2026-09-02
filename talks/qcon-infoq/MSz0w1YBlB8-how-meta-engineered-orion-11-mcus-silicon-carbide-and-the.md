@@ -15,6 +15,7 @@ video_id: MSz0w1YBlB8
 url: https://www.youtube.com/watch?v=MSz0w1YBlB8
 youtube_url: https://www.youtube.com/watch?v=MSz0w1YBlB8
 tags: ["Software Development", "Meta", "Orion Glasses", "AR Glasses", "QCon London", "InfoQ", "Transcript", "Augmented Reality", "Case Study", "AR", "Software Architecture"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

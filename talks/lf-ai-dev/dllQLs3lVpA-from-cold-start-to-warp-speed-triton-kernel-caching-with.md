@@ -15,6 +15,7 @@ video_id: dllQLs3lVpA
 url: https://www.youtube.com/watch?v=dllQLs3lVpA
 youtube_url: https://www.youtube.com/watch?v=dllQLs3lVpA
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

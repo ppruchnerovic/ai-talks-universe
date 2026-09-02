@@ -15,6 +15,7 @@ video_id: TmZ-hCytbPg
 url: https://www.youtube.com/watch?v=TmZ-hCytbPg
 youtube_url: https://www.youtube.com/watch?v=TmZ-hCytbPg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

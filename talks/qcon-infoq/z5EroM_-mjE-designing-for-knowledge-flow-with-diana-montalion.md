@@ -15,6 +15,7 @@ video_id: z5EroM_-mjE
 url: https://www.youtube.com/watch?v=z5EroM_-mjE
 youtube_url: https://www.youtube.com/watch?v=z5EroM_-mjE
 tags: []
+topics: []
 transcript: false
 ---
 

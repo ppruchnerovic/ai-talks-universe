@@ -15,6 +15,7 @@ video_id: ON8VjH3umh0
 url: https://www.youtube.com/watch?v=ON8VjH3umh0
 youtube_url: https://www.youtube.com/watch?v=ON8VjH3umh0
 tags: ["BRK227", "Bob Ward", "Breakout", "English (US)", "Gopal Shankar", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Migrate to build run and secure Generative AI | BRK227", "Raushni Gupta", "Technical", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

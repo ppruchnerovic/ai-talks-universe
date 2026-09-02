@@ -15,6 +15,7 @@ video_id: xz0-brt56L8
 url: https://www.youtube.com/watch?v=xz0-brt56L8
 youtube_url: https://www.youtube.com/watch?v=xz0-brt56L8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

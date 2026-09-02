@@ -15,6 +15,7 @@ video_id: mfXIe_S53vA
 url: https://www.youtube.com/watch?v=mfXIe_S53vA
 youtube_url: https://www.youtube.com/watch?v=mfXIe_S53vA
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

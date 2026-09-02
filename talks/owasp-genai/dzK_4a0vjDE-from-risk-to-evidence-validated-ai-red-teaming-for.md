@@ -15,6 +15,7 @@ video_id: dzK_4a0vjDE
 url: https://www.youtube.com/watch?v=dzK_4a0vjDE
 youtube_url: https://www.youtube.com/watch?v=dzK_4a0vjDE
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

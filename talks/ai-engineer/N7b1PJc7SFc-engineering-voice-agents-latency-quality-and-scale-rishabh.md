@@ -15,6 +15,7 @@ video_id: N7b1PJc7SFc
 url: https://www.youtube.com/watch?v=N7b1PJc7SFc
 youtube_url: https://www.youtube.com/watch?v=N7b1PJc7SFc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

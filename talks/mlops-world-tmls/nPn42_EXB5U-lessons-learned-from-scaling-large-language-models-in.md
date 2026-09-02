@@ -15,6 +15,7 @@ video_id: nPn42_EXB5U
 url: https://www.youtube.com/watch?v=nPn42_EXB5U
 youtube_url: https://www.youtube.com/watch?v=nPn42_EXB5U
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: VV4VtUQ31xI
 url: https://www.youtube.com/watch?v=VV4VtUQ31xI
 youtube_url: https://www.youtube.com/watch?v=VV4VtUQ31xI
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

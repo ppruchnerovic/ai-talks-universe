@@ -15,6 +15,7 @@ video_id: jvKf6zXrNO4
 url: https://www.youtube.com/watch?v=jvKf6zXrNO4
 youtube_url: https://www.youtube.com/watch?v=jvKf6zXrNO4
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

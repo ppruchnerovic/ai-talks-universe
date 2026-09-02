@@ -15,6 +15,7 @@ video_id: grBUnCCY-WQ
 url: https://www.youtube.com/watch?v=grBUnCCY-WQ
 youtube_url: https://www.youtube.com/watch?v=grBUnCCY-WQ
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

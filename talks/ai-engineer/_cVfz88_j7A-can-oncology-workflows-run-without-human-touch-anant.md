@@ -15,6 +15,7 @@ video_id: _cVfz88_j7A
 url: https://www.youtube.com/watch?v=_cVfz88_j7A
 youtube_url: https://www.youtube.com/watch?v=_cVfz88_j7A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

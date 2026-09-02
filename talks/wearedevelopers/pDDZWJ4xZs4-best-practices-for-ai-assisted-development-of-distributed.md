@@ -15,6 +15,7 @@ video_id: pDDZWJ4xZs4
 url: https://www.youtube.com/watch?v=pDDZWJ4xZs4
 youtube_url: https://www.youtube.com/watch?v=pDDZWJ4xZs4
 tags: ["Developer Experience", "AI Coding Assistants", "AI Standards", "Claude", "Cursor", "Developer Experience (DevEx)", "Distributed Systems", "Generative AI (GenAI)", "Integration", "Large Language Models (LLMs)", "Microservices", "Software Architecture", "System Design", "Test-Driven Development (TDD)", "VS Code"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

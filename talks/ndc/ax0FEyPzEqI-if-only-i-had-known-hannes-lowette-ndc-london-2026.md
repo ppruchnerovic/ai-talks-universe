@@ -15,6 +15,7 @@ video_id: ax0FEyPzEqI
 url: https://www.youtube.com/watch?v=ax0FEyPzEqI
 youtube_url: https://www.youtube.com/watch?v=ax0FEyPzEqI
 tags: ["Work skills", "Ethics", "People", "Soft Skills", "NDC", "Conferences", "2026", "Live", "Fun", "London", "AI", "Hannes Lowette"]
+topics: []
 transcript: true
 ---
 

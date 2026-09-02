@@ -15,6 +15,7 @@ video_id: 67Rjht678_g
 url: https://www.youtube.com/watch?v=67Rjht678_g
 youtube_url: https://www.youtube.com/watch?v=67Rjht678_g
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

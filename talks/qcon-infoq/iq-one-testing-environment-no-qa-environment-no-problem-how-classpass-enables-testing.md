@@ -15,6 +15,7 @@ video_id: iq-one-testing-environment
 url: https://www.infoq.com/presentations/one-testing-environment/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

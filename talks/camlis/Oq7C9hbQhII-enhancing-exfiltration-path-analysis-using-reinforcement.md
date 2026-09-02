@@ -15,6 +15,7 @@ video_id: Oq7C9hbQhII
 url: https://www.youtube.com/watch?v=Oq7C9hbQhII
 youtube_url: https://www.youtube.com/watch?v=Oq7C9hbQhII
 tags: []
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

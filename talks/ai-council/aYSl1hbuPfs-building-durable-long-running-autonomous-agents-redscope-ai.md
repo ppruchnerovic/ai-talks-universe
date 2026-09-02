@@ -15,6 +15,7 @@ video_id: aYSl1hbuPfs
 url: https://www.youtube.com/watch?v=aYSl1hbuPfs
 youtube_url: https://www.youtube.com/watch?v=aYSl1hbuPfs
 tags: ["AI"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

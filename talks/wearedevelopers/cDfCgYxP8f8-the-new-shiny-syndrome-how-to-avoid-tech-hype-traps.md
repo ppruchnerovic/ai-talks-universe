@@ -15,6 +15,7 @@ video_id: cDfCgYxP8f8
 url: https://www.youtube.com/watch?v=cDfCgYxP8f8
 youtube_url: https://www.youtube.com/watch?v=cDfCgYxP8f8
 tags: ["Engineering Leadership", "APIs", "Caching", "Containers", "Databases", "DevOps", "Infrastructure", "Microservices", "MongoDB", "Multi-Cloud", "NoSQL", "On-Premise", "Performance", "Productivity", "Reliability", "Service Mesh", "Software Architecture", "System Design", "Tooling", "Tracing", "Varnish", "Web Performance"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

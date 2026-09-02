@@ -15,6 +15,7 @@ video_id: vRFqbEzzDsI
 url: https://www.youtube.com/watch?v=vRFqbEzzDsI
 youtube_url: https://www.youtube.com/watch?v=vRFqbEzzDsI
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

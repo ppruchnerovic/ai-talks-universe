@@ -15,6 +15,7 @@ video_id: NRHyMDSTU5A
 url: https://www.youtube.com/watch?v=NRHyMDSTU5A
 youtube_url: https://www.youtube.com/watch?v=NRHyMDSTU5A
 tags: ["LLM Inference", "GenAI", "Model Optimization", "AI", "InfoQ Dev Summit", "LLMs", "Software Architecture", "Generative AI", "Performance", "Scalability", "InfoQ", "Transcript"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

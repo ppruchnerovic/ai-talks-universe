@@ -15,6 +15,7 @@ video_id: KhUP7wHGIBw
 url: https://www.youtube.com/watch?v=KhUP7wHGIBw
 youtube_url: https://www.youtube.com/watch?v=KhUP7wHGIBw
 tags: ["7fcc55d7-ee98-43c3-8d44-211b4c500033_Segment", "Cynthia Batzli", "English (US)", "Jay Parekh", "Mario De Ridder", "Microsoft AI Cloud Partner Program", "PBRK349", "Partner Business", "Partner: Accelerating partner growth with Cloud and AI Endpoints | PBRK349", "Scale with cloud and AI endpoints", "Sydney Carey", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

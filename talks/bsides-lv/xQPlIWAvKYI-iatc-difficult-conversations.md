@@ -15,6 +15,7 @@ video_id: xQPlIWAvKYI
 url: https://www.youtube.com/watch?v=xQPlIWAvKYI
 youtube_url: https://www.youtube.com/watch?v=xQPlIWAvKYI
 tags: ["MDXAN8"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Loomkgn436g
 url: https://www.youtube.com/watch?v=Loomkgn436g
 youtube_url: https://www.youtube.com/watch?v=Loomkgn436g
 tags: ["BRK249", "Breakout", "End of Support (EOS)", "English (US)", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Nathan Weaver", "Partner Business", "Ralf Huebenthal", "Skand Mittal", "Solution Area", "Transform your customer SAP estate by unlocking AI innovation | BRK249", "Veronika Reger", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

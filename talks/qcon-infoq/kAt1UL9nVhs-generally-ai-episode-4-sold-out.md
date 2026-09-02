@@ -15,6 +15,7 @@ video_id: kAt1UL9nVhs
 url: https://www.youtube.com/watch?v=kAt1UL9nVhs
 youtube_url: https://www.youtube.com/watch?v=kAt1UL9nVhs
 tags: ["Generally AI", "The InfoQ Podcast"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

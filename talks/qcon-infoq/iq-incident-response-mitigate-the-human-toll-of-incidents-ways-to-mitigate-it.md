@@ -15,6 +15,7 @@ video_id: iq-incident-response-mitigate
 url: https://www.infoq.com/presentations/incident-response-mitigate/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

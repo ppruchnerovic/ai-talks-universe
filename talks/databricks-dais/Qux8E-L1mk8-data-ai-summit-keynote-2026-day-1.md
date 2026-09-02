@@ -15,6 +15,7 @@ video_id: Qux8E-L1mk8
 url: https://www.youtube.com/watch?v=Qux8E-L1mk8
 youtube_url: https://www.youtube.com/watch?v=Qux8E-L1mk8
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

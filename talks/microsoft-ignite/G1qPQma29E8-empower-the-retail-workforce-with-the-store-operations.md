@@ -15,6 +15,7 @@ video_id: G1qPQma29E8
 url: https://www.youtube.com/watch?v=G1qPQma29E8
 youtube_url: https://www.youtube.com/watch?v=G1qPQma29E8
 tags: ["AI", "BRK260", "Breakout", "Copilot", "Copilot Studio", "Empower the retail workforce with the Store Operations Agent | BRK260", "English (US)", "Enterprise work management", "Foundational (100)", "Industry", "Industry-Curated", "Microsoft Cloud for Retail", "Power Apps", "Task Management", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

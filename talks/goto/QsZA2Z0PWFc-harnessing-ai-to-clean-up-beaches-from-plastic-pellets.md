@@ -15,6 +15,7 @@ video_id: QsZA2Z0PWFc
 url: https://www.youtube.com/watch?v=QsZA2Z0PWFc
 youtube_url: https://www.youtube.com/watch?v=QsZA2Z0PWFc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

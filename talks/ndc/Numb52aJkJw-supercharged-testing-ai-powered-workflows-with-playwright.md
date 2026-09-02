@@ -15,6 +15,7 @@ video_id: Numb52aJkJw
 url: https://www.youtube.com/watch?v=Numb52aJkJw
 youtube_url: https://www.youtube.com/watch?v=Numb52aJkJw
 tags: [".NET", "AI", "JavaScript", "Testing", "Tools", "Web", "MCP", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "Debbie O'Brien"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

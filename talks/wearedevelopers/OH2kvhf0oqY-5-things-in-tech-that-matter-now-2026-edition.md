@@ -15,6 +15,7 @@ video_id: OH2kvhf0oqY
 url: https://www.youtube.com/watch?v=OH2kvhf0oqY
 youtube_url: https://www.youtube.com/watch?v=OH2kvhf0oqY
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

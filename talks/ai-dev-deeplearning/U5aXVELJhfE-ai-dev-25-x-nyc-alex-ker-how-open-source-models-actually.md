@@ -15,6 +15,7 @@ video_id: U5aXVELJhfE
 url: https://www.youtube.com/watch?v=U5aXVELJhfE
 youtube_url: https://www.youtube.com/watch?v=U5aXVELJhfE
 tags: []
+topics: ["Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

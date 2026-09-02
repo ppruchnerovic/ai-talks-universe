@@ -15,6 +15,7 @@ video_id: iq-bigquery-data-challenges
 url: https://www.infoq.com/presentations/bigquery-data-challenges/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

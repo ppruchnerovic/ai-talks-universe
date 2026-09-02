@@ -15,6 +15,7 @@ video_id: s8lP2lKVCXk
 url: https://www.youtube.com/watch?v=s8lP2lKVCXk
 youtube_url: https://www.youtube.com/watch?v=s8lP2lKVCXk
 tags: ["3f0d2e51-78bd-4d41-a107-a0c1858def66_Segment", "AI for nurses: Restoring the human connection with Dragon Copilot | BRK371", "BRK371", "Copilot and agents at work", "Darren Batara", "English (US)", "Healthcare and Life Sciences", "Signature pass", "Technical", "Umesh Rustogi", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

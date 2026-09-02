@@ -15,6 +15,7 @@ video_id: B9sAARtBILY
 url: https://www.youtube.com/watch?v=B9sAARtBILY
 youtube_url: https://www.youtube.com/watch?v=B9sAARtBILY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

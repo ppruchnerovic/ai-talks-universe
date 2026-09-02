@@ -15,6 +15,7 @@ video_id: b1fgxbKPHco
 url: https://www.youtube.com/watch?v=b1fgxbKPHco
 youtube_url: https://www.youtube.com/watch?v=b1fgxbKPHco
 tags: ["Artificial Intelligence", "InfoQ Dev Summit", "InfoQ", "Transcript", "Software Architecture", "AI Agents", "MCP", "Model Context Protocol", "RAG", "Generative AI", "Software Engineering", "Retrieval-Augmented Generation"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

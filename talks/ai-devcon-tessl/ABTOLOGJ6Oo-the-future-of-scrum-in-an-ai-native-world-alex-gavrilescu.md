@@ -15,6 +15,7 @@ video_id: ABTOLOGJ6Oo
 url: https://www.youtube.com/watch?v=ABTOLOGJ6Oo
 youtube_url: https://www.youtube.com/watch?v=ABTOLOGJ6Oo
 tags: []
+topics: []
 transcript: false
 ---
 

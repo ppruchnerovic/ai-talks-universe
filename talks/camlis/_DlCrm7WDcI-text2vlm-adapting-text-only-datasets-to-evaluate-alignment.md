@@ -15,6 +15,7 @@ video_id: _DlCrm7WDcI
 url: https://www.youtube.com/watch?v=_DlCrm7WDcI
 youtube_url: https://www.youtube.com/watch?v=_DlCrm7WDcI
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: TVtgz2AHRyA
 url: https://www.youtube.com/watch?v=TVtgz2AHRyA
 youtube_url: https://www.youtube.com/watch?v=TVtgz2AHRyA
 tags: ["AI", "Advanced (300)", "BRK312", "Break down risk siloes and build up code to cloud security posture | BRK312", "Breakout", "Cloud", "Data Security", "English (US)", "Preetham Anand Naik", "Security", "Technical", "Version v4", "Yuri Diogenes", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-multi-agent-system-lessons
 url: https://www.infoq.com/presentations/multi-agent-system-lessons/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

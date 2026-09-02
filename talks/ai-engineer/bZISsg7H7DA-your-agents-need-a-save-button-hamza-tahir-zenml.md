@@ -15,6 +15,7 @@ video_id: bZISsg7H7DA
 url: https://www.youtube.com/watch?v=bZISsg7H7DA
 youtube_url: https://www.youtube.com/watch?v=bZISsg7H7DA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

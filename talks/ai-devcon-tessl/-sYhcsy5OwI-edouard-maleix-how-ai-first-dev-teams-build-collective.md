@@ -15,6 +15,7 @@ video_id: -sYhcsy5OwI
 url: https://www.youtube.com/watch?v=-sYhcsy5OwI
 youtube_url: https://www.youtube.com/watch?v=-sYhcsy5OwI
 tags: ["AI DevCon London 2026 talks", "AI coding agents", "AI dev teams", "AI-first dev teams showcase", "Edouard Maleix AI DevCon", "agent identity", "ainativedev", "authentification", "collective intelligence", "development productivity", "dynamic coding rules with AI", "how to capture coding lessons", "knowledge factory in dev teams", "knowledge management", "open source infrastructure"]
+topics: []
 transcript: true
 ---
 

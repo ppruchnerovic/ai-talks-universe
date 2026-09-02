@@ -15,6 +15,7 @@ video_id: NtAyOP-zlvo
 url: https://www.youtube.com/watch?v=NtAyOP-zlvo
 youtube_url: https://www.youtube.com/watch?v=NtAyOP-zlvo
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

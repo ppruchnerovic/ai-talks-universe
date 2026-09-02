@@ -15,6 +15,7 @@ video_id: iRG3jOwHIl4
 url: https://www.youtube.com/watch?v=iRG3jOwHIl4
 youtube_url: https://www.youtube.com/watch?v=iRG3jOwHIl4
 tags: ["1270387", "bsides las vegas", "bsides las vegas 2022", "bsideslv", "bslv", "bslv22", "ground truth", "gt"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

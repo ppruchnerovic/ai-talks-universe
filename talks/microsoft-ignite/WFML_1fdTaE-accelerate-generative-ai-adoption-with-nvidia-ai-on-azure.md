@@ -15,6 +15,7 @@ video_id: WFML_1fdTaE
 url: https://www.youtube.com/watch?v=WFML_1fdTaE
 youtube_url: https://www.youtube.com/watch?v=WFML_1fdTaE
 tags: ["AI", "Accelerate generative AI adoption with NVIDIA AI on Azure | BRKFP387", "Adoption", "BRKFP387", "Breakout", "Dave Salvator", "Deployment", "Developer", "Development", "English (US)", "Intermediate (200)", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

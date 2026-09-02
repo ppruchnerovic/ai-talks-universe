@@ -15,6 +15,7 @@ video_id: QO-zVF1_fJQ
 url: https://www.youtube.com/watch?v=QO-zVF1_fJQ
 youtube_url: https://www.youtube.com/watch?v=QO-zVF1_fJQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "Building scalable ML services for rapid development in the health and wellness marketplace", "Building scalable ML services", "Building scalable ML", "rapid development in the health and wellness marketplace", "natural language techniques", "natural language processing", "nlp", "rapid development", "MLFlow"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: mduMpkkdhe8
 url: https://www.youtube.com/watch?v=mduMpkkdhe8
 youtube_url: https://www.youtube.com/watch?v=mduMpkkdhe8
 tags: []
+topics: []
 transcript: false
 ---
 

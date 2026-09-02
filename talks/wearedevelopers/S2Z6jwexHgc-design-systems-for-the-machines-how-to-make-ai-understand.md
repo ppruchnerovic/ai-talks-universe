@@ -15,6 +15,7 @@ video_id: S2Z6jwexHgc
 url: https://www.youtube.com/watch?v=S2Z6jwexHgc
 youtube_url: https://www.youtube.com/watch?v=S2Z6jwexHgc
 tags: ["Frontend, Web & Mobile", "Accessibility", "AI Models", "Automation", "Design Systems", "Large Language Models (LLMs)", "Productivity"]
+topics: []
 transcript: true
 ---
 

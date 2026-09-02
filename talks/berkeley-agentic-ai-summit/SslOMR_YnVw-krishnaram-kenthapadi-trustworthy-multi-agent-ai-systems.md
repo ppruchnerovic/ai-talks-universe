@@ -15,6 +15,7 @@ video_id: SslOMR_YnVw
 url: https://www.youtube.com/watch?v=SslOMR_YnVw
 youtube_url: https://www.youtube.com/watch?v=SslOMR_YnVw
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

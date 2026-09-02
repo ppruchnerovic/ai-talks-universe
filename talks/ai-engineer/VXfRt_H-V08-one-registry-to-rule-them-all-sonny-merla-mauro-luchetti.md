@@ -15,6 +15,7 @@ video_id: VXfRt_H-V08
 url: https://www.youtube.com/watch?v=VXfRt_H-V08
 youtube_url: https://www.youtube.com/watch?v=VXfRt_H-V08
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: OV56RddyFuU
 url: https://www.youtube.com/watch?v=OV56RddyFuU
 youtube_url: https://www.youtube.com/watch?v=OV56RddyFuU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

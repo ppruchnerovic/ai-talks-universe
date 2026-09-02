@@ -15,6 +15,7 @@ video_id: zmmJgwc3oPI
 url: https://www.youtube.com/watch?v=zmmJgwc3oPI
 youtube_url: https://www.youtube.com/watch?v=zmmJgwc3oPI
 tags: ["programming language", "Data Engineering", "SQL", "query language", "open source"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

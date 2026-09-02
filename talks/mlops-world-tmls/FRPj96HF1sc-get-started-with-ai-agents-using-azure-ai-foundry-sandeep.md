@@ -15,6 +15,7 @@ video_id: FRPj96HF1sc
 url: https://www.youtube.com/watch?v=FRPj96HF1sc
 youtube_url: https://www.youtube.com/watch?v=FRPj96HF1sc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

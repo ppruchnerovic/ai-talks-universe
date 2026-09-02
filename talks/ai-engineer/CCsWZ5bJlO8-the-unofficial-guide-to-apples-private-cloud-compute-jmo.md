@@ -15,6 +15,7 @@ video_id: CCsWZ5bJlO8
 url: https://www.youtube.com/watch?v=CCsWZ5bJlO8
 youtube_url: https://www.youtube.com/watch?v=CCsWZ5bJlO8
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

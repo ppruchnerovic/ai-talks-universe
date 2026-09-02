@@ -15,6 +15,7 @@ video_id: LvtbMfz3n_o
 url: https://www.youtube.com/watch?v=LvtbMfz3n_o
 youtube_url: https://www.youtube.com/watch?v=LvtbMfz3n_o
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

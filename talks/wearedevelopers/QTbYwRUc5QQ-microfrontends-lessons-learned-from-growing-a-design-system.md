@@ -15,6 +15,7 @@ video_id: QTbYwRUc5QQ
 url: https://www.youtube.com/watch?v=QTbYwRUc5QQ
 youtube_url: https://www.youtube.com/watch?v=QTbYwRUc5QQ
 tags: ["Frontend, Web & Mobile", "Microfrontends", "Next.js", "Storybook"]
+topics: []
 transcript: true
 ---
 

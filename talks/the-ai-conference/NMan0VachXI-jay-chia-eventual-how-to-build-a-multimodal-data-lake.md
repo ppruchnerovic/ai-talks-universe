@@ -15,6 +15,7 @@ video_id: NMan0VachXI
 url: https://www.youtube.com/watch?v=NMan0VachXI
 youtube_url: https://www.youtube.com/watch?v=NMan0VachXI
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

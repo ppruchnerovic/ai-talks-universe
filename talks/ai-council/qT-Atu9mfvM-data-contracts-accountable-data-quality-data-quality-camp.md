@@ -15,6 +15,7 @@ video_id: qT-Atu9mfvM
 url: https://www.youtube.com/watch?v=qT-Atu9mfvM
 youtube_url: https://www.youtube.com/watch?v=qT-Atu9mfvM
 tags: ["Data Engineering", "Infrastructure", "data quality", "data contracts"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

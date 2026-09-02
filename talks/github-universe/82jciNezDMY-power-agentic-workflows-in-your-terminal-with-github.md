@@ -15,6 +15,7 @@ video_id: 82jciNezDMY
 url: https://www.youtube.com/watch?v=82jciNezDMY
 youtube_url: https://www.youtube.com/watch?v=82jciNezDMY
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

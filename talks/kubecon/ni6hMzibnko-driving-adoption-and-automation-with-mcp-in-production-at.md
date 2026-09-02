@@ -15,6 +15,7 @@ video_id: ni6hMzibnko
 url: https://www.youtube.com/watch?v=ni6hMzibnko
 youtube_url: https://www.youtube.com/watch?v=ni6hMzibnko
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

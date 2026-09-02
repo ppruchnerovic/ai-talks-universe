@@ -15,6 +15,7 @@ video_id: iq-data-architectures-challenges
 url: https://www.infoq.com/presentations/data-architectures-challenges/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

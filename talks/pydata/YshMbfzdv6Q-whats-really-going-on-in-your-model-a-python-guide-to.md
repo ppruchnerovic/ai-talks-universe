@@ -15,6 +15,7 @@ video_id: YshMbfzdv6Q
 url: https://www.youtube.com/watch?v=YshMbfzdv6Q
 youtube_url: https://www.youtube.com/watch?v=YshMbfzdv6Q
 tags: ["AI compliance", "CNN", "Captum", "Conference", "GDPR", "LIME", "PyConDE", "PyData", "PyData Berlin", "PyTorch", "Python", "SHAP", "Tech Talk", "XAI", "deep learning", "explainable AI", "machine learning", "model interpretability", "responsible AI"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

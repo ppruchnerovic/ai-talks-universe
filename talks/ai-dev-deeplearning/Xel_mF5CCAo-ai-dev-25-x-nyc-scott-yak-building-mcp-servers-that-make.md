@@ -15,6 +15,7 @@ video_id: Xel_mF5CCAo
 url: https://www.youtube.com/watch?v=Xel_mF5CCAo
 youtube_url: https://www.youtube.com/watch?v=Xel_mF5CCAo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

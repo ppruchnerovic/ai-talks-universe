@@ -15,6 +15,7 @@ video_id: bRTSI-UKl0s
 url: https://www.youtube.com/watch?v=bRTSI-UKl0s
 youtube_url: https://www.youtube.com/watch?v=bRTSI-UKl0s
 tags: []
+topics: []
 transcript: false
 ---
 

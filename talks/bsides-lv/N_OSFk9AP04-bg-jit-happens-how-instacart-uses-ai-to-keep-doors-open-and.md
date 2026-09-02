@@ -15,6 +15,7 @@ video_id: N_OSFk9AP04
 url: https://www.youtube.com/watch?v=N_OSFk9AP04
 youtube_url: https://www.youtube.com/watch?v=N_OSFk9AP04
 tags: ["8NXQEM"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

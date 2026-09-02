@@ -15,6 +15,7 @@ video_id: 3dmAJSt2sQY
 url: https://www.youtube.com/watch?v=3dmAJSt2sQY
 youtube_url: https://www.youtube.com/watch?v=3dmAJSt2sQY
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

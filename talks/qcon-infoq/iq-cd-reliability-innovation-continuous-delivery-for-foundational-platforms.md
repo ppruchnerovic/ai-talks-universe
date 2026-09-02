@@ -15,6 +15,7 @@ video_id: iq-cd-reliability-innovation
 url: https://www.infoq.com/presentations/cd-reliability-innovation/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

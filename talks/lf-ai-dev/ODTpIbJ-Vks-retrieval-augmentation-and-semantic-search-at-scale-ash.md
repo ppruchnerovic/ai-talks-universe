@@ -15,6 +15,7 @@ video_id: ODTpIbJ-Vks
 url: https://www.youtube.com/watch?v=ODTpIbJ-Vks
 youtube_url: https://www.youtube.com/watch?v=ODTpIbJ-Vks
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

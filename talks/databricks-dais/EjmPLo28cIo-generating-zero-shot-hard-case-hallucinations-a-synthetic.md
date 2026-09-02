@@ -15,6 +15,7 @@ video_id: EjmPLo28cIo
 url: https://www.youtube.com/watch?v=EjmPLo28cIo
 youtube_url: https://www.youtube.com/watch?v=EjmPLo28cIo
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

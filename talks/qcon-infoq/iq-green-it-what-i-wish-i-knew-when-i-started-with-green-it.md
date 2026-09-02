@@ -15,6 +15,7 @@ video_id: iq-green-it
 url: https://www.infoq.com/presentations/green-it/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

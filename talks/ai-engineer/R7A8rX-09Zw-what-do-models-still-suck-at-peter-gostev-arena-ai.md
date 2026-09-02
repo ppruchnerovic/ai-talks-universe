@@ -15,6 +15,7 @@ video_id: R7A8rX-09Zw
 url: https://www.youtube.com/watch?v=R7A8rX-09Zw
 youtube_url: https://www.youtube.com/watch?v=R7A8rX-09Zw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

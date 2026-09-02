@@ -15,6 +15,7 @@ video_id: iq-exchange-systems-cloud
 url: https://www.infoq.com/presentations/exchange-systems-cloud/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

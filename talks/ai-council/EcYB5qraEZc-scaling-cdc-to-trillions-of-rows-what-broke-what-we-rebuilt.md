@@ -15,6 +15,7 @@ video_id: EcYB5qraEZc
 url: https://www.youtube.com/watch?v=EcYB5qraEZc
 youtube_url: https://www.youtube.com/watch?v=EcYB5qraEZc
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

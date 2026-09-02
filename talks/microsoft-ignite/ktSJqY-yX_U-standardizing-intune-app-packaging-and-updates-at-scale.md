@@ -15,6 +15,7 @@ video_id: ktSJqY-yX_U
 url: https://www.youtube.com/watch?v=ktSJqY-yX_U
 youtube_url: https://www.youtube.com/watch?v=ktSJqY-yX_U
 tags: ["Dean Ellerby", "English (US)", "Migrate and modernize your estate", "ODSP1521", "ODSP1521_v2", "Protect cloud AI platform and apps", "Standardizing Intune app packaging and updates at scale | ODSP1521", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

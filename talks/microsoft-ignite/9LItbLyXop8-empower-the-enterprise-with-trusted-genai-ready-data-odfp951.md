@@ -15,6 +15,7 @@ video_id: 9LItbLyXop8
 url: https://www.youtube.com/watch?v=9LItbLyXop8
 youtube_url: https://www.youtube.com/watch?v=9LItbLyXop8
 tags: ["AI", "Ajay Gollapalli", "Data governance", "Empower the enterprise with trusted GenAI-ready data | ODFP951", "English (US)", "Intermediate (200)", "Microsoft Purview", "ODFP951", "Pre-recorded", "Responsible AI", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

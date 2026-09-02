@@ -15,6 +15,7 @@ video_id: 1clQUMadypc
 url: https://www.youtube.com/watch?v=1clQUMadypc
 youtube_url: https://www.youtube.com/watch?v=1clQUMadypc
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-devops-modernization-ai-agents
 url: https://www.infoq.com/presentations/devops-modernization-ai-agents/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

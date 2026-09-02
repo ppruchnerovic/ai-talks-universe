@@ -15,6 +15,7 @@ video_id: iq-local-first-sync-engine
 url: https://www.infoq.com/presentations/local-first-sync-engine/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

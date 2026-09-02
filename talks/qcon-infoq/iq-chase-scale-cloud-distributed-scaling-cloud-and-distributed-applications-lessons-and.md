@@ -15,6 +15,7 @@ video_id: iq-chase-scale-cloud-distributed
 url: https://www.infoq.com/presentations/chase-scale-cloud-distributed/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

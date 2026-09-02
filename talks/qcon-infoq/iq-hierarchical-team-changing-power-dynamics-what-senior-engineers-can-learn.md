@@ -15,6 +15,7 @@ video_id: iq-hierarchical-team
 url: https://www.infoq.com/presentations/hierarchical-team/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

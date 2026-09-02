@@ -15,6 +15,7 @@ video_id: Cj4MU_CJhwU
 url: https://www.youtube.com/watch?v=Cj4MU_CJhwU
 youtube_url: https://www.youtube.com/watch?v=Cj4MU_CJhwU
 tags: []
+topics: []
 transcript: false
 ---
 

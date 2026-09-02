@@ -15,6 +15,7 @@ video_id: jQcsVk0KWiQ
 url: https://www.youtube.com/watch?v=jQcsVk0KWiQ
 youtube_url: https://www.youtube.com/watch?v=jQcsVk0KWiQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

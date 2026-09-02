@@ -15,6 +15,7 @@ video_id: l6aHWUfzk7E
 url: https://www.youtube.com/watch?v=l6aHWUfzk7E
 youtube_url: https://www.youtube.com/watch?v=l6aHWUfzk7E
 tags: ["AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

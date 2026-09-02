@@ -15,6 +15,7 @@ video_id: XZwbeuwZxSk
 url: https://www.youtube.com/watch?v=XZwbeuwZxSk
 youtube_url: https://www.youtube.com/watch?v=XZwbeuwZxSk
 tags: ["AI"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

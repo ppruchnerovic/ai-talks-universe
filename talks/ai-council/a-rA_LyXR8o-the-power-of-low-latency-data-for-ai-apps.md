@@ -15,6 +15,7 @@ video_id: a-rA_LyXR8o
 url: https://www.youtube.com/watch?v=a-rA_LyXR8o
 youtube_url: https://www.youtube.com/watch?v=a-rA_LyXR8o
 tags: ["low latency", "real time data", "AI applications", "ChatGPT", "artificial intelligence", "machine learning", "performance", "real time analytics", "RAG", "SQL analytics", "AI performance", "streaming data", "data latency", "Python tutorial", "microsecond latency", "nanosecond precision", "high frequency trading", "algorithmic trading", "real time bidding", "gaming", "financial markets", "IoT applications", "edge computing"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

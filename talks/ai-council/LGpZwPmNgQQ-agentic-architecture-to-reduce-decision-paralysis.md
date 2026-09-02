@@ -15,6 +15,7 @@ video_id: LGpZwPmNgQQ
 url: https://www.youtube.com/watch?v=LGpZwPmNgQQ
 youtube_url: https://www.youtube.com/watch?v=LGpZwPmNgQQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: false
 ---
 

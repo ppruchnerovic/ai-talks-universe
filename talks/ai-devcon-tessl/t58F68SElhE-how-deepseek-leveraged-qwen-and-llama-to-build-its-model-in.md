@@ -15,6 +15,7 @@ video_id: t58F68SElhE
 url: https://www.youtube.com/watch?v=t58F68SElhE
 youtube_url: https://www.youtube.com/watch?v=t58F68SElhE
 tags: ["ainativedev"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

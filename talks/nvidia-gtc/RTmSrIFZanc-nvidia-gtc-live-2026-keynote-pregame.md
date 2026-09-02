@@ -15,6 +15,7 @@ video_id: RTmSrIFZanc
 url: https://www.youtube.com/watch?v=RTmSrIFZanc
 youtube_url: https://www.youtube.com/watch?v=RTmSrIFZanc
 tags: ["GTC Live", "NVIDIA GTC"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

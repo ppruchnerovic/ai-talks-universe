@@ -15,6 +15,7 @@ video_id: jn3iypY-cN4
 url: https://www.youtube.com/watch?v=jn3iypY-cN4
 youtube_url: https://www.youtube.com/watch?v=jn3iypY-cN4
 tags: ["pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

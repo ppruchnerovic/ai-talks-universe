@@ -15,6 +15,7 @@ video_id: wJDDktMQ7Ok
 url: https://www.youtube.com/watch?v=wJDDktMQ7Ok
 youtube_url: https://www.youtube.com/watch?v=wJDDktMQ7Ok
 tags: ["940c7e19-1bf2-45be-bb1e-075a9cc1cef3_Segment", "BRKSP453", "English (US)", "Hailey Henry", "Laxmi Korada", "Microsoft AI Cloud Partner Program", "Partner Business", "Redefine partner profitability in an AI era | BRKSP453", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

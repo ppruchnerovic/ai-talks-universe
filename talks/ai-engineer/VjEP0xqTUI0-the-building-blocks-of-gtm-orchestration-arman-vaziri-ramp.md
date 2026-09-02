@@ -15,6 +15,7 @@ video_id: VjEP0xqTUI0
 url: https://www.youtube.com/watch?v=VjEP0xqTUI0
 youtube_url: https://www.youtube.com/watch?v=VjEP0xqTUI0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

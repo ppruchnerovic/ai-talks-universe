@@ -15,6 +15,7 @@ video_id: CKpxd3FBnqo
 url: https://www.youtube.com/watch?v=CKpxd3FBnqo
 youtube_url: https://www.youtube.com/watch?v=CKpxd3FBnqo
 tags: ["InfoQ Trends Reports", "Architecture & Design", "ChatGPT", "WebAssembley", "Blockchain"]
+topics: []
 transcript: false
 ---
 

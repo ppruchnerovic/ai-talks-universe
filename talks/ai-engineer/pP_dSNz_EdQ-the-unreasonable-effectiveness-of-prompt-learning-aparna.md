@@ -15,6 +15,7 @@ video_id: pP_dSNz_EdQ
 url: https://www.youtube.com/watch?v=pP_dSNz_EdQ
 youtube_url: https://www.youtube.com/watch?v=pP_dSNz_EdQ
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

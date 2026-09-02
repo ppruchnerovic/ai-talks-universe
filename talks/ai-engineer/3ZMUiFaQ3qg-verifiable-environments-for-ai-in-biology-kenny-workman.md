@@ -15,6 +15,7 @@ video_id: 3ZMUiFaQ3qg
 url: https://www.youtube.com/watch?v=3ZMUiFaQ3qg
 youtube_url: https://www.youtube.com/watch?v=3ZMUiFaQ3qg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gvIAkmZUEZY
 url: https://www.youtube.com/watch?v=gvIAkmZUEZY
 youtube_url: https://www.youtube.com/watch?v=gvIAkmZUEZY
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

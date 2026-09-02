@@ -15,6 +15,7 @@ video_id: CiMVKnX-CNI
 url: https://www.youtube.com/watch?v=CiMVKnX-CNI
 youtube_url: https://www.youtube.com/watch?v=CiMVKnX-CNI
 tags: []
+topics: []
 transcript: false
 ---
 

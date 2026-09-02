@@ -15,6 +15,7 @@ video_id: bemuzfbGFic
 url: https://www.youtube.com/watch?v=bemuzfbGFic
 youtube_url: https://www.youtube.com/watch?v=bemuzfbGFic
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

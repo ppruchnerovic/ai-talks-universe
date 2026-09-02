@@ -15,6 +15,7 @@ video_id: 7J99iUeiCMw
 url: https://www.youtube.com/watch?v=7J99iUeiCMw
 youtube_url: https://www.youtube.com/watch?v=7J99iUeiCMw
 tags: []
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

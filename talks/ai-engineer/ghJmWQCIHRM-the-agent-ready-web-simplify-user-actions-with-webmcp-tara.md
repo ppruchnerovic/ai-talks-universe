@@ -15,6 +15,7 @@ video_id: ghJmWQCIHRM
 url: https://www.youtube.com/watch?v=ghJmWQCIHRM
 youtube_url: https://www.youtube.com/watch?v=ghJmWQCIHRM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

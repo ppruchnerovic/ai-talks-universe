@@ -15,6 +15,7 @@ video_id: p8Jx4qvDoSo
 url: https://www.youtube.com/watch?v=p8Jx4qvDoSo
 youtube_url: https://www.youtube.com/watch?v=p8Jx4qvDoSo
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

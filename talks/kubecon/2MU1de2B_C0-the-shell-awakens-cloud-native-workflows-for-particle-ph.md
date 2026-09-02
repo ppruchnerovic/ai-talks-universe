@@ -15,6 +15,7 @@ video_id: 2MU1de2B_C0
 url: https://www.youtube.com/watch?v=2MU1de2B_C0
 youtube_url: https://www.youtube.com/watch?v=2MU1de2B_C0
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

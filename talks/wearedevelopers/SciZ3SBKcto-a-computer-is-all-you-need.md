@@ -15,6 +15,7 @@ video_id: SciZ3SBKcto
 url: https://www.youtube.com/watch?v=SciZ3SBKcto
 youtube_url: https://www.youtube.com/watch?v=SciZ3SBKcto
 tags: ["AI Agents"]
+topics: []
 transcript: true
 ---
 

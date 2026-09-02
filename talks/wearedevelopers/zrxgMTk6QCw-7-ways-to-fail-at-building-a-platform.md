@@ -15,6 +15,7 @@ video_id: zrxgMTk6QCw
 url: https://www.youtube.com/watch?v=zrxgMTk6QCw
 youtube_url: https://www.youtube.com/watch?v=zrxgMTk6QCw
 tags: ["DevOps", "DevOps", "Internal Platforms"]
+topics: []
 transcript: true
 ---
 

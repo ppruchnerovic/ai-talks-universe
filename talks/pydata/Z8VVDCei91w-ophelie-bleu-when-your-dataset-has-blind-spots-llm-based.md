@@ -15,6 +15,7 @@ video_id: Z8VVDCei91w
 url: https://www.youtube.com/watch?v=Z8VVDCei91w
 youtube_url: https://www.youtube.com/watch?v=Z8VVDCei91w
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

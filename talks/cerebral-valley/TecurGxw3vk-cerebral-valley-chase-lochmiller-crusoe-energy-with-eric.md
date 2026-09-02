@@ -15,6 +15,7 @@ video_id: TecurGxw3vk
 url: https://www.youtube.com/watch?v=TecurGxw3vk
 youtube_url: https://www.youtube.com/watch?v=TecurGxw3vk
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

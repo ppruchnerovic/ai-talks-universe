@@ -15,6 +15,7 @@ video_id: acFQUcajJOw
 url: https://www.youtube.com/watch?v=acFQUcajJOw
 youtube_url: https://www.youtube.com/watch?v=acFQUcajJOw
 tags: ["AI Engineering", "Data Pipelines", "Generative AI (GenAI)", "Large Language Models (LLMs)", "System Design", "Workflow Automation"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

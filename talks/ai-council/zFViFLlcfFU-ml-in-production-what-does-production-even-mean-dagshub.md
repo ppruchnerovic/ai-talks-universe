@@ -15,6 +15,7 @@ video_id: zFViFLlcfFU
 url: https://www.youtube.com/watch?v=zFViFLlcfFU
 youtube_url: https://www.youtube.com/watch?v=zFViFLlcfFU
 tags: ["ML", "production", "data science"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: hfBakAcT_nw
 url: https://www.youtube.com/watch?v=hfBakAcT_nw
 youtube_url: https://www.youtube.com/watch?v=hfBakAcT_nw
 tags: ["Conference", "JSONB", "LISTEN NOTIFY", "PostgreSQL", "PyConDE", "PyData", "Python", "SQL", "Tech Talk", "conference talk", "database architecture", "distributed queues", "document storage", "infrastructure", "pragmatic engineering", "pub/sub", "software engineering", "system design", "vector database"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

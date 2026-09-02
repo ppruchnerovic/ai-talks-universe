@@ -15,6 +15,7 @@ video_id: iq-eval-ai-adoption
 url: https://www.infoq.com/presentations/eval-ai-adoption/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

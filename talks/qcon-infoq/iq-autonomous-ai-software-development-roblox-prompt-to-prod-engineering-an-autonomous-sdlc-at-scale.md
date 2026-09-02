@@ -15,6 +15,7 @@ video_id: iq-autonomous-ai-software-development-roblox
 url: https://www.infoq.com/presentations/autonomous-ai-software-development-roblox/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Prompting & context engineering"]
 transcript: true
 ---
 

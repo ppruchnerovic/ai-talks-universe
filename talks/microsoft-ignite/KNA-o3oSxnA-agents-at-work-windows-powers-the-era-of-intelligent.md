@@ -15,6 +15,7 @@ video_id: KNA-o3oSxnA
 url: https://www.youtube.com/watch?v=KNA-o3oSxnA
 youtube_url: https://www.youtube.com/watch?v=KNA-o3oSxnA
 tags: ["Agents at Work: Windows Powers the Era of Intelligent Productivity | BRK344", "BRK344", "BRK344_v1", "English (US)", "Navjot Virk", "Phil Gerity", "Scale with cloud and AI endpoints", "Stefan Kinnestrand", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: D_cw-k0F1DM
 url: https://www.youtube.com/watch?v=D_cw-k0F1DM
 youtube_url: https://www.youtube.com/watch?v=D_cw-k0F1DM
 tags: ["AGENTS.md", "AI DevCon", "AI agents", "AI rollouts", "AI workflows", "Daniel Jones AI", "Simon Maple AI talk", "agentic development", "agentic development insights", "ainativedev", "autonomous development", "engineering practices and AI", "good engineering practices", "harness engineering", "software factories"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

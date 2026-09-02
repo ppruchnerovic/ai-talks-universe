@@ -15,6 +15,7 @@ video_id: JtRvEFgRhmo
 url: https://www.youtube.com/watch?v=JtRvEFgRhmo
 youtube_url: https://www.youtube.com/watch?v=JtRvEFgRhmo
 tags: []
+topics: []
 transcript: false
 ---
 

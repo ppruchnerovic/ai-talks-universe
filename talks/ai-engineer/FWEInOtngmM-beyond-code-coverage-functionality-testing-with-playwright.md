@@ -15,6 +15,7 @@ video_id: FWEInOtngmM
 url: https://www.youtube.com/watch?v=FWEInOtngmM
 youtube_url: https://www.youtube.com/watch?v=FWEInOtngmM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

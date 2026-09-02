@@ -15,6 +15,7 @@ video_id: mE3RC3hhtHE
 url: https://www.youtube.com/watch?v=mE3RC3hhtHE
 youtube_url: https://www.youtube.com/watch?v=mE3RC3hhtHE
 tags: ["AI Agents", "AI Coding Assistants", "Generative AI (GenAI)"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

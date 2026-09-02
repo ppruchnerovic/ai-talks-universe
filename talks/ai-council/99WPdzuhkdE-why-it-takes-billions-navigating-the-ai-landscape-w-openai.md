@@ -15,6 +15,7 @@ video_id: 99WPdzuhkdE
 url: https://www.youtube.com/watch?v=99WPdzuhkdE
 youtube_url: https://www.youtube.com/watch?v=99WPdzuhkdE
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

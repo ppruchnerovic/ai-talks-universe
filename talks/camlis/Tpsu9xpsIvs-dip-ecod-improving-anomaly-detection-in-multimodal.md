@@ -15,6 +15,7 @@ video_id: Tpsu9xpsIvs
 url: https://www.youtube.com/watch?v=Tpsu9xpsIvs
 youtube_url: https://www.youtube.com/watch?v=Tpsu9xpsIvs
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

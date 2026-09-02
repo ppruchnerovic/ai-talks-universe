@@ -15,6 +15,7 @@ video_id: uU5Gv2h8-9g
 url: https://www.youtube.com/watch?v=uU5Gv2h8-9g
 youtube_url: https://www.youtube.com/watch?v=uU5Gv2h8-9g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

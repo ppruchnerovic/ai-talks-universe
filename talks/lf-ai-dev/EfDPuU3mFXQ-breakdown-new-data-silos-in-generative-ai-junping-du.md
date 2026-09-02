@@ -15,6 +15,7 @@ video_id: EfDPuU3mFXQ
 url: https://www.youtube.com/watch?v=EfDPuU3mFXQ
 youtube_url: https://www.youtube.com/watch?v=EfDPuU3mFXQ
 tags: []
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

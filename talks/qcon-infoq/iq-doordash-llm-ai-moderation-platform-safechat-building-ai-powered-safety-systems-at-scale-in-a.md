@@ -15,6 +15,7 @@ video_id: iq-doordash-llm-ai-moderation-platform
 url: https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

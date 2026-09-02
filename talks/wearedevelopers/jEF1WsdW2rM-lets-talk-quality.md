@@ -15,6 +15,7 @@ video_id: jEF1WsdW2rM
 url: https://www.youtube.com/watch?v=jEF1WsdW2rM
 youtube_url: https://www.youtube.com/watch?v=jEF1WsdW2rM
 tags: ["Quality & Reliability", "Collaboration", "Communication", "Quality Assurance (QA)", "Soft Skills", "Software Architecture", "Testing"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: jMprQg54rZI
 url: https://www.youtube.com/watch?v=jMprQg54rZI
 youtube_url: https://www.youtube.com/watch?v=jMprQg54rZI
 tags: ["Security & Privacy", "OWASP", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

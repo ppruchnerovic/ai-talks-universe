@@ -15,6 +15,7 @@ video_id: uXOHOpqhkng
 url: https://www.youtube.com/watch?v=uXOHOpqhkng
 youtube_url: https://www.youtube.com/watch?v=uXOHOpqhkng
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

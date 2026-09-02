@@ -15,6 +15,7 @@ video_id: 3YfKqqERAkE
 url: https://www.youtube.com/watch?v=3YfKqqERAkE
 youtube_url: https://www.youtube.com/watch?v=3YfKqqERAkE
 tags: ["Snowflake", "Claude 3.6", "Claude 3.7", "ChatGPT", "artificial intelligence", "machine learning", "GPT-4", "O3-mini", "OpenAI embeddings", "AI API", "LLM access", "unified platform", "AI models", "cloud agnostic API", "Python tutorial", "model comparison", "AI benchmarking", "language models", "API integration", "cloud computing", "enterprise AI", "model performance", "cost analysis", "scalability testing"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

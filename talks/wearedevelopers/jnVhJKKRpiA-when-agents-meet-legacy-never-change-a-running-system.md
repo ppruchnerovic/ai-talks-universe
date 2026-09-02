@@ -15,6 +15,7 @@ video_id: jnVhJKKRpiA
 url: https://www.youtube.com/watch?v=jnVhJKKRpiA
 youtube_url: https://www.youtube.com/watch?v=jnVhJKKRpiA
 tags: ["AI Agents", "Agentic AI", "C", "C++", "CI/CD", "COBOL", "DevSecOps", "Java", "Legacy"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

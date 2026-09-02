@@ -15,6 +15,7 @@ video_id: 6Tn4YKRcR-E
 url: https://www.youtube.com/watch?v=6Tn4YKRcR-E
 youtube_url: https://www.youtube.com/watch?v=6Tn4YKRcR-E
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

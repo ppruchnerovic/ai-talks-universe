@@ -15,6 +15,7 @@ video_id: szJKSBFaMBs
 url: https://www.youtube.com/watch?v=szJKSBFaMBs
 youtube_url: https://www.youtube.com/watch?v=szJKSBFaMBs
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Wu-PNhk_ipc
 url: https://www.youtube.com/watch?v=Wu-PNhk_ipc
 youtube_url: https://www.youtube.com/watch?v=Wu-PNhk_ipc
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

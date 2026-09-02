@@ -15,6 +15,7 @@ video_id: oHfaN2QW_Yw
 url: https://www.youtube.com/watch?v=oHfaN2QW_Yw
 youtube_url: https://www.youtube.com/watch?v=oHfaN2QW_Yw
 tags: []
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

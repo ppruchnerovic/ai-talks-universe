@@ -15,6 +15,7 @@ video_id: GRXiK3-Uvu8
 url: https://www.youtube.com/watch?v=GRXiK3-Uvu8
 youtube_url: https://www.youtube.com/watch?v=GRXiK3-Uvu8
 tags: []
+topics: []
 transcript: true
 ---
 

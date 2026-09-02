@@ -15,6 +15,7 @@ video_id: IEF842ZEU5A
 url: https://www.youtube.com/watch?v=IEF842ZEU5A
 youtube_url: https://www.youtube.com/watch?v=IEF842ZEU5A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

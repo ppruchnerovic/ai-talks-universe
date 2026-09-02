@@ -15,6 +15,7 @@ video_id: wUkYozIu-Yk
 url: https://www.youtube.com/watch?v=wUkYozIu-Yk
 youtube_url: https://www.youtube.com/watch?v=wUkYozIu-Yk
 tags: ["InfoQ Live", "Agentic AI", "Virtual Panel", "AI", "Artificial Intelligence", "AI Agents", "InfoQ", "Transcript", "Software Architecture", "Engineering Leadership"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

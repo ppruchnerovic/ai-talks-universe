@@ -15,6 +15,7 @@ video_id: 8ehQZx39OyE
 url: https://www.youtube.com/watch?v=8ehQZx39OyE
 youtube_url: https://www.youtube.com/watch?v=8ehQZx39OyE
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

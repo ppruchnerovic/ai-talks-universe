@@ -15,6 +15,7 @@ video_id: VYDSIhskmEM
 url: https://www.youtube.com/watch?v=VYDSIhskmEM
 youtube_url: https://www.youtube.com/watch?v=VYDSIhskmEM
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

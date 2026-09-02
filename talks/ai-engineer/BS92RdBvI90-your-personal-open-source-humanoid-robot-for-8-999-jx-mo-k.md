@@ -15,6 +15,7 @@ video_id: BS92RdBvI90
 url: https://www.youtube.com/watch?v=BS92RdBvI90
 youtube_url: https://www.youtube.com/watch?v=BS92RdBvI90
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: m6MF1OR_9kM
 url: https://www.youtube.com/watch?v=m6MF1OR_9kM
 youtube_url: https://www.youtube.com/watch?v=m6MF1OR_9kM
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: SfdRReLa93s
 url: https://www.youtube.com/watch?v=SfdRReLa93s
 youtube_url: https://www.youtube.com/watch?v=SfdRReLa93s
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

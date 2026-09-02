@@ -15,6 +15,7 @@ video_id: Imw9nfuiKmc
 url: https://www.youtube.com/watch?v=Imw9nfuiKmc
 youtube_url: https://www.youtube.com/watch?v=Imw9nfuiKmc
 tags: ["AI code review", "AI code review tools", "AI-generated skills", "Anthropic best practices", "Automated skill review", "Coding agents", "Developer relations", "PR Resolver", "Qodo", "Qodo PR Resolver", "Tessl skills", "ainativedev", "how to improve AI skills", "how to use Tessl skill review", "what is Qodo PR Resolver"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

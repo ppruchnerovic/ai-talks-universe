@@ -15,6 +15,7 @@ video_id: hSEl_Te-t1o
 url: https://www.youtube.com/watch?v=hSEl_Te-t1o
 youtube_url: https://www.youtube.com/watch?v=hSEl_Te-t1o
 tags: ["distributed systems tutorial", "concurrency control", "database tutorial", "ChatGPT", "artificial intelligence", "machine learning", "concurrent scheduling", "performance optimization", "fault tolerance", "parallel operations", "high throughput systems", "Python tutorial", "system design", "scalability", "load balancing", "distributed computing", "microservices", "service mesh", "event sourcing", "CQRS", "eventual consistency", "CAP theorem", "consensus algorithms", "replication"]
+topics: []
 transcript: false
 ---
 

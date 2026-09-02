@@ -15,6 +15,7 @@ video_id: yw2L_wlTaDQ
 url: https://www.youtube.com/watch?v=yw2L_wlTaDQ
 youtube_url: https://www.youtube.com/watch?v=yw2L_wlTaDQ
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "developers", "web accessibility", "vibe coding", "AI in development", "Rust programming", "developer culture", "IDE tools", "open source", "software engineering", "coding best practices", "public speaking in tech", "software development trends", "tech inspiration"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: VbBYW2blwcQ
 url: https://www.youtube.com/watch?v=VbBYW2blwcQ
 youtube_url: https://www.youtube.com/watch?v=VbBYW2blwcQ
 tags: []
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: fnTRaNHfFek
 url: https://www.youtube.com/watch?v=fnTRaNHfFek
 youtube_url: https://www.youtube.com/watch?v=fnTRaNHfFek
 tags: ["Copilot and agents at work", "English (US)", "From human-driven to AI-enhanced: The evolution of Stack Overflow | ODSP1530", "ODSP1530", "ODSP1530_v1", "Peter O'Connor", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

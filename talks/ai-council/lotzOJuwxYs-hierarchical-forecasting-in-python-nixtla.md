@@ -15,6 +15,7 @@ video_id: lotzOJuwxYs
 url: https://www.youtube.com/watch?v=lotzOJuwxYs
 youtube_url: https://www.youtube.com/watch?v=lotzOJuwxYs
 tags: ["Python", "data science", "open source", "algorithms", "datasets", "forecasting"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

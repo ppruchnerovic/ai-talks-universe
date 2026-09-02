@@ -15,6 +15,7 @@ video_id: jSyv-XTGoK8
 url: https://www.youtube.com/watch?v=jSyv-XTGoK8
 youtube_url: https://www.youtube.com/watch?v=jSyv-XTGoK8
 tags: ["Quality & Reliability", "Developer Experience (DevEx)", "DevOps", "DevSecOps", "IBM", "Integration Testing", "People & Culture", "Reliability", "Site Reliability Engineering (SRE)"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

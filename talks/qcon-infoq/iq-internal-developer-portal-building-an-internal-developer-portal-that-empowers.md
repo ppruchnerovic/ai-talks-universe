@@ -15,6 +15,7 @@ video_id: iq-internal-developer-portal
 url: https://www.infoq.com/presentations/internal-developer-portal/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

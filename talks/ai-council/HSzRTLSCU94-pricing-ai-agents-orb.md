@@ -15,6 +15,7 @@ video_id: HSzRTLSCU94
 url: https://www.youtube.com/watch?v=HSzRTLSCU94
 youtube_url: https://www.youtube.com/watch?v=HSzRTLSCU94
 tags: ["AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

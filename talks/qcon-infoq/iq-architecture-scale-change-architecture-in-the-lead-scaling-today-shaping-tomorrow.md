@@ -15,6 +15,7 @@ video_id: iq-architecture-scale-change
 url: https://www.infoq.com/presentations/architecture-scale-change/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

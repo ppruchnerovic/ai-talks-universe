@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-product-mindset
 url: https://www.infoq.com/presentations/platform-engineering-product-mindset/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

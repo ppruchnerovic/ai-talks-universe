@@ -15,6 +15,7 @@ video_id: vGvXgpWFS_A
 url: https://www.youtube.com/watch?v=vGvXgpWFS_A
 youtube_url: https://www.youtube.com/watch?v=vGvXgpWFS_A
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 80WR0AwrpcY
 url: https://www.youtube.com/watch?v=80WR0AwrpcY
 youtube_url: https://www.youtube.com/watch?v=80WR0AwrpcY
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: XmCFNkTMTEU
 url: https://www.youtube.com/watch?v=XmCFNkTMTEU
 youtube_url: https://www.youtube.com/watch?v=XmCFNkTMTEU
 tags: ["data science", "product analytics", "open source", "business intelligence", "data analysis"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

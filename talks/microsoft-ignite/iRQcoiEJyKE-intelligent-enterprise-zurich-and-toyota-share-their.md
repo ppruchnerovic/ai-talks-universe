@@ -15,6 +15,7 @@ video_id: iRQcoiEJyKE
 url: https://www.youtube.com/watch?v=iRQcoiEJyKE
 youtube_url: https://www.youtube.com/watch?v=iRQcoiEJyKE
 tags: ["BRKSP476", "BRKSP476_v1", "Brouhon Cédric", "English (US)", "Financial Services", "Innovate with Azure AI apps and agents", "Intelligent enterprise: Zurich and Toyota share their playbook | BRKSP476", "Ravi Chandu Ummadisetti", "Technical", "Tim Stabler", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

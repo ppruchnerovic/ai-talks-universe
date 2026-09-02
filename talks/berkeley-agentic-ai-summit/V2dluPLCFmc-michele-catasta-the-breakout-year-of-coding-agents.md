@@ -15,6 +15,7 @@ video_id: V2dluPLCFmc
 url: https://www.youtube.com/watch?v=V2dluPLCFmc
 youtube_url: https://www.youtube.com/watch?v=V2dluPLCFmc
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

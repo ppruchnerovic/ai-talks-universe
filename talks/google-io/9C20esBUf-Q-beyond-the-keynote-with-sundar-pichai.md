@@ -15,6 +15,7 @@ video_id: 9C20esBUf-Q
 url: https://www.youtube.com/watch?v=9C20esBUf-Q
 youtube_url: https://www.youtube.com/watch?v=9C20esBUf-Q
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: []
 transcript: true
 ---
 

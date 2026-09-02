@@ -15,6 +15,7 @@ video_id: 2Yguz5U-Nic
 url: https://www.youtube.com/watch?v=2Yguz5U-Nic
 youtube_url: https://www.youtube.com/watch?v=2Yguz5U-Nic
 tags: ["YC", "Y Combinator"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

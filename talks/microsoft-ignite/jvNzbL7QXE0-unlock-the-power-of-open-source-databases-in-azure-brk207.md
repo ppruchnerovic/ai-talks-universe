@@ -15,6 +15,7 @@ video_id: jvNzbL7QXE0
 url: https://www.youtube.com/watch?v=jvNzbL7QXE0
 youtube_url: https://www.youtube.com/watch?v=jvNzbL7QXE0
 tags: ["AVIJIT GUPTA", "Aditi Gupta", "Advanced (300)", "Application Development", "Azure", "BRK207", "Breakout", "Data", "Dingding Lu", "English (US)", "Migrate", "Prasanth Tammiraju", "Technical", "Unlock the power of open-source databases in Azure | BRK207", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "opensource"]
+topics: []
 transcript: false
 ---
 

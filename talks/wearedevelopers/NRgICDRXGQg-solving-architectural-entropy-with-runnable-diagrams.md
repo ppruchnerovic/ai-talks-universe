@@ -15,6 +15,7 @@ video_id: NRgICDRXGQg
 url: https://www.youtube.com/watch?v=NRgICDRXGQg
 youtube_url: https://www.youtube.com/watch?v=NRgICDRXGQg
 tags: ["Software Architecture", "Software Architecture", "System Design"]
+topics: []
 transcript: true
 ---
 

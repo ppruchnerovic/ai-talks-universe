@@ -15,6 +15,7 @@ video_id: hNqLSRB0SM4
 url: https://www.youtube.com/watch?v=hNqLSRB0SM4
 youtube_url: https://www.youtube.com/watch?v=hNqLSRB0SM4
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

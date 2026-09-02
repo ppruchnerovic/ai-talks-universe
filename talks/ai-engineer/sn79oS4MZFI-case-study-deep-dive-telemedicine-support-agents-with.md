@@ -15,6 +15,7 @@ video_id: sn79oS4MZFI
 url: https://www.youtube.com/watch?v=sn79oS4MZFI
 youtube_url: https://www.youtube.com/watch?v=sn79oS4MZFI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: VLSZo352wuw
 url: https://www.youtube.com/watch?v=VLSZo352wuw
 youtube_url: https://www.youtube.com/watch?v=VLSZo352wuw
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

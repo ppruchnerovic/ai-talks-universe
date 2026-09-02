@@ -15,6 +15,7 @@ video_id: HcnMgJ_zLIg
 url: https://www.youtube.com/watch?v=HcnMgJ_zLIg
 youtube_url: https://www.youtube.com/watch?v=HcnMgJ_zLIg
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

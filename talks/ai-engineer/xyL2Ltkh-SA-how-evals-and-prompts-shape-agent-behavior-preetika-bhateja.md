@@ -15,6 +15,7 @@ video_id: xyL2Ltkh-SA
 url: https://www.youtube.com/watch?v=xyL2Ltkh-SA
 youtube_url: https://www.youtube.com/watch?v=xyL2Ltkh-SA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Prompting & context engineering"]
 transcript: true
 ---
 

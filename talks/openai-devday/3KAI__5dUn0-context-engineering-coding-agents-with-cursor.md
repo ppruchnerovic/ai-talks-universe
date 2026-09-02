@@ -15,6 +15,7 @@ video_id: 3KAI__5dUn0
 url: https://www.youtube.com/watch?v=3KAI__5dUn0
 youtube_url: https://www.youtube.com/watch?v=3KAI__5dUn0
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

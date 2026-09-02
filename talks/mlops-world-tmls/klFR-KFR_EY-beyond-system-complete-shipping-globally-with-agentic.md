@@ -15,6 +15,7 @@ video_id: klFR-KFR_EY
 url: https://www.youtube.com/watch?v=klFR-KFR_EY
 youtube_url: https://www.youtube.com/watch?v=klFR-KFR_EY
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

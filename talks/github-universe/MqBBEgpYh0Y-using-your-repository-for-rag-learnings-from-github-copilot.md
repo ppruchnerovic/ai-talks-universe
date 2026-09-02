@@ -15,6 +15,7 @@ video_id: MqBBEgpYh0Y
 url: https://www.youtube.com/watch?v=MqBBEgpYh0Y
 youtube_url: https://www.youtube.com/watch?v=MqBBEgpYh0Y
 tags: []
+topics: ["Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 7Dtu2bilcFs
 url: https://www.youtube.com/watch?v=7Dtu2bilcFs
 youtube_url: https://www.youtube.com/watch?v=7Dtu2bilcFs
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

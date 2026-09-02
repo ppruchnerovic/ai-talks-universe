@@ -15,6 +15,7 @@ video_id: uCb10oF0zcg
 url: https://www.youtube.com/watch?v=uCb10oF0zcg
 youtube_url: https://www.youtube.com/watch?v=uCb10oF0zcg
 tags: ["AI", "AI Development", "Agents", "Azure AI Studio", "BRK128", "Breakout", "Data-driven decision-making with a multi-agent solution | BRK128", "Douwe van de Ruit", "English (US)", "GenAI", "Henk Boelman", "Intermediate (200)", "Sjoukje Zaal", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

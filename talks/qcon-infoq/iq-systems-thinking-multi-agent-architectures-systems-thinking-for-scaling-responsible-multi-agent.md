@@ -15,6 +15,7 @@ video_id: iq-systems-thinking-multi-agent-architectures
 url: https://www.infoq.com/presentations/systems-thinking-multi-agent-architectures/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

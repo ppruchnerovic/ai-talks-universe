@@ -15,6 +15,7 @@ video_id: VSdV-AdSlis
 url: https://www.youtube.com/watch?v=VSdV-AdSlis
 youtube_url: https://www.youtube.com/watch?v=VSdV-AdSlis
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

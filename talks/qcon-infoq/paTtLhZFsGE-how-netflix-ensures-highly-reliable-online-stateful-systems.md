@@ -15,6 +15,7 @@ video_id: paTtLhZFsGE
 url: https://www.youtube.com/watch?v=paTtLhZFsGE
 youtube_url: https://www.youtube.com/watch?v=paTtLhZFsGE
 tags: ["Software Architecture", "Artificial Intelligence", "Machine Learning", "Data Engineering", "Caching", "Project Management", "Infrastructure", "Reliability", "Agile", "Performance", "Data"]
+topics: []
 transcript: false
 ---
 

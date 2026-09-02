@@ -15,6 +15,7 @@ video_id: 1EGh_ShqWHc
 url: https://www.youtube.com/watch?v=1EGh_ShqWHc
 youtube_url: https://www.youtube.com/watch?v=1EGh_ShqWHc
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

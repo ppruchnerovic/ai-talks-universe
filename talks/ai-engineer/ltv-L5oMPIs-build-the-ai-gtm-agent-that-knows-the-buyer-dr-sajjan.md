@@ -15,6 +15,7 @@ video_id: ltv-L5oMPIs
 url: https://www.youtube.com/watch?v=ltv-L5oMPIs
 youtube_url: https://www.youtube.com/watch?v=ltv-L5oMPIs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

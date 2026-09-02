@@ -15,6 +15,7 @@ video_id: U79r7AHCJZE
 url: https://www.youtube.com/watch?v=U79r7AHCJZE
 youtube_url: https://www.youtube.com/watch?v=U79r7AHCJZE
 tags: ["wearedevs", "wearedeveloperslive", "talent acquisition", "trends", "human-centric", "artificial intelligence", "people first", "HR", "AI", "community", "HR Leaders Summit", "TA", "Recruiting"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

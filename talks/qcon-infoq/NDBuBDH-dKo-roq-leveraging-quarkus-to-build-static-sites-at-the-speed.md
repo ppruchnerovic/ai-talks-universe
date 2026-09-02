@@ -15,6 +15,7 @@ video_id: NDBuBDH-dKo
 url: https://www.youtube.com/watch?v=NDBuBDH-dKo
 youtube_url: https://www.youtube.com/watch?v=NDBuBDH-dKo
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: DIgR4mb1fqc
 url: https://www.youtube.com/watch?v=DIgR4mb1fqc
 youtube_url: https://www.youtube.com/watch?v=DIgR4mb1fqc
 tags: ["Languages & Runtimes", "Concurrency", "Containers", "Go"]
+topics: []
 transcript: true
 ---
 

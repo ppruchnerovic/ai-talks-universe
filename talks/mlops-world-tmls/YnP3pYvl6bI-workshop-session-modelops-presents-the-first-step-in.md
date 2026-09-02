@@ -15,6 +15,7 @@ video_id: YnP3pYvl6bI
 url: https://www.youtube.com/watch?v=YnP3pYvl6bI
 youtube_url: https://www.youtube.com/watch?v=YnP3pYvl6bI
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Session: modelOps Presents - The First Step in Operationalizing AI Models", "The First Step in Operationalizing AI Models"]
+topics: []
 transcript: false
 ---
 

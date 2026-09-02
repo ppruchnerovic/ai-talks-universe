@@ -16,7 +16,7 @@ run so that nobody runs it again.
 |---|---|
 | 2026-08-31 | What the collection runs actually got · The 2026 extraction, and the run that was 80× too slow · The 402 that was recorded as "no captions" · The WeAreDevelopers import · The CI refresh regression |
 | 2026-09-01 | The bug list, worked · The seven conferences added · Closing the 422 · The pre-2023 cut · Making the skill affordable |
-| 2026-09-02 | Review of 2026-09-02 — the six blocks A–F and their status |
+| 2026-09-02 | Review of 2026-09-02 — the six blocks A–F and their status · The topic facet — design · The topic facet — built |
 
 The file grows by appending a dated section at the end of a session. When a
 section closes an item from `TODO.md`, the item is deleted there and this is
@@ -1212,3 +1212,236 @@ with multi-line descriptions. The committed `search-meta.json` and every
 `talks.json`. `import_kb.py`, `refresh_report.py`, `segment_plain_text` and
 `year_in_text` had nothing to report. Every flag the README and the skill
 name exists.
+
+## The topic facet — design, 2026-09-02
+
+A design session, no code. The browser's category filter was found to be a
+facet over the *conference*, not the talk: every record inherits one of five
+labels from `conferences.json` (AI engineering & agents 3,903 · Software dev
+with AI tracks 2,301 · Vendor & platform 1,796 · AI security 839 · Industry &
+business 209). Adding values at that level would not help — AI Engineer alone
+spans agents, evals, RAG, inference and coding tools, so any one label for it
+is wrong for most of its talks. What the corpus needs is a **per-talk,
+multi-valued topic facet** beside the existing category, derived by keyword
+rules the way the AI-relevance test in `tools/atu.py` already is.
+
+### The prototype that sized it
+
+Fifteen candidate topics as regexes over title + description + tags of all
+9,048 talks. Matched at least one topic: 8,268; none: 780. Title-only hits
+against full-text hits, per topic:
+
+| Topic | title | title+desc+tags |
+|---|---|---|
+| Agents & orchestration | 2,083 | 3,551 |
+| Enterprise adoption & strategy (business + product, merged) | 721 + 558 | 3,956 + 3,316 |
+| Inference, serving & GPU infra | 647 | 2,936 |
+| Classic ML & data science | 235 | 2,434 |
+| Science, healthcare & applied ML | 295 | 2,055 |
+| Security, safety & red teaming | 652 | 1,945 |
+| Multimodal, vision, speech & robotics | 291 | 1,837 |
+| Evals, observability & reliability | 362 | 1,697 |
+| Governance, ethics & regulation | 261 | 1,443 |
+| Coding assistants & agents | 419 | 1,394 |
+| Data engineering & MLOps | 270 | 1,142 |
+| Training, fine-tuning & model building | 214 | 790 |
+| RAG, retrieval & knowledge | 227 | 728 |
+| Prompting & context engineering | 50 | 353 |
+
+Matching the whole description is too loose: the median talk drew three
+topics, and words like "customer" or "image" pulled in unrelated talks. Hence
+the scoring rule below.
+
+Two topics were then checked against the corpus by title because they were
+asked about:
+
+- **AI SDLC is its own topic, distinct from coding assistants.** 206 titles
+  are about the process — agentic code review, spec-driven development, CI/CD
+  for agents, engineering-team throughput, the shape of the org ("Agentic
+  SDLC at Uber", "Building uReview, Uber's Multi-Agent Code Review Engine",
+  "Spec-Driven Development: Agentic Coding at FAANG Scale", "CI/CD Is Dead,
+  Agents Need Continuous Compute") — against 356 about the tool at the
+  keyboard, and only 14 titles hit both. Tool versus process.
+- **AI adoption goes into the merged business/product bucket**, renamed
+  *Enterprise adoption & strategy* so adoption is the headline. ~112 titles
+  say adopt / rollout / upskill / transformation / enterprise AI. Pure
+  product-design talks stay there too; there are not enough for a facet.
+
+### The list
+
+Fifteen topics, multi-label, from **title, tags and description only** —
+transcripts are left out deliberately, since a third of talks have one and a
+label that moved when a transcript arrived would make the facet drift with
+every fetch.
+
+| # | Topic | Fires on |
+|---|---|---|
+| 1 | Agents & orchestration | agent, agentic, multi-agent, tool calling, MCP, A2A, orchestration, autonomous |
+| 2 | Coding assistants & agents | Copilot, Cursor, Claude Code, Codex, vibe coding, coding agent, code generation, pair programming |
+| 3 | AI in the SDLC & engineering orgs | SDLC, spec-driven, AI code review, pull request, CI/CD, developer productivity, engineering team/org, AI-native engineering |
+| 4 | RAG, retrieval & knowledge | RAG, retrieval, vector database/search, embeddings, semantic search, knowledge graph, GraphRAG, reranking |
+| 5 | Evals, observability & reliability | evals, evaluation, benchmark, observability, LLMOps, tracing, hallucination, reliability, testing LLMs/agents |
+| 6 | Prompting & context engineering | prompt engineering, context engineering, context window, few-shot, chain of thought, system prompt |
+| 7 | Security, safety & red teaming | prompt injection, jailbreak, red teaming, adversarial, guardrails, threat, vulnerability, OWASP, data poisoning |
+| 8 | Governance, ethics & regulation | responsible AI, ethics, governance, regulation, EU AI Act, compliance, bias, fairness, privacy, alignment |
+| 9 | Inference, serving & GPU infra | inference, serving, vLLM, latency, throughput, GPU, CUDA, quantization, Kubernetes, accelerators, on-device |
+| 10 | Training, fine-tuning & model building | fine-tuning, pre-training, RLHF, reinforcement learning, LoRA, distillation, foundation models, PyTorch, JAX, open weights |
+| 11 | Data engineering & MLOps | MLOps, feature store, data pipeline/platform/lakehouse, Spark, Databricks, Snowflake, model registry, experiment tracking |
+| 12 | Multimodal, vision, speech & robotics | multimodal, vision, image, video, speech, voice, audio, robotics, embodied, diffusion, VLM |
+| 13 | Enterprise adoption & strategy | adoption, rollout, upskilling, change management, AI transformation, enterprise AI, startup, founder, ROI, leadership, future of work, product and UX |
+| 14 | Science, healthcare & applied ML | health, medical, clinical, biology, drug discovery, climate, physics, genomics, finance, manufacturing, legal, education |
+| 15 | Classic ML & data science | machine learning, data science, scikit-learn, XGBoost, regression, forecasting, time series, statistics, recommenders, pandas, Julia |
+
+Two boundaries are rules, not guesses: "enterprise" alone never fires 13 (it
+is mostly a product tier), and a bare tool name never fires 3 (a Cursor demo
+stays in 2 unless it also talks about review, CI or the team).
+
+**Scoring.** A pattern hit in the title or a tag scores 2; each *distinct*
+phrase hit in the description scores 1; a topic is assigned at 2 or more. A
+title mention is enough by itself; a description has to mention two different
+phrases of a topic. A talk that scores nothing gets `[]` and shows under "All
+topics". The conference category stays exactly as it is — it answers a
+different question (what kind of event) and `query.py --category` keeps
+working unchanged.
+
+### Implementation
+
+1. **`tools/atu.py`** — a `TOPICS` table of `(name, pattern)`, compiled with
+   the same boundaries as `AI_RE`, and `topics_of(title, tags, description)`
+   returning the sorted list of names. One place, read by the pipeline and
+   the tests alike.
+2. **`tools/sync_catalog.py`** — stamp `topics` on every record in the one
+   pass that builds them (line ~776, where `category` is set), so seed and
+   InfoQ talks get it too. Add `topics` to `MD_TEMPLATE`'s front matter and
+   to `CSV_FIELDS` as a `; `-joined column. Print a per-topic count in the run
+   summary next to the per-conference drops, so a refresh shows the
+   distribution moving.
+3. **`tools/build_index.py`** — a `topics` JSON column on `talks` plus a
+   `talk_topics(talk_n, topic)` table for filtering and facets; bump
+   `atu.DB_SCHEMA_VERSION` so `query.py` rebuilds by itself. In
+   `search-meta.json` a short key (`k`) carrying the list. Topics stay **out of
+   both rankers**, so the `ranking` suite's browser/CLI agreement is
+   untouched; adding them as a low-weight searchable field is a separate,
+   later decision.
+4. **`tools/query.py`** — repeatable `--topic`, resolved through the same
+   case- and separator-insensitive near-miss path as `--category` (`resolve`
+   / `facet` need a join-table variant), `--list-topics` with counts, topics
+   in the result line and a `topics` field in `--json`. `build_filters` joins
+   `talk_topics` rather than testing a column.
+5. **`index.html`** — a "Topic" `<select id="f-topic">` beside category,
+   filled in `fillFilters()` from the data; the filter in `run()` tests
+   membership; `writeHash`/`readHash` carry `topic`; Reset clears it; each
+   card shows its topics as chips that set the filter on click (the tag
+   chips at line ~644 are the pattern).
+6. **Docs and skill** — README *Searching* sections and the layout table,
+   ARCHITECTURE's data-flow diagram and the design-decisions list (why
+   transcripts are excluded, why topics are not ranked), and the flag list in
+   `.claude/skills/ai-conference-talks/SKILL.md`.
+
+### Testing
+
+1. **`tools/test_topics.py`**, offline, under a second, in the style of
+   `test_speakers.py`: for each topic a title that must land in it and one
+   that must not; the boundary cases explicitly ("enterprise" alone ≠
+   adoption, a tool name alone ≠ SDLC, one description phrase < threshold);
+   and a check that every pattern compiles and matches its own canonical
+   phrase.
+2. **Corpus-level numbers, printed not asserted**, after the first sync:
+   per-topic counts, talks with no topic, topics-per-talk distribution.
+   Targets: under 10% unlabelled, median one or two topics. Then twenty random
+   titles per topic, read by a person — that is what validates a keyword rule.
+3. **Idempotence**: `sync_catalog.py` and `build_index.py` twice; the second
+   run must produce no diff.
+4. **`refresh_report.py`**: no existing field lost coverage, since the record
+   builder was touched.
+5. **`test_query.py`** gains `--topic` resolution and near-miss cases.
+   `test_stem.py` unchanged — topics do not enter the stemmed index.
+6. **`tools/uitest/suite-filters.js`**: the topic select is built from the
+   data; filtering narrows to talks carrying the topic; the hash round-trips
+   `topic`; Reset clears it; topic combines with conference and year.
+   `suite-load.js`: one card shows topic chips. Then the full `node run.js`.
+7. **The assembled site**: the `navigation` suite serves what
+   `assemble_site.sh` builds, so a missing meta key fails there rather than on
+   GitHub Pages.
+
+Finish with the README counts, this file's section for the session that
+builds it, `data/` and `talks/` regenerated, on a branch.
+
+## The topic facet — built, 2026-09-02
+
+The design above, implemented end to end on the `topic-facet` branch:
+`atu.TOPICS` and `topics_of()`, `topics` on every record and in the markdown
+front matter and the CSV, a `topics` column and a `talk_topics` join table in
+`talks.db` (`DB_SCHEMA_VERSION` 5 → 6, so `query.py` rebuilt by itself),
+`--topic` / `--list-topics` / topics in `--stats`, `--brief` and the result
+line, a Topic select and topic chips in `index.html` with `topic` in the hash,
+`test_topics.py`, `--topic` cases in `test_query.py`, and topic checks in the
+`load` and `filters` browser suites. `refresh_report.py` now watches `topics`
+as a field. Byte-identical on a second `sync_catalog.py` + `build_index.py`.
+
+### Where the build departed from the design, and why
+
+Three things the prototype had not seen, each found by reading twenty random
+titles per topic against the phrases that fired:
+
+- **A tag scores one, not two.** The design scored a tag like a title. Half of
+  a channel's tags are the channel's: AI Engineer tags every upload
+  `startups`, `machine learning`, `software architecture`; one channel tags
+  everything `education`; PyData tags 46% of its videos `julia`. With tags at
+  two, *Enterprise adoption* had 3,151 talks and *Classic ML* 2,291, mostly
+  on those. Scoring specific tags like titles after the channel-wide ones
+  were removed was measured too: 178 more talks labelled, about half of them
+  on a track's tag ("Copilot and agents at work", "computer vision" on
+  ai-council's whole programme) rather than the talk's subject. So a tag is
+  one point per distinct phrase, pooled with the description.
+- **Boilerplate is stripped per conference before scoring.** PyData's every
+  description carries "PyData is an educational program of NumFOCUS… data
+  science, machine learning…", which alone reaches the two-phrase bar for
+  *Classic ML*. `sync_catalog.boilerplate()` takes the description lines (≥ 40
+  characters) that more than 10% of a conference's talks repeat verbatim and
+  the tags on more than 30% of its videos, and `topics_of` never sees them.
+  The first rule tried — ignore any *phrase* said by half a conference —
+  was wrong: it also removed Black Hat's "security", the MCP summit's "mcp"
+  and LangChain Interrupt's "agents", which are those conferences' subjects,
+  and unlabelled talks went from 13% to 20%. Verbatim lines and channel tags
+  are boilerplate; a subject is said in different words in every abstract.
+- **A few phrases were tightened or dropped**: bare `vectors`, `design`,
+  `strategy`, `jobs`, `careers`, `students`, `scientists`, `stakeholders`,
+  `case study`, `enterprise-grade`, `enterprises`, `devin` (a first name),
+  bare `streaming` (tokens stream too), `distributed systems`; `secure` and
+  `security` are one phrase, as are `safe`/`safety`, so a Microsoft
+  description that says both does not reach the bar on its own. `Copilot`
+  alone is not a coding assistant — half of Microsoft's are M365 or Studio —
+  `github copilot` and `copilot (chat|workspace|cli|agent mode…)` are.
+
+### The numbers
+
+| | |
+|---|---:|
+| talks with at least one topic | 7,162 of 9,048 (79%) |
+| talks with none | 1,886 — 613 of them with no description at all |
+| topics per talk | median 1; 3,643 carry one, 2,234 two, 917 three, 371 four or more |
+| `sync_catalog.py` | +8 s for the scoring |
+| `search-meta.json` | 5.70 MiB, 95% of the trigger |
+| tests | every offline suite green; `test_query.py` 23 → 34 checks; the browser suite 183 → 193, 0 failing, none skipped; `refresh_report.py` reports `topics` gained on 7,162 and nothing lost |
+
+The design's target was under 10% unlabelled; 21% is what a precision-first
+rule gives on this corpus. The unlabelled set was read: keynotes and panels
+("The Future of AI", "Opening Remarks"), product spotlights, the non-AI half
+of the WeAreDevelopers programme (Go concurrency, TypeScript), generic
+LLM talks that fit none of the fifteen — and the 613 with no description,
+which no rule over descriptions can reach. Loosening the rule to reach the
+target would trade those for mis-shelved talks, which are worse: an
+unlabelled talk is still under "All topics", a mis-shelved one is wrong
+under a heading someone chose.
+
+Topic names went into `search-meta.json` as indices into a fifteen-entry
+list, not as strings: the strings added 0.4 MiB and took the file to 101%
+of its 6 MiB trigger, the indices add 30 KB. `index.html` resolves them at
+boot, so nothing downstream of `TALKS` changed.
+
+`--topic` accepts one word of a label when it names exactly one topic
+(`evals`, `rag`, `security`), and when two share the word, the label the word
+*heads* — `agents` is *Agents & orchestration*, not *Coding assistants &
+agents*; `data` is *Data engineering & MLOps*. What it was taken as is said
+on stderr. `--conference build` resolves the same way now.

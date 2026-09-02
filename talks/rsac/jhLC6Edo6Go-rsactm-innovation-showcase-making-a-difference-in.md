@@ -15,6 +15,7 @@ video_id: jhLC6Edo6Go
 url: https://www.youtube.com/watch?v=jhLC6Edo6Go
 youtube_url: https://www.youtube.com/watch?v=jhLC6Edo6Go
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

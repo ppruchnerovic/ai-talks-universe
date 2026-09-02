@@ -15,6 +15,7 @@ video_id: iCj_ATyThvc
 url: https://www.youtube.com/watch?v=iCj_ATyThvc
 youtube_url: https://www.youtube.com/watch?v=iCj_ATyThvc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

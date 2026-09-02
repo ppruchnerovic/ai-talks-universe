@@ -15,6 +15,7 @@ video_id: Uvl-tRga98g
 url: https://www.youtube.com/watch?v=Uvl-tRga98g
 youtube_url: https://www.youtube.com/watch?v=Uvl-tRga98g
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

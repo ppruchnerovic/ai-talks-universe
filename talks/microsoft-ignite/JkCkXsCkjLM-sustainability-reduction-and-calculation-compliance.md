@@ -15,6 +15,7 @@ video_id: JkCkXsCkjLM
 url: https://www.youtube.com/watch?v=JkCkXsCkjLM
 youtube_url: https://www.youtube.com/watch?v=JkCkXsCkjLM
 tags: ["AI", "AI Studio", "Amanda Giglio", "BRK254", "Breakout", "English (US)", "Industry", "Industry-Curated", "Intermediate (200)", "Robin Smith", "Sustainability", "Sustainability reduction and calculation compliance simplified with Copilot Studio | BRK254", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

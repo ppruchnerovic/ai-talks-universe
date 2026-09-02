@@ -15,6 +15,7 @@ video_id: rgUVPMB7sGg
 url: https://www.youtube.com/watch?v=rgUVPMB7sGg
 youtube_url: https://www.youtube.com/watch?v=rgUVPMB7sGg
 tags: ["InfoQ Live", "InfoQ", "Transcript", "Artificial Intelligence", "AI", "DevOps", "AI Agents", "Observability", "Virtual Panel", "Platform Engineering", "Generative AI", "SRE", "Software Architecture"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

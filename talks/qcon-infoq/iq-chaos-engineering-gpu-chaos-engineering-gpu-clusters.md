@@ -15,6 +15,7 @@ video_id: iq-chaos-engineering-gpu
 url: https://www.infoq.com/presentations/chaos-engineering-gpu/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

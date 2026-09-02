@@ -15,6 +15,7 @@ video_id: TfCNrd7ztVE
 url: https://www.youtube.com/watch?v=TfCNrd7ztVE
 youtube_url: https://www.youtube.com/watch?v=TfCNrd7ztVE
 tags: ["devtools", "devops", "data products", "data engineers"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

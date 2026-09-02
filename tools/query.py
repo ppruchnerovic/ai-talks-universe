@@ -8,12 +8,14 @@ Two layers are searched and merged:
 
     python3 query.py "context engineering"
     python3 query.py "prompt injection" --category "AI security"
+    python3 query.py "agent memory" --topic "RAG, retrieval & knowledge"
     python3 query.py "agents in production" --conference langchain-interrupt
     python3 query.py "evals" --year 2026 -n 20
     python3 query.py "mcp" --json          # for scripts and agents
     python3 query.py "mcp" --json --brief  # the same, at a third of the bytes
     python3 query.py --list-conferences    # what --conference accepts
     python3 query.py --list-categories     # what --category accepts
+    python3 query.py --list-topics         # what --topic accepts, with counts
 
 FTS5 syntax works: quoted "exact phrase", OR, NOT, prefix*. A query written in
 that syntax is run exactly as typed. A bare query is read as its content words
@@ -257,7 +259,7 @@ class Filters(NamedTuple):
 
 
 def build_filters(conference=None, category=None, year=None, min_year=None,
-                  transcript=False) -> Filters:
+                  transcript=False, topic=None) -> Filters:
     where, params = [], {}
     for col, vals in (("conference", conference), ("category", category), ("year", year)):
         vals = [v for v in (vals or []) if v is not None and v != ""]
@@ -265,6 +267,15 @@ def build_filters(conference=None, category=None, year=None, min_year=None,
             keys = [f"{col}{i}" for i in range(len(vals))]
             where.append(f"t.{col} IN ({', '.join(':' + k for k in keys)})")
             params.update(zip(keys, vals))
+    # Topics are multi-valued, so the test is membership in the join table
+    # rather than equality on a column. Several --topic values are OR-ed, as
+    # several --conference values are: any of them admits the talk.
+    topics = [v for v in (topic or []) if v]
+    if topics:
+        keys = [f"topic{i}" for i in range(len(topics))]
+        where.append("t.n IN (SELECT talk_n FROM talk_topics WHERE topic IN "
+                     f"({', '.join(':' + k for k in keys)}))")
+        params.update(zip(keys, topics))
     if min_year:
         where.append("t.year >= :min_year")
         params["min_year"] = min_year
@@ -431,10 +442,11 @@ def add_details(con, q: str, ranked: list[dict]) -> None:
     indexed column can be asked, which is what tells us what actually matched.
     """
     cols = ("id title speakers conference conference_name category edition year channel tags "
-            "duration_min published_at url youtube_url has_transcript timing").split()
+            "duration_min published_at url youtube_url has_transcript timing topics").split()
     for h in ranked:
         row = con.execute(f"SELECT {','.join(cols)} FROM talks WHERE n=?", (h["n"],)).fetchone()
         h.update(dict(zip(cols, row)))
+        h["topics"] = json.loads(h["topics"] or "[]")
     if not ranked:
         return
 
@@ -487,7 +499,15 @@ def norm(s) -> str:
 
 
 def facet(con, col: str) -> list[tuple]:
-    """(value, label, count) for every value of a filterable column."""
+    """(value, label, count) for every value of a filterable column.
+
+    `topic` is not a column but a join table, since a talk carries several;
+    its counts are talks per topic, and they sum to more than the corpus.
+    """
+    if col == "topic":
+        return con.execute(
+            "SELECT topic, topic, count(*) FROM talk_topics GROUP BY topic ORDER BY 1"
+        ).fetchall()
     label = "max(conference_name)" if col == "conference" else col
     return con.execute(
         f"SELECT {col}, {label}, count(*) FROM talks "
@@ -522,6 +542,20 @@ def resolve(con, col: str, value, listing: str | None):
     want = norm(value)
     if want in index:
         return index[want]
+    # One word of a longer label is enough when it names exactly one value:
+    # `--topic evals` is "Evals, observability & reliability", `--conference
+    # build` is Microsoft Build. Said on stderr, so --json output stays clean
+    # and nobody wonders what "evals" was taken to mean.
+    partial = {v for k, v in index.items() if want in k.split() or k.startswith(want)}
+    if len(partial) > 1:
+        # "agents" is in two topic names; the one it *heads* is the one it
+        # names. "Agents & orchestration", not "Coding assistants & agents".
+        partial = {v for k, v in index.items() if k.startswith(want)}
+    if len(partial) == 1:
+        found = partial.pop()
+        if norm(found) != want:
+            warn(f"--{col.replace('_', '-')} {value!r} taken as {found!r}")
+        return found
 
     lines = [f"--{col.replace('_', '-')} {value!r} matches nothing"]
     close = difflib.get_close_matches(want, list(index), n=3, cutoff=0.55)
@@ -550,9 +584,13 @@ def stats(con) -> dict:
     confs = [{"conference": c, "name": name, "talks": n, "transcripts": t} for c, name, n, t in con.execute(
         "SELECT conference, max(conference_name), count(*), sum(has_transcript) FROM talks "
         "GROUP BY conference ORDER BY count(*) DESC, conference")]
+    topics = [{"topic": tp, "talks": n} for tp, n in con.execute(
+        "SELECT topic, count(*) FROM talk_topics GROUP BY topic ORDER BY count(*) DESC, topic")]
+    untopical, = con.execute("SELECT count(*) FROM talks WHERE topics = '[]'").fetchone()
     return {"talks": total, "transcripts": with_tr, "transcripts_exact_timing": exact,
             "transcripts_estimated_timing": with_tr - exact,
-            "conferences": len(confs), "years": years, "by_conference": confs}
+            "conferences": len(confs), "years": years, "by_conference": confs,
+            "by_topic": topics, "talks_without_topic": untopical}
 
 
 def print_stats(con) -> None:
@@ -568,6 +606,9 @@ def print_stats(con) -> None:
     print("\nconference                    talks  transcripts")
     for c in st["by_conference"]:
         print(f"{c['conference']:<28} {c['talks']:>6}  {c['transcripts']:>6}")
+    print(f"\ntopic (a talk may carry several; {st['talks_without_topic']:,} carry none)   talks")
+    for tp in st["by_topic"]:
+        print(f"{tp['topic']:<44} {tp['talks']:>6}")
 
 
 # ── output ───────────────────────────────────────────────────────────────────
@@ -614,6 +655,8 @@ def render(hits: list[dict], show_moments: bool) -> None:
               + (f" · {h['duration_min']}min" if h["duration_min"] else "")
               + ("  · transcript" if h["has_transcript"] else "")
               + (f"  {DIM}· match: {', '.join(h['matched'])}{OFF}" if h["matched"] else ""))
+        if h["topics"]:
+            print(f"   {DIM}topics: {' · '.join(h['topics'])}{OFF}")
         label, body = h["snippet_from"], h["snippet"]
         if label == "title":  # already shown; fall back to the description
             body = h["description_snippet"]
@@ -636,7 +679,7 @@ def render(hits: list[dict], show_moments: bool) -> None:
 # tags, the publication timestamp or a second snippet of the same description
 # — on a 12-hit result set those fields are most of the bytes and none of the
 # decision.
-BRIEF = ("id title speakers conference year duration_min url "
+BRIEF = ("id title speakers conference year topics duration_min url "
          "has_transcript timing score snippet snippet_from matched").split()
 
 # Moments shown per hit under --brief. One passage says whether the talk is
@@ -695,6 +738,9 @@ def main() -> None:
     ap.add_argument("--conference", action="append",
                     help="conference slug or name, e.g. ai-engineer; repeatable")
     ap.add_argument("--category", action="append", help='e.g. "AI security"; repeatable')
+    ap.add_argument("--topic", action="append",
+                    help='a per-talk topic, e.g. "evals" or "RAG, retrieval & knowledge"; '
+                         'repeatable, any of them admits a talk — see --list-topics')
     ap.add_argument("--year", type=year_int, action="append", help="repeatable")
     ap.add_argument("--min-year", type=year_int, metavar="YYYY", help="this year onwards")
     ap.add_argument("--transcript", action="store_true",
@@ -703,6 +749,9 @@ def main() -> None:
                     help="print the conferences --conference accepts, and exit")
     ap.add_argument("--list-categories", action="store_true",
                     help="print the categories --category accepts, and exit")
+    ap.add_argument("--list-topics", action="store_true",
+                    help="print the topics --topic accepts, with how many talks carry "
+                         "each, and exit")
     ap.add_argument("--stats", action="store_true",
                     help="how many talks, transcripts, conferences and years the corpus "
                          "has, per year and per conference, and exit (--json for data)")
@@ -726,12 +775,13 @@ def main() -> None:
         else:
             print_stats(con)
         return
-    if args.list_conferences or args.list_categories:
-        print_facet(con, "conference" if args.list_conferences else "category")
+    if args.list_conferences or args.list_categories or args.list_topics:
+        print_facet(con, "conference" if args.list_conferences
+                    else "category" if args.list_categories else "topic")
         return
     if not args.query:
-        ap.error("a query is required "
-                 "(or --stats / --list-conferences / --list-categories to see the corpus)")
+        ap.error("a query is required (or --stats / --list-conferences / "
+                 "--list-categories / --list-topics to see the corpus)")
 
     filters = build_filters(
         conference=[resolve(con, "conference", c, "--list-conferences") for c in args.conference or []],
@@ -739,6 +789,7 @@ def main() -> None:
         year=[resolve(con, "year", y, None) for y in args.year or []],
         min_year=args.min_year,
         transcript=args.transcript,
+        topic=[resolve(con, "topic", t, "--list-topics") for t in args.topic or []],
     )
     parsed = parse_query(" ".join(args.query))
     hits, dropped = search(con, parsed, args.limit, filters)

@@ -15,6 +15,7 @@ video_id: 1ENrrTuN-jI
 url: https://www.youtube.com/watch?v=1ENrrTuN-jI
 youtube_url: https://www.youtube.com/watch?v=1ENrrTuN-jI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

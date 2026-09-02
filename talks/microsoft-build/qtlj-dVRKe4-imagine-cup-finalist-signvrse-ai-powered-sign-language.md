@@ -15,6 +15,7 @@ video_id: qtlj-dVRKe4
 url: https://www.youtube.com/watch?v=qtlj-dVRKe4
 youtube_url: https://www.youtube.com/watch?v=qtlj-dVRKe4
 tags: []
+topics: []
 transcript: false
 ---
 

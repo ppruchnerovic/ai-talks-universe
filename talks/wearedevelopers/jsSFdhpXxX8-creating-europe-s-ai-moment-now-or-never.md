@@ -15,6 +15,7 @@ video_id: jsSFdhpXxX8
 url: https://www.youtube.com/watch?v=jsSFdhpXxX8
 youtube_url: https://www.youtube.com/watch?v=jsSFdhpXxX8
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

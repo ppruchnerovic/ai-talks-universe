@@ -15,6 +15,7 @@ video_id: HtJK-Jc-xNY
 url: https://www.youtube.com/watch?v=HtJK-Jc-xNY
 youtube_url: https://www.youtube.com/watch?v=HtJK-Jc-xNY
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

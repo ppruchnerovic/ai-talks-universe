@@ -15,6 +15,7 @@ video_id: 6P3RhjNN84A
 url: https://www.youtube.com/watch?v=6P3RhjNN84A
 youtube_url: https://www.youtube.com/watch?v=6P3RhjNN84A
 tags: ["Agile", "Soft Skills", "People", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Gui Ferreira"]
+topics: []
 transcript: true
 ---
 

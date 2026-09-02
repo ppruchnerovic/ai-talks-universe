@@ -15,6 +15,7 @@ video_id: AKWk_86fNXk
 url: https://www.youtube.com/watch?v=AKWk_86fNXk
 youtube_url: https://www.youtube.com/watch?v=AKWk_86fNXk
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

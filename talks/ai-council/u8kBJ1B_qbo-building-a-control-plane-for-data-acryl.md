@@ -15,6 +15,7 @@ video_id: u8kBJ1B_qbo
 url: https://www.youtube.com/watch?v=u8kBJ1B_qbo
 youtube_url: https://www.youtube.com/watch?v=u8kBJ1B_qbo
 tags: ["Big Data", "Data Engineering", "analytics", "open source", "metadata", "Datahub", "data management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

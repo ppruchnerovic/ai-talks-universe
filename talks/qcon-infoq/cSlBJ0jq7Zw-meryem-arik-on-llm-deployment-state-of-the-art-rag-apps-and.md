@@ -15,6 +15,7 @@ video_id: cSlBJ0jq7Zw
 url: https://www.youtube.com/watch?v=cSlBJ0jq7Zw
 youtube_url: https://www.youtube.com/watch?v=cSlBJ0jq7Zw
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

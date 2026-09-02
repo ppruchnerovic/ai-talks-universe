@@ -15,6 +15,7 @@ video_id: W4rjcvSzB1A
 url: https://www.youtube.com/watch?v=W4rjcvSzB1A
 youtube_url: https://www.youtube.com/watch?v=W4rjcvSzB1A
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

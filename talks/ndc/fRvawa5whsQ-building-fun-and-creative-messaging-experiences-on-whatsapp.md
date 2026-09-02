@@ -15,6 +15,7 @@ video_id: fRvawa5whsQ
 url: https://www.youtube.com/watch?v=fRvawa5whsQ
 youtube_url: https://www.youtube.com/watch?v=fRvawa5whsQ
 tags: ["AI", "Cloud", "Fun", "API", "OpenAI", "WhatsApp", "NDC", "Conferences", "2026", "Live", "Copenhagen", "Denmark"]
+topics: []
 transcript: true
 ---
 

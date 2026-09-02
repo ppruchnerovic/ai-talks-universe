@@ -15,6 +15,7 @@ video_id: A3rmSUp6Dxg
 url: https://www.youtube.com/watch?v=A3rmSUp6Dxg
 youtube_url: https://www.youtube.com/watch?v=A3rmSUp6Dxg
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

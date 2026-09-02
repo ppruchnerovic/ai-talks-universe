@@ -15,6 +15,7 @@ video_id: gc5_ICZg9tg
 url: https://www.youtube.com/watch?v=gc5_ICZg9tg
 youtube_url: https://www.youtube.com/watch?v=gc5_ICZg9tg
 tags: ["AI development", "AI in cybersecurity", "AI limitations in security", "AI security", "GitHub", "GitHub Security Lab", "MCP", "MCP servers explained", "ainativedev", "cloud security", "code security", "cybersecurity gaps", "developer security", "nondeterminism in AI security", "security workflows"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

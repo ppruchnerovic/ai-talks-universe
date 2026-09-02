@@ -15,6 +15,7 @@ video_id: iESWCPaLYRc
 url: https://www.youtube.com/watch?v=iESWCPaLYRc
 youtube_url: https://www.youtube.com/watch?v=iESWCPaLYRc
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

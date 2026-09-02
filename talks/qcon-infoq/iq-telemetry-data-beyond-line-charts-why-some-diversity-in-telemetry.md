@@ -15,6 +15,7 @@ video_id: iq-telemetry-data
 url: https://www.infoq.com/presentations/telemetry-data/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

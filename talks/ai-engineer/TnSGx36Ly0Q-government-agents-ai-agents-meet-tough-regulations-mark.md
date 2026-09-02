@@ -15,6 +15,7 @@ video_id: TnSGx36Ly0Q
 url: https://www.youtube.com/watch?v=TnSGx36Ly0Q
 youtube_url: https://www.youtube.com/watch?v=TnSGx36Ly0Q
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

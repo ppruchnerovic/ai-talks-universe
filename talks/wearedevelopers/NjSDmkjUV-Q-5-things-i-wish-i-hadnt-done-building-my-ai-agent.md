@@ -15,6 +15,7 @@ video_id: NjSDmkjUV-Q
 url: https://www.youtube.com/watch?v=NjSDmkjUV-Q
 youtube_url: https://www.youtube.com/watch?v=NjSDmkjUV-Q
 tags: ["AI Agents", "Agentic AI", "Best Practices", "Startups"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

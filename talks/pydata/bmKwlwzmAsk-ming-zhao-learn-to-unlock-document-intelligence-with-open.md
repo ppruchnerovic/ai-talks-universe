@@ -15,6 +15,7 @@ video_id: bmKwlwzmAsk
 url: https://www.youtube.com/watch?v=bmKwlwzmAsk
 youtube_url: https://www.youtube.com/watch?v=bmKwlwzmAsk
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gHZ73dS1uSo
 url: https://www.youtube.com/watch?v=gHZ73dS1uSo
 youtube_url: https://www.youtube.com/watch?v=gHZ73dS1uSo
 tags: ["Languages & Runtimes", "C#", "Databases", ".NET", "Performance"]
+topics: []
 transcript: true
 ---
 

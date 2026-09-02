@@ -15,6 +15,7 @@ video_id: NWoSLK1Z530
 url: https://www.youtube.com/watch?v=NWoSLK1Z530
 youtube_url: https://www.youtube.com/watch?v=NWoSLK1Z530
 tags: []
+topics: []
 transcript: false
 ---
 

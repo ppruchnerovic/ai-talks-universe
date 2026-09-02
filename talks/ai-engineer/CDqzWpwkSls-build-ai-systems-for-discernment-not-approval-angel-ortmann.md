@@ -15,6 +15,7 @@ video_id: CDqzWpwkSls
 url: https://www.youtube.com/watch?v=CDqzWpwkSls
 youtube_url: https://www.youtube.com/watch?v=CDqzWpwkSls
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

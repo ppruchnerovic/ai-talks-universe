@@ -15,6 +15,7 @@ video_id: RFKCzGlAU6Q
 url: https://www.youtube.com/watch?v=RFKCzGlAU6Q
 youtube_url: https://www.youtube.com/watch?v=RFKCzGlAU6Q
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: false
 ---
 

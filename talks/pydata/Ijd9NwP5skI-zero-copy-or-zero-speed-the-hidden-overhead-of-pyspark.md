@@ -15,6 +15,7 @@ video_id: Ijd9NwP5skI
 url: https://www.youtube.com/watch?v=Ijd9NwP5skI
 youtube_url: https://www.youtube.com/watch?v=Ijd9NwP5skI
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

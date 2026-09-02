@@ -15,6 +15,7 @@ video_id: e-sUfhYFrpc
 url: https://www.youtube.com/watch?v=e-sUfhYFrpc
 youtube_url: https://www.youtube.com/watch?v=e-sUfhYFrpc
 tags: ["Security & Privacy", "Collaboration", "Privacy"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

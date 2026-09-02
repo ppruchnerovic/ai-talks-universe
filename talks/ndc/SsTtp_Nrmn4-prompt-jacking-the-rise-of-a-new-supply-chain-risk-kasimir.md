@@ -15,6 +15,7 @@ video_id: SsTtp_Nrmn4
 url: https://www.youtube.com/watch?v=SsTtp_Nrmn4
 youtube_url: https://www.youtube.com/watch?v=SsTtp_Nrmn4
 tags: ["AI", "NDC", "Conferences", "Live", "Fun", "Toronto", "Canada", "Kasimir Schulz", "Kenneth Yeung"]
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-healthcare-learnings
 url: https://www.infoq.com/presentations/ai-healthcare-learnings/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: dGaUKrdaqF8
 url: https://www.youtube.com/watch?v=dGaUKrdaqF8
 youtube_url: https://www.youtube.com/watch?v=dGaUKrdaqF8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "Mercedes-Benz", "developer culture", "enterprise IT", "platform engineering", "software transformation", "CIO leadership", "Coffee with Developers", "agile at scale", "Mercedes-Benz Museum", "AI in software", "engineering innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

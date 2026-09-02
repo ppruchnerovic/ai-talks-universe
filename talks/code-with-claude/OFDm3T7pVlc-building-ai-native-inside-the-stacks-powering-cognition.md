@@ -15,6 +15,7 @@ video_id: OFDm3T7pVlc
 url: https://www.youtube.com/watch?v=OFDm3T7pVlc
 youtube_url: https://www.youtube.com/watch?v=OFDm3T7pVlc
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

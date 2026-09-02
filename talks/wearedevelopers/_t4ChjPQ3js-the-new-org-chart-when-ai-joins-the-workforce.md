@@ -15,6 +15,7 @@ video_id: _t4ChjPQ3js
 url: https://www.youtube.com/watch?v=_t4ChjPQ3js
 youtube_url: https://www.youtube.com/watch?v=_t4ChjPQ3js
 tags: ["Talent Strategy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

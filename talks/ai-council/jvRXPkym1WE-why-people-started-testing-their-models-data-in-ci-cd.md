@@ -15,6 +15,7 @@ video_id: jvRXPkym1WE
 url: https://www.youtube.com/watch?v=jvRXPkym1WE
 youtube_url: https://www.youtube.com/watch?v=jvRXPkym1WE
 tags: ["MLOps", "cybersecurity", "model testing", "data quality"]
+topics: ["AI in the SDLC & engineering orgs", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

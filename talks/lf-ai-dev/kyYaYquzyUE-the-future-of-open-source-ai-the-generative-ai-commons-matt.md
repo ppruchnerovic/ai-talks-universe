@@ -15,6 +15,7 @@ video_id: kyYaYquzyUE
 url: https://www.youtube.com/watch?v=kyYaYquzyUE
 youtube_url: https://www.youtube.com/watch?v=kyYaYquzyUE
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

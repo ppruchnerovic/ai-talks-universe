@@ -15,6 +15,7 @@ video_id: 5Sui_OnSRlY
 url: https://www.youtube.com/watch?v=5Sui_OnSRlY
 youtube_url: https://www.youtube.com/watch?v=5Sui_OnSRlY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

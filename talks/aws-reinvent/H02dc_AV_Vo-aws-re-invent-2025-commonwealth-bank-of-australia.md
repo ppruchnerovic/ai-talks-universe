@@ -15,6 +15,7 @@ video_id: H02dc_AV_Vo
 url: https://www.youtube.com/watch?v=H02dc_AV_Vo
 youtube_url: https://www.youtube.com/watch?v=H02dc_AV_Vo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

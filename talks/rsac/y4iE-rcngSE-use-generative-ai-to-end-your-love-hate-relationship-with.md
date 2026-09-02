@@ -15,6 +15,7 @@ video_id: y4iE-rcngSE
 url: https://www.youtube.com/watch?v=y4iE-rcngSE
 youtube_url: https://www.youtube.com/watch?v=y4iE-rcngSE
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: []
 transcript: false
 ---
 

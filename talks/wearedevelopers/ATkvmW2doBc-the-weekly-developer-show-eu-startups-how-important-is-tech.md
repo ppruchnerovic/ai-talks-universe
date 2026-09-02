@@ -15,6 +15,7 @@ video_id: ATkvmW2doBc
 url: https://www.youtube.com/watch?v=ATkvmW2doBc
 youtube_url: https://www.youtube.com/watch?v=ATkvmW2doBc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI startups", "developer interview", "Oscar Stories", "ethical AI", "AI content farming", "slop farming", "IP law in tech", "startup culture", "AI in education", "bedtime story app", "microservices vs monolith", "startup funding", "EU AI Act", "European Accessibility Act"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

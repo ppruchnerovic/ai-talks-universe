@@ -15,6 +15,7 @@ video_id: MmxafStlarA
 url: https://www.youtube.com/watch?v=MmxafStlarA
 youtube_url: https://www.youtube.com/watch?v=MmxafStlarA
 tags: ["Quality & Reliability"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

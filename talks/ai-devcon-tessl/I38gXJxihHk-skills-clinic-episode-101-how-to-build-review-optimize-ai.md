@@ -15,6 +15,7 @@ video_id: I38gXJxihHk
 url: https://www.youtube.com/watch?v=I38gXJxihHk
 youtube_url: https://www.youtube.com/watch?v=I38gXJxihHk
 tags: ["AI DevCon New York", "AI agent skills", "AI agent skills series", "AI development", "AI skill optimization", "Claude Code", "Claude Code REST API", "Skills Clinic episode 101", "SonarCloud", "SonarCloud for security", "agent skills review", "ainativedev", "how to build AI agent skills", "structured skill creation", "what is an AI agent skill"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

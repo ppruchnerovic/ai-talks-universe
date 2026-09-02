@@ -15,6 +15,7 @@ video_id: RD5A3hPrr7Y
 url: https://www.youtube.com/watch?v=RD5A3hPrr7Y
 youtube_url: https://www.youtube.com/watch?v=RD5A3hPrr7Y
 tags: ["bslv2021-gt-ai_in_a_minefield-1043104"]
+topics: []
 transcript: false
 ---
 

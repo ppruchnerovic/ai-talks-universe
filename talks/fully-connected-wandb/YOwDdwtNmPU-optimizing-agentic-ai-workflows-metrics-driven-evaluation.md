@@ -15,6 +15,7 @@ video_id: YOwDdwtNmPU
 url: https://www.youtube.com/watch?v=YOwDdwtNmPU
 youtube_url: https://www.youtube.com/watch?v=YOwDdwtNmPU
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

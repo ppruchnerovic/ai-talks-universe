@@ -15,6 +15,7 @@ video_id: 9MKio5YQqAI
 url: https://www.youtube.com/watch?v=9MKio5YQqAI
 youtube_url: https://www.youtube.com/watch?v=9MKio5YQqAI
 tags: ["AI Agents", "Databases", "Multi-Agent Systems", "Neo4j"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

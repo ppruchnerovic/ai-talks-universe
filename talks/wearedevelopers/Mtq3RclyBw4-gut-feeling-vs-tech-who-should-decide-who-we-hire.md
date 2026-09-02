@@ -15,6 +15,7 @@ video_id: Mtq3RclyBw4
 url: https://www.youtube.com/watch?v=Mtq3RclyBw4
 youtube_url: https://www.youtube.com/watch?v=Mtq3RclyBw4
 tags: ["gut feeling", "tech", "hiring", "recruiting", "recruitment", "AI", "remote", "workforce", "people and culture", "HR", "people"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

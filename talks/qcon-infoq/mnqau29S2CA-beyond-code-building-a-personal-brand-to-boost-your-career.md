@@ -15,6 +15,7 @@ video_id: mnqau29S2CA
 url: https://www.youtube.com/watch?v=mnqau29S2CA
 youtube_url: https://www.youtube.com/watch?v=mnqau29S2CA
 tags: ["Tech Leadership", "Career Growth", "Software Development"]
+topics: []
 transcript: true
 ---
 

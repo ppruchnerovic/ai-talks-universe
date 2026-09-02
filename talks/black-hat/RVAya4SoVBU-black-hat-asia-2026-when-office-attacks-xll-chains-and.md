@@ -15,6 +15,7 @@ video_id: RVAya4SoVBU
 url: https://www.youtube.com/watch?v=RVAya4SoVBU
 youtube_url: https://www.youtube.com/watch?v=RVAya4SoVBU
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

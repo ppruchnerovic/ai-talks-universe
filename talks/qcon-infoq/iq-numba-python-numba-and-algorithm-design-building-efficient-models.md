@@ -15,6 +15,7 @@ video_id: iq-numba
 url: https://www.infoq.com/presentations/numba/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

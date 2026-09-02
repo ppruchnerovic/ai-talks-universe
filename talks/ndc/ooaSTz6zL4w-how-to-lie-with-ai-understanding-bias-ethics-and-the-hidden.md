@@ -15,6 +15,7 @@ video_id: ooaSTz6zL4w
 url: https://www.youtube.com/watch?v=ooaSTz6zL4w
 youtube_url: https://www.youtube.com/watch?v=ooaSTz6zL4w
 tags: ["AI", "Machine Learning", "ML", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Clarissa Rodrigues"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: true
 ---
 

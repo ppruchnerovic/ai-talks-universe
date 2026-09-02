@@ -15,6 +15,7 @@ video_id: QtxsZRUl_Js
 url: https://www.youtube.com/watch?v=QtxsZRUl_Js
 youtube_url: https://www.youtube.com/watch?v=QtxsZRUl_Js
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

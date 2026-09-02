@@ -15,6 +15,7 @@ video_id: TUOI9lNdOKk
 url: https://www.youtube.com/watch?v=TUOI9lNdOKk
 youtube_url: https://www.youtube.com/watch?v=TUOI9lNdOKk
 tags: []
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

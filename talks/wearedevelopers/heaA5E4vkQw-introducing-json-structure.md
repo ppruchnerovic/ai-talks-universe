@@ -15,6 +15,7 @@ video_id: heaA5E4vkQw
 url: https://www.youtube.com/watch?v=heaA5E4vkQw
 youtube_url: https://www.youtube.com/watch?v=heaA5E4vkQw
 tags: ["Backend & APIs", "Data", "JSON"]
+topics: []
 transcript: true
 ---
 

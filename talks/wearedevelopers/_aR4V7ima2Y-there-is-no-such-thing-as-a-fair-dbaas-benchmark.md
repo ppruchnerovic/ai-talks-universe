@@ -15,6 +15,7 @@ video_id: _aR4V7ima2Y
 url: https://www.youtube.com/watch?v=_aR4V7ima2Y
 youtube_url: https://www.youtube.com/watch?v=_aR4V7ima2Y
 tags: ["Data & Databases", "Cassandra", "MongoDB", "Multi-Cloud", "Performance", "PostgreSQL"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

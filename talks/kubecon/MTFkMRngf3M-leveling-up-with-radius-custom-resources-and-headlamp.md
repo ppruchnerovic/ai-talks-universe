@@ -15,6 +15,7 @@ video_id: MTFkMRngf3M
 url: https://www.youtube.com/watch?v=MTFkMRngf3M
 youtube_url: https://www.youtube.com/watch?v=MTFkMRngf3M
 tags: []
+topics: []
 transcript: true
 ---
 

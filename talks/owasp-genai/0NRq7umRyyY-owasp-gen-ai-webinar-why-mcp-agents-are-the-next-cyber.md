@@ -15,6 +15,7 @@ video_id: 0NRq7umRyyY
 url: https://www.youtube.com/watch?v=0NRq7umRyyY
 youtube_url: https://www.youtube.com/watch?v=0NRq7umRyyY
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

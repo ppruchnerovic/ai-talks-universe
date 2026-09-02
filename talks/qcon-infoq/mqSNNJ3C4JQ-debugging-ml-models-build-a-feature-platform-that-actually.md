@@ -15,6 +15,7 @@ video_id: mqSNNJ3C4JQ
 url: https://www.youtube.com/watch?v=mqSNNJ3C4JQ
 youtube_url: https://www.youtube.com/watch?v=mqSNNJ3C4JQ
 tags: ["Feature Platform", "ML", "Machine Learning", "MLOps", "Software Architecture", "AI", "Artificial Intelligence", "Scalability", "Performance", "Low Latency", "Apache Flink", "InfoQ", "QCon London", "Transcript"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

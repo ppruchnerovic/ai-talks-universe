@@ -15,6 +15,7 @@ video_id: 7vn4WpqNpck
 url: https://www.youtube.com/watch?v=7vn4WpqNpck
 youtube_url: https://www.youtube.com/watch?v=7vn4WpqNpck
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

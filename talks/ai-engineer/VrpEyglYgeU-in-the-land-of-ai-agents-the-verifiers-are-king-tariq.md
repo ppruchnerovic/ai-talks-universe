@@ -15,6 +15,7 @@ video_id: VrpEyglYgeU
 url: https://www.youtube.com/watch?v=VrpEyglYgeU
 youtube_url: https://www.youtube.com/watch?v=VrpEyglYgeU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 0liy99DB8Tg
 url: https://www.youtube.com/watch?v=0liy99DB8Tg
 youtube_url: https://www.youtube.com/watch?v=0liy99DB8Tg
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

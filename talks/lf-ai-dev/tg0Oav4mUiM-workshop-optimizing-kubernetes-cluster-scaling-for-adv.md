@@ -15,6 +15,7 @@ video_id: tg0Oav4mUiM
 url: https://www.youtube.com/watch?v=tg0Oav4mUiM
 youtube_url: https://www.youtube.com/watch?v=tg0Oav4mUiM
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

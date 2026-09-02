@@ -15,6 +15,7 @@ video_id: WSV-J8c8IiQ
 url: https://www.youtube.com/watch?v=WSV-J8c8IiQ
 youtube_url: https://www.youtube.com/watch?v=WSV-J8c8IiQ
 tags: []
+topics: []
 transcript: false
 ---
 

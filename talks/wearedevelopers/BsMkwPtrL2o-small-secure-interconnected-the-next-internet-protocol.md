@@ -15,6 +15,7 @@ video_id: BsMkwPtrL2o
 url: https://www.youtube.com/watch?v=BsMkwPtrL2o
 youtube_url: https://www.youtube.com/watch?v=BsMkwPtrL2o
 tags: ["Cloud & AI Infrastructure", "Cloud Security", "DevOps", "Infrastructure"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

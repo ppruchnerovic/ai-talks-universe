@@ -15,6 +15,7 @@ video_id: Ti1oWMBlNVc
 url: https://www.youtube.com/watch?v=Ti1oWMBlNVc
 youtube_url: https://www.youtube.com/watch?v=Ti1oWMBlNVc
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: []
 transcript: true
 ---
 

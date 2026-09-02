@@ -15,6 +15,7 @@ video_id: XovaGv4f39A
 url: https://www.youtube.com/watch?v=XovaGv4f39A
 youtube_url: https://www.youtube.com/watch?v=XovaGv4f39A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

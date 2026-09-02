@@ -15,6 +15,7 @@ video_id: elptCI-FSCA
 url: https://www.youtube.com/watch?v=elptCI-FSCA
 youtube_url: https://www.youtube.com/watch?v=elptCI-FSCA
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

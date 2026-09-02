@@ -15,6 +15,7 @@ video_id: b_PmGocP4rc
 url: https://www.youtube.com/watch?v=b_PmGocP4rc
 youtube_url: https://www.youtube.com/watch?v=b_PmGocP4rc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

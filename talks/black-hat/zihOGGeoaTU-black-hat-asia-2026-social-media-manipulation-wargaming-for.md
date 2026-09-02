@@ -15,6 +15,7 @@ video_id: zihOGGeoaTU
 url: https://www.youtube.com/watch?v=zihOGGeoaTU
 youtube_url: https://www.youtube.com/watch?v=zihOGGeoaTU
 tags: []
+topics: []
 transcript: true
 ---
 

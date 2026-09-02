@@ -15,6 +15,7 @@ video_id: iq-latency-techniques
 url: https://www.infoq.com/presentations/latency-techniques/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

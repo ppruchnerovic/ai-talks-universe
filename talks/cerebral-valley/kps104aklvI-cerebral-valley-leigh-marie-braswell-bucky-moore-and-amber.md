@@ -15,6 +15,7 @@ video_id: kps104aklvI
 url: https://www.youtube.com/watch?v=kps104aklvI
 youtube_url: https://www.youtube.com/watch?v=kps104aklvI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

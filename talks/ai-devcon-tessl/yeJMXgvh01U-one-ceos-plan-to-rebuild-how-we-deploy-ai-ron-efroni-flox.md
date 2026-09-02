@@ -15,6 +15,7 @@ video_id: yeJMXgvh01U
 url: https://www.youtube.com/watch?v=yeJMXgvh01U
 youtube_url: https://www.youtube.com/watch?v=yeJMXgvh01U
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

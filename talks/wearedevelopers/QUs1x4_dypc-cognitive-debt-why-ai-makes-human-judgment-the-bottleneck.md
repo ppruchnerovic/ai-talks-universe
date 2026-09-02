@@ -15,6 +15,7 @@ video_id: QUs1x4_dypc
 url: https://www.youtube.com/watch?v=QUs1x4_dypc
 youtube_url: https://www.youtube.com/watch?v=QUs1x4_dypc
 tags: ["Career & Growth", "Digital Transformation", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

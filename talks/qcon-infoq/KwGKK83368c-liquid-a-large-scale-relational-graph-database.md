@@ -15,6 +15,7 @@ video_id: KwGKK83368c
 url: https://www.youtube.com/watch?v=KwGKK83368c
 youtube_url: https://www.youtube.com/watch?v=KwGKK83368c
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LinkedIn", "Graph Database", "NoSQL", "Database", "Performance", "Scalability"]
+topics: []
 transcript: false
 ---
 

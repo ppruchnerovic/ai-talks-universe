@@ -15,6 +15,7 @@ video_id: A2GoLOkEQ24
 url: https://www.youtube.com/watch?v=A2GoLOkEQ24
 youtube_url: https://www.youtube.com/watch?v=A2GoLOkEQ24
 tags: ["Conference", "DevOps", "Kubeflow", "Kubernetes", "ML pipelines", "MLOps", "PyConDE", "PyData", "Python", "Python packaging", "Tech Talk", "containerization", "data science", "dependency management", "machine learning", "production ML", "pyproject.toml", "uv", "workflow orchestration"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

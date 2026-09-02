@@ -15,6 +15,7 @@ video_id: ZQIs-udMB3g
 url: https://www.youtube.com/watch?v=ZQIs-udMB3g
 youtube_url: https://www.youtube.com/watch?v=ZQIs-udMB3g
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

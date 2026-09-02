@@ -15,6 +15,7 @@ video_id: Zg9-lg20-Gk
 url: https://www.youtube.com/watch?v=Zg9-lg20-Gk
 youtube_url: https://www.youtube.com/watch?v=Zg9-lg20-Gk
 tags: ["AI", "Architecture", "Big Data", "NDC", "conferences", "2025", "Live", "Fun", "Copenhagen", "Developers", "Festival", "Denmark", "Josef Goldstein"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

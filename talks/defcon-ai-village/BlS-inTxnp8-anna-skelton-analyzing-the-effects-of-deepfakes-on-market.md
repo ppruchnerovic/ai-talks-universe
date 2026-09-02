@@ -15,6 +15,7 @@ video_id: BlS-inTxnp8
 url: https://www.youtube.com/watch?v=BlS-inTxnp8
 youtube_url: https://www.youtube.com/watch?v=BlS-inTxnp8
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

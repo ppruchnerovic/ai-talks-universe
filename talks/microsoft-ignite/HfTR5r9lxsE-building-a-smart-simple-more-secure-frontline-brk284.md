@@ -15,6 +15,7 @@ video_id: HfTR5r9lxsE
 url: https://www.youtube.com/watch?v=HfTR5r9lxsE
 youtube_url: https://www.youtube.com/watch?v=HfTR5r9lxsE
 tags: ["BRK284", "Breakout", "Building a smart simple more secure frontline | BRK284", "English (US)", "Intermediate (200)", "Modern Work", "Navjot Marwaha", "Technical", "Version v4", "Zoe Hawtof", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

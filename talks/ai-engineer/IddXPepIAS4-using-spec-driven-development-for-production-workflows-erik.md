@@ -15,6 +15,7 @@ video_id: IddXPepIAS4
 url: https://www.youtube.com/watch?v=IddXPepIAS4
 youtube_url: https://www.youtube.com/watch?v=IddXPepIAS4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

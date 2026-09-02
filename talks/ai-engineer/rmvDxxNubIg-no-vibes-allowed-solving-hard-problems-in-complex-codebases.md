@@ -15,6 +15,7 @@ video_id: rmvDxxNubIg
 url: https://www.youtube.com/watch?v=rmvDxxNubIg
 youtube_url: https://www.youtube.com/watch?v=rmvDxxNubIg
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

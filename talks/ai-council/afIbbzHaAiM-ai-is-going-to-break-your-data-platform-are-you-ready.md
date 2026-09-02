@@ -15,6 +15,7 @@ video_id: afIbbzHaAiM
 url: https://www.youtube.com/watch?v=afIbbzHaAiM
 youtube_url: https://www.youtube.com/watch?v=afIbbzHaAiM
 tags: ["AI disruption", "data platform", "future of data", "ChatGPT", "artificial intelligence", "machine learning", "AI impact", "data architecture", "platform engineering", "data strategy", "AI transformation", "query patterns", "Python tutorial", "digital transformation", "technology disruption", "industry transformation", "competitive advantage", "innovation strategy", "market dynamics", "business model innovation", "organizational transformation"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

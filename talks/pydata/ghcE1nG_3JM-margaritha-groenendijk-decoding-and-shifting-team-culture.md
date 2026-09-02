@@ -15,6 +15,7 @@ video_id: ghcE1nG_3JM
 url: https://www.youtube.com/watch?v=ghcE1nG_3JM
 youtube_url: https://www.youtube.com/watch?v=ghcE1nG_3JM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

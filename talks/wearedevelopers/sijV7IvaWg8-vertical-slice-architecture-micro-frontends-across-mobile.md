@@ -15,6 +15,7 @@ video_id: sijV7IvaWg8
 url: https://www.youtube.com/watch?v=sijV7IvaWg8
 youtube_url: https://www.youtube.com/watch?v=sijV7IvaWg8
 tags: ["Software Architecture", "Kotlin", "Kotlin Multiplatform", "TensorFlow"]
+topics: []
 transcript: true
 ---
 

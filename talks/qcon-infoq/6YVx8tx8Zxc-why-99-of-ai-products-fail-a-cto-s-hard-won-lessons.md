@@ -15,6 +15,7 @@ video_id: 6YVx8tx8Zxc
 url: https://www.youtube.com/watch?v=6YVx8tx8Zxc
 youtube_url: https://www.youtube.com/watch?v=6YVx8tx8Zxc
 tags: ["Software Architecture", "Artificial Intelligence", "Transcript", "Microservices", "InfoQ", "QCon Conferences"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

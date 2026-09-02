@@ -15,6 +15,7 @@ video_id: vzL4l1QG1IY
 url: https://www.youtube.com/watch?v=vzL4l1QG1IY
 youtube_url: https://www.youtube.com/watch?v=vzL4l1QG1IY
 tags: ["Architecture", "AI systems", "Generative AI", "The InfoQ Podcast", "AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

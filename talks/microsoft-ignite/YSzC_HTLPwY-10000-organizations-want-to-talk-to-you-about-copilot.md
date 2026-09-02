@@ -15,6 +15,7 @@ video_id: YSzC_HTLPwY
 url: https://www.youtube.com/watch?v=YSzC_HTLPwY
 youtube_url: https://www.youtube.com/watch?v=YSzC_HTLPwY
 tags: ["10000 organizations want to talk to you about Copilot | BRKFP365", "AI", "Adoption", "BRKFP365", "Breakout", "Copilot", "Copilot administration", "Copilot for M365", "Data Security", "Data governance", "Deployment", "Microsoft 365", "Microsoft Copilot", "Microsoft Purview", "SharePoint Advanced Management (SAM)", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

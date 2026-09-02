@@ -15,6 +15,7 @@ video_id: WFoz8lQUFek
 url: https://www.youtube.com/watch?v=WFoz8lQUFek
 youtube_url: https://www.youtube.com/watch?v=WFoz8lQUFek
 tags: ["People", "Soft Skills", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Alice Meredith"]
+topics: []
 transcript: false
 ---
 

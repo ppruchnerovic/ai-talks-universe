@@ -15,6 +15,7 @@ video_id: NdGBsn8tRzs
 url: https://www.youtube.com/watch?v=NdGBsn8tRzs
 youtube_url: https://www.youtube.com/watch?v=NdGBsn8tRzs
 tags: ["AI", "Architecture", "Cloud", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Will Velida"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

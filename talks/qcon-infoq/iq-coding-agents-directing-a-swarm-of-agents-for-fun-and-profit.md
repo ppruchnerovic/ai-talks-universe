@@ -15,6 +15,7 @@ video_id: iq-coding-agents
 url: https://www.infoq.com/presentations/coding-agents/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

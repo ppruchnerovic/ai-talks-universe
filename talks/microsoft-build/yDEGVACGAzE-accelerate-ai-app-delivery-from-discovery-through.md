@@ -15,6 +15,7 @@ video_id: yDEGVACGAzE
 url: https://www.youtube.com/watch?v=yDEGVACGAzE
 youtube_url: https://www.youtube.com/watch?v=yDEGVACGAzE
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 5MldQWiCKX4
 url: https://www.youtube.com/watch?v=5MldQWiCKX4
 youtube_url: https://www.youtube.com/watch?v=5MldQWiCKX4
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

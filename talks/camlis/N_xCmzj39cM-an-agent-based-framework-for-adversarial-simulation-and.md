@@ -15,6 +15,7 @@ video_id: N_xCmzj39cM
 url: https://www.youtube.com/watch?v=N_xCmzj39cM
 youtube_url: https://www.youtube.com/watch?v=N_xCmzj39cM
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

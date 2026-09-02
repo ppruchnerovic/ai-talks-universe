@@ -15,6 +15,7 @@ video_id: iq-sre-questions
 url: https://www.infoq.com/presentations/sre-questions/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

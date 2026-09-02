@@ -15,6 +15,7 @@ video_id: ZuiJjkbX0Og
 url: https://www.youtube.com/watch?v=ZuiJjkbX0Og
 youtube_url: https://www.youtube.com/watch?v=ZuiJjkbX0Og
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 9wgsGPA_NhA
 url: https://www.youtube.com/watch?v=9wgsGPA_NhA
 youtube_url: https://www.youtube.com/watch?v=9wgsGPA_NhA
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

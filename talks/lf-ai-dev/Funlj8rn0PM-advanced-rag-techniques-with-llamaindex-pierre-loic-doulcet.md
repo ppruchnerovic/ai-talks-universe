@@ -15,6 +15,7 @@ video_id: Funlj8rn0PM
 url: https://www.youtube.com/watch?v=Funlj8rn0PM
 youtube_url: https://www.youtube.com/watch?v=Funlj8rn0PM
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

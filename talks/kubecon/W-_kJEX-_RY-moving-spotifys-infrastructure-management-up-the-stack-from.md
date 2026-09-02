@@ -15,6 +15,7 @@ video_id: W-_kJEX-_RY
 url: https://www.youtube.com/watch?v=W-_kJEX-_RY
 youtube_url: https://www.youtube.com/watch?v=W-_kJEX-_RY
 tags: []
+topics: []
 transcript: true
 ---
 

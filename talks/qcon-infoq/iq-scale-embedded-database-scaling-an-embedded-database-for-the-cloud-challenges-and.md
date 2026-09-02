@@ -15,6 +15,7 @@ video_id: iq-scale-embedded-database
 url: https://www.infoq.com/presentations/scale-embedded-database/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

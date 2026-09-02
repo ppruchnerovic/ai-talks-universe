@@ -15,6 +15,7 @@ video_id: fwKZIaEU7_Y
 url: https://www.youtube.com/watch?v=fwKZIaEU7_Y
 youtube_url: https://www.youtube.com/watch?v=fwKZIaEU7_Y
 tags: [".NET", "Architecture", "YARP", "ASP.NET", "ASP.NET Core", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Jonathan J Tower"]
+topics: []
 transcript: false
 ---
 

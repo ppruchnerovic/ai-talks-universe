@@ -15,6 +15,7 @@ video_id: 67uxiGfCWzY
 url: https://www.youtube.com/watch?v=67uxiGfCWzY
 youtube_url: https://www.youtube.com/watch?v=67uxiGfCWzY
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Generative AI", "Software Engineering", "DevSecOps", "Software Development Lifecycle", "Software Development", "InfoQ", "QCon London", "Transcript"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

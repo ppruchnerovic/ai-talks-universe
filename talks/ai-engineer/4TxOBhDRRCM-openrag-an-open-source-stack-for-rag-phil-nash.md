@@ -15,6 +15,7 @@ video_id: 4TxOBhDRRCM
 url: https://www.youtube.com/watch?v=4TxOBhDRRCM
 youtube_url: https://www.youtube.com/watch?v=4TxOBhDRRCM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

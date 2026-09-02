@@ -15,6 +15,7 @@ video_id: jf5GUU_mZ-g
 url: https://www.youtube.com/watch?v=jf5GUU_mZ-g
 youtube_url: https://www.youtube.com/watch?v=jf5GUU_mZ-g
 tags: []
+topics: []
 transcript: false
 ---
 

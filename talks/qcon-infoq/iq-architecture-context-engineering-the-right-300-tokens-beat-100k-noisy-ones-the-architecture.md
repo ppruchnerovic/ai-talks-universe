@@ -15,6 +15,7 @@ video_id: iq-architecture-context-engineering
 url: https://www.infoq.com/presentations/architecture-context-engineering/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

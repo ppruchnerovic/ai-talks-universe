@@ -15,6 +15,7 @@ video_id: YoPskpg3zJQ
 url: https://www.youtube.com/watch?v=YoPskpg3zJQ
 youtube_url: https://www.youtube.com/watch?v=YoPskpg3zJQ
 tags: []
+topics: []
 transcript: false
 ---
 

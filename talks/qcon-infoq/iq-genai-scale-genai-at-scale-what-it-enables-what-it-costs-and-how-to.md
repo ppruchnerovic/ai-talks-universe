@@ -15,6 +15,7 @@ video_id: iq-genai-scale
 url: https://www.infoq.com/presentations/genai-scale/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: bH3GjEAwfrI
 url: https://www.youtube.com/watch?v=bH3GjEAwfrI
 youtube_url: https://www.youtube.com/watch?v=bH3GjEAwfrI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

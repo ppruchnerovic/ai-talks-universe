@@ -15,6 +15,7 @@ video_id: SbgE1UM25zg
 url: https://www.youtube.com/watch?v=SbgE1UM25zg
 youtube_url: https://www.youtube.com/watch?v=SbgE1UM25zg
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

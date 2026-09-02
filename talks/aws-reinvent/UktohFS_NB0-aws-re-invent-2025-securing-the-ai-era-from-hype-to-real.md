@@ -15,6 +15,7 @@ video_id: UktohFS_NB0
 url: https://www.youtube.com/watch?v=UktohFS_NB0
 youtube_url: https://www.youtube.com/watch?v=UktohFS_NB0
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

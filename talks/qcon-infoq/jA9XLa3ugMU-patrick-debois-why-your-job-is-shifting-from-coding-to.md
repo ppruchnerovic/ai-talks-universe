@@ -15,6 +15,7 @@ video_id: jA9XLa3ugMU
 url: https://www.youtube.com/watch?v=jA9XLa3ugMU
 youtube_url: https://www.youtube.com/watch?v=jA9XLa3ugMU
 tags: ["AI Native Development", "Artificial Intelligence", "DevOps", "InfoQ Dev Summit", "InfoQ", "Transcript", "Patterns", "Best Practices", "Software Architecture", "Generative AI", "Vibe Coding", "Patrick Debois", "Intent Engineering", "Spec-Driven Development"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

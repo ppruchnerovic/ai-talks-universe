@@ -15,6 +15,7 @@ video_id: CogYq8oTg6o
 url: https://www.youtube.com/watch?v=CogYq8oTg6o
 youtube_url: https://www.youtube.com/watch?v=CogYq8oTg6o
 tags: ["Software Development", "CPU", "GPU", "Performance", "InfoQ", "QCon London", "Transcript"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

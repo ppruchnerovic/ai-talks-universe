@@ -15,6 +15,7 @@ video_id: OttyiuhZsTs
 url: https://www.youtube.com/watch?v=OttyiuhZsTs
 youtube_url: https://www.youtube.com/watch?v=OttyiuhZsTs
 tags: ["3f4b9984-9dfa-4278-bc86-e44e0e76db0b_Segment", "BRK343", "English (US)", "Fabrizio Salvatore", "Gaurav Kapoor", "Kenneth Pan", "Matt Harkness", "Scale with cloud and AI endpoints", "Scott Manchester", "Technical", "Unlock the full power of Windows 365 | BRK343", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

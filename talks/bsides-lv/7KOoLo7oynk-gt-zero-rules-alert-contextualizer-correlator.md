@@ -15,6 +15,7 @@ video_id: 7KOoLo7oynk
 url: https://www.youtube.com/watch?v=7KOoLo7oynk
 youtube_url: https://www.youtube.com/watch?v=7KOoLo7oynk
 tags: ["CPCZUG"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

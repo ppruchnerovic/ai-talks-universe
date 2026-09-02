@@ -15,6 +15,7 @@ video_id: X1BRFTbq6Xk
 url: https://www.youtube.com/watch?v=X1BRFTbq6Xk
 youtube_url: https://www.youtube.com/watch?v=X1BRFTbq6Xk
 tags: ["Quality & Reliability", "Agentic AI", "Automation Testing", "Generative AI (GenAI)", "Large Language Models (LLMs)", "Playwright", "Quality Assurance (QA)"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

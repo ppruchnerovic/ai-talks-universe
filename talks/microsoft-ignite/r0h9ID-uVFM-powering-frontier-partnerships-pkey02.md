@@ -15,6 +15,7 @@ video_id: r0h9ID-uVFM
 url: https://www.youtube.com/watch?v=r0h9ID-uVFM
 youtube_url: https://www.youtube.com/watch?v=r0h9ID-uVFM
 tags: ["Chase Center", "English (US)", "Judson Althoff", "Microsoft AI Cloud Partner Program", "Nick Parker", "Nicole Dezen", "PKEY02", "PKEY02_v1", "Partner Business", "Powering Frontier Partnerships | PKEY02", "Ralph Haupter", "Signature pass", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

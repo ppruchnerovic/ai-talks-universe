@@ -15,6 +15,7 @@ video_id: VtxMUbZt4cA
 url: https://www.youtube.com/watch?v=VtxMUbZt4cA
 youtube_url: https://www.youtube.com/watch?v=VtxMUbZt4cA
 tags: ["BRK400", "BRK400_v1", "Building for Everyone: How Accessibility is Shaping the Future of AI | BRK400", "Copilot and agents at work", "Ed Summers", "English (US)", "Jenny Lay-Flurrie", "Other", "Other:Accessibility", "Partner Business", "Preety Kumar", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: TSLcHP10fRc
 url: https://www.youtube.com/watch?v=TSLcHP10fRc
 youtube_url: https://www.youtube.com/watch?v=TSLcHP10fRc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

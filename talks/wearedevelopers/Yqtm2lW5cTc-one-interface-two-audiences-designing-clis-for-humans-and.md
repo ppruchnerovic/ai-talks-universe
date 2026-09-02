@@ -15,6 +15,7 @@ video_id: Yqtm2lW5cTc
 url: https://www.youtube.com/watch?v=Yqtm2lW5cTc
 youtube_url: https://www.youtube.com/watch?v=Yqtm2lW5cTc
 tags: ["Agents", "Agentic AI", "Developer Experience (DevEx)", "Multi-Agent Systems", "Observability", "Open Source", "OpenTelemetry"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

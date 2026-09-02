@@ -15,6 +15,7 @@ video_id: wmZeI7xrYg4
 url: https://www.youtube.com/watch?v=wmZeI7xrYg4
 youtube_url: https://www.youtube.com/watch?v=wmZeI7xrYg4
 tags: ["A/B testing", "AI production", "Conference", "GPT-4", "GetYourGuide", "LLM", "OpenAI", "PyConDE", "PyData", "Python", "Tech Talk", "content automation", "conversion optimization", "data science", "fine-tuning", "hallucination detection", "machine learning", "prompt engineering", "travel tech"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

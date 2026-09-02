@@ -15,6 +15,7 @@ video_id: PnybFO-ukuw
 url: https://www.youtube.com/watch?v=PnybFO-ukuw
 youtube_url: https://www.youtube.com/watch?v=PnybFO-ukuw
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

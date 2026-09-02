@@ -15,6 +15,7 @@ video_id: 7520meTFN94
 url: https://www.youtube.com/watch?v=7520meTFN94
 youtube_url: https://www.youtube.com/watch?v=7520meTFN94
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

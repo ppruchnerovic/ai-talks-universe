@@ -15,6 +15,7 @@ video_id: E3yiZcI-eno
 url: https://www.youtube.com/watch?v=E3yiZcI-eno
 youtube_url: https://www.youtube.com/watch?v=E3yiZcI-eno
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

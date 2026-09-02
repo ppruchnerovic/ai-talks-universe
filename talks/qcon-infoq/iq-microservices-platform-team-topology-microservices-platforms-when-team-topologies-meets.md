@@ -15,6 +15,7 @@ video_id: iq-microservices-platform-team-topology
 url: https://www.infoq.com/presentations/microservices-platform-team-topology/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

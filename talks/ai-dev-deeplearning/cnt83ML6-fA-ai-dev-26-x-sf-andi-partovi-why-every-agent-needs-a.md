@@ -15,6 +15,7 @@ video_id: cnt83ML6-fA
 url: https://www.youtube.com/watch?v=cnt83ML6-fA
 youtube_url: https://www.youtube.com/watch?v=cnt83ML6-fA
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

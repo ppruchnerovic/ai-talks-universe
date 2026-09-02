@@ -15,6 +15,7 @@ video_id: EAfP8pDs7h4
 url: https://www.youtube.com/watch?v=EAfP8pDs7h4
 youtube_url: https://www.youtube.com/watch?v=EAfP8pDs7h4
 tags: []
+topics: ["Coding assistants & agents", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

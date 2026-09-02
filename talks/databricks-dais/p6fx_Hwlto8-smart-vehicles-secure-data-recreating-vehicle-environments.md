@@ -15,6 +15,7 @@ video_id: p6fx_Hwlto8
 url: https://www.youtube.com/watch?v=p6fx_Hwlto8
 youtube_url: https://www.youtube.com/watch?v=p6fx_Hwlto8
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

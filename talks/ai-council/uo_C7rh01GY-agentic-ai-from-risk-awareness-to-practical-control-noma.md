@@ -15,6 +15,7 @@ video_id: uo_C7rh01GY
 url: https://www.youtube.com/watch?v=uo_C7rh01GY
 youtube_url: https://www.youtube.com/watch?v=uo_C7rh01GY
 tags: ["AI"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

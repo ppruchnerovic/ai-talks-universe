@@ -15,6 +15,7 @@ video_id: 2Dk2hc6K3n0
 url: https://www.youtube.com/watch?v=2Dk2hc6K3n0
 youtube_url: https://www.youtube.com/watch?v=2Dk2hc6K3n0
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

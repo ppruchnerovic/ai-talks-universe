@@ -15,6 +15,7 @@ video_id: tb1IV_m3Vyo
 url: https://www.youtube.com/watch?v=tb1IV_m3Vyo
 youtube_url: https://www.youtube.com/watch?v=tb1IV_m3Vyo
 tags: ["Talent Strategy"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-kotlin-serverless
 url: https://www.infoq.com/presentations/kotlin-serverless/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gorZiiAzr-A
 url: https://www.youtube.com/watch?v=gorZiiAzr-A
 youtube_url: https://www.youtube.com/watch?v=gorZiiAzr-A
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

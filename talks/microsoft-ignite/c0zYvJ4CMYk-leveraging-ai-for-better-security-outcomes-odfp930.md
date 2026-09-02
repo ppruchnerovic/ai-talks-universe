@@ -15,6 +15,7 @@ video_id: c0zYvJ4CMYk
 url: https://www.youtube.com/watch?v=c0zYvJ4CMYk
 youtube_url: https://www.youtube.com/watch?v=c0zYvJ4CMYk
 tags: ["AI", "Brian McHenry", "English (US)", "Intermediate (200)", "Leveraging AI for better security outcomes | ODFP930", "ODFP930", "Pre-recorded", "Security", "Technical", "Threat intelligence", "Version v1", "Zero Trust", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

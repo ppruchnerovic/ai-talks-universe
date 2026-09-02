@@ -15,6 +15,7 @@ video_id: rF8xmWNxM6I
 url: https://www.youtube.com/watch?v=rF8xmWNxM6I
 youtube_url: https://www.youtube.com/watch?v=rF8xmWNxM6I
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

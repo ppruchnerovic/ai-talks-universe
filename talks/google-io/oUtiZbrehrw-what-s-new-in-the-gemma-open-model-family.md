@@ -15,6 +15,7 @@ video_id: oUtiZbrehrw
 url: https://www.youtube.com/watch?v=oUtiZbrehrw
 youtube_url: https://www.youtube.com/watch?v=oUtiZbrehrw
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - AI PA Keynote;", "ct:Stack - AI;"]
+topics: []
 transcript: true
 ---
 

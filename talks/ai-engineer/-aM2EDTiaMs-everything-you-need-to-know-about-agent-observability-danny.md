@@ -15,6 +15,7 @@ video_id: -aM2EDTiaMs
 url: https://www.youtube.com/watch?v=-aM2EDTiaMs
 youtube_url: https://www.youtube.com/watch?v=-aM2EDTiaMs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

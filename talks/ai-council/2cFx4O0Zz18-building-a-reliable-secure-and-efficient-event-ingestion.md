@@ -15,6 +15,7 @@ video_id: 2cFx4O0Zz18
 url: https://www.youtube.com/watch?v=2cFx4O0Zz18
 youtube_url: https://www.youtube.com/watch?v=2cFx4O0Zz18
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

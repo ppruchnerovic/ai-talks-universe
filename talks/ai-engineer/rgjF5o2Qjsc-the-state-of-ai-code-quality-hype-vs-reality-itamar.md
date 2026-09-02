@@ -15,6 +15,7 @@ video_id: rgjF5o2Qjsc
 url: https://www.youtube.com/watch?v=rgjF5o2Qjsc
 youtube_url: https://www.youtube.com/watch?v=rgjF5o2Qjsc
 tags: []
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: false
 ---
 

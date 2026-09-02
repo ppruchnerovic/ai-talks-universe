@@ -15,6 +15,7 @@ video_id: 1AD81ZselPk
 url: https://www.youtube.com/watch?v=1AD81ZselPk
 youtube_url: https://www.youtube.com/watch?v=1AD81ZselPk
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

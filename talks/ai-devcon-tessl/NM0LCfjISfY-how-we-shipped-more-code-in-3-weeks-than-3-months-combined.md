@@ -15,6 +15,7 @@ video_id: NM0LCfjISfY
 url: https://www.youtube.com/watch?v=NM0LCfjISfY
 youtube_url: https://www.youtube.com/watch?v=NM0LCfjISfY
 tags: ["AI", "AI and software development", "AIAssistant", "Benefits of AI tools in coding", "Claude", "Claude AI assistant in coding", "Coding", "CodingAgents", "Conductor", "Cursor", "DeveloperWorkflow", "Productivity", "SoftwareDevelopment", "What is AI-native development?", "ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

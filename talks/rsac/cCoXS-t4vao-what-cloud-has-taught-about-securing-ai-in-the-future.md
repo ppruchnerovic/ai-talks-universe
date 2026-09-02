@@ -15,6 +15,7 @@ video_id: cCoXS-t4vao
 url: https://www.youtube.com/watch?v=cCoXS-t4vao
 youtube_url: https://www.youtube.com/watch?v=cCoXS-t4vao
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

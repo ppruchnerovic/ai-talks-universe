@@ -15,6 +15,7 @@ video_id: D2CRs9kkm0c
 url: https://www.youtube.com/watch?v=D2CRs9kkm0c
 youtube_url: https://www.youtube.com/watch?v=D2CRs9kkm0c
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "RAG", "LLMs", "Retrieval Augmented generation", "Large Language Models", "InfoQ", "QCon San Francisco", "Transcript"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

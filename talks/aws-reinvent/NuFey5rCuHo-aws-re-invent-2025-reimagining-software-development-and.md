@@ -15,6 +15,7 @@ video_id: NuFey5rCuHo
 url: https://www.youtube.com/watch?v=NuFey5rCuHo
 youtube_url: https://www.youtube.com/watch?v=NuFey5rCuHo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

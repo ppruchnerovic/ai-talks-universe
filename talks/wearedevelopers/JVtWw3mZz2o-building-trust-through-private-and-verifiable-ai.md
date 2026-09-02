@@ -15,6 +15,7 @@ video_id: JVtWw3mZz2o
 url: https://www.youtube.com/watch?v=JVtWw3mZz2o
 youtube_url: https://www.youtube.com/watch?v=JVtWw3mZz2o
 tags: ["Security & Privacy", "Privacy", "Security"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

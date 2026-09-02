@@ -15,6 +15,7 @@ video_id: MohMkvTRjjA
 url: https://www.youtube.com/watch?v=MohMkvTRjjA
 youtube_url: https://www.youtube.com/watch?v=MohMkvTRjjA
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

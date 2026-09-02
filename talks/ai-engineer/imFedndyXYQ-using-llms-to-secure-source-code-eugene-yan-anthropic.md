@@ -15,6 +15,7 @@ video_id: imFedndyXYQ
 url: https://www.youtube.com/watch?v=imFedndyXYQ
 youtube_url: https://www.youtube.com/watch?v=imFedndyXYQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

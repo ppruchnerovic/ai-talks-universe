@@ -15,6 +15,7 @@ video_id: b95bug-O4Vs
 url: https://www.youtube.com/watch?v=b95bug-O4Vs
 youtube_url: https://www.youtube.com/watch?v=b95bug-O4Vs
 tags: ["BRK208", "Breakout", "Data", "English (US)", "Lindsey Allen", "Robert Saxby", "Technical", "Version v0", "What’s new in Azure Databricks | BRK208", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

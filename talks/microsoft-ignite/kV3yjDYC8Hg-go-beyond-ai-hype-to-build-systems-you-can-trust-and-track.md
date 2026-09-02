@@ -15,6 +15,7 @@ video_id: kV3yjDYC8Hg
 url: https://www.youtube.com/watch?v=kV3yjDYC8Hg
 youtube_url: https://www.youtube.com/watch?v=kV3yjDYC8Hg
 tags: ["BRKSP480", "English (US)", "Go beyond AI-hype to build systems you can trust and track | BRKSP480", "Innovate with Azure AI apps and agents", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

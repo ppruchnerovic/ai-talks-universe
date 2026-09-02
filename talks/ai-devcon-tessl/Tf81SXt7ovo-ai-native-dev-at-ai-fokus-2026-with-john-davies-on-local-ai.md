@@ -15,6 +15,7 @@ video_id: Tf81SXt7ovo
 url: https://www.youtube.com/watch?v=Tf81SXt7ovo
 youtube_url: https://www.youtube.com/watch?v=Tf81SXt7ovo
 tags: []
+topics: []
 transcript: true
 ---
 

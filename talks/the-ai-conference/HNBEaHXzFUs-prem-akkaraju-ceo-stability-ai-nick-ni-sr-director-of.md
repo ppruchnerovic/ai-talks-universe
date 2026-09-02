@@ -15,6 +15,7 @@ video_id: HNBEaHXzFUs
 url: https://www.youtube.com/watch?v=HNBEaHXzFUs
 youtube_url: https://www.youtube.com/watch?v=HNBEaHXzFUs
 tags: []
+topics: ["Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

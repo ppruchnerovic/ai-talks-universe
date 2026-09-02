@@ -15,6 +15,7 @@ video_id: 0yxCKAMK3nk
 url: https://www.youtube.com/watch?v=0yxCKAMK3nk
 youtube_url: https://www.youtube.com/watch?v=0yxCKAMK3nk
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Ajay Chankramath", "Kaspar von Grünberg", "Platform Engineer’s Handbook", "Platform Engineering", "Backstage", "Kubernetes", "Platform Teams", "Platform-as-a-Service", "DevOps", "Control Planes", "API-first", "Sovereign Cloud", "Vendor Independency"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: _-i5F3XY_V8
 url: https://www.youtube.com/watch?v=_-i5F3XY_V8
 youtube_url: https://www.youtube.com/watch?v=_-i5F3XY_V8
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 30Ofh-Myte4
 url: https://www.youtube.com/watch?v=30Ofh-Myte4
 youtube_url: https://www.youtube.com/watch?v=30Ofh-Myte4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

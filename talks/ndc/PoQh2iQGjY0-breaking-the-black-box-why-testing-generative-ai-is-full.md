@@ -15,6 +15,7 @@ video_id: PoQh2iQGjY0
 url: https://www.youtube.com/watch?v=PoQh2iQGjY0
 youtube_url: https://www.youtube.com/watch?v=PoQh2iQGjY0
 tags: ["Hacking", "AI", "ML", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Security", "Jason Ross"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

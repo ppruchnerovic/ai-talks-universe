@@ -15,6 +15,7 @@ video_id: iq-friction-collaborative-relationships
 url: https://www.infoq.com/presentations/friction-collaborative-relationships/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

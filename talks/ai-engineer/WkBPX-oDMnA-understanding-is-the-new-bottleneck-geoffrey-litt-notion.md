@@ -15,6 +15,7 @@ video_id: WkBPX-oDMnA
 url: https://www.youtube.com/watch?v=WkBPX-oDMnA
 youtube_url: https://www.youtube.com/watch?v=WkBPX-oDMnA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

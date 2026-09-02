@@ -15,6 +15,7 @@ video_id: Pzq4T2wrE44
 url: https://www.youtube.com/watch?v=Pzq4T2wrE44
 youtube_url: https://www.youtube.com/watch?v=Pzq4T2wrE44
 tags: ["Emerging Technologies", "Large Language Models (LLMs)", "Python", "Raspberry Pi", "Robotics"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

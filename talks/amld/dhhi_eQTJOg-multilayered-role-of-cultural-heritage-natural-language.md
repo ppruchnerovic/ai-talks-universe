@@ -15,6 +15,7 @@ video_id: dhhi_eQTJOg
 url: https://www.youtube.com/watch?v=dhhi_eQTJOg
 youtube_url: https://www.youtube.com/watch?v=dhhi_eQTJOg
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: kLsEKXApABs
 url: https://www.youtube.com/watch?v=kLsEKXApABs
 youtube_url: https://www.youtube.com/watch?v=kLsEKXApABs
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

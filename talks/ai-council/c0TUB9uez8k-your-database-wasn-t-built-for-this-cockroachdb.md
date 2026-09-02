@@ -15,6 +15,7 @@ video_id: c0TUB9uez8k
 url: https://www.youtube.com/watch?v=c0TUB9uez8k
 youtube_url: https://www.youtube.com/watch?v=c0TUB9uez8k
 tags: ["AI"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

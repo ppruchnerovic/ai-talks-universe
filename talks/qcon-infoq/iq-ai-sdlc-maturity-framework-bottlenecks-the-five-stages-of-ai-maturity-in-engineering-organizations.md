@@ -15,6 +15,7 @@ video_id: iq-ai-sdlc-maturity-framework-bottlenecks
 url: https://www.infoq.com/presentations/ai-sdlc-maturity-framework-bottlenecks/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

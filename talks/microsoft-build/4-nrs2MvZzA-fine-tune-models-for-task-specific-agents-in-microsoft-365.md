@@ -15,6 +15,7 @@ video_id: 4-nrs2MvZzA
 url: https://www.youtube.com/watch?v=4-nrs2MvZzA
 youtube_url: https://www.youtube.com/watch?v=4-nrs2MvZzA
 tags: []
+topics: ["Agents & orchestration", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

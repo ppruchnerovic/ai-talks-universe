@@ -15,6 +15,7 @@ video_id: MpDqIaIgPrM
 url: https://www.youtube.com/watch?v=MpDqIaIgPrM
 youtube_url: https://www.youtube.com/watch?v=MpDqIaIgPrM
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Models", "Agents", "Agentic AI", "Android", "Best Practices", "Gemini"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

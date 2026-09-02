@@ -15,6 +15,7 @@ video_id: WFyFCFC15dE
 url: https://www.youtube.com/watch?v=WFyFCFC15dE
 youtube_url: https://www.youtube.com/watch?v=WFyFCFC15dE
 tags: ["AI Agents", "Agent Orchestration", "Agentic AI", "MLOps", "Software Architecture", "Generative AI", "AI Engineering", "Distributed Systems"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

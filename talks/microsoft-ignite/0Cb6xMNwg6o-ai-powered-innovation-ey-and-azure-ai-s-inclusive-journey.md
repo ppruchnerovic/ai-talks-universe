@@ -15,6 +15,7 @@ video_id: 0Cb6xMNwg6o
 url: https://www.youtube.com/watch?v=0Cb6xMNwg6o
 youtube_url: https://www.youtube.com/watch?v=0Cb6xMNwg6o
 tags: ["AI", "AI Development", "AI powered innovation: EY and Azure AI's inclusive journey | BRK116", "AI-Curated", "Accessibility", "Ailsa Leen", "Azure AI", "Azure AI Studio", "BRK116", "Breakout", "D&I", "David Mondello", "Developer", "English (US)", "Heather Tartaglia", "Intermediate (200)", "John Franzen", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

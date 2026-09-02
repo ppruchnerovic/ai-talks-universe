@@ -15,6 +15,7 @@ video_id: HVYCWhvz5B8
 url: https://www.youtube.com/watch?v=HVYCWhvz5B8
 youtube_url: https://www.youtube.com/watch?v=HVYCWhvz5B8
 tags: ["QCon London", "GenAI", "RAG", "Retrieval Augmented Generation", "Agentic RAG", "Software Architecture", "Artificial Intelligence", "InfoQ", "Transcript", "Data", "Machine Learning", "LLMs"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

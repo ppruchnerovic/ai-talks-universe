@@ -15,6 +15,7 @@ video_id: ovQ9_Z2Cc-A
 url: https://www.youtube.com/watch?v=ovQ9_Z2Cc-A
 youtube_url: https://www.youtube.com/watch?v=ovQ9_Z2Cc-A
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "Machine Learning", "Data Science", "Women in Tech", "Software Engineering", "Ultrasound Technology", "Pipeline Inspection", "NDT Global", "Career in AI", "STEM", "Tech Interview", "Deep Learning", "AI Applications", "Developer Insights", "Real-World AI"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

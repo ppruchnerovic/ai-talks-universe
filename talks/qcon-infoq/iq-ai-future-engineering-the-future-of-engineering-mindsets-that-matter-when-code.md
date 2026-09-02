@@ -15,6 +15,7 @@ video_id: iq-ai-future-engineering
 url: https://www.infoq.com/presentations/ai-future-engineering/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

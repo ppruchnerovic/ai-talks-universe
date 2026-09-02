@@ -15,6 +15,7 @@ video_id: iq-spotify-ai-codebase-migration-agent
 url: https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/
 youtube_url: null
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

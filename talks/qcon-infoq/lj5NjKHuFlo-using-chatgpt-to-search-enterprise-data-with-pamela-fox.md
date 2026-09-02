@@ -15,6 +15,7 @@ video_id: lj5NjKHuFlo
 url: https://www.youtube.com/watch?v=lj5NjKHuFlo
 youtube_url: https://www.youtube.com/watch?v=lj5NjKHuFlo
 tags: ["AI", "Large Language Models", "OpenAI", "ChatGPT"]
+topics: []
 transcript: false
 ---
 

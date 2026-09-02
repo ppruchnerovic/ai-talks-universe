@@ -15,6 +15,7 @@ video_id: OSoEX7jY0m4
 url: https://www.youtube.com/watch?v=OSoEX7jY0m4
 youtube_url: https://www.youtube.com/watch?v=OSoEX7jY0m4
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: czbzvMpl0I8
 url: https://www.youtube.com/watch?v=czbzvMpl0I8
 youtube_url: https://www.youtube.com/watch?v=czbzvMpl0I8
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

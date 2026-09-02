@@ -15,6 +15,7 @@ video_id: I1vGSdZnAvI
 url: https://www.youtube.com/watch?v=I1vGSdZnAvI
 youtube_url: https://www.youtube.com/watch?v=I1vGSdZnAvI
 tags: ["AI Skills Navigator: Transforming skilling with AI-powered learning​ | STUDIO50", "English (US)", "Kavitha Radhakrishnan", "Other", "STUDIO50", "STUDIO50_v3", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

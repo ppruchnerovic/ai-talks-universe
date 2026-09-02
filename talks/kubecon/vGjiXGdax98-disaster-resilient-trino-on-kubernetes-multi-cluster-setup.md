@@ -15,6 +15,7 @@ video_id: vGjiXGdax98
 url: https://www.youtube.com/watch?v=vGjiXGdax98
 youtube_url: https://www.youtube.com/watch?v=vGjiXGdax98
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

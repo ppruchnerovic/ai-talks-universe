@@ -15,6 +15,7 @@ video_id: N46vMQ1YzAA
 url: https://www.youtube.com/watch?v=N46vMQ1YzAA
 youtube_url: https://www.youtube.com/watch?v=N46vMQ1YzAA
 tags: ["FSYWPG"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

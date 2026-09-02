@@ -15,6 +15,7 @@ video_id: EdmuYPBt_EM
 url: https://www.youtube.com/watch?v=EdmuYPBt_EM
 youtube_url: https://www.youtube.com/watch?v=EdmuYPBt_EM
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

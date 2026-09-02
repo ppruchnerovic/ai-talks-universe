@@ -15,6 +15,7 @@ video_id: 9fv-PArhUs0
 url: https://www.youtube.com/watch?v=9fv-PArhUs0
 youtube_url: https://www.youtube.com/watch?v=9fv-PArhUs0
 tags: ["1270392", "bsides las vegas", "bsides las vegas 2022", "bsideslv", "bslv", "bslv22", "ground truth", "gt"]
+topics: []
 transcript: false
 ---
 

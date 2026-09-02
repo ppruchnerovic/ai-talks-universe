@@ -15,6 +15,7 @@ video_id: MbkjTNg2rcg
 url: https://www.youtube.com/watch?v=MbkjTNg2rcg
 youtube_url: https://www.youtube.com/watch?v=MbkjTNg2rcg
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

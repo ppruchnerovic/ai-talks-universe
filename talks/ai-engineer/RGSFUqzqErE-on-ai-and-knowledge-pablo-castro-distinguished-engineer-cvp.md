@@ -15,6 +15,7 @@ video_id: RGSFUqzqErE
 url: https://www.youtube.com/watch?v=RGSFUqzqErE
 youtube_url: https://www.youtube.com/watch?v=RGSFUqzqErE
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

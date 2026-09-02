@@ -15,6 +15,7 @@ video_id: MtC8SDWeyC8
 url: https://www.youtube.com/watch?v=MtC8SDWeyC8
 youtube_url: https://www.youtube.com/watch?v=MtC8SDWeyC8
 tags: ["AWS", "Anyscale", "Conference", "Prefect", "PyConDE", "PyData", "PyData Berlin", "Python", "Ray", "STAC", "Tech Talk", "cloud computing", "data pipeline", "distributed processing", "geospatial analytics", "infrastructure monitoring", "remote sensing", "satellite imagery"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

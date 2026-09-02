@@ -15,6 +15,7 @@ video_id: wPfpwp2zJIw
 url: https://www.youtube.com/watch?v=wPfpwp2zJIw
 youtube_url: https://www.youtube.com/watch?v=wPfpwp2zJIw
 tags: []
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

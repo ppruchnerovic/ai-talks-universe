@@ -15,6 +15,7 @@ video_id: nbf-dLmyaRg
 url: https://www.youtube.com/watch?v=nbf-dLmyaRg
 youtube_url: https://www.youtube.com/watch?v=nbf-dLmyaRg
 tags: []
+topics: []
 transcript: false
 ---
 

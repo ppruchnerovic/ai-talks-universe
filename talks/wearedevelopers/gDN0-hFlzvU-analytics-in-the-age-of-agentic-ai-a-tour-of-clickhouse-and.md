@@ -15,6 +15,7 @@ video_id: gDN0-hFlzvU
 url: https://www.youtube.com/watch?v=gDN0-hFlzvU
 youtube_url: https://www.youtube.com/watch?v=gDN0-hFlzvU
 tags: ["Data & Databases", "AI Models", "Agentic AI", "Databases"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

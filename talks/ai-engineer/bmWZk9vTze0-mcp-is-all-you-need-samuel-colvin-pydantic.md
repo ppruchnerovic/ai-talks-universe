@@ -15,6 +15,7 @@ video_id: bmWZk9vTze0
 url: https://www.youtube.com/watch?v=bmWZk9vTze0
 youtube_url: https://www.youtube.com/watch?v=bmWZk9vTze0
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Data engineering & MLOps"]
 transcript: false
 ---
 

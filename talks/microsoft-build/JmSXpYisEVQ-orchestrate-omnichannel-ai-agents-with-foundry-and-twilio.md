@@ -15,6 +15,7 @@ video_id: JmSXpYisEVQ
 url: https://www.youtube.com/watch?v=JmSXpYisEVQ
 youtube_url: https://www.youtube.com/watch?v=JmSXpYisEVQ
 tags: ["AI", "AI Toolkit", "API", "Agents", "App Integration", "Azure", "DEMSP393", "Data", "Dev Tools", "Developer", "Developer Frameworks", "Enterprise", "Foundry Agents", "Foundry Control Plane", "Foundry IQ", "ISV", "Microsoft Foundry", "Open Ecosystem", "Orchestrate omnichannel AI agents with Foundry and Twilio | DEMSP393", "Personalization", "Rachel Baskin", "Skills", "Software Development Company", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

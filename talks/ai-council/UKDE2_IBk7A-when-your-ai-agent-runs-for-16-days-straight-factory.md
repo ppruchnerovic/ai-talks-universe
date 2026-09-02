@@ -15,6 +15,7 @@ video_id: UKDE2_IBk7A
 url: https://www.youtube.com/watch?v=UKDE2_IBk7A
 youtube_url: https://www.youtube.com/watch?v=UKDE2_IBk7A
 tags: ["AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

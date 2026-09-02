@@ -15,6 +15,7 @@ video_id: iq-docdb-online-database
 url: https://www.infoq.com/presentations/docdb-online-database/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

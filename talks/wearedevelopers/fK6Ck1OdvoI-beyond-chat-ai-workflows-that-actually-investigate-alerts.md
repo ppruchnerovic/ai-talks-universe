@@ -15,6 +15,7 @@ video_id: fK6Ck1OdvoI
 url: https://www.youtube.com/watch?v=fK6Ck1OdvoI
 youtube_url: https://www.youtube.com/watch?v=fK6Ck1OdvoI
 tags: ["DevOps", "Automation", "DevOps", "Generative AI (GenAI)", "LLMOps", "Site Reliability Engineering (SRE)", "Workflow Automation"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

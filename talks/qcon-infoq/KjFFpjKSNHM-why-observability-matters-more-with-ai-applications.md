@@ -15,6 +15,7 @@ video_id: KjFFpjKSNHM
 url: https://www.youtube.com/watch?v=KjFFpjKSNHM
 youtube_url: https://www.youtube.com/watch?v=KjFFpjKSNHM
 tags: ["InfoQ Dev Summit", "QCon", "InfoQ", "Transcript", "Observability", "Prometheus", "Grafana", "OpenTelemetry", "Tempo", "vLLM", "Llama Stack", "Kubernetes", "LLMs", "Open Source", "Monitoring", "Large Language Models", "Artificial Intelligence", "Performance"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: _PioN-CpOP0
 url: https://www.youtube.com/watch?v=_PioN-CpOP0
 youtube_url: https://www.youtube.com/watch?v=_PioN-CpOP0
 tags: ["YC", "Y Combinator"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-event-driven-multi-cloud
 url: https://www.infoq.com/presentations/event-driven-multi-cloud/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

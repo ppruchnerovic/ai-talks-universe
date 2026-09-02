@@ -15,6 +15,7 @@ video_id: HpfRg1MOIpE
 url: https://www.youtube.com/watch?v=HpfRg1MOIpE
 youtube_url: https://www.youtube.com/watch?v=HpfRg1MOIpE
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

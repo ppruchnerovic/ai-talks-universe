@@ -15,6 +15,7 @@ video_id: Q7UjBvix-Uc
 url: https://www.youtube.com/watch?v=Q7UjBvix-Uc
 youtube_url: https://www.youtube.com/watch?v=Q7UjBvix-Uc
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: false
 ---
 

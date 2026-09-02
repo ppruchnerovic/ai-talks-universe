@@ -15,6 +15,7 @@ video_id: nllKcuX7rEc
 url: https://www.youtube.com/watch?v=nllKcuX7rEc
 youtube_url: https://www.youtube.com/watch?v=nllKcuX7rEc
 tags: ["open source", "data science", "Quarto", "Jupyter", "data science notebooks"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

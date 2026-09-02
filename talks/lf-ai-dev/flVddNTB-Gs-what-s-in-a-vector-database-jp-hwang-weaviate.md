@@ -15,6 +15,7 @@ video_id: flVddNTB-Gs
 url: https://www.youtube.com/watch?v=flVddNTB-Gs
 youtube_url: https://www.youtube.com/watch?v=flVddNTB-Gs
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

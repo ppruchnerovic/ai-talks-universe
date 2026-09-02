@@ -15,6 +15,7 @@ video_id: UOKQL0qsc8E
 url: https://www.youtube.com/watch?v=UOKQL0qsc8E
 youtube_url: https://www.youtube.com/watch?v=UOKQL0qsc8E
 tags: ["Emerging Technologies", "AI Models", "Integration", "Python"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

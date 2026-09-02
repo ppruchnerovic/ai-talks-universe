@@ -15,6 +15,7 @@ video_id: wkvGcbsZmPo
 url: https://www.youtube.com/watch?v=wkvGcbsZmPo
 youtube_url: https://www.youtube.com/watch?v=wkvGcbsZmPo
 tags: []
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

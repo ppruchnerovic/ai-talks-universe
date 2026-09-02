@@ -15,6 +15,7 @@ video_id: gwSsWmPKdTU
 url: https://www.youtube.com/watch?v=gwSsWmPKdTU
 youtube_url: https://www.youtube.com/watch?v=gwSsWmPKdTU
 tags: ["Emerging Technologies", "Edge AI", "Internet of Things (IoT)", "Observability", "Raspberry Pi", "Startups"]
+topics: []
 transcript: true
 ---
 

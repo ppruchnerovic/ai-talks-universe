@@ -15,6 +15,7 @@ video_id: p23DLuWOmHM
 url: https://www.youtube.com/watch?v=p23DLuWOmHM
 youtube_url: https://www.youtube.com/watch?v=p23DLuWOmHM
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

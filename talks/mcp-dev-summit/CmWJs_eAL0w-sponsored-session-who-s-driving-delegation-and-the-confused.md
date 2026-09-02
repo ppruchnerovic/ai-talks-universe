@@ -15,6 +15,7 @@ video_id: CmWJs_eAL0w
 url: https://www.youtube.com/watch?v=CmWJs_eAL0w
 youtube_url: https://www.youtube.com/watch?v=CmWJs_eAL0w
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

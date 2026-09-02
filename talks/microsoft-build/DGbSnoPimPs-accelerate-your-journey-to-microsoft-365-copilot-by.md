@@ -15,6 +15,7 @@ video_id: DGbSnoPimPs
 url: https://www.youtube.com/watch?v=DGbSnoPimPs
 youtube_url: https://www.youtube.com/watch?v=DGbSnoPimPs
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Rvz7XGWvORQ
 url: https://www.youtube.com/watch?v=Rvz7XGWvORQ
 youtube_url: https://www.youtube.com/watch?v=Rvz7XGWvORQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

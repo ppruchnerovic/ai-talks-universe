@@ -15,6 +15,7 @@ video_id: u8tvVxUOwvY
 url: https://www.youtube.com/watch?v=u8tvVxUOwvY
 youtube_url: https://www.youtube.com/watch?v=u8tvVxUOwvY
 tags: ["JavaScript", "AI", "Programming Languages", "Work skills", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia"]
+topics: []
 transcript: false
 ---
 

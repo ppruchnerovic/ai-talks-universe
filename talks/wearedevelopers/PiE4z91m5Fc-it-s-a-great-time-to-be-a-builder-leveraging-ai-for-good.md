@@ -15,6 +15,7 @@ video_id: PiE4z91m5Fc
 url: https://www.youtube.com/watch?v=PiE4z91m5Fc
 youtube_url: https://www.youtube.com/watch?v=PiE4z91m5Fc
 tags: ["Frontend, Web & Mobile", "React", "React Native"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: H_sCdQkp6jo
 url: https://www.youtube.com/watch?v=H_sCdQkp6jo
 youtube_url: https://www.youtube.com/watch?v=H_sCdQkp6jo
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

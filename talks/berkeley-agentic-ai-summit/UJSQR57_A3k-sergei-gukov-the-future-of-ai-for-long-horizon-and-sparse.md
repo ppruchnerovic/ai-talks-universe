@@ -15,6 +15,7 @@ video_id: UJSQR57_A3k
 url: https://www.youtube.com/watch?v=UJSQR57_A3k
 youtube_url: https://www.youtube.com/watch?v=UJSQR57_A3k
 tags: []
+topics: []
 transcript: true
 ---
 

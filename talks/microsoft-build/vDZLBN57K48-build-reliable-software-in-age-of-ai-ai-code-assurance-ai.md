@@ -15,6 +15,7 @@ video_id: vDZLBN57K48
 url: https://www.youtube.com/watch?v=vDZLBN57K48
 youtube_url: https://www.youtube.com/watch?v=vDZLBN57K48
 tags: []
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: false
 ---
 

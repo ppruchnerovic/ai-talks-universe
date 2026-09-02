@@ -15,6 +15,7 @@ video_id: Fzb1a24hF-o
 url: https://www.youtube.com/watch?v=Fzb1a24hF-o
 youtube_url: https://www.youtube.com/watch?v=Fzb1a24hF-o
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

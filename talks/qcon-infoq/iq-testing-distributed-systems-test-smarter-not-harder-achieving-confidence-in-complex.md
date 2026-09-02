@@ -15,6 +15,7 @@ video_id: iq-testing-distributed-systems
 url: https://www.infoq.com/presentations/testing-distributed-systems/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

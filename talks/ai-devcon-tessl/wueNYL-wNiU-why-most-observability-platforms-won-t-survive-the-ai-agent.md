@@ -15,6 +15,7 @@ video_id: wueNYL-wNiU
 url: https://www.youtube.com/watch?v=wueNYL-wNiU
 youtube_url: https://www.youtube.com/watch?v=wueNYL-wNiU
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

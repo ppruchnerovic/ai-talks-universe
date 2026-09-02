@@ -15,6 +15,7 @@ video_id: fPqximWo12A
 url: https://www.youtube.com/watch?v=fPqximWo12A
 youtube_url: https://www.youtube.com/watch?v=fPqximWo12A
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

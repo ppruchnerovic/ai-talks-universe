@@ -15,6 +15,7 @@ video_id: plAUd-52_7s
 url: https://www.youtube.com/watch?v=plAUd-52_7s
 youtube_url: https://www.youtube.com/watch?v=plAUd-52_7s
 tags: []
+topics: []
 transcript: false
 ---
 

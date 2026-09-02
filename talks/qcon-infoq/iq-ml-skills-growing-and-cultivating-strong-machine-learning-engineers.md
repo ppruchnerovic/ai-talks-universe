@@ -15,6 +15,7 @@ video_id: iq-ml-skills
 url: https://www.infoq.com/presentations/ml-skills/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

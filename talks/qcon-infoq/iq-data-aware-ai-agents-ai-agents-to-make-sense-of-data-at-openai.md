@@ -15,6 +15,7 @@ video_id: iq-data-aware-ai-agents
 url: https://www.infoq.com/presentations/data-aware-ai-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

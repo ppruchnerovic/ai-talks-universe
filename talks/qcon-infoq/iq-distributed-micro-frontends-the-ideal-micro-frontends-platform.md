@@ -15,6 +15,7 @@ video_id: iq-distributed-micro-frontends
 url: https://www.infoq.com/presentations/distributed-micro-frontends/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

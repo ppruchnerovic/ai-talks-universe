@@ -15,6 +15,7 @@ video_id: qUlmamw4nf0
 url: https://www.youtube.com/watch?v=qUlmamw4nf0
 youtube_url: https://www.youtube.com/watch?v=qUlmamw4nf0
 tags: []
+topics: []
 transcript: false
 ---
 

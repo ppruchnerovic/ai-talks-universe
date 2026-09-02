@@ -15,6 +15,7 @@ video_id: JD159YnGoPw
 url: https://www.youtube.com/watch?v=JD159YnGoPw
 youtube_url: https://www.youtube.com/watch?v=JD159YnGoPw
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: rGp8QJNPlr8
 url: https://www.youtube.com/watch?v=rGp8QJNPlr8
 youtube_url: https://www.youtube.com/watch?v=rGp8QJNPlr8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

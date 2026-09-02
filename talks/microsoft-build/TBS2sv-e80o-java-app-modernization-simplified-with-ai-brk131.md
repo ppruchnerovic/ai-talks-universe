@@ -15,6 +15,7 @@ video_id: TBS2sv-e80o
 url: https://www.youtube.com/watch?v=TBS2sv-e80o
 youtube_url: https://www.youtube.com/watch?v=TBS2sv-e80o
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

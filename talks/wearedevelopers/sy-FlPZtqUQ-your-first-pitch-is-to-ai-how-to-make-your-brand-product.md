@@ -15,6 +15,7 @@ video_id: sy-FlPZtqUQ
 url: https://www.youtube.com/watch?v=sy-FlPZtqUQ
 youtube_url: https://www.youtube.com/watch?v=sy-FlPZtqUQ
 tags: ["Case Study", "Entrepreneurship", "Generative AI (GenAI)", "Large Language Models (LLMs)", "Marketing", "Product Strategy", "SEO", "Startups"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

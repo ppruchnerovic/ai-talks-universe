@@ -15,6 +15,7 @@ video_id: hMt_63Fes-Y
 url: https://www.youtube.com/watch?v=hMt_63Fes-Y
 youtube_url: https://www.youtube.com/watch?v=hMt_63Fes-Y
 tags: ["Quality & Reliability", "AI Coding Assistants", "Productivity", "Testing"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

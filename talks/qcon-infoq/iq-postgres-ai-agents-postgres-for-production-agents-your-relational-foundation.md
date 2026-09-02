@@ -15,6 +15,7 @@ video_id: iq-postgres-ai-agents
 url: https://www.infoq.com/presentations/postgres-ai-agents/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

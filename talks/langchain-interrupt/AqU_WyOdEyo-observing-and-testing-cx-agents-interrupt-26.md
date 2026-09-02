@@ -15,6 +15,7 @@ video_id: AqU_WyOdEyo
 url: https://www.youtube.com/watch?v=AqU_WyOdEyo
 youtube_url: https://www.youtube.com/watch?v=AqU_WyOdEyo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

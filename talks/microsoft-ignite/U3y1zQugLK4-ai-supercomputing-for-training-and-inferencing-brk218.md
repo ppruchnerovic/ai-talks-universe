@@ -15,6 +15,7 @@ video_id: U3y1zQugLK4
 url: https://www.youtube.com/watch?v=U3y1zQugLK4
 youtube_url: https://www.youtube.com/watch?v=U3y1zQugLK4
 tags: ["AI", "AI Infrastructure", "AI supercomputing for training and inferencing​ | BRK218", "Azure Arc", "BRK218", "Breakout", "Copilot", "English (US)", "Gauhar Junnarkar", "Infrastructure", "Intermediate (200)", "John Lee", "MachineLearning", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

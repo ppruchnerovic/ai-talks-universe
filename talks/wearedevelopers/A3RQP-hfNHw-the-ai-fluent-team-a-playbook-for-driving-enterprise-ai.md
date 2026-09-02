@@ -15,6 +15,7 @@ video_id: A3RQP-hfNHw
 url: https://www.youtube.com/watch?v=A3RQP-hfNHw
 youtube_url: https://www.youtube.com/watch?v=A3RQP-hfNHw
 tags: ["People & Culture", "AI Models", "AI Standards"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

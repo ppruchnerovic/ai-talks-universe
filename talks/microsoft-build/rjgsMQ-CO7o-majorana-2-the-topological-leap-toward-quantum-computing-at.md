@@ -15,6 +15,7 @@ video_id: rjgsMQ-CO7o
 url: https://www.youtube.com/watch?v=rjgsMQ-CO7o
 youtube_url: https://www.youtube.com/watch?v=rjgsMQ-CO7o
 tags: ["132d2247-cf6e-4b4d-92b1-e9040df49d5b_M9Z7-DEM314-1", "Cloud Platform & Data", "DEM314", "Majorana 2: The Topological Leap Toward Quantum Computing at Scale | DEM314", "Roman Lutchyn", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

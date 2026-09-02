@@ -15,6 +15,7 @@ video_id: U20tVialbao
 url: https://www.youtube.com/watch?v=U20tVialbao
 youtube_url: https://www.youtube.com/watch?v=U20tVialbao
 tags: ["08c6dddb-f6b9-4d5c-a6dc-cd90cc21369e_Segment", "AI powered automation & multi-agent orchestration in Microsoft Foundry | BRK197", "BRK197", "Christof Gebhart", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Mark Wallace", "Shawn Henry", "Technical", "Tina Manghnani", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: MNkmRtXIp04
 url: https://www.youtube.com/watch?v=MNkmRtXIp04
 youtube_url: https://www.youtube.com/watch?v=MNkmRtXIp04
 tags: ["Databricks"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

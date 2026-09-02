@@ -15,6 +15,7 @@ video_id: jtzh-GBXBWc
 url: https://www.youtube.com/watch?v=jtzh-GBXBWc
 youtube_url: https://www.youtube.com/watch?v=jtzh-GBXBWc
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

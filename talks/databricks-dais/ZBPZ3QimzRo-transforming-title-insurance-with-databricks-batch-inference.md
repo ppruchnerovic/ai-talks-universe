@@ -15,6 +15,7 @@ video_id: ZBPZ3QimzRo
 url: https://www.youtube.com/watch?v=ZBPZ3QimzRo
 youtube_url: https://www.youtube.com/watch?v=ZBPZ3QimzRo
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

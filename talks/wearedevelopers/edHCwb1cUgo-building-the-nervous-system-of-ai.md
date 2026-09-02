@@ -15,6 +15,7 @@ video_id: edHCwb1cUgo
 url: https://www.youtube.com/watch?v=edHCwb1cUgo
 youtube_url: https://www.youtube.com/watch?v=edHCwb1cUgo
 tags: ["AI Engineering", "AI Models", "AI Standards", "Generative AI (GenAI)", "Networking", "Tokenomics"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

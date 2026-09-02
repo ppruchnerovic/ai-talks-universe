@@ -15,6 +15,7 @@ video_id: IlekqKuGBPA
 url: https://www.youtube.com/watch?v=IlekqKuGBPA
 youtube_url: https://www.youtube.com/watch?v=IlekqKuGBPA
 tags: ["AI Engineering"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

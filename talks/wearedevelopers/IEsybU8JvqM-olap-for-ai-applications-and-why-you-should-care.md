@@ -15,6 +15,7 @@ video_id: IEsybU8JvqM
 url: https://www.youtube.com/watch?v=IEsybU8JvqM
 youtube_url: https://www.youtube.com/watch?v=IEsybU8JvqM
 tags: ["Data & Databases", "Analytics", "C++", "Databases", "Retrieval-Augmented Generation (RAG)", "SQL"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

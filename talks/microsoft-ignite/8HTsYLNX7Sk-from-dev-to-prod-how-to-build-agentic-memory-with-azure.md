@@ -15,6 +15,7 @@ video_id: 8HTsYLNX7Sk
 url: https://www.youtube.com/watch?v=8HTsYLNX7Sk
 youtube_url: https://www.youtube.com/watch?v=8HTsYLNX7Sk
 tags: ["33bb85d2-edf1-48ff-9c32-4279a2ff59ae_Segment", "BRK135", "Derek Boudreau", "English (US)", "Felipe Morales Heerlein", "From DEV to PROD: How to build agentic memory with Azure Cosmos DB | BRK135", "James Codella", "Kendall Brasch", "Technical", "Unify your data platform", "Unify your data platform:Azure CosmosDB", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

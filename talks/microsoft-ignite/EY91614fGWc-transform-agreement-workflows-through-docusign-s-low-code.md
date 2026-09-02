@@ -15,6 +15,7 @@ video_id: EY91614fGWc
 url: https://www.youtube.com/watch?v=EY91614fGWc
 youtube_url: https://www.youtube.com/watch?v=EY91614fGWc
 tags: ["AI", "Automation", "English (US)", "Foundational (100)", "Hank Glover", "ODFP937", "Power Platform", "Pre-recorded", "Shane Meisner", "Technical", "Transform agreement workflows through Docusign's low-code automation | ODFP937", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

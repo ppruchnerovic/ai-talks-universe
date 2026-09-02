@@ -15,6 +15,7 @@ video_id: Fsam4PJ8z-k
 url: https://www.youtube.com/watch?v=Fsam4PJ8z-k
 youtube_url: https://www.youtube.com/watch?v=Fsam4PJ8z-k
 tags: ["data governance", "data streaming"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: gGN3R-kcWew
 url: https://www.youtube.com/watch?v=gGN3R-kcWew
 youtube_url: https://www.youtube.com/watch?v=gGN3R-kcWew
 tags: ["ML", "Application Security", "Cloud Security", "DevOps", "Kubernetes", "Platforms", "Programming", "Security Tooling", "SDLC", "AI", "Machine Learning", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Bodhisattva Das"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

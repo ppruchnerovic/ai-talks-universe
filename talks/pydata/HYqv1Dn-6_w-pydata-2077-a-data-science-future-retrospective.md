@@ -15,6 +15,7 @@ video_id: HYqv1Dn-6_w
 url: https://www.youtube.com/watch?v=HYqv1Dn-6_w
 youtube_url: https://www.youtube.com/watch?v=HYqv1Dn-6_w
 tags: ["AI alignment", "AI hype", "Conference", "PyConDE", "PyData", "PyData Berlin", "Python", "Tech Talk", "artificial intelligence", "causality", "data science", "future of programming", "keynote talk", "machine learning", "open source community", "speculative fiction", "tech culture", "tech satire"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

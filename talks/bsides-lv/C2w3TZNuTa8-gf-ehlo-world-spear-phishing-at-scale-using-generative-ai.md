@@ -15,6 +15,7 @@ video_id: C2w3TZNuTa8
 url: https://www.youtube.com/watch?v=C2w3TZNuTa8
 youtube_url: https://www.youtube.com/watch?v=C2w3TZNuTa8
 tags: ["JJZWLU"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

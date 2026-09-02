@@ -15,6 +15,7 @@ video_id: 4WO3klWEhiI
 url: https://www.youtube.com/watch?v=4WO3klWEhiI
 youtube_url: https://www.youtube.com/watch?v=4WO3klWEhiI
 tags: ["data engineering", "data catalog", "open source", "query logs", "API", "metadata management"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

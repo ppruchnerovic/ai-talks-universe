@@ -15,6 +15,7 @@ video_id: nHaLbyLPK7s
 url: https://www.youtube.com/watch?v=nHaLbyLPK7s
 youtube_url: https://www.youtube.com/watch?v=nHaLbyLPK7s
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

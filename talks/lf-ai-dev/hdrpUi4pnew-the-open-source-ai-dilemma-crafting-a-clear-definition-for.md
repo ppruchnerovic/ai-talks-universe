@@ -15,6 +15,7 @@ video_id: hdrpUi4pnew
 url: https://www.youtube.com/watch?v=hdrpUi4pnew
 youtube_url: https://www.youtube.com/watch?v=hdrpUi4pnew
 tags: []
+topics: []
 transcript: false
 ---
 

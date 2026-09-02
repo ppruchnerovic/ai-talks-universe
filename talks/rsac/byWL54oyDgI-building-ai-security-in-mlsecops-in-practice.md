@@ -15,6 +15,7 @@ video_id: byWL54oyDgI
 url: https://www.youtube.com/watch?v=byWL54oyDgI
 youtube_url: https://www.youtube.com/watch?v=byWL54oyDgI
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

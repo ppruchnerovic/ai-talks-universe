@@ -15,6 +15,7 @@ video_id: BnxiqCCthZY
 url: https://www.youtube.com/watch?v=BnxiqCCthZY
 youtube_url: https://www.youtube.com/watch?v=BnxiqCCthZY
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

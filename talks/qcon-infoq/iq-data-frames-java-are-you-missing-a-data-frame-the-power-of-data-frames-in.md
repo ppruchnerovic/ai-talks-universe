@@ -15,6 +15,7 @@ video_id: iq-data-frames-java
 url: https://www.infoq.com/presentations/data-frames-java/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

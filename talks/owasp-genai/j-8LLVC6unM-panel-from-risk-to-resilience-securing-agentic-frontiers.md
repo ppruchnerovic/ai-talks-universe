@@ -15,6 +15,7 @@ video_id: j-8LLVC6unM
 url: https://www.youtube.com/watch?v=j-8LLVC6unM
 youtube_url: https://www.youtube.com/watch?v=j-8LLVC6unM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

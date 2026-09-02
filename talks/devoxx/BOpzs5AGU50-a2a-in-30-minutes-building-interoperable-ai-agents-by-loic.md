@@ -15,6 +15,7 @@ video_id: BOpzs5AGU50
 url: https://www.youtube.com/watch?v=BOpzs5AGU50
 youtube_url: https://www.youtube.com/watch?v=BOpzs5AGU50
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

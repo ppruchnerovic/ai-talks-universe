@@ -15,6 +15,7 @@ video_id: Psv5t4zKpco
 url: https://www.youtube.com/watch?v=Psv5t4zKpco
 youtube_url: https://www.youtube.com/watch?v=Psv5t4zKpco
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

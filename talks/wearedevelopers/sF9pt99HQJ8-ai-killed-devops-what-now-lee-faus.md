@@ -15,6 +15,7 @@ video_id: sF9pt99HQJ8
 url: https://www.youtube.com/watch?v=sF9pt99HQJ8
 youtube_url: https://www.youtube.com/watch?v=sF9pt99HQJ8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: H1qrFhg6cMc
 url: https://www.youtube.com/watch?v=H1qrFhg6cMc
 youtube_url: https://www.youtube.com/watch?v=H1qrFhg6cMc
 tags: ["Software Engineering", "Developer Productivity", "Tech Leadership", "Developer Experience", "Team Work", "Productivity", "Engineering Culture Podcast"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

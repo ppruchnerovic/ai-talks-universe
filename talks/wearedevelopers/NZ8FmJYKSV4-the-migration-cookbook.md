@@ -15,6 +15,7 @@ video_id: NZ8FmJYKSV4
 url: https://www.youtube.com/watch?v=NZ8FmJYKSV4
 youtube_url: https://www.youtube.com/watch?v=NZ8FmJYKSV4
 tags: ["Software Architecture", "Best Practices", "Tooling"]
+topics: []
 transcript: true
 ---
 

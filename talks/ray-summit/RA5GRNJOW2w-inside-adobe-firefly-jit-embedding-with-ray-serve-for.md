@@ -15,6 +15,7 @@ video_id: RA5GRNJOW2w
 url: https://www.youtube.com/watch?v=RA5GRNJOW2w
 youtube_url: https://www.youtube.com/watch?v=RA5GRNJOW2w
 tags: []
+topics: []
 transcript: false
 ---
 

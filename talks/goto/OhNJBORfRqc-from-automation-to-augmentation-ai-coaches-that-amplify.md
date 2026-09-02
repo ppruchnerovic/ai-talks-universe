@@ -15,6 +15,7 @@ video_id: OhNJBORfRqc
 url: https://www.youtube.com/watch?v=OhNJBORfRqc
 youtube_url: https://www.youtube.com/watch?v=OhNJBORfRqc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Mike Amundsen", "Automation", "Augmentation", "AI Coaches", "GenAI", "Douglas Engelbart", "J. C. R. Licklider"]
+topics: []
 transcript: false
 ---
 

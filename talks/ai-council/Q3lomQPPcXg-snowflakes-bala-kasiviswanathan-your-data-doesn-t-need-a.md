@@ -15,6 +15,7 @@ video_id: Q3lomQPPcXg
 url: https://www.youtube.com/watch?v=Q3lomQPPcXg
 youtube_url: https://www.youtube.com/watch?v=Q3lomQPPcXg
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

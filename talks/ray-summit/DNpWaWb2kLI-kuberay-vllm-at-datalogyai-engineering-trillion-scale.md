@@ -15,6 +15,7 @@ video_id: DNpWaWb2kLI
 url: https://www.youtube.com/watch?v=DNpWaWb2kLI
 youtube_url: https://www.youtube.com/watch?v=DNpWaWb2kLI
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

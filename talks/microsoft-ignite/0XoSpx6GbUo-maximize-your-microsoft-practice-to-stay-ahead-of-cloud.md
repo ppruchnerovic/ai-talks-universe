@@ -15,6 +15,7 @@ video_id: 0XoSpx6GbUo
 url: https://www.youtube.com/watch?v=0XoSpx6GbUo
 youtube_url: https://www.youtube.com/watch?v=0XoSpx6GbUo
 tags: ["Adoption", "BRKFP374", "Breakout", "Copilot", "Copilot for M365", "Copilot for Security", "English (US)", "Foundational (100)", "Maximize your Microsoft practice to stay ahead of cloud competition | BRKFP374", "Microsoft 365", "Microsoft Copilot", "Partner Business", "SMB", "Small and medium-sized businesses", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

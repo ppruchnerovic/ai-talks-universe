@@ -15,6 +15,7 @@ video_id: 0SoEcudoUo0
 url: https://www.youtube.com/watch?v=0SoEcudoUo0
 youtube_url: https://www.youtube.com/watch?v=0SoEcudoUo0
 tags: ["Frontend, Web & Mobile", "Angular"]
+topics: []
 transcript: true
 ---
 

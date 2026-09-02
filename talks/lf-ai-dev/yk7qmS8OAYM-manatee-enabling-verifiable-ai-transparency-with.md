@@ -15,6 +15,7 @@ video_id: yk7qmS8OAYM
 url: https://www.youtube.com/watch?v=yk7qmS8OAYM
 youtube_url: https://www.youtube.com/watch?v=yk7qmS8OAYM
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

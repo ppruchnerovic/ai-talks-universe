@@ -15,6 +15,7 @@ video_id: tGbcQZ4WeZ0
 url: https://www.youtube.com/watch?v=tGbcQZ4WeZ0
 youtube_url: https://www.youtube.com/watch?v=tGbcQZ4WeZ0
 tags: ["BRK314", "Building agents with Copilot Studio and Microsoft Foundry | BRK314", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Innovate with low-code AI and agents", "Innovate with low-code AI and agents:Copilot Studio", "Matthew Barbour", "Matthew Bolanos", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

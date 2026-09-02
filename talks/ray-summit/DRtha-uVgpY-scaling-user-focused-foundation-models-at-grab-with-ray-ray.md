@@ -15,6 +15,7 @@ video_id: DRtha-uVgpY
 url: https://www.youtube.com/watch?v=DRtha-uVgpY
 youtube_url: https://www.youtube.com/watch?v=DRtha-uVgpY
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

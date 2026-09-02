@@ -15,6 +15,7 @@ video_id: ubL0-0JlfNs
 url: https://www.youtube.com/watch?v=ubL0-0JlfNs
 youtube_url: https://www.youtube.com/watch?v=ubL0-0JlfNs
 tags: ["MV7T7E"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

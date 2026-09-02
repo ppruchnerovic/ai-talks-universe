@@ -15,6 +15,7 @@ video_id: qHmGduzYUyk
 url: https://www.youtube.com/watch?v=qHmGduzYUyk
 youtube_url: https://www.youtube.com/watch?v=qHmGduzYUyk
 tags: ["People & Culture", "Collaboration", "Communication", "Project Management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

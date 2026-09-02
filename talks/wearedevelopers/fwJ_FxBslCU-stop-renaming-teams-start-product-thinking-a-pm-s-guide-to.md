@@ -15,6 +15,7 @@ video_id: fwJ_FxBslCU
 url: https://www.youtube.com/watch?v=fwJ_FxBslCU
 youtube_url: https://www.youtube.com/watch?v=fwJ_FxBslCU
 tags: ["DevOps", "DevOps", "Internal Platforms", "Product Management"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

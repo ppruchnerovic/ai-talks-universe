@@ -15,6 +15,7 @@ video_id: VVkXoyotU5g
 url: https://www.youtube.com/watch?v=VVkXoyotU5g
 youtube_url: https://www.youtube.com/watch?v=VVkXoyotU5g
 tags: []
+topics: ["Data engineering & MLOps", "Prompting & context engineering"]
 transcript: false
 ---
 

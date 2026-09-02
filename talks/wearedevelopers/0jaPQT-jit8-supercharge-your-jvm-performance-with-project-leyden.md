@@ -15,6 +15,7 @@ video_id: 0jaPQT-jit8
 url: https://www.youtube.com/watch?v=0jaPQT-jit8
 youtube_url: https://www.youtube.com/watch?v=0jaPQT-jit8
 tags: ["Languages & Runtimes", "Java", "Performance"]
+topics: []
 transcript: true
 ---
 

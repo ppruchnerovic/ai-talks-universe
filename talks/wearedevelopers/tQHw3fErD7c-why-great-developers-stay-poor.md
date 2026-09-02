@@ -15,6 +15,7 @@ video_id: tQHw3fErD7c
 url: https://www.youtube.com/watch?v=tQHw3fErD7c
 youtube_url: https://www.youtube.com/watch?v=tQHw3fErD7c
 tags: ["Career & Growth", "Business Models", "Collaboration", "Employer Branding", "Entrepreneurship", "Networking", "People & Culture", "Product Strategy", "Product Management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

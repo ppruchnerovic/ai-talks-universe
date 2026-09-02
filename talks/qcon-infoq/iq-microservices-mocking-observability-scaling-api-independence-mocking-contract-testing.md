@@ -15,6 +15,7 @@ video_id: iq-microservices-mocking-observability
 url: https://www.infoq.com/presentations/microservices-mocking-observability/
 youtube_url: null
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 1DlNVROQ6DI
 url: https://www.youtube.com/watch?v=1DlNVROQ6DI
 youtube_url: https://www.youtube.com/watch?v=1DlNVROQ6DI
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

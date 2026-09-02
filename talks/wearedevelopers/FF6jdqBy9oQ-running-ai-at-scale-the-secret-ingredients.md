@@ -15,6 +15,7 @@ video_id: FF6jdqBy9oQ
 url: https://www.youtube.com/watch?v=FF6jdqBy9oQ
 youtube_url: https://www.youtube.com/watch?v=FF6jdqBy9oQ
 tags: ["Strategy & Innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

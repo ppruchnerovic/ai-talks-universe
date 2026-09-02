@@ -15,6 +15,7 @@ video_id: nfrmfyoKs6A
 url: https://www.youtube.com/watch?v=nfrmfyoKs6A
 youtube_url: https://www.youtube.com/watch?v=nfrmfyoKs6A
 tags: ["Ray tutorial", "distributed ML", "MLOps tutorial", "ChatGPT", "artificial intelligence", "machine learning", "Python tutorial", "AI", "observability", "model training", "AI infrastructure", "deep learning", "parallel computing", "distributed training", "distributed computing framework", "scalable ML", "hyperparameter tuning", "reinforcement learning", "distributed data processing", "cluster computing", "auto scaling", "fault tolerance", "resource management"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 8qkC1138aOA
 url: https://www.youtube.com/watch?v=8qkC1138aOA
 youtube_url: https://www.youtube.com/watch?v=8qkC1138aOA
 tags: ["AI", "Copilot", "Create a world that works better for IT and field service teams | ODFP984", "Intune", "Medium-sized businesses", "Microsoft 365", "Microsoft 365 Apps", "Microsoft Copilot", "Microsoft Intune", "Microsoft Sentinel", "Microsoft Teams", "ODFP984", "Responsible AI", "Security", "Workplace", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 8Js-EPuekHA
 url: https://www.youtube.com/watch?v=8Js-EPuekHA
 youtube_url: https://www.youtube.com/watch?v=8Js-EPuekHA
 tags: []
+topics: []
 transcript: false
 ---
 

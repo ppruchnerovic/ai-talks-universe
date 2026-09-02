@@ -15,6 +15,7 @@ video_id: EBzqP7njk00
 url: https://www.youtube.com/watch?v=EBzqP7njk00
 youtube_url: https://www.youtube.com/watch?v=EBzqP7njk00
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

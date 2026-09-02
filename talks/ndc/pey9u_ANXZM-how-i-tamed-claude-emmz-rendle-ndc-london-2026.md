@@ -15,6 +15,7 @@ video_id: pey9u_ANXZM
 url: https://www.youtube.com/watch?v=pey9u_ANXZM
 youtube_url: https://www.youtube.com/watch?v=pey9u_ANXZM
 tags: ["LLM", "Machin Learning", "ML", "AI", "Architecture", "Cross-Platform", "Claude", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Emmz Rendle"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

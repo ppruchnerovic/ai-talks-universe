@@ -15,6 +15,7 @@ video_id: iq-teams-decision-making
 url: https://www.infoq.com/presentations/teams-decision-making/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

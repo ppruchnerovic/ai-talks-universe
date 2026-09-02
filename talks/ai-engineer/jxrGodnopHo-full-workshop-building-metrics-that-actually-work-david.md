@@ -15,6 +15,7 @@ video_id: jxrGodnopHo
 url: https://www.youtube.com/watch?v=jxrGodnopHo
 youtube_url: https://www.youtube.com/watch?v=jxrGodnopHo
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: YvjqScBwjPs
 url: https://www.youtube.com/watch?v=YvjqScBwjPs
 youtube_url: https://www.youtube.com/watch?v=YvjqScBwjPs
 tags: ["MLOps", "platforms", "data infrastructure", "machine learning"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

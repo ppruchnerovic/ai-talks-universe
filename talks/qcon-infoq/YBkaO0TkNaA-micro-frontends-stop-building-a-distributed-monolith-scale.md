@@ -15,6 +15,7 @@ video_id: YBkaO0TkNaA
 url: https://www.youtube.com/watch?v=YBkaO0TkNaA
 youtube_url: https://www.youtube.com/watch?v=YBkaO0TkNaA
 tags: ["Software Architecture", "QCon London", "Micro-Frontends", "Monolith", "Platform Team", "Developer Experience", "InfoQ", "Transcript", "Platforms", "Frontend Development"]
+topics: []
 transcript: false
 ---
 

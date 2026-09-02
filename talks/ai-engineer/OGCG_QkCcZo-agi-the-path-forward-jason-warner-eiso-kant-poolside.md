@@ -15,6 +15,7 @@ video_id: OGCG_QkCcZo
 url: https://www.youtube.com/watch?v=OGCG_QkCcZo
 youtube_url: https://www.youtube.com/watch?v=OGCG_QkCcZo
 tags: []
+topics: []
 transcript: false
 ---
 

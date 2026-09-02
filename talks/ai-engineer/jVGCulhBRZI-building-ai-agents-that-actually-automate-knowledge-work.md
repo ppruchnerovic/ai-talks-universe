@@ -15,6 +15,7 @@ video_id: jVGCulhBRZI
 url: https://www.youtube.com/watch?v=jVGCulhBRZI
 youtube_url: https://www.youtube.com/watch?v=jVGCulhBRZI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

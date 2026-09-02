@@ -15,6 +15,7 @@ video_id: mXv4TTGtljw
 url: https://www.youtube.com/watch?v=mXv4TTGtljw
 youtube_url: https://www.youtube.com/watch?v=mXv4TTGtljw
 tags: ["Burke Holland", "From issue to merge in one loop: the GitHub Copilot app | LIVE162", "LIVE162", "LIVE162_v1", "Seth Juarez", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

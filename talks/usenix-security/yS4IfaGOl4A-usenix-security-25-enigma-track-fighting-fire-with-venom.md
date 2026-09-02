@@ -15,6 +15,7 @@ video_id: yS4IfaGOl4A
 url: https://www.youtube.com/watch?v=yS4IfaGOl4A
 youtube_url: https://www.youtube.com/watch?v=yS4IfaGOl4A
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: JiQJcXvvajg
 url: https://www.youtube.com/watch?v=JiQJcXvvajg
 youtube_url: https://www.youtube.com/watch?v=JiQJcXvvajg
 tags: []
+topics: []
 transcript: true
 ---
 

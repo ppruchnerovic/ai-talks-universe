@@ -15,6 +15,7 @@ video_id: Jty4s9-Jb78
 url: https://www.youtube.com/watch?v=Jty4s9-Jb78
 youtube_url: https://www.youtube.com/watch?v=Jty4s9-Jb78
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering", "RAG, retrieval & knowledge", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

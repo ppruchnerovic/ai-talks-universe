@@ -15,6 +15,7 @@ video_id: iq-patterns-payment-system
 url: https://www.infoq.com/presentations/patterns-payment-system/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

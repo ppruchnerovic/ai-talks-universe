@@ -15,6 +15,7 @@ video_id: 1OzBgufIJJk
 url: https://www.youtube.com/watch?v=1OzBgufIJJk
 youtube_url: https://www.youtube.com/watch?v=1OzBgufIJJk
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

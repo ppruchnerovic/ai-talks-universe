@@ -15,6 +15,7 @@ video_id: WKQFUmn-WSc
 url: https://www.youtube.com/watch?v=WKQFUmn-WSc
 youtube_url: https://www.youtube.com/watch?v=WKQFUmn-WSc
 tags: ["Machine Learning", "Big Data", "Fun", "NDC", "Conferences", "2026", "Live", "Toronto", "Canada", "Megan Robertson"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

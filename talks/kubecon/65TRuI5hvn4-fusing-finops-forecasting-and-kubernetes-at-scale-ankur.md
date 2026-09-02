@@ -15,6 +15,7 @@ video_id: 65TRuI5hvn4
 url: https://www.youtube.com/watch?v=65TRuI5hvn4
 youtube_url: https://www.youtube.com/watch?v=65TRuI5hvn4
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

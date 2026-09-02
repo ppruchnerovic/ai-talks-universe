@@ -15,6 +15,7 @@ video_id: 2TyulEkOMyU
 url: https://www.youtube.com/watch?v=2TyulEkOMyU
 youtube_url: https://www.youtube.com/watch?v=2TyulEkOMyU
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-valkey-datastore
 url: https://www.infoq.com/presentations/valkey-datastore/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

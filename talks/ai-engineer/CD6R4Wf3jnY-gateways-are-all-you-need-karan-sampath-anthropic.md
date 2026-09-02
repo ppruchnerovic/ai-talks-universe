@@ -15,6 +15,7 @@ video_id: CD6R4Wf3jnY
 url: https://www.youtube.com/watch?v=CD6R4Wf3jnY
 youtube_url: https://www.youtube.com/watch?v=CD6R4Wf3jnY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

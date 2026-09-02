@@ -15,6 +15,7 @@ video_id: zwO6p8J9LLU
 url: https://www.youtube.com/watch?v=zwO6p8J9LLU
 youtube_url: https://www.youtube.com/watch?v=zwO6p8J9LLU
 tags: ["search database", "GPU database", "ChatGPT", "artificial intelligence", "machine learning", "vector search", "AI search", "semantic search", "search API", "database technology", "JavaScript engine", "SaaS Copilots", "Python tutorial", "full text search", "hybrid search", "faceted search", "personalized search", "search relevance", "query understanding", "auto complete", "search suggestions", "search analytics", "performance optimization"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

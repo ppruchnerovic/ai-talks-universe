@@ -15,6 +15,7 @@ video_id: u_JSpT3i1Z4
 url: https://www.youtube.com/watch?v=u_JSpT3i1Z4
 youtube_url: https://www.youtube.com/watch?v=u_JSpT3i1Z4
 tags: ["NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "Adam Cogan", "AI", "Azure", "GitHub", "DevOps"]
+topics: []
 transcript: false
 ---
 

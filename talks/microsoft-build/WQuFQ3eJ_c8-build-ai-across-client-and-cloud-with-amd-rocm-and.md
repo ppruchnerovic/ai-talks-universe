@@ -15,6 +15,7 @@ video_id: WQuFQ3eJ_c8
 url: https://www.youtube.com/watch?v=WQuFQ3eJ_c8
 youtube_url: https://www.youtube.com/watch?v=WQuFQ3eJ_c8
 tags: ["AI", "API", "Anush Elangovan", "BRKSP93", "BRKSP93_v1", "Build AI across client and cloud with AMD ROCm and Microsoft | BRKSP93", "Developer", "Developer Frameworks", "Developer Technologies", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: true
 ---
 

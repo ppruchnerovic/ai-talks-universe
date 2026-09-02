@@ -15,6 +15,7 @@ video_id: p9T4gWds54o
 url: https://www.youtube.com/watch?v=p9T4gWds54o
 youtube_url: https://www.youtube.com/watch?v=p9T4gWds54o
 tags: []
+topics: ["Evals, observability & reliability", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: IlqJqcl8ONE
 url: https://www.youtube.com/watch?v=IlqJqcl8ONE
 youtube_url: https://www.youtube.com/watch?v=IlqJqcl8ONE
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

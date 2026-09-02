@@ -15,6 +15,7 @@ video_id: xgdmK3bMarg
 url: https://www.youtube.com/watch?v=xgdmK3bMarg
 youtube_url: https://www.youtube.com/watch?v=xgdmK3bMarg
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

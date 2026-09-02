@@ -15,6 +15,7 @@ video_id: Quit3lN2igY
 url: https://www.youtube.com/watch?v=Quit3lN2igY
 youtube_url: https://www.youtube.com/watch?v=Quit3lN2igY
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

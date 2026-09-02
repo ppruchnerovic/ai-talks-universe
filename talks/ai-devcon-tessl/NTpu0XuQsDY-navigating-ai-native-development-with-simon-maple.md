@@ -15,6 +15,7 @@ video_id: NTpu0XuQsDY
 url: https://www.youtube.com/watch?v=NTpu0XuQsDY
 youtube_url: https://www.youtube.com/watch?v=NTpu0XuQsDY
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Prompting & context engineering"]
 transcript: false
 ---
 

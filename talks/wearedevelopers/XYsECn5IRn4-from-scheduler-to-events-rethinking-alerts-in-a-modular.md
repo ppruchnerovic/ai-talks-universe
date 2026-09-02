@@ -15,6 +15,7 @@ video_id: XYsECn5IRn4
 url: https://www.youtube.com/watch?v=XYsECn5IRn4
 youtube_url: https://www.youtube.com/watch?v=XYsECn5IRn4
 tags: ["Software Architecture", "C#", "Clean Code", "Event-Driven Architecture (EDA)", "Legacy", "Migration", "Modularization", "Performance", "Software Architecture", "SQL", "System Design"]
+topics: []
 transcript: true
 ---
 

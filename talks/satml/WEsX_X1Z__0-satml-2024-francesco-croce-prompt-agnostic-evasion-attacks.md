@@ -15,6 +15,7 @@ video_id: WEsX_X1Z__0
 url: https://www.youtube.com/watch?v=WEsX_X1Z__0
 youtube_url: https://www.youtube.com/watch?v=WEsX_X1Z__0
 tags: []
+topics: ["Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

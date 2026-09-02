@@ -15,6 +15,7 @@ video_id: FixBGg7qws8
 url: https://www.youtube.com/watch?v=FixBGg7qws8
 youtube_url: https://www.youtube.com/watch?v=FixBGg7qws8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

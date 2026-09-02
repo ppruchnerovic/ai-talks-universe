@@ -15,6 +15,7 @@ video_id: ZiiBY2HKEvE
 url: https://www.youtube.com/watch?v=ZiiBY2HKEvE
 youtube_url: https://www.youtube.com/watch?v=ZiiBY2HKEvE
 tags: ["AI Engineering", "Edge AI", "Vector Databases"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

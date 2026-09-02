@@ -15,6 +15,7 @@ video_id: BoAXKx9dU4Q
 url: https://www.youtube.com/watch?v=BoAXKx9dU4Q
 youtube_url: https://www.youtube.com/watch?v=BoAXKx9dU4Q
 tags: ["Conference", "DBT", "Dagster", "DuckDB", "ETL pipelines", "PyConDE", "PyData", "Python", "Tech Talk", "data engineering", "data quality", "data transformation", "data visualization", "medallion architecture", "orchestration", "schema management"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

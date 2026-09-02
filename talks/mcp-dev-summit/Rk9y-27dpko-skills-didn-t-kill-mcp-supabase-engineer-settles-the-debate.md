@@ -15,6 +15,7 @@ video_id: Rk9y-27dpko
 url: https://www.youtube.com/watch?v=Rk9y-27dpko
 youtube_url: https://www.youtube.com/watch?v=Rk9y-27dpko
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

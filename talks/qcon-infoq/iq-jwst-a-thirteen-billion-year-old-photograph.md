@@ -15,6 +15,7 @@ video_id: iq-jwst
 url: https://www.infoq.com/presentations/jwst/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

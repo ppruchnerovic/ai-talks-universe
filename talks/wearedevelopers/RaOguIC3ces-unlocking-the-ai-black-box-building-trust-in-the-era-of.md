@@ -15,6 +15,7 @@ video_id: RaOguIC3ces
 url: https://www.youtube.com/watch?v=RaOguIC3ces
 youtube_url: https://www.youtube.com/watch?v=RaOguIC3ces
 tags: ["AI Engineering", "AI Standards", "Agentic AI", "Compliance", "DevOps", "Large Language Models (LLMs)", "LLMOps", "Observability", "Reliability", "Site Reliability Engineering (SRE)"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

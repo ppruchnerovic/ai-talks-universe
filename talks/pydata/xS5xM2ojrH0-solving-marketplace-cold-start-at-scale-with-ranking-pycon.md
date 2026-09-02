@@ -15,6 +15,7 @@ video_id: xS5xM2ojrH0
 url: https://www.youtube.com/watch?v=xS5xM2ojrH0
 youtube_url: https://www.youtube.com/watch?v=xS5xM2ojrH0
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

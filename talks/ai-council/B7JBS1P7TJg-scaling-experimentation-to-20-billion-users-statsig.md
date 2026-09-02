@@ -15,6 +15,7 @@ video_id: B7JBS1P7TJg
 url: https://www.youtube.com/watch?v=B7JBS1P7TJg
 youtube_url: https://www.youtube.com/watch?v=B7JBS1P7TJg
 tags: ["statsig", "scaling", "startup growth"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

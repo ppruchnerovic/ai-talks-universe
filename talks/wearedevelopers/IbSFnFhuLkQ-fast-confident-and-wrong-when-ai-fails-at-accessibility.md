@@ -15,6 +15,7 @@ video_id: IbSFnFhuLkQ
 url: https://www.youtube.com/watch?v=IbSFnFhuLkQ
 youtube_url: https://www.youtube.com/watch?v=IbSFnFhuLkQ
 tags: ["Frontend, Web & Mobile", "Accessibility", "AI Coding Assistants", "Testing", "Web Accessibility"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

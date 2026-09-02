@@ -15,6 +15,7 @@ video_id: hD9-V56FNRI
 url: https://www.youtube.com/watch?v=hD9-V56FNRI
 youtube_url: https://www.youtube.com/watch?v=hD9-V56FNRI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

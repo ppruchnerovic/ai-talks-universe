@@ -15,6 +15,7 @@ video_id: CaZbsbKnOho
 url: https://www.youtube.com/watch?v=CaZbsbKnOho
 youtube_url: https://www.youtube.com/watch?v=CaZbsbKnOho
 tags: ["AI", "Security", "Cybersecurity", "Security Operations Centers", "Microsoft Security Copilot", "SOC", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Victoria Almazova"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

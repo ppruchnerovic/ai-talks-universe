@@ -15,6 +15,7 @@ video_id: qusJcdQ1CPo
 url: https://www.youtube.com/watch?v=qusJcdQ1CPo
 youtube_url: https://www.youtube.com/watch?v=qusJcdQ1CPo
 tags: ["AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "United Kingdom", "UK", "Lianne Potter"]
+topics: []
 transcript: true
 ---
 

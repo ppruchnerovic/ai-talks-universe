@@ -15,6 +15,7 @@ video_id: wdu_xfmUsSY
 url: https://www.youtube.com/watch?v=wdu_xfmUsSY
 youtube_url: https://www.youtube.com/watch?v=wdu_xfmUsSY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Zfc5_sx8EJM
 url: https://www.youtube.com/watch?v=Zfc5_sx8EJM
 youtube_url: https://www.youtube.com/watch?v=Zfc5_sx8EJM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

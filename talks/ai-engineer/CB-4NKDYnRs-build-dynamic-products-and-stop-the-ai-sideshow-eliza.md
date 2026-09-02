@@ -15,6 +15,7 @@ video_id: CB-4NKDYnRs
 url: https://www.youtube.com/watch?v=CB-4NKDYnRs
 youtube_url: https://www.youtube.com/watch?v=CB-4NKDYnRs
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: K4-flzsPraE
 url: https://www.youtube.com/watch?v=K4-flzsPraE
 youtube_url: https://www.youtube.com/watch?v=K4-flzsPraE
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Coding assistants & agents"]
 transcript: true
 ---
 

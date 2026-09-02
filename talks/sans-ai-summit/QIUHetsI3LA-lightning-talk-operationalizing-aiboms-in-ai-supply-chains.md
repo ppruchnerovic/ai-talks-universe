@@ -15,6 +15,7 @@ video_id: QIUHetsI3LA
 url: https://www.youtube.com/watch?v=QIUHetsI3LA
 youtube_url: https://www.youtube.com/watch?v=QIUHetsI3LA
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

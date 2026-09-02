@@ -15,6 +15,7 @@ video_id: KEbPjqpsME8
 url: https://www.youtube.com/watch?v=KEbPjqpsME8
 youtube_url: https://www.youtube.com/watch?v=KEbPjqpsME8
 tags: ["Strategy & Innovation", "Advocacy", "AI Standards", "Containers", "Digital Transformation", "Internal Platforms", "Neo4j", "Site Reliability Engineering (SRE)", "Software Architecture"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

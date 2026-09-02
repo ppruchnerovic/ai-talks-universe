@@ -15,6 +15,7 @@ video_id: -tgQa8Fzf80
 url: https://www.youtube.com/watch?v=-tgQa8Fzf80
 youtube_url: https://www.youtube.com/watch?v=-tgQa8Fzf80
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: heVaZ1SpldA
 url: https://www.youtube.com/watch?v=heVaZ1SpldA
 youtube_url: https://www.youtube.com/watch?v=heVaZ1SpldA
 tags: ["Strategy & Innovation"]
+topics: []
 transcript: true
 ---
 

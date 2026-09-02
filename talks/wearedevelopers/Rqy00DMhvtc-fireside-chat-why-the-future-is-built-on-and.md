@@ -15,6 +15,7 @@ video_id: Rqy00DMhvtc
 url: https://www.youtube.com/watch?v=Rqy00DMhvtc
 youtube_url: https://www.youtube.com/watch?v=Rqy00DMhvtc
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

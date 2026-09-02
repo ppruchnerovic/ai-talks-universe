@@ -15,6 +15,7 @@ video_id: BHHMXWSxAq8
 url: https://www.youtube.com/watch?v=BHHMXWSxAq8
 youtube_url: https://www.youtube.com/watch?v=BHHMXWSxAq8
 tags: ["MLOps", "videogames", "data products", "data analytics", "ML"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

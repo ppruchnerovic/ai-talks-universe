@@ -15,6 +15,7 @@ video_id: T04txhFtcvo
 url: https://www.youtube.com/watch?v=T04txhFtcvo
 youtube_url: https://www.youtube.com/watch?v=T04txhFtcvo
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "DynamoDB", "AWS", "Amazon", "Key-Value Store", "NoSQL", "Database", "Transactions", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: xwFsXVyMAN0
 url: https://www.youtube.com/watch?v=xwFsXVyMAN0
 youtube_url: https://www.youtube.com/watch?v=xwFsXVyMAN0
 tags: ["query languages", "functional programming", "ChatGPT", "artificial intelligence", "machine learning", "SQL", "database", "programming languages", "database theory", "computer science", "declarative query language", "data intensive programming", "Python tutorial", "query optimization", "query planning", "execution engines", "relational algebra", "lambda calculus", "functional programming concepts", "immutable data", "pure functions", "higher order functions"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

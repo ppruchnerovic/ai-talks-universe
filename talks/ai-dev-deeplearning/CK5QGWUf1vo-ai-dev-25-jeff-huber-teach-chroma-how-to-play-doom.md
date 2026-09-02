@@ -15,6 +15,7 @@ video_id: CK5QGWUf1vo
 url: https://www.youtube.com/watch?v=CK5QGWUf1vo
 youtube_url: https://www.youtube.com/watch?v=CK5QGWUf1vo
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

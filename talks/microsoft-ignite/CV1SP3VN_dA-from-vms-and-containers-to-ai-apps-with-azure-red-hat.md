@@ -15,6 +15,7 @@ video_id: CV1SP3VN_dA
 url: https://www.youtube.com/watch?v=CV1SP3VN_dA
 youtube_url: https://www.youtube.com/watch?v=CV1SP3VN_dA
 tags: ["BRK104", "Campbell Vertesi", "English (US)", "From VMs and containers to AI apps with Azure Red Hat OpenShift | BRK104", "Mayuri Gupta", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Kubernetes Service (AKS)", "Migrate and modernize your estate:Azure Red Hat OpenShift (ARO)", "Phelipi Dal’Olio Santos", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

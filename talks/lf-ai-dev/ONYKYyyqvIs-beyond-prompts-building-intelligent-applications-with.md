@@ -15,6 +15,7 @@ video_id: ONYKYyyqvIs
 url: https://www.youtube.com/watch?v=ONYKYyyqvIs
 youtube_url: https://www.youtube.com/watch?v=ONYKYyyqvIs
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

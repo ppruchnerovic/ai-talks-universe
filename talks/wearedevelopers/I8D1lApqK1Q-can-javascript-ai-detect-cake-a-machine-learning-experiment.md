@@ -15,6 +15,7 @@ video_id: I8D1lApqK1Q
 url: https://www.youtube.com/watch?v=I8D1lApqK1Q
 youtube_url: https://www.youtube.com/watch?v=I8D1lApqK1Q
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "machine learning", "AI", "JavaScript", "TensorFlow", "web development", "developer tools", "tech talk", "software engineering", "cake detection", "AI experiments", "developer advocacy", "data science", "coding challenges", "AI models", "dev community"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

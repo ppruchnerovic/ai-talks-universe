@@ -15,6 +15,7 @@ video_id: KDb-WcZwaHo
 url: https://www.youtube.com/watch?v=KDb-WcZwaHo
 youtube_url: https://www.youtube.com/watch?v=KDb-WcZwaHo
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

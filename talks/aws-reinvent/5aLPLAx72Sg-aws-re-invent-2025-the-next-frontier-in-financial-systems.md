@@ -15,6 +15,7 @@ video_id: 5aLPLAx72Sg
 url: https://www.youtube.com/watch?v=5aLPLAx72Sg
 youtube_url: https://www.youtube.com/watch?v=5aLPLAx72Sg
 tags: []
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

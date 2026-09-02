@@ -15,6 +15,7 @@ video_id: QEPNktux_k8
 url: https://www.youtube.com/watch?v=QEPNktux_k8
 youtube_url: https://www.youtube.com/watch?v=QEPNktux_k8
 tags: []
+topics: []
 transcript: true
 ---
 

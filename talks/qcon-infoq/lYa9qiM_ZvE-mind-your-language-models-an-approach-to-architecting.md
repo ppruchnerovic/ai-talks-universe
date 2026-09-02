@@ -15,6 +15,7 @@ video_id: lYa9qiM_ZvE
 url: https://www.youtube.com/watch?v=lYa9qiM_ZvE
 youtube_url: https://www.youtube.com/watch?v=lYa9qiM_ZvE
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "Large Language Models", "LLMs", "Software Architecture", "InfoQ", "QCon London", "Transcript"]
+topics: []
 transcript: false
 ---
 

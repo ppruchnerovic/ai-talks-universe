@@ -15,6 +15,7 @@ video_id: HUDIxO-F63E
 url: https://www.youtube.com/watch?v=HUDIxO-F63E
 youtube_url: https://www.youtube.com/watch?v=HUDIxO-F63E
 tags: ["AI", "Vibe Coding", "Stack Overflow", "Coding", "ChatGPT", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Theodor René Carlsen"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

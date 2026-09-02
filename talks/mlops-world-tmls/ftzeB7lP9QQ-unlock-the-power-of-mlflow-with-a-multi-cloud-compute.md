@@ -15,6 +15,7 @@ video_id: ftzeB7lP9QQ
 url: https://www.youtube.com/watch?v=ftzeB7lP9QQ
 youtube_url: https://www.youtube.com/watch?v=ftzeB7lP9QQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Unlock the power of MLFlow with a multi-cloud compute infrastructure", "MLFlow", "multi-cloud compute infrastructure", "Unlock the power of MLFlow", "MLFlow with a multi-cloud compute infrastructure", "Infinstor Inc.", "ML training and deployment", "MLFlow service", "multi-cloud setup", "ai"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

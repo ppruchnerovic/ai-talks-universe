@@ -15,6 +15,7 @@ video_id: OiJ7MU8Gdus
 url: https://www.youtube.com/watch?v=OiJ7MU8Gdus
 youtube_url: https://www.youtube.com/watch?v=OiJ7MU8Gdus
 tags: []
+topics: ["Prompting & context engineering"]
 transcript: false
 ---
 

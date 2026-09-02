@@ -15,6 +15,7 @@ video_id: Q1-9IABavgw
 url: https://www.youtube.com/watch?v=Q1-9IABavgw
 youtube_url: https://www.youtube.com/watch?v=Q1-9IABavgw
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: YCRE3yRvazg
 url: https://www.youtube.com/watch?v=YCRE3yRvazg
 youtube_url: https://www.youtube.com/watch?v=YCRE3yRvazg
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

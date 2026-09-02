@@ -15,6 +15,7 @@ video_id: iq-staff-professional-growth
 url: https://www.infoq.com/presentations/staff-professional-growth/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

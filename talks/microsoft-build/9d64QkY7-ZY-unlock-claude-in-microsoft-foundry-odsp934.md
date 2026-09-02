@@ -15,6 +15,7 @@ video_id: 9d64QkY7-ZY
 url: https://www.youtube.com/watch?v=9d64QkY7-ZY
 youtube_url: https://www.youtube.com/watch?v=9d64QkY7-ZY
 tags: ["AI", "Agentic SDLC", "Agents", "Caroline Matthews", "Developer", "Enterprise", "Foundry Agents", "Keiji Kanazawa", "MCP", "Microsoft Foundry", "ODSP934", "ODSP934_v1", "Responsible AI", "Unlock Claude in Microsoft Foundry | ODSP934", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

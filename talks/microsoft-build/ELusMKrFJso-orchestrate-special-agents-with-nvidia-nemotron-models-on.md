@@ -15,6 +15,7 @@ video_id: ELusMKrFJso
 url: https://www.youtube.com/watch?v=ELusMKrFJso
 youtube_url: https://www.youtube.com/watch?v=ELusMKrFJso
 tags: ["6c7fb279-6292-41b9-8bf5-5d5b12d9eb25_M9Z7-BRKSP94-1", "Agents", "Aysen Ilkbahar", "BRKSP94", "Joey Conway", "Orchestrate special agents with NVIDIA Nemotron models on Foundry | BRKSP94", "Stephen McCullough", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

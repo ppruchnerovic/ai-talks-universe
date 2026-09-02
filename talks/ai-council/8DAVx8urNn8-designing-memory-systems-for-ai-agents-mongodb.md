@@ -15,6 +15,7 @@ video_id: 8DAVx8urNn8
 url: https://www.youtube.com/watch?v=8DAVx8urNn8
 youtube_url: https://www.youtube.com/watch?v=8DAVx8urNn8
 tags: ["AI"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

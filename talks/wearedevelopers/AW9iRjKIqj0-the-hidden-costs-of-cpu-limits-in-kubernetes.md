@@ -15,6 +15,7 @@ video_id: AW9iRjKIqj0
 url: https://www.youtube.com/watch?v=AW9iRjKIqj0
 youtube_url: https://www.youtube.com/watch?v=AW9iRjKIqj0
 tags: ["Cloud & AI Infrastructure", "DevOps", "Google Cloud (GCP)", "Infrastructure", "Observability", "Performance"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

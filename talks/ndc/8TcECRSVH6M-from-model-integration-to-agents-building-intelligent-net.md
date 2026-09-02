@@ -15,6 +15,7 @@ video_id: 8TcECRSVH6M
 url: https://www.youtube.com/watch?v=8TcECRSVH6M
 youtube_url: https://www.youtube.com/watch?v=8TcECRSVH6M
 tags: ["AI", ".NET", "API", "Azure", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Great Britain", "Gill Cleeren"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

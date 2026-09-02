@@ -15,6 +15,7 @@ video_id: _Op9QfXDBuM
 url: https://www.youtube.com/watch?v=_Op9QfXDBuM
 youtube_url: https://www.youtube.com/watch?v=_Op9QfXDBuM
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Workshop;", "ct:Stack - AI;", "gemini", "gemini-api", "agent-skills", "rag", "agentic-rag", "file-search", "vibe-coding", "antigravity"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

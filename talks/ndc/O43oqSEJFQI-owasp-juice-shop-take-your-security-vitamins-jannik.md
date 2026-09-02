@@ -15,6 +15,7 @@ video_id: O43oqSEJFQI
 url: https://www.youtube.com/watch?v=O43oqSEJFQI
 youtube_url: https://www.youtube.com/watch?v=O43oqSEJFQI
 tags: ["Jannik Hollenbach", "Application Security", "Security", "OWASP", "Björn Kimminich"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

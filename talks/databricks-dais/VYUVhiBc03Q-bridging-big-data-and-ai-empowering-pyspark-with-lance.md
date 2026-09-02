@@ -15,6 +15,7 @@ video_id: VYUVhiBc03Q
 url: https://www.youtube.com/watch?v=VYUVhiBc03Q
 youtube_url: https://www.youtube.com/watch?v=VYUVhiBc03Q
 tags: []
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: vDIKlxB_oCE
 url: https://www.youtube.com/watch?v=vDIKlxB_oCE
 youtube_url: https://www.youtube.com/watch?v=vDIKlxB_oCE
 tags: ["AI", "Accessibility", "Angela Byers", "BRK297", "Breakout", "Copilot", "Copilot for M365", "Diversity and Inclusion", "Empowering neurodivergent employees with Copilot | BRK297", "English (US)", "Intermediate (200)", "Jenny Lay-Flurrie", "Modern Work", "Tara Roth", "Technical", "Version v5", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

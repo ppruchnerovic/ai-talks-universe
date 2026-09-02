@@ -15,6 +15,7 @@ video_id: XDab1_fVntU
 url: https://www.youtube.com/watch?v=XDab1_fVntU
 youtube_url: https://www.youtube.com/watch?v=XDab1_fVntU
 tags: ["BRK367", "English (US)", "Financial Services", "From interoperability to agents: Powering financial workflows with AI | BRK367", "Matthew Kerner", "Max Grigoryev", "Nej D'Jelal", "Signature pass", "Technical", "Unify your data platform", "b7aa7a26-020c-4e43-b856-848ebd1f064f_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

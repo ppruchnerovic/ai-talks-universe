@@ -15,6 +15,7 @@ video_id: MgeyT23fbFo
 url: https://www.youtube.com/watch?v=MgeyT23fbFo
 youtube_url: https://www.youtube.com/watch?v=MgeyT23fbFo
 tags: ["venture capital", "startups", "Sequoia", "founders fund", "Bain Capital Ventures", "data platforms", "AI"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

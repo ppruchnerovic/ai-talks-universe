@@ -15,6 +15,7 @@ video_id: CJi98HNPnKI
 url: https://www.youtube.com/watch?v=CJi98HNPnKI
 youtube_url: https://www.youtube.com/watch?v=CJi98HNPnKI
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

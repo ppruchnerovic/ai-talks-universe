@@ -15,6 +15,7 @@ video_id: dSQotkWiL0w
 url: https://www.youtube.com/watch?v=dSQotkWiL0w
 youtube_url: https://www.youtube.com/watch?v=dSQotkWiL0w
 tags: ["WeAreDevs", "upskilling", "hr", "leadership", "people", "culture", "growth", "talent", "development", "people strategy", "talent acquisition", "recruiting", "internal mobility", "recruitment"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

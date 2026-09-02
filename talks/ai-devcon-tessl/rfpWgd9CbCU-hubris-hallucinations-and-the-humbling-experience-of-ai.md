@@ -15,6 +15,7 @@ video_id: rfpWgd9CbCU
 url: https://www.youtube.com/watch?v=rfpWgd9CbCU
 youtube_url: https://www.youtube.com/watch?v=rfpWgd9CbCU
 tags: ["ainativedev"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

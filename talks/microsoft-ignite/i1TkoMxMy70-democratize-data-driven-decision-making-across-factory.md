@@ -15,6 +15,7 @@ video_id: i1TkoMxMy70
 url: https://www.youtube.com/watch?v=i1TkoMxMy70
 youtube_url: https://www.youtube.com/watch?v=i1TkoMxMy70
 tags: ["Analytics", "BRK261", "Breakout", "Copilot", "Copilot template", "Democratize data-driven decision making across factory operations with AI | BRK261", "English (US)", "GenAI", "GenerativeAI", "Industry", "Industry data model", "Industry data solutions", "Industry-Curated", "Intermediate (200)", "Microsoft Fabric", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

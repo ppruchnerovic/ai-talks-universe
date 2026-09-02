@@ -15,6 +15,7 @@ video_id: MC55hdWLq4o
 url: https://www.youtube.com/watch?v=MC55hdWLq4o
 youtube_url: https://www.youtube.com/watch?v=MC55hdWLq4o
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

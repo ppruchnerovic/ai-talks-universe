@@ -15,6 +15,7 @@ video_id: eITu8gszABM
 url: https://www.youtube.com/watch?v=eITu8gszABM
 youtube_url: https://www.youtube.com/watch?v=eITu8gszABM
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

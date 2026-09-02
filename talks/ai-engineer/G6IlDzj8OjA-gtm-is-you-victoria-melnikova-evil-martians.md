@@ -15,6 +15,7 @@ video_id: G6IlDzj8OjA
 url: https://www.youtube.com/watch?v=G6IlDzj8OjA
 youtube_url: https://www.youtube.com/watch?v=G6IlDzj8OjA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

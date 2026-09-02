@@ -15,6 +15,7 @@ video_id: IggA_sx3LzI
 url: https://www.youtube.com/watch?v=IggA_sx3LzI
 youtube_url: https://www.youtube.com/watch?v=IggA_sx3LzI
 tags: ["AI use cases in Microsoft Teams Integrated Contact Center | ODSP1465", "Agentic business applications", "Education", "English (US)", "ODSP1465", "ODSP1465_v1", "Preston Martin", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

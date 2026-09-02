@@ -15,6 +15,7 @@ video_id: h-WLG8rGXOw
 url: https://www.youtube.com/watch?v=h-WLG8rGXOw
 youtube_url: https://www.youtube.com/watch?v=h-WLG8rGXOw
 tags: ["Artificial intelligence", "AI", "ChatGPT", "github", "data visualization"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

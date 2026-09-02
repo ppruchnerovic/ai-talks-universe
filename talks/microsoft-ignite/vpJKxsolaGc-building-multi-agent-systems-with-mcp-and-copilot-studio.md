@@ -15,6 +15,7 @@ video_id: vpJKxsolaGc
 url: https://www.youtube.com/watch?v=vpJKxsolaGc
 youtube_url: https://www.youtube.com/watch?v=vpJKxsolaGc
 tags: ["BRK317", "Building Multi-Agent systems with MCP and Copilot Studio | BRK317", "Copilot and agents at work", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Copilot and agents at work:Microsoft 365 Copilot", "English (US)", "Innovate with low-code AI and agents", "Matthew Bolanos", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

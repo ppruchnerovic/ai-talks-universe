@@ -15,6 +15,7 @@ video_id: L6J5TsZcPt4
 url: https://www.youtube.com/watch?v=L6J5TsZcPt4
 youtube_url: https://www.youtube.com/watch?v=L6J5TsZcPt4
 tags: []
+topics: []
 transcript: false
 ---
 

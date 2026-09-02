@@ -15,6 +15,7 @@ video_id: lp_tXtr_aL4
 url: https://www.youtube.com/watch?v=lp_tXtr_aL4
 youtube_url: https://www.youtube.com/watch?v=lp_tXtr_aL4
 tags: []
+topics: []
 transcript: false
 ---
 

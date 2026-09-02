@@ -15,6 +15,7 @@ video_id: su1_bvXp6go
 url: https://www.youtube.com/watch?v=su1_bvXp6go
 youtube_url: https://www.youtube.com/watch?v=su1_bvXp6go
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Closing the Production Gap with MLOps", "Closing the Production Gap with MLOps", "production gap"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

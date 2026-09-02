@@ -15,6 +15,7 @@ video_id: FZoMSupg37E
 url: https://www.youtube.com/watch?v=FZoMSupg37E
 youtube_url: https://www.youtube.com/watch?v=FZoMSupg37E
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

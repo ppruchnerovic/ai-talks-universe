@@ -15,6 +15,7 @@ video_id: HzRZXSbbzNA
 url: https://www.youtube.com/watch?v=HzRZXSbbzNA
 youtube_url: https://www.youtube.com/watch?v=HzRZXSbbzNA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "Machine Learning Tools: Skyline and RL-Scope", "Skyline and RL-Scope", "Skyline", "RL-Scope", "Machine Learning Tools"]
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

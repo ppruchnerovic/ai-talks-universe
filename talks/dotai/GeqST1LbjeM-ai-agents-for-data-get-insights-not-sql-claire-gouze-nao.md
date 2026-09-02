@@ -15,6 +15,7 @@ video_id: GeqST1LbjeM
 url: https://www.youtube.com/watch?v=GeqST1LbjeM
 youtube_url: https://www.youtube.com/watch?v=GeqST1LbjeM
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

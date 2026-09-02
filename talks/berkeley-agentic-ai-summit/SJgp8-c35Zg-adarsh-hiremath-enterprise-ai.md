@@ -15,6 +15,7 @@ video_id: SJgp8-c35Zg
 url: https://www.youtube.com/watch?v=SJgp8-c35Zg
 youtube_url: https://www.youtube.com/watch?v=SJgp8-c35Zg
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

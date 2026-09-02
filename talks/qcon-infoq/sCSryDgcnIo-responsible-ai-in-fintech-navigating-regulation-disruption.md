@@ -15,6 +15,7 @@ video_id: sCSryDgcnIo
 url: https://www.youtube.com/watch?v=sCSryDgcnIo
 youtube_url: https://www.youtube.com/watch?v=sCSryDgcnIo
 tags: ["Responsible AI", "FinTech", "QCon London", "InfoQ", "Transcript", "AI", "Artificial Intelligence", "Ethics", "AI Governance"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

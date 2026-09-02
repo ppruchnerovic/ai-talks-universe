@@ -15,6 +15,7 @@ video_id: N6S-DZPXI40
 url: https://www.youtube.com/watch?v=N6S-DZPXI40
 youtube_url: https://www.youtube.com/watch?v=N6S-DZPXI40
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

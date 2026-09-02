@@ -15,6 +15,7 @@ video_id: Sh0Ro00_rpA
 url: https://www.youtube.com/watch?v=Sh0Ro00_rpA
 youtube_url: https://www.youtube.com/watch?v=Sh0Ro00_rpA
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

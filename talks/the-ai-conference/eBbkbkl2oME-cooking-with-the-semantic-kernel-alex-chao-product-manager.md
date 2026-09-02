@@ -15,6 +15,7 @@ video_id: eBbkbkl2oME
 url: https://www.youtube.com/watch?v=eBbkbkl2oME
 youtube_url: https://www.youtube.com/watch?v=eBbkbkl2oME
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics", "Prompting & context engineering", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

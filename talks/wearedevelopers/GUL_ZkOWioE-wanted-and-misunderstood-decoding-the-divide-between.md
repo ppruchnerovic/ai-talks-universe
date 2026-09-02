@@ -15,6 +15,7 @@ video_id: GUL_ZkOWioE
 url: https://www.youtube.com/watch?v=GUL_ZkOWioE
 youtube_url: https://www.youtube.com/watch?v=GUL_ZkOWioE
 tags: ["people", "WeAreDevelopers", "wearedevelopers", "HR trends", "employee engagement", "leadership strategies", "HR professionals", "talent acquisition", "modern workplaces", "Cappuccino with HR", "developers", "candidates", "candidate experience", "findings", "survey", "research", "Hr leaders", "tech professionals", "interview stages", "remote work", "hybrid work"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

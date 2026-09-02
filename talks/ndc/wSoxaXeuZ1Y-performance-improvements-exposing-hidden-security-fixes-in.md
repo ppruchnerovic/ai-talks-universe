@@ -15,6 +15,7 @@ video_id: wSoxaXeuZ1Y
 url: https://www.youtube.com/watch?v=wSoxaXeuZ1Y
 youtube_url: https://www.youtube.com/watch?v=wSoxaXeuZ1Y
 tags: ["Agile", "People", "AI", "Machine Learning", "Security", "Fun", "GenAI", "IoT", "NDC", "Conferences", "2025", "Live", "Oslo", "Norway", "Lightning Talks", "Mackenzie Jackson"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

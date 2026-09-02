@@ -15,6 +15,7 @@ video_id: DJyIfUQ_OZQ
 url: https://www.youtube.com/watch?v=DJyIfUQ_OZQ
 youtube_url: https://www.youtube.com/watch?v=DJyIfUQ_OZQ
 tags: ["Agentic AI in action: Building for the frontier | ODSP1469", "Dmitry Tikhomirov", "English (US)", "Innovate with Azure AI apps and agents", "ODSP1469", "ODSP1469_v2", "Pavel Nasovich", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

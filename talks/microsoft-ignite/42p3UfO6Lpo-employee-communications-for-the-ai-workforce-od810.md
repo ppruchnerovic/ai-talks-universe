@@ -15,6 +15,7 @@ video_id: 42p3UfO6Lpo
 url: https://www.youtube.com/watch?v=42p3UfO6Lpo
 youtube_url: https://www.youtube.com/watch?v=42p3UfO6Lpo
 tags: ["AI", "Adoption", "Copilot for M365", "Employee communications for the AI workforce | OD810", "English (US)", "Graham Kent", "Judith Yaaqoubi", "Lauren Edelmeier", "Modern Work", "OD810", "Pre-recorded", "Tejas Mehta", "Version v1", "Viva", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: lQgjBvrWh84
 url: https://www.youtube.com/watch?v=lQgjBvrWh84
 youtube_url: https://www.youtube.com/watch?v=lQgjBvrWh84
 tags: ["AI/ML", "Application Security", "Bug Bounties", "Design", "Fun", "Security", "Tooling", "Testing", "AI", "ML", "Machinelearning", "NDC", "Conferences", "2025", "Live", "Manchester", "England", "UK", "United Kingdom", "Pedram Hayati", "Soroush Dalili"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

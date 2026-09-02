@@ -15,6 +15,7 @@ video_id: EDwtofkScdI
 url: https://www.youtube.com/watch?v=EDwtofkScdI
 youtube_url: https://www.youtube.com/watch?v=EDwtofkScdI
 tags: [".NET", "Architecture", "Cloud", "Microservices", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "England", "United Kingdom", "James Eastham"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: nPoC6m3axeU
 url: https://www.youtube.com/watch?v=nPoC6m3axeU
 youtube_url: https://www.youtube.com/watch?v=nPoC6m3axeU
 tags: []
+topics: ["Coding assistants & agents", "Governance, ethics & regulation", "Prompting & context engineering"]
 transcript: false
 ---
 

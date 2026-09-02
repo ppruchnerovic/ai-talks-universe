@@ -15,6 +15,7 @@ video_id: 3Xv0VjYhpCk
 url: https://www.youtube.com/watch?v=3Xv0VjYhpCk
 youtube_url: https://www.youtube.com/watch?v=3Xv0VjYhpCk
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

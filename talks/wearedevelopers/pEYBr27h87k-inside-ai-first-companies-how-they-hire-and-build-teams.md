@@ -15,6 +15,7 @@ video_id: pEYBr27h87k
 url: https://www.youtube.com/watch?v=pEYBr27h87k
 youtube_url: https://www.youtube.com/watch?v=pEYBr27h87k
 tags: ["tech", "AI", "artifical intelligence", "ai-first companies", "people", "culture", "hiring", "recruiting", "recrutiment", "automation", "human-first", "leadership", "transformation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

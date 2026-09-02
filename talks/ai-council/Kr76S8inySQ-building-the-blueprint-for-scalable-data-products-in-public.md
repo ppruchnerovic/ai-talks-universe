@@ -15,6 +15,7 @@ video_id: Kr76S8inySQ
 url: https://www.youtube.com/watch?v=Kr76S8inySQ
 youtube_url: https://www.youtube.com/watch?v=Kr76S8inySQ
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

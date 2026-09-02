@@ -15,6 +15,7 @@ video_id: iq-valkey-architecture-patterns
 url: https://www.infoq.com/presentations/valkey-architecture-patterns/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

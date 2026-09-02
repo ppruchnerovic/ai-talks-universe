@@ -15,6 +15,7 @@ video_id: MhHEGMFCEB0
 url: https://www.youtube.com/watch?v=MhHEGMFCEB0
 youtube_url: https://www.youtube.com/watch?v=MhHEGMFCEB0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

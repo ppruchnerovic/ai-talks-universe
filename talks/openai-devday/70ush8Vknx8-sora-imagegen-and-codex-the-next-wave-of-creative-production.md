@@ -15,6 +15,7 @@ video_id: 70ush8Vknx8
 url: https://www.youtube.com/watch?v=70ush8Vknx8
 youtube_url: https://www.youtube.com/watch?v=70ush8Vknx8
 tags: []
+topics: ["Coding assistants & agents", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

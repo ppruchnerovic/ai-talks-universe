@@ -15,6 +15,7 @@ video_id: mkAaguXm1ag
 url: https://www.youtube.com/watch?v=mkAaguXm1ag
 youtube_url: https://www.youtube.com/watch?v=mkAaguXm1ag
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

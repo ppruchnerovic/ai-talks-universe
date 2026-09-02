@@ -15,6 +15,7 @@ video_id: G29pCOwteb4
 url: https://www.youtube.com/watch?v=G29pCOwteb4
 youtube_url: https://www.youtube.com/watch?v=G29pCOwteb4
 tags: ["English (US)", "Manufacturing and Mobility", "STUDIOSP64", "Technical", "Transform manufacturing with digital twins and real-time simulation | STUDIOSP64", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

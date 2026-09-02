@@ -15,6 +15,7 @@ video_id: TgwpK_ROhqo
 url: https://www.youtube.com/watch?v=TgwpK_ROhqo
 youtube_url: https://www.youtube.com/watch?v=TgwpK_ROhqo
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

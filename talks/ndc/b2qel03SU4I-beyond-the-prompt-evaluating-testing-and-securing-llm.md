@@ -15,6 +15,7 @@ video_id: b2qel03SU4I
 url: https://www.youtube.com/watch?v=b2qel03SU4I
 youtube_url: https://www.youtube.com/watch?v=b2qel03SU4I
 tags: ["AI", "Cloud", "Tools", "LLM", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "Mete Atamel"]
+topics: ["Evals, observability & reliability", "Prompting & context engineering", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

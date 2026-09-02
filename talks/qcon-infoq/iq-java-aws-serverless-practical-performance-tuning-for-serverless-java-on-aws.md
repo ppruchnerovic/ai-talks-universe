@@ -15,6 +15,7 @@ video_id: iq-java-aws-serverless
 url: https://www.infoq.com/presentations/java-aws-serverless/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

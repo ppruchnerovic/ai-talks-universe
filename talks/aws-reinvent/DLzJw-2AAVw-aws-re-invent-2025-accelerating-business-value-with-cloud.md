@@ -15,6 +15,7 @@ video_id: DLzJw-2AAVw
 url: https://www.youtube.com/watch?v=DLzJw-2AAVw
 youtube_url: https://www.youtube.com/watch?v=DLzJw-2AAVw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

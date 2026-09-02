@@ -15,6 +15,7 @@ video_id: aZMX7PPqZA0
 url: https://www.youtube.com/watch?v=aZMX7PPqZA0
 youtube_url: https://www.youtube.com/watch?v=aZMX7PPqZA0
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

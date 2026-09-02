@@ -15,6 +15,7 @@ video_id: RVxym6mmIns
 url: https://www.youtube.com/watch?v=RVxym6mmIns
 youtube_url: https://www.youtube.com/watch?v=RVxym6mmIns
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: []
 transcript: true
 ---
 

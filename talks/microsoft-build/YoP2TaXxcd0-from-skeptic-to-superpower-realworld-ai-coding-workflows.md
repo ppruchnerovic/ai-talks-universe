@@ -15,6 +15,7 @@ video_id: YoP2TaXxcd0
 url: https://www.youtube.com/watch?v=YoP2TaXxcd0
 youtube_url: https://www.youtube.com/watch?v=YoP2TaXxcd0
 tags: ["BRK229", "BRK229_v1", "Cloud Platform & Data", "Data", "From Skeptic to Superpower: Real‑World AI Coding Workflows That Scale | BRK229", "Mario Toffia", "Priyanka Sharma", "Resiliency", "Windows APIs", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

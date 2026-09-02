@@ -15,6 +15,7 @@ video_id: zMqbRbono-E
 url: https://www.youtube.com/watch?v=zMqbRbono-E
 youtube_url: https://www.youtube.com/watch?v=zMqbRbono-E
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

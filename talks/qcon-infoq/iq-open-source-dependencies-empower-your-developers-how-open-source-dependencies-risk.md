@@ -15,6 +15,7 @@ video_id: iq-open-source-dependencies
 url: https://www.infoq.com/presentations/open-source-dependencies/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

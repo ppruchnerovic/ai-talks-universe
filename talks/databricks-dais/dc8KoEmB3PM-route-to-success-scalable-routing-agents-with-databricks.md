@@ -15,6 +15,7 @@ video_id: dc8KoEmB3PM
 url: https://www.youtube.com/watch?v=dc8KoEmB3PM
 youtube_url: https://www.youtube.com/watch?v=dc8KoEmB3PM
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: false
 ---
 

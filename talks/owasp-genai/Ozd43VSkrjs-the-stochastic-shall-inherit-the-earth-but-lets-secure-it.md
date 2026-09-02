@@ -15,6 +15,7 @@ video_id: Ozd43VSkrjs
 url: https://www.youtube.com/watch?v=Ozd43VSkrjs
 youtube_url: https://www.youtube.com/watch?v=Ozd43VSkrjs
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

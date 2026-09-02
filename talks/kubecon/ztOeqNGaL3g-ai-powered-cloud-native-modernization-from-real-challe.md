@@ -15,6 +15,7 @@ video_id: ztOeqNGaL3g
 url: https://www.youtube.com/watch?v=ztOeqNGaL3g
 youtube_url: https://www.youtube.com/watch?v=ztOeqNGaL3g
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

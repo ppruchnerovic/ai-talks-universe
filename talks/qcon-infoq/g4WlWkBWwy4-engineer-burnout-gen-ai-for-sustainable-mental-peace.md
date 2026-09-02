@@ -15,6 +15,7 @@ video_id: g4WlWkBWwy4
 url: https://www.youtube.com/watch?v=g4WlWkBWwy4
 youtube_url: https://www.youtube.com/watch?v=g4WlWkBWwy4
 tags: ["Engineering Leadership", "Mental Health At Work", "Engineering Culture Podcast", "Generative AI", "Artificial Intelligence", "Software Engineering", "Cognitive Load", "Neurodiversity"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: q4Tr-DknG2M
 url: https://www.youtube.com/watch?v=q4Tr-DknG2M
 youtube_url: https://www.youtube.com/watch?v=q4Tr-DknG2M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

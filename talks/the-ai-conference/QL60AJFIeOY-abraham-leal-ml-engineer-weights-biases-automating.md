@@ -15,6 +15,7 @@ video_id: QL60AJFIeOY
 url: https://www.youtube.com/watch?v=QL60AJFIeOY
 youtube_url: https://www.youtube.com/watch?v=QL60AJFIeOY
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

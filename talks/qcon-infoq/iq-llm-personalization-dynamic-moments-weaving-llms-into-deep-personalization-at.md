@@ -15,6 +15,7 @@ video_id: iq-llm-personalization
 url: https://www.infoq.com/presentations/llm-personalization/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

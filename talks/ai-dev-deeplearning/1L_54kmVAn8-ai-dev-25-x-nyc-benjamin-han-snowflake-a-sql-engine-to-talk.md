@@ -15,6 +15,7 @@ video_id: 1L_54kmVAn8
 url: https://www.youtube.com/watch?v=1L_54kmVAn8
 youtube_url: https://www.youtube.com/watch?v=1L_54kmVAn8
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

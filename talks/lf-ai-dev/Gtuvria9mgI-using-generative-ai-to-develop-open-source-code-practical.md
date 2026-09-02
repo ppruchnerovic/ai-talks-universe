@@ -15,6 +15,7 @@ video_id: Gtuvria9mgI
 url: https://www.youtube.com/watch?v=Gtuvria9mgI
 youtube_url: https://www.youtube.com/watch?v=Gtuvria9mgI
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

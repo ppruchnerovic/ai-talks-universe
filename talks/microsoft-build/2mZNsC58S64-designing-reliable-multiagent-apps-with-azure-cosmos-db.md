@@ -15,6 +15,7 @@ video_id: 2mZNsC58S64
 url: https://www.youtube.com/watch?v=2mZNsC58S64
 youtube_url: https://www.youtube.com/watch?v=2mZNsC58S64
 tags: ["Azure Cosmos DB", "CP&D", "CosmosDB", "Designing Reliable Multi‑Agent Apps with Azure Cosmos DB | OD820", "OD820", "OD820_v1", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

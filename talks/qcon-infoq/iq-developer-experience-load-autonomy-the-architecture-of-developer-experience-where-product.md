@@ -15,6 +15,7 @@ video_id: iq-developer-experience-load-autonomy
 url: https://www.infoq.com/presentations/developer-experience-load-autonomy/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

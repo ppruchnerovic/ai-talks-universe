@@ -15,6 +15,7 @@ video_id: Xln-On3syJk
 url: https://www.youtube.com/watch?v=Xln-On3syJk
 youtube_url: https://www.youtube.com/watch?v=Xln-On3syJk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

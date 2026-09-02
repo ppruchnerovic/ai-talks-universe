@@ -15,6 +15,7 @@ video_id: RetgcgSVa58
 url: https://www.youtube.com/watch?v=RetgcgSVa58
 youtube_url: https://www.youtube.com/watch?v=RetgcgSVa58
 tags: ["JavaScript", "GenAI", "AI", ".NET", "C#", "GitHub", "NDC", "Conferences", "2026", "Live", "Fun", "Denmark", "Copenhagen", "Daniel Ward"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

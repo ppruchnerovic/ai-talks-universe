@@ -15,6 +15,7 @@ video_id: 6sI5jrNVz70
 url: https://www.youtube.com/watch?v=6sI5jrNVz70
 youtube_url: https://www.youtube.com/watch?v=6sI5jrNVz70
 tags: ["BRK313", "Copilot and agents at work:Copilot Agents", "Copilot and agents at work:Copilot Studio", "Innovate with low-code AI and agents", "What’s new in Copilot Studio and roadmap | BRK313", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 2GPv8AlL0G8
 url: https://www.youtube.com/watch?v=2GPv8AlL0G8
 youtube_url: https://www.youtube.com/watch?v=2GPv8AlL0G8
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

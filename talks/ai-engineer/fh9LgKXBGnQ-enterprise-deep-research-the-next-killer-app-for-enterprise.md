@@ -15,6 +15,7 @@ video_id: fh9LgKXBGnQ
 url: https://www.youtube.com/watch?v=fh9LgKXBGnQ
 youtube_url: https://www.youtube.com/watch?v=fh9LgKXBGnQ
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

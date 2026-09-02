@@ -15,6 +15,7 @@ video_id: Qy55nkTO__Y
 url: https://www.youtube.com/watch?v=Qy55nkTO__Y
 youtube_url: https://www.youtube.com/watch?v=Qy55nkTO__Y
 tags: ["BRK372", "Copilot and agents at work", "Empowering care teams with Dragon Copilot an AI clinical assistant | BRK372", "English (US)", "Healthcare and Life Sciences", "James Jeffries", "Maria Jumawan", "Signature pass", "Technical", "f28d726f-73e7-4265-b2b7-a1d1bc6a68b1_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

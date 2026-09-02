@@ -15,6 +15,7 @@ video_id: zrZ1amZBSPw
 url: https://www.youtube.com/watch?v=zrZ1amZBSPw
 youtube_url: https://www.youtube.com/watch?v=zrZ1amZBSPw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

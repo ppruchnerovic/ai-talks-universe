@@ -15,6 +15,7 @@ video_id: FdBkGi08SI4
 url: https://www.youtube.com/watch?v=FdBkGi08SI4
 youtube_url: https://www.youtube.com/watch?v=FdBkGi08SI4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

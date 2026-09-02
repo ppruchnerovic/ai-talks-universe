@@ -15,6 +15,7 @@ video_id: ljJSV2LlXPs
 url: https://www.youtube.com/watch?v=ljJSV2LlXPs
 youtube_url: https://www.youtube.com/watch?v=ljJSV2LlXPs
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

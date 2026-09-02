@@ -15,6 +15,7 @@ video_id: kaPiA0Di6lw
 url: https://www.youtube.com/watch?v=kaPiA0Di6lw
 youtube_url: https://www.youtube.com/watch?v=kaPiA0Di6lw
 tags: ["QCon London", "Case Study", "LinkedIn", "AI Agents", "Artificial Intelligence", "LLMs", "LLMOps", "Software Architecture", "LinkedIn Engineering", "Hiring Assistent", "InfoQ", "Transcript"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

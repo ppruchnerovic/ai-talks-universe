@@ -15,6 +15,7 @@ video_id: 0U0U_qsDnpY
 url: https://www.youtube.com/watch?v=0U0U_qsDnpY
 youtube_url: https://www.youtube.com/watch?v=0U0U_qsDnpY
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: mzHed-fKHx8
 url: https://www.youtube.com/watch?v=mzHed-fKHx8
 youtube_url: https://www.youtube.com/watch?v=mzHed-fKHx8
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

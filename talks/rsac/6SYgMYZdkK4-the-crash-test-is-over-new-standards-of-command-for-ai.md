@@ -15,6 +15,7 @@ video_id: 6SYgMYZdkK4
 url: https://www.youtube.com/watch?v=6SYgMYZdkK4
 youtube_url: https://www.youtube.com/watch?v=6SYgMYZdkK4
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

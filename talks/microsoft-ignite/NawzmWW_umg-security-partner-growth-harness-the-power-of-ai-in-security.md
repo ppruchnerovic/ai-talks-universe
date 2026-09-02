@@ -15,6 +15,7 @@ video_id: NawzmWW_umg
 url: https://www.youtube.com/watch?v=NawzmWW_umg
 youtube_url: https://www.youtube.com/watch?v=NawzmWW_umg
 tags: ["AI", "Advanced (300)", "BRK331", "Breakout", "Copilot for Security", "Debac Manikandan", "English (US)", "Heena Macwan", "James Key", "Jose Lazaro", "Mona Ghadiri", "Partner", "Security", "Security Partner Growth: Harness the Power of AI in Security Copilot | BRK331", "Security-Curated", "Technical", "Version v4", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

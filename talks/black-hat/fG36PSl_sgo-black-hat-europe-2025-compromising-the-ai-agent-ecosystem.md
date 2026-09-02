@@ -15,6 +15,7 @@ video_id: fG36PSl_sgo
 url: https://www.youtube.com/watch?v=fG36PSl_sgo
 youtube_url: https://www.youtube.com/watch?v=fG36PSl_sgo
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

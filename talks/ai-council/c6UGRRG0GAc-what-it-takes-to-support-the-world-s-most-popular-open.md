@@ -15,6 +15,7 @@ video_id: c6UGRRG0GAc
 url: https://www.youtube.com/watch?v=c6UGRRG0GAc
 youtube_url: https://www.youtube.com/watch?v=c6UGRRG0GAc
 tags: ["open source", "community", "NumPy", "Scipy", "Jupyter", "Pandas", "NumFocus"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

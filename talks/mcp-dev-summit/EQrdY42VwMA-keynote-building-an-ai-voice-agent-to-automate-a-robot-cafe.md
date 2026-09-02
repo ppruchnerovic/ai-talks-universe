@@ -15,6 +15,7 @@ video_id: EQrdY42VwMA
 url: https://www.youtube.com/watch?v=EQrdY42VwMA
 youtube_url: https://www.youtube.com/watch?v=EQrdY42VwMA
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

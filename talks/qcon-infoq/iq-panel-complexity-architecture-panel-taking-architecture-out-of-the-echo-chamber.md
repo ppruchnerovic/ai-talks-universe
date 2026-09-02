@@ -15,6 +15,7 @@ video_id: iq-panel-complexity-architecture
 url: https://www.infoq.com/presentations/panel-complexity-architecture/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

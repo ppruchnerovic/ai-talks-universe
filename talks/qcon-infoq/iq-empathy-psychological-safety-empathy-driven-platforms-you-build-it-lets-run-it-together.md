@@ -15,6 +15,7 @@ video_id: iq-empathy-psychological-safety
 url: https://www.infoq.com/presentations/empathy-psychological-safety/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 9WlpSLtloPQ
 url: https://www.youtube.com/watch?v=9WlpSLtloPQ
 youtube_url: https://www.youtube.com/watch?v=9WlpSLtloPQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

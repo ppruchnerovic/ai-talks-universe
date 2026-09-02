@@ -15,6 +15,7 @@ video_id: iq-security-workflow-team
 url: https://www.infoq.com/presentations/security-workflow-team/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

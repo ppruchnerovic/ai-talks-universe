@@ -15,6 +15,7 @@ video_id: x-8U__f9Z6E
 url: https://www.youtube.com/watch?v=x-8U__f9Z6E
 youtube_url: https://www.youtube.com/watch?v=x-8U__f9Z6E
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

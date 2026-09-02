@@ -15,6 +15,7 @@ video_id: XQLawv8CO-I
 url: https://www.youtube.com/watch?v=XQLawv8CO-I
 youtube_url: https://www.youtube.com/watch?v=XQLawv8CO-I
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

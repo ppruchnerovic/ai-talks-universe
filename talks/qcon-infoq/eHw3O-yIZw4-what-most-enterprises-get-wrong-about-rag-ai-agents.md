@@ -15,6 +15,7 @@ video_id: eHw3O-yIZw4
 url: https://www.youtube.com/watch?v=eHw3O-yIZw4
 youtube_url: https://www.youtube.com/watch?v=eHw3O-yIZw4
 tags: ["QCon AI", "InfoQ", "Transcript", "Graph RAG", "Knowledge Graphs", "AI workflows", "Large language models", "Artificial Intelligence"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

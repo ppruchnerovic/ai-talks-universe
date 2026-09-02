@@ -15,6 +15,7 @@ video_id: 1VUPBZ4WmfI
 url: https://www.youtube.com/watch?v=1VUPBZ4WmfI
 youtube_url: https://www.youtube.com/watch?v=1VUPBZ4WmfI
 tags: ["Developer Experience", "AI Coding Assistants", "Legacy", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: eCoGzU85apE
 url: https://www.youtube.com/watch?v=eCoGzU85apE
 youtube_url: https://www.youtube.com/watch?v=eCoGzU85apE
 tags: ["DevEx", "Developer Experience", "Best Practices", "InfoQ", "QCon San Francisco", "Transcript", "Agile", "Software Architecture", "DevOps", "DORA Metrics", "GenAI", "Engineering Leadership"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

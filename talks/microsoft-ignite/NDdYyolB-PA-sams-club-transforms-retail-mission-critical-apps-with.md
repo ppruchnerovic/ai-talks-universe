@@ -15,6 +15,7 @@ video_id: NDdYyolB-PA
 url: https://www.youtube.com/watch?v=NDdYyolB-PA
 youtube_url: https://www.youtube.com/watch?v=NDdYyolB-PA
 tags: ["BRK155", "Innovate with Azure AI apps and agents:Azure CosmosDB", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure Kubernetes Service (AKS)", "Migrate and modernize your estate:Azure SQL", "Sam’s Club transforms retail mission-critical apps with Azure | BRK155", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

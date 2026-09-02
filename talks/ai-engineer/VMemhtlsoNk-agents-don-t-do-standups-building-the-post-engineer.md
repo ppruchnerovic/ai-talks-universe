@@ -15,6 +15,7 @@ video_id: VMemhtlsoNk
 url: https://www.youtube.com/watch?v=VMemhtlsoNk
 youtube_url: https://www.youtube.com/watch?v=VMemhtlsoNk
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

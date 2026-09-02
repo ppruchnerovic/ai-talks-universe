@@ -15,6 +15,7 @@ video_id: _QAVExf_1uw
 url: https://www.youtube.com/watch?v=_QAVExf_1uw
 youtube_url: https://www.youtube.com/watch?v=_QAVExf_1uw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

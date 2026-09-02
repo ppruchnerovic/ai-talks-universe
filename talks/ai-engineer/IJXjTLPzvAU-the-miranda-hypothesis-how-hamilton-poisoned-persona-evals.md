@@ -15,6 +15,7 @@ video_id: IJXjTLPzvAU
 url: https://www.youtube.com/watch?v=IJXjTLPzvAU
 youtube_url: https://www.youtube.com/watch?v=IJXjTLPzvAU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

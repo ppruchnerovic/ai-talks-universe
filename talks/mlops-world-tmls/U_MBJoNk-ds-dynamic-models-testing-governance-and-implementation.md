@@ -15,6 +15,7 @@ video_id: U_MBJoNk-ds
 url: https://www.youtube.com/watch?v=U_MBJoNk-ds
 youtube_url: https://www.youtube.com/watch?v=U_MBJoNk-ds
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: QluDzKVfp6A
 url: https://www.youtube.com/watch?v=QluDzKVfp6A
 youtube_url: https://www.youtube.com/watch?v=QluDzKVfp6A
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

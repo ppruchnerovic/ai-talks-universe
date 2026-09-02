@@ -15,6 +15,7 @@ video_id: TUnPNY4E2fw
 url: https://www.youtube.com/watch?v=TUnPNY4E2fw
 youtube_url: https://www.youtube.com/watch?v=TUnPNY4E2fw
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

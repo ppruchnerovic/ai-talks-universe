@@ -15,6 +15,7 @@ video_id: zI-YLsZufRA
 url: https://www.youtube.com/watch?v=zI-YLsZufRA
 youtube_url: https://www.youtube.com/watch?v=zI-YLsZufRA
 tags: ["AI", "risk", "future ready workforce", "governance", "leadership", "future of work", "skills", "artificial intelligence", "work", "culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: aRpzxkct-WA
 url: https://www.youtube.com/watch?v=aRpzxkct-WA
 youtube_url: https://www.youtube.com/watch?v=aRpzxkct-WA
 tags: []
+topics: []
 transcript: false
 ---
 

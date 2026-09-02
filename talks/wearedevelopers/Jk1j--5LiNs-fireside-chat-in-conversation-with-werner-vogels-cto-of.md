@@ -15,6 +15,7 @@ video_id: Jk1j--5LiNs
 url: https://www.youtube.com/watch?v=Jk1j--5LiNs
 youtube_url: https://www.youtube.com/watch?v=Jk1j--5LiNs
 tags: ["Strategy & Innovation"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

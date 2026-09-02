@@ -15,6 +15,7 @@ video_id: NVzKtCSeoRA
 url: https://www.youtube.com/watch?v=NVzKtCSeoRA
 youtube_url: https://www.youtube.com/watch?v=NVzKtCSeoRA
 tags: ["AI Native DevCon 2026", "AI Native Engineering", "AI engineering lifecycle", "AI maturity model development", "AI tool adoption", "AI4P program", "Meta", "Meta AI enhancements", "ainativedev", "best AI tools for engineers", "development culture", "engineering excellence", "engineering excellence Meta", "software lifecycle", "what is the AI4P program"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

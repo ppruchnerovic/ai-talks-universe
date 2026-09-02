@@ -15,6 +15,7 @@ video_id: VR4YyNKaPco
 url: https://www.youtube.com/watch?v=VR4YyNKaPco
 youtube_url: https://www.youtube.com/watch?v=VR4YyNKaPco
 tags: ["Closing the gaps of Entra and Intune | ODSP1403", "English (US)", "Manufacturing and Mobility", "Migrate and modernize your estate", "ODSP1403", "ODSP1403_v1", "Protect cloud AI platform and apps", "Stefan Schoenleber", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

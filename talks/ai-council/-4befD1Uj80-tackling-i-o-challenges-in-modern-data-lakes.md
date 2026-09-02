@@ -15,6 +15,7 @@ video_id: -4befD1Uj80
 url: https://www.youtube.com/watch?v=-4befD1Uj80
 youtube_url: https://www.youtube.com/watch?v=-4befD1Uj80
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

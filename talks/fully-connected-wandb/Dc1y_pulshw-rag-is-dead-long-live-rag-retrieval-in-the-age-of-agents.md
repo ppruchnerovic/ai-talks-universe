@@ -15,6 +15,7 @@ video_id: Dc1y_pulshw
 url: https://www.youtube.com/watch?v=Dc1y_pulshw
 youtube_url: https://www.youtube.com/watch?v=Dc1y_pulshw
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: L8OoYeDI_ls
 url: https://www.youtube.com/watch?v=L8OoYeDI_ls
 youtube_url: https://www.youtube.com/watch?v=L8OoYeDI_ls
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: false
 ---
 

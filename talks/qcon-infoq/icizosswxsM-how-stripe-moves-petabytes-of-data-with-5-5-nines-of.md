@@ -15,6 +15,7 @@ video_id: icizosswxsM
 url: https://www.youtube.com/watch?v=icizosswxsM
 youtube_url: https://www.youtube.com/watch?v=icizosswxsM
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Case Study", "Stripe", "DocDB", "MongoDB", "open source", "software architecture", "Distributed Document Oriented Database", "NoSQL", "migration", "Database", "AI", "ML & Data Engineering", "system design", "distributed systems"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

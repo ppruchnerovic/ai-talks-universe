@@ -15,6 +15,7 @@ video_id: JJmmunwXcu8
 url: https://www.youtube.com/watch?v=JJmmunwXcu8
 youtube_url: https://www.youtube.com/watch?v=JJmmunwXcu8
 tags: ["DEM305", "Denizhan Yigitbas", "DevTools", "Developer", "Developer Tools & Frameworks", "Ellie Bennett", "GitHub", "GitHub Actions", "GitHub Copilot", "GitHub Copilot Anywhere: From Remote Control CLIs to Cloud Sandboxes | DEM305", "GitHub Copilot CLI", "GitHub Enterprise", "build", "build 2026", "c8128017-96b9-476c-9004-8ba91e2ef3cd_M9Z7-DEM305-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

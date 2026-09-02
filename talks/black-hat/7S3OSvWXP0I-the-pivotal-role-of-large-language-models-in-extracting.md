@@ -15,6 +15,7 @@ video_id: 7S3OSvWXP0I
 url: https://www.youtube.com/watch?v=7S3OSvWXP0I
 youtube_url: https://www.youtube.com/watch?v=7S3OSvWXP0I
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

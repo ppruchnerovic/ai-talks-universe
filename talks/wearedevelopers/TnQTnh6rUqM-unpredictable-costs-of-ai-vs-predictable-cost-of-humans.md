@@ -15,6 +15,7 @@ video_id: TnQTnh6rUqM
 url: https://www.youtube.com/watch?v=TnQTnh6rUqM
 youtube_url: https://www.youtube.com/watch?v=TnQTnh6rUqM
 tags: ["People & Culture"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gcseUQJ6Gbg
 url: https://www.youtube.com/watch?v=gcseUQJ6Gbg
 youtube_url: https://www.youtube.com/watch?v=gcseUQJ6Gbg
 tags: []
+topics: []
 transcript: false
 ---
 

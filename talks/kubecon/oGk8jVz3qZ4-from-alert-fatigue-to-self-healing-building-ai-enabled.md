@@ -15,6 +15,7 @@ video_id: oGk8jVz3qZ4
 url: https://www.youtube.com/watch?v=oGk8jVz3qZ4
 youtube_url: https://www.youtube.com/watch?v=oGk8jVz3qZ4
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

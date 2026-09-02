@@ -15,6 +15,7 @@ video_id: ef00ACf5ZeU
 url: https://www.youtube.com/watch?v=ef00ACf5ZeU
 youtube_url: https://www.youtube.com/watch?v=ef00ACf5ZeU
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

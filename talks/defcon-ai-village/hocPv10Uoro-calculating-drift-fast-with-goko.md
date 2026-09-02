@@ -15,6 +15,7 @@ video_id: hocPv10Uoro
 url: https://www.youtube.com/watch?v=hocPv10Uoro
 youtube_url: https://www.youtube.com/watch?v=hocPv10Uoro
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

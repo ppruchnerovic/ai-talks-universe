@@ -15,6 +15,7 @@ video_id: SPwDreFnmyA
 url: https://www.youtube.com/watch?v=SPwDreFnmyA
 youtube_url: https://www.youtube.com/watch?v=SPwDreFnmyA
 tags: ["Strategy & Innovation"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

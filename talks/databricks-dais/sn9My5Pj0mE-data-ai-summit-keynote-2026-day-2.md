@@ -15,6 +15,7 @@ video_id: sn9My5Pj0mE
 url: https://www.youtube.com/watch?v=sn9My5Pj0mE
 youtube_url: https://www.youtube.com/watch?v=sn9My5Pj0mE
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

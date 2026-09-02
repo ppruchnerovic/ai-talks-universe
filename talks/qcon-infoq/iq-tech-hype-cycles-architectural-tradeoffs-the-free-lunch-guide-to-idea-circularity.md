@@ -15,6 +15,7 @@ video_id: iq-tech-hype-cycles-architectural-tradeoffs
 url: https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

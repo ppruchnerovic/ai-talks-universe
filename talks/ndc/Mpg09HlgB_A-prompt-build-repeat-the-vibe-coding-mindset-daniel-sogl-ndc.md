@@ -15,6 +15,7 @@ video_id: Mpg09HlgB_A
 url: https://www.youtube.com/watch?v=Mpg09HlgB_A
 youtube_url: https://www.youtube.com/watch?v=Mpg09HlgB_A
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Ata8v22mI_U
 url: https://www.youtube.com/watch?v=Ata8v22mI_U
 youtube_url: https://www.youtube.com/watch?v=Ata8v22mI_U
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

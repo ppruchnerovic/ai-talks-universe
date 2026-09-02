@@ -15,6 +15,7 @@ video_id: rjoMZyxncUI
 url: https://www.youtube.com/watch?v=rjoMZyxncUI
 youtube_url: https://www.youtube.com/watch?v=rjoMZyxncUI
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Google AI Agent stack", "agentic architecture 2026", "Gemini Enterprise Agent platform", "Agent gateway", "A2A Protocol", "Agent-to-Agent", "Model Context Protocol", "MCP", "Google Agent Development Kit", "Agent Studio", "Scaling AI agents to production", "multi-agent orchestration", "AI infrastructure"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

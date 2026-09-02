@@ -15,6 +15,7 @@ video_id: y12O6RLO7r0
 url: https://www.youtube.com/watch?v=y12O6RLO7r0
 youtube_url: https://www.youtube.com/watch?v=y12O6RLO7r0
 tags: ["People & Culture", "Communication", "Motivation", "People & Culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

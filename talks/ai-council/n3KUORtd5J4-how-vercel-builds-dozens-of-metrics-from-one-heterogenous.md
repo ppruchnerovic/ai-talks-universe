@@ -15,6 +15,7 @@ video_id: n3KUORtd5J4
 url: https://www.youtube.com/watch?v=n3KUORtd5J4
 youtube_url: https://www.youtube.com/watch?v=n3KUORtd5J4
 tags: ["metrics", "analytics", "metadata"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

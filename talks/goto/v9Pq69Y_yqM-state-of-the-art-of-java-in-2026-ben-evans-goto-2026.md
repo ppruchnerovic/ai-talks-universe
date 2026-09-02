@@ -15,6 +15,7 @@ video_id: v9Pq69Y_yqM
 url: https://www.youtube.com/watch?v=v9Pq69Y_yqM
 youtube_url: https://www.youtube.com/watch?v=v9Pq69Y_yqM
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO State of the Art", "Ben Evans", "Kittylyst", "Java", "Java 25", "State of the Art Java", "Java Programming", "Java Performance", "Quarkus", "Project Babylon", "Project Valhalla"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

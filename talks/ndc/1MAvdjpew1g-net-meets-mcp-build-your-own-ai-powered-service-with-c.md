@@ -15,6 +15,7 @@ video_id: 1MAvdjpew1g
 url: https://www.youtube.com/watch?v=1MAvdjpew1g
 youtube_url: https://www.youtube.com/watch?v=1MAvdjpew1g
 tags: [".NET", "AI", "Tools", "C#", "ChatGPT", "MCP", "NDC", "Conferences", "2026", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Gerald Versluis"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

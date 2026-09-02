@@ -15,6 +15,7 @@ video_id: AhmNHuW461w
 url: https://www.youtube.com/watch?v=AhmNHuW461w
 youtube_url: https://www.youtube.com/watch?v=AhmNHuW461w
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

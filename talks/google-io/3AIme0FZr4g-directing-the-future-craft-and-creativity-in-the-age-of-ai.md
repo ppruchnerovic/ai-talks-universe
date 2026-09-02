@@ -15,6 +15,7 @@ video_id: 3AIme0FZr4g
 url: https://www.youtube.com/watch?v=3AIme0FZr4g
 youtube_url: https://www.youtube.com/watch?v=3AIme0FZr4g
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Dialogues;", "ct:Event - AI PA Keynote;"]
+topics: []
 transcript: true
 ---
 

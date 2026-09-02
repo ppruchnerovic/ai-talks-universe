@@ -15,6 +15,7 @@ video_id: o90GQve9pF4
 url: https://www.youtube.com/watch?v=o90GQve9pF4
 youtube_url: https://www.youtube.com/watch?v=o90GQve9pF4
 tags: ["people", "transformation", "hr", "culture", "future of work", "change management", "AI", "artificial intelligence", "human resources", "people & culture", "people management", "leadership"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

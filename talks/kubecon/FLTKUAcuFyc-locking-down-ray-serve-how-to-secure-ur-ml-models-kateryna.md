@@ -15,6 +15,7 @@ video_id: FLTKUAcuFyc
 url: https://www.youtube.com/watch?v=FLTKUAcuFyc
 youtube_url: https://www.youtube.com/watch?v=FLTKUAcuFyc
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

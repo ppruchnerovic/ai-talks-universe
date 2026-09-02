@@ -15,6 +15,7 @@ video_id: 6CtvLvWncAs
 url: https://www.youtube.com/watch?v=6CtvLvWncAs
 youtube_url: https://www.youtube.com/watch?v=6CtvLvWncAs
 tags: []
+topics: []
 transcript: false
 ---
 

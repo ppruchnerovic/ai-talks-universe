@@ -15,6 +15,7 @@ video_id: VhfAVA3BG2I
 url: https://www.youtube.com/watch?v=VhfAVA3BG2I
 youtube_url: https://www.youtube.com/watch?v=VhfAVA3BG2I
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

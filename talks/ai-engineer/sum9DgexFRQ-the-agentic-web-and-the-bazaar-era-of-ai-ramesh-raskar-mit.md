@@ -15,6 +15,7 @@ video_id: sum9DgexFRQ
 url: https://www.youtube.com/watch?v=sum9DgexFRQ
 youtube_url: https://www.youtube.com/watch?v=sum9DgexFRQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

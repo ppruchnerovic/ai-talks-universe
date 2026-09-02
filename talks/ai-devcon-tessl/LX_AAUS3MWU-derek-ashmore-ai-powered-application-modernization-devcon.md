@@ -15,6 +15,7 @@ video_id: LX_AAUS3MWU
 url: https://www.youtube.com/watch?v=LX_AAUS3MWU
 youtube_url: https://www.youtube.com/watch?v=LX_AAUS3MWU
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

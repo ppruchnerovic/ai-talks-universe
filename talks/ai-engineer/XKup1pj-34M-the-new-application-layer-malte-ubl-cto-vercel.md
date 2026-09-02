@@ -15,6 +15,7 @@ video_id: XKup1pj-34M
 url: https://www.youtube.com/watch?v=XKup1pj-34M
 youtube_url: https://www.youtube.com/watch?v=XKup1pj-34M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

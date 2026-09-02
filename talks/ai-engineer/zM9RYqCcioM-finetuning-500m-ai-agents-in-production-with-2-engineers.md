@@ -15,6 +15,7 @@ video_id: zM9RYqCcioM
 url: https://www.youtube.com/watch?v=zM9RYqCcioM
 youtube_url: https://www.youtube.com/watch?v=zM9RYqCcioM
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

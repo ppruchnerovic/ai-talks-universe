@@ -15,6 +15,7 @@ video_id: sjowc3bdWdA
 url: https://www.youtube.com/watch?v=sjowc3bdWdA
 youtube_url: https://www.youtube.com/watch?v=sjowc3bdWdA
 tags: ["English (US)", "Financial Services", "How DEX tool architecture impacts user experience | ODSP1532", "ODSP1532", "ODSP1532_v1", "Secure your data", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

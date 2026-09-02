@@ -15,6 +15,7 @@ video_id: KhRdtntTp-I
 url: https://www.youtube.com/watch?v=KhRdtntTp-I
 youtube_url: https://www.youtube.com/watch?v=KhRdtntTp-I
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

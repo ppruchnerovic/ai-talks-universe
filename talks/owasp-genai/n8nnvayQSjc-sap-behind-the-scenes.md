@@ -15,6 +15,7 @@ video_id: n8nnvayQSjc
 url: https://www.youtube.com/watch?v=n8nnvayQSjc
 youtube_url: https://www.youtube.com/watch?v=n8nnvayQSjc
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

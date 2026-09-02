@@ -15,6 +15,7 @@ video_id: HyQsmdp7d_0
 url: https://www.youtube.com/watch?v=HyQsmdp7d_0
 youtube_url: https://www.youtube.com/watch?v=HyQsmdp7d_0
 tags: [".NET", "Fun", "Machine Learning", "Work skills", "AI", "Python", "ML", "NDC", "Conferences", "2026", "Live", "London", "UK", "United Kingdom", "England", "Great Britain", "Alexander Hall"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: pFsfax19yOM
 url: https://www.youtube.com/watch?v=pFsfax19yOM
 youtube_url: https://www.youtube.com/watch?v=pFsfax19yOM
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

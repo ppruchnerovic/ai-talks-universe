@@ -15,6 +15,7 @@ video_id: GgLQ02aO-hs
 url: https://www.youtube.com/watch?v=GgLQ02aO-hs
 youtube_url: https://www.youtube.com/watch?v=GgLQ02aO-hs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

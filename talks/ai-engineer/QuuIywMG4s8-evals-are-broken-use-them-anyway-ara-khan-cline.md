@@ -15,6 +15,7 @@ video_id: QuuIywMG4s8
 url: https://www.youtube.com/watch?v=QuuIywMG4s8
 youtube_url: https://www.youtube.com/watch?v=QuuIywMG4s8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

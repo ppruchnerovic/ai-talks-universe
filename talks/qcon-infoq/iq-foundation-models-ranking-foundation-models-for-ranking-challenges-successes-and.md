@@ -15,6 +15,7 @@ video_id: iq-foundation-models-ranking
 url: https://www.infoq.com/presentations/foundation-models-ranking/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

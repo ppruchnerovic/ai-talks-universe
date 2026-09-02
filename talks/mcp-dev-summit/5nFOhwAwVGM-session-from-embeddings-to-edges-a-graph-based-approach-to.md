@@ -15,6 +15,7 @@ video_id: 5nFOhwAwVGM
 url: https://www.youtube.com/watch?v=5nFOhwAwVGM
 youtube_url: https://www.youtube.com/watch?v=5nFOhwAwVGM
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

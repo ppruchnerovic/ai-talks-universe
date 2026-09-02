@@ -15,6 +15,7 @@ video_id: wfNOHcAFuO8
 url: https://www.youtube.com/watch?v=wfNOHcAFuO8
 youtube_url: https://www.youtube.com/watch?v=wfNOHcAFuO8
 tags: ["Strategy & Innovation", "AI Models", "Business Intelligence", "Collaboration", "Future of Work", "Large Language Models (LLMs)", "Multi-Agent Systems", "Product Management", "Productivity", "Startups"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

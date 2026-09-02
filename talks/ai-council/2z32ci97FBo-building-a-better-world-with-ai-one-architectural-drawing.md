@@ -15,6 +15,7 @@ video_id: 2z32ci97FBo
 url: https://www.youtube.com/watch?v=2z32ci97FBo
 youtube_url: https://www.youtube.com/watch?v=2z32ci97FBo
 tags: ["AI", "NLP", "computer vision", "data products"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

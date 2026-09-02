@@ -15,6 +15,7 @@ video_id: CeHaypeHhYE
 url: https://www.youtube.com/watch?v=CeHaypeHhYE
 youtube_url: https://www.youtube.com/watch?v=CeHaypeHhYE
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

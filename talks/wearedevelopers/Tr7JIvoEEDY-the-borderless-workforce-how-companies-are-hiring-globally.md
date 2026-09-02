@@ -15,6 +15,7 @@ video_id: Tr7JIvoEEDY
 url: https://www.youtube.com/watch?v=Tr7JIvoEEDY
 youtube_url: https://www.youtube.com/watch?v=Tr7JIvoEEDY
 tags: ["hiring", "recruiting", "recruitment", "talent", "HR", "people", "culture", "transformation", "work", "global", "organizations", "companies", "workforce", "AI", "remote work", "hybrid workplace", "teams"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

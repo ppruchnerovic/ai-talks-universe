@@ -15,6 +15,7 @@ video_id: q-WOjZhOMCA
 url: https://www.youtube.com/watch?v=q-WOjZhOMCA
 youtube_url: https://www.youtube.com/watch?v=q-WOjZhOMCA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

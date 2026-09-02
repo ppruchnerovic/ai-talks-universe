@@ -15,6 +15,7 @@ video_id: O9d8LftwaLc
 url: https://www.youtube.com/watch?v=O9d8LftwaLc
 youtube_url: https://www.youtube.com/watch?v=O9d8LftwaLc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: Building an ML Platform from Scratch", "Building an ML Platform from Scratch", "ML Platform"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

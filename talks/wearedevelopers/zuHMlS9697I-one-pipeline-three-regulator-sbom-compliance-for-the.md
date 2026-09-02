@@ -15,6 +15,7 @@ video_id: zuHMlS9697I
 url: https://www.youtube.com/watch?v=zuHMlS9697I
 youtube_url: https://www.youtube.com/watch?v=zuHMlS9697I
 tags: ["Security & Privacy", "Automation", "Compliance", "DevSecOps", "People & Culture", "SBOM", "Software Architecture"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

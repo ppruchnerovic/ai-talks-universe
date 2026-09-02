@@ -15,6 +15,7 @@ video_id: LCEmiRjPEtQ
 url: https://www.youtube.com/watch?v=LCEmiRjPEtQ
 youtube_url: https://www.youtube.com/watch?v=LCEmiRjPEtQ
 tags: ["YC", "Y Combinator"]
+topics: []
 transcript: false
 ---
 

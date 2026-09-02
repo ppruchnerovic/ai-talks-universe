@@ -15,6 +15,7 @@ video_id: R8eFWd0qjds
 url: https://www.youtube.com/watch?v=R8eFWd0qjds
 youtube_url: https://www.youtube.com/watch?v=R8eFWd0qjds
 tags: ["Apache Impala", "ChatGPT", "artificial intelligence", "machine learning", "Apache Parquet", "open source", "multimodal AI", "data infrastructure", "AI data", "computer vision", "Python tutorial", "declarative interface", "big data analytics", "distributed computing", "SQL on Hadoop", "real time queries", "interactive analytics", "data warehouse", "data lake", "columnar storage", "query optimization", "performance tuning", "cluster computing"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: HYsGQzQACDA
 url: https://www.youtube.com/watch?v=HYsGQzQACDA
 youtube_url: https://www.youtube.com/watch?v=HYsGQzQACDA
 tags: ["ChatGPT", "culture and methods", "The InfoQ Podcasts", "InfoQ Trends Reports"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

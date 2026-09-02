@@ -15,6 +15,7 @@ video_id: yG9nmw7S2QA
 url: https://www.youtube.com/watch?v=yG9nmw7S2QA
 youtube_url: https://www.youtube.com/watch?v=yG9nmw7S2QA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "Workshop Sessions: MLOps with Orchestration Your Highway to Accelerating Deployment of AI", "MLOps with Orchestration Your Highway to Accelerating Deployment of AI", "MLOps", "orchestration"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

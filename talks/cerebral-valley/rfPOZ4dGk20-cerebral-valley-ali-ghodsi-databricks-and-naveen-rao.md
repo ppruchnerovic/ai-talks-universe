@@ -15,6 +15,7 @@ video_id: rfPOZ4dGk20
 url: https://www.youtube.com/watch?v=rfPOZ4dGk20
 youtube_url: https://www.youtube.com/watch?v=rfPOZ4dGk20
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

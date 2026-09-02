@@ -15,6 +15,7 @@ video_id: 5RTUT3U96bc
 url: https://www.youtube.com/watch?v=5RTUT3U96bc
 youtube_url: https://www.youtube.com/watch?v=5RTUT3U96bc
 tags: ["Agents & Apps", "Azure", "Azure Local", "Build and deploy AI at the edge for real-world impact | OD837", "Cosmos Darwin", "Enterprise", "Foundry Local", "Local AI", "OD837", "OD837_v1", "Roycey Cheeran", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: JEwv4a44JU0
 url: https://www.youtube.com/watch?v=JEwv4a44JU0
 youtube_url: https://www.youtube.com/watch?v=JEwv4a44JU0
 tags: ["Developer Experience", "Architecture & Design", "Software Development", "Productivity", "The InfoQ Podcast"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

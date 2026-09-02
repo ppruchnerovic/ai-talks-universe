@@ -15,6 +15,7 @@ video_id: 5-ttjdNhCpU
 url: https://www.youtube.com/watch?v=5-ttjdNhCpU
 youtube_url: https://www.youtube.com/watch?v=5-ttjdNhCpU
 tags: ["AI", "Amit Mukherjee", "Azure AI", "Azure AI powered healthcare: Ontada McKesson's fight against cancer | BRK127", "BRK127", "Breakout", "English (US)", "GenerativeAI", "Intermediate (200)", "Jay Hugalavalli", "Technical", "Version v0", "Wanmei Ou", "Xuhui Quan", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

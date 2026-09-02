@@ -15,6 +15,7 @@ video_id: ol6VUYrjgFU
 url: https://www.youtube.com/watch?v=ol6VUYrjgFU
 youtube_url: https://www.youtube.com/watch?v=ol6VUYrjgFU
 tags: []
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

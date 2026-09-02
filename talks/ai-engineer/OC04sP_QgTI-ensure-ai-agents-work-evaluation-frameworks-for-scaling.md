@@ -15,6 +15,7 @@ video_id: OC04sP_QgTI
 url: https://www.youtube.com/watch?v=OC04sP_QgTI
 youtube_url: https://www.youtube.com/watch?v=OC04sP_QgTI
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

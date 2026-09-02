@@ -15,6 +15,7 @@ video_id: lGrcC737YLo
 url: https://www.youtube.com/watch?v=lGrcC737YLo
 youtube_url: https://www.youtube.com/watch?v=lGrcC737YLo
 tags: ["Aditya Ramnathkar", "Beth Pan", "Build and ship faster with a developer-optimized Windows experience | LIVE172", "LIVE172", "LIVE172_v1", "Nikola Metulev", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Mkf1JA8_RkQ
 url: https://www.youtube.com/watch?v=Mkf1JA8_RkQ
 youtube_url: https://www.youtube.com/watch?v=Mkf1JA8_RkQ
 tags: []
+topics: []
 transcript: false
 ---
 

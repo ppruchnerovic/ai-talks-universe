@@ -15,6 +15,7 @@ video_id: DJjZzzPANBY
 url: https://www.youtube.com/watch?v=DJjZzzPANBY
 youtube_url: https://www.youtube.com/watch?v=DJjZzzPANBY
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

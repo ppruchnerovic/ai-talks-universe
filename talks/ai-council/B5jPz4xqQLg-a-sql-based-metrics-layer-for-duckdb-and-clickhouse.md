@@ -15,6 +15,7 @@ video_id: B5jPz4xqQLg
 url: https://www.youtube.com/watch?v=B5jPz4xqQLg
 youtube_url: https://www.youtube.com/watch?v=B5jPz4xqQLg
 tags: ["SQL metrics layer", "DuckDB", "ChatGPT", "artificial intelligence", "machine learning", "ClickHouse", "database", "analytics", "data engineering", "business intelligence", "data modeling", "OLAP", "metrics views", "BI as code", "Python tutorial", "semantic layer", "metrics catalog", "KPI management", "business metrics", "performance indicators", "data governance", "self service analytics", "dimensional modeling", "measure definitions"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

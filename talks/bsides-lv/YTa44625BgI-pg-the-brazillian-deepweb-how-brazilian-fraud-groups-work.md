@@ -15,6 +15,7 @@ video_id: YTa44625BgI
 url: https://www.youtube.com/watch?v=YTa44625BgI
 youtube_url: https://www.youtube.com/watch?v=YTa44625BgI
 tags: []
+topics: []
 transcript: false
 ---
 

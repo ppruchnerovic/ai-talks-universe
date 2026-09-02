@@ -15,6 +15,7 @@ video_id: 48Ht5lE1jno
 url: https://www.youtube.com/watch?v=48Ht5lE1jno
 youtube_url: https://www.youtube.com/watch?v=48Ht5lE1jno
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Prompting & context engineering", "RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: true
 ---
 

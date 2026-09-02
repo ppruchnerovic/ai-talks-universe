@@ -15,6 +15,7 @@ video_id: iq-choosing-ai-copilot
 url: https://www.infoq.com/presentations/choosing-ai-copilot/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

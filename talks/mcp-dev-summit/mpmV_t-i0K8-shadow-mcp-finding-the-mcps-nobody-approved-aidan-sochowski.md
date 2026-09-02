@@ -15,6 +15,7 @@ video_id: mpmV_t-i0K8
 url: https://www.youtube.com/watch?v=mpmV_t-i0K8
 youtube_url: https://www.youtube.com/watch?v=mpmV_t-i0K8
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

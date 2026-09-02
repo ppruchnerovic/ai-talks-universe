@@ -15,6 +15,7 @@ video_id: x_1EumTaXeE
 url: https://www.youtube.com/watch?v=x_1EumTaXeE
 youtube_url: https://www.youtube.com/watch?v=x_1EumTaXeE
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: EUsPvBeIx70
 url: https://www.youtube.com/watch?v=EUsPvBeIx70
 youtube_url: https://www.youtube.com/watch?v=EUsPvBeIx70
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

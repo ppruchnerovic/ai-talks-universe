@@ -15,6 +15,7 @@ video_id: E5u2qFX1aGM
 url: https://www.youtube.com/watch?v=E5u2qFX1aGM
 youtube_url: https://www.youtube.com/watch?v=E5u2qFX1aGM
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: false
 ---
 

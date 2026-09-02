@@ -15,6 +15,7 @@ video_id: 69uWV1GkQz4
 url: https://www.youtube.com/watch?v=69uWV1GkQz4
 youtube_url: https://www.youtube.com/watch?v=69uWV1GkQz4
 tags: []
+topics: ["Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

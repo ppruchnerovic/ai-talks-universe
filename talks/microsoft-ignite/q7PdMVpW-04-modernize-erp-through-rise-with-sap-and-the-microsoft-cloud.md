@@ -15,6 +15,7 @@ video_id: q7PdMVpW-04
 url: https://www.youtube.com/watch?v=q7PdMVpW-04
 youtube_url: https://www.youtube.com/watch?v=q7PdMVpW-04
 tags: ["BRK161", "BRK161_v2", "English (US)", "Hiren Shah", "Migrate and modernize your estate", "Migrate and modernize your estate:RISE with SAP", "Modernize ERP through RISE with SAP and the Microsoft Cloud | BRK161", "Technical", "Wael Elkabbany", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

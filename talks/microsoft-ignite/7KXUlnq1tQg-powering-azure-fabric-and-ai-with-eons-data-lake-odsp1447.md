@@ -15,6 +15,7 @@ video_id: 7KXUlnq1tQg
 url: https://www.youtube.com/watch?v=7KXUlnq1tQg
 youtube_url: https://www.youtube.com/watch?v=7KXUlnq1tQg
 tags: ["English (US)", "ODSP1447", "ODSP1447_v1", "Powering Azure Fabric and AI with Eon’s Data Lake | ODSP1447", "Secure your data", "Technical", "Unify your data platform", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

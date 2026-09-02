@@ -15,6 +15,7 @@ video_id: tJUAef_dBtU
 url: https://www.youtube.com/watch?v=tJUAef_dBtU
 youtube_url: https://www.youtube.com/watch?v=tJUAef_dBtU
 tags: ["AI DevCon 2026", "AI DevCon London 2026", "AI development", "AI-enabled training", "Christopher Batey AI", "Path to Production AI", "ainativedev", "code verification", "continuous delivery", "engineering teams", "how to design workflow for AI", "how to manage AI product teams", "platform engineering", "product teams", "software engineering"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

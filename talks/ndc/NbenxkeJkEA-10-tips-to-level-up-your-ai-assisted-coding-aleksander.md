@@ -15,6 +15,7 @@ video_id: NbenxkeJkEA
 url: https://www.youtube.com/watch?v=NbenxkeJkEA
 youtube_url: https://www.youtube.com/watch?v=NbenxkeJkEA
 tags: ["AI", "NDC", "London", "2026", "Live", "Fun", "UK", "England", "Great Britain", "United Kingdom", "Aleksander Stensby"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

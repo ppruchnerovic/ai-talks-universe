@@ -15,6 +15,7 @@ video_id: S_RIbZU5seE
 url: https://www.youtube.com/watch?v=S_RIbZU5seE
 youtube_url: https://www.youtube.com/watch?v=S_RIbZU5seE
 tags: ["AI"]
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

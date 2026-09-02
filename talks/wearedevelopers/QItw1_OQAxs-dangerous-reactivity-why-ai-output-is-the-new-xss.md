@@ -15,6 +15,7 @@ video_id: QItw1_OQAxs
 url: https://www.youtube.com/watch?v=QItw1_OQAxs
 youtube_url: https://www.youtube.com/watch?v=QItw1_OQAxs
 tags: ["Security & Privacy", "AI Standards", "JavaScript", "Security"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

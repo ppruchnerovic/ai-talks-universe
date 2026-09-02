@@ -15,6 +15,7 @@ video_id: ysFjAB1B_1U
 url: https://www.youtube.com/watch?v=ysFjAB1B_1U
 youtube_url: https://www.youtube.com/watch?v=ysFjAB1B_1U
 tags: ["AI", "Aaron Harris", "Copilot", "Intermediate (200)", "Medium-sized businesses", "ODFP972", "Pre-recorded", "Real world accounting with AI: ROI benefits and pitfalls | ODFP972", "SMB", "Small and medium-sized businesses", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

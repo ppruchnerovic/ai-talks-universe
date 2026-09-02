@@ -15,6 +15,7 @@ video_id: UpwAj792WvI
 url: https://www.youtube.com/watch?v=UpwAj792WvI
 youtube_url: https://www.youtube.com/watch?v=UpwAj792WvI
 tags: ["Security & Privacy", "AI Coding Assistants", "AI Standards", "Agentic AI", "Best Practices", "Documentation", "Generative AI (GenAI)", "Governance", "Next.js", "Node.js", "PostgreSQL", "Privacy", "React", "Software Architecture", "TypeScript", "Vector Databases", "Vibe Coding"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

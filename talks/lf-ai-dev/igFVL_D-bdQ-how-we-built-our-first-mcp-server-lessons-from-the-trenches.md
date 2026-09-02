@@ -15,6 +15,7 @@ video_id: igFVL_D-bdQ
 url: https://www.youtube.com/watch?v=igFVL_D-bdQ
 youtube_url: https://www.youtube.com/watch?v=igFVL_D-bdQ
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

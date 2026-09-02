@@ -15,6 +15,7 @@ video_id: prVc7FamKsU
 url: https://www.youtube.com/watch?v=prVc7FamKsU
 youtube_url: https://www.youtube.com/watch?v=prVc7FamKsU
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "Google Pay", "Google Wallet"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

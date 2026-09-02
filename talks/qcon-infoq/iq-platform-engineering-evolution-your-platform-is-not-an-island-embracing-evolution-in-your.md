@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-evolution
 url: https://www.infoq.com/presentations/platform-engineering-evolution/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

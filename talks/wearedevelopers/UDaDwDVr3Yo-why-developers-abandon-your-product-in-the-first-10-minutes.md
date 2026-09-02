@@ -15,6 +15,7 @@ video_id: UDaDwDVr3Yo
 url: https://www.youtube.com/watch?v=UDaDwDVr3Yo
 youtube_url: https://www.youtube.com/watch?v=UDaDwDVr3Yo
 tags: ["Strategy & Innovation", "Advocacy", "Marketing", "Product Strategy"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

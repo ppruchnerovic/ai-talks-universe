@@ -15,6 +15,7 @@ video_id: RXEqB0v6ufk
 url: https://www.youtube.com/watch?v=RXEqB0v6ufk
 youtube_url: https://www.youtube.com/watch?v=RXEqB0v6ufk
 tags: ["0767c065-6751-41ba-93da-363aa6a00199_Segment", "Accelerate revenue and seller productivity with agentic CRM | BRK350", "Agentic business applications", "BRK350", "English (US)", "Julie Strauss", "Karan Nigam", "Pia Cedendahl", "Sherry Martin", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

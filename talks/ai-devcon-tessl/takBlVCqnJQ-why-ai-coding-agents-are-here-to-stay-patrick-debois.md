@@ -15,6 +15,7 @@ video_id: takBlVCqnJQ
 url: https://www.youtube.com/watch?v=takBlVCqnJQ
 youtube_url: https://www.youtube.com/watch?v=takBlVCqnJQ
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

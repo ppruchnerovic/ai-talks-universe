@@ -15,6 +15,7 @@ video_id: spvXj9tnWAQ
 url: https://www.youtube.com/watch?v=spvXj9tnWAQ
 youtube_url: https://www.youtube.com/watch?v=spvXj9tnWAQ
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

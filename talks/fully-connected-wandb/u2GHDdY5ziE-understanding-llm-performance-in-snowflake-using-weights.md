@@ -15,6 +15,7 @@ video_id: u2GHDdY5ziE
 url: https://www.youtube.com/watch?v=u2GHDdY5ziE
 youtube_url: https://www.youtube.com/watch?v=u2GHDdY5ziE
 tags: []
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

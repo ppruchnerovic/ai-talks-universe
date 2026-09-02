@@ -15,6 +15,7 @@ video_id: jryZvCuA0Uc
 url: https://www.youtube.com/watch?v=jryZvCuA0Uc
 youtube_url: https://www.youtube.com/watch?v=jryZvCuA0Uc
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

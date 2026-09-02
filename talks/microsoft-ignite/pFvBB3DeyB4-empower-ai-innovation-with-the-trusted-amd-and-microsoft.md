@@ -15,6 +15,7 @@ video_id: pFvBB3DeyB4
 url: https://www.youtube.com/watch?v=pFvBB3DeyB4
 youtube_url: https://www.youtube.com/watch?v=pFvBB3DeyB4
 tags: ["Empower AI innovation with the trusted AMD and Microsoft partnership | STUDIOSP68", "English (US)", "STUDIOSP68", "STUDIOSP68_v3", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

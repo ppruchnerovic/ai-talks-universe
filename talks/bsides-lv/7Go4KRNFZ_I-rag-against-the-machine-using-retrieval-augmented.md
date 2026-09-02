@@ -15,6 +15,7 @@ video_id: 7Go4KRNFZ_I
 url: https://www.youtube.com/watch?v=7Go4KRNFZ_I
 youtube_url: https://www.youtube.com/watch?v=7Go4KRNFZ_I
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "RAG, retrieval & knowledge", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: q26-3exWpso
 url: https://www.youtube.com/watch?v=q26-3exWpso
 youtube_url: https://www.youtube.com/watch?v=q26-3exWpso
 tags: ["AI", "Machine Learning", "Tools", "API", "Whatsapp", "Twilio", "OpenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Australia", "Norway", "Michelle “MishManners” Duke"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Lxn-5-FD2P8
 url: https://www.youtube.com/watch?v=Lxn-5-FD2P8
 youtube_url: https://www.youtube.com/watch?v=Lxn-5-FD2P8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: VyKWfAuAEbY
 url: https://www.youtube.com/watch?v=VyKWfAuAEbY
 youtube_url: https://www.youtube.com/watch?v=VyKWfAuAEbY
 tags: ["App Mod", "BRK220", "BRK220_v1", "CP&D", "Hazem El-Hammamy", "Jeff Fritz", "Nish Anil", "Reserve", "Using AI tools to teach old apps new tricks | BRK220", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

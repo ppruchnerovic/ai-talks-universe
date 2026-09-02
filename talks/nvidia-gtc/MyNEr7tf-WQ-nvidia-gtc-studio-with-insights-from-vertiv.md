@@ -15,6 +15,7 @@ video_id: MyNEr7tf-WQ
 url: https://www.youtube.com/watch?v=MyNEr7tf-WQ
 youtube_url: https://www.youtube.com/watch?v=MyNEr7tf-WQ
 tags: ["NVIDIA", "Energy", "Energy Efficiency", "AI Infrastructure", "GTC"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

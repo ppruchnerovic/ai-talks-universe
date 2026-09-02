@@ -15,6 +15,7 @@ video_id: 911PLmbofyw
 url: https://www.youtube.com/watch?v=911PLmbofyw
 youtube_url: https://www.youtube.com/watch?v=911PLmbofyw
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

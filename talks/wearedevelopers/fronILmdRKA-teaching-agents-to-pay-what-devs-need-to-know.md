@@ -15,6 +15,7 @@ video_id: fronILmdRKA
 url: https://www.youtube.com/watch?v=fronILmdRKA
 youtube_url: https://www.youtube.com/watch?v=fronILmdRKA
 tags: ["AI Agents", "AI Standards", "eCommerce", "Open Source"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

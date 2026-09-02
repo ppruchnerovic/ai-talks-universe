@@ -15,6 +15,7 @@ video_id: ji_KwSrvWpI
 url: https://www.youtube.com/watch?v=ji_KwSrvWpI
 youtube_url: https://www.youtube.com/watch?v=ji_KwSrvWpI
 tags: []
+topics: []
 transcript: false
 ---
 

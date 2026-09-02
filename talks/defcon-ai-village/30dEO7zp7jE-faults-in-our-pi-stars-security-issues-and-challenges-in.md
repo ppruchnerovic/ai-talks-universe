@@ -15,6 +15,7 @@ video_id: 30dEO7zp7jE
 url: https://www.youtube.com/watch?v=30dEO7zp7jE
 youtube_url: https://www.youtube.com/watch?v=30dEO7zp7jE
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

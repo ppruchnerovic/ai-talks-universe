@@ -15,6 +15,7 @@ video_id: LIQBs8R3-JU
 url: https://www.youtube.com/watch?v=LIQBs8R3-JU
 youtube_url: https://www.youtube.com/watch?v=LIQBs8R3-JU
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

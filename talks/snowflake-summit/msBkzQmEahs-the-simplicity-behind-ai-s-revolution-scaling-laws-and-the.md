@@ -15,6 +15,7 @@ video_id: msBkzQmEahs
 url: https://www.youtube.com/watch?v=msBkzQmEahs
 youtube_url: https://www.youtube.com/watch?v=msBkzQmEahs
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

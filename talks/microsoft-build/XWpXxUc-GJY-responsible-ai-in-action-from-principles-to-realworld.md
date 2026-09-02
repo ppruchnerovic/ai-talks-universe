@@ -15,6 +15,7 @@ video_id: XWpXxUc-GJY
 url: https://www.youtube.com/watch?v=XWpXxUc-GJY
 youtube_url: https://www.youtube.com/watch?v=XWpXxUc-GJY
 tags: ["Alexander Wachtel", "Community", "DEM369", "MVP", "Responsible AI in Action: From Principles to Real‑World Engineering | DEM369", "build", "build 2026", "dc67473a-038c-4b54-a2b6-2219cc574980_M9Z7-DEM369-1", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

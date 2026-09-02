@@ -15,6 +15,7 @@ video_id: eSP7PLTXNy8
 url: https://www.youtube.com/watch?v=eSP7PLTXNy8
 youtube_url: https://www.youtube.com/watch?v=eSP7PLTXNy8
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

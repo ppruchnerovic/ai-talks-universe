@@ -15,6 +15,7 @@ video_id: 418t26CVz-w
 url: https://www.youtube.com/watch?v=418t26CVz-w
 youtube_url: https://www.youtube.com/watch?v=418t26CVz-w
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: pPvoLjYj_mY
 url: https://www.youtube.com/watch?v=pPvoLjYj_mY
 youtube_url: https://www.youtube.com/watch?v=pPvoLjYj_mY
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

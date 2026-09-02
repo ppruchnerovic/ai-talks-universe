@@ -15,6 +15,7 @@ video_id: Etfqrd35OVI
 url: https://www.youtube.com/watch?v=Etfqrd35OVI
 youtube_url: https://www.youtube.com/watch?v=Etfqrd35OVI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

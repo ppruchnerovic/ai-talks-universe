@@ -15,6 +15,7 @@ video_id: NLWIzjMruYo
 url: https://www.youtube.com/watch?v=NLWIzjMruYo
 youtube_url: https://www.youtube.com/watch?v=NLWIzjMruYo
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: NTBX-wxUhHs
 url: https://www.youtube.com/watch?v=NTBX-wxUhHs
 youtube_url: https://www.youtube.com/watch?v=NTBX-wxUhHs
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

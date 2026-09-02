@@ -15,6 +15,7 @@ video_id: _hP_nzLyxIE
 url: https://www.youtube.com/watch?v=_hP_nzLyxIE
 youtube_url: https://www.youtube.com/watch?v=_hP_nzLyxIE
 tags: ["BRK238", "Breakout", "Dan Cuomo", "English (US)", "Ian LeGrow", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Jeff Woolsey", "Technical", "Version v0", "Windows Server 2025: New ways to gain cloud agility and security | BRK238", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

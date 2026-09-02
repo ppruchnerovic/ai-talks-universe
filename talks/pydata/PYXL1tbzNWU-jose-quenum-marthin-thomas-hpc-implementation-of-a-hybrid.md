@@ -15,6 +15,7 @@ video_id: PYXL1tbzNWU
 url: https://www.youtube.com/watch?v=PYXL1tbzNWU
 youtube_url: https://www.youtube.com/watch?v=PYXL1tbzNWU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: true
 ---
 

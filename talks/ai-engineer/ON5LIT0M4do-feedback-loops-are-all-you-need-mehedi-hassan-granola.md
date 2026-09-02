@@ -15,6 +15,7 @@ video_id: ON5LIT0M4do
 url: https://www.youtube.com/watch?v=ON5LIT0M4do
 youtube_url: https://www.youtube.com/watch?v=ON5LIT0M4do
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

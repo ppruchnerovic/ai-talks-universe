@@ -15,6 +15,7 @@ video_id: ob-TOPfQmbk
 url: https://www.youtube.com/watch?v=ob-TOPfQmbk
 youtube_url: https://www.youtube.com/watch?v=ob-TOPfQmbk
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

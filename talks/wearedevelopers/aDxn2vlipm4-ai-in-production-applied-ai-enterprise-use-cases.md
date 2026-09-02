@@ -15,6 +15,7 @@ video_id: aDxn2vlipm4
 url: https://www.youtube.com/watch?v=aDxn2vlipm4
 youtube_url: https://www.youtube.com/watch?v=aDxn2vlipm4
 tags: ["AI Engineering", "AI Models", "Agents", "LLMOps", "Multi-Agent Systems"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

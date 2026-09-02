@@ -15,6 +15,7 @@ video_id: tnSIPC2hERU
 url: https://www.youtube.com/watch?v=tnSIPC2hERU
 youtube_url: https://www.youtube.com/watch?v=tnSIPC2hERU
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

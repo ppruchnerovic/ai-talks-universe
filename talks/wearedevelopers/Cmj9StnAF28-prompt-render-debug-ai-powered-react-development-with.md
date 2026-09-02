@@ -15,6 +15,7 @@ video_id: Cmj9StnAF28
 url: https://www.youtube.com/watch?v=Cmj9StnAF28
 youtube_url: https://www.youtube.com/watch?v=Cmj9StnAF28
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Standards", "Edge AI", "React"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

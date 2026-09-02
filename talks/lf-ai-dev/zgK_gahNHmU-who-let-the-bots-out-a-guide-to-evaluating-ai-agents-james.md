@@ -15,6 +15,7 @@ video_id: zgK_gahNHmU
 url: https://www.youtube.com/watch?v=zgK_gahNHmU
 youtube_url: https://www.youtube.com/watch?v=zgK_gahNHmU
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

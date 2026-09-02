@@ -15,6 +15,7 @@ video_id: zTrcNghe4dQ
 url: https://www.youtube.com/watch?v=zTrcNghe4dQ
 youtube_url: https://www.youtube.com/watch?v=zTrcNghe4dQ
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

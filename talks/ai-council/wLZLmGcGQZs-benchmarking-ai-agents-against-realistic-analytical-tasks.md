@@ -15,6 +15,7 @@ video_id: wLZLmGcGQZs
 url: https://www.youtube.com/watch?v=wLZLmGcGQZs
 youtube_url: https://www.youtube.com/watch?v=wLZLmGcGQZs
 tags: ["AI"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

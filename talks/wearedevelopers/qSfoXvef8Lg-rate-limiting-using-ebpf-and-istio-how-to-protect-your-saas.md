@@ -15,6 +15,7 @@ video_id: qSfoXvef8Lg
 url: https://www.youtube.com/watch?v=qSfoXvef8Lg
 youtube_url: https://www.youtube.com/watch?v=qSfoXvef8Lg
 tags: ["Security & Privacy", "Infrastructure", "Networking", "Observability"]
+topics: []
 transcript: true
 ---
 

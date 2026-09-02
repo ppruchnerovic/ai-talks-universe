@@ -15,6 +15,7 @@ video_id: Mm9Z7qOxEGM
 url: https://www.youtube.com/watch?v=Mm9Z7qOxEGM
 youtube_url: https://www.youtube.com/watch?v=Mm9Z7qOxEGM
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

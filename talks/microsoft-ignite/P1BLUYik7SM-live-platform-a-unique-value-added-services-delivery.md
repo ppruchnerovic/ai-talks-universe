@@ -15,6 +15,7 @@ video_id: P1BLUYik7SM
 url: https://www.youtube.com/watch?v=P1BLUYik7SM
 youtube_url: https://www.youtube.com/watch?v=P1BLUYik7SM
 tags: ["Benny Matityahu", "English (US)", "Innovate with Azure AI apps and agents", "Live Platform: A unique value-added services delivery platform | ODSP1470", "ODSP1470", "ODSP1470_v1", "Technical", "Telecommunications", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

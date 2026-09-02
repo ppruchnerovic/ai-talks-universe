@@ -15,6 +15,7 @@ video_id: cJ0EOzey--o
 url: https://www.youtube.com/watch?v=cJ0EOzey--o
 youtube_url: https://www.youtube.com/watch?v=cJ0EOzey--o
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 1ftvfdspQNU
 url: https://www.youtube.com/watch?v=1ftvfdspQNU
 youtube_url: https://www.youtube.com/watch?v=1ftvfdspQNU
 tags: ["Talent Strategy", "Agentic AI", "Talent & Recruiting"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

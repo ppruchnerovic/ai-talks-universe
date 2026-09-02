@@ -15,6 +15,7 @@ video_id: gcTRXZeKbNg
 url: https://www.youtube.com/watch?v=gcTRXZeKbNg
 youtube_url: https://www.youtube.com/watch?v=gcTRXZeKbNg
 tags: ["embedded database", "key value store", "ChatGPT", "artificial intelligence", "machine learning", "object storage", "Rust programming tutorial", "S3", "database internals", "conditional writes", "writeable clones", "Python tutorial", "distributed systems", "consensus algorithms", "replication", "partitioning", "consistency models", "transaction processing", "storage engines", "indexing", "query processing", "performance optimization", "memory management"]
+topics: []
 transcript: false
 ---
 

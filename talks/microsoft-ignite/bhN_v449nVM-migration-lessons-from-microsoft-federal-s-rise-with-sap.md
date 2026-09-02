@@ -15,6 +15,7 @@ video_id: bhN_v449nVM
 url: https://www.youtube.com/watch?v=bhN_v449nVM
 youtube_url: https://www.youtube.com/watch?v=bhN_v449nVM
 tags: ["86dfa3eb-d638-4ae6-8e7f-fcf0174fd85e_Segment", "BRK165", "Barbara McElnea", "English (US)", "Greg Simons", "Migrate and modernize your estate", "Migrate and modernize your estate:RISE with SAP", "Migration lessons from Microsoft Federal's RISE with SAP deployment | BRK165", "Technical", "Veronika Reger", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

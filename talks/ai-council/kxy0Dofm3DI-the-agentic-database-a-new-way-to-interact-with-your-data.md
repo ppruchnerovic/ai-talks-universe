@@ -15,6 +15,7 @@ video_id: kxy0Dofm3DI
 url: https://www.youtube.com/watch?v=kxy0Dofm3DI
 youtube_url: https://www.youtube.com/watch?v=kxy0Dofm3DI
 tags: ["agentic database", "AI database", "natural language database", "ChatGPT", "artificial intelligence", "machine learning", "AI agents", "vector database", "conversational AI", "database interaction", "CRUD operations", "Spanish translation", "Python tutorial", "future of databases", "intelligent databases", "natural language queries", "SQL generation", "database automation", "self managing databases", "adaptive systems", "context aware databases", "semantic databases"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

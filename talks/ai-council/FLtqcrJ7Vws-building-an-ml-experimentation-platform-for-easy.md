@@ -15,6 +15,7 @@ video_id: FLtqcrJ7Vws
 url: https://www.youtube.com/watch?v=FLtqcrJ7Vws
 youtube_url: https://www.youtube.com/watch?v=FLtqcrJ7Vws
 tags: ["data cleaning", "open source", "lakefs", "machine learning"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

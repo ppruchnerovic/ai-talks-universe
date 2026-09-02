@@ -15,6 +15,7 @@ video_id: nSfdsue3Wps
 url: https://www.youtube.com/watch?v=nSfdsue3Wps
 youtube_url: https://www.youtube.com/watch?v=nSfdsue3Wps
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Platform Engineering", "eBay", "Velocity Initiative", "DORA metrics", "Case Study", "Agile", "Best Practices", "DevOps", "Engineering Leadership", "Engineering Productivity", "Strategy", "Planning", "Velocity", "SDLC", "Scaling", "Culture"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

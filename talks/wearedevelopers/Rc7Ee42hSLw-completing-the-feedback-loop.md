@@ -15,6 +15,7 @@ video_id: Rc7Ee42hSLw
 url: https://www.youtube.com/watch?v=Rc7Ee42hSLw
 youtube_url: https://www.youtube.com/watch?v=Rc7Ee42hSLw
 tags: ["AI Engineering", "AI Coding Assistants", "Agents", "Agentic AI", "Code Reviews", "Playwright", "Python"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

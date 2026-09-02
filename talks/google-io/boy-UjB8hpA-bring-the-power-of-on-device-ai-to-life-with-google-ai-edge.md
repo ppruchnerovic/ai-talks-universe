@@ -15,6 +15,7 @@ video_id: boy-UjB8hpA
 url: https://www.youtube.com/watch?v=boy-UjB8hpA
 youtube_url: https://www.youtube.com/watch?v=boy-UjB8hpA
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Stack - AI;", "ct:Event - Technical Session;"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 93cKg-YyBDk
 url: https://www.youtube.com/watch?v=93cKg-YyBDk
 youtube_url: https://www.youtube.com/watch?v=93cKg-YyBDk
 tags: ["smart cities", "data science", "ChatGPT", "artificial intelligence", "machine learning", "policy", "social impact", "urban data", "urban analytics", "satellite imagery", "LLM datasets", "Python tutorial", "urban planning", "transportation analytics", "traffic optimization", "energy management", "environmental monitoring", "air quality", "waste management", "water management", "public safety", "emergency response", "citizen services", "digital governance"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

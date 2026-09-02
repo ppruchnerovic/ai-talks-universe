@@ -15,6 +15,7 @@ video_id: e7gFaim6vLs
 url: https://www.youtube.com/watch?v=e7gFaim6vLs
 youtube_url: https://www.youtube.com/watch?v=e7gFaim6vLs
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - AI;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

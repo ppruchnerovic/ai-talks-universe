@@ -15,6 +15,7 @@ video_id: VaRo-SebUfQ
 url: https://www.youtube.com/watch?v=VaRo-SebUfQ
 youtube_url: https://www.youtube.com/watch?v=VaRo-SebUfQ
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

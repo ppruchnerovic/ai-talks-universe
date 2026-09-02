@@ -15,6 +15,7 @@ video_id: NwtE82Wzs_U
 url: https://www.youtube.com/watch?v=NwtE82Wzs_U
 youtube_url: https://www.youtube.com/watch?v=NwtE82Wzs_U
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTO Book Club", "Susanne Kaiser", "James Lewis", "Architecture for Flow", "Team Topologies", "Wardley Mapping", "DDD", "Domain-Driven Design", "Context Mapping", "Event Storming", "Flow Engineering", "Conway's Law"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

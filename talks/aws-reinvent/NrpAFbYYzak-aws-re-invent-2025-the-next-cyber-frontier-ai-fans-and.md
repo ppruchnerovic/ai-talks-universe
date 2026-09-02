@@ -15,6 +15,7 @@ video_id: NrpAFbYYzak
 url: https://www.youtube.com/watch?v=NrpAFbYYzak
 youtube_url: https://www.youtube.com/watch?v=NrpAFbYYzak
 tags: []
+topics: []
 transcript: false
 ---
 

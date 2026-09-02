@@ -15,6 +15,7 @@ video_id: HdCc-KezQPk
 url: https://www.youtube.com/watch?v=HdCc-KezQPk
 youtube_url: https://www.youtube.com/watch?v=HdCc-KezQPk
 tags: ["Chrome", "Developers", "Google", "Web", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Chrome;"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

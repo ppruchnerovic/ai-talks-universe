@@ -15,6 +15,7 @@ video_id: jPee-GE5oLM
 url: https://www.youtube.com/watch?v=jPee-GE5oLM
 youtube_url: https://www.youtube.com/watch?v=jPee-GE5oLM
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

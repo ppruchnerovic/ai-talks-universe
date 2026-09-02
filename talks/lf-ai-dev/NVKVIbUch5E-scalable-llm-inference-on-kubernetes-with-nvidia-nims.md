@@ -15,6 +15,7 @@ video_id: NVKVIbUch5E
 url: https://www.youtube.com/watch?v=NVKVIbUch5E
 youtube_url: https://www.youtube.com/watch?v=NVKVIbUch5E
 tags: []
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

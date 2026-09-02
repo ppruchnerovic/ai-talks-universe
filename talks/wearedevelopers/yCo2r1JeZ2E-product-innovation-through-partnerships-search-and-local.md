@@ -15,6 +15,7 @@ video_id: yCo2r1JeZ2E
 url: https://www.youtube.com/watch?v=yCo2r1JeZ2E
 youtube_url: https://www.youtube.com/watch?v=yCo2r1JeZ2E
 tags: ["Strategy & Innovation", "AI Models", "Business Models", "Product Strategy", "Product Management"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

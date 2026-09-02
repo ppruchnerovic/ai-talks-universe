@@ -15,6 +15,7 @@ video_id: 1J_djKerA38
 url: https://www.youtube.com/watch?v=1J_djKerA38
 youtube_url: https://www.youtube.com/watch?v=1J_djKerA38
 tags: []
+topics: []
 transcript: false
 ---
 

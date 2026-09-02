@@ -15,6 +15,7 @@ video_id: zZsTVBXcbow
 url: https://www.youtube.com/watch?v=zZsTVBXcbow
 youtube_url: https://www.youtube.com/watch?v=zZsTVBXcbow
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-local-first-build-software
 url: https://www.infoq.com/presentations/local-first-build-software/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

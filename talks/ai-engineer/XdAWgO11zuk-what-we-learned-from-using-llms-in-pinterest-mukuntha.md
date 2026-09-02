@@ -15,6 +15,7 @@ video_id: XdAWgO11zuk
 url: https://www.youtube.com/watch?v=XdAWgO11zuk
 youtube_url: https://www.youtube.com/watch?v=XdAWgO11zuk
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

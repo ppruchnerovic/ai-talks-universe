@@ -15,6 +15,7 @@ video_id: caJusFmHqAM
 url: https://www.youtube.com/watch?v=caJusFmHqAM
 youtube_url: https://www.youtube.com/watch?v=caJusFmHqAM
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

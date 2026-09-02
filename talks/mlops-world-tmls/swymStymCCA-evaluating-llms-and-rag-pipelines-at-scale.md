@@ -15,6 +15,7 @@ video_id: swymStymCCA
 url: https://www.youtube.com/watch?v=swymStymCCA
 youtube_url: https://www.youtube.com/watch?v=swymStymCCA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

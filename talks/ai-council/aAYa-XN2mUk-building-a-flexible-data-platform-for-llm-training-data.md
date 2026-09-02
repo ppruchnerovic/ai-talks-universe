@@ -15,6 +15,7 @@ video_id: aAYa-XN2mUk
 url: https://www.youtube.com/watch?v=aAYa-XN2mUk
 youtube_url: https://www.youtube.com/watch?v=aAYa-XN2mUk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Z3WQodl1DrA
 url: https://www.youtube.com/watch?v=Z3WQodl1DrA
 youtube_url: https://www.youtube.com/watch?v=Z3WQodl1DrA
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 0PpGZt_eEz4
 url: https://www.youtube.com/watch?v=0PpGZt_eEz4
 youtube_url: https://www.youtube.com/watch?v=0PpGZt_eEz4
 tags: ["Conversational AI", "Conversational Commerce", "RAG", "Generative AI", "Ecommerce", "AI Engineering", "LLM", "Klaviyo"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

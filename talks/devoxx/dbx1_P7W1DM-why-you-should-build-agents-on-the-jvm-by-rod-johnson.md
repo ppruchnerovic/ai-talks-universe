@@ -15,6 +15,7 @@ video_id: dbx1_P7W1DM
 url: https://www.youtube.com/watch?v=dbx1_P7W1DM
 youtube_url: https://www.youtube.com/watch?v=dbx1_P7W1DM
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

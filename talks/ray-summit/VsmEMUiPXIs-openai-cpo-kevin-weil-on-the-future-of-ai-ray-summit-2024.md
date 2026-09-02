@@ -15,6 +15,7 @@ video_id: VsmEMUiPXIs
 url: https://www.youtube.com/watch?v=VsmEMUiPXIs
 youtube_url: https://www.youtube.com/watch?v=VsmEMUiPXIs
 tags: []
+topics: []
 transcript: false
 ---
 

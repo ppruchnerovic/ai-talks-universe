@@ -15,6 +15,7 @@ video_id: Gs2gDaNtH9I
 url: https://www.youtube.com/watch?v=Gs2gDaNtH9I
 youtube_url: https://www.youtube.com/watch?v=Gs2gDaNtH9I
 tags: []
+topics: []
 transcript: false
 ---
 

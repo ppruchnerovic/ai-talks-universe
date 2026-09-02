@@ -15,6 +15,7 @@ video_id: XiUEXVkTMsc
 url: https://www.youtube.com/watch?v=XiUEXVkTMsc
 youtube_url: https://www.youtube.com/watch?v=XiUEXVkTMsc
 tags: []
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

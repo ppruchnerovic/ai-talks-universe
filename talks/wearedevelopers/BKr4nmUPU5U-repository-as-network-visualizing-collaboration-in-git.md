@@ -15,6 +15,7 @@ video_id: BKr4nmUPU5U
 url: https://www.youtube.com/watch?v=BKr4nmUPU5U
 youtube_url: https://www.youtube.com/watch?v=BKr4nmUPU5U
 tags: ["Developer Experience", "Best Practices", "Collaboration"]
+topics: []
 transcript: true
 ---
 

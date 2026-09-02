@@ -15,6 +15,7 @@ video_id: r-NYSeAXCko
 url: https://www.youtube.com/watch?v=r-NYSeAXCko
 youtube_url: https://www.youtube.com/watch?v=r-NYSeAXCko
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: VAM-FSz0oPg
 url: https://www.youtube.com/watch?v=VAM-FSz0oPg
 youtube_url: https://www.youtube.com/watch?v=VAM-FSz0oPg
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

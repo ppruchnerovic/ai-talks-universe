@@ -15,6 +15,7 @@ video_id: 4s1XmyXs3j0
 url: https://www.youtube.com/watch?v=4s1XmyXs3j0
 youtube_url: https://www.youtube.com/watch?v=4s1XmyXs3j0
 tags: ["AI", "Adoption", "Avani Reddy", "BRK282", "Breakout", "Carlos Otero", "Copilot for M365", "Copilot in Excel: transforming data analysis | BRK282", "English (US)", "Intermediate (200)", "Microsoft 365 Apps", "Modern Work", "Technical", "Tejas Varia", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

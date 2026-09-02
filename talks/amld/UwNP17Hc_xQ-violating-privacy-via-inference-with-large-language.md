@@ -15,6 +15,7 @@ video_id: UwNP17Hc_xQ
 url: https://www.youtube.com/watch?v=UwNP17Hc_xQ
 youtube_url: https://www.youtube.com/watch?v=UwNP17Hc_xQ
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: d9rsC6_VLoA
 url: https://www.youtube.com/watch?v=d9rsC6_VLoA
 youtube_url: https://www.youtube.com/watch?v=d9rsC6_VLoA
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

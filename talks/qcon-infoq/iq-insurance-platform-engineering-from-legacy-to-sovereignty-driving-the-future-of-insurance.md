@@ -15,6 +15,7 @@ video_id: iq-insurance-platform-engineering
 url: https://www.infoq.com/presentations/insurance-platform-engineering/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

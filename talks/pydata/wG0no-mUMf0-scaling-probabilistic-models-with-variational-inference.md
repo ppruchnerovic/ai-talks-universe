@@ -15,6 +15,7 @@ video_id: wG0no-mUMf0
 url: https://www.youtube.com/watch?v=wG0no-mUMf0
 youtube_url: https://www.youtube.com/watch?v=wG0no-mUMf0
 tags: ["Bayesian statistics", "Conference", "GPU computing", "JAX", "MCMC", "NumPyro", "PyConDE", "PyData", "PyMC", "Python", "Tech Talk", "demand forecasting", "machine learning", "neural networks", "probabilistic programming", "production ML", "scalable inference", "variational inference"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

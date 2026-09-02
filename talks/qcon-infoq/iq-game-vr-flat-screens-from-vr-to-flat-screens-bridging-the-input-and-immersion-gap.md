@@ -15,6 +15,7 @@ video_id: iq-game-vr-flat-screens
 url: https://www.infoq.com/presentations/game-vr-flat-screens/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

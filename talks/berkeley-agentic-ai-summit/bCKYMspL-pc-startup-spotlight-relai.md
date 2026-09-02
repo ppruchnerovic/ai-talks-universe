@@ -15,6 +15,7 @@ video_id: bCKYMspL-pc
 url: https://www.youtube.com/watch?v=bCKYMspL-pc
 youtube_url: https://www.youtube.com/watch?v=bCKYMspL-pc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

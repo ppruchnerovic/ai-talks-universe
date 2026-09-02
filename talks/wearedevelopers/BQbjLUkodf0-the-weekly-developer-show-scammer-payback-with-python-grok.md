@@ -15,6 +15,7 @@ video_id: BQbjLUkodf0
 url: https://www.youtube.com/watch?v=BQbjLUkodf0
 youtube_url: https://www.youtube.com/watch?v=BQbjLUkodf0
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "CareerInTech", "Tech", "ProgrammingTutorials", "DevRel", "CodingTools", "TechJobs", "TechTalks", "DeveloperSkills", "TechPodcast", "Python", "ScammerRevenge", "AI", "GrokAI", "WebDevelopment", "Chromium", "CyberSecurity", "EngineeringLeadership"]
+topics: []
 transcript: false
 ---
 

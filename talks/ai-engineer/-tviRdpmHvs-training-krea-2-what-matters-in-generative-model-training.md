@@ -15,6 +15,7 @@ video_id: -tviRdpmHvs
 url: https://www.youtube.com/watch?v=-tviRdpmHvs
 youtube_url: https://www.youtube.com/watch?v=-tviRdpmHvs
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

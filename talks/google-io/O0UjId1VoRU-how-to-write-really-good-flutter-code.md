@@ -15,6 +15,7 @@ video_id: O0UjId1VoRU
 url: https://www.youtube.com/watch?v=O0UjId1VoRU
 youtube_url: https://www.youtube.com/watch?v=O0UjId1VoRU
 tags: ["pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Cloud;", "Flutter best practices 2026", "Flutter clean architecture", "maintainable flutter code", "Flutter widget previews", "Flutter devtools tutorial", "Flutter Model Context Protocol (MCP) server", "AI Agent Skills for Flutter", "Flutter debugging tools", "Flutter agentic workflow"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

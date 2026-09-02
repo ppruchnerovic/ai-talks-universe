@@ -15,6 +15,7 @@ video_id: 11_61R7IJUQ
 url: https://www.youtube.com/watch?v=11_61R7IJUQ
 youtube_url: https://www.youtube.com/watch?v=11_61R7IJUQ
 tags: ["Security & Privacy", "AppSec", "DevSecOps", "GitHub", "Security"]
+topics: ["Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

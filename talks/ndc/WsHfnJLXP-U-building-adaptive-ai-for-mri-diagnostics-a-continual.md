@@ -15,6 +15,7 @@ video_id: WsHfnJLXP-U
 url: https://www.youtube.com/watch?v=WsHfnJLXP-U
 youtube_url: https://www.youtube.com/watch?v=WsHfnJLXP-U
 tags: ["AI", "Architecture", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "Melbouren", "Australia", "Agata Chudzińska", "Agata Chudzinska"]
+topics: []
 transcript: false
 ---
 

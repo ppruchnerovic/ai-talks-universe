@@ -15,6 +15,7 @@ video_id: fLK7-SUVVak
 url: https://www.youtube.com/watch?v=fLK7-SUVVak
 youtube_url: https://www.youtube.com/watch?v=fLK7-SUVVak
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

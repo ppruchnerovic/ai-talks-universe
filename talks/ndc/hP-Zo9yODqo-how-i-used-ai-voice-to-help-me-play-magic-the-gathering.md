@@ -15,6 +15,7 @@ video_id: hP-Zo9yODqo
 url: https://www.youtube.com/watch?v=hP-Zo9yODqo
 youtube_url: https://www.youtube.com/watch?v=hP-Zo9yODqo
 tags: ["AI", "Machine Learning", "ML", "NDC", "Conferences", "2025", "Live", "Fun", "London", "England", "UK", "United Kingdom", "Michelle “MishManners” Duke", "Mish Manners", "Michelle Duke", "Michelle Manners"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

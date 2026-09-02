@@ -15,6 +15,7 @@ video_id: 1tB7lALJ3ew
 url: https://www.youtube.com/watch?v=1tB7lALJ3ew
 youtube_url: https://www.youtube.com/watch?v=1tB7lALJ3ew
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

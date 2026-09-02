@@ -15,6 +15,7 @@ video_id: v2F93HMvC8I
 url: https://www.youtube.com/watch?v=v2F93HMvC8I
 youtube_url: https://www.youtube.com/watch?v=v2F93HMvC8I
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

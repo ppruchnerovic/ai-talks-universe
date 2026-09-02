@@ -15,6 +15,7 @@ video_id: Y0StDD1kC7I
 url: https://www.youtube.com/watch?v=Y0StDD1kC7I
 youtube_url: https://www.youtube.com/watch?v=Y0StDD1kC7I
 tags: ["AI", "Fun", "Machine Learning", "NDC", "Conferences", "ML", "Live", "England", "London", "UK", "Great Britain", "United Kingdom", "Omphile Matheolane"]
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability"]
 transcript: true
 ---
 

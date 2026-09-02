@@ -15,6 +15,7 @@ video_id: 6YTY3Memhgc
 url: https://www.youtube.com/watch?v=6YTY3Memhgc
 youtube_url: https://www.youtube.com/watch?v=6YTY3Memhgc
 tags: []
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

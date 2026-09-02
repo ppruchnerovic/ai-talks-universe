@@ -15,6 +15,7 @@ video_id: h1IU8Q6KD2g
 url: https://www.youtube.com/watch?v=h1IU8Q6KD2g
 youtube_url: https://www.youtube.com/watch?v=h1IU8Q6KD2g
 tags: ["data stack", "data contracts", "Interface Definition Language", "DBL"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

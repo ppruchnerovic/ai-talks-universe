@@ -15,6 +15,7 @@ video_id: CXsbjcrf_5g
 url: https://www.youtube.com/watch?v=CXsbjcrf_5g
 youtube_url: https://www.youtube.com/watch?v=CXsbjcrf_5g
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

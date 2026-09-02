@@ -15,6 +15,7 @@ video_id: W-SX_srBa3Y
 url: https://www.youtube.com/watch?v=W-SX_srBa3Y
 youtube_url: https://www.youtube.com/watch?v=W-SX_srBa3Y
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

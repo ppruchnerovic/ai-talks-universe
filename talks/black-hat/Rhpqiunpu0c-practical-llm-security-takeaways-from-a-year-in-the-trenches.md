@@ -15,6 +15,7 @@ video_id: Rhpqiunpu0c
 url: https://www.youtube.com/watch?v=Rhpqiunpu0c
 youtube_url: https://www.youtube.com/watch?v=Rhpqiunpu0c
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

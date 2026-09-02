@@ -15,6 +15,7 @@ video_id: iq-llm-compound-ai-systems
 url: https://www.infoq.com/presentations/llm-compound-ai-systems/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

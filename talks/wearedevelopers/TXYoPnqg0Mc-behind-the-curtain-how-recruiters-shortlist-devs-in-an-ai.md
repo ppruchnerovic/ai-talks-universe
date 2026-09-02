@@ -15,6 +15,7 @@ video_id: TXYoPnqg0Mc
 url: https://www.youtube.com/watch?v=TXYoPnqg0Mc
 youtube_url: https://www.youtube.com/watch?v=TXYoPnqg0Mc
 tags: ["Career & Growth", "Talent & Recruiting"]
+topics: []
 transcript: true
 ---
 

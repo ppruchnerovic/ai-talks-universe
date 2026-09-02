@@ -15,6 +15,7 @@ video_id: jm4pfAP_hPs
 url: https://www.youtube.com/watch?v=jm4pfAP_hPs
 youtube_url: https://www.youtube.com/watch?v=jm4pfAP_hPs
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

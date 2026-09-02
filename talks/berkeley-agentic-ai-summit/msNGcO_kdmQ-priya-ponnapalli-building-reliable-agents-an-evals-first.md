@@ -15,6 +15,7 @@ video_id: msNGcO_kdmQ
 url: https://www.youtube.com/watch?v=msNGcO_kdmQ
 youtube_url: https://www.youtube.com/watch?v=msNGcO_kdmQ
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

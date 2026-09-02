@@ -15,6 +15,7 @@ video_id: WjMy0JFTQZ0
 url: https://www.youtube.com/watch?v=WjMy0JFTQZ0
 youtube_url: https://www.youtube.com/watch?v=WjMy0JFTQZ0
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-token-price
 url: https://www.infoq.com/presentations/ai-token-price/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

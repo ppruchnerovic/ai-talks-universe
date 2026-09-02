@@ -15,6 +15,7 @@ video_id: I69W6cuBKzM
 url: https://www.youtube.com/watch?v=I69W6cuBKzM
 youtube_url: https://www.youtube.com/watch?v=I69W6cuBKzM
 tags: ["AI"]
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

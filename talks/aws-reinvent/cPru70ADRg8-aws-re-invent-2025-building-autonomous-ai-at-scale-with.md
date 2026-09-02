@@ -15,6 +15,7 @@ video_id: cPru70ADRg8
 url: https://www.youtube.com/watch?v=cPru70ADRg8
 youtube_url: https://www.youtube.com/watch?v=cPru70ADRg8
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: jNIareeaVTI
 url: https://www.youtube.com/watch?v=jNIareeaVTI
 youtube_url: https://www.youtube.com/watch?v=jNIareeaVTI
 tags: []
+topics: []
 transcript: false
 ---
 

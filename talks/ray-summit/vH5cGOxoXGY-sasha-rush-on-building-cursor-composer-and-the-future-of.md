@@ -15,6 +15,7 @@ video_id: vH5cGOxoXGY
 url: https://www.youtube.com/watch?v=vH5cGOxoXGY
 youtube_url: https://www.youtube.com/watch?v=vH5cGOxoXGY
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

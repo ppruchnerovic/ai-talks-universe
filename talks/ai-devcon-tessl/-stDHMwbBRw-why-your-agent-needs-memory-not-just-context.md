@@ -15,6 +15,7 @@ video_id: -stDHMwbBRw
 url: https://www.youtube.com/watch?v=-stDHMwbBRw
 youtube_url: https://www.youtube.com/watch?v=-stDHMwbBRw
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: true
 ---
 

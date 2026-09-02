@@ -15,6 +15,7 @@ video_id: EurzQ4PhVSo
 url: https://www.youtube.com/watch?v=EurzQ4PhVSo
 youtube_url: https://www.youtube.com/watch?v=EurzQ4PhVSo
 tags: ["5b849b98-f108-4fb8-ad4e-d617c0b48f60_Segment", "BRK283", "Bill Baer", "Copilot and agents at work", "English (US)", "Jyoti Pal", "Rishabh Agrawal", "Soujanya Srivalli", "Technical", "Your organizing layer for AI: Copilot Search and connectors ​ | BRK283", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

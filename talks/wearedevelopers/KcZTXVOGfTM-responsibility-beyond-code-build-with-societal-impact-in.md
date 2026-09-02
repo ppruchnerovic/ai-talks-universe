@@ -15,6 +15,7 @@ video_id: KcZTXVOGfTM
 url: https://www.youtube.com/watch?v=KcZTXVOGfTM
 youtube_url: https://www.youtube.com/watch?v=KcZTXVOGfTM
 tags: ["Strategy & Innovation", "Agentic AI", "Digital Transformation", "Employer Branding", "Future of Work", "Generative AI (GenAI)", "Innovation", "People & Culture", "Product Strategy", "Robotics", "Startups", "UI/UX"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

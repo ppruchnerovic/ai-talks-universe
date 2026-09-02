@@ -15,6 +15,7 @@ video_id: _Auo7d8SZZ4
 url: https://www.youtube.com/watch?v=_Auo7d8SZZ4
 youtube_url: https://www.youtube.com/watch?v=_Auo7d8SZZ4
 tags: ["Engineering Leadership", "Agents", "Agentic AI", "Automation", "Code Reviews", "DevOps", "Future of Work", "Large Language Models (LLMs)", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

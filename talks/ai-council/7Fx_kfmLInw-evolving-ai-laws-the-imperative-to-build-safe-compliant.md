@@ -15,6 +15,7 @@ video_id: 7Fx_kfmLInw
 url: https://www.youtube.com/watch?v=7Fx_kfmLInw
 youtube_url: https://www.youtube.com/watch?v=7Fx_kfmLInw
 tags: ["AI Observability", "compliance tools", "AI monitoring", "resonsible AI"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

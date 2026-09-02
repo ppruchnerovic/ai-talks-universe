@@ -15,6 +15,7 @@ video_id: 0OenUsbdCD8
 url: https://www.youtube.com/watch?v=0OenUsbdCD8
 youtube_url: https://www.youtube.com/watch?v=0OenUsbdCD8
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

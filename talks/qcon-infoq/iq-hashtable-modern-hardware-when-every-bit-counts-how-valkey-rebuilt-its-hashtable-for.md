@@ -15,6 +15,7 @@ video_id: iq-hashtable-modern-hardware
 url: https://www.infoq.com/presentations/hashtable-modern-hardware/
 youtube_url: null
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

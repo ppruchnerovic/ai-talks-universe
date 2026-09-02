@@ -15,6 +15,7 @@ video_id: cmQrHVcCXbw
 url: https://www.youtube.com/watch?v=cmQrHVcCXbw
 youtube_url: https://www.youtube.com/watch?v=cmQrHVcCXbw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: thdmh_vwbsc
 url: https://www.youtube.com/watch?v=thdmh_vwbsc
 youtube_url: https://www.youtube.com/watch?v=thdmh_vwbsc
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

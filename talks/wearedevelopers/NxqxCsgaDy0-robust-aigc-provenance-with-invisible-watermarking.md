@@ -15,6 +15,7 @@ video_id: NxqxCsgaDy0
 url: https://www.youtube.com/watch?v=NxqxCsgaDy0
 youtube_url: https://www.youtube.com/watch?v=NxqxCsgaDy0
 tags: ["Security & Privacy", "AI Models", "Compliance", "Generative AI (GenAI)", "Regulation", "Safety"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

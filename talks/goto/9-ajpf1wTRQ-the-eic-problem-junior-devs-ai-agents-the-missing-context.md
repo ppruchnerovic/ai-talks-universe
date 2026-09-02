@@ -15,6 +15,7 @@ video_id: 9-ajpf1wTRQ
 url: https://www.youtube.com/watch?v=9-ajpf1wTRQ
 youtube_url: https://www.youtube.com/watch?v=9-ajpf1wTRQ
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Scott Hanselman", "Junior Developers", "AI Agents", "Vibe Coding", "Real Talk", "Understanding Systems", "Complex Engineering"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: false
 ---
 

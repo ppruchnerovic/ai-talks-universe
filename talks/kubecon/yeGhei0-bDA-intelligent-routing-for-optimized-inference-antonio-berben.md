@@ -15,6 +15,7 @@ video_id: yeGhei0-bDA
 url: https://www.youtube.com/watch?v=yeGhei0-bDA
 youtube_url: https://www.youtube.com/watch?v=yeGhei0-bDA
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

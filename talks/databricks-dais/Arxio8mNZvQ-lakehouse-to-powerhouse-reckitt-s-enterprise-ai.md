@@ -15,6 +15,7 @@ video_id: Arxio8mNZvQ
 url: https://www.youtube.com/watch?v=Arxio8mNZvQ
 youtube_url: https://www.youtube.com/watch?v=Arxio8mNZvQ
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

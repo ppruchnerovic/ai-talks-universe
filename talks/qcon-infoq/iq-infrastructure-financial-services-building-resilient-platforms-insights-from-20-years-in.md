@@ -15,6 +15,7 @@ video_id: iq-infrastructure-financial-services
 url: https://www.infoq.com/presentations/infrastructure-financial-services/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: vdug7B1-dSs
 url: https://www.youtube.com/watch?v=vdug7B1-dSs
 youtube_url: https://www.youtube.com/watch?v=vdug7B1-dSs
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

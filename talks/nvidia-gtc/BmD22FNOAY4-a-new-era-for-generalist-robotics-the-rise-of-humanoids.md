@@ -15,6 +15,7 @@ video_id: BmD22FNOAY4
 url: https://www.youtube.com/watch?v=BmD22FNOAY4
 youtube_url: https://www.youtube.com/watch?v=BmD22FNOAY4
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

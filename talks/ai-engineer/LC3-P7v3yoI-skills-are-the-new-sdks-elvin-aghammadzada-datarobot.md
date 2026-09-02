@@ -15,6 +15,7 @@ video_id: LC3-P7v3yoI
 url: https://www.youtube.com/watch?v=LC3-P7v3yoI
 youtube_url: https://www.youtube.com/watch?v=LC3-P7v3yoI
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability"]
 transcript: true
 ---
 

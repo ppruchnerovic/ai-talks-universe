@@ -15,6 +15,7 @@ video_id: H-slZ-dfAjo
 url: https://www.youtube.com/watch?v=H-slZ-dfAjo
 youtube_url: https://www.youtube.com/watch?v=H-slZ-dfAjo
 tags: []
+topics: []
 transcript: false
 ---
 

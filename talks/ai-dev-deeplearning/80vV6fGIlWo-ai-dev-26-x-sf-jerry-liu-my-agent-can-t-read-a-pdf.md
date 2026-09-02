@@ -15,6 +15,7 @@ video_id: 80vV6fGIlWo
 url: https://www.youtube.com/watch?v=80vV6fGIlWo
 youtube_url: https://www.youtube.com/watch?v=80vV6fGIlWo
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

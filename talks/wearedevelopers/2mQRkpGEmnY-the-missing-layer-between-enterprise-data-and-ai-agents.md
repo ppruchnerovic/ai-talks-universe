@@ -15,6 +15,7 @@ video_id: 2mQRkpGEmnY
 url: https://www.youtube.com/watch?v=2mQRkpGEmnY
 youtube_url: https://www.youtube.com/watch?v=2mQRkpGEmnY
 tags: ["AI Agents", "Agentic AI", "Business Intelligence", "Lakehouse"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: true
 ---
 

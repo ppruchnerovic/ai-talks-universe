@@ -15,6 +15,7 @@ video_id: Hd4eh5ja1Jg
 url: https://www.youtube.com/watch?v=Hd4eh5ja1Jg
 youtube_url: https://www.youtube.com/watch?v=Hd4eh5ja1Jg
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

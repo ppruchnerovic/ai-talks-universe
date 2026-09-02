@@ -15,6 +15,7 @@ video_id: DUTEpuXi-Ps
 url: https://www.youtube.com/watch?v=DUTEpuXi-Ps
 youtube_url: https://www.youtube.com/watch?v=DUTEpuXi-Ps
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

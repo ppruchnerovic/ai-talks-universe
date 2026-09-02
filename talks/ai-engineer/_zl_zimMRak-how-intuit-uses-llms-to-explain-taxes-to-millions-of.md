@@ -15,6 +15,7 @@ video_id: _zl_zimMRak
 url: https://www.youtube.com/watch?v=_zl_zimMRak
 youtube_url: https://www.youtube.com/watch?v=_zl_zimMRak
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

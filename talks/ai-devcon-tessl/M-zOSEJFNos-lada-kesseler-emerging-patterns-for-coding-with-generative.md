@@ -15,6 +15,7 @@ video_id: M-zOSEJFNos
 url: https://www.youtube.com/watch?v=M-zOSEJFNos
 youtube_url: https://www.youtube.com/watch?v=M-zOSEJFNos
 tags: ["ainativedev"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: cGgzHN6MG8E
 url: https://www.youtube.com/watch?v=cGgzHN6MG8E
 youtube_url: https://www.youtube.com/watch?v=cGgzHN6MG8E
 tags: ["Squarespace", "data engineering", "infrastructure", "dbt"]
+topics: ["Classic ML & data science", "Data engineering & MLOps"]
 transcript: false
 ---
 

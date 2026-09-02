@@ -15,6 +15,7 @@ video_id: a8-QsBHoH94
 url: https://www.youtube.com/watch?v=a8-QsBHoH94
 youtube_url: https://www.youtube.com/watch?v=a8-QsBHoH94
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

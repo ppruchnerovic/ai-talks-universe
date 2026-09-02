@@ -15,6 +15,7 @@ video_id: iq-data-mesh-horse-powertrain
 url: https://www.infoq.com/presentations/data-mesh-horse-powertrain/
 youtube_url: null
 tags: []
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

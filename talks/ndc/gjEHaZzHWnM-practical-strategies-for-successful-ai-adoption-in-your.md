@@ -15,6 +15,7 @@ video_id: gjEHaZzHWnM
 url: https://www.youtube.com/watch?v=gjEHaZzHWnM
 youtube_url: https://www.youtube.com/watch?v=gjEHaZzHWnM
 tags: ["AI", "ML", "Machine Learning", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United Kingdom", "Robert Hogg"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

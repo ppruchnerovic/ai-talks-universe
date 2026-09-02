@@ -15,6 +15,7 @@ video_id: 7Lh8X1Yr56o
 url: https://www.youtube.com/watch?v=7Lh8X1Yr56o
 youtube_url: https://www.youtube.com/watch?v=7Lh8X1Yr56o
 tags: ["Amber Waisanen", "BRK280", "BRK280_v2", "Copilot and agents at work", "English (US)", "Project Opal in Action: Executing Task-Based Work | BRK280", "Rachel Sirkin", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation"]
 transcript: false
 ---
 

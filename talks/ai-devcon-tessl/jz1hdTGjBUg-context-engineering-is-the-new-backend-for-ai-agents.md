@@ -15,6 +15,7 @@ video_id: jz1hdTGjBUg
 url: https://www.youtube.com/watch?v=jz1hdTGjBUg
 youtube_url: https://www.youtube.com/watch?v=jz1hdTGjBUg
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

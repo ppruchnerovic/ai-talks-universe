@@ -15,6 +15,7 @@ video_id: KfPKCHFvzQE
 url: https://www.youtube.com/watch?v=KfPKCHFvzQE
 youtube_url: https://www.youtube.com/watch?v=KfPKCHFvzQE
 tags: ["English (US)", "Microsoft AI Cloud Partner Program", "PBRK423", "Partner Business", "Partner Execution at scale with SME&C | PBRK423", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

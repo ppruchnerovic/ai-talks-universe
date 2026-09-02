@@ -15,6 +15,7 @@ video_id: 6E0_Zsj88Gw
 url: https://www.youtube.com/watch?v=6E0_Zsj88Gw
 youtube_url: https://www.youtube.com/watch?v=6E0_Zsj88Gw
 tags: ["David Boyne", "Architecture", "Microservices", "NDC", "Conferences", "2025", "Live", "Fun", "Copenhagen", "DDD", "Domain-Driven Design", "Design", "Domain", "Driven"]
+topics: []
 transcript: false
 ---
 

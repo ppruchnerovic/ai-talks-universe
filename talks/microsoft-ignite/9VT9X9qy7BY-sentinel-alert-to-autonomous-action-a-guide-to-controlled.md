@@ -15,6 +15,7 @@ video_id: 9VT9X9qy7BY
 url: https://www.youtube.com/watch?v=9VT9X9qy7BY
 youtube_url: https://www.youtube.com/watch?v=9VT9X9qy7BY
 tags: ["English (US)", "Financial Services", "Innovate with low-code AI and agents", "Joshua Weinick", "Microsoft AI Cloud Partner Program", "ODSP1483", "ODSP1483_v1", "Sentinel alert to autonomous action: A guide to controlled AI | ODSP1483", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

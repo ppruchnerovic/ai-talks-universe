@@ -15,6 +15,7 @@ video_id: x6WX_JE96bU
 url: https://www.youtube.com/watch?v=x6WX_JE96bU
 youtube_url: https://www.youtube.com/watch?v=x6WX_JE96bU
 tags: ["Software Architecture", "Apache Iceberg", "Apache Flink", "Streaming", "Data Pipelines", "Apache Kafka", "Artificial Intelligence", "Machine Learning", "Data Engineering", "InfoQ", "QCon", "Transcript"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

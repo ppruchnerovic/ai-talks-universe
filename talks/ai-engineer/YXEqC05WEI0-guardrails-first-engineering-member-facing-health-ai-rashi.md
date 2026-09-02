@@ -15,6 +15,7 @@ video_id: YXEqC05WEI0
 url: https://www.youtube.com/watch?v=YXEqC05WEI0
 youtube_url: https://www.youtube.com/watch?v=YXEqC05WEI0
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

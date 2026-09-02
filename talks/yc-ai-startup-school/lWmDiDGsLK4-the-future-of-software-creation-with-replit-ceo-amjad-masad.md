@@ -15,6 +15,7 @@ video_id: lWmDiDGsLK4
 url: https://www.youtube.com/watch?v=lWmDiDGsLK4
 youtube_url: https://www.youtube.com/watch?v=lWmDiDGsLK4
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

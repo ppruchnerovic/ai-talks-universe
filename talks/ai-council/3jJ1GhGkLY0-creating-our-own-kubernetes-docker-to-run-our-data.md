@@ -15,6 +15,7 @@ video_id: 3jJ1GhGkLY0
 url: https://www.youtube.com/watch?v=3jJ1GhGkLY0
 youtube_url: https://www.youtube.com/watch?v=3jJ1GhGkLY0
 tags: ["data infrastructure", "data engineering", "cloud systems", "rust", "docker", "kubernetes"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

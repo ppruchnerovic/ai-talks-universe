@@ -15,6 +15,7 @@ video_id: UvhmYntrLMI
 url: https://www.youtube.com/watch?v=UvhmYntrLMI
 youtube_url: https://www.youtube.com/watch?v=UvhmYntrLMI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

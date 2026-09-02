@@ -15,6 +15,7 @@ video_id: uJXAZlZ0A2s
 url: https://www.youtube.com/watch?v=uJXAZlZ0A2s
 youtube_url: https://www.youtube.com/watch?v=uJXAZlZ0A2s
 tags: ["UC Berkeley", "Agentic AI Summit", "Artificial Intelligence", "Berkeley Center for Responsible Decentralized Intelligence", "LLM Agents MOOC"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

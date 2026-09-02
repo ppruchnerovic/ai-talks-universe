@@ -15,6 +15,7 @@ video_id: b6dKwe00GpQ
 url: https://www.youtube.com/watch?v=b6dKwe00GpQ
 youtube_url: https://www.youtube.com/watch?v=b6dKwe00GpQ
 tags: ["AI engineering", "AI-native development", "DevOps", "agent orchestration", "ainativedev", "coding agents", "continuous delivery", "dark factory", "hiring for AI-native roles", "history of DevOps", "how to integrate coding agents", "platform teams", "role of platform teams in AI", "team dynamics", "what is dark factory in AI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

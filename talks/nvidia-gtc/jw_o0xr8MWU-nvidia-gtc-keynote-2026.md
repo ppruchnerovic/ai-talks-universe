@@ -15,6 +15,7 @@ video_id: jw_o0xr8MWU
 url: https://www.youtube.com/watch?v=jw_o0xr8MWU
 youtube_url: https://www.youtube.com/watch?v=jw_o0xr8MWU
 tags: ["NVIDIA GTC", "Jensen Huang"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

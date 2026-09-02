@@ -15,6 +15,7 @@ video_id: 6JU39z8ikHE
 url: https://www.youtube.com/watch?v=6JU39z8ikHE
 youtube_url: https://www.youtube.com/watch?v=6JU39z8ikHE
 tags: ["Azure Monitor", "BRK217", "Breakout", "Chaos Studio", "Cloud-native", "English (US)", "Infrastructure", "Infrastructure-Curated", "Intermediate (200)", "Kubernetes", "Nestle's journey: Transitioning from SAP HEC to SAP RISE on Azure | BRK217", "Observability", "Ralf Huebenthal", "Technical", "Uli Homann", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

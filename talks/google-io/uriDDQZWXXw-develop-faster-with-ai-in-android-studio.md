@@ -15,6 +15,7 @@ video_id: uriDDQZWXXw
 url: https://www.youtube.com/watch?v=uriDDQZWXXw
 youtube_url: https://www.youtube.com/watch?v=uriDDQZWXXw
 tags: ["Android", "pr_pr: Google I/O;", "ct:Stack - Android;", "ct:Event - Technical Session;"]
+topics: []
 transcript: true
 ---
 

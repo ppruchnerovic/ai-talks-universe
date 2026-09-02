@@ -15,6 +15,7 @@ video_id: iq-ai-multi-agentic-tools
 url: https://www.infoq.com/presentations/ai-multi-agentic-tools/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

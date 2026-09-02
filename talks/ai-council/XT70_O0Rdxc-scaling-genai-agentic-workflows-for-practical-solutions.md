@@ -15,6 +15,7 @@ video_id: XT70_O0Rdxc
 url: https://www.youtube.com/watch?v=XT70_O0Rdxc
 youtube_url: https://www.youtube.com/watch?v=XT70_O0Rdxc
 tags: ["generative AI", "AI scaling", "ChatGPT", "artificial intelligence", "machine learning", "enterprise AI", "workflow automation", "AI infrastructure", "scalable AI", "AI deployment", "distributed computing engine", "Python tutorial", "large scale AI", "AI orchestration", "model management", "resource optimization", "cost efficiency", "performance monitoring", "auto scaling", "load balancing", "enterprise integration", "production AI systems"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

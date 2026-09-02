@@ -15,6 +15,7 @@ video_id: SrZytbeHm_I
 url: https://www.youtube.com/watch?v=SrZytbeHm_I
 youtube_url: https://www.youtube.com/watch?v=SrZytbeHm_I
 tags: ["AI", "Advanced (300)", "Eliminate employee friction at work with an enterprise-wide AI agent | ODFP958", "English (US)", "Jake Speyer", "ODFP958", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

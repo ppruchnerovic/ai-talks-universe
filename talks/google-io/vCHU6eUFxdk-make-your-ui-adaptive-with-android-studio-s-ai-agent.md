@@ -15,6 +15,7 @@ video_id: vCHU6eUFxdk
 url: https://www.youtube.com/watch?v=vCHU6eUFxdk
 youtube_url: https://www.youtube.com/watch?v=vCHU6eUFxdk
 tags: ["Android", "pr_pr: Google I/O;", "ct:Stack - Android;", "ct:Event - Technical Session;"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

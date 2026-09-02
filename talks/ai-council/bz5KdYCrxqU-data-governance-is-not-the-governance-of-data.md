@@ -15,6 +15,7 @@ video_id: bz5KdYCrxqU
 url: https://www.youtube.com/watch?v=bz5KdYCrxqU
 youtube_url: https://www.youtube.com/watch?v=bz5KdYCrxqU
 tags: ["data governance", "ChatGPT", "artificial intelligence", "machine learning", "data management", "enterprise data", "data strategy", "data organization", "data leadership", "data culture", "sociology", "Python tutorial", "data quality", "data lineage", "metadata management", "data catalogs", "data privacy", "data security", "compliance frameworks", "regulatory compliance", "data ethics", "data stewardship", "master data management"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

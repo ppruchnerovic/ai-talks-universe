@@ -15,6 +15,7 @@ video_id: VO5UX5kWj9g
 url: https://www.youtube.com/watch?v=VO5UX5kWj9g
 youtube_url: https://www.youtube.com/watch?v=VO5UX5kWj9g
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

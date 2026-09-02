@@ -15,6 +15,7 @@ video_id: iq-ai-development
 url: https://www.infoq.com/presentations/ai-development/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

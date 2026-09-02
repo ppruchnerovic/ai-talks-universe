@@ -15,6 +15,7 @@ video_id: c0WqMuVYfmk
 url: https://www.youtube.com/watch?v=c0WqMuVYfmk
 youtube_url: https://www.youtube.com/watch?v=c0WqMuVYfmk
 tags: ["0742f636-d31a-4019-8d40-6fd9643f0d34_Segment", "BRK120", "Brendan Burns", "Durga Rachapudi", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Jorge Palma", "Scaling Kubernetes securely and reliably with AKS | BRK120", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

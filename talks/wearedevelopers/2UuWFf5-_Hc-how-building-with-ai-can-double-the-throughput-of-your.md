@@ -15,6 +15,7 @@ video_id: 2UuWFf5-_Hc
 url: https://www.youtube.com/watch?v=2UuWFf5-_Hc
 youtube_url: https://www.youtube.com/watch?v=2UuWFf5-_Hc
 tags: ["Developer Experience", "AI Coding Assistants", "Automation Testing", "Claude", "GitHub Actions", "Ruby on Rails"]
+topics: ["AI in the SDLC & engineering orgs", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

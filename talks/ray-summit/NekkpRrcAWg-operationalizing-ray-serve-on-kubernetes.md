@@ -15,6 +15,7 @@ video_id: NekkpRrcAWg
 url: https://www.youtube.com/watch?v=NekkpRrcAWg
 youtube_url: https://www.youtube.com/watch?v=NekkpRrcAWg
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

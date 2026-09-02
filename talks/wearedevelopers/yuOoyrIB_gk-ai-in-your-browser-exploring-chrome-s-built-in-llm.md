@@ -15,6 +15,7 @@ video_id: yuOoyrIB_gk
 url: https://www.youtube.com/watch?v=yuOoyrIB_gk
 youtube_url: https://www.youtube.com/watch?v=yuOoyrIB_gk
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "AI Models", "AI Standards", "LLMOps", "Web Standards"]
+topics: []
 transcript: true
 ---
 

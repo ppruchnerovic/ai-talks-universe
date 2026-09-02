@@ -15,6 +15,7 @@ video_id: OWR3K-ZsS4g
 url: https://www.youtube.com/watch?v=OWR3K-ZsS4g
 youtube_url: https://www.youtube.com/watch?v=OWR3K-ZsS4g
 tags: ["Cloud Platform & Data", "DEMSP384", "Freddy Chiu", "Profile and optimize agentic AI on Windows | DEMSP384", "Vasanth Tovinkere", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026", "Cloud Migration Factory", "Platform Security", "On-prem Migration", "Agentic Security", "Security in SQL", "Open Ecosystem", "User Privacy", "Cross-device", "Automation"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

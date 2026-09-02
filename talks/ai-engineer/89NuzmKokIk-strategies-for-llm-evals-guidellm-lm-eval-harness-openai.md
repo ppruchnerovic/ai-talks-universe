@@ -15,6 +15,7 @@ video_id: 89NuzmKokIk
 url: https://www.youtube.com/watch?v=89NuzmKokIk
 youtube_url: https://www.youtube.com/watch?v=89NuzmKokIk
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: cLb7Ig3p09c
 url: https://www.youtube.com/watch?v=cLb7Ig3p09c
 youtube_url: https://www.youtube.com/watch?v=cLb7Ig3p09c
 tags: []
+topics: ["Evals, observability & reliability", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

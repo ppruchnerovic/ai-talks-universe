@@ -15,6 +15,7 @@ video_id: 6mWMJnfKoCw
 url: https://www.youtube.com/watch?v=6mWMJnfKoCw
 youtube_url: https://www.youtube.com/watch?v=6mWMJnfKoCw
 tags: ["DevOps", "data teams", "data observability", "analytics"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: false
 ---
 

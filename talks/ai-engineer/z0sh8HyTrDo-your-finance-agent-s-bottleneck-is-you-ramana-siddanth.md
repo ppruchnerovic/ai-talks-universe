@@ -15,6 +15,7 @@ video_id: z0sh8HyTrDo
 url: https://www.youtube.com/watch?v=z0sh8HyTrDo
 youtube_url: https://www.youtube.com/watch?v=z0sh8HyTrDo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

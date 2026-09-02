@@ -15,6 +15,7 @@ video_id: ggh3kdcer2U
 url: https://www.youtube.com/watch?v=ggh3kdcer2U
 youtube_url: https://www.youtube.com/watch?v=ggh3kdcer2U
 tags: ["Developer Experience"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

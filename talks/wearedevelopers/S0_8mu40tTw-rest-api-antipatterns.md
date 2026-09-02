@@ -15,6 +15,7 @@ video_id: S0_8mu40tTw
 url: https://www.youtube.com/watch?v=S0_8mu40tTw
 youtube_url: https://www.youtube.com/watch?v=S0_8mu40tTw
 tags: ["Backend & APIs", "APIs", "Governance", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

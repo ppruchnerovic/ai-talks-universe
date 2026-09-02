@@ -15,6 +15,7 @@ video_id: MEX_xNllzUM
 url: https://www.youtube.com/watch?v=MEX_xNllzUM
 youtube_url: https://www.youtube.com/watch?v=MEX_xNllzUM
 tags: ["Strategy & Innovation", "Accessibility", "AI Coding Assistants", "Agents", "Agile", "Best Practices", "Business Models", "Collaboration", "Digital Transformation", "Diversity & Inclusion", "E2E Testing", "Entrepreneurship", "Generative AI (GenAI)", "People & Culture", "Product Strategy", "Product Management", "Productivity", "Quality Assurance (QA)", "Soft Skills", "Testing", "UI/UX"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-platform-engineering-team-compliance
 url: https://www.infoq.com/presentations/platform-engineering-team-compliance/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

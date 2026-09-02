@@ -15,6 +15,7 @@ video_id: FQl6K160DKU
 url: https://www.youtube.com/watch?v=FQl6K160DKU
 youtube_url: https://www.youtube.com/watch?v=FQl6K160DKU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

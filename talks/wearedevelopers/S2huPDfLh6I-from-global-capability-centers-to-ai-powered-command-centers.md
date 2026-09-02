@@ -15,6 +15,7 @@ video_id: S2huPDfLh6I
 url: https://www.youtube.com/watch?v=S2huPDfLh6I
 youtube_url: https://www.youtube.com/watch?v=S2huPDfLh6I
 tags: ["Strategy & Innovation", "AI Models", "AI Standards", "Business Models", "Digital Transformation", "Entrepreneurship", "Future of Work", "Innovation", "Scaling"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

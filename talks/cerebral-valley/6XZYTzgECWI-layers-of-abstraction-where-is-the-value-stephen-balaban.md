@@ -15,6 +15,7 @@ video_id: 6XZYTzgECWI
 url: https://www.youtube.com/watch?v=6XZYTzgECWI
 youtube_url: https://www.youtube.com/watch?v=6XZYTzgECWI
 tags: []
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

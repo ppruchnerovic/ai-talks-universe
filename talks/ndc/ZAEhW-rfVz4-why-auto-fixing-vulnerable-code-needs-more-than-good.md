@@ -15,6 +15,7 @@ video_id: ZAEhW-rfVz4
 url: https://www.youtube.com/watch?v=ZAEhW-rfVz4
 youtube_url: https://www.youtube.com/watch?v=ZAEhW-rfVz4
 tags: ["Application Security", "Security", "NDC", "Conferences", "2025", "Live", "Fun", "Manchester", "England", "UK", "United Kingdom", "Spyros Gasteratos"]
+topics: ["Agents & orchestration", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: true
 ---
 

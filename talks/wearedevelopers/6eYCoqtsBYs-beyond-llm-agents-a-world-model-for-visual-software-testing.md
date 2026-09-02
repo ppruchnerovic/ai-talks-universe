@@ -15,6 +15,7 @@ video_id: 6eYCoqtsBYs
 url: https://www.youtube.com/watch?v=6eYCoqtsBYs
 youtube_url: https://www.youtube.com/watch?v=6eYCoqtsBYs
 tags: ["Quality & Reliability", "AI Models", "Agents", "Agentic AI", "Automation Testing", "CI/CD", "Compliance", "Cross-Platform", "Deep Learning", "E2E Testing", "HTML", "Model Training", "Neural Networks", "Playwright", "Reinforcement Learning", "RPA", "Selenium", "Testing"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

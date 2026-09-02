@@ -15,6 +15,7 @@ video_id: pvv_XbuG4go
 url: https://www.youtube.com/watch?v=pvv_XbuG4go
 youtube_url: https://www.youtube.com/watch?v=pvv_XbuG4go
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

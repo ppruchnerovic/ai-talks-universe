@@ -15,6 +15,7 @@ video_id: uCAf-WockFM
 url: https://www.youtube.com/watch?v=uCAf-WockFM
 youtube_url: https://www.youtube.com/watch?v=uCAf-WockFM
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

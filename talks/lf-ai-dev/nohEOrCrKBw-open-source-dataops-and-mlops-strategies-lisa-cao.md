@@ -15,6 +15,7 @@ video_id: nohEOrCrKBw
 url: https://www.youtube.com/watch?v=nohEOrCrKBw
 youtube_url: https://www.youtube.com/watch?v=nohEOrCrKBw
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

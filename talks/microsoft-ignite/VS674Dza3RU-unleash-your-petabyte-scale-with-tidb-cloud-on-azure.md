@@ -15,6 +15,7 @@ video_id: VS674Dza3RU
 url: https://www.youtube.com/watch?v=VS674Dza3RU
 youtube_url: https://www.youtube.com/watch?v=VS674Dza3RU
 tags: ["English (US)", "Liya Du", "ODSP1499", "ODSP1499_v1", "Retail and Consumer Goods", "Technical", "Unify your data platform", "Unleash your Petabyte-Scale with TiDB Cloud on Azure | ODSP1499", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-ai-ml-jobs
 url: https://www.infoq.com/presentations/ai-ml-jobs/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

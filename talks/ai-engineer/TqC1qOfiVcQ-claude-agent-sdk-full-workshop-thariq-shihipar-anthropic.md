@@ -15,6 +15,7 @@ video_id: TqC1qOfiVcQ
 url: https://www.youtube.com/watch?v=TqC1qOfiVcQ
 youtube_url: https://www.youtube.com/watch?v=TqC1qOfiVcQ
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

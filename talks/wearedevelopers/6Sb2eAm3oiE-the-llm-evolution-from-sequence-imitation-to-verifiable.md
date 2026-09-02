@@ -15,6 +15,7 @@ video_id: 6Sb2eAm3oiE
 url: https://www.youtube.com/watch?v=6Sb2eAm3oiE
 youtube_url: https://www.youtube.com/watch?v=6Sb2eAm3oiE
 tags: ["AI Engineering", "AI Models", "Large Language Models (LLMs)", "AGI (Artificial General Intelligence)", "AI Coding Assistants", "Agentic AI"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

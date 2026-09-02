@@ -15,6 +15,7 @@ video_id: N3gg-6NYhIs
 url: https://www.youtube.com/watch?v=N3gg-6NYhIs
 youtube_url: https://www.youtube.com/watch?v=N3gg-6NYhIs
 tags: ["Agentic business applications", "April Olson", "BRK354", "English (US)", "Matt Jutila", "Reimagine Finance with AI and Agents | BRK354", "Sigita Cepaitiene", "Technical", "cf94fbcf-c028-4256-addb-d71bd3e4ef7e_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

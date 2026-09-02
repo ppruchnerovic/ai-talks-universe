@@ -15,6 +15,7 @@ video_id: sCRNsMIHjho
 url: https://www.youtube.com/watch?v=sCRNsMIHjho
 youtube_url: https://www.youtube.com/watch?v=sCRNsMIHjho
 tags: ["Frontend, Web & Mobile", "Analytics", "Case Study", "Performance", "Soft Skills", "Software Architecture", "Web Performance"]
+topics: []
 transcript: true
 ---
 

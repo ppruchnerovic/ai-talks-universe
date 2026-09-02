@@ -15,6 +15,7 @@ video_id: Q15Os0P1Td8
 url: https://www.youtube.com/watch?v=Q15Os0P1Td8
 youtube_url: https://www.youtube.com/watch?v=Q15Os0P1Td8
 tags: []
+topics: ["Data engineering & MLOps", "Security, safety & red teaming"]
 transcript: false
 ---
 

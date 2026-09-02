@@ -15,6 +15,7 @@ video_id: zmWCkoi-Qlg
 url: https://www.youtube.com/watch?v=zmWCkoi-Qlg
 youtube_url: https://www.youtube.com/watch?v=zmWCkoi-Qlg
 tags: []
+topics: []
 transcript: false
 ---
 

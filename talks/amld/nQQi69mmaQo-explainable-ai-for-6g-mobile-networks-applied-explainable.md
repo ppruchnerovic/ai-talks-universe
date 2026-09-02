@@ -15,6 +15,7 @@ video_id: nQQi69mmaQo
 url: https://www.youtube.com/watch?v=nQQi69mmaQo
 youtube_url: https://www.youtube.com/watch?v=nQQi69mmaQo
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

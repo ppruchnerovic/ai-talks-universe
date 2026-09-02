@@ -15,6 +15,7 @@ video_id: Tf3LaoRZ4GI
 url: https://www.youtube.com/watch?v=Tf3LaoRZ4GI
 youtube_url: https://www.youtube.com/watch?v=Tf3LaoRZ4GI
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

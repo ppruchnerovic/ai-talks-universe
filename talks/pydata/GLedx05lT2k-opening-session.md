@@ -15,6 +15,7 @@ video_id: GLedx05lT2k
 url: https://www.youtube.com/watch?v=GLedx05lT2k
 youtube_url: https://www.youtube.com/watch?v=GLedx05lT2k
 tags: ["Berlin tech events", "Conference", "NumFOCUS", "PyConDE", "PyData", "PyData 2025", "PyData Berlin", "PyLadies", "Python", "Python conference", "Python programming", "Tech Talk", "community building", "conference opening", "data science community", "data science conference", "diversity in tech", "inclusive networking", "open source", "tech conference"]
+topics: []
 transcript: false
 ---
 

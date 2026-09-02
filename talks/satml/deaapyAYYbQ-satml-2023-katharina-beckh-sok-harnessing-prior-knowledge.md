@@ -15,6 +15,7 @@ video_id: deaapyAYYbQ
 url: https://www.youtube.com/watch?v=deaapyAYYbQ
 youtube_url: https://www.youtube.com/watch?v=deaapyAYYbQ
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

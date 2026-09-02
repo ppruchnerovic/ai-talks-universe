@@ -15,6 +15,7 @@ video_id: fIDxYACsR0g
 url: https://www.youtube.com/watch?v=fIDxYACsR0g
 youtube_url: https://www.youtube.com/watch?v=fIDxYACsR0g
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

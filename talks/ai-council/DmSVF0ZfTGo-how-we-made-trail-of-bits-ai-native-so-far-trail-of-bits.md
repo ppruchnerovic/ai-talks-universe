@@ -15,6 +15,7 @@ video_id: DmSVF0ZfTGo
 url: https://www.youtube.com/watch?v=DmSVF0ZfTGo
 youtube_url: https://www.youtube.com/watch?v=DmSVF0ZfTGo
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: IBKrKTeiNjI
 url: https://www.youtube.com/watch?v=IBKrKTeiNjI
 youtube_url: https://www.youtube.com/watch?v=IBKrKTeiNjI
 tags: ["camlis", "camlis2018"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

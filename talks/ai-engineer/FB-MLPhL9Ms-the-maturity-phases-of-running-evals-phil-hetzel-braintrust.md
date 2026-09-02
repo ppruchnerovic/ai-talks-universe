@@ -15,6 +15,7 @@ video_id: FB-MLPhL9Ms
 url: https://www.youtube.com/watch?v=FB-MLPhL9Ms
 youtube_url: https://www.youtube.com/watch?v=FB-MLPhL9Ms
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

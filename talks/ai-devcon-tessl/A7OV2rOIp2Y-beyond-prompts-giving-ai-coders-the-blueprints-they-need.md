@@ -15,6 +15,7 @@ video_id: A7OV2rOIp2Y
 url: https://www.youtube.com/watch?v=A7OV2rOIp2Y
 youtube_url: https://www.youtube.com/watch?v=A7OV2rOIp2Y
 tags: ["ainativedev"]
+topics: ["Coding assistants & agents", "Prompting & context engineering"]
 transcript: false
 ---
 

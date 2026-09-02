@@ -15,6 +15,7 @@ video_id: RKEW-hyqlM8
 url: https://www.youtube.com/watch?v=RKEW-hyqlM8
 youtube_url: https://www.youtube.com/watch?v=RKEW-hyqlM8
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

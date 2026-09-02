@@ -15,6 +15,7 @@ video_id: whue9_YquGA
 url: https://www.youtube.com/watch?v=whue9_YquGA
 youtube_url: https://www.youtube.com/watch?v=whue9_YquGA
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

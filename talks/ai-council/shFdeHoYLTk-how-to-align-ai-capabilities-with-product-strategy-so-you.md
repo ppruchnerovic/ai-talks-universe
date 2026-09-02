@@ -15,6 +15,7 @@ video_id: shFdeHoYLTk
 url: https://www.youtube.com/watch?v=shFdeHoYLTk
 youtube_url: https://www.youtube.com/watch?v=shFdeHoYLTk
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

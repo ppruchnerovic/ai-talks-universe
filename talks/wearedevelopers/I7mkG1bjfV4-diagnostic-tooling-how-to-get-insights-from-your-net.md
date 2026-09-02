@@ -15,6 +15,7 @@ video_id: I7mkG1bjfV4
 url: https://www.youtube.com/watch?v=I7mkG1bjfV4
 youtube_url: https://www.youtube.com/watch?v=I7mkG1bjfV4
 tags: ["Languages & Runtimes", "Analytics", "Best Practices", "C#", "Containers", ".NET", "Tooling", "Tools"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

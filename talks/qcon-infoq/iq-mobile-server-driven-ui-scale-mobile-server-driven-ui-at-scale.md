@@ -15,6 +15,7 @@ video_id: iq-mobile-server-driven-ui-scale
 url: https://www.infoq.com/presentations/mobile-server-driven-ui-scale/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

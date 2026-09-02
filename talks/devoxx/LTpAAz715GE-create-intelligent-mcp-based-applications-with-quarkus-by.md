@@ -15,6 +15,7 @@ video_id: LTpAAz715GE
 url: https://www.youtube.com/watch?v=LTpAAz715GE
 youtube_url: https://www.youtube.com/watch?v=LTpAAz715GE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

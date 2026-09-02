@@ -15,6 +15,7 @@ video_id: h_cj-taAOFI
 url: https://www.youtube.com/watch?v=h_cj-taAOFI
 youtube_url: https://www.youtube.com/watch?v=h_cj-taAOFI
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

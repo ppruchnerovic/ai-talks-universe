@@ -15,6 +15,7 @@ video_id: -aMFBj-kwdU
 url: https://www.youtube.com/watch?v=-aMFBj-kwdU
 youtube_url: https://www.youtube.com/watch?v=-aMFBj-kwdU
 tags: []
+topics: ["Inference, serving & GPU infra", "Prompting & context engineering", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

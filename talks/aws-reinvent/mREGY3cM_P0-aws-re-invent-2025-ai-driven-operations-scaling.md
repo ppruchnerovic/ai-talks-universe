@@ -15,6 +15,7 @@ video_id: mREGY3cM_P0
 url: https://www.youtube.com/watch?v=mREGY3cM_P0
 youtube_url: https://www.youtube.com/watch?v=mREGY3cM_P0
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: HGZVB5LO2Go
 url: https://www.youtube.com/watch?v=HGZVB5LO2Go
 youtube_url: https://www.youtube.com/watch?v=HGZVB5LO2Go
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

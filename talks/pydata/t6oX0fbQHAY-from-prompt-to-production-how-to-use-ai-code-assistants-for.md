@@ -15,6 +15,7 @@ video_id: t6oX0fbQHAY
 url: https://www.youtube.com/watch?v=t6oX0fbQHAY
 youtube_url: https://www.youtube.com/watch?v=t6oX0fbQHAY
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Coding assistants & agents", "Data engineering & MLOps", "Prompting & context engineering"]
 transcript: true
 ---
 

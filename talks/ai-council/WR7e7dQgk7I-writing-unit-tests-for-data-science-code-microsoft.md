@@ -15,6 +15,7 @@ video_id: WR7e7dQgk7I
 url: https://www.youtube.com/watch?v=WR7e7dQgk7I
 youtube_url: https://www.youtube.com/watch?v=WR7e7dQgk7I
 tags: ["data science", "software engineering", "unit testing", "microsoft"]
+topics: ["AI in the SDLC & engineering orgs", "Classic ML & data science"]
 transcript: false
 ---
 

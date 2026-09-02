@@ -15,6 +15,7 @@ video_id: 4P35bvzLcI8
 url: https://www.youtube.com/watch?v=4P35bvzLcI8
 youtube_url: https://www.youtube.com/watch?v=4P35bvzLcI8
 tags: ["Engineering Leadership", "Analytics", "Communication", "Performance", "Scaling"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

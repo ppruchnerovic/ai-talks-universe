@@ -15,6 +15,7 @@ video_id: 8yRpwwiSyPU
 url: https://www.youtube.com/watch?v=8yRpwwiSyPU
 youtube_url: https://www.youtube.com/watch?v=8yRpwwiSyPU
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Training Models on the Cloud without Changing a Single Line of Code with Grid", "Training Models", "grid.ai", "grid ai", "ai", "Training Models on the Cloud"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

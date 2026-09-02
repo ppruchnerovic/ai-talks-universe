@@ -15,6 +15,7 @@ video_id: iq-ai-products
 url: https://www.infoq.com/presentations/ai-products/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

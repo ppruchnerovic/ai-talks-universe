@@ -15,6 +15,7 @@ video_id: XOJ_QuriBmA
 url: https://www.youtube.com/watch?v=XOJ_QuriBmA
 youtube_url: https://www.youtube.com/watch?v=XOJ_QuriBmA
 tags: []
+topics: []
 transcript: false
 ---
 

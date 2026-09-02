@@ -15,6 +15,7 @@ video_id: VsheJ7Lz8aY
 url: https://www.youtube.com/watch?v=VsheJ7Lz8aY
 youtube_url: https://www.youtube.com/watch?v=VsheJ7Lz8aY
 tags: ["AI", "Fun", "GPT-4", "NDC", "Conferences", "2025", "Live", "Oslo", "Norway", "Alan Smith"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

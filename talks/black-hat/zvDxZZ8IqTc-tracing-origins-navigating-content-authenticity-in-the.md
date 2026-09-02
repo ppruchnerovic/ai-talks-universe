@@ -15,6 +15,7 @@ video_id: zvDxZZ8IqTc
 url: https://www.youtube.com/watch?v=zvDxZZ8IqTc
 youtube_url: https://www.youtube.com/watch?v=zvDxZZ8IqTc
 tags: []
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

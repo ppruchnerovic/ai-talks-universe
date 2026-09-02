@@ -15,6 +15,7 @@ video_id: SIXTArBVL5w
 url: https://www.youtube.com/watch?v=SIXTArBVL5w
 youtube_url: https://www.youtube.com/watch?v=SIXTArBVL5w
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai", "mcp ui"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

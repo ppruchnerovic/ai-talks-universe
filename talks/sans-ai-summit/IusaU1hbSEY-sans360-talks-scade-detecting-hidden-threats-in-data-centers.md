@@ -15,6 +15,7 @@ video_id: IusaU1hbSEY
 url: https://www.youtube.com/watch?v=IusaU1hbSEY
 youtube_url: https://www.youtube.com/watch?v=IusaU1hbSEY
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

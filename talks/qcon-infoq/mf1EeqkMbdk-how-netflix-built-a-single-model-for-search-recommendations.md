@@ -15,6 +15,7 @@ video_id: mf1EeqkMbdk
 url: https://www.youtube.com/watch?v=mf1EeqkMbdk
 youtube_url: https://www.youtube.com/watch?v=mf1EeqkMbdk
 tags: ["QCon London", "Case Study", "Netflix", "Foundation Model", "InfoQ", "Transcript", "Modeling", "Artificial Intelligence", "Software Architecture", "Machine Learning", "LLM", "System Design"]
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

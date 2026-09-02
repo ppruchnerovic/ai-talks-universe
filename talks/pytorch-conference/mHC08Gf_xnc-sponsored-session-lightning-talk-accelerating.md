@@ -15,6 +15,7 @@ video_id: mHC08Gf_xnc
 url: https://www.youtube.com/watch?v=mHC08Gf_xnc
 youtube_url: https://www.youtube.com/watch?v=mHC08Gf_xnc
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

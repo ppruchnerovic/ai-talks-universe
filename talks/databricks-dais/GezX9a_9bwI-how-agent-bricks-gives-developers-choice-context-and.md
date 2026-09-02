@@ -15,6 +15,7 @@ video_id: GezX9a_9bwI
 url: https://www.youtube.com/watch?v=GezX9a_9bwI
 youtube_url: https://www.youtube.com/watch?v=GezX9a_9bwI
 tags: ["Databricks"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

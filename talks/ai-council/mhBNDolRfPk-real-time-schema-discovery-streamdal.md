@@ -15,6 +15,7 @@ video_id: mhBNDolRfPk
 url: https://www.youtube.com/watch?v=mhBNDolRfPk
 youtube_url: https://www.youtube.com/watch?v=mhBNDolRfPk
 tags: ["schema issues", "data streaming", "data engineering", "product"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

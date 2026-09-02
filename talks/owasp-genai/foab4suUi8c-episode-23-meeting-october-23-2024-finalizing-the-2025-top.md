@@ -15,6 +15,7 @@ video_id: foab4suUi8c
 url: https://www.youtube.com/watch?v=foab4suUi8c
 youtube_url: https://www.youtube.com/watch?v=foab4suUi8c
 tags: []
+topics: []
 transcript: false
 ---
 

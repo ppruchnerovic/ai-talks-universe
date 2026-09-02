@@ -15,6 +15,7 @@ video_id: R-I_WdirVh4
 url: https://www.youtube.com/watch?v=R-I_WdirVh4
 youtube_url: https://www.youtube.com/watch?v=R-I_WdirVh4
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

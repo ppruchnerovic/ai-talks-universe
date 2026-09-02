@@ -15,6 +15,7 @@ video_id: 1_Qpuv7f3WQ
 url: https://www.youtube.com/watch?v=1_Qpuv7f3WQ
 youtube_url: https://www.youtube.com/watch?v=1_Qpuv7f3WQ
 tags: ["Languages & Runtimes", "Compilers", "Runtimes", "Type Systems"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: t0UZ30gfccA
 url: https://www.youtube.com/watch?v=t0UZ30gfccA
 youtube_url: https://www.youtube.com/watch?v=t0UZ30gfccA
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

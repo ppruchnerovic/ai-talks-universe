@@ -15,6 +15,7 @@ video_id: AnwBQKv-HRs
 url: https://www.youtube.com/watch?v=AnwBQKv-HRs
 youtube_url: https://www.youtube.com/watch?v=AnwBQKv-HRs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-webassembly-extensions
 url: https://www.infoq.com/presentations/webassembly-extensions/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

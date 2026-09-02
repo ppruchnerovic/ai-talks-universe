@@ -15,6 +15,7 @@ video_id: UwqyN-6tPKo
 url: https://www.youtube.com/watch?v=UwqyN-6tPKo
 youtube_url: https://www.youtube.com/watch?v=UwqyN-6tPKo
 tags: ["AI"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: qJvnOse3Btc
 url: https://www.youtube.com/watch?v=qJvnOse3Btc
 youtube_url: https://www.youtube.com/watch?v=qJvnOse3Btc
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: hoE1ySO8YR4
 url: https://www.youtube.com/watch?v=hoE1ySO8YR4
 youtube_url: https://www.youtube.com/watch?v=hoE1ySO8YR4
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "MLOps", "Case Study", "DoorDash", "Project Management", "Operations Management", "InfoQ", "QCon London", "Transcript"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

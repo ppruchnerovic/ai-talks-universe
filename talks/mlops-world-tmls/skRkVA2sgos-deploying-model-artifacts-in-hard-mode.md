@@ -15,6 +15,7 @@ video_id: skRkVA2sgos
 url: https://www.youtube.com/watch?v=skRkVA2sgos
 youtube_url: https://www.youtube.com/watch?v=skRkVA2sgos
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: []
 transcript: false
 ---
 

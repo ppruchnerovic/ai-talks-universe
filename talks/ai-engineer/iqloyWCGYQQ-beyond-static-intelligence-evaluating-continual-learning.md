@@ -15,6 +15,7 @@ video_id: iqloyWCGYQQ
 url: https://www.youtube.com/watch?v=iqloyWCGYQQ
 youtube_url: https://www.youtube.com/watch?v=iqloyWCGYQQ
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

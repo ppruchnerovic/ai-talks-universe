@@ -15,6 +15,7 @@ video_id: XiNsfhUxO2Y
 url: https://www.youtube.com/watch?v=XiNsfhUxO2Y
 youtube_url: https://www.youtube.com/watch?v=XiNsfhUxO2Y
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

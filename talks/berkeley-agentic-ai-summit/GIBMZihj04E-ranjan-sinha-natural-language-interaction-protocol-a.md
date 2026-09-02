@@ -15,6 +15,7 @@ video_id: GIBMZihj04E
 url: https://www.youtube.com/watch?v=GIBMZihj04E
 youtube_url: https://www.youtube.com/watch?v=GIBMZihj04E
 tags: []
+topics: []
 transcript: false
 ---
 

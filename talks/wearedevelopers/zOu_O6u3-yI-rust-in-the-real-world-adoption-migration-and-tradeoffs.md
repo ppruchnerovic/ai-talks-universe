@@ -15,6 +15,7 @@ video_id: zOu_O6u3-yI
 url: https://www.youtube.com/watch?v=zOu_O6u3-yI
 youtube_url: https://www.youtube.com/watch?v=zOu_O6u3-yI
 tags: ["Languages & Runtimes", "Advocacy", "AI Coding Assistants", "AI Models", "C++", "Career Development", "Cargo", "Case Study", "Cloudflare", "Cross-Platform", "dApps", "Migration", "Polkadot", "Productivity", "PyCharm", "Python", "Rust", "Tools", "Web3"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

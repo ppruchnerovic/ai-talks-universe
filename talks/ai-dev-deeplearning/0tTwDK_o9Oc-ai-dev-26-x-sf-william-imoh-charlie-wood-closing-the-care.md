@@ -15,6 +15,7 @@ video_id: 0tTwDK_o9Oc
 url: https://www.youtube.com/watch?v=0tTwDK_o9Oc
 youtube_url: https://www.youtube.com/watch?v=0tTwDK_o9Oc
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

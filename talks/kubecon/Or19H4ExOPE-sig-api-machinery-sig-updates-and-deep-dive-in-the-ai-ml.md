@@ -15,6 +15,7 @@ video_id: Or19H4ExOPE
 url: https://www.youtube.com/watch?v=Or19H4ExOPE
 youtube_url: https://www.youtube.com/watch?v=Or19H4ExOPE
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

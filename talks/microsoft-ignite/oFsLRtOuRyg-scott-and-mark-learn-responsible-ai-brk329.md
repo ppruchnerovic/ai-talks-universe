@@ -15,6 +15,7 @@ video_id: oFsLRtOuRyg
 url: https://www.youtube.com/watch?v=oFsLRtOuRyg
 youtube_url: https://www.youtube.com/watch?v=oFsLRtOuRyg
 tags: ["Advanced (300)", "BRK329", "Breakout", "English (US)", "Mark Russinovich", "Scott Hanselman", "Scott and Mark learn responsible AI | BRK329", "Security", "Security-Curated", "Software Company", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

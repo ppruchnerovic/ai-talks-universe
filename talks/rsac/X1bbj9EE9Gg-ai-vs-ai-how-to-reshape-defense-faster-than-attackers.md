@@ -15,6 +15,7 @@ video_id: X1bbj9EE9Gg
 url: https://www.youtube.com/watch?v=X1bbj9EE9Gg
 youtube_url: https://www.youtube.com/watch?v=X1bbj9EE9Gg
 tags: ["rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: B-NKBmwMvAs
 url: https://www.youtube.com/watch?v=B-NKBmwMvAs
 youtube_url: https://www.youtube.com/watch?v=B-NKBmwMvAs
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: false
 ---
 

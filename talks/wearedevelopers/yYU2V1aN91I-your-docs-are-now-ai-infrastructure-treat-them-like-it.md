@@ -15,6 +15,7 @@ video_id: yYU2V1aN91I
 url: https://www.youtube.com/watch?v=yYU2V1aN91I
 youtube_url: https://www.youtube.com/watch?v=yYU2V1aN91I
 tags: ["Developer Experience", "Advocacy", "AI Coding Assistants", "APIs", "Documentation", "Embeddings", "Retrieval-Augmented Generation (RAG)", "Vector Databases"]
+topics: ["Coding assistants & agents", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

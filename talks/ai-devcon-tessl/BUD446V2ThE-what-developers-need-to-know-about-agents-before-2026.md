@@ -15,6 +15,7 @@ video_id: BUD446V2ThE
 url: https://www.youtube.com/watch?v=BUD446V2ThE
 youtube_url: https://www.youtube.com/watch?v=BUD446V2ThE
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

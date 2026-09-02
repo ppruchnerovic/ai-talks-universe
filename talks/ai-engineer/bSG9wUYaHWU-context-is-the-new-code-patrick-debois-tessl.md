@@ -15,6 +15,7 @@ video_id: bSG9wUYaHWU
 url: https://www.youtube.com/watch?v=bSG9wUYaHWU
 youtube_url: https://www.youtube.com/watch?v=bSG9wUYaHWU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

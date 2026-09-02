@@ -15,6 +15,7 @@ video_id: 6P7tD7CWWZA
 url: https://www.youtube.com/watch?v=6P7tD7CWWZA
 youtube_url: https://www.youtube.com/watch?v=6P7tD7CWWZA
 tags: ["camlis", "camlis2019"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

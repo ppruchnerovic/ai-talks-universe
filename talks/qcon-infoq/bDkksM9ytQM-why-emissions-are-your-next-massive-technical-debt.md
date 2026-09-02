@@ -15,6 +15,7 @@ video_id: bDkksM9ytQM
 url: https://www.youtube.com/watch?v=bDkksM9ytQM
 youtube_url: https://www.youtube.com/watch?v=bDkksM9ytQM
 tags: ["Software Development", "QCon London", "InfoQ", "Transcript", "Green IT", "FinOps", "Green Software", "Sustainable Computing", "Software Architecture", "Sustainability In Tech", "Engineering Leadership"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

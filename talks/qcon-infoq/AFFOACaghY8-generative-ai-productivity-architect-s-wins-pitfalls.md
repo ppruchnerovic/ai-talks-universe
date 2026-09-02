@@ -15,6 +15,7 @@ video_id: AFFOACaghY8
 url: https://www.youtube.com/watch?v=AFFOACaghY8
 youtube_url: https://www.youtube.com/watch?v=AFFOACaghY8
 tags: ["Generative AI", "LLMs", "Software Architecture", "Engineering Leadership", "GenAI", "Large Language Models", "QCon San Francisco", "InfoQ", "Transcript", "Artificial Intelligence", "Case Study", "Productivity"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

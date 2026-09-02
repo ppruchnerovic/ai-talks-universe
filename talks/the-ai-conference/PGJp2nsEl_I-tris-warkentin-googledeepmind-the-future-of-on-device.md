@@ -15,6 +15,7 @@ video_id: PGJp2nsEl_I
 url: https://www.youtube.com/watch?v=PGJp2nsEl_I
 youtube_url: https://www.youtube.com/watch?v=PGJp2nsEl_I
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

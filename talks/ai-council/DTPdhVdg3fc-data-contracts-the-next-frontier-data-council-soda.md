@@ -15,6 +15,7 @@ video_id: DTPdhVdg3fc
 url: https://www.youtube.com/watch?v=DTPdhVdg3fc
 youtube_url: https://www.youtube.com/watch?v=DTPdhVdg3fc
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: v__lcEOvE9E
 url: https://www.youtube.com/watch?v=v__lcEOvE9E
 youtube_url: https://www.youtube.com/watch?v=v__lcEOvE9E
 tags: ["batch processing", "real time processing", "data lakehouse", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "streaming", "data architecture", "stream processing", "real time analytics", "data platform", "scalability", "Python tutorial", "lambda architecture", "kappa architecture", "micro batching", "windowing", "stateful processing", "event time processing", "watermarks", "late data handling", "backpressure"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

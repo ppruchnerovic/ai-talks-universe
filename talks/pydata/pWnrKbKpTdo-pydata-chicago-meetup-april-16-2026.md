@@ -15,6 +15,7 @@ video_id: pWnrKbKpTdo
 url: https://www.youtube.com/watch?v=pWnrKbKpTdo
 youtube_url: https://www.youtube.com/watch?v=pWnrKbKpTdo
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

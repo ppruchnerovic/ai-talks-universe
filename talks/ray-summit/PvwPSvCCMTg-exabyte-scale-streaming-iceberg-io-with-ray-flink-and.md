@@ -15,6 +15,7 @@ video_id: PvwPSvCCMTg
 url: https://www.youtube.com/watch?v=PvwPSvCCMTg
 youtube_url: https://www.youtube.com/watch?v=PvwPSvCCMTg
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

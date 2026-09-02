@@ -15,6 +15,7 @@ video_id: dBRPi41nrJw
 url: https://www.youtube.com/watch?v=dBRPi41nrJw
 youtube_url: https://www.youtube.com/watch?v=dBRPi41nrJw
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

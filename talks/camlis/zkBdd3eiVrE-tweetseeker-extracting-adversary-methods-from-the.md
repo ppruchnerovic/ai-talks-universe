@@ -15,6 +15,7 @@ video_id: zkBdd3eiVrE
 url: https://www.youtube.com/watch?v=zkBdd3eiVrE
 youtube_url: https://www.youtube.com/watch?v=zkBdd3eiVrE
 tags: ["camlis", "camlis2019"]
+topics: []
 transcript: false
 ---
 

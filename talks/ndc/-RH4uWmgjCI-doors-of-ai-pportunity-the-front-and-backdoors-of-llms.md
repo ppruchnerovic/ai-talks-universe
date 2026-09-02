@@ -15,6 +15,7 @@ video_id: -RH4uWmgjCI
 url: https://www.youtube.com/watch?v=-RH4uWmgjCI
 youtube_url: https://www.youtube.com/watch?v=-RH4uWmgjCI
 tags: ["Security", "AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Kenneth Yeung", "Kasimir Schulz", "Kasimir Schulz & Kenneth Yeung"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

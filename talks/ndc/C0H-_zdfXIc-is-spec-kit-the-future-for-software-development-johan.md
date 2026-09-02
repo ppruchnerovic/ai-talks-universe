@@ -15,6 +15,7 @@ video_id: C0H-_zdfXIc
 url: https://www.youtube.com/watch?v=C0H-_zdfXIc
 youtube_url: https://www.youtube.com/watch?v=C0H-_zdfXIc
 tags: [".NET", "AI", "GenAI", "NDC", "Conferences", "Live", "Fun", "Copenhagen", "Denmark", "Johan Smarius"]
+topics: []
 transcript: true
 ---
 

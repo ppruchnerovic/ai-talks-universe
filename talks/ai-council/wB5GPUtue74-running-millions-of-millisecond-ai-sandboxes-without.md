@@ -15,6 +15,7 @@ video_id: wB5GPUtue74
 url: https://www.youtube.com/watch?v=wB5GPUtue74
 youtube_url: https://www.youtube.com/watch?v=wB5GPUtue74
 tags: ["AI"]
+topics: []
 transcript: true
 ---
 

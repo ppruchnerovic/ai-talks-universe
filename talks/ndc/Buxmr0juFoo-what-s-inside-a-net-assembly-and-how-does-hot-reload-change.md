@@ -15,6 +15,7 @@ video_id: Buxmr0juFoo
 url: https://www.youtube.com/watch?v=Buxmr0juFoo
 youtube_url: https://www.youtube.com/watch?v=Buxmr0juFoo
 tags: [".NET", "Programming Languages", "Tools", "Roslyn", "C#", "NDC", "Conferences", "2025", "Live", "Fun", "Melbourne", "Australia", "David Wengier"]
+topics: []
 transcript: false
 ---
 

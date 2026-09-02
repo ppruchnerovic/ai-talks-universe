@@ -15,6 +15,7 @@ video_id: A3ngyDReuh0
 url: https://www.youtube.com/watch?v=A3ngyDReuh0
 youtube_url: https://www.youtube.com/watch?v=A3ngyDReuh0
 tags: ["startup", "database monitoring", "observability", "ChatGPT", "artificial intelligence", "machine learning", "data modeling", "database observability", "data awareness", "DevOps", "SRE", "Python tutorial", "performance monitoring", "system monitoring", "alerting", "incident response", "troubleshooting", "database administration", "site reliability engineering", "infrastructure monitoring", "application monitoring", "log analysis"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

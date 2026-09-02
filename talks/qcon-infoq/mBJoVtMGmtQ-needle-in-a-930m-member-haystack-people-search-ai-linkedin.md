@@ -15,6 +15,7 @@ video_id: mBJoVtMGmtQ
 url: https://www.youtube.com/watch?v=mBJoVtMGmtQ
 youtube_url: https://www.youtube.com/watch?v=mBJoVtMGmtQ
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "LinkedIn", "Search", "Rankings", "Database", "InfoQ", "QCon", "Transcript"]
+topics: []
 transcript: false
 ---
 

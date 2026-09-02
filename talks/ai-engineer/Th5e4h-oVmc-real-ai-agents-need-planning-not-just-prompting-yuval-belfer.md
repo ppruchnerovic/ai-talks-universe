@@ -15,6 +15,7 @@ video_id: Th5e4h-oVmc
 url: https://www.youtube.com/watch?v=Th5e4h-oVmc
 youtube_url: https://www.youtube.com/watch?v=Th5e4h-oVmc
 tags: []
+topics: ["Agents & orchestration", "Prompting & context engineering"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: IC1mtUXdXdI
 url: https://www.youtube.com/watch?v=IC1mtUXdXdI
 youtube_url: https://www.youtube.com/watch?v=IC1mtUXdXdI
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: OFFU38CmaaA
 url: https://www.youtube.com/watch?v=OFFU38CmaaA
 youtube_url: https://www.youtube.com/watch?v=OFFU38CmaaA
 tags: ["ADA compliance", "Bokeh", "Conference", "European Accessibility Act", "PyCon", "PyConDE", "PyData", "Python", "SVG", "Tech Talk", "Vega-Altair", "WCAG", "accessibility", "color blindness", "data science", "data visualization", "inclusive design", "visualization libraries", "web accessibility"]
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

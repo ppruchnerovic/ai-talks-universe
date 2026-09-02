@@ -15,6 +15,7 @@ video_id: QL3bpkNJRec
 url: https://www.youtube.com/watch?v=QL3bpkNJRec
 youtube_url: https://www.youtube.com/watch?v=QL3bpkNJRec
 tags: []
+topics: []
 transcript: true
 ---
 

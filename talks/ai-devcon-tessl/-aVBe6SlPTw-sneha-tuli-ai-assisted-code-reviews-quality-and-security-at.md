@@ -15,6 +15,7 @@ video_id: -aVBe6SlPTw
 url: https://www.youtube.com/watch?v=-aVBe6SlPTw
 youtube_url: https://www.youtube.com/watch?v=-aVBe6SlPTw
 tags: ["ainativedev"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

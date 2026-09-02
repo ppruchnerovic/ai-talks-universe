@@ -15,6 +15,7 @@ video_id: vDaBew1khj4
 url: https://www.youtube.com/watch?v=vDaBew1khj4
 youtube_url: https://www.youtube.com/watch?v=vDaBew1khj4
 tags: ["future", "hr", "people", "culture", "talent acquisition", "leadership", "human resources", "recruiting"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

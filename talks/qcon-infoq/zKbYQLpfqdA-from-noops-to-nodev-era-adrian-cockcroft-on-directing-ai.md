@@ -15,6 +15,7 @@ video_id: zKbYQLpfqdA
 url: https://www.youtube.com/watch?v=zKbYQLpfqdA
 youtube_url: https://www.youtube.com/watch?v=zKbYQLpfqdA
 tags: ["InfoQ", "Transcript", "QCon San Francisco", "Artificial Intelligence", "AI Agents", "Software Architecture", "Generative AI", "Engineering Leadership", "Cloud Native", "DevOps"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

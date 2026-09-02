@@ -15,6 +15,7 @@ video_id: kXo6SZXWaXQ
 url: https://www.youtube.com/watch?v=kXo6SZXWaXQ
 youtube_url: https://www.youtube.com/watch?v=kXo6SZXWaXQ
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

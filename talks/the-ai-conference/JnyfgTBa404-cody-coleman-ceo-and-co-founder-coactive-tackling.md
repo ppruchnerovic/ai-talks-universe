@@ -15,6 +15,7 @@ video_id: JnyfgTBa404
 url: https://www.youtube.com/watch?v=JnyfgTBa404
 youtube_url: https://www.youtube.com/watch?v=JnyfgTBa404
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

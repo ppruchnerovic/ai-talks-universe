@@ -15,6 +15,7 @@ video_id: DSxMPEUDd48
 url: https://www.youtube.com/watch?v=DSxMPEUDd48
 youtube_url: https://www.youtube.com/watch?v=DSxMPEUDd48
 tags: []
+topics: []
 transcript: true
 ---
 

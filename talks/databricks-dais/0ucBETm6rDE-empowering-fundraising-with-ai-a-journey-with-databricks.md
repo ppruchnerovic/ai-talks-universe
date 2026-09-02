@@ -15,6 +15,7 @@ video_id: 0ucBETm6rDE
 url: https://www.youtube.com/watch?v=0ucBETm6rDE
 youtube_url: https://www.youtube.com/watch?v=0ucBETm6rDE
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

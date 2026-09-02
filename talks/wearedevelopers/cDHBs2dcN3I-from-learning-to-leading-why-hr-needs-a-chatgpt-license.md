@@ -15,6 +15,7 @@ video_id: cDHBs2dcN3I
 url: https://www.youtube.com/watch?v=cDHBs2dcN3I
 youtube_url: https://www.youtube.com/watch?v=cDHBs2dcN3I
 tags: ["WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "chatgpt", "ai", "automation", "hr", "innovation", "regulation", "disruption", "adoption", "change", "leadership"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

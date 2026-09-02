@@ -15,6 +15,7 @@ video_id: sOvtPvaog3M
 url: https://www.youtube.com/watch?v=sOvtPvaog3M
 youtube_url: https://www.youtube.com/watch?v=sOvtPvaog3M
 tags: ["1ce61725-4e6d-40e0-902f-a17d1366824a_M9Z7-BRKSP91-1", "AI", "AI Toolkit", "API", "Alicia Frame", "App Developers", "BRKSP91", "Developer", "Jetashree Ravi", "Microsoft Foundry", "Turn foundation models into production AI on Microsoft Foundry | BRKSP91", "Vivek Chauhan", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

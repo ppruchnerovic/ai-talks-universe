@@ -15,6 +15,7 @@ video_id: 7OkSrMBirmc
 url: https://www.youtube.com/watch?v=7OkSrMBirmc
 youtube_url: https://www.youtube.com/watch?v=7OkSrMBirmc
 tags: []
+topics: []
 transcript: true
 ---
 

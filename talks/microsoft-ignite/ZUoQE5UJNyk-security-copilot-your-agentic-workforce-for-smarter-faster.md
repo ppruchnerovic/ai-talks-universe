@@ -15,6 +15,7 @@ video_id: ZUoQE5UJNyk
 url: https://www.youtube.com/watch?v=ZUoQE5UJNyk
 youtube_url: https://www.youtube.com/watch?v=ZUoQE5UJNyk
 tags: ["BRK238", "English (US)", "Lizzie Heinze", "Modernize SecOps with a unified platform", "Sarat Subramaniam", "Security Copilot: Your agentic workforce for smarter faster defense | BRK238", "Technical", "ac382c4d-0d03-46b7-be0f-df13bc8cd90a_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

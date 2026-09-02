@@ -15,6 +15,7 @@ video_id: a0byEIaDi8U
 url: https://www.youtube.com/watch?v=a0byEIaDi8U
 youtube_url: https://www.youtube.com/watch?v=a0byEIaDi8U
 tags: ["English (US)", "Microsoft Foundry: The AI app and agent factory | STUDIO31", "Other", "STUDIO31", "STUDIO31_v1", "Yina Arenas", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

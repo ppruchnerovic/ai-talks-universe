@@ -15,6 +15,7 @@ video_id: hqyIGEWTL_U
 url: https://www.youtube.com/watch?v=hqyIGEWTL_U
 youtube_url: https://www.youtube.com/watch?v=hqyIGEWTL_U
 tags: []
+topics: ["Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

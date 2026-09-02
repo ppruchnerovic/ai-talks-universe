@@ -15,6 +15,7 @@ video_id: r3V_VPbhyso
 url: https://www.youtube.com/watch?v=r3V_VPbhyso
 youtube_url: https://www.youtube.com/watch?v=r3V_VPbhyso
 tags: []
+topics: []
 transcript: false
 ---
 

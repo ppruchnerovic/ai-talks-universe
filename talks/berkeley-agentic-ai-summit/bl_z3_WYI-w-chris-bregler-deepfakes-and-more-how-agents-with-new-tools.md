@@ -15,6 +15,7 @@ video_id: bl_z3_WYI-w
 url: https://www.youtube.com/watch?v=bl_z3_WYI-w
 youtube_url: https://www.youtube.com/watch?v=bl_z3_WYI-w
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

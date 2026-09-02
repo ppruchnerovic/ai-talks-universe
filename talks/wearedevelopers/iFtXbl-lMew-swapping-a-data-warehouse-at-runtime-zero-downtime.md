@@ -15,6 +15,7 @@ video_id: iFtXbl-lMew
 url: https://www.youtube.com/watch?v=iFtXbl-lMew
 youtube_url: https://www.youtube.com/watch?v=iFtXbl-lMew
 tags: ["Data & Databases", "Apache Iceberg", "Data Lakes", "DuckDB", "Lakehouse", "Performance", "Python", "Rust", "SQL"]
+topics: ["Data engineering & MLOps"]
 transcript: true
 ---
 

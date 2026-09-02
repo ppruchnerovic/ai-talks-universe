@@ -15,6 +15,7 @@ video_id: dYt_fabaK60
 url: https://www.youtube.com/watch?v=dYt_fabaK60
 youtube_url: https://www.youtube.com/watch?v=dYt_fabaK60
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

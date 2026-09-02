@@ -15,6 +15,7 @@ video_id: 08mH36_NVos
 url: https://www.youtube.com/watch?v=08mH36_NVos
 youtube_url: https://www.youtube.com/watch?v=08mH36_NVos
 tags: []
+topics: ["Classic ML & data science", "Governance, ethics & regulation"]
 transcript: false
 ---
 

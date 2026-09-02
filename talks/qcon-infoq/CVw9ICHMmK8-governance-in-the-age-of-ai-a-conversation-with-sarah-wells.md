@@ -15,6 +15,7 @@ video_id: CVw9ICHMmK8
 url: https://www.youtube.com/watch?v=CVw9ICHMmK8
 youtube_url: https://www.youtube.com/watch?v=CVw9ICHMmK8
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

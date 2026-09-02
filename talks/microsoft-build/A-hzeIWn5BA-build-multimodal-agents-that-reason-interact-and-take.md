@@ -15,6 +15,7 @@ video_id: A-hzeIWn5BA
 url: https://www.youtube.com/watch?v=A-hzeIWn5BA
 youtube_url: https://www.youtube.com/watch?v=A-hzeIWn5BA
 tags: ["Agents", "Build multimodal agents that reason interact and take action | DEM330", "DEM330", "DEM330_v1", "Developer", "Henk Boelman", "Microsoft Foundry", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

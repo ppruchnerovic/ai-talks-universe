@@ -15,6 +15,7 @@ video_id: 3VPTX_56390
 url: https://www.youtube.com/watch?v=3VPTX_56390
 youtube_url: https://www.youtube.com/watch?v=3VPTX_56390
 tags: ["data analytics", "notebooks", "ChatGPT", "artificial intelligence", "machine learning", "Python", "data science", "multi modal computing", "data visualization", "analytics platform", "computational notebooks", "parallelized backend", "Jupyter", "collaborative analytics", "interactive computing", "exploratory data analysis", "reproducible research", "version control", "experiment tracking", "visualization tools", "statistical analysis", "machine learning workflows"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

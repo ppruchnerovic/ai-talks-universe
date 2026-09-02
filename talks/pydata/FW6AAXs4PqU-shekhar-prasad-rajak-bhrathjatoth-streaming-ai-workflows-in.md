@@ -15,6 +15,7 @@ video_id: FW6AAXs4PqU
 url: https://www.youtube.com/watch?v=FW6AAXs4PqU
 youtube_url: https://www.youtube.com/watch?v=FW6AAXs4PqU
 tags: []
+topics: []
 transcript: false
 ---
 

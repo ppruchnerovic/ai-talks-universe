@@ -15,6 +15,7 @@ video_id: _LXYwdFAFCE
 url: https://www.youtube.com/watch?v=_LXYwdFAFCE
 youtube_url: https://www.youtube.com/watch?v=_LXYwdFAFCE
 tags: ["AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: DrTdD-ttjCY
 url: https://www.youtube.com/watch?v=DrTdD-ttjCY
 youtube_url: https://www.youtube.com/watch?v=DrTdD-ttjCY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

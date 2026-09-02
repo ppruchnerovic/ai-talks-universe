@@ -15,6 +15,7 @@ video_id: K9lFKmpeitI
 url: https://www.youtube.com/watch?v=K9lFKmpeitI
 youtube_url: https://www.youtube.com/watch?v=K9lFKmpeitI
 tags: ["Agentic business applications", "English (US)", "Explore the next wave of enterprise AI with agentic AI & SLMs | ODSP1442", "ODSP1442", "ODSP1442_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

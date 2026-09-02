@@ -15,6 +15,7 @@ video_id: XqzMDWm95CM
 url: https://www.youtube.com/watch?v=XqzMDWm95CM
 youtube_url: https://www.youtube.com/watch?v=XqzMDWm95CM
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Claude Code", "Software Development Life Cycle", "AI", "Artificial Intelligence", "Software Development", "Anthropic", "AI Coding"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: uO00c-kVN2s
 url: https://www.youtube.com/watch?v=uO00c-kVN2s
 youtube_url: https://www.youtube.com/watch?v=uO00c-kVN2s
 tags: ["AI Agents"]
+topics: []
 transcript: true
 ---
 

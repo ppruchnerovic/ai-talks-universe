@@ -15,6 +15,7 @@ video_id: UCZdqrS3gZk
 url: https://www.youtube.com/watch?v=UCZdqrS3gZk
 youtube_url: https://www.youtube.com/watch?v=UCZdqrS3gZk
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["AI in the SDLC & engineering orgs", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

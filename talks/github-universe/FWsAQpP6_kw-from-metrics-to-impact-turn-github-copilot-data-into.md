@@ -15,6 +15,7 @@ video_id: FWsAQpP6_kw
 url: https://www.youtube.com/watch?v=FWsAQpP6_kw
 youtube_url: https://www.youtube.com/watch?v=FWsAQpP6_kw
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

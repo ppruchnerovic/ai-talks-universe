@@ -15,6 +15,7 @@ video_id: mkH38O3wLog
 url: https://www.youtube.com/watch?v=mkH38O3wLog
 youtube_url: https://www.youtube.com/watch?v=mkH38O3wLog
 tags: []
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: gYlLCtWk2x0
 url: https://www.youtube.com/watch?v=gYlLCtWk2x0
 youtube_url: https://www.youtube.com/watch?v=gYlLCtWk2x0
 tags: ["Developer Experience", "GitOps", "Open Source", "Ruby", "Rust"]
+topics: []
 transcript: true
 ---
 

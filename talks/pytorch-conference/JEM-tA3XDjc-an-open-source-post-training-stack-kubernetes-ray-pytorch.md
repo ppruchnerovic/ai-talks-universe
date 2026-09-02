@@ -15,6 +15,7 @@ video_id: JEM-tA3XDjc
 url: https://www.youtube.com/watch?v=JEM-tA3XDjc
 youtube_url: https://www.youtube.com/watch?v=JEM-tA3XDjc
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

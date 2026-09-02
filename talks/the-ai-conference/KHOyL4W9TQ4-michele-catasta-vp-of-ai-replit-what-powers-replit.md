@@ -15,6 +15,7 @@ video_id: KHOyL4W9TQ4
 url: https://www.youtube.com/watch?v=KHOyL4W9TQ4
 youtube_url: https://www.youtube.com/watch?v=KHOyL4W9TQ4
 tags: []
+topics: ["Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

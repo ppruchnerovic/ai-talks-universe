@@ -15,6 +15,7 @@ video_id: VsPgTpX0nVs
 url: https://www.youtube.com/watch?v=VsPgTpX0nVs
 youtube_url: https://www.youtube.com/watch?v=VsPgTpX0nVs
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "Machine Learning Optimizations and Strategy for Post-Covid Era", "Machine Learning Optimizations and Strategy", "Machine Learning Optimizations", "machine learning strategy", "Data Science", "machine learning optimizations and strategy for post-covid era"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

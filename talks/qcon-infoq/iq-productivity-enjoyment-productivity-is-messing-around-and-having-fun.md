@@ -15,6 +15,7 @@ video_id: iq-productivity-enjoyment
 url: https://www.infoq.com/presentations/productivity-enjoyment/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: Z2Erdirpudo
 url: https://www.youtube.com/watch?v=Z2Erdirpudo
 youtube_url: https://www.youtube.com/watch?v=Z2Erdirpudo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 1LEXE8H0BaE
 url: https://www.youtube.com/watch?v=1LEXE8H0BaE
 youtube_url: https://www.youtube.com/watch?v=1LEXE8H0BaE
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

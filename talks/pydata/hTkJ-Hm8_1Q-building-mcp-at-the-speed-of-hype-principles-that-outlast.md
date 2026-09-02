@@ -15,6 +15,7 @@ video_id: hTkJ-Hm8_1Q
 url: https://www.youtube.com/watch?v=hTkJ-Hm8_1Q
 youtube_url: https://www.youtube.com/watch?v=hTkJ-Hm8_1Q
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

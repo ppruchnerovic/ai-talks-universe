@@ -15,6 +15,7 @@ video_id: qeRDuU1XnwE
 url: https://www.youtube.com/watch?v=qeRDuU1XnwE
 youtube_url: https://www.youtube.com/watch?v=qeRDuU1XnwE
 tags: ["Accelerate Partner Impact in Every Industry with AI | PBRK388", "Colin Fleming", "English (US)", "Ihab Foudeh", "Kathleen Mitford", "Microsoft AI Cloud Partner Program", "Other", "PBRK388", "Partner Business", "Satish Thomas", "Sunil Senan", "X-Industry", "c37a1f6d-f420-40de-8583-ffab1395b2aa_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

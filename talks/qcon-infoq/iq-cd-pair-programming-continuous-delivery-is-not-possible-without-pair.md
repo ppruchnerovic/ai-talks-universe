@@ -15,6 +15,7 @@ video_id: iq-cd-pair-programming
 url: https://www.infoq.com/presentations/cd-pair-programming/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

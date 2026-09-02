@@ -15,6 +15,7 @@ video_id: Xe3iqFpT3U8
 url: https://www.youtube.com/watch?v=Xe3iqFpT3U8
 youtube_url: https://www.youtube.com/watch?v=Xe3iqFpT3U8
 tags: ["Ground Truth", "BSidesLV2019", "2019-bsideslv-075", "GT", "BSidesLV", "gt", "bslv", "bslv2019"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

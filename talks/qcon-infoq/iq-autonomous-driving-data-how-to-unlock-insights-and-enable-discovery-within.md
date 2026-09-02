@@ -15,6 +15,7 @@ video_id: iq-autonomous-driving-data
 url: https://www.infoq.com/presentations/autonomous-driving-data/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

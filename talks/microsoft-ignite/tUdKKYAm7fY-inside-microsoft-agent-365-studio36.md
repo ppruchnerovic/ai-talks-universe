@@ -15,6 +15,7 @@ video_id: tUdKKYAm7fY
 url: https://www.youtube.com/watch?v=tUdKKYAm7fY
 youtube_url: https://www.youtube.com/watch?v=tUdKKYAm7fY
 tags: ["Caroline Stanford", "English (US)", "Inside Microsoft Agent 365 | STUDIO36", "Jeremy Chapman", "Other", "STUDIO36", "STUDIO36_v3", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: xnXqpUW_Kp8
 url: https://www.youtube.com/watch?v=xnXqpUW_Kp8
 youtube_url: https://www.youtube.com/watch?v=xnXqpUW_Kp8
 tags: []
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

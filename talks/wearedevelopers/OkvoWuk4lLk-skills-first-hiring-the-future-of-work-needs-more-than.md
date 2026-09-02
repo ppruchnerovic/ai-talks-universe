@@ -15,6 +15,7 @@ video_id: OkvoWuk4lLk
 url: https://www.youtube.com/watch?v=OkvoWuk4lLk
 youtube_url: https://www.youtube.com/watch?v=OkvoWuk4lLk
 tags: ["IT", "people", "future", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "TA", "hiring", "hr", "people and culture", "skills-first hiring", "skill-based hiring", "future of work", "candidates", "skills"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

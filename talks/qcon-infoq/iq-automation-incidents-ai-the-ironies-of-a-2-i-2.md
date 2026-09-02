@@ -15,6 +15,7 @@ video_id: iq-automation-incidents-ai
 url: https://www.infoq.com/presentations/automation-incidents-ai/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

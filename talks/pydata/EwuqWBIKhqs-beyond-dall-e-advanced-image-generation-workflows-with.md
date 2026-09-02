@@ -15,6 +15,7 @@ video_id: EwuqWBIKhqs
 url: https://www.youtube.com/watch?v=EwuqWBIKhqs
 youtube_url: https://www.youtube.com/watch?v=EwuqWBIKhqs
 tags: ["API integration", "ComfyUI", "Conference", "ControlNet", "LoRA models", "Programming", "PyConDE", "PyData", "Python", "Segment Anything Model", "Stable Diffusion", "Tech Talk", "computer vision", "generative AI", "image inpainting", "latent space manipulation", "node-based interfaces", "style transfer"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

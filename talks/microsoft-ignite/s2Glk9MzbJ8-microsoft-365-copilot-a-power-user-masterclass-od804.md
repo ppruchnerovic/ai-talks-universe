@@ -15,6 +15,7 @@ video_id: s2Glk9MzbJ8
 url: https://www.youtube.com/watch?v=s2Glk9MzbJ8
 youtube_url: https://www.youtube.com/watch?v=s2Glk9MzbJ8
 tags: ["Ana Beatriz Figueiredo F de Souza", "English (US)", "Jessica Kwok", "Microsoft 365 Copilot: a power-user masterclass | OD804", "Modern Work", "OD804", "Pre-recorded", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: hGTnbLuLhK0
 url: https://www.youtube.com/watch?v=hGTnbLuLhK0
 youtube_url: https://www.youtube.com/watch?v=hGTnbLuLhK0
 tags: ["Aishwarya Singh", "Brandon Lee", "English (US)", "NTT DATA interview title | STUDIOSP83", "STUDIOSP83", "STUDIOSP83_v1", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

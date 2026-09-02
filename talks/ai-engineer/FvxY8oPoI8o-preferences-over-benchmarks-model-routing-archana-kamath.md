@@ -15,6 +15,7 @@ video_id: FvxY8oPoI8o
 url: https://www.youtube.com/watch?v=FvxY8oPoI8o
 youtube_url: https://www.youtube.com/watch?v=FvxY8oPoI8o
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

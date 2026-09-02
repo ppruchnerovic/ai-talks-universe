@@ -15,6 +15,7 @@ video_id: iq-security-architecture-systemic-vulnerabilities
 url: https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

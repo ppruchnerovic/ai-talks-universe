@@ -15,6 +15,7 @@ video_id: y7Y6dosgXrA
 url: https://www.youtube.com/watch?v=y7Y6dosgXrA
 youtube_url: https://www.youtube.com/watch?v=y7Y6dosgXrA
 tags: ["Open Source", "MongoDB", "Distributed Document Oriented Database", "QCon San Francisco", "InfoQ", "Transcript", "NoSQL", "Database", "Database Design"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

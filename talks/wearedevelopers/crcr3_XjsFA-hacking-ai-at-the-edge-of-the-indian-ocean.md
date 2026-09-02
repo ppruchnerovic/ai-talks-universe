@@ -15,6 +15,7 @@ video_id: crcr3_XjsFA
 url: https://www.youtube.com/watch?v=crcr3_XjsFA
 youtube_url: https://www.youtube.com/watch?v=crcr3_XjsFA
 tags: ["Cloud & AI Infrastructure", "AI Models", "Agents", "Agentic AI", "Analytics", "Business Intelligence", "Case Study", "Collaboration", "Data", "Data Pipelines", "Data Science", "Databases", "Generative AI (GenAI)", "Innovation", "Large Language Models (LLMs)", "On-Premise", "SQL", "Tooling", "Tools"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

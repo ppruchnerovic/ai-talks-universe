@@ -15,6 +15,7 @@ video_id: dJh3yGozeic
 url: https://www.youtube.com/watch?v=dJh3yGozeic
 youtube_url: https://www.youtube.com/watch?v=dJh3yGozeic
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

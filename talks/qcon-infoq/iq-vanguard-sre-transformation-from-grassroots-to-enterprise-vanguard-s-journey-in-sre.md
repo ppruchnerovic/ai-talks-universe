@@ -15,6 +15,7 @@ video_id: iq-vanguard-sre-transformation
 url: https://www.infoq.com/presentations/vanguard-sre-transformation/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: true
 ---
 

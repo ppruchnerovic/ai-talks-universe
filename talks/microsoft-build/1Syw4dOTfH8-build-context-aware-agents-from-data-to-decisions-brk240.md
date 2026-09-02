@@ -15,6 +15,7 @@ video_id: 1Syw4dOTfH8
 url: https://www.youtube.com/watch?v=1Syw4dOTfH8
 youtube_url: https://www.youtube.com/watch?v=1Syw4dOTfH8
 tags: ["Agents", "Agents & Apps", "Amanda Silver", "BRK240", "BRK240_v2", "Build context-aware agents: From data to decisions | BRK240", "Context Engineer", "Enterprise", "Foundry IQ", "GitHub Advanced Security", "Governance", "Grounding", "Marco Casalaina", "Microsoft Foundry", "Production Systems", "Scaling", "Work IQ", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

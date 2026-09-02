@@ -15,6 +15,7 @@ video_id: sF2AE0RZJJQ
 url: https://www.youtube.com/watch?v=sF2AE0RZJJQ
 youtube_url: https://www.youtube.com/watch?v=sF2AE0RZJJQ
 tags: ["Developer Experience", "AI Coding Assistants", "Developer Experience (DevEx)", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

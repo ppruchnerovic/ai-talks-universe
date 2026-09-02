@@ -15,6 +15,7 @@ video_id: nCAEJSD_X2k
 url: https://www.youtube.com/watch?v=nCAEJSD_X2k
 youtube_url: https://www.youtube.com/watch?v=nCAEJSD_X2k
 tags: ["Engineering Leadership", "AI Standards", "Developer Experience (DevEx)", "DORA Metrics", "Metrics", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

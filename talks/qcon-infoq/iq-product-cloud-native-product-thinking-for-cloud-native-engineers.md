@@ -15,6 +15,7 @@ video_id: iq-product-cloud-native
 url: https://www.infoq.com/presentations/product-cloud-native/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

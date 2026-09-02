@@ -15,6 +15,7 @@ video_id: kXPus6SEwM4
 url: https://www.youtube.com/watch?v=kXPus6SEwM4
 youtube_url: https://www.youtube.com/watch?v=kXPus6SEwM4
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

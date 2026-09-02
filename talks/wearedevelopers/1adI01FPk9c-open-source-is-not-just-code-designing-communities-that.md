@@ -15,6 +15,7 @@ video_id: 1adI01FPk9c
 url: https://www.youtube.com/watch?v=1adI01FPk9c
 youtube_url: https://www.youtube.com/watch?v=1adI01FPk9c
 tags: ["Developer Experience", "Community", "DevRel & Advocacy", "Governance", "Open Source"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: McknwOzbmyg
 url: https://www.youtube.com/watch?v=McknwOzbmyg
 youtube_url: https://www.youtube.com/watch?v=McknwOzbmyg
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

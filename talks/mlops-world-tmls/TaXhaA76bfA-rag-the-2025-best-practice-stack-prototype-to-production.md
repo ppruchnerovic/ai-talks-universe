@@ -15,6 +15,7 @@ video_id: TaXhaA76bfA
 url: https://www.youtube.com/watch?v=TaXhaA76bfA
 youtube_url: https://www.youtube.com/watch?v=TaXhaA76bfA
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

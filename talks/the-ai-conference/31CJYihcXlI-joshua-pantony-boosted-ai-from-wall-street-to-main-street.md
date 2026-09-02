@@ -15,6 +15,7 @@ video_id: 31CJYihcXlI
 url: https://www.youtube.com/watch?v=31CJYihcXlI
 youtube_url: https://www.youtube.com/watch?v=31CJYihcXlI
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

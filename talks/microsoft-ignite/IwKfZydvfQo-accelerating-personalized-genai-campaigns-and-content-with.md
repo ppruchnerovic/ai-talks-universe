@@ -15,6 +15,7 @@ video_id: IwKfZydvfQo
 url: https://www.youtube.com/watch?v=IwKfZydvfQo
 youtube_url: https://www.youtube.com/watch?v=IwKfZydvfQo
 tags: ["AI", "Accelerating personalized GenAI campaigns and content with Typeface | ODFP920", "Dinasha Cellura", "English (US)", "Foundational (100)", "ODFP920", "Pre-recorded", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

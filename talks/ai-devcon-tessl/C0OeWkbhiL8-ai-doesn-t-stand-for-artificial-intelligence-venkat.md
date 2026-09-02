@@ -15,6 +15,7 @@ video_id: C0OeWkbhiL8
 url: https://www.youtube.com/watch?v=C0OeWkbhiL8
 youtube_url: https://www.youtube.com/watch?v=C0OeWkbhiL8
 tags: ["AI accountability", "AI code quality issues", "AI developer accountability", "AI development", "AI ethics", "AI trends", "How to use AI responsibly", "Venkat Subramaniam AI insights", "Venkat Subramaniam Arc of AI", "What is AI hype curve?", "ainativedev", "coding principles", "developer responsibility", "programming ethics", "software development"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: hbShI0crCOg
 url: https://www.youtube.com/watch?v=hbShI0crCOg
 youtube_url: https://www.youtube.com/watch?v=hbShI0crCOg
 tags: ["AI Agents", "AI Models", "AI Standards", "Agentic AI", "Fine-Tuning", "PyTest", "Python", "Retrieval-Augmented Generation (RAG)", "Unit Testing"]
+topics: ["Agents & orchestration", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-hybrid-cloud-native-networking-enterprise
 url: https://www.infoq.com/presentations/hybrid-cloud-native-networking-enterprise/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

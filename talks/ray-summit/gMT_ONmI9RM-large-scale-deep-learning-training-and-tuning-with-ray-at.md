@@ -15,6 +15,7 @@ video_id: gMT_ONmI9RM
 url: https://www.youtube.com/watch?v=gMT_ONmI9RM
 youtube_url: https://www.youtube.com/watch?v=gMT_ONmI9RM
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

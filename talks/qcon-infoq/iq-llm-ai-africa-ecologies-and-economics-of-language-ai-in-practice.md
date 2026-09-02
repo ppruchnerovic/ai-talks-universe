@@ -15,6 +15,7 @@ video_id: iq-llm-ai-africa
 url: https://www.infoq.com/presentations/llm-ai-africa/
 youtube_url: null
 tags: []
+topics: ["Training, fine-tuning & model building"]
 transcript: true
 ---
 

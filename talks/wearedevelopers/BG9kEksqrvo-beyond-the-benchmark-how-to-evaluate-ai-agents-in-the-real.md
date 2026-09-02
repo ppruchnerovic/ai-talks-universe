@@ -15,6 +15,7 @@ video_id: BG9kEksqrvo
 url: https://www.youtube.com/watch?v=BG9kEksqrvo
 youtube_url: https://www.youtube.com/watch?v=BG9kEksqrvo
 tags: ["AI Agents", "Agents", "Agentic AI", "Infrastructure"]
+topics: ["Agents & orchestration", "Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

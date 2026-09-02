@@ -15,6 +15,7 @@ video_id: Z-AfOcWO_kk
 url: https://www.youtube.com/watch?v=Z-AfOcWO_kk
 youtube_url: https://www.youtube.com/watch?v=Z-AfOcWO_kk
 tags: []
+topics: ["Agents & orchestration", "Classic ML & data science", "Coding assistants & agents"]
 transcript: true
 ---
 

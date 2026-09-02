@@ -15,6 +15,7 @@ video_id: 1eZAoda77-o
 url: https://www.youtube.com/watch?v=1eZAoda77-o
 youtube_url: https://www.youtube.com/watch?v=1eZAoda77-o
 tags: []
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 3khkeeGwJFo
 url: https://www.youtube.com/watch?v=3khkeeGwJFo
 youtube_url: https://www.youtube.com/watch?v=3khkeeGwJFo
 tags: ["hr revolution", "hr", "people", "employer branding", "leadership", "transformation", "people experience", "employee experience", "people and culture", "culture", "policies"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

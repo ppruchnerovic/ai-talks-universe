@@ -15,6 +15,7 @@ video_id: owH1f0N-keY
 url: https://www.youtube.com/watch?v=owH1f0N-keY
 youtube_url: https://www.youtube.com/watch?v=owH1f0N-keY
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Inference, serving & GPU infra", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

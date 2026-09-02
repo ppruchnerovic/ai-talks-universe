@@ -15,6 +15,7 @@ video_id: D5Jws53f66M
 url: https://www.youtube.com/watch?v=D5Jws53f66M
 youtube_url: https://www.youtube.com/watch?v=D5Jws53f66M
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

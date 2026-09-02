@@ -15,6 +15,7 @@ video_id: dgPJwHXDj0o
 url: https://www.youtube.com/watch?v=dgPJwHXDj0o
 youtube_url: https://www.youtube.com/watch?v=dgPJwHXDj0o
 tags: ["C#"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

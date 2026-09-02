@@ -15,6 +15,7 @@ video_id: bUamsPUHURA
 url: https://www.youtube.com/watch?v=bUamsPUHURA
 youtube_url: https://www.youtube.com/watch?v=bUamsPUHURA
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

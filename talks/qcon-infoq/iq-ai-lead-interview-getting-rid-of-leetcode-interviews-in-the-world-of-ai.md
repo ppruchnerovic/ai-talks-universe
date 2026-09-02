@@ -15,6 +15,7 @@ video_id: iq-ai-lead-interview
 url: https://www.infoq.com/presentations/ai-lead-interview/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

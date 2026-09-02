@@ -15,6 +15,7 @@ video_id: iq-rust-tps-service
 url: https://www.infoq.com/presentations/rust-tps-service/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

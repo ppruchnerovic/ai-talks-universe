@@ -15,6 +15,7 @@ video_id: v6dolovQGXU
 url: https://www.youtube.com/watch?v=v6dolovQGXU
 youtube_url: https://www.youtube.com/watch?v=v6dolovQGXU
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: kOLTSvrDe60
 url: https://www.youtube.com/watch?v=kOLTSvrDe60
 youtube_url: https://www.youtube.com/watch?v=kOLTSvrDe60
 tags: []
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

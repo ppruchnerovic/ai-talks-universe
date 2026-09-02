@@ -15,6 +15,7 @@ video_id: AdTICbCjszk
 url: https://www.youtube.com/watch?v=AdTICbCjszk
 youtube_url: https://www.youtube.com/watch?v=AdTICbCjszk
 tags: ["SoftwareArchitecture", "SystemDesign", "SoftwareEngineering", "TheInfoQPodcast", "AI", "GradyBooch"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

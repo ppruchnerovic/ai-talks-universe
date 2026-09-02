@@ -15,6 +15,7 @@ video_id: T84T6TKd5-I
 url: https://www.youtube.com/watch?v=T84T6TKd5-I
 youtube_url: https://www.youtube.com/watch?v=T84T6TKd5-I
 tags: ["Security & Privacy", "AI Coding Assistants", "Code Generation", "Security"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

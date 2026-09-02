@@ -15,6 +15,7 @@ video_id: iq-optimize-performance-cx-platform
 url: https://www.infoq.com/presentations/optimize-performance-cx-platform/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

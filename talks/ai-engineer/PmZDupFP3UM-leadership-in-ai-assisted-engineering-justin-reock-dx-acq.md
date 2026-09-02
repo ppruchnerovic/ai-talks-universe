@@ -15,6 +15,7 @@ video_id: PmZDupFP3UM
 url: https://www.youtube.com/watch?v=PmZDupFP3UM
 youtube_url: https://www.youtube.com/watch?v=PmZDupFP3UM
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

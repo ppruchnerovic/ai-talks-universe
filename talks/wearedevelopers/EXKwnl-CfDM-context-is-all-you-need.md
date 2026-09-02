@@ -15,6 +15,7 @@ video_id: EXKwnl-CfDM
 url: https://www.youtube.com/watch?v=EXKwnl-CfDM
 youtube_url: https://www.youtube.com/watch?v=EXKwnl-CfDM
 tags: ["AI Agents", "AI Models", "Agents", "Agentic AI", "Data", "Generative AI (GenAI)", "LangChain", "Large Language Models (LLMs)", "LLMOps", "Redis", "Security", "Vector Databases"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

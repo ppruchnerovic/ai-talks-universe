@@ -170,6 +170,7 @@ erDiagram
         string published_at "upload time; for a seed, when the talk was given"
         int duration_min
         list tags
+        list topics "0..n of fifteen subjects, by keyword rule over title, tags and description"
         string url "canonical link: the video, or the InfoQ page"
         string youtube_url "null unless there really is a video"
         int priority "from the registry: 1 is the practitioner core"
@@ -241,6 +242,34 @@ flowchart LR
 The rule is conservative on purpose: `speakers` is weighted four times a
 description word in both rankers, so one false positive lands under every talk
 that carries it.
+
+### What a talk is about
+
+`category` is a fact about the conference — every talk inherits one of five
+registry labels — so it cannot follow a subject inside a programme. `topics`
+is per talk and multi-valued: fifteen subjects (`atu.TOPICS`), each a list of
+phrases compiled with the same word boundaries as the AI-relevance test.
+
+```mermaid
+flowchart LR
+    TI["title"] -- "any phrase: 2" --> SUM
+    TG["tags, minus the ones on >30% of the conference"] -- "1 per distinct phrase" --> SUM
+    DE["description, minus lines >10% of the conference repeats verbatim"] -- "1 per distinct phrase" --> SUM
+    SUM{"score ≥ 2?"} -- yes --> ON["topic assigned"]
+    SUM -- no --> OFF["not this topic"]
+    TR["transcript"] -. "never read" .- SUM
+```
+
+A title mention is enough by itself; tags and description together have to
+say two *different* things about a subject. Transcripts are left out on
+purpose — a third of talks have one, and a label that moved when a transcript
+arrived would make the facet drift with every fetch. The two subtractions are
+the speaker rule again: what a whole conference repeats is the channel, not
+the talk (PyData's "PyData is an educational program of NumFOCUS…" under every
+video, AI Engineer's `startups` tag on every upload). A subject the conference
+really is about survives them, since an abstract says it in its own words.
+Topics are a facet, not a search field: they are in neither FTS table and in
+no ranker, so the two rankers' agreement is untouched by them.
 
 ## Fetching transcripts
 
@@ -378,7 +407,7 @@ sequenceDiagram
     U->>P: open the page
     P->>M: fetch once, ~5.6 MiB gzipped by Pages
     P->>X: fetch _manifest.json (shard list, doc lengths, stopwords)
-    Note over P: build the conference / category / year facets from the data
+    Note over P: build the conference / category / topic / year facets from the data
     U->>P: type "agent evaluation"
     Note over P: stem the words → agent, evalu
     P->>X: fetch ag.json and ev.json — one shard per two-letter prefix
@@ -416,6 +445,11 @@ erDiagram
         int has_transcript
         int transcript_words
         string timing "exact | estimated | NULL"
+        string topics "JSON list"
+    }
+    talk_topics {
+        int talk_n FK
+        string topic "one row per (talk, topic); what --topic and --list-topics read"
     }
     talks_fts {
         string title "porter unicode61"
@@ -436,6 +470,7 @@ erDiagram
         string text
     }
     talks ||--|| talks_fts : "rowid = n"
+    talks ||--o{ talk_topics : "talk_n"
     talks ||--o{ segments : "talk_n"
     segments ||--|| segments_fts : "rowid"
 ```
@@ -550,13 +585,14 @@ having written a test at all.
 |---|---|---|
 | `test_fetch_transcripts.py` (128) | ~1 s, faked HTTP and egresses | a block recorded as a miss; an estimate returned under `--source exact`; a talk dropped when its proxy was benched; the lease rule; both 429 paths |
 | `test_excerpt.py` (14) | 0.1 s, pure functions | the excerpt that is the whole transcript |
-| `test_query.py` (23) | 0.1 s, no database | OR chains with hyphens; ids that cut short at a hyphen |
+| `test_query.py` (34) | 0.1 s, a throwaway database | OR chains with hyphens; ids that cut short at a hyphen; `--topic` resolving one word of a label, and refusing an ambiguous one |
 | `test_speakers.py` (19) | 0.1 s | every speaker shape, and the brand or job title that would rank under every talk carrying it |
+| `test_topics.py` | 0.1 s, no corpus | a topic firing on a title it is not about; the boundaries that are rules (a bare "enterprise", a bare tool name, "prompt injection"); a phrase pattern that can match nothing; a conference's boilerplate filing the whole conference under one subject |
 | `test_infoq.py` | offline | the fold-in, the two-way dedupe, the re-keyed transcripts |
 | `test_stem.py` | ~6 s, reads the corpus, runs node | the Python and JavaScript stemmers disagreeing on any corpus word — a silent miss on one side |
 | `check_registry.py` | instant | `conferences.json` and `ai-conferences.md` drifting apart |
 | `refresh_report.py` | CI | a hollowed field passing the record-count guards |
-| `tools/uitest/` (183 checks, 9 suites, ~4 min) | Playwright + Chromium against a local server, or `KB_URL=` against production | the browser: load, search, controls, filters, moments, resilience, a11y, ranking agreement with the CLI, navigation and the assembled site |
+| `tools/uitest/` (193 checks, 9 suites, ~4 min) | Playwright + Chromium against a local server, or `KB_URL=` against production | the browser: load, search, controls, filters, moments, resilience, a11y, ranking agreement with the CLI, navigation and the assembled site |
 
 The browser suites skip rather than fail when a fixture has not been collected
 yet, so a green run reads its skip count: the last full run skipped nothing.
@@ -592,6 +628,22 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
   otherwise delete a conference. There is a second backstop:
   `sync_catalog.py` refuses to write a corpus more than 10% smaller than the
   last one without `--allow-shrink`.
+
+- **Topics are derived, per talk, from title, tags and description — and from
+  nothing else.** The category facet is per conference and cannot follow a
+  subject inside a programme, so the topic facet exists; it is keyword rules
+  because that is what the AI-relevance filter already is and what a person
+  can read and correct. Transcripts are excluded so the label does not move
+  when a transcript arrives. A tag scores like a description phrase, not like
+  a title: measured over the corpus, scoring tags like titles labelled 178
+  more talks and about half of those were a track's tag ("Copilot and agents
+  at work") rather than the talk's subject. And what a conference repeats —
+  a description line under more than a tenth of its talks, a tag on more
+  than three tenths — is stripped before scoring; the first rule tried,
+  ignoring any *phrase* said by half a conference, also removed Black Hat's
+  "security" and the MCP summit's "mcp", which are the conferences' subjects.
+  Topics enter no ranker and no FTS table, so adding them changed nothing
+  about which talk answers a query, only which talks a filter admits.
 
 - **Talks are keyed by YouTube video id, but the indexes use a dense integer.**
   Repeating an 11-character id in every posting would roughly treble the browser

@@ -15,6 +15,7 @@ video_id: 4QZBtgEeKdc
 url: https://www.youtube.com/watch?v=4QZBtgEeKdc
 youtube_url: https://www.youtube.com/watch?v=4QZBtgEeKdc
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI and writing", "developer newsletters", "future of coding", "AI in tech", "LLMs discussion", "newsletter trends", "content creation AI", "JavaScript community", "AI job threats", "live coding events", "tech publishing", "AI generated code", "web development tools"]
+topics: []
 transcript: false
 ---
 

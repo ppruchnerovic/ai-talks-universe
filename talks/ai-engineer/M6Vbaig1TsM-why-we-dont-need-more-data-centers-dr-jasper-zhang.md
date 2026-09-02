@@ -15,6 +15,7 @@ video_id: M6Vbaig1TsM
 url: https://www.youtube.com/watch?v=M6Vbaig1TsM
 youtube_url: https://www.youtube.com/watch?v=M6Vbaig1TsM
 tags: []
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: NFS-xDVVdXE
 url: https://www.youtube.com/watch?v=NFS-xDVVdXE
 youtube_url: https://www.youtube.com/watch?v=NFS-xDVVdXE
 tags: ["open source", "GitHub", "OSS business model", "ChatGPT", "artificial intelligence", "machine learning", "software development", "developer tools", "project adoption", "user behavior analysis", "maintainer best practices", "open source monetization", "Python tutorial", "community building", "contributor management", "licensing", "intellectual property", "software sustainability", "funding models", "sponsorship", "grants", "commercial support"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

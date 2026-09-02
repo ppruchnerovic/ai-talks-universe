@@ -15,6 +15,7 @@ video_id: umIKUP4f1oI
 url: https://www.youtube.com/watch?v=umIKUP4f1oI
 youtube_url: https://www.youtube.com/watch?v=umIKUP4f1oI
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

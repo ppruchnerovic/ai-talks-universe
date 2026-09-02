@@ -15,6 +15,7 @@ video_id: iq-automate-fleetwide-changes
 url: https://www.infoq.com/presentations/automate-fleetwide-changes/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

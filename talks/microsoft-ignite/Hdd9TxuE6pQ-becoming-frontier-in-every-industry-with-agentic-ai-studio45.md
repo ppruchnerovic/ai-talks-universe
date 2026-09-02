@@ -15,6 +15,7 @@ video_id: Hdd9TxuE6pQ
 url: https://www.youtube.com/watch?v=Hdd9TxuE6pQ
 youtube_url: https://www.youtube.com/watch?v=Hdd9TxuE6pQ
 tags: ["Becoming Frontier in Every Industry with Agentic AI | STUDIO45", "English (US)", "Kathleen Mitford", "Other", "STUDIO45", "STUDIO45_v1", "Satish Thomas", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

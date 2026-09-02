@@ -15,6 +15,7 @@ video_id: M_rlJXln5KE
 url: https://www.youtube.com/watch?v=M_rlJXln5KE
 youtube_url: https://www.youtube.com/watch?v=M_rlJXln5KE
 tags: ["Databricks"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

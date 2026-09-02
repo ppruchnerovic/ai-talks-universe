@@ -15,6 +15,7 @@ video_id: iq-compliance-devops-management
 url: https://www.infoq.com/presentations/compliance-devops-management/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

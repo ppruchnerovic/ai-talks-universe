@@ -15,6 +15,7 @@ video_id: CJwn302-TBE
 url: https://www.youtube.com/watch?v=CJwn302-TBE
 youtube_url: https://www.youtube.com/watch?v=CJwn302-TBE
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

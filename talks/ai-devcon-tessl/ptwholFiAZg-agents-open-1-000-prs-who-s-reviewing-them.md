@@ -15,6 +15,7 @@ video_id: ptwholFiAZg
 url: https://www.youtube.com/watch?v=ptwholFiAZg
 youtube_url: https://www.youtube.com/watch?v=ptwholFiAZg
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

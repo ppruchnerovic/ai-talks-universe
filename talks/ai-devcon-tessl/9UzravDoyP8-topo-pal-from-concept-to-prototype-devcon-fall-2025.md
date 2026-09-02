@@ -15,6 +15,7 @@ video_id: 9UzravDoyP8
 url: https://www.youtube.com/watch?v=9UzravDoyP8
 youtube_url: https://www.youtube.com/watch?v=9UzravDoyP8
 tags: ["ainativedev"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

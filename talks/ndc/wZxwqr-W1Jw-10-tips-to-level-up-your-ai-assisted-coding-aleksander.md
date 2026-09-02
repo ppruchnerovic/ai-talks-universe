@@ -15,6 +15,7 @@ video_id: wZxwqr-W1Jw
 url: https://www.youtube.com/watch?v=wZxwqr-W1Jw
 youtube_url: https://www.youtube.com/watch?v=wZxwqr-W1Jw
 tags: ["AI", "MCP", "Claude", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "Aleksander Stensby"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

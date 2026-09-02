@@ -15,6 +15,7 @@ video_id: Zi9oTBjqU70
 url: https://www.youtube.com/watch?v=Zi9oTBjqU70
 youtube_url: https://www.youtube.com/watch?v=Zi9oTBjqU70
 tags: ["BRKSP467", "Cloud without compromise: Redefining private and hybrid cloud | BRKSP467", "English (US)", "Matt McSpirit", "Rohit Tatachar", "Scale with cloud and AI endpoints", "Technical", "Telecommunications", "ccad2557-dcfa-4529-856c-97665527a397_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

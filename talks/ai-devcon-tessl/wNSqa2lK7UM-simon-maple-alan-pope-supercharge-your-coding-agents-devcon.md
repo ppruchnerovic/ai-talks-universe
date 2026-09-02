@@ -15,6 +15,7 @@ video_id: wNSqa2lK7UM
 url: https://www.youtube.com/watch?v=wNSqa2lK7UM
 youtube_url: https://www.youtube.com/watch?v=wNSqa2lK7UM
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Prompting & context engineering"]
 transcript: true
 ---
 

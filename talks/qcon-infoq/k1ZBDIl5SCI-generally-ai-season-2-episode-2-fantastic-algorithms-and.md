@@ -15,6 +15,7 @@ video_id: k1ZBDIl5SCI
 url: https://www.youtube.com/watch?v=k1ZBDIl5SCI
 youtube_url: https://www.youtube.com/watch?v=k1ZBDIl5SCI
 tags: []
+topics: []
 transcript: false
 ---
 

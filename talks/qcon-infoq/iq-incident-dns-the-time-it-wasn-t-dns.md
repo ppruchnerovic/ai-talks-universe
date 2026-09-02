@@ -15,6 +15,7 @@ video_id: iq-incident-dns
 url: https://www.infoq.com/presentations/incident-dns/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: z2TrFWnH-vc
 url: https://www.youtube.com/watch?v=z2TrFWnH-vc
 youtube_url: https://www.youtube.com/watch?v=z2TrFWnH-vc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "Governance, ethics & regulation", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

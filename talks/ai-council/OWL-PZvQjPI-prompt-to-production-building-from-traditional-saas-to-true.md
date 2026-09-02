@@ -15,6 +15,7 @@ video_id: OWL-PZvQjPI
 url: https://www.youtube.com/watch?v=OWL-PZvQjPI
 youtube_url: https://www.youtube.com/watch?v=OWL-PZvQjPI
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Prompting & context engineering"]
 transcript: true
 ---
 

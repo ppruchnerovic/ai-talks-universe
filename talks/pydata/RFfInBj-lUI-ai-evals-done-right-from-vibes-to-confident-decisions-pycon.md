@@ -15,6 +15,7 @@ video_id: RFfInBj-lUI
 url: https://www.youtube.com/watch?v=RFfInBj-lUI
 youtube_url: https://www.youtube.com/watch?v=RFfInBj-lUI
 tags: ["PyCon DE", "PyCon DE 2026", "PyData", "Python", "conference talk", "data science", "machine learning"]
+topics: ["Classic ML & data science", "Evals, observability & reliability"]
 transcript: true
 ---
 

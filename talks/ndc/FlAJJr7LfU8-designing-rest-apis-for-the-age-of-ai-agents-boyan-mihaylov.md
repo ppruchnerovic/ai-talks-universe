@@ -15,6 +15,7 @@ video_id: FlAJJr7LfU8
 url: https://www.youtube.com/watch?v=FlAJJr7LfU8
 youtube_url: https://www.youtube.com/watch?v=FlAJJr7LfU8
 tags: ["Web", "AI", "Architecture", "JavaScript", "REST", "API", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Boyan Mihaylov"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

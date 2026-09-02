@@ -15,6 +15,7 @@ video_id: ypyvj_56sBU
 url: https://www.youtube.com/watch?v=ypyvj_56sBU
 youtube_url: https://www.youtube.com/watch?v=ypyvj_56sBU
 tags: []
+topics: []
 transcript: false
 ---
 

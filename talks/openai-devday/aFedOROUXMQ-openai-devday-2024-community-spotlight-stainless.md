@@ -15,6 +15,7 @@ video_id: aFedOROUXMQ
 url: https://www.youtube.com/watch?v=aFedOROUXMQ
 youtube_url: https://www.youtube.com/watch?v=aFedOROUXMQ
 tags: []
+topics: []
 transcript: false
 ---
 

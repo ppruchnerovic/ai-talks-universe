@@ -15,6 +15,7 @@ video_id: G_iGw8Q-IcQ
 url: https://www.youtube.com/watch?v=G_iGw8Q-IcQ
 youtube_url: https://www.youtube.com/watch?v=G_iGw8Q-IcQ
 tags: ["Strategy & Innovation", "Business Models", "Collaboration", "Data", "Entrepreneurship", "Monetization", "People & Culture", "Product Management", "Startups"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

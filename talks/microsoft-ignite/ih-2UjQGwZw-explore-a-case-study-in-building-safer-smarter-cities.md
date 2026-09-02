@@ -15,6 +15,7 @@ video_id: ih-2UjQGwZw
 url: https://www.youtube.com/watch?v=ih-2UjQGwZw
 youtube_url: https://www.youtube.com/watch?v=ih-2UjQGwZw
 tags: ["Andrew Hester", "English (US)", "Explore a case study in building safer smarter cities | STUDIOSP65", "STUDIOSP65", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: []
 transcript: false
 ---
 

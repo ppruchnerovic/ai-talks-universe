@@ -15,6 +15,7 @@ video_id: wJHp_MoFumg
 url: https://www.youtube.com/watch?v=wJHp_MoFumg
 youtube_url: https://www.youtube.com/watch?v=wJHp_MoFumg
 tags: []
+topics: []
 transcript: false
 ---
 

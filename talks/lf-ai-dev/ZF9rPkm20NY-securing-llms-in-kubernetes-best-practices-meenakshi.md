@@ -15,6 +15,7 @@ video_id: ZF9rPkm20NY
 url: https://www.youtube.com/watch?v=ZF9rPkm20NY
 youtube_url: https://www.youtube.com/watch?v=ZF9rPkm20NY
 tags: []
+topics: ["Inference, serving & GPU infra", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

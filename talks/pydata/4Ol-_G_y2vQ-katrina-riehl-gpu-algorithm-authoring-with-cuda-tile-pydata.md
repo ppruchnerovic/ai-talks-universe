@@ -15,6 +15,7 @@ video_id: 4Ol-_G_y2vQ
 url: https://www.youtube.com/watch?v=4Ol-_G_y2vQ
 youtube_url: https://www.youtube.com/watch?v=4Ol-_G_y2vQ
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

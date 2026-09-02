@@ -15,6 +15,7 @@ video_id: XBv25DnBoa4
 url: https://www.youtube.com/watch?v=XBv25DnBoa4
 youtube_url: https://www.youtube.com/watch?v=XBv25DnBoa4
 tags: ["machine learning", "semantic layer", "mlops", "AI"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

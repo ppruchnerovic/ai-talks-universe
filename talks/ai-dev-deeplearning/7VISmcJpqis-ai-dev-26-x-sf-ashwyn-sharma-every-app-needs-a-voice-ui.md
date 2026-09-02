@@ -15,6 +15,7 @@ video_id: 7VISmcJpqis
 url: https://www.youtube.com/watch?v=7VISmcJpqis
 youtube_url: https://www.youtube.com/watch?v=7VISmcJpqis
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: D22_eAdwnxg
 url: https://www.youtube.com/watch?v=D22_eAdwnxg
 youtube_url: https://www.youtube.com/watch?v=D22_eAdwnxg
 tags: []
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

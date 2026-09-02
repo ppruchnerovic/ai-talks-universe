@@ -15,6 +15,7 @@ video_id: rWQLpLogiJY
 url: https://www.youtube.com/watch?v=rWQLpLogiJY
 youtube_url: https://www.youtube.com/watch?v=rWQLpLogiJY
 tags: ["Engineering Leadership", "Agile", "Collaboration", "Scaling", "Team Building"]
+topics: []
 transcript: true
 ---
 

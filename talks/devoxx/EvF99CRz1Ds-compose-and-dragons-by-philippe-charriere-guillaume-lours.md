@@ -15,6 +15,7 @@ video_id: EvF99CRz1Ds
 url: https://www.youtube.com/watch?v=EvF99CRz1Ds
 youtube_url: https://www.youtube.com/watch?v=EvF99CRz1Ds
 tags: []
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

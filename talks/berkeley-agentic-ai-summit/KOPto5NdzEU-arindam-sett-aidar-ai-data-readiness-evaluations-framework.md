@@ -15,6 +15,7 @@ video_id: KOPto5NdzEU
 url: https://www.youtube.com/watch?v=KOPto5NdzEU
 youtube_url: https://www.youtube.com/watch?v=KOPto5NdzEU
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: _FWbmfBeSbM
 url: https://www.youtube.com/watch?v=_FWbmfBeSbM
 youtube_url: https://www.youtube.com/watch?v=_FWbmfBeSbM
 tags: ["data products", "NLP", "ML"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

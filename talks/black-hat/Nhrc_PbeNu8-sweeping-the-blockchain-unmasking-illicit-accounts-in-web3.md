@@ -15,6 +15,7 @@ video_id: Nhrc_PbeNu8
 url: https://www.youtube.com/watch?v=Nhrc_PbeNu8
 youtube_url: https://www.youtube.com/watch?v=Nhrc_PbeNu8
 tags: []
+topics: []
 transcript: false
 ---
 

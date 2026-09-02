@@ -15,6 +15,7 @@ video_id: L-_CQKO6w_A
 url: https://www.youtube.com/watch?v=L-_CQKO6w_A
 youtube_url: https://www.youtube.com/watch?v=L-_CQKO6w_A
 tags: ["Advanced (300)", "Application Development", "Azure", "BRK190", "Breakout", "Data", "Data-Curated", "English (US)", "Improving accuracy of GenAI apps with Azure Database for PostgreSQL | BRK190", "Jay Yang", "Maxim Lukiyanov", "Orhun Oezbek", "Software Company", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024", "opensource"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

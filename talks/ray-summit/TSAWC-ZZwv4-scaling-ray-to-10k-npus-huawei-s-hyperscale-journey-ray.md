@@ -15,6 +15,7 @@ video_id: TSAWC-ZZwv4
 url: https://www.youtube.com/watch?v=TSAWC-ZZwv4
 youtube_url: https://www.youtube.com/watch?v=TSAWC-ZZwv4
 tags: []
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

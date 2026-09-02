@@ -15,6 +15,7 @@ video_id: dIamK2NA-G8
 url: https://www.youtube.com/watch?v=dIamK2NA-G8
 youtube_url: https://www.youtube.com/watch?v=dIamK2NA-G8
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-scale-bbc-design
 url: https://www.infoq.com/presentations/scale-bbc-design/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

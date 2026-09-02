@@ -15,6 +15,7 @@ video_id: 7YSMSoBEvog
 url: https://www.youtube.com/watch?v=7YSMSoBEvog
 youtube_url: https://www.youtube.com/watch?v=7YSMSoBEvog
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "workshop sessions", "mlops world workshop", "ai", "Workshop Sessions: Productionize with Kubeflow Orchestration with Feast in GCP", "Productionize with Kubeflow Orchestration with Feast in GCP"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

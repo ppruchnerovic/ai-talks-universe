@@ -15,6 +15,7 @@ video_id: x3PMKPbB-G4
 url: https://www.youtube.com/watch?v=x3PMKPbB-G4
 youtube_url: https://www.youtube.com/watch?v=x3PMKPbB-G4
 tags: ["Frontend, Web & Mobile", "Kotlin Multiplatform"]
+topics: []
 transcript: true
 ---
 

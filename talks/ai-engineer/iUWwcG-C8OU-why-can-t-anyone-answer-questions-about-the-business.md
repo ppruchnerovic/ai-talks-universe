@@ -15,6 +15,7 @@ video_id: iUWwcG-C8OU
 url: https://www.youtube.com/watch?v=iUWwcG-C8OU
 youtube_url: https://www.youtube.com/watch?v=iUWwcG-C8OU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

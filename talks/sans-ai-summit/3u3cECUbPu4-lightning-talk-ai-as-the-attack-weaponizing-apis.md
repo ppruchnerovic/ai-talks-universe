@@ -15,6 +15,7 @@ video_id: 3u3cECUbPu4
 url: https://www.youtube.com/watch?v=3u3cECUbPu4
 youtube_url: https://www.youtube.com/watch?v=3u3cECUbPu4
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: ZavgAIiyyS0
 url: https://www.youtube.com/watch?v=ZavgAIiyyS0
 youtube_url: https://www.youtube.com/watch?v=ZavgAIiyyS0
 tags: ["pub sub tables", "data integration", "streaming data", "ChatGPT", "artificial intelligence", "machine learning", "data engineering", "event driven architecture", "real time data", "data streaming", "metadata embedding", "data contracts", "Python tutorial", "publish subscribe", "message queues", "event sourcing", "Apache Kafka", "message brokers", "stream processing", "event choreography", "event orchestration", "microservices communication"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

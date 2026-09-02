@@ -15,6 +15,7 @@ video_id: PHBGhUKAM-w
 url: https://www.youtube.com/watch?v=PHBGhUKAM-w
 youtube_url: https://www.youtube.com/watch?v=PHBGhUKAM-w
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Classic ML & data science", "Coding assistants & agents"]
 transcript: false
 ---
 

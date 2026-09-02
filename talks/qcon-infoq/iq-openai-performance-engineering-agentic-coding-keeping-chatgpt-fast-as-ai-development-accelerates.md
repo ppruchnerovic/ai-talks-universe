@@ -15,6 +15,7 @@ video_id: iq-openai-performance-engineering-agentic-coding
 url: https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

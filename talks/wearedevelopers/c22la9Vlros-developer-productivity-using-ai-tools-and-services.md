@@ -15,6 +15,7 @@ video_id: c22la9Vlros
 url: https://www.youtube.com/watch?v=c22la9Vlros
 youtube_url: https://www.youtube.com/watch?v=c22la9Vlros
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: false
 ---
 

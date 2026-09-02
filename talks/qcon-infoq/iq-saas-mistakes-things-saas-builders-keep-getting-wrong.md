@@ -15,6 +15,7 @@ video_id: iq-saas-mistakes
 url: https://www.infoq.com/presentations/saas-mistakes/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

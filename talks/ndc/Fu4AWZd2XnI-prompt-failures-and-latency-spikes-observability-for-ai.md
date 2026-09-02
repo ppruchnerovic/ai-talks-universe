@@ -15,6 +15,7 @@ video_id: Fu4AWZd2XnI
 url: https://www.youtube.com/watch?v=Fu4AWZd2XnI
 youtube_url: https://www.youtube.com/watch?v=Fu4AWZd2XnI
 tags: ["AI", "Cloud", "DevOps", "Tools", "LLM", "NDC", "Conferences", "2026", "Live", "Fun", "London", "UK", "United Kingdom", "Great Britain", "England", "Prerit Munjal"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Prompting & context engineering"]
 transcript: true
 ---
 

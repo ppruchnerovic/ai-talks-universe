@@ -15,6 +15,7 @@ video_id: j2K_QWuBBBw
 url: https://www.youtube.com/watch?v=j2K_QWuBBBw
 youtube_url: https://www.youtube.com/watch?v=j2K_QWuBBBw
 tags: ["AI", "NDC", "Conferences", "2025", "Live", "Fun", "Oslo", "Norway", "Sindri Ingolfsson", "LLM"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

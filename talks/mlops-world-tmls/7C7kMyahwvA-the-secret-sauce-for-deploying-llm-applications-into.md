@@ -15,6 +15,7 @@ video_id: 7C7kMyahwvA
 url: https://www.youtube.com/watch?v=7C7kMyahwvA
 youtube_url: https://www.youtube.com/watch?v=7C7kMyahwvA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

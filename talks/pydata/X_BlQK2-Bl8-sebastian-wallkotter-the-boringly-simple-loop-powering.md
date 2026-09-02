@@ -15,6 +15,7 @@ video_id: X_BlQK2-Bl8
 url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 youtube_url: https://www.youtube.com/watch?v=X_BlQK2-Bl8
 tags: []
+topics: []
 transcript: false
 ---
 

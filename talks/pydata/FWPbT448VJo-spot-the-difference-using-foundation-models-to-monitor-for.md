@@ -15,6 +15,7 @@ video_id: FWPbT448VJo
 url: https://www.youtube.com/watch?v=FWPbT448VJo
 youtube_url: https://www.youtube.com/watch?v=FWPbT448VJo
 tags: ["Conference", "DINOv2", "Earth observation", "PyConDE", "PyData", "Python", "Tech Talk", "Vision Transformer", "change detection", "computer vision", "deep learning", "foundation models", "geospatial AI", "infrastructure monitoring", "machine learning", "pipeline monitoring", "remote sensing", "satellite imagery", "transfer learning"]
+topics: ["Classic ML & data science", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

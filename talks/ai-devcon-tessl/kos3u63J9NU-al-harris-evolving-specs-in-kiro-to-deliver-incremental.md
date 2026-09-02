@@ -15,6 +15,7 @@ video_id: kos3u63J9NU
 url: https://www.youtube.com/watch?v=kos3u63J9NU
 youtube_url: https://www.youtube.com/watch?v=kos3u63J9NU
 tags: ["ainativedev"]
+topics: []
 transcript: false
 ---
 

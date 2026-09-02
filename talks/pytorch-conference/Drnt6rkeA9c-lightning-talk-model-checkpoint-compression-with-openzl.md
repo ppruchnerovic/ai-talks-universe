@@ -15,6 +15,7 @@ video_id: Drnt6rkeA9c
 url: https://www.youtube.com/watch?v=Drnt6rkeA9c
 youtube_url: https://www.youtube.com/watch?v=Drnt6rkeA9c
 tags: []
+topics: []
 transcript: false
 ---
 

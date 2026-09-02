@@ -15,6 +15,7 @@ video_id: JfaLQqfXqPA
 url: https://www.youtube.com/watch?v=JfaLQqfXqPA
 youtube_url: https://www.youtube.com/watch?v=JfaLQqfXqPA
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

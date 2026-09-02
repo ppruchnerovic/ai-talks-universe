@@ -15,6 +15,7 @@ video_id: 0LdM6qCrGAM
 url: https://www.youtube.com/watch?v=0LdM6qCrGAM
 youtube_url: https://www.youtube.com/watch?v=0LdM6qCrGAM
 tags: ["AI", "DevOps", "People", "Tools", "NDC", "Conferences", "2026", "Live", "Fun", "Sydney", "Australia", "John Bristowe"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

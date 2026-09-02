@@ -15,6 +15,7 @@ video_id: AaEMUlmKO4s
 url: https://www.youtube.com/watch?v=AaEMUlmKO4s
 youtube_url: https://www.youtube.com/watch?v=AaEMUlmKO4s
 tags: ["MLOps tutorial", "model serving", "ChatGPT", "artificial intelligence", "machine learning", "AI deployment", "data science tutorial", "production ML", "AI infrastructure", "model ownership", "AI engineering", "model monitoring", "Python tutorial", "continuous integration", "continuous deployment", "model versioning", "experiment tracking", "feature store", "model registry", "automated testing", "performance monitoring", "drift detection", "model governance"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

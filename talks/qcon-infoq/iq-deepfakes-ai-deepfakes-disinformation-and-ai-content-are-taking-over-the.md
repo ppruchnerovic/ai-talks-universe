@@ -15,6 +15,7 @@ video_id: iq-deepfakes-ai
 url: https://www.infoq.com/presentations/deepfakes-ai/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

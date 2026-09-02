@@ -15,6 +15,7 @@ video_id: V6mdr7Lw1TA
 url: https://www.youtube.com/watch?v=V6mdr7Lw1TA
 youtube_url: https://www.youtube.com/watch?v=V6mdr7Lw1TA
 tags: ["C#", "C++", "Python"]
+topics: []
 transcript: true
 ---
 

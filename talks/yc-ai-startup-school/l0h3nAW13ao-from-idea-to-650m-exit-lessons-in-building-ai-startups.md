@@ -15,6 +15,7 @@ video_id: l0h3nAW13ao
 url: https://www.youtube.com/watch?v=l0h3nAW13ao
 youtube_url: https://www.youtube.com/watch?v=l0h3nAW13ao
 tags: ["YC", "Y Combinator"]
+topics: ["Enterprise adoption & strategy", "Evals, observability & reliability"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: vsl3AoIJl3w
 url: https://www.youtube.com/watch?v=vsl3AoIJl3w
 youtube_url: https://www.youtube.com/watch?v=vsl3AoIJl3w
 tags: ["AI", "BRK272", "Data Security", "Data governance", "Exposure management", "Insider risk management", "Microsoft 365", "Microsoft Copilot", "Microsoft Purview", "Modern Work", "Modern Work-Curated", "Prepare your data for Microsoft Copilot with new tools | BRK272", "SharePoint Advanced Management (SAM)", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation"]
 transcript: false
 ---
 

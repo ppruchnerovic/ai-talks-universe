@@ -15,6 +15,7 @@ video_id: b0jH7nrbbQg
 url: https://www.youtube.com/watch?v=b0jH7nrbbQg
 youtube_url: https://www.youtube.com/watch?v=b0jH7nrbbQg
 tags: ["ML Datasets", "data issues", "python", "github"]
+topics: []
 transcript: false
 ---
 

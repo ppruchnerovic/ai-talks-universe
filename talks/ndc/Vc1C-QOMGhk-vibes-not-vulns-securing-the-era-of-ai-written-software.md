@@ -15,6 +15,7 @@ video_id: Vc1C-QOMGhk
 url: https://www.youtube.com/watch?v=Vc1C-QOMGhk
 youtube_url: https://www.youtube.com/watch?v=Vc1C-QOMGhk
 tags: ["Copilot", "Cursor", "Claude", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "CI/CD", "AppSec", "Mackenzie Jackson"]
+topics: ["Coding assistants & agents", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-internal-tools-meta
 url: https://www.infoq.com/presentations/internal-tools-meta/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

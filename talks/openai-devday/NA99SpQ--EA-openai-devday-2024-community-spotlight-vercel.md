@@ -15,6 +15,7 @@ video_id: NA99SpQ--EA
 url: https://www.youtube.com/watch?v=NA99SpQ--EA
 youtube_url: https://www.youtube.com/watch?v=NA99SpQ--EA
 tags: []
+topics: []
 transcript: false
 ---
 

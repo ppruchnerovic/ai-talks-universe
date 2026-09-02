@@ -15,6 +15,7 @@ video_id: kPL-6-9MVyA
 url: https://www.youtube.com/watch?v=kPL-6-9MVyA
 youtube_url: https://www.youtube.com/watch?v=kPL-6-9MVyA
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

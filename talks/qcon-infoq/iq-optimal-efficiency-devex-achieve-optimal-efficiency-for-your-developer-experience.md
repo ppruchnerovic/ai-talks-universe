@@ -15,6 +15,7 @@ video_id: iq-optimal-efficiency-devex
 url: https://www.infoq.com/presentations/optimal-efficiency-devex/
 youtube_url: null
 tags: []
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

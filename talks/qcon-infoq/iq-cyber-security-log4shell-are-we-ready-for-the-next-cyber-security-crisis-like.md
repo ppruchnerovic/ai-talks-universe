@@ -15,6 +15,7 @@ video_id: iq-cyber-security-log4shell
 url: https://www.infoq.com/presentations/cyber-security-log4shell/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

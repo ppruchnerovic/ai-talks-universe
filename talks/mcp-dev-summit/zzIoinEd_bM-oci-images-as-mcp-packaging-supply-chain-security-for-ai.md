@@ -15,6 +15,7 @@ video_id: zzIoinEd_bM
 url: https://www.youtube.com/watch?v=zzIoinEd_bM
 youtube_url: https://www.youtube.com/watch?v=zzIoinEd_bM
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: c5qJHr3DnT4
 url: https://www.youtube.com/watch?v=c5qJHr3DnT4
 youtube_url: https://www.youtube.com/watch?v=c5qJHr3DnT4
 tags: []
+topics: ["Classic ML & data science", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

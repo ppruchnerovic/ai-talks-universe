@@ -15,6 +15,7 @@ video_id: Hd1mkcg4fps
 url: https://www.youtube.com/watch?v=Hd1mkcg4fps
 youtube_url: https://www.youtube.com/watch?v=Hd1mkcg4fps
 tags: ["AI", "Talent", "Recruiting", "Recruitment", "Talent Acquisition", "Artificial Intelligence", "people", "leadership", "culture"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

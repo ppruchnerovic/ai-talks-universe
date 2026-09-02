@@ -15,6 +15,7 @@ video_id: toirKRTLgJA
 url: https://www.youtube.com/watch?v=toirKRTLgJA
 youtube_url: https://www.youtube.com/watch?v=toirKRTLgJA
 tags: []
+topics: []
 transcript: false
 ---
 

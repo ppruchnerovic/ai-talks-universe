@@ -15,6 +15,7 @@ video_id: S6aSoQ6_u5A
 url: https://www.youtube.com/watch?v=S6aSoQ6_u5A
 youtube_url: https://www.youtube.com/watch?v=S6aSoQ6_u5A
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

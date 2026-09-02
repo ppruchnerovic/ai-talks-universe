@@ -15,6 +15,7 @@ video_id: Lb77eiIwi1E
 url: https://www.youtube.com/watch?v=Lb77eiIwi1E
 youtube_url: https://www.youtube.com/watch?v=Lb77eiIwi1E
 tags: ["Cloud & AI Infrastructure", "AI Models", "Agents", "Innovation", "Linux", "Motivation", "Open Source", "Privacy"]
+topics: ["Governance, ethics & regulation"]
 transcript: true
 ---
 

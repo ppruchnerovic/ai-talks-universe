@@ -15,6 +15,7 @@ video_id: iq-ai-first-practices
 url: https://www.infoq.com/presentations/ai-first-practices/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: CSFXt7_M_oQ
 url: https://www.youtube.com/watch?v=CSFXt7_M_oQ
 youtube_url: https://www.youtube.com/watch?v=CSFXt7_M_oQ
 tags: []
+topics: ["Agents & orchestration", "Security, safety & red teaming"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: EJzmdUJHXr4
 url: https://www.youtube.com/watch?v=EJzmdUJHXr4
 youtube_url: https://www.youtube.com/watch?v=EJzmdUJHXr4
 tags: ["AI", "GPU", "Data", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Joachim Jacobsen"]
+topics: ["Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

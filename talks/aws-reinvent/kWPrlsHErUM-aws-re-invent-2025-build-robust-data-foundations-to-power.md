@@ -15,6 +15,7 @@ video_id: kWPrlsHErUM
 url: https://www.youtube.com/watch?v=kWPrlsHErUM
 youtube_url: https://www.youtube.com/watch?v=kWPrlsHErUM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

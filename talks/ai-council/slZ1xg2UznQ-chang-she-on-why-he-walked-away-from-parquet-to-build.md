@@ -15,6 +15,7 @@ video_id: slZ1xg2UznQ
 url: https://www.youtube.com/watch?v=slZ1xg2UznQ
 youtube_url: https://www.youtube.com/watch?v=slZ1xg2UznQ
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

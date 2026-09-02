@@ -15,6 +15,7 @@ video_id: pV3hybzf31A
 url: https://www.youtube.com/watch?v=pV3hybzf31A
 youtube_url: https://www.youtube.com/watch?v=pV3hybzf31A
 tags: ["AI"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

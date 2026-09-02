@@ -15,6 +15,7 @@ video_id: X1VuyiUrGeo
 url: https://www.youtube.com/watch?v=X1VuyiUrGeo
 youtube_url: https://www.youtube.com/watch?v=X1VuyiUrGeo
 tags: []
+topics: []
 transcript: false
 ---
 

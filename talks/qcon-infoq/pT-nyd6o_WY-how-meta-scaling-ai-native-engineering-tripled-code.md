@@ -15,6 +15,7 @@ video_id: pT-nyd6o_WY
 url: https://www.youtube.com/watch?v=pT-nyd6o_WY
 youtube_url: https://www.youtube.com/watch?v=pT-nyd6o_WY
 tags: ["Artificial Intelligence", "AI Native Engineering", "Meta", "Case Study", "QCon AI New York", "InfoQ", "Transcript", "Software Engineering", "Software Architecture", "Developer Experience"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

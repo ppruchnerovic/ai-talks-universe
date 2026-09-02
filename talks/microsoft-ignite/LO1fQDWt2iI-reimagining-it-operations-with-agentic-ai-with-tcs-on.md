@@ -15,6 +15,7 @@ video_id: LO1fQDWt2iI
 url: https://www.youtube.com/watch?v=LO1fQDWt2iI
 youtube_url: https://www.youtube.com/watch?v=LO1fQDWt2iI
 tags: ["Deepraj Khot", "English (US)", "Healthcare and Life Sciences", "Innovate with Azure AI apps and agents", "ODSP1501", "ODSP1501_v4", "Reimagining IT operations with agentic AI with TCS on Microsoft Azure | ODSP1501", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

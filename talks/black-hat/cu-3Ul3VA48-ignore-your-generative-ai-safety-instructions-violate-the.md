@@ -15,6 +15,7 @@ video_id: cu-3Ul3VA48
 url: https://www.youtube.com/watch?v=cu-3Ul3VA48
 youtube_url: https://www.youtube.com/watch?v=cu-3Ul3VA48
 tags: []
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

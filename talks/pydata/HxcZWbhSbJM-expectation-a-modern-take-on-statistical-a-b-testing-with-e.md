@@ -15,6 +15,7 @@ video_id: HxcZWbhSbJM
 url: https://www.youtube.com/watch?v=HxcZWbhSbJM
 youtube_url: https://www.youtube.com/watch?v=HxcZWbhSbJM
 tags: ["A/B testing", "Conference", "PyConDE", "PyData", "Python", "Tech Talk", "change point detection", "confidence sequences", "e-values", "game-theoretic probability", "hypothesis testing", "industrial monitoring", "martingales", "sequential analysis", "statistical computing", "statistical hypothesis testing"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

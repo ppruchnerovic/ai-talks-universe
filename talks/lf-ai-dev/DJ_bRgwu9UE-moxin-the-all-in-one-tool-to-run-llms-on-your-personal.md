@@ -15,6 +15,7 @@ video_id: DJ_bRgwu9UE
 url: https://www.youtube.com/watch?v=DJ_bRgwu9UE
 youtube_url: https://www.youtube.com/watch?v=DJ_bRgwu9UE
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

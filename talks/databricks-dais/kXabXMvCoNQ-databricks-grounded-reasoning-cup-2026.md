@@ -15,6 +15,7 @@ video_id: kXabXMvCoNQ
 url: https://www.youtube.com/watch?v=kXabXMvCoNQ
 youtube_url: https://www.youtube.com/watch?v=kXabXMvCoNQ
 tags: ["Databricks"]
+topics: ["Data engineering & MLOps", "Evals, observability & reliability"]
 transcript: true
 ---
 

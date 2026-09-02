@@ -15,6 +15,7 @@ video_id: ZdheJTfLu-s
 url: https://www.youtube.com/watch?v=ZdheJTfLu-s
 youtube_url: https://www.youtube.com/watch?v=ZdheJTfLu-s
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

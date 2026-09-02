@@ -15,6 +15,7 @@ video_id: fhwn6Y9r6ms
 url: https://www.youtube.com/watch?v=fhwn6Y9r6ms
 youtube_url: https://www.youtube.com/watch?v=fhwn6Y9r6ms
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "AI", "LLM", "MachineLearning", "GoogleCloud", "AIDevelopment", "GenerativeAI", "FutureOfAI", "SoftwareEngineering"]
+topics: []
 transcript: false
 ---
 

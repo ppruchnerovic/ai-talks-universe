@@ -15,6 +15,7 @@ video_id: fAf4Zh-CC08
 url: https://www.youtube.com/watch?v=fAf4Zh-CC08
 youtube_url: https://www.youtube.com/watch?v=fAf4Zh-CC08
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

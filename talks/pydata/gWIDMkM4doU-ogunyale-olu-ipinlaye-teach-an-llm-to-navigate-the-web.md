@@ -15,6 +15,7 @@ video_id: gWIDMkM4doU
 url: https://www.youtube.com/watch?v=gWIDMkM4doU
 youtube_url: https://www.youtube.com/watch?v=gWIDMkM4doU
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: []
 transcript: true
 ---
 

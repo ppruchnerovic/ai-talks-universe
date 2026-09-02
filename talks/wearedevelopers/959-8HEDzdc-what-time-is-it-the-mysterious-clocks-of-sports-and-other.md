@@ -15,6 +15,7 @@ video_id: 959-8HEDzdc
 url: https://www.youtube.com/watch?v=959-8HEDzdc
 youtube_url: https://www.youtube.com/watch?v=959-8HEDzdc
 tags: ["Data & Databases", "Data", "Data Pipelines", "Data Science"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

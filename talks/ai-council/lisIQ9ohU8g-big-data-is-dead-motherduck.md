@@ -15,6 +15,7 @@ video_id: lisIQ9ohU8g
 url: https://www.youtube.com/watch?v=lisIQ9ohU8g
 youtube_url: https://www.youtube.com/watch?v=lisIQ9ohU8g
 tags: ["BigQuery", "Big Data", "Machine Learning", "duckdb", "databases", "data infrastructure"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

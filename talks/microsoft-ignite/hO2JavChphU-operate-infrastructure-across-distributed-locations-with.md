@@ -15,6 +15,7 @@ video_id: hO2JavChphU
 url: https://www.youtube.com/watch?v=hO2JavChphU
 youtube_url: https://www.youtube.com/watch?v=hO2JavChphU
 tags: ["AI Infrastructure", "Adaptive Cloud", "Admin Copilot", "Advanced (300)", "Azure", "Azure Arc", "BRK214", "Breakout", "Cloud Management", "Cosmos Darwin", "Eleanor Cohen", "English (US)", "Infrastructure", "Kubernetes", "Operate infrastructure across distributed locations with Azure Arc | BRK214", "Technical", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Inference, serving & GPU infra"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 5FvIbLwRqzg
 url: https://www.youtube.com/watch?v=5FvIbLwRqzg
 youtube_url: https://www.youtube.com/watch?v=5FvIbLwRqzg
 tags: ["20a78154-1b8e-40a5-aaea-19511a374d0e_Segment", "BRK240", "Dana Bargury Shina", "Endpoint security in the AI era: What's new in Defender | BRK240", "English (US)", "Kim Kischel", "Modernize SecOps with a unified platform", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

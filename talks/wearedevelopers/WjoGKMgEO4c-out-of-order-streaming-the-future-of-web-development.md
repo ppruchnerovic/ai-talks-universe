@@ -15,6 +15,7 @@ video_id: WjoGKMgEO4c
 url: https://www.youtube.com/watch?v=WjoGKMgEO4c
 youtube_url: https://www.youtube.com/watch?v=WjoGKMgEO4c
 tags: ["Frontend, Web & Mobile", "Node.js", "React", "Web Performance"]
+topics: []
 transcript: true
 ---
 

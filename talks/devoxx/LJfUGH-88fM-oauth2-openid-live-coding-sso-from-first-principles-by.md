@@ -15,6 +15,7 @@ video_id: LJfUGH-88fM
 url: https://www.youtube.com/watch?v=LJfUGH-88fM
 youtube_url: https://www.youtube.com/watch?v=LJfUGH-88fM
 tags: []
+topics: []
 transcript: false
 ---
 

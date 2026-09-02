@@ -15,6 +15,7 @@ video_id: LLuKshphGOE
 url: https://www.youtube.com/watch?v=LLuKshphGOE
 youtube_url: https://www.youtube.com/watch?v=LLuKshphGOE
 tags: []
+topics: ["Governance, ethics & regulation", "Prompting & context engineering", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

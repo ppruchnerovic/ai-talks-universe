@@ -15,6 +15,7 @@ video_id: nm4aSltF0wo
 url: https://www.youtube.com/watch?v=nm4aSltF0wo
 youtube_url: https://www.youtube.com/watch?v=nm4aSltF0wo
 tags: ["Advanced (300)", "Apps", "BRK152", "Breakout", "Brigit Murtaugh", "Damian Brady", "English (US)", "GitHub", "GitHub Copilot and VS Code: Your AI thought partner | BRK152", "Github copilot", "Software Company", "Technical", "Version v0", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

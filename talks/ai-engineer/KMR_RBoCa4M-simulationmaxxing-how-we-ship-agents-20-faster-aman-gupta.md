@@ -15,6 +15,7 @@ video_id: KMR_RBoCa4M
 url: https://www.youtube.com/watch?v=KMR_RBoCa4M
 youtube_url: https://www.youtube.com/watch?v=KMR_RBoCa4M
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: true
 ---
 

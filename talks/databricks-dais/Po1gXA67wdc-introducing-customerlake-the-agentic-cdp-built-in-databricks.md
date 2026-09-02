@@ -15,6 +15,7 @@ video_id: Po1gXA67wdc
 url: https://www.youtube.com/watch?v=Po1gXA67wdc
 youtube_url: https://www.youtube.com/watch?v=Po1gXA67wdc
 tags: ["Databricks"]
+topics: ["Agents & orchestration", "Data engineering & MLOps"]
 transcript: true
 ---
 

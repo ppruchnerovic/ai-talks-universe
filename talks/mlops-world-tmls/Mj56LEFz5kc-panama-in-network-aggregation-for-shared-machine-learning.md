@@ -15,6 +15,7 @@ video_id: Mj56LEFz5kc
 url: https://www.youtube.com/watch?v=Mj56LEFz5kc
 youtube_url: https://www.youtube.com/watch?v=Mj56LEFz5kc
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education", "mlops community", "PANAMA In network Aggregation for Shared Machine Learning Clusters", "network Aggregation", "Machine Learning Clusters", "network Aggregation for Shared Machine Learning Clusters", "network aggregation framework", "lightweight load-balancing and congestion control protocol"]
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

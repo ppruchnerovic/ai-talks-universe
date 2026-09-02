@@ -15,6 +15,7 @@ video_id: gEDl9C8s_-4
 url: https://www.youtube.com/watch?v=gEDl9C8s_-4
 youtube_url: https://www.youtube.com/watch?v=gEDl9C8s_-4
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Evals, observability & reliability", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: zG-pEUxTI38
 url: https://www.youtube.com/watch?v=zG-pEUxTI38
 youtube_url: https://www.youtube.com/watch?v=zG-pEUxTI38
 tags: ["AI Engineering", "Agents", "Agentic AI", "Security"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: mWKYvT9Lc50
 url: https://www.youtube.com/watch?v=mWKYvT9Lc50
 youtube_url: https://www.youtube.com/watch?v=mWKYvT9Lc50
 tags: []
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

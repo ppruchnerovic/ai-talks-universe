@@ -15,6 +15,7 @@ video_id: MEFKVmCmEvQ
 url: https://www.youtube.com/watch?v=MEFKVmCmEvQ
 youtube_url: https://www.youtube.com/watch?v=MEFKVmCmEvQ
 tags: ["usenix", "technology", "conference", "open access"]
+topics: ["RAG, retrieval & knowledge", "Security, safety & red teaming"]
 transcript: false
 ---
 

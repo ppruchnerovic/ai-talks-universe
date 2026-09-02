@@ -15,6 +15,7 @@ video_id: LSoDQU_9MMA
 url: https://www.youtube.com/watch?v=LSoDQU_9MMA
 youtube_url: https://www.youtube.com/watch?v=LSoDQU_9MMA
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: false
 ---
 

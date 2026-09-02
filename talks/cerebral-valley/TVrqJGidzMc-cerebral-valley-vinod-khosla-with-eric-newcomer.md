@@ -15,6 +15,7 @@ video_id: TVrqJGidzMc
 url: https://www.youtube.com/watch?v=TVrqJGidzMc
 youtube_url: https://www.youtube.com/watch?v=TVrqJGidzMc
 tags: []
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

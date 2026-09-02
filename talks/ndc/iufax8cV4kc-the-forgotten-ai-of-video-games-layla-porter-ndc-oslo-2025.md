@@ -15,6 +15,7 @@ video_id: iufax8cV4kc
 url: https://www.youtube.com/watch?v=iufax8cV4kc
 youtube_url: https://www.youtube.com/watch?v=iufax8cV4kc
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

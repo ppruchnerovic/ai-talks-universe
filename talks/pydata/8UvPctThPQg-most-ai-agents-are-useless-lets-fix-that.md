@@ -15,6 +15,7 @@ video_id: 8UvPctThPQg
 url: https://www.youtube.com/watch?v=8UvPctThPQg
 youtube_url: https://www.youtube.com/watch?v=8UvPctThPQg
 tags: ["AI agents", "AI frameworks", "AI orchestration", "Conference", "Haystack", "LLM engineering", "PyConDE", "PyData", "Python", "Tech Talk", "agent architecture", "agentic systems", "deepset", "developer tools", "enterprise AI", "machine learning", "observability", "production AI", "software engineering"]
+topics: ["Agents & orchestration", "Evals, observability & reliability"]
 transcript: false
 ---
 

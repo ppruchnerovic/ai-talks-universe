@@ -15,6 +15,7 @@ video_id: yiXm1dIWmjE
 url: https://www.youtube.com/watch?v=yiXm1dIWmjE
 youtube_url: https://www.youtube.com/watch?v=yiXm1dIWmjE
 tags: ["QCon San Francisco", "InfoQ", "Transcript", "Culture", "Staff Plus Engineer", "Team Performance", "Team Leader", "Productivity", "Software Architecture", "Engineering Leadership", "Netflix Engineering"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

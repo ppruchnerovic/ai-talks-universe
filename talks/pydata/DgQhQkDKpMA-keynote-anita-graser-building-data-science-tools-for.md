@@ -15,6 +15,7 @@ video_id: DgQhQkDKpMA
 url: https://www.youtube.com/watch?v=DgQhQkDKpMA
 youtube_url: https://www.youtube.com/watch?v=DgQhQkDKpMA
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

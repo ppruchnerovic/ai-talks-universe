@@ -15,6 +15,7 @@ video_id: -dvLsph-qdI
 url: https://www.youtube.com/watch?v=-dvLsph-qdI
 youtube_url: https://www.youtube.com/watch?v=-dvLsph-qdI
 tags: []
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

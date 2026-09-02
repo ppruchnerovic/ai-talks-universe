@@ -15,6 +15,7 @@ video_id: HotbjSIgLOM
 url: https://www.youtube.com/watch?v=HotbjSIgLOM
 youtube_url: https://www.youtube.com/watch?v=HotbjSIgLOM
 tags: ["AI"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

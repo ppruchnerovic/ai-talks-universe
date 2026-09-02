@@ -15,6 +15,7 @@ video_id: DEDEKvIL1l8
 url: https://www.youtube.com/watch?v=DEDEKvIL1l8
 youtube_url: https://www.youtube.com/watch?v=DEDEKvIL1l8
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Science, healthcare & applied ML", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

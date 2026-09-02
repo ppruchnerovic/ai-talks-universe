@@ -15,6 +15,7 @@ video_id: lxlpsCrRjwY
 url: https://www.youtube.com/watch?v=lxlpsCrRjwY
 youtube_url: https://www.youtube.com/watch?v=lxlpsCrRjwY
 tags: []
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

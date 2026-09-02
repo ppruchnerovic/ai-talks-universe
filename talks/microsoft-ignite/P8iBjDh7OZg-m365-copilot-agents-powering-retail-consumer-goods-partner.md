@@ -15,6 +15,7 @@ video_id: P8iBjDh7OZg
 url: https://www.youtube.com/watch?v=P8iBjDh7OZg
 youtube_url: https://www.youtube.com/watch?v=P8iBjDh7OZg
 tags: ["0cd28586-bdef-4bb4-bca3-3a58f3316f90_Segment", "English (US)", "Jane Koh", "M365 Copilot Agents: Powering Retail & Consumer Goods Partner Success | PBRK394", "Microsoft AI Cloud Partner Program", "Mo Cherif", "Other", "PBRK394", "Partner Business", "Retail and Consumer Goods", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

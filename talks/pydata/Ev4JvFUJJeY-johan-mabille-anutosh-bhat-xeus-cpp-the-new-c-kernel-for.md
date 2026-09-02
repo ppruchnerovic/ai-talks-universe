@@ -15,6 +15,7 @@ video_id: Ev4JvFUJJeY
 url: https://www.youtube.com/watch?v=Ev4JvFUJJeY
 youtube_url: https://www.youtube.com/watch?v=Ev4JvFUJJeY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

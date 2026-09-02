@@ -15,6 +15,7 @@ video_id: lueobbYnYj4
 url: https://www.youtube.com/watch?v=lueobbYnYj4
 youtube_url: https://www.youtube.com/watch?v=lueobbYnYj4
 tags: ["Developer Experience", "AI Coding Assistants", "Automation", "Best Practices", "Claude", "Copilot", "Developer Experience (DevEx)"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

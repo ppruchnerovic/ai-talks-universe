@@ -15,6 +15,7 @@ video_id: oo1uwJ3qHwE
 url: https://www.youtube.com/watch?v=oo1uwJ3qHwE
 youtube_url: https://www.youtube.com/watch?v=oo1uwJ3qHwE
 tags: ["SQL", "metrics", "Apache Calcite", "data management systems"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

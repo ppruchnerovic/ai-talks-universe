@@ -15,6 +15,7 @@ video_id: J0x98bCmQEc
 url: https://www.youtube.com/watch?v=J0x98bCmQEc
 youtube_url: https://www.youtube.com/watch?v=J0x98bCmQEc
 tags: ["Aung Oo", "BRK236", "Breakout", "English (US)", "Infrastructure", "Intermediate (200)", "Lena Ye", "Technical", "Version v3", "What’s new in Azure Storage: Supercharge your data centric workloads​ | BRK236", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: iq-emulation-genai
 url: https://www.infoq.com/presentations/emulation-genai/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

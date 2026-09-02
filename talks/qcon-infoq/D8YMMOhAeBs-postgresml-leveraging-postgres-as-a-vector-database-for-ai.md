@@ -15,6 +15,7 @@ video_id: D8YMMOhAeBs
 url: https://www.youtube.com/watch?v=D8YMMOhAeBs
 youtube_url: https://www.youtube.com/watch?v=D8YMMOhAeBs
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "PostgresML", "Postgres", "Relational Databases", "Database", "InfoQ", "QCon", "Transcript"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

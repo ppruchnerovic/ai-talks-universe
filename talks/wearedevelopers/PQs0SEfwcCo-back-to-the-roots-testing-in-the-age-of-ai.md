@@ -15,6 +15,7 @@ video_id: PQs0SEfwcCo
 url: https://www.youtube.com/watch?v=PQs0SEfwcCo
 youtube_url: https://www.youtube.com/watch?v=PQs0SEfwcCo
 tags: ["Quality & Reliability", "AI Coding Assistants", "Test-Driven Development (TDD)", "Testing"]
+topics: []
 transcript: true
 ---
 

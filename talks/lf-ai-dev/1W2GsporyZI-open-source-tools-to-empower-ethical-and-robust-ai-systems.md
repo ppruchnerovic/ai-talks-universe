@@ -15,6 +15,7 @@ video_id: 1W2GsporyZI
 url: https://www.youtube.com/watch?v=1W2GsporyZI
 youtube_url: https://www.youtube.com/watch?v=1W2GsporyZI
 tags: []
+topics: ["Governance, ethics & regulation", "Prompting & context engineering", "Security, safety & red teaming"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: 6JOM_YwxTB0
 url: https://www.youtube.com/watch?v=6JOM_YwxTB0
 youtube_url: https://www.youtube.com/watch?v=6JOM_YwxTB0
 tags: ["DevOps", "Data", "DevOps", "Observability", "Site Reliability Engineering (SRE)"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

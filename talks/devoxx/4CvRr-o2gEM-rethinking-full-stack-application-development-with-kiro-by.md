@@ -15,6 +15,7 @@ video_id: 4CvRr-o2gEM
 url: https://www.youtube.com/watch?v=4CvRr-o2gEM
 youtube_url: https://www.youtube.com/watch?v=4CvRr-o2gEM
 tags: []
+topics: []
 transcript: true
 ---
 

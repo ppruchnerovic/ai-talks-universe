@@ -15,6 +15,7 @@ video_id: 7CLoxEU-Z0M
 url: https://www.youtube.com/watch?v=7CLoxEU-Z0M
 youtube_url: https://www.youtube.com/watch?v=7CLoxEU-Z0M
 tags: ["Python", "opensource", "machine learning", "Ray", "AI"]
+topics: ["Classic ML & data science", "Data engineering & MLOps", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

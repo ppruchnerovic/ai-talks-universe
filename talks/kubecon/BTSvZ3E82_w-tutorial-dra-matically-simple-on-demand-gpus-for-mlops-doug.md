@@ -15,6 +15,7 @@ video_id: BTSvZ3E82_w
 url: https://www.youtube.com/watch?v=BTSvZ3E82_w
 youtube_url: https://www.youtube.com/watch?v=BTSvZ3E82_w
 tags: []
+topics: ["Data engineering & MLOps", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: JomVvNDjGb8
 url: https://www.youtube.com/watch?v=JomVvNDjGb8
 youtube_url: https://www.youtube.com/watch?v=JomVvNDjGb8
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Classic ML & data science", "Coding assistants & agents", "Evals, observability & reliability", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

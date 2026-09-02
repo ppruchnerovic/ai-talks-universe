@@ -15,6 +15,7 @@ video_id: O4q-6vPHkg0
 url: https://www.youtube.com/watch?v=O4q-6vPHkg0
 youtube_url: https://www.youtube.com/watch?v=O4q-6vPHkg0
 tags: ["Software Architecture", "Microservices", "Software Architecture"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: J4ZKODaLhx4
 url: https://www.youtube.com/watch?v=J4ZKODaLhx4
 youtube_url: https://www.youtube.com/watch?v=J4ZKODaLhx4
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers", "wearedevelopers", "wearedevs", "wearedeveloperslive", "tech talks"]
+topics: []
 transcript: true
 ---
 

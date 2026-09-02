@@ -15,6 +15,7 @@ video_id: WDDwOsY9rw8
 url: https://www.youtube.com/watch?v=WDDwOsY9rw8
 youtube_url: https://www.youtube.com/watch?v=WDDwOsY9rw8
 tags: ["AI"]
+topics: ["Enterprise adoption & strategy", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 1ucAu7lTsmM
 url: https://www.youtube.com/watch?v=1ucAu7lTsmM
 youtube_url: https://www.youtube.com/watch?v=1ucAu7lTsmM
 tags: ["Google", "developers", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "Gemini for Home", "Google Home", "Smart Home", "Home APIs", "Gemini built in", "service providers", "smart home security"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: x4PcmQKS0Ao
 url: https://www.youtube.com/watch?v=x4PcmQKS0Ao
 youtube_url: https://www.youtube.com/watch?v=x4PcmQKS0Ao
 tags: ["YEZFQC"]
+topics: []
 transcript: false
 ---
 

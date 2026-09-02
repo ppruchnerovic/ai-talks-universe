@@ -15,6 +15,7 @@ video_id: MOClkh3ZB5Q
 url: https://www.youtube.com/watch?v=MOClkh3ZB5Q
 youtube_url: https://www.youtube.com/watch?v=MOClkh3ZB5Q
 tags: ["AI", "Security", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Glitte Klitgaard"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: cxiOhp9BJTs
 url: https://www.youtube.com/watch?v=cxiOhp9BJTs
 youtube_url: https://www.youtube.com/watch?v=cxiOhp9BJTs
 tags: ["NVIDIA", "AI Grid", "Telecommunications"]
+topics: ["Inference, serving & GPU infra", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

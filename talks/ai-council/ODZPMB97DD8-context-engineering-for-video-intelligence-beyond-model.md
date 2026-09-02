@@ -15,6 +15,7 @@ video_id: ODZPMB97DD8
 url: https://www.youtube.com/watch?v=ODZPMB97DD8
 youtube_url: https://www.youtube.com/watch?v=ODZPMB97DD8
 tags: ["AI"]
+topics: ["Prompting & context engineering"]
 transcript: true
 ---
 

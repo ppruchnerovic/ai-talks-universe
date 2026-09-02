@@ -15,6 +15,7 @@ video_id: akk6KRlcwW4
 url: https://www.youtube.com/watch?v=akk6KRlcwW4
 youtube_url: https://www.youtube.com/watch?v=akk6KRlcwW4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

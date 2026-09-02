@@ -15,6 +15,7 @@ video_id: XOMJcT-DrlY
 url: https://www.youtube.com/watch?v=XOMJcT-DrlY
 youtube_url: https://www.youtube.com/watch?v=XOMJcT-DrlY
 tags: []
+topics: []
 transcript: false
 ---
 

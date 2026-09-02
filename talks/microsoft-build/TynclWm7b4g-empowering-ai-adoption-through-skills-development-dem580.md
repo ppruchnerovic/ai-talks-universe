@@ -15,6 +15,7 @@ video_id: TynclWm7b4g
 url: https://www.youtube.com/watch?v=TynclWm7b4g
 youtube_url: https://www.youtube.com/watch?v=TynclWm7b4g
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

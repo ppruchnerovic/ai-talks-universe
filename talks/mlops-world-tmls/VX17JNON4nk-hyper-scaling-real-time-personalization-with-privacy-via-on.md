@@ -15,6 +15,7 @@ video_id: VX17JNON4nk
 url: https://www.youtube.com/watch?v=VX17JNON4nk
 youtube_url: https://www.youtube.com/watch?v=VX17JNON4nk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

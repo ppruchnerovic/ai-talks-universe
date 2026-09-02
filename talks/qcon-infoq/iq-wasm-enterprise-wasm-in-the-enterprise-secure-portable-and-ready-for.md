@@ -15,6 +15,7 @@ video_id: iq-wasm-enterprise
 url: https://www.infoq.com/presentations/wasm-enterprise/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

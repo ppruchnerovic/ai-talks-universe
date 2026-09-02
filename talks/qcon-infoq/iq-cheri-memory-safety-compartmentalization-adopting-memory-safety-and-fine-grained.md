@@ -15,6 +15,7 @@ video_id: iq-cheri-memory-safety-compartmentalization
 url: https://www.infoq.com/presentations/cheri-memory-safety-compartmentalization/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

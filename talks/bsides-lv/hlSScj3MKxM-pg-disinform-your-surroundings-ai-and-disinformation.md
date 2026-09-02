@@ -15,6 +15,7 @@ video_id: hlSScj3MKxM
 url: https://www.youtube.com/watch?v=hlSScj3MKxM
 youtube_url: https://www.youtube.com/watch?v=hlSScj3MKxM
 tags: ["YQPMMF"]
+topics: []
 transcript: false
 ---
 

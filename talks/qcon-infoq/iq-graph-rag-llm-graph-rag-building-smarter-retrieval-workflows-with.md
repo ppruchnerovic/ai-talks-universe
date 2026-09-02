@@ -15,6 +15,7 @@ video_id: iq-graph-rag-llm
 url: https://www.infoq.com/presentations/graph-rag-llm/
 youtube_url: null
 tags: []
+topics: ["RAG, retrieval & knowledge"]
 transcript: true
 ---
 

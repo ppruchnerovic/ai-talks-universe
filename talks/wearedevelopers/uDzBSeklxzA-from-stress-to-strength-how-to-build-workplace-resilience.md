@@ -15,6 +15,7 @@ video_id: uDzBSeklxzA
 url: https://www.youtube.com/watch?v=uDzBSeklxzA
 youtube_url: https://www.youtube.com/watch?v=uDzBSeklxzA
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "programming", "programmer", "software", "engineer", "developer", "WeAreDevs", "WeAreDevelopers", "wearedevs", "wearedeveloperslive", "tech talks", "resilience at work", "emotional intelligence", "workplace adaptability", "AI in HR", "talent acquisition", "HR leadership", "psychological safety", "modern HR challenges", "employee well-being", "HR podcast", "business resilience", "future of work", "leadership skills", "HR community", "workplace experience"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

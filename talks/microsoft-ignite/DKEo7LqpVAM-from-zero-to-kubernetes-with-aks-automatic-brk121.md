@@ -15,6 +15,7 @@ video_id: DKEo7LqpVAM
 url: https://www.youtube.com/watch?v=DKEo7LqpVAM
 youtube_url: https://www.youtube.com/watch?v=DKEo7LqpVAM
 tags: ["Amanda Wang", "BRK121", "English (US)", "From zero to Kubernetes with AKS Automatic | BRK121", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Azure Kubernetes Service (AKS)", "Paul Yu", "Technical", "bb99cfe3-6fa3-4ba3-8bed-0f6da19a8c18_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

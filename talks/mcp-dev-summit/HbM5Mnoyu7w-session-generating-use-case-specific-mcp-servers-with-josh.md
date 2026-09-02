@@ -15,6 +15,7 @@ video_id: HbM5Mnoyu7w
 url: https://www.youtube.com/watch?v=HbM5Mnoyu7w
 youtube_url: https://www.youtube.com/watch?v=HbM5Mnoyu7w
 tags: ["mcp", "model context protocol", "ai for devs", "ai agents"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

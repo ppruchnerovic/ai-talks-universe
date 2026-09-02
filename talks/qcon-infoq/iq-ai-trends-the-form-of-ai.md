@@ -15,6 +15,7 @@ video_id: iq-ai-trends
 url: https://www.infoq.com/presentations/ai-trends/
 youtube_url: null
 tags: []
+topics: ["Science, healthcare & applied ML"]
 transcript: true
 ---
 

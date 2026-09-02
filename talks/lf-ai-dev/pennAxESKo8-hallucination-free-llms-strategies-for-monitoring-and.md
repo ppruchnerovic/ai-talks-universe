@@ -15,6 +15,7 @@ video_id: pennAxESKo8
 url: https://www.youtube.com/watch?v=pennAxESKo8
 youtube_url: https://www.youtube.com/watch?v=pennAxESKo8
 tags: []
+topics: ["Evals, observability & reliability"]
 transcript: false
 ---
 

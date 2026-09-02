@@ -15,6 +15,7 @@ video_id: Usm2xKo08R4
 url: https://www.youtube.com/watch?v=Usm2xKo08R4
 youtube_url: https://www.youtube.com/watch?v=Usm2xKo08R4
 tags: ["ainativedev"]
+topics: ["Agents & orchestration", "Coding assistants & agents", "Security, safety & red teaming"]
 transcript: true
 ---
 

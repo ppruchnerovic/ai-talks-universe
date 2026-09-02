@@ -15,6 +15,7 @@ video_id: n-F_-8n2PIU
 url: https://www.youtube.com/watch?v=n-F_-8n2PIU
 youtube_url: https://www.youtube.com/watch?v=n-F_-8n2PIU
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

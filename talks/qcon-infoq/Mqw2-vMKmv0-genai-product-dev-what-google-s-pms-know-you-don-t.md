@@ -15,6 +15,7 @@ video_id: Mqw2-vMKmv0
 url: https://www.youtube.com/watch?v=Mqw2-vMKmv0
 youtube_url: https://www.youtube.com/watch?v=Mqw2-vMKmv0
 tags: ["GenAI", "Generative AI", "Software Architecture", "Product Management", "Google", "Culture & Methods", "Artificial Intelligence", "Agile", "QCon San Francisco", "InfoQ", "Transcripts"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: GdTJWkbLpGI
 url: https://www.youtube.com/watch?v=GdTJWkbLpGI
 youtube_url: https://www.youtube.com/watch?v=GdTJWkbLpGI
 tags: ["Backend & APIs", "APIs", "Agents", "Agentic AI"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

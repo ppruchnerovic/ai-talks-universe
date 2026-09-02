@@ -15,6 +15,7 @@ video_id: MBbN4-UxKp4
 url: https://www.youtube.com/watch?v=MBbN4-UxKp4
 youtube_url: https://www.youtube.com/watch?v=MBbN4-UxKp4
 tags: ["ainativedev"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

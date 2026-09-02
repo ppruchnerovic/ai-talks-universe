@@ -15,6 +15,7 @@ video_id: ggC6LBTDcMA
 url: https://www.youtube.com/watch?v=ggC6LBTDcMA
 youtube_url: https://www.youtube.com/watch?v=ggC6LBTDcMA
 tags: []
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

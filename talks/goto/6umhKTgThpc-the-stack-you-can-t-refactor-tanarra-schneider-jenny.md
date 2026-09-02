@@ -15,6 +15,7 @@ video_id: 6umhKTgThpc
 url: https://www.youtube.com/watch?v=6umhKTgThpc
 youtube_url: https://www.youtube.com/watch?v=6umhKTgThpc
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference", "Today in Tech", "GOTOchgo", "GOTO Chicago", "Tanarra Schneider", "Jenny Richards", "Leadership", "Human Systems", "Systemic Fragility", "Conflict Avoidance", "Company Culture", "Coordination", "Accountability"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

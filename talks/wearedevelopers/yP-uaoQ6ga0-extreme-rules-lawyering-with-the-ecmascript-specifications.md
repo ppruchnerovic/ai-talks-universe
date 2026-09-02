@@ -15,6 +15,7 @@ video_id: yP-uaoQ6ga0
 url: https://www.youtube.com/watch?v=yP-uaoQ6ga0
 youtube_url: https://www.youtube.com/watch?v=yP-uaoQ6ga0
 tags: ["Languages & Runtimes", "JavaScript", "Web Standards"]
+topics: []
 transcript: true
 ---
 

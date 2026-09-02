@@ -15,6 +15,7 @@ video_id: hu6UdVVxesE
 url: https://www.youtube.com/watch?v=hu6UdVVxesE
 youtube_url: https://www.youtube.com/watch?v=hu6UdVVxesE
 tags: []
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

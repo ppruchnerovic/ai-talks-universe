@@ -15,6 +15,7 @@ video_id: iq-architecture-patterns-llm
 url: https://www.infoq.com/presentations/architecture-patterns-llm/
 youtube_url: null
 tags: []
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

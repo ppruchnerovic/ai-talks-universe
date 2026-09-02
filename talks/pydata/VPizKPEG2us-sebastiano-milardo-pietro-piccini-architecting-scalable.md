@@ -15,6 +15,7 @@ video_id: VPizKPEG2us
 url: https://www.youtube.com/watch?v=VPizKPEG2us
 youtube_url: https://www.youtube.com/watch?v=VPizKPEG2us
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Multimodal, vision, speech & robotics", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

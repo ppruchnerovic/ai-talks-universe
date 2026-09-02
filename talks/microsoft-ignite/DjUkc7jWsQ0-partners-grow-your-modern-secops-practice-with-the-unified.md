@@ -15,6 +15,7 @@ video_id: DjUkc7jWsQ0
 url: https://www.youtube.com/watch?v=DjUkc7jWsQ0
 youtube_url: https://www.youtube.com/watch?v=DjUkc7jWsQ0
 tags: ["Anne Stobaugh", "English (US)", "Max McWilliams", "Microsoft AI Cloud Partner Program", "Modernize SecOps with a unified platform", "Modernize SecOps with a unified platform:ME5", "PBRK248", "Partner Business", "Partners: Grow Your Modern SecOps Practice with the Unified Platform | PBRK248", "Scott Woodgate", "cd52699a-4743-4492-a09b-1f49c734a276_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: false
 ---
 

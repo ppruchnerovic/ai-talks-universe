@@ -15,6 +15,7 @@ video_id: 5MYJ_2MDA-k
 url: https://www.youtube.com/watch?v=5MYJ_2MDA-k
 youtube_url: https://www.youtube.com/watch?v=5MYJ_2MDA-k
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

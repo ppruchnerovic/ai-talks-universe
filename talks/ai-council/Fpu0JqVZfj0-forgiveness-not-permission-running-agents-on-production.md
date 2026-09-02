@@ -15,6 +15,7 @@ video_id: Fpu0JqVZfj0
 url: https://www.youtube.com/watch?v=Fpu0JqVZfj0
 youtube_url: https://www.youtube.com/watch?v=Fpu0JqVZfj0
 tags: ["AI"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

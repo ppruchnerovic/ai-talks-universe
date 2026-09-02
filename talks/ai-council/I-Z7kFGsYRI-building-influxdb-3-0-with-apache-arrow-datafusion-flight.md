@@ -15,6 +15,7 @@ video_id: I-Z7kFGsYRI
 url: https://www.youtube.com/watch?v=I-Z7kFGsYRI
 youtube_url: https://www.youtube.com/watch?v=I-Z7kFGsYRI
 tags: ["machine learning", "computer vision", "AI"]
+topics: []
 transcript: false
 ---
 

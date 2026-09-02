@@ -15,6 +15,7 @@ video_id: _pUBEWexspE
 url: https://www.youtube.com/watch?v=_pUBEWexspE
 youtube_url: https://www.youtube.com/watch?v=_pUBEWexspE
 tags: []
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Boz5u4-61XI
 url: https://www.youtube.com/watch?v=Boz5u4-61XI
 youtube_url: https://www.youtube.com/watch?v=Boz5u4-61XI
 tags: ["How Xoople Scales Python for AI using Anyscale on Azure | LIVE148", "LIVE148", "LIVE148_v1", "Milos Colic", "Nate Waters", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

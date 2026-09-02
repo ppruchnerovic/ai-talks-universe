@@ -15,6 +15,7 @@ video_id: APYUJoQkVUo
 url: https://www.youtube.com/watch?v=APYUJoQkVUo
 youtube_url: https://www.youtube.com/watch?v=APYUJoQkVUo
 tags: ["AI engineering", "AI engineering lead", "Elixir rewrite", "agentic coding", "ainativedev", "autonomous code process", "autonomous coding", "building a software factory", "code verification", "code without human review", "importance of code context", "pull requests", "queue bug in code review", "software factory", "verifiers"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

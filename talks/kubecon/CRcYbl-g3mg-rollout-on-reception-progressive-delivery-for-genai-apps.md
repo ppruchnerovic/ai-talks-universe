@@ -15,6 +15,7 @@ video_id: CRcYbl-g3mg
 url: https://www.youtube.com/watch?v=CRcYbl-g3mg
 youtube_url: https://www.youtube.com/watch?v=CRcYbl-g3mg
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Evals, observability & reliability", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

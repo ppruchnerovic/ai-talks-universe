@@ -15,6 +15,7 @@ video_id: bpbbSPK2tPY
 url: https://www.youtube.com/watch?v=bpbbSPK2tPY
 youtube_url: https://www.youtube.com/watch?v=bpbbSPK2tPY
 tags: ["Developer Experience", "AI Coding Assistants", "Anthropic", "Node.js", "SQL"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

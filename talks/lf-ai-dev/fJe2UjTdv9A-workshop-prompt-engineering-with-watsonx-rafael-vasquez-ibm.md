@@ -15,6 +15,7 @@ video_id: fJe2UjTdv9A
 url: https://www.youtube.com/watch?v=fJe2UjTdv9A
 youtube_url: https://www.youtube.com/watch?v=fJe2UjTdv9A
 tags: []
+topics: ["Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

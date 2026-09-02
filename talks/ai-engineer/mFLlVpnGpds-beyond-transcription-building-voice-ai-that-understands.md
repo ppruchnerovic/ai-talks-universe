@@ -15,6 +15,7 @@ video_id: mFLlVpnGpds
 url: https://www.youtube.com/watch?v=mFLlVpnGpds
 youtube_url: https://www.youtube.com/watch?v=mFLlVpnGpds
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

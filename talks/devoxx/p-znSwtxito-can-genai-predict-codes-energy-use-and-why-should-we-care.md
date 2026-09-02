@@ -15,6 +15,7 @@ video_id: p-znSwtxito
 url: https://www.youtube.com/watch?v=p-znSwtxito
 youtube_url: https://www.youtube.com/watch?v=p-znSwtxito
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

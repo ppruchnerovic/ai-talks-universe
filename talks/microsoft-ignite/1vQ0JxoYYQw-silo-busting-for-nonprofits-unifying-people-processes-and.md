@@ -15,6 +15,7 @@ video_id: 1vQ0JxoYYQw
 url: https://www.youtube.com/watch?v=1vQ0JxoYYQw
 youtube_url: https://www.youtube.com/watch?v=1vQ0JxoYYQw
 tags: ["BRK381", "Bob Benoit", "Colin Corbin", "English (US)", "Nonprofit", "Secure your data", "Signature pass", "Silo Busting for Nonprofits: Unifying people processes and technology | BRK381", "Technical", "ccc230b4-9057-4afd-897e-aa831611b1bb_Segment", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

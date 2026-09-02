@@ -15,6 +15,7 @@ video_id: 0eVnuQp531k
 url: https://www.youtube.com/watch?v=0eVnuQp531k
 youtube_url: https://www.youtube.com/watch?v=0eVnuQp531k
 tags: ["Culture", "Agile", "InfoQ Dev Summit", "InfoQ", "Transcript", "Pattern", "Change", "Engineering Management", "Software Architecture", "Scaling Teams", "Engineering Leadership", "Tech Lead"]
+topics: ["AI in the SDLC & engineering orgs", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

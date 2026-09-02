@@ -15,6 +15,7 @@ video_id: r3DC_gjFCSA
 url: https://www.youtube.com/watch?v=r3DC_gjFCSA
 youtube_url: https://www.youtube.com/watch?v=r3DC_gjFCSA
 tags: []
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

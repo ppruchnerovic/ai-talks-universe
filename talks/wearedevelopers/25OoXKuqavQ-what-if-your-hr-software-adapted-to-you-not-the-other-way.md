@@ -15,6 +15,7 @@ video_id: 25OoXKuqavQ
 url: https://www.youtube.com/watch?v=25OoXKuqavQ
 youtube_url: https://www.youtube.com/watch?v=25OoXKuqavQ
 tags: ["People & Culture", "AI Standards", "Agents", "Agentic AI", "Best Practices", "Distributed Systems", "Employer Branding", "Future of Work", "HR", "Multi-Agent Systems", "People & Culture"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

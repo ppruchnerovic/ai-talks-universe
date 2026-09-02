@@ -15,6 +15,7 @@ video_id: jnPtYh-n0LM
 url: https://www.youtube.com/watch?v=jnPtYh-n0LM
 youtube_url: https://www.youtube.com/watch?v=jnPtYh-n0LM
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: pQMeeQ_jGY0
 url: https://www.youtube.com/watch?v=pQMeeQ_jGY0
 youtube_url: https://www.youtube.com/watch?v=pQMeeQ_jGY0
 tags: []
+topics: ["Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

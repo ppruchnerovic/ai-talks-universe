@@ -15,6 +15,7 @@ video_id: tsYLhFfr1WE
 url: https://www.youtube.com/watch?v=tsYLhFfr1WE
 youtube_url: https://www.youtube.com/watch?v=tsYLhFfr1WE
 tags: ["QCon London", "InfoQ", "Transcript", "Artificial Intelligence", "Software Trends", "Design Thinking", "Product Design", "Engineering Leadership"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

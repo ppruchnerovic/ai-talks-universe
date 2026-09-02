@@ -15,6 +15,7 @@ video_id: Tgq1PfIIjog
 url: https://www.youtube.com/watch?v=Tgq1PfIIjog
 youtube_url: https://www.youtube.com/watch?v=Tgq1PfIIjog
 tags: ["conference", "congress", "Europe", "tech", "technology", "IT", "people", "code", "future", "coding", "programming", "programmer", "software", "engineer", "developer", "developing", "WeAreDevs", "WeAreDevelopers"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

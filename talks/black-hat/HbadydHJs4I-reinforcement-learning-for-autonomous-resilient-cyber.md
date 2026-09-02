@@ -15,6 +15,7 @@ video_id: HbadydHJs4I
 url: https://www.youtube.com/watch?v=HbadydHJs4I
 youtube_url: https://www.youtube.com/watch?v=HbadydHJs4I
 tags: []
+topics: ["Classic ML & data science", "Enterprise adoption & strategy", "Science, healthcare & applied ML", "Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

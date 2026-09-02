@@ -15,6 +15,7 @@ video_id: nHVwGyxP_Fg
 url: https://www.youtube.com/watch?v=nHVwGyxP_Fg
 youtube_url: https://www.youtube.com/watch?v=nHVwGyxP_Fg
 tags: ["3240a348-6625-4d54-88da-b8922f80523c_Segment", "AI use cases to transform your Oracle workloads in Azure | BRK164", "BRK164", "English (US)", "Migrate and modernize your estate", "Migrate and modernize your estate:Oracle Database@Azure​", "Rajya Laxmi Yellajosyula", "Sudhakar Dalavi", "Technical", "Venkataraman Ramakrishnan", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: false
 ---
 

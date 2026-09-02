@@ -15,6 +15,7 @@ video_id: yiJ0kxFBLGs
 url: https://www.youtube.com/watch?v=yiJ0kxFBLGs
 youtube_url: https://www.youtube.com/watch?v=yiJ0kxFBLGs
 tags: ["GOTO", "GOTOcon", "GOTO Conference", "GOTO (Software Conference)", "Videos for Developers", "Computer Science", "Programming", "Software Engineering", "GOTOpia", "Tech", "Software Development", "Tech Channel", "Tech Conference"]
+topics: []
 transcript: false
 ---
 

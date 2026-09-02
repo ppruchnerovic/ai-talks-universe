@@ -15,6 +15,7 @@ video_id: n0vK6Av55Bk
 url: https://www.youtube.com/watch?v=n0vK6Av55Bk
 youtube_url: https://www.youtube.com/watch?v=n0vK6Av55Bk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

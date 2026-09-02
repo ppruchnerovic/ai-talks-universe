@@ -15,6 +15,7 @@ video_id: Wv1tAxKYLeE
 url: https://www.youtube.com/watch?v=Wv1tAxKYLeE
 youtube_url: https://www.youtube.com/watch?v=Wv1tAxKYLeE
 tags: []
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

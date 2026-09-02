@@ -15,6 +15,7 @@ video_id: -TiET_K-E_g
 url: https://www.youtube.com/watch?v=-TiET_K-E_g
 youtube_url: https://www.youtube.com/watch?v=-TiET_K-E_g
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

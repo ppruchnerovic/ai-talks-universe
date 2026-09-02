@@ -15,6 +15,7 @@ video_id: AsPCWEBiR6g
 url: https://www.youtube.com/watch?v=AsPCWEBiR6g
 youtube_url: https://www.youtube.com/watch?v=AsPCWEBiR6g
 tags: []
+topics: ["Data engineering & MLOps", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

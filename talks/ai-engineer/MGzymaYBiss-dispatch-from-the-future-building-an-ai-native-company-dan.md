@@ -15,6 +15,7 @@ video_id: MGzymaYBiss
 url: https://www.youtube.com/watch?v=MGzymaYBiss
 youtube_url: https://www.youtube.com/watch?v=MGzymaYBiss
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

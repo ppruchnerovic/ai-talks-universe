@@ -15,6 +15,7 @@ video_id: KWiY8zjzISk
 url: https://www.youtube.com/watch?v=KWiY8zjzISk
 youtube_url: https://www.youtube.com/watch?v=KWiY8zjzISk
 tags: ["David Suhrie", "English (US)", "How Microsoft's data platform is creating value for partners | PBRK231", "John Turk", "Microsoft AI Cloud Partner Program", "PBRK231", "Partner Business", "Unify your data platform", "Unify your data platform:Microsoft Fabric", "Wangui McKelvey", "f5n1", "f677e8ca-6580-4ef1-9921-4b415c909c0a_Segment", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

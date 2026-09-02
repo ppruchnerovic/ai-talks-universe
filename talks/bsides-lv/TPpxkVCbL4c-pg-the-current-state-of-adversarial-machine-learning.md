@@ -15,6 +15,7 @@ video_id: TPpxkVCbL4c
 url: https://www.youtube.com/watch?v=TPpxkVCbL4c
 youtube_url: https://www.youtube.com/watch?v=TPpxkVCbL4c
 tags: ["bslv", "bslv2018", "bsideslv", "bsideslv2018", "pg", "proving ground"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

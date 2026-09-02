@@ -15,6 +15,7 @@ video_id: NBgqwL-1qnU
 url: https://www.youtube.com/watch?v=NBgqwL-1qnU
 youtube_url: https://www.youtube.com/watch?v=NBgqwL-1qnU
 tags: ["Developer Experience", "AI Coding Assistants", "Docker"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

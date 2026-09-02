@@ -15,6 +15,7 @@ video_id: Kd3KgJx0U1M
 url: https://www.youtube.com/watch?v=Kd3KgJx0U1M
 youtube_url: https://www.youtube.com/watch?v=Kd3KgJx0U1M
 tags: ["English (US)", "Innovate with Azure AI apps and agents", "Joshua Huang", "OD1210", "OD1210_v4", "Technical", "Unlock Your First AI Solution with Microsoft Azure and UnifyCloud | OD1210", "Vivek Bhatnagar", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

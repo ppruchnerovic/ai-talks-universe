@@ -15,6 +15,7 @@ video_id: ZQ4kz-v-LPk
 url: https://www.youtube.com/watch?v=ZQ4kz-v-LPk
 youtube_url: https://www.youtube.com/watch?v=ZQ4kz-v-LPk
 tags: ["data strategy", "data product", "Data Product Management"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

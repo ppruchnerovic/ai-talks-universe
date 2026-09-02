@@ -15,6 +15,7 @@ video_id: ba-aqPF6xuw
 url: https://www.youtube.com/watch?v=ba-aqPF6xuw
 youtube_url: https://www.youtube.com/watch?v=ba-aqPF6xuw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: YECGMkVO-1Q
 url: https://www.youtube.com/watch?v=YECGMkVO-1Q
 youtube_url: https://www.youtube.com/watch?v=YECGMkVO-1Q
 tags: ["AMLD", "Machine Learning", "ML", "Artificial Intelligence", "AI", "Applied Machine Learning Days", "EPFL", "AMLD EPFL", "AMLDEPFL22"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

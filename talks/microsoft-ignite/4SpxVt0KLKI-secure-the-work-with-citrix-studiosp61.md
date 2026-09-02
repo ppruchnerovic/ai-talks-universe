@@ -15,6 +15,7 @@ video_id: 4SpxVt0KLKI
 url: https://www.youtube.com/watch?v=4SpxVt0KLKI
 youtube_url: https://www.youtube.com/watch?v=4SpxVt0KLKI
 tags: ["English (US)", "STUDIOSP61", "STUDIOSP61_v3", "Secure the work with Citrix | STUDIOSP61", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

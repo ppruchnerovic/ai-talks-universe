@@ -15,6 +15,7 @@ video_id: 2wkJH311eaw
 url: https://www.youtube.com/watch?v=2wkJH311eaw
 youtube_url: https://www.youtube.com/watch?v=2wkJH311eaw
 tags: ["Helsinki", "Finland", "Startup", "Pitching", "Scaleup", "Technology", "Entrepreneur", "VC", "Investor", "Tech", "Festival", "Event", "Conference", "Nordics", "Scandinavia", "Europe", "Venture Capital", "Innovation", "Growth", "Business", "Slush 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

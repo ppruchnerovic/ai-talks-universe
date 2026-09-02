@@ -15,6 +15,7 @@ video_id: HXJSCPBRrNQ
 url: https://www.youtube.com/watch?v=HXJSCPBRrNQ
 youtube_url: https://www.youtube.com/watch?v=HXJSCPBRrNQ
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: NCd3-JuB5NE
 url: https://www.youtube.com/watch?v=NCd3-JuB5NE
 youtube_url: https://www.youtube.com/watch?v=NCd3-JuB5NE
 tags: []
+topics: []
 transcript: false
 ---
 

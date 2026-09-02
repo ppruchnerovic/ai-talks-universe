@@ -15,6 +15,7 @@ video_id: iq-lessons-building-engineering-team
 url: https://www.infoq.com/presentations/lessons-building-engineering-team/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

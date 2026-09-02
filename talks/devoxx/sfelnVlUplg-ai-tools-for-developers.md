@@ -15,6 +15,7 @@ video_id: sfelnVlUplg
 url: https://www.youtube.com/watch?v=sfelnVlUplg
 youtube_url: https://www.youtube.com/watch?v=sfelnVlUplg
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

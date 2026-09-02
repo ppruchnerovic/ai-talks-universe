@@ -15,6 +15,7 @@ video_id: cj-6jlL0qBA
 url: https://www.youtube.com/watch?v=cj-6jlL0qBA
 youtube_url: https://www.youtube.com/watch?v=cj-6jlL0qBA
 tags: ["AI", "Security", "GenAI", "NDC", "Conferences", "2026", "Live", "Fun", "Copenhagen", "Denmark", "Olivia Liddell"]
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

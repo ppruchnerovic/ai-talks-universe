@@ -15,6 +15,7 @@ video_id: ALCcK-ub0qo
 url: https://www.youtube.com/watch?v=ALCcK-ub0qo
 youtube_url: https://www.youtube.com/watch?v=ALCcK-ub0qo
 tags: ["Security & Privacy", "Agentic AI", "Internet of Things (IoT)", "Security"]
+topics: ["Agents & orchestration", "Inference, serving & GPU infra", "Security, safety & red teaming"]
 transcript: true
 ---
 

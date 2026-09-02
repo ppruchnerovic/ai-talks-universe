@@ -15,6 +15,7 @@ video_id: iq-document-infrastructure-rust-typst
 url: https://www.infoq.com/presentations/document-infrastructure-rust-typst/
 youtube_url: null
 tags: []
+topics: ["Governance, ethics & regulation", "Science, healthcare & applied ML"]
 transcript: true
 ---
 

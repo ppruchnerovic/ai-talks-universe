@@ -15,6 +15,7 @@ video_id: 4MGmd8YQR9A
 url: https://www.youtube.com/watch?v=4MGmd8YQR9A
 youtube_url: https://www.youtube.com/watch?v=4MGmd8YQR9A
 tags: ["Frontend, Web & Mobile", "AI Coding Assistants", "Code Generation", "Generative AI (GenAI)", "iOS", "Objective-C", "Productivity", "Swift", "XCode"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

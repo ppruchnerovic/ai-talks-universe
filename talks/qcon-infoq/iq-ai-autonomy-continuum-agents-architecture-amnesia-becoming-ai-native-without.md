@@ -15,6 +15,7 @@ video_id: iq-ai-autonomy-continuum
 url: https://www.infoq.com/presentations/ai-autonomy-continuum/
 youtube_url: null
 tags: []
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

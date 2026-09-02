@@ -15,6 +15,7 @@ video_id: e-xMRE7S_2o
 url: https://www.youtube.com/watch?v=e-xMRE7S_2o
 youtube_url: https://www.youtube.com/watch?v=e-xMRE7S_2o
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: cz6EZ3EJhk0
 url: https://www.youtube.com/watch?v=cz6EZ3EJhk0
 youtube_url: https://www.youtube.com/watch?v=cz6EZ3EJhk0
 tags: ["Engineering Leadership", "Communication", "Soft Skills"]
+topics: ["AI in the SDLC & engineering orgs"]
 transcript: true
 ---
 

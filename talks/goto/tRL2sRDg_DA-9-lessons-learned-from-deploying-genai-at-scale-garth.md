@@ -15,6 +15,7 @@ video_id: tRL2sRDg_DA
 url: https://www.youtube.com/watch?v=tRL2sRDg_DA
 youtube_url: https://www.youtube.com/watch?v=tRL2sRDg_DA
 tags: []
+topics: []
 transcript: false
 ---
 

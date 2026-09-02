@@ -15,6 +15,7 @@ video_id: Msosvf98Naw
 url: https://www.youtube.com/watch?v=Msosvf98Naw
 youtube_url: https://www.youtube.com/watch?v=Msosvf98Naw
 tags: ["machine learning", "computer vision", "AI"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation"]
 transcript: false
 ---
 

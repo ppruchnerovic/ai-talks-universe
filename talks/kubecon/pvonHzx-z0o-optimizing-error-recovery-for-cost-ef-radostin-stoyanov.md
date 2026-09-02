@@ -15,6 +15,7 @@ video_id: pvonHzx-z0o
 url: https://www.youtube.com/watch?v=pvonHzx-z0o
 youtube_url: https://www.youtube.com/watch?v=pvonHzx-z0o
 tags: []
+topics: ["Classic ML & data science", "Inference, serving & GPU infra"]
 transcript: true
 ---
 

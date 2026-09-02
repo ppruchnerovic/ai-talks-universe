@@ -15,6 +15,7 @@ video_id: 5pFdx9ZLIMI
 url: https://www.youtube.com/watch?v=5pFdx9ZLIMI
 youtube_url: https://www.youtube.com/watch?v=5pFdx9ZLIMI
 tags: ["ainativedev"]
+topics: ["RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: mSK_YFOAMBA
 url: https://www.youtube.com/watch?v=mSK_YFOAMBA
 youtube_url: https://www.youtube.com/watch?v=mSK_YFOAMBA
 tags: ["Frontend, Web & Mobile", "Edge AI", "iOS"]
+topics: ["Inference, serving & GPU infra"]
 transcript: true
 ---
 

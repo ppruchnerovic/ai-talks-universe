@@ -15,6 +15,7 @@ video_id: 9wfHzR5eH84
 url: https://www.youtube.com/watch?v=9wfHzR5eH84
 youtube_url: https://www.youtube.com/watch?v=9wfHzR5eH84
 tags: []
+topics: ["Agents & orchestration", "Coding assistants & agents", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: true
 ---
 

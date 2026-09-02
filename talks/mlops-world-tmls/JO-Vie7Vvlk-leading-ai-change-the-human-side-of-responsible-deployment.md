@@ -15,6 +15,7 @@ video_id: JO-Vie7Vvlk
 url: https://www.youtube.com/watch?v=JO-Vie7Vvlk
 youtube_url: https://www.youtube.com/watch?v=JO-Vie7Vvlk
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Enterprise adoption & strategy", "Governance, ethics & regulation"]
 transcript: true
 ---
 

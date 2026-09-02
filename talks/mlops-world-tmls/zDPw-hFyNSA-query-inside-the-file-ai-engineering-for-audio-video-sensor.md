@@ -15,6 +15,7 @@ video_id: zDPw-hFyNSA
 url: https://www.youtube.com/watch?v=zDPw-hFyNSA
 youtube_url: https://www.youtube.com/watch?v=zDPw-hFyNSA
 tags: ["machine learning", "artificial intelligence", "data science", "machine learning simplified", "automated machine learning", "developers", "Automated ML", "ml", "machine learning operations", "mlops", "education"]
+topics: ["Data engineering & MLOps", "Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

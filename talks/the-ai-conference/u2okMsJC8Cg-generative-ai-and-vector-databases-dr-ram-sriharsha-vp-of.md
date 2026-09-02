@@ -15,6 +15,7 @@ video_id: u2okMsJC8Cg
 url: https://www.youtube.com/watch?v=u2okMsJC8Cg
 youtube_url: https://www.youtube.com/watch?v=u2okMsJC8Cg
 tags: ["THE AI CONFERENCE", "machine learning", "vector databases", "vector embeddings", "llm"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "RAG, retrieval & knowledge", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

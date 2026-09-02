@@ -15,6 +15,7 @@ video_id: wfPlzV6Miuc
 url: https://www.youtube.com/watch?v=wfPlzV6Miuc
 youtube_url: https://www.youtube.com/watch?v=wfPlzV6Miuc
 tags: ["Software Architecture", "AI Development", "Engineering Leadership", "The InfoQ Podcast", "Architecture & Design", "Software Development", "Productivity", "AI"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents", "Enterprise adoption & strategy"]
 transcript: true
 ---
 

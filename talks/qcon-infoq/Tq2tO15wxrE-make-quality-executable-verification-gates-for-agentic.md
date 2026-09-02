@@ -15,6 +15,7 @@ video_id: Tq2tO15wxrE
 url: https://www.youtube.com/watch?v=Tq2tO15wxrE
 youtube_url: https://www.youtube.com/watch?v=Tq2tO15wxrE
 tags: ["Agentic Engineering", "Code Quality", "Code Review", "AI Engineering", "Developer Productivity", "DevOps", "SDLC", "Generative AI"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration"]
 transcript: true
 ---
 

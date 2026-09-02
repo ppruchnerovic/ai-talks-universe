@@ -15,6 +15,7 @@ video_id: SBI1qgNvWV4
 url: https://www.youtube.com/watch?v=SBI1qgNvWV4
 youtube_url: https://www.youtube.com/watch?v=SBI1qgNvWV4
 tags: ["AI", "Advanced (300)", "BRK122", "Breakout", "Build secure GenAI apps with Azure AI Foundry | BRK122", "Dennis Eikenboom", "English (US)", "GenAI", "Meera Kurup", "Security", "Software Company", "Technical", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: false
 ---
 

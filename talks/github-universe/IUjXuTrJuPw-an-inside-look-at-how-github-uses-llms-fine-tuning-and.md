@@ -15,6 +15,7 @@ video_id: IUjXuTrJuPw
 url: https://www.youtube.com/watch?v=IUjXuTrJuPw
 youtube_url: https://www.youtube.com/watch?v=IUjXuTrJuPw
 tags: []
+topics: ["Coding assistants & agents", "Prompting & context engineering", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

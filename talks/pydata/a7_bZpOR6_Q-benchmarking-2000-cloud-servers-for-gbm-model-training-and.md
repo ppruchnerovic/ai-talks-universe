@@ -15,6 +15,7 @@ video_id: a7_bZpOR6_Q
 url: https://www.youtube.com/watch?v=a7_bZpOR6_Q
 youtube_url: https://www.youtube.com/watch?v=a7_bZpOR6_Q
 tags: ["AWS", "Azure", "Conference", "GCP", "GPU computing", "LLM inference", "MLOps", "PyConDE", "PyData", "PyData Berlin", "Python", "Tech Talk", "benchmarking", "cloud computing", "cost optimization", "infrastructure", "machine learning", "open source", "performance testing"]
+topics: ["Classic ML & data science", "Evals, observability & reliability", "Inference, serving & GPU infra", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

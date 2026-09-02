@@ -15,6 +15,7 @@ video_id: GYuCeGut2Fo
 url: https://www.youtube.com/watch?v=GYuCeGut2Fo
 youtube_url: https://www.youtube.com/watch?v=GYuCeGut2Fo
 tags: ["Developer Experience", "AI Coding Assistants", "Developer Experience (DevEx)", "Productivity"]
+topics: ["AI in the SDLC & engineering orgs", "Coding assistants & agents"]
 transcript: true
 ---
 

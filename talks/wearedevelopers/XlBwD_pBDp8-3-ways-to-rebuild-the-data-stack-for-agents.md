@@ -15,6 +15,7 @@ video_id: XlBwD_pBDp8
 url: https://www.youtube.com/watch?v=XlBwD_pBDp8
 youtube_url: https://www.youtube.com/watch?v=XlBwD_pBDp8
 tags: ["Data & Databases", "AI Coding Assistants", "Analytics", "Data", "Databases", "DuckDB", "Generative AI (GenAI)"]
+topics: ["Agents & orchestration", "Classic ML & data science"]
 transcript: true
 ---
 

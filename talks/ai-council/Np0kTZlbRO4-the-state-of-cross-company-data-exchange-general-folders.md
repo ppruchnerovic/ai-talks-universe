@@ -15,6 +15,7 @@ video_id: Np0kTZlbRO4
 url: https://www.youtube.com/watch?v=Np0kTZlbRO4
 youtube_url: https://www.youtube.com/watch?v=Np0kTZlbRO4
 tags: ["data exchange", "data sharing", "AI companies"]
+topics: ["Science, healthcare & applied ML"]
 transcript: false
 ---
 

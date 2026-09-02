@@ -15,6 +15,7 @@ video_id: eyEsg7SGEKY
 url: https://www.youtube.com/watch?v=eyEsg7SGEKY
 youtube_url: https://www.youtube.com/watch?v=eyEsg7SGEKY
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Data engineering & MLOps", "Governance, ethics & regulation", "Security, safety & red teaming"]
 transcript: true
 ---
 

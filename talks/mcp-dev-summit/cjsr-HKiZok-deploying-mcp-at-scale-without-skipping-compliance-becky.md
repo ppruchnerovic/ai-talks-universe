@@ -15,6 +15,7 @@ video_id: cjsr-HKiZok
 url: https://www.youtube.com/watch?v=cjsr-HKiZok
 youtube_url: https://www.youtube.com/watch?v=cjsr-HKiZok
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 5OS3pZ3yXrg
 url: https://www.youtube.com/watch?v=5OS3pZ3yXrg
 youtube_url: https://www.youtube.com/watch?v=5OS3pZ3yXrg
 tags: ["ainativedev"]
+topics: ["Enterprise adoption & strategy", "Inference, serving & GPU infra"]
 transcript: false
 ---
 

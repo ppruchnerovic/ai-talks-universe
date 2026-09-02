@@ -15,6 +15,7 @@ video_id: O-CBZ3JtRvo
 url: https://www.youtube.com/watch?v=O-CBZ3JtRvo
 youtube_url: https://www.youtube.com/watch?v=O-CBZ3JtRvo
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Security, safety & red teaming", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

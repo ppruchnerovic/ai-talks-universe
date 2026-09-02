@@ -15,6 +15,7 @@ video_id: Ch1EwR18Dqc
 url: https://www.youtube.com/watch?v=Ch1EwR18Dqc
 youtube_url: https://www.youtube.com/watch?v=Ch1EwR18Dqc
 tags: ["Android", "pr_pr: Google I/O;", "ct:Event - Technical Session;", "ct:Stack - Android;", "androidmedia", "androidcamera", "media3", "camerax", "featured"]
+topics: []
 transcript: true
 ---
 

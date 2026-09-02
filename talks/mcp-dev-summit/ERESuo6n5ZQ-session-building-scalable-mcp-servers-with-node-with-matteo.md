@@ -15,6 +15,7 @@ video_id: ERESuo6n5ZQ
 url: https://www.youtube.com/watch?v=ERESuo6n5ZQ
 youtube_url: https://www.youtube.com/watch?v=ERESuo6n5ZQ
 tags: ["mcp", "model context protocol", "mcp dev summit", "mcp summit", "mcp ai"]
+topics: ["Agents & orchestration", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

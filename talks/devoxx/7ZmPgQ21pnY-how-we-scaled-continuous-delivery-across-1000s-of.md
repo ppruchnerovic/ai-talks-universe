@@ -15,6 +15,7 @@ video_id: 7ZmPgQ21pnY
 url: https://www.youtube.com/watch?v=7ZmPgQ21pnY
 youtube_url: https://www.youtube.com/watch?v=7ZmPgQ21pnY
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Governance, ethics & regulation"]
 transcript: false
 ---
 

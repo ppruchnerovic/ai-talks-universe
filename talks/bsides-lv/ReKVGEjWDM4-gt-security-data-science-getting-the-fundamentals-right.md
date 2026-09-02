@@ -15,6 +15,7 @@ video_id: ReKVGEjWDM4
 url: https://www.youtube.com/watch?v=ReKVGEjWDM4
 youtube_url: https://www.youtube.com/watch?v=ReKVGEjWDM4
 tags: ["bslv", "BSidesLV", "bslv2019", "2019-bsideslv-049", "Ground Truth", "GT", "gt", "BSidesLV2019"]
+topics: ["Classic ML & data science", "Security, safety & red teaming"]
 transcript: false
 ---
 

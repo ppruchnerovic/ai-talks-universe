@@ -15,6 +15,7 @@ video_id: iq-team-diversity-productivity
 url: https://www.infoq.com/presentations/team-diversity-productivity/
 youtube_url: null
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

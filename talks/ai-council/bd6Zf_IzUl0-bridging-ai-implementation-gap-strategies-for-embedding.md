@@ -15,6 +15,7 @@ video_id: bd6Zf_IzUl0
 url: https://www.youtube.com/watch?v=bd6Zf_IzUl0
 youtube_url: https://www.youtube.com/watch?v=bd6Zf_IzUl0
 tags: ["embedded partnerships", "AI implementation", "data teams", "ChatGPT", "artificial intelligence", "machine learning", "business alignment", "AI adoption", "data strategy", "enterprise AI", "organizational change", "Python tutorial", "stakeholder engagement", "cross functional collaboration", "business partnerships", "technical partnerships", "vendor relationships", "integration strategies", "change management", "project management", "strategic alliances"]
+topics: ["Enterprise adoption & strategy", "RAG, retrieval & knowledge"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: Rcfhh-V7x2U
 url: https://www.youtube.com/watch?v=Rcfhh-V7x2U
 youtube_url: https://www.youtube.com/watch?v=Rcfhh-V7x2U
 tags: []
+topics: ["Classic ML & data science", "Training, fine-tuning & model building"]
 transcript: false
 ---
 

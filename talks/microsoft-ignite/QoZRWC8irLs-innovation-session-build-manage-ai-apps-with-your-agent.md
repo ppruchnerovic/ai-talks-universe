@@ -15,6 +15,7 @@ video_id: QoZRWC8irLs
 url: https://www.youtube.com/watch?v=QoZRWC8irLs
 youtube_url: https://www.youtube.com/watch?v=QoZRWC8irLs
 tags: ["Amanda Silver", "BRK1706", "BRK1706_v1", "English (US)", "Innovate with Azure AI apps and agents", "Innovate with Azure AI apps and agents:Microsoft Foundry", "Innovation Session: Build & Manage AI Apps with Your Agent Factory | BRK1706", "Marco Casalaina", "Sarah Bird", "Signature pass", "Technical", "Yina Arenas", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["AI in the SDLC & engineering orgs", "Agents & orchestration", "Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

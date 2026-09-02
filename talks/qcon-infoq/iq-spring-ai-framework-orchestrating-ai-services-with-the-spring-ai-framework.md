@@ -15,6 +15,7 @@ video_id: iq-spring-ai-framework
 url: https://www.infoq.com/presentations/spring-ai-framework/
 youtube_url: null
 tags: []
+topics: ["Security, safety & red teaming"]
 transcript: true
 ---
 

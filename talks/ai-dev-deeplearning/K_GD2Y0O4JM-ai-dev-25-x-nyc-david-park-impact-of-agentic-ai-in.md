@@ -15,6 +15,7 @@ video_id: K_GD2Y0O4JM
 url: https://www.youtube.com/watch?v=K_GD2Y0O4JM
 youtube_url: https://www.youtube.com/watch?v=K_GD2Y0O4JM
 tags: []
+topics: ["Agents & orchestration", "Governance, ethics & regulation", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

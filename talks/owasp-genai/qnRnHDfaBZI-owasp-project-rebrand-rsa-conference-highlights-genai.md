@@ -15,6 +15,7 @@ video_id: qnRnHDfaBZI
 url: https://www.youtube.com/watch?v=qnRnHDfaBZI
 youtube_url: https://www.youtube.com/watch?v=qnRnHDfaBZI
 tags: ["genai security", "podcast", "owasp", "project", "rebrand", "rsa conference", "rsac 2025", "generative ai", "ai"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

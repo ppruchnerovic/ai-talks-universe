@@ -15,6 +15,7 @@ video_id: JajBEYle67I
 url: https://www.youtube.com/watch?v=JajBEYle67I
 youtube_url: https://www.youtube.com/watch?v=JajBEYle67I
 tags: []
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: HsxQICTLF84
 url: https://www.youtube.com/watch?v=HsxQICTLF84
 youtube_url: https://www.youtube.com/watch?v=HsxQICTLF84
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

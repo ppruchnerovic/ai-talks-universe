@@ -15,6 +15,7 @@ video_id: oDjESsByBmM
 url: https://www.youtube.com/watch?v=oDjESsByBmM
 youtube_url: https://www.youtube.com/watch?v=oDjESsByBmM
 tags: []
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

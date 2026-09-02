@@ -15,6 +15,7 @@ video_id: ZTYxdekag-k
 url: https://www.youtube.com/watch?v=ZTYxdekag-k
 youtube_url: https://www.youtube.com/watch?v=ZTYxdekag-k
 tags: ["AI"]
+topics: ["Inference, serving & GPU infra", "Multimodal, vision, speech & robotics", "Training, fine-tuning & model building"]
 transcript: true
 ---
 

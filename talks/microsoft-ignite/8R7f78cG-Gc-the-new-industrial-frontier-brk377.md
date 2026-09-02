@@ -15,6 +15,7 @@ video_id: 8R7f78cG-Gc
 url: https://www.youtube.com/watch?v=8R7f78cG-Gc
 youtube_url: https://www.youtube.com/watch?v=8R7f78cG-Gc
 tags: ["5acc5546-5da3-40ab-a893-2cf5efe2fa1e_Segment", "BRK377", "Copilot and agents at work", "English (US)", "Manufacturing and Mobility", "Michael MacKenzie", "RAJESH RAMACHANDRAN", "Signature pass", "Stephan Hotz", "Technical", "The new industrial frontier | BRK377", "Tom Wisniewski", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Agents & orchestration", "Multimodal, vision, speech & robotics", "Science, healthcare & applied ML"]
 transcript: false
 ---
 

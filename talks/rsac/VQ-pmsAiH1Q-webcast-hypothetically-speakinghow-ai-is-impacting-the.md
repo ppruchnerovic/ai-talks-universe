@@ -15,6 +15,7 @@ video_id: VQ-pmsAiH1Q
 url: https://www.youtube.com/watch?v=VQ-pmsAiH1Q
 youtube_url: https://www.youtube.com/watch?v=VQ-pmsAiH1Q
 tags: ["rsa", "rsaconference", "rsac", "information", "security", "cybersecurity", "infosec"]
+topics: ["Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

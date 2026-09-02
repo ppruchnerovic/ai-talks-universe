@@ -15,6 +15,7 @@ video_id: N685aElPewE
 url: https://www.youtube.com/watch?v=N685aElPewE
 youtube_url: https://www.youtube.com/watch?v=N685aElPewE
 tags: ["BRK160", "Breakout", "Business Applications", "Business Applications-Curated", "Daniel Pickworth", "Edgar Wilson II", "English (US)", "Sundar Raghavan", "Technical", "Unleash next-level customer service with Copilot and agents in Dynamics 365 | BRK160", "Version v1", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

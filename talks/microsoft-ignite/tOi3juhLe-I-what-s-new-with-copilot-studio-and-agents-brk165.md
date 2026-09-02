@@ -15,6 +15,7 @@ video_id: tOi3juhLe-I
 url: https://www.youtube.com/watch?v=tOi3juhLe-I
 youtube_url: https://www.youtube.com/watch?v=tOi3juhLe-I
 tags: ["BRK165", "Breakout", "Business Applications", "Business Applications-Curated", "Edwina Fitzmaurice", "English (US)", "Johan Vikström", "Omar Aftab", "Ray Smith", "Technical", "Version v1", "What's new with Copilot Studio and agents | BRK165", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

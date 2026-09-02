@@ -15,6 +15,7 @@ video_id: am2Exp1srUU
 url: https://www.youtube.com/watch?v=am2Exp1srUU
 youtube_url: https://www.youtube.com/watch?v=am2Exp1srUU
 tags: []
+topics: ["Coding assistants & agents", "Security, safety & red teaming"]
 transcript: false
 ---
 

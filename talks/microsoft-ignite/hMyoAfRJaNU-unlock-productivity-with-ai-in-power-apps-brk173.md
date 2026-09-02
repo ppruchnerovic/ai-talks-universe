@@ -15,6 +15,7 @@ video_id: hMyoAfRJaNU
 url: https://www.youtube.com/watch?v=hMyoAfRJaNU
 youtube_url: https://www.youtube.com/watch?v=hMyoAfRJaNU
 tags: ["Anthony Uitz", "BRK173", "Breakout", "Business Applications", "English (US)", "Intermediate (200)", "Matt Hidinger", "Technical", "Unlock Productivity with AI in Power Apps | BRK173", "Version v3", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: []
 transcript: false
 ---
 

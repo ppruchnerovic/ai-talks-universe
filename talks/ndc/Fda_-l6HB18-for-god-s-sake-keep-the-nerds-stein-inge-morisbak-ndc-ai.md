@@ -15,6 +15,7 @@ video_id: Fda_-l6HB18
 url: https://www.youtube.com/watch?v=Fda_-l6HB18
 youtube_url: https://www.youtube.com/watch?v=Fda_-l6HB18
 tags: ["AI", "API", "Code", "NDC", "Conferences", "2026", "Live", "Fun", "Oslo", "Norway", "Stein Inge Morisbak"]
+topics: ["Enterprise adoption & strategy", "Security, safety & red teaming"]
 transcript: true
 ---
 

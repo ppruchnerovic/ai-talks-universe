@@ -15,6 +15,7 @@ video_id: PeiqL3--3gc
 url: https://www.youtube.com/watch?v=PeiqL3--3gc
 youtube_url: https://www.youtube.com/watch?v=PeiqL3--3gc
 tags: ["Python", "Tutorial", "Education", "NumFOCUS", "PyData", "Opensource", "learn", "software", "python 3", "Julia", "coding", "learn to code", "how to program", "scientific programming"]
+topics: ["Classic ML & data science"]
 transcript: false
 ---
 

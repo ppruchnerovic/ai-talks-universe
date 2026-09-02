@@ -15,6 +15,7 @@ video_id: PbSc09IfFLM
 url: https://www.youtube.com/watch?v=PbSc09IfFLM
 youtube_url: https://www.youtube.com/watch?v=PbSc09IfFLM
 tags: ["LIVE101", "LIVE101_v1", "Mark Russinovich", "Scott Hanselman", "Scott and Mark learn to Vibe Check | LIVE101", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: []
 transcript: true
 ---
 

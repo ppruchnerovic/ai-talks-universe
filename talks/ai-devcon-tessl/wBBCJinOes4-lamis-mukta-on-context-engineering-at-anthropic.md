@@ -15,6 +15,7 @@ video_id: wBBCJinOes4
 url: https://www.youtube.com/watch?v=wBBCJinOes4
 youtube_url: https://www.youtube.com/watch?v=wBBCJinOes4
 tags: []
+topics: ["AI in the SDLC & engineering orgs", "Evals, observability & reliability", "Prompting & context engineering"]
 transcript: true
 ---
 

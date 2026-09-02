@@ -15,6 +15,7 @@ video_id: jt1Pbr_n6oU
 url: https://www.youtube.com/watch?v=jt1Pbr_n6oU
 youtube_url: https://www.youtube.com/watch?v=jt1Pbr_n6oU
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Agents & orchestration", "RAG, retrieval & knowledge"]
 transcript: true
 ---
 

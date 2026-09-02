@@ -15,6 +15,7 @@ video_id: dyXlae4CTig
 url: https://www.youtube.com/watch?v=dyXlae4CTig
 youtube_url: https://www.youtube.com/watch?v=dyXlae4CTig
 tags: ["AI Models"]
+topics: ["Evals, observability & reliability", "Inference, serving & GPU infra", "Multimodal, vision, speech & robotics"]
 transcript: true
 ---
 

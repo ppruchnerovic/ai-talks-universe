@@ -15,6 +15,7 @@ video_id: NJNYkSEwkLM
 url: https://www.youtube.com/watch?v=NJNYkSEwkLM
 youtube_url: https://www.youtube.com/watch?v=NJNYkSEwkLM
 tags: []
+topics: ["Multimodal, vision, speech & robotics"]
 transcript: false
 ---
 

@@ -15,6 +15,7 @@ video_id: kMTJHYIdcRo
 url: https://www.youtube.com/watch?v=kMTJHYIdcRo
 youtube_url: https://www.youtube.com/watch?v=kMTJHYIdcRo
 tags: ["SoftwareDevelopment", "SoftwareArchitecture", "KnowledgeFlow", "SystemsThinking", "EngineeringLeadership", "Domain-Driven Design", "Organizational Learning", "Team Dynamics", "Business Alignment", "Continuous Learning", "Problem Solving", "Innovation", "The InfoQ Podcast"]
+topics: ["Enterprise adoption & strategy"]
 transcript: false
 ---
 

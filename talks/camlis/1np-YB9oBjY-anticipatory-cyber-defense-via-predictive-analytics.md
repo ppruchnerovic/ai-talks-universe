@@ -15,6 +15,7 @@ video_id: 1np-YB9oBjY
 url: https://www.youtube.com/watch?v=1np-YB9oBjY
 youtube_url: https://www.youtube.com/watch?v=1np-YB9oBjY
 tags: ["camlis", "camlis2018", "bonware"]
+topics: ["Classic ML & data science", "Science, healthcare & applied ML", "Security, safety & red teaming"]
 transcript: false
 ---
 

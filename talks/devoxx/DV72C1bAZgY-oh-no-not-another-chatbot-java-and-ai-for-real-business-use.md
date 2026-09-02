@@ -15,6 +15,7 @@ video_id: DV72C1bAZgY
 url: https://www.youtube.com/watch?v=DV72C1bAZgY
 youtube_url: https://www.youtube.com/watch?v=DV72C1bAZgY
 tags: []
+topics: []
 transcript: false
 ---
 

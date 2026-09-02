@@ -15,6 +15,7 @@ video_id: Qjps4_jbOtk
 url: https://www.youtube.com/watch?v=Qjps4_jbOtk
 youtube_url: https://www.youtube.com/watch?v=Qjps4_jbOtk
 tags: ["Strategy & Innovation", "Agentic AI", "Data", "Databases", "eCommerce", "GEO", "Infrastructure", "Large Language Models (LLMs)", "LLMOps", "Model Training", "Product Strategy", "Product Management", "Startups"]
+topics: ["Enterprise adoption & strategy"]
 transcript: true
 ---
 

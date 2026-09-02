@@ -15,6 +15,7 @@ video_id: zCoBTPoCH8o
 url: https://www.youtube.com/watch?v=zCoBTPoCH8o
 youtube_url: https://www.youtube.com/watch?v=zCoBTPoCH8o
 tags: ["community", "developer platform", "developer community"]
+topics: []
 transcript: false
 ---
 

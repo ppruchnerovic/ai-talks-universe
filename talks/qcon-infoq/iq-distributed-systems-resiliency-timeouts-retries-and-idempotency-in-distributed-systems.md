@@ -15,6 +15,7 @@ video_id: iq-distributed-systems-resiliency
 url: https://www.infoq.com/presentations/distributed-systems-resiliency/
 youtube_url: null
 tags: []
+topics: []
 transcript: true
 ---
 

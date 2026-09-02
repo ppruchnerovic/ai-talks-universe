@@ -15,6 +15,7 @@ video_id: RmS5s6Wbin4
 url: https://www.youtube.com/watch?v=RmS5s6Wbin4
 youtube_url: https://www.youtube.com/watch?v=RmS5s6Wbin4
 tags: ["ai", "ai engineer", "ai engineering", "software development", "tech", "startups", "software architecture", "machine learning"]
+topics: ["Coding assistants & agents"]
 transcript: true
 ---
 

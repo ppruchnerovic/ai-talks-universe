@@ -15,6 +15,7 @@ video_id: gt7Ko2RlAbk
 url: https://www.youtube.com/watch?v=gt7Ko2RlAbk
 youtube_url: https://www.youtube.com/watch?v=gt7Ko2RlAbk
 tags: ["Artificial Intelligence", "Machine Learning", "Data Engineering", "InfoQ Dev Summit", "InfoQ", "transcript", "Large Language Models", "LLMs"]
+topics: []
 transcript: false
 ---
 

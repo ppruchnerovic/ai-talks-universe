@@ -15,6 +15,7 @@ video_id: UCgQj1ZlDqk
 url: https://www.youtube.com/watch?v=UCgQj1ZlDqk
 youtube_url: https://www.youtube.com/watch?v=UCgQj1ZlDqk
 tags: ["AI Agents", "Context Engineering", "Coding Agents", "Developer Productivity", "RAG", "AI Engineering", "Generative AI", "MCP Protocol"]
+topics: ["Agents & orchestration", "Coding assistants & agents"]
 transcript: true
 ---
 

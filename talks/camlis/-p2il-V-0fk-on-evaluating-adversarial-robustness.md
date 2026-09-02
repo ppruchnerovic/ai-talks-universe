@@ -15,6 +15,7 @@ video_id: -p2il-V-0fk
 url: https://www.youtube.com/watch?v=-p2il-V-0fk
 youtube_url: https://www.youtube.com/watch?v=-p2il-V-0fk
 tags: ["camlis", "camlis2019"]
+topics: ["Evals, observability & reliability", "Security, safety & red teaming"]
 transcript: false
 ---
 

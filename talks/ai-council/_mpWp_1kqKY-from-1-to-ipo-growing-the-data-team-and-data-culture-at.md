@@ -15,6 +15,7 @@ video_id: _mpWp_1kqKY
 url: https://www.youtube.com/watch?v=_mpWp_1kqKY
 youtube_url: https://www.youtube.com/watch?v=_mpWp_1kqKY
 tags: ["data teams", "team culture", "data culture"]
+topics: ["Data engineering & MLOps", "Enterprise adoption & strategy"]
 transcript: false
 ---
 

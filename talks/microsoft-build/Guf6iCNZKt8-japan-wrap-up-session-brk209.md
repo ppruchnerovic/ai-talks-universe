@@ -15,6 +15,7 @@ video_id: Guf6iCNZKt8
 url: https://www.youtube.com/watch?v=Guf6iCNZKt8
 youtube_url: https://www.youtube.com/watch?v=Guf6iCNZKt8
 tags: ["52082998-f4df-4fbb-8b20-f285b89fd486_M9Z7-BRK209-1", "Azure", "BRK209", "Data", "DevTools", "GitHub", "Japan Wrap-up Session | BRK209", "Microsoft Foundry", "Security", "Tadashi Okazaki", "Windows", "build", "build 2026", "m9z7", "microsoft", "microsoft build", "microsoft build 2026", "ms build", "ms build 2026", "msft build", "msft build 2026"]
+topics: ["Evals, observability & reliability"]
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: VBDnbJx2EEE
 url: https://www.youtube.com/watch?v=VBDnbJx2EEE
 youtube_url: https://www.youtube.com/watch?v=VBDnbJx2EEE
 tags: ["Software Architecture", "AI Standards", "Cross-Platform", "Distributed Systems", "Large Language Models (LLMs)", "Microservices", "Scaling", "System Design"]
+topics: []
 transcript: true
 ---
 

@@ -15,6 +15,7 @@ video_id: 2OJndPBW1GQ
 url: https://www.youtube.com/watch?v=2OJndPBW1GQ
 youtube_url: https://www.youtube.com/watch?v=2OJndPBW1GQ
 tags: ["A future where AI and humans work together with AI Copilot and agents | ODFP940", "AI", "Antonella Candido", "Copilot", "English (US)", "Foundational (100)", "Microsoft Copilot", "ODFP940", "Power Platform", "Pre-recorded", "Steve Ebrahimi", "Technical", "Tricia Sinclair", "Version v1", "Vishal Sarkar", "ignite", "ignite 2024", "m6x0", "microsoft", "microsoft ignite", "microsoft ignite 2024", "ms ignite", "ms ignite 2024", "msft ignite", "msft ignite 2024"]
+topics: ["Agents & orchestration"]
 transcript: false
 ---
 

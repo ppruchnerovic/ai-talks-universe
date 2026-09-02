@@ -15,6 +15,7 @@ video_id: Xuy-DaJIfDI
 url: https://www.youtube.com/watch?v=Xuy-DaJIfDI
 youtube_url: https://www.youtube.com/watch?v=Xuy-DaJIfDI
 tags: []
+topics: ["Coding assistants & agents"]
 transcript: false
 ---
 

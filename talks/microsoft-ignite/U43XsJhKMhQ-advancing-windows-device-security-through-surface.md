@@ -15,6 +15,7 @@ video_id: U43XsJhKMhQ
 url: https://www.youtube.com/watch?v=U43XsJhKMhQ
 youtube_url: https://www.youtube.com/watch?v=U43XsJhKMhQ
 tags: ["Advancing Windows device security through Surface innovation | BRK338", "BRK338", "BRK338_v1", "David Abzarian", "English (US)", "Karan Dhillon", "Scale with cloud and AI endpoints", "Technical", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Security, safety & red teaming"]
 transcript: false
 ---
 

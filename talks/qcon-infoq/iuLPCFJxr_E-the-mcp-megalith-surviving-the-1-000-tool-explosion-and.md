@@ -15,6 +15,7 @@ video_id: iuLPCFJxr_E
 url: https://www.youtube.com/watch?v=iuLPCFJxr_E
 youtube_url: https://www.youtube.com/watch?v=iuLPCFJxr_E
 tags: ["MCP Protocol", "Model Context Protocol", "AI Agents", "Enterprise AI", "LLM Security", "AI Engineering", "Generative AI", "API Design"]
+topics: ["Agents & orchestration"]
 transcript: true
 ---
 

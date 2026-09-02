@@ -15,6 +15,7 @@ video_id: AAkFNigV7OM
 url: https://www.youtube.com/watch?v=AAkFNigV7OM
 youtube_url: https://www.youtube.com/watch?v=AAkFNigV7OM
 tags: ["95040530-3148-4387-9439-e91384eaf781_Segment", "Aditya Badramraju", "Anitha Adusumilli", "BRK125", "Craig Henninger", "English (US)", "Meet the performance-enhanced next gen Azure SQL Managed Instance | BRK125", "Migrate and modernize your estate", "Migrate and modernize your estate:Azure SQL", "Technical", "Troy Brovold", "f5n1", "ignite", "ignite 2025", "microsoft", "microsoft ignite", "microsoft ignite 2025", "ms ignite", "ms ignite 2025", "msft ignite", "msft ignite 2025"]
+topics: ["Data engineering & MLOps"]
 transcript: false
 ---
 

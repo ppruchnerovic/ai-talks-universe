@@ -15,6 +15,7 @@ video_id: nPHYclgj81c
 url: https://www.youtube.com/watch?v=nPHYclgj81c
 youtube_url: https://www.youtube.com/watch?v=nPHYclgj81c
 tags: []
+topics: []
 transcript: false
 ---
 

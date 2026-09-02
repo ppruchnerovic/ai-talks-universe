@@ -15,6 +15,7 @@ video_id: e_63FES654w
 url: https://www.youtube.com/watch?v=e_63FES654w
 youtube_url: https://www.youtube.com/watch?v=e_63FES654w
 tags: ["sans institute", "information security", "cyber security", "cybersecurity", "information security training", "cybersecurity training", "cyber security training"]
+topics: []
 transcript: true
 ---
 
