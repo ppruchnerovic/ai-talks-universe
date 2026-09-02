@@ -4,7 +4,7 @@ title: "Make Vibe Coding Safe: How to Test with Playwright | Amazon AGI Lab"
 slug: make-vibe-coding-safe-how-to-test-with-playwright-amazon
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

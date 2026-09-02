@@ -4,7 +4,7 @@ title: "Scaling Talent from Within: How Upskilling Fuels Growth"
 slug: scaling-talent-from-within-how-upskilling-fuels-growth
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

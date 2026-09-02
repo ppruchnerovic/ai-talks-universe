@@ -4,7 +4,7 @@ title: "Modernize enterprise integration with Azure Integration Services | BRK15
 slug: modernize-enterprise-integration-with-azure-integration
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Divya Swarnkar", "Kent Weare"]

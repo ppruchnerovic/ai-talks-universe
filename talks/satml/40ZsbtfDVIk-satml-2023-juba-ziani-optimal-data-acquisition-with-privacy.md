@@ -4,7 +4,7 @@ title: "SaTML 2023 - Juba Ziani - Optimal Data Acquisition with Privacy-Aware Ag
 slug: satml-2023-juba-ziani-optimal-data-acquisition-with-privacy
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Juba Ziani"]

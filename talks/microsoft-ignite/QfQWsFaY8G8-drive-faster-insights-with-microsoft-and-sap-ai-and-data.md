@@ -4,7 +4,7 @@ title: "Drive faster insights with Microsoft and SAP AI and data innovations | B
 slug: drive-faster-insights-with-microsoft-and-sap-ai-and-data
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Robert Hernandez", "Nathan Weaver"]

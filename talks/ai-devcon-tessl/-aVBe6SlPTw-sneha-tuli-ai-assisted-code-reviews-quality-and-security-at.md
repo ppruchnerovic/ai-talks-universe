@@ -4,7 +4,7 @@ title: "Sneha Tuli: AI assisted code reviews Quality and Security at Scale | Dev
 slug: sneha-tuli-ai-assisted-code-reviews-quality-and-security-at
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

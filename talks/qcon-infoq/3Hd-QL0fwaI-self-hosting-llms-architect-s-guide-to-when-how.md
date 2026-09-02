@@ -4,7 +4,7 @@ title: "Self-Hosting LLMs: Architect's Guide to When & How"
 slug: self-hosting-llms-architect-s-guide-to-when-how
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

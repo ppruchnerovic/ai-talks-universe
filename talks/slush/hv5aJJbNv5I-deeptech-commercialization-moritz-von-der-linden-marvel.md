@@ -4,7 +4,7 @@ title: "Deeptech Commercialization | Moritz von der Linden (Marvel Fusion)"
 slug: deeptech-commercialization-moritz-von-der-linden-marvel
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Deeptech Commercialization", "Moritz von der Linden"]

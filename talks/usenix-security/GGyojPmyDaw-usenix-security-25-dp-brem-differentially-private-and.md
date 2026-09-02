@@ -4,7 +4,7 @@ title: "USENIX Security '25 - DP-BREM: Differentially-Private and Byzantine-Robu
 slug: usenix-security-25-dp-brem-differentially-private-and
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

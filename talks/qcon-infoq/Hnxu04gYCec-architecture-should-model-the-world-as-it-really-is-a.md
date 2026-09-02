@@ -4,7 +4,7 @@ title: "Architecture Should Model the World as It Really Is: A Conversation with
 slug: architecture-should-model-the-world-as-it-really-is-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

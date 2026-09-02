@@ -4,7 +4,7 @@ title: "Inside Microsoft's AI transformation across the software lifecycle | BRK
 slug: inside-microsoft-s-ai-transformation-across-the-software
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Amanda Silver", "Jenny Ferries", "Karl Piteira"]

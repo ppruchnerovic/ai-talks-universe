@@ -4,7 +4,7 @@ title: "David Jones-Gilardi-One agent, one job, better A-PyData Boston 2025"
 slug: david-jones-gilardi-one-agent-one-job-better-a-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

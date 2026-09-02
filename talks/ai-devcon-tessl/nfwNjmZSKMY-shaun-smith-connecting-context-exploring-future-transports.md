@@ -4,7 +4,7 @@ title: "Shaun Smith - Connecting Context - Exploring Future Transports - AI Nati
 slug: shaun-smith-connecting-context-exploring-future-transports
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Shaun Smith", "Connecting Context"]

@@ -4,7 +4,7 @@ title: "AI’s Jurassic Park Period — Aaron Stanley, dbt Labs"
 slug: ais-jurassic-park-period-aaron-stanley-dbt-labs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Aaron Stanley"]

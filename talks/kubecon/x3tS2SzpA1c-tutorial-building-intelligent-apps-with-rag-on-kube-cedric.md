@@ -4,7 +4,7 @@ title: "Tutorial: Building Intelligent Apps with RAG on Kube... Cedric C, Natale
 slug: tutorial-building-intelligent-apps-with-rag-on-kube-cedric
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

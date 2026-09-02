@@ -4,7 +4,7 @@ title: "Future of Cloud - New generation of compute & apps with AI and quantum |
 slug: future-of-cloud-new-generation-of-compute-apps-with-ai-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["John Link", "Gorka Madariaga"]

@@ -4,7 +4,7 @@ title: "Fault tolerant AI Agents on the JVM with Koog framework by Vadim Brilian
 slug: fault-tolerant-ai-agents-on-the-jvm-with-koog-framework-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Vadim Briliantov"]

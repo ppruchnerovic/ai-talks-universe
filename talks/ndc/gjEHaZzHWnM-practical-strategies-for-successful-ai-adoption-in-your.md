@@ -4,7 +4,7 @@ title: "Practical Strategies for Successful AI Adoption in your Organisation - R
 slug: practical-strategies-for-successful-ai-adoption-in-your
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Robert Hogg"]

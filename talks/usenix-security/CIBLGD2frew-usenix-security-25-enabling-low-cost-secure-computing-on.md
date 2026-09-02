@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Enabling Low-Cost Secure Computing on Untrusted In
 slug: usenix-security-25-enabling-low-cost-secure-computing-on
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

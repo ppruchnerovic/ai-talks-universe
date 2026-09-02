@@ -4,7 +4,7 @@ title: "Multimodal Graph ML for Prediction of Adverse Drug Events | AI for Drug 
 slug: multimodal-graph-ml-for-prediction-of-adverse-drug-events
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sophia Krix"]

@@ -4,7 +4,7 @@ title: "​Partner acceleration in the EMEA for Small and Medium Businesses | PB
 slug: partner-acceleration-in-the-emea-for-small-and-medium
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sharon Schoenborn", "Ville Hemmilä", "Brendan Murphy", "Piotr Tomasz Paszczyk", "Bart van der Knaap"]

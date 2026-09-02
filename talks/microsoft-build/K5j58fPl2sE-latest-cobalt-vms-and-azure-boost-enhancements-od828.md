@@ -4,7 +4,7 @@ title: "Latest Cobalt VMs and Azure Boost enhancements​ | OD828"
 slug: latest-cobalt-vms-and-azure-boost-enhancements-od828
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Amar Dhamdhere"]

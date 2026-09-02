@@ -4,7 +4,7 @@ title: "Forget RAG Pipelines—Build Production Ready Agents in 15 Mins: Nina Lo
 slug: forget-rag-pipelinesbuild-production-ready-agents-in-15
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

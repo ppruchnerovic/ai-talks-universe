@@ -4,7 +4,7 @@ title: "SecTor 2025 | From Days to Hours: Accelerating Cyber Threat Response wit
 slug: sector-2025-from-days-to-hours-accelerating-cyber-threat
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

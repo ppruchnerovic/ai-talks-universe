@@ -4,7 +4,7 @@ title: "Migrating Uber Eats Feeds to Webview"
 slug: migrating-uber-eats-feeds-to-webview
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Nick DiStefano"]

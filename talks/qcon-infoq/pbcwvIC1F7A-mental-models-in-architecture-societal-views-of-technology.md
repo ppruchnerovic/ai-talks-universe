@@ -4,7 +4,7 @@ title: "Mental Models in Architecture & Societal Views of Technology: A Conversa
 slug: mental-models-in-architecture-societal-views-of-technology
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

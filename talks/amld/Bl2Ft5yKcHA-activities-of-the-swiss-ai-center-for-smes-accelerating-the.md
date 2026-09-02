@@ -4,7 +4,7 @@ title: "Activities of the Swiss AI Center for SMEs | Accelerating the Adoption o
 slug: activities-of-the-swiss-ai-center-for-smes-accelerating-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jean Hennebert"]

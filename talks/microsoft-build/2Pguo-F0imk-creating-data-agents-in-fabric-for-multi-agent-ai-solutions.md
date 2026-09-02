@@ -4,7 +4,7 @@ title: "Creating Data Agents in Fabric for Multi-Agent AI Solutions | DEM561"
 slug: creating-data-agents-in-fabric-for-multi-agent-ai-solutions
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

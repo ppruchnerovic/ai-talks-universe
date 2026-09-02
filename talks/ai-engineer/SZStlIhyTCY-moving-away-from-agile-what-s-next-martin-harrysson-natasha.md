@@ -4,7 +4,7 @@ title: "Moving away from Agile: What's Next – Martin Harrysson & Natasha Mania
 slug: moving-away-from-agile-what-s-next-martin-harrysson-natasha
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Martin Harrysson", "Natasha Maniar"]

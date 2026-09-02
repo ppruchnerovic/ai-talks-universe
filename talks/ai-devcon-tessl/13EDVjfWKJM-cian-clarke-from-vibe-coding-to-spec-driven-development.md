@@ -4,7 +4,7 @@ title: "Cian Clarke - From Vibe Coding to Spec-Driven Development | DevCon Fall 
 slug: cian-clarke-from-vibe-coding-to-spec-driven-development
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Cian Clarke"]

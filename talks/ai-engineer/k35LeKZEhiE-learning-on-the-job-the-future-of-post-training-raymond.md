@@ -4,7 +4,7 @@ title: "Learning on the Job: The Future of Post-Training — Raymond Feng, Appli
 slug: learning-on-the-job-the-future-of-post-training-raymond
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Raymond Feng"]

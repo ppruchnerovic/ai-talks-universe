@@ -4,7 +4,7 @@ title: "Benjamin Vincent - Did Your Rollout Actually Work? | Pydata London 26"
 slug: benjamin-vincent-did-your-rollout-actually-work-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Benjamin Vincent"]

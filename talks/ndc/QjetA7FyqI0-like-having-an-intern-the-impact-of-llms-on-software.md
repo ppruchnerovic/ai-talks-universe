@@ -4,7 +4,7 @@ title: "Like Having an Intern? The Impact of LLMs on Software Engineering Career
 slug: like-having-an-intern-the-impact-of-llms-on-software
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Navigating the future: Solutions architecture in th
 slug: aws-re-invent-2025-navigating-the-future-solutions
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

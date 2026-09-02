@@ -4,7 +4,7 @@ title: "Anatomical Tumor Growth in Pediatric High-grade Gliomas | Rare Disease A
 slug: anatomical-tumor-growth-in-pediatric-high-grade-gliomas
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Daria Laslo"]

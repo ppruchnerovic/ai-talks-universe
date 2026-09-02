@@ -4,7 +4,7 @@ title: "How We Built an AI Code Reviewer for 200 Engineers"
 slug: how-we-built-an-ai-code-reviewer-for-200-engineers
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

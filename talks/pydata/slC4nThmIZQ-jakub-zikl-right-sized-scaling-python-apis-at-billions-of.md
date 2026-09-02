@@ -4,7 +4,7 @@ title: "Jakub Zikl - Right-Sized Scaling: Python APIs at Billions of Requests Wi
 slug: jakub-zikl-right-sized-scaling-python-apis-at-billions-of
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jakub Zikl"]

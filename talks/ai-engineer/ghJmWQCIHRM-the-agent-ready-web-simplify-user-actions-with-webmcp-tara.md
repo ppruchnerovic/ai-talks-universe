@@ -4,7 +4,7 @@ title: "The agent-ready web: Simplify user actions with WebMCP — Tara Agyemang
 slug: the-agent-ready-web-simplify-user-actions-with-webmcp-tara
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Tara Agyemang"]

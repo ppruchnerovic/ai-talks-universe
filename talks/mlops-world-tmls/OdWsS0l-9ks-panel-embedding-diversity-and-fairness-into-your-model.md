@@ -4,7 +4,7 @@ title: "Panel: Embedding Diversity and Fairness Into Your Model Governance"
 slug: panel-embedding-diversity-and-fairness-into-your-model
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Andrea Olgiati"]

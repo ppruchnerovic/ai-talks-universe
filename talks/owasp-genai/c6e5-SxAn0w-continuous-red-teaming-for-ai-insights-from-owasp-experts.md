@@ -4,7 +4,7 @@ title: "Continuous Red Teaming for AI: Insights from OWASP Experts - GenAI Secur
 slug: continuous-red-teaming-for-ai-insights-from-owasp-experts
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

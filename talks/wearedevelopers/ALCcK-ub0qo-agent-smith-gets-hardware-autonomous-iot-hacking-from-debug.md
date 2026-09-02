@@ -4,7 +4,7 @@ title: "Agent Smith Gets Hardware: Autonomous IoT Hacking From Debug Port to Clo
 slug: agent-smith-gets-hardware-autonomous-iot-hacking-from-debug
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marc Plogas"]

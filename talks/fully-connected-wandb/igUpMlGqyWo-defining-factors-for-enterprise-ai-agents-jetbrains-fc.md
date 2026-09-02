@@ -4,7 +4,7 @@ title: "Defining factors for enterprise AI agents - JetBrains @ FC London '25"
 slug: defining-factors-for-enterprise-ai-agents-jetbrains-fc
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

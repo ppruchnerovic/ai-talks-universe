@@ -4,7 +4,7 @@ title: "Building an Autonomous Engineering Org - Angie Jones, Agentic AI Foundat
 slug: building-an-autonomous-engineering-org-angie-jones-agentic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Angie Jones"]

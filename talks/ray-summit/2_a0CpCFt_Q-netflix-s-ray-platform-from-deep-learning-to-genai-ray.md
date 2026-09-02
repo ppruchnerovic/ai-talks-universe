@@ -4,7 +4,7 @@ title: "Netflix's Ray Platform: From Deep Learning to GenAI | Ray Summit 2024 Hi
 slug: netflix-s-ray-platform-from-deep-learning-to-genai-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

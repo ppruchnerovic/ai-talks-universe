@@ -4,7 +4,7 @@ title: "Lightning Talk: Open Source GenAI: A Community-Powered Future - Ofer Her
 slug: lightning-talk-open-source-genai-a-community-powered-future
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Ofer Hermoni"]

@@ -4,7 +4,7 @@ title: "Inside Look: AI & Developer Productivity Programs in a 1,500+ Engineerin
 slug: inside-look-ai-developer-productivity-programs-in-a-1-500
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ellen Jones", "Kristjan Ulst"]

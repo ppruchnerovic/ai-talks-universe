@@ -4,7 +4,7 @@ title: "Is WebAssembly the Secure, Efficient Alternative Everybody was Waiting f
 slug: is-webassembly-the-secure-efficient-alternative-everybody
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Sponsored by: Accenture & Avanade | Enterprise Scaling and Value of Gene
 slug: sponsored-by-accenture-avanade-enterprise-scaling-and-value
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

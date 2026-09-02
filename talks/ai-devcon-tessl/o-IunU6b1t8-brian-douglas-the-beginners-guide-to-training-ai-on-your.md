@@ -4,7 +4,7 @@ title: "Brian Douglas - The beginners guide to training AI on your own code - AI
 slug: brian-douglas-the-beginners-guide-to-training-ai-on-your
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Brian Douglas"]

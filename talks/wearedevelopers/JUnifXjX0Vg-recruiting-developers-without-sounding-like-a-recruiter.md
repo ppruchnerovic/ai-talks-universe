@@ -4,7 +4,7 @@ title: "Recruiting Developers without sounding like a Recruiter"
 slug: recruiting-developers-without-sounding-like-a-recruiter
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

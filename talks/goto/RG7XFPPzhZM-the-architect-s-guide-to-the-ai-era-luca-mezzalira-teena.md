@@ -4,7 +4,7 @@ title: "The Architect's Guide to the AI Era â€¢ Luca Mezzalira & Teena Idnani â€
 slug: the-architect-s-guide-to-the-ai-era-luca-mezzalira-teena
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Luca Mezzalira", "Teena Idnani"]

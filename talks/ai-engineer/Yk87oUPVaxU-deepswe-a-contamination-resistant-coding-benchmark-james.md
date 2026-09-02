@@ -4,7 +4,7 @@ title: "DeepSWE: A Contamination-Resistant Coding Benchmark — James Shi, Datac
 slug: deepswe-a-contamination-resistant-coding-benchmark-james
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["James Shi"]

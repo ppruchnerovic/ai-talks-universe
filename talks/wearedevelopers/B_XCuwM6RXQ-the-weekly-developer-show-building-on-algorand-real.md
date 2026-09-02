@@ -4,7 +4,7 @@ title: "The weekly developer show: Building on Algorand: Real Projects and Devel
 slug: the-weekly-developer-show-building-on-algorand-real
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

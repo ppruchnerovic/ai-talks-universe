@@ -1,4 +1,4 @@
-// Conference / category / topic / year filters, the three sort orders, Reset,
+// Conference / conference type / topic / year filters, the three sort orders, Reset,
 // and the hash that makes any view a shareable link.
 
 const L = require('./lib');
@@ -37,7 +37,7 @@ L.suite('filters', async browser => {
   await page.selectOption('#f-cat', cat);
   await page.waitForTimeout(400);
   const expCat = meta.talks.filter(t => t.g === cat).length;
-  L.check(`category "${cat}" returns exactly its talks`,
+  L.check(`conference type "${cat}" returns exactly its talks`,
     (await L.resultCount(page)) === expCat, `${await L.resultCount(page)} vs ${expCat}`);
 
   // ---------- topics: multi-valued, so the test is membership ----------
@@ -221,7 +221,7 @@ L.suite('filters', async browser => {
     trHidden: document.querySelector('#f-tr').hidden,
   }));
   // tr=1 must not switch on a filter the UI is deliberately hiding.
-  L.check('category round-trips, and tr=1 is honoured only while that toggle is shown',
+  L.check('conference type round-trips, and tr=1 is honoured only while that toggle is shown',
     rt.cat === cat && rt.tr === !rt.trHidden, JSON.stringify(rt));
 
   if (topics.length) {

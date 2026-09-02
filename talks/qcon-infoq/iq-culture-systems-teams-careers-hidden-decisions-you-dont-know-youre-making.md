@@ -4,7 +4,7 @@ title: "Hidden Decisions You Don’t Know You’re Making"
 slug: hidden-decisions-you-dont-know-youre-making
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Shawna Martell", "Dan Fike"]

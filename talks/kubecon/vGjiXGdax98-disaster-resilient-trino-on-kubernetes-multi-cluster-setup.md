@@ -4,7 +4,7 @@ title: "Disaster Resilient Trino on Kubernetes: Multi-Cluster Setup With Karma..
 slug: disaster-resilient-trino-on-kubernetes-multi-cluster-setup
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

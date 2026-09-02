@@ -4,7 +4,7 @@ title: "Gosia Steinder - Beyond Harnesses – Platform Solutions for Agent Relia
 slug: gosia-steinder-beyond-harnesses-platform-solutions-for
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Gosia Steinder", "Beyond Harnesses"]

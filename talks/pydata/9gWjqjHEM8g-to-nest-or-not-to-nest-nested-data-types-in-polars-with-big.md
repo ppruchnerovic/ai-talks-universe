@@ -4,7 +4,7 @@ title: "To nest, or not to nest? Nested data types in Polars with big data [PyCo
 slug: to-nest-or-not-to-nest-nested-data-types-in-polars-with-big
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Daniel Finnan"]

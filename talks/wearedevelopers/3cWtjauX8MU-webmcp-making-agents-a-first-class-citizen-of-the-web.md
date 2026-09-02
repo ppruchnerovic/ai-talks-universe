@@ -4,7 +4,7 @@ title: "WebMCP - Making Agents a First-Class Citizen of the Web"
 slug: webmcp-making-agents-a-first-class-citizen-of-the-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

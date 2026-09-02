@@ -4,7 +4,7 @@ title: "Securing AI Apps with the OWASP Top Ten for Large Language Models"
 slug: securing-ai-apps-with-the-owasp-top-ten-for-large-language
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Gavin Klondike"]

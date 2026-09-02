@@ -4,7 +4,7 @@ title: "Continuously improve your Agent in production | DEM528"
 slug: continuously-improve-your-agent-in-production-dem528
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

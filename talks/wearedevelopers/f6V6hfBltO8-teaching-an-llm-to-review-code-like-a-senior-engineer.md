@@ -4,7 +4,7 @@ title: "Teaching an LLM to review code … like a Senior Engineer!"
 slug: teaching-an-llm-to-review-code-like-a-senior-engineer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Kesha Mykhailov"]

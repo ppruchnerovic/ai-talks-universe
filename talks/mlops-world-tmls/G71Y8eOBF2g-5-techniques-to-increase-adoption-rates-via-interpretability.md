@@ -4,7 +4,7 @@ title: "5 Techniques to Increase Adoption Rates via Interpretability"
 slug: 5-techniques-to-increase-adoption-rates-via-interpretability
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

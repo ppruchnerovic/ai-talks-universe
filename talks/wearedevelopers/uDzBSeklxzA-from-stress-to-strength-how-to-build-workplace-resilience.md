@@ -4,7 +4,7 @@ title: "From Stress to Strength: How to Build Workplace Resilience"
 slug: from-stress-to-strength-how-to-build-workplace-resilience
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

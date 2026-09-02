@@ -4,7 +4,7 @@ title: "Why most AI agents fail (and how to fix it) - Viktoria Semaan - Databric
 slug: why-most-ai-agents-fail-and-how-to-fix-it-viktoria-semaan
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Viktoria Semaan"]

@@ -4,7 +4,7 @@ title: "In-ear EEG Earbuds | AI and Sleep | Mark Melnykowycz"
 slug: in-ear-eeg-earbuds-ai-and-sleep-mark-melnykowycz
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mark Melnykowycz"]

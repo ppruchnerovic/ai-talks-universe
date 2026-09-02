@@ -4,7 +4,7 @@ title: "How to build your own fun and absurd pair programmer by Alexander Chatzi
 slug: how-to-build-your-own-fun-and-absurd-pair-programmer-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alexander Chatzizacharias"]

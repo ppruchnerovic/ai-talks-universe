@@ -4,7 +4,7 @@ title: "AI Foundations: Mitigate Risks and Boost SOC Efficiency"
 slug: ai-foundations-mitigate-risks-and-boost-soc-efficiency
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

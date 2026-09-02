@@ -4,7 +4,7 @@ title: "Mission: Data Possible – Rethinking Data Architecture for GenAI | Jör
 slug: mission-data-possible-rethinking-data-architecture-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Jörg Schad"]

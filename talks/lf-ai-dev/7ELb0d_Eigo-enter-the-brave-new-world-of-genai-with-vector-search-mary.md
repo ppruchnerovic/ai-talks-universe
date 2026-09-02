@@ -4,7 +4,7 @@ title: "Enter the Brave New World of GenAI with Vector Search - Mary Grygleski, 
 slug: enter-the-brave-new-world-of-genai-with-vector-search-mary
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Mary Grygleski"]

@@ -4,7 +4,7 @@ title: "The ABCs of agent building"
 slug: the-abcs-of-agent-building
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kristopher Overholt"]

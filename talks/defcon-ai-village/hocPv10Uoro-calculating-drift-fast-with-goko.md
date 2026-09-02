@@ -4,7 +4,7 @@ title: "Calculating Drift, Fast with Goko"
 slug: calculating-drift-fast-with-goko
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

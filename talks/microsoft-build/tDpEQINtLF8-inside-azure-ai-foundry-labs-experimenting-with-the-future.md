@@ -4,7 +4,7 @@ title: "Inside Azure AI Foundry Labs: Experimenting with the Future of AI | BRK1
 slug: inside-azure-ai-foundry-labs-experimenting-with-the-future
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

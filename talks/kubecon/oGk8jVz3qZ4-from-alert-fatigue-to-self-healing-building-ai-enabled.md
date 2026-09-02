@@ -4,7 +4,7 @@ title: "From Alert Fatigue To Self-Healing: Building AI-Enabled Control Planes..
 slug: from-alert-fatigue-to-self-healing-building-ai-enabled
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

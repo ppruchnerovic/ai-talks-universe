@@ -4,7 +4,7 @@ title: "Zero-Knowledge Proofs: Simultaneously ensuring integrity and privacy - T
 slug: zero-knowledge-proofs-simultaneously-ensuring-integrity-and
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Tjerand Silde"]

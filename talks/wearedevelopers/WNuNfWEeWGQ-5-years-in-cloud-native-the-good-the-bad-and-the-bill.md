@@ -4,7 +4,7 @@ title: "5 Years in Cloud Native: The Good, the Bad, and the Bill"
 slug: 5-years-in-cloud-native-the-good-the-bad-and-the-bill
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Simone Desantis"]

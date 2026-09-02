@@ -4,7 +4,7 @@ title: "Economical perspective on AI | AI for Sustainability | Adélaïde Kissi"
 slug: economical-perspective-on-ai-ai-for-sustainability-adelaide
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Adélaïde Kissi"]

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build production AI agents with the Strands Agents 
 slug: aws-re-invent-2025-build-production-ai-agents-with-the
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

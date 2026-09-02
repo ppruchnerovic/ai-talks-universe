@@ -4,7 +4,7 @@ title: "How to defend your sites from AI bots — David Mytton, Arcjet"
 slug: how-to-defend-your-sites-from-ai-bots-david-mytton-arcjet
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Mytton"]

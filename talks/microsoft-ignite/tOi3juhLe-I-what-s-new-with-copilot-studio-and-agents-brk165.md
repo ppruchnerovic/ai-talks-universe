@@ -4,7 +4,7 @@ title: "What's new with Copilot Studio and agents | BRK165"
 slug: what-s-new-with-copilot-studio-and-agents-brk165
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Omar Aftab", "Edwina Fitzmaurice", "Ray Smith", "Johan Vikström"]

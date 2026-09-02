@@ -4,7 +4,7 @@ title: "Founder-led Sales to GTM Team | AJ Tennant (Tenacity Capital)"
 slug: founder-led-sales-to-gtm-team-aj-tennant-tenacity-capital
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: []

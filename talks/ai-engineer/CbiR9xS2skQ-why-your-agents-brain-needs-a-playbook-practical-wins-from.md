@@ -4,7 +4,7 @@ title: "Why Your Agent’s Brain Needs a Playbook: Practical Wins from Using Ont
 slug: why-your-agents-brain-needs-a-playbook-practical-wins-from
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jesús Barrasa"]

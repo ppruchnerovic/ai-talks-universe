@@ -4,7 +4,7 @@ title: "Designing for Knowledge Flow with Diana Montalion"
 slug: designing-for-knowledge-flow-with-diana-montalion
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Hannah Foxwell - The Reinvention of the Dev Team - AI Native DevCon June
 slug: hannah-foxwell-the-reinvention-of-the-dev-team-ai-native
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Hannah Foxwell"]

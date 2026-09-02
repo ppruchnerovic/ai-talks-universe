@@ -4,7 +4,7 @@ title: "Matt Crooks - AI-Assisted Creative for Automated Marketing using Python 
 slug: matt-crooks-ai-assisted-creative-for-automated-marketing
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Matt Crooks"]

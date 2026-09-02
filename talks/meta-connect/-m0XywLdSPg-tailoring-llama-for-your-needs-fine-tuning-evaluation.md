@@ -4,7 +4,7 @@ title: "Tailoring Llama for Your Needs: Fine-Tuning & Evaluation"
 slug: tailoring-llama-for-your-needs-fine-tuning-evaluation
 conference: meta-connect
 conference_name: "Meta Connect + LlamaCon"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "LlamaCon 2025"
 year: 2025
 speakers: []

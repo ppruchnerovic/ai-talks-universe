@@ -4,7 +4,7 @@ title: "How to Build Your Own Model Router"
 slug: how-to-build-your-own-model-router
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Tomas Kofman"]

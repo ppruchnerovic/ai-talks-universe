@@ -4,7 +4,7 @@ title: "Improved Multi-Stage Classification for Information Security Application
 slug: improved-multi-stage-classification-for-information
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

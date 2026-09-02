@@ -4,7 +4,7 @@ title: "Innovating with confidence: Accelerating with Compliance in the age of A
 slug: innovating-with-confidence-accelerating-with-compliance-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sri Lakshmi Kotwal", "Manny Sahota", "Rahul Srivastava"]

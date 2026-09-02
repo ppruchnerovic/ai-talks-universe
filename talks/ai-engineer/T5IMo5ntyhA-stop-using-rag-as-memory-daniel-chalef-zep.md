@@ -4,7 +4,7 @@ title: "Stop Using RAG as Memory — Daniel Chalef, Zep"
 slug: stop-using-rag-as-memory-daniel-chalef-zep
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Daniel Chalef"]

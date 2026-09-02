@@ -4,7 +4,7 @@ title: "Tracing Origins: Navigating Content Authenticity in the Deepfake Era"
 slug: tracing-origins-navigating-content-authenticity-in-the
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

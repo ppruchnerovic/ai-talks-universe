@@ -4,7 +4,7 @@ title: "LLM Anti-Benchmarks: How Well Can LLMs Do Weird Things?"
 slug: llm-anti-benchmarks-how-well-can-llms-do-weird-things
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

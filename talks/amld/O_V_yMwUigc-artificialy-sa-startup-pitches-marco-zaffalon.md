@@ -4,7 +4,7 @@ title: "Artificialy SA | Startup Pitches | Marco Zaffalon"
 slug: artificialy-sa-startup-pitches-marco-zaffalon
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Startup Pitches", "Marco Zaffalon"]

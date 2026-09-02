@@ -4,7 +4,7 @@ title: "Vendor Neutral by Design: Building Healthy Open Source Ecosystems with D
 slug: vendor-neutral-by-design-building-healthy-open-source
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hendrik Ebbers"]

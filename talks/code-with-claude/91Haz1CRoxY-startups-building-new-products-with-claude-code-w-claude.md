@@ -4,7 +4,7 @@ title: "Startups building new products with Claude | Code w/ Claude"
 slug: startups-building-new-products-with-claude-code-w-claude
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2025"
 year: 2025
 speakers: []

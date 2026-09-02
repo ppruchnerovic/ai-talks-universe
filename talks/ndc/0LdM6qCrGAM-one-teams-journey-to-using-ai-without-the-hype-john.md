@@ -4,7 +4,7 @@ title: "One Team’s Journey to Using AI Without the Hype - John Bristowe - NDC 
 slug: one-teams-journey-to-using-ai-without-the-hype-john
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["John Bristowe"]

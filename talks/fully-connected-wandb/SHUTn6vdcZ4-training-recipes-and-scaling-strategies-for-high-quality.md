@@ -4,7 +4,7 @@ title: "Training Recipes and Scaling Strategies for High-Quality GenAI Models"
 slug: training-recipes-and-scaling-strategies-for-high-quality
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

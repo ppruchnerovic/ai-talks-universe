@@ -4,7 +4,7 @@ title: "Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic,
 slug: medic-for-apache-spark-first-aid-for-failing-jobs-drasko
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Drasko Profirovic"]

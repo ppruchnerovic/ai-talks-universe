@@ -4,7 +4,7 @@ title: "In-depth .NET Azure Functions: Isolated mode, performance and durable AI
 slug: in-depth-net-azure-functions-isolated-mode-performance-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Stas Lebedenko"]

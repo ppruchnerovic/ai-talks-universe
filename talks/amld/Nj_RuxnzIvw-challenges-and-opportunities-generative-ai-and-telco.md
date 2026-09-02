@@ -4,7 +4,7 @@ title: "Challenges and Opportunities | Generative AI and Telco | Laurent Ciavagl
 slug: challenges-and-opportunities-generative-ai-and-telco
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Laurent Ciavaglia"]

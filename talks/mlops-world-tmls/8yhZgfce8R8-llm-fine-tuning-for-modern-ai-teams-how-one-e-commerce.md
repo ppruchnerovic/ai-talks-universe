@@ -4,7 +4,7 @@ title: "LLM Fine-Tuning for Modern AI Teams: How One E-Commerce Unicorn Cut Infe
 slug: llm-fine-tuning-for-modern-ai-teams-how-one-e-commerce
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Emmanuel Turlay"]

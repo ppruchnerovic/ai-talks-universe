@@ -4,7 +4,7 @@ title: "Automate any task with Computer-Using Agents (CUA) in Copilot Studio | D
 slug: automate-any-task-with-computer-using-agents-cua-in-copilot
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

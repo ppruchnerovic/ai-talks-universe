@@ -4,7 +4,7 @@ title: "Patrick Smyth - Agent Omelets & Other Forbidden Techniques | DevCon Fall
 slug: patrick-smyth-agent-omelets-other-forbidden-techniques
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Patrick Smyth"]

@@ -4,7 +4,7 @@ title: "Webshell Detection Case Study (CAMLIS 2022)"
 slug: webshell-detection-case-study-camlis-2022
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

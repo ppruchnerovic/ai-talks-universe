@@ -4,7 +4,7 @@ title: "How Red Hat Scales Large-Scale Serving with vLLM | Ray Summit 2025"
 slug: how-red-hat-scales-large-scale-serving-with-vllm-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

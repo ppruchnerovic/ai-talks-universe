@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Securing agent access with Amazon Bedrock AgentCore
 slug: aws-re-invent-2025-securing-agent-access-with-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

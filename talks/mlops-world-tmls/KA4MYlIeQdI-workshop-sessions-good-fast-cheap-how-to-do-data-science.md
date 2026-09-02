@@ -4,7 +4,7 @@ title: "Workshop Sessions: Good, Fast, Cheap - How to Do Data Science with Missi
 slug: workshop-sessions-good-fast-cheap-how-to-do-data-science
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

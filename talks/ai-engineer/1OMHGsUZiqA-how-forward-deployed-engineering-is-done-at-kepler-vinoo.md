@@ -4,7 +4,7 @@ title: "How Forward Deployed Engineering is done at Kepler — Vinoo Ganesh"
 slug: how-forward-deployed-engineering-is-done-at-kepler-vinoo
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vinoo Ganesh"]

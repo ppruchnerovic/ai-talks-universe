@@ -4,7 +4,7 @@ title: "Building Secure Environments for CLI Code Agents [PyCon DE & PyData 2026
 slug: building-secure-environments-for-cli-code-agents-pycon-de
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Harald Nezbeda"]

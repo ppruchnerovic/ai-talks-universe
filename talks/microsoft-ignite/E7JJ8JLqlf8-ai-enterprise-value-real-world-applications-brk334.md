@@ -4,7 +4,7 @@ title: "AI Enterprise Value: Real-World Applications | BRK334"
 slug: ai-enterprise-value-real-world-applications-brk334
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mikhail Chernomordikov", "Apoorv Iyer", "Diana Kattan", "Tao Zhang"]

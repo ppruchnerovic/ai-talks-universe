@@ -4,7 +4,7 @@ title: "Dynamic Entities in .NET: Building Low-Code Systems on Top of Entity Fra
 slug: dynamic-entities-in-net-building-low-code-systems-on-top-of
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Halil İbrahim Kalkan"]

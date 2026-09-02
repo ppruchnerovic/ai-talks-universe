@@ -4,7 +4,7 @@ title: "Lobster Trap: OpenClaw in Containers from Local to K8s and Back — Sall
 slug: lobster-trap-openclaw-in-containers-from-local-to-k8s-and
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

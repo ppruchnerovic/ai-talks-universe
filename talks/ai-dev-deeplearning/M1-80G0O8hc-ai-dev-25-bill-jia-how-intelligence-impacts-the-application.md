@@ -4,7 +4,7 @@ title: "AI Dev 25 | Bill Jia: How Intelligence Impacts the Application Frontier"
 slug: ai-dev-25-bill-jia-how-intelligence-impacts-the-application
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

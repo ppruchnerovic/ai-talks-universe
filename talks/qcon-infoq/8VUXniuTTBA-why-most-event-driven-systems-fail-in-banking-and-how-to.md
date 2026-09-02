@@ -4,7 +4,7 @@ title: "Why Most Event-Driven Systems Fail in Banking (And How to Fix It)"
 slug: why-most-event-driven-systems-fail-in-banking-and-how-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

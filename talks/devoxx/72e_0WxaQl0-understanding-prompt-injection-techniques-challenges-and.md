@@ -4,7 +4,7 @@ title: "Understanding Prompt Injection Techniques, Challenges, and Advanced Esca
 slug: understanding-prompt-injection-techniques-challenges-and
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Brian Vermeer"]

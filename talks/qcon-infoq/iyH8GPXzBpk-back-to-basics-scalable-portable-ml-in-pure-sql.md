@@ -4,7 +4,7 @@ title: "Back to Basics: Scalable, Portable ML in Pure SQL"
 slug: back-to-basics-scalable-portable-ml-in-pure-sql
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []

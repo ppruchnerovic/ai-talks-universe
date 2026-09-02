@@ -4,7 +4,7 @@ title: "Accelerate your development with the Gemini API"
 slug: accelerate-your-development-with-the-gemini-api
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

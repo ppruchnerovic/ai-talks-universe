@@ -4,7 +4,7 @@ title: "SaTML 2024 - Edoardo Debenedetti & Daniel Paleka - Large Language Models
 slug: satml-2024-edoardo-debenedetti-daniel-paleka-large-language
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Edoardo Debenedetti", "Daniel Paleka"]

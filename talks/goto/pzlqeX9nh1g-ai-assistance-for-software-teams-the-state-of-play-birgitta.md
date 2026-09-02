@@ -4,7 +4,7 @@ title: "AI Assistance for Software Teams: The State of Play • Birgitta Böckel
 slug: ai-assistance-for-software-teams-the-state-of-play-birgitta
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Birgitta Böckeler"]

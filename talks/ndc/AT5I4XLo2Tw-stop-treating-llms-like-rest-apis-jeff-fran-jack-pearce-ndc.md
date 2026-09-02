@@ -4,7 +4,7 @@ title: "Stop Treating LLMs Like REST APIs - Jeff Fran & Jack Pearce - NDC London
 slug: stop-treating-llms-like-rest-apis-jeff-fran-jack-pearce-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jeff Fran", "Jack Pearce"]

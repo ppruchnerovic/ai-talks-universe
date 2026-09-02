@@ -4,7 +4,7 @@ title: "The solution to Fairness, Accountability and Trustworthiness ? | Clinica
 slug: the-solution-to-fairness-accountability-and-trustworthiness
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Enea Parimbelli"]

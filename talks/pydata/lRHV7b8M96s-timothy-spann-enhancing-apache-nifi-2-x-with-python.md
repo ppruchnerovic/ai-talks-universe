@@ -4,7 +4,7 @@ title: "Timothy Spann - Enhancing Apache NiFi 2.x with Python Processors"
 slug: timothy-spann-enhancing-apache-nifi-2-x-with-python
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Timothy Spann"]

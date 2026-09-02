@@ -4,7 +4,7 @@ title: "Enabling Everyone To Build With AI"
 slug: enabling-everyone-to-build-with-ai
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

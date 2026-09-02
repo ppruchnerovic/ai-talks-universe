@@ -4,7 +4,7 @@ title: "Humanoid Robots and AI: Driving the New Industrial Future | Dreamforce 2
 slug: humanoid-robots-and-ai-driving-the-new-industrial-future
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

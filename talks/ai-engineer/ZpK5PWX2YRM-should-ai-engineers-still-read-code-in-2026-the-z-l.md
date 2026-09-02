@@ -4,7 +4,7 @@ title: "Should AI Engineers Still Read Code in 2026? The Z/L Continuum — Alex 
 slug: should-ai-engineers-still-read-code-in-2026-the-z-l
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alex Volkov"]

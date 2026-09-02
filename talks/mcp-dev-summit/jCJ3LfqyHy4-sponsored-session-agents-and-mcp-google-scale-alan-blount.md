@@ -4,7 +4,7 @@ title: "Sponsored Session: Agents and MCP @ Google Scale - Alan Blount & Vaibhav
 slug: sponsored-session-agents-and-mcp-google-scale-alan-blount
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Alan Blount", "Vaibhav Katkade"]

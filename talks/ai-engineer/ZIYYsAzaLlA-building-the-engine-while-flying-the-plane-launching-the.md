@@ -4,7 +4,7 @@ title: "Building the Engine While Flying the Plane: Launching the Figma MCP Serv
 slug: building-the-engine-while-flying-the-plane-launching-the
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jesse Lumarie"]

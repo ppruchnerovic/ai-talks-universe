@@ -4,7 +4,7 @@ title: "Partners are Redefining Telecom Operations with Agentic AI | PBRK392"
 slug: partners-are-redefining-telecom-operations-with-agentic-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lindsay Berg", "Jean Lawrence"]

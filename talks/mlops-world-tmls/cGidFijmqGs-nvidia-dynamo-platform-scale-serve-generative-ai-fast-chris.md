@@ -4,7 +4,7 @@ title: "NVIDIA Dynamo Platform: Scale & Serve Generative AI Fast | Chris Alexiuk
 slug: nvidia-dynamo-platform-scale-serve-generative-ai-fast-chris
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Chris Alexiuk"]

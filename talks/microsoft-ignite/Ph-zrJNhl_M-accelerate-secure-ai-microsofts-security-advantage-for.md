@@ -4,7 +4,7 @@ title: "Accelerate Secure AI: Microsoft’s Security Advantage for Partners | PB
 slug: accelerate-secure-ai-microsofts-security-advantage-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Steve Dispensa", "Ann Choi"]

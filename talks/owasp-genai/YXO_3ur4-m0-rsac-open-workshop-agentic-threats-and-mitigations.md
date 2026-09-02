@@ -4,7 +4,7 @@ title: "RSAC Open Workshop Agentic Threats and Mitigations"
 slug: rsac-open-workshop-agentic-threats-and-mitigations
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

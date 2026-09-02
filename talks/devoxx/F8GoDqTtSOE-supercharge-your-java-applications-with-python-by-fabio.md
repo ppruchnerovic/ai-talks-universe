@@ -4,7 +4,7 @@ title: "Supercharge your Java Applications with Python! by Fabio Niephaus, Thoma
 slug: supercharge-your-java-applications-with-python-by-fabio
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Fabio Niephaus", "Thomas Wuerthinger"]

@@ -4,7 +4,7 @@ title: "John Groetzinger - Skills Everywhere: AI Native DevCon London 2026"
 slug: john-groetzinger-skills-everywhere-ai-native-devcon-london
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["John Groetzinger"]

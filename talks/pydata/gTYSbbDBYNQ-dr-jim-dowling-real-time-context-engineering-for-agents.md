@@ -4,7 +4,7 @@ title: "Dr. Jim Dowling - Real-TIme Context Engineering for Agents | PyData Seat
 slug: dr-jim-dowling-real-time-context-engineering-for-agents
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Dr. Jim Dowling"]

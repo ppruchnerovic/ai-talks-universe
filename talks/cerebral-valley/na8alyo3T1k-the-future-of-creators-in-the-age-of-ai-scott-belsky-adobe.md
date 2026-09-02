@@ -4,7 +4,7 @@ title: "The Future of Creators in the Age of AI: Scott Belsky (Adobe) in convers
 slug: the-future-of-creators-in-the-age-of-ai-scott-belsky-adobe
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2024
 speakers: []

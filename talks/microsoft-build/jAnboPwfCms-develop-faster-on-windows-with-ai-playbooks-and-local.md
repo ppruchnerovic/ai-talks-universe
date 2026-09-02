@@ -4,7 +4,7 @@ title: "Develop faster on Windows with AI playbooks and local agents | DEMSP386"
 slug: develop-faster-on-windows-with-ai-playbooks-and-local
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Adrian Macias"]

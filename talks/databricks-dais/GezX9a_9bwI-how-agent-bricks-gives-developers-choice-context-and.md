@@ -4,7 +4,7 @@ title: "How Agent Bricks gives developers choice, context and control (with demo
 slug: how-agent-bricks-gives-developers-choice-context-and
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Kasey Uhlenhuth"]

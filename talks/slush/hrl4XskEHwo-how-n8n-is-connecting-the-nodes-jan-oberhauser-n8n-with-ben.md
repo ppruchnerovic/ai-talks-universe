@@ -4,7 +4,7 @@ title: "How n8n is Connecting the Nodes | Jan Oberhauser (n8n) with Ben Fletcher
 slug: how-n8n-is-connecting-the-nodes-jan-oberhauser-n8n-with-ben
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Jan Oberhauser"]

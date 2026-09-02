@@ -4,7 +4,7 @@ title: "The weekly developer show: Can AI truly transform accessibility?"
 slug: the-weekly-developer-show-can-ai-truly-transform
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

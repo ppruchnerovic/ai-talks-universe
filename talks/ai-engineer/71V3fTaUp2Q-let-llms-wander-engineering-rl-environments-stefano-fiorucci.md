@@ -4,7 +4,7 @@ title: "Let LLMs Wander: Engineering RL Environments — Stefano Fiorucci"
 slug: let-llms-wander-engineering-rl-environments-stefano-fiorucci
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Stefano Fiorucci"]

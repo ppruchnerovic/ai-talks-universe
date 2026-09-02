@@ -4,7 +4,7 @@ title: "Trustworthy AI: Future trends and best practices | BRK129"
 slug: trustworthy-ai-future-trends-and-best-practices-brk129
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sarah Bird", "Sumit Bhattacharyya"]

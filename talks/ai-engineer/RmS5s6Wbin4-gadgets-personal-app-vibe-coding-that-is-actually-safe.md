@@ -4,7 +4,7 @@ title: "Gadgets: Personal app vibe coding that is actually safe — Kenton Varda
 slug: gadgets-personal-app-vibe-coding-that-is-actually-safe
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kenton Varda"]

@@ -4,7 +4,7 @@ title: "Project Domino: Citizen data science against COVID misinformation"
 slug: project-domino-citizen-data-science-against-covid
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

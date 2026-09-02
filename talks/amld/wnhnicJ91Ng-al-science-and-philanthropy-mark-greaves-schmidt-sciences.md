@@ -4,7 +4,7 @@ title: "Al, Science, and Philanthropy / Mark Greaves, Schmidt Sciences"
 slug: al-science-and-philanthropy-mark-greaves-schmidt-sciences
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Ray @ eBay: Pioneering a Next-Gen AI Platform | Ray Summit 2024"
 slug: ray-ebay-pioneering-a-next-gen-ai-platform-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

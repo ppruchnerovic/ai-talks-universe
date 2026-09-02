@@ -4,7 +4,7 @@ title: "Lessons Learned: The Journey to Real-Time Machine Learning at Instacart"
 slug: lessons-learned-the-journey-to-real-time-machine-learning
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Guanghua Shu"]

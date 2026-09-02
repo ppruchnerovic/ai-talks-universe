@@ -4,7 +4,7 @@ title: "Enhancing Reliability Using Service-Level Prioritized Load Shedding at N
 slug: enhancing-reliability-using-service-level-prioritized-load
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Anirudh Mendiratta", "Benjamin Fedorka"]

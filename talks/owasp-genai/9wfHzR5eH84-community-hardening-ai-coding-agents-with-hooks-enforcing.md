@@ -4,7 +4,7 @@ title: "Community | Hardening AI Coding Agents with Hooks Enforcing Least Privil
 slug: community-hardening-ai-coding-agents-with-hooks-enforcing
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Karan Bansal"]

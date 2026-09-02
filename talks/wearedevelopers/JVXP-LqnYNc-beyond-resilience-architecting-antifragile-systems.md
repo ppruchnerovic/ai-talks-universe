@@ -4,7 +4,7 @@ title: "Beyond Resilience: Architecting Antifragile Systems"
 slug: beyond-resilience-architecting-antifragile-systems
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jan de Vries"]

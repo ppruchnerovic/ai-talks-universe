@@ -4,7 +4,7 @@ title: "CG - Excuse Me, Your Sword Is In My Eye: Responding to Red Teams and Int
 slug: cg-excuse-me-your-sword-is-in-my-eye-responding-to-red
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Excuse Me"]

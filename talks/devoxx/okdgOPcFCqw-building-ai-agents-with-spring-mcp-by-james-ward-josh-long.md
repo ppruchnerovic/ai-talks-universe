@@ -4,7 +4,7 @@ title: "Building AI Agents with Spring & MCP by James Ward, Josh Long"
 slug: building-ai-agents-with-spring-mcp-by-james-ward-josh-long
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["James Ward", "Josh Long"]

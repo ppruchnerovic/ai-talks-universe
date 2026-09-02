@@ -4,7 +4,7 @@ title: "What’s new in Azure innovations? | STUDIO41"
 slug: whats-new-in-azure-innovations-studio41
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mark Russinovich"]

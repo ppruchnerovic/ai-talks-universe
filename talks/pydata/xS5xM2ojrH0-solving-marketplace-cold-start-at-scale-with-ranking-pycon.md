@@ -4,7 +4,7 @@ title: "Solving Marketplace Cold Start at Scale with Ranking [PyCon DE & PyData 
 slug: solving-marketplace-cold-start-at-scale-with-ranking-pycon
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Theodore Meynard"]

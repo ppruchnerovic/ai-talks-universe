@@ -4,7 +4,7 @@ title: "James Zou - Harnessing the Collective Intelligence of Agents for Science
 slug: james-zou-harnessing-the-collective-intelligence-of-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["James Zou"]

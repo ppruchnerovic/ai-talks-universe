@@ -4,7 +4,7 @@ title: "SPDX: Tackling System Risk in Modern Supply Chains - Kate Stewart & Gary
 slug: spdx-tackling-system-risk-in-modern-supply-chains-kate
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Beyond OLS: Solving the Multicollinearity Trap in Marketing Mix Modeling
 slug: beyond-ols-solving-the-multicollinearity-trap-in-marketing
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "How Uber Runs 60,000 AI Agent Tasks Per Week With MCP"
 slug: how-uber-runs-60-000-ai-agent-tasks-per-week-with-mcp
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

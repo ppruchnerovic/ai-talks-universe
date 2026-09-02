@@ -4,7 +4,7 @@ title: "Traditional Sessions: RSAC 365 Virtual Seminar: Intersection of AI & Sec
 slug: traditional-sessions-rsac-365-virtual-seminar-intersection
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Sandy Dunn"]

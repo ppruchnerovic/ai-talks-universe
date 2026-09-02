@@ -4,7 +4,7 @@ title: "Adam Larson - Evaluating An LLM's Ability To Code | DevCon Fall 2025"
 slug: adam-larson-evaluating-an-llm-s-ability-to-code-devcon-fall
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Adam Larson"]

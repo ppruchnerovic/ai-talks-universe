@@ -4,7 +4,7 @@ title: "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck"
 slug: openai-s-greg-brockman-why-human-attention-is-the-new
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

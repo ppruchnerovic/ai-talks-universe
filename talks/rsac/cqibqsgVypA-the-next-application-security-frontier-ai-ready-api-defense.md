@@ -4,7 +4,7 @@ title: "The Next Application Security Frontier: AI-Ready API Defense"
 slug: the-next-application-security-frontier-ai-ready-api-defense
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Charles Herrin"]

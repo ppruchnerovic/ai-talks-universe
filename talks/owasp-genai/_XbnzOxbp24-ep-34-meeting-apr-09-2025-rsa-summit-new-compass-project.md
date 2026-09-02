@@ -4,7 +4,7 @@ title: "Ep.34 Meeting Apr 09 2025: RSA Summit, New Compass Project, Community Up
 slug: ep-34-meeting-apr-09-2025-rsa-summit-new-compass-project
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Modern resiliency from build to recovery through Agentic AI | BRK228"
 slug: modern-resiliency-from-build-to-recovery-through-agentic-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rochak Mittal", "Shobhit Garg", "Adity Agarwal"]

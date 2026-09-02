@@ -4,7 +4,7 @@ title: "Get HR and IT tasks done faster with the Employee Self-Service Agent | B
 slug: get-hr-and-it-tasks-done-faster-with-the-employee-self
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Himanath Dasari", "Swati Gulati", "Kyle von Haden"]

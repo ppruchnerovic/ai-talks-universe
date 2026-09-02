@@ -4,7 +4,7 @@ title: "Empower the retail workforce with the Store Operations Agent | BRK260"
 slug: empower-the-retail-workforce-with-the-store-operations
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrii Mykhailiuk", "Pepijn Richter"]

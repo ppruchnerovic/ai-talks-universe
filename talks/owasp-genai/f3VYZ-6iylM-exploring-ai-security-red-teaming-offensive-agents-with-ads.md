@@ -4,7 +4,7 @@ title: "Exploring AI Security: Red Teaming & Offensive Agents with Ads | GenAI S
 slug: exploring-ai-security-red-teaming-offensive-agents-with-ads
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Podcast: A Conversation with Our Security Strategy & Architecture Progra
 slug: podcast-a-conversation-with-our-security-strategy
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []

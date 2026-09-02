@@ -4,7 +4,7 @@ title: "Agents Open 1,000 PRs. Who's Reviewing Them?"
 slug: agents-open-1-000-prs-who-s-reviewing-them
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "The Open Source AI Dilemma: Crafting a Clear Definition for Open Source 
 slug: the-open-source-ai-dilemma-crafting-a-clear-definition-for
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Ofer Hermoni"]

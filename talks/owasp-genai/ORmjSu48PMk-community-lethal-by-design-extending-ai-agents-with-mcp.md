@@ -4,7 +4,7 @@ title: "Community | Lethal by Design Extending AI Agents with MCP Servers Turns 
 slug: community-lethal-by-design-extending-ai-agents-with-mcp
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Gal Moyal"]

@@ -4,7 +4,7 @@ title: "Understanding Progressive Collapse: How To Avoid A Cascading Failure"
 slug: understanding-progressive-collapse-how-to-avoid-a-cascading
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Sam Newman"]

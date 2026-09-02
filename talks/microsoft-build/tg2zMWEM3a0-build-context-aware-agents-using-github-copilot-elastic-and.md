@@ -4,7 +4,7 @@ title: "Build context-aware agents using GitHub Copilot, Elastic, and Azure AI |
 slug: build-context-aware-agents-using-github-copilot-elastic-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jeff Vestal"]

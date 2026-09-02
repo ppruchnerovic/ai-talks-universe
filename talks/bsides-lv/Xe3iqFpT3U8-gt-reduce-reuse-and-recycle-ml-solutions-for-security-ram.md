@@ -4,7 +4,7 @@ title: "GT - Reduce, Reuse and Recycle ML Solutions for Security - Ram Shankar S
 slug: gt-reduce-reuse-and-recycle-ml-solutions-for-security-ram
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2019
 speakers: ["Ram Shankar Siva Kumar"]

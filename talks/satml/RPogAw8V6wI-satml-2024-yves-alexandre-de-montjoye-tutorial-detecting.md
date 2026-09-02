@@ -4,7 +4,7 @@ title: "SaTML 2024 - Yves-Alexandre de Montjoye - Tutorial - Detecting the use o
 slug: satml-2024-yves-alexandre-de-montjoye-tutorial-detecting
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "How AI Agents Let GTM Teams Scale — Justin Joyce, Cloudflare"
 slug: how-ai-agents-let-gtm-teams-scale-justin-joyce-cloudflare
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Justin Joyce"]

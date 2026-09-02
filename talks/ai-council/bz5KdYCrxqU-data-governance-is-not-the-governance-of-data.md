@@ -4,7 +4,7 @@ title: "Data Governance is NOT the Governance of Data!"
 slug: data-governance-is-not-the-governance-of-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Oriol Mirosa"]

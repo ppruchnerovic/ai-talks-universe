@@ -4,7 +4,7 @@ title: "Accelerate revenue and seller productivity with agentic CRM | BRK350"
 slug: accelerate-revenue-and-seller-productivity-with-agentic-crm
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pia Cedendahl", "Sherry Martin", "Karan Nigam", "Julie Strauss"]

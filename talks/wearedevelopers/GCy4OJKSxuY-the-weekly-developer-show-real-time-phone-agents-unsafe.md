@@ -4,7 +4,7 @@ title: "The weekly developer show: Real-Time Phone Agents, Unsafe VPNs & More"
 slug: the-weekly-developer-show-real-time-phone-agents-unsafe
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

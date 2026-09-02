@@ -4,7 +4,7 @@ title: "Maximize Azure ROI: Real-world strategies with confirmed reservations | 
 slug: maximize-azure-roi-real-world-strategies-with-confirmed
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Joshua Corbett"]

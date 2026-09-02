@@ -4,7 +4,7 @@ title: "Build Secure AI Agents: Microsoft’s Stack, Your Innovation | BRK261"
 slug: build-secure-ai-agents-microsofts-stack-your-innovation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Neta Haiby", "Harmony Mabrey", "Alyssa Ofstein"]

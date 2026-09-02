@@ -4,7 +4,7 @@ title: "From Chaos to Control: Why Data Contracts Matter"
 slug: from-chaos-to-control-why-data-contracts-matter
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

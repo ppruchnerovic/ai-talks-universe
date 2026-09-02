@@ -4,7 +4,7 @@ title: "Government Agents: AI Agents Meet Tough Regulations — Mark Myshatyn, L
 slug: government-agents-ai-agents-meet-tough-regulations-mark
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Mark Myshatyn"]

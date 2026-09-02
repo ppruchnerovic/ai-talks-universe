@@ -4,7 +4,7 @@ title: "Unlock generative AI excellence; Fivetran's Managed Data Lake Service | 
 slug: unlock-generative-ai-excellence-fivetran-s-managed-data
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Hrncir"]

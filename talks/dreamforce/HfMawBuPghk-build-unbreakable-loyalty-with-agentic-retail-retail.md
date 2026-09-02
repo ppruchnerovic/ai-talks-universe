@@ -4,7 +4,7 @@ title: "Build Unbreakable Loyalty with Agentic Retail | Retail Keynote, Dreamfor
 slug: build-unbreakable-loyalty-with-agentic-retail-retail
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

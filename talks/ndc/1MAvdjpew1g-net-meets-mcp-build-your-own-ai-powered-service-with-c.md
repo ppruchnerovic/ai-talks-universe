@@ -4,7 +4,7 @@ title: ".NET Meets MCP: Build Your Own AI-Powered Service with C# - Gerald Versl
 slug: net-meets-mcp-build-your-own-ai-powered-service-with-c
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gerald Versluis"]

@@ -4,7 +4,7 @@ title: "Implementing AI Responsibly and Securely | BRK358"
 slug: implementing-ai-responsibly-and-securely-brk358
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Annie Pearl", "Sam Dover", "Adriano Koshiyama", "Kevin Magee", "Heena Purohit", "Tahseen Shabab"]

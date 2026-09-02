@@ -4,7 +4,7 @@ title: "Teaching Gemini to Speak YouTube: Adapting LLMs for Video Recommendation
 slug: teaching-gemini-to-speak-youtube-adapting-llms-for-video
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Devansh Tandon"]

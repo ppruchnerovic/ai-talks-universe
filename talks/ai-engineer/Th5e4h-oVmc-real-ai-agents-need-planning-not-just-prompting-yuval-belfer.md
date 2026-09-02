@@ -4,7 +4,7 @@ title: "Real AI Agents Need Planning, Not Just Prompting - Yuval Belfer"
 slug: real-ai-agents-need-planning-not-just-prompting-yuval-belfer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Yuval Belfer"]

@@ -4,7 +4,7 @@ title: "Kubernetes-Native Agent Discovery: A Unified Registry for MCP Servers an
 slug: kubernetes-native-agent-discovery-a-unified-registry-for
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Carlos Santana"]

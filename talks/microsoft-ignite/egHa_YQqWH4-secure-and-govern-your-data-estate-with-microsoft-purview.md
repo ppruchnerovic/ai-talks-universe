@@ -4,7 +4,7 @@ title: "Secure and govern your data estate with Microsoft Purview | BRK317"
 slug: secure-and-govern-your-data-estate-with-microsoft-purview
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rudra Mitra", "Joanne Marone", "Talhah Mir", "Herain Oberoi", "Shilpa Ranganathan"]

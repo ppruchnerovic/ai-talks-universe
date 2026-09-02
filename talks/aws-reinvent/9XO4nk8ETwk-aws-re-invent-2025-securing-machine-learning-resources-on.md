@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Securing Machine Learning Resources on AWS (TNC321)
 slug: aws-re-invent-2025-securing-machine-learning-resources-on
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

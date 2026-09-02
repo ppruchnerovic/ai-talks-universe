@@ -4,7 +4,7 @@ title: "Manjunath Janardhan - Automating ML with PyCaret: Train & Compare Models
 slug: manjunath-janardhan-automating-ml-with-pycaret-train
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Manjunath Janardhan"]

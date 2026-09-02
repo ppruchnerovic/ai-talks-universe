@@ -4,7 +4,7 @@ title: "Azure DevOps meets GitHub, the path to AI powered SDLC | BRK202"
 slug: azure-devops-meets-github-the-path-to-ai-powered-sdlc-brk202
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Dan Hellem", "Dave Burnison"]

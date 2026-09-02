@@ -4,7 +4,7 @@ title: "How to build and publish your agent to the Agent Store | BRK312"
 slug: how-to-build-and-publish-your-agent-to-the-agent-store
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Steven Abrahams", "Anna Cao", "Varun Kulkarni"]

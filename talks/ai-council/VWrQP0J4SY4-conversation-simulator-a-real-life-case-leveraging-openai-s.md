@@ -4,7 +4,7 @@ title: "Conversation Simulator: A Real Life Case Leveraging OpenAI's API | Crisi
 slug: conversation-simulator-a-real-life-case-leveraging-openai-s
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["Crisis Text Line"]

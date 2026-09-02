@@ -4,7 +4,7 @@ title: "AI-Powered Software Development From the Trenches • Henrik Kniberg •
 slug: ai-powered-software-development-from-the-trenches-henrik
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Henrik Kniberg"]

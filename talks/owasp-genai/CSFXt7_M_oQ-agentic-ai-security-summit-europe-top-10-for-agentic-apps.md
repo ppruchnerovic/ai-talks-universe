@@ -4,7 +4,7 @@ title: "Agentic AI Security Summit, Europe: Top 10 for Agentic Apps Launch"
 slug: agentic-ai-security-summit-europe-top-10-for-agentic-apps
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Unlock the growth gear for SMBs | BRKFP369"
 slug: unlock-the-growth-gear-for-smbs-brkfp369
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jan Jofra", "Dan Rippey", "Ana Stranaghan"]

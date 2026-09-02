@@ -4,7 +4,7 @@ title: "Scaling LLM Batch Inference: Ray Data & vLLM for High Throughput"
 slug: scaling-llm-batch-inference-ray-data-vllm-for-high
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

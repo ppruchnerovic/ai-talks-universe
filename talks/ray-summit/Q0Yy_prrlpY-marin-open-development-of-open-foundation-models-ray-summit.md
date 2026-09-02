@@ -4,7 +4,7 @@ title: "Marin: Open Development of Open Foundation Models | Ray Summit 2025"
 slug: marin-open-development-of-open-foundation-models-ray-summit
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

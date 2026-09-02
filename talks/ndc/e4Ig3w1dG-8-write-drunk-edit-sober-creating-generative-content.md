@@ -4,7 +4,7 @@ title: "Write Drunk, Edit Sober: Creating Generative Content Responsibly - Matth
 slug: write-drunk-edit-sober-creating-generative-content
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Write Drunk", "Matthijs van der Veer"]

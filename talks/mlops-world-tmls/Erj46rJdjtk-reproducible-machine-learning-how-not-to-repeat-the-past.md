@@ -4,7 +4,7 @@ title: "Reproducible Machine Learning How Not to Repeat the Past"
 slug: reproducible-machine-learning-how-not-to-repeat-the-past
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

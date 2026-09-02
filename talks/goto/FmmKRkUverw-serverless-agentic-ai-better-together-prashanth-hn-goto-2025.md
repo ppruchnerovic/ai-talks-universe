@@ -4,7 +4,7 @@ title: "Serverless & Agentic AI: Better Together • Prashanth HN • GOTO 2025"
 slug: serverless-agentic-ai-better-together-prashanth-hn-goto-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: []

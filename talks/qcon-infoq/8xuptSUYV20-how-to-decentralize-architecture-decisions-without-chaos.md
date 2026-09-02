@@ -4,7 +4,7 @@ title: "How to Decentralize Architecture Decisions (Without Chaos)"
 slug: how-to-decentralize-architecture-decisions-without-chaos
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Kenya Yoshimura - Clairvoyance concurrent lip reading for smart masses -
 slug: kenya-yoshimura-clairvoyance-concurrent-lip-reading-for
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Kenya Yoshimura"]

@@ -4,7 +4,7 @@ title: "The Missing Layer Between Enterprise Data and AI Agents"
 slug: the-missing-layer-between-enterprise-data-and-ai-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jannis Eickenroth", "Sebastian Klenke"]

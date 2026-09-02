@@ -4,7 +4,7 @@ title: "Aspire for agents: Transform how you build and deploy distributed apps |
 slug: aspire-for-agents-transform-how-you-build-and-deploy
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["David Fowler", "Maddy Montaquila"]

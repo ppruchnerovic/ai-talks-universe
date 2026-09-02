@@ -4,7 +4,7 @@ title: "Accelerate R&D with Gemini-based agents Co-Scientist and AlphaEvolve"
 slug: accelerate-r-d-with-gemini-based-agents-co-scientist-and
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Tom Beyer", "Mateusz Klimowicz", "Rex Lin", "Ercan Sükür"]

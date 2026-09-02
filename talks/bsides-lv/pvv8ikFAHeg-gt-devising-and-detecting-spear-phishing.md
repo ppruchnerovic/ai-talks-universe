@@ -4,7 +4,7 @@ title: "GT - Devising and detecting spear phishing"
 slug: gt-devising-and-detecting-spear-phishing
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

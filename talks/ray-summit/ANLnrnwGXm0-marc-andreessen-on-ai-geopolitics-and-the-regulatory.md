@@ -4,7 +4,7 @@ title: "Marc Andreessen on AI, Geopolitics, and the Regulatory Landscape | Ray S
 slug: marc-andreessen-on-ai-geopolitics-and-the-regulatory
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

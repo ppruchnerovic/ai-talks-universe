@@ -4,7 +4,7 @@ title: "Advanced Azure OpenAI Innovation in Azure AI Foundry | BRK173"
 slug: advanced-azure-openai-innovation-in-azure-ai-foundry-brk173
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

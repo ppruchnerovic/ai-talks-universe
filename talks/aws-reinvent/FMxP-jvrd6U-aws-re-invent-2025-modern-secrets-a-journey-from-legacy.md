@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Modern Secrets: A Journey from Legacy Systems to AI
 slug: aws-re-invent-2025-modern-secrets-a-journey-from-legacy
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

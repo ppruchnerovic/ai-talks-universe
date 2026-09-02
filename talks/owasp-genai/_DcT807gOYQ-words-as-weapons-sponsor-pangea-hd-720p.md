@@ -4,7 +4,7 @@ title: "Words as Weapons Sponsor Pangea HD 720p"
 slug: words-as-weapons-sponsor-pangea-hd-720p
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

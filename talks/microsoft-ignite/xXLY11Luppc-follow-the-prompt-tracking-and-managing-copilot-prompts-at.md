@@ -4,7 +4,7 @@ title: "Follow the Prompt! Tracking and Managing Copilot prompts at hyperscale |
 slug: follow-the-prompt-tracking-and-managing-copilot-prompts-at
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ben Summers", "Erica Toelle"]

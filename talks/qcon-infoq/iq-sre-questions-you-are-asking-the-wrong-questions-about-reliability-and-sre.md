@@ -4,7 +4,7 @@ title: "You Are Asking the Wrong Questions (about Reliability and SRE)"
 slug: you-are-asking-the-wrong-questions-about-reliability-and-sre
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["David Blank-Edelman"]

@@ -4,7 +4,7 @@ title: "The Hidden Security Hazards in Your Java Stack by Brian Vermeer"
 slug: the-hidden-security-hazards-in-your-java-stack-by-brian
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Brian Vermeer"]

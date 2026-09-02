@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | LLM-Empowered Differential Testing for the Ethereu
 slug: black-hat-asia-2026-llm-empowered-differential-testing-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

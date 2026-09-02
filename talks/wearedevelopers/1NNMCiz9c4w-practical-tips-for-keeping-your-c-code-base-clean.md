@@ -4,7 +4,7 @@ title: "Practical tips for keeping your C# code base clean"
 slug: practical-tips-for-keeping-your-c-code-base-clean
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dennis Doomen"]

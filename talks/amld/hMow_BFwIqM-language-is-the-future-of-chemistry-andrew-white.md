@@ -4,7 +4,7 @@ title: "Language is the Future of Chemistry | Andrew White"
 slug: language-is-the-future-of-chemistry-andrew-white
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Andrew White"]

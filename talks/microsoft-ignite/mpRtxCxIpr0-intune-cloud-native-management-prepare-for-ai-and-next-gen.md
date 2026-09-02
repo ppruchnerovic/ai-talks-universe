@@ -4,7 +4,7 @@ title: "Intune Cloud-native Management: Prepare for AI and Next-Gen Cloud PCs | 
 slug: intune-cloud-native-management-prepare-for-ai-and-next-gen
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lior Bela", "Rob York"]

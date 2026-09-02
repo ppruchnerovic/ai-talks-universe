@@ -4,7 +4,7 @@ title: "Techniques to avoid common LLM pitfalls by Mete Atamel"
 slug: techniques-to-avoid-common-llm-pitfalls-by-mete-atamel
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Mete Atamel"]

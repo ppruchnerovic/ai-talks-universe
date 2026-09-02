@@ -4,7 +4,7 @@ title: "Implict Manifold Gaussian Process Regression | Scientific Machine Learni
 slug: implict-manifold-gaussian-process-regression-scientific
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Bernardo Fichera"]

@@ -4,7 +4,7 @@ title: "Sponsored Session: Lightning Talk: Accelerating Experimentation... - Nia
 slug: sponsored-session-lightning-talk-accelerating
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Niall Lyons", "Luca Antiga"]

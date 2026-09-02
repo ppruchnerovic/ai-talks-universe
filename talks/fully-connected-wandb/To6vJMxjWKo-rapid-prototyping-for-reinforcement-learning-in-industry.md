@@ -4,7 +4,7 @@ title: "Rapid prototyping for reinforcement learning in industry - Festo @ Fully
 slug: rapid-prototyping-for-reinforcement-learning-in-industry
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

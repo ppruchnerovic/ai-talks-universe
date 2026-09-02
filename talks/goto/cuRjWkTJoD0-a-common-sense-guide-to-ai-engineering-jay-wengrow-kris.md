@@ -4,7 +4,7 @@ title: "A Common-Sense Guide to AI Engineering â€¢ Jay Wengrow & Kris Jenkins â€
 slug: a-common-sense-guide-to-ai-engineering-jay-wengrow-kris
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Jay Wengrow", "Kris Jenkins"]

@@ -4,7 +4,7 @@ title: "Building AI Agents on the JVM by Anton Arhipov"
 slug: building-ai-agents-on-the-jvm-by-anton-arhipov
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Anton Arhipov"]

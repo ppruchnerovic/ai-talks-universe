@@ -4,7 +4,7 @@ title: "Beyond the Prompt: Evaluating, Testing, and Securing LLM Applications by
 slug: beyond-the-prompt-evaluating-testing-and-securing-llm
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Mete Atamel"]

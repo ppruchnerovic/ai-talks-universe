@@ -4,7 +4,7 @@ title: "Maintain regulatory compliance with the Microsoft Sovereign Cloud | BRK1
 slug: maintain-regulatory-compliance-with-the-microsoft-sovereign
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Harald Solstad Fianbakken"]

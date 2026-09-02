@@ -4,7 +4,7 @@ title: "Reproducible software provisioning for high performance computing & rese
 slug: reproducible-software-provisioning-for-high-performance
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

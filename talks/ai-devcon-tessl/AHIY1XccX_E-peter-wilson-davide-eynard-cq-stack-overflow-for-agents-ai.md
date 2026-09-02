@@ -4,7 +4,7 @@ title: "Peter Wilson & Davide Eynard - cq - Stack Overflow for Agents - AI Nativ
 slug: peter-wilson-davide-eynard-cq-stack-overflow-for-agents-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Peter Wilson", "Davide Eynard"]

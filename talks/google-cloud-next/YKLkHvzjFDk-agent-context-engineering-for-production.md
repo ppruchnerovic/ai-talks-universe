@@ -4,7 +4,7 @@ title: "Agent context engineering for production"
 slug: agent-context-engineering-for-production
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["George Lee", "Kimberly Milam", "Jeff Dixon", "Preethi Prabhakar"]

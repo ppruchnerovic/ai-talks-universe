@@ -4,7 +4,7 @@ title: "Choose the right AI app use case for your business | BRK154"
 slug: choose-the-right-ai-app-use-case-for-your-business-brk154
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Albrecht", "Nathaniel Ceres", "Ryan Culligan", "Naga Surendran"]

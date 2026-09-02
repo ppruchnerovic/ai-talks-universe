@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Flaw And Order: Finding The Needle In The Haysta
 slug: black-hat-europe-2025-flaw-and-order-finding-the-needle-in
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | IntentGuard: Securing LLM-Generated Cloud Configur
 slug: black-hat-asia-2026-intentguard-securing-llm-generated
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

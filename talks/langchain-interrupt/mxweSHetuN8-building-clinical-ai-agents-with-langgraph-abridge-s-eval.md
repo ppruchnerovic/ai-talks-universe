@@ -4,7 +4,7 @@ title: "Building Clinical AI Agents with LangGraph: Abridge's Eval Stack for Hig
 slug: building-clinical-ai-agents-with-langgraph-abridge-s-eval
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

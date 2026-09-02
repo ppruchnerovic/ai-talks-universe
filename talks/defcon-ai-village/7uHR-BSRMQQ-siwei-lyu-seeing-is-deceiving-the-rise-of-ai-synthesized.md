@@ -4,7 +4,7 @@ title: "Siwei Lyu - Seeing is deceiving The rise of AI synthesized fake media - 
 slug: siwei-lyu-seeing-is-deceiving-the-rise-of-ai-synthesized
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Siwei Lyu"]

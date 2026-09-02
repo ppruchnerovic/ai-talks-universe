@@ -4,7 +4,7 @@ title: "SaTML 2023 - Jacob Steinhardt - Aligning ML Systems with Human Intent"
 slug: satml-2023-jacob-steinhardt-aligning-ml-systems-with-human
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Jacob Steinhardt"]

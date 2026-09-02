@@ -4,7 +4,7 @@ title: "Scale AI with Google's TPU software stack"
 slug: scale-ai-with-google-s-tpu-software-stack
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Josh Gordon", "Girija Sathyamurthy", "Rob Mulla"]

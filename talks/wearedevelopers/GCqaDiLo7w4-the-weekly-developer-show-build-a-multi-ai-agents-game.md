@@ -4,7 +4,7 @@ title: "The weekly developer show: Build a multi AI agents game master with Stra
 slug: the-weekly-developer-show-build-a-multi-ai-agents-game
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

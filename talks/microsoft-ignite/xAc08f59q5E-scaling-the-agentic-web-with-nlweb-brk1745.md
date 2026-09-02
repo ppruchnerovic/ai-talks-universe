@@ -4,7 +4,7 @@ title: "Scaling the Agentic Web with NLWeb | BRK1745"
 slug: scaling-the-agentic-web-with-nlweb-brk1745
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Chelsea Carter", "Ramanathan Guha"]

@@ -4,7 +4,7 @@ title: "Main Stage: Let Me Tell You a Story: Technology and the 4 Vs"
 slug: main-stage-let-me-tell-you-a-story-technology-and-the-4-vs
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []

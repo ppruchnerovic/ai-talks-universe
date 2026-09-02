@@ -4,7 +4,7 @@ title: "AI Autonomy Is Redefining Architecture: Boundaries Now Matter Most"
 slug: ai-autonomy-is-redefining-architecture-boundaries-now
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

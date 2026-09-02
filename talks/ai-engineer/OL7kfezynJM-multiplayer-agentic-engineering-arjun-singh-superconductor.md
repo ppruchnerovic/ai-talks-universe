@@ -4,7 +4,7 @@ title: "Multiplayer agentic engineering — Arjun Singh, Superconductor"
 slug: multiplayer-agentic-engineering-arjun-singh-superconductor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Arjun Singh"]

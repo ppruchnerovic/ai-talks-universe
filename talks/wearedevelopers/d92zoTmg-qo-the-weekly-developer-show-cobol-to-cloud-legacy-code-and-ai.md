@@ -4,7 +4,7 @@ title: "The weekly developer show: COBOL to Cloud, Legacy Code and AI Copilots"
 slug: the-weekly-developer-show-cobol-to-cloud-legacy-code-and-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Protect your AI applications with the help of the OWASP GenAI Security P
 slug: protect-your-ai-applications-with-the-help-of-the-owasp
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Nicolas Humblot"]

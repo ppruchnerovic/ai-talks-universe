@@ -4,7 +4,7 @@ title: "Build multimodal agents that reason interact and take action | DEM330"
 slug: build-multimodal-agents-that-reason-interact-and-take
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Henk Boelman"]

@@ -4,7 +4,7 @@ title: "Terrapin Attack: Breaking SSH Channel Integrity by Sequence Number Manip
 slug: terrapin-attack-breaking-ssh-channel-integrity-by-sequence
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Sequence Number Manipulation"]

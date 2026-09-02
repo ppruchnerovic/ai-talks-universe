@@ -4,7 +4,7 @@ title: "Ep.32 Meeting Mar 12 2025: AI Red Teaming, Securing AI Models, and Best 
 slug: ep-32-meeting-mar-12-2025-ai-red-teaming-securing-ai-models
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

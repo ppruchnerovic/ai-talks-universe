@@ -4,7 +4,7 @@ title: "Turn your agents into action: Connect tools, APIs, and documents | BRK24
 slug: turn-your-agents-into-action-connect-tools-apis-and
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Ronak Chokshi", "Maria Naggaga", "Joe Filcik"]

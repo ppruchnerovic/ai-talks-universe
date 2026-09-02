@@ -4,7 +4,7 @@ title: "Why Your AI Coding Agent Will Fail in Production (And How to Fix It)"
 slug: why-your-ai-coding-agent-will-fail-in-production-and-how-to
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

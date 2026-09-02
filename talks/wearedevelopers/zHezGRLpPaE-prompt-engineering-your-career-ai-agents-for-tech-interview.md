@@ -4,7 +4,7 @@ title: "Prompt Engineering Your Career: AI Agents for Tech Interview Prep"
 slug: prompt-engineering-your-career-ai-agents-for-tech-interview
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ekaterina Kapranova"]

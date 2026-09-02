@@ -4,7 +4,7 @@ title: "How to Break AI Systems (Before Someone Else Does) - Gary Lopez & Dr. Am
 slug: how-to-break-ai-systems-before-someone-else-does-gary-lopez
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gary Lopez", "Dr. Amanda Minnich"]

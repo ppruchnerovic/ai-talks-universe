@@ -4,7 +4,7 @@ title: "AGI is Already Here (But It's Not What You Think)"
 slug: agi-is-already-here-but-it-s-not-what-you-think
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Joseph Gonzalez"]

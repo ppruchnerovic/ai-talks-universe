@@ -4,7 +4,7 @@ title: "Is the Agent in the Room with Us Right Now? - Nick Rutigliano & Andrew H
 slug: is-the-agent-in-the-room-with-us-right-now-nick-rutigliano
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Nick Rutigliano", "Andrew Halaney"]

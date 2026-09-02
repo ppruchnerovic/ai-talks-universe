@@ -4,7 +4,7 @@ title: "Lightning Talk: But How Do You Autograd Through Your Simulator? Making a
 slug: lightning-talk-but-how-do-you-autograd-through-your
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["R. Dagli", "S. Lamba"]

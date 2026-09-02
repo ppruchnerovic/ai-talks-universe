@@ -4,7 +4,7 @@ title: "Your AI is Only As Secure as Your SaaS"
 slug: your-ai-is-only-as-secure-as-your-saas
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

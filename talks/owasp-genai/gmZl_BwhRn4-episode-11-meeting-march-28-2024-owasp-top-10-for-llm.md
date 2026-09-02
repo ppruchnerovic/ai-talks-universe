@@ -4,7 +4,7 @@ title: "Episode 11: Meeting March 28 2024 - OWASP Top 10 For LLM Applications"
 slug: episode-11-meeting-march-28-2024-owasp-top-10-for-llm
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

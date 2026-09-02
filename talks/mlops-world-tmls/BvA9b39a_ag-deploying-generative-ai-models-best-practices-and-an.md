@@ -4,7 +4,7 @@ title: "Deploying Generative AI Models: Best Practices and an Interactive Exampl
 slug: deploying-generative-ai-models-best-practices-and-an
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Anouk Dutrée"]

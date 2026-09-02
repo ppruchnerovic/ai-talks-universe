@@ -4,7 +4,7 @@ title: "Teach AI agents to manage context with Elastic Agent Builder | DEMSP395"
 slug: teach-ai-agents-to-manage-context-with-elastic-agent
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mike Richter", "Deepti Dheer"]

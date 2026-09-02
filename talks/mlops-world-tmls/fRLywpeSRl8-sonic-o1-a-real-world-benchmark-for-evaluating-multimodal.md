@@ -4,7 +4,7 @@ title: "SONIC-O1: A Real-World Benchmark for Evaluating Multimodal LLMs on Audio
 slug: sonic-o1-a-real-world-benchmark-for-evaluating-multimodal
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

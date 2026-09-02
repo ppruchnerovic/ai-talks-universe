@@ -4,7 +4,7 @@ title: "Why a Hedge Fund Built Its Own Database"
 slug: why-a-hedge-fund-built-its-own-database
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

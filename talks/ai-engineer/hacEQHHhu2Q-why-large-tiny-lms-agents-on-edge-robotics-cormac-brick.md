@@ -4,7 +4,7 @@ title: "Why Large? Tiny LMs & Agents on Edge/Robotics — Cormac Brick, Google"
 slug: why-large-tiny-lms-agents-on-edge-robotics-cormac-brick
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cormac Brick"]

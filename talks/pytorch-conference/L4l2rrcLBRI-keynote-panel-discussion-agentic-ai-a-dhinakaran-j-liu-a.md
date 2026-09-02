@@ -4,7 +4,7 @@ title: "Keynote Panel Discussion: Agentic AI - A. Dhinakaran, J. Liu, A. Jones, 
 slug: keynote-panel-discussion-agentic-ai-a-dhinakaran-j-liu-a
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["A. Dhinakaran"]

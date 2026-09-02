@@ -4,7 +4,7 @@ title: "Coding challenge: AI test vs PI test by Frederieke Scheper, Laurens van 
 slug: coding-challenge-ai-test-vs-pi-test-by-frederieke-scheper
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Frederieke Scheper", "Laurens van der Kooi"]

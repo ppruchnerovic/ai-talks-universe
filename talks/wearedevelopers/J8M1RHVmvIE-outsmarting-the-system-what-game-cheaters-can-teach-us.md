@@ -4,7 +4,7 @@ title: "Outsmarting the System: What Game Cheaters Can Teach Us About Cyber Secu
 slug: outsmarting-the-system-what-game-cheaters-can-teach-us
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["John Romero"]

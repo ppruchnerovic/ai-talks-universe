@@ -4,7 +4,7 @@ title: "Build smarter AI systems in Foundry as models and costs evolve | BRK230"
 slug: build-smarter-ai-systems-in-foundry-as-models-and-costs
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Yina Arenas", "Naomi Moneypenny"]

@@ -4,7 +4,7 @@ title: "Validating Real-World Usefulness of AI Models - Julia Kasper"
 slug: validating-real-world-usefulness-of-ai-models-julia-kasper
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Julia Kasper"]

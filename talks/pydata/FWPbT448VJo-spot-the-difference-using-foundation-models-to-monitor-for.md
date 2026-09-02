@@ -4,7 +4,7 @@ title: "Spot the difference: 🕵️ using foundation models to monitor for chan
 slug: spot-the-difference-using-foundation-models-to-monitor-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Ferdinand Schenck"]

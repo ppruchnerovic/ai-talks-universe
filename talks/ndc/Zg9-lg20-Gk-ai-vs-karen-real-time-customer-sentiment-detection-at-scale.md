@@ -4,7 +4,7 @@ title: "AI vs. Karen: Real-Time Customer Sentiment Detection at Scale - Josef Go
 slug: ai-vs-karen-real-time-customer-sentiment-detection-at-scale
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Josef Goldstein"]

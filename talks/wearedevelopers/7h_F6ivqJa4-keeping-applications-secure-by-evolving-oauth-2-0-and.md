@@ -4,7 +4,7 @@ title: "Keeping applications secure by evolving OAuth 2.0 and OpenID Connect"
 slug: keeping-applications-secure-by-evolving-oauth-2-0-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Alexander Schwartz"]

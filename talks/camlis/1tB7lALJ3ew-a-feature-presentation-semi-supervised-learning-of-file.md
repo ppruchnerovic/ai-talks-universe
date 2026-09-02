@@ -4,7 +4,7 @@ title: "A feature presentation: semi-supervised learning of file representations
 slug: a-feature-presentation-semi-supervised-learning-of-file
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

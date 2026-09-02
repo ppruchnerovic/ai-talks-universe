@@ -4,7 +4,7 @@ title: "Keynote: 25 Years of the Microsoft SDL - Michael Howard - NDC Security 2
 slug: keynote-25-years-of-the-microsoft-sdl-michael-howard-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Michael Howard"]

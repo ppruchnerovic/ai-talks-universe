@@ -4,7 +4,7 @@ title: "Spectrum: An End-to-End Framework for ML-based Threat Monitoring and Det
 slug: spectrum-an-end-to-end-framework-for-ml-based-threat
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

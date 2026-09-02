@@ -4,7 +4,7 @@ title: "Gut Feeling Is Dead: Talent Intelligence Drives Workforce Planning"
 slug: gut-feeling-is-dead-talent-intelligence-drives-workforce
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Powering modern cloud workloads with Azure Compute | BRK172"
 slug: powering-modern-cloud-workloads-with-azure-compute-brk172
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Stefanie Lemon", "Max Uritsky"]

@@ -4,7 +4,7 @@ title: "URL Elicitation Deep Dive: Third-party OAuth Solved (and More!) - Nate B
 slug: url-elicitation-deep-dive-third-party-oauth-solved-and-more
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Nate Barbettini"]

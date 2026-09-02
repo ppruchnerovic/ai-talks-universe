@@ -4,7 +4,7 @@ title: "SaTML 2023 - Carlini & Jagielski - Improving train data extraction attac
 slug: satml-2023-carlini-jagielski-improving-train-data
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []

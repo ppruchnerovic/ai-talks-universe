@@ -4,7 +4,7 @@ title: "Before You Ship Your Agent: An Agent Builder’s Primer on Jailbreaking 
 slug: before-you-ship-your-agent-an-agent-builders-primer-on
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

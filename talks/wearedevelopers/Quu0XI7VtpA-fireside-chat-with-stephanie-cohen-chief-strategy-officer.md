@@ -4,7 +4,7 @@ title: "Fireside Chat with Stephanie Cohen, Chief Strategy Officer, Cloudflare"
 slug: fireside-chat-with-stephanie-cohen-chief-strategy-officer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

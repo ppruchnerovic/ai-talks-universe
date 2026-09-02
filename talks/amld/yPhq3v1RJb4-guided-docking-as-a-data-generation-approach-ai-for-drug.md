@@ -4,7 +4,7 @@ title: "Guided docking as a data generation approach | AI for Drug Discovery | M
 slug: guided-docking-as-a-data-generation-approach-ai-for-drug
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Michael Backenköhler"]

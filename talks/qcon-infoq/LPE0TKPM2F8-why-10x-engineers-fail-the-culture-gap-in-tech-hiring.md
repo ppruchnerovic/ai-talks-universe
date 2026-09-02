@@ -4,7 +4,7 @@ title: "Why 10x Engineers Fail: The Culture Gap in Tech Hiring"
 slug: why-10x-engineers-fail-the-culture-gap-in-tech-hiring
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

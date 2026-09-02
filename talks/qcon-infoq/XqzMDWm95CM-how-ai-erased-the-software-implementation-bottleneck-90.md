@@ -4,7 +4,7 @@ title: "How AI Erased the Software Implementation Bottleneck (90% Shipped Code)"
 slug: how-ai-erased-the-software-implementation-bottleneck-90
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

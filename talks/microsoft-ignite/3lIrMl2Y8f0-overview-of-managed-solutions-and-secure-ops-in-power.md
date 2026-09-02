@@ -4,7 +4,7 @@ title: "Overview of managed solutions and secure ops in Power Platform | PBRK307
 slug: overview-of-managed-solutions-and-secure-ops-in-power
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ryan Jones"]

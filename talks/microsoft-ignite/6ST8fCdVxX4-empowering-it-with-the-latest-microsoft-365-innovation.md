@@ -4,7 +4,7 @@ title: "Empowering IT with the latest Microsoft 365 innovation | BRK286"
 slug: empowering-it-with-the-latest-microsoft-365-innovation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["James Bell", "Jed Brown"]

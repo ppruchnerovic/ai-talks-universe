@@ -4,7 +4,7 @@ title: "What's new in Looker: Empowering business users in the governed agentic 
 slug: what-s-new-in-looker-empowering-business-users-in-the
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Karthik Ramakrishnan", "Sean Zinsmeister", "Thomas Seyller"]

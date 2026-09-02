@@ -4,7 +4,7 @@ title: "Why your agents need decision traces, not just documents — Zach Blumen
 slug: why-your-agents-need-decision-traces-not-just-documents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zach Blumenfeld"]

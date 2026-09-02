@@ -4,7 +4,7 @@ title: "What can AI in clinical neuroscience do? And what should it do? | Clinic
 slug: what-can-ai-in-clinical-neuroscience-do-and-what-should-it
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Marcello Lenca"]

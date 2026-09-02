@@ -4,7 +4,7 @@ title: "Sponsored Session: Architecting AI: Efficient Models, Everywhere - Sharb
 slug: sponsored-session-architecting-ai-efficient-models
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Sharbani Roy"]

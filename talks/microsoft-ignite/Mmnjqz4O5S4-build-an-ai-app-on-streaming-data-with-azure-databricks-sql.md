@@ -4,7 +4,7 @@ title: "Build an AI app on streaming data with Azure Databricks SQL and Genie | 
 slug: build-an-ai-app-on-streaming-data-with-azure-databricks-sql
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Anjali Jaisinghani", "Saurabh Shukla"]

@@ -4,7 +4,7 @@ title: "Black Hole Stars: An Astronomical Mystery (Mostly) Solved with NumPyro a
 slug: black-hole-stars-an-astronomical-mystery-mostly-solved-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Raphael Hviding"]

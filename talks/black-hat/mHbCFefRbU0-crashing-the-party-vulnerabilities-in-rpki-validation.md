@@ -4,7 +4,7 @@ title: "Crashing the Party: Vulnerabilities in RPKI Validation"
 slug: crashing-the-party-vulnerabilities-in-rpki-validation
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

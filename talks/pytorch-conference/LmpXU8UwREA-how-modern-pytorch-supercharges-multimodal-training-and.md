@@ -4,7 +4,7 @@ title: "How Modern PyTorch Supercharges Multimodal Training and Inference at Lum
 slug: how-modern-pytorch-supercharges-multimodal-training-and
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Thomas Neff"]

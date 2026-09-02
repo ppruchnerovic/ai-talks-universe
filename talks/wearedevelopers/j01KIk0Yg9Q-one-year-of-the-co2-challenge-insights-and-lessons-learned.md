@@ -4,7 +4,7 @@ title: "One year of the CO2-challenge – insights and lessons learned"
 slug: one-year-of-the-co2-challenge-insights-and-lessons-learned
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Aydin Mir Mohammadi"]

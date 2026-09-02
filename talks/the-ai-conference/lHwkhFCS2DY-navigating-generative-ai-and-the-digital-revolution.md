@@ -4,7 +4,7 @@ title: "Navigating Generative AI And The Digital Revolution, Fireside Chat with 
 slug: navigating-generative-ai-and-the-digital-revolution
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

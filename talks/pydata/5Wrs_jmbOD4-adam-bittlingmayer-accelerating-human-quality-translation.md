@@ -4,7 +4,7 @@ title: "Adam Bittlingmayer - Accelerating Human-Quality Translation in the Real 
 slug: adam-bittlingmayer-accelerating-human-quality-translation
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Adam Bittlingmayer"]

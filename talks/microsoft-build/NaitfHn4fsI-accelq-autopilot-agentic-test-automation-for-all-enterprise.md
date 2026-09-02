@@ -4,7 +4,7 @@ title: "ACCELQ Autopilot: Agentic test automation for all enterprise apps | ODFP
 slug: accelq-autopilot-agentic-test-automation-for-all-enterprise
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

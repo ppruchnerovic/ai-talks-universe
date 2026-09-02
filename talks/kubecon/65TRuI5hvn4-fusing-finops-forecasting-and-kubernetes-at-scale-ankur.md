@@ -4,7 +4,7 @@ title: "Fusing FinOps, Forecasting, and Kubernetes at Scale - Ankur Singh & Saty
 slug: fusing-finops-forecasting-and-kubernetes-at-scale-ankur
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Ankur Singh", "Satyam Bhardwaj"]

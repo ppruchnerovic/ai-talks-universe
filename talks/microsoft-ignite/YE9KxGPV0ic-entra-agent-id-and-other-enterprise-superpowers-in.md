@@ -4,7 +4,7 @@ title: "Entra Agent ID and other enterprise superpowers in Microsoft Foundry | B
 slug: entra-agent-id-and-other-enterprise-superpowers-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Akshaya Annavajhala", "Gerald Ertl", "Amanda Foster"]

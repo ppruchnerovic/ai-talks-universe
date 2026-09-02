@@ -4,7 +4,7 @@ title: "Can we control AI"
 slug: can-we-control-ai
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2024
 speakers: []

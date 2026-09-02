@@ -4,7 +4,7 @@ title: "A guide to building tomorrows AI Solutions | BRK132"
 slug: a-guide-to-building-tomorrows-ai-solutions-brk132
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Henk Boelman", "Daniel Laskewitz", "David Smith"]

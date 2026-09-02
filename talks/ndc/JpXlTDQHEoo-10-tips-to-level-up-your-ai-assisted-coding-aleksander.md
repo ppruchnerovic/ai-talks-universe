@@ -4,7 +4,7 @@ title: "10 tips to level up your ai-assisted coding - Aleksander Stensby - NDC C
 slug: 10-tips-to-level-up-your-ai-assisted-coding-aleksander
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Aleksander Stensby"]

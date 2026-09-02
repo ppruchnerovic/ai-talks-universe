@@ -4,7 +4,7 @@ title: "CI/CD Fails for AI & How CC/CD Fixes It | Aishwarya Reganti (LevelUp Lab
 slug: ci-cd-fails-for-ai-how-cc-cd-fixes-it-aishwarya-reganti
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Aishwarya Naresh Reganti", "Sai Kiriti"]

@@ -4,7 +4,7 @@ title: "Simplify Your System By Challenging The Status-Quo And Learning From Oth
 slug: simplify-your-system-by-challenging-the-status-quo-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

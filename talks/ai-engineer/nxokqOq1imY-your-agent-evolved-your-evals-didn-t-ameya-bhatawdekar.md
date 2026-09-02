@@ -4,7 +4,7 @@ title: "Your Agent Evolved. Your Evals Didn't. — Ameya Bhatawdekar, Braintrust
 slug: your-agent-evolved-your-evals-didn-t-ameya-bhatawdekar
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ameya Bhatawdekar"]

@@ -4,7 +4,7 @@ title: "Building Customer Love | Erica Anderson (Notion)"
 slug: building-customer-love-erica-anderson-notion
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Building Customer Love", "Erica Anderson"]

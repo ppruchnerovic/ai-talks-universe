@@ -4,7 +4,7 @@ title: "Cody Coleman, CEO and Co-Founder, Coactive: Tackling Socioeconomic Bias 
 slug: cody-coleman-ceo-and-co-founder-coactive-tackling
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

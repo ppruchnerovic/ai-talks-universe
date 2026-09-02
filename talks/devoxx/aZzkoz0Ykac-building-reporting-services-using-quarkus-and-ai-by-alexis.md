@@ -4,7 +4,7 @@ title: "Building reporting services using Quarkus and AI by Alexis Panousis and 
 slug: building-reporting-services-using-quarkus-and-ai-by-alexis
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Alexis Panousis", "Kostas Sidiropoulos"]

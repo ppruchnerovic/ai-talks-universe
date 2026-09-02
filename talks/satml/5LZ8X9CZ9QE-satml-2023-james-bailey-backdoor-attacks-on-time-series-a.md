@@ -4,7 +4,7 @@ title: "SaTML 2023 - James Bailey - Backdoor Attacks on Time Series: A Generativ
 slug: satml-2023-james-bailey-backdoor-attacks-on-time-series-a
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["James Bailey"]

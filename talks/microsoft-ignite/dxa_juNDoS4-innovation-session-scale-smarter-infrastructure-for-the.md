@@ -4,7 +4,7 @@ title: "Innovation Session: Scale Smarter: Infrastructure for the Agentic Era | 
 slug: innovation-session-scale-smarter-infrastructure-for-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nidhi Chappell", "Annie Pearl", "Jeremy Winter"]

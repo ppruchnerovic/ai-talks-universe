@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | João Moura: Design, Develop, and Deploy Multi Agent 
 slug: ai-dev-25-x-nyc-joao-moura-design-develop-and-deploy-multi
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

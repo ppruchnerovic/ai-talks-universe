@@ -4,7 +4,7 @@ title: "Get Started with AI Agents Using Azure AI Foundry | Sandeep Gadey, Micro
 slug: get-started-with-ai-agents-using-azure-ai-foundry-sandeep
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Sandeep Gadey"]

@@ -4,7 +4,7 @@ title: "Bringing Cloud Native PaaS To Space: Onboard Edge Computing f... Adele K
 slug: bringing-cloud-native-paas-to-space-onboard-edge-computing
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "To RAG or not to RAG by Piotr Przybył"
 slug: to-rag-or-not-to-rag-by-piotr-przyby
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - High-performance storage for AI/ML, analytics, and 
 slug: aws-re-invent-2025-high-performance-storage-for-ai-ml
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

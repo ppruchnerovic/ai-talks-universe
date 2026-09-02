@@ -4,7 +4,7 @@ title: "Build secure and enterprise-ready agents with Agent 365 | BRK251"
 slug: build-secure-and-enterprise-ready-agents-with-agent-365
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Neta Haiby", "Kendra Springer", "Lei Zhong"]

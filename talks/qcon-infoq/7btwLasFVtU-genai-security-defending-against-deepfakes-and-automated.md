@@ -4,7 +4,7 @@ title: "GenAI Security: Defending Against Deepfakes and Automated Social Enginee
 slug: genai-security-defending-against-deepfakes-and-automated
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

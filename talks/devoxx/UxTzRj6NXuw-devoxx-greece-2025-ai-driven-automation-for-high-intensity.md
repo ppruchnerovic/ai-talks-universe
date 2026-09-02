@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - AI-Driven Automation for High-Intensity Development
 slug: devoxx-greece-2025-ai-driven-automation-for-high-intensity
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Stefanos Giorkas"]

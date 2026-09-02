@@ -4,7 +4,7 @@ title: "Modernize your apps by learning how Office leverages Windows App SDK | B
 slug: modernize-your-apps-by-learning-how-office-leverages
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Khalef Hosany", "Jeffrey Stall"]

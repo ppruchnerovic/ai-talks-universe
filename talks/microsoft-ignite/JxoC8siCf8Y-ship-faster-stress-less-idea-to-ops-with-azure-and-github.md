@@ -4,7 +4,7 @@ title: "Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot | BR
 slug: ship-faster-stress-less-idea-to-ops-with-azure-and-github
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nir Mashkowski", "Mandy Whaley"]

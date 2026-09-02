@@ -4,7 +4,7 @@ title: "Changing business workflows with Microsoft Copilot and agents | ODSP1457
 slug: changing-business-workflows-with-microsoft-copilot-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Joe Berger"]

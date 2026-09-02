@@ -4,7 +4,7 @@ title: "Explainable Deep Learning on Satellite Imagery for Disaster Response | A
 slug: explainable-deep-learning-on-satellite-imagery-for-disaster
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Thomas Chen"]

@@ -4,7 +4,7 @@ title: "Building and evaluating AI Agents — Sayash Kapoor, AI Snake Oil"
 slug: building-and-evaluating-ai-agents-sayash-kapoor-ai-snake-oil
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Sayash Kapoor"]

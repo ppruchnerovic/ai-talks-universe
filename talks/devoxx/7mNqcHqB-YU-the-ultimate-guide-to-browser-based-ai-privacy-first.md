@@ -4,7 +4,7 @@ title: "The Ultimate Guide to Browser-Based AI: Privacy-First, Offline-Ready and
 slug: the-ultimate-guide-to-browser-based-ai-privacy-first
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["M. Salnikov"]

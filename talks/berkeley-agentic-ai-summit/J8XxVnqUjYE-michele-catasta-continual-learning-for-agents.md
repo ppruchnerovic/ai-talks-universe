@@ -4,7 +4,7 @@ title: "Michele Catasta - Continual Learning for Agents"
 slug: michele-catasta-continual-learning-for-agents
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Michele Catasta"]

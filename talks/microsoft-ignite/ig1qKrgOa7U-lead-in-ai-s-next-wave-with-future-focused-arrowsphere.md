@@ -4,7 +4,7 @@ title: "Lead in AI's next wave with future focused ArrowSphere Assistant | BRKFP
 slug: lead-in-ai-s-next-wave-with-future-focused-arrowsphere
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Eric Gourmelen", "Brendan Murphy"]

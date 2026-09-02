@@ -4,7 +4,7 @@ title: "Leveraging Meta Learning and Federated Learning | Rare Disease Applicati
 slug: leveraging-meta-learning-and-federated-learning-rare
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Anshul Thakur"]

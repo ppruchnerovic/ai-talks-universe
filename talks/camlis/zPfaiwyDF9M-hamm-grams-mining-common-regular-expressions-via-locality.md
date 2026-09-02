@@ -4,7 +4,7 @@ title: "Hamm-Grams: Mining Common Regular Expressions via Locality Sensitive Has
 slug: hamm-grams-mining-common-regular-expressions-via-locality
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

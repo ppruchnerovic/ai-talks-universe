@@ -4,7 +4,7 @@ title: "Deploying AI with Sovereign controls | BRK250"
 slug: deploying-ai-with-sovereign-controls-brk250
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Miriam Berhane Russom", "Valecia Maclin Topping"]

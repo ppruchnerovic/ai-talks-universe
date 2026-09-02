@@ -4,7 +4,7 @@ title: "Speed up your CI/CD pipelines by caching build & runtime artifacts"
 slug: speed-up-your-ci-cd-pipelines-by-caching-build-runtime
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Thijs Feryn"]

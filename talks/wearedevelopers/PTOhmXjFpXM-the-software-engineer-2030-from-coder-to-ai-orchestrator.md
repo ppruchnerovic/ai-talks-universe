@@ -4,7 +4,7 @@ title: "The Software Engineer 2030: From Coder To AI Orchestrator?"
 slug: the-software-engineer-2030-from-coder-to-ai-orchestrator
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

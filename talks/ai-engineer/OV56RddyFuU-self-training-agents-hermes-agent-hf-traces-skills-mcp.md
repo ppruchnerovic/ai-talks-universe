@@ -4,7 +4,7 @@ title: "Self-Training Agents: Hermes Agent, HF Traces, Skills, MCP & Finetuning 
 slug: self-training-agents-hermes-agent-hf-traces-skills-mcp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Merve Noyan"]

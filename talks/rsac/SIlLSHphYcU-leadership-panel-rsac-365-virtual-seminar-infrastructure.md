@@ -4,7 +4,7 @@ title: "Leadership Panel - RSAC 365 Virtual Seminar: Infrastructure Security"
 slug: leadership-panel-rsac-365-virtual-seminar-infrastructure
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

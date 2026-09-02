@@ -4,7 +4,7 @@ title: "Andrew Ng: Building Faster with AI"
 slug: andrew-ng-building-faster-with-ai
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []

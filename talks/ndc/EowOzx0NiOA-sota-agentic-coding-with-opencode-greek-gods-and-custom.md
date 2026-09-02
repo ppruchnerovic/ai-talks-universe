@@ -4,7 +4,7 @@ title: "SOTA Agentic Coding with OpenCode, Greek Gods and Custom Workflows - Tja
 slug: sota-agentic-coding-with-opencode-greek-gods-and-custom
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Tjalve Aarflot"]

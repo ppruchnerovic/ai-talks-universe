@@ -4,7 +4,7 @@ title: "Build reliable software in age of AI: AI Code Assurance + AI CodeFix | O
 slug: build-reliable-software-in-age-of-ai-ai-code-assurance-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Hacking AI Systems: How to (Still) Trick Artificial Intelligence • Kat
 slug: hacking-ai-systems-how-to-still-trick-artificial
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Katharine Jarmul"]

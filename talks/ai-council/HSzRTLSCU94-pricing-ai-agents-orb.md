@@ -4,7 +4,7 @@ title: "Pricing AI Agents | Orb"
 slug: pricing-ai-agents-orb
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

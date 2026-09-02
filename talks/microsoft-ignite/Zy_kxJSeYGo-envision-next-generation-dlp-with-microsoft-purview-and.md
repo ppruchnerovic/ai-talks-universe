@@ -4,7 +4,7 @@ title: "Envision next generation DLP with Microsoft Purview and Copilot | BRKSP4
 slug: envision-next-generation-dlp-with-microsoft-purview-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Adam Ames", "Nick Caromano", "Josh Rattan"]

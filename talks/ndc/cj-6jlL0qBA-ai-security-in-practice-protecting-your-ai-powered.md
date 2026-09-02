@@ -4,7 +4,7 @@ title: "AI Security in Practice: Protecting Your AI-Powered Applications - Olivi
 slug: ai-security-in-practice-protecting-your-ai-powered
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Olivia Liddell"]

@@ -4,7 +4,7 @@ title: "Skills Didn't Kill MCP: Supabase Engineer Settles the Debate"
 slug: skills-didn-t-kill-mcp-supabase-engineer-settles-the-debate
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

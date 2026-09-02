@@ -4,7 +4,7 @@ title: "Trust Issues: Because Zero-Trust Isn’t Optional Anymore"
 slug: trust-issues-because-zero-trust-isnt-optional-anymore
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jan Peer Stöcklmair"]

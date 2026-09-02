@@ -4,7 +4,7 @@ title: "SaTML 2023 - Harsh Chaudhari - SafeNet: The Unreasonable Effectiveness o
 slug: satml-2023-harsh-chaudhari-safenet-the-unreasonable
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Harsh Chaudhari"]

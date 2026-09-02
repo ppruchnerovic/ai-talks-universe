@@ -4,7 +4,7 @@ title: "Maarten de Ruiter - GenAI governance in practice | PyData Amsterdam 2025
 slug: maarten-de-ruiter-genai-governance-in-practice-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Maarten de Ruiter"]

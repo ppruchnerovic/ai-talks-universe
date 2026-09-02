@@ -4,7 +4,7 @@ title: "Azure OpenAI: the latest innovation for AI powered business value | BRK1
 slug: azure-openai-the-latest-innovation-for-ai-powered-business
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Yina Arenas", "Charlie Rohlf", "Steve Sweetman"]

@@ -4,7 +4,7 @@ title: "Power intelligent agents with AI-native databases"
 slug: power-intelligent-agents-with-ai-native-databases
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Amit Ganesh", "Yannis Papakonstantinou", "David Soria Parra"]

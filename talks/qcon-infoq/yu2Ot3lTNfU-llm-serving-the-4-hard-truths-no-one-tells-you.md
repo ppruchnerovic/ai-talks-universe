@@ -4,7 +4,7 @@ title: "LLM Serving: The 4 Hard Truths No One Tells You"
 slug: llm-serving-the-4-hard-truths-no-one-tells-you
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

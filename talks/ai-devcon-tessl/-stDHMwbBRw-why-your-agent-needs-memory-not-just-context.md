@@ -4,7 +4,7 @@ title: "Why your Agent needs Memory, not just context"
 slug: why-your-agent-needs-memory-not-just-context
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

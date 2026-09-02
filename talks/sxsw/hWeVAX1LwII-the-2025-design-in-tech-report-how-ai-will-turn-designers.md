@@ -4,7 +4,7 @@ title: "The 2025 Design in Tech Report: How AI Will Turn Designers into \"Autode
 slug: the-2025-design-in-tech-report-how-ai-will-turn-designers
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []

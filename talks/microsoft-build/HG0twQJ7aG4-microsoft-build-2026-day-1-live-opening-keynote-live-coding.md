@@ -4,7 +4,7 @@ title: "Microsoft Build 2026 Day 1 LIVE | Opening Keynote, Live Coding & Demos"
 slug: microsoft-build-2026-day-1-live-opening-keynote-live-coding
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

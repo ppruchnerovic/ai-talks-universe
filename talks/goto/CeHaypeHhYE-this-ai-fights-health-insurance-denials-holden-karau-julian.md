@@ -4,7 +4,7 @@ title: "This AI Fights Health Insurance Denials • Holden Karau & Julian Wood"
 slug: this-ai-fights-health-insurance-denials-holden-karau-julian
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Holden Karau", "Julian Wood"]

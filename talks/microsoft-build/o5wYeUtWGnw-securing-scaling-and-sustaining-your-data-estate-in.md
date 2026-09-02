@@ -4,7 +4,7 @@ title: "Securing, scaling, and sustaining your data estate in Microsoft Fabric |
 slug: securing-scaling-and-sustaining-your-data-estate-in
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Kim Manis"]

@@ -4,7 +4,7 @@ title: "Ohio Bureau Of Workers' Compensation: Scalable RAG-based Policy Assistan
 slug: ohio-bureau-of-workers-compensation-scalable-rag-based
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

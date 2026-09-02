@@ -4,7 +4,7 @@ title: "Do you know how well your model is doing? Evaluate your LLMs [PyCon DE &
 slug: do-you-know-how-well-your-model-is-doing-evaluate-your-llms
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Cheuk Ting Ho"]

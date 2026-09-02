@@ -4,7 +4,7 @@ title: "Stephane Jourdan, Simon Rohrer & Pini Reznik - From Pipelines to Prompts
 slug: stephane-jourdan-simon-rohrer-pini-reznik-from-pipelines-to
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Stephane Jourdan"]

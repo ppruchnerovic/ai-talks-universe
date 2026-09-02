@@ -4,7 +4,7 @@ title: "Beyond CLIP: Implementing CoMM - A Multimodal Contrastive Learning Paper
 slug: beyond-clip-implementing-comm-a-multimodal-contrastive
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

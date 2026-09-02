@@ -4,7 +4,7 @@ title: "How to Scale Unstructured Data Processing with Ray Data | Ray Summit 202
 slug: how-to-scale-unstructured-data-processing-with-ray-data-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

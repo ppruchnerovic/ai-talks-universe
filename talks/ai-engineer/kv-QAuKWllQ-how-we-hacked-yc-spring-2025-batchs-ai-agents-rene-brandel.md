@@ -4,7 +4,7 @@ title: "How we hacked YC Spring 2025 batch’s AI agents — Rene Brandel, Casco
 slug: how-we-hacked-yc-spring-2025-batchs-ai-agents-rene-brandel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rene Brandel"]

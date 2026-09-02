@@ -4,7 +4,7 @@ title: "Break It 'Til You Make It: Building the Self-Improving Stack for AI Agen
 slug: break-it-til-you-make-it-building-the-self-improving-stack
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aparna Dhinakaran"]

@@ -4,7 +4,7 @@ title: "Daina Bouquin - AI sovereignty, provenance and compliance | Pydata Londo
 slug: daina-bouquin-ai-sovereignty-provenance-and-compliance
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Daina Bouquin"]

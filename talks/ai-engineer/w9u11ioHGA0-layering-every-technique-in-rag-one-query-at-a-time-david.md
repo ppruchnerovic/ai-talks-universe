@@ -4,7 +4,7 @@ title: "Layering every technique in RAG, one query at a time - David Karam, Pi L
 slug: layering-every-technique-in-rag-one-query-at-a-time-david
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["David Karam"]

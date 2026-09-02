@@ -4,7 +4,7 @@ title: "Words as weapons: The dark arts of Prompt Engineering.... by Jeroen Egel
 slug: words-as-weapons-the-dark-arts-of-prompt-engineering-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Jeroen Egelmeers"]

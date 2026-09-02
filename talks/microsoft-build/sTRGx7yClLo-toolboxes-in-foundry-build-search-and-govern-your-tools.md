@@ -4,7 +4,7 @@ title: "Toolboxes in Foundry: Build, Search and Govern Your Tools | LIVE163"
 slug: toolboxes-in-foundry-build-search-and-govern-your-tools
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Atul Aggarwal", "Seth Juarez", "Zhuoqun Li"]

@@ -4,7 +4,7 @@ title: "Accuracy Is Overrated: Ship Stable Forecasts (Without Lying to Yourself)
 slug: accuracy-is-overrated-ship-stable-forecasts-without-lying
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Illia Babounikau"]

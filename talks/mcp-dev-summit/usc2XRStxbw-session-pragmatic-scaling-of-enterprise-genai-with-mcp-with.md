@@ -4,7 +4,7 @@ title: "[Session] Pragmatic Scaling of Enterprise GenAI with MCP with Sambhav Ko
 slug: session-pragmatic-scaling-of-enterprise-genai-with-mcp-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

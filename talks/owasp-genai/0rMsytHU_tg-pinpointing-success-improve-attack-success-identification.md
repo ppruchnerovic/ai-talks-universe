@@ -4,7 +4,7 @@ title: "Pinpointing Success: improve attack success identification for GenAI-bas
 slug: pinpointing-success-improve-attack-success-identification
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

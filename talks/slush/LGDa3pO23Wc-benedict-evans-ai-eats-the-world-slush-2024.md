@@ -4,7 +4,7 @@ title: "Benedict Evans: AI Eats the World | Slush 2024"
 slug: benedict-evans-ai-eats-the-world-slush-2024
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: []

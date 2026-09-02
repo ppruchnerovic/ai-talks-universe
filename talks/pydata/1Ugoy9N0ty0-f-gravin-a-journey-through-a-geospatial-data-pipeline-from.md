@@ -4,7 +4,7 @@ title: "F Gravin - A Journey Through a Geospatial Data Pipeline: From Raw Coordi
 slug: f-gravin-a-journey-through-a-geospatial-data-pipeline-from
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["F Gravin"]

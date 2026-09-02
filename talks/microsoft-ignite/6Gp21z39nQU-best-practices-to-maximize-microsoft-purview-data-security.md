@@ -4,7 +4,7 @@ title: "Best practices to maximize Microsoft Purview data security solutions | B
 slug: best-practices-to-maximize-microsoft-purview-data-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Nick Caromano", "Vivian Ma", "Antonio Maio", "Aashish Ramdas", "Scott Whittington"]

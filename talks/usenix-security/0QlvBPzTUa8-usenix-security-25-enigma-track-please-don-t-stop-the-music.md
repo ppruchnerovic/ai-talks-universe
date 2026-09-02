@@ -4,7 +4,7 @@ title: "USENIX Security '25 (Enigma Track) - Please (Don't) Stop the Music: Adve
 slug: usenix-security-25-enigma-track-please-don-t-stop-the-music
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

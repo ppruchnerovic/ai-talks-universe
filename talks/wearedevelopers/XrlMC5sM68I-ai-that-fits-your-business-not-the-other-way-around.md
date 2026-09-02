@@ -4,7 +4,7 @@ title: "AI That Fits Your Business, Not the Other Way Around"
 slug: ai-that-fits-your-business-not-the-other-way-around
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anshul Jindal", "Cansu Kavili Örnek"]

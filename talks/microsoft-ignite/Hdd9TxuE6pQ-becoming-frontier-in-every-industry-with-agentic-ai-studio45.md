@@ -4,7 +4,7 @@ title: "Becoming Frontier in Every Industry with Agentic AI | STUDIO45"
 slug: becoming-frontier-in-every-industry-with-agentic-ai-studio45
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Satish Thomas", "Kathleen Mitford"]

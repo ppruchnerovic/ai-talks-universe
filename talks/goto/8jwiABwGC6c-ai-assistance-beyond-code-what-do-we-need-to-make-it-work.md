@@ -4,7 +4,7 @@ title: "AI Assistance Beyond Code: What Do We Need to Make it Work? • Birgitta
 slug: ai-assistance-beyond-code-what-do-we-need-to-make-it-work
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Birgitta Böckeler"]

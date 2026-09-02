@@ -4,7 +4,7 @@ title: "Data sharing, analytics for energy applications | AI to Enable the Energ
 slug: data-sharing-analytics-for-energy-applications-ai-to-enable
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Pierre Pinson"]

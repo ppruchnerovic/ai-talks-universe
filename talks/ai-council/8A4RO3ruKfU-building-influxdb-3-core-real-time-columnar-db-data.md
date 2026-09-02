@@ -4,7 +4,7 @@ title: "Building InfluxDB 3 Core: Real-Time Columnar DB & Data Processor On Obje
 slug: building-influxdb-3-core-real-time-columnar-db-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Paul Dix"]

@@ -4,7 +4,7 @@ title: "Disrupt and grow with Microsoft Azure AI | OD838"
 slug: disrupt-and-grow-with-microsoft-azure-ai-od838
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Anand Kulkarni", "Ravi Sudhakar Kambhampati", "Neelay Thaker"]

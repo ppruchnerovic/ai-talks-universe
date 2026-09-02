@@ -4,7 +4,7 @@ title: "Empowering Healthcare Through Scalable AI for Trusted Partners | PBRK390
 slug: empowering-healthcare-through-scalable-ai-for-trusted
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Cornelis Hertogh", "Feliz Fuentes Montpellier"]

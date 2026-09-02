@@ -4,7 +4,7 @@ title: "Turing winner David Patterson: how to give AI a bad carbon footprint"
 slug: turing-winner-david-patterson-how-to-give-ai-a-bad-carbon
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

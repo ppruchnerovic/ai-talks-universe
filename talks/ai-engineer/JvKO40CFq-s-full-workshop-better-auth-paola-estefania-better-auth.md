@@ -4,7 +4,7 @@ title: "Full Workshop: Better Auth — Paola Estefania, Better Auth"
 slug: full-workshop-better-auth-paola-estefania-better-auth
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Paola Estefania"]

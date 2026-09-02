@@ -4,7 +4,7 @@ title: "Observability Panel | Galileo, DraftKings, Target Corporation, PIMCO | M
 slug: observability-panel-galileo-draftkings-target-corporation
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

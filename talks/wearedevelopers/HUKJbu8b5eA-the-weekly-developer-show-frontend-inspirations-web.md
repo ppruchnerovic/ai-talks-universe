@@ -4,7 +4,7 @@ title: "The weekly developer show: Frontend Inspirations, Web Standards and more
 slug: the-weekly-developer-show-frontend-inspirations-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

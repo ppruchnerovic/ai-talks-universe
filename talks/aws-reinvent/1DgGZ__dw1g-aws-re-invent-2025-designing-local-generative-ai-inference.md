@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Designing local Generative AI inference with AWS Io
 slug: aws-re-invent-2025-designing-local-generative-ai-inference
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

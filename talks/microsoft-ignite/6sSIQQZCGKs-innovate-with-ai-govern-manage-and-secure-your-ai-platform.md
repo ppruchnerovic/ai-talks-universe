@@ -4,7 +4,7 @@ title: "Innovate with AI: govern manage and secure your AI platform | BRK131"
 slug: innovate-with-ai-govern-manage-and-secure-your-ai-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Praveen Gururaja", "Rajani Janaki Ram", "Stephen Sumner"]

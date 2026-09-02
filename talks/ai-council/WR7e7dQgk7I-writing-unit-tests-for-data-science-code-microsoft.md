@@ -4,7 +4,7 @@ title: "Writing Unit Tests for Data Science Code | Microsoft"
 slug: writing-unit-tests-for-data-science-code-microsoft
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

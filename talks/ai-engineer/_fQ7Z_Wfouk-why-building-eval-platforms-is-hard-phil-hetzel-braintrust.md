@@ -4,7 +4,7 @@ title: "Why building eval platforms is hard — Phil Hetzel, Braintrust"
 slug: why-building-eval-platforms-is-hard-phil-hetzel-braintrust
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Hetzel"]

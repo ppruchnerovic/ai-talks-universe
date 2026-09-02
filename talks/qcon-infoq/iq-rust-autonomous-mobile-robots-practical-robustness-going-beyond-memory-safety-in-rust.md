@@ -4,7 +4,7 @@ title: "Practical Robustness: Going beyond Memory Safety in Rust"
 slug: practical-robustness-going-beyond-memory-safety-in-rust
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Andy Brinkmeyer"]

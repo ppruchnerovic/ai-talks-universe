@@ -4,7 +4,7 @@ title: "Nir Shavit, Professor of Electrical Engineering Computer Science, MIT: T
 slug: nir-shavit-professor-of-electrical-engineering-computer
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "KubeSecRay: Fortifying Multi-Tenant Ray Clusters on Kubernetes | Ray Sum
 slug: kubesecray-fortifying-multi-tenant-ray-clusters-on
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

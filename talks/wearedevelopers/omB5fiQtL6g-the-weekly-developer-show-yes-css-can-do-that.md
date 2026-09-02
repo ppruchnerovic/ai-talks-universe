@@ -4,7 +4,7 @@ title: "The weekly developer show: Yes, CSS Can Do That!"
 slug: the-weekly-developer-show-yes-css-can-do-that
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

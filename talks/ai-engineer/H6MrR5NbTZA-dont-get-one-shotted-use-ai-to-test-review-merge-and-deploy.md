@@ -4,7 +4,7 @@ title: "Don’t get one-shotted: Use AI to test, review, merge, and deploy code 
 slug: dont-get-one-shotted-use-ai-to-test-review-merge-and-deploy
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Tomas Reimers"]

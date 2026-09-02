@@ -4,7 +4,7 @@ title: "Sponsored Session: Everything Everywhere all at Once: vLLM...- Brittany 
 slug: sponsored-session-everything-everywhere-all-at-once-vllm
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: []

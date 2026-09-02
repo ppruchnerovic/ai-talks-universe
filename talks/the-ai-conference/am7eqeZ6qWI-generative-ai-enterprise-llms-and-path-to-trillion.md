@@ -4,7 +4,7 @@ title: "Generative AI, Enterprise LLMs And Path To Trillion Parameter Models, Sa
 slug: generative-ai-enterprise-llms-and-path-to-trillion
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

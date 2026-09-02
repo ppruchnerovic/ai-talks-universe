@@ -4,7 +4,7 @@ title: "Uncharted Territories of Web Performance - Andrew Burnett-Thompson and D
 slug: uncharted-territories-of-web-performance-andrew-burnett
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

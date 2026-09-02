@@ -4,7 +4,7 @@ title: "Building safe Payment Infrastructure for the autonomous economy — Stev
 slug: building-safe-payment-infrastructure-for-the-autonomous
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Steve Kaliski"]

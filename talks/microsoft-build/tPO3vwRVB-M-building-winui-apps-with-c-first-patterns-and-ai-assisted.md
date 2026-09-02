@@ -4,7 +4,7 @@ title: "Building WinUI Apps with C# First Patterns and AI Assisted Workflows | O
 slug: building-winui-apps-with-c-first-patterns-and-ai-assisted
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chris Anderson"]

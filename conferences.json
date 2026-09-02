@@ -13,7 +13,7 @@
     {
       "slug": "ai-engineer",
       "name": "AI Engineer",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://www.ai.engineer/",
       "availability": "free",
       "blurb": "The flagship practitioner conference for AI engineers (agents, LLM apps, MCP).",
@@ -27,7 +27,7 @@
     {
       "slug": "ai-dev-deeplearning",
       "name": "AI Dev (DeepLearning.AI)",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://ai-dev.deeplearning.ai/",
       "availability": "free",
       "blurb": "DeepLearning.AI's developer conference.",
@@ -42,7 +42,7 @@
     {
       "slug": "qcon-infoq",
       "name": "QCon / InfoQ Dev Summit",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://qconferences.com/",
       "availability": "partial",
       "blurb": "InfoQ's senior-engineer conferences, including QCon AI. Fresh recordings go to the paid Video Pass first; a free subset drips onto YouTube over months, and onto infoq.com/presentations with a full transcript attached.",
@@ -57,7 +57,7 @@
     {
       "slug": "wearedevelopers",
       "name": "WeAreDevelopers World Congress",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://www.wearedevelopers.com/en",
       "availability": "free",
       "blurb": "Europe's largest developer congress (Berlin), heavy AI programming.",
@@ -72,7 +72,7 @@
     {
       "slug": "ai-devcon-tessl",
       "name": "AI DevCon (Tessl)",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://tessl.io/devcon/",
       "availability": "free",
       "blurb": "Tessl's conference on AI-native software development.",
@@ -86,7 +86,7 @@
     {
       "slug": "langchain-interrupt",
       "name": "LangChain Interrupt",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://interrupt.langchain.com/",
       "availability": "free",
       "blurb": "LangChain's agent conference — production AI agents at Apple, Cisco, LinkedIn, Toyota.",
@@ -101,7 +101,7 @@
     {
       "slug": "code-with-claude",
       "name": "Code with Claude (Anthropic)",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://claude.com/code-with-claude",
       "availability": "free",
       "blurb": "Anthropic's developer conference — Claude, Claude Code, MCP, agent building.",
@@ -118,7 +118,7 @@
     {
       "slug": "mcp-dev-summit",
       "name": "MCP Dev Summit",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://events.linuxfoundation.org/mcp-dev-summit-north-america/",
       "availability": "free",
       "blurb": "The Model Context Protocol's own conference, run by the Linux Foundation's Agentic AI Foundation — servers, gateways, auth, tool design, agent interop.",
@@ -134,7 +134,7 @@
     {
       "slug": "openai-devday",
       "name": "OpenAI DevDay",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://devday.openai.com/",
       "availability": "free",
       "blurb": "OpenAI's annual developer conference — keynotes and breakouts.",
@@ -150,7 +150,7 @@
     {
       "slug": "mlops-world-tmls",
       "name": "MLOps World / Toronto Machine Learning Summit",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://mlopsworld.com/",
       "availability": "free",
       "blurb": "Practitioner events on production LLMs, RAG, agents and MLOps; one channel covers both.",
@@ -164,7 +164,7 @@
     {
       "slug": "ray-summit",
       "name": "Ray Summit (Anyscale)",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://www.anyscale.com/ray-summit/2026",
       "availability": "free",
       "blurb": "Distributed AI infrastructure, LLM serving, the vLLM/Ray ecosystem.",
@@ -180,7 +180,7 @@
     {
       "slug": "pytorch-conference",
       "name": "PyTorch Conference",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://events.linuxfoundation.org/pytorch-conference-north-america/",
       "availability": "free",
       "blurb": "PyTorch Foundation's annual NA + Europe conference: open-source AI engineering, vLLM, LLM infra, agents.",
@@ -194,7 +194,7 @@
     {
       "slug": "pydata",
       "name": "PyData",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://pydata.org/",
       "availability": "free",
       "blurb": "NumFOCUS-run global series on practical Python ML/LLM tooling — one of the largest practical ML talk archives.",
@@ -209,7 +209,7 @@
     {
       "slug": "the-ai-conference",
       "name": "The AI Conference",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://aiconference.com/",
       "availability": "free",
       "blurb": "Annual SF builder conference with LLM, agentic AI and infra tracks.",
@@ -223,7 +223,7 @@
     {
       "slug": "berkeley-agentic-ai-summit",
       "name": "Berkeley RDI Agentic AI Summit",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://rdi.berkeley.edu/events/agentic-ai-summit",
       "availability": "free",
       "blurb": "UC Berkeley RDI summit where agent research meets production practice; the per-talk playlists, not the whole-day stage streams.",
@@ -238,7 +238,7 @@
     {
       "slug": "dotai",
       "name": "dotAI",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://www.dotai.io/",
       "availability": "free",
       "blurb": "Curated single-track European conference (Paris) of 20-minute talks for engineers building AI.",
@@ -253,7 +253,7 @@
     {
       "slug": "ai-council",
       "name": "AI Council (formerly Data Council)",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://www.aicouncil.com/",
       "availability": "free",
       "blurb": "Builder-first conference on the AI and data stack, renamed from Data Council in 2026; a decade of technical talks on one channel.",
@@ -267,7 +267,7 @@
     {
       "slug": "fully-connected-wandb",
       "name": "Fully Connected (Weights & Biases)",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://fullyconnected.com/",
       "availability": "free",
       "blurb": "Practitioner series (SF/Tokyo/London) on LLM evaluation, agents and MLOps.",
@@ -283,7 +283,7 @@
     {
       "slug": "amld",
       "name": "Applied Machine Learning Days",
-      "category": "AI engineering & agents",
+      "category": "Practitioner AI conferences",
       "site": "https://appliedmldays.org/",
       "availability": "free",
       "blurb": "EPFL Lausanne (Feb); Europe's largest applied-ML event, an applied-research/industry mix.",
@@ -297,7 +297,7 @@
     {
       "slug": "goto",
       "name": "GOTO Conferences",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://gotopia.tech/",
       "availability": "free",
       "blurb": "Multi-city software engineering series with growing AI/LLM content, released ~daily over the year after each event.",
@@ -311,7 +311,7 @@
     {
       "slug": "ndc",
       "name": "NDC Conferences",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://ndcconferences.com/",
       "availability": "free",
       "blurb": "Year-round dev conference series (Oslo, London, Copenhagen, Sydney…); heavy practical AI/LLM/Copilot content.",
@@ -325,7 +325,7 @@
     {
       "slug": "devoxx",
       "name": "Devoxx",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://devoxx.com/",
       "availability": "free",
       "blurb": "Community-run dev conference family; Belgium publishes all ~200 talks during conference week.",
@@ -339,7 +339,7 @@
     {
       "slug": "kubecon",
       "name": "KubeCon + CloudNativeCon",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://www.cncf.io/kubecon-cloudnativecon-events/",
       "availability": "free",
       "blurb": "Production AI infra — GPU scheduling, inference and agentic workloads on Kubernetes.",
@@ -354,7 +354,7 @@
     {
       "slug": "lf-ai-dev",
       "name": "AI_dev / Open Source Summit (Linux Foundation)",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://events.linuxfoundation.org/ai-dev-europe/",
       "availability": "free",
       "blurb": "The Linux Foundation's open-source GenAI & ML summit, folded into Open Source Summit for 2026: the AI_dev editions contribute whole, the Open Source Summit listings only their AI sessions.",
@@ -372,7 +372,7 @@
     {
       "slug": "github-universe",
       "name": "GitHub Universe",
-      "category": "Software dev with AI tracks",
+      "category": "General software conferences",
       "site": "https://githubuniverse.com/",
       "availability": "partial",
       "blurb": "The key event for AI-assisted development (Copilot, agentic coding). Keynotes + curated sessions on YouTube.",
@@ -387,7 +387,7 @@
     {
       "slug": "camlis",
       "name": "CAMLIS",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://www.camlis.org/",
       "availability": "free",
       "blurb": "The premier practitioner conference at the ML/infosec intersection — AI red teaming, LLM attacks, ML for detection.",
@@ -402,7 +402,7 @@
     {
       "slug": "defcon-ai-village",
       "name": "DEF CON AI Village",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://aivillage.org/",
       "availability": "free",
       "blurb": "Hands-on AI hacking and red-teaming community at DEF CON.",
@@ -418,7 +418,7 @@
     {
       "slug": "owasp-genai",
       "name": "OWASP GenAI Security Project",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://genai.owasp.org/",
       "availability": "free",
       "blurb": "Community talks and summit recordings on LLM/agentic application security (LLM Top 10, Agentic AI Security).",
@@ -432,7 +432,7 @@
     {
       "slug": "sans-ai-summit",
       "name": "SANS AI Cybersecurity Summit",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://www.sans.org/cyber-security-summit/",
       "availability": "free",
       "blurb": "Annual summit on AI in cyber defence and securing AI systems.",
@@ -447,7 +447,7 @@
     {
       "slug": "black-hat",
       "name": "Black Hat",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://www.blackhat.com/",
       "availability": "partial",
       "blurb": "Flagship industry security conference; AI Summit since 2024 plus many AI/LLM briefings. Briefings reach YouTube ~6-12 months late.",
@@ -461,7 +461,7 @@
     {
       "slug": "owasp-global-appsec",
       "name": "OWASP Global AppSec",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://owasp.org/events/",
       "availability": "free",
       "blurb": "Appsec conference with a growing share of LLM/AI-security talks.",
@@ -476,7 +476,7 @@
     {
       "slug": "bsides-lv",
       "name": "BSides Las Vegas",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://bsideslv.org/",
       "availability": "free",
       "blurb": "Community conference; the Ground Truth track is dedicated to ML/data science in security, plus LLM/MCP/agent content.",
@@ -491,7 +491,7 @@
     {
       "slug": "satml",
       "name": "IEEE SaTML",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://satml.org/",
       "availability": "free",
       "blurb": "Peer-reviewed venue for adversarial ML, privacy and trustworthy ML (academic).",
@@ -506,7 +506,7 @@
     {
       "slug": "usenix-security",
       "name": "USENIX Security Symposium",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://www.usenix.org/conference/usenixsecurity26",
       "availability": "free",
       "blurb": "Top academic security conference with a substantial adversarial-ML and LLM-security track, fully open access.",
@@ -521,7 +521,7 @@
     {
       "slug": "rsac",
       "name": "RSAC Conference",
-      "category": "AI security",
+      "category": "Security conferences",
       "site": "https://www.rsaconference.com/",
       "availability": "partial",
       "blurb": "World's largest security conference with a big AI security track. Keynotes and highlights on YouTube; most breakouts gated.",
@@ -535,7 +535,7 @@
     {
       "slug": "microsoft-build",
       "name": "Microsoft Build",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://build.microsoft.com/",
       "availability": "free",
       "blurb": "Hundreds of Copilot/agents/Azure AI breakout sessions.",
@@ -550,7 +550,7 @@
     {
       "slug": "microsoft-ignite",
       "name": "Microsoft Ignite",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://ignite.microsoft.com/",
       "availability": "free",
       "blurb": "Microsoft’s enterprise event — Copilot, agents, Azure AI and AI-security breakouts, the whole session catalogue on YouTube.",
@@ -565,7 +565,7 @@
     {
       "slug": "aws-reinvent",
       "name": "AWS re:Invent",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://aws.amazon.com/events/reinvent",
       "availability": "free",
       "blurb": "Massive Bedrock/GenAI/agents breakout volume — the best volume of the vendor giants.",
@@ -579,7 +579,7 @@
     {
       "slug": "google-io",
       "name": "Google I/O",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://io.google/",
       "availability": "free",
       "blurb": "Gemini/AI, Android and Web — the complete session catalogue.",
@@ -594,7 +594,7 @@
     {
       "slug": "google-cloud-next",
       "name": "Google Cloud Next",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://cloud.withgoogle.com/next/",
       "availability": "partial",
       "blurb": "Enterprise cloud + AI. Keynotes and ~50 curated sessions on YouTube; the full catalogue is on the site.",
@@ -608,7 +608,7 @@
     {
       "slug": "nvidia-gtc",
       "name": "NVIDIA GTC",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://www.nvidia.com/gtc/",
       "availability": "partial",
       "blurb": "Flagship AI/accelerated-computing conference. Keynote + ~30 curated talks on YouTube; the rest is on NVIDIA On-Demand.",
@@ -623,7 +623,7 @@
     {
       "slug": "databricks-dais",
       "name": "Databricks Data + AI Summit",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://www.databricks.com/dataaisummit",
       "availability": "free",
       "blurb": "Lakehouse and agentic AI platforms; keynotes and many breakouts across two channels.",
@@ -638,7 +638,7 @@
     {
       "slug": "snowflake-summit",
       "name": "Snowflake Summit",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://www.snowflake.com/en/summit/",
       "availability": "partial",
       "blurb": "AI Data Cloud conference. Dev sessions on YouTube; most breakouts behind a registration form.",
@@ -653,7 +653,7 @@
     {
       "slug": "meta-connect",
       "name": "Meta Connect + LlamaCon",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://www.meta.com/connect/",
       "availability": "free",
       "blurb": "Meta's AR/VR/AI developer conference, plus the Llama developer event.",
@@ -668,7 +668,7 @@
     {
       "slug": "apple-wwdc",
       "name": "Apple WWDC",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://developer.apple.com/wwdc",
       "availability": "free",
       "blurb": "Apple Intelligence and on-device ML. developer.apple.com also hosts official written transcripts.",
@@ -682,7 +682,7 @@
     {
       "slug": "dreamforce",
       "name": "Salesforce Dreamforce",
-      "category": "Vendor & platform",
+      "category": "Vendor events",
       "site": "https://www.salesforce.com/dreamforce/",
       "availability": "partial",
       "blurb": "AI/Agentforce-heavy enterprise conference. Keynotes on YouTube; 500+ breakouts on Salesforce+.",
@@ -696,7 +696,7 @@
     {
       "slug": "web-summit",
       "name": "Web Summit",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://websummit.com",
       "availability": "free",
       "blurb": "Massive general-tech conference (Lisbon + Rio/Doha/Vancouver) with heavy AI programming.",
@@ -710,7 +710,7 @@
     {
       "slug": "slush",
       "name": "Slush",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://slush.org",
       "availability": "free",
       "blurb": "Startup/VC conference (Helsinki) with substantial AI content.",
@@ -724,7 +724,7 @@
     {
       "slug": "sxsw",
       "name": "SXSW",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://www.sxsw.com",
       "availability": "partial",
       "blurb": "Austin festival with a dedicated AI track. Keynotes and featured sessions on YouTube; most breakouts are audio-only on the schedule site.",
@@ -738,7 +738,7 @@
     {
       "slug": "tedai-vienna",
       "name": "TEDAI Vienna",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://tedai-vienna.ted.com",
       "availability": "partial",
       "blurb": "TED's annual AI conference. Panels free on YouTube; mainstage talks only selectively on TED.com.",
@@ -752,7 +752,7 @@
     {
       "slug": "cerebral-valley",
       "name": "Cerebral Valley AI Summit",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://www.cerebralvalley.com",
       "availability": "free",
       "blurb": "Invite-only SF summit; on-stage interviews with AI founders and CEOs.",
@@ -766,7 +766,7 @@
     {
       "slug": "sequoia-ai-ascent",
       "name": "Sequoia AI Ascent",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://www.sequoiacap.com/",
       "availability": "free",
       "blurb": "Invite-only founder and researcher summit; short single-track talks from frontier-lab leaders.",
@@ -781,7 +781,7 @@
     {
       "slug": "yc-ai-startup-school",
       "name": "Y Combinator AI Startup School",
-      "category": "Industry & business",
+      "category": "Business & industry events",
       "site": "https://events.ycombinator.com/ai-sus",
       "availability": "free",
       "blurb": "YC's single-track AI school — Karpathy, Ng, Fei-Fei Li, Altman and others, full talks rather than clips.",

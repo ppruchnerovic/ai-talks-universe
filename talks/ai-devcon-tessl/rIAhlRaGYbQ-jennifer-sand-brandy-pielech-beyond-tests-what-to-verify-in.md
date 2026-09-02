@@ -4,7 +4,7 @@ title: "Jennifer Sand & Brandy Pielech Beyond Tests What to Verify in AI Generat
 slug: jennifer-sand-brandy-pielech-beyond-tests-what-to-verify-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Coffee with Developers - Scott Chacon and Sead Ahmetovic on the future o
 slug: coffee-with-developers-scott-chacon-and-sead-ahmetovic-on
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Is DOOM a Tensor? | LIVE165"
 slug: is-doom-a-tensor-live165
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Anthony Shaw", "Burke Holland"]

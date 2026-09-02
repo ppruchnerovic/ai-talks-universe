@@ -4,7 +4,7 @@ title: "Orchestrate omnichannel AI agents with Foundry and Twilio | DEMSP393"
 slug: orchestrate-omnichannel-ai-agents-with-foundry-and-twilio
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rachel Baskin"]

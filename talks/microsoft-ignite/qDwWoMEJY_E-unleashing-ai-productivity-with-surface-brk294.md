@@ -4,7 +4,7 @@ title: "Unleashing AI productivity with Surface | BRK294"
 slug: unleashing-ai-productivity-with-surface-brk294
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jack Cowett", "Chauncey Larsen"]

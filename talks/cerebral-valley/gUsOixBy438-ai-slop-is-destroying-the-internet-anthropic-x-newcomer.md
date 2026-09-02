@@ -4,7 +4,7 @@ title: "AI Slop Is Destroying The Internet | Anthropic x Newcomer"
 slug: ai-slop-is-destroying-the-internet-anthropic-x-newcomer
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2025
 speakers: []

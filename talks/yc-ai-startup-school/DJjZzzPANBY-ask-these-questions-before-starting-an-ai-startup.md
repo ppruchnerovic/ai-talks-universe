@@ -4,7 +4,7 @@ title: "Ask These Questions Before Starting An AI Startup"
 slug: ask-these-questions-before-starting-an-ai-startup
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: []

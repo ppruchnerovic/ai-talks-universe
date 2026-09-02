@@ -4,7 +4,7 @@ title: "How to Always Get Invited to Big Strategic Conversations"
 slug: how-to-always-get-invited-to-big-strategic-conversations
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Mark Allen"]

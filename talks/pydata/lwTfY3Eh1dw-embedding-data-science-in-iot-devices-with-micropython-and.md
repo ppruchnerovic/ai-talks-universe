@@ -4,7 +4,7 @@ title: "Embedding Data Science in IoT devices with MicroPython and emlearn [PyCo
 slug: embedding-data-science-in-iot-devices-with-micropython-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jon Nordby"]

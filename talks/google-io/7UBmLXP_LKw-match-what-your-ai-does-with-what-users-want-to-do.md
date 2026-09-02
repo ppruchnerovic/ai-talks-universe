@@ -4,7 +4,7 @@ title: "Match what your AI does with what users want to do"
 slug: match-what-your-ai-does-with-what-users-want-to-do
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Jani Cortesini"]

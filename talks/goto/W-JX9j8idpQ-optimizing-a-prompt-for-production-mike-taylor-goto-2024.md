@@ -4,7 +4,7 @@ title: "Optimizing a Prompt for Production • Mike Taylor • GOTO 2024"
 slug: optimizing-a-prompt-for-production-mike-taylor-goto-2024
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Mike Taylor"]

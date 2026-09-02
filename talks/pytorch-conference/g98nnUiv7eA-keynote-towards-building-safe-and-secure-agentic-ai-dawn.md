@@ -4,7 +4,7 @@ title: "Keynote: Towards Building Safe and Secure Agentic AI - Dawn Song, UC Ber
 slug: keynote-towards-building-safe-and-secure-agentic-ai-dawn
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Dawn Song"]

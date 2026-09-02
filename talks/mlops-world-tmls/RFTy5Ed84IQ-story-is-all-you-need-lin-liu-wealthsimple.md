@@ -4,7 +4,7 @@ title: "Story Is All You Need | Lin Liu, Wealthsimple"
 slug: story-is-all-you-need-lin-liu-wealthsimple
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Lin Liu"]

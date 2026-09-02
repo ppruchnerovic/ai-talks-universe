@@ -4,7 +4,7 @@ title: "Deterministic Infra for Non-Deterministic AI Agents - Nishant Gupta, Met
 slug: deterministic-infra-for-non-deterministic-ai-agents-nishant
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nishant Gupta"]

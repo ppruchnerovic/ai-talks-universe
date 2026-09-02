@@ -4,7 +4,7 @@ title: "Oracles and Worker Bees: The future of AI models"
 slug: oracles-and-worker-bees-the-future-of-ai-models
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

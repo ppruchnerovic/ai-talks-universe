@@ -4,7 +4,7 @@ title: "Power AI apps with insights from SQL database in Fabric | BRK196"
 slug: power-ai-apps-with-insights-from-sql-database-in-fabric
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

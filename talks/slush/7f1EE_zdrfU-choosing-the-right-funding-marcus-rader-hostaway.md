@@ -4,7 +4,7 @@ title: "Choosing The Right Funding | Marcus Räder (Hostaway)"
 slug: choosing-the-right-funding-marcus-rader-hostaway
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Marcus Räder"]

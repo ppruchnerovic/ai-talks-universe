@@ -4,7 +4,7 @@ title: "Any agent, any cloud: Standardized tracing with Foundry+OpenTelemetry | 
 slug: any-agent-any-cloud-standardized-tracing-with-foundry
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Hanchi Wang", "Nagkumar Arkalgud"]

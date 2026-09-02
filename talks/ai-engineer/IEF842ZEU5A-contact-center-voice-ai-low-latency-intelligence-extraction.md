@@ -4,7 +4,7 @@ title: "Contact Center Voice AI: Low-Latency Intelligence Extraction from Messy 
 slug: contact-center-voice-ai-low-latency-intelligence-extraction
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dippu Singh"]

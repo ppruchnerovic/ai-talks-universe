@@ -4,7 +4,7 @@ title: "You Can't Prompt the Room: The Last Skill AI Won't Replace - Balázs Hor
 slug: you-can-t-prompt-the-room-the-last-skill-ai-won-t-replace
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Balázs Horváth"]

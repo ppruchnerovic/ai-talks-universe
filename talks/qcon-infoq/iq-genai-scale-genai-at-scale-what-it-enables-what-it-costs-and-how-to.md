@@ -4,7 +4,7 @@ title: "GenAI at Scale: What it Enables, What it Costs, and How to Reduce the Pa
 slug: genai-at-scale-what-it-enables-what-it-costs-and-how-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Mark Kurtz"]

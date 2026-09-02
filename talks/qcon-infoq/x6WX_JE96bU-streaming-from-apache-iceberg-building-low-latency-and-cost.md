@@ -4,7 +4,7 @@ title: "Streaming from Apache Iceberg - Building Low-Latency and Cost-Effective 
 slug: streaming-from-apache-iceberg-building-low-latency-and-cost
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []

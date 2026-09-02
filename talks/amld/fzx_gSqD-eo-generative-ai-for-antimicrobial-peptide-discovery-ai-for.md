@@ -4,7 +4,7 @@ title: "Generative AI for antimicrobial peptide discovery | AI for Drug Discover
 slug: generative-ai-for-antimicrobial-peptide-discovery-ai-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ewa Szczurek"]

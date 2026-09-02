@@ -4,7 +4,7 @@ title: "Simpler smarter and more secure endpoint management with Intune | BRK319
 slug: simpler-smarter-and-more-secure-endpoint-management-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Eugenie Burrage", "Jason Roszak"]

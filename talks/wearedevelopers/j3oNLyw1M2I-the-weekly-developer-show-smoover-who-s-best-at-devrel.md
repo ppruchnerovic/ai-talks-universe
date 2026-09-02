@@ -4,7 +4,7 @@ title: "The weekly developer show: Smoover - Who's Best at DevRel?"
 slug: the-weekly-developer-show-smoover-who-s-best-at-devrel
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

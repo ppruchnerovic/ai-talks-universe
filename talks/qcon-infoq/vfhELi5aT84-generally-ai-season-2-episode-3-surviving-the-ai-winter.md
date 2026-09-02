@@ -4,7 +4,7 @@ title: "Generally AI - Season 2 - Episode 3: Surviving the AI Winter"
 slug: generally-ai-season-2-episode-3-surviving-the-ai-winter
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

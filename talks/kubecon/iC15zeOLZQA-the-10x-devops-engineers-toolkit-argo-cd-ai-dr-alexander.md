@@ -4,7 +4,7 @@ title: "The 10x DevOps Engineer’s Toolkit: Argo CD + AI-Dr... Alexander Matyus
 slug: the-10x-devops-engineers-toolkit-argo-cd-ai-dr-alexander
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

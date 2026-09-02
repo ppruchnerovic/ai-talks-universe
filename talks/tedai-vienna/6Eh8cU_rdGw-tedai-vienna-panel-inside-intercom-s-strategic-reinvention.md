@@ -4,7 +4,7 @@ title: "TEDAI Vienna Panel - Inside Intercom's Strategic Reinvention as an AI-Fi
 slug: tedai-vienna-panel-inside-intercom-s-strategic-reinvention
 conference: tedai-vienna
 conference_name: "TEDAI Vienna"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "TEDAI Vienna 2025"
 year: 2025
 speakers: []

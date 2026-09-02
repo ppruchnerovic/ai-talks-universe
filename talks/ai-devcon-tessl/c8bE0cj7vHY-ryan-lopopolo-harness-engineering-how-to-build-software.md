@@ -4,7 +4,7 @@ title: "Ryan Lopopolo - Harness Engineering: How to Build Software When Humans S
 slug: ryan-lopopolo-harness-engineering-how-to-build-software
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Ryan Lopopolo"]

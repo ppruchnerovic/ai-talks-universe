@@ -4,7 +4,7 @@ title: "The Things I Wish I Knew: What I've Gotten Right & Wrong from Startups t
 slug: the-things-i-wish-i-knew-what-i-ve-gotten-right-wrong-from
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

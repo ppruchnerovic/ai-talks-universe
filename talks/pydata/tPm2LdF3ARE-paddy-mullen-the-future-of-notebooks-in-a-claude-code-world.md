@@ -4,7 +4,7 @@ title: "Paddy Mullen - The Future of Notebooks in a Claude Code World | Pydata L
 slug: paddy-mullen-the-future-of-notebooks-in-a-claude-code-world
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Paddy Mullen"]

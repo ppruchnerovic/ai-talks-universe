@@ -4,7 +4,7 @@ title: "Mitigating Geopolitical Risks with Local-First Software and atproto"
 slug: mitigating-geopolitical-risks-with-local-first-software-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Martin Kleppmann"]

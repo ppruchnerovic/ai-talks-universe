@@ -4,7 +4,7 @@ title: "Intelligent Kotlin by Venkat Subramaniam, Josh Long, James Ward"
 slug: intelligent-kotlin-by-venkat-subramaniam-josh-long-james
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Venkat Subramaniam", "Josh Long", "James Ward"]

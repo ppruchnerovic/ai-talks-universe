@@ -4,7 +4,7 @@ title: "Secure foundations for smarter work with Lenovo and Microsoft | BRKSP463
 slug: secure-foundations-for-smarter-work-with-lenovo-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tiago Da Costa", "Gerald Longoria"]

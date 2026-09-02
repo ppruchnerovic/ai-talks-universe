@@ -4,7 +4,7 @@ title: "Eval Agents: How to Solve Error Cascades in Agents"
 slug: eval-agents-how-to-solve-error-cascades-in-agents
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Dhruv Singh"]

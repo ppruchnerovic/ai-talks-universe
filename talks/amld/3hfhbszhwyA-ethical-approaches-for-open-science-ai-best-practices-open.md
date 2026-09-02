@@ -4,7 +4,7 @@ title: "Ethical Approaches for Open Science AI: Best Practices | Open-Source AI 
 slug: ethical-approaches-for-open-science-ai-best-practices-open
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Giada Pistilli"]

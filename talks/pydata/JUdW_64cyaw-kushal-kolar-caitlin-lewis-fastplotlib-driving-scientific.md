@@ -4,7 +4,7 @@ title: "Kushal Kolar+Caitlin Lewis - fastplotlib: driving scientific discovery t
 slug: kushal-kolar-caitlin-lewis-fastplotlib-driving-scientific
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Kushal Kolar", "Caitlin Lewis"]

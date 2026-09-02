@@ -4,7 +4,7 @@ title: "Forget the Cloud: Building Lean Batch Pipelines from TCP Streams with Py
 slug: forget-the-cloud-building-lean-batch-pipelines-from-tcp
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Orell Garten"]

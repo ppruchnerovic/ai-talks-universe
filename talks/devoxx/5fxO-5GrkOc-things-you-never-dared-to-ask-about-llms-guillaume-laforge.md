@@ -4,7 +4,7 @@ title: "Things you never dared to ask about LLMs - Guillaume Laforge"
 slug: things-you-never-dared-to-ask-about-llms-guillaume-laforge
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Guillaume Laforge"]

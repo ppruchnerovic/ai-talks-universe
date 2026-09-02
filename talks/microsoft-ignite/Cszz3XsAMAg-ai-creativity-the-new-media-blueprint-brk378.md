@@ -4,7 +4,7 @@ title: "AI + Creativity: The New Media Blueprint | BRK378"
 slug: ai-creativity-the-new-media-blueprint-brk378
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Silvia Candiani", "Simon Crownshaw", "Chris Petranto"]

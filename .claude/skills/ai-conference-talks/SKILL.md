@@ -114,10 +114,20 @@ safe inside an OR chain. Run a second, narrower query only when the first
 comes back thin, or misses a vocabulary you can see is missing.
 
 Useful flags: `--conference langchain-interrupt` (repeatable), `--category
-"AI security"`, `--topic evals` (repeatable; `--list-topics` prints the
-fifteen), `--year 2026` (repeatable), `--min-year 2025`, `--transcript`,
-`-n 25`, `--ids`. To compare conferences or years, re-run with different
-`--conference` / `--year` rather than eyeballing one ranked list.
+security` (the conference type: five kinds of venue, `--list-categories`),
+`--topic evals` (repeatable; `--list-topics` prints the fifteen), `--year
+2026` (repeatable), `--min-year 2025`, `--transcript`, `-n 25`, `--ids`. To
+compare conferences or years, re-run with different `--conference` /
+`--year` rather than eyeballing one ranked list.
+
+`--category` is where a talk was given — *Practitioner AI conferences*,
+*General software conferences*, *Security conferences*, *Vendor events*,
+*Business & industry events* — and `--topic` is what it is about. They
+cross: `--category security --topic agents` is what security-conference
+speakers say about agents; `--category vendor --topic security` is what
+vendor keynotes say about security. Only 577 of the 1,314 security-topic
+talks are from security conferences, so neither flag substitutes for the
+other.
 
 `--topic` is a per-talk facet — fifteen subjects such as *Agents &
 orchestration*, *Evals, observability & reliability*, *RAG, retrieval &

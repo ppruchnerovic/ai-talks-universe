@@ -4,7 +4,7 @@ title: "Can Agentic Engineering Really Deliver Enterprise-Grade Code? | Reuven C
 slug: can-agentic-engineering-really-deliver-enterprise-grade
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Reuven Cohen"]

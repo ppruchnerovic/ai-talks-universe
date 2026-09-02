@@ -4,7 +4,7 @@ title: "Claire Vo on Building High-Performing, Customer-Centric Teams in the Age
 slug: claire-vo-on-building-high-performing-customer-centric
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

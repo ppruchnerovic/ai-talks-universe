@@ -4,7 +4,7 @@ title: "Interpretation of Threat Prediction Model for SOC Analysts"
 slug: interpretation-of-threat-prediction-model-for-soc-analysts
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

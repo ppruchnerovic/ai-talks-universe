@@ -4,7 +4,7 @@ title: "How We Built Our First MCP Server: Lessons From the Trenches at Hud - Ma
 slug: how-we-built-our-first-mcp-server-lessons-from-the-trenches
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["May Walter"]

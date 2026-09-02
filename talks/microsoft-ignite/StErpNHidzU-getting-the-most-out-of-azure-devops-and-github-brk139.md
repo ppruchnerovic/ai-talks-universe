@@ -4,7 +4,7 @@ title: "Getting the most out of Azure DevOps and GitHub | BRK139"
 slug: getting-the-most-out-of-azure-devops-and-github-brk139
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dave Burnison", "Aaron Hallberg"]

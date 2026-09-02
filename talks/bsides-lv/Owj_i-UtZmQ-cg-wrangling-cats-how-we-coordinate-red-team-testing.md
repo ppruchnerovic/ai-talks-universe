@@ -4,7 +4,7 @@ title: "CG - Wrangling Cats: How We Coordinate Red Team Testing"
 slug: cg-wrangling-cats-how-we-coordinate-red-team-testing
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

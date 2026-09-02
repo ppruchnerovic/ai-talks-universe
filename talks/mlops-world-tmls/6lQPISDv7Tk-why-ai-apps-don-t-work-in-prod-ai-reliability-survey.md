@@ -4,7 +4,7 @@ title: "Why AI apps don't work in prod: AI Reliability Survey"
 slug: why-ai-apps-don-t-work-in-prod-ai-reliability-survey
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Shreya Rajpal"]

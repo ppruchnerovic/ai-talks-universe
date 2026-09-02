@@ -4,7 +4,7 @@ title: "Letting AI Move: Robotics Demos Powered by Python [PyCon DE & PyData 202
 slug: letting-ai-move-robotics-demos-powered-by-python-pycon-de
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Larissa Haas"]

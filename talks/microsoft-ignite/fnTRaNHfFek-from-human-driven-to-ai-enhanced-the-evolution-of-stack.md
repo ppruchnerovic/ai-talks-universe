@@ -4,7 +4,7 @@ title: "From human-driven to AI-enhanced: The evolution of Stack Overflow | ODSP
 slug: from-human-driven-to-ai-enhanced-the-evolution-of-stack
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Introducing the Agent Store: Build agents and publish them in the Agent 
 slug: introducing-the-agent-store-build-agents-and-publish-them
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

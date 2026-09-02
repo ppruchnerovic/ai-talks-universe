@@ -4,7 +4,7 @@ title: "Partners: Accelerate Secure Migrations and Innovate in the Era of AI | P
 slug: partners-accelerate-secure-migrations-and-innovate-in-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gabriela Perez Arredondo", "Jonathan Stock"]

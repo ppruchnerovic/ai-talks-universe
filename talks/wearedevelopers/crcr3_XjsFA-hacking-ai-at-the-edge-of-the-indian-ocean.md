@@ -4,7 +4,7 @@ title: "Hacking AI at the Edge of the Indian Ocean"
 slug: hacking-ai-at-the-edge-of-the-indian-ocean
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Anastasiia Stefanska", "James Cha-Earley"]

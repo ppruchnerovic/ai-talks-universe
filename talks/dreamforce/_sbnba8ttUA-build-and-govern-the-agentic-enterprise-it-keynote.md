@@ -4,7 +4,7 @@ title: "Build and Govern the Agentic Enterprise | IT Keynote, Dreamforce 2025"
 slug: build-and-govern-the-agentic-enterprise-it-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

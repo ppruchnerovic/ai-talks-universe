@@ -4,7 +4,7 @@ title: "Deep Dive into the Synthetic Data SDK"
 slug: deep-dive-into-the-synthetic-data-sdk
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tobias Hann"]

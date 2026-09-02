@@ -4,7 +4,7 @@ title: "An Executive’s Guide to Becoming a Frontier Firm | BRK1744"
 slug: an-executives-guide-to-becoming-a-frontier-firm-brk1744
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Katy George", "Matthew Duncan"]

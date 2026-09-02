@@ -4,7 +4,7 @@ title: "How Large Language Models Are Reshaping the Cybersecurity Landscape"
 slug: how-large-language-models-are-reshaping-the-cybersecurity
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Elie Bursztein"]

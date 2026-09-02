@@ -4,7 +4,7 @@ title: "Robots Among us: Advances in AI for Everyday Androids"
 slug: robots-among-us-advances-in-ai-for-everyday-androids
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Florian Gather", "Thomas Endres"]

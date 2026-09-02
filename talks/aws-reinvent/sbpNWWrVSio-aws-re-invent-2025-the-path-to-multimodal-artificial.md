@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - The path to Multimodal Artificial General Intellige
 slug: aws-re-invent-2025-the-path-to-multimodal-artificial
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

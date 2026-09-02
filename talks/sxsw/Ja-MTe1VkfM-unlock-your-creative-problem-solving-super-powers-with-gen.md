@@ -4,7 +4,7 @@ title: "Unlock Your Creative Problem Solving Super Powers with Gen AI"
 slug: unlock-your-creative-problem-solving-super-powers-with-gen
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []

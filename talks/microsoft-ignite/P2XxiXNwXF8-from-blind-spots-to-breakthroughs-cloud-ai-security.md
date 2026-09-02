@@ -4,7 +4,7 @@ title: "From blind spots to breakthroughs: Cloud AI security challenges | ODSP14
 slug: from-blind-spots-to-breakthroughs-cloud-ai-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jonathan Kaye Solomon"]

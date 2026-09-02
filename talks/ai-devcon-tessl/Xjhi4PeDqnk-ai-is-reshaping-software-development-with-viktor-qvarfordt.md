@@ -4,7 +4,7 @@ title: "AI is reshaping software development with Viktor Qvarfordt"
 slug: ai-is-reshaping-software-development-with-viktor-qvarfordt
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: []

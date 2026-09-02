@@ -4,7 +4,7 @@ title: "From Row-Wise to Columnar: Speeding Up PySpark UDFs with Arrow and Polar
 slug: from-row-wise-to-columnar-speeding-up-pyspark-udfs-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Aimilios Tsouvelekakis"]

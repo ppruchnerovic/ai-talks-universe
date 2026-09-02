@@ -4,7 +4,7 @@ title: "SaTML 2023 - Reza Nasirigerdeh - Kernel Normalized Convolutional Network
 slug: satml-2023-reza-nasirigerdeh-kernel-normalized
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Reza Nasirigerdeh"]

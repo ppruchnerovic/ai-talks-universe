@@ -4,7 +4,7 @@ title: "Keynote: Data = AI: Leading the Future of Gen AI with Apache Cassandra -
 slug: keynote-data-ai-leading-the-future-of-gen-ai-with-apache
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Chet Kapoor"]

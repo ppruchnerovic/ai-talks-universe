@@ -4,7 +4,7 @@ title: "One Cluster to Rule Them All ML on the Cloud Using Ray on Kubernetes and
 slug: one-cluster-to-rule-them-all-ml-on-the-cloud-using-ray-on
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Victor Yap"]

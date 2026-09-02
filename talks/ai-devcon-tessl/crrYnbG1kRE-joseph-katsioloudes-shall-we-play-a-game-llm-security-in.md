@@ -4,7 +4,7 @@ title: "Joseph Katsioloudes - Shall We Play A Game? LLM Security in Practice | D
 slug: joseph-katsioloudes-shall-we-play-a-game-llm-security-in
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Joseph Katsioloudes"]

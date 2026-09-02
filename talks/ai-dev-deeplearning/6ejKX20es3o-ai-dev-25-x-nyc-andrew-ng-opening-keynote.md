@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Andrew Ng: Opening Keynote"
 slug: ai-dev-25-x-nyc-andrew-ng-opening-keynote
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

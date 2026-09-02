@@ -4,7 +4,7 @@ title: "How Daft Boosts Batch Inference Throughput with Dynamic Partitioning | R
 slug: how-daft-boosts-batch-inference-throughput-with-dynamic
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

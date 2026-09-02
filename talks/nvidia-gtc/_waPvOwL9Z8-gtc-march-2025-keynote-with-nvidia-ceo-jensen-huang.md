@@ -4,7 +4,7 @@ title: "GTC March 2025 Keynote with NVIDIA CEO Jensen Huang"
 slug: gtc-march-2025-keynote-with-nvidia-ceo-jensen-huang
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

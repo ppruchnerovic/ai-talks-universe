@@ -4,7 +4,7 @@ title: "How to talk to statues — Joe Reeve, ElevenLabs"
 slug: how-to-talk-to-statues-joe-reeve-elevenlabs
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joe Reeve"]

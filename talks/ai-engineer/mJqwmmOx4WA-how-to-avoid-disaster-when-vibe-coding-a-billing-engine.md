@@ -4,7 +4,7 @@ title: "How to avoid disaster when vibe-coding a billing engine — Andrew Garvi
 slug: how-to-avoid-disaster-when-vibe-coding-a-billing-engine
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Andrew Garvin"]

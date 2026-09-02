@@ -4,7 +4,7 @@ title: "Scalable End-To-End ML PlatformsFrom Auto ML To Self-Serve, Mia Garrard,
 slug: scalable-end-to-end-ml-platformsfrom-auto-ml-to-self-serve
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

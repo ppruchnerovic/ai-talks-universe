@@ -4,7 +4,7 @@ title: "Unveiling the latest in Azure Networking for a secure connected cloud | 
 slug: unveiling-the-latest-in-azure-networking-for-a-secure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Maltz", "Narayan Annamalai"]

@@ -4,7 +4,7 @@ title: "Production ML across 2015-2035: A Journey to the Past and the Future [Py
 slug: production-ml-across-2015-2035-a-journey-to-the-past-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

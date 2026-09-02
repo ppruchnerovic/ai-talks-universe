@@ -4,7 +4,7 @@ title: "Accelerating personalized GenAI campaigns and content with Typeface | OD
 slug: accelerating-personalized-genai-campaigns-and-content-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dinasha Cellura"]

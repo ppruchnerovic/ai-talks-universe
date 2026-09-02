@@ -4,7 +4,7 @@ title: "GT - Seek out new protocols, and boldly go where no one has gone before"
 slug: gt-seek-out-new-protocols-and-boldly-go-where-no-one-has
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "Hacking Subagents Into Codex CLI — Brian John, Betterup"
 slug: hacking-subagents-into-codex-cli-brian-john-betterup
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Brian John"]

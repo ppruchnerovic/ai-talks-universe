@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Generative and Agentic AI on Amazon EKS (CNS344)"
 slug: aws-re-invent-2025-generative-and-agentic-ai-on-amazon-eks
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

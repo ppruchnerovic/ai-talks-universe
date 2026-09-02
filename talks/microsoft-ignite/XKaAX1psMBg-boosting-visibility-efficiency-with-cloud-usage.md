@@ -4,7 +4,7 @@ title: "Boosting visibility efficiency with cloud usage optimization as code | O
 slug: boosting-visibility-efficiency-with-cloud-usage
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Umair Khan", "Van Wolfe"]

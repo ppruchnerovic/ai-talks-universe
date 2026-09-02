@@ -4,7 +4,7 @@ title: "Piotr Kalota+Matthias Boeck - Bundestag Chat: Discovering Political Land
 slug: piotr-kalota-matthias-boeck-bundestag-chat-discovering
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Piotr Kalota", "Matthias Boeck"]

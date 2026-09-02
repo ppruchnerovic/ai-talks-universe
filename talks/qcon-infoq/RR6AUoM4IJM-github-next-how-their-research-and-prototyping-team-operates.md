@@ -4,7 +4,7 @@ title: "GitHub Next: how their research and prototyping team operates"
 slug: github-next-how-their-research-and-prototyping-team-operates
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

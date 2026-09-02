@@ -4,7 +4,7 @@ title: "KubeRay + vLLM at DatalogyAI: Engineering Trillion-Scale Synthetic Data 
 slug: kuberay-vllm-at-datalogyai-engineering-trillion-scale
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

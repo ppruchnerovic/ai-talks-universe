@@ -4,7 +4,7 @@ title: "OramaCore: A Search Database with LLMs Built In"
 slug: oramacore-a-search-database-with-llms-built-in
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Issac J Roth"]

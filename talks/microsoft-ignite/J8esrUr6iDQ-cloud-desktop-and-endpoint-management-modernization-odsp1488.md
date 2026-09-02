@@ -4,7 +4,7 @@ title: "Cloud desktop and endpoint management modernization | ODSP1488"
 slug: cloud-desktop-and-endpoint-management-modernization-odsp1488
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ashley Battle"]

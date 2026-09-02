@@ -4,7 +4,7 @@ title: "Eric Ma - Building LLM Agents Made Simple a - PyData Boston 2025"
 slug: eric-ma-building-llm-agents-made-simple-a-pydata-boston-2025
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Eric Ma"]

@@ -4,7 +4,7 @@ title: "Fireside Chat with Warren Spector & John Romero"
 slug: fireside-chat-with-warren-spector-john-romero
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

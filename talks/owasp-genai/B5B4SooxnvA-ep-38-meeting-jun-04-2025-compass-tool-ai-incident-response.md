@@ -4,7 +4,7 @@ title: "Ep.38 Meeting Jun 04 2025: Compass Tool, AI Incident Response & Exploit 
 slug: ep-38-meeting-jun-04-2025-compass-tool-ai-incident-response
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

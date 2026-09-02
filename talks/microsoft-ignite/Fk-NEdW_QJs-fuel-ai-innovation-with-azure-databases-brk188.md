@@ -4,7 +4,7 @@ title: "Fuel AI innovation with Azure Databases | BRK188"
 slug: fuel-ai-innovation-with-azure-databases-brk188
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Shireesh Thota", "Arun Ulagaratchagan", "James Codella", "Charles Feddersen", "Aditi Gupta", "Bob Ward"]

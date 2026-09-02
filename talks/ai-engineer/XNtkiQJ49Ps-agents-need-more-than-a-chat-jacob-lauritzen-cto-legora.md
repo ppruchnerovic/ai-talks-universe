@@ -4,7 +4,7 @@ title: "Agents need more than a chat - Jacob Lauritzen, CTO Legora"
 slug: agents-need-more-than-a-chat-jacob-lauritzen-cto-legora
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Jacob Lauritzen"]

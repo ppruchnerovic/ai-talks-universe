@@ -4,7 +4,7 @@ title: "Get a Grip on your Telemetry using the OpenTelemetry Collector - Adam Ga
 slug: get-a-grip-on-your-telemetry-using-the-opentelemetry
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Adam Gardner"]

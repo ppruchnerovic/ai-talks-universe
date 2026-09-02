@@ -4,7 +4,7 @@ title: "Using your repository for RAG: Learnings from GitHub Copilot Chat"
 slug: using-your-repository-for-rag-learnings-from-github-copilot
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []

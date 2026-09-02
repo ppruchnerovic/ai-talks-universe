@@ -4,7 +4,7 @@ title: "Chasing Efficient Java Development: From 1BRC to Developing Hardwood AI 
 slug: chasing-efficient-java-development-from-1brc-to-developing
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

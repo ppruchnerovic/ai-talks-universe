@@ -4,7 +4,7 @@ title: "How Use of Generative AI Affects Both Open Source Developers and their D
 slug: how-use-of-generative-ai-affects-both-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Boost HR and IT Services Delivery with the Employee Self-Service Agent |
 slug: boost-hr-and-it-services-delivery-with-the-employee-self
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

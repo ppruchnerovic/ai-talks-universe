@@ -4,7 +4,7 @@ title: "Leading with Trust: Building & Deploying Agents in a Regulated World | B
 slug: leading-with-trust-building-deploying-agents-in-a-regulated
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sourabh Pandey", "Manny Sahota", "Tony Thampan"]

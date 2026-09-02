@@ -4,7 +4,7 @@ title: "AI at Every Step: Why Are You Still Doing the Dev Cycle by Hand? by Dani
 slug: ai-at-every-step-why-are-you-still-doing-the-dev-cycle-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Daniël Floor"]

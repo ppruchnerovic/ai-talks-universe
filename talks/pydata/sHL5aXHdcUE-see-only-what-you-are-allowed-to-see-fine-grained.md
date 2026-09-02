@@ -4,7 +4,7 @@ title: "See only what you are allowed to see: Fine-Grained Authorization"
 slug: see-only-what-you-are-allowed-to-see-fine-grained
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Maria Knorps"]

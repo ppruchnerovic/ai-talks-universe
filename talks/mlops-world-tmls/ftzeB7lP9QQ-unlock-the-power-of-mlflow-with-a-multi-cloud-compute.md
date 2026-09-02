@@ -4,7 +4,7 @@ title: "Unlock the power of MLFlow with a multi-cloud compute infrastructure"
 slug: unlock-the-power-of-mlflow-with-a-multi-cloud-compute
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

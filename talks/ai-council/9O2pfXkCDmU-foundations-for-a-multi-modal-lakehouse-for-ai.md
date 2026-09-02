@@ -4,7 +4,7 @@ title: "Foundations for a Multi-Modal Lakehouse for AI"
 slug: foundations-for-a-multi-modal-lakehouse-for-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Chang She"]

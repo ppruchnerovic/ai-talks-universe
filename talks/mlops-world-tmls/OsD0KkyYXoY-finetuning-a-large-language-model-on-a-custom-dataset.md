@@ -4,7 +4,7 @@ title: "Finetuning a Large Language Model on a Custom Dataset"
 slug: finetuning-a-large-language-model-on-a-custom-dataset
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Aniket Maurya"]

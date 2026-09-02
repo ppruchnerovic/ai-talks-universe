@@ -4,7 +4,7 @@ title: "Unlock the power of declarative agent development for Microsoft 365 Copi
 slug: unlock-the-power-of-declarative-agent-development-for
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

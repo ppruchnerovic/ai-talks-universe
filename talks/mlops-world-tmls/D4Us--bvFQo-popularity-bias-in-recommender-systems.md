@@ -4,7 +4,7 @@ title: "Popularity Bias In Recommender Systems"
 slug: popularity-bias-in-recommender-systems
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

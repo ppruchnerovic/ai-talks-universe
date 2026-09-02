@@ -4,7 +4,7 @@ title: "Designing Voice Agents for Real Conversations - Chintan Agrawal & Daniel
 slug: designing-voice-agents-for-real-conversations-chintan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chintan Agrawal"]

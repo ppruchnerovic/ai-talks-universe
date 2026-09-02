@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Designing with Agents: A Playbook for Enterprise En
 slug: aws-re-invent-2025-designing-with-agents-a-playbook-for
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

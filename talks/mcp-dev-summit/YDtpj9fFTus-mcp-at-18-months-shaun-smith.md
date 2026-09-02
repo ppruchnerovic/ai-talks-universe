@@ -4,7 +4,7 @@ title: "MCP at 18 Months Shaun Smith"
 slug: mcp-at-18-months-shaun-smith
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Key Management 101: DEKs, KEKs, and Credentials Living Together, Oh My!"
 slug: key-management-101-deks-keks-and-credentials-living
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Karen Reinhardt", "Cryptographic Services"]

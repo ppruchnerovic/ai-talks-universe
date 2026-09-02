@@ -4,7 +4,7 @@ title: "How To Improve the Quality of the Gen AI-Generated Code And Your Team’
 slug: how-to-improve-the-quality-of-the-gen-ai-generated-code-and
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Silo Busting for Nonprofits: Unifying people processes and technology | 
 slug: silo-busting-for-nonprofits-unifying-people-processes-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bob Benoit", "Colin Corbin"]

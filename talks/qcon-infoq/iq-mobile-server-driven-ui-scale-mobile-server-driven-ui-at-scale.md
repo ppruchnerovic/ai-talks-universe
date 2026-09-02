@@ -4,7 +4,7 @@ title: "Mobile Server-Driven UI at Scale"
 slug: mobile-server-driven-ui-at-scale
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Rafael Ring"]

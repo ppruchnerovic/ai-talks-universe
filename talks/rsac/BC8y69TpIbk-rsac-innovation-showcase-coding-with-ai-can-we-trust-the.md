@@ -4,7 +4,7 @@ title: "RSAC Innovation Showcase: Coding with AI: Can We Trust the Code We Ship?
 slug: rsac-innovation-showcase-coding-with-ai-can-we-trust-the
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []

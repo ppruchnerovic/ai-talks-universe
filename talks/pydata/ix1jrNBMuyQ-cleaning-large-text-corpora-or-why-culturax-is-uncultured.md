@@ -4,7 +4,7 @@ title: "Cleaning Large Text Corpora, or Why CulturaX Is Uncultured"
 slug: cleaning-large-text-corpora-or-why-culturax-is-uncultured
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

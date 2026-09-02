@@ -4,7 +4,7 @@ title: "Sponsored Session: PyTorch Distributed and Fault Tolerance - Tristan Ric
 slug: sponsored-session-pytorch-distributed-and-fault-tolerance
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Tristan Rice"]

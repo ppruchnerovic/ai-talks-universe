@@ -4,7 +4,7 @@ title: "Building a More Appealing CLI for Agentic LLMs Based on Learnings from t
 slug: building-a-more-appealing-cli-for-agentic-llms-based-on
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

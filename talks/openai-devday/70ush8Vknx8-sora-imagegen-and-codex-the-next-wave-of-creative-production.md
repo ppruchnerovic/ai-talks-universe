@@ -4,7 +4,7 @@ title: "Sora, ImageGen, and Codex: The Next Wave of Creative Production"
 slug: sora-imagegen-and-codex-the-next-wave-of-creative-production
 conference: openai-devday
 conference_name: "OpenAI DevDay"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DevDay 2025"
 year: 2025
 speakers: []

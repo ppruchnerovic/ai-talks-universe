@@ -4,7 +4,7 @@ title: "Building Conversational Agents — Thor Schaeff and Philipp Schmid, Goog
 slug: building-conversational-agents-thor-schaeff-and-philipp
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thor Schaeff", "Philipp Schmid"]

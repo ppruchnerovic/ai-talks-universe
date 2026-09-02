@@ -4,7 +4,7 @@ title: "Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De M
 slug: agents-in-production-how-opengov-built-and-scaled-og-assist
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gabe De Mesa"]

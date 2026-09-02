@@ -4,7 +4,7 @@ title: "Round table of AI and public health experts working in this interface | 
 slug: round-table-of-ai-and-public-health-experts-working-in-this
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

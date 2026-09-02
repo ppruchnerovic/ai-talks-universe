@@ -4,7 +4,7 @@ title: "Measure AI adoption and value with Copilot Dashboard | OD805"
 slug: measure-ai-adoption-and-value-with-copilot-dashboard-od805
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Florine Segers", "Abel Tadesse"]

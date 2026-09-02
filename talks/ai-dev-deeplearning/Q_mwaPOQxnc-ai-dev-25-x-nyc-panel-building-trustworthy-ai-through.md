@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Panel: Building Trustworthy AI through Governance, Lit
 slug: ai-dev-25-x-nyc-panel-building-trustworthy-ai-through
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

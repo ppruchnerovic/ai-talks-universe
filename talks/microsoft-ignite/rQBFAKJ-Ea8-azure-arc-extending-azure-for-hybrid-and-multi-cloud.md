@@ -4,7 +4,7 @@ title: "Azure Arc: Extending Azure for hybrid and multi-cloud management | BRK18
 slug: azure-arc-extending-azure-for-hybrid-and-multi-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brendan Burns", "Steven Bucher"]

@@ -4,7 +4,7 @@ title: "Applying ML in heterogenous and sparse datasets | Rare Disease Applicati
 slug: applying-ml-in-heterogenous-and-sparse-datasets-rare
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Adrian Egli"]

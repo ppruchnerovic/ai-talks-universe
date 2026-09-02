@@ -4,7 +4,7 @@ title: "Get ready for End of Support (EOS) and the future of AI at work with Win
 slug: get-ready-for-end-of-support-eos-and-the-future-of-ai-at
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Aria Hanson", "Kurt Stevenson"]

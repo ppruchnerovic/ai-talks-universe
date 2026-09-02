@@ -4,7 +4,7 @@ title: "AI agent architectures, pitfalls and real-world business impact | BRK114
 slug: ai-agent-architectures-pitfalls-and-real-world-business
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mark Austin", "Luis Héctor Chávez", "Adam Orentlicher", "Naga Surendran"]

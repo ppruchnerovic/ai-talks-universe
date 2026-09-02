@@ -4,7 +4,7 @@ title: "The Future of Open Source AI & The Generative AI Commons - Matt White, G
 slug: the-future-of-open-source-ai-the-generative-ai-commons-matt
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Matt White"]

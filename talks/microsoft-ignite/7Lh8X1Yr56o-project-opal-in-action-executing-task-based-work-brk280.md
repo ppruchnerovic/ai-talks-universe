@@ -4,7 +4,7 @@ title: "Project Opal in Action: Executing Task-Based Work | BRK280"
 slug: project-opal-in-action-executing-task-based-work-brk280
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rachel Sirkin", "Amber Waisanen"]

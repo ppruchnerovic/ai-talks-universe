@@ -4,7 +4,7 @@ title: "Creating New Realities with Runway | Cristóbal Valenzuela (Runway)"
 slug: creating-new-realities-with-runway-cristobal-valenzuela
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Cristóbal Valenzuela"]

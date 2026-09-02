@@ -4,7 +4,7 @@ title: "How to Build AI-Powered Web Apps & Get Funded by Google"
 slug: how-to-build-ai-powered-web-apps-get-funded-by-google
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

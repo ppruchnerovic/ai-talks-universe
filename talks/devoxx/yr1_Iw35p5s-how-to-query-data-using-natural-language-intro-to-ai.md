@@ -4,7 +4,7 @@ title: "How to query data using natural language - intro to AI features in Oracl
 slug: how-to-query-data-using-natural-language-intro-to-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Andrzej Nowicki"]

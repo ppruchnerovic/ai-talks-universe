@@ -4,7 +4,7 @@ title: "Episode 20: Meeting August 28 2024 Defining AI Incidents, Deep Fake Guid
 slug: episode-20-meeting-august-28-2024-defining-ai-incidents
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

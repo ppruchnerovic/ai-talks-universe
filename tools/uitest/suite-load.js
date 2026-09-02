@@ -40,7 +40,7 @@ L.suite('load', async browser => {
   L.check('conference options match the data, ordered by display name',
     JSON.stringify(opts.conf.slice(1)) === JSON.stringify(confSlugs),
     `${opts.conf.length - 1} options vs ${confSlugs.length} conferences`);
-  L.check('category options match the data',
+  L.check('conference-type options match the data',
     JSON.stringify(opts.cat.slice(1)) ===
       JSON.stringify([...new Set(meta.talks.map(t => t.g).filter(Boolean))].sort()),
     `${opts.cat.length - 1} options`);

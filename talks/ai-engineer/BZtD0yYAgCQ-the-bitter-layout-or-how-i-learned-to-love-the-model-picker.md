@@ -4,7 +4,7 @@ title: "The Bitter Layout or: How I Learned to Love the Model Picker — Maximil
 slug: the-bitter-layout-or-how-i-learned-to-love-the-model-picker
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Maximillian Piras"]

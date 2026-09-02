@@ -4,7 +4,7 @@ title: "Bridging Worlds with Words: Innovations at the Lee Language Lab"
 slug: bridging-worlds-with-words-innovations-at-the-lee-language
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Annie Lee"]

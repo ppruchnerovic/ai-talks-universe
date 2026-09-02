@@ -4,7 +4,7 @@ title: "Powering the next AI frontier with a unified data platform | OD811"
 slug: powering-the-next-ai-frontier-with-a-unified-data-platform
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Amir Netz", "Eren Orbey"]

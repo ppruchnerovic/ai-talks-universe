@@ -4,7 +4,7 @@ title: "Power agents to scale your frontier workforce with Agent 365 | BRK298"
 slug: power-agents-to-scale-your-frontier-workforce-with-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ray Smith", "Caroline Stanford"]

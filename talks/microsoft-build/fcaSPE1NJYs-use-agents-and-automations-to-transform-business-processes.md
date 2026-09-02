@@ -4,7 +4,7 @@ title: "Use agents and automations to transform business processes with Copilot 
 slug: use-agents-and-automations-to-transform-business-processes
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

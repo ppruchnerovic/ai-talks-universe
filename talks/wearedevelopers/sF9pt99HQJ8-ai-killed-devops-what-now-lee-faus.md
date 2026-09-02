@@ -4,7 +4,7 @@ title: "AI Killed DevOps... What Now? - Lee Faus"
 slug: ai-killed-devops-what-now-lee-faus
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Lee Faus"]

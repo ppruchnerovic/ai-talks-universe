@@ -4,7 +4,7 @@ title: "Daniele Raimondi, Feichi Lu - Building a Scientific Taxonomy at Scale | 
 slug: daniele-raimondi-feichi-lu-building-a-scientific-taxonomy
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Daniele Raimondi"]

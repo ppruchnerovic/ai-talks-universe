@@ -4,7 +4,7 @@ title: "Lightning Talk: Bridging Geek–Wonk Divide in AI Risk"
 slug: lightning-talk-bridging-geekwonk-divide-in-ai-risk
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

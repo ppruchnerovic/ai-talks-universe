@@ -4,7 +4,7 @@ title: "MCP Vs CLIs: Why Agents Need Purpose-Built Interfaces - Sam Morrow, GitH
 slug: mcp-vs-clis-why-agents-need-purpose-built-interfaces-sam
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Sam Morrow"]

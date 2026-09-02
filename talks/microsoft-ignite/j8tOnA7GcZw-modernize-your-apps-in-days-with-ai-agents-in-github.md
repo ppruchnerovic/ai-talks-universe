@@ -4,7 +4,7 @@ title: "Modernize your apps in days with AI agents in GitHub Copilot | BRK103"
 slug: modernize-your-apps-in-days-with-ai-agents-in-github
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Hunter", "Timothy Ng", "Kalpesh Sharma"]

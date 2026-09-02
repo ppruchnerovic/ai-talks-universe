@@ -4,7 +4,7 @@ title: "AI Agents & Platform Engineering: Efficiency Boost... Hasith K, Vincent 
 slug: ai-agents-platform-engineering-efficiency-boost-hasith-k
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

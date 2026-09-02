@@ -4,7 +4,7 @@ title: "Three Shades of Isolation: A Multi-tenancy Fortress - Braulio Dumba & Pa
 slug: three-shades-of-isolation-a-multi-tenancy-fortress-braulio
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Braulio Dumba", "Paolo Dettori"]

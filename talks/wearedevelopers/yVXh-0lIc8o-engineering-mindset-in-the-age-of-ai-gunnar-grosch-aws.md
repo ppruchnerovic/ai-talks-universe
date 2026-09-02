@@ -4,7 +4,7 @@ title: "Engineering Mindset in the Age of AI - Gunnar Grosch, AWS"
 slug: engineering-mindset-in-the-age-of-ai-gunnar-grosch-aws
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Gunnar Grosch"]

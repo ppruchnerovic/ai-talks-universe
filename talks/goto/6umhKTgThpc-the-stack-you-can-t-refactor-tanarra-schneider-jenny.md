@@ -4,7 +4,7 @@ title: "The Stack You Can't Refactor • Tanarra Schneider & Jenny Richards • 
 slug: the-stack-you-can-t-refactor-tanarra-schneider-jenny
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Tanarra Schneider", "Jenny Richards"]

@@ -388,10 +388,12 @@ def meta_stems(t: dict) -> set[str]:
     This is the browser's document frequency for the metadata layer, computed
     here because the browser no longer holds the full description: it sees a
     display clip, and the description's terms reach it through the shards.
-    The fields are the ones index.html scores, tokenised the same way.
+    The fields are the ones index.html scores, tokenised the same way. The
+    conference type (`category`) is not among them: it is a filter in both
+    rankers, never a scored field, so it must not count here either.
     """
     parts = (t["title"], " ".join(t["tags"]), " ".join(t["speakers"]),
-             f'{t["conference_name"]} {t["edition"] or ""}', t["category"] or "",
+             f'{t["conference_name"]} {t["edition"] or ""}',
              t["description"])
     return set(atu.stems(" ".join(p for p in parts if p)))
 

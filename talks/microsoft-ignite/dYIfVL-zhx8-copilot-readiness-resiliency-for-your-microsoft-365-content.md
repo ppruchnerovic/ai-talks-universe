@@ -4,7 +4,7 @@ title: "Copilot readiness & resiliency for your Microsoft 365 content | BRK300"
 slug: copilot-readiness-resiliency-for-your-microsoft-365-content
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Reetu Kamath", "Sesha Mani", "David Minasyan"]

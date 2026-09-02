@@ -4,7 +4,7 @@ title: "Evolution and starter kits for accelerated innovation with generative AI
 slug: evolution-and-starter-kits-for-accelerated-innovation-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Varsha Jain"]

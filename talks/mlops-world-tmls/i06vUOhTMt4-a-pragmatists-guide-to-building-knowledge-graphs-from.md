@@ -4,7 +4,7 @@ title: "A Pragmatist’s Guide to Building Knowledge Graphs from Unstructured Da
 slug: a-pragmatists-guide-to-building-knowledge-graphs-from
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Alessandro Pireno", "Stealth Company"]

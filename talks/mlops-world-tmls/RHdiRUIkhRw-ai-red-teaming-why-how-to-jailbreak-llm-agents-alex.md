@@ -4,7 +4,7 @@ title: "AI Red Teaming — Why & How to Jailbreak LLM Agents | Alex Combessie, G
 slug: ai-red-teaming-why-how-to-jailbreak-llm-agents-alex
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Alex Combessie"]

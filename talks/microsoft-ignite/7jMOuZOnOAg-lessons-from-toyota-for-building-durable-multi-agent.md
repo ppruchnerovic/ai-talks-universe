@@ -4,7 +4,7 @@ title: "Lessons from Toyota for building durable multi-agent copilots | BRK117"
 slug: lessons-from-toyota-for-building-durable-multi-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Brown", "Marco Casalaina", "Kosuke Miyasaka", "Kenji Onishi"]

@@ -4,7 +4,7 @@ title: "Real Stories of AI Transformation in Local Government | BRK369"
 slug: real-stories-of-ai-transformation-in-local-government-brk369
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brett Howard", "Michael Makstman", "Angel Smith"]

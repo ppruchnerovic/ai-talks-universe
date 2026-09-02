@@ -4,7 +4,7 @@ title: "Vibe design to build incredible web UI"
 slug: vibe-design-to-build-incredible-web-ui
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Dion Almaer", "David East"]

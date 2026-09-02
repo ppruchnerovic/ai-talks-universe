@@ -4,7 +4,7 @@ title: "Keynote: After the AI Hype – What’s Real, and What’s Next - Richar
 slug: keynote-after-the-ai-hype-whats-real-and-whats-next-richard
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["What’s Real", "Richard Campbell"]

@@ -4,7 +4,7 @@ title: "Strategies for Efficient Log Management in Large-Scale Kubernetes Cluste
 slug: strategies-for-efficient-log-management-in-large-scale
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Aliaksandr Valialkin"]

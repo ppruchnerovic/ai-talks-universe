@@ -4,7 +4,7 @@ title: "SaTML 2024 - Deborah Raji - Keynote - Audits and Accountability in the A
 slug: satml-2024-deborah-raji-keynote-audits-and-accountability
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Deborah Raji"]

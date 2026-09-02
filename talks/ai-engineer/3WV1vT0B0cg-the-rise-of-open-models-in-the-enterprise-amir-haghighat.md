@@ -4,7 +4,7 @@ title: "The Rise of Open Models in the Enterprise — Amir Haghighat, Baseten"
 slug: the-rise-of-open-models-in-the-enterprise-amir-haghighat
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Amir Haghighat"]

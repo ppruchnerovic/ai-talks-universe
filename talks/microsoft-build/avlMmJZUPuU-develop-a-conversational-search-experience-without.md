@@ -4,7 +4,7 @@ title: "Develop a conversational search experience without rebuilding your app |
 slug: develop-a-conversational-search-experience-without
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Greg Crist"]

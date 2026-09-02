@@ -4,7 +4,7 @@ title: "From observability to ROI for AI agents on any framework | BRK252"
 slug: from-observability-to-roi-for-ai-agents-on-any-framework
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sebastian Kohlmeier", "Filisha Shah", "Vivek Bhadauria"]

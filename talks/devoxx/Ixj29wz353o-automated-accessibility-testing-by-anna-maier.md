@@ -4,7 +4,7 @@ title: "Automated Accessibility Testing by Anna Maier"
 slug: automated-accessibility-testing-by-anna-maier
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Anna Maier"]

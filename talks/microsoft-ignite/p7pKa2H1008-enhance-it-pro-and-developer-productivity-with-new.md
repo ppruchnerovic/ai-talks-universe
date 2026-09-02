@@ -4,7 +4,7 @@ title: "Enhance IT Pro and Developer productivity with new improvements to advan
 slug: enhance-it-pro-and-developer-productivity-with-new
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kayla Cinnamon", "Craig Loewen"]

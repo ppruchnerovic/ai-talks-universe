@@ -4,7 +4,7 @@ title: "Best practices for building agentic apps with Azure AI Foundry | BRK152"
 slug: best-practices-for-building-agentic-apps-with-azure-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Build agentic apps in minutes with Rayfin and Microsoft Fabric | DEM313"
 slug: build-agentic-apps-in-minutes-with-rayfin-and-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sunitha Muthukrishna", "Chris Anderson"]

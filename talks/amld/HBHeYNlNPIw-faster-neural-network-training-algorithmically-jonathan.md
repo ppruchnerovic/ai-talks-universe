@@ -4,7 +4,7 @@ title: "Faster Neural Network Training, Algorithmically | Jonathan Frankle"
 slug: faster-neural-network-training-algorithmically-jonathan
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Jonathan Frankle"]

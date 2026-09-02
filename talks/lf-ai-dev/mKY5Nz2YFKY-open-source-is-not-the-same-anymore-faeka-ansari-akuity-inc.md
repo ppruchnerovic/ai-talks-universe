@@ -4,7 +4,7 @@ title: "Open Source Is Not the Same Anymore - Faeka Ansari, Akuity Inc. & Nasi C
 slug: open-source-is-not-the-same-anymore-faeka-ansari-akuity-inc
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Faeka Ansari"]

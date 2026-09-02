@@ -4,7 +4,7 @@ title: "Lily Xu-Traditional AI + LLMs to Automate Complex and Critical Docs in H
 slug: lily-xu-traditional-ai-llms-to-automate-complex-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

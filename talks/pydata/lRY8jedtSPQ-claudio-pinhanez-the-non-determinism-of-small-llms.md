@@ -4,7 +4,7 @@ title: "Claudio Pinhanez - The Non-Determinism of Small LLMs"
 slug: claudio-pinhanez-the-non-determinism-of-small-llms
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Claudio Pinhanez"]

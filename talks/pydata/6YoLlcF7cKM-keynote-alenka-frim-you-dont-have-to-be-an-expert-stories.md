@@ -4,7 +4,7 @@ title: "KEYNOTE Alenka Frim - You Don’t Have to Be an Expert: Stories from the
 slug: keynote-alenka-frim-you-dont-have-to-be-an-expert-stories
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

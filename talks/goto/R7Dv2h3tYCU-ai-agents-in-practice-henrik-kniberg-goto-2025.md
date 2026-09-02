@@ -4,7 +4,7 @@ title: "AI Agents in Practice • Henrik Kniberg • GOTO 2025"
 slug: ai-agents-in-practice-henrik-kniberg-goto-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Henrik Kniberg"]

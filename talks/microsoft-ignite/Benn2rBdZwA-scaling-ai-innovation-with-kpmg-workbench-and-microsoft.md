@@ -4,7 +4,7 @@ title: "Scaling AI innovation with KPMG Workbench and Microsoft | ODSP1418"
 slug: scaling-ai-innovation-with-kpmg-workbench-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tim Denley"]

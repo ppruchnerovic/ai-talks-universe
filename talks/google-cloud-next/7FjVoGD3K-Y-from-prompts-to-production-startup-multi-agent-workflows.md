@@ -4,7 +4,7 @@ title: "From prompts to production: Startup multi-agent workflows"
 slug: from-prompts-to-production-startup-multi-agent-workflows
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Jamie de Guerre", "Akash Sharma", "George Kichukov", "Maxim Fateev"]

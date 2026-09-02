@@ -4,7 +4,7 @@ title: "Building an Agent in 30 Minutes with ADK & MCP | Andrew Smith, Google Cl
 slug: building-an-agent-in-30-minutes-with-adk-mcp-andrew-smith
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Andrew Smith"]

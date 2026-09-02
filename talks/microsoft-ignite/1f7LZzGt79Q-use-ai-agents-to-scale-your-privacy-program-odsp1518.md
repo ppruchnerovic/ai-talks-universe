@@ -4,7 +4,7 @@ title: "Use AI agents to scale your privacy program | ODSP1518"
 slug: use-ai-agents-to-scale-your-privacy-program-odsp1518
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kevin Jones", "Ojas Rege"]

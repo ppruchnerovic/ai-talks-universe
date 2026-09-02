@@ -4,7 +4,7 @@ title: "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of LLM
 slug: gpts-are-gpts-an-early-look-at-the-labor-market-impact
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Daniel Rock"]

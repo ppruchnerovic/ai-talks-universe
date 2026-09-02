@@ -4,7 +4,7 @@ title: "Why Agentic Systems Need Ontologies — Frank Coyle, UC Berkeley"
 slug: why-agentic-systems-need-ontologies-frank-coyle-uc-berkeley
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Frank Coyle"]

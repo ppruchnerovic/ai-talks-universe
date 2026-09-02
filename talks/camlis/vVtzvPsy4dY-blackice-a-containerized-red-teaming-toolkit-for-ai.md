@@ -4,7 +4,7 @@ title: "BlackIce: A Containerized Red Teaming Toolkit for AI Security Testing"
 slug: blackice-a-containerized-red-teaming-toolkit-for-ai
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Caelin Kaplan"]

@@ -4,7 +4,7 @@ title: "Building Daisy: The Scam-Baiting AI Grandma"
 slug: building-daisy-the-scam-baiting-ai-grandma
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

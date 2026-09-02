@@ -4,7 +4,7 @@ title: "Getting more out of the Claude Platform"
 slug: getting-more-out-of-the-claude-platform
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []

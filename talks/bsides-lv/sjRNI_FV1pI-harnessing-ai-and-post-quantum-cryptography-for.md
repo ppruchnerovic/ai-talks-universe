@@ -4,7 +4,7 @@ title: "Harnessing AI and Post-Quantum Cryptography for Cybersecurity in the Qua
 slug: harnessing-ai-and-post-quantum-cryptography-for
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

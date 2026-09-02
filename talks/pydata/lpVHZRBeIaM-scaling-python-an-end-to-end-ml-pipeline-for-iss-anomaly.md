@@ -4,7 +4,7 @@ title: "Scaling Python: An End-to-End ML Pipeline for ISS Anomaly Detection with
 slug: scaling-python-an-end-to-end-ml-pipeline-for-iss-anomaly
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Christian Geier"]

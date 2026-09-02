@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Pratik Verma: Observability Agent to Find & Fix Issues 
 slug: ai-dev-26-x-sf-pratik-verma-observability-agent-to-find-fix
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

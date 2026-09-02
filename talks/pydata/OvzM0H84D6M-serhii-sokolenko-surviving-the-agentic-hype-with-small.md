@@ -4,7 +4,7 @@ title: "Serhii Sokolenko-Surviving the Agentic Hype with Small Language Models-P
 slug: serhii-sokolenko-surviving-the-agentic-hype-with-small
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

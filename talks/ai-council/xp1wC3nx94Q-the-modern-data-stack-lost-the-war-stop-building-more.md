@@ -4,7 +4,7 @@ title: "The Modern Data Stack Lost the War: Stop Building more DataFrame APIs | 
 slug: the-modern-data-stack-lost-the-war-stop-building-more
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

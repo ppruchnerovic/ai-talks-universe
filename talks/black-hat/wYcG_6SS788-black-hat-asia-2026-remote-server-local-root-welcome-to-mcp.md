@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Remote Server, Local Root. Welcome to MCP."
 slug: black-hat-asia-2026-remote-server-local-root-welcome-to-mcp
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: ["Remote Server"]

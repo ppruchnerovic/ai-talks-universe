@@ -4,7 +4,7 @@ title: "Using agentic AI to simplify .NET upgrades with GitHub Copilot | DEM549"
 slug: using-agentic-ai-to-simplify-net-upgrades-with-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Standardizing Intune app packaging and updates at scale | ODSP1521"
 slug: standardizing-intune-app-packaging-and-updates-at-scale
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dean Ellerby"]

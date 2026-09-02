@@ -4,7 +4,7 @@ title: "Agents are Robots Too: What Self-Driving Taught Me About Building Agents
 slug: agents-are-robots-too-what-self-driving-taught-me-about
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jesse Hu"]

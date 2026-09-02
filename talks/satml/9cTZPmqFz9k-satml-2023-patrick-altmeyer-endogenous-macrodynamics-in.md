@@ -4,7 +4,7 @@ title: "SaTML 2023 - Patrick Altmeyer - Endogenous Macrodynamics in Algorithic R
 slug: satml-2023-patrick-altmeyer-endogenous-macrodynamics-in
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Patrick Altmeyer"]

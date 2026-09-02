@@ -4,7 +4,7 @@ title: "Pivoting | Rob Snyder (Waffle)"
 slug: pivoting-rob-snyder-waffle
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Rob Snyder"]

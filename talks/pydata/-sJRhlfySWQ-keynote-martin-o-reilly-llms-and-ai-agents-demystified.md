@@ -4,7 +4,7 @@ title: "Keynote-Martin O'Reilly - LLMs and AI agents demystified | Pydata London
 slug: keynote-martin-o-reilly-llms-and-ai-agents-demystified
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Azure IaaS platform security deep dive | BRK168"
 slug: azure-iaas-platform-security-deep-dive-brk168
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vikas Bhatia", "Mario Lopez"]

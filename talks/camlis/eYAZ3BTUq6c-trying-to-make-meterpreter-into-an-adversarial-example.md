@@ -4,7 +4,7 @@ title: "Trying to Make Meterpreter into an Adversarial Example"
 slug: trying-to-make-meterpreter-into-an-adversarial-example
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

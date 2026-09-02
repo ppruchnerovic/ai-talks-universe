@@ -4,7 +4,7 @@ title: "Talking To Drones: Natural Language Control of PX4 Using a Phone, MCP, a
 slug: talking-to-drones-natural-language-control-of-px4-using-a
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []

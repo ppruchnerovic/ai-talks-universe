@@ -4,7 +4,7 @@ title: "AI War Stories: Real world learnings delivering enterprise AI solutions 
 slug: ai-war-stories-real-world-learnings-delivering-enterprise
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Adam Stephenson"]

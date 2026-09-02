@@ -4,7 +4,7 @@ title: "Scaling up Continual Learning — Ronak Malde, Trajectory"
 slug: scaling-up-continual-learning-ronak-malde-trajectory
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ronak Malde"]

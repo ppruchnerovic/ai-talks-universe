@@ -4,7 +4,7 @@ title: "7 Ways to Fail at Building a Platform"
 slug: 7-ways-to-fail-at-building-a-platform
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Michael Coté"]

@@ -4,7 +4,7 @@ title: "The Truth About RAG & vLLM: Why Your Multimodal System Fails at Scale"
 slug: the-truth-about-rag-vllm-why-your-multimodal-system-fails
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

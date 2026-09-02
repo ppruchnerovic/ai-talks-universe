@@ -4,7 +4,7 @@ title: "\"I've never seen anything scarier than an LLM with tool calls.\" — Er
 slug: i-ve-never-seen-anything-scarier-than-an-llm-with-tool
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

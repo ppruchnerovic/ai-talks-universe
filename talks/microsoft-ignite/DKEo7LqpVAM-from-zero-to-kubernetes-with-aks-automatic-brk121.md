@@ -4,7 +4,7 @@ title: "From zero to Kubernetes with AKS Automatic | BRK121"
 slug: from-zero-to-kubernetes-with-aks-automatic-brk121
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Amanda Wang", "Paul Yu"]

@@ -4,7 +4,7 @@ title: "Can Oncology Workflows Run Without Human Touch? - Anant Shankhdhar, Risa
 slug: can-oncology-workflows-run-without-human-touch-anant
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anant Shankhdhar"]

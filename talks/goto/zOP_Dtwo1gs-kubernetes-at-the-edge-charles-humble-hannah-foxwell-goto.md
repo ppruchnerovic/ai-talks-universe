@@ -4,7 +4,7 @@ title: "Kubernetes at the Edge • Charles Humble & Hannah Foxwell • GOTO 2026
 slug: kubernetes-at-the-edge-charles-humble-hannah-foxwell-goto
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Hannah Foxwell"]

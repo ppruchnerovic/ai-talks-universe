@@ -4,7 +4,7 @@ title: "Agentic GraphRAG: AI’s Logical Edge — Stephen Chin, Neo4j"
 slug: agentic-graphrag-ais-logical-edge-stephen-chin-neo4j
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stephen Chin"]

@@ -4,7 +4,7 @@ title: "Reimagining Software Development and DevOps with Agentic AI | BRK100"
 slug: reimagining-software-development-and-devops-with-agentic-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

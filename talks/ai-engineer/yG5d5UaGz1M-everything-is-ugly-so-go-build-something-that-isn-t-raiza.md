@@ -4,7 +4,7 @@ title: "Everything is ugly, so go build something that isn't — Raiza Martin, H
 slug: everything-is-ugly-so-go-build-something-that-isn-t-raiza
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Raiza Martin"]

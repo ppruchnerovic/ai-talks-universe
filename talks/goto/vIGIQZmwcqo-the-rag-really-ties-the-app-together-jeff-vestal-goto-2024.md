@@ -4,7 +4,7 @@ title: "The RAG Really Ties the App Together • Jeff Vestal • GOTO 2024"
 slug: the-rag-really-ties-the-app-together-jeff-vestal-goto-2024
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Jeff Vestal"]

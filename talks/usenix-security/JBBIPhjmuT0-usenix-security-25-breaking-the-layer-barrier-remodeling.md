@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Breaking the Layer Barrier: Remodeling Private Tra
 slug: usenix-security-25-breaking-the-layer-barrier-remodeling
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

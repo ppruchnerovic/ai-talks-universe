@@ -4,7 +4,7 @@ title: "Directing a Swarm of Agents for Fun and Profit"
 slug: directing-a-swarm-of-agents-for-fun-and-profit
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Adrian Cockcroft"]

@@ -4,7 +4,7 @@ title: "Feed The Alligators With the Lights On: How Data Engineers Can See Who R
 slug: feed-the-alligators-with-the-lights-on-how-data-engineers
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

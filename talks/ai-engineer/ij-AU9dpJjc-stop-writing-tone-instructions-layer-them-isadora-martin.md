@@ -4,7 +4,7 @@ title: "Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isador
 slug: stop-writing-tone-instructions-layer-them-isadora-martin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

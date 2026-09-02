@@ -4,7 +4,7 @@ title: "Unlock modern web capabilities in your AI coding workflows"
 slug: unlock-modern-web-capabilities-in-your-ai-coding-workflows
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Philip Walton"]

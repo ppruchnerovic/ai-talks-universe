@@ -4,7 +4,7 @@ title: "Scaling (and failing) Trust Online | Kaarel Kotkas (Veriff) with Ott Kau
 slug: scaling-and-failing-trust-online-kaarel-kotkas-veriff-with
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Kaarel Kotkas"]

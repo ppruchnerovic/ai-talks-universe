@@ -4,7 +4,7 @@ title: "Agents Don't Do Standups: Building the Post-Engineer Engineering Org —
 slug: agents-don-t-do-standups-building-the-post-engineer
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mike Spitz"]

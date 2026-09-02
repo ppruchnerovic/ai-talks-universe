@@ -4,7 +4,7 @@ title: "Benchmarking Historical Reasoning in LLMs: Tasks, Metrics, and Failure M
 slug: benchmarking-historical-reasoning-in-llms-tasks-metrics-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

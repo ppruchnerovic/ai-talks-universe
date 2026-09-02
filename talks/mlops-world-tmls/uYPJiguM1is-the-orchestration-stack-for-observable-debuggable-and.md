@@ -4,7 +4,7 @@ title: "The Orchestration Stack for Observable, Debuggable, and Durable Agents"
 slug: the-orchestration-stack-for-observable-debuggable-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

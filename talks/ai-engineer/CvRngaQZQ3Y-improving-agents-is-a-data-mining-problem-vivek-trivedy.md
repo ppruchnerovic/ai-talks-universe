@@ -4,7 +4,7 @@ title: "Improving Agents is a Data Mining Problem — Vivek Trivedy, LangChain"
 slug: improving-agents-is-a-data-mining-problem-vivek-trivedy
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vivek Trivedy"]

@@ -4,7 +4,7 @@ title: "Creating an AI Security and Incident Response Team"
 slug: creating-an-ai-security-and-incident-response-team
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

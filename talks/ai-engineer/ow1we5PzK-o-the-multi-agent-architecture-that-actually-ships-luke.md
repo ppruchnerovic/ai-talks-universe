@@ -4,7 +4,7 @@ title: "The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Fact
 slug: the-multi-agent-architecture-that-actually-ships-luke
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Luke Alvoeiro"]

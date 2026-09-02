@@ -4,7 +4,7 @@ title: "Open and reproducible research, Meditron medical LLM | Open-Source AI Mo
 slug: open-and-reproducible-research-meditron-medical-llm-open
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Martin Jaggi"]

@@ -4,7 +4,7 @@ title: "Behind the lens: AI, creativity, and the future of filmmaking tools"
 slug: behind-the-lens-ai-creativity-and-the-future-of-filmmaking
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

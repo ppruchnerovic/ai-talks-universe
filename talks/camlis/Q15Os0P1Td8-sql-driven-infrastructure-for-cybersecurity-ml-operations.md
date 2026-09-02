@@ -4,7 +4,7 @@ title: "SQL Driven Infrastructure for Cybersecurity ML Operations"
 slug: sql-driven-infrastructure-for-cybersecurity-ml-operations
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

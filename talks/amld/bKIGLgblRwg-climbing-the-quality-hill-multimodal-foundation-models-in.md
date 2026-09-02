@@ -4,7 +4,7 @@ title: "Climbing the Quality Hill | Multimodal Foundation Models in Oncology | F
 slug: climbing-the-quality-hill-multimodal-foundation-models-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Fabian Roth"]

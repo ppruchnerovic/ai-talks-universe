@@ -4,7 +4,7 @@ title: "Go with the Flow: Stop the Leaks Before Your Memory's a Waterfall!"
 slug: go-with-the-flow-stop-the-leaks-before-your-memory-s-a
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Manfred Bjørlin"]

@@ -4,7 +4,7 @@ title: "Stop Maintaining Your Code. Start Replacing It"
 slug: stop-maintaining-your-code-start-replacing-it
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

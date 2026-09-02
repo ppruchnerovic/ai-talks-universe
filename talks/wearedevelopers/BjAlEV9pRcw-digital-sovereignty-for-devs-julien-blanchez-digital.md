@@ -4,7 +4,7 @@ title: "Digital Sovereignty for Devs - Julien Blanchez, Digital Sovereignty Solu
 slug: digital-sovereignty-for-devs-julien-blanchez-digital
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Julien Blanchez"]

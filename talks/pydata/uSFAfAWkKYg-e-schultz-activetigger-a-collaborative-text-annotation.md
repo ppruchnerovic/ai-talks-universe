@@ -4,7 +4,7 @@ title: "E. Schultz-ActiveTigger: A Collaborative Text Annotation Research Tool f
 slug: e-schultz-activetigger-a-collaborative-text-annotation
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Prompt to Prod: Engineering an Autonomous SDLC at Scale"
 slug: prompt-to-prod-engineering-an-autonomous-sdlc-at-scale
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Andrew Swerdlow"]

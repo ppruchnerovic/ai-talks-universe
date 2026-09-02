@@ -4,7 +4,7 @@ title: "Google Photos Magic Editor: GenAI Under the Hood of a Billion-User App -
 slug: google-photos-magic-editor-genai-under-the-hood-of-a
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Kelvin Ma"]

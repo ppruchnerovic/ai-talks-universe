@@ -4,7 +4,7 @@ title: "What’s new in Copilot Studio and roadmap | BRK313"
 slug: whats-new-in-copilot-studio-and-roadmap-brk313
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Omar Aftab", "Erez Altus", "Zac Cadi"]

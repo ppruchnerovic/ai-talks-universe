@@ -4,7 +4,7 @@ title: "Azure AI Foundry and the dev toolchain to infuse AI in all your apps | B
 slug: azure-ai-foundry-and-the-dev-toolchain-to-infuse-ai-in-all
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Callum Anderson", "Marlene Mhangami", "Trupti Parkar", "Dan Taylor"]

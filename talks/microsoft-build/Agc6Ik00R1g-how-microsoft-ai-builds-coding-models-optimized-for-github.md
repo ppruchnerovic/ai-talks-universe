@@ -4,7 +4,7 @@ title: "How Microsoft AI builds coding models optimized for GitHub Copilot | LIV
 slug: how-microsoft-ai-builds-coding-models-optimized-for-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Seth Juarez", "Pierce Boggan", "Yang Liu", "Pengcheng He"]

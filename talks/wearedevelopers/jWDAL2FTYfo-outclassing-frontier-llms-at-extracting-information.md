@@ -4,7 +4,7 @@ title: "Outclassing Frontier LLMs at Extracting Information"
 slug: outclassing-frontier-llms-at-extracting-information
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Etienne Bernard"]

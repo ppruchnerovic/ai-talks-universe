@@ -4,7 +4,7 @@ title: "Round table | with Shekoofeh Azizi, Payel Das, Pranav Rajpurkar, Nigam S
 slug: round-table-with-shekoofeh-azizi-payel-das-pranav-rajpurkar
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: []

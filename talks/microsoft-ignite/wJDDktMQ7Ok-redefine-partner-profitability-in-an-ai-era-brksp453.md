@@ -4,7 +4,7 @@ title: "Redefine partner profitability in an AI era | BRKSP453"
 slug: redefine-partner-profitability-in-an-ai-era-brksp453
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Hailey Henry", "Laxmi Korada"]

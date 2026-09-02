@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Towards Lifecycle Unlearning Commitment Management
 slug: usenix-security-25-towards-lifecycle-unlearning-commitment
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "The weekly developer show: Did AI or JS break the web?"
 slug: the-weekly-developer-show-did-ai-or-js-break-the-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

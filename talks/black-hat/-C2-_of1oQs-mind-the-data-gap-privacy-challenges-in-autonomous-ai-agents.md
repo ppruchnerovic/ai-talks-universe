@@ -4,7 +4,7 @@ title: "Mind the Data Gap: Privacy Challenges in Autonomous AI Agents"
 slug: mind-the-data-gap-privacy-challenges-in-autonomous-ai-agents
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

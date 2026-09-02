@@ -4,7 +4,7 @@ title: "Apps, agents, and MCP is the AI innovation recipe | BRK116"
 slug: apps-agents-and-mcp-is-the-ai-innovation-recipe-brk116
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Devanshi Joshi", "Nir Mashkowski", "Jordan Selig", "Jun Yoshida"]

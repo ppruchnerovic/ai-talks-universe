@@ -4,7 +4,7 @@ title: "Green AI: Making Machine Learning Environmentally Sustainable • Charle
 slug: green-ai-making-machine-learning-environmentally
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: []

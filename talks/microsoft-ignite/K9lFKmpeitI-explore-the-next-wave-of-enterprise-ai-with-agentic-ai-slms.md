@@ -4,7 +4,7 @@ title: "Explore the next wave of enterprise AI with agentic AI & SLMs | ODSP1442
 slug: explore-the-next-wave-of-enterprise-ai-with-agentic-ai-slms
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

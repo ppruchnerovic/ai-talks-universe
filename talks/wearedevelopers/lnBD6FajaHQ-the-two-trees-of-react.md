@@ -4,7 +4,7 @@ title: "The two trees of React"
 slug: the-two-trees-of-react
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Carl Assmann"]

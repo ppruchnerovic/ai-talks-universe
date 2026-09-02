@@ -4,7 +4,7 @@ title: "Culture Through Tension: Leading Interdisciplinary Teams with Nick Gilli
 slug: culture-through-tension-leading-interdisciplinary-teams
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

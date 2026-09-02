@@ -4,7 +4,7 @@ title: "Tour de Force: Open-Source LLM Inference Optimization from Simple to Sop
 slug: tour-de-force-open-source-llm-inference-optimization-from
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christin Pohl"]

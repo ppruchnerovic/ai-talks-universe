@@ -4,7 +4,7 @@ title: "Building a Multi-Tenant Machine Learning Workflow Orchestration Platform
 slug: building-a-multi-tenant-machine-learning-workflow
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

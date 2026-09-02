@@ -4,7 +4,7 @@ title: "Partner: Unlocking the AI chat to agents for channel partners | PBRK303"
 slug: partner-unlocking-the-ai-chat-to-agents-for-channel
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matt Goddard", "Sela Gu", "Arun Subramanian"]

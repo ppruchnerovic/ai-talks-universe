@@ -4,7 +4,7 @@ title: "Improving Accuracy and Consistency in Real-World Cybersecurity AI System
 slug: improving-accuracy-and-consistency-in-real-world
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Ashley Song"]

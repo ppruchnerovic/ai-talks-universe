@@ -4,7 +4,7 @@ title: "Webcast: Building a Secure Al Assistant in a Regulated Industry"
 slug: webcast-building-a-secure-al-assistant-in-a-regulated
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["Kyler Middleton"]

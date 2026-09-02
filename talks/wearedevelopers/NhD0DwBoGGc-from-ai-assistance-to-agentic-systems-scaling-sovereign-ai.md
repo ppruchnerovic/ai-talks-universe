@@ -4,7 +4,7 @@ title: "From AI Assistance to Agentic Systems: Scaling Sovereign AI in Banking"
 slug: from-ai-assistance-to-agentic-systems-scaling-sovereign-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Julia Koch", "Markus Hacker"]

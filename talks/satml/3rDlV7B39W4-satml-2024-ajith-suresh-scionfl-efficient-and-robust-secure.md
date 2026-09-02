@@ -4,7 +4,7 @@ title: "SaTML 2024 - Ajith Suresh - ScionFL: Efficient and Robust Secure Quantiz
 slug: satml-2024-ajith-suresh-scionfl-efficient-and-robust-secure
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Ajith Suresh"]

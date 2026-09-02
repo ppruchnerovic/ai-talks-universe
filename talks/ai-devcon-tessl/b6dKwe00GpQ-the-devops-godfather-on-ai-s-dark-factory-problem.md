@@ -4,7 +4,7 @@ title: "The DevOps Godfather on AI's \"Dark Factory\" Problem"
 slug: the-devops-godfather-on-ai-s-dark-factory-problem
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

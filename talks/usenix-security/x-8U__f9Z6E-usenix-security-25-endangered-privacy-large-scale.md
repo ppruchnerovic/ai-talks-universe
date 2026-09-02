@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Endangered Privacy: Large-Scale Monitoring of Vide
 slug: usenix-security-25-endangered-privacy-large-scale
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Keynote: Can you trust your (large language) model? - Jodie Burchell - N
 slug: keynote-can-you-trust-your-large-language-model-jodie
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jodie Burchell"]

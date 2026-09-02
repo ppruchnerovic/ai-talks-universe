@@ -4,7 +4,7 @@ title: "AI on Your Lakehouse: Context Comes in Shapes, Not Queries — Zach Blum
 slug: ai-on-your-lakehouse-context-comes-in-shapes-not-queries
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Zach Blumenfeld"]

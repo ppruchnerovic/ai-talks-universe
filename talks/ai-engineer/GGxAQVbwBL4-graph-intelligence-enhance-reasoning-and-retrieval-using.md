@@ -4,7 +4,7 @@ title: "Graph Intelligence: Enhance Reasoning and Retrieval Using Graph Analytic
 slug: graph-intelligence-enhance-reasoning-and-retrieval-using
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "The Past, Present and Future of Programming Languages by Kevlin Henney -
 slug: the-past-present-and-future-of-programming-languages-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: []

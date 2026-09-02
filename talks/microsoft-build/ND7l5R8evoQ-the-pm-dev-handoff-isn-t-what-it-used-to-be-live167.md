@@ -4,7 +4,7 @@ title: "The PM/dev handoff isn't what it used to be | LIVE167"
 slug: the-pm-dev-handoff-isn-t-what-it-used-to-be-live167
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Courtney Webster", "Burke Holland"]

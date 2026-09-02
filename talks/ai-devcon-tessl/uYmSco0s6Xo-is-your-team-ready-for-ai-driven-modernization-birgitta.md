@@ -4,7 +4,7 @@ title: "Is Your Team Ready for AI-Driven Modernization? | Birgitta Böckeler"
 slug: is-your-team-ready-for-ai-driven-modernization-birgitta
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Birgitta Böckeler"]

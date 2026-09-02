@@ -4,7 +4,7 @@ title: "Vipul Raheja, Grammarly: Text Revision with Large Language Models -- Cha
 slug: vipul-raheja-grammarly-text-revision-with-large-language
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

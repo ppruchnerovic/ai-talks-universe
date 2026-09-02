@@ -4,7 +4,7 @@ title: "WeAreDevelopers LIVE - Making Tech More Human - Jason Torres"
 slug: wearedevelopers-live-making-tech-more-human-jason-torres
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Jason Torres"]

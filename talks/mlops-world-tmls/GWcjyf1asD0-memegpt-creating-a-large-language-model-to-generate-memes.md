@@ -4,7 +4,7 @@ title: "MemeGPT: Creating a Large Language Model to Generate Memes"
 slug: memegpt-creating-a-large-language-model-to-generate-memes
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

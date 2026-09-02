@@ -4,7 +4,7 @@ title: "How Box Evolved from Simple AI to Agentic Systems for Enterprise | LangC
 slug: how-box-evolved-from-simple-ai-to-agentic-systems-for
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

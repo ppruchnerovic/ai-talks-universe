@@ -4,7 +4,7 @@ title: "Keynote | What to Expect When You’re Expecting Your GenAI Baby"
 slug: keynote-what-to-expect-when-youre-expecting-your-genai-baby
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

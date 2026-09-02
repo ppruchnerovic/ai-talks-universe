@@ -4,7 +4,7 @@ title: "Turn IT operational efficiency into competitive advantage | BRKSP465"
 slug: turn-it-operational-efficiency-into-competitive-advantage
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Philip Alfano", "Bill Primerano"]

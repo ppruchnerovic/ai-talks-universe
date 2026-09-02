@@ -4,7 +4,7 @@ title: "Multi-Network Step-by-Step: Enabling SR-IOV Support From Kubernetes... M
 slug: multi-network-step-by-step-enabling-sr-iov-support-from
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

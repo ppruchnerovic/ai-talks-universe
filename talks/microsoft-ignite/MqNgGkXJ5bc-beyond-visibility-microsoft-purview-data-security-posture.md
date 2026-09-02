@@ -4,7 +4,7 @@ title: "Beyond Visibility: Microsoft Purview Data Security Posture Management | 
 slug: beyond-visibility-microsoft-purview-data-security-posture
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rudra Mitra", "Nathalia Borges", "Yaki Faitelson", "Talhah Mir"]

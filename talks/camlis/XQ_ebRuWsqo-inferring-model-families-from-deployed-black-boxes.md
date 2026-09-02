@@ -4,7 +4,7 @@ title: "Inferring Model Families from Deployed Black Boxes"
 slug: inferring-model-families-from-deployed-black-boxes
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

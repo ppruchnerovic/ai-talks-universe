@@ -4,7 +4,7 @@ title: "Patel & Doshi-Building Production RAG Systems for Health Care Domains - 
 slug: patel-doshi-building-production-rag-systems-for-health-care
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "ProblemChild: Discovering Anomalous Patterns based on Parent-Child Proce
 slug: problemchild-discovering-anomalous-patterns-based-on-parent
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

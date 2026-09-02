@@ -4,7 +4,7 @@ title: "Artificial Intelligence: The Ultimate Double-Edged Sword"
 slug: artificial-intelligence-the-ultimate-double-edged-sword
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

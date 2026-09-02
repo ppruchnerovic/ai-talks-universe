@@ -4,7 +4,7 @@ title: "Architecture Modernization • Nick Tune & Eduardo da Sliva"
 slug: architecture-modernization-nick-tune-eduardo-da-sliva
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Architecture Modernization", "Nick Tune", "Eduardo da Sliva"]

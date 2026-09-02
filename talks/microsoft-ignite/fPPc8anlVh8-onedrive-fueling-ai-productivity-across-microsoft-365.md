@@ -4,7 +4,7 @@ title: "OneDrive: Fueling AI productivity across Microsoft 365 | BRK1740"
 slug: onedrive-fueling-ai-productivity-across-microsoft-365
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gaia Carini", "Arvind Mishra", "Rob Nunez", "Arwa Tyebkhan"]

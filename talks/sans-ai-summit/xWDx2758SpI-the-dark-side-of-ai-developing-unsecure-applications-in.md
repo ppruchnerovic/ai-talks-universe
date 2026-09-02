@@ -4,7 +4,7 @@ title: "The Dark Side of AI: Developing Unsecure Applications in Minutes!"
 slug: the-dark-side-of-ai-developing-unsecure-applications-in
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

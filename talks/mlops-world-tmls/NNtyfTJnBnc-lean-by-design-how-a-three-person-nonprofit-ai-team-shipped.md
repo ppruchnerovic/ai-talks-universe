@@ -4,7 +4,7 @@ title: "Lean by Design: How a Three-Person Nonprofit AI Team Shipped a Productio
 slug: lean-by-design-how-a-three-person-nonprofit-ai-team-shipped
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

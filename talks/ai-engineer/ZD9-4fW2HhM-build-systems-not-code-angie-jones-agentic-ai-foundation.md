@@ -4,7 +4,7 @@ title: "Build Systems, Not Code - Angie Jones, Agentic AI Foundation"
 slug: build-systems-not-code-angie-jones-agentic-ai-foundation
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Angie Jones"]

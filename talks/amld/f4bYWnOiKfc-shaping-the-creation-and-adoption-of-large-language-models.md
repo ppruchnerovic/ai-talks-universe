@@ -4,7 +4,7 @@ title: "Shaping the creation and adoption of large language models in healthcare
 slug: shaping-the-creation-and-adoption-of-large-language-models
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Nigam Shah"]

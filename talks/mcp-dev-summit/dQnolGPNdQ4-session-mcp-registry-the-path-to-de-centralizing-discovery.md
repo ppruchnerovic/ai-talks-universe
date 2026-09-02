@@ -4,7 +4,7 @@ title: "[Session] MCP Registry: The Path To (De-)Centralizing Discovery"
 slug: session-mcp-registry-the-path-to-de-centralizing-discovery
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

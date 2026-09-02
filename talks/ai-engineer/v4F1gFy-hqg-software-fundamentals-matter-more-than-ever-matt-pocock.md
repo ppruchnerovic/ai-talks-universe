@@ -4,7 +4,7 @@ title: "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock"
 slug: software-fundamentals-matter-more-than-ever-matt-pocock
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Pocock"]

@@ -4,7 +4,7 @@ title: "AI Agents In-Depth – Function Calling, MCP and Tool Use Under the Hood
 slug: ai-agents-in-depth-function-calling-mcp-and-tool-use-under
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Function Calling", "Alan Smith"]

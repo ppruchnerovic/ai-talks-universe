@@ -4,7 +4,7 @@ title: "Andrej Karpathy: From Vibe Coding to Agentic Engineering w/ Stephanie Zh
 slug: andrej-karpathy-from-vibe-coding-to-agentic-engineering-w
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

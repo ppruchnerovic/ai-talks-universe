@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Bad Vibes - Pwning Coding Agents 70 Times With The
 slug: black-hat-asia-2026-bad-vibes-pwning-coding-agents-70-times
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: ["Bad Vibes"]

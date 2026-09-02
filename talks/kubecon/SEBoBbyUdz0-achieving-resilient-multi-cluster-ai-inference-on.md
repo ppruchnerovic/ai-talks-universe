@@ -4,7 +4,7 @@ title: "Achieving Resilient Multi-Cluster AI Inference on Kubernetes With Kar...
 slug: achieving-resilient-multi-cluster-ai-inference-on
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

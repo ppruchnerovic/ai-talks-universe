@@ -4,7 +4,7 @@ title: "USENIX Security '25 - I Know What You Said: Unveiling Hardware Cache Sid
 slug: usenix-security-25-i-know-what-you-said-unveiling-hardware
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

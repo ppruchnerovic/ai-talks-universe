@@ -4,7 +4,7 @@ title: "Context Engineering: Practical Techniques for Improving Agent Quality To
 slug: context-engineering-practical-techniques-for-improving
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Vaibhav Gupta"]

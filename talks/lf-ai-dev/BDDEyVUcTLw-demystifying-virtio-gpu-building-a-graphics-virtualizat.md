@@ -4,7 +4,7 @@ title: "Demystifying VirtIO-GPU: Building a Graphics Virtualizat... Yung-Tse Che
 slug: demystifying-virtio-gpu-building-a-graphics-virtualizat
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Microsoft Fabric for Developers: Build Scalable Data & AI Solutions | BR
 slug: microsoft-fabric-for-developers-build-scalable-data-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

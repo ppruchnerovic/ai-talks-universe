@@ -4,7 +4,7 @@ title: "Starting Global by Design | Fabian Hedin (Lovable) & Guillaume Princen (
 slug: starting-global-by-design-fabian-hedin-lovable-guillaume
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Fabian Hedin"]

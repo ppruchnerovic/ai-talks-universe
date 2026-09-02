@@ -4,7 +4,7 @@ title: "Hierarchical Models in MMM: Can Structure beat data size? [PyCon DE & Py
 slug: hierarchical-models-in-mmm-can-structure-beat-data-size
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Mohamed Amine Jebari"]

@@ -4,7 +4,7 @@ title: "Production RL and decision-making with RLlib"
 slug: production-rl-and-decision-making-with-rllib
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

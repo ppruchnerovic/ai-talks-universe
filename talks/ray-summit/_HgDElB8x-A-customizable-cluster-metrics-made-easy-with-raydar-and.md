@@ -4,7 +4,7 @@ title: "Customizable Cluster Metrics Made Easy with Raydar and Anyscale | Ray Su
 slug: customizable-cluster-metrics-made-easy-with-raydar-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

@@ -4,7 +4,7 @@ title: "From Models to Agents: Building Context-Aware Consumer AI at Scale at Do
 slug: from-models-to-agents-building-context-aware-consumer-ai-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI Boston 2026"
 year: 2026
 speakers: ["Sudeep Das"]

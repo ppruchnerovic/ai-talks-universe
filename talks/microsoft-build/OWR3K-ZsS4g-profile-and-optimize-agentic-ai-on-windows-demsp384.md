@@ -4,7 +4,7 @@ title: "Profile and optimize agentic AI on Windows | DEMSP384"
 slug: profile-and-optimize-agentic-ai-on-windows-demsp384
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Freddy Chiu", "Vasanth Tovinkere"]

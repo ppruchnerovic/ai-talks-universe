@@ -4,7 +4,7 @@ title: "Data and Environment Curation for Post-Training LLMs — Mahesh Sathiamo
 slug: data-and-environment-curation-for-post-training-llms-mahesh
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mahesh Sathiamoorthy"]

@@ -4,7 +4,7 @@ title: "Wrong, Scary, and “Illegal” Things with Python in PostgreSQL"
 slug: wrong-scary-and-illegal-things-with-python-in-postgresql
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

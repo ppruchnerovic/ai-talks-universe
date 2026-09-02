@@ -4,7 +4,7 @@ title: "Accelerating real-world AI for today and tomorrow | BRKFP377"
 slug: accelerating-real-world-ai-for-today-and-tomorrow-brkfp377
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nuri Cankaya", "Brian Rogers", "Joe Sack", "Saurabh Tangri", "Jeff Woolsey"]

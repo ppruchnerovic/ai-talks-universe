@@ -4,7 +4,7 @@ title: "Evolving your IT career in the AI age | BRK1738"
 slug: evolving-your-it-career-in-the-ai-age-brk1738
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rick Claus", "Sonia Cuff"]

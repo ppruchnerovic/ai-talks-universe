@@ -4,7 +4,7 @@ title: "Transforming HPC workflows with AI assistant | BRK225"
 slug: transforming-hpc-workflows-with-ai-assistant-brk225
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Diego V", "Annie Zhou"]

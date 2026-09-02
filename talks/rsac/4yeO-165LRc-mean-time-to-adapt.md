@@ -4,7 +4,7 @@ title: "Mean Time to Adapt"
 slug: mean-time-to-adapt
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []

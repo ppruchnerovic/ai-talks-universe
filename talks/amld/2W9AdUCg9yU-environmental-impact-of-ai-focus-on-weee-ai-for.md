@@ -4,7 +4,7 @@ title: "Environmental Impact of AI - Focus on WEEE | AI for Sustainability | Mar
 slug: environmental-impact-of-ai-focus-on-weee-ai-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Marion Ficher"]

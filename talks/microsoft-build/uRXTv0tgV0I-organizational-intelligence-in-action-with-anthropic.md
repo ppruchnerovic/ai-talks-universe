@@ -4,7 +4,7 @@ title: "Organizational intelligence in action — with Anthropic | LIVESP129"
 slug: organizational-intelligence-in-action-with-anthropic
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Maximillian Kirby"]

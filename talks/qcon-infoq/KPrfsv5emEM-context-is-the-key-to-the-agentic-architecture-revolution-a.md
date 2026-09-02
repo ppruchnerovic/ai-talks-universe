@@ -4,7 +4,7 @@ title: "Context is the Key to the Agentic Architecture Revolution: A Conversatio
 slug: context-is-the-key-to-the-agentic-architecture-revolution-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

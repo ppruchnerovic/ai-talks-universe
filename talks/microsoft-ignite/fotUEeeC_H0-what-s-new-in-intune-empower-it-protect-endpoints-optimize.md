@@ -4,7 +4,7 @@ title: "What's new in Intune: empower IT, protect endpoints & optimize with AI |
 slug: what-s-new-in-intune-empower-it-protect-endpoints-optimize
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Eugenie Burrage", "Jason Roszak"]

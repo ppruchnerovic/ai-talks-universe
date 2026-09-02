@@ -4,7 +4,7 @@ title: "Edge for Business: reimagined with AI security at the core | BRK336"
 slug: edge-for-business-reimagined-with-ai-security-at-the-core
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Lindsay Kubasik", "Sean Lyndersay"]

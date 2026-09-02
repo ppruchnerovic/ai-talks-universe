@@ -4,7 +4,7 @@ title: "Cerebral Valley: Nedim Fresko (Amazon) with James Wilsterman"
 slug: cerebral-valley-nedim-fresko-amazon-with-james-wilsterman
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []

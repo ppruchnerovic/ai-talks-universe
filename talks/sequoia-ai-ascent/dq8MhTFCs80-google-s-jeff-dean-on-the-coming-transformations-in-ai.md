@@ -4,7 +4,7 @@ title: "Google's Jeff Dean on the Coming Transformations in AI"
 slug: google-s-jeff-dean-on-the-coming-transformations-in-ai
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

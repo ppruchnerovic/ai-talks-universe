@@ -4,7 +4,7 @@ title: "Agentic GraphRAG: AI’s Logical Edge - Stephen Chin, Neo4j"
 slug: agentic-graphrag-ais-logical-edge-stephen-chin-neo4j
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Stephen Chin"]

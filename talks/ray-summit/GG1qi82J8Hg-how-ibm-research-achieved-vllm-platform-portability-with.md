@@ -4,7 +4,7 @@ title: "How IBM Research Achieved vLLM Platform Portability with Triton Autotuni
 slug: how-ibm-research-achieved-vllm-platform-portability-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

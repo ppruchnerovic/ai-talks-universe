@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Kiro meets SaaS: Generating multi-tenant agentic ap
 slug: aws-re-invent-2025-kiro-meets-saas-generating-multi-tenant
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

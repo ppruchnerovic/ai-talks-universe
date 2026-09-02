@@ -4,7 +4,7 @@ title: "Le Cong - From Code to Cell: Building AI Agents for Gene-Editing, Stem-C
 slug: le-cong-from-code-to-cell-building-ai-agents-for-gene
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Le Cong"]

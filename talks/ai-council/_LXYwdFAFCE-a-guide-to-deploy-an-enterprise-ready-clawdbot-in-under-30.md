@@ -4,7 +4,7 @@ title: "A Guide to Deploy an Enterprise-Ready ClawdBot in Under 30 Minutes | Tex
 slug: a-guide-to-deploy-an-enterprise-ready-clawdbot-in-under-30
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

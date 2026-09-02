@@ -4,7 +4,7 @@ title: "Microarchitecture Vulnerabilities: Past, Present, and Future"
 slug: microarchitecture-vulnerabilities-past-present-and-future
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

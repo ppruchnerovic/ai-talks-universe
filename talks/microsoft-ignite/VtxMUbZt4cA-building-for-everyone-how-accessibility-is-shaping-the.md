@@ -4,7 +4,7 @@ title: "Building for Everyone: How Accessibility is Shaping the Future of AI | B
 slug: building-for-everyone-how-accessibility-is-shaping-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Preety Kumar"]

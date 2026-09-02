@@ -4,7 +4,7 @@ title: "How to Treat Your Data Platform Like a Product 5 Key Best Practices"
 slug: how-to-treat-your-data-platform-like-a-product-5-key-best
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Lior Gavish"]

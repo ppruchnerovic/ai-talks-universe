@@ -4,7 +4,7 @@ title: "Partner: Connect, Plan, Win - Enhancing Co-sell Engagement | PBRK417"
 slug: partner-connect-plan-win-enhancing-co-sell-engagement
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Fabian Grote"]

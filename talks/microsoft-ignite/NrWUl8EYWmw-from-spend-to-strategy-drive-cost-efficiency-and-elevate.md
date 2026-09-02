@@ -4,7 +4,7 @@ title: "From spend to strategy: Drive cost efficiency and elevate Azure ROI | BR
 slug: from-spend-to-strategy-drive-cost-efficiency-and-elevate
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rob Kuehfus", "Mrunal Patwa"]

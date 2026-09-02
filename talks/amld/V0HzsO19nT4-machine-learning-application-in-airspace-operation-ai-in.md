@@ -4,7 +4,7 @@ title: "Machine learning application in airspace operation | AI in Aviation | Ha
 slug: machine-learning-application-in-airspace-operation-ai-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Harry Lui"]

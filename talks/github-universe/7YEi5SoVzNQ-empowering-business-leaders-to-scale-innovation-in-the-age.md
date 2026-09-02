@@ -4,7 +4,7 @@ title: "Empowering business leaders to scale innovation in the age of AI"
 slug: empowering-business-leaders-to-scale-innovation-in-the-age
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []

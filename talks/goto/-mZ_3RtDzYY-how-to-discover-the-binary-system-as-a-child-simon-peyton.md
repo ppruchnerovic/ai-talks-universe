@@ -4,7 +4,7 @@ title: "How to Discover the Binary System as a Child • Simon Peyton Jones & Ch
 slug: how-to-discover-the-binary-system-as-a-child-simon-peyton
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Simon Peyton Jones", "Chelsea Troy"]

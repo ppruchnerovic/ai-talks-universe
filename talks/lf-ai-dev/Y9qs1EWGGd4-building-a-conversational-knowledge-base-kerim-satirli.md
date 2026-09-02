@@ -4,7 +4,7 @@ title: "Building a Conversational Knowledge Base - Kerim Satirli, Independent & 
 slug: building-a-conversational-knowledge-base-kerim-satirli
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Kerim Satirli"]

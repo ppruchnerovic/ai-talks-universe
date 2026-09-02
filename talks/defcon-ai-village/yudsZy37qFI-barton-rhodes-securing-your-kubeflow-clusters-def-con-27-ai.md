@@ -4,7 +4,7 @@ title: "Barton Rhodes - Securing your kubeflow clusters - DEF CON 27 AI Village"
 slug: barton-rhodes-securing-your-kubeflow-clusters-def-con-27-ai
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Barton Rhodes"]

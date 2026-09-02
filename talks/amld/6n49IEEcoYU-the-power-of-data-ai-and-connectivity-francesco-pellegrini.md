@@ -4,7 +4,7 @@ title: "The Power of Data | AI and Connectivity | Francesco Pellegrini & Ivan Va
 slug: the-power-of-data-ai-and-connectivity-francesco-pellegrini
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Francesco Pellegrini", "Ivan Vallejo Vall"]

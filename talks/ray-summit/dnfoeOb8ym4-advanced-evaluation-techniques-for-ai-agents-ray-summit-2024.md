@@ -4,7 +4,7 @@ title: "Advanced Evaluation Techniques for AI Agents | Ray Summit 2024"
 slug: advanced-evaluation-techniques-for-ai-agents-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

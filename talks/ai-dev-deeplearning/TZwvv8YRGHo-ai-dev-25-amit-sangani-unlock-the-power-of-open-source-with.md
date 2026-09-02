@@ -4,7 +4,7 @@ title: "AI Dev 25 | Amit Sangani: Unlock the Power of Open Source with Llama"
 slug: ai-dev-25-amit-sangani-unlock-the-power-of-open-source-with
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

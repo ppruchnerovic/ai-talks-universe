@@ -4,7 +4,7 @@ title: "Shine Bright as an IC: Growing Yourself as Your Company Grows"
 slug: shine-bright-as-an-ic-growing-yourself-as-your-company-grows
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Suhail Patel"]

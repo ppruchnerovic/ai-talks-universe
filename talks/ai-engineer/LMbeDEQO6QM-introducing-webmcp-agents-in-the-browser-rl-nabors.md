@@ -4,7 +4,7 @@ title: "Introducing WebMCP: Agents in the Browser — RL Nabors"
 slug: introducing-webmcp-agents-in-the-browser-rl-nabors
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

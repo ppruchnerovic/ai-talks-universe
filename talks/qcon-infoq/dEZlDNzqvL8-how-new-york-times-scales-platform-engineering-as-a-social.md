@@ -4,7 +4,7 @@ title: "How New York Times Scales: Platform Engineering as a Social Strategy"
 slug: how-new-york-times-scales-platform-engineering-as-a-social
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

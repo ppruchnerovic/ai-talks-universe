@@ -4,7 +4,7 @@ title: "Using a Product Value Curve to Prioritize Work"
 slug: using-a-product-value-curve-to-prioritize-work
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

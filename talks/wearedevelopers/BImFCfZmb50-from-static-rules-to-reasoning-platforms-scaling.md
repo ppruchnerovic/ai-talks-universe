@@ -4,7 +4,7 @@ title: "From Static Rules to Reasoning Platforms: Scaling Intelligent Canary Del
 slug: from-static-rules-to-reasoning-platforms-scaling
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniel Oh"]

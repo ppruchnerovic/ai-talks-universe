@@ -4,7 +4,7 @@ title: "Craig McLuckie on Culture as a Team's Operating System in the AI Era"
 slug: craig-mcluckie-on-culture-as-a-team-s-operating-system-in
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "How to survive and thrive as a dev (team) in the exponential age of AI b
 slug: how-to-survive-and-thrive-as-a-dev-team-in-the-exponential
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Sander Hoogendoorn"]

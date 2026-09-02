@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build agentic workflows on AWS with third-party age
 slug: aws-re-invent-2025-build-agentic-workflows-on-aws-with
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

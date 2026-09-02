@@ -4,7 +4,7 @@ title: "Realtime Conversational Video with Pipecat and Tavus — Chad Bailey and
 slug: realtime-conversational-video-with-pipecat-and-tavus-chad
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chad Bailey", "Brian Johnson"]

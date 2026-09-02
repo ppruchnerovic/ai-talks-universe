@@ -4,7 +4,7 @@ title: "Reimagining software development with GitHub Copilot and AI agents | BRK
 slug: reimagining-software-development-with-github-copilot-and-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mario Rodriguez", "Luke Hoban"]

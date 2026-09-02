@@ -4,7 +4,7 @@ title: "[Session] Scaling MCP with Antje Barth from AWS"
 slug: session-scaling-mcp-with-antje-barth-from-aws
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

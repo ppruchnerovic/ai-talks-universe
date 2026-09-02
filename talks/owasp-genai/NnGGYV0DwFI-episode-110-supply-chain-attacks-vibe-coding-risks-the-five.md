@@ -4,7 +4,7 @@ title: "Episode 110 | Supply Chain Attacks, Vibe Coding Risks & the Five Eyes AI
 slug: episode-110-supply-chain-attacks-vibe-coding-risks-the-five
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Supply Chain Attacks"]

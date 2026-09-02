@@ -4,7 +4,7 @@ title: "Don't Build Slop (4 Levels of AI Agent Maturity) - Ara Khan, Cline"
 slug: don-t-build-slop-4-levels-of-ai-agent-maturity-ara-khan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Don't Build Slop", "Ara Khan"]

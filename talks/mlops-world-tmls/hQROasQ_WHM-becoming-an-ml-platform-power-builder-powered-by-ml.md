@@ -4,7 +4,7 @@ title: "Becoming An ML Platform Power Builder Powered by ML Observability"
 slug: becoming-an-ml-platform-power-builder-powered-by-ml
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Aman Khan"]

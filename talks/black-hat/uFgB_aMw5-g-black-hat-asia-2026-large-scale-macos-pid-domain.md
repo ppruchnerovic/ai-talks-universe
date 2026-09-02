@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | Large-Scale macOS PID-Domain Vulnerability Discove
 slug: black-hat-asia-2026-large-scale-macos-pid-domain
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

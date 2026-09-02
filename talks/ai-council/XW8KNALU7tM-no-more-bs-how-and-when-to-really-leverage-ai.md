@@ -4,7 +4,7 @@ title: "No More BS: How and When to Really Leverage AI"
 slug: no-more-bs-how-and-when-to-really-leverage-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Colleen Tartow"]

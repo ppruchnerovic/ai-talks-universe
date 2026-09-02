@@ -4,7 +4,7 @@ title: "AI Skills Navigator: Accelerate tech skills with personalized learning |
 slug: ai-skills-navigator-accelerate-tech-skills-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Shreenidhi Bindinganavile Ramanuja", "Matt Erni"]

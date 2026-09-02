@@ -4,7 +4,7 @@ title: "From VR to Flat Screens: Bridging the Input and Immersion Gap"
 slug: from-vr-to-flat-screens-bridging-the-input-and-immersion-gap
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Dany Lepage"]

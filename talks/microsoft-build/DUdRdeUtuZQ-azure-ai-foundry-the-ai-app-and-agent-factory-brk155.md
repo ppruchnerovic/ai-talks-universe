@@ -4,7 +4,7 @@ title: "Azure AI Foundry: The AI app and Agent Factory | BRK155"
 slug: azure-ai-foundry-the-ai-app-and-agent-factory-brk155
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

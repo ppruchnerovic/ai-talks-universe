@@ -4,7 +4,7 @@ title: "5,5 prompt injection techniques in 15 minutes by Brian Vermeer"
 slug: 5-5-prompt-injection-techniques-in-15-minutes-by-brian
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Brian Vermeer"]

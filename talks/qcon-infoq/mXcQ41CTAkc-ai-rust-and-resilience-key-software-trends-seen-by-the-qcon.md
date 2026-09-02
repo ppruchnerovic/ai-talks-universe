@@ -4,7 +4,7 @@ title: "AI, Rust, and Resilience: Key Software Trends Seen by the QCon San Franc
 slug: ai-rust-and-resilience-key-software-trends-seen-by-the-qcon
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

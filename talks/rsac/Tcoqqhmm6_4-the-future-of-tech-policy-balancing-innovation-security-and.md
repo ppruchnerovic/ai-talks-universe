@@ -4,7 +4,7 @@ title: "The Future of Tech Policy: Balancing Innovation, Security, and Regulatio
 slug: the-future-of-tech-policy-balancing-innovation-security-and
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []

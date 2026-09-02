@@ -4,7 +4,7 @@ title: "CoServe: Max Performance, Minimal Compute | Ray Summit 2025"
 slug: coserve-max-performance-minimal-compute-ray-summit-2025
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "SANS360 Talks | Breaking the Black Box- Why Testing generative Al is Ful
 slug: sans360-talks-breaking-the-black-box-why-testing-generative
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

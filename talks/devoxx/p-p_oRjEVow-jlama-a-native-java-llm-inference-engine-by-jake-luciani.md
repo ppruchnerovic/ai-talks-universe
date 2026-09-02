@@ -4,7 +4,7 @@ title: "Jlama: A Native Java LLM inference engine by Jake Luciani"
 slug: jlama-a-native-java-llm-inference-engine-by-jake-luciani
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Jake Luciani"]

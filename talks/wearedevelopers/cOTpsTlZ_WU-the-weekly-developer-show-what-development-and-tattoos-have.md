@@ -4,7 +4,7 @@ title: "The weekly developer show: What Development and Tattoos Have in Common"
 slug: the-weekly-developer-show-what-development-and-tattoos-have
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Building a Product-First Engineering Culture in the Age of AI"
 slug: building-a-product-first-engineering-culture-in-the-age-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "GenAI at Scale: Red Hat CTO's $1M to $500/Mo Cost Secret"
 slug: genai-at-scale-red-hat-cto-s-1m-to-500-mo-cost-secret
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Factory Co-Founder & CTO on Building Reliable AI Agents | LangChain Inte
 slug: factory-co-founder-cto-on-building-reliable-ai-agents
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

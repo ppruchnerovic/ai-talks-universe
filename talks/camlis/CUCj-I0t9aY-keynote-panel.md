@@ -4,7 +4,7 @@ title: "Keynote Panel"
 slug: keynote-panel
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

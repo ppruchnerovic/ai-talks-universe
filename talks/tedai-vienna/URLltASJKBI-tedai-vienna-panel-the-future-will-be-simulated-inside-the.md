@@ -4,7 +4,7 @@ title: "TEDAI Vienna Panel - The Future Will Be Simulated: Inside the New Fronti
 slug: tedai-vienna-panel-the-future-will-be-simulated-inside-the
 conference: tedai-vienna
 conference_name: "TEDAI Vienna"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "TEDAI Vienna 2025"
 year: 2025
 speakers: []

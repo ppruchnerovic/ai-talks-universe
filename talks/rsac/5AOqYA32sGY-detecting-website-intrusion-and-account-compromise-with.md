@@ -4,7 +4,7 @@ title: "Detecting Website Intrusion and Account Compromise with Machine Learning
 slug: detecting-website-intrusion-and-account-compromise-with
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Robin Franklin Guha"]

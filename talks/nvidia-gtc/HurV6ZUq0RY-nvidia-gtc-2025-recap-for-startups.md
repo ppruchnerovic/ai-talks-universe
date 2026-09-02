@@ -4,7 +4,7 @@ title: "NVIDIA GTC 2025: Recap for Startups"
 slug: nvidia-gtc-2025-recap-for-startups
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

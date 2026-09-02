@@ -4,7 +4,7 @@ title: "Protecting your data at speed and scale with AI-powered data security | 
 slug: protecting-your-data-at-speed-and-scale-with-ai-powered
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Tanay Baldua", "Paige Johnson", "Arun Kumar"]

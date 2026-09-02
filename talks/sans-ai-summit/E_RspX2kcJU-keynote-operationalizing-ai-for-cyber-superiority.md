@@ -4,7 +4,7 @@ title: "Keynote: Operationalizing AI for Cyber Superiority"
 slug: keynote-operationalizing-ai-for-cyber-superiority
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

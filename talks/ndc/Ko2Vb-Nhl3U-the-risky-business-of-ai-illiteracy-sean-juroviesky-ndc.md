@@ -4,7 +4,7 @@ title: "The Risky Business, of AI Illiteracy - Sean Juroviesky - NDC Security 20
 slug: the-risky-business-of-ai-illiteracy-sean-juroviesky-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Sean Juroviesky"]

@@ -4,7 +4,7 @@ title: "Physical AI: the new era of robotics"
 slug: physical-ai-the-new-era-of-robotics
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Jacklyn Dallas", "Kanishka Rao", "Alberto Rodriguez"]

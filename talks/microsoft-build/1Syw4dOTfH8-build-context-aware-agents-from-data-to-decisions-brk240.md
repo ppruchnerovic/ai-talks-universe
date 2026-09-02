@@ -4,7 +4,7 @@ title: "Build context-aware agents: From data to decisions | BRK240"
 slug: build-context-aware-agents-from-data-to-decisions-brk240
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Amanda Silver", "Marco Casalaina"]

@@ -4,7 +4,7 @@ title: "A No-Code ML Forecasting Platform for Retail and CPG Companies"
 slug: a-no-code-ml-forecasting-platform-for-retail-and-cpg
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

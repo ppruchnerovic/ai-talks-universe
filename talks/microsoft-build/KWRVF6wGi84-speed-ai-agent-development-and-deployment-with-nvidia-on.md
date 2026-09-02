@@ -4,7 +4,7 @@ title: "Speed AI Agent development and deployment with NVIDIA on Azure | BRKFP25
 slug: speed-ai-agent-development-and-deployment-with-nvidia-on
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

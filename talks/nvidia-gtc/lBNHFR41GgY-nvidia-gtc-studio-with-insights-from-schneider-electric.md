@@ -4,7 +4,7 @@ title: "NVIDIA GTC Studio with Insights from Schneider Electric"
 slug: nvidia-gtc-studio-with-insights-from-schneider-electric
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []

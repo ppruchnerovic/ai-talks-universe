@@ -4,7 +4,7 @@ title: "What's new in the Gemma open model family"
 slug: what-s-new-in-the-gemma-open-model-family
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Ian Ballantyne", "Gus Martins", "Olivier Lacombe"]

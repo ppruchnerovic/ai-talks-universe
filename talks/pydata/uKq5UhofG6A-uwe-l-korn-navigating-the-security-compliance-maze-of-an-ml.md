@@ -4,7 +4,7 @@ title: "Uwe L. Korn - Navigating the security compliance maze of an ML service"
 slug: uwe-l-korn-navigating-the-security-compliance-maze-of-an-ml
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Uwe L. Korn"]

@@ -4,7 +4,7 @@ title: "Lessons Learned in Migrating to Micro-Frontends"
 slug: lessons-learned-in-migrating-to-micro-frontends
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Luca Mezzalira"]

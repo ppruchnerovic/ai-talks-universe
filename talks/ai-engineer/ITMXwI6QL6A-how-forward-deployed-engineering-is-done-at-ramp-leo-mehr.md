@@ -4,7 +4,7 @@ title: "How Forward Deployed Engineering is done at Ramp — Leo Mehr"
 slug: how-forward-deployed-engineering-is-done-at-ramp-leo-mehr
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Leo Mehr"]

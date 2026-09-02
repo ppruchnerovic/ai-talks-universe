@@ -4,7 +4,7 @@ title: "Bring better intelligence to generate better experiences | ODFP997"
 slug: bring-better-intelligence-to-generate-better-experiences
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Scott Kendrick"]

@@ -4,7 +4,7 @@ title: "Timeouts, Retries and Idempotency In Distributed Systems"
 slug: timeouts-retries-and-idempotency-in-distributed-systems
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sam Newman"]

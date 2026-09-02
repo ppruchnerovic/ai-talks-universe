@@ -4,7 +4,7 @@ title: "Keynote: State of Open GenAI - Jim Zemlin, Executive Director, The Linux
 slug: keynote-state-of-open-genai-jim-zemlin-executive-director
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Jim Zemlin"]

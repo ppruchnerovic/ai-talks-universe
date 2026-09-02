@@ -4,7 +4,7 @@ title: "Use a faster smarter cheaper AI-powered assistant in Visual Studio | ODF
 slug: use-a-faster-smarter-cheaper-ai-powered-assistant-in-visual
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

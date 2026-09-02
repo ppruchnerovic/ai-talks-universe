@@ -4,7 +4,7 @@ title: "The Next Medium: Why Real-Time Interactive Video Changes Everything — 
 slug: the-next-medium-why-real-time-interactive-video-changes
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ahmed Ahres"]

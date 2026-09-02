@@ -4,7 +4,7 @@ title: "Security Partner Growth: Harness the Power of AI in Security Copilot | B
 slug: security-partner-growth-harness-the-power-of-ai-in-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mona Ghadiri", "James Key", "Jose Lazaro", "Heena Macwan", "Debac Manikandan"]

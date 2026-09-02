@@ -4,7 +4,7 @@ title: "OpenThoughts: Data Recipes for Reasoning Models — Ryan Marten, Bespoke
 slug: openthoughts-data-recipes-for-reasoning-models-ryan-marten
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ryan Marten"]

@@ -4,7 +4,7 @@ title: "Real-Time Data Infrastructure and AI: Powering the Next Generation of An
 slug: real-time-data-infrastructure-and-ai-powering-the-next
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Aaron Katz"]

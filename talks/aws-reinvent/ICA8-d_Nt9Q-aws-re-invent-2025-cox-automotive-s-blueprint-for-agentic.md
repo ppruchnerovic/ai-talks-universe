@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Cox Automotive's Blueprint for Agentic AI on Amazon
 slug: aws-re-invent-2025-cox-automotive-s-blueprint-for-agentic
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

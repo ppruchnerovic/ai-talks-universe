@@ -4,7 +4,7 @@ title: "When Will The Benchmaxxing Plague End? — Nick Heiner, Surge AI"
 slug: when-will-the-benchmaxxing-plague-end-nick-heiner-surge-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Heiner"]

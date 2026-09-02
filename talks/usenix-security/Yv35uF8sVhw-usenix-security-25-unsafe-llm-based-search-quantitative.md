@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Unsafe LLM-Based Search: Quantitative Analysis and
 slug: usenix-security-25-unsafe-llm-based-search-quantitative
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

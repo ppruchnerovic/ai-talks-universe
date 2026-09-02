@@ -4,7 +4,7 @@ title: "Ines Montani - Vibe NLP for Applied NLP | Pydata London 26"
 slug: ines-montani-vibe-nlp-for-applied-nlp-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ines Montani"]

@@ -4,7 +4,7 @@ title: "Evaluating large language models with Ray in hybrid cloud"
 slug: evaluating-large-language-models-with-ray-in-hybrid-cloud
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

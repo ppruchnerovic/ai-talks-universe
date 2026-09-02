@@ -4,7 +4,7 @@ title: "Keynote: Welcome Back - Matt White, with Special Guest Joe Spisak, Meta"
 slug: keynote-welcome-back-matt-white-with-special-guest-joe
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Matt White"]

@@ -4,7 +4,7 @@ title: "Build and deploy AI at the edge for real-world impact | OD837"
 slug: build-and-deploy-ai-at-the-edge-for-real-world-impact-od837
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Roycey Cheeran", "Cosmos Darwin"]

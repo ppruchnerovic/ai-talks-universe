@@ -4,7 +4,7 @@ title: "Uncovering Supply Chain Attack with Code Genome Framework"
 slug: uncovering-supply-chain-attack-with-code-genome-framework
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

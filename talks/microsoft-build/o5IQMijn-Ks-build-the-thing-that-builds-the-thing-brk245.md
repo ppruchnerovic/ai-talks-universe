@@ -4,7 +4,7 @@ title: "Build the thing that builds the thing | BRK245"
 slug: build-the-thing-that-builds-the-thing-brk245
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Peter Steinberger"]

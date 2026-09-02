@@ -4,7 +4,7 @@ title: "Respect The Process - Andrew Dumit, Watershed Technology Inc."
 slug: respect-the-process-andrew-dumit-watershed-technology-inc
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Andrew Dumit"]

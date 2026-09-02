@@ -4,7 +4,7 @@ title: "How to capture the marketplace opportunity | BRK343"
 slug: how-to-capture-the-marketplace-opportunity-brk343
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kristyn Maddox"]

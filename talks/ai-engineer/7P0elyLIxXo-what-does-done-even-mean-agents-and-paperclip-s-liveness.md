@@ -4,7 +4,7 @@ title: "What Does Done Even Mean? Agents and Paperclip's Liveness Model - Dotta,
 slug: what-does-done-even-mean-agents-and-paperclip-s-liveness
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

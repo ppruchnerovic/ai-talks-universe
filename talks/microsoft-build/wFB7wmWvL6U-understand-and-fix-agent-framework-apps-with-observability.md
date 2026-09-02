@@ -4,7 +4,7 @@ title: "Understand and fix Agent Framework apps with observability and evals | D
 slug: understand-and-fix-agent-framework-apps-with-observability
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["James Bennett"]

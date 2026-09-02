@@ -4,7 +4,7 @@ title: "The Future of Power Platform: Intelligent Apps | BRK171"
 slug: the-future-of-power-platform-intelligent-apps-brk171
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jonathan Beck", "Ryan Cunningham", "Clay Wesener"]

@@ -4,7 +4,7 @@ title: "Buildpacks: Towards 1.0, AI and Other Things - Aidan Delaney, Bloomberg"
 slug: buildpacks-towards-1-0-ai-and-other-things-aidan-delaney
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Aidan Delaney"]

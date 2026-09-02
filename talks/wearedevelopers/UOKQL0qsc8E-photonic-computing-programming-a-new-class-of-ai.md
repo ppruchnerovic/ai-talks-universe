@@ -4,7 +4,7 @@ title: "Photonic Computing: Programming a New Class of AI Accelerators (incl. Li
 slug: photonic-computing-programming-a-new-class-of-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christoph Lohrmann", "Utz Bacher"]

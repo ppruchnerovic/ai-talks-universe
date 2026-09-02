@@ -4,7 +4,7 @@ title: "PepsiCo’s blueprint for agentic AI | BRK224"
 slug: pepsicos-blueprint-for-agentic-ai-brk224
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rishabh Saha", "Bob Ward", "Krunalkumar Patel"]

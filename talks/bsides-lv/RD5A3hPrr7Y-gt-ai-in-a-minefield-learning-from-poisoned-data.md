@@ -4,7 +4,7 @@ title: "GT - AI in a Minefield: Learning from Poisoned Data"
 slug: gt-ai-in-a-minefield-learning-from-poisoned-data
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2021
 speakers: []

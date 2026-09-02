@@ -4,7 +4,7 @@ title: "The agent-quality flywheel: Using Gemini Enterprise Agent Platform evalu
 slug: the-agent-quality-flywheel-using-gemini-enterprise-agent
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Dima Melnyk", "Alex Martin", "Daniel Lewis"]

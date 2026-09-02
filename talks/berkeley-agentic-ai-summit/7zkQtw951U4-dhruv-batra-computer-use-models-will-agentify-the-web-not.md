@@ -4,7 +4,7 @@ title: "Dhruv Batra - Computer Use Models Will Agentify the Web, Not APIs"
 slug: dhruv-batra-computer-use-models-will-agentify-the-web-not
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Dhruv Batra"]

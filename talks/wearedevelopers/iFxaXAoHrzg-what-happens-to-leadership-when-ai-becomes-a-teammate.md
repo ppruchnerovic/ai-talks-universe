@@ -4,7 +4,7 @@ title: "What Happens to Leadership When AI Becomes a Teammate?"
 slug: what-happens-to-leadership-when-ai-becomes-a-teammate
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

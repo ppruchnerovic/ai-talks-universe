@@ -4,7 +4,7 @@ title: "Delivering business results with app innovation: Customer insights | BRK
 slug: delivering-business-results-with-app-innovation-customer
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mike Hulme", "John Lolis", "Abhay Pradhan", "Sandeep Sahasrabudhe", "Melba Swapna"]

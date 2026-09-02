@@ -4,7 +4,7 @@ title: "From fork() to Fleet: Designing an Agent Sandbox Cloud — Abhishek Bhar
 slug: from-fork-to-fleet-designing-an-agent-sandbox-cloud
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Abhishek Bhardwaj"]

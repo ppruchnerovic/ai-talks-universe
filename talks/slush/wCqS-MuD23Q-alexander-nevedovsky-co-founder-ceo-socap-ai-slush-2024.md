@@ -4,7 +4,7 @@ title: "Alexander Nevedovsky, Co-founder & CEO @Socap.ai | Slush 2024"
 slug: alexander-nevedovsky-co-founder-ceo-socap-ai-slush-2024
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Alexander Nevedovsky"]

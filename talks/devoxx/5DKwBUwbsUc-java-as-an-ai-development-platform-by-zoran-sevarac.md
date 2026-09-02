@@ -4,7 +4,7 @@ title: "Java as an AI development Platform by Zoran Sevarac"
 slug: java-as-an-ai-development-platform-by-zoran-sevarac
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Zoran Sevarac"]

@@ -4,7 +4,7 @@ title: "AI use cases to transform your Oracle workloads in Azure | BRK164"
 slug: ai-use-cases-to-transform-your-oracle-workloads-in-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sudhakar Dalavi", "Venkataraman Ramakrishnan", "Rajya Laxmi Yellajosyula"]

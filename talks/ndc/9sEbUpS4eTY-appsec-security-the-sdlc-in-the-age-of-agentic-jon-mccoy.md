@@ -4,7 +4,7 @@ title: "AppSec Security: The SDLC in the age of agentic - Jon Mccoy - NDC Securi
 slug: appsec-security-the-sdlc-in-the-age-of-agentic-jon-mccoy
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jon Mccoy"]

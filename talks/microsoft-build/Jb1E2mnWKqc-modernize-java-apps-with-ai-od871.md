@@ -4,7 +4,7 @@ title: "Modernize Java apps with AI​ | OD871"
 slug: modernize-java-apps-with-ai-od871
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Ayan Gupta", "Sandra Ahlgrimm", "Yoshio Terada"]

@@ -4,7 +4,7 @@ title: "Smarter AI Agents with Azure Managed Redis | BRK129"
 slug: smarter-ai-agents-with-azure-managed-redis-brk129
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Simon Brown", "Shruti Pathak", "Georgios Theologou", "Mark Weitzel"]

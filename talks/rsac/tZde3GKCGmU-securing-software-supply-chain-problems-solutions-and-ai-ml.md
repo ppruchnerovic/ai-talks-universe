@@ -4,7 +4,7 @@ title: "Securing Software Supply Chain: Problems, Solutions, and AI/ML Challenge
 slug: securing-software-supply-chain-problems-solutions-and-ai-ml
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Viswanath Chirravuri"]

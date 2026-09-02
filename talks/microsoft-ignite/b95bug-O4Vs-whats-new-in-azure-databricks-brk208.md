@@ -4,7 +4,7 @@ title: "What’s new in Azure Databricks | BRK208"
 slug: whats-new-in-azure-databricks-brk208
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lindsey Allen", "Robert Saxby"]

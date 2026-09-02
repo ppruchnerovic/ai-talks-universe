@@ -4,7 +4,7 @@ title: "From Model T to Machine Learning: A Glimpse into Ford's MLOps and Hybrid
 slug: from-model-t-to-machine-learning-a-glimpse-into-ford-s
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: []

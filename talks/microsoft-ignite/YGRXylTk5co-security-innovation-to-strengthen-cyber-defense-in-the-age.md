@@ -4,7 +4,7 @@ title: "Security Innovation to Strengthen Cyber Defense in the Age of AI | GS07"
 slug: security-innovation-to-strengthen-cyber-defense-in-the-age
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Joy Chik", "Vasu Jakkal", "Rob Lefferts", "Michael Wallent"]

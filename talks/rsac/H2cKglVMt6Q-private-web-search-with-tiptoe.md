@@ -4,7 +4,7 @@ title: "Private Web Search with Tiptoe"
 slug: private-web-search-with-tiptoe
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Burt Kaliski"]

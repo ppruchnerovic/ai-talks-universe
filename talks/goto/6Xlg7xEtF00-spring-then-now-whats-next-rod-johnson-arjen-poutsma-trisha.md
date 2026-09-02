@@ -4,7 +4,7 @@ title: "Spring Then & Now: What’s Next? • Rod Johnson, Arjen Poutsma & Trish
 slug: spring-then-now-whats-next-rod-johnson-arjen-poutsma-trisha
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Rod Johnson"]

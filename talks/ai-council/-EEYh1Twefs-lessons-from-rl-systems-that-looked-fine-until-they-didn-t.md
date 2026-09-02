@@ -4,7 +4,7 @@ title: "Lessons From RL Systems That Looked Fine Until They Didn't | Aethon"
 slug: lessons-from-rl-systems-that-looked-fine-until-they-didn-t
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

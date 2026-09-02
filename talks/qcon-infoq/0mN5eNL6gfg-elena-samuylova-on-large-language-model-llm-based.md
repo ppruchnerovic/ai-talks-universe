@@ -4,7 +4,7 @@ title: "Elena Samuylova on Large Language Model (LLM) Based Application Evaluati
 slug: elena-samuylova-on-large-language-model-llm-based
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

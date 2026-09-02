@@ -4,7 +4,7 @@ title: "High-Throughput ML: Mastering Efficient Model Serving at Enterprise Scal
 slug: high-throughput-ml-mastering-efficient-model-serving-at
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

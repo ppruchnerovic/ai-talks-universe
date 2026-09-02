@@ -4,7 +4,7 @@ title: "Marcela Brichtová Piptová - Getting reliable text when PDFs lie and OC
 slug: marcela-brichtova-piptova-getting-reliable-text-when-pdfs
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Marcela Brichtová Piptová"]

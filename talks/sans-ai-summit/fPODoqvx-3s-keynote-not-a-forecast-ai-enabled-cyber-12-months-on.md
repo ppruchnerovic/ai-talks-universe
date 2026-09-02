@@ -4,7 +4,7 @@ title: "Keynote: Not a Forecast: AI-Enabled Cyber, 12 Months On"
 slug: keynote-not-a-forecast-ai-enabled-cyber-12-months-on
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2026"
 year: 2026
 speakers: []

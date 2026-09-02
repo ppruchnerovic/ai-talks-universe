@@ -4,7 +4,7 @@ title: "Text Diffusion — Brendan O’Donoghue, Google DeepMind"
 slug: text-diffusion-brendan-odonoghue-google-deepmind
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Text Diffusion"]

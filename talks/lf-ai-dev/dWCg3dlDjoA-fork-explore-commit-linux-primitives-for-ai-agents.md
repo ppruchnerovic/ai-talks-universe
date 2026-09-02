@@ -4,7 +4,7 @@ title: "Fork, Explore, Commit: Linux Primitives for AI Agents Exploration - Cong
 slug: fork-explore-commit-linux-primitives-for-ai-agents
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Cong Wang", "Yusheng Zheng"]

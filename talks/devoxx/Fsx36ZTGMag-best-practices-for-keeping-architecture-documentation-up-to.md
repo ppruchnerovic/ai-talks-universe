@@ -4,7 +4,7 @@ title: "Best Practices for Keeping Architecture Documentation Up to Date - Falk 
 slug: best-practices-for-keeping-architecture-documentation-up-to
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Falk Sippach"]

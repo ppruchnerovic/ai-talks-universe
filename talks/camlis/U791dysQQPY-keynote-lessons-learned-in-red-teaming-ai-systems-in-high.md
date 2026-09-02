@@ -4,7 +4,7 @@ title: "Keynote: Lessons Learned in Red Teaming AI Systems in High-Stakes Enviro
 slug: keynote-lessons-learned-in-red-teaming-ai-systems-in-high
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

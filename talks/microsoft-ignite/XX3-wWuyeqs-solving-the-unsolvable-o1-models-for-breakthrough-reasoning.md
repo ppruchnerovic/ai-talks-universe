@@ -4,7 +4,7 @@ title: "Solving the unsolvable: o1 models for breakthrough reasoning on Azure | 
 slug: solving-the-unsolvable-o1-models-for-breakthrough-reasoning
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Marco Casalaina", "Jennifer Marsman"]

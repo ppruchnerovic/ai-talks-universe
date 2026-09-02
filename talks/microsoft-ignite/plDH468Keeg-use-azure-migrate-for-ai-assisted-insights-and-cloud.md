@@ -4,7 +4,7 @@ title: "Use Azure Migrate for AI assisted insights and cloud transformation | BR
 slug: use-azure-migrate-for-ai-assisted-insights-and-cloud
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shashank Bansal", "Vishal Jain", "Anant Raigaga"]

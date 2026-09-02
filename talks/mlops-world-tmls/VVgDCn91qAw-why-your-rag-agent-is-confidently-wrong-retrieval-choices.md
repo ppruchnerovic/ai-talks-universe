@@ -4,7 +4,7 @@ title: "Why Your RAG Agent Is Confidently Wrong: Retrieval Choices That Actually
 slug: why-your-rag-agent-is-confidently-wrong-retrieval-choices
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AI in the Crosshairs: Exploring Novel Attacks on AWS AI as a Service"
 slug: ai-in-the-crosshairs-exploring-novel-attacks-on-aws-ai-as-a
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

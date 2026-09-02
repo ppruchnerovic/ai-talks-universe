@@ -4,7 +4,7 @@ title: "Build full-stack AI apps in minutes with Firebase Studio"
 slug: build-full-stack-ai-apps-in-minutes-with-firebase-studio
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

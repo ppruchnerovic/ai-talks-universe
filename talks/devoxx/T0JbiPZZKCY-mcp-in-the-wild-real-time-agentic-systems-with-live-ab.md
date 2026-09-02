@@ -4,7 +4,7 @@ title: "MCP in the Wild: Real Time Agentic Systems with Live AB Testing by Arun 
 slug: mcp-in-the-wild-real-time-agentic-systems-with-live-ab
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Arun Gupta"]

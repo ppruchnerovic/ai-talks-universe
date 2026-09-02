@@ -4,7 +4,7 @@ title: "Scaling Ski Resort Visitor Forecasting At Alterra With Snowflake ML"
 slug: scaling-ski-resort-visitor-forecasting-at-alterra-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

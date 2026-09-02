@@ -4,7 +4,7 @@ title: "Skills are the New SDKs - Elvin Aghammadzada, DataRobot"
 slug: skills-are-the-new-sdks-elvin-aghammadzada-datarobot
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Elvin Aghammadzada"]

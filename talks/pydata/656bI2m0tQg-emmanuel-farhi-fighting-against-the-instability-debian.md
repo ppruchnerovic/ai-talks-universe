@@ -4,7 +4,7 @@ title: "Emmanuel Farhi - Fighting against the instability : Debian Science at th
 slug: emmanuel-farhi-fighting-against-the-instability-debian
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Emmanuel Farhi"]

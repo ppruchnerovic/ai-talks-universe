@@ -4,7 +4,7 @@ title: "Restaurants around train stations are bad and I can prove it [PyCon DE &
 slug: restaurants-around-train-stations-are-bad-and-i-can-prove
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Dennis Schulz"]

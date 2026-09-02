@@ -4,7 +4,7 @@ title: "Gergely Daroczi - SELECT instance FROM cloud WHERE workload = ? ORDER BY
 slug: gergely-daroczi-select-instance-from-cloud-where-workload
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Gergely Daroczi"]

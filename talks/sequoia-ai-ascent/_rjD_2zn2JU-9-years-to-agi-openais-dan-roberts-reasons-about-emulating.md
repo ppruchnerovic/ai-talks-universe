@@ -4,7 +4,7 @@ title: "9 Years to AGI? OpenAI’s Dan Roberts Reasons About Emulating Einstein"
 slug: 9-years-to-agi-openais-dan-roberts-reasons-about-emulating
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

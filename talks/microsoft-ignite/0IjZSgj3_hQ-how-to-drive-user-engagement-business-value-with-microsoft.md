@@ -4,7 +4,7 @@ title: "How to drive user engagement & business value with Microsoft 365 Copilot
 slug: how-to-drive-user-engagement-business-value-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jesus Barrera Ramos", "Alyson Ginesta", "Martina Grom", "Cynthia Johnson"]

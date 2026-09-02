@@ -4,7 +4,7 @@ title: "The weekly developer show: Should We Respect LLMs, Whats the Fuss Around
 slug: the-weekly-developer-show-should-we-respect-llms-whats-the
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

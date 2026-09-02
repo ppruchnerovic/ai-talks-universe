@@ -4,7 +4,7 @@ title: "LLM performance with Retrieval-Augmented-Generation | AI for Energy Util
 slug: llm-performance-with-retrieval-augmented-generation-ai-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Max Zurkinden"]

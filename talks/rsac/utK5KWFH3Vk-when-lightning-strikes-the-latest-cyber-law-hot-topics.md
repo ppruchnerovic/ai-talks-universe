@@ -4,7 +4,7 @@ title: "When Lightning Strikes: The Latest Cyber Law Hot Topics"
 slug: when-lightning-strikes-the-latest-cyber-law-hot-topics
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

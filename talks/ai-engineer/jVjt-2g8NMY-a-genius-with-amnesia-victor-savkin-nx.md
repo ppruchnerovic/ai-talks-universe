@@ -4,7 +4,7 @@ title: "A Genius With Amnesia - Victor Savkin, Nx"
 slug: a-genius-with-amnesia-victor-savkin-nx
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Victor Savkin"]

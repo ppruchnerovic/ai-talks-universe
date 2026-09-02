@@ -4,7 +4,7 @@ title: "MCPs are Boring (or: Why we are losing the Sparkle of LLMs) - Manuel Ode
 slug: mcps-are-boring-or-why-we-are-losing-the-sparkle-of-llms
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Manuel Odendahl"]

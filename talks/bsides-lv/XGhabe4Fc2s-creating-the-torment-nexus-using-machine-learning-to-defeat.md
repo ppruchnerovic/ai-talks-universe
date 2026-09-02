@@ -4,7 +4,7 @@ title: "Creating the Torment Nexus: Using Machine Learning to Defeat Machine Lea
 slug: creating-the-torment-nexus-using-machine-learning-to-defeat
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

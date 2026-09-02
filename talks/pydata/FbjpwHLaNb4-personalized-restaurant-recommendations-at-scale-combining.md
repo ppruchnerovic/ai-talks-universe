@@ -4,7 +4,7 @@ title: "Personalized Restaurant Recommendations at Scale combining Transformer w
 slug: personalized-restaurant-recommendations-at-scale-combining
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Marcel Kurovski"]

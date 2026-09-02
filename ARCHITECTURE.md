@@ -164,7 +164,7 @@ erDiagram
         string description "cleaned: link-only lines, hashtag walls and Subscribe lines stripped"
         list speakers "stated by a seed or InfoQ, else read out of title and description"
         string conference "registry slug"
-        string category "from the registry"
+        string category "the conference type — kind of venue, one of five, from the registry"
         string edition "the source label, e.g. a playlist"
         int year "the edition's year, not the upload date"
         string published_at "upload time; for a seed, when the talk was given"
@@ -246,8 +246,11 @@ that carries it.
 ### What a talk is about
 
 `category` is a fact about the conference — every talk inherits one of five
-registry labels — so it cannot follow a subject inside a programme. `topics`
-is per talk and multi-valued: fifteen subjects (`atu.TOPICS`), each a list of
+registry labels, which name the kind of venue (*Practitioner AI
+conferences*, *General software conferences*, *Security conferences*,
+*Vendor events*, *Business & industry events*) and are presented in the
+browser as **Conference type** — so it cannot follow a subject inside a
+programme. `topics` is per talk and multi-valued: fifteen subjects (`atu.TOPICS`), each a list of
 phrases compiled with the same word boundaries as the AI-relevance test.
 
 ```mermaid
@@ -407,11 +410,11 @@ sequenceDiagram
     U->>P: open the page
     P->>M: fetch once, ~5.6 MiB gzipped by Pages
     P->>X: fetch _manifest.json (shard list, doc lengths, stopwords)
-    Note over P: build the conference / category / topic / year facets from the data
+    Note over P: build the conference / conference type / topic / year facets from the data
     U->>P: type "agent evaluation"
     Note over P: stem the words → agent, evalu
     P->>X: fetch ag.json and ev.json — one shard per two-letter prefix
-    Note over P: metadata layer from search-meta fields<br/>title 9 · tags 5 · speakers 4 · conference 3 · category 2 · abstract 2<br/>description postings (d) and metadata df (m) come from the shard,<br/>so the 300-char clip is display only
+    Note over P: metadata layer from search-meta fields<br/>title 9 · tags 5 · speakers 4 · conference 3 · abstract 2<br/>description postings (d) and metadata df (m) come from the shard,<br/>so the 300-char clip is display only
     Note over P: transcript layer: idf (f) and postings (p) from the shard,<br/>BM25 with the manifest's doc lengths, passage co-occurrence bonus
     Note over P: gate: every word somewhere, then relax one word at a time<br/>and say which in the status line
     P-->>U: ranked cards, hash carries the query
@@ -644,6 +647,26 @@ yet, so a green run reads its skip count: the last full run skipped nothing.
   "security" and the MCP summit's "mcp", which are the conferences' subjects.
   Topics enter no ranker and no FTS table, so adding them changed nothing
   about which talk answers a query, only which talks a filter admits.
+
+- **The category is a venue, not a subject, and enters no ranker.** Its five
+  labels were renamed on 2026-09-02 to say so — *AI security* became
+  *Security conferences*, *AI engineering & agents* became *Practitioner AI
+  conferences* — because once the topic facet shipped, the old names read as
+  a second, coarser subject list beside *Security, safety & red teaming* and
+  *Agents & orchestration*. The facet itself is not redundant: 577 of the
+  1,314 security-topic talks are from security conferences, 276 from general
+  software conferences, 219 from vendor events, and the security conferences
+  hold 122 talks on agents; the two facets cross, and questions like
+  "security-conference speakers on agents" need both. The browser's
+  metadata layer had scored the label at weight 2 and counted its words
+  toward the every-word-somewhere gate, so "security" matched every talk at
+  ten security conferences whether or not the talk was about security. The
+  CLI's `talks_fts` never held the column. The browser stopped scoring it on
+  2026-09-02 and `build_index.py` stopped counting it in the metadata
+  document frequency, so the two rankers now score the same fields. The
+  field, the CSV column, the `g` key and the `--category` flag keep their
+  names; only the labels and the page's wording changed, and `#f-cat` and
+  its hash parameter are untouched so shared links resolve.
 
 - **Talks are keyed by YouTube video id, but the indexes use a dense integer.**
   Repeating an 11-character id in every posting would roughly treble the browser

@@ -4,7 +4,7 @@ title: "Voice AI: when is the \"Her\" moment? — Neil Zeghidour, CEO, Gradium A
 slug: voice-ai-when-is-the-her-moment-neil-zeghidour-ceo-gradium
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Neil Zeghidour"]

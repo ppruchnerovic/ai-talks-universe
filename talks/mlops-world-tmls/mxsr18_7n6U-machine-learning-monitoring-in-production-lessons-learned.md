@@ -4,7 +4,7 @@ title: "Machine Learning Monitoring in Production: Lessons learned from 30+ Use 
 slug: machine-learning-monitoring-in-production-lessons-learned
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Lina Weichbrodt"]

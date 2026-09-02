@@ -4,7 +4,7 @@ title: "Beyond AI firewalls: A data-first approach to securing your enterprise A
 slug: beyond-ai-firewalls-a-data-first-approach-to-securing-your
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

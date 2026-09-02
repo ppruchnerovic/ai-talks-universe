@@ -4,7 +4,7 @@ title: "AI as an Amplifier: State of AI-Assisted Software Development • Nathen
 slug: ai-as-an-amplifier-state-of-ai-assisted-software
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Nathen Harvey"]

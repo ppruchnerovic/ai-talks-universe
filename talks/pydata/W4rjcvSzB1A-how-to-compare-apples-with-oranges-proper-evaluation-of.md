@@ -4,7 +4,7 @@ title: "How to compare apples with oranges: Proper evaluation of article-level d
 slug: how-to-compare-apples-with-oranges-proper-evaluation-of
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Stefan Birr"]

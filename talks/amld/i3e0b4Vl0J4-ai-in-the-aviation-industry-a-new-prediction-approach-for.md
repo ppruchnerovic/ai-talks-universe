@@ -4,7 +4,7 @@ title: "AI in the aviation Industry:A new prediction approach for airlines 2 | A
 slug: ai-in-the-aviation-industry-a-new-prediction-approach-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

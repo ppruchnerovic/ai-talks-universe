@@ -4,7 +4,7 @@ title: "It’s All About The Data Continuously Improve ML Models, The Data-Centr
 slug: its-all-about-the-data-continuously-improve-ml-models-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Bernease Herman"]

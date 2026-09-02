@@ -4,7 +4,7 @@ title: "Accelerating migration and modernization in financial services | BRK368"
 slug: accelerating-migration-and-modernization-in-financial
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pradeep Raman", "Jesse Sheldon"]

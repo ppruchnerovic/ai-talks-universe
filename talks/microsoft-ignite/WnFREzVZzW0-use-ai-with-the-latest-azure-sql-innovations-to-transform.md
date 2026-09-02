@@ -4,7 +4,7 @@ title: "Use AI with the latest Azure SQL innovations to transform your data | BR
 slug: use-ai-with-the-latest-azure-sql-innovations-to-transform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["John Tracy", "Bob Ward", "Muazma Zahid"]

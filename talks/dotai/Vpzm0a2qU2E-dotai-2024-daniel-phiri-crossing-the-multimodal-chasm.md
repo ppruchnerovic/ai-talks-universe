@@ -4,7 +4,7 @@ title: "dotAI 2024 - Daniel Phiri - Crossing the multimodal chasm"
 slug: dotai-2024-daniel-phiri-crossing-the-multimodal-chasm
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Daniel Phiri"]

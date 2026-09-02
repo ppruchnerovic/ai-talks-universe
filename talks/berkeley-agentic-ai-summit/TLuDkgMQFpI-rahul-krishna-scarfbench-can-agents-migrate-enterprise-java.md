@@ -4,7 +4,7 @@ title: "Rahul Krishna - ScarfBench: Can Agents Migrate Enterprise Java?"
 slug: rahul-krishna-scarfbench-can-agents-migrate-enterprise-java
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Rahul Krishna"]

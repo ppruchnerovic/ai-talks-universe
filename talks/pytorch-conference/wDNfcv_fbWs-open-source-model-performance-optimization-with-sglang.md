@@ -4,7 +4,7 @@ title: "Open Source Model Performance Optimization With SGLang - Yineng Zhang, T
 slug: open-source-model-performance-optimization-with-sglang
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Yineng Zhang"]

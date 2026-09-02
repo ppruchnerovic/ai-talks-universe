@@ -4,7 +4,7 @@ title: "Platforms for Secure API Connectivity with Architecture as Code"
 slug: platforms-for-secure-api-connectivity-with-architecture-as
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Jim Gough"]

@@ -4,7 +4,7 @@ title: "SaTML 2023 - Gorka Abad - Sniper Backdoor: Single Client Targeted Backdo
 slug: satml-2023-gorka-abad-sniper-backdoor-single-client
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Gorka Abad"]

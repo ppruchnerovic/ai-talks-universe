@@ -4,7 +4,7 @@ title: "Rethinking CI: Actions, AI Agents, and the End of Commit-Fail-Commit | D
 slug: rethinking-ci-actions-ai-agents-and-the-end-of-commit-fail
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Salil Subbakrishna", "Denizhan Yigitbas"]

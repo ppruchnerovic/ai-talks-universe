@@ -4,7 +4,7 @@ title: "Unleash on-device AI with Snapdragon X Series | BRKFP255"
 slug: unleash-on-device-ai-with-snapdragon-x-series-brkfp255
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

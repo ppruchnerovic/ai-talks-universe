@@ -4,7 +4,7 @@ title: "State of the Art of Java in 2026 • Ben Evans • GOTO 2026"
 slug: state-of-the-art-of-java-in-2026-ben-evans-goto-2026
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ben Evans"]

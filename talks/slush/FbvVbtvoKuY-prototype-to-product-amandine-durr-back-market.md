@@ -4,7 +4,7 @@ title: "Prototype to Product | Amandine Durr (Back Market)"
 slug: prototype-to-product-amandine-durr-back-market
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Amandine Durr"]

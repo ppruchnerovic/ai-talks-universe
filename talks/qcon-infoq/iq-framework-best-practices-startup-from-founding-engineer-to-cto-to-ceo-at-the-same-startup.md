@@ -4,7 +4,7 @@ title: "From Founding Engineer to CTO to CEO – at the Same Startup"
 slug: from-founding-engineer-to-cto-to-ceo-at-the-same-startup
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Trisha Ballakur"]

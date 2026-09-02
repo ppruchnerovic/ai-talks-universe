@@ -4,7 +4,7 @@ title: "Forward Deployed Engineering at Cursor — Pauline Brunet"
 slug: forward-deployed-engineering-at-cursor-pauline-brunet
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Pauline Brunet"]

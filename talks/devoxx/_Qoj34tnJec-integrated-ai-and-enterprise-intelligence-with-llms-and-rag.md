@@ -4,7 +4,7 @@ title: "Integrated AI and Enterprise Intelligence with LLMs and RAG by Felix Huc
 slug: integrated-ai-and-enterprise-intelligence-with-llms-and-rag
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Felix Huchzermeyer"]

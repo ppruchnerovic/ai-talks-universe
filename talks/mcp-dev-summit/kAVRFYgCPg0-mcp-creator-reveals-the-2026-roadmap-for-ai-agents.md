@@ -4,7 +4,7 @@ title: "MCP Creator Reveals the 2026 Roadmap for AI Agents"
 slug: mcp-creator-reveals-the-2026-roadmap-for-ai-agents
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

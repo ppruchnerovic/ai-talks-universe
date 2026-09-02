@@ -4,7 +4,7 @@ title: "Azure IaaS best practices to enhance performance and scale | BRK173"
 slug: azure-iaas-best-practices-to-enhance-performance-and-scale
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yi Chai", "Varun Shandilya", "Amit Srivastava"]

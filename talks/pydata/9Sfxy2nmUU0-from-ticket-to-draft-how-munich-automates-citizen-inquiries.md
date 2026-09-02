@@ -4,7 +4,7 @@ title: "From Ticket to Draft: How Munich Automates Citizen Inquiries with AI [Py
 slug: from-ticket-to-draft-how-munich-automates-citizen-inquiries
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Leon Lukas"]

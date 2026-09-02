@@ -4,7 +4,7 @@ title: "Exploring the Agent landscape | BRK147"
 slug: exploring-the-agent-landscape-brk147
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

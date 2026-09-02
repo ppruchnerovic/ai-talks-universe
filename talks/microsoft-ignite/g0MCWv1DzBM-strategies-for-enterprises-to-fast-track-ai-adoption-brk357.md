@@ -4,7 +4,7 @@ title: "Strategies for Enterprises to Fast-Track AI Adoption | BRK357"
 slug: strategies-for-enterprises-to-fast-track-ai-adoption-brk357
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Shlomi Avigdor", "Surojit Chatterjee", "Tom Davis", "Gil Perry"]

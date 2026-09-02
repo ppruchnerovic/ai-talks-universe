@@ -4,7 +4,7 @@ title: "Create a world that works better for IT and field service teams | ODFP98
 slug: create-a-world-that-works-better-for-it-and-field-service
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Markus Gremmelmaier"]

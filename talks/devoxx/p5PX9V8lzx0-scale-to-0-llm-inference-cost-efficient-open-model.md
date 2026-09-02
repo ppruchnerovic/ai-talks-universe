@@ -4,7 +4,7 @@ title: "Scale to 0 LLM inference: Cost efficient open model deployment on server
 slug: scale-to-0-llm-inference-cost-efficient-open-model
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Wietse Venema"]

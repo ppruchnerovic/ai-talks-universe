@@ -4,7 +4,7 @@ title: "Dynamic Scheduling for Large Language Model Serving | Ray Summit 2024"
 slug: dynamic-scheduling-for-large-language-model-serving-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

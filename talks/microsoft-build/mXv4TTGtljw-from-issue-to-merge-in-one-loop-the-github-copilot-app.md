@@ -4,7 +4,7 @@ title: "From issue to merge in one loop: the GitHub Copilot app | LIVE162"
 slug: from-issue-to-merge-in-one-loop-the-github-copilot-app
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Seth Juarez", "Burke Holland"]

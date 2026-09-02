@@ -4,7 +4,7 @@ title: "Deploy. Observe. Learn. Reinforcement learning for production agents | B
 slug: deploy-observe-learn-reinforcement-learning-for-production
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Alicia Frame", "Omkar More"]

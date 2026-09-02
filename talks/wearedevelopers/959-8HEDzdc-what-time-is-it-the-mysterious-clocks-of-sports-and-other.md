@@ -4,7 +4,7 @@ title: "What time is it? The mysterious clocks of sports and other things we do.
 slug: what-time-is-it-the-mysterious-clocks-of-sports-and-other
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Clemens Vasters"]

@@ -4,7 +4,7 @@ title: "Simplify app dev with cloud-native PostgreSQL in Azure HorizonDB | DEM36
 slug: simplify-app-dev-with-cloud-native-postgresql-in-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Maxim Lukiyanov"]

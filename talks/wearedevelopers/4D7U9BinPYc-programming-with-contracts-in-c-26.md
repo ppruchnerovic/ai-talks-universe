@@ -4,7 +4,7 @@ title: "Programming with Contracts in C++26"
 slug: programming-with-contracts-in-c-26
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Peter Bindels"]

@@ -4,7 +4,7 @@ title: "Are Your Red Teaming Efforts Giving Bad Actors An Advantage? AI Security
 slug: are-your-red-teaming-efforts-giving-bad-actors-an-advantage
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

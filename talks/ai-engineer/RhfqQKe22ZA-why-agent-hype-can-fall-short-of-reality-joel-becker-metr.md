@@ -4,7 +4,7 @@ title: "Why Agent Hype can fall short of reality – Joel Becker, METR"
 slug: why-agent-hype-can-fall-short-of-reality-joel-becker-metr
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Joel Becker"]

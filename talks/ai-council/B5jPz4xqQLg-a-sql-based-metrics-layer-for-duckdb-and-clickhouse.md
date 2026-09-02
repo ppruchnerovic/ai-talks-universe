@@ -4,7 +4,7 @@ title: "A SQL Based Metrics Layer for DuckDB and ClickHouse"
 slug: a-sql-based-metrics-layer-for-duckdb-and-clickhouse
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Mike Driscoll"]

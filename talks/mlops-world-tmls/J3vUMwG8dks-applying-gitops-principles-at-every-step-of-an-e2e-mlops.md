@@ -4,7 +4,7 @@ title: "Applying GitOps Principles At Every Step Of An E2E MLOps Project - An In
 slug: applying-gitops-principles-at-every-step-of-an-e2e-mlops
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Tibor Mach"]

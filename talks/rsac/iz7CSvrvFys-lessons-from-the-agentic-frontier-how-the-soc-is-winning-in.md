@@ -4,7 +4,7 @@ title: "Lessons From the Agentic Frontier: How the SOC is Winning in the AI Era"
 slug: lessons-from-the-agentic-frontier-how-the-soc-is-winning-in
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2026
 speakers: []

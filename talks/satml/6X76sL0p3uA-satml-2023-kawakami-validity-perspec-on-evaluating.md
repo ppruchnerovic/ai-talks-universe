@@ -4,7 +4,7 @@ title: "SaTML 2023 - Kawakami - Validity Perspec on Evaluating Justified Use of 
 slug: satml-2023-kawakami-validity-perspec-on-evaluating
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | PhantomRPC: A New Privilege Escalation Flaw in Win
 slug: black-hat-asia-2026-phantomrpc-a-new-privilege-escalation
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

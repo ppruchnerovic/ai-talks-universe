@@ -4,7 +4,7 @@ title: "Securing LLM-Powered Apps: Overcoming Security and Privacy Challenges - 
 slug: securing-llm-powered-apps-overcoming-security-and-privacy
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Brian Vermeer", "Lize Raes"]

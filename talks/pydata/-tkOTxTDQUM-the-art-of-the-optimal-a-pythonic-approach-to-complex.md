@@ -4,7 +4,7 @@ title: "The Art of the Optimal: A Pythonic Approach to Complex Decision-Making [
 slug: the-art-of-the-optimal-a-pythonic-approach-to-complex
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Justine Broihan"]

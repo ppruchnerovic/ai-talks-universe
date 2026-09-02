@@ -4,7 +4,7 @@ title: "Engineering Agents at Scale | Nancy Burditt, Atlas Cloud | The Next Wave
 slug: engineering-agents-at-scale-nancy-burditt-atlas-cloud-the
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Nancy Burditt"]

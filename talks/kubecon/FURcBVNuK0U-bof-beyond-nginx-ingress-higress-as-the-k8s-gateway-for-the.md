@@ -4,7 +4,7 @@ title: "BoF | Beyond Nginx Ingress: Higress as the K8s Gateway for the AI Era"
 slug: bof-beyond-nginx-ingress-higress-as-the-k8s-gateway-for-the
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

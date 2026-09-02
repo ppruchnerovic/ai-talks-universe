@@ -4,7 +4,7 @@ title: "The Reckless Speed of AI Agents: Architectural Amnesia EXPOSED"
 slug: the-reckless-speed-of-ai-agents-architectural-amnesia
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

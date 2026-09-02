@@ -4,7 +4,7 @@ title: "Scaling Kubernetes securely and reliably with AKS | BRK120"
 slug: scaling-kubernetes-securely-and-reliably-with-aks-brk120
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Brendan Burns", "Jorge Palma", "Durga Rachapudi"]

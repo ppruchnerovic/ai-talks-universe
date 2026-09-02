@@ -4,7 +4,7 @@ title: "The Technical Talent Market in 2026: How Decision-makers Are... Anna Her
 slug: the-technical-talent-market-in-2026-how-decision-makers-are
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []

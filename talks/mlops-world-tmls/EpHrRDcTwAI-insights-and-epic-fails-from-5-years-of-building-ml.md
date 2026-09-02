@@ -4,7 +4,7 @@ title: "Insights and Epic Fails from 5 Years of Building ML Platforms | Eric Rid
 slug: insights-and-epic-fails-from-5-years-of-building-ml
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Eric Riddoch"]

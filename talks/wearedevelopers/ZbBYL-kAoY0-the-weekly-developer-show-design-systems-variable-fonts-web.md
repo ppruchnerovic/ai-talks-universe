@@ -4,7 +4,7 @@ title: "The weekly developer show: Design Systems, Variable Fonts & Web Typograp
 slug: the-weekly-developer-show-design-systems-variable-fonts-web
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

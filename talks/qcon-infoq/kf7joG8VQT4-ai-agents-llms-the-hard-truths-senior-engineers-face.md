@@ -4,7 +4,7 @@ title: "AI Agents & LLMs: The Hard Truths Senior Engineers Face"
 slug: ai-agents-llms-the-hard-truths-senior-engineers-face
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

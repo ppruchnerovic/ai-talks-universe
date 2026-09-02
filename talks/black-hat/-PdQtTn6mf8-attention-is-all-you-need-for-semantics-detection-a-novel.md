@@ -4,7 +4,7 @@ title: "Attention Is All You Need for Semantics Detection: A Novel Transformer o
 slug: attention-is-all-you-need-for-semantics-detection-a-novel
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

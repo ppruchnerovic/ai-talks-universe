@@ -4,7 +4,7 @@ title: "Powering Azure Fabric and AI with Eon’s Data Lake | ODSP1447"
 slug: powering-azure-fabric-and-ai-with-eons-data-lake-odsp1447
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

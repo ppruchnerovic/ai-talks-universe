@@ -4,7 +4,7 @@ title: "Azure OpenAI Service for Start Ups and Digital-First Companies | OD839"
 slug: azure-openai-service-for-start-ups-and-digital-first
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andy Beatman", "Mike Murchison"]

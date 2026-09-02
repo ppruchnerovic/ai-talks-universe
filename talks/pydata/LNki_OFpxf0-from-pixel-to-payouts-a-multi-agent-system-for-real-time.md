@@ -4,7 +4,7 @@ title: "From Pixel to Payouts: A Multi-Agent System for Real-Time Insurance Clai
 slug: from-pixel-to-payouts-a-multi-agent-system-for-real-time
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Claudio Giorgio Giancaterino"]

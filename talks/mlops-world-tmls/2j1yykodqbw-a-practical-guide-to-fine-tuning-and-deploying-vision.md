@@ -4,7 +4,7 @@ title: "A Practical Guide to Fine-Tuning and Deploying Vision Models | Zac Carri
 slug: a-practical-guide-to-fine-tuning-and-deploying-vision
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Zac Carrico"]

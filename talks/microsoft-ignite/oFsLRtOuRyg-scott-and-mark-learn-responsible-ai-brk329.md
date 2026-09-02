@@ -4,7 +4,7 @@ title: "Scott and Mark learn responsible AI | BRK329"
 slug: scott-and-mark-learn-responsible-ai-brk329
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Russinovich", "Scott Hanselman"]

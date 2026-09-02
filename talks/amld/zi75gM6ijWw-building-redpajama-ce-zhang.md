@@ -4,7 +4,7 @@ title: "Building RedPajama | Ce Zhang"
 slug: building-redpajama-ce-zhang
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Ce Zhang"]

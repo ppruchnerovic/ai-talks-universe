@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Generative AI strategy: accelerating path to produc
 slug: aws-re-invent-2025-generative-ai-strategy-accelerating-path
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

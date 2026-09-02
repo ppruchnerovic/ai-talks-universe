@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Stefano Pasquali: Building Trustworthy AI for Finance"
 slug: ai-dev-25-x-nyc-stefano-pasquali-building-trustworthy-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

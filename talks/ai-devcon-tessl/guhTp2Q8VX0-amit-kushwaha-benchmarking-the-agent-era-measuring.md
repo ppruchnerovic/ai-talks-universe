@@ -4,7 +4,7 @@ title: "Amit Kushwaha - Benchmarking the Agent Era: Measuring Performance Beyond
 slug: amit-kushwaha-benchmarking-the-agent-era-measuring
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Amit Kushwaha"]

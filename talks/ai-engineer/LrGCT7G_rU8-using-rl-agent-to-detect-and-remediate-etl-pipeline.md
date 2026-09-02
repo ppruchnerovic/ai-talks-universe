@@ -4,7 +4,7 @@ title: "Using RL Agent to Detect and Remediate ETL Pipeline Failures - Anna Mari
 slug: using-rl-agent-to-detect-and-remediate-etl-pipeline
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anna Marie Benzon"]

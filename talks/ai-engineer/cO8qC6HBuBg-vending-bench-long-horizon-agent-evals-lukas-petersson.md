@@ -4,7 +4,7 @@ title: "Vending-Bench: Long-Horizon Agent Evals — Lukas Petersson, Andon Labs"
 slug: vending-bench-long-horizon-agent-evals-lukas-petersson
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lukas Petersson"]

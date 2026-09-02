@@ -4,7 +4,7 @@ title: "[Keynote] MCP201: The Protocol in Depth with David Soria Parra at Anthro
 slug: keynote-mcp201-the-protocol-in-depth-with-david-soria-parra
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

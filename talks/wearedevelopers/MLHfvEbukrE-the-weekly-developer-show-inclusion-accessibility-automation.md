@@ -4,7 +4,7 @@ title: "The weekly developer show: Inclusion, Accessibility & Automation"
 slug: the-weekly-developer-show-inclusion-accessibility-automation
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Compose the Future: Building Agentic Applications, Made Simple with Dock
 slug: compose-the-future-building-agentic-applications-made
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

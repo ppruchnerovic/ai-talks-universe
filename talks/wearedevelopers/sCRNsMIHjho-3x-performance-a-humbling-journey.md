@@ -4,7 +4,7 @@ title: "3x Performance: A Humbling Journey"
 slug: 3x-performance-a-humbling-journey
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Luca Trușcă"]

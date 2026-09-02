@@ -4,7 +4,7 @@ title: "Samantha Cole - Deep Fakes Panel - DEF CON 27 AI Village"
 slug: samantha-cole-deep-fakes-panel-def-con-27-ai-village
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Samantha Cole"]

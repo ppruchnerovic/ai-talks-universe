@@ -4,7 +4,7 @@ title: "Fun stories from building OpenRouter and where all this is going - Alex 
 slug: fun-stories-from-building-openrouter-and-where-all-this-is
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Alex Atallah"]

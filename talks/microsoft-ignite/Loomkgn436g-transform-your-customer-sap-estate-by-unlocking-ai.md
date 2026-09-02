@@ -4,7 +4,7 @@ title: "Transform your customer SAP estate by unlocking AI innovation | BRK249"
 slug: transform-your-customer-sap-estate-by-unlocking-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ralf Huebenthal", "Skand Mittal", "Veronika Reger", "Nathan Weaver"]

@@ -4,7 +4,7 @@ title: "Using GenAI on your code, what could possibly go wrong? -"
 slug: using-genai-on-your-code-what-could-possibly-go-wrong
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: []

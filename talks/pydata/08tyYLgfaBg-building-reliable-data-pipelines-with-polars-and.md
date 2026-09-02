@@ -4,7 +4,7 @@ title: "Building reliable data pipelines with polars and dataframely [PyCon DE &
 slug: building-reliable-data-pipelines-with-polars-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Oliver Borchert"]

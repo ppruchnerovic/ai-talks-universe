@@ -4,7 +4,7 @@ title: "From Inventory to Accelerator: What Happens When a Large AI Org Builds D
 slug: from-inventory-to-accelerator-what-happens-when-a-large-ai
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

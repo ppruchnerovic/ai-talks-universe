@@ -4,7 +4,7 @@ title: "Signals & Levers â€¢ Elisabeth Hendrickson, Joel Tosi & Charles Humble â
 slug: signals-levers-elisabeth-hendrickson-joel-tosi-charles
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Elisabeth Hendrickson"]

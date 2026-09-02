@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Formula 1 Extends Fandom with AI, Data, and AWS Med
 slug: aws-re-invent-2025-formula-1-extends-fandom-with-ai-data
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

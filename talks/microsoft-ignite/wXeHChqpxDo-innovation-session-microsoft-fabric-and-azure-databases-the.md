@@ -4,7 +4,7 @@ title: "Innovation Session: Microsoft Fabric and Azure Databases - the data esta
 slug: innovation-session-microsoft-fabric-and-azure-databases-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Arun Ulag", "Michel Porter"]

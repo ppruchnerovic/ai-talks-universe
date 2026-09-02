@@ -4,7 +4,7 @@ title: "Adaptive Experimental Design for Intrusion Data Collection"
 slug: adaptive-experimental-design-for-intrusion-data-collection
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

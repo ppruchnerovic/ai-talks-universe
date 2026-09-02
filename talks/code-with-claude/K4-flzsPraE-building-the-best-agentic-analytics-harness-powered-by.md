@@ -4,7 +4,7 @@ title: "Building the best agentic analytics harness: Powered by Claude, built wi
 slug: building-the-best-agentic-analytics-harness-powered-by
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

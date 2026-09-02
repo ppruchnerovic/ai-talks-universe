@@ -4,7 +4,7 @@ title: "Programming robots | LIVE141"
 slug: programming-robots-live141
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chip Huyen", "John Maeda"]

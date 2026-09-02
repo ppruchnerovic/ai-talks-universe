@@ -4,7 +4,7 @@ title: "Majorana 2: The Topological Leap Toward Quantum Computing at Scale | DEM
 slug: majorana-2-the-topological-leap-toward-quantum-computing-at
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Roman Lutchyn"]

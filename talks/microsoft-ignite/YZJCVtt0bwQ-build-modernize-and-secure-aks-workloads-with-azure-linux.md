@@ -4,7 +4,7 @@ title: "Build, modernize, and secure AKS workloads with Azure Linux | BRK144"
 slug: build-modernize-and-secure-aks-workloads-with-azure-linux
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sudhanva Huruli", "Dongha Paek"]

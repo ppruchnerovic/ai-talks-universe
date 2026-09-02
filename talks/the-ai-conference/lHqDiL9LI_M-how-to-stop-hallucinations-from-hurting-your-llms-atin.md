@@ -4,7 +4,7 @@ title: "How to Stop Hallucinations from Hurting your LLMs, Atin Sanyal, Co-Found
 slug: how-to-stop-hallucinations-from-hurting-your-llms-atin
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

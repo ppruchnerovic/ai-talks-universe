@@ -4,7 +4,7 @@ title: "Jacob Tomlinson- Documenting your open source projects for machines | Py
 slug: jacob-tomlinson-documenting-your-open-source-projects-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

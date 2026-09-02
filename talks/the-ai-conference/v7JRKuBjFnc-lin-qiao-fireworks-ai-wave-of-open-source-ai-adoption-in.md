@@ -4,7 +4,7 @@ title: "Lin Qiao, Fireworks AI: Wave of Open Source AI Adoption in 2025"
 slug: lin-qiao-fireworks-ai-wave-of-open-source-ai-adoption-in
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

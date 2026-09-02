@@ -4,7 +4,7 @@ title: "The LLM-Cloud Synergy: NebiusAI's Insider Perspective | Ray Summit 2024"
 slug: the-llm-cloud-synergy-nebiusai-s-insider-perspective-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

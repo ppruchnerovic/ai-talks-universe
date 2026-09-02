@@ -4,7 +4,7 @@ title: "Aidan Cunniffe - Tracking AI generated code with Git | DevCon Fall 2025"
 slug: aidan-cunniffe-tracking-ai-generated-code-with-git-devcon
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Aidan Cunniffe"]

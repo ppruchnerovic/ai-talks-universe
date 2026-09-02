@@ -4,7 +4,7 @@ title: "Under the hood and into the magic of GitHub Copilot | BRK108"
 slug: under-the-hood-and-into-the-magic-of-github-copilot-brk108
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

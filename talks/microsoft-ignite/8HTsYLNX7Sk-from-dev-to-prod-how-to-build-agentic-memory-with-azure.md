@@ -4,7 +4,7 @@ title: "From DEV to PROD: How to build agentic memory with Azure Cosmos DB | BRK
 slug: from-dev-to-prod-how-to-build-agentic-memory-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Derek Boudreau", "Kendall Brasch", "James Codella", "Felipe Morales Heerlein"]

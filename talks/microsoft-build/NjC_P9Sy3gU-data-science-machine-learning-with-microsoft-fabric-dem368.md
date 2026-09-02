@@ -4,7 +4,7 @@ title: "Data Science & Machine Learning with Microsoft Fabric | DEM368"
 slug: data-science-machine-learning-with-microsoft-fabric-dem368
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Prashant G Bhoyar"]

@@ -4,7 +4,7 @@ title: "Live Platform: A unique value-added services delivery platform | ODSP147
 slug: live-platform-a-unique-value-added-services-delivery
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Benny Matityahu"]

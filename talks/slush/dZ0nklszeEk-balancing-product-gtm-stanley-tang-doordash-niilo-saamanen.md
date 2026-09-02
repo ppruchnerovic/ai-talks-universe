@@ -4,7 +4,7 @@ title: "Balancing Product & GTM | Stanley Tang (DoorDash) & Niilo Säämänen (W
 slug: balancing-product-gtm-stanley-tang-doordash-niilo-saamanen
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stanley Tang"]

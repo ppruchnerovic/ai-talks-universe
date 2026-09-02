@@ -4,7 +4,7 @@ title: "Flying Beyond Keywords: Our Aviation Semantic Search Journey"
 slug: flying-beyond-keywords-our-aviation-semantic-search-journey
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Dat Tran"]

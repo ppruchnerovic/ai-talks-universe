@@ -4,7 +4,7 @@ title: "How Autodesk Built a Next-Gen Deep Learning Platform with Ray | Ray Summ
 slug: how-autodesk-built-a-next-gen-deep-learning-platform-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

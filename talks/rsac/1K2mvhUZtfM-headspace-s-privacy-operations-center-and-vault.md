@@ -4,7 +4,7 @@ title: "Headspace's Privacy Operations Center and Vault"
 slug: headspace-s-privacy-operations-center-and-vault
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Shobhit Mehta"]

@@ -4,7 +4,7 @@ title: "Designing Reliable Multi‑Agent Apps with Azure Cosmos DB | OD820"
 slug: designing-reliable-multiagent-apps-with-azure-cosmos-db
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Heterogenous Graph Embedding for Malicious Azure Sign-in Detection (CAML
 slug: heterogenous-graph-embedding-for-malicious-azure-sign-in
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

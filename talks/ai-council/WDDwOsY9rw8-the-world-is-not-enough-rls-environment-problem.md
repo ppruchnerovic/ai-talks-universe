@@ -4,7 +4,7 @@ title: "The World Is Not Enough: RL’s Environment Problem"
 slug: the-world-is-not-enough-rls-environment-problem
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

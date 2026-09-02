@@ -4,7 +4,7 @@ title: "Top Essentials for an Integrated, AI-Ready Security Foundation​ | BRK2
 slug: top-essentials-for-an-integrated-ai-ready-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Eric Sachs"]

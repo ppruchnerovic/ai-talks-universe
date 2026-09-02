@@ -4,7 +4,7 @@ title: "Florenz Hollebrandse - Fast-Track Your AI-ML Model Integration | PyData 
 slug: florenz-hollebrandse-fast-track-your-ai-ml-model
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Florenz Hollebrandse"]

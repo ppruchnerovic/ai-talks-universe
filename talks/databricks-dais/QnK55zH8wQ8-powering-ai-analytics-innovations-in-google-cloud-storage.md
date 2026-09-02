@@ -4,7 +4,7 @@ title: "Powering AI & Analytics: Innovations in Google Cloud Storage for Data La
 slug: powering-ai-analytics-innovations-in-google-cloud-storage
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

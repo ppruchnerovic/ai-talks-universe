@@ -4,7 +4,7 @@ title: "Building Distributed Event-Driven Architectures across Multi-Cloud Bound
 slug: building-distributed-event-driven-architectures-across
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Teena Idnani"]

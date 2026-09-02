@@ -4,7 +4,7 @@ title: "OpenClaw in Your Hand: Building a Physical AI Terminal - Lech Kalinowski
 slug: openclaw-in-your-hand-building-a-physical-ai-terminal-lech
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Lech Kalinowski"]

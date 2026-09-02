@@ -4,7 +4,7 @@ title: "Ian Thomas - AI Native Engineering - AI Native DevCon June 2026"
 slug: ian-thomas-ai-native-engineering-ai-native-devcon-june-2026
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Ian Thomas"]

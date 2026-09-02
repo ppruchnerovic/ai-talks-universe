@@ -4,7 +4,7 @@ title: "Inside the Threat Landscape: 2025 Digital Defense Report Takeaways | BRK
 slug: inside-the-threat-landscape-2025-digital-defense-report
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

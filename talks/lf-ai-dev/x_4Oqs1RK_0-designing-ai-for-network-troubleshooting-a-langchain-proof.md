@@ -4,7 +4,7 @@ title: "Designing AI for Network Troubleshooting: A Langchain Proof of Concept -
 slug: designing-ai-for-network-troubleshooting-a-langchain-proof
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Jesus Illescas"]

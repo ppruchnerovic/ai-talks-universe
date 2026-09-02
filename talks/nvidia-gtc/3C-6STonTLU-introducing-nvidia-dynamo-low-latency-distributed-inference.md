@@ -4,7 +4,7 @@ title: "Introducing NVIDIA Dynamo: Low-Latency Distributed Inference for Scaling
 slug: introducing-nvidia-dynamo-low-latency-distributed-inference
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

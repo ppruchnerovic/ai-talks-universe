@@ -4,7 +4,7 @@ title: "Ralph Loops: Build Dumb AI Loops That Ship — Chris Parsons, Cherrypick
 slug: ralph-loops-build-dumb-ai-loops-that-ship-chris-parsons
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chris Parsons"]

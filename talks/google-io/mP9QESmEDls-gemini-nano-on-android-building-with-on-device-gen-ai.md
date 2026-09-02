@@ -4,7 +4,7 @@ title: "Gemini Nano on Android: Building with on-device gen AI"
 slug: gemini-nano-on-android-building-with-on-device-gen-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

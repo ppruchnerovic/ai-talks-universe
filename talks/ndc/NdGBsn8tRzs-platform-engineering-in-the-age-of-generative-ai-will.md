@@ -4,7 +4,7 @@ title: "Platform Engineering in the age of Generative AI - Will Velida - NDC Syd
 slug: platform-engineering-in-the-age-of-generative-ai-will
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Will Velida"]

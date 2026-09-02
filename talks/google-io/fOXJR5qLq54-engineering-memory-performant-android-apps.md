@@ -4,7 +4,7 @@ title: "Engineering memory-performant Android apps"
 slug: engineering-memory-performant-android-apps
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Alice Yuan", "Ajesh Pai", "Fung Lam"]

@@ -4,7 +4,7 @@ title: "The Deconstructed Database and the Advent of the Open Data Lake"
 slug: the-deconstructed-database-and-the-advent-of-the-open-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Julien Le Dem"]

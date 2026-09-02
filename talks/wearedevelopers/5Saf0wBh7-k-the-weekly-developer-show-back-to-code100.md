@@ -4,7 +4,7 @@ title: "The weekly developer show: Back to CODE100"
 slug: the-weekly-developer-show-back-to-code100
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

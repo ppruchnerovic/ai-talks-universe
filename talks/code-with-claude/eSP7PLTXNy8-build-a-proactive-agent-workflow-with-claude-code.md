@@ -4,7 +4,7 @@ title: "Build a proactive agent workflow with Claude Code"
 slug: build-a-proactive-agent-workflow-with-claude-code
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

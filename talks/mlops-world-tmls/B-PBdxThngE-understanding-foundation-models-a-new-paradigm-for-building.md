@@ -4,7 +4,7 @@ title: "Understanding Foundation Models a New Paradigm for Building and Producti
 slug: understanding-foundation-models-a-new-paradigm-for-building
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Hagay Lupesko"]

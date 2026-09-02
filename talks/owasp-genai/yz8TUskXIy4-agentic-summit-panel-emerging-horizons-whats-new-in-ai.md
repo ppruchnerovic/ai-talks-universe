@@ -4,7 +4,7 @@ title: "Agentic Summit Panel Emerging Horizons Whats new in AI Research"
 slug: agentic-summit-panel-emerging-horizons-whats-new-in-ai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

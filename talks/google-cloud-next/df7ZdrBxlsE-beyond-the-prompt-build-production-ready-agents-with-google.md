@@ -4,7 +4,7 @@ title: "Beyond the prompt: Build production-ready agents with Google's MCP serve
 slug: beyond-the-prompt-build-production-ready-agents-with-google
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Vidya Nagarajan", "Tarun Gumar", "Keren He", "Levi Chen"]

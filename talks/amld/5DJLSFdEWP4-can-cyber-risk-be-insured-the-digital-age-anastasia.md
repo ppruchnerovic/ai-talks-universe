@@ -4,7 +4,7 @@ title: "Can cyber risk be insured? | The Digital Age | Anastasia Kartasheva"
 slug: can-cyber-risk-be-insured-the-digital-age-anastasia
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Anastasia Kartasheva"]

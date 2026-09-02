@@ -4,7 +4,7 @@ title: "Inside Google DeepMind | Armand Joulin, Google DeepMind"
 slug: inside-google-deepmind-armand-joulin-google-deepmind
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: ["Armand Joulin"]

@@ -4,7 +4,7 @@ title: "MCP doesn’t suck — your agent does"
 slug: mcp-doesnt-suck-your-agent-does
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Jan Curn"]

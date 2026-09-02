@@ -4,7 +4,7 @@ title: "OpenAI Killed My Startup - How Product-First Companies Fight Back"
 slug: openai-killed-my-startup-how-product-first-companies-fight
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Han-chung Lee"]

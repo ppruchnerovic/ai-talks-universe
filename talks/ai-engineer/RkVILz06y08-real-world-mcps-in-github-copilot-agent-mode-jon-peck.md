@@ -4,7 +4,7 @@ title: "Real world MCPs in GitHub Copilot Agent Mode — Jon Peck, Microsoft"
 slug: real-world-mcps-in-github-copilot-agent-mode-jon-peck
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jon Peck"]

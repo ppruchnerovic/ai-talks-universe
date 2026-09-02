@@ -4,7 +4,7 @@ title: "Everything Everywhere All at Once Object Store Native"
 slug: everything-everywhere-all-at-once-object-store-native
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Vishnu Vasanth"]

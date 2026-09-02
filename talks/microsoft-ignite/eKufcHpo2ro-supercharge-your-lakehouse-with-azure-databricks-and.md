@@ -4,7 +4,7 @@ title: "Supercharge your lakehouse with Azure Databricks and Microsoft Fabric | 
 slug: supercharge-your-lakehouse-with-azure-databricks-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lindsey Allen", "Robert Saxby"]

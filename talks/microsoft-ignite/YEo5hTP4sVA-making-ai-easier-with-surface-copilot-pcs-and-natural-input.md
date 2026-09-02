@@ -4,7 +4,7 @@ title: "Making AI easier with Surface Copilot+ PCs and natural input | BRK301"
 slug: making-ai-easier-with-surface-copilot-pcs-and-natural-input
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Erica Arnold", "Andrea Rubin"]

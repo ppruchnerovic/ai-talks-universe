@@ -4,7 +4,7 @@ title: "Trapped in the AI Error Loop: Why Smart Systems Keep Making Dumb Mistake
 slug: trapped-in-the-ai-error-loop-why-smart-systems-keep-making
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Omphile Matheolane"]

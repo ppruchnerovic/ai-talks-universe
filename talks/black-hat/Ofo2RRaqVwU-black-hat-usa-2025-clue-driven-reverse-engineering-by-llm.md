@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Clue-Driven Reverse Engineering by LLM in Real-Worl
 slug: black-hat-usa-2025-clue-driven-reverse-engineering-by-llm
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

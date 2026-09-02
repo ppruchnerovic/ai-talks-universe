@@ -4,7 +4,7 @@ title: "Keynote: Building with Mistral - Sophia Yang, Head of Developer Relation
 slug: keynote-building-with-mistral-sophia-yang-head-of-developer
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Sophia Yang"]

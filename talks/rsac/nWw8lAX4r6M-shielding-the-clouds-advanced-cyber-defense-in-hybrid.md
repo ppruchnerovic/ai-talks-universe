@@ -4,7 +4,7 @@ title: "Shielding the Clouds: Advanced Cyber Defense in Hybrid Environments"
 slug: shielding-the-clouds-advanced-cyber-defense-in-hybrid
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Craig Connors"]

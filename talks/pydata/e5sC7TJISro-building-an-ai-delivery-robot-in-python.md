@@ -4,7 +4,7 @@ title: "Building an AI Delivery Robot in Python"
 slug: building-an-ai-delivery-robot-in-python
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

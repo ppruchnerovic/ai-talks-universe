@@ -4,7 +4,7 @@ title: "Margaritha Groenendijk - Decoding and Shifting Team Culture From Any Sea
 slug: margaritha-groenendijk-decoding-and-shifting-team-culture
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Margaritha Groenendijk"]

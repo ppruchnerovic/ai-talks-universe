@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Architecting multicloud solutions from data mesh to
 slug: aws-re-invent-2025-architecting-multicloud-solutions-from
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Ray + vLLM Efficient Multi Node Orchestration for Sparse MoE Model Servi
 slug: ray-vllm-efficient-multi-node-orchestration-for-sparse-moe
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

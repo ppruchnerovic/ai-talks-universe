@@ -4,7 +4,7 @@ title: "GT - ZERO-RULES Alert Contextualizer & Correlator"
 slug: gt-zero-rules-alert-contextualizer-correlator
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

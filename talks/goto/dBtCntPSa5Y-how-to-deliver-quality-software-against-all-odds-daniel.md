@@ -4,7 +4,7 @@ title: "How to Deliver Quality Software Against All Odds • Daniel Terhorst-Nor
 slug: how-to-deliver-quality-software-against-all-odds-daniel
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: []

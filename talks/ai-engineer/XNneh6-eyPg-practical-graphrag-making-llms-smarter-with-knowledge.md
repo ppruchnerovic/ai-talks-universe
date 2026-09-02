@@ -4,7 +4,7 @@ title: "Practical GraphRAG: Making LLMs smarter with Knowledge Graphs — Michae
 slug: practical-graphrag-making-llms-smarter-with-knowledge
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Desktop Applications: Yes, We Still Exist in the Era of AI!!!"
 slug: desktop-applications-yes-we-still-exist-in-the-era-of-ai
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

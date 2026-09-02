@@ -4,7 +4,7 @@ title: "The State Of Agentic AI Security: Risks, Governance, and Global Regulati
 slug: the-state-of-agentic-ai-security-risks-governance-and
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

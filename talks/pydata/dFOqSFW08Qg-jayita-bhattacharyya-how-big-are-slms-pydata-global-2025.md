@@ -4,7 +4,7 @@ title: "Jayita Bhattacharyya-How Big are SLMs - PyData Global 2025"
 slug: jayita-bhattacharyya-how-big-are-slms-pydata-global-2025
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Traditional ML at Scale: Implementing Classical Techniques With Databric
 slug: traditional-ml-at-scale-implementing-classical-techniques
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

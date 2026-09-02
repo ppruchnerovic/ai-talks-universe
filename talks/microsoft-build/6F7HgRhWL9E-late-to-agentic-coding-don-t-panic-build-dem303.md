@@ -4,7 +4,7 @@ title: "Late to agentic coding? Don't panic, build. | DEM303"
 slug: late-to-agentic-coding-don-t-panic-build-dem303
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Cassidy Williams", "Martin Woodward"]

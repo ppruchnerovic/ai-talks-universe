@@ -4,7 +4,7 @@ title: "How Microsoft's data platform is creating value for partners | PBRK231"
 slug: how-microsoft-s-data-platform-is-creating-value-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

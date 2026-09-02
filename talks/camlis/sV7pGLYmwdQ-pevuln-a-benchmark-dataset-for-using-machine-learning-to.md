@@ -4,7 +4,7 @@ title: "PEVuln: A Benchmark Dataset for Using Machine Learning to Detect Vulnera
 slug: pevuln-a-benchmark-dataset-for-using-machine-learning-to
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

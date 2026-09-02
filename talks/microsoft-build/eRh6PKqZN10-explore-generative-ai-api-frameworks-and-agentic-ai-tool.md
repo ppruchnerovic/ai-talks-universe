@@ -4,7 +4,7 @@ title: "Explore generative AI API frameworks and agentic AI tool chain | DEMFP78
 slug: explore-generative-ai-api-frameworks-and-agentic-ai-tool
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

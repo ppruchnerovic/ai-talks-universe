@@ -4,7 +4,7 @@ title: "Securing America: Readiness, Response, and Resilience for Critical Infra
 slug: securing-america-readiness-response-and-resilience-for
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

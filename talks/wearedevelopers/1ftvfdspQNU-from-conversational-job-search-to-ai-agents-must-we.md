@@ -4,7 +4,7 @@ title: "From conversational job search to AI agents, must we reinvent recruitmen
 slug: from-conversational-job-search-to-ai-agents-must-we
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Robindro Ullah"]

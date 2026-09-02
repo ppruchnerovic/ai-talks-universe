@@ -4,7 +4,7 @@ title: "How BlackRock Builds Custom Knowledge Apps at Scale — Vaibhav Page & I
 slug: how-blackrock-builds-custom-knowledge-apps-at-scale-vaibhav
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Vaibhav Page", "Infant Vasanth"]

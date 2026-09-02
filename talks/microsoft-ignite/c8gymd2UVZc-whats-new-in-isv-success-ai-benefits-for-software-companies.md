@@ -4,7 +4,7 @@ title: "What’s new in ISV Success - AI benefits for software companies and mor
 slug: whats-new-in-isv-success-ai-benefits-for-software-companies
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mike Mason", "Yvonne Muench", "Olivia Nix"]

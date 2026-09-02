@@ -4,7 +4,7 @@ title: "The weekly developer show: Scammer Payback with Python, Grok Goes Unhing
 slug: the-weekly-developer-show-scammer-payback-with-python-grok
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Implementing MLOps Practices on AWS using Amazon SageMaker"
 slug: implementing-mlops-practices-on-aws-using-amazon-sagemaker
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Shelbee Eigenbrode"]

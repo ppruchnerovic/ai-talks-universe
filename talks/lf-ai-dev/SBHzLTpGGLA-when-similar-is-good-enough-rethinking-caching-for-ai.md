@@ -4,7 +4,7 @@ title: "When Similar Is Good Enough: Rethinking Caching for AI - Madelyn Olson &
 slug: when-similar-is-good-enough-rethinking-caching-for-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Madelyn Olson", "Jacob Murphy"]

@@ -4,7 +4,7 @@ title: "Accelerate Azure Development with GitHub Copilot VS Code & AI | BRK118"
 slug: accelerate-azure-development-with-github-copilot-vs-code-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

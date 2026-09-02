@@ -4,7 +4,7 @@ title: "Sanjiban Sengupta - Advancements in optimizing ML Inference at CERN"
 slug: sanjiban-sengupta-advancements-in-optimizing-ml-inference
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Sanjiban Sengupta"]

@@ -4,7 +4,7 @@ title: "AI to Enable Clinical Data Reuse for Research and Care Support | Clinica
 slug: ai-to-enable-clinical-data-reuse-for-research-and-care
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Stéphane Meystre"]

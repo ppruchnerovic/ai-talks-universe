@@ -4,7 +4,7 @@ title: "SaTML 2023 - Timnit Gebru - Eugenics and the Promise of Utopia through A
 slug: satml-2023-timnit-gebru-eugenics-and-the-promise-of-utopia
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Timnit Gebru"]

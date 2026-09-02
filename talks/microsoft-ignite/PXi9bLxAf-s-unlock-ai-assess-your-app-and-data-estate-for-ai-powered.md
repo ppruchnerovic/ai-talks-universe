@@ -4,7 +4,7 @@ title: "Unlock AI: Assess your app and data estate for AI-powered innovation | B
 slug: unlock-ai-assess-your-app-and-data-estate-for-ai-powered
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jibson Mamerto", "Ikenna Okeke", "Gaurav Seth"]

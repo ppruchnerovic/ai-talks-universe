@@ -4,7 +4,7 @@ title: "Evals vs. Evil - AI and Package Security - Laurie Voss"
 slug: evals-vs-evil-ai-and-package-security-laurie-voss
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Laurie Voss"]

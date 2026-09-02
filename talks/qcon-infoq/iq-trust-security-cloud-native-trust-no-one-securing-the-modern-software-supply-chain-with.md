@@ -4,7 +4,7 @@ title: "Trust No One: Securing the Modern Software Supply Chain with Zero Trust"
 slug: trust-no-one-securing-the-modern-software-supply-chain-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Emma Yuan Fang"]

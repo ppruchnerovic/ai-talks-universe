@@ -4,7 +4,7 @@ title: "How to survive as a developer in the exponential age of AI - Keynote by 
 slug: how-to-survive-as-a-developer-in-the-exponential-age-of-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Sander Hoogendoorn"]

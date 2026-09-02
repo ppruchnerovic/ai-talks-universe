@@ -4,7 +4,7 @@ title: "Raising First Funding Round | Pepe Agell (Pear VC)"
 slug: raising-first-funding-round-pepe-agell-pear-vc
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Raising First Funding Round", "Pepe Agell"]

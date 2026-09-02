@@ -4,7 +4,7 @@ title: "Hyper-Scaling Real-Time Personalization with Privacy via On-Device Compu
 slug: hyper-scaling-real-time-personalization-with-privacy-via-on
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

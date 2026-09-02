@@ -4,7 +4,7 @@ title: "Unlock people & skills insights with new Microsoft 365 Copilot agents | 
 slug: unlock-people-skills-insights-with-new-microsoft-365
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Joao Botto", "Jorie Foss"]

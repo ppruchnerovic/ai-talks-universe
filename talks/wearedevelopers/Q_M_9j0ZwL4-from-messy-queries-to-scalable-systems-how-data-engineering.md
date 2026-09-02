@@ -4,7 +4,7 @@ title: "From Messy Queries to Scalable Systems - How Data Engineering actually w
 slug: from-messy-queries-to-scalable-systems-how-data-engineering
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sandhya Menon"]

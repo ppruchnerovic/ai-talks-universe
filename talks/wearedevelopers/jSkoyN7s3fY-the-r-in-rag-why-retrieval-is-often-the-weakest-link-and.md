@@ -4,7 +4,7 @@ title: "The R in RAG: Why retrieval is often the weakest link (and how to fix it
 slug: the-r-in-rag-why-retrieval-is-often-the-weakest-link-and
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tomek Porożyński"]

@@ -4,7 +4,7 @@ title: "Build autonomous agents in Copilot Studio | BRK160"
 slug: build-autonomous-agents-in-copilot-studio-brk160
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Security Copilot: Empower with the speed and scale of AI | BRK244"
 slug: security-copilot-empower-with-the-speed-and-scale-of-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dorothy Li"]

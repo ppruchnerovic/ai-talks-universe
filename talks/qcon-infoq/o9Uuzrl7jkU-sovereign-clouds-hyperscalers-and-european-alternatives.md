@@ -4,7 +4,7 @@ title: "Sovereign Clouds, Hyperscalers and European Alternatives: InfoQ Dev Summ
 slug: sovereign-clouds-hyperscalers-and-european-alternatives
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

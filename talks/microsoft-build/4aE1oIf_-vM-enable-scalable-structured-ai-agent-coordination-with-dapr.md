@@ -4,7 +4,7 @@ title: "Enable scalable structured AI agent coordination with Dapr Workflows | O
 slug: enable-scalable-structured-ai-agent-coordination-with-dapr
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

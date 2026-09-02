@@ -4,7 +4,7 @@ title: "How PepsiCo goes from dashboards to outcomes and deep research with Geni
 slug: how-pepsico-goes-from-dashboards-to-outcomes-and-deep
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: []

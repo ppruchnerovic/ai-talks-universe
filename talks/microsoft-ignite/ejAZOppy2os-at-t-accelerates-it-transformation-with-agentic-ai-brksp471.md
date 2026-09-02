@@ -4,7 +4,7 @@ title: "AT&T accelerates IT transformation with agentic AI | BRKSP471"
 slug: at-t-accelerates-it-transformation-with-agentic-ai-brksp471
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Srinivas Jayanti", "Miha Kralj", "Mark Austin"]

@@ -4,7 +4,7 @@ title: "Anthropic CPO Mike Krieger: Building AI Products From the Bottom Up"
 slug: anthropic-cpo-mike-krieger-building-ai-products-from-the
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

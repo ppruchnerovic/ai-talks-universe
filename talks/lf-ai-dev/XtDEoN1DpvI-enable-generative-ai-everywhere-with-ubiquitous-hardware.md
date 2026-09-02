@@ -4,7 +4,7 @@ title: "Enable Generative AI Everywhere with Ubiquitous Hardware and Open Softwa
 slug: enable-generative-ai-everywhere-with-ubiquitous-hardware
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Guobing Chen"]

@@ -4,7 +4,7 @@ title: "The End of Awkward AI Transcriptions - Travis Bartley and Myungjong Kim"
 slug: the-end-of-awkward-ai-transcriptions-travis-bartley-and
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Travis Bartley", "Myungjong Kim"]

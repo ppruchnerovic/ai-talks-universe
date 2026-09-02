@@ -4,7 +4,7 @@ title: "Spotify's Approach to Distributed LLM Training with Ray on GKE | Ray Sum
 slug: spotify-s-approach-to-distributed-llm-training-with-ray-on
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

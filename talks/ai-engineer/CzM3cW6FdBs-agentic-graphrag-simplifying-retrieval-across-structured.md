@@ -4,7 +4,7 @@ title: "Agentic GraphRAG: Simplifying Retrieval Across Structured & Unstructured
 slug: agentic-graphrag-simplifying-retrieval-across-structured
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Zach Blumenfeld"]

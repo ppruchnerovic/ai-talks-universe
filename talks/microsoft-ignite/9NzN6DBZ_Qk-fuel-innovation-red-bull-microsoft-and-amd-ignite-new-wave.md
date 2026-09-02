@@ -4,7 +4,7 @@ title: "Fuel Innovation: Red Bull, Microsoft and AMD ignite new wave of creators
 slug: fuel-innovation-red-bull-microsoft-and-amd-ignite-new-wave
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Gauthier Hautin", "Jessica Hawk", "Josh Hort", "Daniel Daesung Kim", "Arjun Oberoi"]

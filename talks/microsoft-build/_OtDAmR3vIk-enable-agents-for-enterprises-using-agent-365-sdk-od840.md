@@ -4,7 +4,7 @@ title: "Enable agents for enterprises using Agent 365 SDK | OD840"
 slug: enable-agents-for-enterprises-using-agent-365-sdk-od840
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Jeremiah Follis"]

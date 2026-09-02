@@ -4,7 +4,7 @@ title: "Can we reconcile machine learning with privacy? | The Digital Age | Math
 slug: can-we-reconcile-machine-learning-with-privacy-the-digital
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Mathias Humbert"]

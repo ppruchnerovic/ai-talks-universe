@@ -4,7 +4,7 @@ title: "Stop writing software like it's 1999! - Hannes Lowette - NDC Copenhagen 
 slug: stop-writing-software-like-it-s-1999-hannes-lowette-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Hannes Lowette"]

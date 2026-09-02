@@ -4,7 +4,7 @@ title: "Build Smarter Knowledge Management Systems with AI Technology by Corrado
 slug: build-smarter-knowledge-management-systems-with-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Corrado De Bari"]

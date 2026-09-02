@@ -4,7 +4,7 @@ title: "Leveraging Cost-effective GenAI to Enable Compliance while Boosting Effi
 slug: leveraging-cost-effective-genai-to-enable-compliance-while
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

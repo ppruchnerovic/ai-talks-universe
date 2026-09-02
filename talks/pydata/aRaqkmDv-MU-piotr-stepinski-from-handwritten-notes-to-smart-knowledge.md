@@ -4,7 +4,7 @@ title: "Piotr Stepinski-From Handwritten Notes to Smart Knowledge_ Build Local A
 slug: piotr-stepinski-from-handwritten-notes-to-smart-knowledge
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

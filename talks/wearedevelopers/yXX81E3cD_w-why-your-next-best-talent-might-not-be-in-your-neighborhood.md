@@ -4,7 +4,7 @@ title: "Why Your Next Best Talent Might Not Be in Your Neighborhood"
 slug: why-your-next-best-talent-might-not-be-in-your-neighborhood
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

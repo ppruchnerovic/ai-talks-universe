@@ -4,7 +4,7 @@ title: "How We Automate Chaos: Agentic AI and Community Ops at PyCon DE & PyData
 slug: how-we-automate-chaos-agentic-ai-and-community-ops-at-pycon
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

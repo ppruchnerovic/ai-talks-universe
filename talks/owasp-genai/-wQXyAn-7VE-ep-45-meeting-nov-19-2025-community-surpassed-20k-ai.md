@@ -4,7 +4,7 @@ title: "Ep.45 Meeting Nov 19 2025: community surpassed 20K, AI solutions landsca
 slug: ep-45-meeting-nov-19-2025-community-surpassed-20k-ai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

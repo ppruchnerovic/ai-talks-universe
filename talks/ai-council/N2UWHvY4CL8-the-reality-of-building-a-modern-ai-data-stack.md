@@ -4,7 +4,7 @@ title: "The Reality of Building a Modern AI Data Stack"
 slug: the-reality-of-building-a-modern-ai-data-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Colleen Tartow"]

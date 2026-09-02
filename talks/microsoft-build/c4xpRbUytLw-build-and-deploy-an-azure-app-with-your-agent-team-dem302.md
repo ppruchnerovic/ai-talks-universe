@@ -4,7 +4,7 @@ title: "Build and deploy an Azure app with your agent team | DEM302"
 slug: build-and-deploy-an-azure-app-with-your-agent-team-dem302
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Rong Lu", "Brady Gaster"]

@@ -4,7 +4,7 @@ title: "How DEX tool architecture impacts user experience | ODSP1532"
 slug: how-dex-tool-architecture-impacts-user-experience-odsp1532
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

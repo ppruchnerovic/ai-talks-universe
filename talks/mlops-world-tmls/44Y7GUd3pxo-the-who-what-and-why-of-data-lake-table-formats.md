@@ -4,7 +4,7 @@ title: "The Who, What, and Why of Data Lake Table Formats"
 slug: the-who-what-and-why-of-data-lake-table-formats
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Alex Merced"]

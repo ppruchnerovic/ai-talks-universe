@@ -4,7 +4,7 @@ title: "Jon Hawes - A buyers guide to the market promise of automagic AI - DEF C
 slug: jon-hawes-a-buyers-guide-to-the-market-promise-of-automagic
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Jon Hawes"]

@@ -4,7 +4,7 @@ title: "Machine learning at the service of the weary warrior | Clinical AI | Rap
 slug: machine-learning-at-the-service-of-the-weary-warrior
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Raphael Matusiak"]

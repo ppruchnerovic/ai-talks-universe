@@ -4,7 +4,7 @@ title: "Foundry IQ: the future of RAG with knowledge retrieval and AI Search | B
 slug: foundry-iq-the-future-of-rag-with-knowledge-retrieval-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pablo Castro"]

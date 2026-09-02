@@ -4,7 +4,7 @@ title: "Using Generative AI to Strengthen & Accelerate Learning • Barbara Oakl
 slug: using-generative-ai-to-strengthen-accelerate-learning
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Barbara Oakley"]

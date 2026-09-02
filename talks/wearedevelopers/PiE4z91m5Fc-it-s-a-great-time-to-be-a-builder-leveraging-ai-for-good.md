@@ -4,7 +4,7 @@ title: "It's a Great Time to be a Builder: Leveraging AI for Good"
 slug: it-s-a-great-time-to-be-a-builder-leveraging-ai-for-good
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Seth Webster"]

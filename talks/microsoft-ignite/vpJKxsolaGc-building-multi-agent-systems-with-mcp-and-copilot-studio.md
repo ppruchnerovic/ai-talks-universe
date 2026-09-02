@@ -4,7 +4,7 @@ title: "Building Multi-Agent systems with MCP and Copilot Studio | BRK317"
 slug: building-multi-agent-systems-with-mcp-and-copilot-studio
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matthew Bolanos", "Zankar Desai", "Kendra Springer", "Ziv Ventura"]

@@ -4,7 +4,7 @@ title: "Siddharth Shankar-LLMOps in Practice- Building Secure, Governed Pipeline
 slug: siddharth-shankar-llmops-in-practice-building-secure
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

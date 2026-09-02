@@ -4,7 +4,7 @@ title: "Testing Challenges in the Age of AI by Konstantin Pavlov"
 slug: testing-challenges-in-the-age-of-ai-by-konstantin-pavlov
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Konstantin Pavlov"]

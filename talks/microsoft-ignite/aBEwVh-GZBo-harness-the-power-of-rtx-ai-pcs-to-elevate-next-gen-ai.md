@@ -4,7 +4,7 @@ title: "Harness the power of RTX AI PCs to elevate next-gen AI applications | BR
 slug: harness-the-power-of-rtx-ai-pcs-to-elevate-next-gen-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Annamalai Chockalingam"]

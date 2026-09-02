@@ -4,7 +4,7 @@ title: "Lightning Talks | Pydata London 26"
 slug: lightning-talks-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Copilot, Cursor, and Custom LLMs: Navigating the New .NET Developer Expe
 slug: copilot-cursor-and-custom-llms-navigating-the-new-net
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Isaac Levin"]

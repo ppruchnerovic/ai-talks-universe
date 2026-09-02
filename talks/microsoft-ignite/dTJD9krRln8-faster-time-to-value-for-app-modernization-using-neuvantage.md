@@ -4,7 +4,7 @@ title: "Faster time-to-value for app modernization using NeuVantage AI | ODSP143
 slug: faster-time-to-value-for-app-modernization-using-neuvantage
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Hiren Dhaduk", "Matthew Wendel"]

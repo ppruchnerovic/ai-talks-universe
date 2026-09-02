@@ -4,7 +4,7 @@ title: "Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind"
 slug: don-t-ship-skills-without-evals-philipp-schmid-google
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Philipp Schmid"]

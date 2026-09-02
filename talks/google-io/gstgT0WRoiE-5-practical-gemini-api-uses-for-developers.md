@@ -4,7 +4,7 @@ title: "5 practical Gemini API uses for developers"
 slug: 5-practical-gemini-api-uses-for-developers
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

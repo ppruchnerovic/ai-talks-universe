@@ -4,7 +4,7 @@ title: "Supercharging DevOps with MCP (Without Opening a Security Hole) - Alex S
 slug: supercharging-devops-with-mcp-without-opening-a-security
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alex Shershebnev"]

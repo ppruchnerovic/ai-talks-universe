@@ -4,7 +4,7 @@ title: "Scalable LLM Inference on Kubernetes With NVIDIA NIMS, LangChain, Milvus
 slug: scalable-llm-inference-on-kubernetes-with-nvidia-nims
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Wisdom-Driven Knowledge Augmented Generation at Scale - Chin Keong Lam, 
 slug: wisdom-driven-knowledge-augmented-generation-at-scale-chin
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chin Keong Lam"]

@@ -4,7 +4,7 @@ title: "Un-observable AI is un-trustworthy AI by Annie Freeman"
 slug: un-observable-ai-is-un-trustworthy-ai-by-annie-freeman
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Annie Freeman"]

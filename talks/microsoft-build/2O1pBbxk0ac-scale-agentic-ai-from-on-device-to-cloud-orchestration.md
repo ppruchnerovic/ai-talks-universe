@@ -4,7 +4,7 @@ title: "Scale agentic AI from on-device to cloud orchestration | BRKSP92"
 slug: scale-agentic-ai-from-on-device-to-cloud-orchestration
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Karthik Vijayan", "Colin Helms"]

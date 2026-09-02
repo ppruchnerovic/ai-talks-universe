@@ -4,7 +4,7 @@ title: "Shipping Products When You Don't Know What they Can Do — Ben Stein, Te
 slug: shipping-products-when-you-don-t-know-what-they-can-do-ben
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ben Stein"]

@@ -4,7 +4,7 @@ title: "Vector Search Benchmark[eting] - Philipp Krenn, Elastic"
 slug: vector-search-benchmark-eting-philipp-krenn-elastic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Philipp Krenn"]

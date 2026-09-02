@@ -4,7 +4,7 @@ title: "WeAreDevelopers LIVE: Make LLMs make sense with GraphRAG"
 slug: wearedevelopers-live-make-llms-make-sense-with-graphrag
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

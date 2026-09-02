@@ -4,7 +4,7 @@ title: "Advancing AI Security with Insights from the World’s Largest AI Red Te
 slug: advancing-ai-security-with-insights-from-the-worlds-largest
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["David Haber"]

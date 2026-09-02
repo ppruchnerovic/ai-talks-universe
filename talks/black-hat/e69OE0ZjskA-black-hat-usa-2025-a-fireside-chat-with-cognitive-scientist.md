@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | A Fireside Chat with Cognitive Scientist and AI Exp
 slug: black-hat-usa-2025-a-fireside-chat-with-cognitive-scientist
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

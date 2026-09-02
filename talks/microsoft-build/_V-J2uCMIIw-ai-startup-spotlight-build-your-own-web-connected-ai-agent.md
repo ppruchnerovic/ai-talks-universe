@@ -4,7 +4,7 @@ title: "AI Startup Spotlight: Build Your Own Web-Connected AI Agent with Nimble 
 slug: ai-startup-spotlight-build-your-own-web-connected-ai-agent
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

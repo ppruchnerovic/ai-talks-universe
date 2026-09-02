@@ -4,7 +4,7 @@ title: "Building the most intelligent agents with the latest knowledge sources |
 slug: building-the-most-intelligent-agents-with-the-latest
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Anjli Chaudhry", "Eli Coon", "Hardik Modi", "Nick Taylor"]

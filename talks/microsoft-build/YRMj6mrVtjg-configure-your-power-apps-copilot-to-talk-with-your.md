@@ -4,7 +4,7 @@ title: "Configure your Power Apps Copilot to talk with your Dataverse data | DEM
 slug: configure-your-power-apps-copilot-to-talk-with-your
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

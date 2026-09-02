@@ -4,7 +4,7 @@ title: "ComputerTalk ice Contact Center demo for chatbot and live chat | ODSP148
 slug: computertalk-ice-contact-center-demo-for-chatbot-and-live
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Mike Kraybill"]

@@ -4,7 +4,7 @@ title: "How Action Bias Breaks Autonomous Software Maintenance | LogicStar.ai"
 slug: how-action-bias-breaks-autonomous-software-maintenance
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

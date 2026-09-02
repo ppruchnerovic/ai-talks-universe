@@ -4,7 +4,7 @@ title: "Create multimodal AI agents with persistent memory | DEMSP390"
 slug: create-multimodal-ai-agents-with-persistent-memory-demsp390
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Edo Segal"]

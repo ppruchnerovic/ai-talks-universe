@@ -4,7 +4,7 @@ title: "Build A365-Ready Agents for the Enterprise | BRK305"
 slug: build-a365-ready-agents-for-the-enterprise-brk305
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Robert Bruckner", "James Oleinik"]

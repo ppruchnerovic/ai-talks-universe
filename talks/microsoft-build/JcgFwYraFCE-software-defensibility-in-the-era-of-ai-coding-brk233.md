@@ -4,7 +4,7 @@ title: "Software Defensibility in the era of AI coding | BRK233"
 slug: software-defensibility-in-the-era-of-ai-coding-brk233
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chip Huyen"]

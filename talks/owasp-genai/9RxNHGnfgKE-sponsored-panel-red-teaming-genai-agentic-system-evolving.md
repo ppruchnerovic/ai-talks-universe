@@ -4,7 +4,7 @@ title: "Sponsored Panel | Red Teaming GenAI & Agentic System Evolving Tactics fo
 slug: sponsored-panel-red-teaming-genai-agentic-system-evolving
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["V. Venesulia Carr"]

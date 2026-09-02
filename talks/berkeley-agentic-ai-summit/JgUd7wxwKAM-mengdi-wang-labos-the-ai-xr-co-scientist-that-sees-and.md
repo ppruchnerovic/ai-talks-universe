@@ -4,7 +4,7 @@ title: "Mengdi Wang - LabOS: The AI XR Co Scientist That Sees and Works With Hum
 slug: mengdi-wang-labos-the-ai-xr-co-scientist-that-sees-and
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Mengdi Wang"]

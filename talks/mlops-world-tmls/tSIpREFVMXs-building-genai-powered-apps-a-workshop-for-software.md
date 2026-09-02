@@ -4,7 +4,7 @@ title: "Building GenAI-Powered Apps: A Workshop for Software Engineers"
 slug: building-genai-powered-apps-a-workshop-for-software
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Maximizing Luck in Reinforcement Learning - Daniel Han, Unsloth"
 slug: maximizing-luck-in-reinforcement-learning-daniel-han-unsloth
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Daniel Han"]

@@ -4,7 +4,7 @@ title: "How to Improve your Vibe Coding — Ian Butler"
 slug: how-to-improve-your-vibe-coding-ian-butler
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ian Butler"]

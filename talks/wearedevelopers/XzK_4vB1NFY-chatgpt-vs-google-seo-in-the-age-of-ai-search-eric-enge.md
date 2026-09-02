@@ -4,7 +4,7 @@ title: "ChatGPT vs Google: SEO in the Age of AI Search - Eric Enge"
 slug: chatgpt-vs-google-seo-in-the-age-of-ai-search-eric-enge
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Eric Enge"]

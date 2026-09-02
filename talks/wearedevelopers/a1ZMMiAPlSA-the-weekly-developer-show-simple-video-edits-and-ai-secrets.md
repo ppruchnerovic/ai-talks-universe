@@ -4,7 +4,7 @@ title: "The weekly developer show: Simple video edits and AI secrets of recruite
 slug: the-weekly-developer-show-simple-video-edits-and-ai-secrets
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

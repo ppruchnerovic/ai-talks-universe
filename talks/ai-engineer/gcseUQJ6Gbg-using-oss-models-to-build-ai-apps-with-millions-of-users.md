@@ -4,7 +4,7 @@ title: "Using OSS models to build AI apps with millions of users — Hassan El M
 slug: using-oss-models-to-build-ai-apps-with-millions-of-users
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Hassan El Mghari"]

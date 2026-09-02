@@ -4,7 +4,7 @@ title: "GitHub Agentic Workflows: Automation That Actually Reads the Room | DEM3
 slug: github-agentic-workflows-automation-that-actually-reads-the
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "SANS360 Talks | 5 Tips for Using GenAl in DFIR"
 slug: sans360-talks-5-tips-for-using-genal-in-dfir
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

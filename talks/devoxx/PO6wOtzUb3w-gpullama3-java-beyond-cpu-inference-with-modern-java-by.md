@@ -4,7 +4,7 @@ title: "GPULlama3 java: Beyond CPU Inference with Modern Java by Michalis Papadi
 slug: gpullama3-java-beyond-cpu-inference-with-modern-java-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Michalis Papadimitriou"]

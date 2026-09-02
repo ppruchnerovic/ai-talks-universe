@@ -4,7 +4,7 @@ title: "Episode 21: Meeting September 11 2024 Prompt Leakage, Agent Interaction,
 slug: episode-21-meeting-september-11-2024-prompt-leakage-agent
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2024
 speakers: []

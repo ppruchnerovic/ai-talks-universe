@@ -4,7 +4,7 @@ title: "SaTML 2024 - Hiroya Kato - EdgePruner: Poisoned Edge Pruning in Graph Co
 slug: satml-2024-hiroya-kato-edgepruner-poisoned-edge-pruning-in
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Hiroya Kato"]

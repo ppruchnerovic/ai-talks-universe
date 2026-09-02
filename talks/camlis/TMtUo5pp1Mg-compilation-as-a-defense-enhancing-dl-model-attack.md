@@ -4,7 +4,7 @@ title: "Compilation as a Defense: Enhancing DL Model Attack Robustness via Tenso
 slug: compilation-as-a-defense-enhancing-dl-model-attack
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

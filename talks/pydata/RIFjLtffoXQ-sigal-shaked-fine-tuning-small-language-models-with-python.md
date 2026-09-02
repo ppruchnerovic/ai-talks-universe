@@ -4,7 +4,7 @@ title: "Sigal Shaked: Fine-Tuning Small Language Models with Python (HE) | PyDat
 slug: sigal-shaked-fine-tuning-small-language-models-with-python
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: []

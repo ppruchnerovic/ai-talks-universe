@@ -4,7 +4,7 @@ title: "How Notion Cut Millions from Their Vector DB Bill Without Sacrificing Se
 slug: how-notion-cut-millions-from-their-vector-db-bill-without
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Simon Hørup Eskildsen"]

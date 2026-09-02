@@ -4,7 +4,7 @@ title: "Drive agent adoption with the M365 Copilot and the Agent Store | BRK311"
 slug: drive-agent-adoption-with-the-m365-copilot-and-the-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Siffat Hingorani", "Tony Mathew"]

@@ -4,7 +4,7 @@ title: "Data Mesh: The Next Stage in the Evolution from Time Share to Data Share
 slug: data-mesh-the-next-stage-in-the-evolution-from-time-share
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Zhamak Dehghani"]

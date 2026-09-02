@@ -4,7 +4,7 @@ title: "Supercharge Your Apps with Llama 4: Essential Tools and Techniques for D
 slug: supercharge-your-apps-with-llama-4-essential-tools-and
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

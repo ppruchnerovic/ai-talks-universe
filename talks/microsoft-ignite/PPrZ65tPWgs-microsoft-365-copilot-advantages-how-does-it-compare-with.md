@@ -4,7 +4,7 @@ title: "Microsoft 365 Copilot advantages: How does it compare with other AI solu
 slug: microsoft-365-copilot-advantages-how-does-it-compare-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rob Howard", "Seth Patton"]

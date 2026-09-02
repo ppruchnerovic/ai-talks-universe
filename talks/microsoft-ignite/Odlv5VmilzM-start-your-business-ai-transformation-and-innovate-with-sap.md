@@ -4,7 +4,7 @@ title: "Start your business AI transformation and innovate with SAP | BRKFP384"
 slug: start-your-business-ai-transformation-and-innovate-with-sap
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mike Graber", "Sivakumar N"]

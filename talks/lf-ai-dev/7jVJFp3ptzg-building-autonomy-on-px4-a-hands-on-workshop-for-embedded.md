@@ -4,7 +4,7 @@ title: "Building Autonomy on PX4: A Hands-On Workshop for Embedded and Robotic..
 slug: building-autonomy-on-px4-a-hands-on-workshop-for-embedded
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []

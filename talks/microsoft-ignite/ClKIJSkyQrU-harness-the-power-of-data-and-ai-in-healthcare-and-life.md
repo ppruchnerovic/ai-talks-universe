@@ -4,7 +4,7 @@ title: "Harness the power of data and AI in healthcare and life sciences | BRK25
 slug: harness-the-power-of-data-and-ai-in-healthcare-and-life
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Ardman", "Will Guyman", "Miriam Ney"]

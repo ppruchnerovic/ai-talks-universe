@@ -4,7 +4,7 @@ title: "From Data to Insights: Implementing Generative AI at scale by Thomas Nat
 slug: from-data-to-insights-implementing-generative-ai-at-scale
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

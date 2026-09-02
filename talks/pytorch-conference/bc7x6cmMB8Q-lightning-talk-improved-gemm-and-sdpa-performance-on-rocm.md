@@ -4,7 +4,7 @@ title: "Lightning Talk: Improved GEMM and SDPA Performance on ROCm With Composab
 slug: lightning-talk-improved-gemm-and-sdpa-performance-on-rocm
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Andres Lugo"]

@@ -4,7 +4,7 @@ title: "Labeling Red: Harvesting Labeled Data from Adversary Simulations"
 slug: labeling-red-harvesting-labeled-data-from-adversary
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

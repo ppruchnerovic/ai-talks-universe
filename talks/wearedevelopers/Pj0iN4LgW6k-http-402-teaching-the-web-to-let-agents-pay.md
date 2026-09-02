@@ -4,7 +4,7 @@ title: "HTTP 402: Teaching the Web to Let Agents Pay"
 slug: http-402-teaching-the-web-to-let-agents-pay
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ed Marquez"]

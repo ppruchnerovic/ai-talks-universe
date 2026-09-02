@@ -4,7 +4,7 @@ title: "Grow your business with Microsoft AI Cloud Partner Program | BRK347"
 slug: grow-your-business-with-microsoft-ai-cloud-partner-program
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dan Rippey", "Andrew Smith"]

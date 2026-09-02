@@ -4,7 +4,7 @@ title: "Black Hat USA 2026 | Keynote: The End of Rare Defending When Offense Is 
 slug: black-hat-usa-2026-keynote-the-end-of-rare-defending-when
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

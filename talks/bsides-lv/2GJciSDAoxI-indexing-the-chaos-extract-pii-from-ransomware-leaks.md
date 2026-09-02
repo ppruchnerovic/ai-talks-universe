@@ -4,7 +4,7 @@ title: "Indexing the Chaos: Extract PII from Ransomware Leaks"
 slug: indexing-the-chaos-extract-pii-from-ransomware-leaks
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

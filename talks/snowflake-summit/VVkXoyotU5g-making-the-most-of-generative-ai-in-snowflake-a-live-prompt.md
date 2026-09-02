@@ -4,7 +4,7 @@ title: "Making The Most Of Generative AI In Snowflake: A Live Prompt Engineering
 slug: making-the-most-of-generative-ai-in-snowflake-a-live-prompt
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

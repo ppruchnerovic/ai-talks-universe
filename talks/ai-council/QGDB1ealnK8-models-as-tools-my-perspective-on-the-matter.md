@@ -4,7 +4,7 @@ title: "Models as Tools: My Perspective On the Matter"
 slug: models-as-tools-my-perspective-on-the-matter
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ravin Kumar"]

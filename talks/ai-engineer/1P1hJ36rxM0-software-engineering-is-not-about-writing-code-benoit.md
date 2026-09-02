@@ -4,7 +4,7 @@ title: "\"Software engineering is not about writing code\" — Benoit Schillings
 slug: software-engineering-is-not-about-writing-code-benoit
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Benoit Schillings"]

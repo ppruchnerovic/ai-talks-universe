@@ -4,7 +4,7 @@ title: "Tell the Robot What You Want — Sandhya Subramani, AWS"
 slug: tell-the-robot-what-you-want-sandhya-subramani-aws
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sandhya Subramani"]

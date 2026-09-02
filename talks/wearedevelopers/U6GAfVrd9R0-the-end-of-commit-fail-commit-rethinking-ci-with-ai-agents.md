@@ -4,7 +4,7 @@ title: "The End of Commit-Fail-Commit: Rethinking CI with AI Agents and GitHub A
 slug: the-end-of-commit-fail-commit-rethinking-ci-with-ai-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Ben De St Paer-Gotch", "Julia Kordick"]

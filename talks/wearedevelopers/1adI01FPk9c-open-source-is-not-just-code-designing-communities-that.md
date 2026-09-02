@@ -4,7 +4,7 @@ title: "Open Source Is Not Just Code: Designing Communities That Actually Scale"
 slug: open-source-is-not-just-code-designing-communities-that
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Sinduri Guntupalli"]

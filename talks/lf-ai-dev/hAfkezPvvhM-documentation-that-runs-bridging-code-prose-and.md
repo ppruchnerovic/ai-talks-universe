@@ -4,7 +4,7 @@ title: "Documentation That Runs: Bridging Code, Prose, and Interactivity - Kaila
 slug: documentation-that-runs-bridging-code-prose-and
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Kailan Blanks"]

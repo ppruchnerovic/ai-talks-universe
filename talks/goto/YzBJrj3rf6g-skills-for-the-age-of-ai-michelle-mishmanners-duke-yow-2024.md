@@ -4,7 +4,7 @@ title: "Skills for the Age of AI • Michelle \"MishManners\" Duke • YOW! 2024
 slug: skills-for-the-age-of-ai-michelle-mishmanners-duke-yow-2024
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: []

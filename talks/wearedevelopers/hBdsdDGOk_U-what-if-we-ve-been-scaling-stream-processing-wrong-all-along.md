@@ -4,7 +4,7 @@ title: "What If We've Been Scaling Stream Processing Wrong All Along?"
 slug: what-if-we-ve-been-scaling-stream-processing-wrong-all-along
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Hartmut Armbruster"]

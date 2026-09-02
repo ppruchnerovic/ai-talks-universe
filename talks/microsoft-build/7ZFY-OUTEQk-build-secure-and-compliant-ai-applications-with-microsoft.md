@@ -4,7 +4,7 @@ title: "Build secure and compliant AI applications with Microsoft Purview | DEM5
 slug: build-secure-and-compliant-ai-applications-with-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Hello World, Meet the Spanimals: Getting Started With Observability - Ti
 slug: hello-world-meet-the-spanimals-getting-started-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: ["Hello World", "Tiffany Jernigan"]

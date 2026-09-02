@@ -4,7 +4,7 @@ title: "Trustworthy Productivity: Securing AI-Accelerated Development"
 slug: trustworthy-productivity-securing-ai-accelerated-development
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Sriram Madapusi Vasudevan"]

@@ -4,7 +4,7 @@ title: "Compose and Dragons by Philippe Charrière, Guillaume Lours Zaal 4"
 slug: compose-and-dragons-by-philippe-charriere-guillaume-lours
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Code Is Cheap. Software Isn’t."
 slug: code-is-cheap-software-isnt
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Markus Eisele"]

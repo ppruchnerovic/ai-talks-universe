@@ -4,7 +4,7 @@ title: "Martin Renou & Arjun Verma - Collaborative GIS editing in JupyterLab"
 slug: martin-renou-arjun-verma-collaborative-gis-editing-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Martin Renou", "Arjun Verma"]

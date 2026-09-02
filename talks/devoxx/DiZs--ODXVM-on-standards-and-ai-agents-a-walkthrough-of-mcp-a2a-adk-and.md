@@ -4,7 +4,7 @@ title: "On standards and AI agents: a walkthrough of MCP, A2A, ADK and more by E
 slug: on-standards-and-ai-agents-a-walkthrough-of-mcp-a2a-adk-and
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Emmanuel Bernard", "Guillaume L"]

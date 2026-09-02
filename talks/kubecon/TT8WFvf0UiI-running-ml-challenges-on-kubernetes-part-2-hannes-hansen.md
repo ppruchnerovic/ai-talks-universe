@@ -4,7 +4,7 @@ title: "Running ML Challenges on Kubernetes (Part 2) - Hannes Hansen & Paulo Gui
 slug: running-ml-challenges-on-kubernetes-part-2-hannes-hansen
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Cloud Native AI + Kubeflow Day 2026"
 year: 2026
 speakers: ["Hannes Hansen", "Paulo Guilherme Pinheiro Pereira"]

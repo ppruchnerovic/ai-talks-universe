@@ -4,7 +4,7 @@ title: "An Introduction to NVIDIA Cosmos World Foundational Models | NVIDIA GTC 
 slug: an-introduction-to-nvidia-cosmos-world-foundational-models
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

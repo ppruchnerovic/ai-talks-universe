@@ -4,7 +4,7 @@ title: "The Best of Java Shorts Show: 100 Snippets in 50 Minutes by Adam Bien"
 slug: the-best-of-java-shorts-show-100-snippets-in-50-minutes-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Adam Bien"]

@@ -4,7 +4,7 @@ title: "Taking Reinforcement Learning Cross Datacenter — Nan Jiang, Modal"
 slug: taking-reinforcement-learning-cross-datacenter-nan-jiang
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nan Jiang"]

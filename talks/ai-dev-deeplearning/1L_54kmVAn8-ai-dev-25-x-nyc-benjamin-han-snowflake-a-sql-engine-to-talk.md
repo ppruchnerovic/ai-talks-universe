@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Benjamin Han: Snowflake: A SQL Engine to Talk to Your 
 slug: ai-dev-25-x-nyc-benjamin-han-snowflake-a-sql-engine-to-talk
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

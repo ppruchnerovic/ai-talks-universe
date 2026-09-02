@@ -4,7 +4,7 @@ title: "Why AI for Networks now ? | Generative AI and Telco| Olivier Simon"
 slug: why-ai-for-networks-now-generative-ai-and-telco-olivier
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Olivier Simon"]

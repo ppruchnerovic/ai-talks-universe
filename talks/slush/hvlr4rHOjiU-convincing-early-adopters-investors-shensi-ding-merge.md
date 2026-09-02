@@ -4,7 +4,7 @@ title: "Convincing Early Adopters & Investors | Shensi Ding (Merge)"
 slug: convincing-early-adopters-investors-shensi-ding-merge
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Shensi Ding"]

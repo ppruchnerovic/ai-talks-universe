@@ -4,7 +4,7 @@ title: "Ep.31 Meeting Feb 26 2025: Red Teaming Guide Updates, Agentic Security I
 slug: ep-31-meeting-feb-26-2025-red-teaming-guide-updates-agentic
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Building AI agents with Structured Outputs, Function Calling, and MCP by
 slug: building-ai-agents-with-structured-outputs-function-calling
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Julien Dubois"]

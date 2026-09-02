@@ -4,7 +4,7 @@ title: "How a \"Less is More\" Approach Stems the Sprawl of Security Data and Ma
 slug: how-a-less-is-more-approach-stems-the-sprawl-of-security
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []

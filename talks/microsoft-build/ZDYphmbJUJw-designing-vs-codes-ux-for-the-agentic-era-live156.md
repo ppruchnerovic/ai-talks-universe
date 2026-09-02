@@ -4,7 +4,7 @@ title: "Designing VS Code’s UX for the Agentic Era | LIVE156"
 slug: designing-vs-codes-ux-for-the-agentic-era-live156
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Joanna Oikawa", "Burke Holland"]

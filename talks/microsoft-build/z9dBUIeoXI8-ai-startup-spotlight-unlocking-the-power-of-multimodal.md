@@ -4,7 +4,7 @@ title: "AI Startup Spotlight: Unlocking the Power of Multimodal Video and Image 
 slug: ai-startup-spotlight-unlocking-the-power-of-multimodal
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

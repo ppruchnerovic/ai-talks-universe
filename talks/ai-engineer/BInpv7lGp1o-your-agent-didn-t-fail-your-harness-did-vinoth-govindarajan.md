@@ -4,7 +4,7 @@ title: "Your Agent Didn't Fail. Your Harness Did. — Vinoth Govindarajan, OpenA
 slug: your-agent-didn-t-fail-your-harness-did-vinoth-govindarajan
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vinoth Govindarajan"]

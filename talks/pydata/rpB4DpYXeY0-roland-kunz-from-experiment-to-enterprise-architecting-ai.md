@@ -4,7 +4,7 @@ title: "Roland Kunz - From Experiment to Enterprise: Architecting AI for Stabili
 slug: roland-kunz-from-experiment-to-enterprise-architecting-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Roland Kunz"]

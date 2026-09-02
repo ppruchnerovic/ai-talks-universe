@@ -4,7 +4,7 @@ title: "Ray Summit 2023: Day 2 Keynote"
 slug: ray-summit-2023-day-2-keynote
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

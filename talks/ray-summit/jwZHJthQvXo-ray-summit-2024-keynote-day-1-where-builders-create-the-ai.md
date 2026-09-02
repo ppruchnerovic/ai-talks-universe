@@ -4,7 +4,7 @@ title: "Ray Summit 2024 Keynote Day 1 | Where Builders Create the AI Future"
 slug: ray-summit-2024-keynote-day-1-where-builders-create-the-ai
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

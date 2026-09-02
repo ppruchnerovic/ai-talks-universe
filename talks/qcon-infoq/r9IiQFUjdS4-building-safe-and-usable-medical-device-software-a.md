@@ -4,7 +4,7 @@ title: "Building Safe and Usable Medical Device Software: A Conversation with Ne
 slug: building-safe-and-usable-medical-device-software-a
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

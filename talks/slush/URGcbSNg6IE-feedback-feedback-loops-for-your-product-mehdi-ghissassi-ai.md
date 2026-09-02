@@ -4,7 +4,7 @@ title: "Feedback & Feedback Loops for Your Product | Mehdi Ghissassi (AI 71)"
 slug: feedback-feedback-loops-for-your-product-mehdi-ghissassi-ai
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Mehdi Ghissassi"]

@@ -4,7 +4,7 @@ title: "Akash Network: Powering Ray on an Open Source Cloud | Ray Summit 2024"
 slug: akash-network-powering-ray-on-an-open-source-cloud-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

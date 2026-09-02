@@ -4,7 +4,7 @@ title: "How to Build Trustworthy AI — Allie Howe"
 slug: how-to-build-trustworthy-ai-allie-howe
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Allie Howe"]

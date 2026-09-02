@@ -4,7 +4,7 @@ title: "Build core skills to thrive as an AI-era developer"
 slug: build-core-skills-to-thrive-as-an-ai-era-developer
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Nicole Forsgren", "Andrew Macvean"]

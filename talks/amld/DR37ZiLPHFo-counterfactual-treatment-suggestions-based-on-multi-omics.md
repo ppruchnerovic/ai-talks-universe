@@ -4,7 +4,7 @@ title: "Counterfactual Treatment Suggestions based on Multi-Omics Data | AI in G
 slug: counterfactual-treatment-suggestions-based-on-multi-omics
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Manuel Schurch"]

@@ -4,7 +4,7 @@ title: "Empowering Partners to Navigate the New Security Landscape | PBRK273"
 slug: empowering-partners-to-navigate-the-new-security-landscape
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Naohiro Fukatani", "Heather Gordon", "Herain Oberoi"]

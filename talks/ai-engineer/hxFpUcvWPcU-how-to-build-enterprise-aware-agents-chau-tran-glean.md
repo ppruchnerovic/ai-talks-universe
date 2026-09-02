@@ -4,7 +4,7 @@ title: "How to build Enterprise Aware Agents - Chau Tran, Glean"
 slug: how-to-build-enterprise-aware-agents-chau-tran-glean
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Chau Tran"]

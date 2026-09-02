@@ -4,7 +4,7 @@ title: "Maximiliano Firtman - WebMCP: Making Web Apps Faster and Cheaper for Cod
 slug: maximiliano-firtman-webmcp-making-web-apps-faster-and
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Maximiliano Firtman"]

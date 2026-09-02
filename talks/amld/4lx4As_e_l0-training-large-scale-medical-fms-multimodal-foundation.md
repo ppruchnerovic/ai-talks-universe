@@ -4,7 +4,7 @@ title: "Training Large-Scale Medical FMs | Multimodal Foundation Models in Oncol
 slug: training-large-scale-medical-fms-multimodal-foundation
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["E. De Jong", "V. Botha"]

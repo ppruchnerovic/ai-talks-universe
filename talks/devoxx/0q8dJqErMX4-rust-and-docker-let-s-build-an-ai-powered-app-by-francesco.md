@@ -4,7 +4,7 @@ title: "Rust and Docker: Let's build an AI-powered App! by Francesco Ciulla"
 slug: rust-and-docker-let-s-build-an-ai-powered-app-by-francesco
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Francesco Ciulla"]

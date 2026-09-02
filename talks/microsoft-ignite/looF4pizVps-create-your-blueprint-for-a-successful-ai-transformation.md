@@ -4,7 +4,7 @@ title: "Create your blueprint for a successful AI transformation | ODSP1415"
 slug: create-your-blueprint-for-a-successful-ai-transformation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Bear Shelton"]

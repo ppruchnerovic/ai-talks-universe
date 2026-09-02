@@ -4,7 +4,7 @@ title: "Building Trust in Your Data Pipelines with Observability [PyCon DE & PyD
 slug: building-trust-in-your-data-pipelines-with-observability
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Stefan Dienst"]

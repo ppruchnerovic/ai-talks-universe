@@ -4,7 +4,7 @@ title: "Under the hood of Microsoft AI models | DEM323"
 slug: under-the-hood-of-microsoft-ai-models-dem323
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Dave Citron"]

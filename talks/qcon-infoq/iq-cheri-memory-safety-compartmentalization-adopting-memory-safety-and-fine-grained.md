@@ -4,7 +4,7 @@ title: "Adopting Memory-Safety and Fine-Grained Compartmentalisation with CHERI"
 slug: adopting-memory-safety-and-fine-grained
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["David Chisnall"]

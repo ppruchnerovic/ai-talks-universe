@@ -4,7 +4,7 @@ title: "A look at TE Connectivity's AI Program | From Strategy to Execution | Br
 slug: a-look-at-te-connectivity-s-ai-program-from-strategy-to
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Brontë Hamilton"]

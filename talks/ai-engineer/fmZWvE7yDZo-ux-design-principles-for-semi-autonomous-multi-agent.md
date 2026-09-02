@@ -4,7 +4,7 @@ title: "UX Design Principles for Semi Autonomous Multi Agent Systems — Victor 
 slug: ux-design-principles-for-semi-autonomous-multi-agent
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Victor Dibia"]

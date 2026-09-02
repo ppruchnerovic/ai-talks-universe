@@ -4,7 +4,7 @@ title: "How to Accelerate Enterprise Adoption of AI for Business Impact | AtScal
 slug: how-to-accelerate-enterprise-adoption-of-ai-for-business
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

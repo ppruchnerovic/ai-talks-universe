@@ -4,7 +4,7 @@ title: "Building Identity into LLM Workflows with Verifiable Credentials - Ben D
 slug: building-identity-into-llm-workflows-with-verifiable
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Ben Dechrai"]

@@ -4,7 +4,7 @@ title: "Keynote: The Future of Cloud Native Is… Agentic - Lin Sun, Head of Ope
 slug: keynote-the-future-of-cloud-native-is-agentic-lin-sun-head
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Lin Sun"]

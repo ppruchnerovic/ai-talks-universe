@@ -4,7 +4,7 @@ title: "Elevating frontline operations with generative AI and Dynamics 365 | BRK
 slug: elevating-frontline-operations-with-generative-ai-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ronit Bohrer Hillel", "Hector Garcia Tellado", "Brad Haeberle"]

@@ -4,7 +4,7 @@ title: "An Open Source Post-Training Stack: Kubernetes + Ray + PyTorch + vLLM - 
 slug: an-open-source-post-training-stack-kubernetes-ray-pytorch
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Robert Nishihara"]

@@ -4,7 +4,7 @@ title: "AI-assisted migration: The path to powerful performance on PostgreSQL | 
 slug: ai-assisted-migration-the-path-to-powerful-performance-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Guy Bowerman", "Jonathon Frost", "Luigi Nardi", "Ashokkan Somuveerappan"]

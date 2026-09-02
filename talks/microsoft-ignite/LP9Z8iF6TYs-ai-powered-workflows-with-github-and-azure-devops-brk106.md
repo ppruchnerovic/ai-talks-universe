@@ -4,7 +4,7 @@ title: "AI-powered workflows with GitHub and Azure DevOps | BRK106"
 slug: ai-powered-workflows-with-github-and-azure-devops-brk106
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dave Burnison", "Dan Hellem"]

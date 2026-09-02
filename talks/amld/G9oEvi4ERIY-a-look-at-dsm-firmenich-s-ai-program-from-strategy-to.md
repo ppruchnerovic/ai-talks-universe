@@ -4,7 +4,7 @@ title: "A look at DSM-Firmenich's AI Program | From Strategy to Execution | Marc
 slug: a-look-at-dsm-firmenich-s-ai-program-from-strategy-to
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Marco Ghislanzoni"]

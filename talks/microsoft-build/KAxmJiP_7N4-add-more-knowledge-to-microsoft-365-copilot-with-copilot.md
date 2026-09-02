@@ -4,7 +4,7 @@ title: "Add more knowledge to Microsoft 365 Copilot with Copilot connectors and 
 slug: add-more-knowledge-to-microsoft-365-copilot-with-copilot
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

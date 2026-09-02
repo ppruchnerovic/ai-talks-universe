@@ -4,7 +4,7 @@ title: "Innovation Session: Windows & Microsoft 365 Copilot: Secure AI & agent p
 slug: innovation-session-windows-microsoft-365-copilot-secure-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pavan Davuluri", "Navjot Virk", "Jason Gowans", "Stefan Kinnestrand"]

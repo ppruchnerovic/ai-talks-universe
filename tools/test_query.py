@@ -101,9 +101,9 @@ con.executescript("""
 CREATE TABLE talks (n INTEGER PRIMARY KEY, conference TEXT, conference_name TEXT,
                     category TEXT, year INTEGER);
 CREATE TABLE talk_topics (talk_n INTEGER, topic TEXT);
-INSERT INTO talks VALUES (1, 'ai-engineer', 'AI Engineer', 'AI engineering & agents', 2026),
-                         (2, 'microsoft-build', 'Microsoft Build', 'Vendor & platform', 2026),
-                         (3, 'pydata', 'PyData', 'Software dev with AI tracks', 2025);
+INSERT INTO talks VALUES (1, 'ai-engineer', 'AI Engineer', 'Practitioner AI conferences', 2026),
+                         (2, 'microsoft-build', 'Microsoft Build', 'Vendor events', 2026),
+                         (3, 'pydata', 'PyData', 'General software conferences', 2025);
 INSERT INTO talk_topics VALUES (1, 'Evals, observability & reliability'), (1, 'Agents & orchestration'),
                                (2, 'Agents & orchestration'), (2, 'Coding assistants & agents'),
                                (2, 'AI in the SDLC & engineering orgs'), (3, 'Data engineering & MLOps'),
@@ -124,6 +124,14 @@ check("case and separators do not matter",
 check("one word of the label resolves when only one topic has it",
       Q.resolve(con, "topic", "evals", None) == "Evals, observability & reliability")
 check("…and for a conference too", Q.resolve(con, "conference", "build", None) == "microsoft-build")
+check("…and for a conference type: the word that names the venue",
+      Q.resolve(con, "category", "vendor", None) == "Vendor events"
+      and Q.resolve(con, "category", "software", None) == "General software conferences")
+try:
+    Q.resolve(con, "category", "conferences", "--list-categories")
+    check("a word every conference type shares does not resolve", False)
+except SystemExit as e:
+    check("a word every conference type shares does not resolve", "matches nothing" in str(e), str(e))
 check("a word two topics share resolves to the one it heads",
       Q.resolve(con, "topic", "agents", None) == "Agents & orchestration"
       and Q.resolve(con, "topic", "data", None) == "Data engineering & MLOps")

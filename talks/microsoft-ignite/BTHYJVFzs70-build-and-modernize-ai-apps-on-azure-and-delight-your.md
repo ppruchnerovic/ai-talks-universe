@@ -4,7 +4,7 @@ title: "Build and modernize AI apps on Azure and delight your customers | BRK157
 slug: build-and-modernize-ai-apps-on-azure-and-delight-your
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mike Hulme", "Simran Sachar"]

@@ -4,7 +4,7 @@ title: "RSAC Innovation Showcase: AI-Informed Policy Guidance for Cyber Companie
 slug: rsac-innovation-showcase-ai-informed-policy-guidance-for
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: []

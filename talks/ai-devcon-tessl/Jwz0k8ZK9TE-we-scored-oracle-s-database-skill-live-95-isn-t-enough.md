@@ -4,7 +4,7 @@ title: "We Scored Oracle's Database Skill Live: 95% Isn't Enough"
 slug: we-scored-oracle-s-database-skill-live-95-isn-t-enough
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Open Source LLMs: Costly Myths & Real-World Scaling"
 slug: open-source-llms-costly-myths-real-world-scaling
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

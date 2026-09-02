@@ -4,7 +4,7 @@ title: "Make smarter model choices: Anthropic OpenAI & more on Microsoft Foundry
 slug: make-smarter-model-choices-anthropic-openai-more-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["William Flannery", "Keiji Kanazawa", "Naomi Moneypenny", "Steve Sweetman", "Tao Zhang"]

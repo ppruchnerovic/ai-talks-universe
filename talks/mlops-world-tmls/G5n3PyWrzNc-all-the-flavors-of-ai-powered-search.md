@@ -4,7 +4,7 @@ title: "All the flavors of AI-powered search"
 slug: all-the-flavors-of-ai-powered-search
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

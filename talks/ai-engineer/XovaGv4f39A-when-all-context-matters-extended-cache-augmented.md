@@ -4,7 +4,7 @@ title: "When All Context Matters: Extended Cache Augmented Generation - Luis Rom
 slug: when-all-context-matters-extended-cache-augmented
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

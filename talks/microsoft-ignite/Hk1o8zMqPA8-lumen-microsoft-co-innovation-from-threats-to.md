@@ -4,7 +4,7 @@ title: "Lumen + Microsoft Co-Innovation: From Threats to Transformation | BRK383
 slug: lumen-microsoft-co-innovation-from-threats-to
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ankur Arora"]

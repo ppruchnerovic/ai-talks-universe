@@ -4,7 +4,7 @@ title: "Notebooks & .NET: A Marriage Made In Jupyter - Alexander Hall - NDC Lond
 slug: notebooks-net-a-marriage-made-in-jupyter-alexander-hall-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Alexander Hall"]

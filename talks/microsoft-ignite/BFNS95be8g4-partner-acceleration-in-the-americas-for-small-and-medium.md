@@ -4,7 +4,7 @@ title: "Partner acceleration in the Americas for Small and Medium Enterprise | P
 slug: partner-acceleration-in-the-americas-for-small-and-medium
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alistair Butler", "Federico Charosky", "Harpreet Girn", "Jose Gomez Cueto", "Brian Matthews", "Sanju Nair", "Pablo Rodriguez Leis", "Erwin Visser"]

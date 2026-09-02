@@ -4,7 +4,7 @@ title: "Imagine the future of industry blueprinting with AI agents | STUDIOSP87"
 slug: imagine-the-future-of-industry-blueprinting-with-ai-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Behind the Scenes: Putting HR and Tech on the Same Stage"
 slug: behind-the-scenes-putting-hr-and-tech-on-the-same-stage
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

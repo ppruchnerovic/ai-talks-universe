@@ -4,7 +4,7 @@ title: "Accelerate AI transformation with purpose-built AI governance | ODFP921"
 slug: accelerate-ai-transformation-with-purpose-built-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

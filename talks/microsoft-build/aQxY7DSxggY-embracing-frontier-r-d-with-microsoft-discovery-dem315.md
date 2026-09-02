@@ -4,7 +4,7 @@ title: "Embracing frontier R&D with Microsoft Discovery | DEM315"
 slug: embracing-frontier-r-d-with-microsoft-discovery-dem315
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["John Link", "Viktor Veis"]

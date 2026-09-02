@@ -4,7 +4,7 @@ title: "Why LLMs Fail at UI Testing - And How to Actually Fix It"
 slug: why-llms-fail-at-ui-testing-and-how-to-actually-fix-it
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Enhance collaboration with Teams and Surface Hub 3 | BRK295"
 slug: enhance-collaboration-with-teams-and-surface-hub-3-brk295
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["David Alexander", "Irena Andonova", "Frank Buchholz", "Kate Canfield"]

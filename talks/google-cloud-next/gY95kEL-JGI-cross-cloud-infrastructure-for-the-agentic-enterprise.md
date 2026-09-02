@@ -4,7 +4,7 @@ title: "Cross-cloud infrastructure for the agentic enterprise"
 slug: cross-cloud-infrastructure-for-the-agentic-enterprise
 conference: google-cloud-next
 conference_name: "Google Cloud Next"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Next 2026"
 year: 2026
 speakers: ["Muninder Sambi", "Drew Bradstock", "James Duncan", "Fiona Tan"]

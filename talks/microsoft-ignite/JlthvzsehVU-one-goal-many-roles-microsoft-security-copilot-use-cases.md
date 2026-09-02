@@ -4,7 +4,7 @@ title: "One goal many roles: Microsoft Security Copilot use cases for all | BRK3
 slug: one-goal-many-roles-microsoft-security-copilot-use-cases
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nick Goodman", "Ryan Munsch"]

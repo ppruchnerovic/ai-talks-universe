@@ -4,7 +4,7 @@ title: "dotAI 2024 - Maxim Zaks - Is Mojo programming language just a hype?"
 slug: dotai-2024-maxim-zaks-is-mojo-programming-language-just-a
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Maxim Zaks"]

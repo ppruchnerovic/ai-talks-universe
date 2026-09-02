@@ -4,7 +4,7 @@ title: "Risto Miikkulainen - Neuroevolution: Harnessing Creativity in AI Agent D
 slug: risto-miikkulainen-neuroevolution-harnessing-creativity-in
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2025"
 year: 2025
 speakers: ["Risto Miikkulainen"]

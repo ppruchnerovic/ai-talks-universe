@@ -4,7 +4,7 @@ title: "Dell and Microsoft AI solutions from device to datacenter and cloud | BR
 slug: dell-and-microsoft-ai-solutions-from-device-to-datacenter
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mark Linton", "Jonathan Siegal"]

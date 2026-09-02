@@ -4,7 +4,7 @@ title: "Integrate AI in enterprise apps using Windows Copilot Runtime APIs power
 slug: integrate-ai-in-enterprise-apps-using-windows-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Rahul Amlekar", "Aditi Narvekar"]

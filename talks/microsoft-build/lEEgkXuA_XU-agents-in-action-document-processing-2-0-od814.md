@@ -4,7 +4,7 @@ title: "Agents in action: Document processing 2.0 | OD814"
 slug: agents-in-action-document-processing-2-0-od814
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Keynote | Threat Modeling Agentic AI Systems: Proactive Strategies for S
 slug: keynote-threat-modeling-agentic-ai-systems-proactive
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

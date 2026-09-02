@@ -4,7 +4,7 @@ title: "DriveThru Car Hacking: Fast Food, Faster Data Breach"
 slug: drivethru-car-hacking-fast-food-faster-data-breach
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

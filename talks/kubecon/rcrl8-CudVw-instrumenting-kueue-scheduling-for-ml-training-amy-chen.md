@@ -4,7 +4,7 @@ title: "Instrumenting Kueue Scheduling for ML Training - Amy Chen, CoreWeave & G
 slug: instrumenting-kueue-scheduling-for-ml-training-amy-chen
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Amy Chen"]

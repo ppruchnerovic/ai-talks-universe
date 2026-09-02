@@ -4,7 +4,7 @@ title: "Product Execution Superpowers | Tuomo Riekki (Zero)"
 slug: product-execution-superpowers-tuomo-riekki-zero
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Tuomo Riekki"]

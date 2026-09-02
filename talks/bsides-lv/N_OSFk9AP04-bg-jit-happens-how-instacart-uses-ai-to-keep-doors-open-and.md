@@ -4,7 +4,7 @@ title: "BG - JIT Happens: How Instacart Uses AI to Keep Doors Open and Risks Clo
 slug: bg-jit-happens-how-instacart-uses-ai-to-keep-doors-open-and
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

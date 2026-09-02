@@ -4,7 +4,7 @@ title: "Product Thinking for Cloud Native Engineers"
 slug: product-thinking-for-cloud-native-engineers
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Cat Morris", "Stéphane Di Cesare"]

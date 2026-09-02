@@ -4,7 +4,7 @@ title: "Transformers: Standardizing Model Definitions Across the PyTorch Ecosyst
 slug: transformers-standardizing-model-definitions-across-the
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["L. Debut", "A. Zucker"]

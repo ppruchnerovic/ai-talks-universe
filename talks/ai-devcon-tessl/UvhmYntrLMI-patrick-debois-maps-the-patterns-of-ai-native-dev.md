@@ -4,7 +4,7 @@ title: "Patrick Debois Maps the Patterns of AI-Native Dev"
 slug: patrick-debois-maps-the-patterns-of-ai-native-dev
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

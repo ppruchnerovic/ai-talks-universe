@@ -4,7 +4,7 @@ title: "BG - Generative AI: The Three Concerns Problem and A Tale of Three CISOs
 slug: bg-generative-ai-the-three-concerns-problem-and-a-tale-of
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

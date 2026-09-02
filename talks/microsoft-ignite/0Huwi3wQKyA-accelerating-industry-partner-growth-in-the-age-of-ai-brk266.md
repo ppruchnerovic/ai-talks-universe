@@ -4,7 +4,7 @@ title: "Accelerating industry partner growth in the age of AI | BRK266"
 slug: accelerating-industry-partner-growth-in-the-age-of-ai-brk266
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kathleen Mitford", "Satish Thomas", "Kathie Johnson", "Sandra Notardonato", "Julie Sanford"]

@@ -4,7 +4,7 @@ title: "Microsoft Fabric: what's new and what's next | BRK204"
 slug: microsoft-fabric-what-s-new-and-what-s-next-brk204
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Amir Netz", "Arun Ulagaratchagan"]

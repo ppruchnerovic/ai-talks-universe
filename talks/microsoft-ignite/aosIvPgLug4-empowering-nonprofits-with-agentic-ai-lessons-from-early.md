@@ -4,7 +4,7 @@ title: "Empowering Nonprofits with Agentic AI: Lessons from early adopters | BRK
 slug: empowering-nonprofits-with-agentic-ai-lessons-from-early
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Morteza Ghazai"]

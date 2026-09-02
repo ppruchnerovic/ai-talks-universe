@@ -4,7 +4,7 @@ title: "From legacy to modern .NET on Azure faster than ever | BRK150"
 slug: from-legacy-to-modern-net-on-azure-faster-than-ever-brk150
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jon Galloway", "Gaurav Seth"]

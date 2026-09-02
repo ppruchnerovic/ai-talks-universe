@@ -4,7 +4,7 @@ title: "It's 10pm. Do You Know Where Your Agents Are? — Kim Maida, Keycard"
 slug: it-s-10pm-do-you-know-where-your-agents-are-kim-maida
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Kim Maida"]

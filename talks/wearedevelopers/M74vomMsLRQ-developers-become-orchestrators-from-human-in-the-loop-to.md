@@ -4,7 +4,7 @@ title: "Developers become Orchestrators: From Human-in-the-Loop to Spec-in-the-L
 slug: developers-become-orchestrators-from-human-in-the-loop-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Bastian Heilemann", "Stefan Bley"]

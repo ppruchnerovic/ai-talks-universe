@@ -4,7 +4,7 @@ title: "First 365 Days as a Founder | Kristo Ovaska (Taito.ai)"
 slug: first-365-days-as-a-founder-kristo-ovaska-taito-ai
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2024
 speakers: ["Kristo Ovaska"]

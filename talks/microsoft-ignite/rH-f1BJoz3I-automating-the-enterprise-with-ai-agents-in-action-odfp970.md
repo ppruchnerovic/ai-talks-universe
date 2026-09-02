@@ -4,7 +4,7 @@ title: "Automating the enterprise with AI Agents in action | ODFP970"
 slug: automating-the-enterprise-with-ai-agents-in-action-odfp970
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Theo Mefford", "Zepu Wang"]

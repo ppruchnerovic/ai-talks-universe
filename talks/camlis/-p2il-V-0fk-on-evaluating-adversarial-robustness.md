@@ -4,7 +4,7 @@ title: "On Evaluating Adversarial Robustness"
 slug: on-evaluating-adversarial-robustness
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

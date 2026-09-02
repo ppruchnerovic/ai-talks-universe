@@ -4,7 +4,7 @@ title: "Workflows then agents: the practical approach to enterprise AI"
 slug: workflows-then-agents-the-practical-approach-to-enterprise
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

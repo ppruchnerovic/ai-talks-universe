@@ -4,7 +4,7 @@ title: "The Era of Generative AI"
 slug: the-era-of-generative-ai
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

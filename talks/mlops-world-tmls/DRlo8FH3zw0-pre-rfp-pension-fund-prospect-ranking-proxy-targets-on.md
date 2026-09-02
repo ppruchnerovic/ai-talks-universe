@@ -4,7 +4,7 @@ title: "Pre-RFP Pension Fund Prospect Ranking: Proxy Targets on Noisy Mandate Da
 slug: pre-rfp-pension-fund-prospect-ranking-proxy-targets-on
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

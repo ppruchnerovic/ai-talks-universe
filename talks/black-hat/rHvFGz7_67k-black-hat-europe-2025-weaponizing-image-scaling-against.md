@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | Weaponizing Image Scaling Against Production AI 
 slug: black-hat-europe-2025-weaponizing-image-scaling-against
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Is Spec Kit the future for software development - Johan Smarius - NDC Co
 slug: is-spec-kit-the-future-for-software-development-johan
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Johan Smarius"]

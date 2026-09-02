@@ -4,7 +4,7 @@ title: "How to Interpret & Explain Your Black Box Models | Anaconda"
 slug: how-to-interpret-explain-your-black-box-models-anaconda
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

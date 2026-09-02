@@ -4,7 +4,7 @@ title: "Luke Marsden - Giving Every Agent Its Own Desktop: Lessons from Dogfoodi
 slug: luke-marsden-giving-every-agent-its-own-desktop-lessons
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Luke Marsden"]

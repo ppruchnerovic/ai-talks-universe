@@ -4,7 +4,7 @@ title: "How partners can monetize and deliver value with Copilot extensibility |
 slug: how-partners-can-monetize-and-deliver-value-with-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Thomas Abel", "Jojo Wright"]

@@ -4,7 +4,7 @@ title: "Design Patterns For AI Products in 2026"
 slug: design-patterns-for-ai-products-in-2026
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Vitaly Friedman"]

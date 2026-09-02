@@ -4,7 +4,7 @@ title: "INSPIRE: Intent-aware Neural Sponsored Product Retrieval for E-commerce"
 slug: inspire-intent-aware-neural-sponsored-product-retrieval-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

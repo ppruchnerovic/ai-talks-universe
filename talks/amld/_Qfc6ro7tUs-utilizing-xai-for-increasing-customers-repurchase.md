@@ -4,7 +4,7 @@ title: "Utilizing XAI for Increasing Customers Repurchase Intentions | Applied E
 slug: utilizing-xai-for-increasing-customers-repurchase
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["André Artelt"]

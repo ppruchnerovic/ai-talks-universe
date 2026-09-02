@@ -4,7 +4,7 @@ title: "ML Security Evasion Competition 2020 -"
 slug: ml-security-evasion-competition-2020
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Village"
 year: 2020
 speakers: []

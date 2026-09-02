@@ -4,7 +4,7 @@ title: "Building your own software factory — Eric Zakariasson, Cursor"
 slug: building-your-own-software-factory-eric-zakariasson-cursor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eric Zakariasson"]

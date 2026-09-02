@@ -4,7 +4,7 @@ title: "Enabling Secure Container Checkpointing for Distributed Model Training -
 slug: enabling-secure-container-checkpointing-for-distributed
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Radostin Stoyanov"]

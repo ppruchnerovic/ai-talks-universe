@@ -4,7 +4,7 @@ title: "Garbage In, Garbage Out: Engineering Reliable AI Document Extraction Pip
 slug: garbage-in-garbage-out-engineering-reliable-ai-document
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Nazeer Saeed"]

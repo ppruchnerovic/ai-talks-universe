@@ -4,7 +4,7 @@ title: "Floki: Defining Agentic Workflows for Security - Roberto Rodriguez - NDC
 slug: floki-defining-agentic-workflows-for-security-roberto
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Roberto Rodriguez"]

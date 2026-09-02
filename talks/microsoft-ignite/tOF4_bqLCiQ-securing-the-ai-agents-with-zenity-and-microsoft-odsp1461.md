@@ -4,7 +4,7 @@ title: "Securing the AI Agents with Zenity and Microsoft | ODSP1461"
 slug: securing-the-ai-agents-with-zenity-and-microsoft-odsp1461
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shaun Van Staden"]

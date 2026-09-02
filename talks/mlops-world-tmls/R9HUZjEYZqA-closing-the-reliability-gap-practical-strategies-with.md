@@ -4,7 +4,7 @@ title: "Closing the Reliability Gap: Practical Strategies with Guarantees for Tr
 slug: closing-the-reliability-gap-practical-strategies-with
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

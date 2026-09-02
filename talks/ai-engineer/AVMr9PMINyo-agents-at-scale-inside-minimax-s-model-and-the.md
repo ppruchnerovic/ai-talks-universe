@@ -4,7 +4,7 @@ title: "Agents at Scale: Inside MiniMax's Model and the Infrastructure Behind It
 slug: agents-at-scale-inside-minimax-s-model-and-the
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Dan Fu", "Olive Song"]

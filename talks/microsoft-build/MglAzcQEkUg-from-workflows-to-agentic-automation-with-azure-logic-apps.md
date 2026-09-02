@@ -4,7 +4,7 @@ title: "From workflows to agentic automation with Azure Logic Apps | OD832"
 slug: from-workflows-to-agentic-automation-with-azure-logic-apps
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Divya Swarnkar"]

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Reimagining large-scale migration planning with age
 slug: aws-re-invent-2025-reimagining-large-scale-migration
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

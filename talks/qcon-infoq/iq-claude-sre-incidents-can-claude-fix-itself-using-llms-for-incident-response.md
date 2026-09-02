@@ -4,7 +4,7 @@ title: "Can Claude Fix Itself? Using LLMs for Incident Response"
 slug: can-claude-fix-itself-using-llms-for-incident-response
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2026"
 year: 2026
 speakers: ["Alex Palcuie"]

@@ -4,7 +4,7 @@ title: "Exploring fairness in AI for the Labor Market | Fairness and Bias in AI 
 slug: exploring-fairness-in-ai-for-the-labor-market-fairness-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

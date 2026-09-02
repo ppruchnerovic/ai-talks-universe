@@ -4,7 +4,7 @@ title: "Just do it. (let your tools think for themselves) - Robert Chandler"
 slug: just-do-it-let-your-tools-think-for-themselves-robert
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Robert Chandler"]

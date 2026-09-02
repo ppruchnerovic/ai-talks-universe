@@ -4,7 +4,7 @@ title: "Build agents with Gemini API"
 slug: build-agents-with-gemini-api
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Philipp Schmid", "Thor Schaeff"]

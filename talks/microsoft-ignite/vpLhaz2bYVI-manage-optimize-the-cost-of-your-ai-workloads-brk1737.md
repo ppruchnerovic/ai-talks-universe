@@ -4,7 +4,7 @@ title: "Manage & optimize the cost of your AI workloads | BRK1737"
 slug: manage-optimize-the-cost-of-your-ai-workloads-brk1737
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sonia Cuff"]

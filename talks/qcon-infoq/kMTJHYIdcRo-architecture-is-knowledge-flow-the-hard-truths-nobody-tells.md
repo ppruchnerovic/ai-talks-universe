@@ -4,7 +4,7 @@ title: "Architecture is Knowledge Flow: The Hard Truths Nobody Tells You"
 slug: architecture-is-knowledge-flow-the-hard-truths-nobody-tells
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

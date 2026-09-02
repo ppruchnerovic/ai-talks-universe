@@ -4,7 +4,7 @@ title: "Unmasking Dev Productivity: AI, Bias & the Hidden Truths"
 slug: unmasking-dev-productivity-ai-bias-the-hidden-truths
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Unlocking agentic data engineering with Lakeflow + Genie"
 slug: unlocking-agentic-data-engineering-with-lakeflow-genie
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2026"
 year: 2026
 speakers: ["Bilal Aslam"]

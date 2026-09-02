@@ -4,7 +4,7 @@ title: "Caching, harnesses, and advisors: Building on Claude at GitHub scale"
 slug: caching-harnesses-and-advisors-building-on-claude-at-github
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []

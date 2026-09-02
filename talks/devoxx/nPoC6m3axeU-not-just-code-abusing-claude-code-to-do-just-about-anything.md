@@ -4,7 +4,7 @@ title: "Not just code Abusing Claude Code to do just about anything but coding B
 slug: not-just-code-abusing-claude-code-to-do-just-about-anything
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

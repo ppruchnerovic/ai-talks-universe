@@ -4,7 +4,7 @@ title: "GitHub, Copilot, VS Code, and More: Live from San Francisco | LIVE104"
 slug: github-copilot-vs-code-and-more-live-from-san-francisco
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

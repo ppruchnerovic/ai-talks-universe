@@ -4,7 +4,7 @@ title: "Automating the Web with MCP: Infra that Doesn’t Break"
 slug: automating-the-web-with-mcp-infra-that-doesnt-break
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Paul Klein"]

@@ -4,7 +4,7 @@ title: "A Deep Dive Into the Latest HPC Software | NVIDIA GTC 2025"
 slug: a-deep-dive-into-the-latest-hpc-software-nvidia-gtc-2025
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

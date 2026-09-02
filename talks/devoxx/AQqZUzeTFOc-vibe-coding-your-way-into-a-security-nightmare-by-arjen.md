@@ -4,7 +4,7 @@ title: "Vibe coding your way into a security nightmare by Arjen Wiersma"
 slug: vibe-coding-your-way-into-a-security-nightmare-by-arjen
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Arjen Wiersma"]

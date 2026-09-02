@@ -4,7 +4,7 @@ title: "Your AI Survival Guide • Sol Rashidi & Joe Reis"
 slug: your-ai-survival-guide-sol-rashidi-joe-reis
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Sol Rashidi", "Joe Reis"]

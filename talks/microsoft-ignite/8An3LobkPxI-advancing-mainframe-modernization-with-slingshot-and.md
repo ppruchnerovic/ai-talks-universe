@@ -4,7 +4,7 @@ title: "Advancing mainframe modernization with Slingshot and Microsoft | ODSP140
 slug: advancing-mainframe-modernization-with-slingshot-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Thanumoorthy Sundaresan", "John Weston"]

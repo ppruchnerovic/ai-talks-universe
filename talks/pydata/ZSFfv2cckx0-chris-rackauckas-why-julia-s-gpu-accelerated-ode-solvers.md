@@ -4,7 +4,7 @@ title: "Chris Rackauckas-Why Julia_s GPU-Accelerated ODE Solvers are 20x-100x Fa
 slug: chris-rackauckas-why-julia-s-gpu-accelerated-ode-solvers
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

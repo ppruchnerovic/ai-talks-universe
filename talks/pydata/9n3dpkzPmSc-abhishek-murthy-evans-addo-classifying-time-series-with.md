@@ -4,7 +4,7 @@ title: "Abhishek Murthy, Evans Addo - Classifying Time Series with Foundation Mo
 slug: abhishek-murthy-evans-addo-classifying-time-series-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Abhishek Murthy"]

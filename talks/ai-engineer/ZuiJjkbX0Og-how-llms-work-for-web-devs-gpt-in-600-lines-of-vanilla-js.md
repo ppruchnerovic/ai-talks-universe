@@ -4,7 +4,7 @@ title: "How LLMs work for Web Devs: GPT in 600 lines of Vanilla JS - Ishan Anand
 slug: how-llms-work-for-web-devs-gpt-in-600-lines-of-vanilla-js
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ishan Anand"]

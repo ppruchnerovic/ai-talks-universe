@@ -4,7 +4,7 @@ title: "Introducing Microsoft Foundry Tools | BRK192"
 slug: introducing-microsoft-foundry-tools-brk192
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Xiaoying Guo", "Vinod Kurpad", "Zhuoqun Li"]

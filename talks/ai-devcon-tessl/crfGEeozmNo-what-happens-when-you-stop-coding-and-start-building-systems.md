@@ -4,7 +4,7 @@ title: "What Happens When You Stop Coding and Start Building Systems"
 slug: what-happens-when-you-stop-coding-and-start-building-systems
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

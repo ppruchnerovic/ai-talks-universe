@@ -4,7 +4,7 @@ title: "The Great Brain Robbery: Navigating the Dark Future of Online Manipulati
 slug: the-great-brain-robbery-navigating-the-dark-future-of
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jeff Watkins"]

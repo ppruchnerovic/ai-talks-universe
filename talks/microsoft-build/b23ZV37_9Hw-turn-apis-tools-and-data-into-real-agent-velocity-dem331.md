@@ -4,7 +4,7 @@ title: "Turn APIs, tools, and data into real agent velocity | DEM331"
 slug: turn-apis-tools-and-data-into-real-agent-velocity-dem331
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Chu Lahlou"]

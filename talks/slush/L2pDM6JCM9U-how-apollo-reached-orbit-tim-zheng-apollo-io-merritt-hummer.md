@@ -4,7 +4,7 @@ title: "How Apollo Reached Orbit | Tim Zheng (Apollo.io), Merritt Hummer (Bain C
 slug: how-apollo-reached-orbit-tim-zheng-apollo-io-merritt-hummer
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Tim Zheng"]

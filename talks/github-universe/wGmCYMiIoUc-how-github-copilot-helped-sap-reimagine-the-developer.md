@@ -4,7 +4,7 @@ title: "How GitHub Copilot helped SAP reimagine the developer experience"
 slug: how-github-copilot-helped-sap-reimagine-the-developer
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2024"
 year: 2024
 speakers: []

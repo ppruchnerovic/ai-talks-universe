@@ -4,7 +4,7 @@ title: "Secure what matters with a unified cloud security strategy | BRK266"
 slug: secure-what-matters-with-a-unified-cloud-security-strategy
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Drew Nicholas", "Greg Schellenberg", "Oz Wilder"]

@@ -4,7 +4,7 @@ title: "The Private AI Platform: Why Agentic Apps Need a Private Application Pla
 slug: the-private-ai-platform-why-agentic-apps-need-a-private
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Oren Penso"]

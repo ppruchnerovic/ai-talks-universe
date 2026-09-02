@@ -4,7 +4,7 @@ title: "Distributed systems to AI platforms with Mark Russinovich & Ion Stoica |
 slug: distributed-systems-to-ai-platforms-with-mark-russinovich
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Mark Russinovich", "Ion Stoica"]

@@ -4,7 +4,7 @@ title: "Generative Chemistry in real world application | AI for Drug Discovery |
 slug: generative-chemistry-in-real-world-application-ai-for-drug
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Jessica Lanini"]

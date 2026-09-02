@@ -4,7 +4,7 @@ title: "LLM Prompt Injection: Attacks and Defenses"
 slug: llm-prompt-injection-attacks-and-defenses
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Protecting Your GitHub from Supply Chain Attacks • Bret Fisher • GOT
 slug: protecting-your-github-from-supply-chain-attacks-bret
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Bret Fisher"]

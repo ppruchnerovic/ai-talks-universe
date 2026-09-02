@@ -4,7 +4,7 @@ title: "From Words to Worlds | John Hanke (Niantic), Pim de Witte (General Intui
 slug: from-words-to-worlds-john-hanke-niantic-pim-de-witte
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["John Hanke"]

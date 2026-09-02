@@ -4,7 +4,7 @@ title: "Deciding Which Idea to Pursue | Darren Mowry (Google)"
 slug: deciding-which-idea-to-pursue-darren-mowry-google
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Darren Mowry"]

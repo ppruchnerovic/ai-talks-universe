@@ -4,7 +4,7 @@ title: "A2A in 30 Minutes: Building Interoperable AI Agents by Loïc Magnette"
 slug: a2a-in-30-minutes-building-interoperable-ai-agents-by-loic
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

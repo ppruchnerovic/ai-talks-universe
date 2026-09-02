@@ -4,7 +4,7 @@ title: "The Journey of Building a Leading Open Source LLM Security Toolkit"
 slug: the-journey-of-building-a-leading-open-source-llm-security
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Oleksandr Yaremchuk"]

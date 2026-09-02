@@ -4,7 +4,7 @@ title: "Revolutionize file storage with PowerScale's Azure integration | STUDIOS
 slug: revolutionize-file-storage-with-powerscale-s-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

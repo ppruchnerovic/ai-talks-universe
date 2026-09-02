@@ -4,7 +4,7 @@ title: "The Imperfect Architect by Robin Custers"
 slug: the-imperfect-architect-by-robin-custers
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Robin Custers"]

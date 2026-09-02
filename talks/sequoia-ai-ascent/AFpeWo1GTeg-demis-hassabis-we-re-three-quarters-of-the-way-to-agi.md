@@ -4,7 +4,7 @@ title: "Demis Hassabis: We're Three Quarters of the Way to AGI"
 slug: demis-hassabis-we-re-three-quarters-of-the-way-to-agi
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2026"
 year: 2026
 speakers: []

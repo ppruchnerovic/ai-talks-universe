@@ -4,7 +4,7 @@ title: "Making Codebases Agent Ready – Eno Reyes, Factory AI"
 slug: making-codebases-agent-ready-eno-reyes-factory-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Eno Reyes"]

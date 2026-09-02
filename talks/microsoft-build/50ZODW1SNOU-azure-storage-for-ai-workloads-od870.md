@@ -4,7 +4,7 @@ title: "Azure Storage for AI workloads​ | OD870"
 slug: azure-storage-for-ai-workloads-od870
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Saurabh Sensharma"]

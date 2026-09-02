@@ -4,7 +4,7 @@ title: "Get ready for the AI era with a modern CRM | BRK278"
 slug: get-ready-for-the-ai-era-with-a-modern-crm-brk278
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nitasha Chopra", "Marty Priest"]

@@ -4,7 +4,7 @@ title: "Wearing the Agent: From Group Chats to Glasses — Sai Krishna Rallaband
 slug: wearing-the-agent-from-group-chats-to-glasses-sai-krishna
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sai Krishna Rallabandi"]

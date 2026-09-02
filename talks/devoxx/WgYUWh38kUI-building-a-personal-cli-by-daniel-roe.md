@@ -4,7 +4,7 @@ title: "Building a personal CLI by Daniel Roe"
 slug: building-a-personal-cli-by-daniel-roe
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Daniel Roe"]

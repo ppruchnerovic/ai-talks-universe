@@ -4,7 +4,7 @@ title: "Who Tests the AI Testers? Evaluating AI QA Agents embedded in TDD-based 
 slug: who-tests-the-ai-testers-evaluating-ai-qa-agents-embedded
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

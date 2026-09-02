@@ -4,7 +4,7 @@ title: "Rewiring the State — Eoin Mulgrew, No. 10 (Downing Street)"
 slug: rewiring-the-state-eoin-mulgrew-no-10-downing-street
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Eoin Mulgrew"]

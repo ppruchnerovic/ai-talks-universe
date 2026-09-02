@@ -4,7 +4,7 @@ title: "Building Agentic Systems with Python, LangGraph, MCP, and A2A [PyCon DE 
 slug: building-agentic-systems-with-python-langgraph-mcp-and-a2a
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Holger Nösekabel"]

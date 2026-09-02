@@ -4,7 +4,7 @@ title: "Scaling AI: Observability Across Models, Data & Infrastructure | George 
 slug: scaling-ai-observability-across-models-data-infrastructure
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["George Miranda"]

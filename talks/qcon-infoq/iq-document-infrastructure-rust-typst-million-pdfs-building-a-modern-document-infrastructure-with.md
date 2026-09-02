@@ -4,7 +4,7 @@ title: "Million PDFs: Building a Modern Document Infrastructure with Rust and Ty
 slug: million-pdfs-building-a-modern-document-infrastructure-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Erik Steiger"]

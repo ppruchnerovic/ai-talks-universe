@@ -4,7 +4,7 @@ title: "From KPIs to KVIs: What HR Leaders Can Learn from Gamers About Energy, P
 slug: from-kpis-to-kvis-what-hr-leaders-can-learn-from-gamers
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Toan Nguyen"]

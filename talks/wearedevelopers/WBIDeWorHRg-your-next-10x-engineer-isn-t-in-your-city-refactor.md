@@ -4,7 +4,7 @@ title: "Your next 10x engineer isn't in your city. Refactor accordingly."
 slug: your-next-10x-engineer-isn-t-in-your-city-refactor
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Antonia Eneh"]

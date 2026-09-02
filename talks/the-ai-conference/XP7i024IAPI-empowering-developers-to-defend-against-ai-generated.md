@@ -4,7 +4,7 @@ title: "Empowering Developers To Defend Against AI-Generated Misinformation At S
 slug: empowering-developers-to-defend-against-ai-generated
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

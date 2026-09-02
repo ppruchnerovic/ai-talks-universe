@@ -4,7 +4,7 @@ title: "SaTML 2024 - Ruinan Jin - Backdoor Attack on Un-paired Medical Image-Tex
 slug: satml-2024-ruinan-jin-backdoor-attack-on-un-paired-medical
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Ruinan Jin"]

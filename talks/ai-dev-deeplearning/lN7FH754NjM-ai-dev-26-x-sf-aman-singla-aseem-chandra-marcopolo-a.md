@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Aman Singla & Aseem Chandra: MarcoPolo, A Workspace for
 slug: ai-dev-26-x-sf-aman-singla-aseem-chandra-marcopolo-a
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

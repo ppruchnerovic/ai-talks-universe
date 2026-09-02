@@ -4,7 +4,7 @@ title: "ChatGPT is poorly designed. So I fixed it"
 slug: chatgpt-is-poorly-designed-so-i-fixed-it
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

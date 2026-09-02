@@ -4,7 +4,7 @@ title: "Devin 2.0 and the Future of SWE - Scott Wu, Cognition"
 slug: devin-2-0-and-the-future-of-swe-scott-wu-cognition
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Scott Wu"]

@@ -4,7 +4,7 @@ title: "GenAI Is a Junior Dev With Root Access"
 slug: genai-is-a-junior-dev-with-root-access
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Julian Totzek-Hallhuber"]

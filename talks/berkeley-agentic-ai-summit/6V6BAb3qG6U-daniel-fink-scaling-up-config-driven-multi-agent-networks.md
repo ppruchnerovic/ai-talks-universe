@@ -4,7 +4,7 @@ title: "Daniel Fink - Scaling Up Config Driven Multi Agent Networks with Neuro S
 slug: daniel-fink-scaling-up-config-driven-multi-agent-networks
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Daniel Fink"]

@@ -4,7 +4,7 @@ title: "Guy Podjarny - Skills are the new Code - AI Native DevCon June 2026"
 slug: guy-podjarny-skills-are-the-new-code-ai-native-devcon-june
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Guy Podjarny"]

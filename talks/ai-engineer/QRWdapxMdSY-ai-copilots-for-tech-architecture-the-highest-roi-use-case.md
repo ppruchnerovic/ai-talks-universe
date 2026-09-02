@@ -4,7 +4,7 @@ title: "AI Copilots for Tech Architecture: The Highest-ROI Use Case You’re Not
 slug: ai-copilots-for-tech-architecture-the-highest-roi-use-case
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Boris B."]

@@ -4,7 +4,7 @@ title: "Tim Paine - Build a data studio in your notebook with jupyter-fs"
 slug: tim-paine-build-a-data-studio-in-your-notebook-with-jupyter
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Tim Paine"]

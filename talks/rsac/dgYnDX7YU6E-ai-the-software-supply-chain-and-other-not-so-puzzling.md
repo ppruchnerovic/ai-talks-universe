@@ -4,7 +4,7 @@ title: "AI, the Software Supply Chain, and Other (Not So) Puzzling Pieces"
 slug: ai-the-software-supply-chain-and-other-not-so-puzzling
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

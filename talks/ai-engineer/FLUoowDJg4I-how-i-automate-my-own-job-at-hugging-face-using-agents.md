@@ -4,7 +4,7 @@ title: "How I automate my own job at Hugging Face using agents — Niels Rogge, 
 slug: how-i-automate-my-own-job-at-hugging-face-using-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Niels Rogge"]

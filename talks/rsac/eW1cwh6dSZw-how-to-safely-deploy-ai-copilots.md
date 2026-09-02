@@ -4,7 +4,7 @@ title: "How to Safely Deploy AI Copilots"
 slug: how-to-safely-deploy-ai-copilots
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Brian Vecci"]

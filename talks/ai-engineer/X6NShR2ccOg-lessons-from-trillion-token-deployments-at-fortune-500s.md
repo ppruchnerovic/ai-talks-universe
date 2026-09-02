@@ -4,7 +4,7 @@ title: "Lessons from Trillion Token Deployments at Fortune 500s — Alessandro C
 slug: lessons-from-trillion-token-deployments-at-fortune-500s
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Alessandro Cappelli"]

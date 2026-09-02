@@ -4,7 +4,7 @@ title: "Explore Microsoft Agent 365 security and governance capabilities | BRK26
 slug: explore-microsoft-agent-365-security-and-governance
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kim Kischel", "Joanne Marone", "Irina Nechaeva", "Shilpa Ranganathan"]

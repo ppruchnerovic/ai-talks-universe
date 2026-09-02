@@ -4,7 +4,7 @@ title: "How Bridgewater Built an AI Analyst That Does Hours of Expert Research i
 slug: how-bridgewater-built-an-ai-analyst-that-does-hours-of
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

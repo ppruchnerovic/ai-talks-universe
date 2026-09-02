@@ -4,7 +4,7 @@ title: "How robots are learning to walk ⎹ Marco Hutter, ETH Zürich"
 slug: how-robots-are-learning-to-walk-marco-hutter-eth-zurich
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Exploring Germany's Urban Geography with Census and OpenStreetMap Data [
 slug: exploring-germany-s-urban-geography-with-census-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Travis Hathaway"]

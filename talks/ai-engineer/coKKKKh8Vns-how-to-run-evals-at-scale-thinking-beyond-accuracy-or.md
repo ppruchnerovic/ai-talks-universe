@@ -4,7 +4,7 @@ title: "How to run Evals at Scale: Thinking beyond Accuracy or Similarity — Mu
 slug: how-to-run-evals-at-scale-thinking-beyond-accuracy-or
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Muktesh Mishra"]

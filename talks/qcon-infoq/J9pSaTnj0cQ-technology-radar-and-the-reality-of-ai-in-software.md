@@ -4,7 +4,7 @@ title: "Technology Radar and the Reality of AI in Software Development"
 slug: technology-radar-and-the-reality-of-ai-in-software
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

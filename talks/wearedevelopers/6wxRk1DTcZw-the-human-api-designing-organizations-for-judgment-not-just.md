@@ -4,7 +4,7 @@ title: "The Human API: Designing Organizations for Judgment, Not Just Execution"
 slug: the-human-api-designing-organizations-for-judgment-not-just
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Manjuri Sinha"]

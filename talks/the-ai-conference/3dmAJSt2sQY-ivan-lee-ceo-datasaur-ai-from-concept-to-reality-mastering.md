@@ -4,7 +4,7 @@ title: "Ivan Lee, CEO, datasaur.ai: From Concept to Reality: Mastering LLMs from
 slug: ivan-lee-ceo-datasaur-ai-from-concept-to-reality-mastering
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

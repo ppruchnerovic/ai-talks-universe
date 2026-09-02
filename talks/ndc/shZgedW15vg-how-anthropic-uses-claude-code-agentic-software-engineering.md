@@ -4,7 +4,7 @@ title: "How Anthropic uses Claude Code: Agentic Software Engineering at Scale - 
 slug: how-anthropic-uses-claude-code-agentic-software-engineering
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Daisy Hollman"]

@@ -4,7 +4,7 @@ title: "No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Hor
 slug: no-vibes-allowed-solving-hard-problems-in-complex-codebases
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dex Horthy"]

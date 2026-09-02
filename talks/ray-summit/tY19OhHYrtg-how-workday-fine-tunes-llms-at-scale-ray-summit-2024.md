@@ -4,7 +4,7 @@ title: "How Workday Fine-Tunes LLMs at Scale | Ray Summit 2024"
 slug: how-workday-fine-tunes-llms-at-scale-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

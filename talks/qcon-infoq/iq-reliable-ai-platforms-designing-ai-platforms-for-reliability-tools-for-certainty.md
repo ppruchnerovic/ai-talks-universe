@@ -4,7 +4,7 @@ title: "Designing AI Platforms for Reliability: Tools for Certainty, Agents for 
 slug: designing-ai-platforms-for-reliability-tools-for-certainty
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon San Francisco 2025"
 year: 2025
 speakers: ["Aaron Erickson"]

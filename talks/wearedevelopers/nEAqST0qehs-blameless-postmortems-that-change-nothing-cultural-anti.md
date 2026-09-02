@@ -4,7 +4,7 @@ title: "Blameless Postmortems That Change Nothing: Cultural Anti-Patterns in Inc
 slug: blameless-postmortems-that-change-nothing-cultural-anti
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniel Schley"]

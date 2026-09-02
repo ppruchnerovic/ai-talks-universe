@@ -4,7 +4,7 @@ title: "Power agentic workflows in your terminal with GitHub Copilot CLI"
 slug: power-agentic-workflows-in-your-terminal-with-github
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []

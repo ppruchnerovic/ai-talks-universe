@@ -4,7 +4,7 @@ title: "Paul Stack - The Humans Architect the System, the AI Writes the Code - A
 slug: paul-stack-the-humans-architect-the-system-the-ai-writes
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Paul Stack"]

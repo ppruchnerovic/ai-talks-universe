@@ -4,7 +4,7 @@ title: "Organize AI Chaos With Platform Engineering - Sebastien Blanc, Port"
 slug: organize-ai-chaos-with-platform-engineering-sebastien-blanc
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Sebastien Blanc"]

@@ -4,7 +4,7 @@ title: "Headless by Design: Building Enterprise Systems That Agents Can Actually
 slug: headless-by-design-building-enterprise-systems-that-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Dirk Gronert"]

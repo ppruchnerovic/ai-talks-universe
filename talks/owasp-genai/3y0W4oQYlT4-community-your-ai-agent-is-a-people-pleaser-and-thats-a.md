@@ -4,7 +4,7 @@ title: "Community | Your AI Agent Is a People Pleaser — And That’s a Securit
 slug: community-your-ai-agent-is-a-people-pleaser-and-thats-a
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: ["Victoria Shutenko"]

@@ -4,7 +4,7 @@ title: "Enterprise Scale: The Future of Power Platform Governance + Security | B
 slug: enterprise-scale-the-future-of-power-platform-governance
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ryan Jones", "Shawn Nandi", "Lianne Zelsman"]

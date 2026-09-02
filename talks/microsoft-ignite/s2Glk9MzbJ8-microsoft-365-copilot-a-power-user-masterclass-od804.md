@@ -4,7 +4,7 @@ title: "Microsoft 365 Copilot: a power-user masterclass | OD804"
 slug: microsoft-365-copilot-a-power-user-masterclass-od804
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

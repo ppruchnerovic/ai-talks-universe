@@ -4,7 +4,7 @@ title: "Making Enterprise GenAI Safe and Effective - Tools and Approaches"
 slug: making-enterprise-genai-safe-and-effective-tools-and
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Rahm Hafiz"]

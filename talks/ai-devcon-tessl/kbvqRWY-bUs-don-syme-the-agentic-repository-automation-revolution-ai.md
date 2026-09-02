@@ -4,7 +4,7 @@ title: "Don Syme - The Agentic Repository Automation Revolution - AI Native DevC
 slug: don-syme-the-agentic-repository-automation-revolution-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Don Syme"]

@@ -4,7 +4,7 @@ title: "Kraken's Serverless Architecture for Keeping the Grid Green"
 slug: kraken-s-serverless-architecture-for-keeping-the-grid-green
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Kevin Bowman"]

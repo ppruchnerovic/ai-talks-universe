@@ -4,7 +4,7 @@ title: "Unlock Productivity with AI in Power Apps | BRK173"
 slug: unlock-productivity-with-ai-in-power-apps-brk173
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matt Hidinger", "Anthony Uitz"]

@@ -4,7 +4,7 @@ title: "Artificial intelligence and the Microsoft ecoverse | ODFP975"
 slug: artificial-intelligence-and-the-microsoft-ecoverse-odfp975
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Michael Heath", "Dominick Raimato"]

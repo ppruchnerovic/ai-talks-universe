@@ -4,7 +4,7 @@ title: "AI for the Public Sector with Microsoft 365 Copilot GCC | OD803"
 slug: ai-for-the-public-sector-with-microsoft-365-copilot-gcc
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ashok Ghosh", "Dan Narloch"]

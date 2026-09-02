@@ -4,7 +4,7 @@ title: "Arrakis: How To Build An AI Sandbox From Scratch - Abhishek Bhardwaj, Op
 slug: arrakis-how-to-build-an-ai-sandbox-from-scratch-abhishek
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Abhishek Bhardwaj"]

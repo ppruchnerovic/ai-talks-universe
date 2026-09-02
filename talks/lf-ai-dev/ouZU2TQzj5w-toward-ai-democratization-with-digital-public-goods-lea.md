@@ -4,7 +4,7 @@ title: "Toward AI Democratization with Digital Public Goods - Lea Gimpel & Danie
 slug: toward-ai-democratization-with-digital-public-goods-lea
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Lea Gimpel", "Daniel Brumund"]

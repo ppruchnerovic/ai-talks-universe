@@ -4,7 +4,7 @@ title: "Navigating The AI Transformation: Understanding AI's Impact On Work And 
 slug: navigating-the-ai-transformation-understanding-ai-s-impact
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

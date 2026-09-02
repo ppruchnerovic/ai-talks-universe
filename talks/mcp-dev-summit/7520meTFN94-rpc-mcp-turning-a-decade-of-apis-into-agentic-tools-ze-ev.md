@@ -4,7 +4,7 @@ title: "RPC & MCP: Turning a Decade of APIs Into Agentic Tools - Ze'ev Klapow, H
 slug: rpc-mcp-turning-a-decade-of-apis-into-agentic-tools-ze-ev
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Ze'ev Klapow"]

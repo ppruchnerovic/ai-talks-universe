@@ -4,7 +4,7 @@ title: "Maximize partner profitability with AI in low code | BRK187"
 slug: maximize-partner-profitability-with-ai-in-low-code-brk187
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matthew Davis", "Becky Lymberis"]

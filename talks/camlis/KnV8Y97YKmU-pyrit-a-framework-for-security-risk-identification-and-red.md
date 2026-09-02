@@ -4,7 +4,7 @@ title: "PyRIT: A Framework for Security Risk Identification and Red Teaming in G
 slug: pyrit-a-framework-for-security-risk-identification-and-red
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

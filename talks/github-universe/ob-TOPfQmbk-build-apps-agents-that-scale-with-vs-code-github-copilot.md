@@ -4,7 +4,7 @@ title: "Build apps & agents that scale with VS Code, GitHub Copilot, and Agent F
 slug: build-apps-agents-that-scale-with-vs-code-github-copilot
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []

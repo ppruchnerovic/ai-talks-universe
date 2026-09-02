@@ -4,7 +4,7 @@ title: "Eliminate employee friction at work with an enterprise-wide AI agent | O
 slug: eliminate-employee-friction-at-work-with-an-enterprise-wide
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jake Speyer"]

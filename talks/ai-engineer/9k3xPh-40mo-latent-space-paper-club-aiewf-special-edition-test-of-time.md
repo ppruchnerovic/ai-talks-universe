@@ -4,7 +4,7 @@ title: "Latent Space Paper Club: AIEWF Special Edition (Test of Time, DeepSeek R
 slug: latent-space-paper-club-aiewf-special-edition-test-of-time
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

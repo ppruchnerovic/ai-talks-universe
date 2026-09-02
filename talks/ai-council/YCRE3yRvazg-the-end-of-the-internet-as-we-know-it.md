@@ -4,7 +4,7 @@ title: "The End of the Internet As We Know It"
 slug: the-end-of-the-internet-as-we-know-it
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

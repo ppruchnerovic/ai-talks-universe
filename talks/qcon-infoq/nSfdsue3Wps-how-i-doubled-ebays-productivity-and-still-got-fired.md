@@ -4,7 +4,7 @@ title: "How I Doubled eBay’s Productivity - And Still Got Fired"
 slug: how-i-doubled-ebays-productivity-and-still-got-fired
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

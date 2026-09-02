@@ -4,7 +4,7 @@ title: "CG - Big SIEM Energy at micro-SIEM cost"
 slug: cg-big-siem-energy-at-micro-siem-cost
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

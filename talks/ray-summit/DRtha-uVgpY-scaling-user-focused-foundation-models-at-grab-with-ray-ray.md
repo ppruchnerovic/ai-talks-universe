@@ -4,7 +4,7 @@ title: "Scaling User-Focused Foundation Models at Grab with Ray | Ray Summit 202
 slug: scaling-user-focused-foundation-models-at-grab-with-ray-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

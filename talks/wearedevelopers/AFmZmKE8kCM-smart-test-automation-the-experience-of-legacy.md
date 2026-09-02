@@ -4,7 +4,7 @@ title: "SMART Test Automation - the experience of legacy transformation"
 slug: smart-test-automation-the-experience-of-legacy
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Leszek Włodarski"]

@@ -4,7 +4,7 @@ title: "Scaling and the Road to Human-Level AI | Anthropic Co-founder Jared Kapl
 slug: scaling-and-the-road-to-human-level-ai-anthropic-co-founder
 conference: yc-ai-startup-school
 conference_name: "Y Combinator AI Startup School"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Startup School 2025"
 year: 2025
 speakers: ["Anthropic Co-founder Jared Kaplan"]

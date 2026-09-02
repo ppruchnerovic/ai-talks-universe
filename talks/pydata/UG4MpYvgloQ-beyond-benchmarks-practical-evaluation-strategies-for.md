@@ -4,7 +4,7 @@ title: "Beyond Benchmarks: Practical Evaluation Strategies for Compound AI Syste
 slug: beyond-benchmarks-practical-evaluation-strategies-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Iryna Kondrashchenko"]

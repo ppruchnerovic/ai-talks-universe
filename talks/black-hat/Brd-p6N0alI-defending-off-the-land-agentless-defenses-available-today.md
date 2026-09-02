@@ -4,7 +4,7 @@ title: "Defending off the land: Agentless defenses available today"
 slug: defending-off-the-land-agentless-defenses-available-today
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Jacob Torrey", "Marco Slaviero"]

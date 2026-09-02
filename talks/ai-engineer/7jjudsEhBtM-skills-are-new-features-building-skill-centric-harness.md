@@ -4,7 +4,7 @@ title: "Skills are new features: Building Skill-Centric Harness — Yogendra Mir
 slug: skills-are-new-features-building-skill-centric-harness
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Yogendra Miraje"]

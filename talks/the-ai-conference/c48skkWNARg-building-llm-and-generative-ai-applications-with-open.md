@@ -4,7 +4,7 @@ title: "Building LLM And Generative AI Applications With Open Source And Hugging
 slug: building-llm-and-generative-ai-applications-with-open
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

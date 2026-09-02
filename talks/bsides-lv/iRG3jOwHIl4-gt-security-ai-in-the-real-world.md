@@ -4,7 +4,7 @@ title: "GT - Security AI in the real world"
 slug: gt-security-ai-in-the-real-world
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2022
 speakers: []

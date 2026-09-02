@@ -4,7 +4,7 @@ title: "AX is the only Experience that Matters - Ivan Burazin"
 slug: ax-is-the-only-experience-that-matters-ivan-burazin
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ivan Burazin"]

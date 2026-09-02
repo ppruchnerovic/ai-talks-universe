@@ -4,7 +4,7 @@ title: "DevCon Fall 2025 | Richmond Alake - Memory Engineering: Going Beyond Con
 slug: devcon-fall-2025-richmond-alake-memory-engineering-going
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Richmond Alake"]

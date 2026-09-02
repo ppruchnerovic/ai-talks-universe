@@ -4,7 +4,7 @@ title: "The Next Unicorns: 7 Top AI startups from the HF0 Residency"
 slug: the-next-unicorns-7-top-ai-startups-from-the-hf0-residency
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

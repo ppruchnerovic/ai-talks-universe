@@ -4,7 +4,7 @@ title: "Founders, Friction, and Focus: Building Engineering Teams at Early-Stage
 slug: founders-friction-and-focus-building-engineering-teams-at
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

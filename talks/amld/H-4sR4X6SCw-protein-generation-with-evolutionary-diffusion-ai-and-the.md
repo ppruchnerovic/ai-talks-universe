@@ -4,7 +4,7 @@ title: "Protein generation with evolutionary diffusion | AI and the Molecular Wo
 slug: protein-generation-with-evolutionary-diffusion-ai-and-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Ava Amini"]

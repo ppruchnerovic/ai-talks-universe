@@ -4,7 +4,7 @@ title: "Keynote: Perspectives on Trust in Hardware Supply Chains"
 slug: keynote-perspectives-on-trust-in-hardware-supply-chains
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

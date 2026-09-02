@@ -4,7 +4,7 @@ title: "Mitigating Adversarial Attacks against Machine Learning for Static Analy
 slug: mitigating-adversarial-attacks-against-machine-learning-for
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

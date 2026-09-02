@@ -4,7 +4,7 @@ title: "Reverse engineering a Viking VOIP phone protocol with Claude Code — Bo
 slug: reverse-engineering-a-viking-voip-phone-protocol-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Boris Starkov"]

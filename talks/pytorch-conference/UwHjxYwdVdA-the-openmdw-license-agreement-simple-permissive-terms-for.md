@@ -4,7 +4,7 @@ title: "The OpenMDW License Agreement: Simple, Permissive Terms for AI Model Mat
 slug: the-openmdw-license-agreement-simple-permissive-terms-for
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Steve Winslow"]

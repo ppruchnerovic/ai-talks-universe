@@ -4,7 +4,7 @@ title: "What's new in Chrome"
 slug: what-s-new-in-chrome
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Paul Kinlan"]

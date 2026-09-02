@@ -4,7 +4,7 @@ title: "Devoxx Belgium Organiser, Speakers & Visitors interviews"
 slug: devoxx-belgium-organiser-speakers-visitors-interviews
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

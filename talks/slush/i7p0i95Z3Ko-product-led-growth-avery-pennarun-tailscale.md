@@ -4,7 +4,7 @@ title: "Product-led Growth | Avery Pennarun (Tailscale)"
 slug: product-led-growth-avery-pennarun-tailscale
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Product-led Growth", "Avery Pennarun"]

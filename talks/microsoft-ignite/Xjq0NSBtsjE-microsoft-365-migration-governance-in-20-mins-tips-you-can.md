@@ -4,7 +4,7 @@ title: "Microsoft 365 migration & governance in 20 mins: Tips you can't miss | O
 slug: microsoft-365-migration-governance-in-20-mins-tips-you-can
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Richard Harbridge"]

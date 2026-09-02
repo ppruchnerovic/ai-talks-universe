@@ -4,7 +4,7 @@ title: "Scott and Mark learn to Vibe Check with Swyx | LIVE115"
 slug: scott-and-mark-learn-to-vibe-check-with-swyx-live115
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Scott Hanselman"]

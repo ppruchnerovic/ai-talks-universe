@@ -4,7 +4,7 @@ title: "Power AI transformation: Scaling app modernization for business growth |
 slug: power-ai-transformation-scaling-app-modernization-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ayobami Ayodeji", "Aarthi Murugan", "Ikenna Okeke"]

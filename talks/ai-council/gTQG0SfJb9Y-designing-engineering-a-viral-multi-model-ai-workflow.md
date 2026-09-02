@@ -4,7 +4,7 @@ title: "Designing & Engineering a Viral Multi-Model AI Workflow"
 slug: designing-engineering-a-viral-multi-model-ai-workflow
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["David Wilson"]

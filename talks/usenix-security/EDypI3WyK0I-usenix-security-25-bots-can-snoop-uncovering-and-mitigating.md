@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Bots can Snoop: Uncovering and Mitigating Privacy 
 slug: usenix-security-25-bots-can-snoop-uncovering-and-mitigating
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

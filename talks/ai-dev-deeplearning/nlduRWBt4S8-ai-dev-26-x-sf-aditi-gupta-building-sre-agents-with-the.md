@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Aditi Gupta: Building SRE Agents with the Redis Context
 slug: ai-dev-26-x-sf-aditi-gupta-building-sre-agents-with-the
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

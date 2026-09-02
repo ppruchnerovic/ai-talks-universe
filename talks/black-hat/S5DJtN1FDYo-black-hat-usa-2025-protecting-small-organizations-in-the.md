@@ -4,7 +4,7 @@ title: "Black Hat USA 2025 | Protecting Small Organizations in the Era of AI Bot
 slug: black-hat-usa-2025-protecting-small-organizations-in-the
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

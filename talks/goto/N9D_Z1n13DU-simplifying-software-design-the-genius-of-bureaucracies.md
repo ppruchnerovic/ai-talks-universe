@@ -4,7 +4,7 @@ title: "Simplifying Software Design: The Genius of Bureaucracies • Alistair Co
 slug: simplifying-software-design-the-genius-of-bureaucracies
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Alistair Cockburn"]

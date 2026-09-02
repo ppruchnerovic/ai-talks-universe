@@ -4,7 +4,7 @@ title: "Grow Your Partner AI Practice: Unlocking scale for AI Transformations | 
 slug: grow-your-partner-ai-practice-unlocking-scale-for-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Charlie Doubek", "Swapnil Khopkar", "Kirill Kotlyarenko"]

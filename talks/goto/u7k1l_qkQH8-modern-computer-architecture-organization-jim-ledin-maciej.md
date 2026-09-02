@@ -4,7 +4,7 @@ title: "Modern Computer Architecture & Organization • Jim Ledin & Maciej «MJ�
 slug: modern-computer-architecture-organization-jim-ledin-maciej
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Build work-ready agents with Foundry + Work IQ, govern with Agent 365 | 
 slug: build-work-ready-agents-with-foundry-work-iq-govern-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Srikumar Nair"]

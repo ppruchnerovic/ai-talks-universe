@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Agentic AI advancements in customer experience with
 slug: aws-re-invent-2025-agentic-ai-advancements-in-customer
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

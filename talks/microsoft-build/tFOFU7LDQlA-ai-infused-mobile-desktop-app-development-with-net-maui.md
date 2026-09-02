@@ -4,7 +4,7 @@ title: "AI infused mobile & desktop app development with .NET MAUI | BRK123"
 slug: ai-infused-mobile-desktop-app-development-with-net-maui
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Making AI Personal: Building Context-Rich AI Tools with MCP • Kris Jen
 slug: making-ai-personal-building-context-rich-ai-tools-with-mcp
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Kris Jenkins"]

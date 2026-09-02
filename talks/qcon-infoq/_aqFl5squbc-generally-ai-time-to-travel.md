@@ -4,7 +4,7 @@ title: "Generally AI: Time to Travel"
 slug: generally-ai-time-to-travel
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

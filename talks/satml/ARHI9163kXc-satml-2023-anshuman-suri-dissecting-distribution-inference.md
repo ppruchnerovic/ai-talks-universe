@@ -4,7 +4,7 @@ title: "SaTML 2023 - Anshuman Suri - Dissecting Distribution Inference"
 slug: satml-2023-anshuman-suri-dissecting-distribution-inference
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Anshuman Suri", "Dissecting Distribution Inference"]

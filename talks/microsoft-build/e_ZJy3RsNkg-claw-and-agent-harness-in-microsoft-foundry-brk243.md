@@ -4,7 +4,7 @@ title: "Claw and agent harness in Microsoft Foundry | BRK243"
 slug: claw-and-agent-harness-in-microsoft-foundry-brk243
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Shawn Henry", "Amanda Foster", "Glenn Condron"]

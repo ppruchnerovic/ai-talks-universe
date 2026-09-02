@@ -4,7 +4,7 @@ title: "Stop Worrying About Foundation Models — Your Taste, Judgment, and UX A
 slug: stop-worrying-about-foundation-models-your-taste-judgment
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Hamel Husain"]

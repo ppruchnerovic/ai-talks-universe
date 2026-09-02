@@ -4,7 +4,7 @@ title: "Discovering Power App Data with M365 Copilot using MCP | DEM360"
 slug: discovering-power-app-data-with-m365-copilot-using-mcp
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Christine Flora"]

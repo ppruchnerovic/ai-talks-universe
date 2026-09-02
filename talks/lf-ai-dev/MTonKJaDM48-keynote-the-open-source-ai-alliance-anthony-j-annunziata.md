@@ -4,7 +4,7 @@ title: "Keynote : The Open Source AI Alliance - Anthony J. Annunziata, Director,
 slug: keynote-the-open-source-ai-alliance-anthony-j-annunziata
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Anthony J. Annunziata"]

@@ -4,7 +4,7 @@ title: "Nothing Matters: Building Hardware in the Age of AI | Carl Pei (Nothing)
 slug: nothing-matters-building-hardware-in-the-age-of-ai-carl-pei
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Carl Pei"]

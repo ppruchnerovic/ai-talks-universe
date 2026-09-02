@@ -4,7 +4,7 @@ title: "Adversarial ML Attacks on Financial Reporting via Maximum Violated Multi
 slug: adversarial-ml-attacks-on-financial-reporting-via-maximum
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Edward Raff"]

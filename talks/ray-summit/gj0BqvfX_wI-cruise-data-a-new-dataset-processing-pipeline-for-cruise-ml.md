@@ -4,7 +4,7 @@ title: "Cruise.data - A new dataset processing pipeline for Cruise ML"
 slug: cruise-data-a-new-dataset-processing-pipeline-for-cruise-ml
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

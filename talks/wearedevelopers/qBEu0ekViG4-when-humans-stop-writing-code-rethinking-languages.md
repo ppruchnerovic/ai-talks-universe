@@ -4,7 +4,7 @@ title: "When Humans Stop Writing Code: Rethinking Languages, Compilers, and Resp
 slug: when-humans-stop-writing-code-rethinking-languages
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Simon Auer"]

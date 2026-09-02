@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Ondra Urban: Agents with Wallets? Putting 25,000 Tools 
 slug: ai-dev-26-x-sf-ondra-urban-agents-with-wallets-putting-25
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

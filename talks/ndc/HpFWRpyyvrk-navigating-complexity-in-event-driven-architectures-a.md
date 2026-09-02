@@ -4,7 +4,7 @@ title: "Navigating complexity in event-driven architectures: A domain-driven app
 slug: navigating-complexity-in-event-driven-architectures-a
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["David Boyne"]

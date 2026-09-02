@@ -4,7 +4,7 @@ title: "Nathaniel Forde - Hazards on the Causal Path | Pydata London 26"
 slug: nathaniel-forde-hazards-on-the-causal-path-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Nathaniel Forde"]

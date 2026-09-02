@@ -4,7 +4,7 @@ title: "SecTor 2025 | One Agent to Rule Them All: How One Malicious Agent Hijack
 slug: sector-2025-one-agent-to-rule-them-all-how-one-malicious
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

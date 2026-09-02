@@ -4,7 +4,7 @@ title: "NVIDIA GTC Automotive Special Address"
 slug: nvidia-gtc-automotive-special-address
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []

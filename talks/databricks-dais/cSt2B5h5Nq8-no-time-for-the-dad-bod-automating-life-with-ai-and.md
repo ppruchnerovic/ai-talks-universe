@@ -4,7 +4,7 @@ title: "No Time for the Dad Bod: Automating Life with AI and Databricks"
 slug: no-time-for-the-dad-bod-automating-life-with-ai-and
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

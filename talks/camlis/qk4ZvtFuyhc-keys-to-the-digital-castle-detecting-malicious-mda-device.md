@@ -4,7 +4,7 @@ title: "Keys to the Digital Castle: Detecting Malicious MDA Device Enrollment at
 slug: keys-to-the-digital-castle-detecting-malicious-mda-device
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

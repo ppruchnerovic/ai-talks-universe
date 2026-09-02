@@ -4,7 +4,7 @@ title: "Innovation Session: Introducing Microsoft Agent 365: the Control Plane f
 slug: innovation-session-introducing-microsoft-agent-365-the
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Neta Haiby", "Mark Luquire", "Nirav Shah", "Monica Ugwi", "Tao Zhang"]

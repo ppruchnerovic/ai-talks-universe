@@ -4,7 +4,7 @@ title: "Bend, don’t break: Building resilient voice networks for contact cente
 slug: bend-dont-break-building-resilient-voice-networks-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

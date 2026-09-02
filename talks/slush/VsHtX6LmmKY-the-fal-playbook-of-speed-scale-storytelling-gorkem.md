@@ -4,7 +4,7 @@ title: "The fal Playbook of Speed, Scale & Storytelling | Görkem Yurtseven (fal
 slug: the-fal-playbook-of-speed-scale-storytelling-gorkem
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Görkem Yurtseven"]

@@ -4,7 +4,7 @@ title: "Vercel AI SDK Masterclass: From Fundamentals to Deep Research"
 slug: vercel-ai-sdk-masterclass-from-fundamentals-to-deep-research
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

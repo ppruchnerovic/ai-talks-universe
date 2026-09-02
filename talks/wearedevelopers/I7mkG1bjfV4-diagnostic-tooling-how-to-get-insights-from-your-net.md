@@ -4,7 +4,7 @@ title: "Diagnostic Tooling: How to get insights from your .NET services hosted i
 slug: diagnostic-tooling-how-to-get-insights-from-your-net
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Tom Crecelius"]

@@ -4,7 +4,7 @@ title: "What If We Designed Employee Experience Like a Customer Journey?"
 slug: what-if-we-designed-employee-experience-like-a-customer
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

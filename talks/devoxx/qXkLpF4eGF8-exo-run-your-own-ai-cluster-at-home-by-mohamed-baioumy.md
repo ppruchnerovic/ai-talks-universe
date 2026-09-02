@@ -4,7 +4,7 @@ title: "Exo: Run your own AI cluster at home by Mohamed Baioumy"
 slug: exo-run-your-own-ai-cluster-at-home-by-mohamed-baioumy
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Mohamed Baioumy"]

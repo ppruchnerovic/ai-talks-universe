@@ -4,7 +4,7 @@ title: "The Generalist Medical AI Will See You Now | Pranav Rajpurkar"
 slug: the-generalist-medical-ai-will-see-you-now-pranav-rajpurkar
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Pranav Rajpurkar"]

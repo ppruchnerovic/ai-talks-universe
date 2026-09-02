@@ -4,7 +4,7 @@ title: "AI System Design: From Idea to Production - Apoorva Joshi, MongoDB"
 slug: ai-system-design-from-idea-to-production-apoorva-joshi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Apoorva Joshi"]

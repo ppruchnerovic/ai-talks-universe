@@ -4,7 +4,7 @@ title: "Customizable Solution Patterns in Azure AI Foundry | BRK153"
 slug: customizable-solution-patterns-in-azure-ai-foundry-brk153
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

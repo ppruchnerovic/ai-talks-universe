@@ -4,7 +4,7 @@ title: "Training the largest LLMs, Cerebras Wafer-Scale Architecture | Keynote 3
 slug: training-the-largest-llms-cerebras-wafer-scale-architecture
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

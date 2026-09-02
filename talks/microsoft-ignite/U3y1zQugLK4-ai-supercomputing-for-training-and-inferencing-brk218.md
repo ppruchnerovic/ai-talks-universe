@@ -4,7 +4,7 @@ title: "AI supercomputing for training and inferencing​ | BRK218"
 slug: ai-supercomputing-for-training-and-inferencing-brk218
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Gauhar Junnarkar", "John Lee"]

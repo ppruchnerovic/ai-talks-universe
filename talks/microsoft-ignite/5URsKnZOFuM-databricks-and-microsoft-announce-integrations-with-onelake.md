@@ -4,7 +4,7 @@ title: "Databricks and Microsoft announce integrations with OneLake, Foundry, an
 slug: databricks-and-microsoft-announce-integrations-with-onelake
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Scott Guthrie"]

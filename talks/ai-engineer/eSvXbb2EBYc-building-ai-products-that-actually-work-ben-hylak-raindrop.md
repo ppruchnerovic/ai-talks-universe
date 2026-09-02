@@ -4,7 +4,7 @@ title: "Building AI Products That Actually Work — Ben Hylak (Raindrop), Sid Be
 slug: building-ai-products-that-actually-work-ben-hylak-raindrop
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Ben Hylak"]

@@ -4,7 +4,7 @@ title: "The Unreasonable Effectiveness of Prompt Learning – Aparna Dhinakaran,
 slug: the-unreasonable-effectiveness-of-prompt-learning-aparna
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aparna Dhinakaran"]

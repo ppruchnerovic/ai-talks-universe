@@ -4,7 +4,7 @@ title: "DNS Tracing & Metrics Via eBPF in OpenTelemetry- Endre Sara, Causely & N
 slug: dns-tracing-metrics-via-ebpf-in-opentelemetry-endre-sara
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

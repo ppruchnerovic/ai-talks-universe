@@ -4,7 +4,7 @@ title: "Deep dive into AI tools in Copilot Studio | BRK315"
 slug: deep-dive-into-ai-tools-in-copilot-studio-brk315
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Derah Onuorah", "Wassim Wehbi"]

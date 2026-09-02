@@ -4,7 +4,7 @@ title: "Building Conversational AI Agents with Thread-Level Eval Metrics | Tony 
 slug: building-conversational-ai-agents-with-thread-level-eval
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Tony Kipkemboi", "Claire Longo"]

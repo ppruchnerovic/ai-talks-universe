@@ -4,7 +4,7 @@ title: "AI-Powered SRE for Autonomous Incident Response"
 slug: ai-powered-sre-for-autonomous-incident-response
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - April 2026"
 year: 2026
 speakers: ["Rohit Dhawan", "Pavan Madduri", "Alina Astapovich", "Goutham Rao", "Renato Losio"]

@@ -4,7 +4,7 @@ title: "Ray Summit 2025 Keynote: The Shift to LLM Fine-Tuning with Thinking Mach
 slug: ray-summit-2025-keynote-the-shift-to-llm-fine-tuning-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

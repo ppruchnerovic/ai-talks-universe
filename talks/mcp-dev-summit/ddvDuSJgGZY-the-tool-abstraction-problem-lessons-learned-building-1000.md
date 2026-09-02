@@ -4,7 +4,7 @@ title: "The Tool Abstraction Problem: Lessons Learned Building 1000+ MCP Tools -
 slug: the-tool-abstraction-problem-lessons-learned-building-1000
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Sam Partee"]

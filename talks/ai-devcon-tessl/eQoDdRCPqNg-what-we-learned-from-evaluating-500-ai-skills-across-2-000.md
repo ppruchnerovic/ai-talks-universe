@@ -4,7 +4,7 @@ title: "What we Learned from Evaluating 500 AI Skills Across 2,000+ Scenarios"
 slug: what-we-learned-from-evaluating-500-ai-skills-across-2-000
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

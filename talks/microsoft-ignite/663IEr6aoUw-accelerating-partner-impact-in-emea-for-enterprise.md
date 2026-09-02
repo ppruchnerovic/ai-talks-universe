@@ -4,7 +4,7 @@ title: "Accelerating Partner Impact in EMEA for Enterprise Customers​ | PBRK43
 slug: accelerating-partner-impact-in-emea-for-enterprise
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Butler", "Florian Deter", "Angela Evans", "Ihab Foudeh", "Pavan Ganugapati", "Ahmed Mabrouk"]

@@ -4,7 +4,7 @@ title: "Expanding Swift from Apps to Services"
 slug: expanding-swift-from-apps-to-services
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Cory Benfield"]

@@ -4,7 +4,7 @@ title: "Leadership in AI Assisted Engineering – Justin Reock, DX (acq. Atlassi
 slug: leadership-in-ai-assisted-engineering-justin-reock-dx-acq
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Justin Reock"]

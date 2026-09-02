@@ -4,7 +4,7 @@ title: "AI is Speeding Up Code - But Your Deployment is Still Broken"
 slug: ai-is-speeding-up-code-but-your-deployment-is-still-broken
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

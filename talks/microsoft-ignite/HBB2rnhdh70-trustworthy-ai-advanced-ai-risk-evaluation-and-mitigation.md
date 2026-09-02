@@ -4,7 +4,7 @@ title: "Trustworthy AI: Advanced AI risk evaluation and mitigation | BRK113"
 slug: trustworthy-ai-advanced-ai-risk-evaluation-and-mitigation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sarah Bird"]

@@ -4,7 +4,7 @@ title: "Windows Development for Business: Secure, Scalable, & AI-ready | BRK328"
 slug: windows-development-for-business-secure-scalable-ai-ready
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alyanna Castillo", "Aditya Ramnathkar"]

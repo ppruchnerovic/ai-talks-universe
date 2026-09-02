@@ -4,7 +4,7 @@ title: "Spend Less Time Troubleshooting ML Production Issues"
 slug: spend-less-time-troubleshooting-ml-production-issues
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Niv Hertz"]

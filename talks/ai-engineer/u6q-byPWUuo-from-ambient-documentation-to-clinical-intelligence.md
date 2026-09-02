@@ -4,7 +4,7 @@ title: "From Ambient Documentation to Clinical Intelligence — Chaitanya Asawa,
 slug: from-ambient-documentation-to-clinical-intelligence
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Chaitanya Asawa"]

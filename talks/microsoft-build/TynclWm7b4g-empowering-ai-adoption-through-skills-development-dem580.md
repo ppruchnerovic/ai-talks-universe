@@ -4,7 +4,7 @@ title: "Empowering AI adoption through skills development | DEM580"
 slug: empowering-ai-adoption-through-skills-development-dem580
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

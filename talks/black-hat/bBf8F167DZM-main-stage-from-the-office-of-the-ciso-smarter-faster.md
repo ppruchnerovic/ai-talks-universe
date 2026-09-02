@@ -4,7 +4,7 @@ title: "Main Stage: From the Office of the CISO: Smarter, Faster, Stronger Secur
 slug: main-stage-from-the-office-of-the-ciso-smarter-faster
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

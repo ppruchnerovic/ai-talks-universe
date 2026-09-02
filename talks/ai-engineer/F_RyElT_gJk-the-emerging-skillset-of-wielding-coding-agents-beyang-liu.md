@@ -4,7 +4,7 @@ title: "The emerging skillset of wielding coding agents — Beyang Liu, Sourcegr
 slug: the-emerging-skillset-of-wielding-coding-agents-beyang-liu
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Beyang Liu"]

@@ -4,7 +4,7 @@ title: "RL Environments at Scale – Will Brown, Prime Intellect"
 slug: rl-environments-at-scale-will-brown-prime-intellect
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Will Brown"]

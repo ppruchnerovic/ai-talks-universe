@@ -4,7 +4,7 @@ title: "Scale AI transformation in complex business environments | BRKSP484"
 slug: scale-ai-transformation-in-complex-business-environments
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Diego Jarne Munoz", "Prashant Mehrotra", "Kent Rosema"]

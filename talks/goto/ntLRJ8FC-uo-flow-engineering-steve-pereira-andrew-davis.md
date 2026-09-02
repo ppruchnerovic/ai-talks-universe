@@ -4,7 +4,7 @@ title: "Flow Engineering • Steve Pereira & Andrew Davis"
 slug: flow-engineering-steve-pereira-andrew-davis
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Steve Pereira", "Andrew Davis"]

@@ -4,7 +4,7 @@ title: "Generative AI for Small-Molecule Drug Discovery | AI and the Molecular W
 slug: generative-ai-for-small-molecule-drug-discovery-ai-and-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Kenneth Atz"]

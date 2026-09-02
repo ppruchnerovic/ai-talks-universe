@@ -4,7 +4,7 @@ title: "Grow your smart home business with Gemini for Home"
 slug: grow-your-smart-home-business-with-gemini-for-home
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Ryan Weekes", "Liz Lee", "Mihai Antonescu"]

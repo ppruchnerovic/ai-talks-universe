@@ -4,7 +4,7 @@ title: "Build RAG from Scratch - Phil Nash - NDC London 2025"
 slug: build-rag-from-scratch-phil-nash-ndc-london-2025
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Phil Nash"]

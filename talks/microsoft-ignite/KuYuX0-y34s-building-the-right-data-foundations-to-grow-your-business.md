@@ -4,7 +4,7 @@ title: "Building the right data foundations to grow your business with AI | ODFP
 slug: building-the-right-data-foundations-to-grow-your-business
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Wiem Sabbagh"]

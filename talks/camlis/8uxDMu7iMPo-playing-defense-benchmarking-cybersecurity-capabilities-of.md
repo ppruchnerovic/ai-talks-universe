@@ -4,7 +4,7 @@ title: "Playing Defense: Benchmarking Cybersecurity Capabilities of Large Langua
 slug: playing-defense-benchmarking-cybersecurity-capabilities-of
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

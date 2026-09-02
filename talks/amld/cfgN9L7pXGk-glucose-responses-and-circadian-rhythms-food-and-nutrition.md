@@ -4,7 +4,7 @@ title: "Glucose responses and circadian rhythms | Food and Nutrition | Nick Phil
 slug: glucose-responses-and-circadian-rhythms-food-and-nutrition
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Nick Phillips"]

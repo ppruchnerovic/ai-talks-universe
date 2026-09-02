@@ -4,7 +4,7 @@ title: "Learning Python Programming • Fabrizio Romano & Naomi Ceder"
 slug: learning-python-programming-fabrizio-romano-naomi-ceder
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Fabrizio Romano", "Naomi Ceder"]

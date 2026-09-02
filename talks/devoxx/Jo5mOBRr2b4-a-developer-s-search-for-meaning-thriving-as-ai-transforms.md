@@ -4,7 +4,7 @@ title: "A Developer's Search for Meaning: Thriving as AI Transforms Our World by
 slug: a-developer-s-search-for-meaning-thriving-as-ai-transforms
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Elma Westergren", "Markus W"]

@@ -4,7 +4,7 @@ title: "Practical LLM Security: Takeaways From a Year in the Trenches"
 slug: practical-llm-security-takeaways-from-a-year-in-the-trenches
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []

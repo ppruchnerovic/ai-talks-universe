@@ -4,7 +4,7 @@ title: "Holistic Optimization: Implementing \"Pipeline-as-a-Trial\" HPO with Ray
 slug: holistic-optimization-implementing-pipeline-as-a-trial-hpo
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Abdullah Taha"]

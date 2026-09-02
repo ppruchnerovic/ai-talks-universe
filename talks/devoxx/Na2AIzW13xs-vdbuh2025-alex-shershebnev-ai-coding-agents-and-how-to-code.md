@@ -4,7 +4,7 @@ title: "[VDBUH2025] Alex Shershebnev - AI Coding Agents and how to code them"
 slug: vdbuh2025-alex-shershebnev-ai-coding-agents-and-how-to-code
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alex Shershebnev"]

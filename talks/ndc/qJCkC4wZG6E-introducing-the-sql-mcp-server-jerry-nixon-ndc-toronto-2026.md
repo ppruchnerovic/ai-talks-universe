@@ -4,7 +4,7 @@ title: "Introducing the SQL MCP Server - Jerry Nixon - NDC Toronto 2026"
 slug: introducing-the-sql-mcp-server-jerry-nixon-ndc-toronto-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jerry Nixon"]

@@ -4,7 +4,7 @@ title: "Why Off-the-Shelf AI Doesn't Understand Money — Udi Menkes, Intuit"
 slug: why-off-the-shelf-ai-doesn-t-understand-money-udi-menkes
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Udi Menkes"]

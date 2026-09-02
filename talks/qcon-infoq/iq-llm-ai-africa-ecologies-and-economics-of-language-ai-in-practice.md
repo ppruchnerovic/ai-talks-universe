@@ -4,7 +4,7 @@ title: "Ecologies and Economics of Language AI in Practice"
 slug: ecologies-and-economics-of-language-ai-in-practice
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Jade Abbott"]

@@ -4,7 +4,7 @@ title: "Ray Workflow - Durable Ray tasks for efficient, flexible data pipelines"
 slug: ray-workflow-durable-ray-tasks-for-efficient-flexible-data
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

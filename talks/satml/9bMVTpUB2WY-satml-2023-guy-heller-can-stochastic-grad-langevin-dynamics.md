@@ -4,7 +4,7 @@ title: "SaTML 2023 - Guy Heller - Can Stochastic Grad Langevin Dynamics Provide 
 slug: satml-2023-guy-heller-can-stochastic-grad-langevin-dynamics
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Guy Heller"]

@@ -4,7 +4,7 @@ title: "From Prompt to Production: How to use AI Code Assistants for Python Data
 slug: from-prompt-to-production-how-to-use-ai-code-assistants-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Serhii Sokolenko"]

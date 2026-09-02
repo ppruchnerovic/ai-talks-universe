@@ -4,7 +4,7 @@ title: "From Chaos to Choreography: Multi-Agent Orchestration Patterns That Actu
 slug: from-chaos-to-choreography-multi-agent-orchestration
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sandipan Bhaumik"]

@@ -4,7 +4,7 @@ title: "Optimizing Large-Scale Model Training with Ray Compiled Graphs | Ray Sum
 slug: optimizing-large-scale-model-training-with-ray-compiled
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

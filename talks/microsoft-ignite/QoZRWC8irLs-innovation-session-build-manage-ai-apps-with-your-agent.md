@@ -4,7 +4,7 @@ title: "Innovation Session: Build & Manage AI Apps with Your Agent Factory | BRK
 slug: innovation-session-build-manage-ai-apps-with-your-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Yina Arenas", "Sarah Bird", "Amanda Silver", "Marco Casalaina"]

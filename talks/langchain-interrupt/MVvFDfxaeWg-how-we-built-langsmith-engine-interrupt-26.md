@@ -4,7 +4,7 @@ title: "How We Built LangSmith Engine | Interrupt 26"
 slug: how-we-built-langsmith-engine-interrupt-26
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

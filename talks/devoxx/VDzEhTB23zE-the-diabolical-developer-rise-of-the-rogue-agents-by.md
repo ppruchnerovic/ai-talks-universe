@@ -4,7 +4,7 @@ title: "The Diabolical Developer: Rise of the Rogue Agents by Martijn Verburg"
 slug: the-diabolical-developer-rise-of-the-rogue-agents-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Martijn Verburg"]

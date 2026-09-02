@@ -4,7 +4,7 @@ title: "Justin Cormack - When Tests Lie: Using Observability to Keep AI Honest -
 slug: justin-cormack-when-tests-lie-using-observability-to-keep
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Justin Cormack"]

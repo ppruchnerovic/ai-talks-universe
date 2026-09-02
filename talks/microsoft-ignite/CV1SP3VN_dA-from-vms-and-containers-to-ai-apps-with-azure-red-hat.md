@@ -4,7 +4,7 @@ title: "From VMs and containers to AI apps with Azure Red Hat OpenShift | BRK104
 slug: from-vms-and-containers-to-ai-apps-with-azure-red-hat
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

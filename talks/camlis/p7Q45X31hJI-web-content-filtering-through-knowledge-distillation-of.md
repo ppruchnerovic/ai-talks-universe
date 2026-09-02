@@ -4,7 +4,7 @@ title: "Web content filtering through knowledge distillation of Large Language M
 slug: web-content-filtering-through-knowledge-distillation-of
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

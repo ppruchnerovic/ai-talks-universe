@@ -4,7 +4,7 @@ title: "Platform Teams Enabling AI - MCP/Multi-Agentic Tools across Linkedin"
 slug: platform-teams-enabling-ai-mcp-multi-agentic-tools-across
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon AI New York 2025"
 year: 2025
 speakers: ["Karthik Ramgopal", "Prince Valluri"]

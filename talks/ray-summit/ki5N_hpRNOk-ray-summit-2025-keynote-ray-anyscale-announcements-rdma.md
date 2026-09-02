@@ -4,7 +4,7 @@ title: "Ray Summit 2025 Keynote: Ray + Anyscale Announcements - RDMA, PyTorch Fo
 slug: ray-summit-2025-keynote-ray-anyscale-announcements-rdma
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

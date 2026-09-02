@@ -4,7 +4,7 @@ title: "Catch Me If You Can: Keeping Up With ML Models in Production"
 slug: catch-me-if-you-can-keeping-up-with-ml-models-in-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

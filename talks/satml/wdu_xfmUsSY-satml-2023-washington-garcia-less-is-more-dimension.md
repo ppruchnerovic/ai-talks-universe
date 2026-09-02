@@ -4,7 +4,7 @@ title: "SaTML 2023 - Washington Garcia - Less is More: Dimension Reduction Finds
 slug: satml-2023-washington-garcia-less-is-more-dimension
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Washington Garcia"]

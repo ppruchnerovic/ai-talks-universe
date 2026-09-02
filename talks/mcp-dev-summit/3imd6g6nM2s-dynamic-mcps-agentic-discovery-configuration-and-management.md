@@ -4,7 +4,7 @@ title: "Dynamic MCPs: Agentic Discovery, Configuration, and Management of MCP Wo
 slug: dynamic-mcps-agentic-discovery-configuration-and-management
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["Jim Clark"]

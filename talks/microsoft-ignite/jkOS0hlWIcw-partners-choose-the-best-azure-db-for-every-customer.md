@@ -4,7 +4,7 @@ title: "Partners: Choose the best Azure DB for every customer scenario | PBRK232
 slug: partners-choose-the-best-azure-db-for-every-customer
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shireesh Thota", "Jesse Sullivan", "Mike Thomsen"]

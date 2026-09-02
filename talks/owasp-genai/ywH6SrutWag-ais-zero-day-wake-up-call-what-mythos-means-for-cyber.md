@@ -4,7 +4,7 @@ title: "AI’s Zero-Day Wake-Up Call: What Mythos Means for Cyber Defense"
 slug: ais-zero-day-wake-up-call-what-mythos-means-for-cyber
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2026
 speakers: []

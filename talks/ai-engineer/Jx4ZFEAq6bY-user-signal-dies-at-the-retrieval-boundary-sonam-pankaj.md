@@ -4,7 +4,7 @@ title: "User Signal Dies at the Retrieval Boundary - Sonam Pankaj, StarlightSear
 slug: user-signal-dies-at-the-retrieval-boundary-sonam-pankaj
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sonam Pankaj"]

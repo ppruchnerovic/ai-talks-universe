@@ -4,7 +4,7 @@ title: "Lightning Talk: Vllm-triton-backend: How To Get State-of-the-art Perform
 slug: lightning-talk-vllm-triton-backend-how-to-get-state-of-the
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["B. Ringlein"]

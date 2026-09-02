@@ -4,7 +4,7 @@ title: "Build modern .NET apps with Uno Platform, AI, and visual tools | ODSP929
 slug: build-modern-net-apps-with-uno-platform-ai-and-visual-tools
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sam Basu"]

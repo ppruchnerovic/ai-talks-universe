@@ -4,7 +4,7 @@ title: "Towards Robust GenAI: Techniques for Evaluating Enterprise LLM Applicati
 slug: towards-robust-genai-techniques-for-evaluating-enterprise
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Dhruv Singh"]

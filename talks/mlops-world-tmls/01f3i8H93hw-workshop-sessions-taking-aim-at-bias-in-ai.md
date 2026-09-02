@@ -4,7 +4,7 @@ title: "Workshop Sessions: Taking Aim at Bias in AI"
 slug: workshop-sessions-taking-aim-at-bias-in-ai
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

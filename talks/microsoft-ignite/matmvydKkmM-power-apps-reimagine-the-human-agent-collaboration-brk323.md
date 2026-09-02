@@ -4,7 +4,7 @@ title: "Power Apps: Reimagine the human-agent collaboration | BRK323"
 slug: power-apps-reimagine-the-human-agent-collaboration-brk323
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Miti Joshi", "Evan Lew", "Claudio Romano"]

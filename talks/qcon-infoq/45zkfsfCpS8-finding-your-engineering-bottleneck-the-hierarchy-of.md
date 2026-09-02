@@ -4,7 +4,7 @@ title: "Finding Your Engineering Bottleneck: The Hierarchy of Engineering Needs"
 slug: finding-your-engineering-bottleneck-the-hierarchy-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

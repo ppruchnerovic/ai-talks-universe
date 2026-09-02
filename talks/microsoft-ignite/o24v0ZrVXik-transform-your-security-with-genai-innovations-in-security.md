@@ -4,7 +4,7 @@ title: "Transform your security with GenAI innovations in Security Copilot | BRK
 slug: transform-your-security-with-genai-innovations-in-security
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dorothy Li", "Emily Longman", "Dilip Radhakrishnan"]

@@ -4,7 +4,7 @@ title: "Granite Guardian: Safeguarding Large Language Models Against Risks - Sha
 slug: granite-guardian-safeguarding-large-language-models-against
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Shalini Harkar"]

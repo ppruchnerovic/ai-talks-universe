@@ -4,7 +4,7 @@ title: "AI Agents Need Permission Slips - Heather Downing - NDC London 2026"
 slug: ai-agents-need-permission-slips-heather-downing-ndc-london
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Heather Downing"]

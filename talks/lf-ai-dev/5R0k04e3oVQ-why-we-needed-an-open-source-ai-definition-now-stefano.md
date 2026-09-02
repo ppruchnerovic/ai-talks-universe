@@ -4,7 +4,7 @@ title: "Why We Needed an Open Source AI Definition Now - Stefano Maffulli & Jord
 slug: why-we-needed-an-open-source-ai-definition-now-stefano
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Stefano Maffulli", "Jordan Maris"]

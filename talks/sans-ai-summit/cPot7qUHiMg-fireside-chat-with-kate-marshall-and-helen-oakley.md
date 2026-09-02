@@ -4,7 +4,7 @@ title: "Fireside Chat with Kate Marshall and Helen Oakley"
 slug: fireside-chat-with-kate-marshall-and-helen-oakley
 conference: sans-ai-summit
 conference_name: "SANS AI Cybersecurity Summit"
-category: "AI security"
+category: "Security conferences"
 edition: "AI Cybersecurity Summit 2025"
 year: 2025
 speakers: []

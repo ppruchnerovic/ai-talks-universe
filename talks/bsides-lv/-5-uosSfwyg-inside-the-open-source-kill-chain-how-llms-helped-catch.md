@@ -4,7 +4,7 @@ title: "Inside the Open-Source Kill Chain: How LLMs Helped Catch Lazarus and Sto
 slug: inside-the-open-source-kill-chain-how-llms-helped-catch
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2025
 speakers: []

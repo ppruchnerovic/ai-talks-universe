@@ -4,7 +4,7 @@ title: "The weekly developer show: Why Your Code Might Be Dangerous - A Develope
 slug: the-weekly-developer-show-why-your-code-might-be-dangerous
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

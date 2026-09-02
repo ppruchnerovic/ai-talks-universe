@@ -4,7 +4,7 @@ title: "Maximize developer efficiency with GitHub Copilot for partner success | 
 slug: maximize-developer-efficiency-with-github-copilot-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrew Flick", "Justine Modot", "Wenqi Ou"]

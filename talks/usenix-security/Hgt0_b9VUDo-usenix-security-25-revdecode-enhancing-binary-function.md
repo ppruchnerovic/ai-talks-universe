@@ -4,7 +4,7 @@ title: "USENIX Security '25 - REVDECODE: Enhancing Binary Function Matching with
 slug: usenix-security-25-revdecode-enhancing-binary-function
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

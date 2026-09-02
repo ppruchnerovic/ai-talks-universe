@@ -4,7 +4,7 @@ title: "Python Takes Root in Robotics: ROS 2, Simulation, and Reinforcement Lear
 slug: python-takes-root-in-robotics-ros-2-simulation-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

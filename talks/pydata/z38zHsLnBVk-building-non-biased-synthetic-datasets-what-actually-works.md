@@ -4,7 +4,7 @@ title: "Building Non-Biased Synthetic Datasets: What Actually Works (and What Fa
 slug: building-non-biased-synthetic-datasets-what-actually-works
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Shiva Banasaz Nouri"]

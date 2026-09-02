@@ -4,7 +4,7 @@ title: "2025 is the Year of Evals! Just like 2024, and 2023, and … — John Di
 slug: 2025-is-the-year-of-evals-just-like-2024-and-2023-and-john
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["John Dickerson"]

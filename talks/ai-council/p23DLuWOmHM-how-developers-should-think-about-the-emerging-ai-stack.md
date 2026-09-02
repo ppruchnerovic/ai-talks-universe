@@ -4,7 +4,7 @@ title: "How Developers Should Think About the Emerging AI Stack | Together, Pine
 slug: how-developers-should-think-about-the-emerging-ai-stack
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Ce Zhang"]

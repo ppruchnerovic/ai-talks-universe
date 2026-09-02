@@ -4,7 +4,7 @@ title: "SQL is Dead, Long Live SQL: Engineering reliable analytics agent from sc
 slug: sql-is-dead-long-live-sql-engineering-reliable-analytics
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Mehdi Ouazza"]

@@ -4,7 +4,7 @@ title: "Lessons Learned from Shipping AI-Powered Healthcare Products"
 slug: lessons-learned-from-shipping-ai-powered-healthcare-products
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Clara Matos"]

@@ -4,7 +4,7 @@ title: "Sponsored Session: Who's Driving? Delegation and the Confused Deput... V
 slug: sponsored-session-who-s-driving-delegation-and-the-confused
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

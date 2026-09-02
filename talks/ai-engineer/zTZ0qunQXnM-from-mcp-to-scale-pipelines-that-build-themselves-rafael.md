@@ -4,7 +4,7 @@ title: "From MCP to Scale: Pipelines That Build Themselves — Rafael Levi, Brig
 slug: from-mcp-to-scale-pipelines-that-build-themselves-rafael
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rafael Levi"]

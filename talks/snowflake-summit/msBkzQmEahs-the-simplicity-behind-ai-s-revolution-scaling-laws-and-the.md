@@ -4,7 +4,7 @@ title: "The Simplicity Behind AI's Revolution: Scaling Laws And The Road To Huma
 slug: the-simplicity-behind-ai-s-revolution-scaling-laws-and-the
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "The H Factor | Laurent Sifre (H Company) with Beatrice Nolan (Fortune)"
 slug: the-h-factor-laurent-sifre-h-company-with-beatrice-nolan
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Laurent Sifre"]

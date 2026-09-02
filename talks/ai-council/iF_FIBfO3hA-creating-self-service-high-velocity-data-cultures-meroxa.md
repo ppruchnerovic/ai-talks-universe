@@ -4,7 +4,7 @@ title: "Creating Self Service, High Velocity Data Cultures | Meroxa"
 slug: creating-self-service-high-velocity-data-cultures-meroxa
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: ["Creating Self Service"]

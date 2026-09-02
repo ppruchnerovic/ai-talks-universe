@@ -4,7 +4,7 @@ title: "Freedom, Diversity, and Sovereignty: The Power of Open Source in Europeâ
 slug: freedom-diversity-and-sovereignty-the-power-of-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: []

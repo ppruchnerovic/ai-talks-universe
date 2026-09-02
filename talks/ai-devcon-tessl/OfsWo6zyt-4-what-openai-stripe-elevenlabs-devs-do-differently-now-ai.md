@@ -4,7 +4,7 @@ title: "What OpenAI, Stripe & ElevenLabs Devs Do Differently Now | AI Native Dev
 slug: what-openai-stripe-elevenlabs-devs-do-differently-now-ai
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

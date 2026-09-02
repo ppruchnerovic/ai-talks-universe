@@ -4,7 +4,7 @@ title: "Designing technology for dirty gloves - Leanora Horne - NDC Sydney 2026"
 slug: designing-technology-for-dirty-gloves-leanora-horne-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Leanora Horne"]

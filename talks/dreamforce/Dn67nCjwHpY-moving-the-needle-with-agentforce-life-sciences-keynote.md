@@ -4,7 +4,7 @@ title: "Moving the Needle with Agentforce | Life Sciences Keynote, Dreamforce 20
 slug: moving-the-needle-with-agentforce-life-sciences-keynote
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

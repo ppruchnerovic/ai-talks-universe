@@ -4,7 +4,7 @@ title: "Compression at the Edge — NVIDIA, Unsloth, HuggingFace, Ollama"
 slug: compression-at-the-edge-nvidia-unsloth-huggingface-ollama
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

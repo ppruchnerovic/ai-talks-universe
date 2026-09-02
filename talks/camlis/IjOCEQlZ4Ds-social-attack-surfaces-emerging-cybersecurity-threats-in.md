@@ -4,7 +4,7 @@ title: "Social Attack Surfaces: Emerging Cybersecurity Threats in Open Source Co
 slug: social-attack-surfaces-emerging-cybersecurity-threats-in
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Christopher Honaker"]

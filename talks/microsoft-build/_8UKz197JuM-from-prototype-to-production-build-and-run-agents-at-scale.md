@@ -4,7 +4,7 @@ title: "From prototype to production build and run agents at scale | BRK241"
 slug: from-prototype-to-production-build-and-run-agents-at-scale
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Tina Schuchman", "Jeff Hollan"]

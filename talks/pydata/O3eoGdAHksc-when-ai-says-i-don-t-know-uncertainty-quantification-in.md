@@ -4,7 +4,7 @@ title: "When AI Says 'I Don't Know': Uncertainty Quantification in Multimodal Cl
 slug: when-ai-says-i-don-t-know-uncertainty-quantification-in
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

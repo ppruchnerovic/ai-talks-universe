@@ -4,7 +4,7 @@ title: "Zelin Wan, Ph.D. - Measuring API Agent Reliability for Long Horizon Task
 slug: zelin-wan-ph-d-measuring-api-agent-reliability-for-long
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Zelin Wan"]

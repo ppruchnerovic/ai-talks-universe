@@ -4,7 +4,7 @@ title: "Your Distributed System Just Got a Brain. Now What?"
 slug: your-distributed-system-just-got-a-brain-now-what
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Marcin Makowski"]

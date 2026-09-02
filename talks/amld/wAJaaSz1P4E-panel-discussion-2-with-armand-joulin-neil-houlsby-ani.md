@@ -4,7 +4,7 @@ title: "Panel discussion #2 | with Armand Joulin, Neil Houlsby, Ani Kembhavi and
 slug: panel-discussion-2-with-armand-joulin-neil-houlsby-ani
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: []

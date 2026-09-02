@@ -4,7 +4,7 @@ title: "How DataRobot Parallelizes Agentic Pipeline Searches with Ray + syftr | 
 slug: how-datarobot-parallelizes-agentic-pipeline-searches-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

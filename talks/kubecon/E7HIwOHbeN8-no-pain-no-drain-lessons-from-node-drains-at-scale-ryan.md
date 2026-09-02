@@ -4,7 +4,7 @@ title: "No Pain No Drain: Lessons From Node Drains at Scale - Ryan Hallisey & Na
 slug: no-pain-no-drain-lessons-from-node-drains-at-scale-ryan
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Ryan Hallisey", "Natalie Bandel"]

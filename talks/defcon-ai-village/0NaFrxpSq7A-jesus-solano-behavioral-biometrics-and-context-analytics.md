@@ -4,7 +4,7 @@ title: "Jesus Solano - Behavioral Biometrics and Context Analytics - DEF CON 27 
 slug: jesus-solano-behavioral-biometrics-and-context-analytics
 conference: defcon-ai-village
 conference_name: "DEF CON AI Village"
-category: "AI security"
+category: "Security conferences"
 edition: "DEF CON 27 AI Village"
 year: 2019
 speakers: ["Jesus Solano"]

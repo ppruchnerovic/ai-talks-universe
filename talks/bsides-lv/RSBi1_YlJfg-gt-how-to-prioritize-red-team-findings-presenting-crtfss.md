@@ -4,7 +4,7 @@ title: "GT - How to prioritize Red Team Findings? Presenting CRTFSS: Common Red 
 slug: gt-how-to-prioritize-red-team-findings-presenting-crtfss
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

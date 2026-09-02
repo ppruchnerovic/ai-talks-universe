@@ -4,7 +4,7 @@ title: "AI Security Myths EXPOSED: What Architects Need to Know"
 slug: ai-security-myths-exposed-what-architects-need-to-know
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

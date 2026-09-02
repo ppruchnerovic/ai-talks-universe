@@ -4,7 +4,7 @@ title: "Revolutionizing customer experience with Azure TTS Avatar and OpenAI | B
 slug: revolutionizing-customer-experience-with-azure-tts-avatar
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nathan Cartwright"]

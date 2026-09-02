@@ -4,7 +4,7 @@ title: "Breaking Down AI Silos: Building Interoperable Multi Agent Systems with 
 slug: breaking-down-ai-silos-building-interoperable-multi-agent
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

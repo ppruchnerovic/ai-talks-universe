@@ -4,7 +4,7 @@ title: "Creating a Purpose-Built Data Indexer"
 slug: creating-a-purpose-built-data-indexer
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Andrew Dworschak"]

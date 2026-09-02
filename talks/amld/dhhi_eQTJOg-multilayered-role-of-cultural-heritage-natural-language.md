@@ -4,7 +4,7 @@ title: "Multilayered role of cultural heritage | Natural Language Processing for
 slug: multilayered-role-of-cultural-heritage-natural-language
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Christiane Sibille"]

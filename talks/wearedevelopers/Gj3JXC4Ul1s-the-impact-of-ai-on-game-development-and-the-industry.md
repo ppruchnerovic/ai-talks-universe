@@ -4,7 +4,7 @@ title: "The Impact of AI on Game Development and the Industry"
 slug: the-impact-of-ai-on-game-development-and-the-industry
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Eric Bowman"]

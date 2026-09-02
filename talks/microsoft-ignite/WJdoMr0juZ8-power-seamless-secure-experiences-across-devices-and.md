@@ -4,7 +4,7 @@ title: "Power seamless, secure experiences across devices and services | STUDIOS
 slug: power-seamless-secure-experiences-across-devices-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Dave Mooney"]

@@ -4,7 +4,7 @@ title: "Grounded Reasoning Systems for Cloud Architecture - Iman Makaremi"
 slug: grounded-reasoning-systems-for-cloud-architecture-iman
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Iman Makaremi"]

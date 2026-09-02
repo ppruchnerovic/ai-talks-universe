@@ -4,7 +4,7 @@ title: "Davide De Marchi - Meta-Dashboards: Accelerating Geospatial Web Apps Cre
 slug: davide-de-marchi-meta-dashboards-accelerating-geospatial
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Davide De Marchi"]

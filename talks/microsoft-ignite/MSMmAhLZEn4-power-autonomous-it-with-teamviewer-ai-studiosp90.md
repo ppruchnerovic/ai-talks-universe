@@ -4,7 +4,7 @@ title: "Power autonomous IT with TeamViewer AI | STUDIOSP90"
 slug: power-autonomous-it-with-teamviewer-ai-studiosp90
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sebastian Schroetel"]

@@ -4,7 +4,7 @@ title: "Bug fixed, now what? by Konstantinos Kitsios"
 slug: bug-fixed-now-what-by-konstantinos-kitsios
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Konstantinos Kitsios"]

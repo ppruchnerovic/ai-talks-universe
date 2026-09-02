@@ -4,7 +4,7 @@ title: "AI Dev 25 | Mike Chambers: Serverless Agentic Workflows with Amazon Bedr
 slug: ai-dev-25-mike-chambers-serverless-agentic-workflows-with
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

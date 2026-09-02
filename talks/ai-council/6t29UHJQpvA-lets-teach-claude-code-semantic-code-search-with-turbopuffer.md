@@ -4,7 +4,7 @@ title: "Let’s Teach Claude Code Semantic Code Search With turbopuffer"
 slug: lets-teach-claude-code-semantic-code-search-with-turbopuffer
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

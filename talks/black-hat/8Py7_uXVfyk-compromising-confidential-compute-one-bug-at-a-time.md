@@ -4,7 +4,7 @@ title: "Compromising Confidential Compute, One Bug at a Time"
 slug: compromising-confidential-compute-one-bug-at-a-time
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Reinvent Employee Experiences & ITSM | Agentforce IT Service, Dreamforce
 slug: reinvent-employee-experiences-itsm-agentforce-it-service
 conference: dreamforce
 conference_name: "Salesforce Dreamforce"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Dreamforce 2025 keynotes"
 year: 2025
 speakers: []

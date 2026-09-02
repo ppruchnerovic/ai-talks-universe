@@ -4,7 +4,7 @@ title: "Fight your garbage data: implementation of a pythonic data quality monit
 slug: fight-your-garbage-data-implementation-of-a-pythonic-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Rostislaw Krassow"]

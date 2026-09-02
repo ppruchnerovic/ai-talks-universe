@@ -4,7 +4,7 @@ title: "The Etsy Gifting Assistant: From Prototype to Production | Interrupt 26"
 slug: the-etsy-gifting-assistant-from-prototype-to-production
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

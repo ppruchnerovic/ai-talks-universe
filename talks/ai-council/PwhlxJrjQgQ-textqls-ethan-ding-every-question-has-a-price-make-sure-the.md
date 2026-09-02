@@ -4,7 +4,7 @@ title: "TextQL’s Ethan Ding: Every question has a price. Make sure the answer 
 slug: textqls-ethan-ding-every-question-has-a-price-make-sure-the
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

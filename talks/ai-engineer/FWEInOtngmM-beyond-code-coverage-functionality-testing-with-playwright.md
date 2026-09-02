@@ -4,7 +4,7 @@ title: "Beyond Code Coverage: Functionality Testing with Playwright MCP — Marl
 slug: beyond-code-coverage-functionality-testing-with-playwright
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Marlene Mhangami"]

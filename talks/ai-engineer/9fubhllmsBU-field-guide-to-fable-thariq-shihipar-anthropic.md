@@ -4,7 +4,7 @@ title: "Field Guide to Fable — Thariq Shihipar, Anthropic"
 slug: field-guide-to-fable-thariq-shihipar-anthropic
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Thariq Shihipar"]

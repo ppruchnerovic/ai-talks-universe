@@ -4,7 +4,7 @@ title: "Agentic Sites: Building Hyper Personalized Websites — Carlos Sanchez, 
 slug: agentic-sites-building-hyper-personalized-websites-carlos
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Carlos Sanchez"]

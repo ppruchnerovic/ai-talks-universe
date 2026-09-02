@@ -4,7 +4,7 @@ title: "Empower the enterprise with trusted GenAI-ready data | ODFP951"
 slug: empower-the-enterprise-with-trusted-genai-ready-data-odfp951
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ajay Gollapalli"]

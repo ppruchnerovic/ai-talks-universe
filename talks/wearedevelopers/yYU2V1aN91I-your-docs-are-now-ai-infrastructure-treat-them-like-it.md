@@ -4,7 +4,7 @@ title: "Your Docs Are Now AI Infrastructure (Treat Them Like It)"
 slug: your-docs-are-now-ai-infrastructure-treat-them-like-it
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Emil Sorensen"]

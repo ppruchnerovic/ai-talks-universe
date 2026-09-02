@@ -4,7 +4,7 @@ title: "🛰️➡️🧑‍💻: Streamlining Satellite Data for Analysis-Ready
 slug: streamlining-satellite-data-for-analysis-ready-outputs
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Vinayak Nair"]

@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | More JVM Memory Shells: JVM Memory Shell Auto Sear
 slug: black-hat-asia-2026-more-jvm-memory-shells-jvm-memory-shell
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

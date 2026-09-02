@@ -4,7 +4,7 @@ title: "AI in the machine tool industry: opportunities & challenges | Adina Dort
 slug: ai-in-the-machine-tool-industry-opportunities-challenges
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: ["Adina Dorthe"]

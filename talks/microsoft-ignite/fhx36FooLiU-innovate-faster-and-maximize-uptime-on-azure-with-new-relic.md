@@ -4,7 +4,7 @@ title: "Innovate faster and maximize uptime on Azure with New Relic | ODFP964"
 slug: innovate-faster-and-maximize-uptime-on-azure-with-new-relic
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Anitah Cantele"]

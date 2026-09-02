@@ -4,7 +4,7 @@ title: "Building the Blueprint for Scalable Data Products in Public Sector | Cit
 slug: building-the-blueprint-for-scalable-data-products-in-public
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

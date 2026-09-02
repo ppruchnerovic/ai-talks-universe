@@ -4,7 +4,7 @@ title: "How to Submit CFPs and Get into Public Speaking - Moran Weber"
 slug: how-to-submit-cfps-and-get-into-public-speaking-moran-weber
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Moran Weber"]

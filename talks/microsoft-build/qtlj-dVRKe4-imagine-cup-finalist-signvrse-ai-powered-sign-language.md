@@ -4,7 +4,7 @@ title: "Imagine Cup Finalist: Signvrse AI-powered Sign Language Translation | DE
 slug: imagine-cup-finalist-signvrse-ai-powered-sign-language
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

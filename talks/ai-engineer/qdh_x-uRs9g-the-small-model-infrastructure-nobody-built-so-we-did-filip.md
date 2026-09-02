@@ -4,7 +4,7 @@ title: "The Small Model Infrastructure Nobody Built (So We Did) — Filip Makrad
 slug: the-small-model-infrastructure-nobody-built-so-we-did-filip
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Filip Makraduli"]

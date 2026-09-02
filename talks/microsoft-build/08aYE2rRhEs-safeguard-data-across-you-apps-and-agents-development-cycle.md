@@ -4,7 +4,7 @@ title: "Safeguard data across you apps and agents development cycle | OD829"
 slug: safeguard-data-across-you-apps-and-agents-development-cycle
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Arpitha Dhanapathi"]

@@ -4,7 +4,7 @@ title: "Platform Mesh: Breaking API Lock-In for True Multi-Cloud Service... Mirz
 slug: platform-mesh-breaking-api-lock-in-for-true-multi-cloud
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

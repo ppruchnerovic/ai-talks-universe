@@ -4,7 +4,7 @@ title: "Work Smarter with, Snowflake CoWork, Your Personal Work Agent"
 slug: work-smarter-with-snowflake-cowork-your-personal-work-agent
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2026"
 year: 2026
 speakers: []

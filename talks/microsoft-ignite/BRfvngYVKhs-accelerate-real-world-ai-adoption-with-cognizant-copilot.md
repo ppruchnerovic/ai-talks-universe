@@ -4,7 +4,7 @@ title: "Accelerate real-world AI adoption with Cognizant Copilot Launchpad | STU
 slug: accelerate-real-world-ai-adoption-with-cognizant-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Manpreet Singh"]

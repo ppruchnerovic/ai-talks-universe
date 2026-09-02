@@ -4,7 +4,7 @@ title: "Fireside Chat: Jeff Moss and Ruimin He"
 slug: fireside-chat-jeff-moss-and-ruimin-he
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2024
 speakers: []

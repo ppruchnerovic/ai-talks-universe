@@ -4,7 +4,7 @@ title: "Coding Agents - Katia Gil Guzman - OpenAI"
 slug: coding-agents-katia-gil-guzman-openai
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Katia Gil Guzman"]

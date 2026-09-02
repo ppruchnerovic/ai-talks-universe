@@ -4,7 +4,7 @@ title: "LiquidAI’s Approach to Large-Scale Synthetic Data Generation Using Ray
 slug: liquidais-approach-to-large-scale-synthetic-data-generation
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

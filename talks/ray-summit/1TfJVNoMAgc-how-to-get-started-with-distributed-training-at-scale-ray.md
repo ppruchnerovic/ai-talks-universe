@@ -4,7 +4,7 @@ title: "How to Get Started with Distributed Training at Scale | Ray Summit 2025"
 slug: how-to-get-started-with-distributed-training-at-scale-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

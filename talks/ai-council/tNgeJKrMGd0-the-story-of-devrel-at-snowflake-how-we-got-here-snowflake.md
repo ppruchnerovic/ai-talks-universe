@@ -4,7 +4,7 @@ title: "The Story of DevRel at Snowflake - How We Got Here | Snowflake"
 slug: the-story-of-devrel-at-snowflake-how-we-got-here-snowflake
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

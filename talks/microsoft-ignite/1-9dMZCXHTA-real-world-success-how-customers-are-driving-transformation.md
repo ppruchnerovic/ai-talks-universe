@@ -4,7 +4,7 @@ title: "Real-World Success: How Customers Are Driving Transformation with the Po
 slug: real-world-success-how-customers-are-driving-transformation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["James Connelly"]

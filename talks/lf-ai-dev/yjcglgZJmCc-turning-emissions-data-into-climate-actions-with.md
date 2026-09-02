@@ -4,7 +4,7 @@ title: "Turning Emissions Data Into Climate Actions With CityCatalyst - Mirco Ru
 slug: turning-emissions-data-into-climate-actions-with
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Mirco Rudolph"]

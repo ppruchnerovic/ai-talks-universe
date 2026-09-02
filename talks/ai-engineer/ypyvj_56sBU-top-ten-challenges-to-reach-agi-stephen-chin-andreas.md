@@ -4,7 +4,7 @@ title: "Top Ten Challenges to Reach AGI — Stephen Chin, Andreas Kollegger"
 slug: top-ten-challenges-to-reach-agi-stephen-chin-andreas
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Stephen Chin"]

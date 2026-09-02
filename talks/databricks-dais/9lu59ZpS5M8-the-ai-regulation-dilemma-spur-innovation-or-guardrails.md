@@ -4,7 +4,7 @@ title: "The AI Regulation Dilemma: Spur Innovation, or Guardrails? — Where Are
 slug: the-ai-regulation-dilemma-spur-innovation-or-guardrails
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Mini-App But Great Impact: New Ways to Compromise Mobile Apps"
 slug: mini-app-but-great-impact-new-ways-to-compromise-mobile-apps
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

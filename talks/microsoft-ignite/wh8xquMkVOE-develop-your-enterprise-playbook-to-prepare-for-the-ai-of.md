@@ -4,7 +4,7 @@ title: "Develop your enterprise playbook to prepare for the AI of tomorrow | BRK
 slug: develop-your-enterprise-playbook-to-prepare-for-the-ai-of
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Marco Casalaina", "Brian Madden"]

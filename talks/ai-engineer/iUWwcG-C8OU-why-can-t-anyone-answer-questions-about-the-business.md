@@ -4,7 +4,7 @@ title: "Why Can't Anyone Answer Questions About the Business? — Garrett Galow,
 slug: why-can-t-anyone-answer-questions-about-the-business
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Garrett Galow"]

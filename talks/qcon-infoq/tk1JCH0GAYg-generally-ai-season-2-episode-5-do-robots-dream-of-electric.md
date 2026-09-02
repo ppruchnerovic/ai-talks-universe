@@ -4,7 +4,7 @@ title: "Generally AI - Season 2 - Episode 5: Do Robots Dream of Electric Pianos?
 slug: generally-ai-season-2-episode-5-do-robots-dream-of-electric
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

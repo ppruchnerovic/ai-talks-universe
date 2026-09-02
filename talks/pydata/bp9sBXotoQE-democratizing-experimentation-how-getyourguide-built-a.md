@@ -4,7 +4,7 @@ title: "Democratizing Experimentation: How GetYourGuide Built a Flexible and Sca
 slug: democratizing-experimentation-how-getyourguide-built-a
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Konrad Richter"]

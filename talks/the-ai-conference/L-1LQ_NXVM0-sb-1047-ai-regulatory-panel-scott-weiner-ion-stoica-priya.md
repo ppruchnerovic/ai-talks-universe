@@ -4,7 +4,7 @@ title: "SB-1047 AI Regulatory Panel, Scott Weiner, Ion Stoica, Priya Anand"
 slug: sb-1047-ai-regulatory-panel-scott-weiner-ion-stoica-priya
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

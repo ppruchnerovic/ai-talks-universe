@@ -4,7 +4,7 @@ title: "Beyond the Hype: What AI Actually Can (and Can't) Do • Jodie Burchell 
 slug: beyond-the-hype-what-ai-actually-can-and-can-t-do-jodie
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Jodie Burchell", "Michelle Frost"]

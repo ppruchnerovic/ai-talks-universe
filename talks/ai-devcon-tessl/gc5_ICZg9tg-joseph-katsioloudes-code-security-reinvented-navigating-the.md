@@ -4,7 +4,7 @@ title: "Joseph Katsioloudes - Code Security Reinvented: Navigating the era of AI
 slug: joseph-katsioloudes-code-security-reinvented-navigating-the
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Joseph Katsioloudes"]

@@ -4,7 +4,7 @@ title: "dotAI 2024 - Sri Satish Ambati - Democratizing AI with Open Source Multi
 slug: dotai-2024-sri-satish-ambati-democratizing-ai-with-open
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Sri Satish Ambati"]

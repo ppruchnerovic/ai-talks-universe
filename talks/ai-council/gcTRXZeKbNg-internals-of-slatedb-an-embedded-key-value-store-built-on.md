@@ -4,7 +4,7 @@ title: "Internals of SlateDB: An Embedded Key Value Store Built On Object Storag
 slug: internals-of-slatedb-an-embedded-key-value-store-built-on
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Vignesh Chadramohan"]

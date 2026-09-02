@@ -4,7 +4,7 @@ title: "SaTML 2024 - Shengyuan Hu - Fair Federated Learning via Bounded Group Lo
 slug: satml-2024-shengyuan-hu-fair-federated-learning-via-bounded
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Shengyuan Hu"]

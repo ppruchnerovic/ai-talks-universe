@@ -4,7 +4,7 @@ title: "Combine Skills and MCP to Close the Context Gap — Pedro Rodrigues, Sup
 slug: combine-skills-and-mcp-to-close-the-context-gap-pedro
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Pedro Rodrigues"]

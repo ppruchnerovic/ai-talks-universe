@@ -4,7 +4,7 @@ title: "Shamir Abdul Aziz - Zero Ops - Agents Operate, Humans Govern"
 slug: shamir-abdul-aziz-zero-ops-agents-operate-humans-govern
 conference: berkeley-agentic-ai-summit
 conference_name: "Berkeley RDI Agentic AI Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Agentic AI Summit 2026"
 year: 2026
 speakers: ["Shamir Abdul Aziz", "Zero Ops"]

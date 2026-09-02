@@ -4,7 +4,7 @@ title: "SaTML 2024 - Quentin Le Roux - Black-Box Defense against DNN Backdoors w
 slug: satml-2024-quentin-le-roux-black-box-defense-against-dnn
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Quentin Le Roux"]

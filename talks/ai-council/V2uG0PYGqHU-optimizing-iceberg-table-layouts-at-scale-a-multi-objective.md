@@ -4,7 +4,7 @@ title: "Optimizing Iceberg Table Layouts at Scale A Multi Objective Approach"
 slug: optimizing-iceberg-table-layouts-at-scale-a-multi-objective
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Sumedh Sakdeo"]

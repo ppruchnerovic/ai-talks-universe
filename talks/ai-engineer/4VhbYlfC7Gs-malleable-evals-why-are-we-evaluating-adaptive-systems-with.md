@@ -4,7 +4,7 @@ title: "Malleable Evals: Why Are We Evaluating Adaptive Systems with Static Test
 slug: malleable-evals-why-are-we-evaluating-adaptive-systems-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vincent Koc"]

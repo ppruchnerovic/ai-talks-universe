@@ -4,7 +4,7 @@ title: "Extending AI Agents: A live demo of the GitHub MCP Server"
 slug: extending-ai-agents-a-live-demo-of-the-github-mcp-server
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []

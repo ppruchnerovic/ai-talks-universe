@@ -4,7 +4,7 @@ title: "Go-To-Market Data Enrichment: Practical Strategies to Drive Business Val
 slug: go-to-market-data-enrichment-practical-strategies-to-drive
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Nathan Sooter"]

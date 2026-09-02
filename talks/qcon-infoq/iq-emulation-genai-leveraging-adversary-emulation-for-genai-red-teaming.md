@@ -4,7 +4,7 @@ title: "Leveraging Adversary Emulation for GenAI Red Teaming"
 slug: leveraging-adversary-emulation-for-genai-red-teaming
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Munich 2025"
 year: 2025
 speakers: ["Kennedy Torkura"]

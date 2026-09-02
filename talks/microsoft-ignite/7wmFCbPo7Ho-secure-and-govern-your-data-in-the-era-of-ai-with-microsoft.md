@@ -4,7 +4,7 @@ title: "Secure and govern your data in the era of AI with Microsoft Fabric and P
 slug: secure-and-govern-your-data-in-the-era-of-ai-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Keith Homiski", "Joanne Marone", "Sushma Rao"]

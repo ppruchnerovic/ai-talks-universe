@@ -4,7 +4,7 @@ title: "Planner & agents: Driving work across Teams, Outlook, and Copilot Chat |
 slug: planner-agents-driving-work-across-teams-outlook-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Howard Crow", "Robyn Guarriello"]

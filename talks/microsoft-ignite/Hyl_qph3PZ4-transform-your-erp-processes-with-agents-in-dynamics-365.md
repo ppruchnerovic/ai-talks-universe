@@ -4,7 +4,7 @@ title: "Transform your ERP processes with Agents in Dynamics 365 | BRK164"
 slug: transform-your-erp-processes-with-agents-in-dynamics-365
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Raghav Jandhyala", "April Olson"]

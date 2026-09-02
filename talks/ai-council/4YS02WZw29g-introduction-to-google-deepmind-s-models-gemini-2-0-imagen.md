@@ -4,7 +4,7 @@ title: "Introduction to Google DeepMind's Models: Gemini 2.0, Imagen 3, and Veo"
 slug: introduction-to-google-deepmind-s-models-gemini-2-0-imagen
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Paige Bailey"]

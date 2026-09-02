@@ -4,7 +4,7 @@ title: "Make Too Much Knowledge Just Enough Massive Scale RAG & GraphRAG w Open 
 slug: make-too-much-knowledge-just-enough-massive-scale-rag
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Skyler Thomas"]

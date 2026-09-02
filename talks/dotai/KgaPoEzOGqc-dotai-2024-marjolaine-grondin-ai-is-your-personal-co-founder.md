@@ -4,7 +4,7 @@ title: "dotAI 2024 - Marjolaine Grondin - AI is your personal co-founder"
 slug: dotai-2024-marjolaine-grondin-ai-is-your-personal-co-founder
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Marjolaine Grondin"]

@@ -4,7 +4,7 @@ title: "Java Adventures JTaccuino, Java 25 and AI by Sven Reimers"
 slug: java-adventures-jtaccuino-java-25-and-ai-by-sven-reimers
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Sven Reimers"]

@@ -4,7 +4,7 @@ title: "Cloud and DevOps InfoQ Trends Report 2025"
 slug: cloud-and-devops-infoq-trends-report-2025
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

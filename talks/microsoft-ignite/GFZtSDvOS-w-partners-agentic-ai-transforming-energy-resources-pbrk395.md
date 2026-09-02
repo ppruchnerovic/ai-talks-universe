@@ -4,7 +4,7 @@ title: "Partners + Agentic AI: Transforming Energy & Resources | PBRK395"
 slug: partners-agentic-ai-transforming-energy-resources-pbrk395
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Stephanie Comardelle", "Mike Rossi", "Rob Schapiro"]

@@ -4,7 +4,7 @@ title: "Build 2026 podcast with Satya Nadella, Sarah Guo and Elad Gil from No Pr
 slug: build-2026-podcast-with-satya-nadella-sarah-guo-and-elad
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Training Specialized Language Models with Less Data: An End-to-End Pract
 slug: training-specialized-language-models-with-less-data-an-end
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Jacek Golebiowski"]

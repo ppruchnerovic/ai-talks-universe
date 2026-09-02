@@ -4,7 +4,7 @@ title: "Emma Burrows - How PMs can set up a product brain and become an agent or
 slug: emma-burrows-how-pms-can-set-up-a-product-brain-and-become
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Emma Burrows"]

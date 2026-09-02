@@ -4,7 +4,7 @@ title: "Building AI-native across industries with NTT, Mizuho and Mercari"
 slug: building-ai-native-across-industries-with-ntt-mizuho-and
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 Japan"
 year: 2026
 speakers: []

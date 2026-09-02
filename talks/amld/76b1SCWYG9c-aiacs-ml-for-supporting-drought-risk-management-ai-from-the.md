@@ -4,7 +4,7 @@ title: "AIACS - ML for Supporting Drought Risk Management | AI from the Sky | Ar
 slug: aiacs-ml-for-supporting-drought-risk-management-ai-from-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Arthur Hrast"]

@@ -4,7 +4,7 @@ title: "IP Protection and Privacy in LLM: Leveraging Fully Homomorphic Encryptio
 slug: ip-protection-and-privacy-in-llm-leveraging-fully
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

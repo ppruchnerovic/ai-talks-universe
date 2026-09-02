@@ -4,7 +4,7 @@ title: "How building with AI can double the throughput of your engineering team"
 slug: how-building-with-ai-can-double-the-throughput-of-your
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Brian Scanlan"]

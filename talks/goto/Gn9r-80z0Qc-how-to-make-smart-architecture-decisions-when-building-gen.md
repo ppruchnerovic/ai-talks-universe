@@ -4,7 +4,7 @@ title: "How to Make Smart Architecture Decisions when Building Gen AI Apps • G
 slug: how-to-make-smart-architecture-decisions-when-building-gen
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2024
 speakers: ["Gillian Armstrong"]

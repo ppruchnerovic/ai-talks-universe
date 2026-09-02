@@ -4,7 +4,7 @@ title: "Why LinkedIn Treats AI Agents as Infrastructure (Not Features)"
 slug: why-linkedin-treats-ai-agents-as-infrastructure-not-features
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

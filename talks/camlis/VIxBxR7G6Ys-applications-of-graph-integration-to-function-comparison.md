@@ -4,7 +4,7 @@ title: "Applications of Graph Integration to Function Comparison and Malware Cla
 slug: applications-of-graph-integration-to-function-comparison
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

@@ -4,7 +4,7 @@ title: "No Shame, Just Pain: How We Migrated Away From Kubernete... Jannis Relak
 slug: no-shame-just-pain-how-we-migrated-away-from-kubernete
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Automating Content Creation with LLMs: A Journey from Manual to AI-Drive
 slug: automating-content-creation-with-llms-a-journey-from-manual
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Marco Vene"]

@@ -4,7 +4,7 @@ title: "Build AI Apps with Oracle AI Database@Azure, MCP, and GitHub Copilot | D
 slug: build-ai-apps-with-oracle-ai-database-azure-mcp-and-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Parthasarathy Srinivasan", "Rajya Laxmi Yellajosyula"]

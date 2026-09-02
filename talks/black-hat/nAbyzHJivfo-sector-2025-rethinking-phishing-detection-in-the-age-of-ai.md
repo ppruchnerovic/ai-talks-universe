@@ -4,7 +4,7 @@ title: "SecTor 2025 | Rethinking Phishing Detection in the Age of AI and Disinfo
 slug: sector-2025-rethinking-phishing-detection-in-the-age-of-ai
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

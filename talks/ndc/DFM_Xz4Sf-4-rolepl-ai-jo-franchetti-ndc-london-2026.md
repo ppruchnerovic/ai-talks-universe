@@ -4,7 +4,7 @@ title: "RolePl-AI - Jo Franchetti - NDC London 2026"
 slug: rolepl-ai-jo-franchetti-ndc-london-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jo Franchetti"]

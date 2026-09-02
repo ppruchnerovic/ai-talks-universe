@@ -4,7 +4,7 @@ title: "Keynote: Marin: An Open Lab for Frontier AI - Percy Liang, Together"
 slug: keynote-marin-an-open-lab-for-frontier-ai-percy-liang
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Percy Liang"]

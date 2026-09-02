@@ -4,7 +4,7 @@ title: "Why LLMs Keep Missing This One Thing | Jason Ganz"
 slug: why-llms-keep-missing-this-one-thing-jason-ganz
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Jason Ganz"]

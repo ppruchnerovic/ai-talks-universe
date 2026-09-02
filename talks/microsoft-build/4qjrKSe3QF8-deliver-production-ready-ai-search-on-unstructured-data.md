@@ -4,7 +4,7 @@ title: "Deliver production-ready AI search on unstructured data with RAG | ODSP9
 slug: deliver-production-ready-ai-search-on-unstructured-data
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: []

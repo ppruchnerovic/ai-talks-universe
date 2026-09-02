@@ -4,7 +4,7 @@ title: "The Data Center is the New Unit of Compute: Crusoe CEO Chase Lochmiller"
 slug: the-data-center-is-the-new-unit-of-compute-crusoe-ceo-chase
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

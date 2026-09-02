@@ -4,7 +4,7 @@ title: "[Session] One Test a Day Keeps the Issues Away with Oleksandr Kotov - Gr
 slug: session-one-test-a-day-keeps-the-issues-away-with-oleksandr
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit Europe 2025"
 year: 2025
 speakers: []

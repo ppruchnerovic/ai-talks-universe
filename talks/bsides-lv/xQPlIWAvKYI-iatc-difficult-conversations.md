@@ -4,7 +4,7 @@ title: "IATC - Difficult Conversations"
 slug: iatc-difficult-conversations
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: ["Difficult Conversations"]

@@ -4,7 +4,7 @@ title: "AgentCraft: Putting the Orc in Orchestration — Ido Salomon"
 slug: agentcraft-putting-the-orc-in-orchestration-ido-salomon
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ido Salomon"]

@@ -4,7 +4,7 @@ title: "Productivity Paradox: Why \"More Work\" Kills Creativity & Code Quality"
 slug: productivity-paradox-why-more-work-kills-creativity-code
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

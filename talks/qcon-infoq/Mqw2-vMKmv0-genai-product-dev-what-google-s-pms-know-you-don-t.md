@@ -4,7 +4,7 @@ title: "GenAI Product Dev: What Google's PMs Know (You Don't!)"
 slug: genai-product-dev-what-google-s-pms-know-you-don-t
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Human In The Loop Concept to Building Fully Adaptive MI Models Using Cro
 slug: human-in-the-loop-concept-to-building-fully-adaptive-mi
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

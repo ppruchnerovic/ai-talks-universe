@@ -4,7 +4,7 @@ title: "Mastering AI Pricing — Mayank Pant, Stripe"
 slug: mastering-ai-pricing-mayank-pant-stripe
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mayank Pant"]

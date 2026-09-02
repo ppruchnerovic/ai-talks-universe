@@ -4,7 +4,7 @@ title: "Change Data Capture for Microservices"
 slug: change-data-capture-for-microservices
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2023
 speakers: []

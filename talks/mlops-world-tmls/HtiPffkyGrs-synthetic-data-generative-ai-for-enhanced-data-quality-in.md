@@ -4,7 +4,7 @@ title: "Synthetic Data: Generative AI for Enhanced Data Quality in the Era of Fo
 slug: synthetic-data-generative-ai-for-enhanced-data-quality-in
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Fabiana Clemente"]

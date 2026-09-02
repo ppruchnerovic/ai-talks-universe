@@ -4,7 +4,7 @@ title: "Opening Day 1 - PyData & PyCon Yerevan 2026"
 slug: opening-day-1-pydata-pycon-yerevan-2026
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

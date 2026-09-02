@@ -4,7 +4,7 @@ title: "Cloud Security Challenges in the AI Era - How Running Containers and Inf
 slug: cloud-security-challenges-in-the-ai-era-how-running
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

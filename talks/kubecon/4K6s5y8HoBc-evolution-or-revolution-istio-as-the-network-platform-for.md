@@ -4,7 +4,7 @@ title: "Evolution or Revolution: Istio as the Network Platform for Cloud Nat... 
 slug: evolution-or-revolution-istio-as-the-network-platform-for
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

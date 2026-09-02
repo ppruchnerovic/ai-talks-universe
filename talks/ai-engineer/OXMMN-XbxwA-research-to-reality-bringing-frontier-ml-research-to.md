@@ -4,7 +4,7 @@ title: "Research to Reality: Bringing Frontier ML Research to Production - Vaida
 slug: research-to-reality-bringing-frontier-ml-research-to
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Vaidas Razgaitis"]

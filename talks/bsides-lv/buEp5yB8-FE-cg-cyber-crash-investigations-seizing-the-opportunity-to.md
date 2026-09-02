@@ -4,7 +4,7 @@ title: "CG - Cyber Crash Investigations: Seizing the Opportunity to Learn from P
 slug: cg-cyber-crash-investigations-seizing-the-opportunity-to
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2023
 speakers: []

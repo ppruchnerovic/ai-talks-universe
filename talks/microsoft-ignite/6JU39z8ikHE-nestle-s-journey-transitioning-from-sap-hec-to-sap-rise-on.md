@@ -4,7 +4,7 @@ title: "Nestle's journey: Transitioning from SAP HEC to SAP RISE on Azure | BRK2
 slug: nestle-s-journey-transitioning-from-sap-hec-to-sap-rise-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Uli Homann", "Ralf Huebenthal", "Adam Simpson"]

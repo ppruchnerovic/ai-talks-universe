@@ -4,7 +4,7 @@ title: "Voices you can’t trust: Stop AI-powered impersonation attacks | BRKSP4
 slug: voices-you-cant-trust-stop-ai-powered-impersonation-attacks
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Jeremy Nelson"]

@@ -4,7 +4,7 @@ title: "Accelerate AI Innovation with Microsoft Cloud for Financial Services | B
 slug: accelerate-ai-innovation-with-microsoft-cloud-for-financial
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jared Lambert"]

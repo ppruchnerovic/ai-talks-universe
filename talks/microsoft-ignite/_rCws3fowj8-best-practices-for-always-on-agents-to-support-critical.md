@@ -4,7 +4,7 @@ title: "Best practices for always-on agents to support critical workloads | BRK3
 slug: best-practices-for-always-on-agents-to-support-critical
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Shivani Pradhan"]

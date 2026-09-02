@@ -4,7 +4,7 @@ title: "Don't gatekeep AI: Empower secure scalable innovations for Frontline | B
 slug: don-t-gatekeep-ai-empower-secure-scalable-innovations-for
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vishal Anil", "Jeremy Carlson"]

@@ -4,7 +4,7 @@ title: "Jack Wotherspoon - Humans vs. Slop: Rewriting the Rules of Open-Source -
 slug: jack-wotherspoon-humans-vs-slop-rewriting-the-rules-of-open
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Jack Wotherspoon"]

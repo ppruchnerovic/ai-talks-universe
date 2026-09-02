@@ -4,7 +4,7 @@ title: "Playing the long game - Sheena O'Connell - NDC London 2026"
 slug: playing-the-long-game-sheena-o-connell-ndc-london-2026
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

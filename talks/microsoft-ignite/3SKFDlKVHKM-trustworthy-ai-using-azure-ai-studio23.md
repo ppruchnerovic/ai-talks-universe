@@ -4,7 +4,7 @@ title: "Trustworthy AI using Azure AI | Studio23"
 slug: trustworthy-ai-using-azure-ai-studio23
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Sarah Bird", "Seth Juarez"]

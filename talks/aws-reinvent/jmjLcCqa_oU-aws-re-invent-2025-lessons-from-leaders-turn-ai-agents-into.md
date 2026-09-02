@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Lessons from leaders: Turn AI agents into business 
 slug: aws-re-invent-2025-lessons-from-leaders-turn-ai-agents-into
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

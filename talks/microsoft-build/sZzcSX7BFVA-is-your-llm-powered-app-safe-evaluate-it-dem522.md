@@ -4,7 +4,7 @@ title: "Is your LLM-powered app safe? Evaluate it! | DEM522"
 slug: is-your-llm-powered-app-safe-evaluate-it-dem522
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

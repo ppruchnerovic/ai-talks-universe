@@ -4,7 +4,7 @@ title: "Estimating uncertainty for binary classifiers"
 slug: estimating-uncertainty-for-binary-classifiers
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

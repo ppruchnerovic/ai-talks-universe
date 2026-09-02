@@ -4,7 +4,7 @@ title: "Demand-Driven Context: A Methodology for Coherent Knowledge Bases Throug
 slug: demand-driven-context-a-methodology-for-coherent-knowledge
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

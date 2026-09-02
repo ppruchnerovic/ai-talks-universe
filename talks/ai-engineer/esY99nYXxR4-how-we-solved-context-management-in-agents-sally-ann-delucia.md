@@ -4,7 +4,7 @@ title: "How we solved Context Management in Agents — Sally-Ann Delucia"
 slug: how-we-solved-context-management-in-agents-sally-ann-delucia
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

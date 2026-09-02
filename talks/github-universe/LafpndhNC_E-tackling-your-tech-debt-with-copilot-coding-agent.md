@@ -4,7 +4,7 @@ title: "Tackling your tech debt with Copilot coding agent"
 slug: tackling-your-tech-debt-with-copilot-coding-agent
 conference: github-universe
 conference_name: "GitHub Universe"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Universe 2025"
 year: 2025
 speakers: []

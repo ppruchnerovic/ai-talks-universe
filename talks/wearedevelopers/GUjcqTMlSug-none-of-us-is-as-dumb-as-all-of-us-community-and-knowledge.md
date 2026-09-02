@@ -4,7 +4,7 @@ title: "None of Us Is As Dumb As All of Us: Community And Knowledge Go Hand In H
 slug: none-of-us-is-as-dumb-as-all-of-us-community-and-knowledge
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Benjamin Dumke-von der Ehe", "Jeff Atwood"]

@@ -4,7 +4,7 @@ title: "The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn 
 slug: the-sound-of-your-secrets-teaching-your-model-to-spy-so-you
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

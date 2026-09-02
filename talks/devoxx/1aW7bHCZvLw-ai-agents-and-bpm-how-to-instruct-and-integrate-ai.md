@@ -4,7 +4,7 @@ title: "AI Agents and BPM: How to Instruct and Integrate AI Components into Comp
 slug: ai-agents-and-bpm-how-to-instruct-and-integrate-ai
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

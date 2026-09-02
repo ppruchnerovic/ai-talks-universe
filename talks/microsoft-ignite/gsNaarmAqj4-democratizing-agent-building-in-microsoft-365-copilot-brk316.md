@@ -4,7 +4,7 @@ title: "Democratizing agent building in Microsoft 365 Copilot | BRK316"
 slug: democratizing-agent-building-in-microsoft-365-copilot-brk316
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Michael Chow"]

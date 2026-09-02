@@ -4,7 +4,7 @@ title: "What's new in GitHub Copilot CLI? | LIVE152"
 slug: what-s-new-in-github-copilot-cli-live152
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Evan Boyle", "Burke Holland"]

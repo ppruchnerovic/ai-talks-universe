@@ -4,7 +4,7 @@ title: "Low-latency Model Inference in Finance - A close look at Seldon V2"
 slug: low-latency-model-inference-in-finance-a-close-look-at
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: []

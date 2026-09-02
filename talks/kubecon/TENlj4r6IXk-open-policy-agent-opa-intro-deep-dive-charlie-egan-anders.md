@@ -4,7 +4,7 @@ title: "Open Policy Agent. (OPA) Intro & Deep Dive - Charlie Egan & Anders Ekner
 slug: open-policy-agent-opa-intro-deep-dive-charlie-egan-anders
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Charlie Egan", "Anders Eknert"]

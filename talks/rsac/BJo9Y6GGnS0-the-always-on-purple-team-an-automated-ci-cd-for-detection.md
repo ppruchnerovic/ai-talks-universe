@@ -4,7 +4,7 @@ title: "The Always-On Purple Team: An Automated CI/CD for Detection Engineering"
 slug: the-always-on-purple-team-an-automated-ci-cd-for-detection
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Stephen Sims"]

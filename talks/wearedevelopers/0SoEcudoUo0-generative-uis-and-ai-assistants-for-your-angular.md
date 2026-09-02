@@ -4,7 +4,7 @@ title: "Generative UIs and AI Assistants for Your Angular Applications"
 slug: generative-uis-and-ai-assistants-for-your-angular
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Manfred Steyer"]

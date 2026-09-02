@@ -4,7 +4,7 @@ title: "AI and Public Health: Current trends and perspectives | AI in Public Hea
 slug: ai-and-public-health-current-trends-and-perspectives-ai-in
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

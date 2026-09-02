@@ -4,7 +4,7 @@ title: "Jack Morris: Stuffing Context is not Memory, Updating Weights is"
 slug: jack-morris-stuffing-context-is-not-memory-updating-weights
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: []

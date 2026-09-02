@@ -4,7 +4,7 @@ title: "Fully Connected Tokyo 2025: Opening Keynote with W&B Cofounders Lukas Bi
 slug: fully-connected-tokyo-2025-opening-keynote-with-w-b
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

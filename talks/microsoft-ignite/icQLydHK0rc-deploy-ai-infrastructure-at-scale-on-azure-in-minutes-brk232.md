@@ -4,7 +4,7 @@ title: "Deploy AI infrastructure at scale on Azure in minutes!​ | BRK232"
 slug: deploy-ai-infrastructure-at-scale-on-azure-in-minutes-brk232
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Benjamin George"]

@@ -4,7 +4,7 @@ title: "Making Digital Accessibility More Than Just High Contrast: Building Trul
 slug: making-digital-accessibility-more-than-just-high-contrast
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

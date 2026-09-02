@@ -4,7 +4,7 @@ title: "Cloud without compromise: Redefining private and hybrid cloud | BRKSP467
 slug: cloud-without-compromise-redefining-private-and-hybrid
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

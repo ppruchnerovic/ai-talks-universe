@@ -4,7 +4,7 @@ title: "Building the Next Generation of Multi-Cluster with Gateway API - Mike Mo
 slug: building-the-next-generation-of-multi-cluster-with-gateway
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Mike Morris", "Alan Grosskurth"]

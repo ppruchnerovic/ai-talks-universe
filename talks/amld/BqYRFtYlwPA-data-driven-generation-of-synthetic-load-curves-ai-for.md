@@ -4,7 +4,7 @@ title: "Data-driven generation of synthetic load curves | AI for Energy Utilitie
 slug: data-driven-generation-of-synthetic-load-curves-ai-for
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Arthur Cherubini"]

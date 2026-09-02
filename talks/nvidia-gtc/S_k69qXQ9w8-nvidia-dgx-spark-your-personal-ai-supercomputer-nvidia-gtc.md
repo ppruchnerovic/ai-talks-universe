@@ -4,7 +4,7 @@ title: "NVIDIA DGX Spark: Your Personal AI Supercomputer | NVIDIA GTC 2025 Sessi
 slug: nvidia-dgx-spark-your-personal-ai-supercomputer-nvidia-gtc
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

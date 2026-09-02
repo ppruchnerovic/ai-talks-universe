@@ -4,7 +4,7 @@ title: "Capabilities and Challenges of AI in Digital Governance by Stamatis Ezov
 slug: capabilities-and-challenges-of-ai-in-digital-governance-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: ["Stamatis Ezovalis"]

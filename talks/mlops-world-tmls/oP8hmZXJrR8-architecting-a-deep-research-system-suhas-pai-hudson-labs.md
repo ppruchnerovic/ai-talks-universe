@@ -4,7 +4,7 @@ title: "Architecting a Deep Research System | Suhas Pai, Hudson Labs"
 slug: architecting-a-deep-research-system-suhas-pai-hudson-labs
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Suhas Pai"]

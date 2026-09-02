@@ -4,7 +4,7 @@ title: "AI Operations to own the fleet master the mission in Microsoft Foundry |
 slug: ai-operations-to-own-the-fleet-master-the-mission-in
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ken Archer", "Sarah Bird", "Florent Ricci"]

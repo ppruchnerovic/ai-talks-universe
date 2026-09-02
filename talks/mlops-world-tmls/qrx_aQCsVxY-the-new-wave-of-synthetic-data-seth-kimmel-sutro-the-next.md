@@ -4,7 +4,7 @@ title: "The New Wave of Synthetic Data | Seth Kimmel, Sutro | The Next Wave of A
 slug: the-new-wave-of-synthetic-data-seth-kimmel-sutro-the-next
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: ["Seth Kimmel"]

@@ -4,7 +4,7 @@ title: "Multi-model composition with Ray Serve deployment graphs"
 slug: multi-model-composition-with-ray-serve-deployment-graphs
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2023
 speakers: []

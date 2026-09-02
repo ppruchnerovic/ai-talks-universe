@@ -4,7 +4,7 @@ title: "Delivering adapted AI models for industries with partners | BRK267"
 slug: delivering-adapted-ai-models-for-industries-with-partners
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Merav Davidson", "Vall Herard", "Pavandeep Kalra", "Danny Sicking"]

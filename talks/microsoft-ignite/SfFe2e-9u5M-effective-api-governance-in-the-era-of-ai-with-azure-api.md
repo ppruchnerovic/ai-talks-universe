@@ -4,7 +4,7 @@ title: "Effective API governance in the era of AI with Azure API Management | BR
 slug: effective-api-governance-in-the-era-of-ai-with-azure-api
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Mike Budzynski", "Julia Kasper"]

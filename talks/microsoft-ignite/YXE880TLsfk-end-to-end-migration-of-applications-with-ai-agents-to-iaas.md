@@ -4,7 +4,7 @@ title: "End-to-End migration of applications with AI Agents to IaaS and PaaS | B
 slug: end-to-end-migration-of-applications-with-ai-agents-to-iaas
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ashish Babbar"]

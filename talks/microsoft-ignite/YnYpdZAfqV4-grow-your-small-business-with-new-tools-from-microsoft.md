@@ -4,7 +4,7 @@ title: "Grow your small business with new tools from Microsoft Teams | BRK292"
 slug: grow-your-small-business-with-new-tools-from-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Abhijat Kanade", "Bindu Pillai"]

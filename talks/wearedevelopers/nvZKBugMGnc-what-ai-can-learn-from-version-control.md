@@ -4,7 +4,7 @@ title: "What AI Can Learn from Version Control"
 slug: what-ai-can-learn-from-version-control
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

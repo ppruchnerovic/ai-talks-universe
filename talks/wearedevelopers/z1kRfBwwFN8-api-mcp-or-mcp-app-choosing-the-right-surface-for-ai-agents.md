@@ -4,7 +4,7 @@ title: "API, MCP or MCP App? Choosing the right surface for AI agents"
 slug: api-mcp-or-mcp-app-choosing-the-right-surface-for-ai-agents
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Rishabh Budhiraja", "Rishi Deorukhkar"]

@@ -4,7 +4,7 @@ title: "2025 Key Trends: AI Workflows, Architectural Complexity, Sociotechnical 
 slug: 2025-key-trends-ai-workflows-architectural-complexity
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

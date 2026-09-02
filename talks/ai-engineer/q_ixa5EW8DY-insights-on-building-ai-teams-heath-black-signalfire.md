@@ -4,7 +4,7 @@ title: "Insights on Building AI Teams — Heath Black, SignalFire"
 slug: insights-on-building-ai-teams-heath-black-signalfire
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Heath Black"]

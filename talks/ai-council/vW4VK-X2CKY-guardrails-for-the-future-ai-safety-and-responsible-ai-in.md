@@ -4,7 +4,7 @@ title: "Guardrails for the Future AI Safety and Responsible AI in Practice"
 slug: guardrails-for-the-future-ai-safety-and-responsible-ai-in
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Jake Brill"]

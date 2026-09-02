@@ -4,7 +4,7 @@ title: "Taming MCP Server Sprawl: Securing and Scaling the Model Context Pro... 
 slug: taming-mcp-server-sprawl-securing-and-scaling-the-model
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit + ELC NA 2026"
 year: 2026
 speakers: []

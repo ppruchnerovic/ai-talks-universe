@@ -4,7 +4,7 @@ title: "AI Agents Are Becoming Operating Systems: Lessons From OpenClaw • Cedr
 slug: ai-agents-are-becoming-operating-systems-lessons-from
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Cedric Hurst"]

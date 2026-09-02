@@ -4,7 +4,7 @@ title: "Alexandre Abraham - Move beyond academia: Introducing an industry-first 
 slug: alexandre-abraham-move-beyond-academia-introducing-an
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Alexandre Abraham"]

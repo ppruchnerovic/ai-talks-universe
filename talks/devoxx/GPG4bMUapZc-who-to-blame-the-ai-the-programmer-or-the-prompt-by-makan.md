@@ -4,7 +4,7 @@ title: "Who to blame? The AI, The Programmer, or The Prompt? by Makan Sepehrifar
 slug: who-to-blame-the-ai-the-programmer-or-the-prompt-by-makan
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Makan Sepehrifar"]

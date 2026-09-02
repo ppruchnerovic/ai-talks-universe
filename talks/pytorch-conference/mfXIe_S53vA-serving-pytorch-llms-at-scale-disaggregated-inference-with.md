@@ -4,7 +4,7 @@ title: "Serving PyTorch LLMs at Scale: Disaggregated Inference With Kubernetes a
 slug: serving-pytorch-llms-at-scale-disaggregated-inference-with
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["M. Ayoub", "C. Liu"]

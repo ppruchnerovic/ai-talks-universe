@@ -4,7 +4,7 @@ title: "Good design hasn’t changed with AI — John Pham, SF Compute"
 slug: good-design-hasnt-changed-with-ai-john-pham-sf-compute
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["John Pham"]

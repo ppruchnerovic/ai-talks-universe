@@ -4,7 +4,7 @@ title: "The Human Factor in UX and Data-Driven Decisions"
 slug: the-human-factor-in-ux-and-data-driven-decisions
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

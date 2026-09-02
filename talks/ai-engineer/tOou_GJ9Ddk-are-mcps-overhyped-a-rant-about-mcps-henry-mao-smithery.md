@@ -4,7 +4,7 @@ title: "Are MCPs Overhyped? A Rant about MCPs — Henry Mao, Smithery"
 slug: are-mcps-overhyped-a-rant-about-mcps-henry-mao-smithery
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Henry Mao"]

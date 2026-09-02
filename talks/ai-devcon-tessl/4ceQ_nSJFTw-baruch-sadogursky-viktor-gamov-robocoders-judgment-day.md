@@ -4,7 +4,7 @@ title: "Baruch Sadogursky & Viktor Gamov - RoboCoders Judgment Day | DevCon Fall
 slug: baruch-sadogursky-viktor-gamov-robocoders-judgment-day
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Baruch Sadogursky", "Viktor Gamov"]

@@ -4,7 +4,7 @@ title: "How Mercari is using Gen AI to define the future of Japanese C2C e-comme
 slug: how-mercari-is-using-gen-ai-to-define-the-future-of
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2024
 speakers: []

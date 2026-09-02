@@ -4,7 +4,7 @@ title: "Drive agentic CX with what’s new in Dynamics 365 for sales and service
 slug: drive-agentic-cx-with-whats-new-in-dynamics-365-for-sales
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pia Cedendahl", "Karan Nigam", "Aurelien Pichon", "Deva Rajamohan"]

@@ -4,7 +4,7 @@ title: "From Autocomplete to Agents: AI Coding State of Play"
 slug: from-autocomplete-to-agents-ai-coding-state-of-play
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Birgitta Böckeler"]

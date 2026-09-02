@@ -4,7 +4,7 @@ title: "Secure agent workflows in GitHub Copilot with NVIDIA OpenShell | DEMSP38
 slug: secure-agent-workflows-in-github-copilot-with-nvidia
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Ali Golshan", "Alex Watson"]

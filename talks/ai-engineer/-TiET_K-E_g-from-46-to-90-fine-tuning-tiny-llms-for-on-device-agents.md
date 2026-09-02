@@ -4,7 +4,7 @@ title: "From 46% to 90%: Fine-Tuning Tiny LLMs for On-Device Agents — Cormac B
 slug: from-46-to-90-fine-tuning-tiny-llms-for-on-device-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Cormac Brick"]

@@ -4,7 +4,7 @@ title: "BG - BOLABuster: Harnessing LLMs for Automating BOLA Detection"
 slug: bg-bolabuster-harnessing-llms-for-automating-bola-detection
 conference: bsides-lv
 conference_name: "BSides Las Vegas"
-category: "AI security"
+category: "Security conferences"
 edition: "BSides Las Vegas"
 year: 2024
 speakers: []

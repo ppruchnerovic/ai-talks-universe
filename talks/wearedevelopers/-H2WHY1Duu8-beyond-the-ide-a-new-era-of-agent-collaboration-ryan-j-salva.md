@@ -4,7 +4,7 @@ title: "Beyond the IDE: A new era of agent collaboration - Ryan J. Salva"
 slug: beyond-the-ide-a-new-era-of-agent-collaboration-ryan-j-salva
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: ["Ryan J. Salva"]

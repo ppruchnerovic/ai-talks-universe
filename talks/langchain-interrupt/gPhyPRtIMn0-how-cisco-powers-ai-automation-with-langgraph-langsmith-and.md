@@ -4,7 +4,7 @@ title: "How Cisco Powers AI Automation with LangGraph, LangSmith, and LangChain 
 slug: how-cisco-powers-ai-automation-with-langgraph-langsmith-and
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Generative AI: tech du jour or the next big thing? by Massimo Re Ferre'"
 slug: generative-ai-tech-du-jour-or-the-next-big-thing-by-massimo
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Massimo Re Ferre'"]

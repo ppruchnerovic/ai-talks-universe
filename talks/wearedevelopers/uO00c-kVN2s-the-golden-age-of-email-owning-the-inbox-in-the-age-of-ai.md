@@ -4,7 +4,7 @@ title: "The Golden Age of Email: Owning the Inbox in the Age of AI"
 slug: the-golden-age-of-email-owning-the-inbox-in-the-age-of-ai
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Nikhil Gandhi", "Dana Lawson"]

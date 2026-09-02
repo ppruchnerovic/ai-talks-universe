@@ -4,7 +4,7 @@ title: "Shaping your innovation in the context of Generative AI | AI-Powered Pro
 slug: shaping-your-innovation-in-the-context-of-generative-ai-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Robert van Kommer"]

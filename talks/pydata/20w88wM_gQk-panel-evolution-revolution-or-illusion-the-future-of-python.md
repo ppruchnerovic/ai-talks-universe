@@ -4,7 +4,7 @@ title: "Panel: Evolution, Revolution, or Illusion? The Future of Python and Codi
 slug: panel-evolution-revolution-or-illusion-the-future-of-python
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Sebastian Neubauer"]

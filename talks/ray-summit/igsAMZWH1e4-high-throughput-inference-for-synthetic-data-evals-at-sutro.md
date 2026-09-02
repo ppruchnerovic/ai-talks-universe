@@ -4,7 +4,7 @@ title: "High-Throughput Inference for Synthetic Data & Evals at Sutro | Ray Summ
 slug: high-throughput-inference-for-synthetic-data-evals-at-sutro
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

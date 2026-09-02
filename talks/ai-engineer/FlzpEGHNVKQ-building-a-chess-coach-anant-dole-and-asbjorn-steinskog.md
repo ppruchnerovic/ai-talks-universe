@@ -4,7 +4,7 @@ title: "Building a Chess Coach — Anant Dole and Asbjorn Steinskog, Take Take T
 slug: building-a-chess-coach-anant-dole-and-asbjorn-steinskog
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Anant Dole", "Asbjorn Steinskog"]

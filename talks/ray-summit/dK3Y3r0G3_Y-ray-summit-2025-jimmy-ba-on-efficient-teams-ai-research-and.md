@@ -4,7 +4,7 @@ title: "Ray Summit 2025: Jimmy Ba on Efficient Teams, AI Research, and What’s 
 slug: ray-summit-2025-jimmy-ba-on-efficient-teams-ai-research-and
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

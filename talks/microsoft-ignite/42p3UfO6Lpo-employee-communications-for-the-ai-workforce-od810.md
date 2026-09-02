@@ -4,7 +4,7 @@ title: "Employee communications for the AI workforce | OD810"
 slug: employee-communications-for-the-ai-workforce-od810
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Lauren Edelmeier", "Graham Kent", "Tejas Mehta", "Judith Yaaqoubi"]

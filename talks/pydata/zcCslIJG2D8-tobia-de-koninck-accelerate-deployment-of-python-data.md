@@ -4,7 +4,7 @@ title: "Tobia De Koninck-Accelerate deployment of Python data science apps using
 slug: tobia-de-koninck-accelerate-deployment-of-python-data
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: []

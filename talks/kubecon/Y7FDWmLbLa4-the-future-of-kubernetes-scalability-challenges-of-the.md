@@ -4,7 +4,7 @@ title: "The Future of Kubernetes Scalability: Challenges of the GigaWatt... Maci
 slug: the-future-of-kubernetes-scalability-challenges-of-the
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

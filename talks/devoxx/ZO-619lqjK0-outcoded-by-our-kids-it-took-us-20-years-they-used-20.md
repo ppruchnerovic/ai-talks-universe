@@ -4,7 +4,7 @@ title: "Outcoded by Our Kids: It Took Us 20 Years, They Used 20 Prompts! by Jan 
 slug: outcoded-by-our-kids-it-took-us-20-years-they-used-20
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Jan Van Wassenhove", "Bart Wulle"]

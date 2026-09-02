@@ -4,7 +4,7 @@ title: "How WebAssembly Components Enable Safe and Portable Software Extensions"
 slug: how-webassembly-components-enable-safe-and-portable
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Alex Radovici"]

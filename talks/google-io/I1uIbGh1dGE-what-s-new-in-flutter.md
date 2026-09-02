@@ -4,7 +4,7 @@ title: "What's new in Flutter"
 slug: what-s-new-in-flutter
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Khanh Nguyen", "Kate Lovett"]

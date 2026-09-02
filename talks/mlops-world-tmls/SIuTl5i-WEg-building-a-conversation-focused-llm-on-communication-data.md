@@ -4,7 +4,7 @@ title: "Building a Conversation focused LLM on Communication Data"
 slug: building-a-conversation-focused-llm-on-communication-data
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Kartik Talamadupula"]

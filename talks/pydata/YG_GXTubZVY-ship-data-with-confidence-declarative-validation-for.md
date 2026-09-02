@@ -4,7 +4,7 @@ title: "Ship Data with Confidence: Declarative Validation for PySpark & Pandas [
 slug: ship-data-with-confidence-declarative-validation-for
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ryan Sequeira"]

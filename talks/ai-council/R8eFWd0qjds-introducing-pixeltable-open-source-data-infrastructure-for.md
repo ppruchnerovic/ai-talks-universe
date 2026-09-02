@@ -4,7 +4,7 @@ title: "Introducing Pixeltable: Open Source Data Infrastructure for Multimodal A
 slug: introducing-pixeltable-open-source-data-infrastructure-for
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marcel Kornacker"]

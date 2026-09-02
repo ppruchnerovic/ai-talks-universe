@@ -4,7 +4,7 @@ title: "The weekly developer show: Agentic AI Hackathon Coming to Berlin - Ifean
 slug: the-weekly-developer-show-agentic-ai-hackathon-coming-to
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Ifeanyi Otuonye"]

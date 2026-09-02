@@ -4,7 +4,7 @@ title: "Scale enterprise .NET apps with AI‑assisted cross‑platform workflows
 slug: scale-enterprise-net-apps-with-aiassisted-crossplatform
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Sam Basu", "Colin Whitlatch"]

@@ -4,7 +4,7 @@ title: "4 Agent Skill Pitfalls (and the Fix): Context Development Lifecycle"
 slug: 4-agent-skill-pitfalls-and-the-fix-context-development
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

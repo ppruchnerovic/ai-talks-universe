@@ -4,7 +4,7 @@ title: "Windows Server 2025: New ways to gain cloud agility and security | BRK23
 slug: windows-server-2025-new-ways-to-gain-cloud-agility-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

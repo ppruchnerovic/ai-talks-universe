@@ -4,7 +4,7 @@ title: "How I used AI voice to help me play Magic: The Gathering - Michelle “M
 slug: how-i-used-ai-voice-to-help-me-play-magic-the-gathering
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: []

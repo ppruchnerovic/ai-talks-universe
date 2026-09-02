@@ -4,7 +4,7 @@ title: "Not Your Father's Data Lakehouse: Building with Trino and Iceberg | Star
 slug: not-your-father-s-data-lakehouse-building-with-trino-and
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: ["Monica Miller"]

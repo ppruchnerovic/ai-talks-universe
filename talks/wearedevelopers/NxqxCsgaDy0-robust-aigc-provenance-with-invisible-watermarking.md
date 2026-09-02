@@ -4,7 +4,7 @@ title: "Robust AIGC Provenance with Invisible Watermarking"
 slug: robust-aigc-provenance-with-invisible-watermarking
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Haoqi Wu"]

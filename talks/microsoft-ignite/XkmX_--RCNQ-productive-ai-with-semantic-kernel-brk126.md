@@ -4,7 +4,7 @@ title: "Productive AI with Semantic Kernel | BRK126"
 slug: productive-ai-with-semantic-kernel-brk126
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Urko Benito", "Evan Chaki", "Greg Crist", "Shawn Henry", "Wanting Huang", "Hiro Kobashi"]

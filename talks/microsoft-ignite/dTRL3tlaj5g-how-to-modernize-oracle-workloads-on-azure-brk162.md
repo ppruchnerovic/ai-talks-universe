@@ -4,7 +4,7 @@ title: "How to modernize Oracle workloads on Azure | BRK162"
 slug: how-to-modernize-oracle-workloads-on-azure-brk162
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Kalyan Kaki", "Tushar Pandit"]

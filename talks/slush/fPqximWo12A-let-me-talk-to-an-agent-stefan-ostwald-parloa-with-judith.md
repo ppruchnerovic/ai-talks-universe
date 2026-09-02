@@ -4,7 +4,7 @@ title: "Let Me Talk to an Agent | Stefan Ostwald (Parloa) with Judith Dada (Visi
 slug: let-me-talk-to-an-agent-stefan-ostwald-parloa-with-judith
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Stefan Ostwald"]

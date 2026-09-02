@@ -4,7 +4,7 @@ title: "The Next Chapter of Developer Experience: TAG De... Julien S, Graziano C
 slug: the-next-chapter-of-developer-experience-tag-de-julien-s
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: []

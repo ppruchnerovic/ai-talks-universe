@@ -4,7 +4,7 @@ title: "From SaaS to Space: The Defensible Value VCs Are Looking For"
 slug: from-saas-to-space-the-defensible-value-vcs-are-looking-for
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Frank Seehaus", "Friederike Hoffmann", "Nils Eiteneyer", "Trevor Cox"]

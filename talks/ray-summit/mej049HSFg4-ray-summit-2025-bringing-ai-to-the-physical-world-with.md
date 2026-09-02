@@ -4,7 +4,7 @@ title: "Ray Summit 2025: Bringing AI to the Physical World with Chelsea Finn fro
 slug: ray-summit-2025-bringing-ai-to-the-physical-world-with
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

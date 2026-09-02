@@ -4,7 +4,7 @@ title: "10 Myths Busted: The Real Impact of AI and Emerging Tech"
 slug: 10-myths-busted-the-real-impact-of-ai-and-emerging-tech
 conference: sxsw
 conference_name: "SXSW"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "SXSW 2025 keynotes & featured"
 year: 2025
 speakers: []

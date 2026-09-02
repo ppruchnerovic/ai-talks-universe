@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Building and managing conversational AI at scale: l
 slug: aws-re-invent-2025-building-and-managing-conversational-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

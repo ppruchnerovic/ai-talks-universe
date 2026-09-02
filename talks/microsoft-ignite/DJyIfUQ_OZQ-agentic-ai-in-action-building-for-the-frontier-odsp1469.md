@@ -4,7 +4,7 @@ title: "Agentic AI in action: Building for the frontier | ODSP1469"
 slug: agentic-ai-in-action-building-for-the-frontier-odsp1469
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Pavel Nasovich", "Dmitry Tikhomirov"]

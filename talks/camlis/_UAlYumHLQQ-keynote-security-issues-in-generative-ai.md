@@ -4,7 +4,7 @@ title: "Keynote - Security Issues in Generative AI"
 slug: keynote-security-issues-in-generative-ai
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

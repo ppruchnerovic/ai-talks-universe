@@ -4,7 +4,7 @@ title: "Intelligent Systems Manipulation ⎹ EPFL Robotics"
 slug: intelligent-systems-manipulation-epfl-robotics
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2026
 speakers: []

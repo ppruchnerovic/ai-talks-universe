@@ -4,7 +4,7 @@ title: "Move fast save more with MongoDB-compatible workloads on DocumentDB | BR
 slug: move-fast-save-more-with-mongodb-compatible-workloads-on
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Patty Chow", "Khelan Modi", "Gurvinder Singh"]

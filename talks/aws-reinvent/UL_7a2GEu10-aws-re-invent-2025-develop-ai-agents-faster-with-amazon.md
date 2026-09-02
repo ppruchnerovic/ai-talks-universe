@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 -Develop AI Agents faster with Amazon SageMaker Studi
 slug: aws-re-invent-2025-develop-ai-agents-faster-with-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

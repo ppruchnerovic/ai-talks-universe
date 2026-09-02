@@ -4,7 +4,7 @@ title: "Your Browser Lives in VS Code Now | LIVE154"
 slug: your-browser-lives-in-vs-code-now-live154
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Justin Chen", "Burke Holland"]

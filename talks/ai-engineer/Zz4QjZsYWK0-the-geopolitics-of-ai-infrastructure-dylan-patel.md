@@ -4,7 +4,7 @@ title: "The Geopolitics of AI Infrastructure - Dylan Patel, SemiAnalysis"
 slug: the-geopolitics-of-ai-infrastructure-dylan-patel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Dylan Patel"]

@@ -4,7 +4,7 @@ title: "Infusing AI in Cybersecurity: The Times They Are AI-Changin'"
 slug: infusing-ai-in-cybersecurity-the-times-they-are-ai-changin
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

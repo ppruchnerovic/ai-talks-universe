@@ -4,7 +4,7 @@ title: "Causal Inference through the lens of probabilistic programming [PyCon DE
 slug: causal-inference-through-the-lens-of-probabilistic
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Dr. Juan Orduz"]

@@ -4,7 +4,7 @@ title: "Reimagine content management with agents in SharePoint | BRK279"
 slug: reimagine-content-management-with-agents-in-sharepoint
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Aarthi Natarajan", "Jeff Teper", "Adam Harmetz"]

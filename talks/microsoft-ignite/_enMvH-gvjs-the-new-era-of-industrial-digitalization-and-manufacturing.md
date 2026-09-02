@@ -4,7 +4,7 @@ title: "The new era of industrial digitalization and manufacturing innovation | 
 slug: the-new-era-of-industrial-digitalization-and-manufacturing
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

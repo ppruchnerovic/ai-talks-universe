@@ -4,7 +4,7 @@ title: "The Oversights Under the Flow: Discovering the Vulnerable Tooling Suites
 slug: the-oversights-under-the-flow-discovering-the-vulnerable
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

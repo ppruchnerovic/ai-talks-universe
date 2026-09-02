@@ -4,7 +4,7 @@ title: "From Ancient Greeks to Modern Geeks - Basic Machine Learning Algorithms 
 slug: from-ancient-greeks-to-modern-geeks-basic-machine-learning
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Simon Painter"]

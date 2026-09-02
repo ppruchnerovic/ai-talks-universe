@@ -4,7 +4,7 @@ title: "Reverb's ML Evolution: From Data Engineering to MLOps | Ray Summit 2024"
 slug: reverb-s-ml-evolution-from-data-engineering-to-mlops-ray
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

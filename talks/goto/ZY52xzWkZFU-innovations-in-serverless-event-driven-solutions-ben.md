@@ -4,7 +4,7 @@ title: "Innovations in Serverless & Event-Driven Solutions • Ben Ellerby & Jul
 slug: innovations-in-serverless-event-driven-solutions-ben
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Ben Ellerby", "Julian Wood"]

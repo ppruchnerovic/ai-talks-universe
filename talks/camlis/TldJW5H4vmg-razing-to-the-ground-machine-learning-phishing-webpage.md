@@ -4,7 +4,7 @@ title: "Razing to the Ground Machine Learning Phishing Webpage Detectors with Qu
 slug: razing-to-the-ground-machine-learning-phishing-webpage
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

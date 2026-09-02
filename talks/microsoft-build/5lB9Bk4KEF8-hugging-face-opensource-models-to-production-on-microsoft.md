@@ -4,7 +4,7 @@ title: "Hugging Face open‑source models to production on Microsoft Foundry | D
 slug: hugging-face-opensource-models-to-production-on-microsoft
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Vaidyaraman Sambasivam", "Osi Otugo", "Jean Boudier"]

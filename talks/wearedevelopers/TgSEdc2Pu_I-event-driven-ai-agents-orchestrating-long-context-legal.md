@@ -4,7 +4,7 @@ title: "Event-Driven AI Agents: Orchestrating Long-Context Legal Processing at S
 slug: event-driven-ai-agents-orchestrating-long-context-legal
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Luca Bianchi"]

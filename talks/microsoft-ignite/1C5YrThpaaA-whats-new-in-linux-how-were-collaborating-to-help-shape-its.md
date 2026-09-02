@@ -4,7 +4,7 @@ title: "What’s new in Linux: How we’re collaborating to help shape its futur
 slug: whats-new-in-linux-how-were-collaborating-to-help-shape-its
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Vincent Batts", "Chris Quinn", "Andrew Randall"]

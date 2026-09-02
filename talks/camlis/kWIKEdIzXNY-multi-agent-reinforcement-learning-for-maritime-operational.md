@@ -4,7 +4,7 @@ title: "Multi-Agent Reinforcement Learning for Maritime Operational Technology C
 slug: multi-agent-reinforcement-learning-for-maritime-operational
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

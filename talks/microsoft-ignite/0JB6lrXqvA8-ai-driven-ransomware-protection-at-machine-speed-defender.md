@@ -4,7 +4,7 @@ title: "AI-Driven Ransomware Protection at Machine Speed: Defender for Endpoint 
 slug: ai-driven-ransomware-protection-at-machine-speed-defender
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Christine Coll", "Noam Hadash"]

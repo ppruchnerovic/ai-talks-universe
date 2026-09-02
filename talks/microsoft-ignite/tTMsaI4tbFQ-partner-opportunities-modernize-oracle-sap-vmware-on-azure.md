@@ -4,7 +4,7 @@ title: "Partner Opportunities: Modernize Oracle, SAP & VMware on Azure | PBRK153
 slug: partner-opportunities-modernize-oracle-sap-vmware-on-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Stephen Boyle", "Shishank Gupta", "Sue Hartford"]

@@ -4,7 +4,7 @@ title: "Fully Connected keynote: Building tools for agents at Weights & Biases"
 slug: fully-connected-keynote-building-tools-for-agents-at
 conference: fully-connected-wandb
 conference_name: "Fully Connected (Weights & Biases)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Weights & Biases"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Preventing data exfiltration with a layered protection strategy | BRK250
 slug: preventing-data-exfiltration-with-a-layered-protection
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Vivian Ma", "Shekhar Palta", "Roberto Yglesias"]

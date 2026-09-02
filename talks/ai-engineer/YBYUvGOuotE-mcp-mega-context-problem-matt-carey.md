@@ -4,7 +4,7 @@ title: "MCP = Mega Context Problem - Matt Carey"
 slug: mcp-mega-context-problem-matt-carey
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Matt Carey"]

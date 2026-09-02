@@ -4,7 +4,7 @@ title: "[Session] Building a MCP Server for Agentic Commerce with Brenden Lane a
 slug: session-building-a-mcp-server-for-agentic-commerce-with
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Developers Summit 2025"
 year: 2025
 speakers: []

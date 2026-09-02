@@ -4,7 +4,7 @@ title: "Keynote- Jeremiah Lowin - Build Reasonable Software | Pydata London 26"
 slug: keynote-jeremiah-lowin-build-reasonable-software-pydata
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Keynote- Jeremiah Lowin"]

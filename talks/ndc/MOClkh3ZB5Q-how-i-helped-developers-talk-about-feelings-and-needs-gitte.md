@@ -4,7 +4,7 @@ title: "How I helped developers talk about feelings and needs - Gitte Klitgaard 
 slug: how-i-helped-developers-talk-about-feelings-and-needs-gitte
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Gitte Klitgaard"]

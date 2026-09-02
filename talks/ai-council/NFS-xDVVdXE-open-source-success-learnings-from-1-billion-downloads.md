@@ -4,7 +4,7 @@ title: "Open Source Success: Learnings from 1 Billion Downloads"
 slug: open-source-success-learnings-from-1-billion-downloads
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Avi Press"]

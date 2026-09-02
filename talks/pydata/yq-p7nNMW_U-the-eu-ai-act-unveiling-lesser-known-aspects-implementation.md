@@ -4,7 +4,7 @@ title: "The EU AI Act: Unveiling Lesser-Known Aspects, Implementation Entities, 
 slug: the-eu-ai-act-unveiling-lesser-known-aspects-implementation
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Adrin Jalali"]

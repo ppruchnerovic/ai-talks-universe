@@ -4,7 +4,7 @@ title: "The EiC Problem: Junior Devs, AI Agents & the Missing Context Layer • 
 slug: the-eic-problem-junior-devs-ai-agents-the-missing-context
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Scott Hanselman"]

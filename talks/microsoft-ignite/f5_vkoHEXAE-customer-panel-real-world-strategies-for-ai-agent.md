@@ -4,7 +4,7 @@ title: "Customer panel: Real-world strategies for AI Agent transformation | BRK2
 slug: customer-panel-real-world-strategies-for-ai-agent
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Srini Raghavan", "Sean Alexander", "Tim Holt", "Saurabh Pant", "Mona Riemenschneider", "John Whittaker"]

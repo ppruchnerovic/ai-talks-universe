@@ -4,7 +4,7 @@ title: "Generating Zero-Shot Hard-Case Hallucinations: A Synthetic and Open Data
 slug: generating-zero-shot-hard-case-hallucinations-a-synthetic
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

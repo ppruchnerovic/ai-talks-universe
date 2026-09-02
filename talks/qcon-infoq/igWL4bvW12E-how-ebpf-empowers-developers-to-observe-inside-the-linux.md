@@ -4,7 +4,7 @@ title: "How eBPF Empowers Developers to Observe Inside the Linux Kernel in a Saf
 slug: how-ebpf-empowers-developers-to-observe-inside-the-linux
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

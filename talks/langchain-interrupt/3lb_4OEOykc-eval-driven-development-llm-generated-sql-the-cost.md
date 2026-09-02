@@ -4,7 +4,7 @@ title: "Eval-Driven Development, LLM-Generated SQL, & the Cost-Uncertainty-Lag T
 slug: eval-driven-development-llm-generated-sql-the-cost
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

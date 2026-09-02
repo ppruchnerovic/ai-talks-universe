@@ -4,7 +4,7 @@ title: "SaTML 2024 - Achraf Azize - Concentrated Differential Privacy for Bandit
 slug: satml-2024-achraf-azize-concentrated-differential-privacy
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Achraf Azize"]

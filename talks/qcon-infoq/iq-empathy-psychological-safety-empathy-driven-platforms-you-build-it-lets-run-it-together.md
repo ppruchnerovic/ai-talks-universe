@@ -4,7 +4,7 @@ title: "Empathy Driven Platforms: You Build It, Let’s Run It Together"
 slug: empathy-driven-platforms-you-build-it-lets-run-it-together
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Dev Summit Boston 2025"
 year: 2025
 speakers: ["Erin Doyle"]

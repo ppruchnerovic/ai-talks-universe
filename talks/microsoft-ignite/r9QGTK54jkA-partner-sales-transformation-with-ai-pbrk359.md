@@ -4,7 +4,7 @@ title: "Partner: Sales transformation with AI | PBRK359"
 slug: partner-sales-transformation-with-ai-pbrk359
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["April Delsing", "Sherry Martin", "Marion Rousseau", "Julie Strauss", "Pope Trinidad"]

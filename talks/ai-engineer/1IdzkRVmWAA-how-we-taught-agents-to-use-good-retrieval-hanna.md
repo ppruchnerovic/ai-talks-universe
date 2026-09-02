@@ -4,7 +4,7 @@ title: "How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbre
 slug: how-we-taught-agents-to-use-good-retrieval-hanna
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hanna Lichtenberg"]

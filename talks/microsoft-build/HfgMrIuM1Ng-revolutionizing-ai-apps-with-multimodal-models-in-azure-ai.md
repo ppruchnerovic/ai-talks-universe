@@ -4,7 +4,7 @@ title: "Revolutionizing AI Apps with Multimodal Models in Azure AI Foundry | BRK
 slug: revolutionizing-ai-apps-with-multimodal-models-in-azure-ai
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "First PyData in Santander - Antonio Pérez Velasco (@Predictia)"
 slug: first-pydata-in-santander-antonio-perez-velasco-predictia
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Antonio Pérez Velasco"]

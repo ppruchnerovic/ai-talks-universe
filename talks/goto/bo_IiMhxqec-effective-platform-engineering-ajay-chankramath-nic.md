@@ -4,7 +4,7 @@ title: "Effective Platform Engineering • Ajay Chankramath, Nic Cheneweth, Brya
 slug: effective-platform-engineering-ajay-chankramath-nic
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Ajay Chankramath"]

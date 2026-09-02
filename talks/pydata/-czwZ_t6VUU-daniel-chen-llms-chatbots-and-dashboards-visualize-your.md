@@ -4,7 +4,7 @@ title: "Daniel Chen - LLMs, Chatbots, and Dashboards_ Visualize Your Data with N
 slug: daniel-chen-llms-chatbots-and-dashboards-visualize-your
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Daniel Chen"]

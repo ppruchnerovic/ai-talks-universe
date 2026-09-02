@@ -4,7 +4,7 @@ title: "The Physical Turing Test: Jim Fan on Nvidia's Roadmap for Embodied AI"
 slug: the-physical-turing-test-jim-fan-on-nvidia-s-roadmap-for
 conference: sequoia-ai-ascent
 conference_name: "Sequoia AI Ascent"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "AI Ascent 2025"
 year: 2025
 speakers: []

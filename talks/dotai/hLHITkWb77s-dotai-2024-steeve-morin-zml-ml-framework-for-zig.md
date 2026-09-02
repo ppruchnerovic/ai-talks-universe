@@ -4,7 +4,7 @@ title: "dotAI 2024 - Steeve Morin - ZML: ML framework for Zig"
 slug: dotai-2024-steeve-morin-zml-ml-framework-for-zig
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Steeve Morin"]

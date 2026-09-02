@@ -4,7 +4,7 @@ title: "Design systems for every user including people and LLMs | ODSP916"
 slug: design-systems-for-every-user-including-people-and-llms
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Guust Ysebie"]

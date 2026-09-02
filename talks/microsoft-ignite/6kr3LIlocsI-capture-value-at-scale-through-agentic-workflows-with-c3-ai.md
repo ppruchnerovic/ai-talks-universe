@@ -4,7 +4,7 @@ title: "Capture value at scale through agentic workflows with C3 AI | BRKSP479"
 slug: capture-value-at-scale-through-agentic-workflows-with-c3-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["John Abelt", "Nikhil Krishnan"]

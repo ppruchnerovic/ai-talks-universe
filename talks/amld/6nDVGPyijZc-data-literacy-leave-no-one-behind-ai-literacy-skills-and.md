@@ -4,7 +4,7 @@ title: "Data Literacy: Leave No One Behind! | AI Literacy, Skills and Readiness 
 slug: data-literacy-leave-no-one-behind-ai-literacy-skills-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Diego Kuonen"]

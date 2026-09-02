@@ -4,7 +4,7 @@ title: "Transform agreement workflows through Docusign's low-code automation | O
 slug: transform-agreement-workflows-through-docusign-s-low-code
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Hank Glover", "Shane Meisner"]

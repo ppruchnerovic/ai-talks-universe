@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build a multi-channel agentic experience with Twili
 slug: aws-re-invent-2025-build-a-multi-channel-agentic-experience
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

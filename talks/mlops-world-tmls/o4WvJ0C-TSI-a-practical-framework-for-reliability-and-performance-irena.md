@@ -4,7 +4,7 @@ title: "A Practical Framework for Reliability and Performance | Irena Grabovitch
 slug: a-practical-framework-for-reliability-and-performance-irena
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

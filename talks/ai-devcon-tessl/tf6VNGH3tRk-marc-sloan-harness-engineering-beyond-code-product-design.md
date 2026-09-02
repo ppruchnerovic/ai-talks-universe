@@ -4,7 +4,7 @@ title: "Marc Sloan - Harness engineering beyond code - product & design constrai
 slug: marc-sloan-harness-engineering-beyond-code-product-design
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Marc Sloan"]

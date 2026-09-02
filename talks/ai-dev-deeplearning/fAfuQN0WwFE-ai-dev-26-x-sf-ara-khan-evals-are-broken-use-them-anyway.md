@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Ara Khan: Evals Are Broken Use Them Anyway"
 slug: ai-dev-26-x-sf-ara-khan-evals-are-broken-use-them-anyway
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

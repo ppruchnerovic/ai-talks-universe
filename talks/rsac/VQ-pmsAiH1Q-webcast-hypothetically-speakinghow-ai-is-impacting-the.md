@@ -4,7 +4,7 @@ title: "Webcast: Hypothetically Speaking—How AI Is Impacting the Education Sec
 slug: webcast-hypothetically-speakinghow-ai-is-impacting-the
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

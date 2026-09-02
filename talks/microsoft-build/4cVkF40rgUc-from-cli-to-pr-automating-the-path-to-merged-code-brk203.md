@@ -4,7 +4,7 @@ title: "From CLI to PR: Automating the path to merged code | BRK203"
 slug: from-cli-to-pr-automating-the-path-to-merged-code-brk203
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Cassidy Williams", "Evan Boyle"]

@@ -4,7 +4,7 @@ title: "Benchmarking 2000+ Cloud Servers for GBM Model Training and LLM Inferenc
 slug: benchmarking-2000-cloud-servers-for-gbm-model-training-and
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Gergely Daroczi"]

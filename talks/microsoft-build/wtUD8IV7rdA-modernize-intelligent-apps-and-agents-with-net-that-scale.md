@@ -4,7 +4,7 @@ title: "Modernize intelligent apps and agents with .NET that scale as you grow |
 slug: modernize-intelligent-apps-and-agents-with-net-that-scale
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Andrew Westgarth", "Gaurav Seth"]

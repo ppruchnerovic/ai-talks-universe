@@ -4,7 +4,7 @@ title: "Unlocking the all-in-one AI Advantage of Microsoft 365 Copilot | BRK281"
 slug: unlocking-the-all-in-one-ai-advantage-of-microsoft-365
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ron Pessner", "Amber Waisanen"]

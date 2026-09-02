@@ -4,7 +4,7 @@ title: "Keynote - Lessons for AI Security Preparedness"
 slug: keynote-lessons-for-ai-security-preparedness
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Trust by Design How TELUS Builds Secure API Products for the AI Economy"
 slug: trust-by-design-how-telus-builds-secure-api-products-for
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2026
 speakers: []

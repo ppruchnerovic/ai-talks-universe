@@ -4,7 +4,7 @@ title: "Ensure AI Agents Work: Evaluation Frameworks for Scaling Success — Apa
 slug: ensure-ai-agents-work-evaluation-frameworks-for-scaling
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Aparna Dhinkaran"]

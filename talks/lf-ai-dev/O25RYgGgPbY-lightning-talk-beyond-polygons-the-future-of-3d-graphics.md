@@ -4,7 +4,7 @@ title: "Lightning Talk: Beyond Polygons: The Future of 3D Graphics with Implicit
 slug: lightning-talk-beyond-polygons-the-future-of-3d-graphics
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Pierre Wilmot"]

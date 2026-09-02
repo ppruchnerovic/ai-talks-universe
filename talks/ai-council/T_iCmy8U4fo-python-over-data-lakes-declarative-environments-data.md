@@ -4,7 +4,7 @@ title: "Python Over Data Lakes: Declarative Environments, Data Management & Othe
 slug: python-over-data-lakes-declarative-environments-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Ciro Greco"]

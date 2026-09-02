@@ -4,7 +4,7 @@ title: "Spec Driven Development: Why your prompt chaos won’t scale - Macey Bak
 slug: spec-driven-development-why-your-prompt-chaos-wont-scale
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Macey Baker"]

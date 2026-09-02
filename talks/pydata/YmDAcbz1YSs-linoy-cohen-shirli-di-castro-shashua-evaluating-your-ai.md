@@ -4,7 +4,7 @@ title: "Linoy Cohen, Shirli Di Castro Shashua: Evaluating Your AI Agent (HE) | P
 slug: linoy-cohen-shirli-di-castro-shashua-evaluating-your-ai
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Linoy Cohen"]

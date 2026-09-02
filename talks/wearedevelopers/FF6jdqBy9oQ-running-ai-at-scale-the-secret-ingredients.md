@@ -4,7 +4,7 @@ title: "Running AI at Scale: The Secret Ingredients"
 slug: running-ai-at-scale-the-secret-ingredients
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Boris Hecker", "Max Tschochohei", "Peter Kürpick", "Tomislav Tipurić"]

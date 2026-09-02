@@ -4,7 +4,7 @@ title: "Copilot Studio Agents & Azure AI Foundry: better together | BRK162"
 slug: copilot-studio-agents-azure-ai-foundry-better-together
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

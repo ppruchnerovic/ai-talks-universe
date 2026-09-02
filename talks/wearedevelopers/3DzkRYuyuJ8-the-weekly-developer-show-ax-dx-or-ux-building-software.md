@@ -4,7 +4,7 @@ title: "The weekly developer show: AX, DX or UX? Building software with AI witho
 slug: the-weekly-developer-show-ax-dx-or-ux-building-software
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

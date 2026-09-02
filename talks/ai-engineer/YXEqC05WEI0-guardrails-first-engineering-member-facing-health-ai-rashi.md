@@ -4,7 +4,7 @@ title: "Guardrails First: Engineering Member-Facing Health AI — Rashi Agrawal,
 slug: guardrails-first-engineering-member-facing-health-ai-rashi
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Rashi Agrawal"]

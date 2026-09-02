@@ -4,7 +4,7 @@ title: "How Sworn Enemies Found a Truce (Sort of) to Achieve NIST Compliance"
 slug: how-sworn-enemies-found-a-truce-sort-of-to-achieve-nist
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["Jonall Cobble"]

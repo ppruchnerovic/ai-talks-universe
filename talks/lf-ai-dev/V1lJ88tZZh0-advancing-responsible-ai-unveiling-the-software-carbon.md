@@ -4,7 +4,7 @@ title: "Advancing Responsible AI: Unveiling the Software Carbon Efficiency Rat..
 slug: advancing-responsible-ai-unveiling-the-software-carbon
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2024"
 year: 2024
 speakers: ["Chris Xie", "Tereze Gaile"]

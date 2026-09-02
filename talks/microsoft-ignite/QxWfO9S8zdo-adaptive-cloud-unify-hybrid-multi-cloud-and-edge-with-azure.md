@@ -4,7 +4,7 @@ title: "Adaptive cloud: Unify hybrid multi-cloud and edge with Azure Arc | BRK23
 slug: adaptive-cloud-unify-hybrid-multi-cloud-and-edge-with-azure
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Bernardo Caldas", "Angie Tran", "Satya Vel"]

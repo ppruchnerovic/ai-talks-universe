@@ -4,7 +4,7 @@ title: "Gemini Nano on device — Florina Muntenescu & Oli Gaymond, Google DeepM
 slug: gemini-nano-on-device-florina-muntenescu-oli-gaymond-google
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Florina Muntenescu", "Oli Gaymond"]

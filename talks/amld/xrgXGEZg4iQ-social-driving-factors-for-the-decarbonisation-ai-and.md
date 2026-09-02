@@ -4,7 +4,7 @@ title: "Social driving factors for the decarbonisation | AI and Decarbonisation 
 slug: social-driving-factors-for-the-decarbonisation-ai-and
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Isabelle Stadelmann"]

@@ -4,7 +4,7 @@ title: "The Building Blocks of Today’s and Tomorrow’s Language Models - Seba
 slug: the-building-blocks-of-todays-and-tomorrows-language-models
 conference: pytorch-conference
 conference_name: "PyTorch Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyTorch Conference 2025"
 year: 2025
 speakers: ["Sebastian Raschka"]

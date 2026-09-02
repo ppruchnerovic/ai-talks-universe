@@ -4,7 +4,7 @@ title: "So you want to become an MVP? | LIVE176"
 slug: so-you-want-to-become-an-mvp-live176
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Fernanda Herger", "Betsy Weber", "Priyanka Shah", "Jeremy Sinclair"]

@@ -4,7 +4,7 @@ title: "Making agentic workflows trustworthy and verifiable with a custom DSL"
 slug: making-agentic-workflows-trustworthy-and-verifiable-with-a
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 London"
 year: 2026
 speakers: []

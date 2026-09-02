@@ -4,7 +4,7 @@ title: "Databricks' vLLM Optimization for Cost-Effective LLM Inference | Ray Sum
 slug: databricks-vllm-optimization-for-cost-effective-llm
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

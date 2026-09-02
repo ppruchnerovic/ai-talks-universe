@@ -4,7 +4,7 @@ title: "Can JavaScript & AI Detect Cake? A Machine Learning Experiment."
 slug: can-javascript-ai-detect-cake-a-machine-learning-experiment
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

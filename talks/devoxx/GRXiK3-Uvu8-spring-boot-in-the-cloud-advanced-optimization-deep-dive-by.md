@@ -4,7 +4,7 @@ title: "Spring Boot in the Cloud: Advanced Optimization Deep Dive by Patrick Bau
 slug: spring-boot-in-the-cloud-advanced-optimization-deep-dive-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Patrick Baumgartner"]

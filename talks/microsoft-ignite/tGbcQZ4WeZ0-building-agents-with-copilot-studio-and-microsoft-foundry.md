@@ -4,7 +4,7 @@ title: "Building agents with Copilot Studio and Microsoft Foundry | BRK314"
 slug: building-agents-with-copilot-studio-and-microsoft-foundry
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Matthew Barbour", "Matthew Bolanos", "Seth Juarez"]

@@ -4,7 +4,7 @@ title: "AI Developer Workstations in Action | DEM574"
 slug: ai-developer-workstations-in-action-dem574
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

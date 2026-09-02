@@ -4,7 +4,7 @@ title: "SaTML 2023 - Edoardo Debenedetti - A Light Recipe to Train Robust Vision
 slug: satml-2023-edoardo-debenedetti-a-light-recipe-to-train
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Edoardo Debenedetti"]

@@ -4,7 +4,7 @@ title: "Edouard Maleix - How AI-First Dev Teams Build Collective Intelligence â€
 slug: edouard-maleix-how-ai-first-dev-teams-build-collective
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: ["Edouard Maleix"]

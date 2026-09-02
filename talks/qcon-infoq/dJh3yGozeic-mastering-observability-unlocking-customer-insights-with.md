@@ -4,7 +4,7 @@ title: "Mastering Observability: Unlocking Customer Insights with Gojko Adzic"
 slug: mastering-observability-unlocking-customer-insights-with
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

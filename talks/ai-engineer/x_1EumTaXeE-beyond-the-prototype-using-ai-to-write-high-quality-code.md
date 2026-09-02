@@ -4,7 +4,7 @@ title: "Beyond the Prototype: Using AI to Write High-Quality Code - Josh Albrech
 slug: beyond-the-prototype-using-ai-to-write-high-quality-code
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Josh Albrecht"]

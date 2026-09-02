@@ -4,7 +4,7 @@ title: "Eliminating AI Risk, One Model Failure at a Time"
 slug: eliminating-ai-risk-one-model-failure-at-a-time
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: ["Yaron Singer"]

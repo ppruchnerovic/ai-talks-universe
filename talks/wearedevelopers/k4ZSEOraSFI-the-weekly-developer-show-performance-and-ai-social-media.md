@@ -4,7 +4,7 @@ title: "The weekly developer show: Performance and AI, Social Media Decline, Dev
 slug: the-weekly-developer-show-performance-and-ai-social-media
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

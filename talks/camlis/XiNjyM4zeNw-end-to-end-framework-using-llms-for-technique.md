@@ -4,7 +4,7 @@ title: "End-to-End Framework using LLMs for Technique Identification and Threat-
 slug: end-to-end-framework-using-llms-for-technique
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

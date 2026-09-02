@@ -4,7 +4,7 @@ title: "[Workshop] AI Pipelines and Agents in Pure TypeScript with Mastra.ai —
 slug: workshop-ai-pipelines-and-agents-in-pure-typescript-with
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Nick Nisi"]

@@ -4,7 +4,7 @@ title: "Darren Aronofsky and Demis Hassabis on storytelling in the age of AI"
 slug: darren-aronofsky-and-demis-hassabis-on-storytelling-in-the
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2025"
 year: 2025
 speakers: []

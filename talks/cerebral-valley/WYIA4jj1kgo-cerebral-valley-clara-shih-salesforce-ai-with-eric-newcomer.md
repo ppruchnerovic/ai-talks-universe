@@ -4,7 +4,7 @@ title: "Cerebral Valley: Clara Shih (Salesforce AI) with Eric Newcomer"
 slug: cerebral-valley-clara-shih-salesforce-ai-with-eric-newcomer
 conference: cerebral-valley
 conference_name: "Cerebral Valley AI Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Cerebral Valley AI Summit"
 year: 2023
 speakers: []

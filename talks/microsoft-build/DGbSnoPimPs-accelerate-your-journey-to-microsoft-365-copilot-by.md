@@ -4,7 +4,7 @@ title: "Accelerate your journey to Microsoft 365 Copilot by building your first 
 slug: accelerate-your-journey-to-microsoft-365-copilot-by
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

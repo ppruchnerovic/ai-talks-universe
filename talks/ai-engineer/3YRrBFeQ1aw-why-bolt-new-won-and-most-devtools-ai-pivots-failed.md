@@ -4,7 +4,7 @@ title: "Why Bolt.new Won and Most DevTools AI Pivots Failed - Victoria Melnikova
 slug: why-bolt-new-won-and-most-devtools-ai-pivots-failed
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Victoria Melnikova"]

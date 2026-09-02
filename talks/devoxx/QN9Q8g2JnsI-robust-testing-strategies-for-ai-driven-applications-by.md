@@ -4,7 +4,7 @@ title: "Robust Testing Strategies for AI-Driven Applications by Victor Landeau"
 slug: robust-testing-strategies-for-ai-driven-applications-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Victor Landeau"]

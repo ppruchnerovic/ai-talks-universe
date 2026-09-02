@@ -4,7 +4,7 @@ title: "Advancing AI and HPC Competency in Higher Education Through Faculty Inst
 slug: advancing-ai-and-hpc-competency-in-higher-education-through
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2026"
 year: 2026
 speakers: []

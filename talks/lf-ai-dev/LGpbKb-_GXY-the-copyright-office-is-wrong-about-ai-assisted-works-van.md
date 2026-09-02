@@ -4,7 +4,7 @@ title: "The Copyright Office is Wrong About AI-Assisted Works - Van Lindberg, OS
 slug: the-copyright-office-is-wrong-about-ai-assisted-works-van
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Van Lindberg"]

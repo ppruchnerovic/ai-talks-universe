@@ -4,7 +4,7 @@ title: "Imagine the future of edge computing and prepare for the AI revolution |
 slug: imagine-the-future-of-edge-computing-and-prepare-for-the-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Cosmos Darwin", "Amanda Fleming", "Alan Rabinovich"]

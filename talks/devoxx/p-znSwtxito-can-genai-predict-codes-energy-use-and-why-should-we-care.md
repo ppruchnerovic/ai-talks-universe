@@ -4,7 +4,7 @@ title: "Can GenAI predict code’s energy use and why should we care? by Wilco B
 slug: can-genai-predict-codes-energy-use-and-why-should-we-care
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Wilco Burggraaf"]

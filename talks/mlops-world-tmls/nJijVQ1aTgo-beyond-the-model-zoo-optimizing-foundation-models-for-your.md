@@ -4,7 +4,7 @@ title: "Beyond the Model Zoo: Optimizing Foundation Models for Your Application"
 slug: beyond-the-model-zoo-optimizing-foundation-models-for-your
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2024
 speakers: ["Salma Mayorquin"]

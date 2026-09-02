@@ -4,7 +4,7 @@ title: "Recipe for success: How Kraft Heinz optimizes manufacturing with AI | BR
 slug: recipe-for-success-how-kraft-heinz-optimizes-manufacturing
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Oliver Ganschar", "Alkesh Ladva", "Patrick Nestor"]

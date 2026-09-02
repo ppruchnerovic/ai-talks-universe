@@ -4,7 +4,7 @@ title: "Building Durable, Long-Running Autonomous Agents | RedScope AI"
 slug: building-durable-long-running-autonomous-agents-redscope-ai
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: ["Building Durable"]

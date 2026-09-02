@@ -4,7 +4,7 @@ title: "SaTML 2024 - Stephen Casper - CNN Interpretability Competition"
 slug: satml-2024-stephen-casper-cnn-interpretability-competition
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2024"
 year: 2024
 speakers: ["Stephen Casper"]

@@ -4,7 +4,7 @@ title: "Q&A with Chang She, CEO, LanceDB: Why the 20-year-old data stack is brea
 slug: q-a-with-chang-she-ceo-lancedb-why-the-20-year-old-data
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

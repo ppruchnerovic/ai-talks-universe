@@ -4,7 +4,7 @@ title: "Unlock cloud-scale observability and optimization with Azure | BRK149"
 slug: unlock-cloud-scale-observability-and-optimization-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rahul Bagaria", "Ritesh Kini", "Farzana Rahman"]

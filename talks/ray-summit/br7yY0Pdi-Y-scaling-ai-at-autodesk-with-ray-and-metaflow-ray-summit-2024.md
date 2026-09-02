@@ -4,7 +4,7 @@ title: "Scaling AI at Autodesk with Ray and Metaflow | Ray Summit 2024"
 slug: scaling-ai-at-autodesk-with-ray-and-metaflow-ray-summit-2024
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2024
 speakers: []

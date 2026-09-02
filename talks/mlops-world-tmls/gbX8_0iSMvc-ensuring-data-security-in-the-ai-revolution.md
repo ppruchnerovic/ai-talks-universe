@@ -4,7 +4,7 @@ title: "Ensuring Data Security in the AI Revolution"
 slug: ensuring-data-security-in-the-ai-revolution
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

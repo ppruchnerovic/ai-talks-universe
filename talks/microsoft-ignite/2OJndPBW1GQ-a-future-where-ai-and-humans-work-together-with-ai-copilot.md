@@ -4,7 +4,7 @@ title: "A future where AI and humans work together with AI Copilot and agents | 
 slug: a-future-where-ai-and-humans-work-together-with-ai-copilot
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Antonella Candido", "Steve Ebrahimi", "Vishal Sarkar", "Tricia Sinclair"]

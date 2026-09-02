@@ -4,7 +4,7 @@ title: "Five trends driving transformation in healthcare and life sciences | ODF
 slug: five-trends-driving-transformation-in-healthcare-and-life
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Satish Jha", "Piyush Rai"]

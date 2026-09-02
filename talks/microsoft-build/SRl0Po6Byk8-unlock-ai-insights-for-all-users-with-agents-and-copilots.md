@@ -4,7 +4,7 @@ title: "Unlock AI insights for all users with agents and copilots | DEMFP783"
 slug: unlock-ai-insights-for-all-users-with-agents-and-copilots
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

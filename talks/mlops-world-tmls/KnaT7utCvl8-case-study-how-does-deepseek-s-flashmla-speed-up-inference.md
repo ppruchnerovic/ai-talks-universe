@@ -4,7 +4,7 @@ title: "Case Study: How Does DeepSeek's FlashMLA Speed Up Inference"
 slug: case-study-how-does-deepseek-s-flashmla-speed-up-inference
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

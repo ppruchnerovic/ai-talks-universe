@@ -4,7 +4,7 @@ title: "Infrastructure as Code • Kief Morris & Abby Bangser"
 slug: infrastructure-as-code-kief-morris-abby-bangser
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Kief Morris", "Abby Bangser"]

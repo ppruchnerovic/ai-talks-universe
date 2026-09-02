@@ -4,7 +4,7 @@ title: "The Miseducation of AI | Meredith Whittaker (Signal) & Peter Sarlin (AMD
 slug: the-miseducation-of-ai-meredith-whittaker-signal-peter
 conference: slush
 conference_name: "Slush"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Slush"
 year: 2025
 speakers: ["Meredith Whittaker"]

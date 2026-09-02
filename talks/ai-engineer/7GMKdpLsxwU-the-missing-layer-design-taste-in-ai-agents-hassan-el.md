@@ -4,7 +4,7 @@ title: "The Missing Layer: Design Taste in AI Agents — Hassan El Mghari, Toget
 slug: the-missing-layer-design-taste-in-ai-agents-hassan-el
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Hassan El Mghari"]

@@ -4,7 +4,7 @@ title: "YOLO Developer Workflows with a Coding Agent in a Box"
 slug: yolo-developer-workflows-with-a-coding-agent-in-a-box
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Manuel de la Peña"]

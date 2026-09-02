@@ -4,7 +4,7 @@ title: "Behind Closed Doors - Bypassing RFID Readers"
 slug: behind-closed-doors-bypassing-rfid-readers
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: ["Behind Closed Doors"]

@@ -4,7 +4,7 @@ title: "Build agent-native apps with Firebase and Google AI"
 slug: build-agent-native-apps-with-firebase-and-google-ai
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: ["Kara Yu", "Sam Phillips"]

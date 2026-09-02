@@ -4,7 +4,7 @@ title: "How Not to Let Your Data and Model Drift Away Silently"
 slug: how-not-to-let-your-data-and-model-drift-away-silently
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

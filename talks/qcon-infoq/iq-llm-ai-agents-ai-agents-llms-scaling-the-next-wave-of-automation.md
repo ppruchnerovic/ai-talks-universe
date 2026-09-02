@@ -4,7 +4,7 @@ title: "AI Agents & LLMs: Scaling the Next Wave of Automation"
 slug: ai-agents-llms-scaling-the-next-wave-of-automation
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - April 2025"
 year: 2025
 speakers: ["Govind Kamtamneni", "Hien Luu", "Karthik Ramgopal", "Srini Penchikala"]

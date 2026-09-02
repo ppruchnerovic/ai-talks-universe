@@ -4,7 +4,7 @@ title: "One Registry to Rule them All - Sonny Merla, Mauro Luchetti, & Mattia Re
 slug: one-registry-to-rule-them-all-sonny-merla-mauro-luchetti
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Sonny Merla"]

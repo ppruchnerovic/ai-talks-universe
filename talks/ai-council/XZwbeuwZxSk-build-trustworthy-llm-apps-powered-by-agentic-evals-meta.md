@@ -4,7 +4,7 @@ title: "Build Trustworthy LLM Apps Powered by Agentic Evals | Meta"
 slug: build-trustworthy-llm-apps-powered-by-agentic-evals-meta
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2026
 speakers: []

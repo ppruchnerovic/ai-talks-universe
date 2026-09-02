@@ -4,7 +4,7 @@ title: "Stop Prompting, Start Engineering: The \"Context as Code\" Shift"
 slug: stop-prompting-start-engineering-the-context-as-code-shift
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "Fast Eventual Consistency: inside Corrosion, the Distributed System Powe
 slug: fast-eventual-consistency-inside-corrosion-the-distributed
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Somtochi Onyekwere"]

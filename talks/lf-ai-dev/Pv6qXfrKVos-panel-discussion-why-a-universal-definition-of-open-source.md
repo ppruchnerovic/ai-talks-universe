@@ -4,7 +4,7 @@ title: "Panel Discussion: Why a Universal Definition of 'Open Source AI' is Esse
 slug: panel-discussion-why-a-universal-definition-of-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []

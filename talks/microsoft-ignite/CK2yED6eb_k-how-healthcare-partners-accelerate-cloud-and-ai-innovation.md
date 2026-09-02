@@ -4,7 +4,7 @@ title: "How healthcare partners accelerate cloud and AI innovation | BRK270"
 slug: how-healthcare-partners-accelerate-cloud-and-ai-innovation
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Kees Hertogh", "Feliz Fuentes Montpellier"]

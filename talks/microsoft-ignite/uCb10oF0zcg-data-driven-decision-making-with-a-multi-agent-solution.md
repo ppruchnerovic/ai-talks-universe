@@ -4,7 +4,7 @@ title: "Data-driven decision-making with a multi-agent solution | BRK128"
 slug: data-driven-decision-making-with-a-multi-agent-solution
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Henk Boelman", "Douwe van de Ruit", "Sjoukje Zaal"]

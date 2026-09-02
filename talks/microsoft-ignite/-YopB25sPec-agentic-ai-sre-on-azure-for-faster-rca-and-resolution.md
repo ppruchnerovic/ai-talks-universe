@@ -4,7 +4,7 @@ title: "Agentic AI SRE on Azure for faster RCA and resolution | ODSP1410"
 slug: agentic-ai-sre-on-azure-for-faster-rca-and-resolution
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["François Martel"]

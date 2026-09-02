@@ -4,7 +4,7 @@ title: "InfiniEdge AI: Bringing Open-Source Generative AI To the Edge - Ezequiel
 slug: infiniedge-ai-bringing-open-source-generative-ai-to-the
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: ["Ezequiel Lanza"]

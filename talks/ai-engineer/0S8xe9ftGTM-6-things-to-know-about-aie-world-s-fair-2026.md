@@ -4,7 +4,7 @@ title: "6 Things to Know about AIE World's Fair 2026"
 slug: 6-things-to-know-about-aie-world-s-fair-2026
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: []

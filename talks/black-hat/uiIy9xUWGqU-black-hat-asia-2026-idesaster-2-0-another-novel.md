@@ -4,7 +4,7 @@ title: "Black Hat Asia 2026 | IDEsaster 2.0: Another Novel Vulnerability Class i
 slug: black-hat-asia-2026-idesaster-2-0-another-novel
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2026
 speakers: []

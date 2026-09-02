@@ -4,7 +4,7 @@ title: "The Pentagon's AI/ML Evolution, Fireside Chat with Brian Raymond and Joe
 slug: the-pentagon-s-ai-ml-evolution-fireside-chat-with-brian
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

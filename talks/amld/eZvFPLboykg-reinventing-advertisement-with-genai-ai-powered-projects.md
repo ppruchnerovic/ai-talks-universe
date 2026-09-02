@@ -4,7 +4,7 @@ title: "Reinventing Advertisement with GenAI | AI-Powered Projects | Leila Delar
 slug: reinventing-advertisement-with-genai-ai-powered-projects
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Leila Delarive"]

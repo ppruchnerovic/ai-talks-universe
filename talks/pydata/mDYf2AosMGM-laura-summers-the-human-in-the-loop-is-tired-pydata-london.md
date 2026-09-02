@@ -4,7 +4,7 @@ title: "Laura Summers - The Human-in-the-Loop is Tired | Pydata London 26"
 slug: laura-summers-the-human-in-the-loop-is-tired-pydata-london
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Laura Summers"]

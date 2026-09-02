@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Christoph Meyer, Lars Heling: Improving AI Agent Disco
 slug: ai-dev-25-x-nyc-christoph-meyer-lars-heling-improving-ai
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: ["Christoph Meyer"]

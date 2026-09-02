@@ -4,7 +4,7 @@ title: "Agentic productivity in Microsoft 365 apps and Copilot Chat | BRK277"
 slug: agentic-productivity-in-microsoft-365-apps-and-copilot-chat
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

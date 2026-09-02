@@ -4,7 +4,7 @@ title: "DevSecOps Next: Navigating the Next Era with Industry Titans"
 slug: devsecops-next-navigating-the-next-era-with-industry-titans
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: []

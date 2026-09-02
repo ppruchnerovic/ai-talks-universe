@@ -4,7 +4,7 @@ title: "Don’t call your LLM too often! How to build your dialog graph with con
 slug: dont-call-your-llm-too-often-how-to-build-your-dialog-graph
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Evgeniya Ovchinnikova"]

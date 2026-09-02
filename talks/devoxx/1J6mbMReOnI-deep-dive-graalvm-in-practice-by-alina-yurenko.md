@@ -4,7 +4,7 @@ title: "Deep Dive: GraalVM in Practice by Alina Yurenko"
 slug: deep-dive-graalvm-in-practice-by-alina-yurenko
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Alina Yurenko"]

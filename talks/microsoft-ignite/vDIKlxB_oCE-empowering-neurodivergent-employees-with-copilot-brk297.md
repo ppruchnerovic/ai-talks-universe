@@ -4,7 +4,7 @@ title: "Empowering neurodivergent employees with Copilot | BRK297"
 slug: empowering-neurodivergent-employees-with-copilot-brk297
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Tara Roth", "Angela Byers"]

@@ -4,7 +4,7 @@ title: "Samuel Jaja - Building Production Multi-Agent RAG Systems on Serverless 
 slug: samuel-jaja-building-production-multi-agent-rag-systems-on
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Samuel Jaja"]

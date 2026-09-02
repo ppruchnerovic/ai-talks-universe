@@ -4,7 +4,7 @@ title: "Coffee with Developers - Stian Standahl - making ChatGPT talk Norwegian"
 slug: coffee-with-developers-stian-standahl-making-chatgpt-talk
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2023
 speakers: ["Stian Standahl"]

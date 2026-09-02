@@ -4,7 +4,7 @@ title: "The agentic advantage: unlock the next retail evolution with AI agents |
 slug: the-agentic-advantage-unlock-the-next-retail-evolution-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Rasmus Hyltegard", "Pepijn Richter", "Amit Trivedi"]

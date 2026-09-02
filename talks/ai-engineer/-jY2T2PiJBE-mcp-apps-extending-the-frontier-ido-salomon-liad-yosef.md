@@ -4,7 +4,7 @@ title: "MCP Apps: Extending the Frontier — Ido Salomon & Liad Yosef"
 slug: mcp-apps-extending-the-frontier-ido-salomon-liad-yosef
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Ido Salomon", "Liad Yosef"]

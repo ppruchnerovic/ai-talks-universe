@@ -4,7 +4,7 @@ title: "Webcast: Surviving the Robot Apocalypse II: LLM Attack and Defend"
 slug: webcast-surviving-the-robot-apocalypse-ii-llm-attack-and
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2025
 speakers: ["J. Wolfgang Goerlich", "Oakland County"]

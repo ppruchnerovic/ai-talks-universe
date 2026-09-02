@@ -4,7 +4,7 @@ title: "Your Coding Agent Just Got Cloned And Your Brain Isn't Ready - Rustin Ba
 slug: your-coding-agent-just-got-cloned-and-your-brain-isn-t
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Rustin Banks"]

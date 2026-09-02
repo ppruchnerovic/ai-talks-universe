@@ -4,7 +4,7 @@ title: "Beyond Hype: Scale & Democratize Agentic AI across enterprise to realize
 slug: beyond-hype-scale-democratize-agentic-ai-across-enterprise
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

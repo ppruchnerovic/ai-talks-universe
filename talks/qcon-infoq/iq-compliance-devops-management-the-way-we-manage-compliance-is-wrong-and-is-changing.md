@@ -4,7 +4,7 @@ title: "The Way We Manage Compliance is Wrong… and is Changing! Bringing DevOp
 slug: the-way-we-manage-compliance-is-wrong-and-is-changing
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Ian Miell"]

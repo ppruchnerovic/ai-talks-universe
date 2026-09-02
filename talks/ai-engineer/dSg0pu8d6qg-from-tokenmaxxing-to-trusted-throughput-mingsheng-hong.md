@@ -4,7 +4,7 @@ title: "From Tokenmaxxing to Trusted Throughput — Mingsheng Hong, Ironclad"
 slug: from-tokenmaxxing-to-trusted-throughput-mingsheng-hong
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Mingsheng Hong"]

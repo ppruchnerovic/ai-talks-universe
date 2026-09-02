@@ -4,7 +4,7 @@ title: "Challenges for ML Operations in a Fast Growing Company"
 slug: challenges-for-ml-operations-in-a-fast-growing-company
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

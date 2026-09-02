@@ -4,7 +4,7 @@ title: "LLMs Don’t Learn Like Humans - They’re Populations"
 slug: llms-dont-learn-like-humans-theyre-populations
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: ["They’re Populations"]

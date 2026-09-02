@@ -4,7 +4,7 @@ title: "Self Healing Rollouts: Automating Production Fixes with Agentic AI & Arg
 slug: self-healing-rollouts-automating-production-fixes-with
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Carlos Sanch"]

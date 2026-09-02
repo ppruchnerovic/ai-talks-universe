@@ -4,7 +4,7 @@ title: "Local Development in the AI Era by Roberto Carratalá, Kevin Dubois"
 slug: local-development-in-the-ai-era-by-roberto-carratala-kevin
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: []

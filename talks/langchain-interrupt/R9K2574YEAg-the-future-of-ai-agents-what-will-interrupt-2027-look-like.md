@@ -4,7 +4,7 @@ title: "The Future of AI Agents: What Will Interrupt 2027 Look Like? | Interrupt
 slug: the-future-of-ai-agents-what-will-interrupt-2027-look-like
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2026"
 year: 2026
 speakers: []

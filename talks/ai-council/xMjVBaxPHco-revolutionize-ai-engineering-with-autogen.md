@@ -4,7 +4,7 @@ title: "Revolutionize AI Engineering with AutoGen"
 slug: revolutionize-ai-engineering-with-autogen
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Marck Vaisman"]

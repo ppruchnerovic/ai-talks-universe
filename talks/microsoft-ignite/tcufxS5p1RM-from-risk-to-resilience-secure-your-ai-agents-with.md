@@ -4,7 +4,7 @@ title: "From Risk to Resilience: Secure your AI Agents with Microsoft Defender |
 slug: from-risk-to-resilience-secure-your-ai-agents-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Ramya Chitrakar", "Moran Gutman", "Asaf Nakash"]

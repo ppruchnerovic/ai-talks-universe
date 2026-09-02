@@ -4,7 +4,7 @@ title: "Protocol-Hopping C2: Transport-Agnostic Command & Control That Won't Die
 slug: protocol-hopping-c2-transport-agnostic-command-control-that
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Francine Solheim"]

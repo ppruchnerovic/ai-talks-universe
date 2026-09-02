@@ -4,7 +4,7 @@ title: "Why Most Observability Platforms Won't Survive the AI Agent Era"
 slug: why-most-observability-platforms-won-t-survive-the-ai-agent
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

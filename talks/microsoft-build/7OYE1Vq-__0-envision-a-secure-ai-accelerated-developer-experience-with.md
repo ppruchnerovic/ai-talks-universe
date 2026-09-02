@@ -4,7 +4,7 @@ title: "Envision a secure AI-accelerated developer experience with Docker | BRKF
 slug: envision-a-secure-ai-accelerated-developer-experience-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

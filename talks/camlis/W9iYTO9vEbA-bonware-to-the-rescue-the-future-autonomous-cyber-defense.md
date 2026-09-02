@@ -4,7 +4,7 @@ title: "Bonware to the Rescue: the Future Autonomous Cyber Defense Agents | Dr A
 slug: bonware-to-the-rescue-the-future-autonomous-cyber-defense
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: ["Dr Alexander Kott"]

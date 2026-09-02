@@ -4,7 +4,7 @@ title: "Unlocking the Power of GraphRAG: Enhancing AI with Knowledge Graphs, Ret
 slug: unlocking-the-power-of-graphrag-enhancing-ai-with-knowledge
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

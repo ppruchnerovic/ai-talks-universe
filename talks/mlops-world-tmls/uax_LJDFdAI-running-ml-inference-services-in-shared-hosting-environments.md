@@ -4,7 +4,7 @@ title: "Running ML Inference Services in Shared Hosting Environments"
 slug: running-ml-inference-services-in-shared-hosting-environments
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "Empower AI innovation with the trusted AMD and Microsoft partnership | S
 slug: empower-ai-innovation-with-the-trusted-amd-and-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "A methodology for assessing the health of beech trees | AI from the Sky 
 slug: a-methodology-for-assessing-the-health-of-beech-trees-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Clotilde Marmy"]

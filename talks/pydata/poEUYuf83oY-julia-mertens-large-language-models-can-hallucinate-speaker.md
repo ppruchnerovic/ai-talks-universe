@@ -4,7 +4,7 @@ title: "Julia Mertens - Large Language Models can Hallucinate Speaker Transition
 slug: julia-mertens-large-language-models-can-hallucinate-speaker
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Julia Mertens"]

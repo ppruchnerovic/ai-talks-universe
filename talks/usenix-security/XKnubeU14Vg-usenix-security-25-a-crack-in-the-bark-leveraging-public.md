@@ -4,7 +4,7 @@ title: "USENIX Security '25- A Crack in the Bark: Leveraging Public Knowledge to
 slug: usenix-security-25-a-crack-in-the-bark-leveraging-public
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

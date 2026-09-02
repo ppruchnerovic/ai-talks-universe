@@ -4,7 +4,7 @@ title: "Build fast, not fragile with Rayfin and Microsoft Fabric | OD810"
 slug: build-fast-not-fragile-with-rayfin-and-microsoft-fabric
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Yohan Lasorsa"]

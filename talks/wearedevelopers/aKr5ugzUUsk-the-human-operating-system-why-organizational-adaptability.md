@@ -4,7 +4,7 @@ title: "THE HUMAN OPERATING SYSTEM: Why Organizational Adaptability Will Be the 
 slug: the-human-operating-system-why-organizational-adaptability
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Christian Wastlhuber", "Cole Groom", "Daniel Mühlbauer", "Jessie Schofer", "Ute Neher"]

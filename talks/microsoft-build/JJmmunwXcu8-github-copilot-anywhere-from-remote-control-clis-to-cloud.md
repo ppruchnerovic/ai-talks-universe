@@ -4,7 +4,7 @@ title: "GitHub Copilot Anywhere: From Remote Control CLIs to Cloud Sandboxes | D
 slug: github-copilot-anywhere-from-remote-control-clis-to-cloud
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Ellie Bennett", "Denizhan Yigitbas"]

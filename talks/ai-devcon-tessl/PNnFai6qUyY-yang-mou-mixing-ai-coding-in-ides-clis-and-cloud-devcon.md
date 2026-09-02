@@ -4,7 +4,7 @@ title: "Yang Mou - Mixing AI Coding in IDEs, CLIs, and Cloud | DevCon Fall 2025"
 slug: yang-mou-mixing-ai-coding-in-ides-clis-and-cloud-devcon
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Yang Mou"]

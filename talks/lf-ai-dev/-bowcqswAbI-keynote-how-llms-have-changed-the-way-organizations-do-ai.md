@@ -4,7 +4,7 @@ title: "Keynote: How LLMs Have Changed the Way Organizations Do AI - Robert Nish
 slug: keynote-how-llms-have-changed-the-way-organizations-do-ai
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Robert Nishihara"]

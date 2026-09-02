@@ -4,7 +4,7 @@ title: "Making Teaching Code Less Academic and More Market-Ready - Peter Ruppel"
 slug: making-teaching-code-less-academic-and-more-market-ready
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Peter Ruppel"]

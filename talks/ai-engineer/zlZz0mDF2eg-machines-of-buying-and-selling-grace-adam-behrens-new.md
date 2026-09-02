@@ -4,7 +4,7 @@ title: "Machines of Buying and Selling Grace - Adam Behrens, New Generation"
 slug: machines-of-buying-and-selling-grace-adam-behrens-new
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Machines of Buying", "Selling Grace", "Adam Behrens"]

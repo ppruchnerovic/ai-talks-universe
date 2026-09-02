@@ -4,7 +4,7 @@ title: "TiDB, One Layer at a Time: How Distributed SQL Became an Agentic AI Back
 slug: tidb-one-layer-at-a-time-how-distributed-sql-became-an
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Daniël van Eeden", "Mattias Jonsson"]

@@ -4,7 +4,7 @@ title: "Agent Skills | LIVE150"
 slug: agent-skills-live150
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Addy Osmani", "Burke Holland"]

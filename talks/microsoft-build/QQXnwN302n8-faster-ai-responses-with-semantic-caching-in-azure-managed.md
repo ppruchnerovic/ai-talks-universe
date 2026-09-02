@@ -4,7 +4,7 @@ title: "Faster AI Responses with Semantic Caching in Azure Managed Redis | OD823
 slug: faster-ai-responses-with-semantic-caching-in-azure-managed
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Philip Laussermair"]

@@ -4,7 +4,7 @@ title: "One Spec, Ten SDKs, Zero Excuses: Conformance Testing MCP - Paul Carleto
 slug: one-spec-ten-sdks-zero-excuses-conformance-testing-mcp-paul
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: ["One Spec", "Paul Carleton"]

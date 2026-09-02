@@ -16,7 +16,7 @@ run so that nobody runs it again.
 |---|---|
 | 2026-08-31 | What the collection runs actually got · The 2026 extraction, and the run that was 80× too slow · The 402 that was recorded as "no captions" · The WeAreDevelopers import · The CI refresh regression |
 | 2026-09-01 | The bug list, worked · The seven conferences added · Closing the 422 · The pre-2023 cut · Making the skill affordable |
-| 2026-09-02 | Review of 2026-09-02 — the six blocks A–F and their status · The topic facet — design · The topic facet — built |
+| 2026-09-02 | Review of 2026-09-02 — the six blocks A–F and their status · The topic facet — design · The topic facet — built · Category becomes conference type |
 
 The file grows by appending a dated section at the end of a session. When a
 section closes an item from `TODO.md`, the item is deleted there and this is
@@ -1445,3 +1445,64 @@ boot, so nothing downstream of `TALKS` changed.
 *heads* — `agents` is *Agents & orchestration*, not *Coding assistants &
 agents*; `data` is *Data engineering & MLOps*. What it was taken as is said
 on stderr. `--conference build` resolves the same way now.
+
+## Category becomes conference type — 2026-09-02
+
+The question that opened the session was whether the category facet still
+earned its place once every talk carried topics. It was a fair question:
+the five labels — *AI engineering & agents*, *Software dev with AI tracks*,
+*AI security*, *Vendor & platform*, *Industry & business* — read as subjects,
+and two of them sat one dropdown away from *Agents & orchestration* and
+*Security, safety & red teaming*. A visitor would reasonably take the two
+selects for one axis at two granularities.
+
+Crossing the two facets over the corpus said the facet is not redundant,
+only mislabelled. Category is a fact about the conference — where a talk was
+given — and topic is what the talk is about, and they cross rather than
+nest. Of the 1,314 talks on *Security, safety & red teaming*, 577 are from
+the security conferences, 276 from the general software conferences and 219
+from vendor events; inside the ten security conferences, 122 talks are on
+agents and 84 on governance. *Industry & business* is the closest to its
+topic — 109 of its 209 talks are *Enterprise adoption & strategy* — and was
+kept because it is the only way to select the Slush, Sequoia and YC-style
+events as a group. So the facet stays and the labels say what it is:
+*Practitioner AI conferences* (3,903 talks), *General software conferences*
+(2,301), *Security conferences* (839), *Vendor events* (1,796), *Business &
+industry events* (209). The browser presents the select as **Conference
+type**. Nothing structural moved: the field is still `category` in
+`talks.json`, the CSV, the markdown front matter and `talks.db`, the
+search-meta key is still `g`, the flag is still `--category`, and `#f-cat`
+and its hash parameter are unchanged so a shared link still resolves. The
+`##` headings in `ai-conferences.md` were renamed to match; `check_registry.py`
+reads the `###` blocks under them and did not notice.
+
+The second change followed from the first. The browser's metadata layer had
+scored the category at weight 2, between the conference name at 3 and the
+description at 2, and its tokens counted toward the every-word-somewhere
+gate — so a query for "security" was matched, and boosted, by every talk at
+ten security conferences whether or not the talk said the word. That is the
+argument that kept topics out of both rankers, applied late to the facet
+that predates them. The CLI never had the problem: `talks_fts` holds title,
+description, tags, speakers and conference name, and the category column was
+never in it. So the change is browser-only — `category` left `W` and the
+per-talk token sets in `index.html`, and `build_index.py`'s `meta_stems()`
+stopped counting it in the metadata document frequency the shards carry —
+and afterwards the two rankers score the same five fields. One browser check
+went with it: `suite-search` had asserted that searching a category's name
+returns hits, which was true only because the label was searched text; the
+filter itself is covered by `suite-filters` and `suite-load`.
+
+The corpus, the 9,048 markdown files and both indexes were regenerated
+offline. Every offline suite passes — `test_query.py` gained two checks,
+that `--category vendor` and `--category software` resolve to their labels
+and that "conferences", a word all five share, does not — and the browser
+suites run 192 checks over nine suites with none failing and none skipped,
+down from 193 by the removed check. One other check moved: the `search`
+suite's "a prefix hit is highlighted at the stem" had asserted every mark
+for the query `agent` begins with "agent", which held only because the old
+*AI engineering & agents* label had been lifting practitioner-conference
+talks to the top of that query. Without the lift a card titled with
+"multi-agent" reaches the first page, and the highlighter marks a hyphenated
+compound whole when one part matches, by design. The check now applies the
+highlighter's own rule — some part of every mark starts with the stem —
+which is what it had meant all along.

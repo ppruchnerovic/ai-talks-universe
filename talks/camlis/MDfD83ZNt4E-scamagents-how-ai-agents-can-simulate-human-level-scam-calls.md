@@ -4,7 +4,7 @@ title: "ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls"
 slug: scamagents-how-ai-agents-can-simulate-human-level-scam-calls
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Sanket Badhe"]

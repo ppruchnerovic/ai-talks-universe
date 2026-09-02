@@ -4,7 +4,7 @@ title: "Build integrate and monetize AI-ready apps with Microsoft Fabric | BRK20
 slug: build-integrate-and-monetize-ai-ready-apps-with-microsoft
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Dipti Borkar", "Phil Cheetham"]

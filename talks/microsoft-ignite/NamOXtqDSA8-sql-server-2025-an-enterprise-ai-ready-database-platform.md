@@ -4,7 +4,7 @@ title: "SQL Server 2025: an enterprise AI-ready database platform | BRK195"
 slug: sql-server-2025-an-enterprise-ai-ready-database-platform
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Joe Sack", "Erin Stellato", "Bob Ward"]

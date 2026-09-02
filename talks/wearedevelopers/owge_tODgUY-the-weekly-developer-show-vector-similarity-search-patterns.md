@@ -4,7 +4,7 @@ title: "The weekly developer show: Vector Similarity Search Patterns for Efficie
 slug: the-weekly-developer-show-vector-similarity-search-patterns
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

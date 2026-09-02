@@ -4,7 +4,7 @@ title: "Keynote: AI is having its moment ... again - Jodie Burchell - NDC Copenh
 slug: keynote-ai-is-having-its-moment-again-jodie-burchell-ndc
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2025
 speakers: ["Jodie Burchell"]

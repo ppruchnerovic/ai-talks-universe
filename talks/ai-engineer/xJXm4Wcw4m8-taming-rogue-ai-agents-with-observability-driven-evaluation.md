@@ -4,7 +4,7 @@ title: "Taming Rogue AI Agents with Observability-Driven Evaluation — Jim Benn
 slug: taming-rogue-ai-agents-with-observability-driven-evaluation
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Jim Bennett"]

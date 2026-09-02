@@ -4,7 +4,7 @@ title: "Your agent anywhere: MultiClient MultiDevice with GitHub Copilot SDK | B
 slug: your-agent-anywhere-multiclient-multidevice-with-github
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Steve Sanderson", "Patrick Nikoletich"]

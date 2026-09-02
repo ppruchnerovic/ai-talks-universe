@@ -4,7 +4,7 @@ title: "Specific NLP models for cultural heritage | Natural Language Processing 
 slug: specific-nlp-models-for-cultural-heritage-natural-language
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Clemens Neudecker"]

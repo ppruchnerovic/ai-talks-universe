@@ -4,7 +4,7 @@ title: "[VDBUH2026] Alexander Chatzizacharias: How to build your own fun and abs
 slug: vdbuh2026-alexander-chatzizacharias-how-to-build-your-own
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: []

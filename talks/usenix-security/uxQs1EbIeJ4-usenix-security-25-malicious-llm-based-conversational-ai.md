@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Malicious LLM-Based Conversational AI Makes Users 
 slug: usenix-security-25-malicious-llm-based-conversational-ai
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

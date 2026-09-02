@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Nyah Macklin: How to Structure Context to Make Your Ag
 slug: ai-dev-25-x-nyc-nyah-macklin-how-to-structure-context-to
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

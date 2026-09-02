@@ -4,7 +4,7 @@ title: "Why 99% of AI Products Fail: A CTO's Hard-Won Lessons"
 slug: why-99-of-ai-products-fail-a-cto-s-hard-won-lessons
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

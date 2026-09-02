@@ -4,7 +4,7 @@ title: "Generally AI - Season 2 - Episode 6: The Godfathers of Programming and A
 slug: generally-ai-season-2-episode-6-the-godfathers-of
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2024
 speakers: []

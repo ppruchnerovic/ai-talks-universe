@@ -4,7 +4,7 @@ title: "Operate infrastructure across distributed locations with Azure Arc | BRK
 slug: operate-infrastructure-across-distributed-locations-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Eleanor Cohen", "Cosmos Darwin", "Jason Tayler"]

@@ -4,7 +4,7 @@ title: "Foundational Humanitarian AI | Keynote 2 | Mary-Anne Hartley"
 slug: foundational-humanitarian-ai-keynote-2-mary-anne-hartley
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: []

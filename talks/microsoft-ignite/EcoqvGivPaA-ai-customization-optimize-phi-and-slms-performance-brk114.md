@@ -4,7 +4,7 @@ title: "AI customization: Optimize Phi and SLMs performance | BRK114"
 slug: ai-customization-optimize-phi-and-slms-performance-brk114
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Martin Cai", "Gina Lee", "Sameer Sharma"]

@@ -4,7 +4,7 @@ title: "Generation of synthetic longitudinal clinical studies | Rare Disease App
 slug: generation-of-synthetic-longitudinal-clinical-studies-rare
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Sobhan Moazemi"]

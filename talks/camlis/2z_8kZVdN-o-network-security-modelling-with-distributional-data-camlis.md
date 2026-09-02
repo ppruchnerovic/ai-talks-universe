@@ -4,7 +4,7 @@ title: "Network Security Modelling with Distributional Data (CAMLIS 2022)"
 slug: network-security-modelling-with-distributional-data-camlis
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

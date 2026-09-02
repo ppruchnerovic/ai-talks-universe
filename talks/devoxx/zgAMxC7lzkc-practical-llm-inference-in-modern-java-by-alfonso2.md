@@ -4,7 +4,7 @@ title: "Practical LLM Inference in Modern Java by Alfonso² Peterssen, Alina Yur
 slug: practical-llm-inference-in-modern-java-by-alfonso2
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2024
 speakers: []

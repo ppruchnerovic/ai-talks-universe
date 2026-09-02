@@ -4,7 +4,7 @@ title: "Keynote: Scaling Open Source Large Language Models - Charles Srisuwananu
 slug: keynote-scaling-open-source-large-language-models-charles
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Charles Srisuwananukorn"]

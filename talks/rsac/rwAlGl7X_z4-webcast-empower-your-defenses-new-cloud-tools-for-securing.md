@@ -4,7 +4,7 @@ title: "Webcast: Empower Your Defenses: New Cloud Tools for Securing Vital Appli
 slug: webcast-empower-your-defenses-new-cloud-tools-for-securing
 conference: rsac
 conference_name: "RSAC Conference"
-category: "AI security"
+category: "Security conferences"
 edition: "RSAC"
 year: 2024
 speakers: ["David Mitchell"]

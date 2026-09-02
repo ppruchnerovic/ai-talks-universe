@@ -4,7 +4,7 @@ title: "Building AI-native: Inside the stacks powering Cognition, Gamma, and Har
 slug: building-ai-native-inside-the-stacks-powering-cognition
 conference: code-with-claude
 conference_name: "Code with Claude (Anthropic)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "2026 San Francisco"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AI Dev 25 x NYC | Panel Discussion: Software Development in the Age of A
 slug: ai-dev-25-x-nyc-panel-discussion-software-development-in
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2025
 speakers: []

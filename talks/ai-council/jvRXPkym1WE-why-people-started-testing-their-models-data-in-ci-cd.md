@@ -4,7 +4,7 @@ title: "Why People Started Testing Their Models & Data in CI/CD Pipelines | Deep
 slug: why-people-started-testing-their-models-data-in-ci-cd
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

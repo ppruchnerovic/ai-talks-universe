@@ -4,7 +4,7 @@ title: "AI Startup Spotlight: Evaluating Multi-Turn AI Agents with Azure AI Foun
 slug: ai-startup-spotlight-evaluating-multi-turn-ai-agents-with
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

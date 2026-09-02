@@ -4,7 +4,7 @@ title: "Quantum Computing - How Does It Work, How Will it Affect Us and When?"
 slug: quantum-computing-how-does-it-work-how-will-it-affect-us
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["John Fletcher", "Lorenzo Petricone"]

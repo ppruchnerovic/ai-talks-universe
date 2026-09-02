@@ -4,7 +4,7 @@ title: "Scaling the BBC Design System: Tooling, Community, Governance and Garden
 slug: scaling-the-bbc-design-system-tooling-community-governance
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "QCon London 2025"
 year: 2025
 speakers: ["Sophie Beaumont"]

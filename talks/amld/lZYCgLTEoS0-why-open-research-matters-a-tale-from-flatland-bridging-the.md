@@ -4,7 +4,7 @@ title: "Why open research matters: A tale from Flatland | Bridging the Gap | Eri
 slug: why-open-research-matters-a-tale-from-flatland-bridging-the
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Erik Nygren"]

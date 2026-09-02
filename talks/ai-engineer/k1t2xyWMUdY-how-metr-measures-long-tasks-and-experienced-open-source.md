@@ -4,7 +4,7 @@ title: "How METR measures Long Tasks and Experienced Open Source Dev Productivit
 slug: how-metr-measures-long-tasks-and-experienced-open-source
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Joel Becker"]

@@ -4,7 +4,7 @@ title: "Power agentic defense with Microsoft Sentinel | BRK235"
 slug: power-agentic-defense-with-microsoft-sentinel-brk235
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Krishna Kumar Parthasarathy", "Reena Pathak", "Evangeline White", "Scott Woodgate"]

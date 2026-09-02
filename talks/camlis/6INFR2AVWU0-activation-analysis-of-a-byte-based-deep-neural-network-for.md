@@ -4,7 +4,7 @@ title: "Activation Analysis of a Byte-based Deep Neural Network for Malware Clas
 slug: activation-analysis-of-a-byte-based-deep-neural-network-for
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

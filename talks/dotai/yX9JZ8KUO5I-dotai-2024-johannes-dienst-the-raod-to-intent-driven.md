@@ -4,7 +4,7 @@ title: "dotAI 2024 - Johannes Dienst - The RAod to intent-driven automation"
 slug: dotai-2024-johannes-dienst-the-raod-to-intent-driven
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2024
 speakers: ["Johannes Dienst"]

@@ -4,7 +4,7 @@ title: "Automating Large Scale Refactors with Parallel Agents - Robert Brennan, 
 slug: automating-large-scale-refactors-with-parallel-agents
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Robert Brennan"]

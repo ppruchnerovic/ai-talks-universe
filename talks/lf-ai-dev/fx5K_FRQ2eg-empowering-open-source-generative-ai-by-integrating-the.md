@@ -4,7 +4,7 @@ title: "Empowering Open-Source Generative AI by Integrating the Wikidat... Jonat
 slug: empowering-open-source-generative-ai-by-integrating-the
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: []

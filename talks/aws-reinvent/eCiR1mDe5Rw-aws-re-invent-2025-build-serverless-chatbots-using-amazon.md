@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Build serverless chatbots using Amazon ElastiCache 
 slug: aws-re-invent-2025-build-serverless-chatbots-using-amazon
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

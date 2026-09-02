@@ -4,7 +4,7 @@ title: "NVIDIA GTC Washington, D.C. Keynote with CEO Jensen Huang"
 slug: nvidia-gtc-washington-d-c-keynote-with-ceo-jensen-huang
 conference: nvidia-gtc
 conference_name: "NVIDIA GTC"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "GTC 2025"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Are Classical Automation Frameworks Dead? How AI Agents Are Transforming
 slug: are-classical-automation-frameworks-dead-how-ai-agents-are
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Andrei Nutas"]

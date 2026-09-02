@@ -4,7 +4,7 @@ title: "EVE: An Open Source Earth Science LLM for Researc... Àlex R. Atrio, Vij
 slug: eve-an-open-source-earth-science-llm-for-researc-alex-r
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI_dev Europe 2025"
 year: 2025
 speakers: []

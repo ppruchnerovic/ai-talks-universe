@@ -4,7 +4,7 @@ title: "Marie Sacksick - Enhancing Machine Learning Workflows with skore"
 slug: marie-sacksick-enhancing-machine-learning-workflows-with
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Marie Sacksick"]

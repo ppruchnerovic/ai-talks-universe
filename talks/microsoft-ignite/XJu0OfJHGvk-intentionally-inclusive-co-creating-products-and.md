@@ -4,7 +4,7 @@ title: "Intentionally inclusive: Co-creating products and experiences to make th
 slug: intentionally-inclusive-co-creating-products-and
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

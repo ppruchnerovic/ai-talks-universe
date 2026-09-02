@@ -4,7 +4,7 @@ title: "Prompt Learning: A Reinforcement Learning-Inspired Approach to AI Optimi
 slug: prompt-learning-a-reinforcement-learning-inspired-approach
 conference: ray-summit
 conference_name: "Ray Summit (Anyscale)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Anyscale"
 year: 2025
 speakers: []

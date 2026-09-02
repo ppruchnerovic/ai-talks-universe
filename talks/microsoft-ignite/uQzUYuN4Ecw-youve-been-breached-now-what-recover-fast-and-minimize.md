@@ -4,7 +4,7 @@ title: "You’ve been breached now what? Recover fast and minimize impact | BRKF
 slug: youve-been-breached-now-what-recover-fast-and-minimize
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Jeremy Nelson"]

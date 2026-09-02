@@ -4,7 +4,7 @@ title: "Jan Kislinger - Forged in Rust, Spoken in Python (PyData Prague #32)"
 slug: jan-kislinger-forged-in-rust-spoken-in-python-pydata-prague
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Jan Kislinger"]

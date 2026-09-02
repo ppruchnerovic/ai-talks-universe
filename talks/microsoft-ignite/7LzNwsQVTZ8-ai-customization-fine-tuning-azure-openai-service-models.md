@@ -4,7 +4,7 @@ title: "AI customization: Fine-tuning Azure OpenAI Service models | BRK101"
 slug: ai-customization-fine-tuning-azure-openai-service-models
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Ami Patel", "Anish Shah", "Steve Sweetman"]

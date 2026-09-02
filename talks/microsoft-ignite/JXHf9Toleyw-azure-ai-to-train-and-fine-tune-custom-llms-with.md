@@ -4,7 +4,7 @@ title: "Azure AI to train and fine-tune custom LLMs with Distributed Training | 
 slug: azure-ai-to-train-and-fine-tune-custom-llms-with
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["John Lee", "Ben Levine", "Yogi Pandey", "Alejandra Rico"]

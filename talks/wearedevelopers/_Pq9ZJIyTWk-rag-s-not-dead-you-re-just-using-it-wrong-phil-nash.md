@@ -4,7 +4,7 @@ title: "RAG's Not Dead, You're Just Using It Wrong! - Phil Nash"
 slug: rag-s-not-dead-you-re-just-using-it-wrong-phil-nash
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: ["Phil Nash"]

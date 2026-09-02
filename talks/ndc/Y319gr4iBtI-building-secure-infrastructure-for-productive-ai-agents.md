@@ -4,7 +4,7 @@ title: "Building Secure Infrastructure for Productive AI Agents - Eric Paulsen &
 slug: building-secure-infrastructure-for-productive-ai-agents
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Eric Paulsen", "Jiachen Jiang"]

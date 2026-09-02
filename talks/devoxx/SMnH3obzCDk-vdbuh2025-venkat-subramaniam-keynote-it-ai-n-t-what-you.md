@@ -4,7 +4,7 @@ title: "[VDBUH2025] Venkat Subramaniam - Keynote: It AI-n't What You Think!"
 slug: vdbuh2025-venkat-subramaniam-keynote-it-ai-n-t-what-you
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Venkat Subramaniam"]

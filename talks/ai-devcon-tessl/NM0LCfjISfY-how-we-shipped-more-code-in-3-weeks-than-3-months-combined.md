@@ -4,7 +4,7 @@ title: "How We Shipped More Code in 3 Weeks Than 3 Months Combined"
 slug: how-we-shipped-more-code-in-3-weeks-than-3-months-combined
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

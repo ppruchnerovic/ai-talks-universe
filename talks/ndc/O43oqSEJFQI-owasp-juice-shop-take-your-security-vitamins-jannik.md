@@ -4,7 +4,7 @@ title: "OWASP Juice Shop: Take your security vitamins! - Jannik Hollenbach & Bj√
 slug: owasp-juice-shop-take-your-security-vitamins-jannik
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Jannik Hollenbach", "Bj√∂rn Kimminich"]

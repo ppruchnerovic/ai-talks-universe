@@ -4,7 +4,7 @@ title: "Keynote - The New Geopolitics of Technology"
 slug: keynote-the-new-geopolitics-of-technology
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Nathaniel Fick"]

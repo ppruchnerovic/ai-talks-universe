@@ -4,7 +4,7 @@ title: "Data Contracts: The Next Frontier | Data Council & Soda"
 slug: data-contracts-the-next-frontier-data-council-soda
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []

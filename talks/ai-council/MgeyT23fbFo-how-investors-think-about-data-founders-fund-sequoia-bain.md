@@ -4,7 +4,7 @@ title: "How Investors Think About Data [Founders Fund, Sequoia, Bain, Zero Prime
 slug: how-investors-think-about-data-founders-fund-sequoia-bain
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2023
 speakers: []

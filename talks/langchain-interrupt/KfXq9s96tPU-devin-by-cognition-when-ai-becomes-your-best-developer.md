@@ -4,7 +4,7 @@ title: "Devin by Cognition: When AI Becomes Your Best Developer | LangChain Inte
 slug: devin-by-cognition-when-ai-becomes-your-best-developer
 conference: langchain-interrupt
 conference_name: "LangChain Interrupt"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Interrupt 2025"
 year: 2025
 speakers: []

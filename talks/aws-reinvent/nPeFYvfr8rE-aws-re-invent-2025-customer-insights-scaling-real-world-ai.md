@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Customer Insights: Scaling Real-World AI with AMD (
 slug: aws-re-invent-2025-customer-insights-scaling-real-world-ai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

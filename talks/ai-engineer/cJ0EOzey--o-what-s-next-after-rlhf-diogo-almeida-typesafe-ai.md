@@ -4,7 +4,7 @@ title: "What's Next After RLHF? — Diogo Almeida, TypeSafe AI"
 slug: what-s-next-after-rlhf-diogo-almeida-typesafe-ai
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Diogo Almeida"]

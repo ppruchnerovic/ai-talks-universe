@@ -4,7 +4,7 @@ title: "RAG: The 2025 Best-Practice Stack, Prototype to Production"
 slug: rag-the-2025-best-practice-stack-prototype-to-production
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

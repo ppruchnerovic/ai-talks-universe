@@ -4,7 +4,7 @@ title: "Beyond the Hype: Architecting Systems with Agentic AI"
 slug: beyond-the-hype-architecting-systems-with-agentic-ai
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ Live - September 2025"
 year: 2025
 speakers: ["Tyler Jewel", "Arun Joseph", "Johannes Koch", "Merrin Kurian", "Renato Losio"]

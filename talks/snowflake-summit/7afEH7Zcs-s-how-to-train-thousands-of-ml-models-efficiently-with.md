@@ -4,7 +4,7 @@ title: "How To Train Thousands Of ML Models Efficiently With Snowflake ML"
 slug: how-to-train-thousands-of-ml-models-efficiently-with
 conference: snowflake-summit
 conference_name: "Snowflake Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Summit 2025"
 year: 2025
 speakers: []

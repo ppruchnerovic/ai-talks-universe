@@ -4,7 +4,7 @@ title: "Spec Driven Development with Kiro: Vibe Coding with Guardrails by Kevin 
 slug: spec-driven-development-with-kiro-vibe-coding-with
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Kevin Azijn", "Adriaan de Jonge"]

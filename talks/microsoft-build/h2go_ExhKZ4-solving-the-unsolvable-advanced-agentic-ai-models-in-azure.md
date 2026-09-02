@@ -4,7 +4,7 @@ title: "Solving the Unsolvable: Advanced Agentic AI Models in Azure AI Foundry |
 slug: solving-the-unsolvable-advanced-agentic-ai-models-in-azure
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

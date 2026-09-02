@@ -4,7 +4,7 @@ title: "Developer Keynote (Google I/O '26)"
 slug: developer-keynote-google-i-o-26
 conference: google-io
 conference_name: "Google I/O"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "I/O 2026"
 year: 2026
 speakers: []

@@ -4,7 +4,7 @@ title: "AI Dev 26 x SF | Daniel Beutel: Flower SuperGrid Agents"
 slug: ai-dev-26-x-sf-daniel-beutel-flower-supergrid-agents
 conference: ai-dev-deeplearning
 conference_name: "AI Dev (DeepLearning.AI)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "DeepLearning.AI"
 year: 2026
 speakers: []

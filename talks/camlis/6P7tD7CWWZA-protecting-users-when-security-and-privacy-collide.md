@@ -4,7 +4,7 @@ title: "Protecting Users: When Security and Privacy Collide"
 slug: protecting-users-when-security-and-privacy-collide
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2019
 speakers: []

@@ -4,7 +4,7 @@ title: "Containing Agent Chaos — Solomon Hykes, Dagger"
 slug: containing-agent-chaos-solomon-hykes-dagger
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Solomon Hykes"]

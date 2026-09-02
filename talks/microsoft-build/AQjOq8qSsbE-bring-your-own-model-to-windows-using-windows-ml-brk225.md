@@ -4,7 +4,7 @@ title: "Bring your own model to Windows using Windows ML | BRK225"
 slug: bring-your-own-model-to-windows-using-windows-ml-brk225
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

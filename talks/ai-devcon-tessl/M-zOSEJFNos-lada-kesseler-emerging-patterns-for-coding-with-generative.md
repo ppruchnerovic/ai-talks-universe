@@ -4,7 +4,7 @@ title: "Lada Kesseler - Emerging Patterns for Coding with Generative AI | DevCon
 slug: lada-kesseler-emerging-patterns-for-coding-with-generative
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2025
 speakers: ["Lada Kesseler"]

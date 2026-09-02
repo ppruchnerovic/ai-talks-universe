@@ -4,7 +4,7 @@ title: "Platform demo for automating microsegmentation | ODSP1434"
 slug: platform-demo-for-automating-microsegmentation-odsp1434
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: []

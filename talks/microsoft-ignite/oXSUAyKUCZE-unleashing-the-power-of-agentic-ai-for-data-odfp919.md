@@ -4,7 +4,7 @@ title: "Unleashing the power of Agentic AI for data | ODFP919"
 slug: unleashing-the-power-of-agentic-ai-for-data-odfp919
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: []

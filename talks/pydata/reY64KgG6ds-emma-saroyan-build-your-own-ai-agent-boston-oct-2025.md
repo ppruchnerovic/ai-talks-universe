@@ -4,7 +4,7 @@ title: "Emma Saroyan - Build Your Own AI Agent (Boston Oct 2025)"
 slug: emma-saroyan-build-your-own-ai-agent-boston-oct-2025
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2025
 speakers: ["Emma Saroyan"]

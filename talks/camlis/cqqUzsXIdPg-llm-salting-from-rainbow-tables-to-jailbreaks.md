@@ -4,7 +4,7 @@ title: "LLM Salting: From Rainbow Tables to Jailbreaks"
 slug: llm-salting-from-rainbow-tables-to-jailbreaks
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2025
 speakers: ["Tamás Vörös"]

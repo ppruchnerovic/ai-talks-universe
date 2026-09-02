@@ -4,7 +4,7 @@ title: "The Middle Ground: Balancing Batch and Real-Time Processing in a Data La
 slug: the-middle-ground-balancing-batch-and-real-time-processing
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Brenna Buuck"]

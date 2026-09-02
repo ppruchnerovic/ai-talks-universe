@@ -4,7 +4,7 @@ title: "The Agentic Web [Part 1] | KEY030"
 slug: the-agentic-web-part-1-key030
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2025"
 year: 2025
 speakers: []

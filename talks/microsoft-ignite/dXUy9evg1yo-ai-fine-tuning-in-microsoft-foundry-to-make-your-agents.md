@@ -4,7 +4,7 @@ title: "AI fine-tuning in Microsoft Foundry to make your agents unstoppable | BR
 slug: ai-fine-tuning-in-microsoft-foundry-to-make-your-agents
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Alicia Frame", "Ramachandra Kota", "Omkar More"]

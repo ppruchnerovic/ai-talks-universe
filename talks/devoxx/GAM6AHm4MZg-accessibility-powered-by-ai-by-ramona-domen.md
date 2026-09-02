@@ -4,7 +4,7 @@ title: "Accessibility powered by AI by Ramona Domen"
 slug: accessibility-powered-by-ai-by-ramona-domen
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2026
 speakers: ["Ramona Domen"]

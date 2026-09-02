@@ -4,7 +4,7 @@ title: "Elevate the retail experience with the Personalized Shopping Agent | BRK
 slug: elevate-the-retail-experience-with-the-personalized
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Andrii Mykhailiuk", "Pepijn Richter", "Vishal Sarkar"]

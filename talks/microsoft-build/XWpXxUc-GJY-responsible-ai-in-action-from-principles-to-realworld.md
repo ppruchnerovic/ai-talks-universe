@@ -4,7 +4,7 @@ title: "Responsible AI in Action: From Principles to Real‑World Engineering | 
 slug: responsible-ai-in-action-from-principles-to-realworld
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Alexander Wachtel"]

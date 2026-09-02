@@ -4,7 +4,7 @@ title: "Sponsored by: Acceldata | Agentic Data Management: Trusted Data for Ente
 slug: sponsored-by-acceldata-agentic-data-management-trusted-data
 conference: databricks-dais
 conference_name: "Databricks Data + AI Summit"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "DAIS 2025 AI track"
 year: 2025
 speakers: []

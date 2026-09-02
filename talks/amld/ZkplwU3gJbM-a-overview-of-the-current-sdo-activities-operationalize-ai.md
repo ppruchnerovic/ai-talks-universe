@@ -4,7 +4,7 @@ title: "A overview of the current SDO activities | Operationalize AI Governance 
 slug: a-overview-of-the-current-sdo-activities-operationalize-ai
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Andrea Basso"]

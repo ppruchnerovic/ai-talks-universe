@@ -4,7 +4,7 @@ title: "USENIX Security '25 - Distributed Private Aggregation in Graph Neural Ne
 slug: usenix-security-25-distributed-private-aggregation-in-graph
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "Inside Anthropic: How Claude Tag Is Changing Agentic Work"
 slug: inside-anthropic-how-claude-tag-is-changing-agentic-work
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

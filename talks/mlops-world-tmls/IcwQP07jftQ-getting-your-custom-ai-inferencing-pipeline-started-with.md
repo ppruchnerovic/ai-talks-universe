@@ -4,7 +4,7 @@ title: "Getting your Custom AI Inferencing Pipeline Started with Vector's AI Dep
 slug: getting-your-custom-ai-inferencing-pipeline-started-with
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

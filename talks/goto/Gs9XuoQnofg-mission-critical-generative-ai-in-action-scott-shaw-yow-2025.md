@@ -4,7 +4,7 @@ title: "Mission-Critical Generative AI in Action • Scott Shaw • YOW! 2025"
 slug: mission-critical-generative-ai-in-action-scott-shaw-yow-2025
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2025
 speakers: ["Scott Shaw"]

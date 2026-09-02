@@ -4,7 +4,7 @@ title: "Keynote: Accelerating AI/ML Development with Open Source Software - Bria
 slug: keynote-accelerating-ai-ml-development-with-open-source
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "AI.dev 2023"
 year: 2023
 speakers: ["Brian Granger"]

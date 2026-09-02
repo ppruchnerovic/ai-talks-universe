@@ -4,7 +4,7 @@ title: "Learn C++ by Example • Frances Buontempo & Matt Godbolt • GOTO 2026"
 slug: learn-c-by-example-frances-buontempo-matt-godbolt-goto-2026
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Frances Buontempo", "Matt Godbolt"]

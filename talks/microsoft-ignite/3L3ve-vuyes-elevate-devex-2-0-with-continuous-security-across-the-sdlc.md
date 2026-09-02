@@ -4,7 +4,7 @@ title: "Elevate DevEx 2.0 with continuous security across the SDLC | ODSP1446"
 slug: elevate-devex-2-0-with-continuous-security-across-the-sdlc
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Colin Bell"]

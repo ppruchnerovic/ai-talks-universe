@@ -4,7 +4,7 @@ title: "2025 in LLMs so far, illustrated by Pelicans on Bicycles — Simon Willi
 slug: 2025-in-llms-so-far-illustrated-by-pelicans-on-bicycles
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2025
 speakers: ["Simon Willison"]

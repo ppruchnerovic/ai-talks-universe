@@ -4,7 +4,7 @@ title: "USENIX Security '25 (Enigma Track) - AI Red Teaming and Automation: Expl
 slug: usenix-security-25-enigma-track-ai-red-teaming-and
 conference: usenix-security
 conference_name: "USENIX Security Symposium"
-category: "AI security"
+category: "Security conferences"
 edition: "USENIX"
 year: 2025
 speakers: []

@@ -4,7 +4,7 @@ title: "How Telemetry Data Moves: Lessons From Building a High-Performance Open 
 slug: how-telemetry-data-moves-lessons-from-building-a-high
 conference: kubecon
 conference_name: "KubeCon + CloudNativeCon"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "KubeCon EU 2026"
 year: 2026
 speakers: ["Eduardo Silva"]

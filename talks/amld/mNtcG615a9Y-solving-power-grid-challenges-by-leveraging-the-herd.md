@@ -4,7 +4,7 @@ title: "Solving power grid challenges by leveraging the herd intelligence | Brid
 slug: solving-power-grid-challenges-by-leveraging-the-herd
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Antoine Marot"]

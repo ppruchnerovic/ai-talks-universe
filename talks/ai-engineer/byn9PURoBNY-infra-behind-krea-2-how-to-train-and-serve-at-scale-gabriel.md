@@ -4,7 +4,7 @@ title: "Infra behind Krea 2: How to train and serve at scale — Gabriel Jorge M
 slug: infra-behind-krea-2-how-to-train-and-serve-at-scale-gabriel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Gabriel Jorge Menezes"]

@@ -4,7 +4,7 @@ title: "Devoxx Greece 2025 - Engineering Management in the AI Era by Dennis Neru
 slug: devoxx-greece-2025-engineering-management-in-the-ai-era-by
 conference: devoxx
 conference_name: "Devoxx"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Devoxx"
 year: 2025
 speakers: ["Dennis Nerush"]

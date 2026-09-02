@@ -4,7 +4,7 @@ title: "Build and ship faster with a developer-optimized experience on Windows |
 slug: build-and-ship-faster-with-a-developer-optimized-experience
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Craig Loewen", "Kayla Cinnamon"]

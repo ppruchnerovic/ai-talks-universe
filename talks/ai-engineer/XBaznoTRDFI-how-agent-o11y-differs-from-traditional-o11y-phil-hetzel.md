@@ -4,7 +4,7 @@ title: "How agent o11y differs from traditional o11y — Phil Hetzel, Braintrust
 slug: how-agent-o11y-differs-from-traditional-o11y-phil-hetzel
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Phil Hetzel"]

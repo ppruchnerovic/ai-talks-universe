@@ -4,7 +4,7 @@ title: "Agentic AI Security Is 10x Harder Than LLM Safety"
 slug: agentic-ai-security-is-10x-harder-than-llm-safety
 conference: mcp-dev-summit
 conference_name: "MCP Dev Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MCP Dev Summit NA 2026"
 year: 2026
 speakers: []

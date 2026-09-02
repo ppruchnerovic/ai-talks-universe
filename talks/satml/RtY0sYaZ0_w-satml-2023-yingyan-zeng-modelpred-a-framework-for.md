@@ -4,7 +4,7 @@ title: "SaTML 2023 - Yingyan Zeng - ModelPred: A Framework for Predicting Traine
 slug: satml-2023-yingyan-zeng-modelpred-a-framework-for
 conference: satml
 conference_name: "IEEE SaTML"
-category: "AI security"
+category: "Security conferences"
 edition: "SaTML 2023"
 year: 2023
 speakers: ["Yingyan Zeng"]

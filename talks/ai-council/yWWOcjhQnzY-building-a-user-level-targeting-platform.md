@@ -4,7 +4,7 @@ title: "Building a User-Level Targeting Platform"
 slug: building-a-user-level-targeting-platform
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2024
 speakers: []

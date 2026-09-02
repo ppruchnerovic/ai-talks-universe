@@ -4,7 +4,7 @@ title: "Teaching agents to pay: what devs need to know"
 slug: teaching-agents-to-pay-what-devs-need-to-know
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "World Congress 2026"
 year: 2026
 speakers: ["Benjamin Smith"]

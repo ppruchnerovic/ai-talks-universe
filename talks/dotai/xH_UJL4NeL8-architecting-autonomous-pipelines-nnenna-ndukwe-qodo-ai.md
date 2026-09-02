@@ -4,7 +4,7 @@ title: "Architecting autonomous pipelines - Nnenna Ndukwe - Qodo AI"
 slug: architecting-autonomous-pipelines-nnenna-ndukwe-qodo-ai
 conference: dotai
 conference_name: "dotAI"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "dot conferences"
 year: 2025
 speakers: ["Nnenna Ndukwe"]

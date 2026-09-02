@@ -4,7 +4,7 @@ title: "Panel discussion #1 | with Tim Dettmers, Johnathan Frankle, Julien Launa
 slug: panel-discussion-1-with-tim-dettmers-johnathan-frankle
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2023
 speakers: []

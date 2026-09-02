@@ -4,7 +4,7 @@ title: "Missing Data: A Synthetic Data Approach For Missing Data Imputation, Fab
 slug: missing-data-a-synthetic-data-approach-for-missing-data
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2023
 speakers: []

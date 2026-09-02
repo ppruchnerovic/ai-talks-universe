@@ -4,7 +4,7 @@ title: "Empowering AI Innovation Through Open Geospatial Ecosystems - Albi Wiede
 slug: empowering-ai-innovation-through-open-geospatial-ecosystems
 conference: lf-ai-dev
 conference_name: "AI_dev / Open Source Summit (Linux Foundation)"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "Open Source Summit EU 2025"
 year: 2025
 speakers: ["Albi Wiedersberg"]

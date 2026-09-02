@@ -4,7 +4,7 @@ title: "Why Software Development Sucks And 7 Mental Models To Help Fix It"
 slug: why-software-development-sucks-and-7-mental-models-to-help
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

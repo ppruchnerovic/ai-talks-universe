@@ -4,7 +4,7 @@ title: "Black Hat Europe 2025 | How We Turned AI's 'Web Browsing' Into A Gateway
 slug: black-hat-europe-2025-how-we-turned-ai-s-web-browsing-into
 conference: black-hat
 conference_name: "Black Hat"
-category: "AI security"
+category: "Security conferences"
 edition: "Black Hat"
 year: 2025
 speakers: []

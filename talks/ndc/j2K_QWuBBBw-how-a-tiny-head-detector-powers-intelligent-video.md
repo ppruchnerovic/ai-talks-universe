@@ -4,7 +4,7 @@ title: "How a Tiny Head Detector Powers Intelligent Video Conferencing - Sindri 
 slug: how-a-tiny-head-detector-powers-intelligent-video
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Sindri Ingolfsson"]

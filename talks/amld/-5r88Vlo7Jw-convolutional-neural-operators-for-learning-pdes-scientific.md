@@ -4,7 +4,7 @@ title: "Convolutional Neural Operators for learning PDEs | Scientific Machine Le
 slug: convolutional-neural-operators-for-learning-pdes-scientific
 conference: amld
 conference_name: "Applied Machine Learning Days"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AMLD"
 year: 2024
 speakers: ["Bogdan Raonic"]

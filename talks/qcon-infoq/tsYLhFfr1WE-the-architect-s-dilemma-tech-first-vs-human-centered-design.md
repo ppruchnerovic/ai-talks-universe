@@ -4,7 +4,7 @@ title: "The Architect's Dilemma: Tech-First vs. Human-Centered Design"
 slug: the-architect-s-dilemma-tech-first-vs-human-centered-design
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

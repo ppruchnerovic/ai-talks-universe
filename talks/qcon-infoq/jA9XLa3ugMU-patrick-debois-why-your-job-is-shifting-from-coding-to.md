@@ -4,7 +4,7 @@ title: "Patrick Debois: Why Your Job Is Shifting from Coding to Managing Agents"
 slug: patrick-debois-why-your-job-is-shifting-from-coding-to
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2026
 speakers: []

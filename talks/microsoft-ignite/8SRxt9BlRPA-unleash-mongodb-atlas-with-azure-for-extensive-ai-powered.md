@@ -4,7 +4,7 @@ title: "Unleash MongoDB Atlas with Azure for extensive AI-powered integration | 
 slug: unleash-mongodb-atlas-with-azure-for-extensive-ai-powered
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Paul Leury", "Azim Uddin"]

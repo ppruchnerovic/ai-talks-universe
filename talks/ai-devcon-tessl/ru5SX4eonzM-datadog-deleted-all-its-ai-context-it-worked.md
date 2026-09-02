@@ -4,7 +4,7 @@ title: "Datadog Deleted All Its AI Context. It Worked."
 slug: datadog-deleted-all-its-ai-context-it-worked
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

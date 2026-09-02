@@ -4,7 +4,7 @@ title: "Resolve cases faster in service with agentic CRM | BRK351"
 slug: resolve-cases-faster-in-service-with-agentic-crm-brk351
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2025"
 year: 2025
 speakers: ["Sparsha Chennarayapatna Sundaresh", "Lidia Daldoss", "Alan Ross"]

@@ -4,7 +4,7 @@ title: "Towards Autonomous Cyber-Defence: Using Co-Operative Decision Making for
 slug: towards-autonomous-cyber-defence-using-co-operative
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2024
 speakers: []

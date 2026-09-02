@@ -4,7 +4,7 @@ title: "Serverless Data Processing Architecture for Binary Analysis"
 slug: serverless-data-processing-architecture-for-binary-analysis
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2018
 speakers: []

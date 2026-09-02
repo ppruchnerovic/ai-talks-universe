@@ -4,7 +4,7 @@ title: "How to automate M365 copilot readiness and accelerate secure adoption | 
 slug: how-to-automate-m365-copilot-readiness-and-accelerate
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Matt Berg", "Dux Raymond Sy"]

@@ -4,7 +4,7 @@ title: "Imagine adopt and succeed with Insight’s AI Design Framework | BRKFP37
 slug: imagine-adopt-and-succeed-with-insights-ai-design-framework
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Meagan Gentry"]

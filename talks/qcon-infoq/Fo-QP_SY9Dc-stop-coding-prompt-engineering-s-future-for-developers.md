@@ -4,7 +4,7 @@ title: "Stop Coding? Prompt Engineering's Future for Developers"
 slug: stop-coding-prompt-engineering-s-future-for-developers
 conference: qcon-infoq
 conference_name: "QCon / InfoQ Dev Summit"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "InfoQ"
 year: 2025
 speakers: []

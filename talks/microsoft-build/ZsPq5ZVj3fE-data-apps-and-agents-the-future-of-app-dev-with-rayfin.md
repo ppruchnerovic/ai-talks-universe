@@ -4,7 +4,7 @@ title: "Data, apps, and agents: the future of app dev with Rayfin | BRK225"
 slug: data-apps-and-agents-the-future-of-app-dev-with-rayfin
 conference: microsoft-build
 conference_name: "Microsoft Build"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Build 2026"
 year: 2026
 speakers: ["Ben Zulauf", "Sachin Patney"]

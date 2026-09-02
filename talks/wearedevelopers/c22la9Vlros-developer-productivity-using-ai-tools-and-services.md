@@ -4,7 +4,7 @@ title: "Developer Productivity Using AI Tools and Services"
 slug: developer-productivity-using-ai-tools-and-services
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2025
 speakers: []

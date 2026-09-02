@@ -4,7 +4,7 @@ title: "OpenAI’s Responses API: A New Foundation for Building with Models & To
 slug: openais-responses-api-a-new-foundation-for-building-with
 conference: ai-council
 conference_name: "AI Council (formerly Data Council)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Data Council / AI Council"
 year: 2025
 speakers: ["Nikunj Handa"]

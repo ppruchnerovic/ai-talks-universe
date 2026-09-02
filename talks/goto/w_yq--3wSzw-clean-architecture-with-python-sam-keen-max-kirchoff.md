@@ -4,7 +4,7 @@ title: "Clean Architecture with Python • Sam Keen & Max Kirchoff"
 slug: clean-architecture-with-python-sam-keen-max-kirchoff
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Sam Keen", "Max Kirchoff"]

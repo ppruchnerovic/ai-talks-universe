@@ -4,7 +4,7 @@ title: "The Climate of Talent: From Microtrends to Macro Forces"
 slug: the-climate-of-talent-from-microtrends-to-macro-forces
 conference: wearedevelopers
 conference_name: "WeAreDevelopers World Congress"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "WeAreDevelopers"
 year: 2026
 speakers: []

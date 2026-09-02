@@ -4,7 +4,7 @@ title: "Platform Engineering • Ajay Chankramath & Nic Cheneweth • GOTO 2026"
 slug: platform-engineering-ajay-chankramath-nic-cheneweth-goto
 conference: goto
 conference_name: "GOTO Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "GOTO"
 year: 2026
 speakers: ["Ajay Chankramath", "Nic Cheneweth"]

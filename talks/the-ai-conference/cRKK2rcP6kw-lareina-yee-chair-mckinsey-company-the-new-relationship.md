@@ -4,7 +4,7 @@ title: "Lareina Yee, Chair, McKinsey & Company: The New Relationship Between Mac
 slug: lareina-yee-chair-mckinsey-company-the-new-relationship
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: []

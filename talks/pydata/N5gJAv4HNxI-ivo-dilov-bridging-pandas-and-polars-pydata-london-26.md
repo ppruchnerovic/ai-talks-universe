@@ -4,7 +4,7 @@ title: "Ivo Dilov - Bridging Pandas and Polars | Pydata London 26"
 slug: ivo-dilov-bridging-pandas-and-polars-pydata-london-26
 conference: pydata
 conference_name: "PyData"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "PyData"
 year: 2026
 speakers: ["Ivo Dilov"]

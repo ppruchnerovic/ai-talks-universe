@@ -4,7 +4,7 @@ title: "Top Mistakes Developers Make When Building AI Voice Agents — Andrii Ma
 slug: top-mistakes-developers-make-when-building-ai-voice-agents
 conference: the-ai-conference
 conference_name: "The AI Conference"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "The AI Conference"
 year: 2025
 speakers: ["Andrii Mazur"]

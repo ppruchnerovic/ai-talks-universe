@@ -4,7 +4,7 @@ title: "No More Screenshots. Web MCP Lets Agents Talk to Your Website Directly"
 slug: no-more-screenshots-web-mcp-lets-agents-talk-to-your
 conference: ai-devcon-tessl
 conference_name: "AI DevCon (Tessl)"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "Tessl"
 year: 2026
 speakers: []

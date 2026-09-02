@@ -4,7 +4,7 @@ title: "Inside the Foundational Data Layer | Vishakha Gupta-Cledat, ApertureData
 slug: inside-the-foundational-data-layer-vishakha-gupta-cledat
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2025
 speakers: []

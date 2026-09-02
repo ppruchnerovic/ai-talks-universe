@@ -4,7 +4,7 @@ title: "Ep.39 Meeting Jun 18 2025: UN Panel, Compass Tool Progress & AI Red Team
 slug: ep-39-meeting-jun-18-2025-un-panel-compass-tool-progress-ai
 conference: owasp-genai
 conference_name: "OWASP GenAI Security Project"
-category: "AI security"
+category: "Security conferences"
 edition: "OWASP GenAI Security"
 year: 2025
 speakers: []

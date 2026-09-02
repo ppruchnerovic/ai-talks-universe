@@ -4,7 +4,7 @@ title: "Claws Out: Securing and Building with OpenClaw - Nick Taylor, Pomerium"
 slug: claws-out-securing-and-building-with-openclaw-nick-taylor
 conference: ai-engineer
 conference_name: "AI Engineer"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "AI Engineer"
 year: 2026
 speakers: ["Nick Taylor"]

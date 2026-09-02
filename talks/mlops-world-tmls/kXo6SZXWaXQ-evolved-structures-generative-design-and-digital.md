@@ -4,7 +4,7 @@ title: "Evolved Structures: Generative Design and Digital Manufacturing at NASA"
 slug: evolved-structures-generative-design-and-digital
 conference: mlops-world-tmls
 conference_name: "MLOps World / Toronto Machine Learning Summit"
-category: "AI engineering & agents"
+category: "Practitioner AI conferences"
 edition: "MLOps World / TMLS"
 year: 2023
 speakers: []

@@ -4,7 +4,7 @@ title: "AI and entertainment with Trevor Noah"
 slug: ai-and-entertainment-with-trevor-noah
 conference: web-summit
 conference_name: "Web Summit"
-category: "Industry & business"
+category: "Business & industry events"
 edition: "Web Summit"
 year: 2024
 speakers: []

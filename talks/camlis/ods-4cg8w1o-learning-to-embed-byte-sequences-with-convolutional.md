@@ -4,7 +4,7 @@ title: "Learning to Embed Byte Sequences with Convolutional Autoencoders (CAMLIS
 slug: learning-to-embed-byte-sequences-with-convolutional
 conference: camlis
 conference_name: "CAMLIS"
-category: "AI security"
+category: "Security conferences"
 edition: "CAMLIS"
 year: 2022
 speakers: []

@@ -4,7 +4,7 @@ title: "Best practices for building and monetizing your AI applications | BRK136
 slug: best-practices-for-building-and-monetizing-your-ai
 conference: microsoft-ignite
 conference_name: "Microsoft Ignite"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "Ignite 2024"
 year: 2024
 speakers: ["Nanditha Ram", "Alois Reitbauer", "Dave Uppal"]

@@ -4,7 +4,7 @@ title: "AWS re:Invent 2025 - Maximize ROI: How Octus migrated CreditAI from Azur
 slug: aws-re-invent-2025-maximize-roi-how-octus-migrated-creditai
 conference: aws-reinvent
 conference_name: "AWS re:Invent"
-category: "Vendor & platform"
+category: "Vendor events"
 edition: "re:Invent 2025 breakouts"
 year: 2025
 speakers: []

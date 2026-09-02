@@ -4,7 +4,7 @@ title: "Advanced Autonomous AI Agents: Memory, Collaboration and Evolution in Ac
 slug: advanced-autonomous-ai-agents-memory-collaboration-and
 conference: ndc
 conference_name: "NDC Conferences"
-category: "Software dev with AI tracks"
+category: "General software conferences"
 edition: "NDC"
 year: 2026
 speakers: ["Andreas Wänqvist"]
