@@ -5,7 +5,7 @@ Nothing in the repository requires this. FTS5 in talks.db answers every query
 on the standard library; what it cannot do is find a talk that means the
 question without saying it — "keeping agents from going off the rails" shares
 no stem with "guardrails" or "reliability". This module adds that, and only
-that, on three rules from SEARCH-OPTIONS.md:
+that, on three rules:
 
   1. Opt-in. The vectors are built by tools/install_semantic.sh and by nothing
      else — never by atu.db_stale()'s auto-rebuild, never on first query.

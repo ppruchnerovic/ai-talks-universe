@@ -581,7 +581,7 @@ function scoreMeta(t, terms, phrases, described) {
   return { score: s, matched, deep };
 }
 
-const META_FIELDS = ['title', 'tags', 'speakers', 'conference', 'category', 'abstract'];
+const META_FIELDS = ['title', 'tags', 'speakers', 'conference', 'abstract'];
 const fieldText = (t, field) =>
   (field === 'title' ? t.t || '' : field === 'speakers' ? (t.s || []).join(', ') : t._hay).toLowerCase();
 

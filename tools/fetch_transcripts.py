@@ -14,10 +14,16 @@ Four routes, tried cheapest first:
 
   3. supadata.ai — exact timings fetched from *their* IPs, so the per-IP quota
      below does not apply. Needs SUPADATA_API_KEY and costs a credit a talk.
+     A 401/402 (bad key, no credits) retires the route for the run: under
+     --source auto the talk falls through to kome, under exact it ends the
+     round.
 
   4. kome.ai — also fetches server-side, free, but returns plain text with no
      timing. Starts are interpolated from word position ("timing":
      "estimated"), which lands you near a quote rather than exactly on it.
+     Its response names no caption track either, so a kome record's
+     "language" is "en" by assumption — the one route where that field is
+     not reported by the supplier.
 
 READ THIS BEFORE A BIG RUN. YouTube meters the caption endpoint per egress IP
 with an allowance that refills over hours; a consumer connection yields roughly
@@ -355,6 +361,9 @@ def fetch_kome(video_id: str) -> tuple[list[dict], str, float]:
     total = kome_length_seconds(str(data.get("length") or ""))
     lines = [l for l in text.splitlines() if l.strip()] or [text]
     # Shared with infoq.py, the other route whose text arrives without timings.
+    # The response carries `transcript`, `length` and `hasMore` — no language
+    # field, and the request names none — so "en" here is an assumption, not
+    # an observation. The other routes report the track they actually read.
     return atu.segment_plain_text(lines, total), "en", total
 
 
@@ -1004,8 +1013,10 @@ def main() -> None:
     ap.add_argument("--limit", type=int, help="only attempt the first N talks")
     ap.add_argument("--workers", type=int, default=None,
                     help="parallel fetches (default: one per egress identity, min 2, "
-                         "max 8). Each identity is still used by one worker at a "
-                         "time, so raising this past the pool size only queues")
+                         f"max 8; {OFF_IP_WORKERS} for --source supadata/kome, which "
+                         "lease no identity). On the our-IP sources each identity "
+                         "is still used by one worker at a time, so raising this "
+                         "past the pool size only queues")
     ap.add_argument("--retry-misses", action="store_true")
     ap.add_argument("--probe", action="store_true",
                     help="fetch one transcript per egress and report what works")

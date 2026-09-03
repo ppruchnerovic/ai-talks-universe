@@ -227,6 +227,21 @@ try:
 except Exception as e:
     check("a block is not overridden by a same-IP route", F.is_block(e), type(e).__name__)
 
+# 11. the account being refused is not a block: under auto the talk falls
+# through to kome (estimated); under exact it propagates and ends the round.
+NOCREDIT = F.AccountError("402 payment required")
+calls.clear(); patch(yta=fake("yt", MISS), ytdlp=fake("ytdlp", MISS), supa=fake("supa", NOCREDIT))
+r = F.fetch_one(eg, "v", "auto", "KEY")
+check("auto: AccountError falls through to kome",
+      calls == ["yt","ytdlp","supa","kome"] and r[4] == "kome" and r[3] == "estimated", calls)
+calls.clear(); patch(yta=fake("yt", MISS), ytdlp=fake("ytdlp", MISS), supa=fake("supa", NOCREDIT))
+try:
+    F.fetch_one(eg, "v", "exact", "KEY"); check("exact: AccountError propagates", False)
+except Exception as e:
+    check("exact: AccountError propagates",
+          isinstance(e, F.AccountError) and not F.is_block(e) and not F.about_the_video(e)
+          and "kome" not in calls, (type(e).__name__, calls))
+
 print("\n-- supadata: response shapes and error classes --")
 class Resp:
     def __init__(self, status, body): self.status, self._b = status, json.dumps(body).encode()
@@ -434,6 +449,13 @@ check("a 404 is a verdict on the video", isinstance(e, LookupError) and F.about_
       f"{type(e).__name__}: {e}")
 e = kome_with(http(500), Resp(200, {"transcript": "hello there", "length": "1m 0s"}))
 check("one 5xx is retried", e is None, e)
+# kome names no caption track, so the language is assumed rather than read:
+# the docstring says so, and this pins it so a change there is deliberate.
+urllib.request.urlopen = lambda req, timeout=None: Resp(
+    200, {"transcript": "hello there\nsecond line", "length": "1m 0s"})
+segs_k, lang_k, total_k = F.fetch_kome("VID")
+check("kome reports the assumed 'en', never a read track",
+      lang_k == "en" and total_k == 60.0 and len(segs_k) >= 1, (lang_k, total_k))
 
 print("\n-- supadata: 404 is a per-video miss, route stays on --")
 serve([("mode=native", http(404, b'{"error":"video-not-found"}'))])

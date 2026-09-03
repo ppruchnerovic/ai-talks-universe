@@ -249,6 +249,7 @@ together can ask either.
     ├── test_infoq.py              offline checks for the InfoQ fold-in
     ├── test_speakers.py           offline checks for the speaker extraction
     ├── test_topics.py             offline checks for the topic rules and the boilerplate filter
+    ├── test_semantic.py           offline checks for the semantic layer's fusion and its absence
     ├── test_stem.py               the Python and JavaScript stemmers agree
     └── uitest/                    browser tests for index.html
 ```
@@ -270,7 +271,7 @@ of them are generated from the same run.
 ### In a browser
 
 <https://ppruchnerovic.github.io/ai-talks-universe/> — type a subject, filter
-by conference, conference type, topic or year, sort by relevance / newest / title,
+by conference, conference type, topic or year, sort by relevance / newest / title / shortest / longest,
 click a topic chip on a card to filter to that topic, and click
 **Find this in the talk** to jump to the exact seconds where a phrase is
 spoken. That link only appears for talks that have a transcript, and only once
@@ -869,7 +870,7 @@ looks exactly like a search with no results.
 ```bash
 cd tools/uitest
 npm install            # playwright + chromium, ignored by git
-node run.js            # 192 checks, about four minutes
+node run.js            # 229 checks, about four minutes
 node run.js search filters      # just those suites
 ```
 
@@ -881,7 +882,7 @@ and exits non-zero if anything failed. Every check prints what it actually saw.
 | `load` | catalogue loads, filters built from the data, one card end to end |
 | `search` | every field, phrases, prefixes, stems, relaxation, the description tail beyond the clip, the transcript layer, tokenising |
 | `controls` | pagination, description unfold, tag chips, `/` shortcut |
-| `filters` | conference / conference type / topic / year, the three sorts, Reset, the shareable hash, topic chips |
+| `filters` | conference / conference type / topic / year, the five sorts, Reset, the shareable hash, topic chips |
 | `moments` | "Find this in the talk" — ranking, deep links, caching |
 | `resilience` | missing data at each layer, hostile queries, a 390px phone |
 | `a11y` | accessible names, keyboard reach, announcements, contrast |

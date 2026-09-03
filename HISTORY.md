@@ -1510,8 +1510,9 @@ which is what it had meant all along.
 
 ## Search enrichment — 2026-09-02
 
-`SEARCH-OPTIONS.md` — an exploration of what the three search surfaces could
-gain without anything to install — was built in one session, in four parallel
+`SEARCH-OPTIONS.md` (since removed; its open items moved to `TODO.md`) — an
+exploration of what the three search surfaces could gain without anything to
+install — was built in one session, in four parallel
 strands with disjoint files, plus the optional semantic layer it costed under
 "Tier B". What was skipped, and why, is at the top of that file.
 

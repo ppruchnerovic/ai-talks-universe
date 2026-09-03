@@ -118,7 +118,9 @@ L.suite('resilience', async browser => {
     L.check('script injection through the query does not execute',
       !(await page.evaluate(() => window.__x === 1)));
 
-    // highlight() builds a RegExp out of the query terms.
+    // highlight() walks the text's tokens and compares each to the query's
+    // words and stems; nothing typed is ever compiled into a RegExp, and these
+    // inputs must go on being treated literally.
     for (const q of ['c++ (*)', 'a\\b', '[test]', '$^.*+?']) {
       await L.search(page, q);
       L.check(`regex metacharacters in "${q}" are treated literally`,
